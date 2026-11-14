@@ -1,0 +1,62 @@
+﻿Version 0.1.1 – vollständige Varianten-CSVs verwenden. Noch nicht ausgeführt.
+
+DDON – Darstellungsprotokoll (noch nicht ausgeführt)
+Auflösung: __________  Fenstermodus: __________  UI-Skalierung: __________
+Eingabegerät: __________  Client-/Launcherstand: __________
+
+00-englische-basis
+char_sel_add_newchar: Create
+  Sichtbar an welcher Stelle: ______________________________
+  Vollständig / abgeschnitten / Umbruch / verkleinert / nicht sichtbar: __________
+  Umlaute/ß und Überlagerungen: ____________________________
+char_sel_decide: Confirm
+  Sichtbar an welcher Stelle: ______________________________
+  Vollständig / abgeschnitten / Umbruch / verkleinert / nicht sichtbar: __________
+  Umlaute/ß und Überlagerungen: ____________________________
+char_sel_cancel: Cancel
+  Sichtbar an welcher Stelle: ______________________________
+  Vollständig / abgeschnitten / Umbruch / verkleinert / nicht sichtbar: __________
+  Umlaute/ß und Überlagerungen: ____________________________
+
+01-kurz
+char_sel_add_newchar: Neu
+  Sichtbar an welcher Stelle: ______________________________
+  Vollständig / abgeschnitten / Umbruch / verkleinert / nicht sichtbar: __________
+  Umlaute/ß und Überlagerungen: ____________________________
+char_sel_decide: OK
+  Sichtbar an welcher Stelle: ______________________________
+  Vollständig / abgeschnitten / Umbruch / verkleinert / nicht sichtbar: __________
+  Umlaute/ß und Überlagerungen: ____________________________
+char_sel_cancel: Zurück
+  Sichtbar an welcher Stelle: ______________________________
+  Vollständig / abgeschnitten / Umbruch / verkleinert / nicht sichtbar: __________
+  Umlaute/ß und Überlagerungen: ____________________________
+
+02-normal
+char_sel_add_newchar: Erstellen
+  Sichtbar an welcher Stelle: ______________________________
+  Vollständig / abgeschnitten / Umbruch / verkleinert / nicht sichtbar: __________
+  Umlaute/ß und Überlagerungen: ____________________________
+char_sel_decide: Bestätigen
+  Sichtbar an welcher Stelle: ______________________________
+  Vollständig / abgeschnitten / Umbruch / verkleinert / nicht sichtbar: __________
+  Umlaute/ß und Überlagerungen: ____________________________
+char_sel_cancel: Abbrechen
+  Sichtbar an welcher Stelle: ______________________________
+  Vollständig / abgeschnitten / Umbruch / verkleinert / nicht sichtbar: __________
+  Umlaute/ß und Überlagerungen: ____________________________
+
+03-lang
+char_sel_add_newchar: Neuen Charakter für dieses Konto erstellen
+  Sichtbar an welcher Stelle: ______________________________
+  Vollständig / abgeschnitten / Umbruch / verkleinert / nicht sichtbar: __________
+  Umlaute/ß und Überlagerungen: ____________________________
+char_sel_decide: Auswahl anschließend bestätigen
+  Sichtbar an welcher Stelle: ______________________________
+  Vollständig / abgeschnitten / Umbruch / verkleinert / nicht sichtbar: __________
+  Umlaute/ß und Überlagerungen: ____________________________
+char_sel_cancel: Vorgang ohne Änderungen abbrechen
+  Sichtbar an welcher Stelle: ______________________________
+  Vollständig / abgeschnitten / Umbruch / verkleinert / nicht sichtbar: __________
+  Umlaute/ß und Überlagerungen: ____________________________
+

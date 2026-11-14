@@ -1,0 +1,166 @@
+{
+  "package": "DDON Character Select Length Test",
+  "version": "0.1.1",
+  "date": "2026-11-14",
+  "supersedes": "0.1.0 partial CSV package",
+  "source_repository": "Maxunit/DDON-translation",
+  "source_commit": "6a6b28e6ff55285acc9d2950eb6a9498e9e7bc13",
+  "source_bytes": 26968829,
+  "source_sha256": "586da99b2b8c4a4b160abd0cd62ae4282c505a16a922f4fd84e6b5e51982fb99",
+  "data_records_per_csv": 131125,
+  "format": "Complete English source CSV; three MsgEn byte spans changed per German variant",
+  "changed_keys": [
+    "char_sel_add_newchar",
+    "char_sel_decide",
+    "char_sel_cancel"
+  ],
+  "target_arc": "\\ui\\uGUICharacterSelect.arc",
+  "target_gmd": "ui\\00_message\\ui\\CharacterSelect_res.gmd",
+  "installation_performed": false,
+  "client_files_changed": false,
+  "english_baseline_scope": "Exact complete repository CSV; restores the source English translation data, not a byte-exact installed ARC backup",
+  "files": [
+    {
+      "path": "00-englische-basis/gmd.csv",
+      "bytes": 26968829,
+      "sha256": "586da99b2b8c4a4b160abd0cd62ae4282c505a16a922f4fd84e6b5e51982fb99",
+      "data_records": 131125,
+      "changed_fields": 0
+    },
+    {
+      "path": "01-kurz/gmd.csv",
+      "bytes": 26968822,
+      "sha256": "2fe085eb05bee6d766152d5833e2f163d55db213f7947b6b887a26ea5223c971",
+      "data_records": 131125,
+      "changed_fields": 3
+    },
+    {
+      "path": "02-normal/gmd.csv",
+      "bytes": 26968839,
+      "sha256": "2eb180734efe1bba04798ca4ce8701a936be2e64815e622cf69d61721686b502",
+      "data_records": 131125,
+      "changed_fields": 3
+    },
+    {
+      "path": "03-lang/gmd.csv",
+      "bytes": 26968920,
+      "sha256": "a8c636f5f9084ee217439df18c5f822b1eb9dff27c29d805b97ba24cd701007e",
+      "data_records": 131125,
+      "changed_fields": 3
+    }
+  ],
+  "variants": [
+    {
+      "folder": "00-englische-basis",
+      "labels": [
+        {
+          "key": "char_sel_add_newchar",
+          "text": "Create",
+          "characters": 6,
+          "utf8_bytes": 6
+        },
+        {
+          "key": "char_sel_decide",
+          "text": "Confirm",
+          "characters": 7,
+          "utf8_bytes": 7
+        },
+        {
+          "key": "char_sel_cancel",
+          "text": "Cancel",
+          "characters": 6,
+          "utf8_bytes": 6
+        }
+      ]
+    },
+    {
+      "folder": "01-kurz",
+      "labels": [
+        {
+          "key": "char_sel_add_newchar",
+          "text": "Neu",
+          "characters": 3,
+          "utf8_bytes": 3
+        },
+        {
+          "key": "char_sel_decide",
+          "text": "OK",
+          "characters": 2,
+          "utf8_bytes": 2
+        },
+        {
+          "key": "char_sel_cancel",
+          "text": "Zurück",
+          "characters": 6,
+          "utf8_bytes": 7
+        }
+      ]
+    },
+    {
+      "folder": "02-normal",
+      "labels": [
+        {
+          "key": "char_sel_add_newchar",
+          "text": "Erstellen",
+          "characters": 9,
+          "utf8_bytes": 9
+        },
+        {
+          "key": "char_sel_decide",
+          "text": "Bestätigen",
+          "characters": 10,
+          "utf8_bytes": 11
+        },
+        {
+          "key": "char_sel_cancel",
+          "text": "Abbrechen",
+          "characters": 9,
+          "utf8_bytes": 9
+        }
+      ]
+    },
+    {
+      "folder": "03-lang",
+      "labels": [
+        {
+          "key": "char_sel_add_newchar",
+          "text": "Neuen Charakter für dieses Konto erstellen",
+          "characters": 42,
+          "utf8_bytes": 43
+        },
+        {
+          "key": "char_sel_decide",
+          "text": "Auswahl anschließend bestätigen",
+          "characters": 31,
+          "utf8_bytes": 33
+        },
+        {
+          "key": "char_sel_cancel",
+          "text": "Vorgang ohne Änderungen abbrechen",
+          "characters": 33,
+          "utf8_bytes": 34
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "complete_record_count": "passed: 131125 records in each CSV",
+    "full_parsed_row_comparison": "passed: only the three selected MsgEn fields differ",
+    "other_source_bytes_preserved": "passed: exact reconstruction after undoing the three field edits",
+    "english_baseline_byte_identical": "passed",
+    "utf8_and_special_characters": "passed",
+    "launcher_import": "not performed",
+    "in_game_rendering": "not performed"
+  },
+  "publication": {
+    "repository": "Maxunit/DDON-translation",
+    "branch": "test/charselect-de-0.1.1",
+    "prefix": "German/UI-Tests/CharacterSelect",
+    "raw_urls": {
+      "00-englische-basis": "https://raw.githubusercontent.com/Maxunit/DDON-translation/refs/heads/test/charselect-de-0.1.1/German/UI-Tests/CharacterSelect/00-englische-basis/gmd.csv",
+      "01-kurz": "https://raw.githubusercontent.com/Maxunit/DDON-translation/refs/heads/test/charselect-de-0.1.1/German/UI-Tests/CharacterSelect/01-kurz/gmd.csv",
+      "02-normal": "https://raw.githubusercontent.com/Maxunit/DDON-translation/refs/heads/test/charselect-de-0.1.1/German/UI-Tests/CharacterSelect/02-normal/gmd.csv",
+      "03-lang": "https://raw.githubusercontent.com/Maxunit/DDON-translation/refs/heads/test/charselect-de-0.1.1/German/UI-Tests/CharacterSelect/03-lang/gmd.csv"
+    }
+  }
+}
