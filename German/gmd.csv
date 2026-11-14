@@ -246105,44 +246105,43 @@ activates the following effects:
 22,CALI_MSG_TITLE_E,Button Calibration,Button Calibration,ui\00_message\ui\Calibration_res_win.gmd,\ui\uGUICalibration.arc,uGUICalibration.arc,22,,Options
 21,CALI_MSG_TITLE_J,ボタンキャリブレーション,Button Calibration,ui\00_message\ui\Calibration_res_win.gmd,\ui\uGUICalibration.arc,uGUICalibration.arc,21,,Options
 20,char_sel_add_newchar,新規作成,Neu,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,20,,Character Select Screen
-24,char_sel_affiliation_clan,所属クラン,Affiliated Clan,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,24,,Character Select Screen
-19,char_sel_announce_charover,キャラクター作成上限です,You have the maximum amount of characters.,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,19,,Character Select Screen
-16,char_sel_bonus,Course,Course,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,16,,Character Select Screen
-23,char_sel_button_clan_notice,クランへの通知設定,Clan Notification Setting,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,23,,Character Select Screen
-22,char_sel_button_rota,カメラ操作,Camera Control,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,22,,Character Select Screen
-21,char_sel_button_zoom,モデル回転<PADM> / ズーム</PADM>,Rotate<PADM>  / Zoom</PADM>,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,21,,Character Select Screen
+24,char_sel_affiliation_clan,所属クラン,Clan,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,24,,Character Select Screen
+19,char_sel_announce_charover,キャラクター作成上限です,Maximale Charakteranzahl erreicht.,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,19,,Character Select Screen
+16,char_sel_bonus,Course,Boni,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,16,,Character Select Screen
+23,char_sel_button_clan_notice,クランへの通知設定,Clan-Benachrichtigung,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,23,,Character Select Screen
+22,char_sel_button_rota,カメラ操作,Kamerasteuerung,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,22,,Character Select Screen
+21,char_sel_button_zoom,モデル回転<PADM> / ズーム</PADM>,Drehen<PADM>  / Zoomen</PADM>,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,21,,Character Select Screen
 10,char_sel_cancel,キャンセル,Abbrechen,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,10,,Character Select Screen
 28,char_sel_clan_notice_conf,"クランメンバーへ自分のステータスを通知しますか？
-※この項目はゲーム設定からいつでも変更できます","Would you like to send your status to clan
-members?
-※This can be changed any time from the game
-settings.",ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,28,,Character Select Screen
-30,char_sel_clan_notice_conf_no,通知を行わない,Do not notify,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,30,,Character Select Screen
-29,char_sel_clan_notice_conf_yes,通知を行う,Notify,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,29,,Character Select Screen
-25,char_sel_clan_notice_info,クランメンバーへ自分のステータスを通知する,Provide Status to Your Clan,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,25,,Character Select Screen
-8,char_sel_code,確認コード：,Confirmation Code:,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,8,,Character Select Screen
-7,char_sel_code_text,確認コード <COL AA1414><VAL></COL> を入力してください,Please enter the confirmation code: <COL AA1414><VAL></COL>,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,7,,Character Select Screen
+※この項目はゲーム設定からいつでも変更できます","Status an Clanmitglieder senden?
+Diese Einstellung lässt sich jederzeit
+in den Spieleinstellungen ändern.",ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,28,,Character Select Screen
+30,char_sel_clan_notice_conf_no,通知を行わない,Nicht senden,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,30,,Character Select Screen
+29,char_sel_clan_notice_conf_yes,通知を行う,Senden,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,29,,Character Select Screen
+25,char_sel_clan_notice_info,クランメンバーへ自分のステータスを通知する,Status an den Clan senden,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,25,,Character Select Screen
+8,char_sel_code,確認コード：,Bestätigungscode:,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,8,,Character Select Screen
+7,char_sel_code_text,確認コード <COL AA1414><VAL></COL> を入力してください,Code <COL AA1414><VAL></COL> eingeben.,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,7,,Character Select Screen
 9,char_sel_decide,決定,Bestätigen,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,9,,Character Select Screen
-11,char_sel_del,削除,Delete,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,11,,Character Select Screen
-13,char_sel_del_alert,を削除します,Will Delete,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,13,,Character Select Screen
+11,char_sel_del,削除,Löschen,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,11,,Character Select Screen
+13,char_sel_del_alert,を削除します, wird gelöscht.,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,13,,Character Select Screen
 5,char_sel_del_chara_select,"削除するキャラクターを選択してください
-削除したキャラクターは二度と復活できません","Please select the character to be deleted.
-The deleted character cannot be restored.",ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,5,,Character Select Screen
-15,char_sel_del_error,確認コードが間違っています,The confirmation code is incorrect.,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,15,,Character Select Screen
-14,char_sel_del_finish,キャラクターの削除が完了しました,Character deletion is complete.,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,14,,Character Select Screen
+削除したキャラクターは二度と復活できません","Charakter zum Löschen auswählen.
+Wiederherstellung ist ausgeschlossen.",ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,5,,Character Select Screen
+15,char_sel_del_error,確認コードが間違っています,Der Bestätigungscode ist falsch.,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,15,,Character Select Screen
+14,char_sel_del_finish,キャラクターの削除が完了しました,Charakter gelöscht.,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,14,,Character Select Screen
 6,char_sel_del_info,"
 <COL ffdc78>未使用の黄金石や<OPCS>等もすべて失われます</COL>","
-<COL ffdc78>All unused Golden Gemstones and
-<OPCS>, etc., will be lost.</COL>",ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,6,,Character Select Screen
-4,char_sel_delete,キャラクターの削除,Delete,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,4,,Character Select Screen
-18,char_sel_fourwords,（半角英数4文字）,(4 alphanumeric chars),ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,18,,Character Select Screen
-0,char_sel_index_en,Character Select,Character Select,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,0,,Character Select Screen
+<COL ffdc78>Auch ungenutzte Goldsteine und
+<OPCS> gehen vollständig verloren.</COL>",ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,6,,Character Select Screen
+4,char_sel_delete,キャラクターの削除,Charakter löschen,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,4,,Character Select Screen
+18,char_sel_fourwords,（半角英数4文字）,"(4 Zeichen: A-Z, a-z, 0-9)",ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,18,,Character Select Screen
+0,char_sel_index_en,Character Select,Charakterauswahl,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,0,,Character Select Screen
 1,char_sel_index_jp,キャラクター選択, ,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,1,,Character Select Screen
-17,char_sel_no_bonus,発動中の<OPCS>はありません,There is no <OPCS> currently active.,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,17,,Character Select Screen
-27,char_sel_off,OFF,OFF,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,27,,Character Select Screen
-26,char_sel_on,ON,ON,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,26,,Character Select Screen
-12,char_sel_plz_wait,しばらくお待ちください,Please wait.,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,12,,Character Select Screen
-3,char_sel_profile,Profile,Profile,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,3,,Character Select Screen
+17,char_sel_no_bonus,発動中の<OPCS>はありません,<OPCS> derzeit nicht aktiv.,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,17,,Character Select Screen
+27,char_sel_off,OFF,AUS,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,27,,Character Select Screen
+26,char_sel_on,ON,AN,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,26,,Character Select Screen
+12,char_sel_plz_wait,しばらくお待ちください,Bitte warten.,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,12,,Character Select Screen
+3,char_sel_profile,Profile,Profil,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,3,,Character Select Screen
 2,char_sel_status,Status,Status,ui\00_message\ui\CharacterSelect_res.gmd,\ui\uGUICharacterSelect.arc,uGUICharacterSelect.arc,2,,Character Select Screen
 17,CHAT_MSG_INPUTMODE_JP,あ,Jp,ui\00_message\ui\Chat_res.gmd,\ui\GUIGame.arc,GUIGame.arc,17,,Chatbox Option
 17,CHAT_MSG_INPUTMODE_JP,あ,Jp,ui\00_message\ui\Chat_res.gmd,\ui\uGUIChat.arc,uGUIChat.arc,17,,Chatbox Option
