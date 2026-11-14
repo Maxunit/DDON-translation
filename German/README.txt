@@ -1,21 +1,27 @@
-﻿DDON – laufende deutsche UI-Testfassung
+DDON – deutsche Charakterauswahl (Testfassung)
 
 Feste Custom-URL für den Launcher:
 https://raw.githubusercontent.com/Maxunit/DDON-translation/refs/heads/test/charselect-de-0.1.1/German/gmd.csv
 
-Diese URL ab jetzt für die laufenden Tests beibehalten. Künftige Änderungen werden in derselben Datei unter demselben Branch veröffentlicht; dafür keine neue Varianten-URL wählen.
-Die CSV enthält alle 131.125 Einträge des englischen Ausgangsstands. Aktuell sind genau drei Beschriftungen der Charakterauswahl geändert:
-Create / char_sel_add_newchar: Neu
-Confirm / char_sel_decide: Bestätigen
-Cancel / char_sel_cancel: Abbrechen
+Diese URL beibehalten. German/gmd.csv ist eine vollständige CSV mit 131.125 Datensätzen. 31 Einträge der CharacterSelect_res.gmd sind bearbeitet: 29 deutsche Texte gegenüber Englisch; Status und die absichtlich unterdrückte zweite Überschrift (ein Leerzeichen) bleiben erhalten.
 
-Neu wurde nach dem Vergleich mit Erstellen vom Benutzer gewählt. Confirm und Cancel gehören laut Benutzer zum Löschablauf der Charakterauswahl; Bestätigen und Abbrechen wurden für diesen Kontext ausdrücklich angenommen.
-Deutsch steht weiterhin in MsgEn, also der englischen Zielspalte. Alle übrigen Inhalte bleiben auf dem englischen Ausgangsstand.
+Neu, Bestätigen und Abbrechen wurden vom Benutzer gemeinsam im Client geprüft und korrekt angezeigt. Die übrigen 26 Änderungen sind noch im Client zu prüfen: Breite, Umbrüche, Umlaute sowie Position des Löschhinweises beim Charakternamen.
 
-Die alten kurz/normal/lang-Dateien unter UI-Tests/CharacterSelect sind Vergleichsstände. Sie sind nicht mehr die laufende Update-URL.
-Die vollständige englische Basis bleibt für einen gezielten Rückwechsel verfügbar. Ein URL-Wechsel dorthin kann laut Benutzer wieder den vollständigen Patchablauf auslösen:
-https://raw.githubusercontent.com/Maxunit/DDON-translation/refs/heads/test/charselect-de-0.1.1/German/UI-Tests/CharacterSelect/00-englische-basis/gmd.csv
+Pflege und automatische Erstellung
+Die Texte stehen in German/translations/character-select.json. Für jeden Eintrag sind Schlüssel, ReadIndex, japanischer und englischer Quelltext sowie deutscher Zieltext dokumentiert. Zeilenumbrüche sind als \r\n gespeichert. Das einzelne Leerzeichen bei char_sel_index_jp darf nicht entfernt werden.
 
-Das Launcher-Symbol und seine Update-Erkennung wurden vom Benutzer beschrieben. Ob das neue Angebot unter dieser festen URL automatisch erkannt wird und schneller patcht, ist beim nächsten Test noch zu bestätigen. Es werden keine Aussagen über Delta-Patches oder die interne Prüfmethodik gemacht.
-Die Veröffentlichung installiert nichts und verändert keine Clientdateien. GUI-, DDS- und Archivlayoutänderungen sind nicht enthalten.
-gmd-manifest.json dokumentiert Quelle, gewählte Texte, Datensatzanzahl und SHA-256.
+Die Action "Build German launcher CSV" läuft bei Änderungen an Übersetzungen, Generator, Tests, Workflow oder der vollständigen englischen gmd.csv im Repository-Stamm auf test/charselect-de-0.1.1. Sie erstellt daraus German/gmd.csv und gmd-manifest.json und committet die Ergebnisse auf denselben Branch. Die Launcher-URL bleibt gleich. Sind die Dateien bereits aktuell, entsteht kein zusätzlicher Commit. Der Workflow verändert keine Dateien auf main.
+
+Der Generator nutzt ausschließlich die eingecheckte vollständige gmd.csv im Repository-Stamm als englische Basis. Er holt keine externen Updates und baut die englischen Split-Dateien nicht selbst neu zusammen. Soll eine neuere englische Basis übernommen werden, muss zuerst diese Stammdatei im Testbranch aktualisiert werden. Geänderte Quelltexte unserer deutschen Einträge stoppen den Build, bis die Übersetzungen geprüft und die Quelltextreferenzen angepasst sind.
+
+Prüfungen: mindestens 131.125 Datensätze; vollständiger CSV-Vergleich; ausschließlich freigegebene MsgEn-Felder geändert; Kontrolltags in identischer Reihenfolge; eindeutige und vorhandene Einträge; übrige Quellbytes bleiben unverändert. Generator und Tests benötigen nur die Python-Standardbibliothek.
+Lokal: python German/build_gmd.py
+Prüfen ohne Schreiben: python German/build_gmd.py --check
+Tests: python -m unittest discover -s German/tests -v
+
+Weitere Hinweise
+Deutsch wird weiterhin in MsgEn gespeichert. Profilfenster, Serverwahl, Charaktererstellung und DDS-Grafiken gehören nicht zu dieser Fassung. Die dortigen Texte bleiben auf dem bisherigen Stand. Die alten kurz/normal/lang-Dateien unter German/UI-Tests/CharacterSelect bleiben Vergleichsstände.
+
+Vorläufige Begriffe: Course wird hier kompakt als Boni bezeichnet; Golden Gemstones als Goldsteine. Das ist keine verbindliche Terminologiefestlegung für das gesamte Spiel. Die UI-Texte sind neutral formuliert und legen Du/Sie für Dialoge nicht fest. Dynamische Texte aus <OPCS> können aus anderen, noch nicht bearbeiteten Ressourcen stammen.
+
+Keine Installation und keine Änderung von Clientdateien durch den Agenten.

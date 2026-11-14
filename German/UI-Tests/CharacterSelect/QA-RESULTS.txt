@@ -1,8 +1,12 @@
-﻿DDON – bestätigte Auswahl der Charakterauswahl-Beschriftungen
-Stand: 14.11.2026. Quelle: Bericht und ausdrückliche Auswahl des Benutzers.
-char_sel_add_newchar (20): Neu. Kurz und normal im Client verglichen; Benutzer bleibt bei Neu. Lang als zu lang eingeschätzt; kein allgemeiner Zeichen-/Pixelgrenzwert gemessen.
-char_sel_decide (9): Bestätigen. Der Benutzer ordnet den Eintrag dem Löschablauf zu und nimmt diese deutsche Beschriftung an.
-char_sel_cancel (10): Abbrechen. Derselbe Kontext und ausdrückliche Auswahl des Benutzers.
-Es wurde kein tatsächlich ausgeführter Löschvorgang berichtet oder vorausgesetzt. Der Agent hat keine Clientinstallation ausgeführt.
-Der Benutzer berichtet: neue komplette URL löst vollständigen Patchvorgang aus; gleiche URL kann vom Launcher auf Updates geprüft werden, mit weiß/grün wechselndem Symbol.
-Aktive feste URL: https://raw.githubusercontent.com/Maxunit/DDON-translation/refs/heads/test/charselect-de-0.1.1/German/gmd.csv
+DDON – Charakterauswahl: Teststand 14.11.2026
+
+Vom Benutzer im Client bestätigt: Neu, Bestätigen und Abbrechen werden gemeinsam korrekt angezeigt. Neu wurde zuvor nach Vergleich mit Erstellen gewählt; eine lange Variante wurde als zu lang eingeschätzt. Daraus folgt kein allgemeines Zeichen- oder Pixellimit.
+
+26 weitere MsgEn-Änderungen: technisch geprüft, Darstellung im Client noch offen. Status und die zweite, absichtlich leere Überschrift bleiben unverändert.
+Besonders prüfen: Clan-Benachrichtigung, Charakter löschen, Bestätigungscode und die Code-Zeichenhilfe; Umbrüche und Platzhalter in Hinweisen.
+char_sel_del_alert ist als nachgestelltes Fragment " wird gelöscht." aus dem japanischen Suffix abgeleitet. Die tatsächliche Anordnung beim Charakternamen muss im Client bestätigt werden.
+Ein ausgeführter Löschvorgang ist für diese Sichtprüfung nicht erforderlich und wurde nicht berichtet.
+
+Der Benutzer beschreibt eine Update-Erkennung des Launchers an derselben URL; konkrete Patchgeschwindigkeit und interne Prüfmethode bleiben ungemessen.
+Feste URL: https://raw.githubusercontent.com/Maxunit/DDON-translation/refs/heads/test/charselect-de-0.1.1/German/gmd.csv
+Der Agent hat nichts installiert und keine Spiel-/ARC-/DDS-Dateien verändert.

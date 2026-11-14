@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "scope": "Character selection only; excludes profile popup, server selection and character creation",
+  "gmd_path": "ui\\00_message\\ui\\CharacterSelect_res.gmd",
+  "arc_path": "\\ui\\uGUICharacterSelect.arc",
+  "entries": [
+    {
+      "key": "char_sel_add_newchar",
+      "read_index": "20",
+      "source_jp": "新規作成",
+      "source_en": "Create",
+      "text": "Neu"
+    },
+    {
+      "key": "char_sel_affiliation_clan",
+      "read_index": "24",
+      "source_jp": "所属クラン",
+      "source_en": "Affiliated Clan",
+      "text": "Clan"
+    },
+    {
+      "key": "char_sel_announce_charover",
+      "read_index": "19",
+      "source_jp": "キャラクター作成上限です",
+      "source_en": "You have the maximum amount of characters.",
+      "text": "Maximale Charakteranzahl erreicht."
+    },
+    {
+      "key": "char_sel_bonus",
+      "read_index": "16",
+      "source_jp": "Course",
+      "source_en": "Course",
+      "text": "Boni"
+    },
+    {
+      "key": "char_sel_button_clan_notice",
+      "read_index": "23",
+      "source_jp": "クランへの通知設定",
+      "source_en": "Clan Notification Setting",
+      "text": "Clan-Benachrichtigung"
+    },
+    {
+      "key": "char_sel_button_rota",
+      "read_index": "22",
+      "source_jp": "カメラ操作",
+      "source_en": "Camera Control",
+      "text": "Kamerasteuerung"
+    },
+    {
+      "key": "char_sel_button_zoom",
+      "read_index": "21",
+      "source_jp": "モデル回転<PADM> / ズーム</PADM>",
+      "source_en": "Rotate<PADM>  / Zoom</PADM>",
+      "text": "Drehen<PADM>  / Zoomen</PADM>"
+    },
+    {
+      "key": "char_sel_cancel",
+      "read_index": "10",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "char_sel_clan_notice_conf",
+      "read_index": "28",
+      "source_jp": "クランメンバーへ自分のステータスを通知しますか？\r\n※この項目はゲーム設定からいつでも変更できます",
+      "source_en": "Would you like to send your status to clan\r\nmembers?\r\n※This can be changed any time from the game\r\nsettings.",
+      "text": "Status an Clanmitglieder senden?\r\nDiese Einstellung lässt sich jederzeit\r\nin den Spieleinstellungen ändern."
+    },
+    {
+      "key": "char_sel_clan_notice_conf_no",
+      "read_index": "30",
+      "source_jp": "通知を行わない",
+      "source_en": "Do not notify",
+      "text": "Nicht senden"
+    },
+    {
+      "key": "char_sel_clan_notice_conf_yes",
+      "read_index": "29",
+      "source_jp": "通知を行う",
+      "source_en": "Notify",
+      "text": "Senden"
+    },
+    {
+      "key": "char_sel_clan_notice_info",
+      "read_index": "25",
+      "source_jp": "クランメンバーへ自分のステータスを通知する",
+      "source_en": "Provide Status to Your Clan",
+      "text": "Status an den Clan senden"
+    },
+    {
+      "key": "char_sel_code",
+      "read_index": "8",
+      "source_jp": "確認コード：",
+      "source_en": "Confirmation Code:",
+      "text": "Bestätigungscode:"
+    },
+    {
+      "key": "char_sel_code_text",
+      "read_index": "7",
+      "source_jp": "確認コード <COL AA1414><VAL></COL> を入力してください",
+      "source_en": "Please enter the confirmation code: <COL AA1414><VAL></COL>",
+      "text": "Code <COL AA1414><VAL></COL> eingeben."
+    },
+    {
+      "key": "char_sel_decide",
+      "read_index": "9",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "char_sel_del",
+      "read_index": "11",
+      "source_jp": "削除",
+      "source_en": "Delete",
+      "text": "Löschen"
+    },
+    {
+      "key": "char_sel_del_alert",
+      "read_index": "13",
+      "source_jp": "を削除します",
+      "source_en": "Will Delete",
+      "text": " wird gelöscht."
+    },
+    {
+      "key": "char_sel_del_chara_select",
+      "read_index": "5",
+      "source_jp": "削除するキャラクターを選択してください\r\n削除したキャラクターは二度と復活できません",
+      "source_en": "Please select the character to be deleted.\r\nThe deleted character cannot be restored.",
+      "text": "Charakter zum Löschen auswählen.\r\nWiederherstellung ist ausgeschlossen."
+    },
+    {
+      "key": "char_sel_del_error",
+      "read_index": "15",
+      "source_jp": "確認コードが間違っています",
+      "source_en": "The confirmation code is incorrect.",
+      "text": "Der Bestätigungscode ist falsch."
+    },
+    {
+      "key": "char_sel_del_finish",
+      "read_index": "14",
+      "source_jp": "キャラクターの削除が完了しました",
+      "source_en": "Character deletion is complete.",
+      "text": "Charakter gelöscht."
+    },
+    {
+      "key": "char_sel_del_info",
+      "read_index": "6",
+      "source_jp": "\r\n<COL ffdc78>未使用の黄金石や<OPCS>等もすべて失われます</COL>",
+      "source_en": "\r\n<COL ffdc78>All unused Golden Gemstones and\r\n<OPCS>, etc., will be lost.</COL>",
+      "text": "\r\n<COL ffdc78>Auch ungenutzte Goldsteine und\r\n<OPCS> gehen vollständig verloren.</COL>"
+    },
+    {
+      "key": "char_sel_delete",
+      "read_index": "4",
+      "source_jp": "キャラクターの削除",
+      "source_en": "Delete",
+      "text": "Charakter löschen"
+    },
+    {
+      "key": "char_sel_fourwords",
+      "read_index": "18",
+      "source_jp": "（半角英数4文字）",
+      "source_en": "(4 alphanumeric chars)",
+      "text": "(4 Zeichen: A-Z, a-z, 0-9)"
+    },
+    {
+      "key": "char_sel_index_en",
+      "read_index": "0",
+      "source_jp": "Character Select",
+      "source_en": "Character Select",
+      "text": "Charakterauswahl"
+    },
+    {
+      "key": "char_sel_index_jp",
+      "read_index": "1",
+      "source_jp": "キャラクター選択",
+      "source_en": " ",
+      "text": " "
+    },
+    {
+      "key": "char_sel_no_bonus",
+      "read_index": "17",
+      "source_jp": "発動中の<OPCS>はありません",
+      "source_en": "There is no <OPCS> currently active.",
+      "text": "<OPCS> derzeit nicht aktiv."
+    },
+    {
+      "key": "char_sel_off",
+      "read_index": "27",
+      "source_jp": "OFF",
+      "source_en": "OFF",
+      "text": "AUS"
+    },
+    {
+      "key": "char_sel_on",
+      "read_index": "26",
+      "source_jp": "ON",
+      "source_en": "ON",
+      "text": "AN"
+    },
+    {
+      "key": "char_sel_plz_wait",
+      "read_index": "12",
+      "source_jp": "しばらくお待ちください",
+      "source_en": "Please wait.",
+      "text": "Bitte warten."
+    },
+    {
+      "key": "char_sel_profile",
+      "read_index": "3",
+      "source_jp": "Profile",
+      "source_en": "Profile",
+      "text": "Profil"
+    },
+    {
+      "key": "char_sel_status",
+      "read_index": "2",
+      "source_jp": "Status",
+      "source_en": "Status",
+      "text": "Status"
+    }
+  ]
+}

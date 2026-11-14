@@ -1,0 +1,47 @@
+name: Build German launcher CSV
+
+on:
+  push:
+    branches: ['test/charselect-de-0.1.1']
+    paths:
+      - 'gmd.csv'
+      - 'German/translations/**'
+      - 'German/build_gmd.py'
+      - 'German/tests/**'
+      - '.github/workflows/german-gmd.yml'
+
+# Serialize publication; never force-push over a newer translation edit.
+concurrency:
+  group: german-gmd-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    if: github.repository == 'Maxunit/DDON-translation'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout current test branch
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Test CSV generation and safeguards
+        run: python3 -m unittest discover -s German/tests -v
+      - name: Generate and verify complete CSV
+        run: |
+          python3 German/build_gmd.py
+          python3 German/build_gmd.py --check
+      - name: Publish generated files at the existing URL
+        run: |
+          git add -- German/gmd.csv German/gmd-manifest.json
+          if git diff --cached --quiet; then
+            echo 'The complete German CSV is already up to date.'
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Build complete German launcher CSV'
+          git push origin HEAD:refs/heads/test/charselect-de-0.1.1
