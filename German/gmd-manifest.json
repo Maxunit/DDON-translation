@@ -1,0 +1,25 @@
+{
+  "description": "Active complete CSV for continuing German UI tests",
+  "source_commit": "6a6b28e6ff55285acc9d2950eb6a9498e9e7bc13",
+  "source_repository": "Maxunit/DDON-translation",
+  "branch": "test/charselect-de-0.1.1",
+  "raw_url": "https://raw.githubusercontent.com/Maxunit/DDON-translation/refs/heads/test/charselect-de-0.1.1/German/gmd.csv",
+  "bytes": 26968833,
+  "sha256": "eef1c7987b361dccdd7ba014a7d7ee5c100d6926777b3b82267d6dee8cb8770b",
+  "data_records": 131125,
+  "changed_MsgEn_fields": {
+    "char_sel_add_newchar": "Neu",
+    "char_sel_decide": "Bestätigen",
+    "char_sel_cancel": "Abbrechen"
+  },
+  "compared_to_english": {
+    "changed_fields": 3,
+    "other_fields": "unchanged"
+  },
+  "accepted_by_user": true,
+  "create_label_tested_in_client": "Neu; Erstellen also tried; user chose Neu",
+  "confirm_cancel_context": "User confirmed character deletion selection/confirmation/cancellation flow",
+  "launcher_update_detection": "User reports last-URL/update detection and a slower full patch when switching URLs; implementation and same-URL behavior have not been independently verified",
+  "publication_policy": "Keep this branch and German/gmd.csv path stable for subsequent tests; update file contents in place",
+  "installation_performed_by_agent": false
+}
