@@ -2,7 +2,7 @@ DDON – Charakterauswahl: Teststand 14.11.2026
 
 Vom Benutzer im Client bestätigt: Neu, Bestätigen und Abbrechen werden gemeinsam korrekt angezeigt. Neu wurde zuvor nach Vergleich mit Erstellen gewählt; eine lange Variante wurde als zu lang eingeschätzt. Daraus folgt kein allgemeines Zeichen- oder Pixellimit.
 
-26 weitere MsgEn-Änderungen: technisch geprüft, Darstellung im Client noch offen. Status und die zweite, absichtlich leere Überschrift bleiben unverändert.
+Benutzer bestätigt: Charakter löschen, Löschhinweise, Drehen / Zoomen, Kamerasteuerung und Clan-Benachrichtigung werden korrekt angezeigt; Umlaute einschließlich ö sind sichtbar. Andere Einträge bleiben gegebenenfalls zu prüfen. Status und die zweite, absichtlich leere Überschrift bleiben unverändert.
 Besonders prüfen: Clan-Benachrichtigung, Charakter löschen, Bestätigungscode und die Code-Zeichenhilfe; Umbrüche und Platzhalter in Hinweisen.
 char_sel_del_alert ist als nachgestelltes Fragment " wird gelöscht." aus dem japanischen Suffix abgeleitet. Die tatsächliche Anordnung beim Charakternamen muss im Client bestätigt werden.
 Ein ausgeführter Löschvorgang ist für diese Sichtprüfung nicht erforderlich und wurde nicht berichtet.
@@ -10,3 +10,5 @@ Ein ausgeführter Löschvorgang ist für diese Sichtprüfung nicht erforderlich 
 Der Benutzer beschreibt eine Update-Erkennung des Launchers an derselben URL; konkrete Patchgeschwindigkeit und interne Prüfmethode bleiben ungemessen.
 Feste URL: https://raw.githubusercontent.com/Maxunit/DDON-translation/refs/heads/test/charselect-de-0.1.1/German/gmd.csv
 Der Agent hat nichts installiert und keine Spiel-/ARC-/DDS-Dateien verändert.
+
+Neue Testfassung: Course → Pässe; Adventure Purpose → Abenteuerziel (zwei Einträge); Play Style → Spielstil; Party Invites → Gruppeneinladungen; Accept → Annehmen. Diese Änderungen sind noch nicht im Client geprüft. Confirm, Cancel und Save in der unteren Leiste bleiben zur gezielten Zuordnung offen.

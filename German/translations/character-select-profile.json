@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Visible profile fields in character selection",
+  "gmd_path": "ui\\00_message\\ui\\pop_profile_res.gmd",
+  "arc_path": "\\ui\\uGUICharacterSelect.arc",
+  "entries": [
+    {
+      "key": "popp_main_purpose",
+      "read_index": "11",
+      "source_jp": "冒険目的",
+      "source_en": "Adventure Purpose",
+      "text": "Abenteuerziel"
+    },
+    {
+      "key": "popp_mokuteki_1",
+      "read_index": "0",
+      "source_jp": "冒険目的",
+      "source_en": "Adventure Purpose",
+      "text": "Abenteuerziel"
+    },
+    {
+      "key": "popp_party",
+      "read_index": "4",
+      "source_jp": "パーティー参加",
+      "source_en": "Party Invites",
+      "text": "Gruppeneinladungen"
+    },
+    {
+      "key": "popp_playstyle",
+      "read_index": "2",
+      "source_jp": "プレイスタイル",
+      "source_en": "Play Style",
+      "text": "Spielstil"
+    },
+    {
+      "key": "popp_pt_ok",
+      "read_index": "9",
+      "source_jp": "受ける",
+      "source_en": "Accept",
+      "text": "Annehmen"
+    }
+  ]
+}
