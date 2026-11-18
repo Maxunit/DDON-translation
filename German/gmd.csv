@@ -56720,9 +56720,9 @@ Can use their shield to counter attacks.
 The Leader of the Battlefield.",ui\00_message\common\job_info.gmd,\ui\uGUIJobMaster.arc,uGUIJobMaster.arc,1,,Job Descrip.
 1,JOB_INFO_1,"攻守のバランスに長けた戦場の花形
 盾を駆使したカウンター戦法を得意とする
-常に前線に斬り込んでいける安定感が持ち味","Vereint Angriff und Verteidigung.
-Kontert gegnerische Angriffe mit dem Schild.
-Ein verlässlicher Kämpfer an vorderster Front.",ui\00_message\common\job_info.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,1,,Job Descrip.
+常に前線に斬り込んでいける安定感が持ち味","Vereint Angriff und Abwehr.
+Kontert mit dem Schild.
+Kämpft sicher an vorderster Front.",ui\00_message\common\job_info.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,1,,Job Descrip.
 1,JOB_INFO_1,"攻守のバランスに長けた戦場の花形
 盾を駆使したカウンター戦法を得意とする
 常に前線に斬り込んでいける安定感が持ち味","Balances offense and defense in battle.
@@ -58564,8 +58564,8 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 559,STAGE_NAME_721,白竜神殿,The White Dragon Temple,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,559,,Stage Name
 560,STAGE_NAME_723,ボーナスダンジョン【SP】,Bonus Dungeon (SP),ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,560,,Stage Name
 0,WEAPON_CTGR_0,,,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Weapon Category
-1,WEAPON_CTGR_1,片手剣,One-handed Sword,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Weapon Category
-2,WEAPON_CTGR_2,盾,Shield,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Weapon Category
+1,WEAPON_CTGR_1,片手剣,Einhandschwert,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Weapon Category
+2,WEAPON_CTGR_2,盾,Schild,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Weapon Category
 3,WEAPON_CTGR_3,大剣,Greatsword,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,Weapon Category
 4,WEAPON_CTGR_4,大盾,Greatshield,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,Weapon Category
 5,WEAPON_CTGR_5,ロッド,Rod,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Weapon Category
@@ -252286,10 +252286,10 @@ route)</COL>",ui\00_message\ui\bbi_situation_res.gmd,\ui\gui_game_mode_kokuju.ar
 15,button_guide_triangle_shake,揺さぶる,Shake,ui\00_message\ui\button_guide.gmd,\ui\uGUIFKeyPalette.arc,uGUIFKeyPalette.arc,15,,
 16,button_guide_triangle_throw,投げる,Throw,ui\00_message\ui\button_guide.gmd,\ui\uGUIActionPalette.arc,uGUIActionPalette.arc,16,,
 16,button_guide_triangle_throw,投げる,Throw,ui\00_message\ui\button_guide.gmd,\ui\uGUIFKeyPalette.arc,uGUIFKeyPalette.arc,16,,
-43,EDIT_MSG_AGOSAKI_HABA,顎の幅,Chin Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,43,,
-43,EDIT_MSG_AGOSAKI_HABA,顎の幅,Chin Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,43,,
-42,EDIT_MSG_AGOSAKI_UPDOWN,顎の長さ,Chin Height,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,42,,
-42,EDIT_MSG_AGOSAKI_UPDOWN,顎の長さ,Chin Height,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,42,,
+43,EDIT_MSG_AGOSAKI_HABA,顎の幅,Kinnbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,43,,
+43,EDIT_MSG_AGOSAKI_HABA,顎の幅,Kinnbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,43,,
+42,EDIT_MSG_AGOSAKI_UPDOWN,顎の長さ,Kinnlänge,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,42,,
+42,EDIT_MSG_AGOSAKI_UPDOWN,顎の長さ,Kinnlänge,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,42,,
 15,EDIT_MSG_CATE_BODY,体格,Körperbau,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,15,,
 15,EDIT_MSG_CATE_BODY,体格,Körperbau,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,15,,
 7,EDIT_MSG_CATE_BONE,顔の輪郭,Gesichtsform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,7,,
@@ -252326,10 +252326,10 @@ route)</COL>",ui\00_message\ui\bbi_situation_res.gmd,\ui\gui_game_mode_kokuju.ar
 16,EDIT_MSG_CATE_VOICE,声,Stimme,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,16,,
 18,EDIT_MSG_CATE_VOICE_FREQUENTLY,発言頻度,Speech Rate,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,18,,
 18,EDIT_MSG_CATE_VOICE_FREQUENTLY,発言頻度,Speech Rate,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,18,,
-40,EDIT_MSG_ERAHONE_HABA,エラ骨の幅,Jaw Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,40,,
-40,EDIT_MSG_ERAHONE_HABA,エラ骨の幅,Jaw Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,40,,
-39,EDIT_MSG_ERAHONE_UPDOWN,エラ骨の高さ,Jaw Height,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,39,,
-39,EDIT_MSG_ERAHONE_UPDOWN,エラ骨の高さ,Jaw Height,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,39,,
+40,EDIT_MSG_ERAHONE_HABA,エラ骨の幅,Kieferbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,40,,
+40,EDIT_MSG_ERAHONE_HABA,エラ骨の幅,Kieferbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,40,,
+39,EDIT_MSG_ERAHONE_UPDOWN,エラ骨の高さ,Kieferhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,39,,
+39,EDIT_MSG_ERAHONE_UPDOWN,エラ骨の高さ,Kieferhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,39,,
 133,EDIT_MSG_EX,EX,EX,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,133,,
 133,EDIT_MSG_EX,EX,EX,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,133,,
 127,EDIT_MSG_SUB_TITLE_BODY,Body Type,Körperbau,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,127,,
@@ -252380,58 +252380,58 @@ route)</COL>",ui\00_message\ui\bbi_situation_res.gmd,\ui\gui_game_mode_kokuju.ar
 136,EDIT_MSG_TITLE_PLAYERREEDIT,Player Reincarnation,Player Reincarnation,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,136,,
 0,EDIT_MSG_TITLE_PLAYER_EDIT,Player Edit,Charakter erstellen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,0,,
 0,EDIT_MSG_TITLE_PLAYER_EDIT,Player Edit,Charakter erstellen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,0,,
-41,EDIT_MSG_TYPE_AGO_ZENGO,顎の奥行き,Chin Depth,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,41,,
-41,EDIT_MSG_TYPE_AGO_ZENGO,顎の奥行き,Chin Depth,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,41,,
-73,EDIT_MSG_TYPE_BEARD_COLOR,髭のカラー,Beard Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,73,,
-73,EDIT_MSG_TYPE_BEARD_COLOR,髭のカラー,Beard Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,73,,
-72,EDIT_MSG_TYPE_BEARD_PARTS,髭のパーツ,Beard Style,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,72,,
-72,EDIT_MSG_TYPE_BEARD_PARTS,髭のパーツ,Beard Style,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,72,,
-89,EDIT_MSG_TYPE_CHEST,胸の大きさ,Chest Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,89,,
-89,EDIT_MSG_TYPE_CHEST,胸の大きさ,Chest Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,89,,
-78,EDIT_MSG_TYPE_COLOR_SKIN,肌のカラー,Skin Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,78,,
-78,EDIT_MSG_TYPE_COLOR_SKIN,肌のカラー,Skin Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,78,,
-70,EDIT_MSG_TYPE_EAR_DIR,耳の向き,Ear Direction,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,70,,
-70,EDIT_MSG_TYPE_EAR_DIR,耳の向き,Ear Direction,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,70,,
-71,EDIT_MSG_TYPE_EAR_ELF,耳の輪郭,Ear Shape,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,71,,
-71,EDIT_MSG_TYPE_EAR_ELF,耳の輪郭,Ear Shape,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,71,,
-69,EDIT_MSG_TYPE_EAR_SIZE,耳の大きさ,Ear Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,69,,
-69,EDIT_MSG_TYPE_EAR_SIZE,耳の大きさ,Ear Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,69,,
-54,EDIT_MSG_TYPE_EYEBLOW_COLOR,眉のカラー,Brow Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,54,,
-54,EDIT_MSG_TYPE_EYEBLOW_COLOR,眉のカラー,Brow Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,54,,
-57,EDIT_MSG_TYPE_EYEBLOW_MAYUKAITEN,眉の角度,Brow Angle,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,57,,
-57,EDIT_MSG_TYPE_EYEBLOW_MAYUKAITEN,眉の角度,Brow Angle,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,57,,
-59,EDIT_MSG_TYPE_EYEBLOW_MIKEN_HABA,眉間の幅,Glabella Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,59,,
-59,EDIT_MSG_TYPE_EYEBLOW_MIKEN_HABA,眉間の幅,Glabella Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,59,,
-58,EDIT_MSG_TYPE_EYEBLOW_MIKEN_TAKASA,眉間の高さ,Glabella Height,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,58,,
-58,EDIT_MSG_TYPE_EYEBLOW_MIKEN_TAKASA,眉間の高さ,Glabella Height,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,58,,
-53,EDIT_MSG_TYPE_EYEBLOW_PARTS,眉のパーツ,Brow Shape,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,53,,
-53,EDIT_MSG_TYPE_EYEBLOW_PARTS,眉のパーツ,Brow Shape,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,53,,
-55,EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_X,眉の間隔,Brow Spacing,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,55,,
-55,EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_X,眉の間隔,Brow Spacing,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,55,,
-56,EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_Y,眉の高さ,Brow Vertical Position,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,56,,
-56,EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_Y,眉の高さ,Brow Vertical Position,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,56,,
-49,EDIT_MSG_TYPE_EYE_ANGLE,目の角度,Eye Angle,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,49,,
-49,EDIT_MSG_TYPE_EYE_ANGLE,目の角度,Eye Angle,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,49,,
-46,EDIT_MSG_TYPE_EYE_COLOR_L,左目のカラー,Left Eye Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,46,,
-46,EDIT_MSG_TYPE_EYE_COLOR_L,左目のカラー,Left Eye Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,46,,
-45,EDIT_MSG_TYPE_EYE_COLOR_LR,両目のカラー,Eye Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,45,,
-45,EDIT_MSG_TYPE_EYE_COLOR_LR,両目のカラー,Eye Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,45,,
-51,EDIT_MSG_TYPE_EYE_HEIGHT,目の高さ,Eye Vertical Position,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,51,,
-51,EDIT_MSG_TYPE_EYE_HEIGHT,目の高さ,Eye Vertical Position,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,51,,
-47,EDIT_MSG_TYPE_EYE_HITOMI_SIZE,瞳の大きさ,Pupil Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,47,,
-47,EDIT_MSG_TYPE_EYE_HITOMI_SIZE,瞳の大きさ,Pupil Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,47,,
-50,EDIT_MSG_TYPE_EYE_INTERVAL,目の間隔,Eye Spacing,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,50,,
-50,EDIT_MSG_TYPE_EYE_INTERVAL,目の間隔,Eye Spacing,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,50,,
-52,EDIT_MSG_TYPE_EYE_MABISASI_UPDOWN,目庇の高さ,Eye Vertical Position,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,52,,
-52,EDIT_MSG_TYPE_EYE_MABISASI_UPDOWN,目庇の高さ,Eye Vertical Position,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,52,,
-44,EDIT_MSG_TYPE_EYE_PARTS,目のパーツ,Eye Shape,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,44,,
-44,EDIT_MSG_TYPE_EYE_PARTS,目のパーツ,Eye Shape,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,44,,
-48,EDIT_MSG_TYPE_EYE_SIZE,目の大きさ,Eye Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,48,,
-48,EDIT_MSG_TYPE_EYE_SIZE,目の大きさ,Eye Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,48,,
-83,EDIT_MSG_TYPE_FAT,肥満度,Fat,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,83,,
-83,EDIT_MSG_TYPE_FAT,肥満度,Fat,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,83,,
-93,EDIT_MSG_TYPE_FOOT_SIZE,足の大きさ,Feet Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,93,,
-93,EDIT_MSG_TYPE_FOOT_SIZE,足の大きさ,Feet Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,93,,
+41,EDIT_MSG_TYPE_AGO_ZENGO,顎の奥行き,Kinntiefe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,41,,
+41,EDIT_MSG_TYPE_AGO_ZENGO,顎の奥行き,Kinntiefe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,41,,
+73,EDIT_MSG_TYPE_BEARD_COLOR,髭のカラー,Bartfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,73,,
+73,EDIT_MSG_TYPE_BEARD_COLOR,髭のカラー,Bartfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,73,,
+72,EDIT_MSG_TYPE_BEARD_PARTS,髭のパーツ,Bartform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,72,,
+72,EDIT_MSG_TYPE_BEARD_PARTS,髭のパーツ,Bartform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,72,,
+89,EDIT_MSG_TYPE_CHEST,胸の大きさ,Brustgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,89,,
+89,EDIT_MSG_TYPE_CHEST,胸の大きさ,Brustgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,89,,
+78,EDIT_MSG_TYPE_COLOR_SKIN,肌のカラー,Hautfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,78,,
+78,EDIT_MSG_TYPE_COLOR_SKIN,肌のカラー,Hautfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,78,,
+70,EDIT_MSG_TYPE_EAR_DIR,耳の向き,Ohrwinkel,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,70,,
+70,EDIT_MSG_TYPE_EAR_DIR,耳の向き,Ohrwinkel,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,70,,
+71,EDIT_MSG_TYPE_EAR_ELF,耳の輪郭,Ohrform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,71,,
+71,EDIT_MSG_TYPE_EAR_ELF,耳の輪郭,Ohrform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,71,,
+69,EDIT_MSG_TYPE_EAR_SIZE,耳の大きさ,Ohrgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,69,,
+69,EDIT_MSG_TYPE_EAR_SIZE,耳の大きさ,Ohrgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,69,,
+54,EDIT_MSG_TYPE_EYEBLOW_COLOR,眉のカラー,Brauenfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,54,,
+54,EDIT_MSG_TYPE_EYEBLOW_COLOR,眉のカラー,Brauenfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,54,,
+57,EDIT_MSG_TYPE_EYEBLOW_MAYUKAITEN,眉の角度,Brauenwinkel,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,57,,
+57,EDIT_MSG_TYPE_EYEBLOW_MAYUKAITEN,眉の角度,Brauenwinkel,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,57,,
+59,EDIT_MSG_TYPE_EYEBLOW_MIKEN_HABA,眉間の幅,Nasenwurzelbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,59,,
+59,EDIT_MSG_TYPE_EYEBLOW_MIKEN_HABA,眉間の幅,Nasenwurzelbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,59,,
+58,EDIT_MSG_TYPE_EYEBLOW_MIKEN_TAKASA,眉間の高さ,Nasenwurzelhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,58,,
+58,EDIT_MSG_TYPE_EYEBLOW_MIKEN_TAKASA,眉間の高さ,Nasenwurzelhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,58,,
+53,EDIT_MSG_TYPE_EYEBLOW_PARTS,眉のパーツ,Brauenform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,53,,
+53,EDIT_MSG_TYPE_EYEBLOW_PARTS,眉のパーツ,Brauenform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,53,,
+55,EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_X,眉の間隔,Brauenabstand,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,55,,
+55,EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_X,眉の間隔,Brauenabstand,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,55,,
+56,EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_Y,眉の高さ,Brauenhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,56,,
+56,EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_Y,眉の高さ,Brauenhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,56,,
+49,EDIT_MSG_TYPE_EYE_ANGLE,目の角度,Augenneigung,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,49,,
+49,EDIT_MSG_TYPE_EYE_ANGLE,目の角度,Augenneigung,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,49,,
+46,EDIT_MSG_TYPE_EYE_COLOR_L,左目のカラー,Linke Augenfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,46,,
+46,EDIT_MSG_TYPE_EYE_COLOR_L,左目のカラー,Linke Augenfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,46,,
+45,EDIT_MSG_TYPE_EYE_COLOR_LR,両目のカラー,Augenfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,45,,
+45,EDIT_MSG_TYPE_EYE_COLOR_LR,両目のカラー,Augenfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,45,,
+51,EDIT_MSG_TYPE_EYE_HEIGHT,目の高さ,Augenhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,51,,
+51,EDIT_MSG_TYPE_EYE_HEIGHT,目の高さ,Augenhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,51,,
+47,EDIT_MSG_TYPE_EYE_HITOMI_SIZE,瞳の大きさ,Pupillengröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,47,,
+47,EDIT_MSG_TYPE_EYE_HITOMI_SIZE,瞳の大きさ,Pupillengröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,47,,
+50,EDIT_MSG_TYPE_EYE_INTERVAL,目の間隔,Augenabstand,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,50,,
+50,EDIT_MSG_TYPE_EYE_INTERVAL,目の間隔,Augenabstand,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,50,,
+52,EDIT_MSG_TYPE_EYE_MABISASI_UPDOWN,目庇の高さ,Brauenbogenhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,52,,
+52,EDIT_MSG_TYPE_EYE_MABISASI_UPDOWN,目庇の高さ,Brauenbogenhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,52,,
+44,EDIT_MSG_TYPE_EYE_PARTS,目のパーツ,Augenform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,44,,
+44,EDIT_MSG_TYPE_EYE_PARTS,目のパーツ,Augenform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,44,,
+48,EDIT_MSG_TYPE_EYE_SIZE,目の大きさ,Augengröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,48,,
+48,EDIT_MSG_TYPE_EYE_SIZE,目の大きさ,Augengröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,48,,
+83,EDIT_MSG_TYPE_FAT,肥満度,Körperfett,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,83,,
+83,EDIT_MSG_TYPE_FAT,肥満度,Körperfett,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,83,,
+93,EDIT_MSG_TYPE_FOOT_SIZE,足の大きさ,Fußgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,93,,
+93,EDIT_MSG_TYPE_FOOT_SIZE,足の大きさ,Fußgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,93,,
 105,EDIT_MSG_TYPE_FREQUENTLY_1,ぜんぜん喋らない,Never,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,105,,
 105,EDIT_MSG_TYPE_FREQUENTLY_1,ぜんぜん喋らない,Never,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,105,,
 106,EDIT_MSG_TYPE_FREQUENTLY_2,あまり喋らない,Rarely,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,106,,
@@ -252448,42 +252448,42 @@ route)</COL>",ui\00_message\ui\bbi_situation_res.gmd,\ui\gui_game_mode_kokuju.ar
 111,EDIT_MSG_TYPE_FREQUENTLY_7,いつも喋る,Usually,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,111,,
 112,EDIT_MSG_TYPE_FREQUENTLY_8,つねに喋る,Always,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,112,,
 112,EDIT_MSG_TYPE_FREQUENTLY_8,つねに喋る,Always,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,112,,
-33,EDIT_MSG_TYPE_HAIR_COLOR,髪のカラー,Hair Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,33,,
-33,EDIT_MSG_TYPE_HAIR_COLOR,髪のカラー,Hair Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,33,,
-79,EDIT_MSG_TYPE_HAIR_COLOR_ALL,毛髪全体のカラー,All Hair Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,79,,
-79,EDIT_MSG_TYPE_HAIR_COLOR_ALL,毛髪全体のカラー,All Hair Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,79,,
-32,EDIT_MSG_TYPE_HAIR_PARTS,髪のパーツ,Hair Style,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,32,,
-32,EDIT_MSG_TYPE_HAIR_PARTS,髪のパーツ,Hair Style,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,32,,
-68,EDIT_MSG_TYPE_HANAKUCHI_UPDOWN,口の位置,Mouth Position,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,68,,
-68,EDIT_MSG_TYPE_HANAKUCHI_UPDOWN,口の位置,Mouth Position,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,68,,
-84,EDIT_MSG_TYPE_HEAD_SIZE,頭の大きさ,Head Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,84,,
-84,EDIT_MSG_TYPE_HEAD_SIZE,頭の大きさ,Head Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,84,,
-80,EDIT_MSG_TYPE_HEIGHT,身長（cm）,Height (cm),ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,80,,
-80,EDIT_MSG_TYPE_HEIGHT,身長（cm）,Height (cm),ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,80,,
-35,EDIT_MSG_TYPE_HITAI,額の奥行き,Forehead Depth,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,35,,
-35,EDIT_MSG_TYPE_HITAI,額の奥行き,Forehead Depth,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,35,,
-36,EDIT_MSG_TYPE_HOBONE_UPDOWN,頬骨の高さ,Cheek Height,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,36,,
-36,EDIT_MSG_TYPE_HOBONE_UPDOWN,頬骨の高さ,Cheek Height,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,36,,
-37,EDIT_MSG_TYPE_HOBONE_VALUE,頬骨の幅,Cheek Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,37,,
-37,EDIT_MSG_TYPE_HOBONE_VALUE,頬骨の幅,Cheek Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,37,,
-38,EDIT_MSG_TYPE_HOHONIKU_VOLUME,頬肉の量,Cheek Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,38,,
-38,EDIT_MSG_TYPE_HOHONIKU_VOLUME,頬肉の量,Cheek Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,38,,
-88,EDIT_MSG_TYPE_KUBIRE,くびれ,Waist Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,88,,
-88,EDIT_MSG_TYPE_KUBIRE,くびれ,Waist Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,88,,
-67,EDIT_MSG_TYPE_KUCHI_ATSUSA,唇の大きさ,Lip Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,67,,
-67,EDIT_MSG_TYPE_KUCHI_ATSUSA,唇の大きさ,Lip Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,67,,
-66,EDIT_MSG_TYPE_KUCHI_HABA,口の幅,Mouth Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,66,,
-66,EDIT_MSG_TYPE_KUCHI_HABA,口の幅,Mouth Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,66,,
-75,EDIT_MSG_TYPE_MAKEUP_COLOR,化粧のカラー,Makeup Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,75,,
-75,EDIT_MSG_TYPE_MAKEUP_COLOR,化粧のカラー,Makeup Color,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,75,,
-74,EDIT_MSG_TYPE_MAKEUP_PARTS,化粧のパーツ,Makeup Type,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,74,,
-74,EDIT_MSG_TYPE_MAKEUP_PARTS,化粧のパーツ,Makeup Type,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,74,,
-82,EDIT_MSG_TYPE_MASSLE,筋肉量,Muscle,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,82,,
-82,EDIT_MSG_TYPE_MASSLE,筋肉量,Muscle,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,82,,
-81,EDIT_MSG_TYPE_MOTION_FILTER,立ち姿,Stance,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,81,,
-81,EDIT_MSG_TYPE_MOTION_FILTER,立ち姿,Stance,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,81,,
-65,EDIT_MSG_TYPE_MOUSE_PARTS,口のパーツ,Mouth Shape,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,65,,
-65,EDIT_MSG_TYPE_MOUSE_PARTS,口のパーツ,Mouth Shape,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,65,,
+33,EDIT_MSG_TYPE_HAIR_COLOR,髪のカラー,Haarfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,33,,
+33,EDIT_MSG_TYPE_HAIR_COLOR,髪のカラー,Haarfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,33,,
+79,EDIT_MSG_TYPE_HAIR_COLOR_ALL,毛髪全体のカラー,Haarfarbe gesamt,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,79,,
+79,EDIT_MSG_TYPE_HAIR_COLOR_ALL,毛髪全体のカラー,Haarfarbe gesamt,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,79,,
+32,EDIT_MSG_TYPE_HAIR_PARTS,髪のパーツ,Frisur,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,32,,
+32,EDIT_MSG_TYPE_HAIR_PARTS,髪のパーツ,Frisur,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,32,,
+68,EDIT_MSG_TYPE_HANAKUCHI_UPDOWN,口の位置,Mundhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,68,,
+68,EDIT_MSG_TYPE_HANAKUCHI_UPDOWN,口の位置,Mundhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,68,,
+84,EDIT_MSG_TYPE_HEAD_SIZE,頭の大きさ,Kopfgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,84,,
+84,EDIT_MSG_TYPE_HEAD_SIZE,頭の大きさ,Kopfgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,84,,
+80,EDIT_MSG_TYPE_HEIGHT,身長（cm）,Körpergröße (cm),ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,80,,
+80,EDIT_MSG_TYPE_HEIGHT,身長（cm）,Körpergröße (cm),ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,80,,
+35,EDIT_MSG_TYPE_HITAI,額の奥行き,Stirntiefe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,35,,
+35,EDIT_MSG_TYPE_HITAI,額の奥行き,Stirntiefe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,35,,
+36,EDIT_MSG_TYPE_HOBONE_UPDOWN,頬骨の高さ,Wangenknochenhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,36,,
+36,EDIT_MSG_TYPE_HOBONE_UPDOWN,頬骨の高さ,Wangenknochenhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,36,,
+37,EDIT_MSG_TYPE_HOBONE_VALUE,頬骨の幅,Wangenknochenbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,37,,
+37,EDIT_MSG_TYPE_HOBONE_VALUE,頬骨の幅,Wangenknochenbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,37,,
+38,EDIT_MSG_TYPE_HOHONIKU_VOLUME,頬肉の量,Wangenfülle,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,38,,
+38,EDIT_MSG_TYPE_HOHONIKU_VOLUME,頬肉の量,Wangenfülle,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,38,,
+88,EDIT_MSG_TYPE_KUBIRE,くびれ,Taillenweite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,88,,
+88,EDIT_MSG_TYPE_KUBIRE,くびれ,Taillenweite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,88,,
+67,EDIT_MSG_TYPE_KUCHI_ATSUSA,唇の大きさ,Lippenfülle,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,67,,
+67,EDIT_MSG_TYPE_KUCHI_ATSUSA,唇の大きさ,Lippenfülle,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,67,,
+66,EDIT_MSG_TYPE_KUCHI_HABA,口の幅,Mundbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,66,,
+66,EDIT_MSG_TYPE_KUCHI_HABA,口の幅,Mundbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,66,,
+75,EDIT_MSG_TYPE_MAKEUP_COLOR,化粧のカラー,Make-up-Farbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,75,,
+75,EDIT_MSG_TYPE_MAKEUP_COLOR,化粧のカラー,Make-up-Farbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,75,,
+74,EDIT_MSG_TYPE_MAKEUP_PARTS,化粧のパーツ,Make-up-Typ,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,74,,
+74,EDIT_MSG_TYPE_MAKEUP_PARTS,化粧のパーツ,Make-up-Typ,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,74,,
+82,EDIT_MSG_TYPE_MASSLE,筋肉量,Muskelmasse,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,82,,
+82,EDIT_MSG_TYPE_MASSLE,筋肉量,Muskelmasse,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,82,,
+81,EDIT_MSG_TYPE_MOTION_FILTER,立ち姿,Haltung,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,81,,
+81,EDIT_MSG_TYPE_MOTION_FILTER,立ち姿,Haltung,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,81,,
+65,EDIT_MSG_TYPE_MOUSE_PARTS,口のパーツ,Mundform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,65,,
+65,EDIT_MSG_TYPE_MOUSE_PARTS,口のパーツ,Mundform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,65,,
 22,EDIT_MSG_TYPE_NAME_GUIDE,"付けたい名前を入力してください
 注意事項
  ・半角英字と'(アポストロフィー)が使用可能です
@@ -252493,11 +252493,12 @@ route)</COL>",ui\00_message\ui\bbi_situation_res.gmd,\ui\gui_game_mode_kokuju.ar
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます","Gewünschten Namen eingeben.
 Hinweise
-Erlaubt sind A-Z, a-z und der Apostroph (').
-Ziffern und Leerzeichen sind unzulässig.
-Der Name muss mit einem Buchstaben beginnen.
-Dieser wird großgeschrieben.
-Die übrigen Buchstaben werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,22,,
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,22,,
 22,EDIT_MSG_TYPE_NAME_GUIDE,"付けたい名前を入力してください
 注意事項
  ・半角英字と'(アポストロフィー)が使用可能です
@@ -252507,11 +252508,12 @@ Die übrigen Buchstaben werden kleingeschrieben.",ui\00_message\ui\character_edi
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます","Gewünschten Namen eingeben.
 Hinweise
-Erlaubt sind A-Z, a-z und der Apostroph (').
-Ziffern und Leerzeichen sind unzulässig.
-Der Name muss mit einem Buchstaben beginnen.
-Dieser wird großgeschrieben.
-Die übrigen Buchstaben werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,22,,
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,22,,
 23,EDIT_MSG_TYPE_NAME_GUIDE_ATTENTION,"ファースト/ファミリーネーム
 両方に入力してください
 注意事項
@@ -252522,11 +252524,12 @@ Die übrigen Buchstaben werden kleingeschrieben.",ui\00_message\ui\character_edi
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます","Vor- und Nachnamen eingeben.
 Hinweise
-Erlaubt sind A-Z, a-z und der Apostroph (').
-Ziffern und Leerzeichen sind unzulässig.
-Jeder Name muss mit einem Buchstaben beginnen.
-Dieser wird großgeschrieben.
-Die übrigen Buchstaben werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,23,,
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,23,,
 23,EDIT_MSG_TYPE_NAME_GUIDE_ATTENTION,"ファースト/ファミリーネーム
 両方に入力してください
 注意事項
@@ -252537,11 +252540,12 @@ Die übrigen Buchstaben werden kleingeschrieben.",ui\00_message\ui\character_edi
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます","Vor- und Nachnamen eingeben.
 Hinweise
-Erlaubt sind A-Z, a-z und der Apostroph (').
-Ziffern und Leerzeichen sind unzulässig.
-Jeder Name muss mit einem Buchstaben beginnen.
-Dieser wird großgeschrieben.
-Die übrigen Buchstaben werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,23,,
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,23,,
 26,EDIT_MSG_TYPE_NAME_GUIDE_ERROR_CHARACTER,"<COL AA1414>使用できない文字が含まれています</COL>
 注意事項
  ・半角英字と'(アポストロフィー)が使用可能です
@@ -252549,14 +252553,14 @@ Die übrigen Buchstaben werden kleingeschrieben.",ui\00_message\ui\character_edi
  ・半角スペースは使用できません
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
- ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Contains characters that cannot be used</COL>.
-Notes:
-Only letters and ' (apostrophe) are allowed
-Numbers are not allowed
-Spaces are not allowed
-The first letter must be a letter
-The first letter will be converted to uppercase
-All other letters will be converted to lowercase",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,26,,
+ ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Name enthält ungültige Zeichen.</COL>
+Hinweise
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,26,,
 26,EDIT_MSG_TYPE_NAME_GUIDE_ERROR_CHARACTER,"<COL AA1414>使用できない文字が含まれています</COL>
 注意事項
  ・半角英字と'(アポストロフィー)が使用可能です
@@ -252564,14 +252568,14 @@ All other letters will be converted to lowercase",ui\00_message\ui\character_edi
  ・半角スペースは使用できません
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
- ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Contains characters that cannot be used</COL>.
-Notes:
-Only letters and ' (apostrophe) are allowed
-Numbers are not allowed
-Spaces are not allowed
-The first letter must be a letter
-The first letter will be converted to uppercase
-All other letters will be converted to lowercase",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,26,,
+ ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Name enthält ungültige Zeichen.</COL>
+Hinweise
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,26,,
 25,EDIT_MSG_TYPE_NAME_GUIDE_ERROR_NUMBER,"<COL AA1414>文字数が不足、またはオーバーしています</COL>
 注意事項
  ・半角英字と'(アポストロフィー)が使用可能です
@@ -252579,14 +252583,14 @@ All other letters will be converted to lowercase",ui\00_message\ui\character_edi
  ・半角スペースは使用できません
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
- ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Contains too few or too many characters</COL>.
-Notes:
-Only letters and ' (apostrophe) are allowed
-Numbers are not allowed
-Spaces are not allowed
-The first letter must be a letter
-The first letter will be converted to uppercase
-All other letters will be converted to lowercase",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,25,,
+ ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Name zu kurz oder zu lang.</COL>
+Hinweise
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,25,,
 25,EDIT_MSG_TYPE_NAME_GUIDE_ERROR_NUMBER,"<COL AA1414>文字数が不足、またはオーバーしています</COL>
 注意事項
  ・半角英字と'(アポストロフィー)が使用可能です
@@ -252594,14 +252598,14 @@ All other letters will be converted to lowercase",ui\00_message\ui\character_edi
  ・半角スペースは使用できません
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
- ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Contains too few or too many characters</COL>.
-Notes:
-Only letters and ' (apostrophe) are allowed
-Numbers are not allowed
-Spaces are not allowed
-The first letter must be a letter
-The first letter will be converted to uppercase
-All other letters will be converted to lowercase",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,25,,
+ ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Name zu kurz oder zu lang.</COL>
+Hinweise
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,25,,
 28,EDIT_MSG_TYPE_NAME_GUIDE_ERROR_USED,"<COL AA1414>すでに使用されている名前です</COL>
 注意事項
  ・半角英字と'(アポストロフィー)が使用可能です
@@ -252609,14 +252613,14 @@ All other letters will be converted to lowercase",ui\00_message\ui\character_edi
  ・半角スペースは使用できません
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
- ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Name already in use</COL>.
-Notes:
-Only letters and ' (apostrophe) are allowed
-Numbers are not allowed
-Spaces are not allowed
-The first letter must be a letter
-The first letter will be converted to uppercase
-All other letters will be converted to lowercase",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,28,,
+ ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Name bereits vergeben.</COL>
+Hinweise
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,28,,
 28,EDIT_MSG_TYPE_NAME_GUIDE_ERROR_USED,"<COL AA1414>すでに使用されている名前です</COL>
 注意事項
  ・半角英字と'(アポストロフィー)が使用可能です
@@ -252624,14 +252628,14 @@ All other letters will be converted to lowercase",ui\00_message\ui\character_edi
  ・半角スペースは使用できません
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
- ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Name already in use</COL>.
-Notes:
-Only letters and ' (apostrophe) are allowed
-Numbers are not allowed
-Spaces are not allowed
-The first letter must be a letter
-The first letter will be converted to uppercase
-All other letters will be converted to lowercase",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,28,,
+ ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Name bereits vergeben.</COL>
+Hinweise
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,28,,
 27,EDIT_MSG_TYPE_NAME_GUIDE_ERROR_WORD,"<COL AA1414>使用できない文字列が含まれています</COL>
 注意事項
  ・半角英字と'(アポストロフィー)が使用可能です
@@ -252639,14 +252643,14 @@ All other letters will be converted to lowercase",ui\00_message\ui\character_edi
  ・半角スペースは使用できません
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
- ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Contains forbidden word</COL>.
-Notes:
-Only letters and ' (apostrophe) are allowed
-Numbers are not allowed
-Spaces are not allowed
-The first letter must be a letter
-The first letter will be converted to uppercase
-All other letters will be converted to lowercase",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,27,,
+ ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Name enthält einen gesperrten Begriff.</COL>
+Hinweise
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,27,,
 27,EDIT_MSG_TYPE_NAME_GUIDE_ERROR_WORD,"<COL AA1414>使用できない文字列が含まれています</COL>
 注意事項
  ・半角英字と'(アポストロフィー)が使用可能です
@@ -252654,14 +252658,14 @@ All other letters will be converted to lowercase",ui\00_message\ui\character_edi
  ・半角スペースは使用できません
  ・名前の頭文字は半角英字のみ使用可能です
  ・名前の頭文字は大文字に変換されます
- ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Contains forbidden word</COL>.
-Notes:
-Only letters and ' (apostrophe) are allowed
-Numbers are not allowed
-Spaces are not allowed
-The first letter must be a letter
-The first letter will be converted to uppercase
-All other letters will be converted to lowercase",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,27,,
+ ・名前の頭文字以外は小文字に変換されます","<COL AA1414>Name enthält einen gesperrten Begriff.</COL>
+Hinweise
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,27,,
 24,EDIT_MSG_TYPE_NAME_GUIDE_OK,"<COL A39A70>入力ＯＫ</COL>
 注意事項
  ・半角英字と'(アポストロフィー)が使用可能です
@@ -252671,11 +252675,12 @@ All other letters will be converted to lowercase",ui\00_message\ui\character_edi
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます","<COL A39A70>Gültiger Name</COL>
 Hinweise
-Erlaubt sind A-Z, a-z und der Apostroph (').
-Ziffern und Leerzeichen sind unzulässig.
-Der Name muss mit einem Buchstaben beginnen.
-Dieser wird großgeschrieben.
-Die übrigen Buchstaben werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,24,,
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,24,,
 24,EDIT_MSG_TYPE_NAME_GUIDE_OK,"<COL A39A70>入力ＯＫ</COL>
 注意事項
  ・半角英字と'(アポストロフィー)が使用可能です
@@ -252685,29 +252690,30 @@ Die übrigen Buchstaben werden kleingeschrieben.",ui\00_message\ui\character_edi
  ・名前の頭文字は大文字に変換されます
  ・名前の頭文字以外は小文字に変換されます","<COL A39A70>Gültiger Name</COL>
 Hinweise
-Erlaubt sind A-Z, a-z und der Apostroph (').
-Ziffern und Leerzeichen sind unzulässig.
-Der Name muss mit einem Buchstaben beginnen.
-Dieser wird großgeschrieben.
-Die übrigen Buchstaben werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,24,,
+Erlaubt sind Buchstaben (A-Z, a-z)
+und der Apostroph (').
+Keine Ziffern oder Leerzeichen.
+Der Name beginnt mit einem Buchstaben.
+Der erste Buchstabe wird groß,
+alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,24,,
 20,EDIT_MSG_TYPE_NAME_LIMIT1,ファーストネーム（半角2～12文字）,Vorname (2-12 Zeichen),ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,20,,
 20,EDIT_MSG_TYPE_NAME_LIMIT1,ファーストネーム（半角2～12文字）,Vorname (2-12 Zeichen),ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,20,,
 21,EDIT_MSG_TYPE_NAME_LIMIT2,ファミリーネーム（半角2～8文字）,Nachname (2-8 Zeichen),ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,21,,
 21,EDIT_MSG_TYPE_NAME_LIMIT2,ファミリーネーム（半角2～8文字）,Nachname (2-8 Zeichen),ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,21,,
-85,EDIT_MSG_TYPE_NECK_POS,首の長さ,Neck Length,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,85,,
-85,EDIT_MSG_TYPE_NECK_POS,首の長さ,Neck Length,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,85,,
-86,EDIT_MSG_TYPE_NECK_SCALE,首の太さ,Neck Thickness,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,86,,
-86,EDIT_MSG_TYPE_NECK_SCALE,首の太さ,Neck Thickness,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,86,,
-64,EDIT_MSG_TYPE_NOSE_DIR,鼻の向き,Nose Direction,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,64,,
-64,EDIT_MSG_TYPE_NOSE_DIR,鼻の向き,Nose Direction,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,64,,
-63,EDIT_MSG_TYPE_NOSE_HEIGHT,鼻の高さ,Nose Height,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,63,,
-63,EDIT_MSG_TYPE_NOSE_HEIGHT,鼻の高さ,Nose Height,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,63,,
-60,EDIT_MSG_TYPE_NOSE_PARTS,鼻のパーツ,Nose Shape,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,60,,
-60,EDIT_MSG_TYPE_NOSE_PARTS,鼻のパーツ,Nose Shape,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,60,,
-61,EDIT_MSG_TYPE_NOSE_POS_Y,鼻の位置,Nose Vertical Position,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,61,,
-61,EDIT_MSG_TYPE_NOSE_POS_Y,鼻の位置,Nose Vertical Position,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,61,,
-62,EDIT_MSG_TYPE_NOSE_SIZE_X,鼻の幅,Nose Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,62,,
-62,EDIT_MSG_TYPE_NOSE_SIZE_X,鼻の幅,Nose Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,62,,
+85,EDIT_MSG_TYPE_NECK_POS,首の長さ,Halslänge,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,85,,
+85,EDIT_MSG_TYPE_NECK_POS,首の長さ,Halslänge,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,85,,
+86,EDIT_MSG_TYPE_NECK_SCALE,首の太さ,Halsdicke,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,86,,
+86,EDIT_MSG_TYPE_NECK_SCALE,首の太さ,Halsdicke,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,86,,
+64,EDIT_MSG_TYPE_NOSE_DIR,鼻の向き,Nasenneigung,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,64,,
+64,EDIT_MSG_TYPE_NOSE_DIR,鼻の向き,Nasenneigung,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,64,,
+63,EDIT_MSG_TYPE_NOSE_HEIGHT,鼻の高さ,Nasenhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,63,,
+63,EDIT_MSG_TYPE_NOSE_HEIGHT,鼻の高さ,Nasenhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,63,,
+60,EDIT_MSG_TYPE_NOSE_PARTS,鼻のパーツ,Nasenform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,60,,
+60,EDIT_MSG_TYPE_NOSE_PARTS,鼻のパーツ,Nasenform,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,60,,
+61,EDIT_MSG_TYPE_NOSE_POS_Y,鼻の位置,Nasenposition,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,61,,
+61,EDIT_MSG_TYPE_NOSE_POS_Y,鼻の位置,Nasenposition,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,61,,
+62,EDIT_MSG_TYPE_NOSE_SIZE_X,鼻の幅,Nasenbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,62,,
+62,EDIT_MSG_TYPE_NOSE_SIZE_X,鼻の幅,Nasenbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,62,,
 99,EDIT_MSG_TYPE_PERSONAL_ACTIVE,アクティブ,Peppy,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,99,,
 99,EDIT_MSG_TYPE_PERSONAL_ACTIVE,アクティブ,Peppy,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,99,,
 101,EDIT_MSG_TYPE_PERSONAL_COOL,クール,Cool,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,101,,
@@ -252724,34 +252730,34 @@ Die übrigen Buchstaben werden kleingeschrieben.",ui\00_message\ui\character_edi
 100,EDIT_MSG_TYPE_PERSONAL_SMART,スマート,Smart,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,100,,
 103,EDIT_MSG_TYPE_PERSONAL_WILD,ワイルド,Wild,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,103,,
 103,EDIT_MSG_TYPE_PERSONAL_WILD,ワイルド,Wild,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,103,,
-76,EDIT_MSG_TYPE_SCAR_PARTS,傷/その他のパーツ,Scar Type,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,76,,
-76,EDIT_MSG_TYPE_SCAR_PARTS,傷/その他のパーツ,Scar Type,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,76,,
+76,EDIT_MSG_TYPE_SCAR_PARTS,傷/その他のパーツ,Narben und Details,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,76,,
+76,EDIT_MSG_TYPE_SCAR_PARTS,傷/その他のパーツ,Narben und Details,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,76,,
 30,EDIT_MSG_TYPE_SEX_F,女性,Frau,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,30,,
 30,EDIT_MSG_TYPE_SEX_F,女性,Frau,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,30,,
 29,EDIT_MSG_TYPE_SEX_M,男性,Mann,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,29,,
 29,EDIT_MSG_TYPE_SEX_M,男性,Mann,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,29,,
-87,EDIT_MSG_TYPE_SHOULDER_SIZE,肩幅,Shoulder Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,87,,
-87,EDIT_MSG_TYPE_SHOULDER_SIZE,肩幅,Shoulder Width,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,87,,
-34,EDIT_MSG_TYPE_SOKUTOUBU,側頭部の幅,Temple Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,34,,
-34,EDIT_MSG_TYPE_SOKUTOUBU,側頭部の幅,Temple Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,34,,
+87,EDIT_MSG_TYPE_SHOULDER_SIZE,肩幅,Schulterbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,87,,
+87,EDIT_MSG_TYPE_SHOULDER_SIZE,肩幅,Schulterbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,87,,
+34,EDIT_MSG_TYPE_SOKUTOUBU,側頭部の幅,Schläfenbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,34,,
+34,EDIT_MSG_TYPE_SOKUTOUBU,側頭部の幅,Schläfenbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,34,,
 132,EDIT_MSG_TYPE_TYPE,タイプ,Typ,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,132,,
 132,EDIT_MSG_TYPE_TYPE,タイプ,Typ,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,132,,
 31,EDIT_MSG_TYPE_VAL,タイプ<VAL>,Typ <VAL>,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,31,,
 31,EDIT_MSG_TYPE_VAL,タイプ<VAL>,Typ <VAL>,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,31,,
-96,EDIT_MSG_TYPE_VOICE_PITCH_H,<COL 969696>ピッチ：</COL>高,<COL 969696>Pitch: </COL> High,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,96,,
-96,EDIT_MSG_TYPE_VOICE_PITCH_H,<COL 969696>ピッチ：</COL>高,<COL 969696>Pitch: </COL> High,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,96,,
-94,EDIT_MSG_TYPE_VOICE_PITCH_L,<COL 969696>ピッチ：</COL>低,<COL 969696>Pitch: </COL> Low,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,94,,
-94,EDIT_MSG_TYPE_VOICE_PITCH_L,<COL 969696>ピッチ：</COL>低,<COL 969696>Pitch: </COL> Low,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,94,,
-95,EDIT_MSG_TYPE_VOICE_PITCH_M,<COL 969696>ピッチ：</COL>中,<COL 969696>Pitch: </COL> Medium,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,95,,
-95,EDIT_MSG_TYPE_VOICE_PITCH_M,<COL 969696>ピッチ：</COL>中,<COL 969696>Pitch: </COL> Medium,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,95,,
-91,EDIT_MSG_TYPE_WEST_POS,腰の位置,Hip Position,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,91,,
-91,EDIT_MSG_TYPE_WEST_POS,腰の位置,Hip Position,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,91,,
-92,EDIT_MSG_TYPE_WEST_SIZE,腰の大きさ,Hip Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,92,,
-92,EDIT_MSG_TYPE_WEST_SIZE,腰の大きさ,Hip Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,92,,
-77,EDIT_MSG_TYPE_WRINKLE,しわの量,Wrinkles,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,77,,
-77,EDIT_MSG_TYPE_WRINKLE,しわの量,Wrinkles,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,77,,
-90,EDIT_MSG_TYPE_WRIST_SIZE,手の大きさ,Hand Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,90,,
-90,EDIT_MSG_TYPE_WRIST_SIZE,手の大きさ,Hand Size,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,90,,
+96,EDIT_MSG_TYPE_VOICE_PITCH_H,<COL 969696>ピッチ：</COL>高,<COL 969696>Tonhöhe: </COL>Hoch,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,96,,
+96,EDIT_MSG_TYPE_VOICE_PITCH_H,<COL 969696>ピッチ：</COL>高,<COL 969696>Tonhöhe: </COL>Hoch,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,96,,
+94,EDIT_MSG_TYPE_VOICE_PITCH_L,<COL 969696>ピッチ：</COL>低,<COL 969696>Tonhöhe: </COL>Tief,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,94,,
+94,EDIT_MSG_TYPE_VOICE_PITCH_L,<COL 969696>ピッチ：</COL>低,<COL 969696>Tonhöhe: </COL>Tief,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,94,,
+95,EDIT_MSG_TYPE_VOICE_PITCH_M,<COL 969696>ピッチ：</COL>中,<COL 969696>Tonhöhe: </COL>Mittel,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,95,,
+95,EDIT_MSG_TYPE_VOICE_PITCH_M,<COL 969696>ピッチ：</COL>中,<COL 969696>Tonhöhe: </COL>Mittel,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,95,,
+91,EDIT_MSG_TYPE_WEST_POS,腰の位置,Hüfthöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,91,,
+91,EDIT_MSG_TYPE_WEST_POS,腰の位置,Hüfthöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,91,,
+92,EDIT_MSG_TYPE_WEST_SIZE,腰の大きさ,Hüftbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,92,,
+92,EDIT_MSG_TYPE_WEST_SIZE,腰の大きさ,Hüftbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,92,,
+77,EDIT_MSG_TYPE_WRINKLE,しわの量,Faltenstärke,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,77,,
+77,EDIT_MSG_TYPE_WRINKLE,しわの量,Faltenstärke,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,77,,
+90,EDIT_MSG_TYPE_WRIST_SIZE,手の大きさ,Handgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,90,,
+90,EDIT_MSG_TYPE_WRIST_SIZE,手の大きさ,Handgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,90,,
 10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Load,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,10,,
 10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Load,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,10,,
 10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Load,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,10,,
@@ -253582,44 +253588,40 @@ contours, eyes, eyebrows, etc.",ui\00_message\ui\character_edit_dialog_win.gmd,\
 元に戻る/やり直すの履歴機能を使ったり
 こまめにセーブ/ロードをおこなって
 理想のキャラクターモデルに近づけていきましょう","[Tipp]
-„Zufall“ mischt Merkmale wie Haare,
-Augen und Augenbrauen.
-Über den Verlauf lassen sich Änderungen
-rückgängig machen. Speichern und Laden hilft,
-verschiedene Varianten auszuprobieren.",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,47,
+Zufall mischt Haare, Augen und Brauen.
+Im Verlauf lassen sich Änderungen
+rückgängig machen. Vorlagen helfen,
+Varianten zu speichern und zu laden.",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,47,
 47,EDIT_MSG_DIALOG_TUTORIAL_RANDOM,"《ワンポイントアドバイス》
 ランダムを選ぶと、髪の毛や目、眉などの
 各種パーツをランダム設定します
 元に戻る/やり直すの履歴機能を使ったり
 こまめにセーブ/ロードをおこなって
 理想のキャラクターモデルに近づけていきましょう","[Tipp]
-„Zufall“ mischt Merkmale wie Haare,
-Augen und Augenbrauen.
-Über den Verlauf lassen sich Änderungen
-rückgängig machen. Speichern und Laden hilft,
-verschiedene Varianten auszuprobieren.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,47,
+Zufall mischt Haare, Augen und Brauen.
+Im Verlauf lassen sich Änderungen
+rückgängig machen. Vorlagen helfen,
+Varianten zu speichern und zu laden.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,47,
 47,EDIT_MSG_DIALOG_TUTORIAL_RANDOM,"《ワンポイントアドバイス》
 ランダムを選ぶと、髪の毛や目、眉などの
 各種パーツをランダム設定します
 元に戻る/やり直すの履歴機能を使ったり
 こまめにセーブ/ロードをおこなって
 理想のキャラクターモデルに近づけていきましょう","[Tipp]
-„Zufall“ mischt Merkmale wie Haare,
-Augen und Augenbrauen.
-Über den Verlauf lassen sich Änderungen
-rückgängig machen. Speichern und Laden hilft,
-verschiedene Varianten auszuprobieren.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,47,
+Zufall mischt Haare, Augen und Brauen.
+Im Verlauf lassen sich Änderungen
+rückgängig machen. Vorlagen helfen,
+Varianten zu speichern und zu laden.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,47,
 47,EDIT_MSG_DIALOG_TUTORIAL_RANDOM,"《ワンポイントアドバイス》
 ランダムを選ぶと、髪の毛や目、眉などの
 各種パーツをランダム設定します
 元に戻る/やり直すの履歴機能を使ったり
 こまめにセーブ/ロードをおこなって
 理想のキャラクターモデルに近づけていきましょう","[Tipp]
-„Zufall“ mischt Merkmale wie Haare,
-Augen und Augenbrauen.
-Über den Verlauf lassen sich Änderungen
-rückgängig machen. Speichern und Laden hilft,
-verschiedene Varianten auszuprobieren.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,47,
+Zufall mischt Haare, Augen und Brauen.
+Im Verlauf lassen sich Änderungen
+rückgängig machen. Vorlagen helfen,
+Varianten zu speichern und zu laden.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,47,
 47,EDIT_MSG_DIALOG_TUTORIAL_RANDOM,"《ワンポイントアドバイス》
 ランダムを選ぶと、髪の毛や目、眉などの
 各種パーツをランダム設定します
@@ -253652,8 +253654,9 @@ to get closer to your ideal character model",ui\00_message\ui\character_edit_dia
 [<COL FFFFFF><KC UI_START></COL>]
 Vorlagen speichern und laden
 [<COL FFFFFF><KC UI_LB></COL> / <COL FFFFFF><KC UI_RB></COL>]
-Änderungen rückgängig machen oder wiederholen
-(Beim Geschlechtswechsel wird der Verlauf gelöscht.)
+Rückgängig / Wiederholen
+Ein Geschlechtswechsel
+löscht den Verlauf.
 Weitere Funktionen stehen
 in der Tastenleiste unten.",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,45,
 45,EDIT_MSG_DIALOG_TUTORIAL_SEX,"《便利な機能を紹介》
@@ -253666,8 +253669,9 @@ in der Tastenleiste unten.",ui\00_message\ui\character_edit_dialog_win.gmd,\char
 [<COL FFFFFF><KC UI_START></COL>]
 Vorlagen speichern und laden
 [<COL FFFFFF><KC UI_LB></COL> / <COL FFFFFF><KC UI_RB></COL>]
-Änderungen rückgängig machen oder wiederholen
-(Beim Geschlechtswechsel wird der Verlauf gelöscht.)
+Rückgängig / Wiederholen
+Ein Geschlechtswechsel
+löscht den Verlauf.
 Weitere Funktionen stehen
 in der Tastenleiste unten.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,45,
 45,EDIT_MSG_DIALOG_TUTORIAL_SEX,"《便利な機能を紹介》
@@ -253680,8 +253684,9 @@ in der Tastenleiste unten.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\u
 [<COL FFFFFF><KC UI_START></COL>]
 Vorlagen speichern und laden
 [<COL FFFFFF><KC UI_LB></COL> / <COL FFFFFF><KC UI_RB></COL>]
-Änderungen rückgängig machen oder wiederholen
-(Beim Geschlechtswechsel wird der Verlauf gelöscht.)
+Rückgängig / Wiederholen
+Ein Geschlechtswechsel
+löscht den Verlauf.
 Weitere Funktionen stehen
 in der Tastenleiste unten.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,45,
 45,EDIT_MSG_DIALOG_TUTORIAL_SEX,"《便利な機能を紹介》
@@ -253694,8 +253699,9 @@ in der Tastenleiste unten.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\u
 [<COL FFFFFF><KC UI_START></COL>]
 Vorlagen speichern und laden
 [<COL FFFFFF><KC UI_LB></COL> / <COL FFFFFF><KC UI_RB></COL>]
-Änderungen rückgängig machen oder wiederholen
-(Beim Geschlechtswechsel wird der Verlauf gelöscht.)
+Rückgängig / Wiederholen
+Ein Geschlechtswechsel
+löscht den Verlauf.
 Weitere Funktionen stehen
 in der Tastenleiste unten.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,45,
 45,EDIT_MSG_DIALOG_TUTORIAL_SEX,"《便利な機能を紹介》
@@ -253873,21 +253879,21 @@ jederzeit an der zuständigen Stelle wechseln.)",ui\00_message\ui\character_edit
 4,EDIT_MSG_JOB_SEALEDSAGE,シールドセージ,Schildweiser,ui\00_message\ui\character_edit_job.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,4,
 0,EDIT_MSG_TITLE_JOB_SELECT,Job Select,Klassenwahl,ui\00_message\ui\character_edit_job.gmd,\ui\uGUICharacterEditPopCard.arc,uGUICharacterEditPopCard.arc,0,
 0,EDIT_MSG_TITLE_JOB_SELECT,Job Select,Klassenwahl,ui\00_message\ui\character_edit_job.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,0,
-0,EDIT_MSG_TYPE_VOICE_VAL,ボイス<VAL>,Voice <VAL>,ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,0,
-5,EDIT_MSG_TYPE_VOICE_VAL_F_SP4,ボイス<VAL> （水樹奈々）,Voice <VAL> (Nana Mizuki),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,5,
-6,EDIT_MSG_TYPE_VOICE_VAL_F_SP5,ボイス<VAL> （坂本真綾）,Voice <VAL> (Maaya Sakamoto),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,6,
-7,EDIT_MSG_TYPE_VOICE_VAL_F_SP6,ボイス<VAL> （田中理恵）,Voice <VAL> (Rie Tanaka),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,7,
-8,EDIT_MSG_TYPE_VOICE_VAL_F_SP7,ボイス<VAL> （斎藤千和）,Voice <VAL> (Chiwa Saitō),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,8,
-11,EDIT_MSG_TYPE_VOICE_VAL_F_SP8,ボイス<VAL> （堀江由衣）,Voice <VAL> (Yui Horie),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,11,
-12,EDIT_MSG_TYPE_VOICE_VAL_F_SP9,ボイス<VAL> （加藤英美里）,Voice <VAL> (Emiri Katō),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,12,
-14,EDIT_MSG_TYPE_VOICE_VAL_F_SP10,ボイス<VAL> （早見沙織）,Voice <VAL> (Saori Hayami),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,14,
-1,EDIT_MSG_TYPE_VOICE_VAL_M_SP4,ボイス<VAL> （神谷浩史）,Voice <VAL> (Hiroshi Kamiya),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,1,
-2,EDIT_MSG_TYPE_VOICE_VAL_M_SP5,ボイス<VAL> （中村悠一）,Voice <VAL> (Yuichi Nakamura),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,2,
-3,EDIT_MSG_TYPE_VOICE_VAL_M_SP6,ボイス<VAL> （安元洋貴）,Voice <VAL> (Hiroki Yasumoto),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,3,
-4,EDIT_MSG_TYPE_VOICE_VAL_M_SP7,ボイス<VAL> （柿原徹也）,Voice <VAL> (Tetsuya Kakihara),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,4,
-9,EDIT_MSG_TYPE_VOICE_VAL_M_SP8,ボイス<VAL> （櫻井孝宏）,Voice <VAL> (Takahiro Sakurai),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,9,
-10,EDIT_MSG_TYPE_VOICE_VAL_M_SP9,ボイス<VAL> （森川智之）,Voice <VAL> (Toshiyuki Morikawa),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,10,
-13,EDIT_MSG_TYPE_VOICE_VAL_M_SP10,ボイス<VAL> （梶裕貴）,Voice <VAL> (Yuki Kaji),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,13,
+0,EDIT_MSG_TYPE_VOICE_VAL,ボイス<VAL>,Stimme <VAL>,ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,0,
+5,EDIT_MSG_TYPE_VOICE_VAL_F_SP4,ボイス<VAL> （水樹奈々）,Stimme <VAL> (Nana Mizuki),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,5,
+6,EDIT_MSG_TYPE_VOICE_VAL_F_SP5,ボイス<VAL> （坂本真綾）,Stimme <VAL> (Maaya Sakamoto),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,6,
+7,EDIT_MSG_TYPE_VOICE_VAL_F_SP6,ボイス<VAL> （田中理恵）,Stimme <VAL> (Rie Tanaka),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,7,
+8,EDIT_MSG_TYPE_VOICE_VAL_F_SP7,ボイス<VAL> （斎藤千和）,Stimme <VAL> (Chiwa Saito),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,8,
+11,EDIT_MSG_TYPE_VOICE_VAL_F_SP8,ボイス<VAL> （堀江由衣）,Stimme <VAL> (Yui Horie),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,11,
+12,EDIT_MSG_TYPE_VOICE_VAL_F_SP9,ボイス<VAL> （加藤英美里）,Stimme <VAL> (Emiri Kato),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,12,
+14,EDIT_MSG_TYPE_VOICE_VAL_F_SP10,ボイス<VAL> （早見沙織）,Stimme <VAL> (Saori Hayami),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,14,
+1,EDIT_MSG_TYPE_VOICE_VAL_M_SP4,ボイス<VAL> （神谷浩史）,Stimme <VAL> (Hiroshi Kamiya),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,1,
+2,EDIT_MSG_TYPE_VOICE_VAL_M_SP5,ボイス<VAL> （中村悠一）,Stimme <VAL> (Yuichi Nakamura),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,2,
+3,EDIT_MSG_TYPE_VOICE_VAL_M_SP6,ボイス<VAL> （安元洋貴）,Stimme <VAL> (Hiroki Yasumoto),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,3,
+4,EDIT_MSG_TYPE_VOICE_VAL_M_SP7,ボイス<VAL> （柿原徹也）,Stimme <VAL> (Tetsuya Kakihara),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,4,
+9,EDIT_MSG_TYPE_VOICE_VAL_M_SP8,ボイス<VAL> （櫻井孝宏）,Stimme <VAL> (Takahiro Sakurai),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,9,
+10,EDIT_MSG_TYPE_VOICE_VAL_M_SP9,ボイス<VAL> （森川智之）,Stimme <VAL> (Toshiyuki Morikawa),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,10,
+13,EDIT_MSG_TYPE_VOICE_VAL_M_SP10,ボイス<VAL> （梶裕貴）,Stimme <VAL> (Yuki Kaji),ui\00_message\ui\character_edit_voicecast.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,13,
 0,chat_macro_help_5405,,,ui\00_message\ui\chat_macro_help.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Chat Macro
 1,chat_macro_help_5406,,,ui\00_message\ui\chat_macro_help.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Chat Macro
 2,chat_macro_help_5407,,,ui\00_message\ui\chat_macro_help.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Chat Macro
@@ -255347,7 +255353,7 @@ total score reward!",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.
 409,ana_totalscore_reward,累計スコア報酬を獲得！,Earned Total Score Rewards!,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,409,
 65,ana_transport_error,礎を解放する条件をみたしていません,"You do not meet the conditions to go to the
 Portcrystal.",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,65,
-238,ana_tutorial_announce,新しいチュートリアルがあります,There is a new tutorial available.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,238,
+238,ana_tutorial_announce,新しいチュートリアルがあります,Neues Tutorial verfügbar.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,238,
 464,ana_unauthorized_cannotuse,権限がないため使用できません,Unavailable due to lack of authorization,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,464,
 225,ana_unlock_contents,<TEXT>が解放されました,<TEXT> has been unlocked.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,225,
 274,ana_version_error,このバージョンでは使用できません,This cannot be used in this version.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,274,
@@ -258448,15 +258454,15 @@ to level it up?",ui\00_message\ui\job_skill_manager.gmd,\ui\uGUISkill.arc,uGUISk
 53,job_change_error_no_weapon,装備できる武器がありません,There is no available weapon.,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUIPopSkillInfo.arc,uGUIPopSkillInfo.arc,53,,Skills/Augment Menu
 53,job_change_error_no_weapon,装備できる武器がありません,There is no available weapon.,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUISkill.arc,uGUISkill.arc,53,,Skills/Augment Menu
 28,job_infomation_window_heading_caption,Details,Details,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUICharacter.arc,uGUICharacter.arc,28,,Skills/Augment Menu
-28,job_infomation_window_heading_caption,Details,Details,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,28,,Skills/Augment Menu
+28,job_infomation_window_heading_caption,Details,Beschreibung,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,28,,Skills/Augment Menu
 28,job_infomation_window_heading_caption,Details,Details,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUIPopSkillInfo.arc,uGUIPopSkillInfo.arc,28,,Skills/Augment Menu
 28,job_infomation_window_heading_caption,Details,Details,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUISkill.arc,uGUISkill.arc,28,,Skills/Augment Menu
 29,job_infomation_window_heading_weapon,Weapons,Weapons,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUICharacter.arc,uGUICharacter.arc,29,,Skills/Augment Menu
-29,job_infomation_window_heading_weapon,Weapons,Weapons,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,29,,Skills/Augment Menu
+29,job_infomation_window_heading_weapon,Weapons,Waffen,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,29,,Skills/Augment Menu
 29,job_infomation_window_heading_weapon,Weapons,Weapons,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUIPopSkillInfo.arc,uGUIPopSkillInfo.arc,29,,Skills/Augment Menu
 29,job_infomation_window_heading_weapon,Weapons,Weapons,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUISkill.arc,uGUISkill.arc,29,,Skills/Augment Menu
 27,job_infomation_window_title_infomation,Information,Information,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUICharacter.arc,uGUICharacter.arc,27,,Skills/Augment Menu
-27,job_infomation_window_title_infomation,Information,Information,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,27,,Skills/Augment Menu
+27,job_infomation_window_title_infomation,Information,Klasseninfo,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,27,,Skills/Augment Menu
 27,job_infomation_window_title_infomation,Information,Information,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUIPopSkillInfo.arc,uGUIPopSkillInfo.arc,27,,Skills/Augment Menu
 27,job_infomation_window_title_infomation,Information,Information,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUISkill.arc,uGUISkill.arc,27,,Skills/Augment Menu
 57,job_msg_category,カテゴリー,Category,ui\00_message\ui\job_skill_manager.gmd,\ui\uGUICharacter.arc,uGUICharacter.arc,57,,Skills/Augment Menu
@@ -259146,7 +259152,7 @@ Training!!!",ui\00_message\ui\myroom.gmd,\MyRoom.arc,MyRoom.arc,61,,Private Room
 184,OPTION_MSG_CHATFILTER_SE,着信音を設定するフィルター,Filter,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,184,
 107,OPTION_MSG_CHATTRANCERATE,非アクティブ時のチャット操作UIの不透明度,Inactive Opacity,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,107,
 123,OPTION_MSG_CHOICE_ALL1,誰でも表示する,Anyone,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,123,
-156,OPTION_MSG_CHOICE_ALL2,誰にでも,Anyone,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,156,
+156,OPTION_MSG_CHOICE_ALL2,誰にでも,Alle,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,156,
 145,OPTION_MSG_CHOICE_CHATSE1,着信音１,Ringtone １,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,145,
 146,OPTION_MSG_CHOICE_CHATSE2,着信音２,Ringtone ２,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,146,
 147,OPTION_MSG_CHOICE_CHATSE3,着信音３,Ringtone ３,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,147,
@@ -259157,8 +259163,8 @@ Training!!!",ui\00_message\ui\myroom.gmd,\MyRoom.arc,MyRoom.arc,61,,Private Room
 152,OPTION_MSG_CHOICE_CHATSE8,着信音８,Ringtone ８,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,152,
 199,OPTION_MSG_CHOICE_CHATSENONE,着信音なし,None,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,199,
 126,OPTION_MSG_CHOICE_CLAN1,,,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,126,
-159,OPTION_MSG_CHOICE_CLAN2,クランのみ,Clan only,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,159,
-157,OPTION_MSG_CHOICE_CLAN_FRIEND2,フレンドとクランのみ,Friends and Clan only,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,157,
+159,OPTION_MSG_CHOICE_CLAN2,クランのみ,Nur Clan,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,159,
+157,OPTION_MSG_CHOICE_CLAN_FRIEND2,フレンドとクランのみ,Freunde und Clan,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,157,
 133,OPTION_MSG_CHOICE_COLLER1,■ カラー１,■ Color １,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,133,
 134,OPTION_MSG_CHOICE_COLLER2,■ カラー２,■ Color ２,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,134,
 135,OPTION_MSG_CHOICE_COLLER3,■ カラー３,■ Color ３,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,135,
@@ -259177,7 +259183,7 @@ Training!!!",ui\00_message\ui\myroom.gmd,\MyRoom.arc,MyRoom.arc,61,,Private Room
 119,OPTION_MSG_CHOICE_FAR,遠い,Far,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,119,
 132,OPTION_MSG_CHOICE_FIRST1,ファーストネームのみ,First Name,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,132,
 125,OPTION_MSG_CHOICE_FRIEND1,,,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,125,
-158,OPTION_MSG_CHOICE_FRIEND2,フレンドのみ,Friends only,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,158,
+158,OPTION_MSG_CHOICE_FRIEND2,フレンドのみ,Nur Freunde,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,158,
 130,OPTION_MSG_CHOICE_F_FIRST1,ファーストネームを頭文字のみ,First Name and Last Initial,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,130,
 155,OPTION_MSG_CHOICE_LOCAL,ローカル(LT),Local (LT),ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,155,
 122,OPTION_MSG_CHOICE_LQUEST,パーソナルクエスト,Personal Quest,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,122,
@@ -259185,7 +259191,7 @@ Training!!!",ui\00_message\ui\myroom.gmd,\MyRoom.arc,MyRoom.arc,61,,Private Room
 120,OPTION_MSG_CHOICE_MQUEST,メインクエスト,Main Quest,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,120,
 117,OPTION_MSG_CHOICE_NEAR,,,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,117,
 127,OPTION_MSG_CHOICE_NOBADY1,,,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,127,
-160,OPTION_MSG_CHOICE_NOBADY2,非公開,Private,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,160,
+160,OPTION_MSG_CHOICE_NOBADY2,非公開,Privat,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,160,
 124,OPTION_MSG_CHOICE_NONE1,表示しない,Any,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,124,
 153,OPTION_MSG_CHOICE_RESTANIA,レスタニア(GT),Lestania (GT),ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,153,
 366,OPTION_MSG_CHOICE_RQUEST,サブストーリークエスト,Substory Quest,ui\00_message\ui\option_res_win.gmd,\ui\uGUIOption.arc,uGUIOption.arc,366,
@@ -260465,11 +260471,11 @@ the Pawn Expedition Corps.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuff
 13,PAWNREACTION_MSG_PSPSKILL01,特技閃き時,Special Skill Inspiration Moment,ui\00_message\ui\pawn_reaction.gmd,\ui\uGUIPopPawnList.arc,uGUIPopPawnList.arc,13,
 14,PAWNREACTION_MSG_PSPSKILL02,特技使用時,Special Skill Use,ui\00_message\ui\pawn_reaction.gmd,\ui\uGUIPopPawnList.arc,uGUIPopPawnList.arc,14,
 8,PAWNREACTION_MSG_TITLE,ポーンリアクションを設定して下さい,Customize Pawn Reactions,ui\00_message\ui\pawn_reaction.gmd,\ui\uGUIPopPawnList.arc,uGUIPopPawnList.arc,8,
-0,PAWN_SHARE_RANGE_RES_ANYONE,誰にでも,Anyone,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,0,
-2,PAWN_SHARE_RANGE_RES_CRAN_ONLY,クランのみ,Clan only,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,2,
-3,PAWN_SHARE_RANGE_RES_FRIEND_CRAN_ONLY,フレンドとクランのみ,Friends and Clan only,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,3,
-1,PAWN_SHARE_RANGE_RES_FRIEND_ONLY,フレンドのみ,Friends only,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,1,
-4,PAWN_SHARE_RANGE_RES_NOBODY,非公開,Private,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,4,
+0,PAWN_SHARE_RANGE_RES_ANYONE,誰にでも,Alle,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,0,
+2,PAWN_SHARE_RANGE_RES_CRAN_ONLY,クランのみ,Nur Clan,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,2,
+3,PAWN_SHARE_RANGE_RES_FRIEND_CRAN_ONLY,フレンドとクランのみ,Freunde und Clan,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,3,
+1,PAWN_SHARE_RANGE_RES_FRIEND_ONLY,フレンドのみ,Nur Freunde,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,1,
+4,PAWN_SHARE_RANGE_RES_NOBODY,非公開,Privat,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,4,
 3,PAWN_STATUS_RES_CRAFT,クラフト中,Crafting,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,3,
 4,PAWN_STATUS_RES_EXPEDITION,遠征中,Expedition,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,4,
 2,PAWN_STATUS_RES_LOST,ロスト中,Lost,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,2,
