@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Close control hint for tutorial popup and photo album",
+  "gmd_path": "ui\\00_message\\ui\\common_message.gmd",
+  "arc_path": "\\systemFlow.arc",
+  "entries": [
+    {
+      "key": "common_guide_end",
+      "read_index": "54",
+      "source_jp": "終了",
+      "source_en": "Exit",
+      "text": "Schließen"
+    }
+  ]
+}
