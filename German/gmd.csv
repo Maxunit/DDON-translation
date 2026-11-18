@@ -85217,11 +85217,11 @@ rest.",ui\00_message\master\area21_spot_info.gmd,\ui\uGUIAreaMaster.arc,uGUIArea
 9,namedparam_60,百騎喰らい, Hyakki Gourmet ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,Enemy Parameter
 10,namedparam_61,万騎喰らい, Knight Eater ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Enemy Parameter
 11,namedparam_120,亡都巨人兵, Ruins Giant Warrior ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,11,,Enemy Parameter
-12,namedparam_122,ゴブリンの尖兵, Goblin Vanguard ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,Enemy Parameter
-13,namedparam_123,ゴブリンの哨戒兵, Goblin Patrol ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,13,,Enemy Parameter
+12,namedparam_122,ゴブリンの尖兵, Goblin-Vorhut ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,Enemy Parameter
+13,namedparam_123,ゴブリンの哨戒兵, Goblin-Patrouille ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,13,,Enemy Parameter
 14,namedparam_124,ゴブリンの補給兵, Goblin Reinforcement ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,14,,Enemy Parameter
-15,namedparam_125,オーク侵略兵, Orc Invader ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,15,,Enemy Parameter
-16,namedparam_126,キラービー進攻種, Invasive Killer Bee ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,16,,Enemy Parameter
+15,namedparam_125,オーク侵略兵, Ork-Invasor ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,15,,Enemy Parameter
+16,namedparam_126,キラービー進攻種, Eindringende Killerbiene ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,16,,Enemy Parameter
 17,namedparam_127,5本角のガルゴ, Galugo the Pentagram ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,17,,Enemy Parameter
 18,namedparam_128,ガルゴの手下, Galugo's Minion ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,18,,Enemy Parameter
 19,namedparam_129,集いし, Flocking ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,19,,Enemy Parameter
@@ -130305,40 +130305,36 @@ about to leave?",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,5
 0,,部屋に戻ると何だか力が抜けちゃうわね,"
 It's kind of relaxing to be back in your room.",ui\00_message\pw\pwtlk08.gmd,\game_common.arc,game_common.arc,83,,Pawn Chatbox Bark (Sexy)
 0,,"いいか――
-覚者の初陣には白竜の特別な加護がある","Listen carefully.
-The Arisen are blessed by the White Dragon
-for their first battle.",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,0,Leo,Quest Dialogue
+覚者の初陣には白竜の特別な加護がある","Hör gut zu.
+Für deine erste Schlacht als Erweckter
+segnet dich der Weiße Drache.",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,0,Leo,Quest Dialogue
 0,,"だから、実力以上の戦いができるはずだ
-思う存分暴れてくれ","Your strength will be far greater
-than normal. Let loose and don't hold
-anything back.",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,1,Leo,Quest Dialogue
-0,,砦の守備隊は、ヴァネッサをはじめ精鋭ぞろい,"The fort's troops are Vanessa's
-handpicked elite!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,2,Iris,Quest Dialogue
-0,,救援要請なんて、もしかして初めてかも？,"To even call for reinforcements...
-Have they ever done that?",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,3,Iris,Quest Dialogue
+思う存分暴れてくれ","Mit seinem Segen bist du stärker als sonst.
+Also leg los und halte dich nicht zurück!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,1,Leo,Quest Dialogue
+0,,砦の守備隊は、ヴァネッサをはじめ精鋭ぞろい,"Vanessa und ihre Leute gehören
+zu den Besten der Festung.",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,2,Iris,Quest Dialogue
+0,,救援要請なんて、もしかして初めてかも？,"Dass sie Verstärkung anfordern ...
+Ist das überhaupt schon mal passiert?",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,3,Iris,Quest Dialogue
 0,,"ここまでオークに押し込まれることなど
-この３００年、なかったことだ","For 300 years, the Orcs haven't
-managed to advance this far... until now.",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,4,Leo,Quest Dialogue
-0,,情勢はこの上なく深刻――さあ、急ぐぞ！,"'Tis more than a dire situation.
-Now, advance!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,5,Leo,Quest Dialogue
-0,,武器、用意！　構えろ！,"Weapons ready!
-Steel yourselves!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,6,Leo,Quest Dialogue
-0,,走れ～！,Forward!,ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,7,Iris,Quest Dialogue
+この３００年、なかったことだ","In 300 Jahren sind die Orks
+noch nie so weit vorgedrungen.",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,4,Leo,Quest Dialogue
+0,,情勢はこの上なく深刻――さあ、急ぐぞ！,"Die Lage ist ernst. Los, beeil dich!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,5,Leo,Quest Dialogue
+0,,武器、用意！　構えろ！,Waffen bereit! In Stellung!,ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,6,Leo,Quest Dialogue
+0,,走れ～！,Lauf!,ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,7,Iris,Quest Dialogue
 0,,"隙あらば掴みかかるんだ
-デカイ敵はよじ登って戦え","Find an opportunity to grab them.
-Climb onto larger foes and strike!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,8,Leo,Quest Dialogue
+デカイ敵はよじ登って戦え","Pack sie, wenn du eine Lücke siehst.
+Klettere auf große Gegner und greif an!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,8,Leo,Quest Dialogue
 0,,体力減ったら回復アイテム！　自己責任だぞ！,"Use a recovery item should you falter!
 That's your responsibility!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,9,Iris,Quest Dialogue
-0,,ほら、砦へ急いで！,"Quickly, to the fortress!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,10,Iris,Quest Dialogue
-0,,立派立派、まだ生きてる！　やるねえ！,"Splendid, splendid! Still
-alive! Alriiight!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,11,Iris,Quest Dialogue
+0,,ほら、砦へ急いで！,"Los, schnell zur Festung!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,10,Iris,Quest Dialogue
+0,,立派立派、まだ生きてる！　やるねえ！,"Sehr gut, du lebst noch! Nicht schlecht!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,11,Iris,Quest Dialogue
 0,,あのね――わたしの心配より自分の心配！,"Hey now, your concerns are greater than mine!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,12,Iris,Quest Dialogue
 0,,ここはまだ演習のようなもの――さあ、砦へ急げ！,"'Tis just as we practiced!
 Now, to the fort!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,13,Leo,Quest Dialogue
 0,,"バタバタしてるが、動きは悪くない
-自信を持って戦え！","A bit gaudy, but your movements
-are good. Fight with confidence!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,14,Leo,Quest Dialogue
-0,,さあ、砦へ突入だ！,"Now, we charge into the fort!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,15,Leo,Quest Dialogue
+自信を持って戦え！","Du bist etwas hektisch, aber du schlägst dich gut.
+Vertrau auf dein Können!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,14,Leo,Quest Dialogue
+0,,さあ、砦へ突入だ！,"Los, wir stürmen die Festung!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,15,Leo,Quest Dialogue
 0,,おい、どこへいく！,"Hey, where are you going!",ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,16,Leo,Quest Dialogue
 0,,そっちじゃないぞ！,Not that way!,ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,17,Leo,Quest Dialogue
 0,,こっちへ来い！,Come this way!,ui\00_message\quest\q00000001.gmd,\quest\q00000001.arc,q00000001.arc,18,Leo,Quest Dialogue
