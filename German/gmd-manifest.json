@@ -4,11 +4,11 @@
   "source_path": "gmd.csv",
   "source_sha256": "586da99b2b8c4a4b160abd0cd62ae4282c505a16a922f4fd84e6b5e51982fb99",
   "raw_url": "https://raw.githubusercontent.com/Maxunit/DDON-translation/refs/heads/test/charselect-de-0.1.1/German/gmd.csv",
-  "bytes": 26967445,
-  "sha256": "d53efec5d53069f5d627ecee07190f887eff2d35be820d416a67b4a559d76887",
+  "bytes": 26967457,
+  "sha256": "844ca03c5e8f4615071611d66998dcf14bb6f1e77a79af41d0b74864bc8eb9c4",
   "data_records": 131125,
-  "covered_entries": 758,
-  "changed_MsgEn_fields": 751,
+  "covered_entries": 760,
+  "changed_MsgEn_fields": 753,
   "translation_files": {
     "German/translations/character-select-profile.json": "46db9c1ae5f3ca70623b34e12c37f2f8385d7aa0911a5c893af8a3fbf50a9230",
     "German/translations/character-select-save-guide.json": "4d0956723aa5368b3f1d44d04d7f890a0a669e3ba08ed1ddabc821344fdd5698",
@@ -61,6 +61,8 @@
     "German/translations/fighter-prologue-tutorial-guide-tutorial-guide.json": "9ddaa5134c32b0cbd7eda4803fa2e1a82c151f5e18a6de0fd669454586b7da42",
     "German/translations/fighter-prologue-uguieventskip-eventskip-res.json": "75224c800698d9e640fdbd7bf984df117e067c26a743cf6568ede01c8665e83c",
     "German/translations/fighter-prologue-uguiserverselect-server-select-res.json": "641525073e0949388f2d91ad6c68f5c3e8bb3b79578e10bfa061f0706f5ac9b4",
-    "German/translations/system-flow-guide.json": "bd3294721c8ce911a181c6cfe0582340ccb6b58d6edee9806a252256cfff3e6c"
+    "German/translations/system-flow-guide.json": "bd3294721c8ce911a181c6cfe0582340ccb6b58d6edee9806a252256cfff3e6c",
+    "German/translations/tutorial-guide-gui_cmn-close.json": "5dd1b7793da9f2e8b398dea999844125b6aa28f6d7512bad475321defd33ce44",
+    "German/translations/tutorial-guide-systemflow-close.json": "46bd834b2e358509dc01abf81715ca7bfb3e549796c32352fa95f207f2cd8dfb"
   }
 }
