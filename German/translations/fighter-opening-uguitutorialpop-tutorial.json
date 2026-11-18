@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation and first Fighter tutorials",
+  "gmd_path": "ui\\00_message\\ui\\tutorial.gmd",
+  "arc_path": "\\ui\\uGUITutorialPop.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_MSG_CLOSE",
+      "read_index": "6",
+      "source_jp": "閉じる",
+      "source_en": "Close",
+      "text": "Schließen"
+    },
+    {
+      "key": "TUTORIAL_MSG_POPTITLE",
+      "read_index": "0",
+      "source_jp": "Tutorial",
+      "source_en": "Tutorial",
+      "text": "Tutorial"
+    }
+  ]
+}

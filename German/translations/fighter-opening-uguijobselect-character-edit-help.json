@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation and first Fighter tutorials",
+  "gmd_path": "ui\\00_message\\ui\\character_edit_help.gmd",
+  "arc_path": "\\ui\\uGUIJobSelect.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_BUTTON_GUIDE_CAMERA_ROTA",
+      "read_index": "23",
+      "source_jp": "カメラ操作",
+      "source_en": "Camera Control",
+      "text": "Kamerasteuerung"
+    },
+    {
+      "key": "EDIT_MSG_BUTTON_GUIDE_CAMERA_ZOOM",
+      "read_index": "22",
+      "source_jp": "モデル回転<PADM> / ズーム</PADM>",
+      "source_en": "Rotate<PADM>  / Zoom</PADM>",
+      "text": "Drehen<PADM>  / Zoomen</PADM>"
+    },
+    {
+      "key": "EDIT_MSG_BUTTON_GUIDE_CHANGE_EQUIP",
+      "read_index": "24",
+      "source_jp": "試着",
+      "source_en": "Outfit",
+      "text": "Kleidung"
+    },
+    {
+      "key": "EDIT_MSG_BUTTON_GUIDE_CHANGE_LOCATION",
+      "read_index": "25",
+      "source_jp": "背景切替",
+      "source_en": "Background",
+      "text": "Hintergrund"
+    },
+    {
+      "key": "EDIT_MSG_BUTTON_GUIDE_DEFAULT",
+      "read_index": "20",
+      "source_jp": "デフォルトに戻す",
+      "source_en": "Reset to Default",
+      "text": "Zurücksetzen"
+    },
+    {
+      "key": "EDIT_MSG_BUTTON_GUIDE_HISTORY",
+      "read_index": "17",
+      "source_jp": "ヒストリー",
+      "source_en": "History",
+      "text": "Verlauf"
+    },
+    {
+      "key": "EDIT_MSG_BUTTON_GUIDE_HISTORY_L",
+      "read_index": "18",
+      "source_jp": "元に戻る",
+      "source_en": "Undo",
+      "text": "Rückgängig"
+    },
+    {
+      "key": "EDIT_MSG_BUTTON_GUIDE_HISTORY_R",
+      "read_index": "19",
+      "source_jp": "やり直す",
+      "source_en": "Redo",
+      "text": "Wiederholen"
+    },
+    {
+      "key": "EDIT_MSG_BUTTON_GUIDE_SAVE_LOAD",
+      "read_index": "21",
+      "source_jp": "セーブ / ロード",
+      "source_en": "Save / Load",
+      "text": "Speichern / Laden"
+    },
+    {
+      "key": "EDIT_MSG_BUTTON_GUIDE_TRIAL_FACE",
+      "read_index": "27",
+      "source_jp": "表情の確認",
+      "source_en": "Change Expression",
+      "text": "Mimik wechseln"
+    },
+    {
+      "key": "EDIT_MSG_BUTTON_GUIDE_TRIAL_MOTION",
+      "read_index": "26",
+      "source_jp": "ポーズの確認",
+      "source_en": "Change Pose",
+      "text": "Pose wechseln"
+    },
+    {
+      "key": "EDIT_MSG_BUTTON_GUIDE_TRIAL_VOICE",
+      "read_index": "28",
+      "source_jp": "ボイスの試聴",
+      "source_en": "Listen to Voice",
+      "text": "Stimme anhören"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_BODY",
+      "read_index": "13",
+      "source_jp": "肌のカラーや体格を設定します",
+      "source_en": "Set skin color and build",
+      "text": "Hautfarbe und Körperbau einstellen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_BONE",
+      "read_index": "5",
+      "source_jp": "顔の輪郭を設定します",
+      "source_en": "Set facial contours",
+      "text": "Gesichtsform einstellen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_COLOR",
+      "read_index": "12",
+      "source_jp": "様々なカラーを設定します",
+      "source_en": "Set a variety of colors",
+      "text": "Farben einstellen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_EAR",
+      "read_index": "10",
+      "source_jp": "耳の大きさや向きを設定します",
+      "source_en": "Set ear size and orientation",
+      "text": "Ohrgröße und Ausrichtung einstellen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_EYE",
+      "read_index": "6",
+      "source_jp": "目のパーツやカラー、大きさ等を設定します",
+      "source_en": "Set eye shape, color, size, etc",
+      "text": "Augenform, Farbe und Größe einstellen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_EYEBROW",
+      "read_index": "7",
+      "source_jp": "眉のパーツやカラー、間隔等を設定します",
+      "source_en": "Set brow shape, color, spacing, etc",
+      "text": "Form, Farbe und Abstand der Brauen einstellen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_FASHION",
+      "read_index": "11",
+      "source_jp": "化粧や傷/その他、しわ等を設定します",
+      "source_en": "Makeup/scars/others, and set wrinkles, etc",
+      "text": "Make-up, Narben und Falten einstellen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_HAIR",
+      "read_index": "4",
+      "source_jp": "髪のパーツやカラーを設定します",
+      "source_en": "Set hair style and color",
+      "text": "Frisur und Haarfarbe einstellen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_MOUSE",
+      "read_index": "9",
+      "source_jp": "口のパーツや幅等を設定します",
+      "source_en": "Set mouth shape, width, etc",
+      "text": "Mundform und Breite einstellen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_NAME",
+      "read_index": "0",
+      "source_jp": "名前を設定します",
+      "source_en": "Set name",
+      "text": "Namen festlegen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_NOSE",
+      "read_index": "8",
+      "source_jp": "鼻のパーツや位置等を設定します",
+      "source_en": "Set nose shape and position",
+      "text": "Nasenform und Position einstellen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_PRESET",
+      "read_index": "2",
+      "source_jp": "プリセットを選択できます",
+      "source_en": "Select a preset",
+      "text": "Vorlage wählen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_RANDOM",
+      "read_index": "3",
+      "source_jp": "顔や肌色をランダムで設定します",
+      "source_en": "Randomize face and skin color",
+      "text": "Gesicht und Hautfarbe zufällig wählen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_SEX",
+      "read_index": "1",
+      "source_jp": "性別を設定します",
+      "source_en": "Set gender",
+      "text": "Geschlecht wählen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_VOICE",
+      "read_index": "14",
+      "source_jp": "声を設定します",
+      "source_en": "Set voice",
+      "text": "Stimme wählen"
+    }
+  ]
+}

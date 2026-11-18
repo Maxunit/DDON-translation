@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation and first Fighter tutorials",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step27.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_27.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_45",
+      "read_index": "0",
+      "source_jp": "まずは基本操作です\r\n<COL ffdc78>移動：</COL><PADM>【左スティック】<KEYM>【<KC MOVE_FORWARD><KC MOVE_LEFT><KC MOVE_BACKWARD><KC MOVE_RIGHT>】</KEYM>\r\n<COL ffdc78>ダッシュ：</COL><PADM>移動中【<KC DASH>】押し込み<KEYM>同じ移動キーを２回押す\r\n（初期設定の場合）</KEYM>\r\n<COL ffdc78>ジャンプ：</COL>【<KC JUMP>】",
+      "source_en": "First, Basic Operation\r\n<COL ffdc78>Movement:</COL><PADM>[Left Stick] <KEYM>[<KC MOVE_FORWARD><KC MOVE_LEFT><KC MOVE_BACKWARD><KC MOVE_RIGHT>] </KEYM>\r\n<COL ffdc78>Sprint:</COL><PADM>Press [<KC DASH>] while moving<KEYM>Double tap\r\nmovement key (By default)</KEYM>\r\n<COL ffdc78>Jump:</COL>[<KC JUMP>]",
+      "text": "Zuerst die Grundsteuerung\r\n<COL ffdc78>Bewegen:</COL><PADM>[Linker Stick] <KEYM>[<KC MOVE_FORWARD><KC MOVE_LEFT><KC MOVE_BACKWARD><KC MOVE_RIGHT>]</KEYM>\r\n<COL ffdc78>Sprinten:</COL><PADM>Beim Laufen [<KC DASH>] drücken<KEYM>Bewegungstaste zweimal\r\nantippen (Standardeinstellung)</KEYM>\r\n<COL ffdc78>Springen:</COL>[<KC JUMP>]"
+    },
+    {
+      "key": "TUTORIAL_STEP_46",
+      "read_index": "1",
+      "source_jp": "次にカメラ操作です\r\n<COL ffdc78>カメラ（視点）操作：</COL><PADM>【右スティック】<KEYM>【<ICON MOUSE>移動】</KEYM>\r\n<COL ffdc78>視点のリセット：</COL>【<KC CAMERA_RESET>】\r\n<COL ffdc78>視点距離の切替：</COL><PADM>【<KC CAMERA_RESET>】素早く２回押し<KEYM>【<ICON MOUSE_WHL_4>前後】</KEYM>",
+      "source_en": "Next, Camera Controls\r\n<COL ffdc78>Camera (POV) Operation:</COL><PADM>[Right Stick] <KEYM>[Move <ICON MOUSE>] </KEYM>\r\n<COL ffdc78>Reset View:</COL>[<KC CAMERA_RESET>]\r\n<COL ffdc78>Change View Distance:</COL><PADM>[<KC CAMERA_RESET>] Double click\r\n<KEYM> [<ICON MOUSE_WHL_4> up and down] </KEYM>",
+      "text": "Als Nächstes die Kamerasteuerung\r\n<COL ffdc78>Kamera bewegen:</COL><PADM>[Rechter Stick] <KEYM>[<ICON MOUSE> bewegen]</KEYM>\r\n<COL ffdc78>Sicht zurücksetzen:</COL>[<KC CAMERA_RESET>]\r\n<COL ffdc78>Kameraabstand ändern:</COL><PADM>[<KC CAMERA_RESET>] zweimal schnell drücken\r\n<KEYM>[<ICON MOUSE_WHL_4> vor- und zurückdrehen]</KEYM>"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation and first Fighter tutorials",
+  "gmd_path": "ui\\00_message\\event\\st0101\\ev010.gmd",
+  "arc_path": "\\event\\st0101\\st0101ev010.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "新人覚者だな？",
+      "source_en": "Newly Arisen?",
+      "text": "Gerade erst erweckt, was?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "待っていろ",
+      "source_en": "Wait there.",
+      "text": "Warte hier."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "――よし",
+      "source_en": "Alright.",
+      "text": "Gut."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "この臭いを忘れるな\r\nオークの接近は臭いでわかる",
+      "source_en": "Don't forget this smell.\r\nAn Orc's approach is given away by its odor.",
+      "text": "Vergiss diesen Gestank nicht.\r\nAm Geruch erkennst du, wenn sich Orks nähern."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "いつか鼻がバカになるだろうが――",
+      "source_en": "It drives my nose madder by the day.",
+      "text": "Irgendwann stumpft deine Nase davon ab ..."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "その頃まで生きのびていれば\r\nオークごときにやられることはない",
+      "source_en": "If you manage to survive this ordeal,\r\nthere's nothing an Orc can do to you.",
+      "text": "Wenn du so lange überlebst,\r\nkann dir ein Ork nichts mehr anhaben."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "source_jp": "あれが――",
+      "source_en": "Over there...",
+      "text": "Dort drüben ..."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "source_jp": "グリッテン砦だ\r\n走るぞ",
+      "source_en": "That's Fort Gritten.\r\nWe must hurry.",
+      "text": "Das ist die Festung Gritten.\r\nLos, im Laufschritt!"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "source_jp": "急いで――\r\nほら、オークちゃんが逃げちゃうよ！",
+      "source_en": "Come on, hurry up!\r\nThat little Orc over there is trying to escape!",
+      "text": "Beeil dich!\r\nSchau, der kleine Ork haut ab!"
+    }
+  ]
+}

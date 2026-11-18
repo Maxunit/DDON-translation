@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation and first Fighter tutorials",
+  "gmd_path": "ui\\00_message\\ui\\character_edit_job.gmd",
+  "arc_path": "\\ui\\uGUICharacterEditPopCard.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_DIALOG_CARD_PL",
+      "read_index": "10",
+      "source_jp": "覚者プロフィールの公開範囲を設定してください\r\n(ゲーム設定の通知・公開設定でいつでも変更できます)",
+      "source_en": "Please set the visibility of your Arisen profile\r\n(You can change this at any time in the game's\r\nnotification and sharing settings)",
+      "text": "Wer darf das Profil sehen?\r\n(Das lässt sich jederzeit in den Einstellungen\r\nfür Benachrichtigungen und Freigaben ändern.)"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_CARD_PULL_ALL",
+      "read_index": "13",
+      "source_jp": "誰でも",
+      "source_en": "Anyone",
+      "text": "Alle"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_CARD_PULL_CLAN",
+      "read_index": "16",
+      "source_jp": "クラン",
+      "source_en": "Clan",
+      "text": "Nur Clan"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_CARD_PULL_FRIEND",
+      "read_index": "15",
+      "source_jp": "フレンド",
+      "source_en": "Friends",
+      "text": "Nur Freunde"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_CARD_PULL_FRIEND_CLAN",
+      "read_index": "14",
+      "source_jp": "クランとフレンド",
+      "source_en": "Friends and Clan only",
+      "text": "Freunde und Clan"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_CARD_PULL_NOT",
+      "read_index": "17",
+      "source_jp": "非公開",
+      "source_en": "Private",
+      "text": "Privat"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_ERROR_NAME_USED2",
+      "read_index": "18",
+      "source_jp": "<NAME>は\r\nすでに使用されている名前です\r\n違う名前に変更してください",
+      "source_en": "<NAME> is already in use. Please change to a\r\ndifferent name.",
+      "text": "<NAME> ist bereits vergeben.\r\nBitte einen anderen Namen eingeben."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_JOB_REPLY_NO",
+      "read_index": "8",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_JOB_REPLY_OK",
+      "read_index": "9",
+      "source_jp": "OK",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_JOB_REPLY_YES",
+      "read_index": "7",
+      "source_jp": "はい",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_JOB_SELECT",
+      "read_index": "6",
+      "source_jp": "このジョブでよろしいですか？\r\n(ジョブはゲーム内の施設からいつでも転職できます)",
+      "source_en": "Are you sure you want this vocation?\r\n(You can change vocations at anytime\r\nfrom the facility in the game)",
+      "text": "Diese Klasse wählen?\r\n(Die Klasse lässt sich im Spiel\r\njederzeit an der zuständigen Stelle wechseln.)"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_JOB_SELECT",
+      "read_index": "5",
+      "source_jp": "ジョブの設定をします",
+      "source_en": "Configuring job settings",
+      "text": "Klasse wählen"
+    },
+    {
+      "key": "EDIT_MSG_JOB_FIGHTER",
+      "read_index": "1",
+      "source_jp": "ファイター",
+      "source_en": "Fighter",
+      "text": "Kämpfer"
+    },
+    {
+      "key": "EDIT_MSG_JOB_HUNTER",
+      "read_index": "2",
+      "source_jp": "ハンター",
+      "source_en": "Hunter",
+      "text": "Jäger"
+    },
+    {
+      "key": "EDIT_MSG_JOB_PRIEST",
+      "read_index": "3",
+      "source_jp": "プリースト",
+      "source_en": "Priest",
+      "text": "Priester"
+    },
+    {
+      "key": "EDIT_MSG_JOB_SEALEDSAGE",
+      "read_index": "4",
+      "source_jp": "シールドセージ",
+      "source_en": "Shield Sage",
+      "text": "Schildweiser"
+    },
+    {
+      "key": "EDIT_MSG_TITLE_JOB_SELECT",
+      "read_index": "0",
+      "source_jp": "Job Select",
+      "source_en": "Vocation Select",
+      "text": "Klassenwahl"
+    }
+  ]
+}

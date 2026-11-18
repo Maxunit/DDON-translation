@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation and first Fighter tutorials",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\tutorial_guide.gmd",
+  "arc_path": "\\tutorial_guide.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_27",
+      "read_index": "2",
+      "source_jp": "覚者の基本能力",
+      "source_en": "Basic Abilities",
+      "text": "Grundsteuerung"
+    },
+    {
+      "key": "TUTORIAL_73",
+      "read_index": "27",
+      "source_jp": "ファイターの戦法：基本",
+      "source_en": "Basic Tactics: Fighter",
+      "text": "Grundtaktik: Kämpfer"
+    },
+    {
+      "key": "TUTORIAL_153",
+      "read_index": "67",
+      "source_jp": "覚者とは",
+      "source_en": "What Are the Arisen?",
+      "text": "Was sind Erweckte?"
+    }
+  ]
+}

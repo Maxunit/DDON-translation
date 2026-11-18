@@ -133,7 +133,7 @@ def build(root):
     groups = [json.loads(p.read_text(encoding='utf-8')) for p in paths]
     base = (root / 'gmd.csv').read_bytes()
     output, stats = render(base, groups)
-    manifest = dict(schema_version=1, description='Complete English base with reviewed German character-selection entries',
+    manifest = dict(schema_version=1, description='Complete English base with German translation overlays',
                     source_path='gmd.csv', source_sha256=digest(base), raw_url=RAW_URL,
                     bytes=len(output), sha256=digest(output), **stats,
                     translation_files={p.relative_to(root).as_posix(): digest(p.read_bytes()) for p in paths})

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation and first Fighter tutorials",
+  "gmd_path": "ui\\00_message\\common\\job_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "JOB_NAME_1",
+      "read_index": "1",
+      "source_jp": "ファイター",
+      "source_en": "Fighter",
+      "text": "Kämpfer"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation and first Fighter tutorials",
+  "gmd_path": "ui\\00_message\\ui\\character_edit.gmd",
+  "arc_path": "\\ui\\uGUICharacterEdit.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_CATE_BODY",
+      "read_index": "15",
+      "source_jp": "体格",
+      "source_en": "Body Shape",
+      "text": "Körperbau"
+    },
+    {
+      "key": "EDIT_MSG_CATE_BONE",
+      "read_index": "7",
+      "source_jp": "顔の輪郭",
+      "source_en": "Face Shape",
+      "text": "Gesichtsform"
+    },
+    {
+      "key": "EDIT_MSG_CATE_COLOR",
+      "read_index": "14",
+      "source_jp": "カラー",
+      "source_en": "Color",
+      "text": "Farbe"
+    },
+    {
+      "key": "EDIT_MSG_CATE_DECISION",
+      "read_index": "19",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "EDIT_MSG_CATE_EAR",
+      "read_index": "12",
+      "source_jp": "耳",
+      "source_en": "Ears",
+      "text": "Ohren"
+    },
+    {
+      "key": "EDIT_MSG_CATE_EYE",
+      "read_index": "8",
+      "source_jp": "目",
+      "source_en": "Eyes",
+      "text": "Augen"
+    },
+    {
+      "key": "EDIT_MSG_CATE_EYEBROW",
+      "read_index": "9",
+      "source_jp": "眉",
+      "source_en": "Brows",
+      "text": "Augenbrauen"
+    },
+    {
+      "key": "EDIT_MSG_CATE_FASHION",
+      "read_index": "13",
+      "source_jp": "ファッションメイク",
+      "source_en": "Makeup",
+      "text": "Make-up"
+    },
+    {
+      "key": "EDIT_MSG_CATE_HAIR",
+      "read_index": "6",
+      "source_jp": "髪",
+      "source_en": "Hair",
+      "text": "Haare"
+    },
+    {
+      "key": "EDIT_MSG_CATE_MOUSE",
+      "read_index": "11",
+      "source_jp": "口",
+      "source_en": "Mouth",
+      "text": "Mund"
+    },
+    {
+      "key": "EDIT_MSG_CATE_NAME",
+      "read_index": "2",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "EDIT_MSG_CATE_NOSE",
+      "read_index": "10",
+      "source_jp": "鼻",
+      "source_en": "Nose",
+      "text": "Nase"
+    },
+    {
+      "key": "EDIT_MSG_CATE_PRESET",
+      "read_index": "4",
+      "source_jp": "デザイナープリセット",
+      "source_en": "Presets",
+      "text": "Vorlagen"
+    },
+    {
+      "key": "EDIT_MSG_CATE_RANDOM",
+      "read_index": "5",
+      "source_jp": "ランダム",
+      "source_en": "Random",
+      "text": "Zufall"
+    },
+    {
+      "key": "EDIT_MSG_CATE_SEX",
+      "read_index": "3",
+      "source_jp": "性別",
+      "source_en": "Gender",
+      "text": "Geschlecht"
+    },
+    {
+      "key": "EDIT_MSG_CATE_VOICE",
+      "read_index": "16",
+      "source_jp": "声",
+      "source_en": "Voice",
+      "text": "Stimme"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_BODY",
+      "read_index": "127",
+      "source_jp": "Body Type",
+      "source_en": "Body Shape",
+      "text": "Körperbau"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_COLOR",
+      "read_index": "126",
+      "source_jp": "Color",
+      "source_en": "Color",
+      "text": "Farbe"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_EAR",
+      "read_index": "124",
+      "source_jp": "Ear",
+      "source_en": "Ears",
+      "text": "Ohren"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_EYE",
+      "read_index": "120",
+      "source_jp": "Eye",
+      "source_en": "Eyes",
+      "text": "Augen"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_EYEBROW",
+      "read_index": "121",
+      "source_jp": "Eyebrow",
+      "source_en": "Brows",
+      "text": "Augenbrauen"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_FACE",
+      "read_index": "117",
+      "source_jp": "Face",
+      "source_en": "Face",
+      "text": "Gesicht"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_FACE2",
+      "read_index": "119",
+      "source_jp": "Face Shape",
+      "source_en": "Face Shape",
+      "text": "Gesichtsform"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_HAIR",
+      "read_index": "118",
+      "source_jp": "Hair",
+      "source_en": "Hair",
+      "text": "Haare"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_MAKE",
+      "read_index": "125",
+      "source_jp": "Make Up",
+      "source_en": "Makeup",
+      "text": "Make-up"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_MOUSE",
+      "read_index": "123",
+      "source_jp": "Mouth",
+      "source_en": "Mouth",
+      "text": "Mund"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_NAME",
+      "read_index": "113",
+      "source_jp": "Name",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_NOSE",
+      "read_index": "122",
+      "source_jp": "Nose",
+      "source_en": "Nose",
+      "text": "Nase"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_PRISET",
+      "read_index": "115",
+      "source_jp": "Presets",
+      "source_en": "Presets",
+      "text": "Vorlagen"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_RANDOM",
+      "read_index": "116",
+      "source_jp": "Random",
+      "source_en": "Random",
+      "text": "Zufall"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_SEX",
+      "read_index": "114",
+      "source_jp": "Gender",
+      "source_en": "Gender",
+      "text": "Geschlecht"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_VOICE",
+      "read_index": "128",
+      "source_jp": "Voice",
+      "source_en": "Voice",
+      "text": "Stimme"
+    },
+    {
+      "key": "EDIT_MSG_TITLE_PLAYER_EDIT",
+      "read_index": "0",
+      "source_jp": "Player Edit",
+      "source_en": "Player Edit",
+      "text": "Charakter erstellen"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NAME_GUIDE",
+      "read_index": "22",
+      "source_jp": "付けたい名前を入力してください\r\n注意事項\r\n ・半角英字と'(アポストロフィー)が使用可能です\r\n ・半角数字は使用できません\r\n ・半角スペースは使用できません\r\n ・名前の頭文字は半角英字のみ使用可能です\r\n ・名前の頭文字は大文字に変換されます\r\n ・名前の頭文字以外は小文字に変換されます",
+      "source_en": "Please enter the name you want to use.\r\nNotes:\r\nOnly letters and ' (apostrophe) are allowed\r\nNumbers are not allowed\r\nSpaces are not allowed\r\nThe first letter must be a letter\r\nThe first letter will be converted to uppercase\r\nAll other letters will be converted to lowercase",
+      "text": "Gewünschten Namen eingeben.\r\nHinweise\r\nErlaubt sind A-Z, a-z und der Apostroph (').\r\nZiffern und Leerzeichen sind unzulässig.\r\nDer Name muss mit einem Buchstaben beginnen.\r\nDieser wird großgeschrieben.\r\nDie übrigen Buchstaben werden kleingeschrieben."
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NAME_GUIDE_ATTENTION",
+      "read_index": "23",
+      "source_jp": "ファースト/ファミリーネーム\r\n両方に入力してください\r\n注意事項\r\n ・半角英字と'(アポストロフィー)が使用可能です\r\n ・半角数字は使用できません\r\n ・半角スペースは使用できません\r\n ・名前の頭文字は半角英字のみ使用可能です\r\n ・名前の頭文字は大文字に変換されます\r\n ・名前の頭文字以外は小文字に変換されます",
+      "source_en": "First/Last Name\r\nPlease enter both.\r\nNotes:\r\nOnly letters and ' (apostrophe) are allowed\r\nNumbers are not allowed\r\nSpaces are not allowed\r\nThe first letter must be a letter\r\nThe first letter will be converted to uppercase\r\nAll other letters will be converted to lowercase",
+      "text": "Vor- und Nachnamen eingeben.\r\nHinweise\r\nErlaubt sind A-Z, a-z und der Apostroph (').\r\nZiffern und Leerzeichen sind unzulässig.\r\nJeder Name muss mit einem Buchstaben beginnen.\r\nDieser wird großgeschrieben.\r\nDie übrigen Buchstaben werden kleingeschrieben."
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NAME_GUIDE_OK",
+      "read_index": "24",
+      "source_jp": "<COL A39A70>入力ＯＫ</COL>\r\n注意事項\r\n ・半角英字と'(アポストロフィー)が使用可能です\r\n ・半角数字は使用できません\r\n ・半角スペースは使用できません\r\n ・名前の頭文字は半角英字のみ使用可能です\r\n ・名前の頭文字は大文字に変換されます\r\n ・名前の頭文字以外は小文字に変換されます",
+      "source_en": "<COL A39A70>Valid Name</COL>.\r\nNotes:\r\nOnly letters and ' (apostrophe) are allowed\r\nNumbers are not allowed\r\nSpaces are not allowed\r\nThe first letter must be a letter\r\nThe first letter will be converted to uppercase\r\nAll other letters will be converted to lowercase",
+      "text": "<COL A39A70>Gültiger Name</COL>\r\nHinweise\r\nErlaubt sind A-Z, a-z und der Apostroph (').\r\nZiffern und Leerzeichen sind unzulässig.\r\nDer Name muss mit einem Buchstaben beginnen.\r\nDieser wird großgeschrieben.\r\nDie übrigen Buchstaben werden kleingeschrieben."
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NAME_LIMIT1",
+      "read_index": "20",
+      "source_jp": "ファーストネーム（半角2～12文字）",
+      "source_en": "First name (up to 2-12 characters)",
+      "text": "Vorname (2-12 Zeichen)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NAME_LIMIT2",
+      "read_index": "21",
+      "source_jp": "ファミリーネーム（半角2～8文字）",
+      "source_en": "Last name (up to 2-8 characters)",
+      "text": "Nachname (2-8 Zeichen)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_SEX_F",
+      "read_index": "30",
+      "source_jp": "女性",
+      "source_en": "Woman",
+      "text": "Frau"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_SEX_M",
+      "read_index": "29",
+      "source_jp": "男性",
+      "source_en": "Man",
+      "text": "Mann"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_TYPE",
+      "read_index": "132",
+      "source_jp": "タイプ",
+      "source_en": "Type",
+      "text": "Typ"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VAL",
+      "read_index": "31",
+      "source_jp": "タイプ<VAL>",
+      "source_en": "Type <VAL>",
+      "text": "Typ <VAL>"
+    }
+  ]
+}

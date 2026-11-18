@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation and first Fighter tutorials",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step73.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_73.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_122",
+      "read_index": "0",
+      "source_jp": "ファイターは地上での接近戦に長けた\r\n攻撃ジョブの花形です。剣と盾を装備し、\r\n盾で身を守ることもできます　　\r\n＜基本操作＞\r\n　【<KC ATTACK1>】連撃　　（剣による連続攻撃）\r\n　【<KC ATTACK2>】斬り崩し（長押しで溜め攻撃）\r\n　【<KC WEAPON_SUB>】ガード",
+      "source_en": "The Fighter is a highly skilled close-quarters\r\ncombatant specialized in ground-based attacks.\r\nEquipped with a sword and shield, they can also\r\nuse the shield to defend themselves.\r\n[Basic Controls] - Press [<KC ATTACK1>] for a combo\r\nattack with the sword.\r\n- Hold [<KC ATTACK2>] for a charged slashing attack.\r\n- Press [<KC WEAPON_SUB>] to guard.",
+      "text": "Der Kämpfer ist auf den Nahkampf am Boden\r\nspezialisiert. Mit Schwert und Schild kann er\r\nangreifen und sich vor Treffern schützen.\r\n\r\n[Grundsteuerung]\r\n- [<KC ATTACK1>] für eine Schlagfolge drücken.\r\n- [<KC ATTACK2>] für einen geladenen Hieb halten.\r\n- [<KC WEAPON_SUB>] zum Blocken drücken."
+    }
+  ]
+}

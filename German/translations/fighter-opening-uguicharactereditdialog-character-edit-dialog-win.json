@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation and first Fighter tutorials",
+  "gmd_path": "ui\\00_message\\ui\\character_edit_dialog_win.gmd",
+  "arc_path": "\\ui\\uGUICharacterEditDialog.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_DIALOG_EDIT_CANCEL",
+      "read_index": "11",
+      "source_jp": "エディットを終了して\r\n前の画面に戻りますか？",
+      "source_en": "Do you want to exit the editor and return to the\r\nprevious screen?",
+      "text": "Editor verlassen und zum\r\nvorherigen Bildschirm zurückkehren?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_EDIT_FIX",
+      "read_index": "12",
+      "source_jp": "エディットを決定します\r\nこれでよろしいですか？",
+      "source_en": "Are you sure you want these edits?",
+      "text": "Diese Änderungen übernehmen?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_ERROR_NAME_EMPTY",
+      "read_index": "23",
+      "source_jp": "名前が決定していません\r\n名前を使用可能の状態にしてください",
+      "source_en": "Please enter a name",
+      "text": "Bitte einen Namen eingeben."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_ERROR_NAME_USED1",
+      "read_index": "24",
+      "source_jp": "<NAME>は\r\nすでに使用されている名前です\r\n違う名前に変更してください",
+      "source_en": "<NAME> is already in use.\r\nPlease try a different name.",
+      "text": "<NAME> ist bereits vergeben.\r\nBitte einen anderen Namen eingeben."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_FIRST_PUSH_DEFAULT",
+      "read_index": "53",
+      "source_jp": "【<COL FFFFFF><KC UI_X></COL>】はデフォルトに戻す機能です\r\n（次回の操作から、この確認は表示されません）",
+      "source_en": "[<COL FFFFFF><KC UI_X></COL>] is the function to\r\nrestore the default\r\n(From the next use, this confirmation will not\r\nappear.)",
+      "text": "Mit [<COL FFFFFF><KC UI_X></COL>] werden die\r\nStandardeinstellungen wiederhergestellt.\r\n(Dieser Hinweis erscheint nur einmal.)"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_REPLY_BACKSPACE",
+      "read_index": "5",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_REPLY_DECISION",
+      "read_index": "3",
+      "source_jp": "はい",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_REPLY_NO",
+      "read_index": "1",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_REPLY_OK",
+      "read_index": "2",
+      "source_jp": "OK",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_REPLY_YES",
+      "read_index": "0",
+      "source_jp": "はい",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_TUTORIAL_PRESET",
+      "read_index": "46",
+      "source_jp": "《デザイナープリセットとは》\r\n予め用意されたサンプルモデルです\r\nエディットが苦手な方にオススメです\r\nより高度なエディットをしたい方は\r\n顔の輪郭や目、眉などで詳細な設定ができます",
+      "source_en": "[What is a Designer Preset]?\r\nA sample model prepared in advance\r\nRecommended for those who are not good at editing\r\nFor those who want to do more advanced editing\r\nYou can make detailed settings with facial\r\ncontours, eyes, eyebrows, etc.",
+      "text": "[Was sind Vorlagen?]\r\nVorlagen sind vorgefertigte Charaktermodelle.\r\nSie erleichtern den Einstieg.\r\nWer mehr anpassen möchte, kann danach\r\nGesichtsform, Augen, Augenbrauen\r\nund weitere Details einstellen."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_TUTORIAL_RANDOM",
+      "read_index": "47",
+      "source_jp": "《ワンポイントアドバイス》\r\nランダムを選ぶと、髪の毛や目、眉などの\r\n各種パーツをランダム設定します\r\n元に戻る/やり直すの履歴機能を使ったり\r\nこまめにセーブ/ロードをおこなって\r\n理想のキャラクターモデルに近づけていきましょう",
+      "source_en": "[Tip]\r\nIf you select \"Random\", you can set various parts\r\nsuch as hair, eyes, eyebrows, etc.\r\nUse the undo/redo history function or save/load\r\nfrequently\r\nto get closer to your ideal character model",
+      "text": "[Tipp]\r\n„Zufall“ mischt Merkmale wie Haare,\r\nAugen und Augenbrauen.\r\nÜber den Verlauf lassen sich Änderungen\r\nrückgängig machen. Speichern und Laden hilft,\r\nverschiedene Varianten auszuprobieren."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_TUTORIAL_SEX",
+      "read_index": "45",
+      "source_jp": "《便利な機能を紹介》\r\n【<COL FFFFFF><KC UI_START></COL>】\r\nエディット情報のセーブ/ロードがおこなえます\r\n【<COL FFFFFF><KC UI_LB></COL> / <COL FFFFFF><KC UI_RB></COL>】\r\n一つ前の設定に戻したり、やり直したりできます\r\n（性別を変更すると履歴はリセットされます）\r\nその他の機能は、画面下のガイドをご覧ください",
+      "source_en": "[Introducing useful functions]\r\n[<COL FFFFFF><KC UI_START></COL>]\r\nSave and load edit information\r\n[<COL FFFFFF><KC UI_LB></COL> / <COL FFFFFF><KC UI_RB></COL>]\r\nRevert to previous settings and start over\r\n(history will be reset if you change gender)\r\nSee the guide at the bottom of the screen for\r\nadditional features.",
+      "text": "[Nützliche Funktionen]\r\n[<COL FFFFFF><KC UI_START></COL>]\r\nVorlagen speichern und laden\r\n[<COL FFFFFF><KC UI_LB></COL> / <COL FFFFFF><KC UI_RB></COL>]\r\nÄnderungen rückgängig machen oder wiederholen\r\n(Beim Geschlechtswechsel wird der Verlauf gelöscht.)\r\nWeitere Funktionen stehen\r\nin der Tastenleiste unten."
+    }
+  ]
+}
