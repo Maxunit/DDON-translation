@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Input guide labels used by character selection",
+  "gmd_path": "ui\\00_message\\ui\\character_edit_dialog_win.gmd",
+  "arc_path": "\\character_edit_select.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_DIALOG_CHOICE_SAVE",
+      "read_index": "9",
+      "source_jp": "セーブ",
+      "source_en": "Save",
+      "text": "Speichern"
+    }
+  ]
+}
