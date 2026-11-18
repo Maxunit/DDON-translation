@@ -1,0 +1,387 @@
+{
+  "schema_version": 1,
+  "scope": "Fighter prologue and client feedback on adjacent menus",
+  "gmd_path": "ui\\00_message\\quest\\q00000001.gmd",
+  "arc_path": "\\quest\\q00000001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "9",
+      "source_jp": "体力減ったら回復アイテム！　自己責任だぞ！",
+      "source_en": "Use a recovery item should you falter!\r\nThat's your responsibility!",
+      "text": "Gehen dir die Lebenspunkte aus?\r\nHeil dich rechtzeitig!"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "source_jp": "あのね――わたしの心配より自分の心配！",
+      "source_en": "Hey now, your concerns are greater than mine!",
+      "text": "Kümmer dich erst mal um dich selbst!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "source_jp": "ここはまだ演習のようなもの――さあ、砦へ急げ！",
+      "source_en": "'Tis just as we practiced!\r\nNow, to the fort!",
+      "text": "Das hier war nur die Aufwärmrunde.\r\nLos, zur Festung!"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "source_jp": "おい、どこへいく！",
+      "source_en": "Hey, where are you going!",
+      "text": "He, wo willst du hin?"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "source_jp": "そっちじゃないぞ！",
+      "source_en": "Not that way!",
+      "text": "Nicht da lang!"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "source_jp": "こっちへ来い！",
+      "source_en": "Come this way!",
+      "text": "Komm hierher!"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "source_jp": "おい、回復しておけ！",
+      "source_en": "Ser, mind your condition!",
+      "text": "He, heil dich erst mal!"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "source_jp": "回復アイテムを使うんだ！",
+      "source_en": "Make use of recovery items!",
+      "text": "Benutz ein Heilmittel!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "source_jp": "もっと体力に気を配れ！",
+      "source_en": "Be mindful of your limits!",
+      "text": "Achte besser auf deine Lebenspunkte!"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "source_jp": "くそ――回復してくれ",
+      "source_en": "Blast! I need healing!",
+      "text": "Verdammt ... ich brauche Heilung."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "source_jp": "すまん――自力回復できん",
+      "source_en": "My apologies... I am unable to heal myself.",
+      "text": "Tut mir leid ... ich kann mich nicht selbst heilen."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "source_jp": "俺を見殺しにする気か！",
+      "source_en": "You mean to let me die?!",
+      "text": "Willst du mich etwa sterben lassen?"
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "source_jp": "そっちじゃないって！",
+      "source_en": "Not over there!",
+      "text": "Doch nicht da lang!"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "source_jp": "ちゃんとついてきてよ！",
+      "source_en": "Come along now!",
+      "text": "Bleib bei uns!"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "source_jp": "どこいく気！？",
+      "source_en": "Where are you off to!?",
+      "text": "Wo willst du denn hin?"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "source_jp": "ほら、回復しなさい、回復！",
+      "source_en": "Ah, please aid! Heal me!",
+      "text": "Los, heil dich! Na los!"
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "source_jp": "死にたいの？　いやなら回復！",
+      "source_en": "Do you wish me to die? If not, heal me!",
+      "text": "Willst du etwa sterben? Heil dich!"
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "source_jp": "回復しなさいってば！",
+      "source_en": "Someone heal me already!",
+      "text": "Jetzt heil dich endlich!"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "source_jp": "わたし、回復してほしいんだけど",
+      "source_en": "I would appreciate some healing.",
+      "text": "Könntest du mich mal heilen?"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "source_jp": "こっち見て――回復して――",
+      "source_en": "Over here... help...",
+      "text": "Hier drüben ... ich brauche Heilung ..."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "source_jp": "お願い――見捨てないで――",
+      "source_en": "Please... don't abandon me...",
+      "text": "Bitte ... lass mich nicht im Stich ..."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "source_jp": "戦場の咆哮が聞こえるか？　\r\n扉の先は、おそらく敵味方入り交じる混戦状態――",
+      "source_en": "Hear the roar of the battleground?\r\n'Tis a mix of both friend and foe clashing forces.",
+      "text": "Hörst du den Schlachtenlärm?\r\nHinter dem Tor kämpfen unsere Leute\r\nmitten unter den Feinden."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "source_jp": "さあ、やっちゃって！\r\n今日のあんたには白竜の加護があるんだから！",
+      "source_en": "Alright, charge!\r\nThe White Dragon will protect you!",
+      "text": "Los, zeig's ihnen!\r\nDer Weiße Drache beschützt dich heute!"
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "source_jp": "さあ！　全てのオークどもを切り倒せ！",
+      "source_en": "Okay! Cut down every one of\r\nthese foul Orcs!",
+      "text": "Los! Mach alle Orks nieder!"
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "source_jp": "ぷんぷん臭ってくるね\r\nああ、腹立つ！　許さないから！",
+      "source_en": "What an intense odor.\r\nOh, I'm mad now! No mercy!",
+      "text": "Was für ein Gestank!\r\nJetzt reicht's mir mit denen!"
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "source_jp": "次から次へと来るぞ！　体力に気をつけろ",
+      "source_en": "'Tis one after the other! Heed\r\nyour stamina!",
+      "text": "Die kommen einer nach dem anderen!\r\nAchte auf deine Lebenspunkte!"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "source_jp": "ひとりで全部倒してしまえ！　遠慮は無用だ！",
+      "source_en": "Fell them all with reckless\r\nabandon!",
+      "text": "Erledige sie alle allein!\r\nDu kannst ruhig alles geben!"
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "source_jp": "いいぞ！　その調子だ！",
+      "source_en": "Good! Keep it up!",
+      "text": "Gut! Weiter so!"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "source_jp": "ほら、来てるよ！　やっちゃえ！",
+      "source_en": "There, more of them! Charge!",
+      "text": "Da kommen noch mehr! Zeig's ihnen!"
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "source_jp": "もう、鼻が曲がる～！　さっさと終わらせよう！",
+      "source_en": "Ah, my poor nose...! Let's finish\r\nthis quickly!",
+      "text": "Mir fällt gleich die Nase ab!\r\nBringen wir's schnell hinter uns!"
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "source_jp": "いいねえ！　あとはまかせちゃおうかな",
+      "source_en": "Nice! I owe you one!",
+      "text": "Sehr schön! Den Rest überlasse ich dir."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "source_jp": "いい調子だぞ！",
+      "source_en": "We're doing good!",
+      "text": "Das läuft doch gut!"
+    },
+    {
+      "key": "",
+      "read_index": "45",
+      "source_jp": "敵は残り少ないぞ！　押せ！",
+      "source_en": "Their numbers dwindle! Finish it!",
+      "text": "Es sind nur noch wenige! Setz nach!"
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "source_jp": "追い風に乗れ！",
+      "source_en": "Make use of our advantage!",
+      "text": "Nutz den Vorteil!"
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "source_jp": "くそっ！　敵、増兵だ！",
+      "source_en": "Blast! Enemy reinforcements!",
+      "text": "Verdammt! Feindliche Verstärkung!"
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "source_jp": "増援だ！　気を引きしめろ！",
+      "source_en": "Reinforcements! Steel yourself!",
+      "text": "Verstärkung! Pass auf!"
+    },
+    {
+      "key": "",
+      "read_index": "49",
+      "source_jp": "まだいたのか！",
+      "source_en": "There are more still!",
+      "text": "Da sind ja noch mehr!"
+    },
+    {
+      "key": "",
+      "read_index": "50",
+      "source_jp": "もう少しだよ！",
+      "source_en": "Just a bit more!",
+      "text": "Fast geschafft!"
+    },
+    {
+      "key": "",
+      "read_index": "51",
+      "source_jp": "いい感じ！　このまま！",
+      "source_en": "Good! Like that!",
+      "text": "Sieht gut aus! Weiter so!"
+    },
+    {
+      "key": "",
+      "read_index": "52",
+      "source_jp": "優勢優勢！",
+      "source_en": "Strength! Power!",
+      "text": "Wir haben die Oberhand!"
+    },
+    {
+      "key": "",
+      "read_index": "53",
+      "source_jp": "まだいたか！　くう～！",
+      "source_en": "More of them!? Rrgh!",
+      "text": "Immer noch mehr? Mist!"
+    },
+    {
+      "key": "",
+      "read_index": "54",
+      "source_jp": "残念、敵が増えちゃった！",
+      "source_en": "I'm afraid they've grown in number!",
+      "text": "Na toll, es werden immer mehr!"
+    },
+    {
+      "key": "",
+      "read_index": "55",
+      "source_jp": "あーあ、敵、増援だ！",
+      "source_en": "Oh no... Enemy reinforcements!",
+      "text": "Oh nein, feindliche Verstärkung!"
+    },
+    {
+      "key": "",
+      "read_index": "56",
+      "source_jp": "頼りにしてるぞ、新人！",
+      "source_en": "You're up, newcomer!",
+      "text": "Jetzt bist du dran, Neuling!"
+    },
+    {
+      "key": "",
+      "read_index": "57",
+      "source_jp": "ここまで攻め込まれるとは――不覚！",
+      "source_en": "I never expected them to reach even here...",
+      "text": "Wie konnten sie so weit vordringen?"
+    },
+    {
+      "key": "",
+      "read_index": "58",
+      "source_jp": "オークはまだまだいる！\r\n一匹残らず倒すぞ！",
+      "source_en": "Orcs still remain!\r\nFell them to the very last!",
+      "text": "Es sind noch Orks da!\r\nSchalten wir sie alle aus!"
+    },
+    {
+      "key": "",
+      "read_index": "59",
+      "source_jp": "さすが、レオ隊長が見込んだ新人だな！\r\nこのまま砦を掃除するぞ！",
+      "source_en": "Just as expected of a rookie \r\npicked by Captain Leo!\r\nWe'll have the fort cleared in no time!",
+      "text": "Leo hat sich in dir nicht getäuscht!\r\nJetzt räumen wir die Festung auf!"
+    },
+    {
+      "key": "",
+      "read_index": "60",
+      "source_jp": "敵には<COL ff7575><KCT ATTACK1>／<KCT ATTACK2></COL>で基本攻撃！",
+      "source_en": "Use <COL ff7575><KCT ATTACK1>/\r\n<KCT ATTACK2></COL> to attack enemies!",
+      "text": "Greif mit <COL ff7575><KCT ATTACK1>/<KCT ATTACK2></COL> an!"
+    },
+    {
+      "key": "",
+      "read_index": "61",
+      "source_jp": "さらに<COL ff7575><PADM><KCT WEAPON_SUB>を押しながら</PADM><KEYM><KCT SKILL_CUSTOM3></COL>か</KEYM>",
+      "source_en": "Additionally, while holding <COL ff7575><PADM><KCT WEAPON_SUB>, press </PADM><KEYM><KCT SKILL_CUSTOM3><KCT SKILL_CUSTOM3></COL></KEYM>",
+      "text": "Für Spezialfertigkeiten <COL ff7575><PADM><KCT WEAPON_SUB> halten</PADM><KEYM><KCT SKILL_CUSTOM3></COL> oder</KEYM>",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "",
+      "read_index": "62",
+      "source_jp": "<COL ff7575><PADM><KCT ATTACK1></PADM><KEYM><KCT SKILL_CUSTOM1></KEYM></COL>でカスタムスキルだ！",
+      "source_en": "Use <COL ff7575><PADM><KCT ATTACK1>\r\n</PADM><KEYM><KCT SKILL_CUSTOM1>\r\n</KEYM></COL>\r\nto perform custom skills!",
+      "text": "<COL ff7575><PADM><KCT ATTACK1></PADM><KEYM><KCT SKILL_CUSTOM1></KEYM></COL> drücken, um die Fertigkeit einzusetzen!"
+    },
+    {
+      "key": "",
+      "read_index": "63",
+      "source_jp": "<COL ff7575><PADM><KCT WEAPON_MAIN>を押しながら</PADM><KEYM><KCT SKILL_CUSTOM4></KEYM></COL>でもOKだ！",
+      "source_en": "<COL ff7575><PADM><KCT WEAPON_MAIN>while pressing </PADM><KEYM><KCT SKILL_CUSTOM4></KEYM></COL> is OK too!",
+      "text": "<COL ff7575><PADM><KCT WEAPON_MAIN> gedrückt halten</PADM><KEYM><KCT SKILL_CUSTOM4></KEYM></COL> geht auch!"
+    },
+    {
+      "key": "",
+      "read_index": "64",
+      "source_jp": "技は画面右下のガイドで確認してくれ！",
+      "source_en": "Your skills are shown at the bottom\r\nright of your screen!",
+      "text": "Unten rechts stehen deine Fertigkeiten!"
+    },
+    {
+      "key": "",
+      "read_index": "65",
+      "source_jp": "オークや大型の敵には近づき、<COL ff7575><KCT TOUCH></COL>でしがみついて攻撃だ！",
+      "source_en": "To grab your enemies, press <COL ff7575><KCT TOUCH>\r\n</COL>,\r\nwhich can even be used to climb Orcs and\r\nother larger foes!",
+      "text": "Geh nah ran und halte dich mit <COL ff7575><KCT TOUCH></COL> fest.\r\nSo kannst du Orks und andere große Gegner\r\nauch von oben angreifen!"
+    },
+    {
+      "key": "",
+      "read_index": "66",
+      "source_jp": "走る時は<COL ff7575><PADM>移動方向に<KEYN L_STICK>を倒しながら押し込み<KEYM>初期設定の場合、同じ移動キー２回押し</KEYM></COL>でダッシュだ！",
+      "source_en": "While running, <COL ff7575><PADM>press down on\r\nthe<KEYN L_STICK>while pushing in a\r\ndirection<KEYM>with the default setting,\r\ntap the same directional key twice</KEYM></COL>\r\nto sprint!",
+      "text": "Zum Sprinten <COL ff7575><PADM><KEYN L_STICK> beim Laufen drücken<KEYM>die Bewegungstaste zweimal antippen (Standard)</KEYM></COL>!"
+    }
+  ]
+}

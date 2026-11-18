@@ -95,7 +95,10 @@ def render(base, groups, minimum=131125):
         value = entry['text']
         if not isinstance(value, str) or '\x00' in value:
             raise ValueError('Invalid translation: ' + row[1])
-        if TAGS.findall(value) != TAGS.findall(row[3]):
+        tag_source = entry.get('tag_source', 'source_en')
+        if tag_source not in ('source_en', 'source_jp'):
+            raise ValueError('Invalid tag source: ' + row[1])
+        if TAGS.findall(value) != TAGS.findall(entry[tag_source]):
             raise ValueError('Changed control tags: ' + row[1])
         if value == row[3]:
             continue

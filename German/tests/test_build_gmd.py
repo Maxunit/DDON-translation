@@ -61,6 +61,24 @@ class BuildTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'Incomplete base'):
             self.render(minimum=131125)
 
+    def test_explicit_japanese_tag_source_corrects_english_tag_error(self):
+        row = self.row.copy()
+        row[2] = 'JP <VAL>'
+        row[3] = 'EN <VAL><VAL>'
+        entry = dict(self.entry, source_jp=row[2], source_en=row[3])
+        groups = [dict(self.groups[0], entries=[entry])]
+        stream = io.StringIO(newline='')
+        csv.writer(stream).writerow(row)
+        base = self.prefix + stream.getvalue().encode('utf-8') + self.suffix
+        with self.assertRaisesRegex(ValueError, 'control tags'):
+            self.render(base=base, groups=groups)
+        entry['tag_source'] = 'source_jp'
+        result, _ = self.render(base=base, groups=groups)
+        self.assertEqual(list(builder.records(result))[1][0][3], entry['text'])
+        entry['tag_source'] = 'invalid'
+        with self.assertRaisesRegex(ValueError, 'Invalid tag source'):
+            self.render(base=base, groups=groups)
+
     def test_intentional_space_and_name_suffix_survive(self):
         for text in (' ', ' wird gelöscht.'):
             groups = copy.deepcopy(self.groups)

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "scope": "Fighter prologue and client feedback on adjacent menus",
+  "gmd_path": "ui\\00_message\\event\\st0423\\ev005.gmd",
+  "arc_path": "\\event\\st0423\\st0423ev005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "へぇ～",
+      "source_en": "Oh.",
+      "text": "Na sieh mal an."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "――が、まだまだだな",
+      "source_en": "... Seems you've got a long way to go.",
+      "text": "Aber du hast noch viel zu lernen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "ん？　どうした？\r\nああ、力が抜けていく――か",
+      "source_en": "Eh? What's wrong?\r\nAh, your strength is leaving you... isn't it?",
+      "text": "Na, was ist los?\r\nAh, die Kraft lässt nach, was?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "おまえの初陣はこれで終わりだ\r\nつまり、白竜の加護もここまで",
+      "source_en": "Your first battle ends here.\r\nOr rather, the White Dragon's blessing ends here.",
+      "text": "Deine erste Schlacht ist vorbei.\r\nDamit endet auch der Segen des Weißen Drachen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "あとは自分の力で強くなり――\r\nさっきの力を掴み取るしかない",
+      "source_en": "After this, you must gain your own strength...\r\nThere's no other way to regain the power\r\nyou've just felt.",
+      "text": "Von jetzt an musst du selbst stärker werden,\r\num diese Kraft wiederzuerlangen."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "きっびしー",
+      "source_en": "How harsh~.",
+      "text": "Ganz schön streng."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "source_jp": "加えて――いや、あとは神殿で話そう",
+      "source_en": "Oh, and... actually, no.\r\nWe'll talk back at the temple.",
+      "text": "Außerdem ... ach, reden wir im Tempel weiter."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "source_jp": "あーらら",
+      "source_en": "Oh my,",
+      "text": "Na so was."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "source_jp": "お気に入りにされたみたい\r\nこき使われちゃうなあ、これは",
+      "source_en": "He's taken a liking to you.\r\nThis one's going to be used and abused!",
+      "text": "Er hat dich wohl ins Herz geschlossen.\r\nJetzt lässt er dich bestimmt schuften."
+    }
+  ]
+}

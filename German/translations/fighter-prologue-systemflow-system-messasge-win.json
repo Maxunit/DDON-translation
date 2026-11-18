@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Fighter prologue and client feedback on adjacent menus",
+  "gmd_path": "ui\\00_message\\ui\\system_messasge_win.gmd",
+  "arc_path": "\\systemFlow.arc",
+  "entries": [
+    {
+      "key": "sys_announce_check_strage",
+      "read_index": "1",
+      "source_jp": "ハードディスクドライブの容量をチェックしています",
+      "source_en": "Checking HDD capacity.",
+      "text": "Freier Speicherplatz wird geprüft."
+    },
+    {
+      "key": "sys_announce_checkingsave",
+      "read_index": "10",
+      "source_jp": "セーブデータをチェックしています\r\nPCの電源を切らないでください",
+      "source_en": "Checking save data.\r\nPlease do not turn off your PC.",
+      "text": "Speicherdaten werden geprüft.\r\nBitte den PC nicht ausschalten."
+    }
+  ]
+}

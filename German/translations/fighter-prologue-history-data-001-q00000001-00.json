@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Fighter prologue and client feedback on adjacent menus",
+  "gmd_path": "ui\\00_message\\quest_info\\q00000001_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00000001_00_2",
+      "read_index": "0",
+      "source_jp": "覚悟と兆し",
+      "source_en": "Resolutions and Omens",
+      "text": "Entschluss und Vorzeichen"
+    },
+    {
+      "key": "q00000001_00_2",
+      "read_index": "1",
+      "source_jp": "オーク軍の襲撃を受けているグリッテン砦に向かい\r\nレオ、イリスとともに援軍として戦闘に参加する",
+      "source_en": "Fort Gritten is being raided by the Orc army.\r\nJoin the battle with Leo and Iris as reinforcements.",
+      "text": "Die Orks greifen Festung Gritten an.\r\nVerstärke mit Leo und Iris die Verteidiger."
+    },
+    {
+      "key": "q00000001_00_952",
+      "read_index": "2",
+      "source_jp": "レオ、イリスと共にグリッテン砦に向かう",
+      "source_en": "Head to Fort Gritten with Leo and Iris",
+      "text": "Begib dich mit Leo und Iris zur Festung Gritten"
+    },
+    {
+      "key": "q00000001_00_953",
+      "read_index": "3",
+      "source_jp": "砦内のすべてのオークを討伐する",
+      "source_en": "Defeat all Orcs in the fort",
+      "text": "Besiege alle Orks in der Festung"
+    }
+  ]
+}

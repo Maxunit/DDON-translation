@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Fighter prologue and client feedback on adjacent menus",
+  "gmd_path": "ui\\00_message\\ui\\server_select_res.gmd",
+  "arc_path": "\\ui\\uGUIServerSelect.arc",
+  "entries": [
+    {
+      "key": "server_sel_player",
+      "read_index": "9",
+      "source_jp": "プレイヤー情報取得",
+      "source_en": "Player Information Acquisition",
+      "text": "Spielerinfos abrufen"
+    },
+    {
+      "key": "server_sel_server_en",
+      "read_index": "2",
+      "source_jp": "World Select",
+      "source_en": "Select Channel",
+      "text": "Kanal wählen"
+    }
+  ]
+}

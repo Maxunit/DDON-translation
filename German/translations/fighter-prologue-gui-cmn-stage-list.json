@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Fighter prologue and client feedback on adjacent menus",
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_2",
+      "read_index": "1",
+      "source_jp": "白竜神殿レーゼ",
+      "source_en": "The White Dragon Temple",
+      "text": "Tempel des Weißen Drachen"
+    },
+    {
+      "key": "STAGE_NAME_230",
+      "read_index": "227",
+      "source_jp": "グリッテン砦前　戦野",
+      "source_en": "Battlefield outside Fort Gritten",
+      "text": "Schlachtfeld vor Festung Gritten"
+    },
+    {
+      "key": "STAGE_NAME_300",
+      "read_index": "247",
+      "source_jp": "グリッテン砦",
+      "source_en": "Fort Gritten",
+      "text": "Festung Gritten"
+    }
+  ]
+}

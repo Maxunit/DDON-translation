@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Fighter prologue and client feedback on adjacent menus",
+  "gmd_path": "ui\\00_message\\event\\st0101\\ev005.gmd",
+  "arc_path": "\\event\\st0101\\st0101ev005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "ハァ、ハァ、ハァ―",
+      "source_en": "Haa, haa, haa―",
+      "text": "(Keuchen)"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "フゥゥゥ、フゥゥゥ―",
+      "source_en": "Fuuuu, fuuuu―",
+      "text": "(Schweres Atmen)"
+    }
+  ]
+}

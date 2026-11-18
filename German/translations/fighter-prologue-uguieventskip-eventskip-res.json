@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Fighter prologue and client feedback on adjacent menus",
+  "gmd_path": "ui\\00_message\\ui\\EventSkip_res.gmd",
+  "arc_path": "\\ui\\uGUIEventSkip.arc",
+  "entries": [
+    {
+      "key": "EventSkip_msg_skip",
+      "read_index": "0",
+      "source_jp": "スキップ",
+      "source_en": "Skip",
+      "text": "Überspringen"
+    }
+  ]
+}

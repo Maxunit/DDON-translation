@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Fighter prologue and client feedback on adjacent menus",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step172.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_172.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_168",
+      "read_index": "0",
+      "source_jp": "ファイターは盾による防御を反撃の\r\n起点として使うことができます\r\n　敵の攻撃に合わせて【<KC WEAPON_SUB>】盾弾き\r\n他にも、仲間を打ち上げる連携技も可能です\r\n　\r\n　【<KC CATAPULT>】連係投げ",
+      "source_en": "Fighters can use blocking as a starting\r\npoint for counterattacks.\r\nDeflect attacks by enemies with <KC WEAPON_SUB>.\r\nThey can also use combination techniques to\r\nlaunch their allies into the air.\r\nPerform a linking throw by pressing <KC CATAPULT>.",
+      "text": "Als Kämpfer kannst du nach dem Blocken\r\nzum Gegenangriff ansetzen.\r\nDrücke im richtigen Moment [<KC WEAPON_SUB>],\r\num einen Angriff mit dem Schild abzuwehren.\r\n\r\nMit [<KC CATAPULT>] kannst du Verbündete\r\nin die Luft befördern."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Fighter prologue and client feedback on adjacent menus",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\tutorial_guide.gmd",
+  "arc_path": "\\tutorial_guide.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_39",
+      "read_index": "10",
+      "source_jp": "ミニマップの使い方",
+      "source_en": "Using the Minimap",
+      "text": "Die Minikarte"
+    },
+    {
+      "key": "TUTORIAL_172",
+      "read_index": "81",
+      "source_jp": "ファイターの戦法：追記",
+      "source_en": "Advanced Tactics: Fighter",
+      "text": "Fortgeschrittene Taktik: Kämpfer"
+    }
+  ]
+}

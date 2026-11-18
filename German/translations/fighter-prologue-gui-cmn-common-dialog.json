@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Fighter prologue and client feedback on adjacent menus",
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_event_skip",
+      "read_index": "144",
+      "source_jp": "イベントをスキップしますか？\r\n※パーティーの場合は\r\n　全員が承認することでスキップできます",
+      "source_en": "Are you sure you want to skip the event?\r\nIf you are in a party,\r\neveryone must approve in order to skip.",
+      "text": "Szene überspringen?\r\nIn einer Gruppe müssen\r\nalle Spieler zustimmen."
+    },
+    {
+      "key": "ana_event_skip_button",
+      "read_index": "352",
+      "source_jp": "スキップ",
+      "source_en": "Skip",
+      "text": "Überspringen"
+    },
+    {
+      "key": "ana_event_skip_solo",
+      "read_index": "371",
+      "source_jp": "イベントをスキップしますか？",
+      "source_en": "Are you sure you want to skip the event?",
+      "text": "Szene überspringen?"
+    }
+  ]
+}
