@@ -1,0 +1,491 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation client feedback",
+  "gmd_path": "ui\\00_message\\ui\\character_edit.gmd",
+  "arc_path": "\\ui\\uGUICharacterEditDialog.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_AGOSAKI_HABA",
+      "read_index": "43",
+      "source_jp": "顎の幅",
+      "source_en": "Chin Width",
+      "text": "Kinnbreite"
+    },
+    {
+      "key": "EDIT_MSG_AGOSAKI_UPDOWN",
+      "read_index": "42",
+      "source_jp": "顎の長さ",
+      "source_en": "Chin Height",
+      "text": "Kinnlänge"
+    },
+    {
+      "key": "EDIT_MSG_ERAHONE_HABA",
+      "read_index": "40",
+      "source_jp": "エラ骨の幅",
+      "source_en": "Jaw Width",
+      "text": "Kieferbreite"
+    },
+    {
+      "key": "EDIT_MSG_ERAHONE_UPDOWN",
+      "read_index": "39",
+      "source_jp": "エラ骨の高さ",
+      "source_en": "Jaw Height",
+      "text": "Kieferhöhe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_AGO_ZENGO",
+      "read_index": "41",
+      "source_jp": "顎の奥行き",
+      "source_en": "Chin Depth",
+      "text": "Kinntiefe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_BEARD_COLOR",
+      "read_index": "73",
+      "source_jp": "髭のカラー",
+      "source_en": "Beard Color",
+      "text": "Bartfarbe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_BEARD_PARTS",
+      "read_index": "72",
+      "source_jp": "髭のパーツ",
+      "source_en": "Beard Style",
+      "text": "Bartform"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_CHEST",
+      "read_index": "89",
+      "source_jp": "胸の大きさ",
+      "source_en": "Chest Size",
+      "text": "Brustgröße"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_COLOR_SKIN",
+      "read_index": "78",
+      "source_jp": "肌のカラー",
+      "source_en": "Skin Color",
+      "text": "Hautfarbe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EAR_DIR",
+      "read_index": "70",
+      "source_jp": "耳の向き",
+      "source_en": "Ear Direction",
+      "text": "Ohrwinkel"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EAR_ELF",
+      "read_index": "71",
+      "source_jp": "耳の輪郭",
+      "source_en": "Ear Shape",
+      "text": "Ohrform"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EAR_SIZE",
+      "read_index": "69",
+      "source_jp": "耳の大きさ",
+      "source_en": "Ear Size",
+      "text": "Ohrgröße"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYEBLOW_COLOR",
+      "read_index": "54",
+      "source_jp": "眉のカラー",
+      "source_en": "Brow Color",
+      "text": "Brauenfarbe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYEBLOW_MAYUKAITEN",
+      "read_index": "57",
+      "source_jp": "眉の角度",
+      "source_en": "Brow Angle",
+      "text": "Brauenwinkel"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYEBLOW_MIKEN_HABA",
+      "read_index": "59",
+      "source_jp": "眉間の幅",
+      "source_en": "Glabella Width",
+      "text": "Nasenwurzelbreite"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYEBLOW_MIKEN_TAKASA",
+      "read_index": "58",
+      "source_jp": "眉間の高さ",
+      "source_en": "Glabella Height",
+      "text": "Nasenwurzelhöhe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYEBLOW_PARTS",
+      "read_index": "53",
+      "source_jp": "眉のパーツ",
+      "source_en": "Brow Shape",
+      "text": "Brauenform"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_X",
+      "read_index": "55",
+      "source_jp": "眉の間隔",
+      "source_en": "Brow Spacing",
+      "text": "Brauenabstand"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_Y",
+      "read_index": "56",
+      "source_jp": "眉の高さ",
+      "source_en": "Brow Vertical Position",
+      "text": "Brauenhöhe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYE_ANGLE",
+      "read_index": "49",
+      "source_jp": "目の角度",
+      "source_en": "Eye Angle",
+      "text": "Augenneigung"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYE_COLOR_L",
+      "read_index": "46",
+      "source_jp": "左目のカラー",
+      "source_en": "Left Eye Color",
+      "text": "Linke Augenfarbe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYE_COLOR_LR",
+      "read_index": "45",
+      "source_jp": "両目のカラー",
+      "source_en": "Eye Color",
+      "text": "Augenfarbe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYE_HEIGHT",
+      "read_index": "51",
+      "source_jp": "目の高さ",
+      "source_en": "Eye Vertical Position",
+      "text": "Augenhöhe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYE_HITOMI_SIZE",
+      "read_index": "47",
+      "source_jp": "瞳の大きさ",
+      "source_en": "Pupil Size",
+      "text": "Pupillengröße"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYE_INTERVAL",
+      "read_index": "50",
+      "source_jp": "目の間隔",
+      "source_en": "Eye Spacing",
+      "text": "Augenabstand"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYE_MABISASI_UPDOWN",
+      "read_index": "52",
+      "source_jp": "目庇の高さ",
+      "source_en": "Eye Vertical Position",
+      "text": "Brauenbogenhöhe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYE_PARTS",
+      "read_index": "44",
+      "source_jp": "目のパーツ",
+      "source_en": "Eye Shape",
+      "text": "Augenform"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_EYE_SIZE",
+      "read_index": "48",
+      "source_jp": "目の大きさ",
+      "source_en": "Eye Size",
+      "text": "Augengröße"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_FAT",
+      "read_index": "83",
+      "source_jp": "肥満度",
+      "source_en": "Fat",
+      "text": "Körperfett"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_FOOT_SIZE",
+      "read_index": "93",
+      "source_jp": "足の大きさ",
+      "source_en": "Feet Size",
+      "text": "Fußgröße"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_HAIR_COLOR",
+      "read_index": "33",
+      "source_jp": "髪のカラー",
+      "source_en": "Hair Color",
+      "text": "Haarfarbe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_HAIR_COLOR_ALL",
+      "read_index": "79",
+      "source_jp": "毛髪全体のカラー",
+      "source_en": "All Hair Color",
+      "text": "Haarfarbe gesamt"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_HAIR_PARTS",
+      "read_index": "32",
+      "source_jp": "髪のパーツ",
+      "source_en": "Hair Style",
+      "text": "Frisur"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_HANAKUCHI_UPDOWN",
+      "read_index": "68",
+      "source_jp": "口の位置",
+      "source_en": "Mouth Position",
+      "text": "Mundhöhe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_HEAD_SIZE",
+      "read_index": "84",
+      "source_jp": "頭の大きさ",
+      "source_en": "Head Size",
+      "text": "Kopfgröße"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_HEIGHT",
+      "read_index": "80",
+      "source_jp": "身長（cm）",
+      "source_en": "Height (cm)",
+      "text": "Körpergröße (cm)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_HITAI",
+      "read_index": "35",
+      "source_jp": "額の奥行き",
+      "source_en": "Forehead Depth",
+      "text": "Stirntiefe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_HOBONE_UPDOWN",
+      "read_index": "36",
+      "source_jp": "頬骨の高さ",
+      "source_en": "Cheek Height",
+      "text": "Wangenknochenhöhe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_HOBONE_VALUE",
+      "read_index": "37",
+      "source_jp": "頬骨の幅",
+      "source_en": "Cheek Width",
+      "text": "Wangenknochenbreite"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_HOHONIKU_VOLUME",
+      "read_index": "38",
+      "source_jp": "頬肉の量",
+      "source_en": "Cheek Size",
+      "text": "Wangenfülle"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_KUBIRE",
+      "read_index": "88",
+      "source_jp": "くびれ",
+      "source_en": "Waist Size",
+      "text": "Taillenweite"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_KUCHI_ATSUSA",
+      "read_index": "67",
+      "source_jp": "唇の大きさ",
+      "source_en": "Lip Size",
+      "text": "Lippenfülle"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_KUCHI_HABA",
+      "read_index": "66",
+      "source_jp": "口の幅",
+      "source_en": "Mouth Width",
+      "text": "Mundbreite"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_MAKEUP_COLOR",
+      "read_index": "75",
+      "source_jp": "化粧のカラー",
+      "source_en": "Makeup Color",
+      "text": "Make-up-Farbe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_MAKEUP_PARTS",
+      "read_index": "74",
+      "source_jp": "化粧のパーツ",
+      "source_en": "Makeup Type",
+      "text": "Make-up-Typ"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_MASSLE",
+      "read_index": "82",
+      "source_jp": "筋肉量",
+      "source_en": "Muscle",
+      "text": "Muskelmasse"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_MOTION_FILTER",
+      "read_index": "81",
+      "source_jp": "立ち姿",
+      "source_en": "Stance",
+      "text": "Haltung"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_MOUSE_PARTS",
+      "read_index": "65",
+      "source_jp": "口のパーツ",
+      "source_en": "Mouth Shape",
+      "text": "Mundform"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NAME_GUIDE_ERROR_CHARACTER",
+      "read_index": "26",
+      "source_jp": "<COL AA1414>使用できない文字が含まれています</COL>\r\n注意事項\r\n ・半角英字と'(アポストロフィー)が使用可能です\r\n ・半角数字は使用できません\r\n ・半角スペースは使用できません\r\n ・名前の頭文字は半角英字のみ使用可能です\r\n ・名前の頭文字は大文字に変換されます\r\n ・名前の頭文字以外は小文字に変換されます",
+      "source_en": "<COL AA1414>Contains characters that cannot be used</COL>.\r\nNotes:\r\nOnly letters and ' (apostrophe) are allowed\r\nNumbers are not allowed\r\nSpaces are not allowed\r\nThe first letter must be a letter\r\nThe first letter will be converted to uppercase\r\nAll other letters will be converted to lowercase",
+      "text": "<COL AA1414>Name enthält ungültige Zeichen.</COL>\r\nHinweise\r\nErlaubt sind Buchstaben (A-Z, a-z)\r\nund der Apostroph (').\r\nKeine Ziffern oder Leerzeichen.\r\nDer Name beginnt mit einem Buchstaben.\r\nDer erste Buchstabe wird groß,\r\nalle anderen werden kleingeschrieben."
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NAME_GUIDE_ERROR_NUMBER",
+      "read_index": "25",
+      "source_jp": "<COL AA1414>文字数が不足、またはオーバーしています</COL>\r\n注意事項\r\n ・半角英字と'(アポストロフィー)が使用可能です\r\n ・半角数字は使用できません\r\n ・半角スペースは使用できません\r\n ・名前の頭文字は半角英字のみ使用可能です\r\n ・名前の頭文字は大文字に変換されます\r\n ・名前の頭文字以外は小文字に変換されます",
+      "source_en": "<COL AA1414>Contains too few or too many characters</COL>.\r\nNotes:\r\nOnly letters and ' (apostrophe) are allowed\r\nNumbers are not allowed\r\nSpaces are not allowed\r\nThe first letter must be a letter\r\nThe first letter will be converted to uppercase\r\nAll other letters will be converted to lowercase",
+      "text": "<COL AA1414>Name zu kurz oder zu lang.</COL>\r\nHinweise\r\nErlaubt sind Buchstaben (A-Z, a-z)\r\nund der Apostroph (').\r\nKeine Ziffern oder Leerzeichen.\r\nDer Name beginnt mit einem Buchstaben.\r\nDer erste Buchstabe wird groß,\r\nalle anderen werden kleingeschrieben."
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NAME_GUIDE_ERROR_USED",
+      "read_index": "28",
+      "source_jp": "<COL AA1414>すでに使用されている名前です</COL>\r\n注意事項\r\n ・半角英字と'(アポストロフィー)が使用可能です\r\n ・半角数字は使用できません\r\n ・半角スペースは使用できません\r\n ・名前の頭文字は半角英字のみ使用可能です\r\n ・名前の頭文字は大文字に変換されます\r\n ・名前の頭文字以外は小文字に変換されます",
+      "source_en": "<COL AA1414>Name already in use</COL>.\r\nNotes:\r\nOnly letters and ' (apostrophe) are allowed\r\nNumbers are not allowed\r\nSpaces are not allowed\r\nThe first letter must be a letter\r\nThe first letter will be converted to uppercase\r\nAll other letters will be converted to lowercase",
+      "text": "<COL AA1414>Name bereits vergeben.</COL>\r\nHinweise\r\nErlaubt sind Buchstaben (A-Z, a-z)\r\nund der Apostroph (').\r\nKeine Ziffern oder Leerzeichen.\r\nDer Name beginnt mit einem Buchstaben.\r\nDer erste Buchstabe wird groß,\r\nalle anderen werden kleingeschrieben."
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NAME_GUIDE_ERROR_WORD",
+      "read_index": "27",
+      "source_jp": "<COL AA1414>使用できない文字列が含まれています</COL>\r\n注意事項\r\n ・半角英字と'(アポストロフィー)が使用可能です\r\n ・半角数字は使用できません\r\n ・半角スペースは使用できません\r\n ・名前の頭文字は半角英字のみ使用可能です\r\n ・名前の頭文字は大文字に変換されます\r\n ・名前の頭文字以外は小文字に変換されます",
+      "source_en": "<COL AA1414>Contains forbidden word</COL>.\r\nNotes:\r\nOnly letters and ' (apostrophe) are allowed\r\nNumbers are not allowed\r\nSpaces are not allowed\r\nThe first letter must be a letter\r\nThe first letter will be converted to uppercase\r\nAll other letters will be converted to lowercase",
+      "text": "<COL AA1414>Name enthält einen gesperrten Begriff.</COL>\r\nHinweise\r\nErlaubt sind Buchstaben (A-Z, a-z)\r\nund der Apostroph (').\r\nKeine Ziffern oder Leerzeichen.\r\nDer Name beginnt mit einem Buchstaben.\r\nDer erste Buchstabe wird groß,\r\nalle anderen werden kleingeschrieben."
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NECK_POS",
+      "read_index": "85",
+      "source_jp": "首の長さ",
+      "source_en": "Neck Length",
+      "text": "Halslänge"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NECK_SCALE",
+      "read_index": "86",
+      "source_jp": "首の太さ",
+      "source_en": "Neck Thickness",
+      "text": "Halsdicke"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NOSE_DIR",
+      "read_index": "64",
+      "source_jp": "鼻の向き",
+      "source_en": "Nose Direction",
+      "text": "Nasenneigung"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NOSE_HEIGHT",
+      "read_index": "63",
+      "source_jp": "鼻の高さ",
+      "source_en": "Nose Height",
+      "text": "Nasenhöhe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NOSE_PARTS",
+      "read_index": "60",
+      "source_jp": "鼻のパーツ",
+      "source_en": "Nose Shape",
+      "text": "Nasenform"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NOSE_POS_Y",
+      "read_index": "61",
+      "source_jp": "鼻の位置",
+      "source_en": "Nose Vertical Position",
+      "text": "Nasenposition"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_NOSE_SIZE_X",
+      "read_index": "62",
+      "source_jp": "鼻の幅",
+      "source_en": "Nose Width",
+      "text": "Nasenbreite"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_SCAR_PARTS",
+      "read_index": "76",
+      "source_jp": "傷/その他のパーツ",
+      "source_en": "Scar Type",
+      "text": "Narben und Details"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_SHOULDER_SIZE",
+      "read_index": "87",
+      "source_jp": "肩幅",
+      "source_en": "Shoulder Width",
+      "text": "Schulterbreite"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_SOKUTOUBU",
+      "read_index": "34",
+      "source_jp": "側頭部の幅",
+      "source_en": "Temple Size",
+      "text": "Schläfenbreite"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_PITCH_H",
+      "read_index": "96",
+      "source_jp": "<COL 969696>ピッチ：</COL>高",
+      "source_en": "<COL 969696>Pitch: </COL> High",
+      "text": "<COL 969696>Tonhöhe: </COL>Hoch"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_PITCH_L",
+      "read_index": "94",
+      "source_jp": "<COL 969696>ピッチ：</COL>低",
+      "source_en": "<COL 969696>Pitch: </COL> Low",
+      "text": "<COL 969696>Tonhöhe: </COL>Tief"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_PITCH_M",
+      "read_index": "95",
+      "source_jp": "<COL 969696>ピッチ：</COL>中",
+      "source_en": "<COL 969696>Pitch: </COL> Medium",
+      "text": "<COL 969696>Tonhöhe: </COL>Mittel"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_WEST_POS",
+      "read_index": "91",
+      "source_jp": "腰の位置",
+      "source_en": "Hip Position",
+      "text": "Hüfthöhe"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_WEST_SIZE",
+      "read_index": "92",
+      "source_jp": "腰の大きさ",
+      "source_en": "Hip Size",
+      "text": "Hüftbreite"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_WRINKLE",
+      "read_index": "77",
+      "source_jp": "しわの量",
+      "source_en": "Wrinkles",
+      "text": "Faltenstärke"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_WRIST_SIZE",
+      "read_index": "90",
+      "source_jp": "手の大きさ",
+      "source_en": "Hand Size",
+      "text": "Handgröße"
+    }
+  ]
+}

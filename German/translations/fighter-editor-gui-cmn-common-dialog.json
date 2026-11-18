@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation client feedback",
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_tutorial_announce",
+      "read_index": "238",
+      "source_jp": "新しいチュートリアルがあります",
+      "source_en": "There is a new tutorial available.",
+      "text": "Neues Tutorial verfügbar."
+    }
+  ]
+}

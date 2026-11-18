@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation client feedback",
+  "gmd_path": "ui\\00_message\\common\\weapon_ctgr.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "WEAPON_CTGR_1",
+      "read_index": "1",
+      "source_jp": "片手剣",
+      "source_en": "One-handed Sword",
+      "text": "Einhandschwert"
+    },
+    {
+      "key": "WEAPON_CTGR_2",
+      "read_index": "2",
+      "source_jp": "盾",
+      "source_en": "Shield",
+      "text": "Schild"
+    }
+  ]
+}

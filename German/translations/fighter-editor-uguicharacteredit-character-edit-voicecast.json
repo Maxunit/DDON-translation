@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation client feedback",
+  "gmd_path": "ui\\00_message\\ui\\character_edit_voicecast.gmd",
+  "arc_path": "\\ui\\uGUICharacterEdit.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL",
+      "read_index": "0",
+      "source_jp": "ボイス<VAL>",
+      "source_en": "Voice <VAL>",
+      "text": "Stimme <VAL>"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_F_SP4",
+      "read_index": "5",
+      "source_jp": "ボイス<VAL> （水樹奈々）",
+      "source_en": "Voice <VAL> (Nana Mizuki)",
+      "text": "Stimme <VAL> (Nana Mizuki)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_F_SP5",
+      "read_index": "6",
+      "source_jp": "ボイス<VAL> （坂本真綾）",
+      "source_en": "Voice <VAL> (Maaya Sakamoto)",
+      "text": "Stimme <VAL> (Maaya Sakamoto)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_F_SP6",
+      "read_index": "7",
+      "source_jp": "ボイス<VAL> （田中理恵）",
+      "source_en": "Voice <VAL> (Rie Tanaka)",
+      "text": "Stimme <VAL> (Rie Tanaka)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_F_SP7",
+      "read_index": "8",
+      "source_jp": "ボイス<VAL> （斎藤千和）",
+      "source_en": "Voice <VAL> (Chiwa Saitō)",
+      "text": "Stimme <VAL> (Chiwa Saito)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_F_SP8",
+      "read_index": "11",
+      "source_jp": "ボイス<VAL> （堀江由衣）",
+      "source_en": "Voice <VAL> (Yui Horie)",
+      "text": "Stimme <VAL> (Yui Horie)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_F_SP9",
+      "read_index": "12",
+      "source_jp": "ボイス<VAL> （加藤英美里）",
+      "source_en": "Voice <VAL> (Emiri Katō)",
+      "text": "Stimme <VAL> (Emiri Kato)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_F_SP10",
+      "read_index": "14",
+      "source_jp": "ボイス<VAL> （早見沙織）",
+      "source_en": "Voice <VAL> (Saori Hayami)",
+      "text": "Stimme <VAL> (Saori Hayami)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_M_SP4",
+      "read_index": "1",
+      "source_jp": "ボイス<VAL> （神谷浩史）",
+      "source_en": "Voice <VAL> (Hiroshi Kamiya)",
+      "text": "Stimme <VAL> (Hiroshi Kamiya)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_M_SP5",
+      "read_index": "2",
+      "source_jp": "ボイス<VAL> （中村悠一）",
+      "source_en": "Voice <VAL> (Yuichi Nakamura)",
+      "text": "Stimme <VAL> (Yuichi Nakamura)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_M_SP6",
+      "read_index": "3",
+      "source_jp": "ボイス<VAL> （安元洋貴）",
+      "source_en": "Voice <VAL> (Hiroki Yasumoto)",
+      "text": "Stimme <VAL> (Hiroki Yasumoto)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_M_SP7",
+      "read_index": "4",
+      "source_jp": "ボイス<VAL> （柿原徹也）",
+      "source_en": "Voice <VAL> (Tetsuya Kakihara)",
+      "text": "Stimme <VAL> (Tetsuya Kakihara)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_M_SP8",
+      "read_index": "9",
+      "source_jp": "ボイス<VAL> （櫻井孝宏）",
+      "source_en": "Voice <VAL> (Takahiro Sakurai)",
+      "text": "Stimme <VAL> (Takahiro Sakurai)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_M_SP9",
+      "read_index": "10",
+      "source_jp": "ボイス<VAL> （森川智之）",
+      "source_en": "Voice <VAL> (Toshiyuki Morikawa)",
+      "text": "Stimme <VAL> (Toshiyuki Morikawa)"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_VOICE_VAL_M_SP10",
+      "read_index": "13",
+      "source_jp": "ボイス<VAL> （梶裕貴）",
+      "source_en": "Voice <VAL> (Yuki Kaji)",
+      "text": "Stimme <VAL> (Yuki Kaji)"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation client feedback",
+  "gmd_path": "ui\\00_message\\ui\\job_skill_manager.gmd",
+  "arc_path": "\\ui\\uGUIJobSelect.arc",
+  "entries": [
+    {
+      "key": "job_infomation_window_heading_caption",
+      "read_index": "28",
+      "source_jp": "Details",
+      "source_en": "Details",
+      "text": "Beschreibung"
+    },
+    {
+      "key": "job_infomation_window_heading_weapon",
+      "read_index": "29",
+      "source_jp": "Weapons",
+      "source_en": "Weapons",
+      "text": "Waffen"
+    },
+    {
+      "key": "job_infomation_window_title_infomation",
+      "read_index": "27",
+      "source_jp": "Information",
+      "source_en": "Information",
+      "text": "Klasseninfo"
+    }
+  ]
+}

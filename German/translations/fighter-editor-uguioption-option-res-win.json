@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Character creation client feedback",
+  "gmd_path": "ui\\00_message\\ui\\option_res_win.gmd",
+  "arc_path": "\\ui\\uGUIOption.arc",
+  "entries": [
+    {
+      "key": "OPTION_MSG_CHOICE_ALL2",
+      "read_index": "156",
+      "source_jp": "誰にでも",
+      "source_en": "Anyone",
+      "text": "Alle"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_CLAN2",
+      "read_index": "159",
+      "source_jp": "クランのみ",
+      "source_en": "Clan only",
+      "text": "Nur Clan"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_CLAN_FRIEND2",
+      "read_index": "157",
+      "source_jp": "フレンドとクランのみ",
+      "source_en": "Friends and Clan only",
+      "text": "Freunde und Clan"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_FRIEND2",
+      "read_index": "158",
+      "source_jp": "フレンドのみ",
+      "source_en": "Friends only",
+      "text": "Nur Freunde"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_NOBADY2",
+      "read_index": "160",
+      "source_jp": "非公開",
+      "source_en": "Private",
+      "text": "Privat"
+    }
+  ]
+}

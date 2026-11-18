@@ -240,21 +240,21 @@
       "read_index": "22",
       "source_jp": "付けたい名前を入力してください\r\n注意事項\r\n ・半角英字と'(アポストロフィー)が使用可能です\r\n ・半角数字は使用できません\r\n ・半角スペースは使用できません\r\n ・名前の頭文字は半角英字のみ使用可能です\r\n ・名前の頭文字は大文字に変換されます\r\n ・名前の頭文字以外は小文字に変換されます",
       "source_en": "Please enter the name you want to use.\r\nNotes:\r\nOnly letters and ' (apostrophe) are allowed\r\nNumbers are not allowed\r\nSpaces are not allowed\r\nThe first letter must be a letter\r\nThe first letter will be converted to uppercase\r\nAll other letters will be converted to lowercase",
-      "text": "Gewünschten Namen eingeben.\r\nHinweise\r\nErlaubt sind A-Z, a-z und der Apostroph (').\r\nZiffern und Leerzeichen sind unzulässig.\r\nDer Name muss mit einem Buchstaben beginnen.\r\nDieser wird großgeschrieben.\r\nDie übrigen Buchstaben werden kleingeschrieben."
+      "text": "Gewünschten Namen eingeben.\r\nHinweise\r\nErlaubt sind Buchstaben (A-Z, a-z)\r\nund der Apostroph (').\r\nKeine Ziffern oder Leerzeichen.\r\nDer Name beginnt mit einem Buchstaben.\r\nDer erste Buchstabe wird groß,\r\nalle anderen werden kleingeschrieben."
     },
     {
       "key": "EDIT_MSG_TYPE_NAME_GUIDE_ATTENTION",
       "read_index": "23",
       "source_jp": "ファースト/ファミリーネーム\r\n両方に入力してください\r\n注意事項\r\n ・半角英字と'(アポストロフィー)が使用可能です\r\n ・半角数字は使用できません\r\n ・半角スペースは使用できません\r\n ・名前の頭文字は半角英字のみ使用可能です\r\n ・名前の頭文字は大文字に変換されます\r\n ・名前の頭文字以外は小文字に変換されます",
       "source_en": "First/Last Name\r\nPlease enter both.\r\nNotes:\r\nOnly letters and ' (apostrophe) are allowed\r\nNumbers are not allowed\r\nSpaces are not allowed\r\nThe first letter must be a letter\r\nThe first letter will be converted to uppercase\r\nAll other letters will be converted to lowercase",
-      "text": "Vor- und Nachnamen eingeben.\r\nHinweise\r\nErlaubt sind A-Z, a-z und der Apostroph (').\r\nZiffern und Leerzeichen sind unzulässig.\r\nJeder Name muss mit einem Buchstaben beginnen.\r\nDieser wird großgeschrieben.\r\nDie übrigen Buchstaben werden kleingeschrieben."
+      "text": "Vor- und Nachnamen eingeben.\r\nHinweise\r\nErlaubt sind Buchstaben (A-Z, a-z)\r\nund der Apostroph (').\r\nKeine Ziffern oder Leerzeichen.\r\nDer Name beginnt mit einem Buchstaben.\r\nDer erste Buchstabe wird groß,\r\nalle anderen werden kleingeschrieben."
     },
     {
       "key": "EDIT_MSG_TYPE_NAME_GUIDE_OK",
       "read_index": "24",
       "source_jp": "<COL A39A70>入力ＯＫ</COL>\r\n注意事項\r\n ・半角英字と'(アポストロフィー)が使用可能です\r\n ・半角数字は使用できません\r\n ・半角スペースは使用できません\r\n ・名前の頭文字は半角英字のみ使用可能です\r\n ・名前の頭文字は大文字に変換されます\r\n ・名前の頭文字以外は小文字に変換されます",
       "source_en": "<COL A39A70>Valid Name</COL>.\r\nNotes:\r\nOnly letters and ' (apostrophe) are allowed\r\nNumbers are not allowed\r\nSpaces are not allowed\r\nThe first letter must be a letter\r\nThe first letter will be converted to uppercase\r\nAll other letters will be converted to lowercase",
-      "text": "<COL A39A70>Gültiger Name</COL>\r\nHinweise\r\nErlaubt sind A-Z, a-z und der Apostroph (').\r\nZiffern und Leerzeichen sind unzulässig.\r\nDer Name muss mit einem Buchstaben beginnen.\r\nDieser wird großgeschrieben.\r\nDie übrigen Buchstaben werden kleingeschrieben."
+      "text": "<COL A39A70>Gültiger Name</COL>\r\nHinweise\r\nErlaubt sind Buchstaben (A-Z, a-z)\r\nund der Apostroph (').\r\nKeine Ziffern oder Leerzeichen.\r\nDer Name beginnt mit einem Buchstaben.\r\nDer erste Buchstabe wird groß,\r\nalle anderen werden kleingeschrieben."
     },
     {
       "key": "EDIT_MSG_TYPE_NAME_LIMIT1",
