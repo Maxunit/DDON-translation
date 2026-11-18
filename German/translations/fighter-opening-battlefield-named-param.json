@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Battlefield messages outside Gritten Fort",
+  "gmd_path": "ui\\00_message\\named\\named_param.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "namedparam_122",
+      "read_index": "12",
+      "source_jp": "ゴブリンの尖兵",
+      "source_en": " Goblin Vanguard ",
+      "text": " Goblin-Vorhut "
+    },
+    {
+      "key": "namedparam_123",
+      "read_index": "13",
+      "source_jp": "ゴブリンの哨戒兵",
+      "source_en": " Goblin Patrol ",
+      "text": " Goblin-Patrouille "
+    },
+    {
+      "key": "namedparam_125",
+      "read_index": "15",
+      "source_jp": "オーク侵略兵",
+      "source_en": " Orc Invader ",
+      "text": " Ork-Invasor "
+    },
+    {
+      "key": "namedparam_126",
+      "read_index": "16",
+      "source_jp": "キラービー進攻種",
+      "source_en": " Invasive Killer Bee ",
+      "text": " Eindringende Killerbiene "
+    }
+  ]
+}
