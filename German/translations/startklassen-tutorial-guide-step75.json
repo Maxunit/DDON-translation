@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Hunter, Priest and Shield Sage prologue",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step75.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_75.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_123",
+      "read_index": "0",
+      "source_jp": "ハンターは弓による射撃を得意とする\r\n遠隔攻撃の名手です。空の敵、大型敵相手の\r\n弱点狙撃で特に真価を発揮します\r\n＜基本操作＞\r\n　【<KC HOLD_BOW>】弓構え\r\n　構えながら【<KC SHOOT>】弓射ち\r\n　【<KC RELOAD>】矢の装填\r\n　【<KC ATTACK1>】前蹴り",
+      "source_en": "The Hunter excels at shooting with a bow, being\r\na master of long-range attacks. They\r\nparticularly demonstrate their skills by aiming\r\nfor weak points when facing\r\nairborne or large enemies.\r\n[Basic Operations] - Hold <KC HOLD_BOW> to ready the bow.\r\n- While aiming, press <KC SHOOT> to release an arrow.\r\n- Press <KC RELOAD> to reload arrows.\r\n- Press <KC ATTACK1> to perform a front kick.",
+      "text": "Als Jäger kämpfst du mit dem Bogen.\r\nZiele bei fliegenden und großen Gegnern\r\naus der Ferne auf ihre Schwachstellen.\r\n\r\n[Grundsteuerung]\r\n[<KC HOLD_BOW>] halten, um den Bogen anzulegen.\r\nBeim Zielen mit [<KC SHOOT>] schießen.\r\n[<KC RELOAD>] Pfeile nachladen\r\n[<KC ATTACK1>] Tritt nach vorn"
+    },
+    {
+      "key": "TUTORIAL_STEP_256",
+      "read_index": "1",
+      "source_jp": "また、矢の装填ゲージの水色と青の部分は装填の\r\n<COL ffdc78>《ジャストタイミング》</COL>を示しています\r\nそのタイミングで<PADM>【<ICON STG_TOUCH>ボタン】<KEYM>【<ICON KB_R>】</KEYM>を押すと<COL ffdc78>\r\n《達人装填》</COL>となりスキが短縮、威力が上昇します\r\n　青（Ｇｒｅａｔ！！）\r\n　　　　スキ短縮、 弓射ちの初撃が３本に\r\n　水色（Ｇｏｏｄ！）\r\n　　　　スキ短縮",
+      "source_en": "Furthermore, the light blue and blue parts of\r\nthe arrow loading gauge indicate the timing\r\nfor a \"Perfect Timing\".\r\nBy pressing the [R] button at that timing, the\r\n\"Adept Reload\" will activate, reducing the\r\ncooldown time and increasing the power.\r\nBlue (Great!!) Cooldown reduction, the first\r\narrow splits into 3 Light Blue\r\n(Good!) Cooldown reduction",
+      "text": "Blaue und hellblaue Bereiche der Ladeanzeige\r\nzeigen den <COL ffdc78>richtigen Moment</COL> zum Nachladen.\r\nDrücke dann <PADM>[<ICON STG_TOUCH>]<KEYM>[<ICON KB_R>]</KEYM> für\r\n<COL ffdc78>Gekonntes Nachladen</COL>.\r\n\r\nBlau (Great!!)\r\nSchneller bereit. Der erste Schuss hat 3 Pfeile.\r\nHellblau (Good!)\r\nSchneller wieder schussbereit.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

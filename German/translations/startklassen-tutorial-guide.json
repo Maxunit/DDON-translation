@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Hunter, Priest and Shield Sage prologue",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\tutorial_guide.gmd",
+  "arc_path": "\\tutorial_guide.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_74",
+      "read_index": "28",
+      "source_jp": "プリーストの戦法：基本",
+      "source_en": "Basic Tactics: Priest",
+      "text": "Grundtaktik: Priester"
+    },
+    {
+      "key": "TUTORIAL_75",
+      "read_index": "29",
+      "source_jp": "ハンターの戦法：基本",
+      "source_en": "Basic Tactics: Hunter",
+      "text": "Grundtaktik: Jäger"
+    },
+    {
+      "key": "TUTORIAL_76",
+      "read_index": "30",
+      "source_jp": "シールドセージの戦法：基本",
+      "source_en": "Basic Tactics: Shield Sage",
+      "text": "Grundtaktik: Schildweiser"
+    },
+    {
+      "key": "TUTORIAL_177",
+      "read_index": "85",
+      "source_jp": "ハンターの戦法：追記",
+      "source_en": "Advanced Tactics: Hunter",
+      "text": "Fortgeschrittene Taktik: Jäger"
+    },
+    {
+      "key": "TUTORIAL_178",
+      "read_index": "86",
+      "source_jp": "プリーストの戦法：追記",
+      "source_en": "Advanced Tactics: Priest",
+      "text": "Fortgeschrittene Taktik: Priester"
+    },
+    {
+      "key": "TUTORIAL_179",
+      "read_index": "87",
+      "source_jp": "シールドセージの戦法：追記",
+      "source_en": "Advanced Tactics: Shield Sage",
+      "text": "Fortgeschrittene Taktik: Schildweiser"
+    }
+  ]
+}

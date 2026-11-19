@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Hunter, Priest and Shield Sage prologue",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step177.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_177.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_173",
+      "read_index": "0",
+      "source_jp": "弓による攻撃では通常の矢とは別に「爆矢」による\r\n射撃も行うことができます\r\n<PADM>　【<KC WEAPON_MAIN>】爆矢構え<KEYM>　弓構えから【<ICON MOUSE_WHL_4>前後】構え変更（弓射ち／爆矢構え切替）\r\n　（初期設定の場合）</KEYM>\r\n　爆矢構えから【<KC SHOOT>】仕込み爆矢射ち",
+      "source_en": "Through attacks with a bow, in addition to\r\nregular arrows, you can also perform shots with\r\n'Blast Arrows.' ​<PADM> <KC WEAPON_MAIN>Blast Arrow Ready\r\n<KEYM> Aim Switch stance from bow stance with​ <ICON MOUSE_WHL_4>\r\n​(Switch between Bow shot and Blast Arrow\r\nstance) (Initial setting) </KEYM>\r\nFrom Blast Arrow Ready, perform <KC SHOOT>\r\nand shoot Blast Arrows.",
+      "text": "Mit dem Bogen kannst du auch\r\nExplosivpfeile verschießen.\r\n<PADM>[<KC WEAPON_MAIN>] Explosivpfeil anlegen\r\n<KEYM>Beim Zielen mit [<ICON MOUSE_WHL_4>]\r\nzwischen normalen und Explosivpfeilen\r\nwechseln (Standardeinstellung).</KEYM>\r\nMit [<KC SHOOT>] den Explosivpfeil abschießen."
+    },
+    {
+      "key": "TUTORIAL_STEP_396",
+      "read_index": "1",
+      "source_jp": "また、射撃の威力は敵との距離で変化します\r\n<COL ffdc78>狙撃照準カーソルで敵を捕えた時、\r\nオレンジ色のラインがカーソル中央に合う距離が\r\n射撃の《最適距離》です</COL>\r\nその距離から矢を放つことで\r\n最も大きなダメージを与えることができます",
+      "source_en": "Additionally, the power of the shot varies\r\ndepending on the distance from the enemy.\r\n<COL ffdc78>When the enemy is captured with the sniper sight\r\ncursor, the distance where the orange line\r\naligns with the center of the cursor is the\r\n\"optimal distance\" for shooting.</COL>\r\nBy shooting arrows from that distance, you can\r\ninflict the most damage.",
+      "text": "Die Entfernung bestimmt die Schusskraft.\r\n<COL ffdc78>Visiere einen Gegner an. Die Entfernung ist\r\noptimal, wenn die orange Linie in der Mitte\r\ndes Fadenkreuzes liegt.</COL>\r\nAuf diese Distanz richtest du mit deinen\r\nPfeilen den größten Schaden an."
+    }
+  ]
+}

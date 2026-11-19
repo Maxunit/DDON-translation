@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Hunter, Priest and Shield Sage prologue",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_05.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_05_70",
+      "read_index": "0",
+      "source_jp": "シールドブロウ",
+      "source_en": "Shield Blow",
+      "text": "Schildhieb"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_05_72",
+      "read_index": "2",
+      "source_jp": "エレメントチェンジ",
+      "source_en": "Element Change",
+      "text": "Elementwechsel"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_05_75",
+      "read_index": "5",
+      "source_jp": "シールドロック",
+      "source_en": "Shield Lock",
+      "text": "Schildblock"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_05_77",
+      "read_index": "7",
+      "source_jp": "フォースバースト",
+      "source_en": "Force Burst",
+      "text": "Kraftstoß"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_05_78",
+      "read_index": "8",
+      "source_jp": "アトラクト",
+      "source_en": "Attract",
+      "text": "Provozieren"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_05_80",
+      "read_index": "10",
+      "source_jp": "フォースエンチャント",
+      "source_en": "Force Enchantment",
+      "text": "Element verleihen"
+    }
+  ]
+}

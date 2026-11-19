@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "scope": "Hunter, Priest and Shield Sage prologue",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_03.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_03_40",
+      "read_index": "0",
+      "source_jp": "弓構え",
+      "source_en": "Steady Stance",
+      "text": "Bogen anlegen"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_03_41",
+      "read_index": "1",
+      "source_jp": "弓射ち",
+      "source_en": "Loose",
+      "text": "Pfeilschuss"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_03_43",
+      "read_index": "4",
+      "source_jp": "<PADM>爆矢構え<KEYM>構え変更",
+      "source_en": "<PADM>Explosive Stance<KEYM>Change Stance",
+      "text": "<PADM>Explosivpfeil anlegen<KEYM>Haltung wechseln"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_03_44",
+      "read_index": "5",
+      "source_jp": "仕込み爆矢射ち",
+      "source_en": "Prepare Explosive Arrow",
+      "text": "Explosivpfeil abschießen"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_03_47",
+      "read_index": "7",
+      "source_jp": "前蹴り",
+      "source_en": "Front Kick",
+      "text": "Tritt nach vorn"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_03_48",
+      "read_index": "8",
+      "source_jp": "矢の装填",
+      "source_en": "Reload Arrows",
+      "text": "Pfeile nachladen"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_03_49",
+      "read_index": "9",
+      "source_jp": "達人装填",
+      "source_en": "Adept Reload",
+      "text": "Gekonntes Nachladen"
+    }
+  ]
+}

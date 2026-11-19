@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Hunter, Priest and Shield Sage prologue",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_04.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_04_61",
+      "read_index": "0",
+      "source_jp": "ブラストビット",
+      "source_en": "Blast Bit",
+      "text": "Magiekugel"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_04_62",
+      "read_index": "1",
+      "source_jp": "ヒールオーラ",
+      "source_en": "Heal Aura",
+      "text": "Heilaura"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_04_64",
+      "read_index": "3",
+      "source_jp": "セイントオーラ",
+      "source_en": "Holy Aura",
+      "text": "Heilige Aura"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_04_66",
+      "read_index": "5",
+      "source_jp": "フィールドシフト",
+      "source_en": "Field Shift",
+      "text": "Aura übertragen"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Hunter, Priest and Shield Sage prologue",
+  "gmd_path": "ui\\00_message\\common\\weapon_ctgr.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "WEAPON_CTGR_4",
+      "read_index": "4",
+      "source_jp": "大盾",
+      "source_en": "Greatshield",
+      "text": "Großschild"
+    },
+    {
+      "key": "WEAPON_CTGR_5",
+      "read_index": "5",
+      "source_jp": "ロッド",
+      "source_en": "Rod",
+      "text": "Zepter"
+    },
+    {
+      "key": "WEAPON_CTGR_7",
+      "read_index": "7",
+      "source_jp": "弓",
+      "source_en": "Bow",
+      "text": "Bogen"
+    },
+    {
+      "key": "WEAPON_CTGR_11",
+      "read_index": "10",
+      "source_jp": "杖",
+      "source_en": "Staff",
+      "text": "Stab"
+    }
+  ]
+}

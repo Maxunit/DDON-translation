@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Hunter, Priest and Shield Sage prologue",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step76.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_76.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_125",
+      "read_index": "0",
+      "source_jp": "シールドセージは、大盾で受けた敵の力を自身の\r\n力に変えて最前線で仲間を守る、パーティーの\r\n砦役です。属性魔法の使い手でもあります\r\n＜基本操作＞\r\n　【<KC WEAPON_SUB>】シールドロック（ガード）\r\n　【<KC ATTACK1>】シールドブロウ（盾連撃）\r\n　【<KC WEAPON_MAIN>】アトラクト（敵の注目を集める）\r\n　※抜刀中は戦闘行動中とスキ以外はオートガード",
+      "source_en": "Shield Sages are frontline fortresses,\r\nconverting blocked damage into power, along with\r\ncommanding elemental magicks.\r\n<KC WEAPON_SUB> Shield Lock (Guard)\r\n<KC ATTACK1> Shield Blow (Shield Combo)\r\n<KC WEAPON_MAIN> Attract (Draws enemy ire) ※Auto-guards when\r\nshield out (except during skills)",
+      "text": "Als Schildweiser schützt du deine Gruppe.\r\nMit dem Großschild wandelst du geblockte\r\nAngriffe in Kraft für Elementarmagie um.\r\n\r\n[Grundsteuerung]\r\n[<KC WEAPON_SUB>] Schildblock\r\n[<KC ATTACK1>] Schildhieb\r\n[<KC WEAPON_MAIN>] Provozieren. Zieht Gegner an.\r\nMit gezogenem Schild blockst du automatisch,\r\nsolange du gerade keine Aktion ausführst."
+    }
+  ]
+}
