@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\pawn\\talk\\stage\\feature2001\\persona01.gmd",
+  "arc_path": "\\pw_talk\\pt_feature2001_persona01.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "白竜さまがおわし、多くの覚者さまが集う\r\n神殿レーゼ――\r\n異界より、この場に参じることが叶い\r\n嬉しく思います",
+      "source_en": "",
+      "text": "Der Tempel des Weißen Drachen. Hier kommen\r\nso viele Erweckte zusammen. Es freut mich,\r\ndass ich aus meiner Welt hierherkommen durfte."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "特別任務ウォーミッションの\r\n招集も行われると聞きます\r\nぜひ、覚者さまの勇名をその時は――！",
+      "source_en": "",
+      "text": "Ich höre, hier werden auch besondere\r\nKampfeinsätze ausgerufen. Möget Ihr Euch\r\nbei einem solchen Einsatz einen Namen machen!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "もし、製作の用命がありましたら\r\nクラフトルームへお立ち寄りください",
+      "source_en": "",
+      "text": "Wenn ich etwas für Euch herstellen darf,\r\nkommt in der Werkstatt vorbei."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "広場に商店区、宿場区、そして謁見の間――\r\nこの場所はレスタニアの全ての者にとって\r\n最大の拠り所なのですね",
+      "source_en": "",
+      "text": "Der Platz, das Händlerviertel, die Gasthäuser\r\nund der Audienzsaal …\r\nDieser Ort gibt ganz Lestania Halt."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "さぁ、覚者さま\r\nこれからどこへ向かいましょう？",
+      "source_en": "",
+      "text": "Nun, wohin gehen wir als Nächstes?"
+    }
+  ]
+}

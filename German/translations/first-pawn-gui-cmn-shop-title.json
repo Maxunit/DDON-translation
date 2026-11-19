@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\shop_title.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "shop_title_rim_stone",
+      "read_index": "31",
+      "source_jp": "Rim Stone",
+      "source_en": "Riftstone",
+      "text": "Riftstein"
+    }
+  ]
+}

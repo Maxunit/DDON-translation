@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\tutorial_guide.gmd",
+  "arc_path": "\\tutorial_guide.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_124",
+      "read_index": "55",
+      "source_jp": "ポーンの基本成長",
+      "source_en": "Basic Growth of a Pawn",
+      "text": "Pawns weiterentwickeln"
+    },
+    {
+      "key": "TUTORIAL_125",
+      "read_index": "56",
+      "source_jp": "ポーンとは",
+      "source_en": "What Are Pawns?",
+      "text": "Was sind Pawns?"
+    },
+    {
+      "key": "TUTORIAL_126",
+      "read_index": "57",
+      "source_jp": "ポーンの雇用と編成",
+      "source_en": "Hiring and Organizing Pawns",
+      "text": "Pawns anheuern und aufnehmen"
+    }
+  ]
+}

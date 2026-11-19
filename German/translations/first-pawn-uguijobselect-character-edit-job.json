@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\character_edit_job.gmd",
+  "arc_path": "\\ui\\uGUIJobSelect.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_DIALOG_CARD_PAWN",
+      "read_index": "11",
+      "source_jp": "ポーンの貸し出し制限を設定してください\r\n(リムストーンのメニューからいつでも変更できます)",
+      "source_en": "Please set the pawn's rental limitations.\r\n(This can be changed anytime from a Riftstone)",
+      "text": "Wer darf deinen Pawn ausleihen?\r\n(Das lässt sich jederzeit am Riftstein ändern.)"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_CARD_PAWNSEARCH",
+      "read_index": "12",
+      "source_jp": "ポーン検索の公開範囲を設定してください",
+      "source_en": "Please set the visibility of pawn search.",
+      "text": "Wer darf deinen Pawn über die Suche finden?"
+    }
+  ]
+}

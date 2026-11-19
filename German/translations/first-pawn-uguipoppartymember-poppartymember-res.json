@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\PopPartyMember_res.gmd",
+  "arc_path": "\\ui\\uGUIPopPartyMember.arc",
+  "entries": [
+    {
+      "key": "PopPartyMember_res_Title",
+      "read_index": "0",
+      "source_jp": "パーティー詳細",
+      "source_en": "Party List",
+      "text": "Gruppendetails"
+    },
+    {
+      "key": "PopPartyMember_res_ButtonText",
+      "read_index": "1",
+      "source_jp": "閉じる",
+      "source_en": "Close",
+      "text": "Schließen"
+    }
+  ]
+}

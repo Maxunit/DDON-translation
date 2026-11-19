@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step126.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_126.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_65",
+      "read_index": "0",
+      "source_jp": "ポーンには大きく分けて２種あります\r\n<COL ffdc78>あなたが契約を結んだ《メインポーン》と、\r\n他の覚者から雇用できる《サポートポーン》です</COL>\r\nポーンをパーティーメンバーに\r\n迎えたい場合は、<COL ffdc78>《リムストーン》や\r\nゲームメニュー《パーティー管理》から\r\n呼び出せます</COL>",
+      "source_en": "There are two main types of pawns: the <COL ffdc78>Main Pawn</COL>\r\nthat you sign a contract with, and the <COL ffdc78>support\r\npawns</COL> that you can hire from\r\nother Arisen players.\r\nIf you want to welcome a pawn to your party, you\r\ncan call them from <COL ffdc78>Riftstone</COL>\r\nor the game menu <COL ffdc78>Party Management</COL>.",
+      "text": "Es gibt zwei Arten von Pawns. Ein <COL ffdc78>Hauptpawn</COL>\r\nschließt einen Pakt mit dir. <COL ffdc78>Hilfspawns</COL>\r\nheuerst du von anderen Erweckten an.\r\nUm einen Pawn in die Gruppe aufzunehmen,\r\nrufe ihn am <COL ffdc78>Riftstein</COL> oder über die\r\n<COL ffdc78>Gruppenverwaltung</COL> im Spielmenü."
+    },
+    {
+      "key": "TUTORIAL_STEP_302",
+      "read_index": "1",
+      "source_jp": "《メインポーン》は、神殿やリムストーンの\r\nあるエリアならいつでも呼べば応じてくれます\r\n<COL ffdc78>しかし、クラフトをすでに命じている時や\r\n戦闘中死亡して《ロスト状態》になると\r\nパーティーメンバーとして呼び出せません</COL>\r\nメインポーンの状態には注意しましょう",
+      "source_en": "A <COL ffdc78>Main Pawn</COL> will always respond when called in\r\nan area with temples or riftstones.\r\nHowever, if you have already commanded them to\r\ncraft or if they die during combat and enter a <COL ffdc78>\r\nLost State</COL>, you cannot summon\r\nthem as party members.\r\nPay attention to the state of your Main Pawn.",
+      "text": "Du kannst deinen <COL ffdc78>Hauptpawn</COL> im Tempel\r\nund in Gebieten mit Riftstein jederzeit rufen.\r\nWenn er gerade etwas herstellt oder nach seinem\r\nTod als <COL ffdc78>verloren</COL> gilt, kann er deiner Gruppe\r\nnicht beitreten. Sieh nach, in welchem Zustand\r\ndein Hauptpawn ist."
+    },
+    {
+      "key": "TUTORIAL_STEP_221",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>《サポートポーン》の雇用には\r\nリムを支払う必要があります</COL>\r\nその代わり、レベルやジョブ、クラフト技能など\r\n条件検索することでニーズに合ったポーンを\r\n呼ぶことができます\r\n<COL ffdc78>また、一定時間外へ冒険に連れていくことで\r\n《冒険回数》が減り、クラフトを１回させることで\r\n《クラフト回数》が減少します</COL>\r\n残り回数が０になったら返却し、雇い直しましょう",
+      "source_en": "<COL ffdc78>To hire a support pawn, you need to pay \r\nRift Crystals. </COL>\r\nHowever you can search for pawns that meet \r\nyour needs based on their level, job, crafting \r\nskills, and other conditions.\r\n<COL ffdc78>Additionally, taking a support pawn on \r\nadventures outside for a certain period of time\r\nwill reduce their 'Adventure Count,' and \r\nusing them to craft once will decrease their \r\n'Craft Count.' </COL> When the remaining counts \r\nreach zero, return and hire them again.",
+      "text": "<COL ffdc78>Für Hilfspawns zahlst du Riftkristalle.</COL>\r\nSuche nach Stufe, Klasse und Handwerksfähigkeit,\r\num passende Pawns zu finden.\r\n<COL ffdc78>Nach einer gewissen Zeit außerhalb der Stadt sinkt\r\ndie Zahl der übrigen Abenteuer. Jedes Herstellen\r\neines Gegenstands verbraucht eine Fertigung.</COL>\r\nIst ein Zähler auf null, schicke den Pawn zurück\r\nund heuere ihn bei Bedarf erneut an."
+    },
+    {
+      "key": "TUTORIAL_STEP_419",
+      "read_index": "3",
+      "source_jp": "さらにサポートポーンを返却すると\r\n<COL ffdc78>《レンタルポイント》</COL>が獲得できます\r\nレンタルポイントはジョブポイントとして\r\nメインポーンに割り振り還元することができます\r\nサポートポーンをより多く雇用して\r\nメインポーンの成長を促進させましょう",
+      "source_en": "Furthermore, by returning support pawns, you can\r\nacquire <COL ffdc78>Rental Points</COL>.\r\nRental Points can be allocated and returned to\r\nthe main pawn as Job Points.\r\nBy hiring more support pawns, let's encourage\r\nthe growth of the main pawn.",
+      "text": "Wenn du Hilfspawns zurückschickst, erhältst du\r\n<COL ffdc78>Leihpunkte</COL>. Du kannst sie als Klassenpunkte\r\nan deine Hauptpawns vergeben. So kannst du\r\nsie durch das Anheuern weiterer Pawns stärken."
+    },
+    {
+      "key": "TUTORIAL_STEP_222",
+      "read_index": "4",
+      "source_jp": "<COL ffdc78>また、メインポーンがロストしていたり\r\nクラフト中でパーティーにいない場合は\r\nサポートポーンをパーティーに入れることが\r\nできないため、注意しましょう</COL>\r\nフレンド覚者のポーン、旅先で出会ったポーンを\r\n検索で探してみるのもよいでしょう\r\nなお、他人のパーティーに所属している\r\nポーンの姿は見えません",
+      "source_en": "<COL ffdc78>Also, if your main pawn is lost or not in the\r\nparty while crafting, you cannot include a\r\nsupport pawn in the party, so please be careful.</COL>\r\nIt is also a good idea to search for friend's\r\npawns or pawns encountered during your journey.\r\nNote that you cannot see the appearance of pawns\r\nbelonging to other people's parties.",
+      "text": "<COL ffdc78>Du kannst keinen Hilfspawn aufnehmen, wenn dein\r\nHauptpawn verloren ist oder wegen eines\r\nHandwerksauftrags nicht in der Gruppe steht.</COL>\r\nSuche auch nach Pawns von Freunden oder\r\nsolchen, die dir unterwegs begegnet sind.\r\nPawns in fremden Gruppen sind für dich unsichtbar."
+    }
+  ]
+}

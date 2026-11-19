@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\PartyList_res.gmd",
+  "arc_path": "\\ui\\uGUIPartyList.arc",
+  "entries": [
+    {
+      "key": "party_list_title_en",
+      "read_index": "0",
+      "source_jp": "Party List",
+      "source_en": "Party List",
+      "text": "Gruppenverwaltung"
+    },
+    {
+      "key": "party_list_member",
+      "read_index": "4",
+      "source_jp": "パーティーメンバー",
+      "source_en": "Party Members",
+      "text": "Gruppenmitglieder"
+    },
+    {
+      "key": "party_list_mpawn",
+      "read_index": "5",
+      "source_jp": "メインポーン",
+      "source_en": "Main Pawns",
+      "text": "Hauptpawns"
+    },
+    {
+      "key": "party_list_spawn",
+      "read_index": "6",
+      "source_jp": "サポートポーン",
+      "source_en": "Support Pawns",
+      "text": "Hilfspawns"
+    },
+    {
+      "key": "party_list_leave",
+      "read_index": "9",
+      "source_jp": "パーティーから抜ける",
+      "source_en": "Leave",
+      "text": "Gruppe verlassen"
+    },
+    {
+      "key": "party_list_submenu",
+      "read_index": "11",
+      "source_jp": "サブメニュー",
+      "source_en": "Submenu",
+      "text": "Untermenü"
+    },
+    {
+      "key": "party_list_job",
+      "read_index": "15",
+      "source_jp": "ジョブレベル",
+      "source_en": "Vocation LV.",
+      "text": "Klassenstufe"
+    },
+    {
+      "key": "party_list_location",
+      "read_index": "17",
+      "source_jp": "Location",
+      "source_en": "Location",
+      "text": "Standort"
+    },
+    {
+      "key": "party_list_state",
+      "read_index": "19",
+      "source_jp": "状態",
+      "source_en": "Status",
+      "text": "Zustand"
+    },
+    {
+      "key": "party_list_comment",
+      "read_index": "20",
+      "source_jp": "コメント",
+      "source_en": "Comment",
+      "text": "Kommentar"
+    },
+    {
+      "key": "party_list_search",
+      "read_index": "21",
+      "source_jp": "検索する",
+      "source_en": "Search",
+      "text": "Suchen"
+    },
+    {
+      "key": "party_list_object",
+      "read_index": "22",
+      "source_jp": "Object",
+      "source_en": "Object",
+      "text": "Eintrag"
+    },
+    {
+      "key": "party_list_guide_switch",
+      "read_index": "30",
+      "source_jp": "表示切り替え",
+      "source_en": "Switch Display",
+      "text": "Ansicht wechseln"
+    },
+    {
+      "key": "party_list_count",
+      "read_index": "31",
+      "source_jp": "冒険／クラフト残り回数",
+      "source_en": "Adventure / Craft Left",
+      "text": "Abenteuer / Fertigungen übrig"
+    },
+    {
+      "key": "party_list_pawn_joblv",
+      "read_index": "32",
+      "source_jp": "ジョブ／クラフトレベル",
+      "source_en": "Vocation / Craft Level",
+      "text": "Klassen- / Handwerksstufe"
+    },
+    {
+      "key": "party_list_main_pawn_count",
+      "read_index": "33",
+      "source_jp": "契約状況：",
+      "source_en": "Contracts:",
+      "text": "Paktschlüsse:"
+    },
+    {
+      "key": "party_list_support_pawn_count",
+      "read_index": "34",
+      "source_jp": "雇用状況：",
+      "source_en": "Contracts:",
+      "text": "Angeheuert:"
+    },
+    {
+      "key": "party_list_notfound_main_pawn",
+      "read_index": "35",
+      "source_jp": "ポーンと契約していません",
+      "source_en": "You have not made a contract with any pawns",
+      "text": "Du hast noch keinen Pakt mit einem Pawn geschlossen."
+    },
+    {
+      "key": "party_list_notfound_support_pawn",
+      "read_index": "36",
+      "source_jp": "ポーンを雇用していません",
+      "source_en": "You have not hired any pawns",
+      "text": "Du hast keine Pawns angeheuert."
+    }
+  ]
+}

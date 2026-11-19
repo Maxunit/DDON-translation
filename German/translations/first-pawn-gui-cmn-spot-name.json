@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_516",
+      "read_index": "66",
+      "source_jp": "異界の狭間",
+      "source_en": "The Rift",
+      "text": "Rift"
+    }
+  ]
+}

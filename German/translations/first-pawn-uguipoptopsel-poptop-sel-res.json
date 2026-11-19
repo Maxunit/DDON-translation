@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\poptop_sel_res.gmd",
+  "arc_path": "\\ui\\uGUIPopTopSel.arc",
+  "entries": [
+    {
+      "key": "poptop_rim_stone_support_pawn",
+      "read_index": "17",
+      "source_jp": "サポートポーン",
+      "source_en": "Support Pawns",
+      "text": "Hilfspawns"
+    },
+    {
+      "key": "poptop_rim_stone_main_pawn",
+      "read_index": "18",
+      "source_jp": "メインポーン",
+      "source_en": "Main Pawns",
+      "text": "Hauptpawns"
+    },
+    {
+      "key": "poptop_rim_stone_pawn_search",
+      "read_index": "19",
+      "source_jp": "ポーン検索",
+      "source_en": "Pawn Search",
+      "text": "Pawn-Suche"
+    },
+    {
+      "key": "poptop_pawn_join",
+      "read_index": "30",
+      "source_jp": "ポーンを入れる",
+      "source_en": "Invite Pawn",
+      "text": "Pawn aufnehmen"
+    },
+    {
+      "key": "poptop_party_jp",
+      "read_index": "49",
+      "source_jp": "パーティー管理",
+      "source_en": "Party Management",
+      "text": "Gruppenverwaltung"
+    },
+    {
+      "key": "poptop_party_en",
+      "read_index": "50",
+      "source_jp": "Party",
+      "source_en": "Party Members",
+      "text": "Gruppenmitglieder"
+    }
+  ]
+}

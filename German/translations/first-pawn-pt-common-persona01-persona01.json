@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\pawn\\talk\\common\\persona01.gmd",
+  "arc_path": "\\pw_talk\\pt_common_persona01.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "覚者さま、体力は万全になさってくださいね\r\n御身の無事こそ第一なのですから",
+      "source_en": "Ser Arisen, please take good care of\r\nyour physical health.\r\nYour well-being is our top priority.",
+      "text": "Achtet bitte auf Eure Gesundheit.\r\nEuer Wohlergehen geht vor."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "戦い方で気になること、ですか？\r\nいいえ、特にはございません\r\nお気遣いありがとうございます",
+      "source_en": "Regarding battle tactics, ser?\r\nThere is nothing of note at the moment.\r\nI thank you for your concern.",
+      "text": "Ihr fragt nach meiner Kampfweise?\r\nMir fällt nichts Besonderes auf.\r\nDanke, dass Ihr nachfragt."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "戦い方で気になること、ですか？\r\nそうですね――\r\n常に力不足は、実感しているところですが",
+      "source_en": "Concerned about the way we fight?\r\nWell, I always feel that I'm lacking in strength.",
+      "text": "Ihr fragt nach meiner Kampfweise?\r\nNun … Ich spüre, dass mir noch Kraft fehlt."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "戦い方で気になること、ですか？\r\nやはり覚者さまも私の戦い方、気になりますか\r\nもっと場に合わせて柔軟に対応できれば、と\r\n思ってはいるのですが――",
+      "source_en": "Are you, too, Ser Arisen, interested\r\nin my fighting style?\r\nI do wish I could be more adaptable and flexible\r\nto the situation at hand.\r\nYes, it is something I think about...",
+      "text": "Ist Euch meine Kampfweise auch aufgefallen?\r\nIch wünschte, ich könnte mich besser\r\nauf die jeweilige Lage einstellen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "実は、覚者さまが望まれている通り戦えているのか\r\n悩んでおりまして、その、よろしければ――\r\n自室でご相談に乗っていただけないかと\r\nお手すきの際、自室でベルを鳴らしていただけますか",
+      "source_en": "Actually, Ser Arisen, I am troubled whether I\r\ncan fight as desired.\r\nIf it's not too much trouble, could you please\r\nring the bell in your room when you have a moment\r\nto discuss it with me?",
+      "text": "Ich frage mich, ob ich so kämpfe, wie Ihr es Euch\r\nwünscht. Wenn Ihr Zeit habt, klingelt doch in\r\nEurem Zimmer. Dann können wir darüber sprechen."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "覚者さまと旅し、さまざまな景色を共にする――\r\nこの時が長く続いて欲しいと感じるこの気持ちは\r\n感情なのでしょうか",
+      "source_en": "Traveling with the Arisen, experiencing various\r\nlandscapes together— Is this feeling of wanting\r\nthis to continue for a long time... an emotion?",
+      "text": "Mit Euch zu reisen und all diese Orte zu sehen …\r\nIch wünsche mir, dass es lange so bleibt.\r\nOb man das ein Gefühl nennt?"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "source_jp": "いかに困難なダンジョン、クエストであれ\r\n望むところです\r\nこの身はいつも覚者さまと共に！",
+      "source_en": "No matter how difficult the dungeon or quest may\r\nprove itself, it is where I wish to be.\r\nThis body is always with you, Arisen!",
+      "text": "Wie gefährlich der Kerker oder die Quest\r\nauch sein mag, ich stelle mich der Aufgabe.\r\nIch bleibe stets an Eurer Seite!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "source_jp": "行動不能の失態だけは、避けなければ――",
+      "source_en": "We can't afford to lose our heads in the sand.",
+      "text": "Ich darf im Kampf auf keinen Fall ausfallen."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "source_jp": "足場は常にご注意ください\r\n崖際や水辺以外でも、一見問題なさそうな\r\n場所であれ思わぬ危険が潜んでいるものです",
+      "source_en": "Mind your footing.\r\nEven in places that appear without peril,\r\nunforeseen dangers may lurk.",
+      "text": "Achtet stets darauf, wohin Ihr tretet.\r\nAuch abseits von Klippen und Ufern kann\r\nan harmlos wirkenden Orten Gefahr lauern."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "source_jp": "もっと鍛えて強くならなければ！\r\n覚者さまの右腕として、頼りにして頂くために\r\nどんな魔物が現れても、お守りするために！",
+      "source_en": "I must train more and become stronger!\r\nIn order to be fit to be relied upon as the\r\nArisen's right-hand man.\r\nTo protect you at all cost, no matter what\r\nkind of monsters appear!",
+      "text": "Ich muss mehr trainieren und stärker werden!\r\nIhr sollt Euch auf mich verlassen können.\r\nIch will Euch vor jedem Monster beschützen!"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "source_jp": "クラフトも、打ち込んでみると楽しいものです\r\n冒険でもクラフトでも、覚者さまのお役に\r\n立てることに変わりありませんから",
+      "source_en": "Crafting, just like adventuring, is a fun\r\nactivity that finds many uses to an\r\nArisen such as yourself.",
+      "text": "Handwerk macht Freude, wenn man sich darauf\r\neinlässt. Ob ich Euch auf Reisen begleite oder\r\netwas herstelle, ich kann Euch dabei helfen."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "source_jp": "覚者さま、ニュースの確認もお忘れなく\r\n近くに手ごろなクエストがあるかもしれません",
+      "source_en": "Arisen, do not neglect to check the news.\r\nThere may be a convenient quest nearby.",
+      "text": "Vergesst die Neuigkeiten nicht. Vielleicht\r\ngibt es in der Nähe eine passende Quest."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "source_jp": "この地には、さまざまな覚者さまが存在し\r\nまた多くの我々ポーンが存在します",
+      "source_en": "In this land, there exists many Arisen, and a\r\ngood number of us Pawns.",
+      "text": "In diesem Land gibt es viele Erweckte\r\nund viele von uns Pawns."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "source_jp": "そんな中、あなたは私をお選び下さった！\r\n戦徒としてこれ以上の幸せはありません",
+      "source_en": "In such a situation, you have chosen me!\r\nThere is no greater happiness as a Myrmidon.",
+      "text": "Und doch habt Ihr mich gewählt!\r\nFür einen Streiter gibt es kein größeres Glück."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "source_jp": "覚者さま、今の私はお役に立っているでしょうか？\r\n職や装備、技など――改善すべきところが\r\nあるのではないかと",
+      "source_en": "Arisen, am I currently of use to you?\r\nRegarding my profession, equipment, and skills.\r\nAre there any areas fit for improvement, perhaps?",
+      "text": "Bin ich Euch eine Hilfe? Vielleicht könnte ich\r\nmeine Klasse, Ausrüstung oder Fertigkeiten\r\nbesser auf Euch abstimmen."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\pawn_status_res.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "PAWN_STATUS_RES_PARTY",
+      "read_index": "0",
+      "source_jp": "パーティー中",
+      "source_en": "Party Members",
+      "text": "In Gruppe"
+    },
+    {
+      "key": "PAWN_STATUS_RES_NONE",
+      "read_index": "1",
+      "source_jp": "待機",
+      "source_en": "Standby",
+      "text": "Bereit"
+    },
+    {
+      "key": "PAWN_STATUS_RES_LOST",
+      "read_index": "2",
+      "source_jp": "ロスト中",
+      "source_en": "Lost",
+      "text": "Verloren"
+    },
+    {
+      "key": "PAWN_STATUS_RES_CRAFT",
+      "read_index": "3",
+      "source_jp": "クラフト中",
+      "source_en": "Crafting",
+      "text": "Fertigt an"
+    },
+    {
+      "key": "PAWN_STATUS_RES_EXPEDITION",
+      "read_index": "4",
+      "source_jp": "遠征中",
+      "source_en": "Expedition",
+      "text": "Auf Expedition"
+    }
+  ]
+}

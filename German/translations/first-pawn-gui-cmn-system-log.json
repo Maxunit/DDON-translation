@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\system_log.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "syslog_party_join_pawn",
+      "read_index": "21",
+      "source_jp": "<NAME PAWN>がパーティーに加わりました",
+      "source_en": "<NAME PAWN> has joined the party.",
+      "text": "<NAME PAWN> ist der Gruppe beigetreten."
+    },
+    {
+      "key": "syslog_item_get",
+      "read_index": "133",
+      "source_jp": "<NAME ITEM>を<VAL>個、獲得しました",
+      "source_en": "<NAME ITEM> x<VAL> obtained.",
+      "text": "<NAME ITEM> ×<VAL> erhalten."
+    }
+  ]
+}

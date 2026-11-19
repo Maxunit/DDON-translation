@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_140",
+      "read_index": "137",
+      "source_jp": "異界の狭間",
+      "source_en": "The Rift",
+      "text": "Rift"
+    },
+    {
+      "key": "STAGE_NAME_142",
+      "read_index": "139",
+      "source_jp": "異界の狭間",
+      "source_en": "The Rift",
+      "text": "Rift"
+    }
+  ]
+}

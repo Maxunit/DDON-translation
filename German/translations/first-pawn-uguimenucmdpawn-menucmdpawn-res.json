@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\MenuCmdPawn_res.gmd",
+  "arc_path": "\\ui\\uGUIMenuCmdPawn.arc",
+  "entries": [
+    {
+      "key": "MenuCmdPawn_res_3854",
+      "read_index": "0",
+      "source_jp": "Pawn Order",
+      "source_en": "Pawn Order",
+      "text": "Pawn-Befehle"
+    },
+    {
+      "key": "MenuCmdPawn_res_3855",
+      "read_index": "1",
+      "source_jp": "ポーン命令",
+      "source_en": "Pawn Order",
+      "text": "Pawn-Befehle"
+    },
+    {
+      "key": "MenuCmdPawn_res_3856",
+      "read_index": "2",
+      "source_jp": "Category",
+      "source_en": "Category",
+      "text": "Kategorie"
+    },
+    {
+      "key": "MenuCmdPawn_res_3857",
+      "read_index": "3",
+      "source_jp": "命令",
+      "source_en": "Orders",
+      "text": "Befehle"
+    },
+    {
+      "key": "MenuCmdPawn_res_3858",
+      "read_index": "4",
+      "source_jp": "マクロ",
+      "source_en": "Macro",
+      "text": "Makro"
+    },
+    {
+      "key": "MenuCmdPawn_res_3859",
+      "read_index": "5",
+      "source_jp": "実行",
+      "source_en": "Execute",
+      "text": "Ausführen"
+    },
+    {
+      "key": "MenuCmdPawn_res_3860",
+      "read_index": "6",
+      "source_jp": "サブメニュー",
+      "source_en": "Submenu",
+      "text": "Untermenü"
+    },
+    {
+      "key": "MenuCmdPawn_res_3861",
+      "read_index": "7",
+      "source_jp": "ショートカット登録",
+      "source_en": "Register Shortcut",
+      "text": "Kurzbefehl zuweisen"
+    },
+    {
+      "key": "MenuCmdPawn_res_3862",
+      "read_index": "8",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "MenuCmdPawn_res_3863",
+      "read_index": "9",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "MenuCmdPawn_res_3864",
+      "read_index": "10",
+      "source_jp": "（なし）",
+      "source_en": "(None)",
+      "text": "(Keine)"
+    }
+  ]
+}

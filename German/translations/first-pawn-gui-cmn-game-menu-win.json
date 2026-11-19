@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\game_menu_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "menu_key_item",
+      "read_index": "1",
+      "source_jp": "キーアイテム",
+      "source_en": "Key Items",
+      "text": "Schlüsselgegenstände"
+    },
+    {
+      "key": "menu_party",
+      "read_index": "10",
+      "source_jp": "パーティー管理",
+      "source_en": "Party Management",
+      "text": "Gruppenverwaltung"
+    },
+    {
+      "key": "menu_pawn_command",
+      "read_index": "30",
+      "source_jp": "ポーン命令",
+      "source_en": "Pawn Order",
+      "text": "Pawn-Befehle"
+    }
+  ]
+}

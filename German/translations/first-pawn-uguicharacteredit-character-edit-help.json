@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\character_edit_help.gmd",
+  "arc_path": "\\ui\\uGUICharacterEdit.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_GUIDE_PERSONAL",
+      "read_index": "15",
+      "source_jp": "口調を設定します",
+      "source_en": "Set personality",
+      "text": "Persönlichkeit wählen"
+    },
+    {
+      "key": "EDIT_MSG_GUIDE_VOICE_FREQUENTLY",
+      "read_index": "16",
+      "source_jp": "発言頻度を設定します",
+      "source_en": "Set speech rate",
+      "text": "Festlegen, wie oft der Pawn spricht"
+    }
+  ]
+}

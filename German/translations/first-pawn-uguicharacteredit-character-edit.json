@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\character_edit.gmd",
+  "arc_path": "\\ui\\uGUICharacterEdit.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_TITLE_PAWN_EDIT",
+      "read_index": "1",
+      "source_jp": "Pawn Edit",
+      "source_en": "Pawn Edit",
+      "text": "Pawn erstellen"
+    },
+    {
+      "key": "EDIT_MSG_CATE_PERSONAL",
+      "read_index": "17",
+      "source_jp": "口調",
+      "source_en": "Personality",
+      "text": "Persönlichkeit"
+    },
+    {
+      "key": "EDIT_MSG_CATE_VOICE_FREQUENTLY",
+      "read_index": "18",
+      "source_jp": "発言頻度",
+      "source_en": "Speech Rate",
+      "text": "Sprechhäufigkeit"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_PERSONAL_SHY",
+      "read_index": "98",
+      "source_jp": "シャイ",
+      "source_en": "Shy",
+      "text": "Schüchtern"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_PERSONAL_ACTIVE",
+      "read_index": "99",
+      "source_jp": "アクティブ",
+      "source_en": "Peppy",
+      "text": "Lebhaft"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_PERSONAL_SMART",
+      "read_index": "100",
+      "source_jp": "スマート",
+      "source_en": "Smart",
+      "text": "Gewandt"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_PERSONAL_COOL",
+      "read_index": "101",
+      "source_jp": "クール",
+      "source_en": "Cool",
+      "text": "Kühl"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_PERSONAL_PURE",
+      "read_index": "102",
+      "source_jp": "ピュア",
+      "source_en": "Pure",
+      "text": "Unbefangen"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_PERSONAL_SEXY",
+      "read_index": "104",
+      "source_jp": "セクシー",
+      "source_en": "Sexy",
+      "text": "Verführerisch"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_FREQUENTLY_1",
+      "read_index": "105",
+      "source_jp": "ぜんぜん喋らない",
+      "source_en": "Never",
+      "text": "Nie"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_FREQUENTLY_2",
+      "read_index": "106",
+      "source_jp": "あまり喋らない",
+      "source_en": "Rarely",
+      "text": "Kaum"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_FREQUENTLY_3",
+      "read_index": "107",
+      "source_jp": "たまに喋る",
+      "source_en": "Seldomly",
+      "text": "Selten"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_FREQUENTLY_4",
+      "read_index": "108",
+      "source_jp": "ときどき喋る",
+      "source_en": "Occasionally",
+      "text": "Gelegentlich"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_FREQUENTLY_5",
+      "read_index": "109",
+      "source_jp": "よく喋る",
+      "source_en": "Sometimes",
+      "text": "Oft"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_FREQUENTLY_6",
+      "read_index": "110",
+      "source_jp": "たいてい喋る",
+      "source_en": "Frequently",
+      "text": "Sehr oft"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_FREQUENTLY_7",
+      "read_index": "111",
+      "source_jp": "いつも喋る",
+      "source_en": "Usually",
+      "text": "Fast immer"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_FREQUENTLY_8",
+      "read_index": "112",
+      "source_jp": "つねに喋る",
+      "source_en": "Always",
+      "text": "Immer"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_PERSONAL",
+      "read_index": "129",
+      "source_jp": "Personality",
+      "source_en": "Personality",
+      "text": "Persönlichkeit"
+    },
+    {
+      "key": "EDIT_MSG_SUB_TITLE_VOICE_FREQUENTLY",
+      "read_index": "130",
+      "source_jp": "Talk Frequency",
+      "source_en": "Speech Rate",
+      "text": "Sprechhäufigkeit"
+    }
+  ]
+}

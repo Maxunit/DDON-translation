@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\pawn_personality.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "pawn_personality_2",
+      "read_index": "1",
+      "source_jp": "シャイ",
+      "source_en": "Shy",
+      "text": "Schüchtern"
+    },
+    {
+      "key": "pawn_personality_3",
+      "read_index": "2",
+      "source_jp": "アクティブ",
+      "source_en": "Peppy",
+      "text": "Lebhaft"
+    },
+    {
+      "key": "pawn_personality_4",
+      "read_index": "3",
+      "source_jp": "スマート",
+      "source_en": "Smart",
+      "text": "Gewandt"
+    },
+    {
+      "key": "pawn_personality_5",
+      "read_index": "4",
+      "source_jp": "クール",
+      "source_en": "Cool",
+      "text": "Kühl"
+    },
+    {
+      "key": "pawn_personality_6",
+      "read_index": "5",
+      "source_jp": "ピュア",
+      "source_en": "Pure",
+      "text": "Unbefangen"
+    },
+    {
+      "key": "pawn_personality_8",
+      "read_index": "7",
+      "source_jp": "セクシー",
+      "source_en": "Sexy",
+      "text": "Verführerisch"
+    }
+  ]
+}

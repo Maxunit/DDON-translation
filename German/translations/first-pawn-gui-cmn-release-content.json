@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\common\\release_content.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "RELEASE_CONTENT_2",
+      "read_index": "1",
+      "source_jp": "ポーンとのパーティープレイ",
+      "source_en": "Pawn and Party Play",
+      "text": "Pawns und Gruppenspiel"
+    },
+    {
+      "key": "RELEASE_CONTENT_12",
+      "read_index": "10",
+      "source_jp": "リムストーン",
+      "source_en": "Riftstone",
+      "text": "Riftstein"
+    },
+    {
+      "key": "RELEASE_CONTENT_32",
+      "read_index": "26",
+      "source_jp": "冒険仲介係",
+      "source_en": "Adventure Broker",
+      "text": "Abenteuervermittler"
+    }
+  ]
+}

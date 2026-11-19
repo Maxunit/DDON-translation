@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\npc\\func_class_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "FUNC_CLASS_NAME_13",
+      "read_index": "10",
+      "source_jp": "冒険仲介係",
+      "source_en": "Adventure Broker",
+      "text": "Abenteuervermittler"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_27",
+      "read_index": "23",
+      "source_jp": "リムストーン",
+      "source_en": "Riftstone",
+      "text": "Riftstein"
+    }
+  ]
+}

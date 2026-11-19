@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "The first pawn pact and party join",
+  "gmd_path": "ui\\00_message\\ui\\myroom.gmd",
+  "arc_path": "\\MyRoom.arc",
+  "entries": [
+    {
+      "key": "myroom_menu_party",
+      "read_index": "1",
+      "source_jp": "パーティー管理",
+      "source_en": "Party Management",
+      "text": "Gruppenverwaltung"
+    }
+  ]
+}
