@@ -57113,7 +57113,7 @@ become incapacitated.
 0,,空,Sky,ui\00_message\common\pawn_sp_skill_level.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Special Skill Level
 0,,天,Heaven,ui\00_message\common\pawn_sp_skill_level.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Special Skill Level
 0,RELEASE_CONTENT_1,他のプレイヤーとのパーティープレイ,Party Play (With Other Players),ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,System Unlocks
-1,RELEASE_CONTENT_2,ポーンとのパーティープレイ,Pawns und Gruppenspiel,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,System Unlocks
+1,RELEASE_CONTENT_2,ポーンとのパーティープレイ,Vasallen und Gruppenspiel,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,System Unlocks
 2,RELEASE_CONTENT_3,ワールドクエスト,World Quest,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,System Unlocks
 3,RELEASE_CONTENT_5,エクストリームミッション,Extreme Missions,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,System Unlocks
 4,RELEASE_CONTENT_6,着飾り装備,Dress Equipment,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,System Unlocks
@@ -57245,7 +57245,7 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 29,SPOT_NAME_479,黄金宮,The Golden Palace,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,29,,Spot Name
 30,SPOT_NAME_480,亡都メルゴダ,Mergoda Ruins,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,30,,Spot Name
 31,SPOT_NAME_481,メルゴダ護政区,Mergoda Security District,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,31,,Spot Name
-32,SPOT_NAME_482,ポーン郷,Pawn-Kathedrale,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,32,,Spot Name
+32,SPOT_NAME_482,ポーン郷,Vasallenkathedrale,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,32,,Spot Name
 33,SPOT_NAME_483,キノザ鉱泉,Kinoza Mineral Springs,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,33,,Spot Name
 34,SPOT_NAME_484,禊の神殿　離殿,Temple of Purification: South Chamber,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,34,,Spot Name
 35,SPOT_NAME_485,古の祭祀場,Ancient Ritual Ground,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,35,,Spot Name
@@ -58070,7 +58070,7 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 72,STAGE_NAME_75,黄金宮,The Golden Palace,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,72,,Stage Name
 73,STAGE_NAME_76,亡都メルゴダ　下層,Mergoda Ruins: Lower Level,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,73,,Stage Name
 74,STAGE_NAME_77,メルゴダ護政区,Mergoda Security District,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,74,,Stage Name
-75,STAGE_NAME_78,ポーン郷,Pawn-Kathedrale,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,75,,Stage Name
+75,STAGE_NAME_78,ポーン郷,Vasallenkathedrale,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,75,,Stage Name
 76,STAGE_NAME_79,古の祭祀場,Ancient Ritual Ground,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,76,,Stage Name
 77,STAGE_NAME_80,キノザ鉱泉,Kinoza Mineral Springs,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,77,,Stage Name
 78,STAGE_NAME_81,禊の神殿　離殿,Temple of Purification: South Chamber,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,78,,Stage Name
@@ -61648,7 +61648,7 @@ Er kommt bald wieder zum Kämpfen.",ui\00_message\event\st0201\ev005.gmd,\event\
 頭に入るだろう","Schau selbst auf der Karte nach.
 So merkst du es dir besser.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,8,Leo,Audience Chamber Cutscene
 0,,では、頼んだぞ,Ich zähle auf dich.,ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,9,Leo,Audience Chamber Cutscene
-0,,ああ、ポーンのことだよね,"Ah, du meinst die Pawns.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,0,Iris,Audience Chamber Cutscene
+0,,ああ、ポーンのことだよね,"Ah, du meinst die Vasallen.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,0,Iris,Audience Chamber Cutscene
 0,,"ごめん、新人の指導はわたしの役目だけど
 今、忙しいんだ","Eigentlich soll ich Neulinge anleiten,
 aber ich habe gerade alle Hände voll zu tun.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,1,Iris,Audience Chamber Cutscene
@@ -61656,9 +61656,10 @@ aber ich habe gerade alle Hände voll zu tun.",ui\00_message\event\st0201\ev008.
 こそこそ根回し中――","Ich versuche im Stillen, mir einen Platz
 im Erkundungstrupp für die Arche zu sichern.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,2,Iris,Audience Chamber Cutscene
 0,,"で、悪いんだけど、ひとりで《ポーン郷》へ
-行ってくれる？",Könntest du allein zur Pawn-Kathedrale gehen?,ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,3,Iris,Audience Chamber Cutscene
+行ってくれる？","Könntest du allein zur
+Vasallenkathedrale gehen?",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,3,Iris,Audience Chamber Cutscene
 0,,"ポーンのことは《ポーン郷》へ行かないと
-始まらないんだよね","Wenn du etwas über Pawns erfahren willst,
+始まらないんだよね","Wenn du etwas über Vasallen erfahren willst,
 musst du sowieso dorthin.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,4,Iris,Audience Chamber Cutscene
 0,,行き方はテル村にいるアルフレドに聞くといいよ,Frag am besten Alfred im Dorf Tel nach dem Weg.,ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,5,Iris,Audience Chamber Cutscene
 0,,"彼とは一度会ってるでしょ？
@@ -61672,7 +61673,7 @@ dort das Sagen. Halte dich gut mit ihm.",ui\00_message\event\st0201\ev008.gmd,\e
 ",Ihr Streiter aus dem dunklen Abgrund …,ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,0,Mysial,Audience Chamber Cutscene
 0,,"この者を覚者と認め――
 ポーンとして契り――","Erkennt diesen Menschen als Erweckten an.
-Schließt als Pawn einen Pakt mit ihm …",ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,1,Mysial,Audience Chamber Cutscene
+Schließt als Vasallen einen Pakt mit ihm …",ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,1,Mysial,Audience Chamber Cutscene
 0,,リムストーンの誓いを立てたまえ,… und leistet den Eid am Riftstein.,ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,2,Mysial,Audience Chamber Cutscene
 0,,この者の忠実なしもべとなり――,Dient diesem Erweckten in Treue …,ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,3,Mysial,Audience Chamber Cutscene
 0,,"常に従い――
@@ -74296,7 +74297,7 @@ Das ungefähre Einschlaggebiet kennen wir schon. Der genaue Ort dürfte bald fes
 
 Ein Erkundungstrupp wird bereits zusammengestellt. Ich habe eine böse Ahnung, was die Arche angeht. Meine Vermutungen behalte ich für mich. Erst wenn der Trupp Bericht erstattet, sollten wir handeln.
 
-Einer der Erweckten will einen Pakt mit einem Pawn schließen. Viele reisen ohne Pawn. Doch es heißt, wer mindestens einmal einen Pakt geschlossen hat, sei ein vollwertiger Erweckter. Möge ihm die Prüfung gelingen.
+Einer der Erweckten will einen Pakt mit einem Vasallen schließen. Viele reisen ohne Vasallen. Doch es heißt, wer mindestens einmal einen Pakt geschlossen hat, sei ein vollwertiger Erweckter. Möge ihm die Prüfung gelingen.
 
 Haben die Neulinge Alfred schon aufgesucht? Er ist ein höflicher und vorbildlicher Gebietsmeister. Falls sie noch nicht bei ihm waren, müssen wir sie nach Tel schicken, wenn nötig mit Nachdruck.",ui\00_message\history\001\q00000004.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,History Text
 0,HISTORY_STEP_27,"　アーク調査隊が予定を過ぎても戻らなかったため覚
@@ -75006,11 +75007,11 @@ that we have discovered an effective remedy.",ui\00_message\history\001\q0000002
 しれないと想像しては、その途方もない無限に、わた
 しは憧れ、怯えるのだ
 　ともあれ、ポーンは現れ、契約は無事に交わされ
-た。おめでとうと言わせてもらおう","Ich habe das Ritual zwischen Erweckten und Pawns oft miterlebt. Daran gewöhnen werde ich mich nie.
+た。おめでとうと言わせてもらおう","Ich habe das Ritual zwischen Erweckten und Vasallen oft miterlebt. Daran gewöhnen werde ich mich nie.
 
-Woher kommen die Pawns? Ich muss an die Welt denken, aus der sie stammen. Vielleicht verbinden die Pawns viele Welten. Diese unvorstellbare Weite fasziniert und erschreckt mich zugleich.
+Woher kommen die Vasallen? Ich muss an die Welt denken, aus der sie stammen. Vielleicht verbinden die Vasallen viele Welten. Diese unvorstellbare Weite fasziniert und erschreckt mich zugleich.
 
-Wie dem auch sei, der Pawn ist erschienen und der Pakt wurde geschlossen. Meinen Glückwunsch.",ui\00_message\history\001\q00000026.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,History Text
+Wie dem auch sei, der Vasall ist erschienen und der Pakt wurde geschlossen. Meinen Glückwunsch.",ui\00_message\history\001\q00000026.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,History Text
 0,HISTORY_STEP_31,"　元より稀少ではあったが、この数年は特に《ブラッ
 ドオーブ》が減っている。《ブラッドオーブ》が無け
 れば白竜の石化は進むばかりだ
@@ -81032,7 +81033,7 @@ seem to have emerged from this tomb.
 In these rooms having been sealed long ago,
 many adversaries likely await you.",ui\00_message\master\area3_spot_info.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,17,,Mysree Forest Area Rank
 0,SPOT_NAME_,ミスリウ森林,Mysree Forest,ui\00_message\master\area3_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,0,,Mysree Forest Area Rank
-1,SPOT_NAME_,ポーン郷,Pawn-Kathedrale,ui\00_message\master\area3_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,1,,Mysree Forest Area Rank
+1,SPOT_NAME_,ポーン郷,Vasallenkathedrale,ui\00_message\master\area3_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,1,,Mysree Forest Area Rank
 2,SPOT_NAME_,リンウッド,Lynwood,ui\00_message\master\area3_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,2,,Mysree Forest Area Rank
 3,SPOT_NAME_,森の一軒家,Lone House in the Forest,ui\00_message\master\area3_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,3,,Mysree Forest Area Rank
 4,SPOT_NAME_,西ミスリウ橋,West Mysree Bridge,ui\00_message\master\area3_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,4,,Mysree Forest Area Rank
@@ -118257,7 +118258,7 @@ etwas herstelle, ich kann Euch dabei helfen.",ui\00_message\pawn\talk\common\per
 gibt es in der Nähe eine passende Quest.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,11,,Pawn Incidental Dialogue (Normal)
 0,,"この地には、さまざまな覚者さまが存在し
 また多くの我々ポーンが存在します","In diesem Land gibt es viele Erweckte
-und viele von uns Pawns.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,12,,Pawn Incidental Dialogue (Normal)
+und viele von uns Vasallen.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,12,,Pawn Incidental Dialogue (Normal)
 0,,"そんな中、あなたは私をお選び下さった！
 戦徒としてこれ以上の幸せはありません","Und doch habt Ihr mich gewählt!
 Für einen Streiter gibt es kein größeres Glück.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,13,,Pawn Incidental Dialogue (Normal)
@@ -130813,10 +130814,10 @@ schließlich ganz andere Befehle.",ui\00_message\quest\q00000003.gmd,\quest\q000
 悪いことをしたわけじゃない",Vergiss die Sache. Du hast richtig gehandelt.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,72,Leo,Quest Dialogue
 0,,"さて――おまえの留守中、考えていたのだが
 覚者としてもうひと皮むけるために
-ポーンとの契約に挑んでみないか？","Ein Pakt mit einem Pawn würde dich als
-Erweckten weiterbringen. Willst du es versuchen?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,73,Leo,Quest Dialogue
+ポーンとの契約に挑んでみないか？","Ein Pakt mit einem Vasallen würde dich
+als Erweckten weiterbringen. Versuchst du es?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,73,Leo,Quest Dialogue
 0,,"彼らは主人となる覚者に絶対の忠誠を誓う
-怖れ知らずの戦人（いくさびと）だ","Pawns sind uns bedingungslos treu
+怖れ知らずの戦人（いくさびと）だ","Vasallen sind uns bedingungslos treu
 und kennen keine Furcht.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,74,Leo,Quest Dialogue
 0,,"加えて、彼らの物作りの能力は
 鋭い剣、強固な鎧――
@@ -130843,14 +130844,14 @@ und lege sie an.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q000000
 そこでエリアマスターのアルフレドと会う","Per Rift-Transport bist du schnell in Tel.
 Dort triffst du Alfred, den Gebietsmeister.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,2,Iris,Quest Dialogue
 0,,"そして《ポーン郷》へ行く
-まずは、そこからだね","Von dort geht es zur Pawn-Kathedrale.
+まずは、そこからだね","Von dort geht es zur Vasallenkathedrale.
 Damit fängst du am besten an.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,3,Iris,Quest Dialogue
 0,,"あなたはどんなポーンと出会うのでしょうね
-わたしも楽しみです","Was für Pawns dir wohl begegnen werden?
+わたしも楽しみです","Was für Vasallen dir wohl begegnen werden?
 Ich bin schon gespannt.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,4,Mysial,Quest Dialogue
 0,,"ほう、ポーンと契約する気になったのか
-ふむ、それでこそ覚者だ","Ah, du willst also einen Pakt mit einem Pawn
-schließen. Das nenne ich einen Erweckten.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,5,Joseph,Quest Dialogue
+ふむ、それでこそ覚者だ","Ah, du willst also mit einem Vasallen
+einen Pakt schließen. Ein wahrer Erweckter!",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,5,Joseph,Quest Dialogue
 0,,"ふふふ――
 どうやら本決まりになりそうなんだ
 例の話――","Hehe … Unsere Sache steht wohl kurz davor,
@@ -130863,7 +130864,7 @@ offiziell zu werden. Du weißt schon …",ui\00_message\quest\q00000004.gmd,\que
 Wir wissen noch nicht, wann sie wieder steht.
 Wo willst du hin?",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,9,Donnell,Quest Dialogue
 0,,"なるほど、《ポーン郷》か
-ならば一度、引き返すことをすすめるよ","Zur Pawn-Kathedrale?
+ならば一度、引き返すことをすすめるよ","Zur Vasallenkathedrale?
 Dann kehr lieber erst mal um.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,10,Donnell,Quest Dialogue
 0,,"テル村へ行ってアルフレドに相談するといい
 確か、村から森の方へ抜けられる道が
@@ -130876,7 +130877,7 @@ glaube ich, ein Weg in den Wald.",ui\00_message\quest\q00000004.gmd,\quest\q0000
 Aber es bis hierher zu schaffen, ist mühsam.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,13,Donnell,Quest Dialogue
 0,,"《ポーン郷》方面はしばらくのあいだ
 テル村経由で行くしかないだろうな","Eine Weile wird der einzige Weg
-zur Pawn-Kathedrale wohl über Tel führen.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,14,Donnell,Quest Dialogue
+zur Vasallenkathedrale wohl über Tel führen.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,14,Donnell,Quest Dialogue
 0,,"おお、貴君は――
 いつぞやはご苦労だったな","Ah, Ihr seid es.
 Nochmals vielen Dank für Eure Hilfe neulich.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,15,Alfred,Quest Dialogue
@@ -130899,7 +130900,7 @@ Gebiete besuchen, und versorgen sie mit Vorräten.",ui\00_message\quest\q0000000
 gewähren. Dafür braucht Ihr genug Ansehen
 in der Gegend, also einen hohen Gebietsrang.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,19,Alfred,Quest Dialogue
 0,,"貴君は今、《ポーン郷》へ行きたいのだろう？
-ならば、丁度良い","Ihr wollt zur Pawn-Kathedrale?
+ならば、丁度良い","Ihr wollt zur Vasallenkathedrale?
 Das trifft sich gut.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,20,Alfred,Quest Dialogue
 0,,"以前レオの使者として貴君がここに来た時の
 活躍は十分評価に値する","Was Ihr hier als Leos Gesandter
@@ -130909,8 +130910,8 @@ geleistet habt, verdient Anerkennung.",ui\00_message\quest\q00000004.gmd,\quest\
 0,,"《ポーン郷》へと続く《狩人の抜け穴》を
 貴君が通れるようにしておこう
 やや危険だが、貴君なら問題ないだろう","Ich gebe Euch den Geheimgang der Jäger frei.
-Er führt zur Pawn-Kathedrale. Der Weg birgt
-ein paar Gefahren, aber Ihr werdet ihn meistern.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,23,Alfred,Quest Dialogue
+Er führt zur Vasallenkathedrale. Der Weg birgt
+Gefahren, aber Ihr werdet ihn meistern.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,23,Alfred,Quest Dialogue
 0,,"では、わたしに話しかけ直して
 《エリア情報》を選び
 エリアランクとその内容を確認してくれ","Sprecht mich noch einmal an und wählt
@@ -130943,12 +130944,12 @@ als Zutritt zu gesperrten Orten. Je nach
 Punktestand warten verschiedene Belohnungen.
 Das ist doch ein Ansporn, oder?",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,29,Alfred,Quest Dialogue
 0,,狩人の抜け穴は開放してもらえた？,Ist der Geheimgang der Jäger jetzt offen?,ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,30,Iris,Quest Dialogue
-0,,だったらポーン郷へ行っちゃおう！,Dann auf zur Pawn-Kathedrale!,ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,31,Iris,Quest Dialogue
+0,,だったらポーン郷へ行っちゃおう！,Dann auf zur Vasallenkathedrale!,ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,31,Iris,Quest Dialogue
 0,,"これはこれは、新しき覚者さま
 お待ち申しておりました
 ここは我らポーンの民が集いし《ポーン郷》","Ah, ein neuer Erweckter!
-Wir haben Euch erwartet. Willkommen in
-der Pawn-Kathedrale, dem Heim unseres Volkes.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,32,Thomason,Quest Dialogue
+Wir haben Euch erwartet. Willkommen
+in der Vasallenkathedrale, unserem Heim.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,32,Thomason,Quest Dialogue
 0,,"里長アルヴァーさまは聖堂の奥におられます
 ――が、まずは左手にある《拠点の礎》を開放し
 登録なさいませ","Alvar, unser Vorsteher, ist hinten in der Kathedrale.
@@ -130958,25 +130959,25 @@ und speichert ihn als Favoriten.",ui\00_message\quest\q00000004.gmd,\quest\q0000
 覚者さまの拠点としてきっとお役に立つでしょう","So habt Ihr einen Stützpunkt für die Paktprüfung
 und die Vorbereitungen darauf.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,34,Thomason,Quest Dialogue
 0,,"《ポーン郷》へようこそ
-わたしはここの管理人アルヴァー","Willkommen in der Pawn-Kathedrale.
+わたしはここの管理人アルヴァー","Willkommen in der Vasallenkathedrale.
 Ich bin Alvar, der Vorsteher hier.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,35,Alvar,Quest Dialogue
 0,,"さて、覚者よ
 貴君はまだポーンについて何も知るまい","Nun, Erweckter, Ihr wisst wohl noch wenig
-über uns Pawns.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,36,Alvar,Quest Dialogue
+über uns Vasallen.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,36,Alvar,Quest Dialogue
 0,,"――気にするな
 最初は誰でも同じだ
 そんなことで我々ポーンは貴君を
 見限ったりはしない","Macht Euch nichts daraus. So geht es jedem
-am Anfang. Wir Pawns lassen Euch
+am Anfang. Wir Vasallen lassen Euch
 deswegen nicht im Stich.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,37,Alvar,Quest Dialogue
 0,,"――いや、見限るなど、できないのだ
 ポーンには己の意志や感情がない
 欲望、野望――何もなく、ただ覚者の
 意志に従うのみ","Wir könnten Euch gar nicht im Stich lassen.
-Pawns haben keinen eigenen Willen und
+Vasallen haben keinen eigenen Willen und
 keine Gefühle, keine Wünsche, keinen Ehrgeiz.
 Wir folgen allein dem Willen der Erweckten.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,38,Alvar,Quest Dialogue
-0,,ポーンは異界から来た不倒の戦士だ,"Pawns sind unbezwingbare Krieger
+0,,ポーンは異界から来た不倒の戦士だ,"Vasallen sind unbezwingbare Krieger
 aus einer anderen Welt.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,39,Alvar,Quest Dialogue
 0,,"けして死ぬことはなく――
 ただ、異界に帰り、また復活する
@@ -130991,9 +130992,9 @@ auch abseits des Schlachtfelds zugute.",ui\00_message\quest\q00000004.gmd,\quest
 allerlei Ausrüstung für Euch Erweckte.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,42,Alvar,Quest Dialogue
 0,,"ポーンとの契約を望む者は
 《異界の狭間》へ行かねばならぬが
-それが許されるのは一時にただひとりだけ","Wer einen Pakt mit einem Pawn schließen will,
-muss in den Rift. Das ist jeweils nur
-einer Person gestattet.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,43,Alvar,Quest Dialogue
+それが許されるのは一時にただひとりだけ","Für den Pakt mit einem Vasallen müsst Ihr
+in den Rift. Dort darf jeweils nur
+eine Person hinein.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,43,Alvar,Quest Dialogue
 0,,"準備と覚悟ができているのなら
 あらためて声をかけてくれ","Sprecht mich wieder an, sobald Ihr
 bereit und fest entschlossen seid.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,44,Alvar,Quest Dialogue
@@ -135060,7 +135061,7 @@ dass wir Euch dienen …",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc
 見つけることができなければ――",Falls Ihr das Riftstein-Rohstück nicht findet …,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,7,Alvar,Quest Dialogue
 0,,"我々にできることは何もない
 ポーンのことは忘れてくれ","… können wir nichts für Euch tun.
-Dann vergesst die Sache mit den Pawns.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,8,Alvar,Quest Dialogue
+Dann vergesst die Sache mit den Vasallens.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,8,Alvar,Quest Dialogue
 0,,では、健闘を祈るよ,Ich wünsche Euch viel Erfolg.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,9,Alvar,Quest Dialogue
 0,,【ヒント：異界の狭間への入り口】,[Tipp: Eingang zum Rift],ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,10,Alvar,Quest Dialogue
 0,,"《異界の狭間》はアルヴァーのいる祭壇の地下に
@@ -135078,13 +135079,14 @@ und bringt das Riftstein-Rohstück zurück.",ui\00_message\quest\q00000026.gmd,\
 そう――貴君は試されている","Den Rift darf jeweils nur einer betreten.
 Ja, Ihr werdet auf die Probe gestellt.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,15,Alvar,Quest Dialogue
 0,,心して行くが良い,Behaltet das im Sinn.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,16,Alvar,Quest Dialogue
-0,,《ポーン郷》のアルヴァーとは会えましたか？,Hast du Alvar in der Pawn-Kathedrale getroffen?,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,17,Mysial,Quest Dialogue
+0,,《ポーン郷》のアルヴァーとは会えましたか？,"Hast du Alvar getroffen?
+Er ist in der Vasallenkathedrale.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,17,Mysial,Quest Dialogue
 0,,"《ポーン郷》への道中はなかなか大変だ
-先々での情報収集を怠るなよ","Der Weg zur Pawn-Kathedrale ist beschwerlich.
-Erkundige dich unterwegs, was dich erwartet.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,18,Joseph,Quest Dialogue
+先々での情報収集を怠るなよ","Der Weg zur Vasallenkathedrale ist beschwerlich.
+Frag unterwegs nach, was dich erwartet.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,18,Joseph,Quest Dialogue
 0,,"ポーンが登場する瞬間は何度見ても
 震えてしまうんだ
-この世の不思議の代表格だね","Ich habe schon oft einen Pawn erscheinen sehen.
+この世の不思議の代表格だね","Ich habe schon viele Vasallen erscheinen sehen.
 Es lässt mich jedes Mal erschauern.
 Eines der größten Rätsel dieser Welt.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,19,Klaus,Quest Dialogue
 0,,"ほう――
@@ -135104,17 +135106,17 @@ bereits bei Euch, richtig?",ui\00_message\quest\q00000026.gmd,\quest\q00000026.a
 0,,"ならば神殿に戻り、白竜様の
 ご判断を仰ぐが良い","Dann kehrt zum Tempel zurück.
 Der Weiße Drache wird entscheiden.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,26,Alvar,Quest Dialogue
-0,,おお――《ポーン郷》帰りか,"Ah, zurück aus der Pawn-Kathedrale?",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,27,Leo,Quest Dialogue
+0,,おお――《ポーン郷》帰りか,"Ah, zurück aus der Vasallenkathedrale?",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,27,Leo,Quest Dialogue
 0,,"例のモノを持ってるなら
 ミシアルに見せてこい","Wenn du das Ding hast, zeig es Mysial.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,28,Leo,Quest Dialogue
 0,,"ほう――
 ポーンとの契約に奔走中か","Ah … Du willst also einen Pakt
-mit einem Pawn schließen?",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,29,Joseph,Quest Dialogue
+mit einem Vasallen schließen?",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,29,Joseph,Quest Dialogue
 0,,"《リムストーンの原石》があるのなら
 ミシアルに渡しなさい","Wenn du das Riftstein-Rohstück hast,
 gib es Mysial.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,30,Joseph,Quest Dialogue
 0,,"ポーンとの契約は何度も見たけど
-その度に、この世界の神秘を感じるよ","Ich habe schon viele Pawn-Pakte miterlebt.
+その度に、この世界の神秘を感じるよ","Ich habe schon viele Vasallenpakte miterlebt.
 Jedes Mal staune ich über unsere Welt.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,31,Klaus,Quest Dialogue
 0,,"彼らはいったいどこから来るのか――
 ああ、いつか謎を解き明かしたいなあ","Woher kommen sie nur?
@@ -135127,13 +135129,13 @@ Ach, könnte ich dieses Rätsel nur lösen!",ui\00_message\quest\q00000026.gmd,\
 契約の儀式を始めましょう",Dann beginnen wir gleich mit dem Paktritual.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,36,Mysial,Quest Dialogue
 0,,"さあ――
 あなたが共に歩みたいポーンの姿を
-強くイメージしてください","Stell dir den Pawn, der dich auf deinem Weg
-begleiten soll, so lebhaft wie möglich vor.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,37,Mysial,Quest Dialogue
+強くイメージしてください","Stell dir den Vasallen vor, der dich
+begleiten soll. So lebhaft du kannst.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,37,Mysial,Quest Dialogue
 0,,"この先のエリアは、貴君単独での試練となる
 支度ができたら教えなさい","Die Prüfung dort musst Ihr allein bestehen.
 Sagt mir Bescheid, sobald Ihr bereit seid.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,38,Alvar,Quest Dialogue
 0,,【ヒント：覚者のさらなる成長について】,[Tipp: Als Erweckter weiter wachsen],ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,39,Mysial,Quest Dialogue
-0,,メインポーンが編成が可能となり戦力が強化されました,"Dein Hauptpawn kann dich jetzt begleiten
+0,,メインポーンが編成が可能となり戦力が強化されました,"Dein Hauptvasall kann dich jetzt begleiten
 und deine Gruppe im Kampf verstärken.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,40,Mysial,Quest Dialogue
 0,,イリスやセネカから覚者のさらなる成長について学び、<COL ff7575>メインクエスト《紅の結晶》</COL>を進めましょう,"Iris und Seneka zeigen dir, wie du als Erweckter
 weiter wachsen kannst. Setze danach die
@@ -199113,24 +199115,24 @@ den Rittern der Weißen Garde um die Monsterjagd.",ui\00_message\quest_info\q000
 4,q00000003_00_1527,テル村の＜拠点の礎＞を解放しマイ拠点に登録する,Schalte den Zielkristall in Tel frei und speichere ihn als Favoriten,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,,Quest Title/Info
 0,q00000004_00_5,異界の戦士,Soldaten des Rifts,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,0,Leo,Quest Title/Info
 1,q00000004_00_5,"ポーンとの契約を果たすため
-ポーン郷へ赴き試練に挑む","Reise zur Pawn-Kathedrale und stell dich der Prüfung,
-um einen Pakt mit einem Pawn zu schließen.",ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,1,Leo,Quest Title/Info
+ポーン郷へ赴き試練に挑む","Reise zur Vasallenkathedrale und stell dich der Prüfung,
+um einen Pakt mit einem Vasallen zu schließen.",ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,1,Leo,Quest Title/Info
 0,q00000004_00_5,異界の戦士,Soldaten des Rifts,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,Quest Title/Info
 1,q00000004_00_5,"ポーンとの契約を果たすため
-ポーン郷へ赴き試練に挑む","Reise zur Pawn-Kathedrale und stell dich der Prüfung,
-um einen Pakt mit einem Pawn zu schließen.",ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,1,,Quest Title/Info
+ポーン郷へ赴き試練に挑む","Reise zur Vasallenkathedrale und stell dich der Prüfung,
+um einen Pakt mit einem Vasallen zu schließen.",ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,1,,Quest Title/Info
 2,q00000004_00_963,リム転移でテル村に行き、アルフレドから話を聞く,Reise per Rift-Transport nach Tel und sprich mit Alfred,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,2,Iris,Quest Title/Info
 2,q00000004_00_963,リム転移でテル村に行き、アルフレドから話を聞く,Reise per Rift-Transport nach Tel und sprich mit Alfred,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,2,,Quest Title/Info
 3,q00000004_00_964,エリア情報とその内容を確認する,Sieh dir bei Alfred die Gebietsinformation an,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,3,Iris,Quest Title/Info
 3,q00000004_00_964,エリア情報とその内容を確認する,Sieh dir bei Alfred die Gebietsinformation an,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,3,,Quest Title/Info
-4,q00000004_00_965,狩人の抜け穴を通りポーン郷へ向かう,Geh durch den Geheimgang der Jäger zur Pawn-Kathedrale,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,4,Mysial,Quest Title/Info
-4,q00000004_00_965,狩人の抜け穴を通りポーン郷へ向かう,Geh durch den Geheimgang der Jäger zur Pawn-Kathedrale,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,,Quest Title/Info
-6,q00000004_00_966,ポーン郷の＜拠点の礎＞を解放しマイ拠点登録する,Schalte den Zielkristall der Pawn-Kathedrale frei und speichere ihn als Favoriten,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,6,Klaus,Quest Title/Info
-6,q00000004_00_966,ポーン郷の＜拠点の礎＞を解放しマイ拠点登録する,Schalte den Zielkristall der Pawn-Kathedrale frei und speichere ihn als Favoriten,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,6,,Quest Title/Info
+4,q00000004_00_965,狩人の抜け穴を通りポーン郷へ向かう,Geh durch den Geheimgang der Jäger zur Vasallenkathedrale,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,4,Mysial,Quest Title/Info
+4,q00000004_00_965,狩人の抜け穴を通りポーン郷へ向かう,Geh durch den Geheimgang der Jäger zur Vasallenkathedrale,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,,Quest Title/Info
+6,q00000004_00_966,ポーン郷の＜拠点の礎＞を解放しマイ拠点登録する,Schalte den Zielkristall der Vasallenkathedrale frei und speichere ihn als Favoriten,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,6,Klaus,Quest Title/Info
+6,q00000004_00_966,ポーン郷の＜拠点の礎＞を解放しマイ拠点登録する,Schalte den Zielkristall der Vasallenkathedrale frei und speichere ihn als Favoriten,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,6,,Quest Title/Info
 7,q00000004_00_1537,アルヴァーと話す,Sprich mit Alvar,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,7,Klaus,Quest Title/Info
 7,q00000004_00_1537,アルヴァーと話す,Sprich mit Alvar,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,7,,Quest Title/Info
-5,q00000004_00_1539,ポーン郷で情報収集する,Erkundige dich in der Pawn-Kathedrale,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,5,Joseph,Quest Title/Info
-5,q00000004_00_1539,ポーン郷で情報収集する,Erkundige dich in der Pawn-Kathedrale,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,5,,Quest Title/Info
+5,q00000004_00_1539,ポーン郷で情報収集する,Erkundige dich in der Vasallenkathedrale,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,5,Joseph,Quest Title/Info
+5,q00000004_00_1539,ポーン郷で情報収集する,Erkundige dich in der Vasallenkathedrale,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,5,,Quest Title/Info
 0,q00000005_00_1,鈍色のアーク,The Dull-grey Ark,ui\00_message\quest_info\q00000005_00.gmd,\quest\q00000005.arc,q00000005.arc,0,Joseph,Quest Title/Info
 1,q00000005_00_1,"アークへ向かい消息を絶った
 調査団の行方を追う","Head to The Ark and track down
@@ -199515,14 +199517,14 @@ to deliver supplies to the Arisen Vanessa.",ui\00_message\quest_info\q00000025_0
 8,q00000025_00_1202,白竜に＜竜力の継承＞を行いブラッドオーブを捧げる,Offer Blood Orbs to perform Dragon Force Augmentation,ui\00_message\quest_info\q00000025_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,8,,QUEST_TEXT_TYPE_PURPOSE
 7,q00000025_00_1245,謁見の間のミシアルに報告する,Report to Mysial in the Audience Chamber,ui\00_message\quest_info\q00000025_00.gmd,\quest\q00000025.arc,q00000025.arc,7,Leo,QUEST_TEXT_TYPE_PURPOSE
 7,q00000025_00_1245,謁見の間のミシアルに報告する,Report to Mysial in the Audience Chamber,ui\00_message\quest_info\q00000025_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,7,,QUEST_TEXT_TYPE_PURPOSE
-0,q00000026_00_26,しもべの契り,Der Eid des Pawns,ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,0,Alvar,QUEST_TEXT_TYPE_NAME
+0,q00000026_00_26,しもべの契り,Der Eid des Vasallen,ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,0,Alvar,QUEST_TEXT_TYPE_NAME
 1,q00000026_00_26,"異界の狭間に入り、ポーン契約の証となる
 リムストーンの原石を入手する","Betritt den Rift und hole ein Riftstein-Rohstück.
-Es dient als Zeichen für den Pakt mit einem Pawn.",ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,1,Alvar,QUEST_TEXT_TYPE_ORDER
-0,q00000026_00_26,しもべの契り,Der Eid des Pawns,ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,QUEST_TEXT_TYPE_NAME
+Es dient als Zeichen für den Pakt mit einem Vasallen.",ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,1,Alvar,QUEST_TEXT_TYPE_ORDER
+0,q00000026_00_26,しもべの契り,Der Eid des Vasallen,ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,QUEST_TEXT_TYPE_NAME
 1,q00000026_00_26,"異界の狭間に入り、ポーン契約の証となる
 リムストーンの原石を入手する","Betritt den Rift und hole ein Riftstein-Rohstück.
-Es dient als Zeichen für den Pakt mit einem Pawn.",ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,1,,QUEST_TEXT_TYPE_ORDER
+Es dient als Zeichen für den Pakt mit einem Vasallen.",ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,1,,QUEST_TEXT_TYPE_ORDER
 2,q00000026_00_1063,異界の狭間を探索しリムストーンの原石を入手する,Erkunde den Rift und finde ein Riftstein-Rohstück,ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,2,Alvar,QUEST_TEXT_TYPE_PURPOSE
 2,q00000026_00_1063,異界の狭間を探索しリムストーンの原石を入手する,Erkunde den Rift und finde ein Riftstein-Rohstück,ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,2,,QUEST_TEXT_TYPE_PURPOSE
 3,q00000026_00_1064,アルヴァーに経緯を報告する,Berichte Alvar,ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,3,Alvar,QUEST_TEXT_TYPE_PURPOSE
@@ -237527,7 +237529,7 @@ antippen (Standardeinstellung)</KEYM>
 <COL ffdc78>Zentralplatz</COL>: Treffpunkt im Herzen des Tempels
 <COL ffdc78>Händlerviertel</COL>: Waffen, Material und Läden
 <COL ffdc78>Herbergsviertel</COL>: Herberge und Schenke
-<COL ffdc78>Werkstatt</COL>: Hier fertigen Pawns Gegenstände
+<COL ffdc78>Werkstatt</COL>: Hier fertigen Vasallen Gegenstände
 <COL ffdc78>Höhlenhafen</COL>: Anlegestelle für Seefahrten
 <COL ffdc78>Audienzsaal</COL>: Der Weiße Drache und sein Gefolge",ui\00_message\tutorial_guide\steps\tutorial_guide_step35.gmd,\tguide\tutorial_guide_35.arc,tutorial_guide_35.arc,1,,Tutorial Text
 0,TUTORIAL_STEP_71,"ゲームメニュー《ワールド》の<COL ffdc78>《マップ》</COL>では
@@ -237963,8 +237965,8 @@ After expanding the chat log with [<KC UI_RT>], go to [<KC KEY_UP>/
 <COL ffdc78>《クラフト》</COL>を行うことで
 アイテム作成能力も成長していきます
 戦技の習得や転職も可能ですので、
-あなたの目的に合った役割を与えましょう","Dein <COL ffdc78>Hauptpawn</COL> sammelt auf euren gemeinsamen
-Abenteuern Erfahrung und wird stärker, so wie du.
+あなたの目的に合った役割を与えましょう","Dein <COL ffdc78>Hauptvasall</COL> sammelt auf Abenteuern
+mit dir Erfahrung und wird stärker, so wie du.
 Durch <COL ffdc78>Handwerk</COL> verbessert er seine Fähigkeit,
 Gegenstände herzustellen. Er kann Kampftechniken
 lernen und die Klasse wechseln. Gib ihm eine
@@ -237975,12 +237977,12 @@ Aufgabe, die zu deinem Vorhaben passt.",ui\00_message\tutorial_guide\steps\tutor
 <COL ffdc78>また、ポーンがいればクラフトによる
 アイテムの作成、強化が可能です</COL>
 ポーン達は常に寄りそう冒険パートナーとして、
-いつでもあなたの力となってくれるでしょう","Pawns handeln auf Abenteuern selbstständig.
+いつでもあなたの力となってくれるでしょう","Vasallen handeln auf Abenteuern selbstständig.
 Gibst du ihnen einen Befehl, führen sie ihn
 sobald wie möglich aus.
-<COL ffdc78>Mit Pawns kannst du Gegenstände herstellen
+<COL ffdc78>Mit Vasallen kannst du Gegenstände herstellen
 und verstärken.</COL>
-Pawns begleiten dich auf deinen Reisen
+Vasallen begleiten dich auf deinen Reisen
 und stehen dir bei, wenn du sie brauchst.",ui\00_message\tutorial_guide\steps\tutorial_guide_step125.gmd,\tguide\tutorial_guide_125.arc,tutorial_guide_125.arc,1,,Tutorial Text
 0,TUTORIAL_STEP_64,"<COL 78f5ff>《ポーン》契約／雇用が解放されました！</COL>
 <COL ffdc78>《ポーン》</COL>とは、覚者であるあなたの
@@ -237988,24 +237990,23 @@ und stehen dir bei, wenn du sie brauchst.",ui\00_message\tutorial_guide\steps\tu
 人ならざる存在です
 メインポーンは、ゲームメニュー《パーティー》の
 <COL ffdc78>《パーティー管理》</COL>、<COL ffdc78>《メインポーン》</COL>から
-呼び出せます","<COL 78f5ff>Du kannst jetzt Pakte mit Pawns schließen
-und Pawns anheuern!</COL>
-<COL ffdc78>Pawns</COL> sind deine treuen Gefährten aus
+呼び出せます","<COL 78f5ff>Du kannst jetzt Pakte mit Vasallen schließen
+und Vasallen anheuern!</COL>
+<COL ffdc78>Vasallen</COL> sind treue Gefährten aus
 einer anderen Welt. Öffne mit <KC UI_GAME_MENU> das Spielmenü.
 Unter <COL ffdc78>Party</COL> findest du die <COL ffdc78>Gruppenverwaltung</COL>.
-Dort kannst du über <COL ffdc78>Hauptpawns</COL> deinen Pawn rufen.",ui\00_message\tutorial_guide\steps\tutorial_guide_step125.gmd,\tguide\tutorial_guide_125.arc,tutorial_guide_125.arc,0,,Tutorial Text
+Rufe deinen Vasallen über <COL ffdc78>Hauptvasallen</COL>.",ui\00_message\tutorial_guide\steps\tutorial_guide_step125.gmd,\tguide\tutorial_guide_125.arc,tutorial_guide_125.arc,0,,Tutorial Text
 0,TUTORIAL_STEP_65,"ポーンには大きく分けて２種あります
 <COL ffdc78>あなたが契約を結んだ《メインポーン》と、
 他の覚者から雇用できる《サポートポーン》です</COL>
 ポーンをパーティーメンバーに
 迎えたい場合は、<COL ffdc78>《リムストーン》や
 ゲームメニュー《パーティー管理》から
-呼び出せます</COL>","Es gibt zwei Arten von Pawns. Ein <COL ffdc78>Hauptpawn</COL>
-schließt einen Pakt mit dir. <COL ffdc78>Hilfspawns</COL>
+呼び出せます</COL>","Es gibt zwei Arten von Vasallen. Mit deinem
+<COL ffdc78>Hauptvasallen</COL> hast du einen Pakt geschlossen. <COL ffdc78>Hilfsvasallen</COL>
 heuerst du von anderen Erweckten an.
-Um einen Pawn in die Gruppe aufzunehmen,
-rufe ihn am <COL ffdc78>Riftstein</COL> oder über die
-<COL ffdc78>Gruppenverwaltung</COL> im Spielmenü.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,0,,Tutorial Text
+Rufe einen Vasallen am <COL ffdc78>Riftstein</COL> oder in der
+<COL ffdc78>Gruppenverwaltung</COL>, um ihn aufzunehmen.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,0,,Tutorial Text
 1,TUTORIAL_STEP_66,"<COL ffdc78>一定時間内に助け起こせなかった場合も、
 雇い主の覚者が倒れたポーンに触れ《復活力》か
 《黄金石》を与えることで、復活させられます</COL>
@@ -238834,13 +238835,13 @@ the Party Management.",ui\00_message\tutorial_guide\steps\tutorial_guide_step97.
 <COL ffdc78>また、一定時間外へ冒険に連れていくことで
 《冒険回数》が減り、クラフトを１回させることで
 《クラフト回数》が減少します</COL>
-残り回数が０になったら返却し、雇い直しましょう","<COL ffdc78>Für Hilfspawns zahlst du Riftkristalle.</COL>
+残り回数が０になったら返却し、雇い直しましょう","<COL ffdc78>Für Hilfsvasallen zahlst du Riftkristalle.</COL>
 Suche nach Stufe, Klasse und Handwerksfähigkeit,
-um passende Pawns zu finden.
+um passende Vasallen zu finden.
 <COL ffdc78>Nach einer gewissen Zeit außerhalb der Stadt sinkt
 die Zahl der übrigen Abenteuer. Jedes Herstellen
 eines Gegenstands verbraucht eine Fertigung.</COL>
-Ist ein Zähler auf null, schicke den Pawn zurück
+Ist ein Zähler auf null, schicke den Vasallen zurück
 und heuere ihn bei Bedarf erneut an.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,2,,Tutorial Text
 4,TUTORIAL_STEP_222,"<COL ffdc78>また、メインポーンがロストしていたり
 クラフト中でパーティーにいない場合は
@@ -238849,12 +238850,12 @@ und heuere ihn bei Bedarf erneut an.",ui\00_message\tutorial_guide\steps\tutoria
 フレンド覚者のポーン、旅先で出会ったポーンを
 検索で探してみるのもよいでしょう
 なお、他人のパーティーに所属している
-ポーンの姿は見えません","<COL ffdc78>Du kannst keinen Hilfspawn aufnehmen, wenn dein
-Hauptpawn verloren ist oder wegen eines
-Handwerksauftrags nicht in der Gruppe steht.</COL>
-Suche auch nach Pawns von Freunden oder
+ポーンの姿は見えません","<COL ffdc78>Wenn dein Hauptvasall verloren ist oder wegen
+eines Handwerksauftrags fehlt, kannst du
+keinen Hilfsvasallen aufnehmen.</COL>
+Suche auch nach den Vasallen deiner Freunde oder
 solchen, die dir unterwegs begegnet sind.
-Pawns in fremden Gruppen sind für dich unsichtbar.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,4,,Tutorial Text
+Vasallen in fremden Gruppen sind für dich unsichtbar.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,4,,Tutorial Text
 0,TUTORIAL_STEP_225,"<COL ffdc78>パーティープレイ時は、リーダーが設定した
 優先クエストがメンバー全員にとっての
 優先クエストになり、画面の目的表示も
@@ -239073,12 +239074,11 @@ Note: Pawns cannot use follow auto-run.",ui\00_message\tutorial_guide\steps\tuto
 <COL ffdc78>しかし、クラフトをすでに命じている時や
 戦闘中死亡して《ロスト状態》になると
 パーティーメンバーとして呼び出せません</COL>
-メインポーンの状態には注意しましょう","Du kannst deinen <COL ffdc78>Hauptpawn</COL> im Tempel
-und in Gebieten mit Riftstein jederzeit rufen.
-Wenn er gerade etwas herstellt oder nach seinem
-Tod als <COL ffdc78>verloren</COL> gilt, kann er deiner Gruppe
-nicht beitreten. Sieh nach, in welchem Zustand
-dein Hauptpawn ist.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,1,,Tutorial Text
+メインポーンの状態には注意しましょう","Du kannst deinen <COL ffdc78>Hauptvasallen</COL> jederzeit
+im Tempel und in Gebieten mit Riftstein rufen.
+Wenn er etwas herstellt oder nach seinem Tod
+als <COL ffdc78>verloren</COL> gilt, kann er dir nicht folgen.
+Achte darauf, in welchem Zustand er ist.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,1,,Tutorial Text
 2,TUTORIAL_STEP_303,"メインポーンが復活できず死亡状態のまま
 消えてしまった場合、<COL ffdc78>《ロスト状態》</COL>となり
 再呼び出しできなくなります
@@ -239252,10 +239252,10 @@ so please make use of it.",ui\00_message\tutorial_guide\steps\tutorial_guide_ste
 レンタルポイントはジョブポイントとして
 メインポーンに割り振り還元することができます
 サポートポーンをより多く雇用して
-メインポーンの成長を促進させましょう","Wenn du Hilfspawns zurückschickst, erhältst du
+メインポーンの成長を促進させましょう","Wenn du Hilfsvasallen zurückschickst, erhältst du
 <COL ffdc78>Leihpunkte</COL>. Du kannst sie als Klassenpunkte
-an deine Hauptpawns vergeben. So kannst du
-sie durch das Anheuern weiterer Pawns stärken.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,3,,Tutorial Text
+an deine Hauptvasallen vergeben. So kannst du
+sie durch das Anheuern weiterer Vasallen stärken.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,3,,Tutorial Text
 4,TUTORIAL_STEP_420,"また、特定の<OPCS>発動中はロストした
 メインポーンをリムストーンから直接救出
 できるようになります
@@ -244199,9 +244199,9 @@ accepting the quest.",ui\00_message\tutorial_guide\steps\tutorial_guide_step404.
 52,TUTORIAL_121,世界の探索,Exploring the World,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,52,,Tutorial Name
 53,TUTORIAL_122,ブラッドオーブの物々交換,Blood Orb Exchange,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,53,,Tutorial Name
 54,TUTORIAL_123,エリアマスター,Gebietsmeister,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,54,,Tutorial Name
-55,TUTORIAL_124,ポーンの基本成長,Pawns weiterentwickeln,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,55,,Tutorial Name
-56,TUTORIAL_125,ポーンとは,Was sind Pawns?,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,56,,Tutorial Name
-57,TUTORIAL_126,ポーンの雇用と編成,Pawns anheuern und aufnehmen,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,57,,Tutorial Name
+55,TUTORIAL_124,ポーンの基本成長,Vasallen weiterentwickeln,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,55,,Tutorial Name
+56,TUTORIAL_125,ポーンとは,Was sind Vasallen?,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,56,,Tutorial Name
+57,TUTORIAL_126,ポーンの雇用と編成,Vasallen anheuern und aufnehmen,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,57,,Tutorial Name
 58,TUTORIAL_128,ポーンの死亡と復活,Resurrecting Pawns,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,58,,Tutorial Name
 59,TUTORIAL_131,クラフトルーム,The Craft Room,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,59,,Tutorial Name
 60,TUTORIAL_132,アイテム生産の基本,Crafting Basic Items,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,60,,Tutorial Name
@@ -248614,8 +248614,8 @@ It seems to be one of the following items.",ui\00_message\ui\ItemJudge.gmd,\ui\u
 0,mai_msg_title_e,Area List,Gebietsliste,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,0,
 2,mai_msg_title_j,エリアリスト,Gebietsliste,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,2,
 6,mai_msg_weekly,今週の獲得AP,AP diese Woche,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,6,
-0,MenuCmdPawn_res_3854,Pawn Order,Pawn-Befehle,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,0,
-1,MenuCmdPawn_res_3855,ポーン命令,Pawn-Befehle,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,1,
+0,MenuCmdPawn_res_3854,Pawn Order,Vasallenbefehle,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,0,
+1,MenuCmdPawn_res_3855,ポーン命令,Vasallenbefehle,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,1,
 2,MenuCmdPawn_res_3856,Category,Kategorie,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,2,
 3,MenuCmdPawn_res_3857,命令,Befehle,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,3,
 4,MenuCmdPawn_res_3858,マクロ,Makro,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,4,
@@ -248837,15 +248837,15 @@ event.",ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.a
 17,party_list_location,Location,Standort,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,17,
 33,party_list_main_pawn_count,契約状況：,Paktschlüsse:,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,33,
 4,party_list_member,パーティーメンバー,Gruppenmitglieder,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,4,
-5,party_list_mpawn,メインポーン,Hauptpawns,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,5,
+5,party_list_mpawn,メインポーン,Hauptvasallen,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,5,
 14,party_list_name,名前,Name,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,14,
-35,party_list_notfound_main_pawn,ポーンと契約していません,Du hast noch keinen Pakt mit einem Pawn geschlossen.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,35,
+35,party_list_notfound_main_pawn,ポーンと契約していません,Du hast noch keinen Pakt mit einem Vasallen geschlossen.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,35,
 28,party_list_notfound_party,参加出来るパーティーがありませんでした,There were no parties to join.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,28,
 27,party_list_notfound_player,要請を出せる相手がいませんでした,Couldn't find anyone to make a request to.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,27,
-36,party_list_notfound_support_pawn,ポーンを雇用していません,Du hast keine Pawns angeheuert.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,36,
+36,party_list_notfound_support_pawn,ポーンを雇用していません,Du hast keine Vasallen angeheuert.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,36,
 22,party_list_object,Object,Eintrag,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,22,
 37,party_list_party_link,（合流中）,(Merging in progress),ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,37,
-23,party_list_pawn,Pawn,Pawn,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,23,
+23,party_list_pawn,Pawn,Vasall,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,23,
 32,party_list_pawn_joblv,ジョブ／クラフトレベル,Klassen- / Handwerksstufe,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,32,
 41,party_list_pl_name_empty,(指定なし),(None),ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,41,
 7,party_list_pl_search,プレイヤー検索,Player Search,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,7,
@@ -248858,7 +248858,7 @@ event.",ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.a
 13,party_list_settings,設定の編集,Edit Settings,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,13,
 26,party_list_settings_err,条件を設定してください,Please enter search criteria.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,26,
 38,party_list_simple_req_btn,簡易要請,Simple Request,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,38,
-6,party_list_spawn,サポートポーン,Hilfspawns,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,6,
+6,party_list_spawn,サポートポーン,Hilfsvasallen,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,6,
 19,party_list_state,状態,Zustand,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,19,
 11,party_list_submenu,サブメニュー,Untermenü,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,11,
 34,party_list_support_pawn_count,雇用状況：,Angeheuert:,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,34,
@@ -252046,8 +252046,8 @@ route)</COL>",ui\00_message\ui\bbi_situation_res.gmd,\ui\gui_game_mode_kokuju.ar
 131,EDIT_MSG_TITLE_BEAUTYSALON,Beauty Salon,Beauty Salon,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,131,,
 134,EDIT_MSG_TITLE_PAWNREEDIT,Pawn Reincarnation,Pawn Reincarnation,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,134,,
 134,EDIT_MSG_TITLE_PAWNREEDIT,Pawn Reincarnation,Pawn Reincarnation,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,134,,
-1,EDIT_MSG_TITLE_PAWN_EDIT,Pawn Edit,Pawn erstellen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,1,,
-1,EDIT_MSG_TITLE_PAWN_EDIT,Pawn Edit,Pawn erstellen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,1,,
+1,EDIT_MSG_TITLE_PAWN_EDIT,Pawn Edit,Vasall erstellen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,1,,
+1,EDIT_MSG_TITLE_PAWN_EDIT,Pawn Edit,Vasall erstellen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,1,,
 136,EDIT_MSG_TITLE_PLAYERREEDIT,Player Reincarnation,Player Reincarnation,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,136,,
 136,EDIT_MSG_TITLE_PLAYERREEDIT,Player Reincarnation,Player Reincarnation,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,136,,
 0,EDIT_MSG_TITLE_PLAYER_EDIT,Player Edit,Charakter erstellen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,0,,
@@ -253488,17 +253488,17 @@ additional features.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISav
 14,EDIT_MSG_GUIDE_VOICE,声を設定します,Stimme wählen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,14,
 14,EDIT_MSG_GUIDE_VOICE,声を設定します,Stimme wählen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,14,
 14,EDIT_MSG_GUIDE_VOICE,声を設定します,Stimme wählen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,14,
-16,EDIT_MSG_GUIDE_VOICE_FREQUENTLY,発言頻度を設定します,"Festlegen, wie oft der Pawn spricht",ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,16,
-16,EDIT_MSG_GUIDE_VOICE_FREQUENTLY,発言頻度を設定します,"Festlegen, wie oft der Pawn spricht",ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,16,
-16,EDIT_MSG_GUIDE_VOICE_FREQUENTLY,発言頻度を設定します,"Festlegen, wie oft der Pawn spricht",ui\00_message\ui\character_edit_help.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,16,
+16,EDIT_MSG_GUIDE_VOICE_FREQUENTLY,発言頻度を設定します,"Festlegen, wie oft der Vasall spricht",ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,16,
+16,EDIT_MSG_GUIDE_VOICE_FREQUENTLY,発言頻度を設定します,"Festlegen, wie oft der Vasall spricht",ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,16,
+16,EDIT_MSG_GUIDE_VOICE_FREQUENTLY,発言頻度を設定します,"Festlegen, wie oft der Vasall spricht",ui\00_message\ui\character_edit_help.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,16,
 11,EDIT_MSG_DIALOG_CARD_PAWN,"ポーンの貸し出し制限を設定してください
-(リムストーンのメニューからいつでも変更できます)","Wer darf deinen Pawn ausleihen?
+(リムストーンのメニューからいつでも変更できます)","Wer darf deinen Vasallen ausleihen?
 (Das lässt sich jederzeit am Riftstein ändern.)",ui\00_message\ui\character_edit_job.gmd,\ui\uGUICharacterEditPopCard.arc,uGUICharacterEditPopCard.arc,11,
 11,EDIT_MSG_DIALOG_CARD_PAWN,"ポーンの貸し出し制限を設定してください
-(リムストーンのメニューからいつでも変更できます)","Wer darf deinen Pawn ausleihen?
+(リムストーンのメニューからいつでも変更できます)","Wer darf deinen Vasallen ausleihen?
 (Das lässt sich jederzeit am Riftstein ändern.)",ui\00_message\ui\character_edit_job.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,11,
-12,EDIT_MSG_DIALOG_CARD_PAWNSEARCH,ポーン検索の公開範囲を設定してください,Wer darf deinen Pawn über die Suche finden?,ui\00_message\ui\character_edit_job.gmd,\ui\uGUICharacterEditPopCard.arc,uGUICharacterEditPopCard.arc,12,
-12,EDIT_MSG_DIALOG_CARD_PAWNSEARCH,ポーン検索の公開範囲を設定してください,Wer darf deinen Pawn über die Suche finden?,ui\00_message\ui\character_edit_job.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,12,
+12,EDIT_MSG_DIALOG_CARD_PAWNSEARCH,ポーン検索の公開範囲を設定してください,Wer darf deinen Vasallen über die Suche finden?,ui\00_message\ui\character_edit_job.gmd,\ui\uGUICharacterEditPopCard.arc,uGUICharacterEditPopCard.arc,12,
+12,EDIT_MSG_DIALOG_CARD_PAWNSEARCH,ポーン検索の公開範囲を設定してください,Wer darf deinen Vasallen über die Suche finden?,ui\00_message\ui\character_edit_job.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,12,
 10,EDIT_MSG_DIALOG_CARD_PL,"覚者プロフィールの公開範囲を設定してください
 (ゲーム設定の通知・公開設定でいつでも変更できます)","Wer darf das Profil sehen?
 (Das lässt sich jederzeit in den Einstellungen
@@ -256966,8 +256966,8 @@ to receive all reward items.",ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInf
 Party Recruitment Board category.",ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,58,,Game Menu
 66,menu_partyboard_select,パーティー募集掲示板,Party Recruitment Board,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,66,,Game Menu
 59,menu_partyboard_type01,パーティー募集掲示板を開く,Open Party Recruitment Board,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,59,,Game Menu
-29,menu_pawn,ポーン,Pawns,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,29,,Game Menu
-30,menu_pawn_command,ポーン命令,Pawn-Befehle,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,30,,Game Menu
+29,menu_pawn,ポーン,Vasallen,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,29,,Game Menu
+30,menu_pawn_command,ポーン命令,Vasallenbefehle,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,30,,Game Menu
 13,menu_photo,フォトモード,Photo Mode,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,13,,Game Menu
 37,menu_photo_album,フォトアルバム,Photo Albums,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,37,,Game Menu
 60,menu_pq_history,サブストーリーログ,Substory Log,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,60,,Game Menu
@@ -260638,9 +260638,9 @@ the items.",ui\00_message\ui\pick_res.gmd,\ui\uGUIPick01.arc,uGUIPick01.arc,7,
 49,poptop_party_jp,パーティー管理,Gruppenverwaltung,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,49,
 49,poptop_party_jp,パーティー管理,Gruppenverwaltung,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,49,
 49,poptop_party_jp,パーティー管理,Gruppenverwaltung,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,49,
-30,poptop_pawn_join,ポーンを入れる,Pawn aufnehmen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,30,
-30,poptop_pawn_join,ポーンを入れる,Pawn aufnehmen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,30,
-30,poptop_pawn_join,ポーンを入れる,Pawn aufnehmen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,30,
+30,poptop_pawn_join,ポーンを入れる,Vasallen aufnehmen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,30,
+30,poptop_pawn_join,ポーンを入れる,Vasallen aufnehmen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,30,
+30,poptop_pawn_join,ポーンを入れる,Vasallen aufnehmen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,30,
 31,poptop_player_search,パーティー検索,Party Search,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,31,
 31,poptop_player_search,パーティー検索,Party Search,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,31,
 31,poptop_player_search,パーティー検索,Party Search,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,31,
@@ -260671,18 +260671,18 @@ the items.",ui\00_message\ui\pick_res.gmd,\ui\uGUIPick01.arc,uGUIPick01.arc,7,
 98,poptop_recycle_remaining_num_reset,残り回数リセット,Reset Remaining,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,98,
 98,poptop_recycle_remaining_num_reset,残り回数リセット,Reset Remaining,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,98,
 98,poptop_recycle_remaining_num_reset,残り回数リセット,Reset Remaining,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,98,
-71,poptop_rim_stone_lost_pawn,ポーンの救出,Lost Pawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,71,
-71,poptop_rim_stone_lost_pawn,ポーンの救出,Lost Pawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,71,
-71,poptop_rim_stone_lost_pawn,ポーンの救出,Lost Pawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,71,
-18,poptop_rim_stone_main_pawn,メインポーン,Hauptpawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,18,
-18,poptop_rim_stone_main_pawn,メインポーン,Hauptpawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,18,
-18,poptop_rim_stone_main_pawn,メインポーン,Hauptpawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,18,
-19,poptop_rim_stone_pawn_search,ポーン検索,Pawn-Suche,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,19,
-19,poptop_rim_stone_pawn_search,ポーン検索,Pawn-Suche,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,19,
-19,poptop_rim_stone_pawn_search,ポーン検索,Pawn-Suche,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,19,
-17,poptop_rim_stone_support_pawn,サポートポーン,Hilfspawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,17,
-17,poptop_rim_stone_support_pawn,サポートポーン,Hilfspawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,17,
-17,poptop_rim_stone_support_pawn,サポートポーン,Hilfspawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,17,
+71,poptop_rim_stone_lost_pawn,ポーンの救出,Vasallen retten,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,71,
+71,poptop_rim_stone_lost_pawn,ポーンの救出,Vasallen retten,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,71,
+71,poptop_rim_stone_lost_pawn,ポーンの救出,Vasallen retten,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,71,
+18,poptop_rim_stone_main_pawn,メインポーン,Hauptvasallen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,18,
+18,poptop_rim_stone_main_pawn,メインポーン,Hauptvasallen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,18,
+18,poptop_rim_stone_main_pawn,メインポーン,Hauptvasallen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,18,
+19,poptop_rim_stone_pawn_search,ポーン検索,Vasallensuche,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,19,
+19,poptop_rim_stone_pawn_search,ポーン検索,Vasallensuche,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,19,
+19,poptop_rim_stone_pawn_search,ポーン検索,Vasallensuche,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,19,
+17,poptop_rim_stone_support_pawn,サポートポーン,Hilfsvasallen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,17,
+17,poptop_rim_stone_support_pawn,サポートポーン,Hilfsvasallen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,17,
+17,poptop_rim_stone_support_pawn,サポートポーン,Hilfsvasallen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,17,
 51,poptop_scout,スカウト,Scout,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,51,
 51,poptop_scout,スカウト,Scout,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,51,
 51,poptop_scout,スカウト,Scout,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,51,
