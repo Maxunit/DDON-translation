@@ -39099,7 +39099,7 @@ Defense)",ui\00_message\common\item_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1553,,I
 Defense)+",ui\00_message\common\item_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3918,,Item Name
 0,,覇魔のクレスト【凍結】・改,Crest of Superior Magick (Frozen)+,ui\00_message\common\item_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3919,,Item Name
 0,,頑守のクレスト・改,Crest of Firm Protection+,ui\00_message\common\item_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3920,,Item Name
-0,,リムストーンの原石,Riftstone Ore,ui\00_message\common\item_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3921,,Item Name
+0,,リムストーンの原石,Riftstein-Rohstück,ui\00_message\common\item_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3921,,Item Name
 0,,錬金研究棟の鍵,Alchemical Research Key,ui\00_message\common\item_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3922,,Item Name
 0,,ドリード礼拝堂の鍵,Dreed Chapel Key,ui\00_message\common\item_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3923,,Item Name
 0,,水流制御室の鍵,Flow Control Room Key,ui\00_message\common\item_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3924,,Item Name
@@ -57113,7 +57113,7 @@ become incapacitated.
 0,,空,Sky,ui\00_message\common\pawn_sp_skill_level.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Special Skill Level
 0,,天,Heaven,ui\00_message\common\pawn_sp_skill_level.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Special Skill Level
 0,RELEASE_CONTENT_1,他のプレイヤーとのパーティープレイ,Party Play (With Other Players),ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,System Unlocks
-1,RELEASE_CONTENT_2,ポーンとのパーティープレイ,Pawn and Party Play,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,System Unlocks
+1,RELEASE_CONTENT_2,ポーンとのパーティープレイ,Pawns und Gruppenspiel,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,System Unlocks
 2,RELEASE_CONTENT_3,ワールドクエスト,World Quest,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,System Unlocks
 3,RELEASE_CONTENT_5,エクストリームミッション,Extreme Missions,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,System Unlocks
 4,RELEASE_CONTENT_6,着飾り装備,Dress Equipment,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,System Unlocks
@@ -57122,7 +57122,7 @@ become incapacitated.
 7,RELEASE_CONTENT_9,リム転移,Rift-Transport,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,System Unlocks
 8,RELEASE_CONTENT_10,竜力の継承,Dragon Force Augmentation,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,System Unlocks
 9,RELEASE_CONTENT_11,クラフト,Craft,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,System Unlocks
-10,RELEASE_CONTENT_12,リムストーン,Riftstone,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,System Unlocks
+10,RELEASE_CONTENT_12,リムストーン,Riftstein,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,System Unlocks
 11,RELEASE_CONTENT_13,クエストボード,Questboard,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,11,,System Unlocks
 12,RELEASE_CONTENT_15,エリアマスター,Gebietsmeister,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,System Unlocks
 13,RELEASE_CONTENT_16,エリアマスターのワールドクエスト情報,Area Master's World Quest Info,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,13,,System Unlocks
@@ -57138,7 +57138,7 @@ become incapacitated.
 23,RELEASE_CONTENT_26,他のジョブへの転職,Klassenwechsel,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,23,,System Unlocks
 24,RELEASE_CONTENT_27,クランの設立と加入,Create and Join Clans,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,24,,System Unlocks
 25,RELEASE_CONTENT_29,戦徒の契り,Myrmidon's Pledge,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,25,,System Unlocks
-26,RELEASE_CONTENT_32,冒険仲介係,Adventure Broker,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,26,,System Unlocks
+26,RELEASE_CONTENT_32,冒険仲介係,Abenteuervermittler,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,26,,System Unlocks
 27,RELEASE_CONTENT_33,マッチングプロフィール,Matching Profile,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,27,,System Unlocks
 28,RELEASE_CONTENT_34,クイックパーティー,Quick Party,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,28,,System Unlocks
 29,RELEASE_CONTENT_37,戦技の継承,Skill Augmentation,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,29,,System Unlocks
@@ -57279,7 +57279,7 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 63,SPOT_NAME_513,枯れ井戸の中（カスタム）00,Dry well interior (custom) 00,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,63,,Spot Name
 64,SPOT_NAME_514,祠の中（カスタム）00,Shrine interior (custom) 00,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,64,,Spot Name
 65,SPOT_NAME_515,地下室（ワイン倉庫）00,Basement (wine storage) 00,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,65,,Spot Name
-66,SPOT_NAME_516,異界の狭間,The Rift,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,66,,Spot Name
+66,SPOT_NAME_516,異界の狭間,Rift,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,66,,Spot Name
 67,SPOT_NAME_517,アーク,The Ark,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,67,,Spot Name
 68,SPOT_NAME_518,グリッテン砦　通行許可,Fort Gritten Permit Office,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,68,,Spot Name
 69,SPOT_NAME_519,ハイデル教会,Hidell Church,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,69,,Spot Name
@@ -58132,9 +58132,9 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 134,STAGE_NAME_137,標の祠　ミスリウ森林深部,Mysree Grove Shrine,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,134,,Stage Name
 135,STAGE_NAME_138,山頂の小堂,Summit Chapel,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,135,,Stage Name
 136,STAGE_NAME_139,標の祠　ザンドラ禁域,Zandora Wastelands Shrine,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,136,,Stage Name
-137,STAGE_NAME_140,異界の狭間,The Rift,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,137,,Stage Name
+137,STAGE_NAME_140,異界の狭間,Rift,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,137,,Stage Name
 138,STAGE_NAME_141,ブリア海岸,Breya Coast,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,138,,Stage Name
-139,STAGE_NAME_142,異界の狭間,The Rift,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,139,,Stage Name
+139,STAGE_NAME_142,異界の狭間,Rift,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,139,,Stage Name
 140,STAGE_NAME_143,アーク,The Ark,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,140,,Stage Name
 141,STAGE_NAME_144,第二のアーク,The Second Ark,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,141,,Stage Name
 142,STAGE_NAME_145,第三のアーク,The Third Ark,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,142,,Stage Name
@@ -61669,15 +61669,15 @@ der Gebietsmeister der Hidell-Ebene.",ui\00_message\event\st0201\ev008.gmd,\even
 dort das Sagen. Halte dich gut mit ihm.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,7,Iris,Audience Chamber Cutscene
 0,,あ、これ内緒ね,"Ach, und das bleibt unter uns.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,8,Iris,Audience Chamber Cutscene
 0,,"暗き深淵を渡りし戦徒（せんと）よ
-",O Myrmidons who have crossed the dark Abyss.,ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,0,Mysial,Audience Chamber Cutscene
+",Ihr Streiter aus dem dunklen Abgrund …,ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,0,Mysial,Audience Chamber Cutscene
 0,,"この者を覚者と認め――
-ポーンとして契り――","I acknowledge this one as an Arisen.
-I swear myself as their Pawn.",ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,1,Mysial,Audience Chamber Cutscene
-0,,リムストーンの誓いを立てたまえ,I take the Riftstone Oath.,ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,2,Mysial,Audience Chamber Cutscene
-0,,この者の忠実なしもべとなり――,To be a faithful servant.,ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,3,Mysial,Audience Chamber Cutscene
+ポーンとして契り――","Erkennt diesen Menschen als Erweckten an.
+Schließt als Pawn einen Pakt mit ihm …",ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,1,Mysial,Audience Chamber Cutscene
+0,,リムストーンの誓いを立てたまえ,… und leistet den Eid am Riftstein.,ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,2,Mysial,Audience Chamber Cutscene
+0,,この者の忠実なしもべとなり――,Dient diesem Erweckten in Treue …,ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,3,Mysial,Audience Chamber Cutscene
 0,,"常に従い――
-ともに戦野を駆け巡らん","Always by your side...
-Together, we shall race across the the fields of battle.",ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,4,Mysial,Audience Chamber Cutscene
+ともに戦野を駆け巡らん","… weicht ihm nie von der Seite.
+Zieht gemeinsam mit ihm in die Schlacht.",ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,4,Mysial,Audience Chamber Cutscene
 0,,"ああ、ワールドクエストはどうだった？
 ――うまくいったみたいだね、じゃぁ別件いいかな","Oh, how was that World Quest?
 It looks like it went well! By the way, I've got
@@ -75006,20 +75006,11 @@ that we have discovered an effective remedy.",ui\00_message\history\001\q0000002
 しれないと想像しては、その途方もない無限に、わた
 しは憧れ、怯えるのだ
 　ともあれ、ポーンは現れ、契約は無事に交わされ
-た。おめでとうと言わせてもらおう","Without fail, whenever I witness
-the ritual of contract between Arisen and Pawn,
-I never get used to it.
-I cannot help but think that the Pawns
-come from a different world than this one.
+た。おめでとうと言わせてもらおう","Ich habe das Ritual zwischen Erweckten und Pawns oft miterlebt. Daran gewöhnen werde ich mich nie.
 
-I imagine that many worlds
-are connected by Pawns,
-creating an unimaginable infinity.
-I admire it, though terrifying as it may be.
+Woher kommen die Pawns? Ich muss an die Welt denken, aus der sie stammen. Vielleicht verbinden die Pawns viele Welten. Diese unvorstellbare Weite fasziniert und erschreckt mich zugleich.
 
-Anyway, the Pawn appears,
-and the contract is successfully formed.
-Let us rejoice.",ui\00_message\history\001\q00000026.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,History Text
+Wie dem auch sei, der Pawn ist erschienen und der Pakt wurde geschlossen. Meinen Glückwunsch.",ui\00_message\history\001\q00000026.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,History Text
 0,HISTORY_STEP_31,"　元より稀少ではあったが、この数年は特に《ブラッ
 ドオーブ》が減っている。《ブラッドオーブ》が無け
 れば白竜の石化は進むばかりだ
@@ -115325,7 +115316,7 @@ least take this with you.",ui\00_message\npc\base\n9011.gmd,\npc\n9011.arc,n9011
 7,FUNC_CLASS_NAME_10,戦技補佐,Arts Support,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,Function Name
 8,FUNC_CLASS_NAME_11,転職・戦技補佐,Klasse / Kampftechniken,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,Function Name
 9,FUNC_CLASS_NAME_12,グランドミッション,Grand Mission,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,Function Name
-10,FUNC_CLASS_NAME_13,冒険仲介係,Adventure Broker,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Function Name
+10,FUNC_CLASS_NAME_13,冒険仲介係,Abenteuervermittler,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Function Name
 11,FUNC_CLASS_NAME_14,クラン酒場,Clan Tavern,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,11,,Function Name
 12,FUNC_CLASS_NAME_15,クラフト係官,Crafting Officer,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,Function Name
 13,FUNC_CLASS_NAME_16,美容院,Beauty Salon,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,13,,Function Name
@@ -115338,7 +115329,7 @@ least take this with you.",ui\00_message\npc\base\n9011.gmd,\npc\n9011.arc,n9011
 20,FUNC_CLASS_NAME_24,バザー,Bazaar,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,20,,Function Name
 21,FUNC_CLASS_NAME_25,保管ボックス,Lagerkiste,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,21,,Function Name
 22,FUNC_CLASS_NAME_26,納品ボックス,Delivery Box,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,22,,Function Name
-23,FUNC_CLASS_NAME_27,リムストーン,Riftstone,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,23,,Function Name
+23,FUNC_CLASS_NAME_27,リムストーン,Riftstein,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,23,,Function Name
 24,FUNC_CLASS_NAME_28,竜の礎,Dragon's Portcrystal,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,24,,Function Name
 25,FUNC_CLASS_NAME_29,拠点の礎,Portcrystal,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,25,,Function Name
 26,FUNC_CLASS_NAME_30,竜の礎,Dragon's Portcrystal,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,26,,Function Name
@@ -118212,76 +118203,69 @@ I must repay the favor.",ui\00_message\pawn\p0008.gmd,\npc\npc_common.arc,npc_co
 0,,ごめんなさい、もうこんな失敗しないから,"I'm sorry,
 I won't make this kind of mistake again.",ui\00_message\pawn\p0008.gmd,\npc\npc_common.arc,npc_common.arc,13,,Pawn Management Dialogue (Sexy)
 0,,"覚者さま、体力は万全になさってくださいね
-御身の無事こそ第一なのですから","Ser Arisen, please take good care of
-your physical health.
-Your well-being is our top priority.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,0,,Pawn Incidental Dialogue (Normal)
+御身の無事こそ第一なのですから","Achtet bitte auf Eure Gesundheit.
+Euer Wohlergehen geht vor.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,0,,Pawn Incidental Dialogue (Normal)
 0,,"戦い方で気になること、ですか？
 いいえ、特にはございません
-お気遣いありがとうございます","Regarding battle tactics, ser?
-There is nothing of note at the moment.
-I thank you for your concern.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,1,,Pawn Incidental Dialogue (Normal)
+お気遣いありがとうございます","Ihr fragt nach meiner Kampfweise?
+Mir fällt nichts Besonderes auf.
+Danke, dass Ihr nachfragt.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,1,,Pawn Incidental Dialogue (Normal)
 0,,"戦い方で気になること、ですか？
 そうですね――
-常に力不足は、実感しているところですが","Concerned about the way we fight?
-Well, I always feel that I'm lacking in strength.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,2,,Pawn Incidental Dialogue (Normal)
+常に力不足は、実感しているところですが","Ihr fragt nach meiner Kampfweise?
+Nun … Ich spüre, dass mir noch Kraft fehlt.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,2,,Pawn Incidental Dialogue (Normal)
 0,,"戦い方で気になること、ですか？
 やはり覚者さまも私の戦い方、気になりますか
 もっと場に合わせて柔軟に対応できれば、と
-思ってはいるのですが――","Are you, too, Ser Arisen, interested
-in my fighting style?
-I do wish I could be more adaptable and flexible
-to the situation at hand.
-Yes, it is something I think about...",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,3,,Pawn Incidental Dialogue (Normal)
+思ってはいるのですが――","Ist Euch meine Kampfweise auch aufgefallen?
+Ich wünschte, ich könnte mich besser
+auf die jeweilige Lage einstellen.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,3,,Pawn Incidental Dialogue (Normal)
 0,,"実は、覚者さまが望まれている通り戦えているのか
 悩んでおりまして、その、よろしければ――
 自室でご相談に乗っていただけないかと
-お手すきの際、自室でベルを鳴らしていただけますか","Actually, Ser Arisen, I am troubled whether I
-can fight as desired.
-If it's not too much trouble, could you please
-ring the bell in your room when you have a moment
-to discuss it with me?",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,4,,Pawn Incidental Dialogue (Normal)
+お手すきの際、自室でベルを鳴らしていただけますか","Ich frage mich, ob ich so kämpfe, wie Ihr es Euch
+wünscht. Wenn Ihr Zeit habt, klingelt doch in
+Eurem Zimmer. Dann können wir darüber sprechen.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,4,,Pawn Incidental Dialogue (Normal)
 0,,"覚者さまと旅し、さまざまな景色を共にする――
 この時が長く続いて欲しいと感じるこの気持ちは
-感情なのでしょうか","Traveling with the Arisen, experiencing various
-landscapes together— Is this feeling of wanting
-this to continue for a long time... an emotion?",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,5,,Pawn Incidental Dialogue (Normal)
+感情なのでしょうか","Mit Euch zu reisen und all diese Orte zu sehen …
+Ich wünsche mir, dass es lange so bleibt.
+Ob man das ein Gefühl nennt?",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,5,,Pawn Incidental Dialogue (Normal)
 0,,"いかに困難なダンジョン、クエストであれ
 望むところです
-この身はいつも覚者さまと共に！","No matter how difficult the dungeon or quest may
-prove itself, it is where I wish to be.
-This body is always with you, Arisen!",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,6,,Pawn Incidental Dialogue (Normal)
-0,,行動不能の失態だけは、避けなければ――,We can't afford to lose our heads in the sand.,ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,7,,Pawn Incidental Dialogue (Normal)
+この身はいつも覚者さまと共に！","Wie gefährlich der Kerker oder die Quest
+auch sein mag, ich stelle mich der Aufgabe.
+Ich bleibe stets an Eurer Seite!",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,6,,Pawn Incidental Dialogue (Normal)
+0,,行動不能の失態だけは、避けなければ――,Ich darf im Kampf auf keinen Fall ausfallen.,ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,7,,Pawn Incidental Dialogue (Normal)
 0,,"足場は常にご注意ください
 崖際や水辺以外でも、一見問題なさそうな
-場所であれ思わぬ危険が潜んでいるものです","Mind your footing.
-Even in places that appear without peril,
-unforeseen dangers may lurk.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,8,,Pawn Incidental Dialogue (Normal)
+場所であれ思わぬ危険が潜んでいるものです","Achtet stets darauf, wohin Ihr tretet.
+Auch abseits von Klippen und Ufern kann
+an harmlos wirkenden Orten Gefahr lauern.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,8,,Pawn Incidental Dialogue (Normal)
 0,,"もっと鍛えて強くならなければ！
 覚者さまの右腕として、頼りにして頂くために
-どんな魔物が現れても、お守りするために！","I must train more and become stronger!
-In order to be fit to be relied upon as the
-Arisen's right-hand man.
-To protect you at all cost, no matter what
-kind of monsters appear!",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,9,,Pawn Incidental Dialogue (Normal)
+どんな魔物が現れても、お守りするために！","Ich muss mehr trainieren und stärker werden!
+Ihr sollt Euch auf mich verlassen können.
+Ich will Euch vor jedem Monster beschützen!",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,9,,Pawn Incidental Dialogue (Normal)
 0,,"クラフトも、打ち込んでみると楽しいものです
 冒険でもクラフトでも、覚者さまのお役に
-立てることに変わりありませんから","Crafting, just like adventuring, is a fun
-activity that finds many uses to an
-Arisen such as yourself.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,10,,Pawn Incidental Dialogue (Normal)
+立てることに変わりありませんから","Handwerk macht Freude, wenn man sich darauf
+einlässt. Ob ich Euch auf Reisen begleite oder
+etwas herstelle, ich kann Euch dabei helfen.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,10,,Pawn Incidental Dialogue (Normal)
 0,,"覚者さま、ニュースの確認もお忘れなく
-近くに手ごろなクエストがあるかもしれません","Arisen, do not neglect to check the news.
-There may be a convenient quest nearby.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,11,,Pawn Incidental Dialogue (Normal)
+近くに手ごろなクエストがあるかもしれません","Vergesst die Neuigkeiten nicht. Vielleicht
+gibt es in der Nähe eine passende Quest.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,11,,Pawn Incidental Dialogue (Normal)
 0,,"この地には、さまざまな覚者さまが存在し
-また多くの我々ポーンが存在します","In this land, there exists many Arisen, and a
-good number of us Pawns.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,12,,Pawn Incidental Dialogue (Normal)
+また多くの我々ポーンが存在します","In diesem Land gibt es viele Erweckte
+und viele von uns Pawns.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,12,,Pawn Incidental Dialogue (Normal)
 0,,"そんな中、あなたは私をお選び下さった！
-戦徒としてこれ以上の幸せはありません","In such a situation, you have chosen me!
-There is no greater happiness as a Myrmidon.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,13,,Pawn Incidental Dialogue (Normal)
+戦徒としてこれ以上の幸せはありません","Und doch habt Ihr mich gewählt!
+Für einen Streiter gibt es kein größeres Glück.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,13,,Pawn Incidental Dialogue (Normal)
 0,,"覚者さま、今の私はお役に立っているでしょうか？
 職や装備、技など――改善すべきところが
-あるのではないかと","Arisen, am I currently of use to you?
-Regarding my profession, equipment, and skills.
-Are there any areas fit for improvement, perhaps?",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,14,,Pawn Incidental Dialogue (Normal)
+あるのではないかと","Bin ich Euch eine Hilfe? Vielleicht könnte ich
+meine Klasse, Ausrüstung oder Fertigkeiten
+besser auf Euch abstimmen.",ui\00_message\pawn\talk\common\persona01.gmd,\pw_talk\pt_common_persona01.arc,pt_common_persona01.arc,14,,Pawn Incidental Dialogue (Normal)
 0,,"戦い方で気になること――ですか？
 いえ――自分は、特にないです
 あっ！　も、もしかして
@@ -121774,17 +121758,24 @@ The chill on your feet is refreshing.",ui\00_message\pawn\talk\stage\feature0006
 0,,"白竜さまがおわし、多くの覚者さまが集う
 神殿レーゼ――
 異界より、この場に参じることが叶い
-嬉しく思います",,ui\00_message\pawn\talk\stage\feature2001\persona01.gmd,\pw_talk\pt_feature2001_persona01.arc,pt_feature2001_persona01.arc,0,,White Dragon Temple Pawn Dialogue (Normal)
+嬉しく思います","Der Tempel des Weißen Drachen. Hier kommen
+so viele Erweckte zusammen. Es freut mich,
+dass ich aus meiner Welt hierherkommen durfte.",ui\00_message\pawn\talk\stage\feature2001\persona01.gmd,\pw_talk\pt_feature2001_persona01.arc,pt_feature2001_persona01.arc,0,,White Dragon Temple Pawn Dialogue (Normal)
 0,,"特別任務ウォーミッションの
 招集も行われると聞きます
-ぜひ、覚者さまの勇名をその時は――！",,ui\00_message\pawn\talk\stage\feature2001\persona01.gmd,\pw_talk\pt_feature2001_persona01.arc,pt_feature2001_persona01.arc,1,,White Dragon Temple Pawn Dialogue (Normal)
+ぜひ、覚者さまの勇名をその時は――！","Ich höre, hier werden auch besondere
+Kampfeinsätze ausgerufen. Möget Ihr Euch
+bei einem solchen Einsatz einen Namen machen!",ui\00_message\pawn\talk\stage\feature2001\persona01.gmd,\pw_talk\pt_feature2001_persona01.arc,pt_feature2001_persona01.arc,1,,White Dragon Temple Pawn Dialogue (Normal)
 0,,"もし、製作の用命がありましたら
-クラフトルームへお立ち寄りください",,ui\00_message\pawn\talk\stage\feature2001\persona01.gmd,\pw_talk\pt_feature2001_persona01.arc,pt_feature2001_persona01.arc,2,,White Dragon Temple Pawn Dialogue (Normal)
+クラフトルームへお立ち寄りください","Wenn ich etwas für Euch herstellen darf,
+kommt in der Werkstatt vorbei.",ui\00_message\pawn\talk\stage\feature2001\persona01.gmd,\pw_talk\pt_feature2001_persona01.arc,pt_feature2001_persona01.arc,2,,White Dragon Temple Pawn Dialogue (Normal)
 0,,"広場に商店区、宿場区、そして謁見の間――
 この場所はレスタニアの全ての者にとって
-最大の拠り所なのですね",,ui\00_message\pawn\talk\stage\feature2001\persona01.gmd,\pw_talk\pt_feature2001_persona01.arc,pt_feature2001_persona01.arc,3,,White Dragon Temple Pawn Dialogue (Normal)
+最大の拠り所なのですね","Der Platz, das Händlerviertel, die Gasthäuser
+und der Audienzsaal …
+Dieser Ort gibt ganz Lestania Halt.",ui\00_message\pawn\talk\stage\feature2001\persona01.gmd,\pw_talk\pt_feature2001_persona01.arc,pt_feature2001_persona01.arc,3,,White Dragon Temple Pawn Dialogue (Normal)
 0,,"さぁ、覚者さま
-これからどこへ向かいましょう？",,ui\00_message\pawn\talk\stage\feature2001\persona01.gmd,\pw_talk\pt_feature2001_persona01.arc,pt_feature2001_persona01.arc,4,,White Dragon Temple Pawn Dialogue (Normal)
+これからどこへ向かいましょう？","Nun, wohin gehen wir als Nächstes?",ui\00_message\pawn\talk\stage\feature2001\persona01.gmd,\pw_talk\pt_feature2001_persona01.arc,pt_feature2001_persona01.arc,4,,White Dragon Temple Pawn Dialogue (Normal)
 0,,"白竜神殿レーゼ――
 たくさんの覚者さまやポーンが集まるこの場所に
 自分も来れて、本当に――良かったです",,ui\00_message\pawn\talk\stage\feature2001\persona02.gmd,\pw_talk\pt_feature2001_persona02.arc,pt_feature2001_persona02.arc,0,,White Dragon Temple Pawn Dialogue (Shy)
@@ -135051,108 +135042,102 @@ learn about material procurement and crafting
 for equipment enhancement from Seneka and Iris.
 Once you're ready, let me know.",ui\00_message\quest\q00000025.gmd,\quest\q00000025.arc,q00000025.arc,45,Leo,Quest Dialogue
 0,,"ふむ――よろしい
-さっそく手順を説明しよう","Hmm... very well.
-Let me explain the procedure right away.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,0,Alvar,Quest Dialogue
+さっそく手順を説明しよう","Hm … Gut.
+Dann erkläre ich Euch den Ablauf.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,0,Alvar,Quest Dialogue
 0,,"まず《異界の狭間》へ行き――
-その奥底の部屋を目指す――","First, go to ""The Rift""
-and aim for its innermost chambers...",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,1,Alvar,Quest Dialogue
+その奥底の部屋を目指す――","Betretet zuerst den Rift.
+Sucht dort die tiefste Kammer auf.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,1,Alvar,Quest Dialogue
 0,,"もし貴君が、我々が仕えるに足る
-人物だとすれば――",If you are one worthy of our service...,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,2,Alvar,Quest Dialogue
+人物だとすれば――","Wenn Ihr Euch würdig erweist,
+dass wir Euch dienen …",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,2,Alvar,Quest Dialogue
 0,,"貴君はその部屋で
-《リムストーンの原石》を見つけるだろう","In that room you will find
-the Riftstone Ore.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,3,Alvar,Quest Dialogue
+《リムストーンの原石》を見つけるだろう",… werdet Ihr dort ein Riftstein-Rohstück finden.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,3,Alvar,Quest Dialogue
 0,,"それを持って
-ここに戻って来なさい",Take it and come back here.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,4,Alvar,Quest Dialogue
-0,,その後のことは、その時にな,"What happens after that, that's up to you.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,5,Alvar,Quest Dialogue
-0,,ああ――,Ah—,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,6,Alvar,Quest Dialogue
+ここに戻って来なさい",Bringt es zu mir zurück.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,4,Alvar,Quest Dialogue
+0,,その後のことは、その時にな,Alles Weitere erkläre ich Euch dann.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,5,Alvar,Quest Dialogue
+0,,ああ――,"Ach, noch etwas …",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,6,Alvar,Quest Dialogue
 0,,"もし、《リムストーンの原石》を
-見つけることができなければ――",If you can't find the Riftstone Ore...,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,7,Alvar,Quest Dialogue
+見つけることができなければ――",Falls Ihr das Riftstein-Rohstück nicht findet …,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,7,Alvar,Quest Dialogue
 0,,"我々にできることは何もない
-ポーンのことは忘れてくれ","There's nothing we can do about it.
-Forget about pawns.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,8,Alvar,Quest Dialogue
-0,,では、健闘を祈るよ,"Well, I wish you the best of luck.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,9,Alvar,Quest Dialogue
-0,,【ヒント：異界の狭間への入り口】,[Hint: Gate to the Otherworldly Rift],ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,10,Alvar,Quest Dialogue
+ポーンのことは忘れてくれ","… können wir nichts für Euch tun.
+Dann vergesst die Sache mit den Pawns.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,8,Alvar,Quest Dialogue
+0,,では、健闘を祈るよ,Ich wünsche Euch viel Erfolg.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,9,Alvar,Quest Dialogue
+0,,【ヒント：異界の狭間への入り口】,[Tipp: Eingang zum Rift],ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,10,Alvar,Quest Dialogue
 0,,"《異界の狭間》はアルヴァーのいる祭壇の地下に
 入口があります
-準備ができたら向かいましょう","The entrance to ""The Rift"" is located
-under the altar where Alvar stands.
-Head there once you are ready.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,11,Alvar,Quest Dialogue
+準備ができたら向かいましょう","Der Eingang zum Rift liegt unter dem Altar,
+an dem Alvar steht. Geh hinein, sobald
+du bereit bist.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,11,Alvar,Quest Dialogue
 0,,"ひとりで《異界の狭間》へ行って――
-《リムストーンの原石》を持ち帰る","Go alone to the ""Rift of the Other World""
-and bring back a ""Riftstone Ore.""",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,12,Alvar,Quest Dialogue
-0,,きわめて単純なことだ,It's as simple as that.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,13,Alvar,Quest Dialogue
-0,,しかし――,However—,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,14,Alvar,Quest Dialogue
+《リムストーンの原石》を持ち帰る","Geht allein in den Rift
+und bringt das Riftstein-Rohstück zurück.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,12,Alvar,Quest Dialogue
+0,,きわめて単純なことだ,So einfach ist das.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,13,Alvar,Quest Dialogue
+0,,しかし――,Allerdings …,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,14,Alvar,Quest Dialogue
 0,,"《異界の狭間》に行けるのは
 一時にただひとりだけ
-そう――貴君は試されている","Only one person at a time can go to
-The Rift between worlds.
-Yes—you are being tested.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,15,Alvar,Quest Dialogue
-0,,心して行くが良い,You'd do well to keep that in mind.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,16,Alvar,Quest Dialogue
-0,,《ポーン郷》のアルヴァーとは会えましたか？,Did you meet with Alvar in the Pawn Cathedral?,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,17,Mysial,Quest Dialogue
+そう――貴君は試されている","Den Rift darf jeweils nur einer betreten.
+Ja, Ihr werdet auf die Probe gestellt.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,15,Alvar,Quest Dialogue
+0,,心して行くが良い,Behaltet das im Sinn.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,16,Alvar,Quest Dialogue
+0,,《ポーン郷》のアルヴァーとは会えましたか？,Hast du Alvar in der Pawn-Kathedrale getroffen?,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,17,Mysial,Quest Dialogue
 0,,"《ポーン郷》への道中はなかなか大変だ
-先々での情報収集を怠るなよ","The road to the Pawn Cathedral is a tough one.
-Don't neglect to gather information en-route.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,18,Joseph,Quest Dialogue
+先々での情報収集を怠るなよ","Der Weg zur Pawn-Kathedrale ist beschwerlich.
+Erkundige dich unterwegs, was dich erwartet.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,18,Joseph,Quest Dialogue
 0,,"ポーンが登場する瞬間は何度見ても
 震えてしまうんだ
-この世の不思議の代表格だね","No matter how many times I see the moment
-when Pawns appear, I can't help but tremble. 
-They are truly embody the epitome
-of the mysteries of this world.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,19,Klaus,Quest Dialogue
+この世の不思議の代表格だね","Ich habe schon oft einen Pawn erscheinen sehen.
+Es lässt mich jedes Mal erschauern.
+Eines der größten Rätsel dieser Welt.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,19,Klaus,Quest Dialogue
 0,,"ほう――
-確かにこれは《リムストーンの原石》","Ah—
-Certainly, this is the ""Riftstone Ore"".",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,20,Alvar,Quest Dialogue
-0,,では、次の段階だ,Now for the next step.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,21,Alvar,Quest Dialogue
+確かにこれは《リムストーンの原石》","Ah … Das ist tatsächlich
+ein Riftstein-Rohstück.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,20,Alvar,Quest Dialogue
+0,,では、次の段階だ,Nun zum nächsten Schritt.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,21,Alvar,Quest Dialogue
 0,,"その石片を神殿の白竜様に
-お見せしなさい","Please show that piece of stone
-to the White Dragon in the Temple.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,22,Alvar,Quest Dialogue
+お見せしなさい","Zeigt das Rohstück dem Weißen Drachen
+im Tempel.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,22,Alvar,Quest Dialogue
 0,,"あとは白竜様のご判断次第
-身を委ねることだな","Afterwards, 
-it is up to Lord White Dragon's judgment.
-You must entrust your fate to him.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,23,Alvar,Quest Dialogue
-0,,おや――,Oh—,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,24,Alvar,Quest Dialogue
+身を委ねることだな","Danach liegt es an ihm.
+Vertraut auf sein Urteil.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,23,Alvar,Quest Dialogue
+0,,おや――,Nanu …,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,24,Alvar,Quest Dialogue
 0,,"《リムストーンの原石》は
-その手の内にあるのだろう？","You have the ""Riftstone Ore"" in your 
-possession, don't you?",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,25,Alvar,Quest Dialogue
+その手の内にあるのだろう？","Ihr habt das Riftstein-Rohstück
+bereits bei Euch, richtig?",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,25,Alvar,Quest Dialogue
 0,,"ならば神殿に戻り、白竜様の
-ご判断を仰ぐが良い","If so, then you should return to the Temple
-and seek the judgement of Lord White Dragon.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,26,Alvar,Quest Dialogue
-0,,おお――《ポーン郷》帰りか,Oh—back from the the Pawn Cathedral?,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,27,Leo,Quest Dialogue
+ご判断を仰ぐが良い","Dann kehrt zum Tempel zurück.
+Der Weiße Drache wird entscheiden.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,26,Alvar,Quest Dialogue
+0,,おお――《ポーン郷》帰りか,"Ah, zurück aus der Pawn-Kathedrale?",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,27,Leo,Quest Dialogue
 0,,"例のモノを持ってるなら
-ミシアルに見せてこい","If you have that thing, go and show it to Mysial.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,28,Leo,Quest Dialogue
+ミシアルに見せてこい","Wenn du das Ding hast, zeig es Mysial.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,28,Leo,Quest Dialogue
 0,,"ほう――
-ポーンとの契約に奔走中か","Hmm...
-Are you looking to form a contract with the Pawns?",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,29,Joseph,Quest Dialogue
+ポーンとの契約に奔走中か","Ah … Du willst also einen Pakt
+mit einem Pawn schließen?",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,29,Joseph,Quest Dialogue
 0,,"《リムストーンの原石》があるのなら
-ミシアルに渡しなさい","If you have ""Riftstone Ore,""
-please give it to Mysial.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,30,Joseph,Quest Dialogue
+ミシアルに渡しなさい","Wenn du das Riftstein-Rohstück hast,
+gib es Mysial.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,30,Joseph,Quest Dialogue
 0,,"ポーンとの契約は何度も見たけど
-その度に、この世界の神秘を感じるよ","I've seen the contract with Pawns many times,
-and each time, I feel the mystery of this world.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,31,Klaus,Quest Dialogue
+その度に、この世界の神秘を感じるよ","Ich habe schon viele Pawn-Pakte miterlebt.
+Jedes Mal staune ich über unsere Welt.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,31,Klaus,Quest Dialogue
 0,,"彼らはいったいどこから来るのか――
-ああ、いつか謎を解き明かしたいなあ","Where the heck do they come from—
-Oh, I hope to solve the mystery someday!",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,32,Klaus,Quest Dialogue
-0,,白竜はまどろんでいる――,The White Dragon slumbers...,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,33,The White Dragon,Quest Dialogue
-0,,おつかれさまです,Thank you for your hard work.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,34,Mysial,Quest Dialogue
+ああ、いつか謎を解き明かしたいなあ","Woher kommen sie nur?
+Ach, könnte ich dieses Rätsel nur lösen!",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,32,Klaus,Quest Dialogue
+0,,白竜はまどろんでいる――,Der Weiße Drache schlummert noch …,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,33,The White Dragon,Quest Dialogue
+0,,おつかれさまです,Danke für deine Mühe.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,34,Mysial,Quest Dialogue
 0,,"あら――
-《リムストーンの原石》ですね？","Oh—
-is that Riftstone Ore?",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,35,Mysial,Quest Dialogue
+《リムストーンの原石》ですね？",Oh … Ist das ein Riftstein-Rohstück?,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,35,Mysial,Quest Dialogue
 0,,"それでは、さっそく
-契約の儀式を始めましょう","Now then, let us proceed
-with the ceremony of the contract.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,36,Mysial,Quest Dialogue
+契約の儀式を始めましょう",Dann beginnen wir gleich mit dem Paktritual.,ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,36,Mysial,Quest Dialogue
 0,,"さあ――
 あなたが共に歩みたいポーンの姿を
-強くイメージしてください","Now— 
-Please focus strongly on the appearance
-of the Pawn you wish to walk with.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,37,Mysial,Quest Dialogue
+強くイメージしてください","Stell dir den Pawn, der dich auf deinem Weg
+begleiten soll, so lebhaft wie möglich vor.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,37,Mysial,Quest Dialogue
 0,,"この先のエリアは、貴君単独での試練となる
-支度ができたら教えなさい","This area ahead will be a trial for you alone.
-Let me know when you are ready.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,38,Alvar,Quest Dialogue
-0,,【ヒント：覚者のさらなる成長について】,[Hint: Further Growth of the Arisen],ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,39,Mysial,Quest Dialogue
-0,,メインポーンが編成が可能となり戦力が強化されました,"The Main Pawn can now be summoned, 
-and its vigor can be strengthened.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,40,Mysial,Quest Dialogue
-0,,イリスやセネカから覚者のさらなる成長について学び、<COL ff7575>メインクエスト《紅の結晶》</COL>を進めましょう,"Learn more about the further growth of the Arisen 
-from Iris and Seneka, and progress with the 
-Main Story Quest ""The Crimson Crystal.""",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,41,Mysial,Quest Dialogue
+支度ができたら教えなさい","Die Prüfung dort musst Ihr allein bestehen.
+Sagt mir Bescheid, sobald Ihr bereit seid.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,38,Alvar,Quest Dialogue
+0,,【ヒント：覚者のさらなる成長について】,[Tipp: Als Erweckter weiter wachsen],ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,39,Mysial,Quest Dialogue
+0,,メインポーンが編成が可能となり戦力が強化されました,"Dein Hauptpawn kann dich jetzt begleiten
+und deine Gruppe im Kampf verstärken.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,40,Mysial,Quest Dialogue
+0,,イリスやセネカから覚者のさらなる成長について学び、<COL ff7575>メインクエスト《紅の結晶》</COL>を進めましょう,"Iris und Seneka zeigen dir, wie du als Erweckter
+weiter wachsen kannst. Setze danach die
+Hauptquest <COL ff7575>„Der scharlachrote Kristall“</COL> fort.",ui\00_message\quest\q00000026.gmd,\quest\q00000026.arc,q00000026.arc,41,Mysial,Quest Dialogue
 0,,ギルスタンという名に聞き覚えはあるか？,Does the name Gilstan ring a bell?,ui\00_message\quest\q00000027.gmd,\quest\q00000027.arc,q00000027.arc,0,Leo,Quest Dialogue
 0,,"――その様子では知らないようだな
 となれば、好都合だ
@@ -199508,11 +199493,11 @@ in a decisive battle.",ui\00_message\quest_info\q00000024_00.gmd,\ui\history\his
 5,q00000024_00_1056,真の力を発現させたディアマンテスを撃破する,Defeat Diamantes in his transcended form,ui\00_message\quest_info\q00000024_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,5,,QUEST_TEXT_TYPE_PURPOSE
 6,q00000024_00_1057,謁見の間のジョゼフに経緯を報告する,Report back to Joseph in the Audience Chamber,ui\00_message\quest_info\q00000024_00.gmd,\quest\q00000024.arc,q00000024.arc,6,Joseph,QUEST_TEXT_TYPE_PURPOSE
 6,q00000024_00_1057,謁見の間のジョゼフに経緯を報告する,Report back to Joseph in the Audience Chamber,ui\00_message\quest_info\q00000024_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,6,,QUEST_TEXT_TYPE_PURPOSE
-0,q00000025_00_25,紅の結晶,The Crimson Crystal,ui\00_message\quest_info\q00000025_00.gmd,\quest\q00000025.arc,q00000025.arc,0,Mysial,QUEST_TEXT_TYPE_NAME
+0,q00000025_00_25,紅の結晶,Der scharlachrote Kristall,ui\00_message\quest_info\q00000025_00.gmd,\quest\q00000025.arc,q00000025.arc,0,Mysial,QUEST_TEXT_TYPE_NAME
 1,q00000025_00_25,"レオの使いとしてグリッテン砦に向かい
 覚者ヴァネッサに補給物資を届ける","Head towards Fort Gritten as Leo's envoy
 to deliver supplies to the Arisen Vanessa.",ui\00_message\quest_info\q00000025_00.gmd,\quest\q00000025.arc,q00000025.arc,1,Mysial,QUEST_TEXT_TYPE_ORDER
-0,q00000025_00_25,紅の結晶,The Crimson Crystal,ui\00_message\quest_info\q00000025_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,QUEST_TEXT_TYPE_NAME
+0,q00000025_00_25,紅の結晶,Der scharlachrote Kristall,ui\00_message\quest_info\q00000025_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,QUEST_TEXT_TYPE_NAME
 1,q00000025_00_25,"レオの使いとしてグリッテン砦に向かい
 覚者ヴァネッサに補給物資を届ける","Head towards Fort Gritten as Leo's envoy
 to deliver supplies to the Arisen Vanessa.",ui\00_message\quest_info\q00000025_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,1,,QUEST_TEXT_TYPE_ORDER
@@ -199530,22 +199515,20 @@ to deliver supplies to the Arisen Vanessa.",ui\00_message\quest_info\q00000025_0
 8,q00000025_00_1202,白竜に＜竜力の継承＞を行いブラッドオーブを捧げる,Offer Blood Orbs to perform Dragon Force Augmentation,ui\00_message\quest_info\q00000025_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,8,,QUEST_TEXT_TYPE_PURPOSE
 7,q00000025_00_1245,謁見の間のミシアルに報告する,Report to Mysial in the Audience Chamber,ui\00_message\quest_info\q00000025_00.gmd,\quest\q00000025.arc,q00000025.arc,7,Leo,QUEST_TEXT_TYPE_PURPOSE
 7,q00000025_00_1245,謁見の間のミシアルに報告する,Report to Mysial in the Audience Chamber,ui\00_message\quest_info\q00000025_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,7,,QUEST_TEXT_TYPE_PURPOSE
-0,q00000026_00_26,しもべの契り,A Servant's Pledge,ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,0,Alvar,QUEST_TEXT_TYPE_NAME
+0,q00000026_00_26,しもべの契り,Der Eid des Pawns,ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,0,Alvar,QUEST_TEXT_TYPE_NAME
 1,q00000026_00_26,"異界の狭間に入り、ポーン契約の証となる
-リムストーンの原石を入手する","In order to form a contract with a Pawn,
-enter the realm of The Rift and successfully
-obtain raw Riftstone Ore.",ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,1,Alvar,QUEST_TEXT_TYPE_ORDER
-0,q00000026_00_26,しもべの契り,A Servant's Pledge,ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,QUEST_TEXT_TYPE_NAME
+リムストーンの原石を入手する","Betritt den Rift und hole ein Riftstein-Rohstück.
+Es dient als Zeichen für den Pakt mit einem Pawn.",ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,1,Alvar,QUEST_TEXT_TYPE_ORDER
+0,q00000026_00_26,しもべの契り,Der Eid des Pawns,ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,QUEST_TEXT_TYPE_NAME
 1,q00000026_00_26,"異界の狭間に入り、ポーン契約の証となる
-リムストーンの原石を入手する","In order to form a contract with a Pawn,
-enter the realm of The Rift and successfully
-obtain raw Riftstone Ore.",ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,1,,QUEST_TEXT_TYPE_ORDER
-2,q00000026_00_1063,異界の狭間を探索しリムストーンの原石を入手する,Retrieve a Riftstone Ore from the depths of the Rift,ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,2,Alvar,QUEST_TEXT_TYPE_PURPOSE
-2,q00000026_00_1063,異界の狭間を探索しリムストーンの原石を入手する,Retrieve a Riftstone Ore from the depths of the Rift,ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,2,,QUEST_TEXT_TYPE_PURPOSE
-3,q00000026_00_1064,アルヴァーに経緯を報告する,Report back to Alvar,ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,3,Alvar,QUEST_TEXT_TYPE_PURPOSE
-3,q00000026_00_1064,アルヴァーに経緯を報告する,Report back to Alvar,ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,3,,QUEST_TEXT_TYPE_PURPOSE
-4,q00000026_00_1065,謁見の間のミシアルにリムストーンの原石を渡す,Give the Riftstone Ore to Mysial in the Audience Chamber,ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,4,Alvar,QUEST_TEXT_TYPE_PURPOSE
-4,q00000026_00_1065,謁見の間のミシアルにリムストーンの原石を渡す,Give the Riftstone Ore to Mysial in the Audience Chamber,ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,,QUEST_TEXT_TYPE_PURPOSE
+リムストーンの原石を入手する","Betritt den Rift und hole ein Riftstein-Rohstück.
+Es dient als Zeichen für den Pakt mit einem Pawn.",ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,1,,QUEST_TEXT_TYPE_ORDER
+2,q00000026_00_1063,異界の狭間を探索しリムストーンの原石を入手する,Erkunde den Rift und finde ein Riftstein-Rohstück,ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,2,Alvar,QUEST_TEXT_TYPE_PURPOSE
+2,q00000026_00_1063,異界の狭間を探索しリムストーンの原石を入手する,Erkunde den Rift und finde ein Riftstein-Rohstück,ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,2,,QUEST_TEXT_TYPE_PURPOSE
+3,q00000026_00_1064,アルヴァーに経緯を報告する,Berichte Alvar,ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,3,Alvar,QUEST_TEXT_TYPE_PURPOSE
+3,q00000026_00_1064,アルヴァーに経緯を報告する,Berichte Alvar,ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,3,,QUEST_TEXT_TYPE_PURPOSE
+4,q00000026_00_1065,謁見の間のミシアルにリムストーンの原石を渡す,Gib Mysial im Audienzsaal das Riftstein-Rohstück,ui\00_message\quest_info\q00000026_00.gmd,\quest\q00000026.arc,q00000026.arc,4,Alvar,QUEST_TEXT_TYPE_PURPOSE
+4,q00000026_00_1065,謁見の間のミシアルにリムストーンの原石を渡す,Gib Mysial im Audienzsaal das Riftstein-Rohstück,ui\00_message\quest_info\q00000026_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,,QUEST_TEXT_TYPE_PURPOSE
 0,q00000027_00_27,ゴブリンの王,The Goblin King,ui\00_message\quest_info\q00000027_00.gmd,\quest\q00000027.arc,q00000027.arc,0,Leo,QUEST_TEXT_TYPE_NAME
 1,q00000027_00_27,"白竜の石化を解く手がかりを求め
 ホボリック洞穴に住むゴブリンの王を訪ねる","Seek clues to undo the petrification
@@ -237980,52 +237963,49 @@ After expanding the chat log with [<KC UI_RT>], go to [<KC KEY_UP>/
 <COL ffdc78>《クラフト》</COL>を行うことで
 アイテム作成能力も成長していきます
 戦技の習得や転職も可能ですので、
-あなたの目的に合った役割を与えましょう","The <COL ffdc78>Main Pawn</COL> will grow by adventuring and
-gaining experience, just like you, an Arisen.
-By <COL ffdc78>Crafting</COL>, your item creation
-abilities will also grow.
-They can also learn combat skills and change
-vocations, so assign them a role
-that suits your goals.",ui\00_message\tutorial_guide\steps\tutorial_guide_step124.gmd,\tguide\tutorial_guide_124.arc,tutorial_guide_124.arc,0,,Tutorial Text
+あなたの目的に合った役割を与えましょう","Dein <COL ffdc78>Hauptpawn</COL> sammelt auf euren gemeinsamen
+Abenteuern Erfahrung und wird stärker, so wie du.
+Durch <COL ffdc78>Handwerk</COL> verbessert er seine Fähigkeit,
+Gegenstände herzustellen. Er kann Kampftechniken
+lernen und die Klasse wechseln. Gib ihm eine
+Aufgabe, die zu deinem Vorhaben passt.",ui\00_message\tutorial_guide\steps\tutorial_guide_step124.gmd,\tguide\tutorial_guide_124.arc,tutorial_guide_124.arc,0,,Tutorial Text
 1,TUTORIAL_STEP_63,"ポーン達は冒険のなかで自律的に行動しますが
 覚者が命令を与えれば、実行可能な時は
 優先的に遂行します
 <COL ffdc78>また、ポーンがいればクラフトによる
 アイテムの作成、強化が可能です</COL>
 ポーン達は常に寄りそう冒険パートナーとして、
-いつでもあなたの力となってくれるでしょう","Pawns will act autonomously during the
-adventure,but when commanded by the Arisen, they
-will prioritize carrying out the command.
-<COL ffdc78>Additionally, with Pawns, crafting and
-enhancing items is possible.</COL>
-The Pawns will always be there as reliable
-adventure partners, ready to assist you whenever
-you need their strength.",ui\00_message\tutorial_guide\steps\tutorial_guide_step125.gmd,\tguide\tutorial_guide_125.arc,tutorial_guide_125.arc,1,,Tutorial Text
+いつでもあなたの力となってくれるでしょう","Pawns handeln auf Abenteuern selbstständig.
+Gibst du ihnen einen Befehl, führen sie ihn
+sobald wie möglich aus.
+<COL ffdc78>Mit Pawns kannst du Gegenstände herstellen
+und verstärken.</COL>
+Pawns begleiten dich auf deinen Reisen
+und stehen dir bei, wenn du sie brauchst.",ui\00_message\tutorial_guide\steps\tutorial_guide_step125.gmd,\tguide\tutorial_guide_125.arc,tutorial_guide_125.arc,1,,Tutorial Text
 0,TUTORIAL_STEP_64,"<COL 78f5ff>《ポーン》契約／雇用が解放されました！</COL>
 <COL ffdc78>《ポーン》</COL>とは、覚者であるあなたの
 忠実な従者であり、異界から現れた
 人ならざる存在です
 メインポーンは、ゲームメニュー《パーティー》の
 <COL ffdc78>《パーティー管理》</COL>、<COL ffdc78>《メインポーン》</COL>から
-呼び出せます","<COL 78f5ff>Pawn contracts have been unlocked!</COL>
-<COL ffdc78>Pawns</COL> are your loyal followers, beings from
-another world, serving you, the Arisen.
-Summon your Main Pawns from the [<KC UI_GAME_MENU>] Game Menu, <COL ffdc78>
-Party</COL>, <COL ffdc78>Party Management</COL>,
-<COL ffdc78>Main Pawn</COL>.",ui\00_message\tutorial_guide\steps\tutorial_guide_step125.gmd,\tguide\tutorial_guide_125.arc,tutorial_guide_125.arc,0,,Tutorial Text
+呼び出せます","<COL 78f5ff>Du kannst jetzt Pakte mit Pawns schließen
+und Pawns anheuern!</COL>
+<COL ffdc78>Pawns</COL> sind deine treuen Gefährten aus
+einer anderen Welt. Öffne mit <KC UI_GAME_MENU> das Spielmenü.
+Unter <COL ffdc78>Party</COL> findest du die <COL ffdc78>Gruppenverwaltung</COL>.
+Dort kannst du über <COL ffdc78>Hauptpawns</COL> deinen Pawn rufen.",ui\00_message\tutorial_guide\steps\tutorial_guide_step125.gmd,\tguide\tutorial_guide_125.arc,tutorial_guide_125.arc,0,,Tutorial Text
 0,TUTORIAL_STEP_65,"ポーンには大きく分けて２種あります
 <COL ffdc78>あなたが契約を結んだ《メインポーン》と、
 他の覚者から雇用できる《サポートポーン》です</COL>
 ポーンをパーティーメンバーに
 迎えたい場合は、<COL ffdc78>《リムストーン》や
 ゲームメニュー《パーティー管理》から
-呼び出せます</COL>","There are two main types of pawns: the <COL ffdc78>Main Pawn</COL>
-that you sign a contract with, and the <COL ffdc78>support
-pawns</COL> that you can hire from
-other Arisen players.
-If you want to welcome a pawn to your party, you
-can call them from <COL ffdc78>Riftstone</COL>
-or the game menu <COL ffdc78>Party Management</COL>.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,0,,Tutorial Text
+呼び出せます</COL>","Es gibt zwei Arten von Pawns. Ein <COL ffdc78>Hauptpawn</COL>
+schließt einen Pakt mit dir. <COL ffdc78>Hilfspawns</COL>
+heuerst du von anderen Erweckten an.
+Um einen Pawn in die Gruppe aufzunehmen,
+rufe ihn am <COL ffdc78>Riftstein</COL> oder über die
+<COL ffdc78>Gruppenverwaltung</COL> im Spielmenü.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,0,,Tutorial Text
 1,TUTORIAL_STEP_66,"<COL ffdc78>一定時間内に助け起こせなかった場合も、
 雇い主の覚者が倒れたポーンに触れ《復活力》か
 《黄金石》を与えることで、復活させられます</COL>
@@ -238854,17 +238834,14 @@ the Party Management.",ui\00_message\tutorial_guide\steps\tutorial_guide_step97.
 <COL ffdc78>また、一定時間外へ冒険に連れていくことで
 《冒険回数》が減り、クラフトを１回させることで
 《クラフト回数》が減少します</COL>
-残り回数が０になったら返却し、雇い直しましょう","<COL ffdc78>To hire a support pawn, you need to pay 
-Rift Crystals. </COL>
-However you can search for pawns that meet 
-your needs based on their level, job, crafting 
-skills, and other conditions.
-<COL ffdc78>Additionally, taking a support pawn on 
-adventures outside for a certain period of time
-will reduce their 'Adventure Count,' and 
-using them to craft once will decrease their 
-'Craft Count.' </COL> When the remaining counts 
-reach zero, return and hire them again.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,2,,Tutorial Text
+残り回数が０になったら返却し、雇い直しましょう","<COL ffdc78>Für Hilfspawns zahlst du Riftkristalle.</COL>
+Suche nach Stufe, Klasse und Handwerksfähigkeit,
+um passende Pawns zu finden.
+<COL ffdc78>Nach einer gewissen Zeit außerhalb der Stadt sinkt
+die Zahl der übrigen Abenteuer. Jedes Herstellen
+eines Gegenstands verbraucht eine Fertigung.</COL>
+Ist ein Zähler auf null, schicke den Pawn zurück
+und heuere ihn bei Bedarf erneut an.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,2,,Tutorial Text
 4,TUTORIAL_STEP_222,"<COL ffdc78>また、メインポーンがロストしていたり
 クラフト中でパーティーにいない場合は
 サポートポーンをパーティーに入れることが
@@ -238872,13 +238849,12 @@ reach zero, return and hire them again.",ui\00_message\tutorial_guide\steps\tuto
 フレンド覚者のポーン、旅先で出会ったポーンを
 検索で探してみるのもよいでしょう
 なお、他人のパーティーに所属している
-ポーンの姿は見えません","<COL ffdc78>Also, if your main pawn is lost or not in the
-party while crafting, you cannot include a
-support pawn in the party, so please be careful.</COL>
-It is also a good idea to search for friend's
-pawns or pawns encountered during your journey.
-Note that you cannot see the appearance of pawns
-belonging to other people's parties.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,4,,Tutorial Text
+ポーンの姿は見えません","<COL ffdc78>Du kannst keinen Hilfspawn aufnehmen, wenn dein
+Hauptpawn verloren ist oder wegen eines
+Handwerksauftrags nicht in der Gruppe steht.</COL>
+Suche auch nach Pawns von Freunden oder
+solchen, die dir unterwegs begegnet sind.
+Pawns in fremden Gruppen sind für dich unsichtbar.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,4,,Tutorial Text
 0,TUTORIAL_STEP_225,"<COL ffdc78>パーティープレイ時は、リーダーが設定した
 優先クエストがメンバー全員にとっての
 優先クエストになり、画面の目的表示も
@@ -239097,13 +239073,12 @@ Note: Pawns cannot use follow auto-run.",ui\00_message\tutorial_guide\steps\tuto
 <COL ffdc78>しかし、クラフトをすでに命じている時や
 戦闘中死亡して《ロスト状態》になると
 パーティーメンバーとして呼び出せません</COL>
-メインポーンの状態には注意しましょう","A <COL ffdc78>Main Pawn</COL> will always respond when called in
-an area with temples or riftstones.
-However, if you have already commanded them to
-craft or if they die during combat and enter a <COL ffdc78>
-Lost State</COL>, you cannot summon
-them as party members.
-Pay attention to the state of your Main Pawn.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,1,,Tutorial Text
+メインポーンの状態には注意しましょう","Du kannst deinen <COL ffdc78>Hauptpawn</COL> im Tempel
+und in Gebieten mit Riftstein jederzeit rufen.
+Wenn er gerade etwas herstellt oder nach seinem
+Tod als <COL ffdc78>verloren</COL> gilt, kann er deiner Gruppe
+nicht beitreten. Sieh nach, in welchem Zustand
+dein Hauptpawn ist.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,1,,Tutorial Text
 2,TUTORIAL_STEP_303,"メインポーンが復活できず死亡状態のまま
 消えてしまった場合、<COL ffdc78>《ロスト状態》</COL>となり
 再呼び出しできなくなります
@@ -239277,12 +239252,10 @@ so please make use of it.",ui\00_message\tutorial_guide\steps\tutorial_guide_ste
 レンタルポイントはジョブポイントとして
 メインポーンに割り振り還元することができます
 サポートポーンをより多く雇用して
-メインポーンの成長を促進させましょう","Furthermore, by returning support pawns, you can
-acquire <COL ffdc78>Rental Points</COL>.
-Rental Points can be allocated and returned to
-the main pawn as Job Points.
-By hiring more support pawns, let's encourage
-the growth of the main pawn.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,3,,Tutorial Text
+メインポーンの成長を促進させましょう","Wenn du Hilfspawns zurückschickst, erhältst du
+<COL ffdc78>Leihpunkte</COL>. Du kannst sie als Klassenpunkte
+an deine Hauptpawns vergeben. So kannst du
+sie durch das Anheuern weiterer Pawns stärken.",ui\00_message\tutorial_guide\steps\tutorial_guide_step126.gmd,\tguide\tutorial_guide_126.arc,tutorial_guide_126.arc,3,,Tutorial Text
 4,TUTORIAL_STEP_420,"また、特定の<OPCS>発動中はロストした
 メインポーンをリムストーンから直接救出
 できるようになります
@@ -244226,9 +244199,9 @@ accepting the quest.",ui\00_message\tutorial_guide\steps\tutorial_guide_step404.
 52,TUTORIAL_121,世界の探索,Exploring the World,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,52,,Tutorial Name
 53,TUTORIAL_122,ブラッドオーブの物々交換,Blood Orb Exchange,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,53,,Tutorial Name
 54,TUTORIAL_123,エリアマスター,Gebietsmeister,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,54,,Tutorial Name
-55,TUTORIAL_124,ポーンの基本成長,Basic Growth of a Pawn,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,55,,Tutorial Name
-56,TUTORIAL_125,ポーンとは,What Are Pawns?,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,56,,Tutorial Name
-57,TUTORIAL_126,ポーンの雇用と編成,Hiring and Organizing Pawns,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,57,,Tutorial Name
+55,TUTORIAL_124,ポーンの基本成長,Pawns weiterentwickeln,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,55,,Tutorial Name
+56,TUTORIAL_125,ポーンとは,Was sind Pawns?,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,56,,Tutorial Name
+57,TUTORIAL_126,ポーンの雇用と編成,Pawns anheuern und aufnehmen,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,57,,Tutorial Name
 58,TUTORIAL_128,ポーンの死亡と復活,Resurrecting Pawns,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,58,,Tutorial Name
 59,TUTORIAL_131,クラフトルーム,The Craft Room,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,59,,Tutorial Name
 60,TUTORIAL_132,アイテム生産の基本,Crafting Basic Items,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,60,,Tutorial Name
@@ -248641,17 +248614,17 @@ It seems to be one of the following items.",ui\00_message\ui\ItemJudge.gmd,\ui\u
 0,mai_msg_title_e,Area List,Gebietsliste,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,0,
 2,mai_msg_title_j,エリアリスト,Gebietsliste,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,2,
 6,mai_msg_weekly,今週の獲得AP,AP diese Woche,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,6,
-0,MenuCmdPawn_res_3854,Pawn Order,Pawn Order,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,0,
-1,MenuCmdPawn_res_3855,ポーン命令,Pawn Order,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,1,
-2,MenuCmdPawn_res_3856,Category,Category,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,2,
-3,MenuCmdPawn_res_3857,命令,Orders,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,3,
-4,MenuCmdPawn_res_3858,マクロ,Macro,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,4,
-5,MenuCmdPawn_res_3859,実行,Execute,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,5,
-6,MenuCmdPawn_res_3860,サブメニュー,Submenu,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,6,
-7,MenuCmdPawn_res_3861,ショートカット登録,Register Shortcut,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,7,
-8,MenuCmdPawn_res_3862,決定,Confirm,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,8,
-9,MenuCmdPawn_res_3863,キャンセル,Cancel,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,9,
-10,MenuCmdPawn_res_3864,（なし）,(None),ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,10,
+0,MenuCmdPawn_res_3854,Pawn Order,Pawn-Befehle,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,0,
+1,MenuCmdPawn_res_3855,ポーン命令,Pawn-Befehle,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,1,
+2,MenuCmdPawn_res_3856,Category,Kategorie,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,2,
+3,MenuCmdPawn_res_3857,命令,Befehle,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,3,
+4,MenuCmdPawn_res_3858,マクロ,Makro,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,4,
+5,MenuCmdPawn_res_3859,実行,Ausführen,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,5,
+6,MenuCmdPawn_res_3860,サブメニュー,Untermenü,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,6,
+7,MenuCmdPawn_res_3861,ショートカット登録,Kurzbefehl zuweisen,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,7,
+8,MenuCmdPawn_res_3862,決定,Bestätigen,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,8,
+9,MenuCmdPawn_res_3863,キャンセル,Abbrechen,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,9,
+10,MenuCmdPawn_res_3864,（なし）,(Keine),ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,10,
 36,mr_msg_contents_failed_break,コンテンツ中断/失敗,Exit Content/Failed,ui\00_message\ui\MissionResult_res.gmd,\ui\uGUIMissionResult.arc,uGUIMissionResult.arc,36,
 10,mr_msg_deathpenalty,死亡ペナルティ,Death penalty,ui\00_message\ui\MissionResult_res.gmd,\ui\uGUIMissionResult.arc,uGUIMissionResult.arc,10,
 2,mr_msg_element,項目,Item,ui\00_message\ui\MissionResult_res.gmd,\ui\uGUIMissionResult.arc,uGUIMissionResult.arc,2,
@@ -248852,45 +248825,45 @@ event.",ui\00_message\ui\Newspaper_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.a
 24,party_list_area_name,<NAME AREA>,<NAME AREA>,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,24,
 42,party_list_btn_dra_skill,ドラゴンアビリティ情報,Dragon Ability Information,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,42,
 18,party_list_clan,クラン,Clan,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,18,
-20,party_list_comment,コメント,Comment,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,20,
-31,party_list_count,冒険／クラフト残り回数,Adventure / Craft Left,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,31,
+20,party_list_comment,コメント,Kommentar,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,20,
+31,party_list_count,冒険／クラフト残り回数,Abenteuer / Fertigungen übrig,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,31,
 10,party_list_dissolution,パーティーを解散する,Disband,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,10,
-30,party_list_guide_switch,表示切り替え,Switch Display,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,30,
+30,party_list_guide_switch,表示切り替え,Ansicht wechseln,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,30,
 2,party_list_invite,パーティーへの招待がきています,You have been sent a party invite.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,2,
 29,party_list_inviting,（招待中）,(Pending),ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,29,
-15,party_list_job,ジョブレベル,Vocation LV.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,15,
-9,party_list_leave,パーティーから抜ける,Leave,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,9,
+15,party_list_job,ジョブレベル,Klassenstufe,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,15,
+9,party_list_leave,パーティーから抜ける,Gruppe verlassen,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,9,
 16,party_list_lobby,ワールド,World,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,16,
-17,party_list_location,Location,Location,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,17,
-33,party_list_main_pawn_count,契約状況：,Contracts:,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,33,
-4,party_list_member,パーティーメンバー,Party Members,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,4,
-5,party_list_mpawn,メインポーン,Main Pawns,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,5,
+17,party_list_location,Location,Standort,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,17,
+33,party_list_main_pawn_count,契約状況：,Paktschlüsse:,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,33,
+4,party_list_member,パーティーメンバー,Gruppenmitglieder,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,4,
+5,party_list_mpawn,メインポーン,Hauptpawns,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,5,
 14,party_list_name,名前,Name,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,14,
-35,party_list_notfound_main_pawn,ポーンと契約していません,You have not made a contract with any pawns,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,35,
+35,party_list_notfound_main_pawn,ポーンと契約していません,Du hast noch keinen Pakt mit einem Pawn geschlossen.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,35,
 28,party_list_notfound_party,参加出来るパーティーがありませんでした,There were no parties to join.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,28,
 27,party_list_notfound_player,要請を出せる相手がいませんでした,Couldn't find anyone to make a request to.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,27,
-36,party_list_notfound_support_pawn,ポーンを雇用していません,You have not hired any pawns,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,36,
-22,party_list_object,Object,Object,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,22,
+36,party_list_notfound_support_pawn,ポーンを雇用していません,Du hast keine Pawns angeheuert.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,36,
+22,party_list_object,Object,Eintrag,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,22,
 37,party_list_party_link,（合流中）,(Merging in progress),ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,37,
 23,party_list_pawn,Pawn,Pawn,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,23,
-32,party_list_pawn_joblv,ジョブ／クラフトレベル,Vocation / Craft Level,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,32,
+32,party_list_pawn_joblv,ジョブ／クラフトレベル,Klassen- / Handwerksstufe,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,32,
 41,party_list_pl_name_empty,(指定なし),(None),ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,41,
 7,party_list_pl_search,プレイヤー検索,Player Search,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,7,
 40,party_list_pl_search_notfound,一致する情報は見つかりませんでした,There were no results.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,40,
 39,party_list_pt_search,パーティー検索,Party Search,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,39,
 8,party_list_q_party,クイックパーティー,Quick Party,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,8,
 12,party_list_quickp_start,クイックパーティー開始,Start Quick Party,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,12,
-21,party_list_search,検索する,Search,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,21,
+21,party_list_search,検索する,Suchen,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,21,
 25,party_list_search_now,検索中です,Searching in progress,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,25,
 13,party_list_settings,設定の編集,Edit Settings,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,13,
 26,party_list_settings_err,条件を設定してください,Please enter search criteria.,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,26,
 38,party_list_simple_req_btn,簡易要請,Simple Request,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,38,
-6,party_list_spawn,サポートポーン,Support Pawns,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,6,
-19,party_list_state,状態,Status,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,19,
-11,party_list_submenu,サブメニュー,Submenu,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,11,
-34,party_list_support_pawn_count,雇用状況：,Contracts:,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,34,
+6,party_list_spawn,サポートポーン,Hilfspawns,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,6,
+19,party_list_state,状態,Zustand,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,19,
+11,party_list_submenu,サブメニュー,Untermenü,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,11,
+34,party_list_support_pawn_count,雇用状況：,Angeheuert:,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,34,
 3,party_list_time,<VAL>:<VAL>,<VAL>:<VAL>,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,3,
-0,party_list_title_en,Party List,Party List,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,0,
+0,party_list_title_en,Party List,Gruppenverwaltung,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,0,
 1,party_list_title_jp,パーティー管理, ,ui\00_message\ui\PartyList_res.gmd,\ui\uGUIPartyList.arc,uGUIPartyList.arc,1,
 1,pawnreviewedit_msg_battle_edit,冒険評価編集,Edit Combat Rating,ui\00_message\ui\PawnReviewEdit_res.gmd,\ui\uGUIPawnReviewEdit.arc,uGUIPawnReviewEdit.arc,1,
 4,pawnreviewedit_msg_cancel,キャンセル,Cancel,ui\00_message\ui\PawnReviewEdit_res.gmd,\ui\uGUIPawnReviewEdit.arc,uGUIPawnReviewEdit.arc,4,
@@ -248989,8 +248962,8 @@ a while.",ui\00_message\ui\Photo_Upload.gmd,\ui\uGUIPhotoUpload.arc,uGUIPhotoUpl
 22,pop_detail_shop_unlock_condition_3_3,(最終結果%d位),(Final result %d Rank),ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,22,
 4,pop_detail_status,Status,Status,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,4,
 10,pop_detail_target,目玉報酬,Featured Rewards,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,10,
-1,PopPartyMember_res_ButtonText,閉じる,Close,ui\00_message\ui\PopPartyMember_res.gmd,\ui\uGUIPopPartyMember.arc,uGUIPopPartyMember.arc,1,
-0,PopPartyMember_res_Title,パーティー詳細,Party List,ui\00_message\ui\PopPartyMember_res.gmd,\ui\uGUIPopPartyMember.arc,uGUIPopPartyMember.arc,0,
+1,PopPartyMember_res_ButtonText,閉じる,Schließen,ui\00_message\ui\PopPartyMember_res.gmd,\ui\uGUIPopPartyMember.arc,uGUIPopPartyMember.arc,1,
+0,PopPartyMember_res_Title,パーティー詳細,Gruppendetails,ui\00_message\ui\PopPartyMember_res.gmd,\ui\uGUIPopPartyMember.arc,uGUIPopPartyMember.arc,0,
 18,RIM_POP_MSG_BTN_SEARCH,検索する,Search,ui\00_message\ui\PopRimStone_res.gmd,\ui\uGUIPopRimStone.arc,uGUIPopRimStone.arc,18,,Pawn Search
 4,RIM_POP_MSG_CHARACTER_M_CHARACTER,性別,Gender,ui\00_message\ui\PopRimStone_res.gmd,\ui\uGUIPopRimStone.arc,uGUIPopRimStone.arc,4,,Pawn Search
 25,RIM_POP_MSG_CHARACTER_M_IR,アイテムランク指定,Specify Item Rank,ui\00_message\ui\PopRimStone_res.gmd,\ui\uGUIPopRimStone.arc,uGUIPopRimStone.arc,25,,Pawn Search
@@ -252013,8 +251986,8 @@ route)</COL>",ui\00_message\ui\bbi_situation_res.gmd,\ui\gui_game_mode_kokuju.ar
 2,EDIT_MSG_CATE_NAME,名前,Name,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,2,,
 10,EDIT_MSG_CATE_NOSE,鼻,Nase,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,10,,
 10,EDIT_MSG_CATE_NOSE,鼻,Nase,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,10,,
-17,EDIT_MSG_CATE_PERSONAL,口調,Personality,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,17,,
-17,EDIT_MSG_CATE_PERSONAL,口調,Personality,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,17,,
+17,EDIT_MSG_CATE_PERSONAL,口調,Persönlichkeit,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,17,,
+17,EDIT_MSG_CATE_PERSONAL,口調,Persönlichkeit,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,17,,
 4,EDIT_MSG_CATE_PRESET,デザイナープリセット,Vorlagen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,4,,
 4,EDIT_MSG_CATE_PRESET,デザイナープリセット,Vorlagen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,4,,
 5,EDIT_MSG_CATE_RANDOM,ランダム,Zufall,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,5,,
@@ -252023,8 +251996,8 @@ route)</COL>",ui\00_message\ui\bbi_situation_res.gmd,\ui\gui_game_mode_kokuju.ar
 3,EDIT_MSG_CATE_SEX,性別,Geschlecht,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,3,,
 16,EDIT_MSG_CATE_VOICE,声,Stimme,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,16,,
 16,EDIT_MSG_CATE_VOICE,声,Stimme,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,16,,
-18,EDIT_MSG_CATE_VOICE_FREQUENTLY,発言頻度,Speech Rate,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,18,,
-18,EDIT_MSG_CATE_VOICE_FREQUENTLY,発言頻度,Speech Rate,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,18,,
+18,EDIT_MSG_CATE_VOICE_FREQUENTLY,発言頻度,Sprechhäufigkeit,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,18,,
+18,EDIT_MSG_CATE_VOICE_FREQUENTLY,発言頻度,Sprechhäufigkeit,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,18,,
 40,EDIT_MSG_ERAHONE_HABA,エラ骨の幅,Kieferbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,40,,
 40,EDIT_MSG_ERAHONE_HABA,エラ骨の幅,Kieferbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,40,,
 39,EDIT_MSG_ERAHONE_UPDOWN,エラ骨の高さ,Kieferhöhe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,39,,
@@ -252055,8 +252028,8 @@ route)</COL>",ui\00_message\ui\bbi_situation_res.gmd,\ui\gui_game_mode_kokuju.ar
 113,EDIT_MSG_SUB_TITLE_NAME,Name,Name,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,113,,
 122,EDIT_MSG_SUB_TITLE_NOSE,Nose,Nase,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,122,,
 122,EDIT_MSG_SUB_TITLE_NOSE,Nose,Nase,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,122,,
-129,EDIT_MSG_SUB_TITLE_PERSONAL,Personality,Personality,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,129,,
-129,EDIT_MSG_SUB_TITLE_PERSONAL,Personality,Personality,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,129,,
+129,EDIT_MSG_SUB_TITLE_PERSONAL,Personality,Persönlichkeit,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,129,,
+129,EDIT_MSG_SUB_TITLE_PERSONAL,Personality,Persönlichkeit,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,129,,
 115,EDIT_MSG_SUB_TITLE_PRISET,Presets,Vorlagen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,115,,
 115,EDIT_MSG_SUB_TITLE_PRISET,Presets,Vorlagen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,115,,
 116,EDIT_MSG_SUB_TITLE_RANDOM,Random,Zufall,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,116,,
@@ -252065,16 +252038,16 @@ route)</COL>",ui\00_message\ui\bbi_situation_res.gmd,\ui\gui_game_mode_kokuju.ar
 114,EDIT_MSG_SUB_TITLE_SEX,Gender,Geschlecht,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,114,,
 128,EDIT_MSG_SUB_TITLE_VOICE,Voice,Stimme,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,128,,
 128,EDIT_MSG_SUB_TITLE_VOICE,Voice,Stimme,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,128,,
-130,EDIT_MSG_SUB_TITLE_VOICE_FREQUENTLY,Talk Frequency,Speech Rate,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,130,,
-130,EDIT_MSG_SUB_TITLE_VOICE_FREQUENTLY,Talk Frequency,Speech Rate,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,130,,
+130,EDIT_MSG_SUB_TITLE_VOICE_FREQUENTLY,Talk Frequency,Sprechhäufigkeit,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,130,,
+130,EDIT_MSG_SUB_TITLE_VOICE_FREQUENTLY,Talk Frequency,Sprechhäufigkeit,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,130,,
 135,EDIT_MSG_TITLE_BBI_PL_EDIT,Bitterblack Maze Player Edit,Bitterblack Maze Player Edit,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,135,,
 135,EDIT_MSG_TITLE_BBI_PL_EDIT,Bitterblack Maze Player Edit,Bitterblack Maze Player Edit,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,135,,
 131,EDIT_MSG_TITLE_BEAUTYSALON,Beauty Salon,Beauty Salon,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,131,,
 131,EDIT_MSG_TITLE_BEAUTYSALON,Beauty Salon,Beauty Salon,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,131,,
 134,EDIT_MSG_TITLE_PAWNREEDIT,Pawn Reincarnation,Pawn Reincarnation,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,134,,
 134,EDIT_MSG_TITLE_PAWNREEDIT,Pawn Reincarnation,Pawn Reincarnation,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,134,,
-1,EDIT_MSG_TITLE_PAWN_EDIT,Pawn Edit,Pawn Edit,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,1,,
-1,EDIT_MSG_TITLE_PAWN_EDIT,Pawn Edit,Pawn Edit,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,1,,
+1,EDIT_MSG_TITLE_PAWN_EDIT,Pawn Edit,Pawn erstellen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,1,,
+1,EDIT_MSG_TITLE_PAWN_EDIT,Pawn Edit,Pawn erstellen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,1,,
 136,EDIT_MSG_TITLE_PLAYERREEDIT,Player Reincarnation,Player Reincarnation,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,136,,
 136,EDIT_MSG_TITLE_PLAYERREEDIT,Player Reincarnation,Player Reincarnation,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,136,,
 0,EDIT_MSG_TITLE_PLAYER_EDIT,Player Edit,Charakter erstellen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,0,,
@@ -252131,22 +252104,22 @@ route)</COL>",ui\00_message\ui\bbi_situation_res.gmd,\ui\gui_game_mode_kokuju.ar
 83,EDIT_MSG_TYPE_FAT,肥満度,Körperfett,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,83,,
 93,EDIT_MSG_TYPE_FOOT_SIZE,足の大きさ,Fußgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,93,,
 93,EDIT_MSG_TYPE_FOOT_SIZE,足の大きさ,Fußgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,93,,
-105,EDIT_MSG_TYPE_FREQUENTLY_1,ぜんぜん喋らない,Never,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,105,,
-105,EDIT_MSG_TYPE_FREQUENTLY_1,ぜんぜん喋らない,Never,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,105,,
-106,EDIT_MSG_TYPE_FREQUENTLY_2,あまり喋らない,Rarely,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,106,,
-106,EDIT_MSG_TYPE_FREQUENTLY_2,あまり喋らない,Rarely,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,106,,
-107,EDIT_MSG_TYPE_FREQUENTLY_3,たまに喋る,Seldomly,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,107,,
-107,EDIT_MSG_TYPE_FREQUENTLY_3,たまに喋る,Seldomly,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,107,,
-108,EDIT_MSG_TYPE_FREQUENTLY_4,ときどき喋る,Occasionally,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,108,,
-108,EDIT_MSG_TYPE_FREQUENTLY_4,ときどき喋る,Occasionally,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,108,,
-109,EDIT_MSG_TYPE_FREQUENTLY_5,よく喋る,Sometimes,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,109,,
-109,EDIT_MSG_TYPE_FREQUENTLY_5,よく喋る,Sometimes,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,109,,
-110,EDIT_MSG_TYPE_FREQUENTLY_6,たいてい喋る,Frequently,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,110,,
-110,EDIT_MSG_TYPE_FREQUENTLY_6,たいてい喋る,Frequently,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,110,,
-111,EDIT_MSG_TYPE_FREQUENTLY_7,いつも喋る,Usually,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,111,,
-111,EDIT_MSG_TYPE_FREQUENTLY_7,いつも喋る,Usually,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,111,,
-112,EDIT_MSG_TYPE_FREQUENTLY_8,つねに喋る,Always,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,112,,
-112,EDIT_MSG_TYPE_FREQUENTLY_8,つねに喋る,Always,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,112,,
+105,EDIT_MSG_TYPE_FREQUENTLY_1,ぜんぜん喋らない,Nie,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,105,,
+105,EDIT_MSG_TYPE_FREQUENTLY_1,ぜんぜん喋らない,Nie,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,105,,
+106,EDIT_MSG_TYPE_FREQUENTLY_2,あまり喋らない,Kaum,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,106,,
+106,EDIT_MSG_TYPE_FREQUENTLY_2,あまり喋らない,Kaum,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,106,,
+107,EDIT_MSG_TYPE_FREQUENTLY_3,たまに喋る,Selten,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,107,,
+107,EDIT_MSG_TYPE_FREQUENTLY_3,たまに喋る,Selten,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,107,,
+108,EDIT_MSG_TYPE_FREQUENTLY_4,ときどき喋る,Gelegentlich,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,108,,
+108,EDIT_MSG_TYPE_FREQUENTLY_4,ときどき喋る,Gelegentlich,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,108,,
+109,EDIT_MSG_TYPE_FREQUENTLY_5,よく喋る,Oft,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,109,,
+109,EDIT_MSG_TYPE_FREQUENTLY_5,よく喋る,Oft,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,109,,
+110,EDIT_MSG_TYPE_FREQUENTLY_6,たいてい喋る,Sehr oft,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,110,,
+110,EDIT_MSG_TYPE_FREQUENTLY_6,たいてい喋る,Sehr oft,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,110,,
+111,EDIT_MSG_TYPE_FREQUENTLY_7,いつも喋る,Fast immer,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,111,,
+111,EDIT_MSG_TYPE_FREQUENTLY_7,いつも喋る,Fast immer,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,111,,
+112,EDIT_MSG_TYPE_FREQUENTLY_8,つねに喋る,Immer,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,112,,
+112,EDIT_MSG_TYPE_FREQUENTLY_8,つねに喋る,Immer,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,112,,
 33,EDIT_MSG_TYPE_HAIR_COLOR,髪のカラー,Haarfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,33,,
 33,EDIT_MSG_TYPE_HAIR_COLOR,髪のカラー,Haarfarbe,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,33,,
 79,EDIT_MSG_TYPE_HAIR_COLOR_ALL,毛髪全体のカラー,Haarfarbe gesamt,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,79,,
@@ -252413,20 +252386,20 @@ alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\u
 61,EDIT_MSG_TYPE_NOSE_POS_Y,鼻の位置,Nasenposition,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,61,,
 62,EDIT_MSG_TYPE_NOSE_SIZE_X,鼻の幅,Nasenbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,62,,
 62,EDIT_MSG_TYPE_NOSE_SIZE_X,鼻の幅,Nasenbreite,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,62,,
-99,EDIT_MSG_TYPE_PERSONAL_ACTIVE,アクティブ,Peppy,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,99,,
-99,EDIT_MSG_TYPE_PERSONAL_ACTIVE,アクティブ,Peppy,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,99,,
-101,EDIT_MSG_TYPE_PERSONAL_COOL,クール,Cool,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,101,,
-101,EDIT_MSG_TYPE_PERSONAL_COOL,クール,Cool,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,101,,
+99,EDIT_MSG_TYPE_PERSONAL_ACTIVE,アクティブ,Lebhaft,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,99,,
+99,EDIT_MSG_TYPE_PERSONAL_ACTIVE,アクティブ,Lebhaft,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,99,,
+101,EDIT_MSG_TYPE_PERSONAL_COOL,クール,Kühl,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,101,,
+101,EDIT_MSG_TYPE_PERSONAL_COOL,クール,Kühl,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,101,,
 97,EDIT_MSG_TYPE_PERSONAL_NORMAL,ノーマル,Normal,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,97,,
 97,EDIT_MSG_TYPE_PERSONAL_NORMAL,ノーマル,Normal,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,97,,
-102,EDIT_MSG_TYPE_PERSONAL_PURE,ピュア,Pure,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,102,,
-102,EDIT_MSG_TYPE_PERSONAL_PURE,ピュア,Pure,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,102,,
-104,EDIT_MSG_TYPE_PERSONAL_SEXY,セクシー,Sexy,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,104,,
-104,EDIT_MSG_TYPE_PERSONAL_SEXY,セクシー,Sexy,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,104,,
-98,EDIT_MSG_TYPE_PERSONAL_SHY,シャイ,Shy,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,98,,
-98,EDIT_MSG_TYPE_PERSONAL_SHY,シャイ,Shy,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,98,,
-100,EDIT_MSG_TYPE_PERSONAL_SMART,スマート,Smart,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,100,,
-100,EDIT_MSG_TYPE_PERSONAL_SMART,スマート,Smart,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,100,,
+102,EDIT_MSG_TYPE_PERSONAL_PURE,ピュア,Unbefangen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,102,,
+102,EDIT_MSG_TYPE_PERSONAL_PURE,ピュア,Unbefangen,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,102,,
+104,EDIT_MSG_TYPE_PERSONAL_SEXY,セクシー,Verführerisch,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,104,,
+104,EDIT_MSG_TYPE_PERSONAL_SEXY,セクシー,Verführerisch,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,104,,
+98,EDIT_MSG_TYPE_PERSONAL_SHY,シャイ,Schüchtern,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,98,,
+98,EDIT_MSG_TYPE_PERSONAL_SHY,シャイ,Schüchtern,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,98,,
+100,EDIT_MSG_TYPE_PERSONAL_SMART,スマート,Gewandt,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,100,,
+100,EDIT_MSG_TYPE_PERSONAL_SMART,スマート,Gewandt,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,100,,
 103,EDIT_MSG_TYPE_PERSONAL_WILD,ワイルド,Wild,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,103,,
 103,EDIT_MSG_TYPE_PERSONAL_WILD,ワイルド,Wild,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,103,,
 76,EDIT_MSG_TYPE_SCAR_PARTS,傷/その他のパーツ,Narben und Details,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,76,,
@@ -253500,9 +253473,9 @@ additional features.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISav
 8,EDIT_MSG_GUIDE_NOSE,鼻のパーツや位置等を設定します,Nasenform und Position einstellen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,8,
 8,EDIT_MSG_GUIDE_NOSE,鼻のパーツや位置等を設定します,Nasenform und Position einstellen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,8,
 8,EDIT_MSG_GUIDE_NOSE,鼻のパーツや位置等を設定します,Nasenform und Position einstellen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,8,
-15,EDIT_MSG_GUIDE_PERSONAL,口調を設定します,Set personality,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,15,
-15,EDIT_MSG_GUIDE_PERSONAL,口調を設定します,Set personality,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,15,
-15,EDIT_MSG_GUIDE_PERSONAL,口調を設定します,Set personality,ui\00_message\ui\character_edit_help.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,15,
+15,EDIT_MSG_GUIDE_PERSONAL,口調を設定します,Persönlichkeit wählen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,15,
+15,EDIT_MSG_GUIDE_PERSONAL,口調を設定します,Persönlichkeit wählen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,15,
+15,EDIT_MSG_GUIDE_PERSONAL,口調を設定します,Persönlichkeit wählen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,15,
 2,EDIT_MSG_GUIDE_PRESET,プリセットを選択できます,Vorlage wählen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,2,
 2,EDIT_MSG_GUIDE_PRESET,プリセットを選択できます,Vorlage wählen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,2,
 2,EDIT_MSG_GUIDE_PRESET,プリセットを選択できます,Vorlage wählen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,2,
@@ -253515,17 +253488,17 @@ additional features.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISav
 14,EDIT_MSG_GUIDE_VOICE,声を設定します,Stimme wählen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,14,
 14,EDIT_MSG_GUIDE_VOICE,声を設定します,Stimme wählen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,14,
 14,EDIT_MSG_GUIDE_VOICE,声を設定します,Stimme wählen,ui\00_message\ui\character_edit_help.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,14,
-16,EDIT_MSG_GUIDE_VOICE_FREQUENTLY,発言頻度を設定します,Set speech rate,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,16,
-16,EDIT_MSG_GUIDE_VOICE_FREQUENTLY,発言頻度を設定します,Set speech rate,ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,16,
-16,EDIT_MSG_GUIDE_VOICE_FREQUENTLY,発言頻度を設定します,Set speech rate,ui\00_message\ui\character_edit_help.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,16,
+16,EDIT_MSG_GUIDE_VOICE_FREQUENTLY,発言頻度を設定します,"Festlegen, wie oft der Pawn spricht",ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,16,
+16,EDIT_MSG_GUIDE_VOICE_FREQUENTLY,発言頻度を設定します,"Festlegen, wie oft der Pawn spricht",ui\00_message\ui\character_edit_help.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,16,
+16,EDIT_MSG_GUIDE_VOICE_FREQUENTLY,発言頻度を設定します,"Festlegen, wie oft der Pawn spricht",ui\00_message\ui\character_edit_help.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,16,
 11,EDIT_MSG_DIALOG_CARD_PAWN,"ポーンの貸し出し制限を設定してください
-(リムストーンのメニューからいつでも変更できます)","Please set the pawn's rental limitations.
-(This can be changed anytime from a Riftstone)",ui\00_message\ui\character_edit_job.gmd,\ui\uGUICharacterEditPopCard.arc,uGUICharacterEditPopCard.arc,11,
+(リムストーンのメニューからいつでも変更できます)","Wer darf deinen Pawn ausleihen?
+(Das lässt sich jederzeit am Riftstein ändern.)",ui\00_message\ui\character_edit_job.gmd,\ui\uGUICharacterEditPopCard.arc,uGUICharacterEditPopCard.arc,11,
 11,EDIT_MSG_DIALOG_CARD_PAWN,"ポーンの貸し出し制限を設定してください
-(リムストーンのメニューからいつでも変更できます)","Please set the pawn's rental limitations.
-(This can be changed anytime from a Riftstone)",ui\00_message\ui\character_edit_job.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,11,
-12,EDIT_MSG_DIALOG_CARD_PAWNSEARCH,ポーン検索の公開範囲を設定してください,Please set the visibility of pawn search.,ui\00_message\ui\character_edit_job.gmd,\ui\uGUICharacterEditPopCard.arc,uGUICharacterEditPopCard.arc,12,
-12,EDIT_MSG_DIALOG_CARD_PAWNSEARCH,ポーン検索の公開範囲を設定してください,Please set the visibility of pawn search.,ui\00_message\ui\character_edit_job.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,12,
+(リムストーンのメニューからいつでも変更できます)","Wer darf deinen Pawn ausleihen?
+(Das lässt sich jederzeit am Riftstein ändern.)",ui\00_message\ui\character_edit_job.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,11,
+12,EDIT_MSG_DIALOG_CARD_PAWNSEARCH,ポーン検索の公開範囲を設定してください,Wer darf deinen Pawn über die Suche finden?,ui\00_message\ui\character_edit_job.gmd,\ui\uGUICharacterEditPopCard.arc,uGUICharacterEditPopCard.arc,12,
+12,EDIT_MSG_DIALOG_CARD_PAWNSEARCH,ポーン検索の公開範囲を設定してください,Wer darf deinen Pawn über die Suche finden?,ui\00_message\ui\character_edit_job.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,12,
 10,EDIT_MSG_DIALOG_CARD_PL,"覚者プロフィールの公開範囲を設定してください
 (ゲーム設定の通知・公開設定でいつでも変更できます)","Wer darf das Profil sehen?
 (Das lässt sich jederzeit in den Einstellungen
@@ -256973,7 +256946,7 @@ to receive all reward items.",ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInf
 20,menu_gp_status,オンラインステーション,Online Station,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,20,,Game Menu
 62,menu_infdelivery_event,大口納品イベント,Large Delivery Event,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,62,,Game Menu
 0,menu_item,アイテムバッグ,Gegenstandstasche,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Game Menu
-1,menu_key_item,キーアイテム,Key Items,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Game Menu
+1,menu_key_item,キーアイテム,Schlüsselgegenstände,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Game Menu
 18,menu_license,ライセンス,License,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,18,,Game Menu
 8,menu_lobby,ロビー情報,Lobby Information,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,Game Menu
 39,menu_login_bonus,スタンプボーナス確認,Check Stamp Bonus,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,39,,Game Menu
@@ -256987,14 +256960,14 @@ to receive all reward items.",ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInf
 3,menu_newspaper,レスタニアニュース,Lestania News,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,Game Menu
 34,menu_option_chr,ゲーム設定,Game Config,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,34,,Game Menu
 15,menu_option_sys,デバイス設定,System Config,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,15,,Game Menu
-10,menu_party,パーティー管理,Party Management,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Game Menu
+10,menu_party,パーティー管理,Gruppenverwaltung,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Game Menu
 57,menu_partyboard,募集掲示板,Recruitment Board,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,57,,Game Menu
 58,menu_partyboard_dialog,パーティー募集掲示板のカテゴリを選択してください,"Please select
 Party Recruitment Board category.",ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,58,,Game Menu
 66,menu_partyboard_select,パーティー募集掲示板,Party Recruitment Board,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,66,,Game Menu
 59,menu_partyboard_type01,パーティー募集掲示板を開く,Open Party Recruitment Board,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,59,,Game Menu
 29,menu_pawn,ポーン,Pawns,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,29,,Game Menu
-30,menu_pawn_command,ポーン命令,Pawn Order,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,30,,Game Menu
+30,menu_pawn_command,ポーン命令,Pawn-Befehle,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,30,,Game Menu
 13,menu_photo,フォトモード,Photo Mode,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,13,,Game Menu
 37,menu_photo_album,フォトアルバム,Photo Albums,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,37,,Game Menu
 60,menu_pq_history,サブストーリーログ,Substory Log,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,60,,Game Menu
@@ -258727,7 +258700,7 @@ Valid input: letters, numbers, and these symbols:
 56,myroom_mandragora_4A0_6_dialog,名前を変更しました,Name changed.,ui\00_message\ui\myroom.gmd,\MyRoom.arc,MyRoom.arc,56,,Private Room
 4,myroom_menu_partner_reset,パートナーポーンの解除,Dismiss Partner Pawn,ui\00_message\ui\myroom.gmd,\MyRoom.arc,MyRoom.arc,4,,Private Room
 8,myroom_menu_partner_reset_error,リワードがあるときは解除できません,Cannot be deactivated when there is a reward,ui\00_message\ui\myroom.gmd,\MyRoom.arc,MyRoom.arc,8,,Private Room
-1,myroom_menu_party,パーティー管理,Party Management,ui\00_message\ui\myroom.gmd,\MyRoom.arc,MyRoom.arc,1,,Private Room
+1,myroom_menu_party,パーティー管理,Gruppenverwaltung,ui\00_message\ui\myroom.gmd,\MyRoom.arc,MyRoom.arc,1,,Private Room
 10,myroom_menu_pawn_quest,お願いを聞く,Grant Request,ui\00_message\ui\myroom.gmd,\MyRoom.arc,MyRoom.arc,10,,Private Room
 15,myroom_menu_pawn_quest_clear,思い出話,Reminisce,ui\00_message\ui\myroom.gmd,\MyRoom.arc,MyRoom.arc,15,,Private Room
 3,myroom_menu_present,プレゼントをあげる,Give Present,ui\00_message\ui\myroom.gmd,\MyRoom.arc,MyRoom.arc,3,,Private Room
@@ -260136,13 +260109,13 @@ the Pawn Expedition Corps.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuff
 50,pawn_fb_03_016,がんばってね,"Do your best, OK?",ui\00_message\ui\pawn_feedback_comment.gmd,\ui\menu_cmn.arc,menu_cmn.arc,50,,Pawn Grading
 2,pawn_fb_03_comment,<VAL>さんのポーンと協力してクラフトをがんばった,<VAL> crafted with the pawn.,ui\00_message\ui\pawn_feedback_comment.gmd,\ui\menu_cmn.arc,menu_cmn.arc,2,,Pawn Grading
 0,pawn_personality_1,ノーマル,Normal,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,0,,Pawn Personality
-1,pawn_personality_2,シャイ,Shy,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,1,,Pawn Personality
-2,pawn_personality_3,アクティブ,Peppy,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,2,,Pawn Personality
-3,pawn_personality_4,スマート,Smart,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,3,,Pawn Personality
-4,pawn_personality_5,クール,Cool,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,4,,Pawn Personality
-5,pawn_personality_6,ピュア,Pure,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,5,,Pawn Personality
+1,pawn_personality_2,シャイ,Schüchtern,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,1,,Pawn Personality
+2,pawn_personality_3,アクティブ,Lebhaft,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,2,,Pawn Personality
+3,pawn_personality_4,スマート,Gewandt,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,3,,Pawn Personality
+4,pawn_personality_5,クール,Kühl,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,4,,Pawn Personality
+5,pawn_personality_6,ピュア,Unbefangen,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,5,,Pawn Personality
 6,pawn_personality_7,ワイルド,Wild,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,6,,Pawn Personality
-7,pawn_personality_8,セクシー,Sexy,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,7,,Pawn Personality
+7,pawn_personality_8,セクシー,Verführerisch,ui\00_message\ui\pawn_personality.gmd,\ui\menu_cmn.arc,menu_cmn.arc,7,,Pawn Personality
 11,PAWNREACTION_MSG_BUTTON_CANCEL,キャンセル,Cancel,ui\00_message\ui\pawn_reaction.gmd,\ui\uGUIPopPawnList.arc,uGUIPopPawnList.arc,11,
 10,PAWNREACTION_MSG_BUTTON_DECIDE,決定,Confirm,ui\00_message\ui\pawn_reaction.gmd,\ui\uGUIPopPawnList.arc,uGUIPopPawnList.arc,10,
 9,PAWNREACTION_MSG_CAPTION_CHARACTAR,口調：,Pers.:,ui\00_message\ui\pawn_reaction.gmd,\ui\uGUIPopPawnList.arc,uGUIPopPawnList.arc,9,
@@ -260163,11 +260136,11 @@ the Pawn Expedition Corps.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuff
 3,PAWN_SHARE_RANGE_RES_FRIEND_CRAN_ONLY,フレンドとクランのみ,Freunde und Clan,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,3,
 1,PAWN_SHARE_RANGE_RES_FRIEND_ONLY,フレンドのみ,Nur Freunde,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,1,
 4,PAWN_SHARE_RANGE_RES_NOBODY,非公開,Privat,ui\00_message\ui\pawn_share_range_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,4,
-3,PAWN_STATUS_RES_CRAFT,クラフト中,Crafting,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,3,
-4,PAWN_STATUS_RES_EXPEDITION,遠征中,Expedition,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,4,
-2,PAWN_STATUS_RES_LOST,ロスト中,Lost,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,2,
-1,PAWN_STATUS_RES_NONE,待機,Standby,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,1,
-0,PAWN_STATUS_RES_PARTY,パーティー中,Party Members,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,0,
+3,PAWN_STATUS_RES_CRAFT,クラフト中,Fertigt an,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,3,
+4,PAWN_STATUS_RES_EXPEDITION,遠征中,Auf Expedition,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,4,
+2,PAWN_STATUS_RES_LOST,ロスト中,Verloren,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,2,
+1,PAWN_STATUS_RES_NONE,待機,Bereit,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,1,
+0,PAWN_STATUS_RES_PARTY,パーティー中,In Gruppe,ui\00_message\ui\pawn_status_res.gmd,\ui\menu_cmn.arc,menu_cmn.arc,0,
 11,photo_frame_title_en,フレーム選択,Select Frame,ui\00_message\ui\photo.gmd,\ui\uGUIPhoto.arc,uGUIPhoto.arc,11,
 10,photo_frame_title_jp,Photo Frame,Photo Frame,ui\00_message\ui\photo.gmd,\ui\uGUIPhoto.arc,uGUIPhoto.arc,10,
 7,photo_guide_album_num,アルバム保存枚数,No. of albums saved,ui\00_message\ui\photo.gmd,\ui\uGUIPhoto.arc,uGUIPhoto.arc,7,
@@ -260659,15 +260632,15 @@ the items.",ui\00_message\ui\pick_res.gmd,\ui\uGUIPick01.arc,uGUIPick01.arc,7,
 32,poptop_member_info,パーティーメンバー確認,Check Party Members,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,32,
 32,poptop_member_info,パーティーメンバー確認,Check Party Members,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,32,
 32,poptop_member_info,パーティーメンバー確認,Check Party Members,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,32,
-50,poptop_party_en,Party,Party Members,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,50,
-50,poptop_party_en,Party,Party Members,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,50,
-50,poptop_party_en,Party,Party Members,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,50,
-49,poptop_party_jp,パーティー管理,Party Management,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,49,
-49,poptop_party_jp,パーティー管理,Party Management,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,49,
-49,poptop_party_jp,パーティー管理,Party Management,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,49,
-30,poptop_pawn_join,ポーンを入れる,Invite Pawn,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,30,
-30,poptop_pawn_join,ポーンを入れる,Invite Pawn,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,30,
-30,poptop_pawn_join,ポーンを入れる,Invite Pawn,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,30,
+50,poptop_party_en,Party,Gruppenmitglieder,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,50,
+50,poptop_party_en,Party,Gruppenmitglieder,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,50,
+50,poptop_party_en,Party,Gruppenmitglieder,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,50,
+49,poptop_party_jp,パーティー管理,Gruppenverwaltung,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,49,
+49,poptop_party_jp,パーティー管理,Gruppenverwaltung,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,49,
+49,poptop_party_jp,パーティー管理,Gruppenverwaltung,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,49,
+30,poptop_pawn_join,ポーンを入れる,Pawn aufnehmen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,30,
+30,poptop_pawn_join,ポーンを入れる,Pawn aufnehmen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,30,
+30,poptop_pawn_join,ポーンを入れる,Pawn aufnehmen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,30,
 31,poptop_player_search,パーティー検索,Party Search,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,31,
 31,poptop_player_search,パーティー検索,Party Search,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,31,
 31,poptop_player_search,パーティー検索,Party Search,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,31,
@@ -260701,15 +260674,15 @@ the items.",ui\00_message\ui\pick_res.gmd,\ui\uGUIPick01.arc,uGUIPick01.arc,7,
 71,poptop_rim_stone_lost_pawn,ポーンの救出,Lost Pawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,71,
 71,poptop_rim_stone_lost_pawn,ポーンの救出,Lost Pawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,71,
 71,poptop_rim_stone_lost_pawn,ポーンの救出,Lost Pawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,71,
-18,poptop_rim_stone_main_pawn,メインポーン,Main Pawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,18,
-18,poptop_rim_stone_main_pawn,メインポーン,Main Pawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,18,
-18,poptop_rim_stone_main_pawn,メインポーン,Main Pawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,18,
-19,poptop_rim_stone_pawn_search,ポーン検索,Pawn Search,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,19,
-19,poptop_rim_stone_pawn_search,ポーン検索,Pawn Search,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,19,
-19,poptop_rim_stone_pawn_search,ポーン検索,Pawn Search,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,19,
-17,poptop_rim_stone_support_pawn,サポートポーン,Support Pawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,17,
-17,poptop_rim_stone_support_pawn,サポートポーン,Support Pawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,17,
-17,poptop_rim_stone_support_pawn,サポートポーン,Support Pawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,17,
+18,poptop_rim_stone_main_pawn,メインポーン,Hauptpawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,18,
+18,poptop_rim_stone_main_pawn,メインポーン,Hauptpawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,18,
+18,poptop_rim_stone_main_pawn,メインポーン,Hauptpawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,18,
+19,poptop_rim_stone_pawn_search,ポーン検索,Pawn-Suche,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,19,
+19,poptop_rim_stone_pawn_search,ポーン検索,Pawn-Suche,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,19,
+19,poptop_rim_stone_pawn_search,ポーン検索,Pawn-Suche,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,19,
+17,poptop_rim_stone_support_pawn,サポートポーン,Hilfspawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,17,
+17,poptop_rim_stone_support_pawn,サポートポーン,Hilfspawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,17,
+17,poptop_rim_stone_support_pawn,サポートポーン,Hilfspawns,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,17,
 51,poptop_scout,スカウト,Scout,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,51,
 51,poptop_scout,スカウト,Scout,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,51,
 51,poptop_scout,スカウト,Scout,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,51,
@@ -261325,7 +261298,7 @@ for the selected job",ui\00_message\ui\shop.gmd,\ui\uGUIShopBuy.arc,uGUIShopBuy.
 35,shop_title_quest_board_sub,クエストボード, ,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,35,,NPC Function Name
 27,shop_title_revival_recover,Revival Recover,Revival Recover,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,27,,NPC Function Name
 28,shop_title_revival_recover_sub,復活力の回復, ,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,28,,NPC Function Name
-31,shop_title_rim_stone,Rim Stone,Riftstone,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,31,,NPC Function Name
+31,shop_title_rim_stone,Rim Stone,Riftstein,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,31,,NPC Function Name
 0,shop_title_rim_stone_sub,リムストーン, ,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,NPC Function Name
 17,shop_title_shop,Shop,Shop,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,17,,NPC Function Name
 18,shop_title_shop_sub,ショップ, ,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,18,,NPC Function Name
@@ -261913,7 +261886,7 @@ and cannot earn any more.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_c
 176,syslog_item_deliver,<NAME ITEM>を<VAL>個、納品しました,<NAME ITEM> x<VAL> has been delivered.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,176,,System Chatbox Text
 142,syslog_item_error,アイテムの処理に失敗しました,Item failed to process.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,142,,System Chatbox Text
 139,syslog_item_fortify,<NAME ITEM>を強化しました,<NAME ITEM> has been enhanced.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,139,,System Chatbox Text
-133,syslog_item_get,<NAME ITEM>を<VAL>個、獲得しました,<NAME ITEM> x<VAL> obtained.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,133,,System Chatbox Text
+133,syslog_item_get,<NAME ITEM>を<VAL>個、獲得しました,<NAME ITEM> ×<VAL> erhalten.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,133,,System Chatbox Text
 255,syslog_item_get_send_itempost,<NAME ITEM>を<VAL>個、アイテムポストに送りました,<NAME ITEM> x<VAL> sent to Item Post.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,255,,System Chatbox Text
 341,syslog_item_lockset,アイテムをセーフティ設定しました,Item safety setting enabled.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,341,,System Chatbox Text
 342,syslog_item_lockset_off,アイテムのセーフティ設定を解除しました,Item safety setting disabled.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,342,,System Chatbox Text
@@ -262012,7 +261985,7 @@ can now do Tactics Training.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gu
 17,syslog_party_declined,<NAME TARGET>へのパーティー要請がキャンセルされました,"<NAME TARGET> 
 has declined your party request.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,17,,System Chatbox Text
 19,syslog_party_join_me,<NAME TARGET>のパーティーに加わりました,You joined <NAME TARGET>'s party.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,19,,System Chatbox Text
-21,syslog_party_join_pawn,<NAME PAWN>がパーティーに加わりました,<NAME PAWN> has joined the party.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,21,,System Chatbox Text
+21,syslog_party_join_pawn,<NAME PAWN>がパーティーに加わりました,<NAME PAWN> ist der Gruppe beigetreten.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,21,,System Chatbox Text
 20,syslog_party_join_someone,<NAME TARGET>がパーティーに加わりました,<NAME TARGET> has joined the party.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,20,,System Chatbox Text
 152,syslog_party_kicked,パーティーからはずれました,You have been kicked from the party.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,152,,System Chatbox Text
 22,syslog_party_leave_me,パーティーから抜けました,You have left the party.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,22,,System Chatbox Text
