@@ -57031,17 +57031,17 @@ various situations.",ui\00_message\common\job_info.gmd,\ui\uGUISkill.arc,uGUISki
 1,LIGHT_QUEST_PURPOSE_1002,<LQIM>を入手：<VAL> / <VAL>,Obtain <LQIM>: <VAL> / <VAL>,ui\00_message\common\light_quest_purpose.gmd,\game_common.arc,game_common.arc,1,
 2,LIGHT_QUEST_PURPOSE_1006,<LQIM>を納品,<LQIM> is ready to be delivered.,ui\00_message\common\light_quest_purpose.gmd,\game_common.arc,game_common.arc,2,
 0,ORDER_CONDITION_988,無し,None,ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,0,,Quest Requirement
-1,ORDER_CONDITION_989,全ジョブのいずれかがジョブレベル<QCND 0>以上,Level <QCND 0> in any vocation,ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,1,,Quest Requirement
+1,ORDER_CONDITION_989,全ジョブのいずれかがジョブレベル<QCND 0>以上,Stufe <QCND 0> in einer beliebigen Klasse,ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,1,,Quest Requirement
 9,ORDER_CONDITION_993,<QCND 0>のエリアランク<QCND 1>以上,Area rank for <QCND 0> at least <QCND 1>,ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,9,,Quest Requirement
 2,ORDER_CONDITION_994,ジョブ限定：<QCND 0>のジョブレベル<QCND 1>以上,"Vocation restriction: <QCND 0>, at least level
 <QCND 1>",ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,2,,Quest Requirement
-3,ORDER_CONDITION_995,パーティープレイ不可（ポーン同行不可）,No party members (pawns not allowed),ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,3,,Quest Requirement
+3,ORDER_CONDITION_995,パーティープレイ不可（ポーン同行不可）,"Allein, ohne Vasallen",ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,3,,Quest Requirement
 4,ORDER_CONDITION_996,無し,None,ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,4,,Quest Requirement
 5,ORDER_CONDITION_997,無し,None,ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,5,,Quest Requirement
-6,ORDER_CONDITION_998,メインクエスト＜<QCND 0>＞をクリア,Clear Main Quest [<QCND 0>],ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,6,,Quest Requirement
-7,ORDER_CONDITION_999,パーソナルクエスト＜<QCND 0>＞をクリア,Clear Personal Quest [<QCND 0>],ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,7,,Quest Requirement
+6,ORDER_CONDITION_998,メインクエスト＜<QCND 0>＞をクリア,Hauptquest [<QCND 0>] abschließen,ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,6,,Quest Requirement
+7,ORDER_CONDITION_999,パーソナルクエスト＜<QCND 0>＞をクリア,Pers. Quest [<QCND 0>] abschließen,ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,7,,Quest Requirement
 8,ORDER_CONDITION_1000,エクストリームミッション [<QCND 0>] をクリア,Clear Extreme Mission [<QCND 0>],ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,8,,Quest Requirement
-10,ORDER_CONDITION_1003,パーティープレイ不可（ポーン同行可）,No party members (pawns allowed),ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,10,,Quest Requirement
+10,ORDER_CONDITION_1003,パーティープレイ不可（ポーン同行可）,"Allein, Vasallen erlaubt",ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,10,,Quest Requirement
 11,ORDER_CONDITION_1004,白竜神殿レンテンから覚者の戦術試練を学ぶ,"Learn about the Arisen's tactics trial from
 Renton in the White Dragon Temple",ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,11,,Quest Requirement
 12,ORDER_CONDITION_1005,イリスから十分な装備の準備方法について学ぶ,Learn how to prepare adequate equipment from Iris,ui\00_message\common\order_condition.gmd,\game_common.arc,game_common.arc,12,,Quest Requirement
@@ -68996,8 +68996,8 @@ Do you want to begin gathering party?",ui\00_message\examine_message\common\comm
 リーダーアクションがなければ
 この先へは進めません","The door is closed.
 Cannot proceed without the leader.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,57,,Generic Examine
-0,,いいえ,No,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,37,,Generic Examine
-0,,いいえ,No,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,40,,Generic Examine
+0,,いいえ,Nein,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,37,,Generic Examine
+0,,いいえ,Nein,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,40,,Generic Examine
 0,,いいえ,No,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,56,,Generic Examine
 0,,いいえ,No,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,63,,Generic Examine
 0,,いいえ（パーティー招集中止）,No (stop gathering party),ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,60,,Generic Examine
@@ -69008,49 +69008,44 @@ Form a party with other Arisen.",ui\00_message\examine_message\common\common_exa
 0,,すでに息絶えている――,Out of breath...,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,15,,Generic Examine
 0,,どこからか剣戟の音が聞こえる――,"I can hear the sound of sword fighting
 coming from somewhere.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,102,,Generic Examine
-0,,はい,Yes,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,36,,Generic Examine
-0,,はい,Yes,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,39,,Generic Examine
+0,,はい,Ja,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,36,,Generic Examine
+0,,はい,Ja,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,39,,Generic Examine
 0,,はい,Yes,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,55,,Generic Examine
 0,,はい,Yes,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,59,,Generic Examine
 0,,はい,Yes,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,62,,Generic Examine
 0,,やめる,Quit,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,22,,Generic Examine
 0,,"イベントを進行しますか？
-※パーティー要請中の場合はキャンセルされます","Are you sure you want to proceed
-with the event?
-※ If there is a party request,
-it will be canceled.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,28,,Generic Examine
+※パーティー要請中の場合はキャンセルされます","Mit dem Ereignis fortfahren?
+Eine laufende Gruppenanfrage
+wird dabei abgebrochen.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,28,,Generic Examine
 0,,"イベントを進行しますか？
-※パーティー要請中の場合はキャンセルされます","Are you sure you want to proceed
-with the event?
-※ If there is a party request,
-it will be canceled.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,90,,Generic Examine
-0,,イベント進行はリーダーのみ可能です,Only the party leader can progress the event.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,31,,Generic Examine
+※パーティー要請中の場合はキャンセルされます","Mit dem Ereignis fortfahren?
+Eine laufende Gruppenanfrage
+wird dabei abgebrochen.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,90,,Generic Examine
+0,,イベント進行はリーダーのみ可能です,Nur die Gruppenleitung kann fortfahren.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,31,,Generic Examine
 0,,"イベント進行待機に入ります
-準備はよろしいですか？","You will begin waiting to progress the event.
-Are you sure you are ready?",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,35,,Generic Examine
-0,,イベント進行確認,Confirm Event Progress,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,32,,Generic Examine
-0,,イベント進行確認,Confirm Event Progress,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,42,,Generic Examine
-0,,イベント進行確認,Confirm Event Progress,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,46,,Generic Examine
-0,,イベント進行確認,Confirm Event Progress,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,93,,Generic Examine
+準備はよろしいですか？",Auf den Start des Ereignisses warten?,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,35,,Generic Examine
+0,,イベント進行確認,Ereignis fortsetzen?,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,32,,Generic Examine
+0,,イベント進行確認,Ereignis fortsetzen?,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,42,,Generic Examine
+0,,イベント進行確認,Ereignis fortsetzen?,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,46,,Generic Examine
+0,,イベント進行確認,Ereignis fortsetzen?,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,93,,Generic Examine
 0,,"イベント進行確認
-（全メンバーの準備完了を待ちます）","Confirm Event Progress
-(Wait for all party members to be ready)",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,50,,Generic Examine
+（全メンバーの準備完了を待ちます）","Ereignis fortsetzen?
+Warte, bis alle bereit sind.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,50,,Generic Examine
 0,,エリアマスターにより封鎖されている――,It is blocked by the Area Master.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,8,,Generic Examine
-0,,キャンセル,Cancel,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,30,,Generic Examine
-0,,キャンセル,Cancel,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,34,,Generic Examine
-0,,キャンセル,Cancel,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,45,,Generic Examine
-0,,キャンセル,Cancel,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,49,,Generic Examine
-0,,キャンセル,Cancel,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,52,,Generic Examine
-0,,キャンセル,Cancel,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,92,,Generic Examine
-0,,キャンセル,Cancel,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,96,,Generic Examine
+0,,キャンセル,Abbrechen,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,30,,Generic Examine
+0,,キャンセル,Abbrechen,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,34,,Generic Examine
+0,,キャンセル,Abbrechen,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,45,,Generic Examine
+0,,キャンセル,Abbrechen,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,49,,Generic Examine
+0,,キャンセル,Abbrechen,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,52,,Generic Examine
+0,,キャンセル,Abbrechen,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,92,,Generic Examine
+0,,キャンセル,Abbrechen,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,96,,Generic Examine
 0,,ハントターゲットを発見した！,Hunt target found!,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,109,,Generic Examine
 0,,ハントターゲットを討伐した！,Hunt target subjugated!,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,106,,Generic Examine
 0,,"パーティー全員が集まり、準備完了したら
-進行マーカーに触れてください","Gather the party if you are ready.
-Please touch the progress marker.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,27,,Generic Examine
+進行マーカーに触れてください","Berühre die Markierung, sobald alle bereit sind.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,27,,Generic Examine
 0,,"パーティー全員が集合するまで
-サークル内で待機してください","Please wait in the circle
-until the entire party is ready.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,25,,Generic Examine
+サークル内で待機してください","Warte im Kreis, bis alle da sind.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,25,,Generic Examine
 0,,ボーナスターゲットを発見した！,Bonus target found!,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,110,,Generic Examine
 0,,ボーナスターゲットを討伐した！,Bonus target subjugated!,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,107,,Generic Examine
 0,,"メインクエストが進行可能になりました
@@ -69058,9 +69053,8 @@ until the entire party is ready.",ui\00_message\examine_message\common\common_ex
 Once you break up the party,
 please talk to Travers.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,112,,Generic Examine
 0,,"メンバーが集合するまで
-サークル内で待機してください","Until the party members are ready,
-please wait in the circle.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,41,,Generic Examine
-0,,リーダーが進行準備・パーティー招集を行いました,Leader has begun a progress preparation.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,26,,Generic Examine
+サークル内で待機してください","Warte im Kreis, bis alle da sind.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,41,,Generic Examine
+0,,リーダーが進行準備・パーティー招集を行いました,Die Gruppenleitung hat die Vorbereitung gestartet.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,26,,Generic Examine
 0,,レジスタンスに新たな仲間が加わった！,A new friend joins the resistance!,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,103,,Generic Examine
 0,,レバーがある,There is a lever.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,0,,Generic Examine
 0,,"一人、またはポーンのみを連れて
@@ -69080,7 +69074,7 @@ It seems to lead towards its den.",ui\00_message\examine_message\common\common_e
 0,,引かない,Don't Pull,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,3,,Generic Examine
 0,,引きますか,Pull the lever?,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,1,,Generic Examine
 0,,引く,Pull,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,2,,Generic Examine
-0,,待機を解除しますか？,Are you sure you want to cancel waiting?,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,38,,Generic Examine
+0,,待機を解除しますか？,Warten abbrechen?,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,38,,Generic Examine
 0,,憲兵が見張っている――この先には行けなさそうだ,"The Military Police are on the lookout.
 I don't think we can go any further.",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,99,,Generic Examine
 0,,扉には鍵がかかっている――,The door is locked,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,4,,Generic Examine
@@ -69098,15 +69092,15 @@ Unlikely to be opened.",ui\00_message\examine_message\common\common_examine.gmd,
 0,,新たな証拠品を手に入れた！,Got a new piece of evidence!,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,97,,Generic Examine
 0,,残り時間が追加されました,Remaining time added,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,66,,Generic Examine
 0,,汚染植物が出現――！,Infected plants have appeared!,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,79,,Generic Examine
-0,,準備完了、待機,Ready and waiting.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,47,,Generic Examine
-0,,準備完了！　待機してください,Ready! Please wait.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,24,,Generic Examine
-0,,準備完了！　進行マーカーに触れてください,Ready! Please touch the progress marker.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,23,,Generic Examine
-0,,準備解除,Cancel Preparation,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,95,,Generic Examine
-0,,準備解除（パーティー招集中止）,Disband (stop gathering party),ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,44,,Generic Examine
-0,,準備解除（パーティー招集中止）,Disband (stop gathering party),ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,48,,Generic Examine
-0,,準備解除（パーティー招集中止）,Disband (stop gathering party),ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,51,,Generic Examine
-0,,準備開始,Start Preparation,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,91,,Generic Examine
-0,,準備開始（パーティー招集）,Prepare (begin gathering party),ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,29,,Generic Examine
+0,,準備完了、待機,Bereit und wartet,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,47,,Generic Examine
+0,,準備完了！　待機してください,Bereit! Bitte warte.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,24,,Generic Examine
+0,,準備完了！　進行マーカーに触れてください,Bereit! Berühre die Markierung.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,23,,Generic Examine
+0,,準備解除,Vorbereitung abbrechen,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,95,,Generic Examine
+0,,準備解除（パーティー招集中止）,Gruppenruf abbrechen,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,44,,Generic Examine
+0,,準備解除（パーティー招集中止）,Gruppenruf abbrechen,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,48,,Generic Examine
+0,,準備解除（パーティー招集中止）,Gruppenruf abbrechen,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,51,,Generic Examine
+0,,準備開始,Vorbereitung starten,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,91,,Generic Examine
+0,,準備開始（パーティー招集）,Gruppe versammeln,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,29,,Generic Examine
 0,,特に気になるものはない,Nothing of interest here.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,16,,Generic Examine
 0,,"特定のコンテンツ中は
 この先に移動できません","You cannot move beyond this point
@@ -69122,9 +69116,9 @@ Bonus reward is added!",ui\00_message\examine_message\common\common_examine.gmd,
 0,,諜報任務が進行した――,The espionage mission progressed...,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,105,,Generic Examine
 0,,諜報活動領域外へ移動したため、クエストを終了しました,"Quest ended due to moving out of the espionage
 activity area",ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,104,,Generic Examine
-0,,進行する,Proceed,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,33,,Generic Examine
-0,,進行する,Proceed,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,43,,Generic Examine
-0,,進行する,Proceed,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,94,,Generic Examine
+0,,進行する,Fortfahren,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,33,,Generic Examine
+0,,進行する,Fortfahren,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,43,,Generic Examine
+0,,進行する,Fortfahren,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,94,,Generic Examine
 0,,遠くから悲鳴が聞こえた――,Heard a scream in the distance.,ui\00_message\examine_message\common\common_examine.gmd,\game_common.arc,game_common.arc,101,,Generic Examine
 0,,"鍵がかかっている――
 解放には<COL ffdc78>《宝飾の鍵》</COL>が必要だ","It's locked—
@@ -116795,9 +116789,9 @@ Mist",ui\00_message\npc\npc_class_name.gmd,\npc\npc_common.arc,npc_common.arc,21
 0,,エメラダ,Emerada,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,1066,,NPC Name
 0,,メイリーフ,Mayleaf,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,1067,,NPC Name
 0,,アデルドナハ,Adair Donnchadh,ui\00_message\npc\npc_name.gmd,\npc\npc_common.arc,npc_common.arc,1068,,NPC Name
-0,NPC_TALK_ITEM_1,世間話,Chat,ui\00_message\npc_talk\talk_item.gmd,\game_common.arc,game_common.arc,0,,NPC Talk Option
-1,NPC_TALK_ITEM_2,クエスト情報,Quest Information,ui\00_message\npc_talk\talk_item.gmd,\game_common.arc,game_common.arc,1,,NPC Talk Option
-2,NPC_TALK_ITEM_3,耳より情報,Gossip,ui\00_message\npc_talk\talk_item.gmd,\game_common.arc,game_common.arc,2,,NPC Talk Option
+0,NPC_TALK_ITEM_1,世間話,Plaudern,ui\00_message\npc_talk\talk_item.gmd,\game_common.arc,game_common.arc,0,,NPC Talk Option
+1,NPC_TALK_ITEM_2,クエスト情報,Questinfos,ui\00_message\npc_talk\talk_item.gmd,\game_common.arc,game_common.arc,1,,NPC Talk Option
+2,NPC_TALK_ITEM_3,耳より情報,Hinweise,ui\00_message\npc_talk\talk_item.gmd,\game_common.arc,game_common.arc,2,,NPC Talk Option
 3,NPC_TALK_ITEM_4,ウォーミッション情報,War Mission Information,ui\00_message\npc_talk\talk_item.gmd,\game_common.arc,game_common.arc,3,,NPC Talk Option
 4,NPC_TALK_ITEM_14,依頼を受ける,Accept Request,ui\00_message\npc_talk\talk_item.gmd,\game_common.arc,game_common.arc,4,,NPC Talk Option
 5,NPC_TALK_ITEM_15,詳細を聞く,Let's hear the details,ui\00_message\npc_talk\talk_item.gmd,\game_common.arc,game_common.arc,5,,NPC Talk Option
@@ -252430,18 +252424,18 @@ alle anderen werden kleingeschrieben.",ui\00_message\ui\character_edit.gmd,\ui\u
 77,EDIT_MSG_TYPE_WRINKLE,しわの量,Faltenstärke,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,77,,
 90,EDIT_MSG_TYPE_WRIST_SIZE,手の大きさ,Handgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,90,,
 90,EDIT_MSG_TYPE_WRIST_SIZE,手の大きさ,Handgröße,ui\00_message\ui\character_edit.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,90,,
-10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Load,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,10,,
-10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Load,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,10,,
-10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Load,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,10,,
-10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Load,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,10,,
-10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Load,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,10,,
-10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Load,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,10,,
+10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Laden,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,10,,
+10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Laden,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,10,,
+10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Laden,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,10,,
+10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Laden,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,10,,
+10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Laden,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,10,,
+10,EDIT_MSG_DIALOG_CHOICE_LOAD,ロード,Laden,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,10,,
 9,EDIT_MSG_DIALOG_CHOICE_SAVE,セーブ,Speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,9,,
-9,EDIT_MSG_DIALOG_CHOICE_SAVE,セーブ,Save,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,9,,
-9,EDIT_MSG_DIALOG_CHOICE_SAVE,セーブ,Save,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,9,,
-9,EDIT_MSG_DIALOG_CHOICE_SAVE,セーブ,Save,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,9,,
-9,EDIT_MSG_DIALOG_CHOICE_SAVE,セーブ,Save,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,9,,
-9,EDIT_MSG_DIALOG_CHOICE_SAVE,セーブ,Save,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,9,,
+9,EDIT_MSG_DIALOG_CHOICE_SAVE,セーブ,Speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,9,,
+9,EDIT_MSG_DIALOG_CHOICE_SAVE,セーブ,Speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,9,,
+9,EDIT_MSG_DIALOG_CHOICE_SAVE,セーブ,Speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,9,,
+9,EDIT_MSG_DIALOG_CHOICE_SAVE,セーブ,Speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,9,,
+9,EDIT_MSG_DIALOG_CHOICE_SAVE,セーブ,Speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,9,,
 11,EDIT_MSG_DIALOG_EDIT_CANCEL,"エディットを終了して
 前の画面に戻りますか？","Editor verlassen und zum
 vorherigen Bildschirm zurückkehren?",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,11,,
@@ -252533,47 +252527,41 @@ Do you wish to proceed?
 Do you wish to proceed?
 (Have you saved the edit information?)",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,54,
 20,EDIT_MSG_DIALOG_ERROR_LOAD_NG_DATA,"ロードしたエディットデータは
-破損しているため使用できません","Loaded edit data cannot be used because it is
-corrupted",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,20,
+破損しているため使用できません",Die Vorlage ist beschädigt.,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,20,
 20,EDIT_MSG_DIALOG_ERROR_LOAD_NG_DATA,"ロードしたエディットデータは
-破損しているため使用できません","Loaded edit data cannot be used because it is
-corrupted",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,20,
+破損しているため使用できません",Die Vorlage ist beschädigt.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,20,
 20,EDIT_MSG_DIALOG_ERROR_LOAD_NG_DATA,"ロードしたエディットデータは
-破損しているため使用できません","Loaded edit data cannot be used because it is
-corrupted",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,20,
+破損しているため使用できません",Die Vorlage ist beschädigt.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,20,
 20,EDIT_MSG_DIALOG_ERROR_LOAD_NG_DATA,"ロードしたエディットデータは
-破損しているため使用できません","Loaded edit data cannot be used because it is
-corrupted",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,20,
+破損しているため使用できません",Die Vorlage ist beschädigt.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,20,
 20,EDIT_MSG_DIALOG_ERROR_LOAD_NG_DATA,"ロードしたエディットデータは
-破損しているため使用できません","Loaded edit data cannot be used because it is
-corrupted",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,20,
+破損しているため使用できません",Die Vorlage ist beschädigt.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,20,
 20,EDIT_MSG_DIALOG_ERROR_LOAD_NG_DATA,"ロードしたエディットデータは
-破損しているため使用できません","Loaded edit data cannot be used because it is
-corrupted",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,20,
+破損しているため使用できません",Die Vorlage ist beschädigt.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,20,
 22,EDIT_MSG_DIALOG_ERROR_LOAD_NG_SEX,"ロードしたエディットデータは
 設定している性別と異なるため
-使用できません","The loaded edit data is different from the gender
-set and cannot be used",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,22,
+使用できません","Die Vorlage hat ein anderes Geschlecht
+und kann nicht geladen werden.",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,22,
 22,EDIT_MSG_DIALOG_ERROR_LOAD_NG_SEX,"ロードしたエディットデータは
 設定している性別と異なるため
-使用できません","The loaded edit data is different from the gender
-set and cannot be used",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,22,
+使用できません","Die Vorlage hat ein anderes Geschlecht
+und kann nicht geladen werden.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,22,
 22,EDIT_MSG_DIALOG_ERROR_LOAD_NG_SEX,"ロードしたエディットデータは
 設定している性別と異なるため
-使用できません","The loaded edit data is different from the gender
-set and cannot be used",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,22,
+使用できません","Die Vorlage hat ein anderes Geschlecht
+und kann nicht geladen werden.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,22,
 22,EDIT_MSG_DIALOG_ERROR_LOAD_NG_SEX,"ロードしたエディットデータは
 設定している性別と異なるため
-使用できません","The loaded edit data is different from the gender
-set and cannot be used",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,22,
+使用できません","Die Vorlage hat ein anderes Geschlecht
+und kann nicht geladen werden.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,22,
 22,EDIT_MSG_DIALOG_ERROR_LOAD_NG_SEX,"ロードしたエディットデータは
 設定している性別と異なるため
-使用できません","The loaded edit data is different from the gender
-set and cannot be used",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,22,
+使用できません","Die Vorlage hat ein anderes Geschlecht
+und kann nicht geladen werden.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,22,
 22,EDIT_MSG_DIALOG_ERROR_LOAD_NG_SEX,"ロードしたエディットデータは
 設定している性別と異なるため
-使用できません","The loaded edit data is different from the gender
-set and cannot be used",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,22,
+使用できません","Die Vorlage hat ein anderes Geschlecht
+und kann nicht geladen werden.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,22,
 23,EDIT_MSG_DIALOG_ERROR_NAME_EMPTY,"名前が決定していません
 名前を使用可能の状態にしてください",Bitte einen Namen eingeben.,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,23,
 23,EDIT_MSG_DIALOG_ERROR_NAME_EMPTY,"名前が決定していません
@@ -252668,328 +252656,316 @@ restore the default
 appear.)",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,53,
 19,EDIT_MSG_DIALOG_LOAD_OVERWRITE,"ロードしたエディット情報を
 今のモデルに
-適用してもよろしいですか？","Are you sure you wish to apply the loaded edit
-information to your current model?",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,19,
+適用してもよろしいですか？",Geladene Vorlage übernehmen?,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,19,
 19,EDIT_MSG_DIALOG_LOAD_OVERWRITE,"ロードしたエディット情報を
 今のモデルに
-適用してもよろしいですか？","Are you sure you wish to apply the loaded edit
-information to your current model?",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,19,
+適用してもよろしいですか？",Geladene Vorlage übernehmen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,19,
 19,EDIT_MSG_DIALOG_LOAD_OVERWRITE,"ロードしたエディット情報を
 今のモデルに
-適用してもよろしいですか？","Are you sure you wish to apply the loaded edit
-information to your current model?",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,19,
+適用してもよろしいですか？",Geladene Vorlage übernehmen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,19,
 19,EDIT_MSG_DIALOG_LOAD_OVERWRITE,"ロードしたエディット情報を
 今のモデルに
-適用してもよろしいですか？","Are you sure you wish to apply the loaded edit
-information to your current model?",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,19,
+適用してもよろしいですか？",Geladene Vorlage übernehmen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,19,
 19,EDIT_MSG_DIALOG_LOAD_OVERWRITE,"ロードしたエディット情報を
 今のモデルに
-適用してもよろしいですか？","Are you sure you wish to apply the loaded edit
-information to your current model?",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,19,
+適用してもよろしいですか？",Geladene Vorlage übernehmen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,19,
 19,EDIT_MSG_DIALOG_LOAD_OVERWRITE,"ロードしたエディット情報を
 今のモデルに
-適用してもよろしいですか？","Are you sure you wish to apply the loaded edit
-information to your current model?",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,19,
+適用してもよろしいですか？",Geladene Vorlage übernehmen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,19,
 21,EDIT_MSG_DIALOG_LOAD_OVERWRITE_AT,"ロードしたエディットデータは
 設定できない項目が含まれているため
-使用できません","Loaded edit data cannot be used
-because it contains items that cannot be set",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,21,
+使用できません","Die Vorlage enthält Optionen,
+die du nicht verwenden kannst.",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,21,
 21,EDIT_MSG_DIALOG_LOAD_OVERWRITE_AT,"ロードしたエディットデータは
 設定できない項目が含まれているため
-使用できません","Loaded edit data cannot be used
-because it contains items that cannot be set",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,21,
+使用できません","Die Vorlage enthält Optionen,
+die du nicht verwenden kannst.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,21,
 21,EDIT_MSG_DIALOG_LOAD_OVERWRITE_AT,"ロードしたエディットデータは
 設定できない項目が含まれているため
-使用できません","Loaded edit data cannot be used
-because it contains items that cannot be set",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,21,
+使用できません","Die Vorlage enthält Optionen,
+die du nicht verwenden kannst.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,21,
 21,EDIT_MSG_DIALOG_LOAD_OVERWRITE_AT,"ロードしたエディットデータは
 設定できない項目が含まれているため
-使用できません","Loaded edit data cannot be used
-because it contains items that cannot be set",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,21,
+使用できません","Die Vorlage enthält Optionen,
+die du nicht verwenden kannst.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,21,
 21,EDIT_MSG_DIALOG_LOAD_OVERWRITE_AT,"ロードしたエディットデータは
 設定できない項目が含まれているため
-使用できません","Loaded edit data cannot be used
-because it contains items that cannot be set",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,21,
+使用できません","Die Vorlage enthält Optionen,
+die du nicht verwenden kannst.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,21,
 21,EDIT_MSG_DIALOG_LOAD_OVERWRITE_AT,"ロードしたエディットデータは
 設定できない項目が含まれているため
-使用できません","Loaded edit data cannot be used
-because it contains items that cannot be set",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,21,
-48,EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA,ロードをキャンセルしますか？,Are you sure you want to cancel the load?,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,48,
-48,EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA,ロードをキャンセルしますか？,Are you sure you want to cancel the load?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,48,
-48,EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA,ロードをキャンセルしますか？,Are you sure you want to cancel the load?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,48,
-48,EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA,ロードをキャンセルしますか？,Are you sure you want to cancel the load?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,48,
-48,EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA,ロードをキャンセルしますか？,Are you sure you want to cancel the load?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,48,
-48,EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA,ロードをキャンセルしますか？,Are you sure you want to cancel the load?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,48,
-49,EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA,セーブをキャンセルしますか？,Are you sure you want to cancel the save?,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,49,
-49,EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA,セーブをキャンセルしますか？,Are you sure you want to cancel the save?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,49,
-49,EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA,セーブをキャンセルしますか？,Are you sure you want to cancel the save?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,49,
-49,EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA,セーブをキャンセルしますか？,Are you sure you want to cancel the save?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,49,
-49,EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA,セーブをキャンセルしますか？,Are you sure you want to cancel the save?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,49,
-49,EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA,セーブをキャンセルしますか？,Are you sure you want to cancel the save?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,49,
-41,EDIT_MSG_DIALOG_PC_DELETE_DATA,セーブデータを削除してもよろしいですか？,Are you sure you want to delete your saved data?,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,41,
-41,EDIT_MSG_DIALOG_PC_DELETE_DATA,セーブデータを削除してもよろしいですか？,Are you sure you want to delete your saved data?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,41,
-41,EDIT_MSG_DIALOG_PC_DELETE_DATA,セーブデータを削除してもよろしいですか？,Are you sure you want to delete your saved data?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,41,
-41,EDIT_MSG_DIALOG_PC_DELETE_DATA,セーブデータを削除してもよろしいですか？,Are you sure you want to delete your saved data?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,41,
-41,EDIT_MSG_DIALOG_PC_DELETE_DATA,セーブデータを削除してもよろしいですか？,Are you sure you want to delete your saved data?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,41,
-41,EDIT_MSG_DIALOG_PC_DELETE_DATA,セーブデータを削除してもよろしいですか？,Are you sure you want to delete your saved data?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,41,
-43,EDIT_MSG_DIALOG_PC_DELETE_FINISH,削除しました,Deleted successfully,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,43,
-43,EDIT_MSG_DIALOG_PC_DELETE_FINISH,削除しました,Deleted successfully,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,43,
-43,EDIT_MSG_DIALOG_PC_DELETE_FINISH,削除しました,Deleted successfully,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,43,
-43,EDIT_MSG_DIALOG_PC_DELETE_FINISH,削除しました,Deleted successfully,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,43,
-43,EDIT_MSG_DIALOG_PC_DELETE_FINISH,削除しました,Deleted successfully,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,43,
-43,EDIT_MSG_DIALOG_PC_DELETE_FINISH,削除しました,Deleted successfully,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,43,
+使用できません","Die Vorlage enthält Optionen,
+die du nicht verwenden kannst.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,21,
+48,EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA,ロードをキャンセルしますか？,Laden abbrechen?,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,48,
+48,EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA,ロードをキャンセルしますか？,Laden abbrechen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,48,
+48,EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA,ロードをキャンセルしますか？,Laden abbrechen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,48,
+48,EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA,ロードをキャンセルしますか？,Laden abbrechen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,48,
+48,EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA,ロードをキャンセルしますか？,Laden abbrechen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,48,
+48,EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA,ロードをキャンセルしますか？,Laden abbrechen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,48,
+49,EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA,セーブをキャンセルしますか？,Speichern abbrechen?,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,49,
+49,EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA,セーブをキャンセルしますか？,Speichern abbrechen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,49,
+49,EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA,セーブをキャンセルしますか？,Speichern abbrechen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,49,
+49,EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA,セーブをキャンセルしますか？,Speichern abbrechen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,49,
+49,EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA,セーブをキャンセルしますか？,Speichern abbrechen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,49,
+49,EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA,セーブをキャンセルしますか？,Speichern abbrechen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,49,
+41,EDIT_MSG_DIALOG_PC_DELETE_DATA,セーブデータを削除してもよろしいですか？,Diese Vorlage löschen?,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,41,
+41,EDIT_MSG_DIALOG_PC_DELETE_DATA,セーブデータを削除してもよろしいですか？,Diese Vorlage löschen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,41,
+41,EDIT_MSG_DIALOG_PC_DELETE_DATA,セーブデータを削除してもよろしいですか？,Diese Vorlage löschen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,41,
+41,EDIT_MSG_DIALOG_PC_DELETE_DATA,セーブデータを削除してもよろしいですか？,Diese Vorlage löschen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,41,
+41,EDIT_MSG_DIALOG_PC_DELETE_DATA,セーブデータを削除してもよろしいですか？,Diese Vorlage löschen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,41,
+41,EDIT_MSG_DIALOG_PC_DELETE_DATA,セーブデータを削除してもよろしいですか？,Diese Vorlage löschen?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,41,
+43,EDIT_MSG_DIALOG_PC_DELETE_FINISH,削除しました,Vorlage gelöscht,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,43,
+43,EDIT_MSG_DIALOG_PC_DELETE_FINISH,削除しました,Vorlage gelöscht,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,43,
+43,EDIT_MSG_DIALOG_PC_DELETE_FINISH,削除しました,Vorlage gelöscht,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,43,
+43,EDIT_MSG_DIALOG_PC_DELETE_FINISH,削除しました,Vorlage gelöscht,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,43,
+43,EDIT_MSG_DIALOG_PC_DELETE_FINISH,削除しました,Vorlage gelöscht,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,43,
+43,EDIT_MSG_DIALOG_PC_DELETE_FINISH,削除しました,Vorlage gelöscht,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,43,
 42,EDIT_MSG_DIALOG_PC_DELETING,"削除しています
 PC本体の電源を
-切らないでください","Deleting
-Do not turn off the PC itself",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,42,
+切らないでください","Löschen läuft.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,42,
 42,EDIT_MSG_DIALOG_PC_DELETING,"削除しています
 PC本体の電源を
-切らないでください","Deleting
-Do not turn off the PC itself",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,42,
+切らないでください","Löschen läuft.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,42,
 42,EDIT_MSG_DIALOG_PC_DELETING,"削除しています
 PC本体の電源を
-切らないでください","Deleting
-Do not turn off the PC itself",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,42,
+切らないでください","Löschen läuft.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,42,
 42,EDIT_MSG_DIALOG_PC_DELETING,"削除しています
 PC本体の電源を
-切らないでください","Deleting
-Do not turn off the PC itself",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,42,
+切らないでください","Löschen läuft.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,42,
 42,EDIT_MSG_DIALOG_PC_DELETING,"削除しています
 PC本体の電源を
-切らないでください","Deleting
-Do not turn off the PC itself",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,42,
+切らないでください","Löschen läuft.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,42,
 42,EDIT_MSG_DIALOG_PC_DELETING,"削除しています
 PC本体の電源を
-切らないでください","Deleting
-Do not turn off the PC itself",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,42,
+切らないでください","Löschen läuft.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,42,
 44,EDIT_MSG_DIALOG_PC_ERROR_DELETE_FAILED,"セーブデータの削除に
-失敗しました",Deletion of saved data failed,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,44,
+失敗しました",Löschen fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,44,
 44,EDIT_MSG_DIALOG_PC_ERROR_DELETE_FAILED,"セーブデータの削除に
-失敗しました",Deletion of saved data failed,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,44,
+失敗しました",Löschen fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,44,
 44,EDIT_MSG_DIALOG_PC_ERROR_DELETE_FAILED,"セーブデータの削除に
-失敗しました",Deletion of saved data failed,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,44,
+失敗しました",Löschen fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,44,
 44,EDIT_MSG_DIALOG_PC_ERROR_DELETE_FAILED,"セーブデータの削除に
-失敗しました",Deletion of saved data failed,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,44,
+失敗しました",Löschen fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,44,
 44,EDIT_MSG_DIALOG_PC_ERROR_DELETE_FAILED,"セーブデータの削除に
-失敗しました",Deletion of saved data failed,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,44,
+失敗しました",Löschen fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,44,
 44,EDIT_MSG_DIALOG_PC_ERROR_DELETE_FAILED,"セーブデータの削除に
-失敗しました",Deletion of saved data failed,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,44,
+失敗しました",Löschen fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,44,
 35,EDIT_MSG_DIALOG_PC_ERROR_HDD_NOSPACE,"記憶デバイスの
 空き容量が不足しています
-空き容量を確保してください","Insufficient free space on storage device
-Please free up space",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,35,
+空き容量を確保してください","Zu wenig Speicherplatz.
+Gib Speicherplatz frei.",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,35,
 35,EDIT_MSG_DIALOG_PC_ERROR_HDD_NOSPACE,"記憶デバイスの
 空き容量が不足しています
-空き容量を確保してください","Insufficient free space on storage device
-Please free up space",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,35,
+空き容量を確保してください","Zu wenig Speicherplatz.
+Gib Speicherplatz frei.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,35,
 35,EDIT_MSG_DIALOG_PC_ERROR_HDD_NOSPACE,"記憶デバイスの
 空き容量が不足しています
-空き容量を確保してください","Insufficient free space on storage device
-Please free up space",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,35,
+空き容量を確保してください","Zu wenig Speicherplatz.
+Gib Speicherplatz frei.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,35,
 35,EDIT_MSG_DIALOG_PC_ERROR_HDD_NOSPACE,"記憶デバイスの
 空き容量が不足しています
-空き容量を確保してください","Insufficient free space on storage device
-Please free up space",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,35,
+空き容量を確保してください","Zu wenig Speicherplatz.
+Gib Speicherplatz frei.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,35,
 35,EDIT_MSG_DIALOG_PC_ERROR_HDD_NOSPACE,"記憶デバイスの
 空き容量が不足しています
-空き容量を確保してください","Insufficient free space on storage device
-Please free up space",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,35,
+空き容量を確保してください","Zu wenig Speicherplatz.
+Gib Speicherplatz frei.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,35,
 35,EDIT_MSG_DIALOG_PC_ERROR_HDD_NOSPACE,"記憶デバイスの
 空き容量が不足しています
-空き容量を確保してください","Insufficient free space on storage device
-Please free up space",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,35,
+空き容量を確保してください","Zu wenig Speicherplatz.
+Gib Speicherplatz frei.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,35,
 39,EDIT_MSG_DIALOG_PC_ERROR_LOAD_CRASH_DATA,"セーブデータが破損しているため
-ロードできません",Unable to load due to corrupted save data,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,39,
+ロードできません",Die Vorlage ist beschädigt.,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,39,
 39,EDIT_MSG_DIALOG_PC_ERROR_LOAD_CRASH_DATA,"セーブデータが破損しているため
-ロードできません",Unable to load due to corrupted save data,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,39,
+ロードできません",Die Vorlage ist beschädigt.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,39,
 39,EDIT_MSG_DIALOG_PC_ERROR_LOAD_CRASH_DATA,"セーブデータが破損しているため
-ロードできません",Unable to load due to corrupted save data,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,39,
+ロードできません",Die Vorlage ist beschädigt.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,39,
 39,EDIT_MSG_DIALOG_PC_ERROR_LOAD_CRASH_DATA,"セーブデータが破損しているため
-ロードできません",Unable to load due to corrupted save data,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,39,
+ロードできません",Die Vorlage ist beschädigt.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,39,
 39,EDIT_MSG_DIALOG_PC_ERROR_LOAD_CRASH_DATA,"セーブデータが破損しているため
-ロードできません",Unable to load due to corrupted save data,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,39,
+ロードできません",Die Vorlage ist beschädigt.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,39,
 39,EDIT_MSG_DIALOG_PC_ERROR_LOAD_CRASH_DATA,"セーブデータが破損しているため
-ロードできません",Unable to load due to corrupted save data,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,39,
+ロードできません",Die Vorlage ist beschädigt.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,39,
 40,EDIT_MSG_DIALOG_PC_ERROR_LOAD_FAILED,"セーブデータのロードに
-失敗しました",Loading saved data failed,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,40,
+失敗しました",Laden fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,40,
 40,EDIT_MSG_DIALOG_PC_ERROR_LOAD_FAILED,"セーブデータのロードに
-失敗しました",Loading saved data failed,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,40,
+失敗しました",Laden fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,40,
 40,EDIT_MSG_DIALOG_PC_ERROR_LOAD_FAILED,"セーブデータのロードに
-失敗しました",Loading saved data failed,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,40,
+失敗しました",Laden fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,40,
 40,EDIT_MSG_DIALOG_PC_ERROR_LOAD_FAILED,"セーブデータのロードに
-失敗しました",Loading saved data failed,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,40,
+失敗しました",Laden fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,40,
 40,EDIT_MSG_DIALOG_PC_ERROR_LOAD_FAILED,"セーブデータのロードに
-失敗しました",Loading saved data failed,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,40,
+失敗しました",Laden fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,40,
 40,EDIT_MSG_DIALOG_PC_ERROR_LOAD_FAILED,"セーブデータのロードに
-失敗しました",Loading saved data failed,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,40,
+失敗しました",Laden fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,40,
 36,EDIT_MSG_DIALOG_PC_ERROR_SAVE_FAILED,"セーブデータの保存に
-失敗しました",Failed to save.,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,36,
+失敗しました",Speichern fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,36,
 36,EDIT_MSG_DIALOG_PC_ERROR_SAVE_FAILED,"セーブデータの保存に
-失敗しました",Failed to save.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,36,
+失敗しました",Speichern fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,36,
 36,EDIT_MSG_DIALOG_PC_ERROR_SAVE_FAILED,"セーブデータの保存に
-失敗しました",Failed to save.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,36,
+失敗しました",Speichern fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,36,
 36,EDIT_MSG_DIALOG_PC_ERROR_SAVE_FAILED,"セーブデータの保存に
-失敗しました",Failed to save.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,36,
+失敗しました",Speichern fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,36,
 36,EDIT_MSG_DIALOG_PC_ERROR_SAVE_FAILED,"セーブデータの保存に
-失敗しました",Failed to save.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,36,
+失敗しました",Speichern fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,36,
 36,EDIT_MSG_DIALOG_PC_ERROR_SAVE_FAILED,"セーブデータの保存に
-失敗しました",Failed to save.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,36,
+失敗しました",Speichern fehlgeschlagen.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,36,
 37,EDIT_MSG_DIALOG_PC_LOADING,"ロードしています
 PC本体の電源を
-切らないでください","Loading
-Do not turn off the power to the PC",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,37,
+切らないでください","Lade Vorlage.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,37,
 37,EDIT_MSG_DIALOG_PC_LOADING,"ロードしています
 PC本体の電源を
-切らないでください","Loading
-Do not turn off the power to the PC",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,37,
+切らないでください","Lade Vorlage.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,37,
 37,EDIT_MSG_DIALOG_PC_LOADING,"ロードしています
 PC本体の電源を
-切らないでください","Loading
-Do not turn off the power to the PC",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,37,
+切らないでください","Lade Vorlage.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,37,
 37,EDIT_MSG_DIALOG_PC_LOADING,"ロードしています
 PC本体の電源を
-切らないでください","Loading
-Do not turn off the power to the PC",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,37,
+切らないでください","Lade Vorlage.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,37,
 37,EDIT_MSG_DIALOG_PC_LOADING,"ロードしています
 PC本体の電源を
-切らないでください","Loading
-Do not turn off the power to the PC",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,37,
+切らないでください","Lade Vorlage.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,37,
 37,EDIT_MSG_DIALOG_PC_LOADING,"ロードしています
 PC本体の電源を
-切らないでください","Loading
-Do not turn off the power to the PC",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,37,
-38,EDIT_MSG_DIALOG_PC_LOAD_FINISH,ロードが終了しました,Loading Complete,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,38,
-38,EDIT_MSG_DIALOG_PC_LOAD_FINISH,ロードが終了しました,Loading Complete,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,38,
-38,EDIT_MSG_DIALOG_PC_LOAD_FINISH,ロードが終了しました,Loading Complete,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,38,
-38,EDIT_MSG_DIALOG_PC_LOAD_FINISH,ロードが終了しました,Loading Complete,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,38,
-38,EDIT_MSG_DIALOG_PC_LOAD_FINISH,ロードが終了しました,Loading Complete,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,38,
-38,EDIT_MSG_DIALOG_PC_LOAD_FINISH,ロードが終了しました,Loading Complete,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,38,
-29,EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR,作成者,Author,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,29,
-29,EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR,作成者,Author,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,29,
-29,EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR,作成者,Author,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,29,
-29,EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR,作成者,Author,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,29,
-29,EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR,作成者,Author,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,29,
-29,EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR,作成者,Author,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,29,
-31,EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT,コメント,Comment,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,31,
-31,EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT,コメント,Comment,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,31,
-31,EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT,コメント,Comment,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,31,
-31,EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT,コメント,Comment,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,31,
-31,EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT,コメント,Comment,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,31,
-31,EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT,コメント,Comment,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,31,
-28,EDIT_MSG_DIALOG_PC_SAVEDATA_DATE,作成日時,Creation Time,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,28,
-28,EDIT_MSG_DIALOG_PC_SAVEDATA_DATE,作成日時,Creation Time,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,28,
-28,EDIT_MSG_DIALOG_PC_SAVEDATA_DATE,作成日時,Creation Time,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,28,
-28,EDIT_MSG_DIALOG_PC_SAVEDATA_DATE,作成日時,Creation Time,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,28,
-28,EDIT_MSG_DIALOG_PC_SAVEDATA_DATE,作成日時,Creation Time,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,28,
-28,EDIT_MSG_DIALOG_PC_SAVEDATA_DATE,作成日時,Creation Time,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,28,
-27,EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD,ロードするスロットを選択してください,Please select the slot to load,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,27,
-27,EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD,ロードするスロットを選択してください,Please select the slot to load,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,27,
-27,EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD,ロードするスロットを選択してください,Please select the slot to load,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,27,
-27,EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD,ロードするスロットを選択してください,Please select the slot to load,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,27,
-27,EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD,ロードするスロットを選択してください,Please select the slot to load,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,27,
-27,EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD,ロードするスロットを選択してください,Please select the slot to load,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,27,
-26,EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD,セーブするスロットを選択してください,Please select the slot to save,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,26,
-26,EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD,セーブするスロットを選択してください,Please select the slot to save,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,26,
-26,EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD,セーブするスロットを選択してください,Please select the slot to save,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,26,
-26,EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD,セーブするスロットを選択してください,Please select the slot to save,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,26,
-26,EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD,セーブするスロットを選択してください,Please select the slot to save,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,26,
-26,EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD,セーブするスロットを選択してください,Please select the slot to save,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,26,
-30,EDIT_MSG_DIALOG_PC_SAVEDATA_SEX,性別,Gender,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,30,
-30,EDIT_MSG_DIALOG_PC_SAVEDATA_SEX,性別,Gender,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,30,
-30,EDIT_MSG_DIALOG_PC_SAVEDATA_SEX,性別,Gender,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,30,
-30,EDIT_MSG_DIALOG_PC_SAVEDATA_SEX,性別,Gender,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,30,
-30,EDIT_MSG_DIALOG_PC_SAVEDATA_SEX,性別,Gender,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,30,
-30,EDIT_MSG_DIALOG_PC_SAVEDATA_SEX,性別,Gender,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,30,
-34,EDIT_MSG_DIALOG_PC_SAVE_FINISH,セーブが終了しました,Saving is finished.,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,34,
-34,EDIT_MSG_DIALOG_PC_SAVE_FINISH,セーブが終了しました,Saving is finished.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,34,
-34,EDIT_MSG_DIALOG_PC_SAVE_FINISH,セーブが終了しました,Saving is finished.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,34,
-34,EDIT_MSG_DIALOG_PC_SAVE_FINISH,セーブが終了しました,Saving is finished.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,34,
-34,EDIT_MSG_DIALOG_PC_SAVE_FINISH,セーブが終了しました,Saving is finished.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,34,
-34,EDIT_MSG_DIALOG_PC_SAVE_FINISH,セーブが終了しました,Saving is finished.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,34,
+切らないでください","Lade Vorlage.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,37,
+38,EDIT_MSG_DIALOG_PC_LOAD_FINISH,ロードが終了しました,Vorlage geladen,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,38,
+38,EDIT_MSG_DIALOG_PC_LOAD_FINISH,ロードが終了しました,Vorlage geladen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,38,
+38,EDIT_MSG_DIALOG_PC_LOAD_FINISH,ロードが終了しました,Vorlage geladen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,38,
+38,EDIT_MSG_DIALOG_PC_LOAD_FINISH,ロードが終了しました,Vorlage geladen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,38,
+38,EDIT_MSG_DIALOG_PC_LOAD_FINISH,ロードが終了しました,Vorlage geladen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,38,
+38,EDIT_MSG_DIALOG_PC_LOAD_FINISH,ロードが終了しました,Vorlage geladen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,38,
+29,EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR,作成者,Autor,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,29,
+29,EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR,作成者,Autor,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,29,
+29,EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR,作成者,Autor,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,29,
+29,EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR,作成者,Autor,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,29,
+29,EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR,作成者,Autor,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,29,
+29,EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR,作成者,Autor,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,29,
+31,EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT,コメント,Kommentar,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,31,
+31,EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT,コメント,Kommentar,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,31,
+31,EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT,コメント,Kommentar,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,31,
+31,EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT,コメント,Kommentar,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,31,
+31,EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT,コメント,Kommentar,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,31,
+31,EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT,コメント,Kommentar,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,31,
+28,EDIT_MSG_DIALOG_PC_SAVEDATA_DATE,作成日時,Erstellt am,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,28,
+28,EDIT_MSG_DIALOG_PC_SAVEDATA_DATE,作成日時,Erstellt am,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,28,
+28,EDIT_MSG_DIALOG_PC_SAVEDATA_DATE,作成日時,Erstellt am,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,28,
+28,EDIT_MSG_DIALOG_PC_SAVEDATA_DATE,作成日時,Erstellt am,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,28,
+28,EDIT_MSG_DIALOG_PC_SAVEDATA_DATE,作成日時,Erstellt am,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,28,
+28,EDIT_MSG_DIALOG_PC_SAVEDATA_DATE,作成日時,Erstellt am,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,28,
+27,EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD,ロードするスロットを選択してください,Vorlage zum Laden auswählen,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,27,
+27,EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD,ロードするスロットを選択してください,Vorlage zum Laden auswählen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,27,
+27,EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD,ロードするスロットを選択してください,Vorlage zum Laden auswählen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,27,
+27,EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD,ロードするスロットを選択してください,Vorlage zum Laden auswählen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,27,
+27,EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD,ロードするスロットを選択してください,Vorlage zum Laden auswählen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,27,
+27,EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD,ロードするスロットを選択してください,Vorlage zum Laden auswählen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,27,
+26,EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD,セーブするスロットを選択してください,Speicherplatz für die Vorlage wählen,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,26,
+26,EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD,セーブするスロットを選択してください,Speicherplatz für die Vorlage wählen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,26,
+26,EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD,セーブするスロットを選択してください,Speicherplatz für die Vorlage wählen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,26,
+26,EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD,セーブするスロットを選択してください,Speicherplatz für die Vorlage wählen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,26,
+26,EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD,セーブするスロットを選択してください,Speicherplatz für die Vorlage wählen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,26,
+26,EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD,セーブするスロットを選択してください,Speicherplatz für die Vorlage wählen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,26,
+30,EDIT_MSG_DIALOG_PC_SAVEDATA_SEX,性別,Geschl.,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,30,
+30,EDIT_MSG_DIALOG_PC_SAVEDATA_SEX,性別,Geschl.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,30,
+30,EDIT_MSG_DIALOG_PC_SAVEDATA_SEX,性別,Geschl.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,30,
+30,EDIT_MSG_DIALOG_PC_SAVEDATA_SEX,性別,Geschl.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,30,
+30,EDIT_MSG_DIALOG_PC_SAVEDATA_SEX,性別,Geschl.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,30,
+30,EDIT_MSG_DIALOG_PC_SAVEDATA_SEX,性別,Geschl.,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,30,
+34,EDIT_MSG_DIALOG_PC_SAVE_FINISH,セーブが終了しました,Vorlage gespeichert,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,34,
+34,EDIT_MSG_DIALOG_PC_SAVE_FINISH,セーブが終了しました,Vorlage gespeichert,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,34,
+34,EDIT_MSG_DIALOG_PC_SAVE_FINISH,セーブが終了しました,Vorlage gespeichert,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,34,
+34,EDIT_MSG_DIALOG_PC_SAVE_FINISH,セーブが終了しました,Vorlage gespeichert,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,34,
+34,EDIT_MSG_DIALOG_PC_SAVE_FINISH,セーブが終了しました,Vorlage gespeichert,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,34,
+34,EDIT_MSG_DIALOG_PC_SAVE_FINISH,セーブが終了しました,Vorlage gespeichert,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,34,
 32,EDIT_MSG_DIALOG_PC_SAVE_OVERWRITE,"既存のセーブデータに
-上書きしてもよろしいですか？","Are you sure you want to overwrite your existing
-saved data?",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,32,
+上書きしてもよろしいですか？",Gespeicherte Vorlage überschreiben?,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,32,
 32,EDIT_MSG_DIALOG_PC_SAVE_OVERWRITE,"既存のセーブデータに
-上書きしてもよろしいですか？","Are you sure you want to overwrite your existing
-saved data?",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,32,
+上書きしてもよろしいですか？",Gespeicherte Vorlage überschreiben?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,32,
 32,EDIT_MSG_DIALOG_PC_SAVE_OVERWRITE,"既存のセーブデータに
-上書きしてもよろしいですか？","Are you sure you want to overwrite your existing
-saved data?",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,32,
+上書きしてもよろしいですか？",Gespeicherte Vorlage überschreiben?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,32,
 32,EDIT_MSG_DIALOG_PC_SAVE_OVERWRITE,"既存のセーブデータに
-上書きしてもよろしいですか？","Are you sure you want to overwrite your existing
-saved data?",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,32,
+上書きしてもよろしいですか？",Gespeicherte Vorlage überschreiben?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,32,
 32,EDIT_MSG_DIALOG_PC_SAVE_OVERWRITE,"既存のセーブデータに
-上書きしてもよろしいですか？","Are you sure you want to overwrite your existing
-saved data?",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,32,
+上書きしてもよろしいですか？",Gespeicherte Vorlage überschreiben?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,32,
 32,EDIT_MSG_DIALOG_PC_SAVE_OVERWRITE,"既存のセーブデータに
-上書きしてもよろしいですか？","Are you sure you want to overwrite your existing
-saved data?",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,32,
+上書きしてもよろしいですか？",Gespeicherte Vorlage überschreiben?,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,32,
 33,EDIT_MSG_DIALOG_PC_SAVING,"保存しています
 PC本体の電源を
-切らないでください","Saving
-Do not turn off the power of the PC",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,33,
+切らないでください","Speichern läuft.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,33,
 33,EDIT_MSG_DIALOG_PC_SAVING,"保存しています
 PC本体の電源を
-切らないでください","Saving
-Do not turn off the power of the PC",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,33,
+切らないでください","Speichern läuft.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,33,
 33,EDIT_MSG_DIALOG_PC_SAVING,"保存しています
 PC本体の電源を
-切らないでください","Saving
-Do not turn off the power of the PC",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,33,
+切らないでください","Speichern läuft.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,33,
 33,EDIT_MSG_DIALOG_PC_SAVING,"保存しています
 PC本体の電源を
-切らないでください","Saving
-Do not turn off the power of the PC",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,33,
+切らないでください","Speichern läuft.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,33,
 33,EDIT_MSG_DIALOG_PC_SAVING,"保存しています
 PC本体の電源を
-切らないでください","Saving
-Do not turn off the power of the PC",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,33,
+切らないでください","Speichern läuft.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,33,
 33,EDIT_MSG_DIALOG_PC_SAVING,"保存しています
 PC本体の電源を
-切らないでください","Saving
-Do not turn off the power of the PC",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,33,
-6,EDIT_MSG_DIALOG_REPLY_BACK,いいえ,No,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,6,
-6,EDIT_MSG_DIALOG_REPLY_BACK,いいえ,No,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,6,
-6,EDIT_MSG_DIALOG_REPLY_BACK,いいえ,No,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,6,
-6,EDIT_MSG_DIALOG_REPLY_BACK,いいえ,No,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,6,
-6,EDIT_MSG_DIALOG_REPLY_BACK,いいえ,Cancel,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,6,
-6,EDIT_MSG_DIALOG_REPLY_BACK,いいえ,Cancel,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,6,
+切らないでください","Speichern läuft.
+Schalte den PC nicht aus.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,33,
+6,EDIT_MSG_DIALOG_REPLY_BACK,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,6,
+6,EDIT_MSG_DIALOG_REPLY_BACK,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,6,
+6,EDIT_MSG_DIALOG_REPLY_BACK,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,6,
+6,EDIT_MSG_DIALOG_REPLY_BACK,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,6,
+6,EDIT_MSG_DIALOG_REPLY_BACK,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,6,
+6,EDIT_MSG_DIALOG_REPLY_BACK,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,6,
 5,EDIT_MSG_DIALOG_REPLY_BACKSPACE,キャンセル,Abbrechen,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,5,
 5,EDIT_MSG_DIALOG_REPLY_BACKSPACE,キャンセル,Abbrechen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,5,
 5,EDIT_MSG_DIALOG_REPLY_BACKSPACE,キャンセル,Abbrechen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,5,
 5,EDIT_MSG_DIALOG_REPLY_BACKSPACE,キャンセル,Abbrechen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,5,
-5,EDIT_MSG_DIALOG_REPLY_BACKSPACE,キャンセル,Cancel,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,5,
-5,EDIT_MSG_DIALOG_REPLY_BACKSPACE,キャンセル,Cancel,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,5,
-4,EDIT_MSG_DIALOG_REPLY_CONTINUE,いいえ,No,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,4,
-4,EDIT_MSG_DIALOG_REPLY_CONTINUE,いいえ,No,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,4,
-4,EDIT_MSG_DIALOG_REPLY_CONTINUE,いいえ,No,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,4,
-4,EDIT_MSG_DIALOG_REPLY_CONTINUE,いいえ,No,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,4,
-4,EDIT_MSG_DIALOG_REPLY_CONTINUE,いいえ,Cancel,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,4,
-4,EDIT_MSG_DIALOG_REPLY_CONTINUE,いいえ,Cancel,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,4,
+5,EDIT_MSG_DIALOG_REPLY_BACKSPACE,キャンセル,Abbrechen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,5,
+5,EDIT_MSG_DIALOG_REPLY_BACKSPACE,キャンセル,Abbrechen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,5,
+4,EDIT_MSG_DIALOG_REPLY_CONTINUE,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,4,
+4,EDIT_MSG_DIALOG_REPLY_CONTINUE,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,4,
+4,EDIT_MSG_DIALOG_REPLY_CONTINUE,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,4,
+4,EDIT_MSG_DIALOG_REPLY_CONTINUE,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,4,
+4,EDIT_MSG_DIALOG_REPLY_CONTINUE,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,4,
+4,EDIT_MSG_DIALOG_REPLY_CONTINUE,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,4,
 3,EDIT_MSG_DIALOG_REPLY_DECISION,はい,Ja,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,3,
 3,EDIT_MSG_DIALOG_REPLY_DECISION,はい,Ja,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,3,
 3,EDIT_MSG_DIALOG_REPLY_DECISION,はい,Ja,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,3,
 3,EDIT_MSG_DIALOG_REPLY_DECISION,はい,Ja,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,3,
-3,EDIT_MSG_DIALOG_REPLY_DECISION,はい,OK,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,3,
-3,EDIT_MSG_DIALOG_REPLY_DECISION,はい,OK,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,3,
-8,EDIT_MSG_DIALOG_REPLY_EDIT_SAVE,エディットをセーブする,Save the edits,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,8,
-8,EDIT_MSG_DIALOG_REPLY_EDIT_SAVE,エディットをセーブする,Save the edits,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,8,
-8,EDIT_MSG_DIALOG_REPLY_EDIT_SAVE,エディットをセーブする,Save the edits,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,8,
-8,EDIT_MSG_DIALOG_REPLY_EDIT_SAVE,エディットをセーブする,Save the edits,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,8,
-8,EDIT_MSG_DIALOG_REPLY_EDIT_SAVE,エディットをセーブする,Save the edits,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,8,
-8,EDIT_MSG_DIALOG_REPLY_EDIT_SAVE,エディットをセーブする,Save the edits,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,8,
+3,EDIT_MSG_DIALOG_REPLY_DECISION,はい,Ja,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,3,
+3,EDIT_MSG_DIALOG_REPLY_DECISION,はい,Ja,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,3,
+8,EDIT_MSG_DIALOG_REPLY_EDIT_SAVE,エディットをセーブする,Vorlage speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,8,
+8,EDIT_MSG_DIALOG_REPLY_EDIT_SAVE,エディットをセーブする,Vorlage speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,8,
+8,EDIT_MSG_DIALOG_REPLY_EDIT_SAVE,エディットをセーブする,Vorlage speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,8,
+8,EDIT_MSG_DIALOG_REPLY_EDIT_SAVE,エディットをセーブする,Vorlage speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,8,
+8,EDIT_MSG_DIALOG_REPLY_EDIT_SAVE,エディットをセーブする,Vorlage speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,8,
+8,EDIT_MSG_DIALOG_REPLY_EDIT_SAVE,エディットをセーブする,Vorlage speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,8,
 1,EDIT_MSG_DIALOG_REPLY_NO,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,1,
 1,EDIT_MSG_DIALOG_REPLY_NO,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,1,
 1,EDIT_MSG_DIALOG_REPLY_NO,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,1,
 1,EDIT_MSG_DIALOG_REPLY_NO,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,1,
-1,EDIT_MSG_DIALOG_REPLY_NO,いいえ,Cancel,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,1,
-1,EDIT_MSG_DIALOG_REPLY_NO,いいえ,Cancel,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,1,
+1,EDIT_MSG_DIALOG_REPLY_NO,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,1,
+1,EDIT_MSG_DIALOG_REPLY_NO,いいえ,Nein,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,1,
 2,EDIT_MSG_DIALOG_REPLY_OK,OK,Bestätigen,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,2,
 2,EDIT_MSG_DIALOG_REPLY_OK,OK,Bestätigen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,2,
 2,EDIT_MSG_DIALOG_REPLY_OK,OK,Bestätigen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,2,
 2,EDIT_MSG_DIALOG_REPLY_OK,OK,Bestätigen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,2,
-2,EDIT_MSG_DIALOG_REPLY_OK,OK,Confirm,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,2,
-2,EDIT_MSG_DIALOG_REPLY_OK,OK,Confirm,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,2,
+2,EDIT_MSG_DIALOG_REPLY_OK,OK,Bestätigen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,2,
+2,EDIT_MSG_DIALOG_REPLY_OK,OK,Bestätigen,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,2,
 7,EDIT_MSG_DIALOG_REPLY_ONLINESHOP,オンラインショップで購入する,Buy from Online Shop,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,7,
 7,EDIT_MSG_DIALOG_REPLY_ONLINESHOP,オンラインショップで購入する,Buy from Online Shop,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,7,
 7,EDIT_MSG_DIALOG_REPLY_ONLINESHOP,オンラインショップで購入する,Buy from Online Shop,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,7,
@@ -253000,8 +252976,8 @@ Do not turn off the power of the PC",ui\00_message\ui\character_edit_dialog_win.
 0,EDIT_MSG_DIALOG_REPLY_YES,はい,Ja,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,0,
 0,EDIT_MSG_DIALOG_REPLY_YES,はい,Ja,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,0,
 0,EDIT_MSG_DIALOG_REPLY_YES,はい,Ja,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,0,
-0,EDIT_MSG_DIALOG_REPLY_YES,はい,OK,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,0,
-0,EDIT_MSG_DIALOG_REPLY_YES,はい,OK,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,0,
+0,EDIT_MSG_DIALOG_REPLY_YES,はい,Ja,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,0,
+0,EDIT_MSG_DIALOG_REPLY_YES,はい,Ja,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,0,
 58,EDIT_MSG_DIALOG_SALON_2_CANCEL,"転生をキャンセルします
 よろしいですか？","Canceling reincarnation
 Do you wish to proceed??",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,58,
@@ -253128,72 +253104,72 @@ OK?",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUIS
 15,EDIT_MSG_DIALOG_SALON_NOTGP,<VAL>が足りません,<VAL>GP is not enough,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,15,
 15,EDIT_MSG_DIALOG_SALON_NOTGP,<VAL>が足りません,<VAL>GP is not enough,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,15,
 15,EDIT_MSG_DIALOG_SALON_NOTGP,<VAL>が足りません,<VAL>GP is not enough,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,15,
-18,EDIT_MSG_DIALOG_SAVE_DATE,エディットデータ：,Edit data: ,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,18,
-18,EDIT_MSG_DIALOG_SAVE_DATE,エディットデータ：,Edit data: ,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,18,
-18,EDIT_MSG_DIALOG_SAVE_DATE,エディットデータ：,Edit data: ,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,18,
-18,EDIT_MSG_DIALOG_SAVE_DATE,エディットデータ：,Edit data: ,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,18,
-18,EDIT_MSG_DIALOG_SAVE_DATE,エディットデータ：,Edit data: ,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,18,
-18,EDIT_MSG_DIALOG_SAVE_DATE,エディットデータ：,Edit data: ,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,18,
+18,EDIT_MSG_DIALOG_SAVE_DATE,エディットデータ：,Vorlage: ,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,18,
+18,EDIT_MSG_DIALOG_SAVE_DATE,エディットデータ：,Vorlage: ,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,18,
+18,EDIT_MSG_DIALOG_SAVE_DATE,エディットデータ：,Vorlage: ,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,18,
+18,EDIT_MSG_DIALOG_SAVE_DATE,エディットデータ：,Vorlage: ,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,18,
+18,EDIT_MSG_DIALOG_SAVE_DATE,エディットデータ：,Vorlage: ,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,18,
+18,EDIT_MSG_DIALOG_SAVE_DATE,エディットデータ：,Vorlage: ,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,18,
 16,EDIT_MSG_DIALOG_SAVE_LOAD,"エディットのセーブ/ロード
 性別や顔、体型などのモデルに関する
 エディット情報をセーブ
-またはロードすることができます","Save/Load edits
-Save or Load edit information about the model,
-such as gender, face, body type, etc.",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,16,
+またはロードすることができます","Vorlagen speichern und laden
+Speichere oder lade Einstellungen wie
+Geschlecht, Gesicht und Körperbau.",ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,16,
 16,EDIT_MSG_DIALOG_SAVE_LOAD,"エディットのセーブ/ロード
 性別や顔、体型などのモデルに関する
 エディット情報をセーブ
-またはロードすることができます","Save/Load edits
-Save or Load edit information about the model,
-such as gender, face, body type, etc.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,16,
+またはロードすることができます","Vorlagen speichern und laden
+Speichere oder lade Einstellungen wie
+Geschlecht, Gesicht und Körperbau.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,16,
 16,EDIT_MSG_DIALOG_SAVE_LOAD,"エディットのセーブ/ロード
 性別や顔、体型などのモデルに関する
 エディット情報をセーブ
-またはロードすることができます","Save/Load edits
-Save or Load edit information about the model,
-such as gender, face, body type, etc.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,16,
+またはロードすることができます","Vorlagen speichern und laden
+Speichere oder lade Einstellungen wie
+Geschlecht, Gesicht und Körperbau.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,16,
 16,EDIT_MSG_DIALOG_SAVE_LOAD,"エディットのセーブ/ロード
 性別や顔、体型などのモデルに関する
 エディット情報をセーブ
-またはロードすることができます","Save/Load edits
-Save or Load edit information about the model,
-such as gender, face, body type, etc.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,16,
+またはロードすることができます","Vorlagen speichern und laden
+Speichere oder lade Einstellungen wie
+Geschlecht, Gesicht und Körperbau.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,16,
 16,EDIT_MSG_DIALOG_SAVE_LOAD,"エディットのセーブ/ロード
 性別や顔、体型などのモデルに関する
 エディット情報をセーブ
-またはロードすることができます","Save/Load edits
-Save or Load edit information about the model,
-such as gender, face, body type, etc.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,16,
+またはロードすることができます","Vorlagen speichern und laden
+Speichere oder lade Einstellungen wie
+Geschlecht, Gesicht und Körperbau.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,16,
 16,EDIT_MSG_DIALOG_SAVE_LOAD,"エディットのセーブ/ロード
 性別や顔、体型などのモデルに関する
 エディット情報をセーブ
-またはロードすることができます","Save/Load edits
-Save or Load edit information about the model,
-such as gender, face, body type, etc.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,16,
-50,EDIT_MSG_DIALOG_SAVE_NODATA,NO DATA,NO DATA,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,50,
-50,EDIT_MSG_DIALOG_SAVE_NODATA,NO DATA,NO DATA,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,50,
-50,EDIT_MSG_DIALOG_SAVE_NODATA,NO DATA,NO DATA,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,50,
-50,EDIT_MSG_DIALOG_SAVE_NODATA,NO DATA,NO DATA,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,50,
-50,EDIT_MSG_DIALOG_SAVE_NODATA,NO DATA,NO DATA,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,50,
-50,EDIT_MSG_DIALOG_SAVE_NODATA,NO DATA,NO DATA,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,50,
-51,EDIT_MSG_DIALOG_SAVE_SEX_F,女性,Female,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,51,
-51,EDIT_MSG_DIALOG_SAVE_SEX_F,女性,Female,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,51,
-51,EDIT_MSG_DIALOG_SAVE_SEX_F,女性,Female,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,51,
-51,EDIT_MSG_DIALOG_SAVE_SEX_F,女性,Female,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,51,
-51,EDIT_MSG_DIALOG_SAVE_SEX_F,女性,Female,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,51,
-51,EDIT_MSG_DIALOG_SAVE_SEX_F,女性,Female,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,51,
-52,EDIT_MSG_DIALOG_SAVE_SEX_M,男性,Male,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,52,
-52,EDIT_MSG_DIALOG_SAVE_SEX_M,男性,Male,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,52,
-52,EDIT_MSG_DIALOG_SAVE_SEX_M,男性,Male,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,52,
-52,EDIT_MSG_DIALOG_SAVE_SEX_M,男性,Male,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,52,
-52,EDIT_MSG_DIALOG_SAVE_SEX_M,男性,Male,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,52,
-52,EDIT_MSG_DIALOG_SAVE_SEX_M,男性,Male,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,52,
-17,EDIT_MSG_DIALOG_SAVE_WORD,現在のエディット情報をセーブします,Save current edits,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,17,
-17,EDIT_MSG_DIALOG_SAVE_WORD,現在のエディット情報をセーブします,Save current edits,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,17,
-17,EDIT_MSG_DIALOG_SAVE_WORD,現在のエディット情報をセーブします,Save current edits,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,17,
-17,EDIT_MSG_DIALOG_SAVE_WORD,現在のエディット情報をセーブします,Save current edits,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,17,
-17,EDIT_MSG_DIALOG_SAVE_WORD,現在のエディット情報をセーブします,Save current edits,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,17,
-17,EDIT_MSG_DIALOG_SAVE_WORD,現在のエディット情報をセーブします,Save current edits,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,17,
+またはロードすることができます","Vorlagen speichern und laden
+Speichere oder lade Einstellungen wie
+Geschlecht, Gesicht und Körperbau.",ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,16,
+50,EDIT_MSG_DIALOG_SAVE_NODATA,NO DATA,LEER,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,50,
+50,EDIT_MSG_DIALOG_SAVE_NODATA,NO DATA,LEER,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,50,
+50,EDIT_MSG_DIALOG_SAVE_NODATA,NO DATA,LEER,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,50,
+50,EDIT_MSG_DIALOG_SAVE_NODATA,NO DATA,LEER,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,50,
+50,EDIT_MSG_DIALOG_SAVE_NODATA,NO DATA,LEER,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,50,
+50,EDIT_MSG_DIALOG_SAVE_NODATA,NO DATA,LEER,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,50,
+51,EDIT_MSG_DIALOG_SAVE_SEX_F,女性,Weiblich,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,51,
+51,EDIT_MSG_DIALOG_SAVE_SEX_F,女性,Weiblich,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,51,
+51,EDIT_MSG_DIALOG_SAVE_SEX_F,女性,Weiblich,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,51,
+51,EDIT_MSG_DIALOG_SAVE_SEX_F,女性,Weiblich,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,51,
+51,EDIT_MSG_DIALOG_SAVE_SEX_F,女性,Weiblich,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,51,
+51,EDIT_MSG_DIALOG_SAVE_SEX_F,女性,Weiblich,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,51,
+52,EDIT_MSG_DIALOG_SAVE_SEX_M,男性,Männlich,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,52,
+52,EDIT_MSG_DIALOG_SAVE_SEX_M,男性,Männlich,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,52,
+52,EDIT_MSG_DIALOG_SAVE_SEX_M,男性,Männlich,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,52,
+52,EDIT_MSG_DIALOG_SAVE_SEX_M,男性,Männlich,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,52,
+52,EDIT_MSG_DIALOG_SAVE_SEX_M,男性,Männlich,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,52,
+52,EDIT_MSG_DIALOG_SAVE_SEX_M,男性,Männlich,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,52,
+17,EDIT_MSG_DIALOG_SAVE_WORD,現在のエディット情報をセーブします,Vorlage speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\character_edit_select.arc,character_edit_select.arc,17,
+17,EDIT_MSG_DIALOG_SAVE_WORD,現在のエディット情報をセーブします,Vorlage speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEdit.arc,uGUICharacterEdit.arc,17,
+17,EDIT_MSG_DIALOG_SAVE_WORD,現在のエディット情報をセーブします,Vorlage speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUICharacterEditDialog.arc,uGUICharacterEditDialog.arc,17,
+17,EDIT_MSG_DIALOG_SAVE_WORD,現在のエディット情報をセーブします,Vorlage speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,17,
+17,EDIT_MSG_DIALOG_SAVE_WORD,現在のエディット情報をセーブします,Vorlage speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListComment.arc,uGUISaveListComment.arc,17,
+17,EDIT_MSG_DIALOG_SAVE_WORD,現在のエディット情報をセーブします,Vorlage speichern,ui\00_message\ui\character_edit_dialog_win.gmd,\ui\uGUISaveListPC.arc,uGUISaveListPC.arc,17,
 46,EDIT_MSG_DIALOG_TUTORIAL_PRESET,"《デザイナープリセットとは》
 予め用意されたサンプルモデルです
 エディットが苦手な方にオススメです
@@ -254905,8 +254881,7 @@ the friend request from
 314,ana_play_main_quest,メインクエストで遊ぶ,Play Main Quest,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,314,
 398,ana_play_news,レスタニアニュースで遊ぶ,Play Lestania News,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,398,
 555,ana_pspskill_sub_ng_01,空いている状態で使用できます,Can be used when available,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,555,
-341,ana_pt_mem_warp_begin,<NAME TARGET>が＜<VAL>＞にリム転移しました,"<NAME TARGET> 
-has teleported to ""<VAL>"".",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,341,
+341,ana_pt_mem_warp_begin,<NAME TARGET>が＜<VAL>＞にリム転移しました,<NAME TARGET> reist per Rift nach „<VAL>“.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,341,
 139,ana_pt_warp_begin,"<NAME TARGET>が＜<VAL>＞にリム転移しました
 <VAL PARTY_WARP_SEC>秒の間、同行リム転移が可能です","<NAME TARGET> 
 has teleported to ""<VAL>"".
@@ -254924,16 +254899,13 @@ following items to enter the dungeon?
 setup.",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,330,
 461,ana_quest_announce_set_discover_add,未公開クエスト「%s」を発見した！,"Discovered the Hidden Quest ""%s""!",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,461,
 301,ana_quest_cancel_err,このクエストは破棄できません,You cannot cancel this quest.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,301,
-343,ana_quest_info_accept_solo,＜<VAL>＞を受注しました,"""<VAL>"" has been accepted.",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,343,
-338,ana_quest_info_assept,パーティーメンバーが＜<VAL>＞を受注しました,"A party member has accepted the quest 
-""<VAL>"".",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,338,
-340,ana_quest_info_cancel,<VAL>が＜<VAL>＞を破棄しました,"<VAL> has canceled the quest ""<VAL>"".",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,340,
-339,ana_quest_info_clear,パーティーメンバーが＜<VAL>＞をクリアしました,"A party member has cleared the ""<VAL>"" quest.",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,339,
-344,ana_quest_info_clear_solo,＜<VAL>＞をクリアしました,"""<VAL>"" has been cleared.",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,344,
-342,ana_quest_info_update,パーティーメンバーが＜<VAL>＞を進行しました,"A party member has updated progress
-on the quest ""<VAL>"".",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,342,
-345,ana_quest_info_update_solo,＜<VAL>＞を進行しました,"""<VAL>"" 
-quest progress has been updated.",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,345,
+343,ana_quest_info_accept_solo,＜<VAL>＞を受注しました,„<VAL>“ angenommen.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,343,
+338,ana_quest_info_assept,パーティーメンバーが＜<VAL>＞を受注しました,Gruppenmitglied: „<VAL>“ angenommen.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,338,
+340,ana_quest_info_cancel,<VAL>が＜<VAL>＞を破棄しました,<VAL> hat „<VAL>“ aufgegeben.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,340,
+339,ana_quest_info_clear,パーティーメンバーが＜<VAL>＞をクリアしました,Gruppenmitglied: „<VAL>“ abgeschlossen.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,339,
+344,ana_quest_info_clear_solo,＜<VAL>＞をクリアしました,„<VAL>“ abgeschlossen.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,344,
+342,ana_quest_info_update,パーティーメンバーが＜<VAL>＞を進行しました,Gruppenmitglied: „<VAL>“ weitergeführt.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,342,
+345,ana_quest_info_update_solo,＜<VAL>＞を進行しました,„<VAL>“: Fortschritt aktualisiert.,ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,345,
 441,ana_quest_invalid_status_change,クエスト状況が変化したため進行できませんでした,"Couldn't proceed because the quest conditions
 have changed.",ui\00_message\ui\common_dialog.gmd,\ui\gui_cmn.arc,gui_cmn.arc,441,
 573,ana_quest_navi_ng_01,"ナビゲート設定できません
@@ -255084,8 +255056,8 @@ you cannot unlock this Portcrystal.",ui\00_message\ui\common_dialog.gmd,\ui\gui_
 57,common_date_format,%Y/%m/%d,%Y/%m/%d,ui\00_message\ui\common_message.gmd,\ui\gui_cmn.arc,gui_cmn.arc,57,
 3,common_decide,決定,Bestätigen,ui\00_message\ui\common_message.gmd,\systemFlow.arc,systemFlow.arc,3,
 3,common_decide,決定,Bestätigen,ui\00_message\ui\common_message.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,
-59,common_delete,削除,Delete,ui\00_message\ui\common_message.gmd,\systemFlow.arc,systemFlow.arc,59,
-59,common_delete,削除,Delete,ui\00_message\ui\common_message.gmd,\ui\gui_cmn.arc,gui_cmn.arc,59,
+59,common_delete,削除,Löschen,ui\00_message\ui\common_message.gmd,\systemFlow.arc,systemFlow.arc,59,
+59,common_delete,削除,Löschen,ui\00_message\ui\common_message.gmd,\ui\gui_cmn.arc,gui_cmn.arc,59,
 150,common_double,倍,Double,ui\00_message\ui\common_message.gmd,\systemFlow.arc,systemFlow.arc,150,
 150,common_double,倍,Double,ui\00_message\ui\common_message.gmd,\ui\gui_cmn.arc,gui_cmn.arc,150,
 38,common_down,DOWN,DOWN,ui\00_message\ui\common_message.gmd,\systemFlow.arc,systemFlow.arc,38,
@@ -261775,8 +261747,7 @@ available to claim.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc
 76,syslog_content_convoy_hp_little,<NAME TARGET>のHPが瀕死状態です,"<NAME TARGET>'s 
 HP is in critical condition",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,76,,System Chatbox Text
 77,syslog_content_convoy_hp_zero,<NAME TARGET>が倒れました,<NAME TARGET> has been defeated.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,77,,System Chatbox Text
-83,syslog_content_end_by_clear,<NAME QUEST>をクリアにより終了します,"<NAME QUEST>
-has been cleared.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,83,,System Chatbox Text
+83,syslog_content_end_by_clear,<NAME QUEST>をクリアにより終了します,„<NAME QUEST>“ abgeschlossen.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,83,,System Chatbox Text
 84,syslog_content_end_by_escape,<NAME QUEST>を離脱により終了します,"<NAME QUEST>
 ended by leaving.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,84,,System Chatbox Text
 85,syslog_content_end_by_friends_down,<NAME QUEST>を<NAME TARGET>が倒れたため、終了します,"The quest
@@ -261972,8 +261943,7 @@ lever.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,113,,System 
 116,syslog_om_treasure_trap,宝箱のトラップが発動した！,The treasure chest's trap has been triggered!,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,116,,System Chatbox Text
 117,syslog_om_treasure_untrap,<NAME TARGET>は宝箱のトラップを解除した,"<NAME TARGET> 
 has disarmed the treasure chest's trap.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,117,,System Chatbox Text
-112,syslog_om_warp,<NAME TARGET>はリム転移した,"<NAME TARGET> 
-has teleported through the rift.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,112,,System Chatbox Text
+112,syslog_om_warp,<NAME TARGET>はリム転移した,Rift-Transport von <NAME TARGET>.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,112,,System Chatbox Text
 115,syslog_om_waterfall,滝の流れが止まった,The waterfall's flow has stopped.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,115,,System Chatbox Text
 276,syslog_pap_get,<NAME PAWN>に戦術育成が行えます,"<NAME PAWN> 
 can now do Tactics Training.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,276,,System Chatbox Text
@@ -262050,12 +262020,9 @@ cannot earn any more.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.a
 278,syslog_pq_seq_ana_start,＜<VAL>＞の使命＜<VAL>＞を開始しました,"""<VAL>"" mission ""<VAL>"" has begun.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,278,,System Chatbox Text
 62,syslog_quest_accept_max,クエスト受注数が最大になりました,"Your quest log has reached the
 maximum and you cannot accept more.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,62,,System Chatbox Text
-40,syslog_quest_accept_party,<NAME TARGET>が<NAME QUEST>を受注しました,"<NAME TARGET> has accepted
-<NAME QUEST>.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,40,,System Chatbox Text
-39,syslog_quest_accept_solo,<NAME QUEST>を受注しました,"<NAME QUEST>
-has been accepted.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,39,,System Chatbox Text
-44,syslog_quest_assist,<NAME QUEST>のクリアをアシストしました,"<NAME QUEST> has been
-completed with your assistance.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,44,,System Chatbox Text
+40,syslog_quest_accept_party,<NAME TARGET>が<NAME QUEST>を受注しました,<NAME TARGET> nimmt „<NAME QUEST>“ an.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,40,,System Chatbox Text
+39,syslog_quest_accept_solo,<NAME QUEST>を受注しました,„<NAME QUEST>“ angenommen.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,39,,System Chatbox Text
+44,syslog_quest_assist,<NAME QUEST>のクリアをアシストしました,„<NAME QUEST>“: Abschluss unterstützt.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,44,,System Chatbox Text
 261,syslog_quest_assist_accept,＜<NAME QUEST>＞の受注条件を満たしていないため、アシスト状態で受注しました,"You do not meet the conditions of
 ""<NAME QUEST>"", so it was
 accepted in assist mode.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,261,,System Chatbox Text
@@ -262077,8 +262044,7 @@ no longer progress.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc
 the party leader and
 <NAME TARGET> for
 ""<NAME QUEST>"" differs.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,207,,System Chatbox Text
-43,syslog_quest_clear,<NAME QUEST>をクリアしました,"<NAME QUEST>
-has been completed.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,43,,System Chatbox Text
+43,syslog_quest_clear,<NAME QUEST>をクリアしました,„<NAME QUEST>“ abgeschlossen.,ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,43,,System Chatbox Text
 224,syslog_quest_decide_deliver,＜<NAME QUEST>＞の納品目標を達成しました,"""<NAME QUEST>"" delivery
 objective achieved.",ui\00_message\ui\system_log.gmd,\ui\gui_cmn.arc,gui_cmn.arc,224,,System Chatbox Text
 54,syslog_quest_dialog,<NAME QUEST>：≪汎用アナウンス用テキスト≫,"<NAME QUEST>: ≪General
