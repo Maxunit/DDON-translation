@@ -56768,11 +56768,9 @@ special arrows.
 The Sniper of the Battlefield.",ui\00_message\common\job_info.gmd,\ui\uGUIJobMaster.arc,uGUIJobMaster.arc,3,,Job Descrip.
 3,JOB_INFO_3,"精密な射撃で遠距離から先制するスナイパー役
 特殊矢による多様な支援力も魅力
-強敵の弱点を正確に射ぬき戦況を優位に導く","Able to deal precise damage from
-long distances.
-Has a variey of support abilities by the use of
-special arrows.
-The Sniper of the Battlefield.",ui\00_message\common\job_info.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,3,,Job Descrip.
+強敵の弱点を正確に射ぬき戦況を優位に導く","Eröffnet Kämpfe aus der Ferne.
+Trifft gezielt Schwachstellen.
+Unterstützt mit Spezialpfeilen.",ui\00_message\common\job_info.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,3,,Job Descrip.
 3,JOB_INFO_3,"精密な射撃で遠距離から先制するスナイパー役
 特殊矢による多様な支援力も魅力
 強敵の弱点を正確に射ぬき戦況を優位に導く","Able to deal precise damage from
@@ -56796,11 +56794,9 @@ of enemies.
 The Pillar of the Battlefield.",ui\00_message\common\job_info.gmd,\ui\uGUIJobMaster.arc,uGUIJobMaster.arc,4,,Job Descrip.
 4,JOB_INFO_4,"回復と支援魔法で仲間を支える癒しの術師
 その術は味方へのさまざまな恩恵だけでなく
-怒れる敵の""隠された弱点""すら看破する","Supports the party with healing and
-support magick.
-Can not only heal, but also reveal weakness
-of enemies.
-The Pillar of the Battlefield.",ui\00_message\common\job_info.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,4,,Job Descrip.
+怒れる敵の""隠された弱点""すら看破する","Heilt und stärkt Verbündete.
+Deckt Schwachstellen auf,
+auch bei wütenden Gegnern.",ui\00_message\common\job_info.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,4,,Job Descrip.
 4,JOB_INFO_4,"回復と支援魔法で仲間を支える癒しの術師
 その術は味方へのさまざまな恩恵だけでなく
 怒れる敵の""隠された弱点""すら看破する","Supports the party with healing and
@@ -56826,12 +56822,9 @@ and support.
 The Fortress of the Battlefield.",ui\00_message\common\job_info.gmd,\ui\uGUIJobMaster.arc,uGUIJobMaster.arc,5,,Job Descrip.
 5,JOB_INFO_5,"敵の注目を一手に集め反撃する強固な砦役
 大盾で受けた敵の力を攻撃・支援の術に変換
-５属性を操り、仲間を属性面でもフォローする","Attracts attention and protect others with
-their strong defense.
-Convert the power of their enemies into
-magick of the five elements to attack
-and support.
-The Fortress of the Battlefield.",ui\00_message\common\job_info.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,5,,Job Descrip.
+５属性を操り、仲間を属性面でもフォローする","Zieht Gegner auf sich und blockt.
+Wandelt Treffer in Kraft um.
+Nutzt fünf Elemente im Kampf.",ui\00_message\common\job_info.gmd,\ui\uGUIJobSelect.arc,uGUIJobSelect.arc,5,,Job Descrip.
 5,JOB_INFO_5,"敵の注目を一手に集め反撃する強固な砦役
 大盾で受けた敵の力を攻撃・支援の術に変換
 ５属性を操り、仲間を属性面でもフォローする","Attracts attention and protect others with
@@ -57015,9 +57008,9 @@ various situations.",ui\00_message\common\job_info.gmd,\ui\uGUISkill.arc,uGUISki
 0,JOB_NAME_0,指定なし,Any,ui\00_message\common\job_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Job Name
 1,JOB_NAME_1,ファイター,Kämpfer,ui\00_message\common\job_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Job Name
 2,JOB_NAME_2,シーカー,Seeker,ui\00_message\common\job_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Job Name
-3,JOB_NAME_3,ハンター,Hunter,ui\00_message\common\job_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,Job Name
-4,JOB_NAME_4,プリースト,Priest,ui\00_message\common\job_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,Job Name
-5,JOB_NAME_5,シールドセージ,Shield Sage,ui\00_message\common\job_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Job Name
+3,JOB_NAME_3,ハンター,Jäger,ui\00_message\common\job_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,Job Name
+4,JOB_NAME_4,プリースト,Priester,ui\00_message\common\job_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,Job Name
+5,JOB_NAME_5,シールドセージ,Schildweiser,ui\00_message\common\job_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Job Name
 6,JOB_NAME_6,ソーサラー,Sorcerer,ui\00_message\common\job_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,6,,Job Name
 7,JOB_NAME_7,ウォリアー,Warrior,ui\00_message\common\job_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,Job Name
 8,JOB_NAME_8,エレメントアーチャー,Element Archer,ui\00_message\common\job_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,Job Name
@@ -58567,13 +58560,13 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 1,WEAPON_CTGR_1,片手剣,Einhandschwert,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Weapon Category
 2,WEAPON_CTGR_2,盾,Schild,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Weapon Category
 3,WEAPON_CTGR_3,大剣,Greatsword,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,Weapon Category
-4,WEAPON_CTGR_4,大盾,Greatshield,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,Weapon Category
-5,WEAPON_CTGR_5,ロッド,Rod,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Weapon Category
+4,WEAPON_CTGR_4,大盾,Großschild,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,Weapon Category
+5,WEAPON_CTGR_5,ロッド,Zepter,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Weapon Category
 6,WEAPON_CTGR_6,ダガー,Daggers,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,6,,Weapon Category
-7,WEAPON_CTGR_7,弓,Bow,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,Weapon Category
+7,WEAPON_CTGR_7,弓,Bogen,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,Weapon Category
 8,WEAPON_CTGR_8,魔道篭手,Magick Gauntlet,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,Weapon Category
 9,WEAPON_CTGR_9,魔道弓,Magick Bow,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,Weapon Category
-10,WEAPON_CTGR_11,杖,Staff,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Weapon Category
+10,WEAPON_CTGR_11,杖,Stab,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Weapon Category
 11,WEAPON_CTGR_12,大杖,Archistaff,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,11,,Weapon Category
 12,WEAPON_CTGR_13,精霊槍,Spirit Lance,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,Weapon Category
 13,WEAPON_CTGR_15,魔道剣,Magick Sword,ui\00_message\common\weapon_ctgr.gmd,\ui\gui_cmn.arc,gui_cmn.arc,13,,Weapon Category
@@ -237497,37 +237490,37 @@ rate.</COL>",ui\00_message\skill\ability_info.gmd,\ui\uGUIPopSkillInfo.arc,uGUIP
 11,NORMAL_SKILL_NAME_02_37,二段跳び,Double Jump,ui\00_message\skill\normal_skill_name_02.gmd,\ui\gui_cmn.arc,gui_cmn.arc,11,,Core Skill Name
 12,NORMAL_SKILL_NAME_02_38,乱斬り,Scarlet Slashes,ui\00_message\skill\normal_skill_name_02.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,Core Skill Name
 13,NORMAL_SKILL_NAME_02_39,大乱斬り,Hundred Slashes,ui\00_message\skill\normal_skill_name_02.gmd,\ui\gui_cmn.arc,gui_cmn.arc,13,,Core Skill Name
-0,NORMAL_SKILL_NAME_03_40,弓構え,Steady Stance,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Core Skill Name
-1,NORMAL_SKILL_NAME_03_41,弓射ち,Loose,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Core Skill Name
+0,NORMAL_SKILL_NAME_03_40,弓構え,Bogen anlegen,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Core Skill Name
+1,NORMAL_SKILL_NAME_03_41,弓射ち,Pfeilschuss,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Core Skill Name
 2,NORMAL_SKILL_NAME_03_42,速弓の型,Quick Bow Style,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Core Skill Name
-4,NORMAL_SKILL_NAME_03_43,<PADM>爆矢構え<KEYM>構え変更,<PADM>Explosive Stance<KEYM>Change Stance,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,Core Skill Name
-5,NORMAL_SKILL_NAME_03_44,仕込み爆矢射ち,Prepare Explosive Arrow,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Core Skill Name
+4,NORMAL_SKILL_NAME_03_43,<PADM>爆矢構え<KEYM>構え変更,<PADM>Explosivpfeil anlegen<KEYM>Haltung wechseln,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,Core Skill Name
+5,NORMAL_SKILL_NAME_03_44,仕込み爆矢射ち,Explosivpfeil abschießen,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Core Skill Name
 6,NORMAL_SKILL_NAME_03_45,<PADM>速仕込みの型<KEYM>速構え変更,<PADM>Quick Charge Style<KEYM>Fast Change Stance,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,6,,Core Skill Name
 3,NORMAL_SKILL_NAME_03_46,しじま射ち,Keen Sight,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,Core Skill Name
-7,NORMAL_SKILL_NAME_03_47,前蹴り,Front Kick,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,Core Skill Name
-8,NORMAL_SKILL_NAME_03_48,矢の装填,Reload Arrows,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,Core Skill Name
-9,NORMAL_SKILL_NAME_03_49,達人装填,Adept Reload,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,Core Skill Name
+7,NORMAL_SKILL_NAME_03_47,前蹴り,Tritt nach vorn,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,Core Skill Name
+8,NORMAL_SKILL_NAME_03_48,矢の装填,Pfeile nachladen,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,Core Skill Name
+9,NORMAL_SKILL_NAME_03_49,達人装填,Gekonntes Nachladen,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,Core Skill Name
 10,NORMAL_SKILL_NAME_03_50,矢の切替え,Switch Arrows,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Core Skill Name
 11,NORMAL_SKILL_NAME_03_60,矢じり斬り,Arrowhead Strike,ui\00_message\skill\normal_skill_name_03.gmd,\ui\gui_cmn.arc,gui_cmn.arc,11,,Core Skill Name
-0,NORMAL_SKILL_NAME_04_61,ブラストビット,Blast Bit,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Core Skill Name
-1,NORMAL_SKILL_NAME_04_62,ヒールオーラ,Heal Aura,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Core Skill Name
+0,NORMAL_SKILL_NAME_04_61,ブラストビット,Magiekugel,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Core Skill Name
+1,NORMAL_SKILL_NAME_04_62,ヒールオーラ,Heilaura,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Core Skill Name
 2,NORMAL_SKILL_NAME_04_63,ヒールオーラエクス,Great Heal Aura,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Core Skill Name
-3,NORMAL_SKILL_NAME_04_64,セイントオーラ,Holy Aura,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,Core Skill Name
+3,NORMAL_SKILL_NAME_04_64,セイントオーラ,Heilige Aura,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,Core Skill Name
 4,NORMAL_SKILL_NAME_04_65,セイントオーラエクス,Great Holy Aura,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,Core Skill Name
-5,NORMAL_SKILL_NAME_04_66,フィールドシフト,Field Shift,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Core Skill Name
+5,NORMAL_SKILL_NAME_04_66,フィールドシフト,Aura übertragen,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Core Skill Name
 6,NORMAL_SKILL_NAME_04_68,フローティング,Floating,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,6,,Core Skill Name
 7,NORMAL_SKILL_NAME_04_69,ライドヒールオーラ,Ride Heal Aura,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,Core Skill Name
 8,NORMAL_SKILL_NAME_04_146,ライドセイントオーラ,Ride Holy Aura,ui\00_message\skill\normal_skill_name_04.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,Core Skill Name
-0,NORMAL_SKILL_NAME_05_70,シールドブロウ,Shield Blow,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Core Skill Name
-2,NORMAL_SKILL_NAME_05_72,エレメントチェンジ,Element Change,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Core Skill Name
+0,NORMAL_SKILL_NAME_05_70,シールドブロウ,Schildhieb,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Core Skill Name
+2,NORMAL_SKILL_NAME_05_72,エレメントチェンジ,Elementwechsel,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Core Skill Name
 3,NORMAL_SKILL_NAME_05_73,ペンタエレメントチェンジ,Penta Element Change,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,Core Skill Name
 4,NORMAL_SKILL_NAME_05_74,フォースガード,Force Guard,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,Core Skill Name
-5,NORMAL_SKILL_NAME_05_75,シールドロック,Shield Lock,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Core Skill Name
+5,NORMAL_SKILL_NAME_05_75,シールドロック,Schildblock,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Core Skill Name
 6,NORMAL_SKILL_NAME_05_76,フォースゲイン,Force Gain,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,6,,Core Skill Name
-7,NORMAL_SKILL_NAME_05_77,フォースバースト,Force Burst,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,Core Skill Name
-8,NORMAL_SKILL_NAME_05_78,アトラクト,Attract,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,Core Skill Name
+7,NORMAL_SKILL_NAME_05_77,フォースバースト,Kraftstoß,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,Core Skill Name
+8,NORMAL_SKILL_NAME_05_78,アトラクト,Provozieren,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,Core Skill Name
 9,NORMAL_SKILL_NAME_05_79,モアアトラクト,More Attract,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,Core Skill Name
-10,NORMAL_SKILL_NAME_05_80,フォースエンチャント,Force Enchantment,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Core Skill Name
+10,NORMAL_SKILL_NAME_05_80,フォースエンチャント,Element verleihen,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Core Skill Name
 11,NORMAL_SKILL_NAME_05_81,シールドシーケンス,Shield Sequence,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,11,,Core Skill Name
 1,NORMAL_SKILL_NAME_05_83,シールドストライク,Shield Strike,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Core Skill Name
 12,NORMAL_SKILL_NAME_05_91,ウィークライト,Weak Light,ui\00_message\skill\normal_skill_name_05.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,Core Skill Name
@@ -238678,30 +238671,29 @@ angreifen und sich vor Treffern schützen.
 　【<KC HOLD_BOW>】弓構え
 　構えながら【<KC SHOOT>】弓射ち
 　【<KC RELOAD>】矢の装填
-　【<KC ATTACK1>】前蹴り","The Hunter excels at shooting with a bow, being
-a master of long-range attacks. They
-particularly demonstrate their skills by aiming
-for weak points when facing
-airborne or large enemies.
-[Basic Operations] - Hold <KC HOLD_BOW> to ready the bow.
-- While aiming, press <KC SHOOT> to release an arrow.
-- Press <KC RELOAD> to reload arrows.
-- Press <KC ATTACK1> to perform a front kick.",ui\00_message\tutorial_guide\steps\tutorial_guide_step75.gmd,\tguide\tutorial_guide_75.arc,tutorial_guide_75.arc,0,,Tutorial Text
+　【<KC ATTACK1>】前蹴り","Als Jäger kämpfst du mit dem Bogen.
+Ziele bei fliegenden und großen Gegnern
+aus der Ferne auf ihre Schwachstellen.
+
+[Grundsteuerung]
+[<KC HOLD_BOW>] halten, um den Bogen anzulegen.
+Beim Zielen mit [<KC SHOOT>] schießen.
+[<KC RELOAD>] Pfeile nachladen
+[<KC ATTACK1>] Tritt nach vorn",ui\00_message\tutorial_guide\steps\tutorial_guide_step75.gmd,\tguide\tutorial_guide_75.arc,tutorial_guide_75.arc,0,,Tutorial Text
 0,TUTORIAL_STEP_124,"プリーストは味方支援の専門家です
 回復、能力上昇や敵の弱点探知といった
 サポートに秀でます
 ＜基本操作＞
 　【<KC ATTACK1>】ヒールオーラ（自身に回復陣）
 　【<KC ATTACK2>】ブラストビット（魔法球攻撃）
-　【<KC SKILL_NORMAL1>】セイントオーラ（自身に攻撃用の聖撃陣）","Priests are experts in supporting their
-alliesand excel in support such as recovery,
-ability increases and
-detecting enemy weaknesses.
-[Basic Operations] [<KC ATTACK1>] Heal Aura (Creates a
-recovery field around oneself) [<KC ATTACK2>] Blast Bit
-(Attack with magick spheres) [<KC SKILL_NORMAL1>] Holy Aura
-(Creates an offensive holy strike
-field around oneself)",ui\00_message\tutorial_guide\steps\tutorial_guide_step74.gmd,\tguide\tutorial_guide_74.arc,tutorial_guide_74.arc,0,,Tutorial Text
+　【<KC SKILL_NORMAL1>】セイントオーラ（自身に攻撃用の聖撃陣）","Als Priester heilst du deine Verbündeten,
+stärkst sie und spürst Schwachstellen auf.
+
+[Grundsteuerung]
+[<KC ATTACK1>] Heilaura um dich erzeugen
+[<KC ATTACK2>] Magiekugel auf Gegner schießen
+[<KC SKILL_NORMAL1>] Heilige Aura um dich
+erzeugen. Sie trifft Gegner in ihrer Nähe.",ui\00_message\tutorial_guide\steps\tutorial_guide_step74.gmd,\tguide\tutorial_guide_74.arc,tutorial_guide_74.arc,0,,Tutorial Text
 0,TUTORIAL_STEP_125,"シールドセージは、大盾で受けた敵の力を自身の
 力に変えて最前線で仲間を守る、パーティーの
 砦役です。属性魔法の使い手でもあります
@@ -238709,13 +238701,16 @@ field around oneself)",ui\00_message\tutorial_guide\steps\tutorial_guide_step74.
 　【<KC WEAPON_SUB>】シールドロック（ガード）
 　【<KC ATTACK1>】シールドブロウ（盾連撃）
 　【<KC WEAPON_MAIN>】アトラクト（敵の注目を集める）
-　※抜刀中は戦闘行動中とスキ以外はオートガード","Shield Sages are frontline fortresses,
-converting blocked damage into power, along with
-commanding elemental magicks.
-<KC WEAPON_SUB> Shield Lock (Guard)
-<KC ATTACK1> Shield Blow (Shield Combo)
-<KC WEAPON_MAIN> Attract (Draws enemy ire) ※Auto-guards when
-shield out (except during skills)",ui\00_message\tutorial_guide\steps\tutorial_guide_step76.gmd,\tguide\tutorial_guide_76.arc,tutorial_guide_76.arc,0,,Tutorial Text
+　※抜刀中は戦闘行動中とスキ以外はオートガード","Als Schildweiser schützt du deine Gruppe.
+Mit dem Großschild wandelst du geblockte
+Angriffe in Kraft für Elementarmagie um.
+
+[Grundsteuerung]
+[<KC WEAPON_SUB>] Schildblock
+[<KC ATTACK1>] Schildhieb
+[<KC WEAPON_MAIN>] Provozieren. Zieht Gegner an.
+Mit gezogenem Schild blockst du automatisch,
+solange du gerade keine Aktion ausführst.",ui\00_message\tutorial_guide\steps\tutorial_guide_step76.gmd,\tguide\tutorial_guide_76.arc,tutorial_guide_76.arc,0,,Tutorial Text
 0,TUTORIAL_STEP_126,"シーカーは、ダガ―による連撃やシーカーロープを
 使った空中攻撃などトリッキーで手数豊富な
 軽業の使い手です
@@ -239299,15 +239294,15 @@ currently available dyes.
 　青（Ｇｒｅａｔ！！）
 　　　　スキ短縮、 弓射ちの初撃が３本に
 　水色（Ｇｏｏｄ！）
-　　　　スキ短縮","Furthermore, the light blue and blue parts of
-the arrow loading gauge indicate the timing
-for a ""Perfect Timing"".
-By pressing the [R] button at that timing, the
-""Adept Reload"" will activate, reducing the
-cooldown time and increasing the power.
-Blue (Great!!) Cooldown reduction, the first
-arrow splits into 3 Light Blue
-(Good!) Cooldown reduction",ui\00_message\tutorial_guide\steps\tutorial_guide_step75.gmd,\tguide\tutorial_guide_75.arc,tutorial_guide_75.arc,1,,Tutorial Text
+　　　　スキ短縮","Blaue und hellblaue Bereiche der Ladeanzeige
+zeigen den <COL ffdc78>richtigen Moment</COL> zum Nachladen.
+Drücke dann <PADM>[<ICON STG_TOUCH>]<KEYM>[<ICON KB_R>]</KEYM> für
+<COL ffdc78>Gekonntes Nachladen</COL>.
+
+Blau (Great!!)
+Schneller bereit. Der erste Schuss hat 3 Pfeile.
+Hellblau (Good!)
+Schneller wieder schussbereit.",ui\00_message\tutorial_guide\steps\tutorial_guide_step75.gmd,\tguide\tutorial_guide_75.arc,tutorial_guide_75.arc,1,,Tutorial Text
 1,TUTORIAL_STEP_275,"そして、ソーサラーにとって重要なのは
 魔法の威力をあげる《スペリング》です
 詠唱中に唱えたスペリングコマンドの
@@ -239897,38 +239892,33 @@ of what you have actually equipped.",ui\00_message\tutorial_guide\steps\tutorial
 射撃も行うことができます
 <PADM>　【<KC WEAPON_MAIN>】爆矢構え<KEYM>　弓構えから【<ICON MOUSE_WHL_4>前後】構え変更（弓射ち／爆矢構え切替）
 　（初期設定の場合）</KEYM>
-　爆矢構えから【<KC SHOOT>】仕込み爆矢射ち","Through attacks with a bow, in addition to
-regular arrows, you can also perform shots with
-'Blast Arrows.' ​<PADM> <KC WEAPON_MAIN>Blast Arrow Ready
-<KEYM> Aim Switch stance from bow stance with​ <ICON MOUSE_WHL_4>
-​(Switch between Bow shot and Blast Arrow
-stance) (Initial setting) </KEYM>
-From Blast Arrow Ready, perform <KC SHOOT>
-and shoot Blast Arrows.",ui\00_message\tutorial_guide\steps\tutorial_guide_step177.gmd,\tguide\tutorial_guide_177.arc,tutorial_guide_177.arc,0,,Tutorial Text
+　爆矢構えから【<KC SHOOT>】仕込み爆矢射ち","Mit dem Bogen kannst du auch
+Explosivpfeile verschießen.
+<PADM>[<KC WEAPON_MAIN>] Explosivpfeil anlegen
+<KEYM>Beim Zielen mit [<ICON MOUSE_WHL_4>]
+zwischen normalen und Explosivpfeilen
+wechseln (Standardeinstellung).</KEYM>
+Mit [<KC SHOOT>] den Explosivpfeil abschießen.",ui\00_message\tutorial_guide\steps\tutorial_guide_step177.gmd,\tguide\tutorial_guide_177.arc,tutorial_guide_177.arc,0,,Tutorial Text
 0,TUTORIAL_STEP_174,"プリーストは、自身の周囲に展開した
 ヒールオーラやセイントオーラを、
 味方全員へ転送することもできます
-　【<KC SKILL_NORMAL2>】フィールドシフト（味方に陣を転送）","Priests can also transfer the Heal Aura and Holy
-Aura that they have deployed around
-themselves to all allies.
-[<KC SKILL_NORMAL2>] Field Shift (transfers the
-formation to allies).",ui\00_message\tutorial_guide\steps\tutorial_guide_step178.gmd,\tguide\tutorial_guide_178.arc,tutorial_guide_178.arc,0,,Tutorial Text
+　【<KC SKILL_NORMAL2>】フィールドシフト（味方に陣を転送）","Du kannst deine Heilaura und Heilige Aura
+auf alle Verbündeten übertragen.
+
+[<KC SKILL_NORMAL2>] Aura übertragen",ui\00_message\tutorial_guide\steps\tutorial_guide_step178.gmd,\tguide\tutorial_guide_178.arc,tutorial_guide_178.arc,0,,Tutorial Text
 0,TUTORIAL_STEP_175,"大盾で受けた敵の攻撃は攻力に変換し、
 フォースゲージに溜めて使うことで
 魔法属性攻撃や、エンチャントが行えます
 攻撃、支援に属性技を使い分けましょう
 ＜フォース属性選択＞
 <PADM>　【<KC ATTACK2>】＋【左スティック】<KEYM>　【<KC ATTACK2>】＋【<ICON MOUSE>移動で選択】</KEYM>
-　　　　　　エレメントチェンジ（属性切替）","The enemy's attacks received with the
-Greatshield can be converted into attack power
-and stored in the Force Gauge for use in magick
-attribute attacks or enchantments. Use attribute
-techniques for both offensive
-and support purposes.
-[Force Attribute Selection]
-<PADM> [<KC ATTACK2>] + [Left Stick] <KEYM>[<KC ATTACK2>] + [Select with <ICON MOUSE>
-movement] </KEYM>
-Element Change (Attribute Switching)",ui\00_message\tutorial_guide\steps\tutorial_guide_step179.gmd,\tguide\tutorial_guide_179.arc,tutorial_guide_179.arc,0,,Tutorial Text
+　　　　　　エレメントチェンジ（属性切替）","Der Großschild speichert die Kraft geblockter
+Angriffe in deiner Kraftanzeige. Nutze sie
+für Elementarangriffe und Verzauberungen.
+
+[Elementwechsel]
+<PADM>[<KC ATTACK2>] + [Linker Stick]
+<KEYM>[<KC ATTACK2>] + [<ICON MOUSE> bewegen]</KEYM>",ui\00_message\tutorial_guide\steps\tutorial_guide_step179.gmd,\tguide\tutorial_guide_179.arc,tutorial_guide_179.arc,0,,Tutorial Text
 0,TUTORIAL_STEP_176,"中～大型の敵には<COL ffdc78>《しがみつき》</COL>が可能です
 技や行動も変わるため右下のガイドで確認しましょう
 ＜しがみつき＞
@@ -240227,27 +240217,23 @@ Try on various gear!",ui\00_message\tutorial_guide\steps\tutorial_guide_step176.
 　　　　　　個別の展開陣解除
 また全ての展開陣を一斉に解除することもできます
 　【<KC WEAPON_SUB>】＋【<KC WEAPON_MAIN>】＋【<KC JUMP>】
-　　　　　　展開している陣の一斉解除","You are able to individually release the auras
-that have been activated, such as the Heal Aura
-and Holy Aura, as separate actions.
-[Use the same command as the activated skill]
-Release individual deployed auras You can also
-simultaneously release all deployed auras.
-[<KC WEAPON_SUB>] +[<KC WEAPON_MAIN>] +[<KC JUMP>] Simultaneously
-release all deployed auras.",ui\00_message\tutorial_guide\steps\tutorial_guide_step178.gmd,\tguide\tutorial_guide_178.arc,tutorial_guide_178.arc,1,,Tutorial Text
+　　　　　　展開している陣の一斉解除","Drücke für eine aktive Aura dieselbe Taste
+wie beim Wirken, um sie aufzuheben.
+
+[<KC WEAPON_SUB>] + [<KC WEAPON_MAIN>] + [<KC JUMP>]
+hebt alle aktiven Auren gleichzeitig auf.",ui\00_message\tutorial_guide\steps\tutorial_guide_step178.gmd,\tguide\tutorial_guide_178.arc,tutorial_guide_178.arc,1,,Tutorial Text
 1,TUTORIAL_STEP_327,"フォースゲージを使うことで、属性攻撃や支援が
 可能です。体力ゲージ下のフォースゲージの
 色と本数で使用回数、蓄積状況を確認しましょう
 ＜フォース操作＞
 　【<KC SKILL_NORMAL2>】フォースバースト（属性攻撃）
-　【<KC SKILL_NORMAL1>】フォースエンチャント（属性付与）","By using the Force gauge, you can perform
-attribute attacks and support abilities. Check
-the number and color of the Force gauges below
-the health gauge to confirm the usage count and
-accumulation status.
-<Force manipulation>
-- [Force Burst] (Attribute attack) - [Force
-Enchantment] (Attribute enhancement)",ui\00_message\tutorial_guide\steps\tutorial_guide_step179.gmd,\tguide\tutorial_guide_179.arc,tutorial_guide_179.arc,1,,Tutorial Text
+　【<KC SKILL_NORMAL1>】フォースエンチャント（属性付与）","Mit gespeicherter Kraft kannst du angreifen
+und deine Gruppe mit Elementen unterstützen.
+Farbe und Anzahl der Balken unter deinen
+Lebenspunkten zeigen deinen Vorrat.
+
+[<KC SKILL_NORMAL2>] Kraftstoß (Elementarangriff)
+[<KC SKILL_NORMAL1>] Element verleihen",ui\00_message\tutorial_guide\steps\tutorial_guide_step179.gmd,\tguide\tutorial_guide_179.arc,tutorial_guide_179.arc,1,,Tutorial Text
 0,TUTORIAL_STEP_329,"フィールドや洞窟など、旅先から白竜神殿に
 帰還する時は、《リム転移》が便利です
 【<KC UI_GAME_MENU>】ゲームメニュー内
@@ -241026,14 +241012,12 @@ request will be canceled.",ui\00_message\tutorial_guide\steps\tutorial_guide_ste
 オレンジ色のラインがカーソル中央に合う距離が
 射撃の《最適距離》です</COL>
 その距離から矢を放つことで
-最も大きなダメージを与えることができます","Additionally, the power of the shot varies
-depending on the distance from the enemy.
-<COL ffdc78>When the enemy is captured with the sniper sight
-cursor, the distance where the orange line
-aligns with the center of the cursor is the
-""optimal distance"" for shooting.</COL>
-By shooting arrows from that distance, you can
-inflict the most damage.",ui\00_message\tutorial_guide\steps\tutorial_guide_step177.gmd,\tguide\tutorial_guide_177.arc,tutorial_guide_177.arc,1,,Tutorial Text
+最も大きなダメージを与えることができます","Die Entfernung bestimmt die Schusskraft.
+<COL ffdc78>Visiere einen Gegner an. Die Entfernung ist
+optimal, wenn die orange Linie in der Mitte
+des Fadenkreuzes liegt.</COL>
+Auf diese Distanz richtest du mit deinen
+Pfeilen den größten Schaden an.",ui\00_message\tutorial_guide\steps\tutorial_guide_step177.gmd,\tguide\tutorial_guide_177.arc,tutorial_guide_177.arc,1,,Tutorial Text
 0,TUTORIAL_STEP_401,"メインクエスト中、ボスに勝てない時は
 《復活力》や《黄金石》を使うことで
 倒れたとしても戦闘を続けられます
@@ -244470,9 +244454,9 @@ accepting the quest.",ui\00_message\tutorial_guide\steps\tutorial_guide_step404.
 25,TUTORIAL_71,ウォリアーの戦術的役割,Tactical Role of the Warrior,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,25,,Tutorial Name
 26,TUTORIAL_72,ソーサラーの戦術的役割,Tactical Role of the Sorcerer,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,26,,Tutorial Name
 27,TUTORIAL_73,ファイターの戦法：基本,Grundtaktik: Kämpfer,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,27,,Tutorial Name
-28,TUTORIAL_74,プリーストの戦法：基本,Basic Tactics: Priest,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,28,,Tutorial Name
-29,TUTORIAL_75,ハンターの戦法：基本,Basic Tactics: Hunter,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,29,,Tutorial Name
-30,TUTORIAL_76,シールドセージの戦法：基本,Basic Tactics: Shield Sage,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,30,,Tutorial Name
+28,TUTORIAL_74,プリーストの戦法：基本,Grundtaktik: Priester,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,28,,Tutorial Name
+29,TUTORIAL_75,ハンターの戦法：基本,Grundtaktik: Jäger,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,29,,Tutorial Name
+30,TUTORIAL_76,シールドセージの戦法：基本,Grundtaktik: Schildweiser,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,30,,Tutorial Name
 31,TUTORIAL_77,シーカーの戦法：基本,Basic Tactics: Seeker,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,31,,Tutorial Name
 32,TUTORIAL_78,ウォリアーの戦法：基本,Basic Tactics: Warrior,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,32,,Tutorial Name
 33,TUTORIAL_79,ソーサラーの戦法：基本,Basic Tactics: Sorcerer,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,33,,Tutorial Name
@@ -244527,9 +244511,9 @@ accepting the quest.",ui\00_message\tutorial_guide\steps\tutorial_guide_step404.
 82,TUTORIAL_174,クエストの進め方,How to Continue Quests,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,82,,Tutorial Name
 83,TUTORIAL_175,戦徒の契り,Myrmidon's Pledge,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,83,,Tutorial Name
 84,TUTORIAL_176,着飾り装備,Dress Equipment,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,84,,Tutorial Name
-85,TUTORIAL_177,ハンターの戦法：追記,Advanced Tactics: Hunter,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,85,,Tutorial Name
-86,TUTORIAL_178,プリーストの戦法：追記,Advanced Tactics: Priest,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,86,,Tutorial Name
-87,TUTORIAL_179,シールドセージの戦法：追記,Advanced Tactics: Shield Sage,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,87,,Tutorial Name
+85,TUTORIAL_177,ハンターの戦法：追記,Fortgeschrittene Taktik: Jäger,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,85,,Tutorial Name
+86,TUTORIAL_178,プリーストの戦法：追記,Fortgeschrittene Taktik: Priester,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,86,,Tutorial Name
+87,TUTORIAL_179,シールドセージの戦法：追記,Fortgeschrittene Taktik: Schildweiser,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,87,,Tutorial Name
 88,TUTORIAL_180,しがみつき行動,Clinging,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,88,,Tutorial Name
 89,TUTORIAL_181,冒険フィールドへの出発,Leaving to the Field,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,89,,Tutorial Name
 90,TUTORIAL_182,復活力の回復,Recover Revival Power,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,90,,Tutorial Name
