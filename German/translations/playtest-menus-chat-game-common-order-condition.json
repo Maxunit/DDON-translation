@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Opening route playtest: editor presets, quest conditions, event menus and chat messages",
+  "gmd_path": "ui\\00_message\\common\\order_condition.gmd",
+  "arc_path": "\\game_common.arc",
+  "entries": [
+    {
+      "key": "ORDER_CONDITION_989",
+      "read_index": "1",
+      "source_jp": "全ジョブのいずれかがジョブレベル<QCND 0>以上",
+      "source_en": "Level <QCND 0> in any vocation",
+      "text": "Stufe <QCND 0> in einer beliebigen Klasse"
+    },
+    {
+      "key": "ORDER_CONDITION_995",
+      "read_index": "3",
+      "source_jp": "パーティープレイ不可（ポーン同行不可）",
+      "source_en": "No party members (pawns not allowed)",
+      "text": "Allein, ohne Vasallen"
+    },
+    {
+      "key": "ORDER_CONDITION_998",
+      "read_index": "6",
+      "source_jp": "メインクエスト＜<QCND 0>＞をクリア",
+      "source_en": "Clear Main Quest [<QCND 0>]",
+      "text": "Hauptquest [<QCND 0>] abschließen"
+    },
+    {
+      "key": "ORDER_CONDITION_999",
+      "read_index": "7",
+      "source_jp": "パーソナルクエスト＜<QCND 0>＞をクリア",
+      "source_en": "Clear Personal Quest [<QCND 0>]",
+      "text": "Pers. Quest [<QCND 0>] abschließen"
+    },
+    {
+      "key": "ORDER_CONDITION_1003",
+      "read_index": "10",
+      "source_jp": "パーティープレイ不可（ポーン同行可）",
+      "source_en": "No party members (pawns allowed)",
+      "text": "Allein, Vasallen erlaubt"
+    }
+  ]
+}

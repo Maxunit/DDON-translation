@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Opening route playtest: editor presets, quest conditions, event menus and chat messages",
+  "gmd_path": "ui\\00_message\\ui\\common_message.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "common_delete",
+      "read_index": "59",
+      "source_jp": "削除",
+      "source_en": "Delete",
+      "text": "Löschen"
+    }
+  ]
+}

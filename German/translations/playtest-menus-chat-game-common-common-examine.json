@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "scope": "Opening route playtest: editor presets, quest conditions, event menus and chat messages",
+  "gmd_path": "ui\\00_message\\examine_message\\common\\common_examine.gmd",
+  "arc_path": "\\game_common.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "23",
+      "source_jp": "準備完了！　進行マーカーに触れてください",
+      "source_en": "Ready! Please touch the progress marker.",
+      "text": "Bereit! Berühre die Markierung."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "source_jp": "準備完了！　待機してください",
+      "source_en": "Ready! Please wait.",
+      "text": "Bereit! Bitte warte."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "source_jp": "パーティー全員が集合するまで\r\nサークル内で待機してください",
+      "source_en": "Please wait in the circle\r\nuntil the entire party is ready.",
+      "text": "Warte im Kreis, bis alle da sind."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "source_jp": "リーダーが進行準備・パーティー招集を行いました",
+      "source_en": "Leader has begun a progress preparation.",
+      "text": "Die Gruppenleitung hat die Vorbereitung gestartet."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "source_jp": "パーティー全員が集まり、準備完了したら\r\n進行マーカーに触れてください",
+      "source_en": "Gather the party if you are ready.\r\nPlease touch the progress marker.",
+      "text": "Berühre die Markierung, sobald alle bereit sind."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "source_jp": "イベントを進行しますか？\r\n※パーティー要請中の場合はキャンセルされます",
+      "source_en": "Are you sure you want to proceed\r\nwith the event?\r\n※ If there is a party request,\r\nit will be canceled.",
+      "text": "Mit dem Ereignis fortfahren?\r\nEine laufende Gruppenanfrage\r\nwird dabei abgebrochen."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "source_jp": "準備開始（パーティー招集）",
+      "source_en": "Prepare (begin gathering party)",
+      "text": "Gruppe versammeln"
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "source_jp": "イベント進行はリーダーのみ可能です",
+      "source_en": "Only the party leader can progress the event.",
+      "text": "Nur die Gruppenleitung kann fortfahren."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "source_jp": "イベント進行確認",
+      "source_en": "Confirm Event Progress",
+      "text": "Ereignis fortsetzen?"
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "source_jp": "進行する",
+      "source_en": "Proceed",
+      "text": "Fortfahren"
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "source_jp": "イベント進行待機に入ります\r\n準備はよろしいですか？",
+      "source_en": "You will begin waiting to progress the event.\r\nAre you sure you are ready?",
+      "text": "Auf den Start des Ereignisses warten?"
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "source_jp": "はい",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "source_jp": "待機を解除しますか？",
+      "source_en": "Are you sure you want to cancel waiting?",
+      "text": "Warten abbrechen?"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "source_jp": "はい",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "source_jp": "メンバーが集合するまで\r\nサークル内で待機してください",
+      "source_en": "Until the party members are ready,\r\nplease wait in the circle.",
+      "text": "Warte im Kreis, bis alle da sind."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "source_jp": "イベント進行確認",
+      "source_en": "Confirm Event Progress",
+      "text": "Ereignis fortsetzen?"
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "source_jp": "進行する",
+      "source_en": "Proceed",
+      "text": "Fortfahren"
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "source_jp": "準備解除（パーティー招集中止）",
+      "source_en": "Disband (stop gathering party)",
+      "text": "Gruppenruf abbrechen"
+    },
+    {
+      "key": "",
+      "read_index": "45",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "source_jp": "イベント進行確認",
+      "source_en": "Confirm Event Progress",
+      "text": "Ereignis fortsetzen?"
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "source_jp": "準備完了、待機",
+      "source_en": "Ready and waiting.",
+      "text": "Bereit und wartet"
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "source_jp": "準備解除（パーティー招集中止）",
+      "source_en": "Disband (stop gathering party)",
+      "text": "Gruppenruf abbrechen"
+    },
+    {
+      "key": "",
+      "read_index": "49",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "",
+      "read_index": "50",
+      "source_jp": "イベント進行確認\r\n（全メンバーの準備完了を待ちます）",
+      "source_en": "Confirm Event Progress\r\n(Wait for all party members to be ready)",
+      "text": "Ereignis fortsetzen?\r\nWarte, bis alle bereit sind."
+    },
+    {
+      "key": "",
+      "read_index": "51",
+      "source_jp": "準備解除（パーティー招集中止）",
+      "source_en": "Disband (stop gathering party)",
+      "text": "Gruppenruf abbrechen"
+    },
+    {
+      "key": "",
+      "read_index": "52",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "",
+      "read_index": "90",
+      "source_jp": "イベントを進行しますか？\r\n※パーティー要請中の場合はキャンセルされます",
+      "source_en": "Are you sure you want to proceed\r\nwith the event?\r\n※ If there is a party request,\r\nit will be canceled.",
+      "text": "Mit dem Ereignis fortfahren?\r\nEine laufende Gruppenanfrage\r\nwird dabei abgebrochen."
+    },
+    {
+      "key": "",
+      "read_index": "91",
+      "source_jp": "準備開始",
+      "source_en": "Start Preparation",
+      "text": "Vorbereitung starten"
+    },
+    {
+      "key": "",
+      "read_index": "92",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "",
+      "read_index": "93",
+      "source_jp": "イベント進行確認",
+      "source_en": "Confirm Event Progress",
+      "text": "Ereignis fortsetzen?"
+    },
+    {
+      "key": "",
+      "read_index": "94",
+      "source_jp": "進行する",
+      "source_en": "Proceed",
+      "text": "Fortfahren"
+    },
+    {
+      "key": "",
+      "read_index": "95",
+      "source_jp": "準備解除",
+      "source_en": "Cancel Preparation",
+      "text": "Vorbereitung abbrechen"
+    },
+    {
+      "key": "",
+      "read_index": "96",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    }
+  ]
+}

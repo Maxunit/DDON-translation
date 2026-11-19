@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Opening route playtest: editor presets, quest conditions, event menus and chat messages",
+  "gmd_path": "ui\\00_message\\ui\\system_log.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "syslog_quest_accept_solo",
+      "read_index": "39",
+      "source_jp": "<NAME QUEST>を受注しました",
+      "source_en": "<NAME QUEST>\r\nhas been accepted.",
+      "text": "„<NAME QUEST>“ angenommen."
+    },
+    {
+      "key": "syslog_quest_accept_party",
+      "read_index": "40",
+      "source_jp": "<NAME TARGET>が<NAME QUEST>を受注しました",
+      "source_en": "<NAME TARGET> has accepted\r\n<NAME QUEST>.",
+      "text": "<NAME TARGET> nimmt „<NAME QUEST>“ an."
+    },
+    {
+      "key": "syslog_quest_clear",
+      "read_index": "43",
+      "source_jp": "<NAME QUEST>をクリアしました",
+      "source_en": "<NAME QUEST>\r\nhas been completed.",
+      "text": "„<NAME QUEST>“ abgeschlossen."
+    },
+    {
+      "key": "syslog_quest_assist",
+      "read_index": "44",
+      "source_jp": "<NAME QUEST>のクリアをアシストしました",
+      "source_en": "<NAME QUEST> has been\r\ncompleted with your assistance.",
+      "text": "„<NAME QUEST>“: Abschluss unterstützt."
+    },
+    {
+      "key": "syslog_content_end_by_clear",
+      "read_index": "83",
+      "source_jp": "<NAME QUEST>をクリアにより終了します",
+      "source_en": "<NAME QUEST>\r\nhas been cleared.",
+      "text": "„<NAME QUEST>“ abgeschlossen."
+    },
+    {
+      "key": "syslog_om_warp",
+      "read_index": "112",
+      "source_jp": "<NAME TARGET>はリム転移した",
+      "source_en": "<NAME TARGET> \r\nhas teleported through the rift.",
+      "text": "Rift-Transport von <NAME TARGET>."
+    }
+  ]
+}

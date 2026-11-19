@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "scope": "Opening route playtest: editor presets, quest conditions, event menus and chat messages",
+  "gmd_path": "ui\\00_message\\ui\\character_edit_dialog_win.gmd",
+  "arc_path": "\\ui\\uGUICharacterEdit.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_DIALOG_REPLY_CONTINUE",
+      "read_index": "4",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_REPLY_BACK",
+      "read_index": "6",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_REPLY_EDIT_SAVE",
+      "read_index": "8",
+      "source_jp": "エディットをセーブする",
+      "source_en": "Save the edits",
+      "text": "Vorlage speichern"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_CHOICE_SAVE",
+      "read_index": "9",
+      "source_jp": "セーブ",
+      "source_en": "Save",
+      "text": "Speichern"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_CHOICE_LOAD",
+      "read_index": "10",
+      "source_jp": "ロード",
+      "source_en": "Load",
+      "text": "Laden"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SAVE_LOAD",
+      "read_index": "16",
+      "source_jp": "エディットのセーブ/ロード\r\n性別や顔、体型などのモデルに関する\r\nエディット情報をセーブ\r\nまたはロードすることができます",
+      "source_en": "Save/Load edits\r\nSave or Load edit information about the model,\r\nsuch as gender, face, body type, etc.",
+      "text": "Vorlagen speichern und laden\r\nSpeichere oder lade Einstellungen wie\r\nGeschlecht, Gesicht und Körperbau."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SAVE_WORD",
+      "read_index": "17",
+      "source_jp": "現在のエディット情報をセーブします",
+      "source_en": "Save current edits",
+      "text": "Vorlage speichern"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SAVE_DATE",
+      "read_index": "18",
+      "source_jp": "エディットデータ：",
+      "source_en": "Edit data: ",
+      "text": "Vorlage: "
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_LOAD_OVERWRITE",
+      "read_index": "19",
+      "source_jp": "ロードしたエディット情報を\r\n今のモデルに\r\n適用してもよろしいですか？",
+      "source_en": "Are you sure you wish to apply the loaded edit\r\ninformation to your current model?",
+      "text": "Geladene Vorlage übernehmen?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_ERROR_LOAD_NG_DATA",
+      "read_index": "20",
+      "source_jp": "ロードしたエディットデータは\r\n破損しているため使用できません",
+      "source_en": "Loaded edit data cannot be used because it is\r\ncorrupted",
+      "text": "Die Vorlage ist beschädigt."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_LOAD_OVERWRITE_AT",
+      "read_index": "21",
+      "source_jp": "ロードしたエディットデータは\r\n設定できない項目が含まれているため\r\n使用できません",
+      "source_en": "Loaded edit data cannot be used\r\nbecause it contains items that cannot be set",
+      "text": "Die Vorlage enthält Optionen,\r\ndie du nicht verwenden kannst."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_ERROR_LOAD_NG_SEX",
+      "read_index": "22",
+      "source_jp": "ロードしたエディットデータは\r\n設定している性別と異なるため\r\n使用できません",
+      "source_en": "The loaded edit data is different from the gender\r\nset and cannot be used",
+      "text": "Die Vorlage hat ein anderes Geschlecht\r\nund kann nicht geladen werden."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_SAVEDATA_SAVEWORD",
+      "read_index": "26",
+      "source_jp": "セーブするスロットを選択してください",
+      "source_en": "Please select the slot to save",
+      "text": "Speicherplatz für die Vorlage wählen"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_SAVEDATA_LOADWORD",
+      "read_index": "27",
+      "source_jp": "ロードするスロットを選択してください",
+      "source_en": "Please select the slot to load",
+      "text": "Vorlage zum Laden auswählen"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_SAVEDATA_DATE",
+      "read_index": "28",
+      "source_jp": "作成日時",
+      "source_en": "Creation Time",
+      "text": "Erstellt am"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_SAVEDATA_AUTHOR",
+      "read_index": "29",
+      "source_jp": "作成者",
+      "source_en": "Author",
+      "text": "Autor"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_SAVEDATA_SEX",
+      "read_index": "30",
+      "source_jp": "性別",
+      "source_en": "Gender",
+      "text": "Geschl."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_SAVEDATA_COMMENT",
+      "read_index": "31",
+      "source_jp": "コメント",
+      "source_en": "Comment",
+      "text": "Kommentar"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_SAVE_OVERWRITE",
+      "read_index": "32",
+      "source_jp": "既存のセーブデータに\r\n上書きしてもよろしいですか？",
+      "source_en": "Are you sure you want to overwrite your existing\r\nsaved data?",
+      "text": "Gespeicherte Vorlage überschreiben?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_SAVING",
+      "read_index": "33",
+      "source_jp": "保存しています\r\nPC本体の電源を\r\n切らないでください",
+      "source_en": "Saving\r\nDo not turn off the power of the PC",
+      "text": "Speichern läuft.\r\nSchalte den PC nicht aus."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_SAVE_FINISH",
+      "read_index": "34",
+      "source_jp": "セーブが終了しました",
+      "source_en": "Saving is finished.",
+      "text": "Vorlage gespeichert"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_ERROR_HDD_NOSPACE",
+      "read_index": "35",
+      "source_jp": "記憶デバイスの\r\n空き容量が不足しています\r\n空き容量を確保してください",
+      "source_en": "Insufficient free space on storage device\r\nPlease free up space",
+      "text": "Zu wenig Speicherplatz.\r\nGib Speicherplatz frei."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_ERROR_SAVE_FAILED",
+      "read_index": "36",
+      "source_jp": "セーブデータの保存に\r\n失敗しました",
+      "source_en": "Failed to save.",
+      "text": "Speichern fehlgeschlagen."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_LOADING",
+      "read_index": "37",
+      "source_jp": "ロードしています\r\nPC本体の電源を\r\n切らないでください",
+      "source_en": "Loading\r\nDo not turn off the power to the PC",
+      "text": "Lade Vorlage.\r\nSchalte den PC nicht aus."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_LOAD_FINISH",
+      "read_index": "38",
+      "source_jp": "ロードが終了しました",
+      "source_en": "Loading Complete",
+      "text": "Vorlage geladen"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_ERROR_LOAD_CRASH_DATA",
+      "read_index": "39",
+      "source_jp": "セーブデータが破損しているため\r\nロードできません",
+      "source_en": "Unable to load due to corrupted save data",
+      "text": "Die Vorlage ist beschädigt."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_ERROR_LOAD_FAILED",
+      "read_index": "40",
+      "source_jp": "セーブデータのロードに\r\n失敗しました",
+      "source_en": "Loading saved data failed",
+      "text": "Laden fehlgeschlagen."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_DELETE_DATA",
+      "read_index": "41",
+      "source_jp": "セーブデータを削除してもよろしいですか？",
+      "source_en": "Are you sure you want to delete your saved data?",
+      "text": "Diese Vorlage löschen?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_DELETING",
+      "read_index": "42",
+      "source_jp": "削除しています\r\nPC本体の電源を\r\n切らないでください",
+      "source_en": "Deleting\r\nDo not turn off the PC itself",
+      "text": "Löschen läuft.\r\nSchalte den PC nicht aus."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_DELETE_FINISH",
+      "read_index": "43",
+      "source_jp": "削除しました",
+      "source_en": "Deleted successfully",
+      "text": "Vorlage gelöscht"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_ERROR_DELETE_FAILED",
+      "read_index": "44",
+      "source_jp": "セーブデータの削除に\r\n失敗しました",
+      "source_en": "Deletion of saved data failed",
+      "text": "Löschen fehlgeschlagen."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_CANCEL_LOADDATA",
+      "read_index": "48",
+      "source_jp": "ロードをキャンセルしますか？",
+      "source_en": "Are you sure you want to cancel the load?",
+      "text": "Laden abbrechen?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_PC_CANCEL_SAVEDATA",
+      "read_index": "49",
+      "source_jp": "セーブをキャンセルしますか？",
+      "source_en": "Are you sure you want to cancel the save?",
+      "text": "Speichern abbrechen?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SAVE_NODATA",
+      "read_index": "50",
+      "source_jp": "NO DATA",
+      "source_en": "NO DATA",
+      "text": "LEER"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SAVE_SEX_F",
+      "read_index": "51",
+      "source_jp": "女性",
+      "source_en": "Female",
+      "text": "Weiblich"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SAVE_SEX_M",
+      "read_index": "52",
+      "source_jp": "男性",
+      "source_en": "Male",
+      "text": "Männlich"
+    }
+  ]
+}

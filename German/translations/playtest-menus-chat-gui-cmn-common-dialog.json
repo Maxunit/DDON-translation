@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "scope": "Opening route playtest: editor presets, quest conditions, event menus and chat messages",
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_quest_info_assept",
+      "read_index": "338",
+      "source_jp": "パーティーメンバーが＜<VAL>＞を受注しました",
+      "source_en": "A party member has accepted the quest \r\n\"<VAL>\".",
+      "text": "Gruppenmitglied: „<VAL>“ angenommen."
+    },
+    {
+      "key": "ana_quest_info_clear",
+      "read_index": "339",
+      "source_jp": "パーティーメンバーが＜<VAL>＞をクリアしました",
+      "source_en": "A party member has cleared the \"<VAL>\" quest.",
+      "text": "Gruppenmitglied: „<VAL>“ abgeschlossen."
+    },
+    {
+      "key": "ana_quest_info_cancel",
+      "read_index": "340",
+      "source_jp": "<VAL>が＜<VAL>＞を破棄しました",
+      "source_en": "<VAL> has canceled the quest \"<VAL>\".",
+      "text": "<VAL> hat „<VAL>“ aufgegeben."
+    },
+    {
+      "key": "ana_pt_mem_warp_begin",
+      "read_index": "341",
+      "source_jp": "<NAME TARGET>が＜<VAL>＞にリム転移しました",
+      "source_en": "<NAME TARGET> \r\nhas teleported to \"<VAL>\".",
+      "text": "<NAME TARGET> reist per Rift nach „<VAL>“."
+    },
+    {
+      "key": "ana_quest_info_update",
+      "read_index": "342",
+      "source_jp": "パーティーメンバーが＜<VAL>＞を進行しました",
+      "source_en": "A party member has updated progress\r\non the quest \"<VAL>\".",
+      "text": "Gruppenmitglied: „<VAL>“ weitergeführt."
+    },
+    {
+      "key": "ana_quest_info_accept_solo",
+      "read_index": "343",
+      "source_jp": "＜<VAL>＞を受注しました",
+      "source_en": "\"<VAL>\" has been accepted.",
+      "text": "„<VAL>“ angenommen."
+    },
+    {
+      "key": "ana_quest_info_clear_solo",
+      "read_index": "344",
+      "source_jp": "＜<VAL>＞をクリアしました",
+      "source_en": "\"<VAL>\" has been cleared.",
+      "text": "„<VAL>“ abgeschlossen."
+    },
+    {
+      "key": "ana_quest_info_update_solo",
+      "read_index": "345",
+      "source_jp": "＜<VAL>＞を進行しました",
+      "source_en": "\"<VAL>\" \r\nquest progress has been updated.",
+      "text": "„<VAL>“: Fortschritt aktualisiert."
+    }
+  ]
+}
