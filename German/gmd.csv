@@ -5084,9 +5084,9 @@ anniversary.",ui\00_message\clan_shop\clan_shop_lineups.gmd,\ui\uGUIPopBuffBonus
 クリスマスツリーが設置できます",A Christmas tree can be set up in the square.,ui\00_message\clan_shop\clan_shop_lineups.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,49,,Clan Unlockables
 49,CLAN_SHOP_LINEUP_ID_67,"広場に
 クリスマスツリーが設置できます",A Christmas tree can be set up in the square.,ui\00_message\clan_shop\clan_shop_lineups.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,49,,Clan Unlockables
-0,AREA_NAME_1,ハイデル平原,Hidell Plains,ui\00_message\common\area_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Area Name
+0,AREA_NAME_1,ハイデル平原,Hidell-Ebene,ui\00_message\common\area_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,,Area Name
 1,AREA_NAME_2,ブリア海岸,Breya Coast,ui\00_message\common\area_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,,Area Name
-2,AREA_NAME_3,ミスリウ森林,Mysree Forest,ui\00_message\common\area_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Area Name
+2,AREA_NAME_3,ミスリウ森林,Mysree-Wald,ui\00_message\common\area_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,2,,Area Name
 3,AREA_NAME_4,ボルド鉱山,Volden Mines,ui\00_message\common\area_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,3,,Area Name
 4,AREA_NAME_5,ダウ渓谷,Dowe Valley,ui\00_message\common\area_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,4,,Area Name
 5,AREA_NAME_6,ミスリウ森林深部,Mysree Grove,ui\00_message\common\area_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,5,,Area Name
@@ -57124,7 +57124,7 @@ become incapacitated.
 9,RELEASE_CONTENT_11,クラフト,Craft,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,System Unlocks
 10,RELEASE_CONTENT_12,リムストーン,Riftstone,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,System Unlocks
 11,RELEASE_CONTENT_13,クエストボード,Questboard,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,11,,System Unlocks
-12,RELEASE_CONTENT_15,エリアマスター,Area Master,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,System Unlocks
+12,RELEASE_CONTENT_15,エリアマスター,Gebietsmeister,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,System Unlocks
 13,RELEASE_CONTENT_16,エリアマスターのワールドクエスト情報,Area Master's World Quest Info,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,13,,System Unlocks
 14,RELEASE_CONTENT_17,ファイターのジョブ修練,Fighter Job Training,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,14,,System Unlocks
 15,RELEASE_CONTENT_18,ハンターのジョブ修練,Hunter Job Training,ui\00_message\common\release_content.gmd,\ui\gui_cmn.arc,gui_cmn.arc,15,,System Unlocks
@@ -57223,12 +57223,12 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 7,SPOT_NAME_457,ドラワン,Drawan,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,7,,Spot Name
 8,SPOT_NAME_458,ゾマ,Zoma,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,8,,Spot Name
 9,SPOT_NAME_459,メルゴダ居住区,Mergoda Residential Area,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,Spot Name
-10,SPOT_NAME_460,ハイデル平原,Hidell Plains,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Spot Name
+10,SPOT_NAME_460,ハイデル平原,Hidell-Ebene,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,Spot Name
 11,SPOT_NAME_461,ブリア海岸,Breya Coast,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,11,,Spot Name
 12,SPOT_NAME_462,バートランド平原,Betland Plains,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,12,,Spot Name
 13,SPOT_NAME_463,ダウ渓谷,Dowe Valley,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,13,,Spot Name
 14,SPOT_NAME_464,ボルド鉱山,Volden Mines,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,14,,Spot Name
-15,SPOT_NAME_465,ミスリウ森林,Mysree Forest,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,15,,Spot Name
+15,SPOT_NAME_465,ミスリウ森林,Mysree-Wald,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,15,,Spot Name
 16,SPOT_NAME_466,ミスリウ森林深部,Mysree Grove,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,16,,Spot Name
 17,SPOT_NAME_467,バートランド平原北部,Northern Betland Plains,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,17,,Spot Name
 18,SPOT_NAME_468,ザンドラ東部,Eastern Zandora,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,18,,Spot Name
@@ -57245,7 +57245,7 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 29,SPOT_NAME_479,黄金宮,The Golden Palace,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,29,,Spot Name
 30,SPOT_NAME_480,亡都メルゴダ,Mergoda Ruins,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,30,,Spot Name
 31,SPOT_NAME_481,メルゴダ護政区,Mergoda Security District,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,31,,Spot Name
-32,SPOT_NAME_482,ポーン郷,Pawn Cathedral,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,32,,Spot Name
+32,SPOT_NAME_482,ポーン郷,Pawn-Kathedrale,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,32,,Spot Name
 33,SPOT_NAME_483,キノザ鉱泉,Kinoza Mineral Springs,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,33,,Spot Name
 34,SPOT_NAME_484,禊の神殿　離殿,Temple of Purification: South Chamber,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,34,,Spot Name
 35,SPOT_NAME_485,古の祭祀場,Ancient Ritual Ground,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,35,,Spot Name
@@ -57318,7 +57318,7 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 102,SPOT_NAME_552,悪鬼の岩窟,Demon's Grotto,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,102,,Spot Name
 103,SPOT_NAME_553,ミスリウ鍾乳洞,Mysree Limestone Cave,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,103,,Spot Name
 104,SPOT_NAME_554,魔獣の巣穴,Demon's Den,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,104,,Spot Name
-105,SPOT_NAME_555,狩人の抜け穴,Hunters' Secret Passage,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,105,,Spot Name
+105,SPOT_NAME_555,狩人の抜け穴,Geheimgang der Jäger,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,105,,Spot Name
 106,SPOT_NAME_556,秘弓師の住居,Bowmaster's Secret Lodge,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,106,,Spot Name
 107,SPOT_NAME_557,深緑のテラス,Dark Green Terrace,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,107,,Spot Name
 108,SPOT_NAME_558,霊泉のテラス,Sacred Spring Terrace,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,108,,Spot Name
@@ -57345,7 +57345,7 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 129,SPOT_NAME_579,開かずの路,Blocked Passage,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,129,,Spot Name
 130,SPOT_NAME_580,ハイデル街道の枯れ井戸,Roadside Dry Well,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,130,,Spot Name
 131,SPOT_NAME_581,平原の廃墟地下室,Plains House Abandoned Cellar,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,131,,Spot Name
-132,SPOT_NAME_582,廃屋の地下室,Abandoned House Cellar,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,132,,Spot Name
+132,SPOT_NAME_582,廃屋の地下室,Keller des verlassenen Hauses,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,132,,Spot Name
 133,SPOT_NAME_583,テルの枯れ井戸,Tel's Withered Well,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,133,,Spot Name
 134,SPOT_NAME_585,海辺の地下室,Seaside Cellar,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,134,,Spot Name
 135,SPOT_NAME_586,浜辺の地下保管庫,Beachside Underground Stores,ui\00_message\common\spot_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,135,,Spot Name
@@ -58015,13 +58015,13 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 17,STAGE_NAME_20,ヤンクスの武器屋,Yanks' Weapon Shop,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,17,,Stage Name
 18,STAGE_NAME_21,民家,House,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,18,,Stage Name
 19,STAGE_NAME_22,イヴァンの山小屋,Ivan's Lodge,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,19,,Stage Name
-20,STAGE_NAME_23,エテルナ装具屋,Eterna's Outfitter,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,20,,Stage Name
+20,STAGE_NAME_23,エテルナ装具屋,Eternas Ausrüstungsladen,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,20,,Stage Name
 21,STAGE_NAME_24,リンウッド組合宿　白鹿亭,White Deer Inn,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,21,,Stage Name
-22,STAGE_NAME_25,テル組合宿　黒ブドウ亭,Black Grape Inn,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,22,,Stage Name
+22,STAGE_NAME_25,テル組合宿　黒ブドウ亭,Gasthaus Zur Schwarzen Traube,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,22,,Stage Name
 23,STAGE_NAME_26,ローテス組合宿　海竜亭,Sea Dragon Inn,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,23,,Stage Name
 24,STAGE_NAME_27,食糧庫,Supply Store,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,24,,Stage Name
 25,STAGE_NAME_28,森の廃墟地下,Forest Ruins Cellar,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,25,,Stage Name
-26,STAGE_NAME_29,廃屋の地下室,Abandoned House Cellar,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,26,,Stage Name
+26,STAGE_NAME_29,廃屋の地下室,Keller des verlassenen Hauses,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,26,,Stage Name
 27,STAGE_NAME_30,廃墟の食糧庫,Supply Store Ruins,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,27,,Stage Name
 28,STAGE_NAME_31,崩れかけたワイン庫,Wine Cellar Ruins,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,28,,Stage Name
 29,STAGE_NAME_32,灯台の地下倉庫,Lighthouse Cellar,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,29,,Stage Name
@@ -58070,7 +58070,7 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 72,STAGE_NAME_75,黄金宮,The Golden Palace,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,72,,Stage Name
 73,STAGE_NAME_76,亡都メルゴダ　下層,Mergoda Ruins: Lower Level,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,73,,Stage Name
 74,STAGE_NAME_77,メルゴダ護政区,Mergoda Security District,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,74,,Stage Name
-75,STAGE_NAME_78,ポーン郷,Pawn Cathedral,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,75,,Stage Name
+75,STAGE_NAME_78,ポーン郷,Pawn-Kathedrale,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,75,,Stage Name
 76,STAGE_NAME_79,古の祭祀場,Ancient Ritual Ground,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,76,,Stage Name
 77,STAGE_NAME_80,キノザ鉱泉,Kinoza Mineral Springs,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,77,,Stage Name
 78,STAGE_NAME_81,禊の神殿　離殿,Temple of Purification: South Chamber,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,78,,Stage Name
@@ -58153,7 +58153,7 @@ already released",ui\00_message\common\shop_goods_unlock_condition.gmd,\ui\uGUIP
 155,STAGE_NAME_158,蒼水路,Blue Waterway,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,155,,Stage Name
 156,STAGE_NAME_159,ミスリウ鍾乳洞,Mysree Limestone Cave,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,156,,Stage Name
 157,STAGE_NAME_160,魔獣の巣穴,Demon's Den,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,157,,Stage Name
-158,STAGE_NAME_161,狩人の抜け穴,Hunters' Secret Passage,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,158,,Stage Name
+158,STAGE_NAME_161,狩人の抜け穴,Geheimgang der Jäger,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,158,,Stage Name
 159,STAGE_NAME_162,聖樹のテラス,Sacred Tree Terrace,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,159,,Stage Name
 160,STAGE_NAME_163,神花のテラス,Divine Blossom Terrace,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,160,,Stage Name
 161,STAGE_NAME_164,旧地下実験所,Old Underground Laboratory,ui\00_message\common\stage_list.gmd,\ui\gui_cmn.arc,gui_cmn.arc,161,,Stage Name
@@ -58779,7 +58779,7 @@ Destruction power.</COL>",ui\00_message\dragon_skill\skill_info.gmd,\dragon_skil
 51,ENEMY_NAME_51,ウォリアーアンデッド,Undead Warrior,ui\00_message\enemy\enemy_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,51,,Enemy Name
 52,ENEMY_NAME_52,ソードアンデッド,Undead Swordsman,ui\00_message\enemy\enemy_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,52,,Enemy Name
 53,ENEMY_NAME_53,ファットアンデッド,Stout Undead,ui\00_message\enemy\enemy_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,53,,Enemy Name
-54,ENEMY_NAME_54,アンデッド,Undead,ui\00_message\enemy\enemy_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,54,,Enemy Name
+54,ENEMY_NAME_54,アンデッド,Untoter,ui\00_message\enemy\enemy_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,54,,Enemy Name
 55,ENEMY_NAME_55,シャドーハーピー,Shadow Harpy,ui\00_message\enemy\enemy_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,55,,Enemy Name
 56,ENEMY_NAME_56,ハーピーアルケミー,Alchemized Harpy,ui\00_message\enemy\enemy_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,56,,Enemy Name
 57,ENEMY_NAME_57,スノーハーピー,Snow Harpy,ui\00_message\enemy\enemy_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,57,,Enemy Name
@@ -59497,112 +59497,91 @@ starting demo",ui\00_message\event\event_name.gmd,\EventViewRoom.arc,EventViewRo
 353,EVENT_NAME_st3600ev000,EX3.5-SP1,EM3.5-SP1,ui\00_message\event\event_name.gmd,\EventViewRoom.arc,EventViewRoom.arc,353,,Cutscene Name
 355,EVENT_NAME_st3601ev000,EX3.5-SP3,EM3.5-SP3,ui\00_message\event\event_name.gmd,\EventViewRoom.arc,EventViewRoom.arc,355,,Cutscene Name
 354,EVENT_NAME_st3602ev000,EX3.5-SP2,EM3.5-SP2,ui\00_message\event\event_name.gmd,\EventViewRoom.arc,EventViewRoom.arc,354,,Cutscene Name
-0,,なんだおまえは？　あ？　レオの使い？,Who are you? Huh? Leo's messenger?,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,0,Gurdolin,Lestania Cutscene
+0,,なんだおまえは？　あ？　レオの使い？,Wer bist du? Hat Leo dich geschickt?,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,0,Gurdolin,Lestania Cutscene
 0,,"おい、声を低く――奴らに聞かせるな
-――それで、なんの用だ","Hey, lower your voice - don't let them hear you.
-So, what do you want?",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,1,Gurdolin,Lestania Cutscene
-0,,撤収？　はん！レオめ――,Withdraw? Hmph! That Leo!,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,2,Gurdolin,Lestania Cutscene
+――それで、なんの用だ","Leise, die sollen nichts hören. Was gibt's?",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,1,Gurdolin,Lestania Cutscene
+0,,撤収？　はん！レオめ――,"Zurückziehen? Hmpf, Leo …",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,2,Gurdolin,Lestania Cutscene
 0,,"あいつは昔からそうだ
-自信たっぷりな態度で間違えやがる","He's always been like that, making
-mistakes with a confident attitude.",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,3,Gurdolin,Lestania Cutscene
-0,,おい、何をコソコソ――,"Hey, what are you whispering about―!",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,4,Heinz,Lestania Cutscene
-0,,騎士団風情に聞かせる話なんぞないわ！,"You're not going to hear any tales fit 
-for a noble knight from me!",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,5,Gurdolin,Lestania Cutscene
+自信たっぷりな態度で間違えやがる",Er ist sich immer so sicher und liegt doch falsch.,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,3,Gurdolin,Lestania Cutscene
+0,,おい、何をコソコソ――,Was flüstert ihr da?,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,4,Heinz,Lestania Cutscene
+0,,騎士団風情に聞かせる話なんぞないわ！,"Mit einem Ritter wie dir
+hab ich nichts zu bereden!",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,5,Gurdolin,Lestania Cutscene
 0,,"その言葉、聞き捨てならない！
-あんたも元は騎士だろう？","I can't just let that slide!
-Weren't you a knight yourself, once upon a time?",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,6,Heinz,Lestania Cutscene
-0,,ならば――,"If so, then...",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,7,Heinz,Lestania Cutscene
+あんたも元は騎士だろう？","Das lasse ich nicht durchgehen.
+Du warst selbst mal Ritter!",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,6,Heinz,Lestania Cutscene
+0,,ならば――,Na dann …,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,7,Heinz,Lestania Cutscene
 0,,"んな昔のことは忘れたぜ！
-もう５０年前だからな！","I've forgotten about such ancient things!
-It's already been 50 years!",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,8,Gurdolin,Lestania Cutscene
-0,,いやいやいや――,"No, no, no...",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,9,Gurdolin,Lestania Cutscene
+もう５０年前だからな！",Das habe ich vor fünfzig Jahren vergessen.,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,8,Gurdolin,Lestania Cutscene
+0,,いやいやいや――,"Nein, nein …",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,9,Gurdolin,Lestania Cutscene
 0,,"確かに俺がいた頃の騎士団は
-誇り高き戦闘集団だった","Indeed, the Knights' Order back when I was there
-was a proud and elite combat unit.",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,10,Gurdolin,Lestania Cutscene
-0,,ところが、今の騎士団はどうだ！？,"But, what is the current Knights' Order!?",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,11,Gurdolin,Lestania Cutscene
-0,,――言ってみろ,... Just try saying it.,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,12,Heinz,Lestania Cutscene
-0,,口先だけの腰抜け集団だって言ってるんだよ！,"I'm saying they're a group of cowards who only
-talk big!",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,13,Gurdolin,Lestania Cutscene
+誇り高き戦闘集団だった",Damals waren wir noch eine stolze Kampftruppe.,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,10,Gurdolin,Lestania Cutscene
+0,,ところが、今の騎士団はどうだ！？,Und was seid ihr heute?,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,11,Gurdolin,Lestania Cutscene
+0,,――言ってみろ,Sag's doch.,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,12,Heinz,Lestania Cutscene
+0,,口先だけの腰抜け集団だって言ってるんだよ！,"Feiglinge, die nur reden!",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,13,Gurdolin,Lestania Cutscene
 0,,"な？　魔物討伐の優先権があるってなら
-さっさとやっつけろよ！","Right? If there's an important task to slay monsters,
-then hurry up and get rid of them already!",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,14,Gurdolin,Lestania Cutscene
+さっさとやっつけろよ！","Wenn ihr Vorrang beansprucht,
+dann erledigt die Monster endlich!",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,14,Gurdolin,Lestania Cutscene
 0,,"何度も倒している！
-しかし、倒しても、また現れるのだ","We have defeated them many times!
-But no matter how many times we do,
-they keeps reappearing.",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,15,Heinz,Lestania Cutscene
+しかし、倒しても、また現れるのだ",Das hätten wir längst getan. Geh zurück.,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,15,Heinz,Lestania Cutscene
 0,,"どこかに巣窟があり、そこを叩かねば
-ならないと協議しているところへ貴様が来て――","There is a nest somewhere, and we must strike it.
-And just as we were discussing this, you came―",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,16,Heinz,Lestania Cutscene
-0,,ほら来た言い訳騎士団！,"Oh, there's the Knights' Order; always making excuses!",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,17,Gurdolin,Lestania Cutscene
-0,,くっ――,Hmph...,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,18,Heinz,Lestania Cutscene
-0,,今度はなんだ？　奴らに聞かせるなよ,What is it this time? Don't let them hear you.,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,0,Gurdolin,Lestania Cutscene
+ならないと協議しているところへ貴様が来て――","Wir wollten gerade ihr Nest ausfindig machen.
+Dann seid ihr aufgetaucht.",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,16,Heinz,Lestania Cutscene
+0,,ほら来た言い訳騎士団！,"Da sind sie wieder, die Ausreden der Ritter!",ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,17,Gurdolin,Lestania Cutscene
+0,,くっ――,Hmpf.,ui\00_message\event\st0100\ev010.gmd,\event\st0100\st0100ev010.arc,st0100ev010.arc,18,Heinz,Lestania Cutscene
+0,,今度はなんだ？　奴らに聞かせるなよ,Was ist jetzt? Ich hab dich nicht verstanden.,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,0,Gurdolin,Lestania Cutscene
 0,,"なんだと！？
-魔物を倒しただって？","What did you say!?
-You took care of it?",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,1,Gurdolin,Lestania Cutscene
-0,,今、なんと言った？,"Huh, what was that?",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,2,Heinz,Lestania Cutscene
+魔物を倒しただって？",Du hast sie erledigt?,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,1,Gurdolin,Lestania Cutscene
+0,,今、なんと言った？,Was hast du da gerade gesagt?,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,2,Heinz,Lestania Cutscene
 0,,"騎士団さんよ、人が悪いぜ
-魔物はすっかり倒したらしいじゃねえか","Hey, knights! Cut the slack. It seems the
-monsters are all defeated.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,3,Gurdolin,Lestania Cutscene
+魔物はすっかり倒したらしいじゃねえか","Tja, Ritter, wir waren schneller.
+Die Monster sind schon weg.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,3,Gurdolin,Lestania Cutscene
 0,,"ったく！
-おれたちは帰る！　ああ、帰るぞ！","Right then, we're going back! 
-Yeah, time to head home!",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,4,Gurdolin,Lestania Cutscene
-0,,なんの話だ――,What are you even...,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,5,Heinz,Lestania Cutscene
-0,,おまえ、騎士団副長のハインツだろ？,"You're the vice captain of the Knights, 
-Heinz, yeah?",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,6,Gurdolin,Lestania Cutscene
+おれたちは帰る！　ああ、帰るぞ！",Wir gehen.,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,4,Gurdolin,Lestania Cutscene
+0,,なんの話だ――,Wovon redest du?,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,5,Heinz,Lestania Cutscene
+0,,おまえ、騎士団副長のハインツだろ？,Vizehauptmann Heinz …,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,6,Gurdolin,Lestania Cutscene
 0,,"そこまで出世するってのは
-よほど話のわかる奴に違いねえ","To have climbed the ranks that far,
-you must be pretty reasonable.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,7,Gurdolin,Lestania Cutscene
+よほど話のわかる奴に違いねえ","Wer so einen Rang hat,
+wird doch zur Vernunft fähig sein.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,7,Gurdolin,Lestania Cutscene
 0,,"だから、ここの魔物を退治したのは
-あんたか部下の誰かってことにしておけ","So, let's just say that you or one of your
-subordinates took care of the problem here.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,8,Gurdolin,Lestania Cutscene
-0,,それから新入り、おまえ――,"And you, the newcomer...",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,9,Gurdolin,Lestania Cutscene
+あんたか部下の誰かってことにしておけ","Offiziell hast du die Monster erledigt.
+Oder einer deiner Leute.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,8,Gurdolin,Lestania Cutscene
+0,,それから新入り、おまえ――,Neuling …,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,9,Gurdolin,Lestania Cutscene
 0,,"いろいろ文句はあるだろうが全部飲み込め
-疑問も飲み込め","You may some complaints about this,
-but just forget about them.
-Swallow your doubts as well.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,10,Gurdolin,Lestania Cutscene
+疑問も飲み込め",Spar dir Einwände und Fragen.,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,10,Gurdolin,Lestania Cutscene
 0,,"ここにいる全員、おまえの手柄は忘れない
-だが、公式には騎士団が倒したことにする","Everyone here will never forget your achievement,
-but officially, we'll credit the knighthood for
-handling it.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,11,Gurdolin,Lestania Cutscene
-0,,いいな？,Isn't it nice?,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,12,Gurdolin,Lestania Cutscene
-0,,はん！　その手には乗るか！,Hah! You think I'll fall for that?!,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,13,Heinz,Lestania Cutscene
+だが、公式には騎士団が倒したことにする","Wir vergessen deine Leistung nicht.
+Für alle anderen waren es die Ritter.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,11,Gurdolin,Lestania Cutscene
+0,,いいな？,Verstanden?,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,12,Gurdolin,Lestania Cutscene
+0,,はん！　その手には乗るか！,Ha! Darauf falle ich nicht rein.,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,13,Heinz,Lestania Cutscene
 0,,"恩を売りつけようというのか？
-貸しを作っておこうという魂胆か！？","Are you trying to curry my favor?
-Or is your intention to create a debt!?",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,14,Heinz,Lestania Cutscene
+貸しを作っておこうという魂胆か！？",Sollen wir dir jetzt etwas schuldig sein?,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,14,Heinz,Lestania Cutscene
 0,,ハインツ！,Heinz!,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,15,Gerd,Lestania Cutscene
-0,,はっ！,Ah!,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,16,Heinz,Lestania Cutscene
+0,,はっ！,Jawohl!,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,16,Heinz,Lestania Cutscene
 0,,"怒声が木々に響き渡っているが――
-揉め事ではないだろうな","I heard raised voices echoing through the trees, 
-but it doesn't look like there's a fight.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,17,Gerd,Lestania Cutscene
+揉め事ではないだろうな","Ich habe euch rufen hören.
+Ihr streitet doch nicht etwa?",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,17,Gerd,Lestania Cutscene
 0,,"信じられないことだが、騎士と見れば
-因縁をつける志の低い覚者もいるようだ","It's hard to believe, but there are some
-low-minded Arisen who pick fights with Knights at
-the slightest provocation.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,18,Gerd,Lestania Cutscene
-0,,まさか挑発に――,"Of course,  we wouldn't actually take the bait...",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,19,Gerd,Lestania Cutscene
-0,,とんでもありません！,"No, certainly not!",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,20,Heinz,Lestania Cutscene
+因縁をつける志の低い覚者もいるようだ",Manche Erweckte suchen Streit mit den Rittern.,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,18,Gerd,Lestania Cutscene
+0,,まさか挑発に――,Ihr werdet euch doch nicht …,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,19,Gerd,Lestania Cutscene
+0,,とんでもありません！,Keineswegs!,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,20,Heinz,Lestania Cutscene
 0,,"騎士団長さんよ、信じてやりな
-こいつはおれたちの不作法をいさめただけだ","Oh Captain of the Knights, please believe me.
-This person merely reprimanded our rudeness.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,21,Gurdolin,Lestania Cutscene
+こいつはおれたちの不作法をいさめただけだ","Glaubt ihnen, Hauptmann.
+Sie haben uns für unser Benehmen gerügt.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,21,Gurdolin,Lestania Cutscene
 0,,"ハインツたち、いい仕事をしたぜ？
-魔物はもういない――静かなもんだ","Heinz and the others did a great job, huh?
-The trouble is resolved;
-Peace has been restored.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,22,Gurdolin,Lestania Cutscene
+魔物はもういない――静かなもんだ","Heinz hat gute Arbeit geleistet.
+Die Monster sind weg. Jetzt ist Ruhe.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,22,Gurdolin,Lestania Cutscene
 0,,"――ほう
-任務はすでに完了したというのか","Oh, so it's true that the mission 
-has already been completed?",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,23,Gerd,Lestania Cutscene
+任務はすでに完了したというのか",Schon erledigt?,ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,23,Gerd,Lestania Cutscene
 0,,"ふむ――
-レオから報告を受けて慌ててここへ来たが","Hmm...
-I hurried here upon receiving a report
-from Leo, but...",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,24,Gerd,Lestania Cutscene
+レオから報告を受けて慌ててここへ来たが","Leo bat mich, nach dem Rechten zu sehen.
+Ich bin sofort aufgebrochen.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,24,Gerd,Lestania Cutscene
 0,,"取り越し苦労だったようだな
-では、一同、神殿へ戻るがいい","It seems that I was overly worried.
-Well then, everyone, let us return to the Temple.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,25,Gerd,Lestania Cutscene
-0,,よし、じゃあ、覚者も解散だ！,"Alright, then. It's time for the Arisen to
-head back as well!",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,26,Gurdolin,Lestania Cutscene
+では、一同、神殿へ戻るがいい","Meine Sorge war wohl unbegründet.
+Kehrt alle zum Tempel zurück.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,25,Gerd,Lestania Cutscene
+0,,よし、じゃあ、覚者も解散だ！,"Erweckte, auseinander!",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,26,Gurdolin,Lestania Cutscene
 0,,"お疲れだったな
-特におまえ――よくこらえた、いい根性だ","Good work, everyone.
-Especially you—you really hung in there. 
-That shows some real grit.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,27,Gurdolin,Lestania Cutscene
+特におまえ――よくこらえた、いい根性だ","Gut gemacht, Neuling.
+Du kannst dich zusammenreißen.",ui\00_message\event\st0100\ev015.gmd,\event\st0100\st0100ev015.arc,st0100ev015.arc,27,Gurdolin,Lestania Cutscene
 0,,おや――,Oh...,ui\00_message\event\st0100\ev020.gmd,\event\st0100\st0100ev020.arc,st0100ev020.arc,0,Gerd,Lestania Cutscene
 0,,"こんなところで――
 奇遇だな","In a place like this...
@@ -61645,56 +61624,50 @@ Ich kann mich kaum bewegen.",ui\00_message\event\st0201\ev003.gmd,\event\st0201\
 0,,このレスタニアを守ってくれ,Beschützt Lestania.,ui\00_message\event\st0201\ev003.gmd,\event\st0201\st0201ev003.arc,st0201ev003.arc,5,The White Dragon,Audience Chamber Cutscene
 0,,おのが目で、全てを見るのだ,Und seht alles mit eigenen Augen.,ui\00_message\event\st0201\ev003.gmd,\event\st0201\st0201ev003.arc,st0201ev003.arc,6,The White Dragon,Audience Chamber Cutscene
 0,,"いいところに来てくれた
-ひとっ走り、テル村まで行ってほしいんだ","You've come at a good time. I need you to make a
-quick trip to Tel Village.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,0,Leo,Audience Chamber Cutscene
+ひとっ走り、テル村まで行ってほしいんだ","Gut, dass du da bist.
+Ich brauche dich im Dorf Tel.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,0,Leo,Audience Chamber Cutscene
 0,,"魔物退治の依頼に応じたのだが
-ちょっとした手違いがあった","I accepted a request to exterminate some monsters,
-but there was a slight mistake.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,1,Leo,Audience Chamber Cutscene
+ちょっとした手違いがあった","Es geht um eine Monsterjagd.
+Mir ist dabei ein Fehler unterlaufen.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,1,Leo,Audience Chamber Cutscene
 0,,"すでに騎士団が討伐隊を出したことを知らずに
-おれは覚者を送り込んでしまった","Not knowing that the knights had already sent out
-a strike team, I mistakenly sent the Arisen.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,2,Leo,Audience Chamber Cutscene
+おれは覚者を送り込んでしまった","Die Ritter hatten schon eine Truppe geschickt.
+Ich wusste das nicht und schickte Erweckte.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,2,Leo,Audience Chamber Cutscene
 0,,"こういうことは揉め事の原因になりやすい上に
-あろうことかガルドリンを行かせてしまったんだ","These kinds of things can easily lead to
-disputes, and to make matters worse, I sent
-Gurdolin.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,3,Leo,Audience Chamber Cutscene
+あろうことかガルドリンを行かせてしまったんだ","Wir geraten öfter mit den Rittern aneinander.
+Ausgerechnet diesmal habe ich Gurdolin geschickt.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,3,Leo,Audience Chamber Cutscene
 0,,"拳から生まれた覚者ガルドリン
-魔物退治の腕は一流だが粗野な性格でな――","The Arisen Gurdolin, born from fists. A
-first-rate monster hunter with a difficult
-personality...",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,4,Leo,Audience Chamber Cutscene
-0,,騎士団とのいさかいはなるべくなら避けたい,"We would prefer to avoid any disputes with the
-Knights' Order if possible.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,5,Leo,Audience Chamber Cutscene
+魔物退治の腕は一流だが粗野な性格でな――","Gurdolin wurde wohl mit geballten Fäusten geboren.
+Ein guter Monsterjäger, aber ein Raufbold.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,4,Leo,Audience Chamber Cutscene
+0,,騎士団とのいさかいはなるべくなら避けたい,"Ein Kampf zwischen uns und den Rittern
+ist das Letzte, was wir jetzt brauchen.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,5,Leo,Audience Chamber Cutscene
 0,,"急ぎ、帰還するようにガルドリンに伝えてくれ
-活躍の場はすぐに用意すると言い添えてな","Tell Gurdolin to hurry up and return, with
-assurance that we'll have him back in action as
-soon as possible.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,6,Leo,Audience Chamber Cutscene
-0,,テル村は神殿を出たら南東に――,"Once you leave the Temple, Tel Village is to the
-southeast—",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,7,Leo,Audience Chamber Cutscene
+活躍の場はすぐに用意すると言い添えてな","Sag Gurdolin, er soll sich sofort zurückziehen.
+Er kommt bald wieder zum Kämpfen.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,6,Leo,Audience Chamber Cutscene
+0,,テル村は神殿を出たら南東に――,Tel liegt südöstlich vom Tempel.,ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,7,Leo,Audience Chamber Cutscene
 0,,"いや、自分で地図を確認した方が
-頭に入るだろう","No, you'd be better off checking the map yourself
-to memorize it.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,8,Leo,Audience Chamber Cutscene
-0,,では、頼んだぞ,"Well then, I'm counting on you.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,9,Leo,Audience Chamber Cutscene
-0,,ああ、ポーンのことだよね,"Ah, you're talking about the Pawns.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,0,Iris,Audience Chamber Cutscene
+頭に入るだろう","Schau selbst auf der Karte nach.
+So merkst du es dir besser.",ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,8,Leo,Audience Chamber Cutscene
+0,,では、頼んだぞ,Ich zähle auf dich.,ui\00_message\event\st0201\ev005.gmd,\event\st0201\st0201ev005.arc,st0201ev005.arc,9,Leo,Audience Chamber Cutscene
+0,,ああ、ポーンのことだよね,"Ah, du meinst die Pawns.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,0,Iris,Audience Chamber Cutscene
 0,,"ごめん、新人の指導はわたしの役目だけど
-今、忙しいんだ","Sorry, I know it's my job to mentor newbies, but
-I'm busy right now.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,1,Iris,Audience Chamber Cutscene
+今、忙しいんだ","Eigentlich soll ich Neulinge anleiten,
+aber ich habe gerade alle Hände voll zu tun.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,1,Iris,Audience Chamber Cutscene
 0,,"ほら、アークの調査団に参加したくて
-こそこそ根回し中――","See, I've been stealthily trying to get in
-on the Ark survey team...",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,2,Iris,Audience Chamber Cutscene
+こそこそ根回し中――","Ich versuche im Stillen, mir einen Platz
+im Erkundungstrupp für die Arche zu sichern.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,2,Iris,Audience Chamber Cutscene
 0,,"で、悪いんだけど、ひとりで《ポーン郷》へ
-行ってくれる？","So I apologize, but can you head to Pawn Cathedral
-by yourself?",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,3,Iris,Audience Chamber Cutscene
+行ってくれる？",Könntest du allein zur Pawn-Kathedrale gehen?,ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,3,Iris,Audience Chamber Cutscene
 0,,"ポーンのことは《ポーン郷》へ行かないと
-始まらないんだよね","To handle the pawn-related stuff, you must go to
-the Pawn Cathedral.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,4,Iris,Audience Chamber Cutscene
-0,,行き方はテル村にいるアルフレドに聞くといいよ,"It's best to ask Alfred in Tel Village for
-directions.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,5,Iris,Audience Chamber Cutscene
+始まらないんだよね","Wenn du etwas über Pawns erfahren willst,
+musst du sowieso dorthin.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,4,Iris,Audience Chamber Cutscene
+0,,行き方はテル村にいるアルフレドに聞くといいよ,Frag am besten Alfred im Dorf Tel nach dem Weg.,ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,5,Iris,Audience Chamber Cutscene
 0,,"彼とは一度会ってるでしょ？
-ハイデル平原のエリアマスター、アルフレド","Alfred, the Area Master of the Hidell Plains.
-You've met him before, right?",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,6,Iris,Audience Chamber Cutscene
+ハイデル平原のエリアマスター、アルフレド","Ihr kennt euch ja schon. Alfred ist
+der Gebietsmeister der Hidell-Ebene.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,6,Iris,Audience Chamber Cutscene
 0,,"エリアを取り仕切る歴戦の覚者だから
-親しくしておいて損は無し――","He's a seasoned war veteran who runs the area, so
-it pays to be friendly with him.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,7,Iris,Audience Chamber Cutscene
-0,,あ、これ内緒ね,"Ah, but keep that info to yourself.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,8,Iris,Audience Chamber Cutscene
+親しくしておいて損は無し――","Er ist ein kampferprobter Erweckter und hat
+dort das Sagen. Halte dich gut mit ihm.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,7,Iris,Audience Chamber Cutscene
+0,,あ、これ内緒ね,"Ach, und das bleibt unter uns.",ui\00_message\event\st0201\ev008.gmd,\event\st0201\st0201ev008.arc,st0201ev008.arc,8,Iris,Audience Chamber Cutscene
 0,,"暗き深淵を渡りし戦徒（せんと）よ
 ",O Myrmidons who have crossed the dark Abyss.,ui\00_message\event\st0201\ev010.gmd,\event\st0201\st0201ev010.arc,st0201ev010.arc,0,Mysial,Audience Chamber Cutscene
 0,,"この者を覚者と認め――
@@ -69199,9 +69172,9 @@ aafsadfg
 0,,ページ1,page 1,ui\00_message\examine_message\quest\quest_examine_q00000003.gmd,\quest\q00000003.arc,q00000003.arc,0,Alfred,Quest Examine
 0,,つよい,Strong,ui\00_message\examine_message\quest\quest_examine_q00000003.gmd,\quest\q00000003.arc,q00000003.arc,1,Alfred,Quest Examine
 0,,確信,Conviction,ui\00_message\examine_message\quest\quest_examine_q00000003.gmd,\quest\q00000003.arc,q00000003.arc,2,Alfred,Quest Examine
-0,,レバーがある,There is a lever.,ui\00_message\examine_message\quest\quest_examine_q00000003.gmd,\quest\q00000003.arc,q00000003.arc,3,Alfred,Quest Examine
-0,,はい,Yes,ui\00_message\examine_message\quest\quest_examine_q00000003.gmd,\quest\q00000003.arc,q00000003.arc,4,Alfred,Quest Examine
-0,,いいえ,No,ui\00_message\examine_message\quest\quest_examine_q00000003.gmd,\quest\q00000003.arc,q00000003.arc,5,Alfred,Quest Examine
+0,,レバーがある,Hier ist ein Hebel.,ui\00_message\examine_message\quest\quest_examine_q00000003.gmd,\quest\q00000003.arc,q00000003.arc,3,Alfred,Quest Examine
+0,,はい,Ja,ui\00_message\examine_message\quest\quest_examine_q00000003.gmd,\quest\q00000003.arc,q00000003.arc,4,Alfred,Quest Examine
+0,,いいえ,Nein,ui\00_message\examine_message\quest\quest_examine_q00000003.gmd,\quest\q00000003.arc,q00000003.arc,5,Alfred,Quest Examine
 0,,ハイデル関所が開放されました,The Hidell Checkpoint has been opened.,ui\00_message\examine_message\quest\quest_examine_q00000010.gmd,\quest\q00000010.arc,q00000010.arc,0,Leo,Quest Examine
 0,,保管ボックス容量が1Ｐ(40枠)増加しました,"The storage box capacity has increased by 1P
 (40 slots)",ui\00_message\examine_message\quest\quest_examine_q00000011.gmd,\quest\q00000011.arc,q00000011.arc,0,Mysial,Quest Examine
@@ -74293,28 +74266,15 @@ Darum heiße ich die neuen Gesichter willkommen.",ui\00_message\history\001\q000
 かし、両者から互いへの悪口雑言を聞かされるわたし
 の立場も考えてほしいものだ
 　我々の目下の敵はオークだ。内輪揉めはやめて、白
-竜の下、心一つになろうではないか","Regarding the incident in Tel:
+竜の下、心一つになろうではないか","Zum Vorfall in Tel
 
-Vice-Captain Heinz of the White Knights 
-and Gurdolin of the Arisen Corps
-were both sent in response to a request from Tel.
-An altercation befell our good soldiers.
-Leo deployed the new Arisen to mediate.
+Als Tel um Hilfe bei der Monsterjagd bat, schickte Hauptmann Gerd sofort Ritter unter Vizehauptmann Heinz. Die Bitte erreichte später auch Leo, der Gurdolin entsandte.
 
-There remains great tension 
-twene the White Knights and the Arisen.
-Unfortunate as it may be,
-perhaps these long, unresolved confrontations
-should also be considered tradition.
+In Tel gerieten die Ritter und die Erweckten aneinander. Leo erkannte seinen Fehler und schickte einen jungen Erweckten zur Schlichtung. Dessen Geistesgegenwart verhinderte Schlimmeres. Dürfen wir einen so lange währenden Zwist einfach als Tradition hinnehmen?
 
-I am aware that winning the dispute
-will raise morale for their respective parties.
-Though I wish they would consider my standing,
-as one who hath seen the ire of both sides.
+Manche meinen, der Wettstreit um Ruhm stärke den Kampfgeist beider Seiten. Ich wünschte, sie müssten einmal selbst all die Beschimpfungen anhören.
 
-Our true enemy is the Orcs.
-We must cease this discord,
-and unite our hearts under the White Dragon.",ui\00_message\history\001\q00000003.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,History Text
+Unser Feind sind die Orks. Beenden wir den Streit und stehen wir unter dem Weißen Drachen zusammen.",ui\00_message\history\001\q00000003.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,History Text
 0,HISTORY_STEP_25,"　飛来した巨大な石と思われる物体を我々は大石塊
 （アーク）と呼ぶことにした
 　およその落下地点も判明しており、正確な場所の把
@@ -74330,25 +74290,15 @@ and unite our hearts under the White Dragon.",ui\00_message\history\001\q0000000
 　そういえば新人覚者たちはアルフレドと会ったのだ
 ろうか。アルフレドは礼節を知る、素晴らしいエリア
 マスターだ。もしまだなら、強制してでもテル村へ行
-かせる必要がある","The huge stone that crashed was named the Ark.
+かせる必要がある","Wir nennen den gewaltigen Stein, der vom Himmel fiel, die Arche.
 
-We've also managed to estimate its location.
+Das ungefähre Einschlaggebiet kennen wir schon. Der genaue Ort dürfte bald feststehen.
 
-An investigation team is already being formed.
-I have a terrible feeling about the true nature
-of this Ark, but I dare not speak it aloud. 
-Soon enough, the investigation's result
-will yield the very truth.
+Ein Erkundungstrupp wird bereits zusammengestellt. Ich habe eine böse Ahnung, was die Arche angeht. Meine Vermutungen behalte ich für mich. Erst wenn der Trupp Bericht erstattet, sollten wir handeln.
 
-One of the Arisen is to gain a Pawn.
-There are many who have none, of course,
-but 'twas once said that obtaining a Pawn 
-was a sign of becoming fully-fledged.
-I sincerely pray for this Arisen's success.
+Einer der Erweckten will einen Pakt mit einem Pawn schließen. Viele reisen ohne Pawn. Doch es heißt, wer mindestens einmal einen Pakt geschlossen hat, sei ein vollwertiger Erweckter. Möge ihm die Prüfung gelingen.
 
-I wonder if the others have sought out Alfred.
-He is a well-mannered and splendid Area Master.
-If not, they still have a reason to visit Tel.",ui\00_message\history\001\q00000004.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,History Text
+Haben die Neulinge Alfred schon aufgesucht? Er ist ein höflicher und vorbildlicher Gebietsmeister. Falls sie noch nicht bei ihm waren, müssen wir sie nach Tel schicken, wenn nötig mit Nachdruck.",ui\00_message\history\001\q00000004.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,History Text
 0,HISTORY_STEP_27,"　アーク調査隊が予定を過ぎても戻らなかったため覚
 者のひとりが派遣された
 　負傷者はあったが、全員帰還することができてまず
@@ -80703,7 +80653,7 @@ This passage is far more dangerous
 than the front. A strange odor is present
 here as well. It's possible that this location
 was prepared as a foothold in case of attack.",ui\00_message\master\area1_spot_info.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,20,,Hidell Plains Area Rank
-0,SPOT_NAME_,ハイデル平原,Hidell Plains,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,0,,Hidell Plains Area Rank
+0,SPOT_NAME_,ハイデル平原,Hidell-Ebene,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,0,,Hidell Plains Area Rank
 1,SPOT_NAME_,白竜神殿レーゼ,The White Dragon Temple,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,1,,Hidell Plains Area Rank
 2,SPOT_NAME_,テル,Tel,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,2,,Hidell Plains Area Rank
 3,SPOT_NAME_,南ハイデル大橋,South Hidell Bridge,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,3,,Hidell Plains Area Rank
@@ -80716,8 +80666,8 @@ was prepared as a foothold in case of attack.",ui\00_message\master\area1_spot_i
 10,SPOT_NAME_,ハイデル地下霊廟　最深部,Hidell Catacombs Innermost Depths,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,10,,Hidell Plains Area Rank
 11,SPOT_NAME_,刃擦れの細道,Blade-Scarred Path,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,11,,Hidell Plains Area Rank
 12,SPOT_NAME_,修練の祠,Training Chapel,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,12,,Hidell Plains Area Rank
-13,SPOT_NAME_,廃屋の地下室,Abandoned House Cellar,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,13,,Hidell Plains Area Rank
-14,SPOT_NAME_,狩人の抜け穴,Hunters' Secret Passage,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,14,,Hidell Plains Area Rank
+13,SPOT_NAME_,廃屋の地下室,Keller des verlassenen Hauses,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,13,,Hidell Plains Area Rank
+14,SPOT_NAME_,狩人の抜け穴,Geheimgang der Jäger,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,14,,Hidell Plains Area Rank
 15,SPOT_NAME_,テルの枯れ井戸,Tel's Withered Well,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,15,,Hidell Plains Area Rank
 16,SPOT_NAME_,ハイデル街道の枯れ井戸,Roadside Dry Well,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,16,,Hidell Plains Area Rank
 17,SPOT_NAME_,死者の小窟,Small Cave Tombs,ui\00_message\master\area1_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,17,,Hidell Plains Area Rank
@@ -81091,7 +81041,7 @@ seem to have emerged from this tomb.
 In these rooms having been sealed long ago,
 many adversaries likely await you.",ui\00_message\master\area3_spot_info.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,17,,Mysree Forest Area Rank
 0,SPOT_NAME_,ミスリウ森林,Mysree Forest,ui\00_message\master\area3_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,0,,Mysree Forest Area Rank
-1,SPOT_NAME_,ポーン郷,Pawn Cathedral,ui\00_message\master\area3_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,1,,Mysree Forest Area Rank
+1,SPOT_NAME_,ポーン郷,Pawn-Kathedrale,ui\00_message\master\area3_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,1,,Mysree Forest Area Rank
 2,SPOT_NAME_,リンウッド,Lynwood,ui\00_message\master\area3_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,2,,Mysree Forest Area Rank
 3,SPOT_NAME_,森の一軒家,Lone House in the Forest,ui\00_message\master\area3_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,3,,Mysree Forest Area Rank
 4,SPOT_NAME_,西ミスリウ橋,West Mysree Bridge,ui\00_message\master\area3_spot_name.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,4,,Mysree Forest Area Rank
@@ -85202,7 +85152,7 @@ rest.",ui\00_message\master\area21_spot_info.gmd,\ui\uGUIAreaMaster.arc,uGUIArea
 16,namedparam_126,キラービー進攻種, Eindringende Killerbiene ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,16,,Enemy Parameter
 17,namedparam_127,5本角のガルゴ, Galugo the Pentagram ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,17,,Enemy Parameter
 18,namedparam_128,ガルゴの手下, Galugo's Minion ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,18,,Enemy Parameter
-19,namedparam_129,集いし, Flocking ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,19,,Enemy Parameter
+19,namedparam_129,集いし, Versammelter ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,19,,Enemy Parameter
 20,namedparam_130,集いし, Flocking ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,20,,Enemy Parameter
 21,namedparam_131,集いし, Flocking ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,21,,Enemy Parameter
 22,namedparam_132,集いし, Flocking ,ui\00_message\named\named_param.gmd,\ui\gui_cmn.arc,gui_cmn.arc,22,,Enemy Parameter
@@ -115383,7 +115333,7 @@ least take this with you.",ui\00_message\npc\base\n9011.gmd,\npc\n9011.arc,n9011
 15,FUNC_CLASS_NAME_18,竜力の継承,Dragon Force Augmentation,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,15,,Function Name
 16,FUNC_CLASS_NAME_19,オーブ交換：クレスト,Orb Exchange: Crests,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,16,,Function Name
 17,FUNC_CLASS_NAME_20,オーブ交換：珍品／素材,Orb Exchange: Rare Items / Materials,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,17,,Function Name
-18,FUNC_CLASS_NAME_21,エリアマスター,Area Master,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,18,,Function Name
+18,FUNC_CLASS_NAME_21,エリアマスター,Gebietsmeister,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,18,,Function Name
 19,FUNC_CLASS_NAME_22,ジョブマスター,Job Master,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,19,,Function Name
 20,FUNC_CLASS_NAME_24,バザー,Bazaar,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,20,,Function Name
 21,FUNC_CLASS_NAME_25,保管ボックス,Lagerkiste,ui\00_message\npc\func_class_name.gmd,\ui\gui_cmn.arc,gui_cmn.arc,21,,Function Name
@@ -115481,7 +115431,7 @@ least take this with you.",ui\00_message\npc\base\n9011.gmd,\npc\n9011.arc,n9011
 15,FUNC_SELECT_NAME_18,竜力の継承,Dragon Force Augmentation,ui\00_message\npc\func_select_name.gmd,\game_common.arc,game_common.arc,15,,Subfunction Name
 16,FUNC_SELECT_NAME_19,オーブ交換：クレスト,Orb Exchange: Crests,ui\00_message\npc\func_select_name.gmd,\game_common.arc,game_common.arc,16,,Subfunction Name
 17,FUNC_SELECT_NAME_20,オーブ交換：珍品／素材,Orb Exchange: Rare Items / Materials,ui\00_message\npc\func_select_name.gmd,\game_common.arc,game_common.arc,17,,Subfunction Name
-18,FUNC_SELECT_NAME_21,エリア情報,Area Information,ui\00_message\npc\func_select_name.gmd,\game_common.arc,game_common.arc,18,,Subfunction Name
+18,FUNC_SELECT_NAME_21,エリア情報,Gebietsinformation,ui\00_message\npc\func_select_name.gmd,\game_common.arc,game_common.arc,18,,Subfunction Name
 19,FUNC_SELECT_NAME_22,ジョブ修練,Job Training,ui\00_message\npc\func_select_name.gmd,\game_common.arc,game_common.arc,19,,Subfunction Name
 20,FUNC_SELECT_NAME_24,バザー,Bazaar,ui\00_message\npc\func_select_name.gmd,\game_common.arc,game_common.arc,20,,Subfunction Name
 21,FUNC_SELECT_NAME_25,,,ui\00_message\npc\func_select_name.gmd,\game_common.arc,game_common.arc,21,,Subfunction Name
@@ -130689,452 +130639,376 @@ zieht los und erschlagt einen Ork.",ui\00_message\quest\q00000002.gmd,\quest\q00
 0,,"戦士に大切なことは
 百の無駄口より剣のひと振り――忘れるな","Ein Schwerthieb ist einem Krieger mehr wert
 als hundert leere Worte. Vergesst das nicht.",ui\00_message\quest\q00000002.gmd,\quest\q00000002.arc,q00000002.arc,95,Gerd,Quest Dialogue
-0,,【ヒント：マイ拠点の登録方法】,[Hint: How to Register a Favorite],ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,0,Alfred,Quest Dialogue
-0,,①各拠点に設置された《拠点の礎》に触れて解放,"Touch the ""Portcrystal"" placed at 
-each location to unlock it.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,1,Alfred,Quest Dialogue
+0,,【ヒント：マイ拠点の登録方法】,[Tipp: Favoriten speichern],ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,0,Alfred,Quest Dialogue
+0,,①各拠点に設置された《拠点の礎》に触れて解放,"Berühre den Zielkristall vor Ort,
+um ihn freizuschalten.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,1,Alfred,Quest Dialogue
 0,,"②タッチアクションから《マイ拠点に登録》を選択
-※以降《リム転移》でいつでも瞬間移動できます","Select ""Register to My Favorites"" 
-from the touch action.
-※ Afterwards, you can teleport 
-instantly using ""Rift Teleport"" at any time.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,2,Alfred,Quest Dialogue
-0,,帰還、遠距離移動には《リム転移》が便利です,"Rift Teleport, or ""Rift Teleportation,"" 
-is useful for returning and long-distance travel.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,3,Alfred,Quest Dialogue
-0,,【ヒント：リム転移の使い方】,[Hint: How to use Rift Teleport],ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,4,Alfred,Quest Dialogue
-0,,①ゲームメニューのワールドで《リム転移》を選択,"Select ""Rift Teleport"" in the Game Menu's World.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,5,Alfred,Quest Dialogue
+※以降《リム転移》でいつでも瞬間移動できます","Wähle am Kristall „Als Favorit speichern“.
+Danach kannst du jederzeit per Rift-Transport
+dorthin zurückkehren.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,2,Alfred,Quest Dialogue
+0,,帰還、遠距離移動には《リム転移》が便利です,"Der Rift-Transport spart dir lange Wege
+und erleichtert die Rückkehr.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,3,Alfred,Quest Dialogue
+0,,【ヒント：リム転移の使い方】,[Tipp: Rift-Transport],ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,4,Alfred,Quest Dialogue
+0,,①ゲームメニューのワールドで《リム転移》を選択,"Wähle im Spielmenü unter „World“
+den Eintrag „Rift-Transport“.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,5,Alfred,Quest Dialogue
 0,,"②移動したい場所を選択
-※白竜神殿への帰還はノーコストです","Select the location you want to move to.
-※Returning to the White Dragon Temple is free of cost.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,6,Alfred,Quest Dialogue
-0,,【ヒント：スポット情報の見方】,[Hint: How to read spot information],ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,7,Alfred,Quest Dialogue
+※白竜神殿への帰還はノーコストです","Wähle dein Reiseziel. Die Rückkehr zum Tempel
+des Weißen Drachen kostet nichts.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,6,Alfred,Quest Dialogue
+0,,【ヒント：スポット情報の見方】,[Tipp: Ortsinfos],ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,7,Alfred,Quest Dialogue
 0,,"採取アイテムや討伐対象の魔物を探すには、
-エリアマスターの《スポット情報》が便利です","To search for items and 
-target monsters for suppression,
-the Area Master's ""Spot Info"" is convenient.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,8,Alfred,Quest Dialogue
-0,,①《エリア情報》から《スポット情報》を選択,"Select ""Spot Info"" from ""Area Information"".",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,9,Alfred,Quest Dialogue
+エリアマスターの《スポット情報》が便利です","Die Ortsinfos beim Gebietsmeister helfen dir,
+Fundorte und Gegner ausfindig zu machen.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,8,Alfred,Quest Dialogue
+0,,①《エリア情報》から《スポット情報》を選択,Wähle „Gebietsinformation“ und dann „Ortsinfo“.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,9,Alfred,Quest Dialogue
 0,,"②スポット情報で、「入手可能アイテム」と
-　「魔物情報」を確認","In the spot information, 
-check the ""Available Items"" and ""Enemies"".",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,10,Alfred,Quest Dialogue
-0,,テル村の場所は地図で確認してくれ,"Please check the location 
-of Tel Village on the map.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,11,Leo,Quest Dialogue
+　「魔物情報」を確認",Dort siehst du mögliche Funde und Gegner.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,10,Alfred,Quest Dialogue
+0,,テル村の場所は地図で確認してくれ,"Schau auf der Karte nach, wo Tel liegt.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,11,Leo,Quest Dialogue
 0,,"白竜様はまどろみの中――
-お変わりはありません","Lord White Dragon is in a slumber―― 
-No changes have occurred.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,12,Mysial,Quest Dialogue
+お変わりはありません",Der Weiße Drache schlummert noch immer tief.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,12,Mysial,Quest Dialogue
 0,,"白竜は自らを守るために
-大勢の覚者を生み出した――","The White Dragon, in order to protect itself, 
-gave birth to a multitude of Arisen――",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,13,Joseph,Quest Dialogue
+大勢の覚者を生み出した――","Er hat viele Erweckte erschaffen,
+um uns alle zu beschützen.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,13,Joseph,Quest Dialogue
 0,,"白竜自身の言葉だから
-異論を唱えるものは誰もいない","Because it is the White Dragon's own words,
-there is no one who voices dissent.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,14,Joseph,Quest Dialogue
+異論を唱えるものは誰もいない","Niemand wagt es, sich seinem Wort zu widersetzen.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,14,Joseph,Quest Dialogue
 0,,"これは太古の昔から竜とともに戦ってきた
 白衛騎士団を否定するものではないのだが
-面白くないと思っている騎士もおり――","This is not to deny the White Guard Knights, 
-who have fought alongside dragons since ancient 
-times, but some knights find it boring――",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,15,Joseph,Quest Dialogue
-0,,おまけに思い上がった覚者も少なくはない,"Moreover, 
-there are also quite a few arrogant Arisen.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,16,Joseph,Quest Dialogue
+面白くないと思っている騎士もおり――","Die Ritter der Weißen Garde dienen den Drachen
+seit jeher. Die Erweckten schmälern ihren
+Verdienst nicht. Einige sehen das anders.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,15,Joseph,Quest Dialogue
+0,,おまけに思い上がった覚者も少なくはない,Manche Erweckte treten auch recht überheblich auf.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,16,Joseph,Quest Dialogue
 0,,"わたしから見ると実にくだらない反目だが
 だからといって鼻で笑うわけにもいかない
-厄介な問題――というわけだ","From my perspective, it's a truly trivial rivalry,
-but that doesn't mean I can just laugh it off.
-It's a troublesome issue—that's the gist of it.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,17,Joseph,Quest Dialogue
-0,,ふふふ――,Hmmm--,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,18,Klaus,Quest Dialogue
+厄介な問題――というわけだ","Eigentlich ist dieser Streit kleinlich.
+Doch einfach darüber lachen kann ich nicht.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,17,Joseph,Quest Dialogue
+0,,ふふふ――,Hm …,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,18,Klaus,Quest Dialogue
 0,,"大きな仕事を任せてもらえそうなんだ
-正式に決まったら話すよ","I feel like I might be entrusted with a big job.
-I'll talk about it once it's officially decided.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,19,Klaus,Quest Dialogue
-0,,ガルドリンのところへ行くんだって？,I heard you're going to Gurdolin's place?,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,20,Iris,Quest Dialogue
+正式に決まったら話すよ","Bald wartet wohl ein großer Auftrag auf mich.
+Sobald es feststeht, erzähle ich dir mehr.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,19,Klaus,Quest Dialogue
+0,,ガルドリンのところへ行くんだって？,"Ich höre, du sollst Gurdolin aufsuchen?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,20,Iris,Quest Dialogue
 0,,"あのおっさん、言われるほど面倒な人じゃ
 ないと思うんだよね
-かばう気は全然ないけどさ","I don't think that old man is as 
-troublesome as people say. 
-I don't have any intent of defending him though.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,21,Iris,Quest Dialogue
-0,,こんにちは,Greetings.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,22,Mayleaf,Quest Dialogue
+かばう気は全然ないけどさ","Er ist umgänglicher, als man sich erzählt.
+Aber für ihn in die Bresche springen? Niemals.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,21,Iris,Quest Dialogue
+0,,こんにちは,Bis später.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,22,Mayleaf,Quest Dialogue
 0,,"あら？　さっき、そこに優しそうな顔の
-青年がいませんでしたか？","Oh? Didn't I see a young man with a kind face 
-over there just now?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,23,Pamela,Quest Dialogue
+青年がいませんでしたか？","Oh, war hier eben ein junger Mann,
+der so freundlich aussah?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,23,Pamela,Quest Dialogue
 0,,"優先権を主張するなら
-さっさと終わらせてみやがれ","If you're claiming priority,
-finish it quickly!",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,24,Gurdolin,Quest Dialogue
-0,,俺たちに任せればすぐに終わりだ,"If you let us handle it, it'll be over soon.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,25,Arisen Corps Regimental Soldier,Quest Dialogue
+さっさと終わらせてみやがれ","Wenn ihr auf eurem Vorrang besteht,
+bringt die Sache endlich zu Ende!",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,24,Gurdolin,Quest Dialogue
+0,,俺たちに任せればすぐに終わりだ,Wir wären längst fertig!,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,25,Arisen Corps Regimental Soldier,Quest Dialogue
 0,,"まずは調査を終えてからだ
-それくらいわからんのか！？","First, finish the investigation.
-Do you not understand that much!?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,26,Heinz,Quest Dialogue
-0,,順序、秩序は貴殿らにはないのか！？,Do you not have order or discipline?!,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,27,Knight of the White Guard Order,Quest Dialogue
+それくらいわからんのか！？","Wir müssen erst die Lage erkunden.
+Begreifst du das nicht?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,26,Heinz,Quest Dialogue
+0,,順序、秩序は貴殿らにはないのか！？,Kennt ihr weder Ordnung noch Disziplin?,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,27,Knight of the White Guard Order,Quest Dialogue
 0,,"時間の無駄だ！
-おまえらの相手をしているひまなどない！","What a waste of time! 
-I don't have time to deal with you!",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,28,Travers,Quest Dialogue
-0,,覚者はなめられたら終わりだぞ、新入り,"Underestimating the Arisen will be your downfall, 
-newcomer.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,29,Gurdolin,Quest Dialogue
-0,,こっちに任せればすぐに終わるってのによ！,"If you leave it to me, it'll be over soon!",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,30,Arisen Corps Regimental Soldier,Quest Dialogue
+おまえらの相手をしているひまなどない！",Was für eine Zeitverschwendung.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,28,Travers,Quest Dialogue
+0,,覚者はなめられたら終わりだぞ、新入り,"Wenn wir uns geringschätzen lassen,
+sind wir erledigt, Neuling.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,29,Gurdolin,Quest Dialogue
+0,,こっちに任せればすぐに終わるってのによ！,"Dabei wär's längst erledigt, wenn man uns ließe!",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,30,Arisen Corps Regimental Soldier,Quest Dialogue
 0,,"くそっ――
-なに？　詳しい事情が知りたい？","Damn it--
-What?　You want to know what's going on?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,31,Heinz,Quest Dialogue
+なに？　詳しい事情が知りたい？",… Du willst es genauer wissen?,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,31,Heinz,Quest Dialogue
 0,,"だったらこの村の黒ブドウ亭にいる
-アルフレドから聞くんだな","In that case, 
-ask Alfred at the Black Grape Inn in this village.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,32,Heinz,Quest Dialogue
-0,,どうしてあんな奴が覚者なんだ！？,Why is someone like that an Arisen?!,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,33,Knight of the White Guard Order,Quest Dialogue
-0,,おまえ、余計なことはするなよ,"You, don't do anything you don't have to.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,34,Travers,Quest Dialogue
+アルフレドから聞くんだな",Frag Alfred im Gasthaus Zur Schwarzen Traube.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,32,Heinz,Quest Dialogue
+0,,どうしてあんな奴が覚者なんだ！？,Wie hat es so einer zum Erweckten gebracht?,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,33,Knight of the White Guard Order,Quest Dialogue
+0,,おまえ、余計なことはするなよ,Mach jetzt bloß keine Dummheiten.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,34,Travers,Quest Dialogue
 0,,"貴君はレオの使者だな？
-わたしからも状況を説明しておこう","You are Leo's messenger, aren't you?
-Let me explain the situation to you.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,35,Alfred,Quest Dialogue
+わたしからも状況を説明しておこう","Ihr seid Leos Bote?
+Ich erkläre Euch die Lage.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,35,Alfred,Quest Dialogue
 0,,"村に魔物が出没するという問題に関連して
 村はずれの廃屋から気味の悪い物音が
-聞こえるという訴えがあった","Related to the issue 
-of monsters appearing in the village,
-there have been reports of eerie sounds coming 
-from an abandoned house 
-on the outskirts of the village.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,36,Alfred,Quest Dialogue
+聞こえるという訴えがあった","Hier tauchen immer mehr Monster auf.
+Aus einem verlassenen Haus am Dorfrand
+hören die Leute seltsame Geräusche.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,36,Alfred,Quest Dialogue
 0,,"棲みついた魔物がたてる音だろうと
-我々は考えている",We think it's the sound of monsters.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,37,Alfred,Quest Dialogue
+我々は考えている","Wir vermuten, dass sich dort Monster
+eingenistet haben.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,37,Alfred,Quest Dialogue
 0,,"すでにガルドリンには伝えてあるが
-あの覚者は動こうとはしない","I have already informed Gurdolin,
-but that Arisen has no intention of moving.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,38,Alfred,Quest Dialogue
+あの覚者は動こうとはしない","Ich habe Gurdolin davon erzählt,
+aber er rührt sich von der Stelle.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,38,Alfred,Quest Dialogue
 0,,"口汚く騎士たちを侮辱するだけだ
-いったい何を考えているのか――","He just insults the knights with his foul mouth.
-What in the world does he think he's doing...",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,39,Alfred,Quest Dialogue
+いったい何を考えているのか――",Er schimpft bloß über die Ritter.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,39,Alfred,Quest Dialogue
 0,,"ともあれ、レオからの指示があるのだな？
 それを尊重して、問題の解決を図ってくれ
-差配は貴君に任せよう","Anyway, Leo has given you instructions, right?
-Just follow those and try to solve the problem.
-I'll leave it to you to make a difference.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,40,Alfred,Quest Dialogue
+差配は貴君に任せよう","Haltet Euch an Leos Auftrag.
+Wie Ihr vorgeht, überlasse ich Euch.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,40,Alfred,Quest Dialogue
 0,,"ところで、廃屋へゆく前に村の
 《拠点の礎》に触れて解放しておいてくれ
 礎を解放しリム転移が使えるようになれば
-神殿とテルの往来も楽になるだろう","By the way, before you go to the abandoned house, 
-please attune to the village's Portcrystal. 
-Once you've attuned to the Portcrystal and 
-gain the ability to use Rift Teleport, 
-it will be easier to travel between the temple and Tel.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,41,Alfred,Quest Dialogue
+神殿とテルの往来も楽になるだろう","Berührt zuerst den Zielkristall im Dorf.
+So reist Ihr leichter zwischen Tel und dem Tempel.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,41,Alfred,Quest Dialogue
 0,,"怪しい物音のする廃屋はハイデル教会の
-司祭が、代々使っていた家だ","The abandoned house with strange noises used to 
-be the home of the priests of Hidell Church, 
-passed down through the generations.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,42,Alfred,Quest Dialogue
+司祭が、代々使っていた家だ","In dem Haus lebte früher eine Priesterfamilie
+der Kirche von Hidell.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,42,Alfred,Quest Dialogue
 0,,"時代とともに教会の教えは廃れてしまい
-やがて司祭も姿を消した","Over time, the Church's teachings fell into disuse
-and eventually the priests disappeared.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,43,Alfred,Quest Dialogue
+やがて司祭も姿を消した","Ihre Lehren gerieten in Vergessenheit.
+Schließlich verschwanden auch die Priester.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,43,Alfred,Quest Dialogue
 0,,"しかも、最後の司祭が村を出るところを見た者が
-誰もいなくてな――","Moreover, there was nobody who saw the last 
-priest leaving the village...",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,44,Alfred,Quest Dialogue
+誰もいなくてな――","Niemand hat den letzten Priester
+je aus Tel fortgehen sehen.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,44,Alfred,Quest Dialogue
 0,,"気味の悪さと後ろめたさから
-廃屋に近づく者はほとんどいない","Due to the eerie feeling and guilt, 
-very few people approach the abandoned house.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,45,Alfred,Quest Dialogue
+廃屋に近づく者はほとんどいない","Den Leuten ist das Haus unheimlich.
+Vielleicht plagt sie auch das Gewissen.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,45,Alfred,Quest Dialogue
 0,,"今は魔物の巣窟となっていても不思議ではないと
-わたしは思っている","It is not strange that it has now become 
-a den of monsters, I think.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,46,Alfred,Quest Dialogue
+わたしは思っている",Jetzt haben sich dort wohl Monster eingenistet.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,46,Alfred,Quest Dialogue
 0,,"《廃屋の地下室》はどっちかって？
 それなら村の西、そこにある《エテルナ装具屋》
-の裏をまっすぐさ","""Which way to the Abandoned House Cellar?""
-If that's the case, 
-go straight behind Eterna's Outfitter,
-located in the west of the village.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,47,Myra,Quest Dialogue
-0,,しかし、あんな場所に何の用だい？,But what do you want in a place like that?,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,48,Myra,Quest Dialogue
+の裏をまっすぐさ","Das Haus liegt im Westen des Dorfes.
+Geht an Eternas Ausrüstungsladen vorbei
+und dann geradeaus.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,47,Myra,Quest Dialogue
+0,,しかし、あんな場所に何の用だい？,Was die Monster wohl dorthin gelockt hat?,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,48,Myra,Quest Dialogue
 0,,"ほう――
 魔物は貴君が退治したのか
-さすが、レオが見込んだ覚者だ","I see...
-So you're the one who vanquished the monsters.
-Leo was right to place his trust in an Arisen
-like you.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,49,Alfred,Quest Dialogue
+さすが、レオが見込んだ覚者だ","Gut gemacht. Leo hat mit Euch
+die richtige Wahl getroffen.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,49,Alfred,Quest Dialogue
 0,,"あらためて自己紹介させてくれ
 職はハイデル平原のエリアマスター
-名はアルフレドだ","Let me introduce myself again. 
-I am the Area Master of Hidell Plains. 
-My name is Alfred.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,50,Alfred,Quest Dialogue
+名はアルフレドだ","Darf ich mich noch einmal vorstellen?
+Ich bin Alfred, Gebietsmeister der Hidell-Ebene.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,50,Alfred,Quest Dialogue
 0,,"長い付き合いになるだろう
-よろしく頼む","It will be a long-term relationship.
-I'm counting on you.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,51,Alfred,Quest Dialogue
+よろしく頼む","Wir werden uns öfter sehen.
+Ich zähle auf Euch.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,51,Alfred,Quest Dialogue
 0,,"世話になったな
 ガルドリンを連れて、神殿へ戻るがいい
-後のことはわたしに任せてくれ","I am grateful for your help.
-Take Gurdolin with you and return to the Temple.
-Leave the rest to me.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,52,Alfred,Quest Dialogue
-0,,おい、テル村の連中の話を聞いたか？,"Hey, have you heard about the 
-folks from Tel Village?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,53,Heinz,Quest Dialogue
+後のことはわたしに任せてくれ","Kehrt mit Gurdolin zurück.
+Um den Rest kümmere ich mich.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,52,Alfred,Quest Dialogue
+0,,おい、テル村の連中の話を聞いたか？,"Hast du gehört, was die Leute in Tel getan haben?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,53,Heinz,Quest Dialogue
 0,,"あいつら、賭けをしていやがったんだ
-魔物を倒すのは覚者か騎士団か――でな","They made a bet that the one who would defeat the 
-demon would be the Arisen or 
-the Knights of the Order.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,54,Heinz,Quest Dialogue
+魔物を倒すのは覚者か騎士団か――でな","Sie haben gewettet, wer die Monster erschlägt.
+Die Erweckten oder die Ritter.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,54,Heinz,Quest Dialogue
 0,,"騎士団に賭けていたのはたったひとり
-――村の若い女だ","There was only one person who 
-bet on the Knights' Order
-- a young woman from the village.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,55,Heinz,Quest Dialogue
+――村の若い女だ",Nur eine junge Frau hat auf die Ritter gesetzt.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,55,Heinz,Quest Dialogue
 0,,"魔物を倒したのは公式には騎士団
-つまり、その女が金を全部受け取った","The one who defeated the enemy was 
-officially the Knights' Order.
-In other words, the woman received all the money.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,56,Heinz,Quest Dialogue
+つまり、その女が金を全部受け取った","Offiziell waren es die Ritter.
+Sie hat also den ganzen Einsatz gewonnen.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,56,Heinz,Quest Dialogue
 0,,"おれの想像だがガルドリンは女から
 金をむしり取ったに違いない
-となれば、まったく、悪党だよ、あいつは","My guess is that Gurdolin has been extorting 
-money from women.
- If that's the case, he's a real scoundrel.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,57,Heinz,Quest Dialogue
+となれば、まったく、悪党だよ、あいつは","Wahrscheinlich hat Gurdolin ihr
+das Geld wieder abgeknöpft.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,57,Heinz,Quest Dialogue
 0,,"もっとも、この話は騎士団にとっても
 恥ずべきことだから誰にも言えない
 せめて、おまえに話すことで
-うさを晴らさせてもらうぞ","However, this story is a disgrace
-even for the Knights, so I can't tell anyone.
-But at least I will confide in you
-to relieve my burden.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,58,Heinz,Quest Dialogue
+うさを晴らさせてもらうぞ","Eine Schande für den Orden. Ich kann das keinem
+erzählen, aber bei dir musste es mal raus.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,58,Heinz,Quest Dialogue
 0,,"手柄をそんなことに利用されて
-腹を立てているんだろう？","Are you upset that your accomplishments are being 
-used for such a thing?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,59,Heinz,Quest Dialogue
-0,,おかえりなさい,Welcome back.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,60,Mysial,Quest Dialogue
+腹を立てているんだろう？","Es macht mich wütend, dass man
+deine Leistung so ausgenutzt hat.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,59,Heinz,Quest Dialogue
+0,,おかえりなさい,Willkommen zurück.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,60,Mysial,Quest Dialogue
 0,,"ガルドリンと一緒だったらしいね
-ぼくはあの人が苦手でね――わかるだろ？","I heard you were with Gurdolin.
-I'm not very good with him - you know what I mean?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,61,Klaus,Quest Dialogue
-0,,ある日突然出現した巨大建造物――,"One day, a gigantic structure suddenly appeared -",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,62,Joseph,Quest Dialogue
+ぼくはあの人が苦手でね――わかるだろ？",Mit Gurdolin würde ich mich ungern herumschlagen.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,61,Klaus,Quest Dialogue
+0,,ある日突然出現した巨大建造物――,Eines Tages ist ein gewaltiges Gebilde aufgetaucht.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,62,Joseph,Quest Dialogue
 0,,"まだ正体は不明だが、あれを大石塊（アーク）と
-呼ぶことにした、おまえも、覚えておくといい","Although its true nature is still unknown, 
-we have decided to call it the ""The Ark"". 
-It would be wise for you to remember that as well.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,63,Joseph,Quest Dialogue
-0,,ガルドリン、どうだった？,How was Gurdolin?,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,64,Iris,Quest Dialogue
+呼ぶことにした、おまえも、覚えておくといい",Wir nennen es die Arche.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,63,Joseph,Quest Dialogue
+0,,ガルドリン、どうだった？,"Und, wie lief es mit Gurdolin?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,64,Iris,Quest Dialogue
 0,,"ちょーっと押しが強いけれど
 戦場じゃその方が頼りになるんだよね
-仲良くしとくといいよ","They might be a bit pushy,
-but on the battlefield, they're reliable.
-It's better to get along with them.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,65,Iris,Quest Dialogue
-0,,はぁ――たいくつたいくつ,"Sigh—boring, so boring.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,66,Mayleaf,Quest Dialogue
+仲良くしとくといいよ","Er ist aufdringlich, aber im Kampf Gold wert.
+Versuch, mit ihm auszukommen.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,65,Iris,Quest Dialogue
+0,,はぁ――たいくつたいくつ,Mayleaf langweilt sich.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,66,Mayleaf,Quest Dialogue
 0,,"嫌な予感がします――
 メイリーフがたいくつすると
-事件が起こるんです――","I have a bad premonition...
-When Mayleaf gets bored,
-an incident will occur...",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,67,Pamela,Quest Dialogue
+事件が起こるんです――","Wenn sie sich langweilt, gibt es immer Ärger.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,67,Pamela,Quest Dialogue
 0,,"おお、戻ったか
-ご苦労だったな","Oh, you're back.
-Thanks for your help.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,68,Leo,Quest Dialogue
+ご苦労だったな","Gut, dass du zurück bist.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,68,Leo,Quest Dialogue
 0,,"テル村での事の次第は
-ガルドリンから報告を受けたところだ","I just got a report from
-Gurdolin on what happened in Tel Village.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,69,Leo,Quest Dialogue
+ガルドリンから報告を受けたところだ",Gurdolin hat bereits Bericht erstattet.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,69,Leo,Quest Dialogue
 0,,"魔物を倒したのに騎士団の顔を立てようと
-手柄を譲った――","Even though you defeated the monster, 
-you let the knights take credit to save face...",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,70,Leo,Quest Dialogue
+手柄を譲った――","Du hast den Rittern den Sieg überlassen,
+um ihren Ruf zu wahren.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,70,Leo,Quest Dialogue
 0,,"まあ、わからないでもない
-命令とは全然違うことをしたわけだからな","Well, I guess I can understand why. 
-After all, you did something completely different 
-from what you were ordered to do.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,71,Leo,Quest Dialogue
+命令とは全然違うことをしたわけだからな","Das kann ich verstehen. Ihr hattet
+schließlich ganz andere Befehle.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,71,Leo,Quest Dialogue
 0,,"いや、もう何も言うな
 この件は忘れよう
-悪いことをしたわけじゃない","No, please don't say anything anymore. 
-Let's forget about this matter. 
-You didn't do anything wrong.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,72,Leo,Quest Dialogue
+悪いことをしたわけじゃない",Vergiss die Sache. Du hast richtig gehandelt.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,72,Leo,Quest Dialogue
 0,,"さて――おまえの留守中、考えていたのだが
 覚者としてもうひと皮むけるために
-ポーンとの契約に挑んでみないか？","Now, while you were away, I was thinking.
-In order to further evolve as an Arisen,
-why don't you try entering into a 
-contract with a Pawn?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,73,Leo,Quest Dialogue
+ポーンとの契約に挑んでみないか？","Ein Pakt mit einem Pawn würde dich als
+Erweckten weiterbringen. Willst du es versuchen?",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,73,Leo,Quest Dialogue
 0,,"彼らは主人となる覚者に絶対の忠誠を誓う
-怖れ知らずの戦人（いくさびと）だ","They pledge absolute loyalty to the Arisen 
-who becomes their master.
-They are also fearless warriors.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,74,Leo,Quest Dialogue
+怖れ知らずの戦人（いくさびと）だ","Pawns sind uns bedingungslos treu
+und kennen keine Furcht.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,74,Leo,Quest Dialogue
 0,,"加えて、彼らの物作りの能力は
 鋭い剣、強固な鎧――
-おまえに様々な装具をもたらすだろう","In addition, their craftsmanship abilities will
-bring you sharp swords, solid armor...
-a variety of accoutrements!",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,75,Leo,Quest Dialogue
-0,,もちろん、そう簡単に親しくなれるわけじゃない,"Of course, it's not easy to form a bond.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,76,Leo,Quest Dialogue
+おまえに様々な装具をもたらすだろう","Sie verstehen sich auch darauf,
+Waffen und Rüstungen herzustellen.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,75,Leo,Quest Dialogue
+0,,もちろん、そう簡単に親しくなれるわけじゃない,Doch so ein Bund lässt sich nicht leicht schließen.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,76,Leo,Quest Dialogue
 0,,"契約の手順など具体的なことは
-イリスに聞いてくれ","As for specific details, such as the procedure for 
-the contract, please ask Iris.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,77,Leo,Quest Dialogue
+イリスに聞いてくれ","Iris kann dir erklären, wie der Pakt zustande kommt.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,77,Leo,Quest Dialogue
 0,,"ああ――
 この謁見の間を出た大階段の下の広場で
-ファビオやキャメロンが、お前を待っていたぞ","Ah—
-In the plaza beneath the grand staircase, 
-after leaving the Audience Chamber,
-Fabio and Cameron were waiting for you.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,78,Leo,Quest Dialogue
+ファビオやキャメロンが、お前を待っていたぞ","Fabio und Cameron warten auf dem Platz
+unterhalb der großen Treppe vom Audienzsaal.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,78,Leo,Quest Dialogue
 0,,"奴らの用事が済んだら
-また俺のところに顔を出してくれ","Once your business is done,
-please come and visit me again.",ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,79,Leo,Quest Dialogue
-0,,【ヒント：遠方への冒険準備】,[Hint: Preparation for Distant Adventures],ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,0,Leo,Quest Dialogue
+また俺のところに顔を出してくれ",Komm danach wieder zu mir.,ui\00_message\quest\q00000003.gmd,\quest\q00000003.arc,q00000003.arc,79,Leo,Quest Dialogue
+0,,【ヒント：遠方への冒険準備】,[Tipp: Ausrüstung für lange Reisen],ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,0,Leo,Quest Dialogue
 0,,"遠方へ向かう前は、保管ボックスや商店で
 装備を整えましょう
 ※保管ボックスの《報酬受け取り》から
-　LV.5用武器を入手し、装備しましょう","Before heading off into the distance, let's 
-prepare equipment at the Storage Box and shops.
-※Obtain a LV.5 weapon from the ""Quest Rewards"" 
-in the Storage Box and equip it.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,1,Leo,Quest Dialogue
+　LV.5用武器を入手し、装備しましょう","Rüste dich an der Lagerkiste und bei Händlern
+für die Reise aus. Hol unter „Questbelohnungen“
+an der Lagerkiste eine Waffe für Stufe 5 ab
+und lege sie an.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,1,Leo,Quest Dialogue
 0,,"テル村へはリム転移を使えばすぐに行けるよ
-そこでエリアマスターのアルフレドと会う","You can quickly go to Tel Village 
-using Rift Teleport.
-There, you will meet the Area Master, Alfred.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,2,Iris,Quest Dialogue
+そこでエリアマスターのアルフレドと会う","Per Rift-Transport bist du schnell in Tel.
+Dort triffst du Alfred, den Gebietsmeister.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,2,Iris,Quest Dialogue
 0,,"そして《ポーン郷》へ行く
-まずは、そこからだね","And then you'll go to the [Pawn Cathedral].
-That's a good place to start.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,3,Iris,Quest Dialogue
+まずは、そこからだね","Von dort geht es zur Pawn-Kathedrale.
+Damit fängst du am besten an.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,3,Iris,Quest Dialogue
 0,,"あなたはどんなポーンと出会うのでしょうね
-わたしも楽しみです","What kind of Pawns will you encounter, I wonder? 
-I'm looking forward to it as well.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,4,Mysial,Quest Dialogue
+わたしも楽しみです","Was für Pawns dir wohl begegnen werden?
+Ich bin schon gespannt.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,4,Mysial,Quest Dialogue
 0,,"ほう、ポーンと契約する気になったのか
-ふむ、それでこそ覚者だ","Oh, so you've decided 
-to make a contract with the Pawns. 
-Well, that's what it truly means to be an Arisen.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,5,Joseph,Quest Dialogue
+ふむ、それでこそ覚者だ","Ah, du willst also einen Pakt mit einem Pawn
+schließen. Das nenne ich einen Erweckten.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,5,Joseph,Quest Dialogue
 0,,"ふふふ――
 どうやら本決まりになりそうなんだ
-例の話――","Hehehe—
-Looks like it's going to be official.
-That thing we talked about—",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,6,Klaus,Quest Dialogue
-0,,ああ、話したい！　しゃべってしまいたい！,"Oh, I want to talk! I want to speak!",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,7,Klaus,Quest Dialogue
-0,,この先は行き止まりだ,It's a dead end.,ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,8,Donnell,Quest Dialogue
+例の話――","Hehe … Unsere Sache steht wohl kurz davor,
+offiziell zu werden. Du weißt schon …",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,6,Klaus,Quest Dialogue
+0,,ああ、話したい！　しゃべってしまいたい！,"Ach, es juckt mich so, es dir zu erzählen!",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,7,Klaus,Quest Dialogue
+0,,この先は行き止まりだ,Hier geht es nicht weiter.,ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,8,Donnell,Quest Dialogue
 0,,"前の大水で橋が流されてな
 復旧の目処はまったく立っていない
-――どこへ行くつもりなんだ？","The bridge was washed away in the previous flood,
-and there is no prospect of restoration at all.
-Where do you intend to go?",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,9,Donnell,Quest Dialogue
+――どこへ行くつもりなんだ？","Die letzte Flut hat die Brücke weggespült.
+Wir wissen noch nicht, wann sie wieder steht.
+Wo willst du hin?",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,9,Donnell,Quest Dialogue
 0,,"なるほど、《ポーン郷》か
-ならば一度、引き返すことをすすめるよ","I see... Pawn Cathedral.
-Then I suggest you turn around and go back.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,10,Donnell,Quest Dialogue
+ならば一度、引き返すことをすすめるよ","Zur Pawn-Kathedrale?
+Dann kehr lieber erst mal um.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,10,Donnell,Quest Dialogue
 0,,"テル村へ行ってアルフレドに相談するといい
 確か、村から森の方へ抜けられる道が
-あったはずだ","It would be a good idea to go to Tel Village and 
-consult with Alfred. 
-I remember there was a path that leads 
-from the village to the forest.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,11,Donnell,Quest Dialogue
-0,,橋はいつ直るのかって？,When will the bridge be repaired?,ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,12,Donnell,Quest Dialogue
+あったはずだ","Frag Alfred in Tel. Vom Dorf aus führt,
+glaube ich, ein Weg in den Wald.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,11,Donnell,Quest Dialogue
+0,,橋はいつ直るのかって？,Wann die Brücke wieder steht?,ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,12,Donnell,Quest Dialogue
 0,,"さあな――ミスリウの森の材木があれば
 良いのだろうが――
-ここまで木を運ぶのはかなり大変だ","I don't know—
-Well, I suppose it would be good to have lumber 
-from the Mysree Forest. 
-But it's quite difficult to 
-transport it all the way here.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,13,Donnell,Quest Dialogue
+ここまで木を運ぶのはかなり大変だ","Tja … Holz aus dem Mysree-Wald wäre gut.
+Aber es bis hierher zu schaffen, ist mühsam.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,13,Donnell,Quest Dialogue
 0,,"《ポーン郷》方面はしばらくのあいだ
-テル村経由で行くしかないだろうな","The area around the Pawn Cathedral will probably 
-have to be reached through Tel Village for a while.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,14,Donnell,Quest Dialogue
+テル村経由で行くしかないだろうな","Eine Weile wird der einzige Weg
+zur Pawn-Kathedrale wohl über Tel führen.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,14,Donnell,Quest Dialogue
 0,,"おお、貴君は――
-いつぞやはご苦労だったな","Oh, it's you...
-You had some troubles the other day.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,15,Alfred,Quest Dialogue
+いつぞやはご苦労だったな","Ah, Ihr seid es.
+Nochmals vielen Dank für Eure Hilfe neulich.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,15,Alfred,Quest Dialogue
 0,,"あらためて挨拶をさせてもらおう
 わたしはハイデル平原のエリアマスター
-覚者のアルフレドだ","Let's have a proper introduction.
-I am the Area Master of the Hidell Plains,
-Alfred the Arisen.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,16,Alfred,Quest Dialogue
+覚者のアルフレドだ","Lasst mich Euch ordentlich begrüßen.
+Ich bin Alfred, Erweckter und Gebietsmeister
+der Hidell-Ebene.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,16,Alfred,Quest Dialogue
 0,,"知っていると思うがエリアマスターとは
-担当地区を取り仕切る監督官のことだ","I think you already know, but an Area Master is 
-the supervisor who oversees a designated area.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,17,Alfred,Quest Dialogue
+担当地区を取り仕切る監督官のことだ","Wie Ihr vermutlich wisst, beaufsichtigt
+ein Gebietsmeister die ihm zugeteilte Gegend.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,17,Alfred,Quest Dialogue
 0,,"さて――
 我々エリアマスターは、エリアを訪れる覚者に対し
-情報の提供や、アイテムの支給を行っている","Now then— 
-As Area Masters, we provide information and 
-supply items to the Arisen who visit our areas.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,18,Alfred,Quest Dialogue
+情報の提供や、アイテムの支給を行っている","Wir informieren die Erweckten, die unsere
+Gebiete besuchen, und versorgen sie mit Vorräten.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,18,Alfred,Quest Dialogue
 0,,"また、エリアの名声度
 ――つまり、《エリアランク》が高い者に対しては
 封鎖された場所への立入許可を
-与えることもできるのだ","Furthermore, for individuals with high area fame,
-in other words, a high ""Area Rank"",
-access permits to sealed areas 
-can also be granted.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,19,Alfred,Quest Dialogue
+与えることもできるのだ","Wir können auch Zugang zu gesperrten Orten
+gewähren. Dafür braucht Ihr genug Ansehen
+in der Gegend, also einen hohen Gebietsrang.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,19,Alfred,Quest Dialogue
 0,,"貴君は今、《ポーン郷》へ行きたいのだろう？
-ならば、丁度良い","Are you looking to go to the Pawn Cathedral?
-Perfect timing if that's the case.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,20,Alfred,Quest Dialogue
+ならば、丁度良い","Ihr wollt zur Pawn-Kathedrale?
+Das trifft sich gut.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,20,Alfred,Quest Dialogue
 0,,"以前レオの使者として貴君がここに来た時の
-活躍は十分評価に値する","The achievements you made when you came here
-as Leo's envoy are highly commendable.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,21,Alfred,Quest Dialogue
+活躍は十分評価に値する","Was Ihr hier als Leos Gesandter
+geleistet habt, verdient Anerkennung.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,21,Alfred,Quest Dialogue
 0,,"その礼として、封鎖エリアの一つを
-開放しようではないか","As a token of gratitude,
-how about we open up one of the sealed areas?",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,22,Alfred,Quest Dialogue
+開放しようではないか",Als Dank öffne ich Euch einen der gesperrten Orte.,ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,22,Alfred,Quest Dialogue
 0,,"《ポーン郷》へと続く《狩人の抜け穴》を
 貴君が通れるようにしておこう
-やや危険だが、貴君なら問題ないだろう","I will ensure that you can pass through
-the Hunters' Secret Passage that leads to
-the Pawn Cathedral. The path may prove dangerous,
-but I'm sure you will be able to handle it.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,23,Alfred,Quest Dialogue
+やや危険だが、貴君なら問題ないだろう","Ich gebe Euch den Geheimgang der Jäger frei.
+Er führt zur Pawn-Kathedrale. Der Weg birgt
+ein paar Gefahren, aber Ihr werdet ihn meistern.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,23,Alfred,Quest Dialogue
 0,,"では、わたしに話しかけ直して
 《エリア情報》を選び
-エリアランクとその内容を確認してくれ","Then, please speak to me again and choose 
-""Area Information."" 
-Confirm the Area Rank and its contents for me.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,24,Alfred,Quest Dialogue
+エリアランクとその内容を確認してくれ","Sprecht mich noch einmal an und wählt
+„Gebietsinformation“. Seht Euch Euren
+Gebietsrang und die Informationen dort an.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,24,Alfred,Quest Dialogue
 0,,"さあ――、わたしに話しかけ直して
 《エリア情報》を選び
-エリアランクとその内容を確認してくれ","Come on—please speak to me again and choose 
-""Area Information."" 
-Confirm the Area Rank and its contents for me.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,25,Alfred,Quest Dialogue
+エリアランクとその内容を確認してくれ","Sprecht mich wieder an und wählt
+„Gebietsinformation“. Dort findet Ihr
+Euren Gebietsrang und weitere Informationen.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,25,Alfred,Quest Dialogue
 0,,"これで《狩人の抜け穴》は開放された
-魔物が多いから気をつけてくれ","With this, 
-the Hunters' Secret Passage has been opened.
-Be careful, as there are many enemies.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,26,Alfred,Quest Dialogue
+魔物が多いから気をつけてくれ","Der Geheimgang der Jäger ist jetzt offen.
+Passt auf, dort wimmelt es von Monstern.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,26,Alfred,Quest Dialogue
 0,,"《狩人の抜け穴》に出る魔物やアイテムの
 情報は、《エリア情報》の《スポット情報》
-で確認していくといいだろう","It is recommended to check the information on the 
-monsters and items that appear in 
-Hunters' Secret Passage in the ""Area Information"" 
-and ""Spot Information.""",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,27,Alfred,Quest Dialogue
+で確認していくといいだろう","Welche Gegner und Funde Euch im Geheimgang
+der Jäger erwarten, steht unter „Ortsinfo“
+in der „Gebietsinformation“.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,27,Alfred,Quest Dialogue
 0,,"それから――
 エリアポイントを貯めたら、また足を運んでくれ
 話しかけてくれれば、ポイントを精査して
-相応しい恩賞を与えよう","And then—
-When you accumulate area points, 
-please come back again.
-
-If you talk to me, 
-I will carefully examine the points
-and give you a suitable reward.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,28,Alfred,Quest Dialogue
+相応しい恩賞を与えよう","Sobald Ihr Gebietspunkte gesammelt habt,
+kommt wieder vorbei. Sprecht mich an.
+Ich prüfe Eure Punkte und belohne Euch dafür.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,28,Alfred,Quest Dialogue
 0,,"ああ――
 恩賞はエリアの開放だけではない
 ポイントの多寡によって様々な恩賞を考えている
-励みになるだろう？","Ah-...
-The reward is not only the opening of the area.
-I am considering various rewards based on the 
-number of points.
-It will be encouraging, won't it?",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,29,Alfred,Quest Dialogue
-0,,狩人の抜け穴は開放してもらえた？,Was the Hunter's Secret Passage opened up for use?,ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,30,Iris,Quest Dialogue
-0,,だったらポーン郷へ行っちゃおう！,"In that case, let's go to Pawn Cathedral!",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,31,Iris,Quest Dialogue
+励みになるだろう？","Ihr könnt Euch damit mehr verdienen
+als Zutritt zu gesperrten Orten. Je nach
+Punktestand warten verschiedene Belohnungen.
+Das ist doch ein Ansporn, oder?",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,29,Alfred,Quest Dialogue
+0,,狩人の抜け穴は開放してもらえた？,Ist der Geheimgang der Jäger jetzt offen?,ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,30,Iris,Quest Dialogue
+0,,だったらポーン郷へ行っちゃおう！,Dann auf zur Pawn-Kathedrale!,ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,31,Iris,Quest Dialogue
 0,,"これはこれは、新しき覚者さま
 お待ち申しておりました
-ここは我らポーンの民が集いし《ポーン郷》","Greetings, greetings, esteemed new Arisen.
-We have been eagerly awaiting your arrival.
-This is the gathering place of our Pawn 
-community, the ""Pawn Cathedral"".",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,32,Thomason,Quest Dialogue
+ここは我らポーンの民が集いし《ポーン郷》","Ah, ein neuer Erweckter!
+Wir haben Euch erwartet. Willkommen in
+der Pawn-Kathedrale, dem Heim unseres Volkes.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,32,Thomason,Quest Dialogue
 0,,"里長アルヴァーさまは聖堂の奥におられます
 ――が、まずは左手にある《拠点の礎》を開放し
-登録なさいませ","Master Alvar is located deep within the cathedral.
-- First, unlock the Portcrystal on your left hand 
-side and register it.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,33,Thomason,Quest Dialogue
+登録なさいませ","Alvar, unser Vorsteher, ist hinten in der Kathedrale.
+Schaltet zuerst den Zielkristall links frei
+und speichert ihn als Favoriten.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,33,Thomason,Quest Dialogue
 0,,"契約の試練に行かれるにも準備をなさるにも
-覚者さまの拠点としてきっとお役に立つでしょう","Whether you are going to the 
-Trial of the Contract 
-or preparing for it, I'm sure it will be useful 
-as the base of the Arisen.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,34,Thomason,Quest Dialogue
+覚者さまの拠点としてきっとお役に立つでしょう","So habt Ihr einen Stützpunkt für die Paktprüfung
+und die Vorbereitungen darauf.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,34,Thomason,Quest Dialogue
 0,,"《ポーン郷》へようこそ
-わたしはここの管理人アルヴァー","Welcome to the Pawn Cathedral.
-I am the caretaker of this place, Alvar.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,35,Alvar,Quest Dialogue
+わたしはここの管理人アルヴァー","Willkommen in der Pawn-Kathedrale.
+Ich bin Alvar, der Vorsteher hier.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,35,Alvar,Quest Dialogue
 0,,"さて、覚者よ
-貴君はまだポーンについて何も知るまい","Now, O Arisen, you may not yet know 
-anything about Pawns.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,36,Alvar,Quest Dialogue
+貴君はまだポーンについて何も知るまい","Nun, Erweckter, Ihr wisst wohl noch wenig
+über uns Pawns.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,36,Alvar,Quest Dialogue
 0,,"――気にするな
 最初は誰でも同じだ
 そんなことで我々ポーンは貴君を
-見限ったりはしない","Don't worry about it.
-At first, everyone is the same.
-We Pawns won't abandon you just
-because of something like that.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,37,Alvar,Quest Dialogue
+見限ったりはしない","Macht Euch nichts daraus. So geht es jedem
+am Anfang. Wir Pawns lassen Euch
+deswegen nicht im Stich.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,37,Alvar,Quest Dialogue
 0,,"――いや、見限るなど、できないのだ
 ポーンには己の意志や感情がない
 欲望、野望――何もなく、ただ覚者の
-意志に従うのみ","No, it's impossible to abandon them.
-Pawns have no will or emotions of their own.
-No desires, ambitions—nothing,
-they simply follow the will of the Arisen.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,38,Alvar,Quest Dialogue
-0,,ポーンは異界から来た不倒の戦士だ,"Pawns are unyielding warriors who have 
-come from a different realm.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,39,Alvar,Quest Dialogue
+意志に従うのみ","Wir könnten Euch gar nicht im Stich lassen.
+Pawns haben keinen eigenen Willen und
+keine Gefühle, keine Wünsche, keinen Ehrgeiz.
+Wir folgen allein dem Willen der Erweckten.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,38,Alvar,Quest Dialogue
+0,,ポーンは異界から来た不倒の戦士だ,"Pawns sind unbezwingbare Krieger
+aus einer anderen Welt.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,39,Alvar,Quest Dialogue
 0,,"けして死ぬことはなく――
 ただ、異界に帰り、また復活する
-その特性から我らを""異界渡り""と呼ぶ者もいる","There is no such thing as dying.
-Instead, we return to the other world and revive.
-Some even call us ""otherworld travelers"" 
-because of this characteristic.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,40,Alvar,Quest Dialogue
+その特性から我らを""異界渡り""と呼ぶ者もいる","Wir sterben nie. Wir kehren in unsere Welt
+zurück und erstehen wieder auf.
+Darum nennen uns manche „Weltenwanderer“.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,40,Alvar,Quest Dialogue
 0,,"そして、ポーンの能力が発揮されるのは
-戦場だけではない","And it's not just on the battlefield that
-the pawn's abilities come into play.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,41,Alvar,Quest Dialogue
+戦場だけではない","Unsere Fähigkeiten kommen uns
+auch abseits des Schlachtfelds zugute.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,41,Alvar,Quest Dialogue
 0,,"《クラフト》の能力で貴君ら覚者のために
-様々な装具を生み出すだろう","They will use their ability of ""Craft"" to create 
-various equipment for you, noble Arisen.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,42,Alvar,Quest Dialogue
+様々な装具を生み出すだろう","Mit unserem Handwerk fertigen wir
+allerlei Ausrüstung für Euch Erweckte.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,42,Alvar,Quest Dialogue
 0,,"ポーンとの契約を望む者は
 《異界の狭間》へ行かねばならぬが
-それが許されるのは一時にただひとりだけ","Those who wish to make a contract with
-Pawns must go to ""The Rift"".
-But only one person is allowed to do so 
-at a time.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,43,Alvar,Quest Dialogue
+それが許されるのは一時にただひとりだけ","Wer einen Pakt mit einem Pawn schließen will,
+muss in den Rift. Das ist jeweils nur
+einer Person gestattet.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,43,Alvar,Quest Dialogue
 0,,"準備と覚悟ができているのなら
-あらためて声をかけてくれ","If you are prepared and ready,
-please reach out to me again.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,44,Alvar,Quest Dialogue
+あらためて声をかけてくれ","Sprecht mich wieder an, sobald Ihr
+bereit und fest entschlossen seid.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,44,Alvar,Quest Dialogue
 0,,"ん？　準備できたら教えてね
-君に足りないのは経験だけだよ","Hmm? Let me know when you're ready.
-All you're missing is experience.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,45,Iris,Quest Dialogue
+君に足りないのは経験だけだよ","Hm? Sag Bescheid, wenn du so weit bist.
+Dir fehlt nur noch etwas Erfahrung.",ui\00_message\quest\q00000004.gmd,\quest\q00000004.arc,q00000004.arc,45,Iris,Quest Dialogue
 0,,"クラウスが帰還を渋るかもしれん
 その時は――","Klaus may be reluctant to return.
 If that happens--",ui\00_message\quest\q00000005.gmd,\quest\q00000005.arc,q00000005.arc,0,Joseph,Quest Dialogue
@@ -199228,52 +199102,50 @@ und welche Aufgabe dich erwartet.",ui\00_message\quest_info\q00000002_00.gmd,\ui
 3,q00000002_00_955,レオとミシアルに話す,Sprich mit Leo und Mysial,ui\00_message\quest_info\q00000002_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,3,,Quest Title/Info
 4,q00000002_00_1494,白竜に話しかける,Sprich mit dem Weißen Drachen,ui\00_message\quest_info\q00000002_00.gmd,\quest\q00000002.arc,q00000002.arc,4,Fabio,Quest Title/Info
 4,q00000002_00_1494,白竜に話しかける,Sprich mit dem Weißen Drachen,ui\00_message\quest_info\q00000002_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,,Quest Title/Info
-0,q00000003_00_4,和解の使者,Envoy of Reconciliation,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,0,Alfred,Quest Title/Info
+0,q00000003_00_4,和解の使者,Gesandter der Versöhnung,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,0,Alfred,Quest Title/Info
 1,q00000003_00_4,"魔物撃退の任務について対立する
-覚者と白衛騎士団のいさかいを鎮める","Intervene to quell the conflict
-between the Arisen Corps and the White Guard Knights",ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,1,Alfred,Quest Title/Info
-0,q00000003_00_4,和解の使者,Envoy of Reconciliation,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,Quest Title/Info
+覚者と白衛騎士団のいさかいを鎮める","Schlichte den Streit zwischen den Erweckten und
+den Rittern der Weißen Garde um die Monsterjagd.",ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,1,Alfred,Quest Title/Info
+0,q00000003_00_4,和解の使者,Gesandter der Versöhnung,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,Quest Title/Info
 1,q00000003_00_4,"魔物撃退の任務について対立する
-覚者と白衛騎士団のいさかいを鎮める","Intervene to quell the conflict
-between the Arisen Corps and the White Guard Knights",ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,1,,Quest Title/Info
-2,q00000003_00_956,テル村へ向かう,Head to the village of Tel,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,2,Alfred,Quest Title/Info
-2,q00000003_00_956,テル村へ向かう,Head to the village of Tel,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,2,,Quest Title/Info
-3,q00000003_00_957,黒ブドウ亭にいるアルフレドから事情を聞く,Consult Alfred in the Black Grape Inn,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,3,Alfred,Quest Title/Info
-3,q00000003_00_957,黒ブドウ亭にいるアルフレドから事情を聞く,Consult Alfred in the Black Grape Inn,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,3,,Quest Title/Info
-5,q00000003_00_958,廃屋の地下室を調査する,Investigate the Abandoned House Cellar,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,5,Alfred,Quest Title/Info
-5,q00000003_00_958,廃屋の地下室を調査する,Investigate the Abandoned House Cellar,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,5,,Quest Title/Info
-6,q00000003_00_959,遭遇した敵を殲滅する,Exterminate the encountered enemy,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,6,Alfred,Quest Title/Info
-6,q00000003_00_959,遭遇した敵を殲滅する,Exterminate the encountered enemy,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,6,,Quest Title/Info
-7,q00000003_00_960,アルフレドに成果を報告する,Report the outcome to Alfred,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,7,Alfred,Quest Title/Info
-7,q00000003_00_960,アルフレドに成果を報告する,Report the outcome to Alfred,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,7,,Quest Title/Info
-8,q00000003_00_961,騎士団員らのいる場所に行く,Return to the troops' location,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,8,Alfred,Quest Title/Info
-8,q00000003_00_961,騎士団員らのいる場所に行く,Return to the troops' location,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,8,,Quest Title/Info
-9,q00000003_00_962,リム転移で神殿に戻り、謁見の間のレオに報告する,Warp back to the Temple and report to Leo,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,9,Alfred,Quest Title/Info
-9,q00000003_00_962,リム転移で神殿に戻り、謁見の間のレオに報告する,Warp back to the Temple and report to Leo,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,9,,Quest Title/Info
-4,q00000003_00_1527,テル村の＜拠点の礎＞を解放しマイ拠点に登録する,Register the Tel Village Portcrystal,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,4,Alfred,Quest Title/Info
-4,q00000003_00_1527,テル村の＜拠点の礎＞を解放しマイ拠点に登録する,Register the Tel Village Portcrystal,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,,Quest Title/Info
-0,q00000004_00_5,異界の戦士,Soldiers of the Rift,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,0,Leo,Quest Title/Info
+覚者と白衛騎士団のいさかいを鎮める","Schlichte den Streit zwischen den Erweckten und
+den Rittern der Weißen Garde um die Monsterjagd.",ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,1,,Quest Title/Info
+2,q00000003_00_956,テル村へ向かう,Geh ins Dorf Tel,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,2,Alfred,Quest Title/Info
+2,q00000003_00_956,テル村へ向かう,Geh ins Dorf Tel,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,2,,Quest Title/Info
+3,q00000003_00_957,黒ブドウ亭にいるアルフレドから事情を聞く,Sprich mit Alfred im Gasthaus Zur Schwarzen Traube,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,3,Alfred,Quest Title/Info
+3,q00000003_00_957,黒ブドウ亭にいるアルフレドから事情を聞く,Sprich mit Alfred im Gasthaus Zur Schwarzen Traube,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,3,,Quest Title/Info
+5,q00000003_00_958,廃屋の地下室を調査する,Untersuche den Keller des verlassenen Hauses,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,5,Alfred,Quest Title/Info
+5,q00000003_00_958,廃屋の地下室を調査する,Untersuche den Keller des verlassenen Hauses,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,5,,Quest Title/Info
+6,q00000003_00_959,遭遇した敵を殲滅する,Besiege die Untoten,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,6,Alfred,Quest Title/Info
+6,q00000003_00_959,遭遇した敵を殲滅する,Besiege die Untoten,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,6,,Quest Title/Info
+7,q00000003_00_960,アルフレドに成果を報告する,Berichte Alfred,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,7,Alfred,Quest Title/Info
+7,q00000003_00_960,アルフレドに成果を報告する,Berichte Alfred,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,7,,Quest Title/Info
+8,q00000003_00_961,騎士団員らのいる場所に行く,Kehre zu den Truppen zurück,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,8,Alfred,Quest Title/Info
+8,q00000003_00_961,騎士団員らのいる場所に行く,Kehre zu den Truppen zurück,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,8,,Quest Title/Info
+9,q00000003_00_962,リム転移で神殿に戻り、謁見の間のレオに報告する,Reise per Rift-Transport zum Tempel und berichte Leo,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,9,Alfred,Quest Title/Info
+9,q00000003_00_962,リム転移で神殿に戻り、謁見の間のレオに報告する,Reise per Rift-Transport zum Tempel und berichte Leo,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,9,,Quest Title/Info
+4,q00000003_00_1527,テル村の＜拠点の礎＞を解放しマイ拠点に登録する,Schalte den Zielkristall in Tel frei und speichere ihn als Favoriten,ui\00_message\quest_info\q00000003_00.gmd,\quest\q00000003.arc,q00000003.arc,4,Alfred,Quest Title/Info
+4,q00000003_00_1527,テル村の＜拠点の礎＞を解放しマイ拠点に登録する,Schalte den Zielkristall in Tel frei und speichere ihn als Favoriten,ui\00_message\quest_info\q00000003_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,,Quest Title/Info
+0,q00000004_00_5,異界の戦士,Soldaten des Rifts,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,0,Leo,Quest Title/Info
 1,q00000004_00_5,"ポーンとの契約を果たすため
-ポーン郷へ赴き試練に挑む","As a prerequisite for acquiring a Pawn,
-head to the Pawn Cathedral and complete the challenge
-presented therein.",ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,1,Leo,Quest Title/Info
-0,q00000004_00_5,異界の戦士,Soldiers of the Rift,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,Quest Title/Info
+ポーン郷へ赴き試練に挑む","Reise zur Pawn-Kathedrale und stell dich der Prüfung,
+um einen Pakt mit einem Pawn zu schließen.",ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,1,Leo,Quest Title/Info
+0,q00000004_00_5,異界の戦士,Soldaten des Rifts,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,0,,Quest Title/Info
 1,q00000004_00_5,"ポーンとの契約を果たすため
-ポーン郷へ赴き試練に挑む","As a prerequisite for acquiring a Pawn,
-head to the Pawn Cathedral and complete the challenge
-presented therein.",ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,1,,Quest Title/Info
-2,q00000004_00_963,リム転移でテル村に行き、アルフレドから話を聞く,Warp to Tel and hear what Alfred has to say,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,2,Iris,Quest Title/Info
-2,q00000004_00_963,リム転移でテル村に行き、アルフレドから話を聞く,Warp to Tel and hear what Alfred has to say,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,2,,Quest Title/Info
-3,q00000004_00_964,エリア情報とその内容を確認する,Check the Area Information with Alfred,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,3,Iris,Quest Title/Info
-3,q00000004_00_964,エリア情報とその内容を確認する,Check the Area Information with Alfred,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,3,,Quest Title/Info
-4,q00000004_00_965,狩人の抜け穴を通りポーン郷へ向かう,Take the Hunters' Secret Passage to reach the Pawn Cathedral,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,4,Mysial,Quest Title/Info
-4,q00000004_00_965,狩人の抜け穴を通りポーン郷へ向かう,Take the Hunters' Secret Passage to reach the Pawn Cathedral,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,,Quest Title/Info
-6,q00000004_00_966,ポーン郷の＜拠点の礎＞を解放しマイ拠点登録する,Register the Pawn Cathedral Portcrystal,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,6,Klaus,Quest Title/Info
-6,q00000004_00_966,ポーン郷の＜拠点の礎＞を解放しマイ拠点登録する,Register the Pawn Cathedral Portcrystal,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,6,,Quest Title/Info
-7,q00000004_00_1537,アルヴァーと話す,Speak with Alvar,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,7,Klaus,Quest Title/Info
-7,q00000004_00_1537,アルヴァーと話す,Speak with Alvar,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,7,,Quest Title/Info
-5,q00000004_00_1539,ポーン郷で情報収集する,Gather information in the Pawn Cathedral,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,5,Joseph,Quest Title/Info
-5,q00000004_00_1539,ポーン郷で情報収集する,Gather information in the Pawn Cathedral,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,5,,Quest Title/Info
+ポーン郷へ赴き試練に挑む","Reise zur Pawn-Kathedrale und stell dich der Prüfung,
+um einen Pakt mit einem Pawn zu schließen.",ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,1,,Quest Title/Info
+2,q00000004_00_963,リム転移でテル村に行き、アルフレドから話を聞く,Reise per Rift-Transport nach Tel und sprich mit Alfred,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,2,Iris,Quest Title/Info
+2,q00000004_00_963,リム転移でテル村に行き、アルフレドから話を聞く,Reise per Rift-Transport nach Tel und sprich mit Alfred,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,2,,Quest Title/Info
+3,q00000004_00_964,エリア情報とその内容を確認する,Sieh dir bei Alfred die Gebietsinformation an,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,3,Iris,Quest Title/Info
+3,q00000004_00_964,エリア情報とその内容を確認する,Sieh dir bei Alfred die Gebietsinformation an,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,3,,Quest Title/Info
+4,q00000004_00_965,狩人の抜け穴を通りポーン郷へ向かう,Geh durch den Geheimgang der Jäger zur Pawn-Kathedrale,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,4,Mysial,Quest Title/Info
+4,q00000004_00_965,狩人の抜け穴を通りポーン郷へ向かう,Geh durch den Geheimgang der Jäger zur Pawn-Kathedrale,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,4,,Quest Title/Info
+6,q00000004_00_966,ポーン郷の＜拠点の礎＞を解放しマイ拠点登録する,Schalte den Zielkristall der Pawn-Kathedrale frei und speichere ihn als Favoriten,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,6,Klaus,Quest Title/Info
+6,q00000004_00_966,ポーン郷の＜拠点の礎＞を解放しマイ拠点登録する,Schalte den Zielkristall der Pawn-Kathedrale frei und speichere ihn als Favoriten,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,6,,Quest Title/Info
+7,q00000004_00_1537,アルヴァーと話す,Sprich mit Alvar,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,7,Klaus,Quest Title/Info
+7,q00000004_00_1537,アルヴァーと話す,Sprich mit Alvar,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,7,,Quest Title/Info
+5,q00000004_00_1539,ポーン郷で情報収集する,Erkundige dich in der Pawn-Kathedrale,ui\00_message\quest_info\q00000004_00.gmd,\quest\q00000004.arc,q00000004.arc,5,Joseph,Quest Title/Info
+5,q00000004_00_1539,ポーン郷で情報収集する,Erkundige dich in der Pawn-Kathedrale,ui\00_message\quest_info\q00000004_00.gmd,\ui\history\history_data_001.arc,history_data_001.arc,5,,Quest Title/Info
 0,q00000005_00_1,鈍色のアーク,The Dull-grey Ark,ui\00_message\quest_info\q00000005_00.gmd,\quest\q00000005.arc,q00000005.arc,0,Joseph,Quest Title/Info
 1,q00000005_00_1,"アークへ向かい消息を絶った
 調査団の行方を追う","Head to The Ark and track down
@@ -238448,24 +238320,21 @@ trainer who will help you with your training.",ui\00_message\tutorial_guide\step
 起こるほか、訪れた覚者への支援品を
 受け取ることもできます
 <COL ffdc78>エリアを探索する際は、まず彼らの元へ
-立ち寄るといいでしょう</COL>","By interacting with them and engaging in local
-quests, various changes can occur in the area.
-Additionally, you can also
-receive support items.
-<COL ffdc78>When exploring the area, it is advisable
-to first visit them.</COL>",ui\00_message\tutorial_guide\steps\tutorial_guide_step123.gmd,\tguide\tutorial_guide_123.arc,tutorial_guide_123.arc,1,,Tutorial Text
+立ち寄るといいでしょう</COL>","Hilf dem Gebietsmeister bei regionalen Quests.
+Dadurch kann sich das Gebiet verändern.
+Du kannst bei ihm auch Vorräte erhalten.
+<COL ffdc78>Wenn du ein Gebiet erkundest, statte ihm
+am besten zuerst einen Besuch ab.</COL>",ui\00_message\tutorial_guide\steps\tutorial_guide_step123.gmd,\tguide\tutorial_guide_123.arc,tutorial_guide_123.arc,1,,Tutorial Text
 0,TUTORIAL_STEP_109,"<COL 78f5ff>《エリアマスター》情報が解放されました！</COL>
 <COL ffdc78>《エリアマスター》</COL>とは、地域の事情に
 精通した人物です
 各エリアに１人ずつ存在し、その地域の
 クエストや注意すべき魔物の存在、冒険スポット
-についての情報を与えてくれます","<COL 78f5ff>Area Master information has been unlocked!</COL>
-An <COL ffdc78>Area Master</COL> is someone who is well-versed in
-the local situation.
-There is one person in each area who can provide
-information about quests, notable enemies to
-watch out for, and adventure
-spots in that region.",ui\00_message\tutorial_guide\steps\tutorial_guide_step123.gmd,\tguide\tutorial_guide_123.arc,tutorial_guide_123.arc,0,,Tutorial Text
+についての情報を与えてくれます","<COL 78f5ff>Infos zu Gebietsmeistern sind jetzt verfügbar!</COL>
+Ein <COL ffdc78>Gebietsmeister</COL> kennt sich in seiner Gegend aus.
+In jedem Gebiet gibt es einen. Er informiert
+dich über Quests, gefährliche Gegner
+und besondere Orte.",ui\00_message\tutorial_guide\steps\tutorial_guide_step123.gmd,\tguide\tutorial_guide_123.arc,tutorial_guide_123.arc,0,,Tutorial Text
 0,TUTORIAL_STEP_111,"<COL 78f5ff>《クラン》が解放されました！</COL>
 <COL ffdc78>《クラン》</COL>とはプレイヤー同士で結成する同盟隊です
 クランに参加し、覚者同士の絆を結ぶことは
@@ -240713,15 +240582,13 @@ subdue formidable enemies.",ui\00_message\tutorial_guide\steps\tutorial_guide_st
 名声度<COL ffdc78>《エリアランク》</COL>が上がります</COL>
 <COL ffdc78>エリアランクが上がることで
 封鎖区域の開放、支援品の向上、新たな強敵の
-登場といった変化が発生します</COL>","By completing World Quests and Board Quests, you
-can contribute to solving regional problems and
-accumulate <COL ffdc78>Area Points.</COL>
-When you reach a certain amount of Area Points,
-the <COL ffdc78>Area Rank</COL> of the region will increase.
-<COL ffdc78>As the Area Rank increases, changes such as the
-opening of blocked areas, improvement of support
-goods, and the appearance of new
-powerful enemies will occur.</COL>",ui\00_message\tutorial_guide\steps\tutorial_guide_step238.gmd,\tguide\tutorial_guide_238.arc,tutorial_guide_238.arc,0,,Tutorial Text
+登場といった変化が発生します</COL>","Schließe Welt- und Board-Quests ab, um den
+Leuten in der Gegend zu helfen. Dafür erhältst
+du <COL ffdc78>Gebietspunkte</COL>. Sobald du genug davon
+hast, kannst du deinen <COL ffdc78>Gebietsrang</COL> erhöhen.
+<COL ffdc78>Ein höherer Rang öffnet gesperrte Orte,
+bringt bessere Vorräte und lässt neue,
+stärkere Gegner erscheinen.</COL>",ui\00_message\tutorial_guide\steps\tutorial_guide_step238.gmd,\tguide\tutorial_guide_238.arc,tutorial_guide_238.arc,0,,Tutorial Text
 1,TUTORIAL_STEP_380,"各エリアのランクと現在のポイントは
 【<KC UI_GAME_MENU>】ゲームメニュー
 《ワールド》の<COL ffdc78>《エリアリスト》</COL>から確認できます
@@ -240729,15 +240596,13 @@ powerful enemies will occur.</COL>",ui\00_message\tutorial_guide\steps\tutorial_
 訪れ、《エリア情報》を選びましょう
 そうすることでエリアランクが上がります
 各地のクエストをこなしてエリアランクを上げ
-冒険の幅を増やしましょう","The rank and current points of each area can be
-checked in the [<KC UI_GAME_MENU>] Game Menu.
-You can find them in the <COL ffdc78>Area List</COL> in the
-<COL ffdc78>World</COL> section.
-Once you have accumulated enough points, visit
-the Area Master and choose <COL ffdc78>Area Information</COL>.
-This will increase your area rank.
-Complete quests in various areas to increase
-your area rank and expand your adventure.",ui\00_message\tutorial_guide\steps\tutorial_guide_step238.gmd,\tguide\tutorial_guide_238.arc,tutorial_guide_238.arc,1,,Tutorial Text
+冒険の幅を増やしましょう","Öffne mit <KC UI_GAME_MENU> das Spielmenü.
+In der <COL ffdc78>Gebietsliste</COL> unter <COL ffdc78>World</COL> findest du
+den Rang und die Punkte für jedes Gebiet.
+Wenn du genug Punkte hast, geh zum Gebietsmeister
+und wähle <COL ffdc78>Gebietsinformation</COL>, um aufzusteigen.
+Erledige Quests in verschiedenen Gebieten,
+um weitere Orte und Gegner freizuschalten.",ui\00_message\tutorial_guide\steps\tutorial_guide_step238.gmd,\tguide\tutorial_guide_238.arc,tutorial_guide_238.arc,1,,Tutorial Text
 0,TUTORIAL_STEP_381,"これらのゲーム説明は【<KC UI_GAME_MENU>】ゲームメニュー
 《ワールド》の<COL ffdc78>《チュートリアルガイド》</COL>から
 再確認できます
@@ -240969,13 +240834,11 @@ leveling up of your skills.",ui\00_message\tutorial_guide\steps\tutorial_guide_s
 のクリアが必要な場合もあります
 他プレイヤーのパーティーにゲストとして参加
 している場合は、リーダー覚者のエリアランクが
-反映されるためご留意ください","<COL ffdc78>However, your Area Rank can only be increased
-when you are the party leader. </COL>
-In some cases, clearing Area Trial
-may be a requirement.
-Please note that if you are joining another
-player's party as a guest, the leader's Area
-Rank will be reflected.",ui\00_message\tutorial_guide\steps\tutorial_guide_step238.gmd,\tguide\tutorial_guide_238.arc,tutorial_guide_238.arc,2,,Tutorial Text
+反映されるためご留意ください","<COL ffdc78>Du kannst deinen Gebietsrang nur erhöhen,
+wenn du die Gruppe anführst.</COL>
+Manchmal musst du zusätzlich eine Gebietsprüfung
+abschließen. Trittst du der Gruppe eines anderen
+Spielers bei, gilt der Rang der Gruppenleitung.",ui\00_message\tutorial_guide\steps\tutorial_guide_step238.gmd,\tguide\tutorial_guide_238.arc,tutorial_guide_238.arc,2,,Tutorial Text
 0,TUTORIAL_STEP_417,"　<COL 78f5ff>レスタニア序節：「神の目覚め」到達！</COL>
 　""かくして選ばれし覚者の活躍により
 　　白竜は目覚め、歴史は大きく動き出した
@@ -244362,7 +244225,7 @@ accepting the quest.",ui\00_message\tutorial_guide\steps\tutorial_guide_step404.
 51,TUTORIAL_119,拠点の利用,Portcrystal Use,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,51,,Tutorial Name
 52,TUTORIAL_121,世界の探索,Exploring the World,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,52,,Tutorial Name
 53,TUTORIAL_122,ブラッドオーブの物々交換,Blood Orb Exchange,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,53,,Tutorial Name
-54,TUTORIAL_123,エリアマスター,Area Masters,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,54,,Tutorial Name
+54,TUTORIAL_123,エリアマスター,Gebietsmeister,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,54,,Tutorial Name
 55,TUTORIAL_124,ポーンの基本成長,Basic Growth of a Pawn,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,55,,Tutorial Name
 56,TUTORIAL_125,ポーンとは,What Are Pawns?,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,56,,Tutorial Name
 57,TUTORIAL_126,ポーンの雇用と編成,Hiring and Organizing Pawns,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,57,,Tutorial Name
@@ -245739,7 +245602,7 @@ of the treasure chest.",ui\00_message\tutorial_guide\steps\tutorial_guide_step42
 112,TUTORIAL_235,連係アクション,Coordinated Actions,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,112,,Tutorial Name
 113,TUTORIAL_236,エリアマスターの支援品,Area Master's Support Goods,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,113,,Tutorial Name
 114,TUTORIAL_237,ランキングへの挑戦,Challenge Ranking,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,114,,Tutorial Name
-115,TUTORIAL_238,エリアランクとその上昇,Area Rank and Leveling Up,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,115,,Tutorial Name
+115,TUTORIAL_238,エリアランクとその上昇,Gebietsrang erhöhen,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,115,,Tutorial Name
 116,TUTORIAL_239,チュートリアルガイド,Tutorialübersicht,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,116,,Tutorial Name
 117,TUTORIAL_240,クラフトレベル昇格試験,Crafting Level Test,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,117,,Tutorial Name
 118,TUTORIAL_241,エリア試練クエスト,Area Quests,ui\00_message\tutorial_guide\tutorial_guide.gmd,\tutorial_guide.arc,tutorial_guide.arc,118,,Tutorial Name
@@ -246135,41 +245998,41 @@ success.",ui\00_message\ui\Craft_res.gmd,\ui\uGUISubRecipe.arc,uGUISubRecipe.arc
 13,TUTORIAL_CATEGORY_25,ドラゴンアビリティ,Dragon Ability,ui\00_message\tutorial_guide\tutorial_guide_category.gmd,\ui\uGUIMenuTutorial.arc,uGUIMenuTutorial.arc,13,,Tutorial Category
 0,ac_msg_OptionCourse,パスポート・コース,Passport Course,ui\00_message\ui\AccountingCourse_res.gmd,\ui\gui_cmn.arc,gui_cmn.arc,0,
 1,as_msg_Course,コース,Course,ui\00_message\ui\AccountingCourse_res.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1,
-3,areamaster_msg_abstraction,概要,Overview,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,3,
-22,areamaster_msg_ap_thisweek,今週のポイント,Points This Week,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,22,
-36,areamaster_msg_area_point_title,エリア名声度：<NAME AREA_NAME>,Area Reputation: <NAME AREA_NAME>,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,36,
-54,areamaster_msg_area_trial,特殊条件,Trial,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,54,
-17,areamaster_msg_areacontribution_e,エリア名声度,Area Reputation,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,17,
-18,areamaster_msg_areacontribution_j,Area Reputation,Area Reputation,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,18,
+3,areamaster_msg_abstraction,概要,Übersicht,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,3,
+22,areamaster_msg_ap_thisweek,今週のポイント,Punkte diese Woche,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,22,
+36,areamaster_msg_area_point_title,エリア名声度：<NAME AREA_NAME>,Ansehen in <NAME AREA_NAME>,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,36,
+54,areamaster_msg_area_trial,特殊条件,Prüfung,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,54,
+17,areamaster_msg_areacontribution_e,エリア名声度,Gebietsansehen,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,17,
+18,areamaster_msg_areacontribution_j,Area Reputation,Gebietsansehen,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,18,
 48,areamaster_msg_blank,-,-,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,48,
 32,areamaster_msg_bonus,Bonus,Bonus,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,32,
 26,areamaster_msg_bonus_point,Bonus Point,Bonus Point,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,26,
 5,areamaster_msg_bought,購入済み,Bought,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,5,
 11,areamaster_msg_button_buy,情報購入,Purchase Information,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,11,
-37,areamaster_msg_checkmap,地図で確認,Check Map,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,37,
-30,areamaster_msg_clear,Clear,Clear,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,30,
+37,areamaster_msg_checkmap,地図で確認,Karte ansehen,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,37,
+30,areamaster_msg_clear,Clear,Abgeschlossen,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,30,
 9,areamaster_msg_clearbonus,クリアボーナス,Clear Bonus,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,9,
-43,areamaster_msg_close,現在は封鎖されている,Currently blocked,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,43,
-20,areamaster_msg_contribution,名声度,Reputation,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,20,
-40,areamaster_msg_detectedquest,公開クエスト,Discovered Quests,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,40,
+43,areamaster_msg_close,現在は封鎖されている,Derzeit gesperrt,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,43,
+20,areamaster_msg_contribution,名声度,Ansehen,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,20,
+40,areamaster_msg_detectedquest,公開クエスト,Entdeckte Quests,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,40,
 12,areamaster_msg_dialog_buy,"<VAL GOLD>を消費して<NAME QUEST>のクエスト情報を購入します
 よろしいですか？","Are you sure you want to spend
 <VAL GOLD> to purchase quest information for
 <NAME QUEST>?",ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,12,
-47,areamaster_msg_disable_koukendo,パーティーリーダーしか閲覧できません,Only viewable by the Party Leader,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,47,
+47,areamaster_msg_disable_koukendo,パーティーリーダーしか閲覧できません,Nur für die Gruppenleitung sichtbar,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,47,
 34,areamaster_msg_equal,＝,＝,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,34,
 44,areamaster_msg_gold,<VAL GOLD>,<VAL GOLD>,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,44,
 60,areamaster_msg_header_expedition_num,派遣数,Dispatch Num,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,60,
 59,areamaster_msg_header_hot_spot,ホットスポット,Hotspot,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,59,
 58,areamaster_msg_header_item_rank,入手IR,Obtain IR,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,58,
-56,areamaster_msg_header_recommend_level,推奨レベル,Recommended Level,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,56,
-57,areamaster_msg_header_spot,スポット,Spot,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,57,
+56,areamaster_msg_header_recommend_level,推奨レベル,Empf. Stufe,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,56,
+57,areamaster_msg_header_spot,スポット,Ort,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,57,
 67,areamaster_msg_hot_growth_spot,<COL ffdc78>スポットボス</COL>出現中！,<COL ffdc78>Spot Boss</COL> has appeared!,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,67,
 55,areamaster_msg_item_num,× <VAL>,× <VAL>,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,55,
 24,areamaster_msg_last_week,先週,Last Week,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,24,
 27,areamaster_msg_limited_bonus,期間限定ボーナス,Limited Time Bonus,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,27,
 8,areamaster_msg_mainreward,メイン報酬,Main Reward,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,8,
-33,areamaster_msg_map_title,Area Map,Area Map,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,33,
+33,areamaster_msg_map_title,Area Map,Gebietskarte,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,33,
 7,areamaster_msg_masking,？？？,？？？,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,7,
 38,areamaster_msg_mergodahint,"「マップ」から
 「亡都メルゴダ　下層」「亡都メルゴダ　王宮層」の
@@ -246183,37 +246046,37 @@ for the following areas:
 Royal Palace Level"".
 Let's use it to confirm spot information.",ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,38,
 35,areamaster_msg_mul,×,×,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,35,
-21,areamaster_msg_next,次のランクアップまで,Next rank up,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,21,
-42,areamaster_msg_no_watch,今のところ警戒情報はない,There is no warning information so far,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,42,
+21,areamaster_msg_next,次のランクアップまで,Nächster Rang,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,21,
+42,areamaster_msg_no_watch,今のところ警戒情報はない,Derzeit keine Warnhinweise,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,42,
 29,areamaster_msg_point,Point,Point,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,29,
 53,areamaster_msg_point_bet,<VAL> <UNIT AP> ～ <VAL> <UNIT AP>,<VAL> <UNIT AP> ～ <VAL> <UNIT AP>,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,53,
 52,areamaster_msg_point_end,～ <VAL> <UNIT AP>,～ <VAL> <UNIT AP>,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,52,
 51,areamaster_msg_point_first,<VAL> <UNIT AP> ～,<VAL> <UNIT AP> ～,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,51,
-15,areamaster_msg_populator,入手可能アイテム,Available Items,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,15,
+15,areamaster_msg_populator,入手可能アイテム,Mögliche Funde,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,15,
 10,areamaster_msg_price,情報料金,Information Fee,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,10,
-1,areamaster_msg_questhint_e,Quest Hint,Quest Hint,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,1,
-2,areamaster_msg_questhint_j,クエストヒント,Quest Hint,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,2,
-0,areamaster_msg_rank,Rank,Rank,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,0,
-19,areamaster_msg_rankbonus,ランクボーナス,Rank Bonus,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,19,
+1,areamaster_msg_questhint_e,Quest Hint,Questhinweis,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,1,
+2,areamaster_msg_questhint_j,クエストヒント,Questhinweis,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,2,
+0,areamaster_msg_rank,Rank,Rang,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,0,
+19,areamaster_msg_rankbonus,ランクボーナス,Rangbonus,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,19,
 6,areamaster_msg_recommend,推奨,Rec.,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,6,
-63,areamaster_msg_release_condition,解放条件,Unlock Conditions,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,63,
+63,areamaster_msg_release_condition,解放条件,Voraussetzungen,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,63,
 66,areamaster_msg_release_limited,特定の時間帯にのみ開放,Only available at specific times,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,66,
-65,areamaster_msg_release_personal_quest,クエスト＜<VAL>＞を進行、またはクリア,"Progress or clear quest ""<VAL>""",ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,65,
-64,areamaster_msg_release_rank,エリアランク<VAL>に到達,Reach Area Rank <VAL>,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,64,
-4,areamaster_msg_reward,報酬,Reward,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,4,
+65,areamaster_msg_release_personal_quest,クエスト＜<VAL>＞を進行、またはクリア,Quest „<VAL>“ vorantreiben oder abschließen,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,65,
+64,areamaster_msg_release_rank,エリアランク<VAL>に到達,Gebietsrang <VAL> erreichen,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,64,
+4,areamaster_msg_reward,報酬,Belohnung,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,4,
 45,areamaster_msg_rim,<VAL RIM>,<VAL RIM>,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,45,
 62,areamaster_msg_spot_close,現在は開放されていません。開放まで,Currently not open. Opening in:,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,62,
-14,areamaster_msg_spot_info,スポット情報,Spot Info,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,14,
+14,areamaster_msg_spot_info,スポット情報,Ortsinfo,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,14,
 61,areamaster_msg_spot_open,<COL ffdc78>現在開放中！</COL>閉鎖まで,<COL ffdc78>Currently open!</COL>. Closing in:,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,61,
 39,areamaster_msg_spotmask,？？？？？,?????,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,39,
-50,areamaster_msg_tab_bonus,名声度,Reputation,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,50,
-49,areamaster_msg_tab_rewardlist,支援品　一覧,Support Goods List,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,49,
+50,areamaster_msg_tab_bonus,名声度,Ansehen,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,50,
+49,areamaster_msg_tab_rewardlist,支援品　一覧,Vorräte,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,49,
 28,areamaster_msg_target,Target,Target,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,28,
 25,areamaster_msg_this_week,今週,This Week,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,25,
-13,areamaster_msg_title_e,Area Status,Area Status,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,13,
-16,areamaster_msg_title_j,エリア説明,Area Status,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,16,
+13,areamaster_msg_title_e,Area Status,Gebietsinformation,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,13,
+16,areamaster_msg_title_j,エリア説明,Gebietsinformation,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,16,
 31,areamaster_msg_total,Total,Total,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,31,
-41,areamaster_msg_undetectedquest,未公開クエスト,Undiscovered Quests,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,41,
+41,areamaster_msg_undetectedquest,未公開クエスト,Unentdeckte Quests,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,41,
 23,areamaster_msg_weekly,Weekly,Weekly,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,23,
 46,areamaster_msg_xp,<VAL XP>,<VAL XP>,ui\00_message\ui\AreaMaster_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,46,
 39,ARISEN_CARD_TEXT_ABILITY,Ability,Ability,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,39,,Arisen Profile
@@ -248768,16 +248631,16 @@ It seems to be one of the following items.",ui\00_message\ui\ItemJudge.gmd,\ui\u
 12,MandraBook_msg013,<VAL>の見た目を変更しました,The appearance of <VAL> has been changed,ui\00_message\ui\MandraBook.gmd,\ui\uGUIEncyclopedia.arc,uGUIEncyclopedia.arc,12,,Mandragora Log
 13,MandraBook_msg014,生態を確認する,Review Observation,ui\00_message\ui\MandraBook.gmd,\ui\uGUIEncyclopedia.arc,uGUIEncyclopedia.arc,13,,Mandragora Log
 14,MandraBook_msg015,設定中,Current,ui\00_message\ui\MandraBook.gmd,\ui\uGUIEncyclopedia.arc,uGUIEncyclopedia.arc,14,,Mandragora Log
-3,mai_msg_category_area,エリア,Area,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,3,
-4,mai_msg_category_rank,ランク,Rank,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,4,
-9,mai_msg_clan_point_max,クラン最大貢献AP,Clan maximum AP,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,9,
-8,mai_msg_clan_point_total,クラン累計AP,Clan gained AP,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,8,
-5,mai_msg_next,次のランクアップまで,Next rank up,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,5,
-1,mai_msg_nodeta,データがありません,There is no data,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,1,
-7,mai_msg_rank,Rank,Rank,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,7,
-0,mai_msg_title_e,Area List,Area List,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,0,
-2,mai_msg_title_j,エリアリスト,Area List,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,2,
-6,mai_msg_weekly,今週の獲得AP,AP gained this week,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,6,
+3,mai_msg_category_area,エリア,Gebiet,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,3,
+4,mai_msg_category_rank,ランク,Rang,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,4,
+9,mai_msg_clan_point_max,クラン最大貢献AP,Max. Clan-AP,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,9,
+8,mai_msg_clan_point_total,クラン累計AP,Clan-AP gesammelt,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,8,
+5,mai_msg_next,次のランクアップまで,Nächster Rang,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,5,
+1,mai_msg_nodeta,データがありません,Keine Daten,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,1,
+7,mai_msg_rank,Rank,Rang,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,7,
+0,mai_msg_title_e,Area List,Gebietsliste,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,0,
+2,mai_msg_title_j,エリアリスト,Gebietsliste,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,2,
+6,mai_msg_weekly,今週の獲得AP,AP diese Woche,ui\00_message\ui\MenuAreaInfo_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,6,
 0,MenuCmdPawn_res_3854,Pawn Order,Pawn Order,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,0,
 1,MenuCmdPawn_res_3855,ポーン命令,Pawn Order,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,1,
 2,MenuCmdPawn_res_3856,Category,Category,ui\00_message\ui\MenuCmdPawn_res.gmd,\ui\uGUIMenuCmdPawn.arc,uGUIMenuCmdPawn.arc,2,
@@ -249926,7 +249789,7 @@ Weißen Drachen kannst du sie erneut annehmen.",ui\00_message\ui\Quest_res.gmd,\
 104,QUEST_MSG_DELIVERYINFO,クリアに必要な納品情報,Delivery Required,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestInfo.arc,uGUIQuestInfo.arc,104,
 104,QUEST_MSG_DELIVERYINFO,クリアに必要な納品情報,Delivery Required,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestList.arc,uGUIQuestList.arc,104,
 104,QUEST_MSG_DELIVERYINFO,クリアに必要な納品情報,Delivery Required,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestReward.arc,uGUIQuestReward.arc,104,
-103,QUEST_MSG_ENEMYINFO,魔物情報,Enemies,ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,103,
+103,QUEST_MSG_ENEMYINFO,魔物情報,Gegner,ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,103,
 103,QUEST_MSG_ENEMYINFO,魔物情報,Enemies,ui\00_message\ui\Quest_res.gmd,\ui\uGUIMissionInfo.arc,uGUIMissionInfo.arc,103,
 103,QUEST_MSG_ENEMYINFO,魔物情報,Enemies,ui\00_message\ui\Quest_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,103,
 103,QUEST_MSG_ENEMYINFO,魔物情報,Enemies,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPackageQuestHistory.arc,uGUIPackageQuestHistory.arc,103,
@@ -257081,7 +256944,7 @@ to receive all reward items.",ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInf
 105,lde_msg_title_j,大口納品イベント,Large Delivery Event,ui\00_message\ui\gacha_res.gmd,\ui\uGUIBoxGachaInfo.arc,uGUIBoxGachaInfo.arc,105,,Gacha System
 31,menu_achievement,アチーブメント,Achievement,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,31,,Game Menu
 61,menu_adv_guide,冒険ガイド,Adventure Guide,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,61,,Game Menu
-35,menu_area_infomation,エリアリスト,Area List,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,35,,Game Menu
+35,menu_area_infomation,エリアリスト,Gebietsliste,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,35,,Game Menu
 24,menu_arisen_card,覚者プロフィール,Arisen Profile,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,24,,Game Menu
 65,menu_board_select,確認する掲示板を選択してください,Please select the board you wish to check,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,65,,Game Menu
 53,menu_boxgacha,ボックストレジャーズロット,Box Treasure Lot,ui\00_message\ui\game_menu_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,53,,Game Menu
@@ -260545,8 +260408,8 @@ the items.",ui\00_message\ui\pick_res.gmd,\ui\uGUIPick01.arc,uGUIPick01.arc,7,
 39,poptop_ability,アビリティ,Augments,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,39,
 39,poptop_ability,アビリティ,Augments,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,39,
 13,poptop_areamaster_en,Area Master,Area Master,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,13,
-13,poptop_areamaster_en,Area Master,Area Master,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,13,
-13,poptop_areamaster_en,Area Master,Area Master,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,13,
+13,poptop_areamaster_en,Area Master,Gebietsmeister,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,13,
+13,poptop_areamaster_en,Area Master,Gebietsmeister,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,13,
 12,poptop_areamaster_jp,エリアマスター, ,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,12,
 12,poptop_areamaster_jp,エリアマスター, ,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,12,
 12,poptop_areamaster_jp,エリアマスター, ,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,12,
@@ -260854,8 +260717,8 @@ the items.",ui\00_message\ui\pick_res.gmd,\ui\uGUIPick01.arc,uGUIPick01.arc,7,
 40,poptop_skill,スキル,Skills,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,40,
 40,poptop_skill,スキル,Skills,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,40,
 10,poptop_spotinfo,スポット情報,Spot Info,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,10,
-10,poptop_spotinfo,スポット情報,Spot Info,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,10,
-10,poptop_spotinfo,スポット情報,Spot Info,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,10,
+10,poptop_spotinfo,スポット情報,Ortsinfo,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,10,
+10,poptop_spotinfo,スポット情報,Ortsinfo,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,10,
 104,poptop_time_event,期間イベント,Time Event,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,104,
 104,poptop_time_event,期間イベント,Time Event,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,104,
 104,poptop_time_event,期間イベント,Time Event,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,104,
@@ -261115,7 +260978,7 @@ Zielkristall reisen?",ui\00_message\ui\rim_transport.gmd,\ui\uGUIRimWarp.arc,uGU
 26,error_already_favorite,すでにマイ拠点登録済みの礎です,"It is already a Portcrystal registered in
 Favorites.",ui\00_message\ui\rim_transport.gmd,\ui\uGUIRimWarp.arc,uGUIRimWarp.arc,26,,Portcrystal Management
 24,error_get_list_fail,拠点リストの取得に失敗しました,Failed to retrieve the list of locations.,ui\00_message\ui\rim_transport.gmd,\ui\uGUIRimWarp.arc,uGUIRimWarp.arc,24,,Portcrystal Management
-23,error_regist_fail,マイ拠点の登録に失敗しました,Failed to register to Favorites.,ui\00_message\ui\rim_transport.gmd,\ui\uGUIRimWarp.arc,uGUIRimWarp.arc,23,,Portcrystal Management
+23,error_regist_fail,マイ拠点の登録に失敗しました,Der Favorit konnte nicht gespeichert werden.,ui\00_message\ui\rim_transport.gmd,\ui\uGUIRimWarp.arc,uGUIRimWarp.arc,23,,Portcrystal Management
 22,error_warp_fail,転移に失敗しました,Teleportation failed.,ui\00_message\ui\rim_transport.gmd,\ui\uGUIRimWarp.arc,uGUIRimWarp.arc,22,,Portcrystal Management
 4,heading_current_place,現在地,Aktueller Standort,ui\00_message\ui\rim_transport.gmd,\ui\uGUIRimWarp.arc,uGUIRimWarp.arc,4,,Portcrystal Management
 8,heading_pay_rim,消費リム,Kosten in Riftkristallen,ui\00_message\ui\rim_transport.gmd,\ui\uGUIRimWarp.arc,uGUIRimWarp.arc,8,,Portcrystal Management
@@ -261408,7 +261271,7 @@ for the selected job",ui\00_message\ui\shop.gmd,\ui\uGUIShopBuy.arc,uGUIShopBuy.
 18,title_weapon,武具屋,Equipment Shop,ui\00_message\ui\shop.gmd,\ui\uGUIShopBuy.arc,uGUIShopBuy.arc,18,,Shop
 39,shop_title_appraise,Appraise,Appraise,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,39,,NPC Function Name
 38,shop_title_appraise_sub,鑑定交換,Appraisal Exchange,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,38,,NPC Function Name
-9,shop_title_area_master,Area Master,Area Master,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,NPC Function Name
+9,shop_title_area_master,Area Master,Gebietsmeister,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,9,,NPC Function Name
 10,shop_title_area_master_sub,エリアマスター, ,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,10,,NPC Function Name
 21,shop_title_arts_support,Arts Support,Arts Support,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,21,,NPC Function Name
 22,shop_title_arts_support_sub,戦技補佐, ,ui\00_message\ui\shop_title.gmd,\ui\gui_cmn.arc,gui_cmn.arc,22,,NPC Function Name
