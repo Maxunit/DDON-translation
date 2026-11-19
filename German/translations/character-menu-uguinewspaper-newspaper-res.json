@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Character menu labels, item bag subtitle, and channel and area selection labels",
+  "gmd_path": "ui\\00_message\\ui\\Newspaper_res.gmd",
+  "arc_path": "\\ui\\uGUINewspaper.arc",
+  "entries": [
+    {
+      "key": "np_msg_text_area",
+      "read_index": "4",
+      "source_jp": "エリア選択",
+      "source_en": "Area Select",
+      "text": "Gebietsauswahl"
+    },
+    {
+      "key": "np_msg_area_select",
+      "read_index": "45",
+      "source_jp": "Area Select",
+      "source_en": "Area Select",
+      "text": "Gebietsauswahl"
+    }
+  ]
+}

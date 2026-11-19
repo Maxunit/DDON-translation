@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "scope": "Delivery-eligible materials at overworld gathering nodes in Hidell Plains",
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "607",
+      "source_jp": "オークの乱れ牙",
+      "source_en": "Orc's War Tusk",
+      "text": "Orkhauer"
+    },
+    {
+      "key": "",
+      "read_index": "614",
+      "source_jp": "獣の骨",
+      "source_en": "Animal Bone",
+      "text": "Tierknochen"
+    },
+    {
+      "key": "",
+      "read_index": "646",
+      "source_jp": "鳥の羽根",
+      "source_en": "Bird Feather",
+      "text": "Vogelfeder"
+    },
+    {
+      "key": "",
+      "read_index": "657",
+      "source_jp": "きれいな水",
+      "source_en": "Clear Water",
+      "text": "Klares Wasser"
+    },
+    {
+      "key": "",
+      "read_index": "690",
+      "source_jp": "青銅鉱",
+      "source_en": "Bronze Ore",
+      "text": "Bronzeerz"
+    },
+    {
+      "key": "",
+      "read_index": "746",
+      "source_jp": "獣皮",
+      "source_en": "Animal Pelt",
+      "text": "Tierfell"
+    },
+    {
+      "key": "",
+      "read_index": "788",
+      "source_jp": "細い木材",
+      "source_en": "Thin Wood",
+      "text": "Dünnes Holz"
+    },
+    {
+      "key": "",
+      "read_index": "800",
+      "source_jp": "ベビーハーブ",
+      "source_en": "Baby Herb",
+      "text": "Junges Kraut"
+    },
+    {
+      "key": "",
+      "read_index": "802",
+      "source_jp": "レスタニアハーブ",
+      "source_en": "Lestania Herb",
+      "text": "Lestania-Kraut"
+    },
+    {
+      "key": "",
+      "read_index": "818",
+      "source_jp": "ガラキノコ",
+      "source_en": "Gala Mushroom",
+      "text": "Gala-Pilz"
+    },
+    {
+      "key": "",
+      "read_index": "819",
+      "source_jp": "上質ガラキノコ",
+      "source_en": "Quality Gala Mushroom",
+      "text": "Feiner Gala-Pilz"
+    }
+  ]
+}

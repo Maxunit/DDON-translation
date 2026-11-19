@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Board delivery workflow, marker hints, and quest history menus",
+  "gmd_path": "ui\\00_message\\ui\\system_log.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "syslog_quest_dog_solo",
+      "read_index": "46",
+      "source_jp": "<NAME ITEM>×<VAL>を納品しました",
+      "source_en": "<NAME ITEM> x<VAL> delivered.",
+      "text": "<NAME ITEM> ×<VAL> abgegeben."
+    },
+    {
+      "key": "syslog_quest_dog_party",
+      "read_index": "47",
+      "source_jp": "<NAME TARGET>が<NAME ITEM>×<VAL>を納品しました",
+      "source_en": "<NAME TARGET> delivered \r\n<NAME ITEM> x<VAL>.",
+      "text": "<NAME TARGET>: <NAME ITEM> ×<VAL> abgegeben."
+    },
+    {
+      "key": "syslog_quest_dog_clear",
+      "read_index": "48",
+      "source_jp": "<NAME ITEM>の納品が完了しました",
+      "source_en": "<NAME ITEM> delivery completed.",
+      "text": "Abgabe abgeschlossen: <NAME ITEM>."
+    }
+  ]
+}

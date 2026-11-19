@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "scope": "Quest guidance options, related unlocks and the world menu",
+  "gmd_path": "ui\\00_message\\ui\\option_res_win.gmd",
+  "arc_path": "\\ui\\uGUIOption.arc",
+  "entries": [
+    {
+      "key": "OPTION_MSG_ENPRIORITYQUEST",
+      "read_index": "25",
+      "source_jp": "クエストの自動優先設定",
+      "source_en": "Automatically Set Quests as Priority",
+      "text": "Quests automatisch priorisieren"
+    },
+    {
+      "key": "OPTION_MSG_QUESTGUID",
+      "read_index": "95",
+      "source_jp": "クエストガイドを表示する",
+      "source_en": "Display Quest Guide",
+      "text": "Questführung anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ISAUTOQUESTGUID",
+      "read_index": "96",
+      "source_jp": "自動クエストガイドを有効にする",
+      "source_en": "Enable Automatic Quest Guide",
+      "text": "Automatische Questführung aktivieren"
+    },
+    {
+      "key": "OPTION_MSG_REWARDNOTION",
+      "read_index": "116",
+      "source_jp": "報酬があふれそうな時に警告表示する",
+      "source_en": "Display Reward Overflow Warning",
+      "text": "Warnung bei fast voller Belohnungsbox"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_MQUEST",
+      "read_index": "120",
+      "source_jp": "メインクエスト",
+      "source_en": "Main Quest",
+      "text": "Hauptquest"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_SQUEST",
+      "read_index": "121",
+      "source_jp": "ワールドクエスト",
+      "source_en": "World Quest",
+      "text": "Weltquest"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_LQUEST",
+      "read_index": "122",
+      "source_jp": "パーソナルクエスト",
+      "source_en": "Personal Quest",
+      "text": "Persönliche Quest"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_RQUEST",
+      "read_index": "366",
+      "source_jp": "サブストーリークエスト",
+      "source_en": "Substory Quest",
+      "text": "Nebenquest"
+    },
+    {
+      "key": "OPTION_MSG_NAVIGATION_DISP",
+      "read_index": "371",
+      "source_jp": "ナビゲーションを表示する",
+      "source_en": "Display Navigation",
+      "text": "Navigation anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_QUEST_MOB_HUNT",
+      "read_index": "372",
+      "source_jp": "ワイルドハント",
+      "source_en": "Wild Hunt",
+      "text": "Monsterjagd"
+    }
+  ]
+}

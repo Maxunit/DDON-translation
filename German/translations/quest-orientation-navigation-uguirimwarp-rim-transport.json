@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "scope": "Shared map controls, area information and Rift transport",
+  "gmd_path": "ui\\00_message\\ui\\rim_transport.gmd",
+  "arc_path": "\\ui\\uGUIRimWarp.arc",
+  "entries": [
+    {
+      "key": "title_lost_city_foundation",
+      "read_index": "0",
+      "source_jp": "亡都の礎",
+      "source_en": "Lost City's Portcrystal",
+      "text": "Zielkristall der untergegangenen Stadt"
+    },
+    {
+      "key": "notice_pt_warp_over",
+      "read_index": "18",
+      "source_jp": "パーティー同行リム転移の期限が切れました",
+      "source_en": "Rift Teleport with Party has expired.",
+      "text": "Zeit für die Gruppenreise abgelaufen."
+    },
+    {
+      "key": "list_name_pt_warp",
+      "read_index": "19",
+      "source_jp": "<COL ffdc78>パーティー同行リム転移</COL>",
+      "source_en": "<COL ffdc78>Rift Teleport with Party</COL>",
+      "text": "<COL ffdc78>Rift-Transport zur Gruppe</COL>"
+    },
+    {
+      "key": "dialog_pt_warp_check",
+      "read_index": "20",
+      "source_jp": "パーティーリーダーのいるところへ転移します\r\nよろしいですか？",
+      "source_en": "You will be teleported to the Party Leader.\r\nIs that alright?",
+      "text": "Zur Gruppenleitung reisen?"
+    },
+    {
+      "key": "notice_pt_warp_limit",
+      "read_index": "21",
+      "source_jp": "パーティー同行リム転移残り時間 <VAL>秒です",
+      "source_en": "Remaining time for Rift Teleport with Party is\r\n<VAL> seconds.",
+      "text": "Noch <VAL> Sek. für den Gruppen-Rift-Transport."
+    },
+    {
+      "key": "error_warp_fail",
+      "read_index": "22",
+      "source_jp": "転移に失敗しました",
+      "source_en": "Teleportation failed.",
+      "text": "Rift-Transport fehlgeschlagen."
+    },
+    {
+      "key": "error_get_list_fail",
+      "read_index": "24",
+      "source_jp": "拠点リストの取得に失敗しました",
+      "source_en": "Failed to retrieve the list of locations.",
+      "text": "Die Zielliste konnte nicht geladen werden."
+    },
+    {
+      "key": "error_already_favorite",
+      "read_index": "26",
+      "source_jp": "すでにマイ拠点登録済みの礎です",
+      "source_en": "It is already a Portcrystal registered in\r\nFavorites.",
+      "text": "Dieser Zielkristall ist bereits ein Favorit."
+    },
+    {
+      "key": "list_name_large_pt_warp",
+      "read_index": "32",
+      "source_jp": "<COL ffdc78>集合場所に戻る</COL>",
+      "source_en": "<COL ffdc78>Return to the gathering spot</COL>",
+      "text": "<COL ffdc78>Zum Sammelpunkt zurück</COL>"
+    },
+    {
+      "key": "dialog_large_pt_warp_check",
+      "read_index": "33",
+      "source_jp": "集合場所に戻ります\r\nよろしいですか？",
+      "source_en": "Returning to the gathering spot. Are you sure?",
+      "text": "Zum Sammelpunkt zurückkehren?"
+    },
+    {
+      "key": "list_name_return_kokuju_entrance",
+      "read_index": "34",
+      "source_jp": "<COL ffdc78>黒呪の迷宮・入り江に戻る</COL>",
+      "source_en": "<COL ffdc78>Return to Bitterblack Maze -\r\nCove</COL>",
+      "text": "<COL ffdc78>Zur Bucht am Bitterblack-Labyrinth</COL>"
+    },
+    {
+      "key": "dialog_return_kokuju_entrance_check",
+      "read_index": "35",
+      "source_jp": "黒呪の迷宮・入り江に戻ります\r\nよろしいですか？",
+      "source_en": "Are you sure you want to return to\r\nthe Bitterblack Maze Cove?",
+      "text": "Zur Bucht am Bitterblack-Labyrinth zurückkehren?"
+    }
+  ]
+}

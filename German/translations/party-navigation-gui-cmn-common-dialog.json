@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_play_area",
+      "read_index": "315",
+      "source_jp": "エリアスポットで遊ぶ",
+      "source_en": "Play in an Area Spot",
+      "text": "Gebietsort erkunden"
+    },
+    {
+      "key": "ana_common_back",
+      "read_index": "316",
+      "source_jp": "戻る",
+      "source_en": "Return",
+      "text": "Zurück"
+    },
+    {
+      "key": "ana_common_return",
+      "read_index": "319",
+      "source_jp": "戻る",
+      "source_en": "Return",
+      "text": "Zurück"
+    },
+    {
+      "key": "ana_select_type_quickmatch",
+      "read_index": "335",
+      "source_jp": "クイックパーティーの冒険目的を選択してください",
+      "source_en": "Please select the purpose of the adventure.",
+      "text": "Was ist dein Abenteuerziel?"
+    },
+    {
+      "key": "ana_play_news",
+      "read_index": "398",
+      "source_jp": "レスタニアニュースで遊ぶ",
+      "source_en": "Play Lestania News",
+      "text": "Quest aus den Nachrichten"
+    }
+  ]
+}

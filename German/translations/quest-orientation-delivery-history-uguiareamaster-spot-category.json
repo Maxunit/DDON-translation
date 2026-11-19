@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Board delivery workflow, marker hints, and quest history menus",
+  "gmd_path": "ui\\00_message\\master\\spot_category.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_CATEGORY_1",
+      "read_index": "0",
+      "source_jp": "エリア概要",
+      "source_en": "General",
+      "text": "Gebietsübersicht"
+    },
+    {
+      "key": "SPOT_CATEGORY_2",
+      "read_index": "1",
+      "source_jp": "拠点・施設スポット",
+      "source_en": "Settlements & Structures",
+      "text": "Siedlungen und Gebäude"
+    },
+    {
+      "key": "SPOT_CATEGORY_3",
+      "read_index": "2",
+      "source_jp": "魔物警戒スポット",
+      "source_en": "Monster Caution Spots",
+      "text": "Monsterwarnungen"
+    },
+    {
+      "key": "SPOT_CATEGORY_4",
+      "read_index": "3",
+      "source_jp": "冒険スポット",
+      "source_en": "Adventure Spots",
+      "text": "Abenteuerorte"
+    },
+    {
+      "key": "SPOT_CATEGORY_5",
+      "read_index": "4",
+      "source_jp": "魔物集結スポット",
+      "source_en": "Monster Gathering Spots",
+      "text": "Sammelplätze der Monster"
+    },
+    {
+      "key": "SPOT_CATEGORY_6",
+      "read_index": "5",
+      "source_jp": "期間解放スポット",
+      "source_en": "Periodically Unlocked Spots",
+      "text": "Zeitweise geöffnete Orte"
+    }
+  ]
+}

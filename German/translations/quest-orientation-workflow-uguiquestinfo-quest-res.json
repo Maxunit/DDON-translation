@@ -1,0 +1,855 @@
+{
+  "schema_version": 1,
+  "scope": "Shared quest menus, order conditions, navigation controls and rewards",
+  "gmd_path": "ui\\00_message\\ui\\Quest_res.gmd",
+  "arc_path": "\\ui\\uGUIQuestInfo.arc",
+  "entries": [
+    {
+      "key": "QUEST_MSG_LB_ADDINFO",
+      "read_index": "25",
+      "source_jp": "クリア回数による追加情報",
+      "source_en": "Additional information based on the number of\r\nclears.",
+      "text": "Weitere Infos je nach Anzahl der Abschlüsse."
+    },
+    {
+      "key": "QUEST_MSG_LB_AREAP",
+      "read_index": "26",
+      "source_jp": "エリア名声度：<NAME AREA_NAME>",
+      "source_en": "Area Reputation: <NAME AREA_NAME>",
+      "text": "Ansehen in <NAME AREA_NAME>"
+    },
+    {
+      "key": "QUEST_MSG_NAME_AREA",
+      "read_index": "27",
+      "source_jp": "エリア名",
+      "source_en": "Area Name",
+      "text": "Gebiet"
+    },
+    {
+      "key": "QUEST_MSG_LB_CHARGINFO",
+      "read_index": "30",
+      "source_jp": "課金情報",
+      "source_en": "Billing Information",
+      "text": "Kostenübersicht"
+    },
+    {
+      "key": "QUEST_MSG_LB_SPBONUS",
+      "read_index": "44",
+      "source_jp": "Special Bonus",
+      "source_en": "Special Bonus",
+      "text": "Sonderbonus"
+    },
+    {
+      "key": "QUEST_MSG_AREAPOINT",
+      "read_index": "46",
+      "source_jp": "エリア名声度 <VAL AREA_POINT>",
+      "source_en": "Area Reputation <VAL AREA_POINT>",
+      "text": "Gebietsansehen: <VAL AREA_POINT>"
+    },
+    {
+      "key": "QUEST_MSG_BN_UNDETECTED",
+      "read_index": "52",
+      "source_jp": "未公開ボーナス",
+      "source_en": "Hidden Bonus",
+      "text": "Verborgener Bonus"
+    },
+    {
+      "key": "QUEST_MSG_BN_REPLAY",
+      "read_index": "53",
+      "source_jp": "繰り返しボーナス",
+      "source_en": "Repeat Bonus",
+      "text": "Wiederholungsbonus"
+    },
+    {
+      "key": "QUEST_MSG_ACCIDENTAL",
+      "read_index": "54",
+      "source_jp": "ボードボーナス発生中！",
+      "source_en": "Board bonus is active!",
+      "text": "Board-Bonus aktiv!"
+    },
+    {
+      "key": "QUEST_MSG_PROGRESS_CONDITION",
+      "read_index": "55",
+      "source_jp": "進行条件",
+      "source_en": "Progress Conditions",
+      "text": "Bedingungen für den Fortschritt"
+    },
+    {
+      "key": "QUEST_MSG_HOLDING_PERIOD",
+      "read_index": "56",
+      "source_jp": "開催期間",
+      "source_en": "Event Duration",
+      "text": "Laufzeit"
+    },
+    {
+      "key": "QUEST_MSG_WAIT_ORDER_QUEST",
+      "read_index": "57",
+      "source_jp": "受注待ちクエスト",
+      "source_en": "Quests Awaiting Confirmation",
+      "text": "Quests zur Bestätigung"
+    },
+    {
+      "key": "QUEST_MSG_LIST_UPDATE_ERROR",
+      "read_index": "58",
+      "source_jp": "リストの更新に失敗しました",
+      "source_en": "Failed to update the quest list.",
+      "text": "Questliste konnte nicht aktualisiert werden."
+    },
+    {
+      "key": "QUEST_MSG_NUMBER",
+      "read_index": "61",
+      "source_jp": "No.<VAL>",
+      "source_en": "No.<VAL>",
+      "text": "Nr. <VAL>"
+    },
+    {
+      "key": "QUEST_MSG_REPLAY_XP_UP",
+      "read_index": "62",
+      "source_jp": "経験値アップ",
+      "source_en": "Experience Point Up",
+      "text": "Mehr Erfahrungspunkte"
+    },
+    {
+      "key": "QUEST_MSG_REPLAY_AP_UP",
+      "read_index": "63",
+      "source_jp": "エリアポイントアップ",
+      "source_en": "Area Point Up",
+      "text": "Mehr Gebietspunkte"
+    },
+    {
+      "key": "QUEST_MSG_REPLAY_RIM_UP",
+      "read_index": "64",
+      "source_jp": "リムアップ",
+      "source_en": "Rift Crystal Up",
+      "text": "Mehr Riftkristalle"
+    },
+    {
+      "key": "QUEST_MSG_REPLAY_GOLD_UP",
+      "read_index": "65",
+      "source_jp": "ゴールドアップ",
+      "source_en": "Gold Up",
+      "text": "Mehr Gold"
+    },
+    {
+      "key": "QUEST_MSG_REPLAY_SLOT_UP",
+      "read_index": "66",
+      "source_jp": "ランダム報酬枠増加",
+      "source_en": "Random Reward Up",
+      "text": "Mehr Zufallsbelohnungen"
+    },
+    {
+      "key": "QUEST_MSG_SUPPORT_REWARD",
+      "read_index": "70",
+      "source_jp": "アシスト報酬",
+      "source_en": "Assist Reward",
+      "text": "Assistenzbelohnung"
+    },
+    {
+      "key": "QUEST_MSG_BONUS_REWARD_XP",
+      "read_index": "71",
+      "source_jp": "経験値報酬が%2.1f倍（%s）",
+      "source_en": "x%2.1f Experience Point reward (%s)",
+      "text": "%2.1f× Erfahrung (%s)"
+    },
+    {
+      "key": "QUEST_MSG_BONUS_REWARD_AP",
+      "read_index": "72",
+      "source_jp": "エリアポイント報酬が%2.1f倍（%s）",
+      "source_en": "x%2.1f Area Point reward (%s)",
+      "text": "%2.1f× Gebietspunkte (%s)"
+    },
+    {
+      "key": "QUEST_MSG_BONUS_REWARD_RIM",
+      "read_index": "73",
+      "source_jp": "リム報酬が%2.1f倍（%s）",
+      "source_en": "x%2.1f Rift reward (%s)",
+      "text": "%2.1f× Riftkristalle (%s)"
+    },
+    {
+      "key": "QUEST_MSG_BONUS_REWARD_GOLD",
+      "read_index": "74",
+      "source_jp": "ゴールド報酬が%2.1f倍（%s）",
+      "source_en": "x%2.1f Gold reward (%s)",
+      "text": "%2.1f× Gold (%s)"
+    },
+    {
+      "key": "QUEST_MSG_BONUS_REWARD_RANDOM",
+      "read_index": "75",
+      "source_jp": "ランダム報酬枠が%d増加（%s）",
+      "source_en": "Random rewards increased by %d (%s)",
+      "text": "%d zusätzliche Zufallsbelohnungen (%s)"
+    },
+    {
+      "key": "QUEST_MSG_BONUS_CHANCE_NUMBER",
+      "read_index": "76",
+      "source_jp": "ボーナス発生まで%d回",
+      "source_en": "bonus after %d clears",
+      "text": "Bonus nach %d Abschlüssen"
+    },
+    {
+      "key": "QUEST_MSG_BONUS_TIME",
+      "read_index": "77",
+      "source_jp": "ボーナス発生中",
+      "source_en": "bonus active",
+      "text": "Bonus aktiv"
+    },
+    {
+      "key": "QUEST_MSG_NOTION_WAITING",
+      "read_index": "79",
+      "source_jp": "リーダーが受注時に受注待ちは解除できます",
+      "source_en": "The leader can cancel the pending quest when\r\naccepting.",
+      "text": "Die Gruppenleitung kann die Vormerkung\r\nbei der Questannahme aufheben."
+    },
+    {
+      "key": "QUEST_MSG_NOTION_DISABLE_PT",
+      "read_index": "80",
+      "source_jp": "「パーティークエスト情報」では使用できません",
+      "source_en": "Cannot be used in 'Party Quest Information'",
+      "text": "In der Gruppenquest-Ansicht nicht verfügbar."
+    },
+    {
+      "key": "QUEST_MSG_NOTE_COLLISION_PROC",
+      "read_index": "81",
+      "source_jp": "リーダーとクエスト進行状況が一致していないため進行不可",
+      "source_en": "You cannot continue because your progress is\r\ndifferent than the party leader",
+      "text": "Dein Fortschritt weicht von dem der\r\nGruppenleitung ab. Du kannst nicht fortfahren."
+    },
+    {
+      "key": "QUEST_MSG_ORDERED_OVER",
+      "read_index": "82",
+      "source_jp": "クエスト受注数オーバー（クエストクリア/破棄で受注可）",
+      "source_en": "Quest limit reached (you must\r\nclear/cancel quests).",
+      "text": "Questlimit erreicht. Schließe Quests ab\r\noder gib welche auf."
+    },
+    {
+      "key": "QUEST_MSG_PARTYB_ON1",
+      "read_index": "83",
+      "source_jp": "パーティークリアボーナス対象",
+      "source_en": "Party Clear Bonus Target",
+      "text": "Gruppenbonus verfügbar"
+    },
+    {
+      "key": "QUEST_MSG_PARTYB_OFF1",
+      "read_index": "84",
+      "source_jp": "パーティークリアボーナス対象(取得済)",
+      "source_en": "Party Clear Bonus Target (already acquired)",
+      "text": "Gruppenbonus bereits erhalten"
+    },
+    {
+      "key": "QUEST_MSG_PARTYB_ON2",
+      "read_index": "85",
+      "source_jp": "クリア報酬（アイテム以外）が最大<VAL>倍！",
+      "source_en": "Clear rewards (other than items) increased by\r\nx<VAL>!",
+      "text": "Bis zu <VAL>× Belohnung (ohne Gegenstände)!"
+    },
+    {
+      "key": "QUEST_MSG_PARTYB_OFF2",
+      "read_index": "86",
+      "source_jp": "クリア報酬（アイテム以外）が最大<VAL>倍！\r\nブラッドオーブが<VAL>個獲得！",
+      "source_en": "Clear rewards (except items) increased up to <VAL>x!\r\nEarn <VAL> Blood Orbs!﻿",
+      "text": "Bis zu <VAL>× Belohnung (ohne Gegenstände)!\r\nDazu <VAL> Blutkugeln!"
+    },
+    {
+      "key": "QUEST_MSG_RAIDB_TITLE",
+      "read_index": "87",
+      "source_jp": "スコア倍率ボーナス",
+      "source_en": "Score Multiplier Bonus",
+      "text": "Punktzahl-Multiplikator"
+    },
+    {
+      "key": "QUEST_MSG_RAIDb_BODY",
+      "read_index": "88",
+      "source_jp": "<VAL>倍からスタート",
+      "source_en": "Starting from <VAL>.",
+      "text": "Start bei <VAL>×."
+    },
+    {
+      "key": "QUEST_MSG_OUT_LEADER",
+      "read_index": "89",
+      "source_jp": "リーダーが不在のため進行／受注不可",
+      "source_en": "Progress/Acceptance not possible due to the\r\nabsence of the leader",
+      "text": "Die Gruppenleitung fehlt. Die Quest kann\r\nnicht angenommen oder fortgesetzt werden."
+    },
+    {
+      "key": "QUEST_MSG_TIME_LIMIT",
+      "read_index": "91",
+      "source_jp": "配信終了まで",
+      "source_en": "Time Limit ",
+      "text": "Frist: "
+    },
+    {
+      "key": "QUEST_MSG_LEADER_CONDITION",
+      "read_index": "93",
+      "source_jp": "リーダーが受注条件を満たしていません",
+      "source_en": "Leader does not meet the conditions",
+      "text": "Die Gruppenleitung erfüllt die\r\nVoraussetzungen nicht."
+    },
+    {
+      "key": "QUEST_MSG_AREA_BONUS",
+      "read_index": "94",
+      "source_jp": "ボードボーナスでクリア時の報酬が最大<VAL>倍！",
+      "source_en": "Clear reward increased by x<VAL> with board bonus!",
+      "text": "Mit Board-Bonus bis zu <VAL>× Belohnung!"
+    },
+    {
+      "key": "QUEST_MSG_LEADER_PROGRESS",
+      "read_index": "95",
+      "source_jp": "リーダーが進行条件を満たしていません",
+      "source_en": "The Leader does not meet the progress conditions.",
+      "text": "Die Gruppenleitung erfüllt die Bedingungen\r\nzum Fortsetzen nicht."
+    },
+    {
+      "key": "QUEST_MSG_BN_UNDETECTED1",
+      "read_index": "96",
+      "source_jp": "未公開ボーナス(取得済)",
+      "source_en": "Hidden Bonus (acquired)",
+      "text": "Verborgener Bonus bereits erhalten"
+    },
+    {
+      "key": "QUEST_MSG_BN_TIMEBONUS",
+      "read_index": "97",
+      "source_jp": "タイムボーナス",
+      "source_en": "Time Bonus",
+      "text": "Zeitbonus"
+    },
+    {
+      "key": "QUEST_MSG_BONUS_REWARD_TIMEBONUS",
+      "read_index": "98",
+      "source_jp": "スコア倍率が最大<VAL>倍！",
+      "source_en": "The score multiplier is at its maximum, <VAL>\r\ntimes!",
+      "text": "Höchster Punktzahl-Multiplikator: <VAL>×"
+    },
+    {
+      "key": "QUEST_MSG_PARTY_LARGE",
+      "read_index": "99",
+      "source_jp": "特定のコンテンツ中は進行できません",
+      "source_en": "Cannot progress during certain content",
+      "text": "Während bestimmter Inhalte kannst du\r\ndiese Quest nicht fortsetzen."
+    },
+    {
+      "key": "QUEST_MSG_SELECT_REWARD_ONLY_ONE",
+      "read_index": "100",
+      "source_jp": "選択報酬",
+      "source_en": "Select Reward",
+      "text": "Belohnung wählen"
+    },
+    {
+      "key": "QUEST_MSG_BONUS_REWARD_DAILY",
+      "read_index": "101",
+      "source_jp": "１日１回「基本報酬」\r\nレア素材入手可能！",
+      "source_en": "Once daily \"Basic Reward\"\r\nRare material available!",
+      "text": "Einmal täglich kannst du als Grundbelohnung\r\nseltenes Material erhalten!"
+    },
+    {
+      "key": "QUEST_MSG_BN_DAILY",
+      "read_index": "102",
+      "source_jp": "デイリーボーナス",
+      "source_en": "Daily Bonus",
+      "text": "Tagesbonus"
+    },
+    {
+      "key": "QUEST_MSG_ENEMYINFO",
+      "read_index": "103",
+      "source_jp": "魔物情報",
+      "source_en": "Enemies",
+      "text": "Gegner"
+    },
+    {
+      "key": "QUEST_MSG_DELIVERYINFO",
+      "read_index": "104",
+      "source_jp": "クリアに必要な納品情報",
+      "source_en": "Delivery Required",
+      "text": "Abzugebende Gegenstände"
+    },
+    {
+      "key": "QUEST_MSG_BN_ROOT",
+      "read_index": "105",
+      "source_jp": "ボーナス報酬",
+      "source_en": "Bonus Reward",
+      "text": "Bonusbelohnung"
+    },
+    {
+      "key": "QUEST_MSG_BONUS_ROOT",
+      "read_index": "106",
+      "source_jp": "成功時に報酬を追加付与",
+      "source_en": "Additional reward granted upon success",
+      "text": "Bei Erfolg gibt es eine zusätzliche Belohnung."
+    },
+    {
+      "key": "QUEST_MSG_CLAN_QUEST_TITLE_EN",
+      "read_index": "107",
+      "source_jp": "Clan Quest",
+      "source_en": "Clan Quest",
+      "text": "Clan-Quest"
+    },
+    {
+      "key": "QUEST_MSG_CLAN_QUEST_CAP_ENABLE_CLEAR",
+      "read_index": "109",
+      "source_jp": "CP報酬の有効クリア回数",
+      "source_en": "CP reward clear count",
+      "text": "Abschlüsse mit Clanpunkt-Belohnung"
+    },
+    {
+      "key": "QUEST_MSG_CLAN_QUEST_NUM_ENABLE_CLEAR",
+      "read_index": "110",
+      "source_jp": "%d / %d 回",
+      "source_en": "%d / %d times",
+      "text": "%d / %d Mal"
+    },
+    {
+      "key": "QUEST_MSG_WQ_UNRELEASED_AREA",
+      "read_index": "111",
+      "source_jp": "対象エリアのワールドクエストが未解放のため受注不可",
+      "source_en": "World Quests in the designated area are\r\nunavailable for acceptance due to being locked.",
+      "text": "Das Gebiet ist gesperrt. Dort können noch\r\nkeine Weltquests angenommen werden."
+    },
+    {
+      "key": "QUEST_MSG_SP_ALLCLEAR_BTN",
+      "read_index": "112",
+      "source_jp": "一括クリア",
+      "source_en": "All Clear",
+      "text": "Alle abschließen"
+    },
+    {
+      "key": "QUEST_MSG_SP_ALLCLEAR_ERR_01",
+      "read_index": "113",
+      "source_jp": "すべてのクエストがクリア状態のため、使用できません",
+      "source_en": "All quests have already been cleared",
+      "text": "Alle Quests sind bereits abgeschlossen."
+    },
+    {
+      "key": "QUEST_MSG_SP_ALLCLEAR_DIALOG_CONF",
+      "read_index": "114",
+      "source_jp": "このクエストボードから配信されている\r\nすべてのクエストを一括してクリア状態にします\r\n<COL ffdc78>黄金石<VAL>個</COL>を消費して、一括クリアしますか？\r\n(所持数：<VAL>)",
+      "source_en": "All quests delivered from this Quest Board\r\ncan be cleared.\r\nAre you sure you want to use\r\n<COL ffdc78><VAL> Golden Gemstone</COL> to clear\r\nall quests?\r\n(Have: <VAL>)",
+      "text": "Alle Quests an diesem Board abschließen?\r\nDafür werden <COL ffdc78><VAL> Goldsteine</COL>\r\nverbraucht.\r\n(Im Besitz: <VAL>)"
+    },
+    {
+      "key": "QUEST_MSG_SP_ALLCLEAR_DIALOG_LACK",
+      "read_index": "115",
+      "source_jp": "黄金石が不足しています\r\n一括クリアするには<COL ffdc78>黄金石<VAL>個</COL>が必要です\r\n(所持数：<VAL>)",
+      "source_en": "You do not have enough Golden Gemstones.\r\nTo bulk clear, you need <COL ffdc78><VAL> Golden\r\nGemstone(s)</COL>.\r\n(Currently owned: <VAL>)",
+      "text": "Du hast zu wenige Goldsteine.\r\nZum Sammelabschluss brauchst du\r\n<COL ffdc78><VAL> Goldsteine</COL>.\r\n(Im Besitz: <VAL>)"
+    },
+    {
+      "key": "QUEST_MSG_SP_ALLCLEAR_DIALOG_GOTO_ONLINESHOP",
+      "read_index": "116",
+      "source_jp": "オンラインショップを開く",
+      "source_en": "Open online shop",
+      "text": "Online-Shop öffnen"
+    },
+    {
+      "key": "QUEST_MSG_ASSIST_ACCEPT",
+      "read_index": "117",
+      "source_jp": "条件を満たしていないためアシスト状態で受注可",
+      "source_en": "Because you do not meet the conditions, the quest\r\nwill be accepted in assist mode.",
+      "text": "Du erfüllst die Voraussetzungen nicht.\r\nDu nimmst die Quest als Helfer an."
+    },
+    {
+      "key": "QUEST_MSG_SEQUENCE_DUPLICATE",
+      "read_index": "118",
+      "source_jp": "同一シーケンス内の別クエストを受注中のため受注不可",
+      "source_en": "Unable to accept the Quest because another quest\r\nin the same sequence is currently being\r\nundertaken.",
+      "text": "Eine andere Quest derselben Reihe läuft bereits.\r\nDu kannst diese Quest noch nicht annehmen."
+    },
+    {
+      "key": "QUEST_MSG_CG_ROYAL",
+      "read_index": "119",
+      "source_jp": "サブストーリークエスト",
+      "source_en": "Substory Quest",
+      "text": "Nebenquest"
+    },
+    {
+      "key": "QUEST_MSG_PLAYABLE_DATE",
+      "read_index": "120",
+      "source_jp": "配信開始：",
+      "source_en": "Distribution Begins:",
+      "text": "Verfügbar ab:"
+    },
+    {
+      "key": "QUEST_MSG_EQUIPMENT_RESTRICTIONS",
+      "read_index": "121",
+      "source_jp": "装備制限あり",
+      "source_en": "Equipment restrictions apply.",
+      "text": "Die Ausrüstung ist eingeschränkt."
+    },
+    {
+      "key": "QUEST_MSG_HARD_QUEST_TITLE_EN",
+      "read_index": "122",
+      "source_jp": "Quest Board",
+      "source_en": "Special Quest Board",
+      "text": "Spezial-Questboard"
+    },
+    {
+      "key": "QUEST_MSG_SP_ALLCLEAR_DIALOG_CONF_HARD",
+      "read_index": "124",
+      "source_jp": "このクエストボードから配信されている\r\nすべてのクエストを一括してクリア状態にします\r\n<COL ffdc78>黄金石<VAL>個</COL>を消費して、一括クリアしますか？\r\n(所持数：<VAL>)\r\n<COL AA1414>スペシャルクエストボードは、一括クリアする度に\r\n必要な黄金石がボード毎に増加します</COL>\r\n<COL AA1414>PPモード中や、LVが最大の時には\r\n報酬の経験値を入手することはできません</COL>",
+      "source_en": "Clear all quests from this board at once.\r\nSpend <COL ffdc78><VAL> Golden Gemstones</COL> for bulk clear?\r\n(Current: <VAL>)\r\n<COL AA1414>Special boards cost more Stones for bulk clear.</COL> \r\n<COL AA1414>No XP if in PP Mode or at max level</COL>",
+      "text": "Alle Quests an diesem Board abschließen?\r\nDafür werden <COL ffdc78><VAL> Goldsteine</COL> verbraucht.\r\n(Im Besitz: <VAL>)\r\n<COL AA1414>Jeder Sammelabschluss verteuert den nächsten\r\nan diesem Spezial-Questboard.</COL>\r\n<COL AA1414>Im PP-Modus und auf der Höchststufe\r\ngibt es keine Erfahrungspunkte.</COL>"
+    },
+    {
+      "key": "QUEST_MSG_LV_BONUS",
+      "read_index": "125",
+      "source_jp": "クリア報酬が最大%s倍！",
+      "source_en": "Clear reward up to x%s!",
+      "text": "Bis zu %s× Abschlussbelohnung!"
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_TITLE_01",
+      "read_index": "126",
+      "source_jp": "Adventure Guide",
+      "source_en": "Adventure Guide",
+      "text": "Wegweiser"
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_TITLE_02",
+      "read_index": "127",
+      "source_jp": "冒険ガイド",
+      "source_en": "Adventure Guide",
+      "text": "Abenteuerführer"
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_NOTHING",
+      "read_index": "128",
+      "source_jp": "現在紹介出来るクエストはありません",
+      "source_en": "There are currently no quests available.",
+      "text": "Derzeit sind keine Quests verfügbar."
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_CATEGORY_01",
+      "read_index": "129",
+      "source_jp": "メインクエスト",
+      "source_en": "Main Quest",
+      "text": "Hauptquest"
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_CATEGORY_02",
+      "read_index": "130",
+      "source_jp": "レベル上げミッション",
+      "source_en": "Leveling Mission",
+      "text": "Mission zum Stufenaufstieg"
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_CATEGORY_03",
+      "read_index": "131",
+      "source_jp": "レベル上げクエスト",
+      "source_en": "Leveling Quest",
+      "text": "Quest zum Stufenaufstieg"
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_CATEGORY_04",
+      "read_index": "132",
+      "source_jp": "冒険に役立つクエスト",
+      "source_en": "Quests to Aid Your Adventure",
+      "text": "Quests zur Unterstützung"
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_CATEGORY_05",
+      "read_index": "133",
+      "source_jp": "ジョブクエスト",
+      "source_en": "Vocation Quest",
+      "text": "Klassenquest"
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_CATEGORY_06",
+      "read_index": "134",
+      "source_jp": "コラボ/シーズナルクエスト",
+      "source_en": "Collaboration / Seasonal Quest",
+      "text": "Kooperationen und Saisonquests"
+    },
+    {
+      "key": "QUEST_MSG_LB_OPEN_CONTENTS",
+      "read_index": "135",
+      "source_jp": "解放コンテンツ",
+      "source_en": "Unlock Content",
+      "text": "Freischaltungen"
+    },
+    {
+      "key": "QUEST_MSG_MENU_NAVI_ON",
+      "read_index": "136",
+      "source_jp": "ナビゲート設定",
+      "source_en": "Navigate On",
+      "text": "Navigation einschalten"
+    },
+    {
+      "key": "QUEST_MSG_MENU_NAVI_OFF",
+      "read_index": "137",
+      "source_jp": "ナビゲート解除",
+      "source_en": "Navigate Off",
+      "text": "Navigation ausschalten"
+    },
+    {
+      "key": "QUEST_MSG_MENU_ENTRY",
+      "read_index": "138",
+      "source_jp": "参加する",
+      "source_en": "Join",
+      "text": "Teilnehmen"
+    },
+    {
+      "key": "QUEST_MSG_OPEN_MAP_ERROR_NO_NAVI",
+      "read_index": "139",
+      "source_jp": "地図で確認するには、ナビゲーションを設定してください",
+      "source_en": "To see it on the map, please set up your\r\nnavigation",
+      "text": "Aktiviere die Navigation, um das Ziel\r\nauf der Karte zu sehen."
+    },
+    {
+      "key": "QUEST_MSG_OPEN_MAP_ERROR_NO_MARKER",
+      "read_index": "140",
+      "source_jp": "受注可能になるまで、地図で確認できません。",
+      "source_en": "You cannot check it on the map until it becomes\r\navailable to Accept.",
+      "text": "Die Quest erscheint erst auf der Karte,\r\nwenn du sie annehmen kannst."
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_EXM_REWARD_NAME",
+      "read_index": "141",
+      "source_jp": "その他報酬",
+      "source_en": "Other Rewards",
+      "text": "Weitere Belohnungen"
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_EXM_REWARD_INFO",
+      "read_index": "142",
+      "source_jp": "詳細は参加ボタンを押して、エントリー画面でご確認ください",
+      "source_en": "For more details, please click the Join button\r\nand see the entry page.",
+      "text": "Wähle „Teilnehmen“, um die Details\r\nim Anmeldefenster zu sehen."
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_CATEGORY_07",
+      "read_index": "143",
+      "source_jp": "エリア試練/エリアミッション",
+      "source_en": "Area Trial / Area Mission",
+      "text": "Gebietsprüfung / Gebietsmission"
+    },
+    {
+      "key": "QUEST_MSG_MISSION_INFO_NOEQUIP_HEADER",
+      "read_index": "144",
+      "source_jp": "装備制限",
+      "source_en": "Equipment restrictions",
+      "text": "Ausrüstungsbeschränkungen"
+    },
+    {
+      "key": "QUEST_MSG_MISSION_INFO_REWARD_EQUIP_HEADER",
+      "read_index": "145",
+      "source_jp": "報酬追加装備",
+      "source_en": "Additional Equipment Rewards",
+      "text": "Zusätzliche Ausrüstungsbelohnungen"
+    },
+    {
+      "key": "QUEST_MSG_MISSION_INFO_NOEQUIP_ARMOR",
+      "read_index": "146",
+      "source_jp": "防具は装備できません",
+      "source_en": "Armor cannot be equipped.",
+      "text": "Rüstung ist nicht erlaubt."
+    },
+    {
+      "key": "QUEST_MSG_MISSION_INFO_NOEQUIP_JEWELRY",
+      "read_index": "147",
+      "source_jp": "ジュエリーは装備できません",
+      "source_en": "Jewelry cannot be equipped.",
+      "text": "Schmuck ist nicht erlaubt."
+    },
+    {
+      "key": "QUEST_MSG_MISSION_INFO_NOEQUIP_ABILITY",
+      "read_index": "148",
+      "source_jp": "以下のアビリティは装備できません",
+      "source_en": "The following abilities cannot be equipped",
+      "text": "Diese Begabungen sind nicht erlaubt."
+    },
+    {
+      "key": "QUEST_MSG_REGULATION_ERROR",
+      "read_index": "149",
+      "source_jp": "%sが%sを装備しているため、出撃できません",
+      "source_en": "Can't commence because %s is equipped with %s.",
+      "text": "Teilnahme nicht möglich: %s trägt %s."
+    },
+    {
+      "key": "QUEST_MSG_REGULATION_AROMOR",
+      "read_index": "150",
+      "source_jp": "防具",
+      "source_en": "Armor",
+      "text": "Rüstung"
+    },
+    {
+      "key": "QUEST_MSG_REGULATION_JEWELRY",
+      "read_index": "151",
+      "source_jp": "ジュエリー",
+      "source_en": "Jewelry",
+      "text": "Schmuck"
+    },
+    {
+      "key": "QUEST_MSG_REGULATION_ABILITY",
+      "read_index": "152",
+      "source_jp": "禁止アビリティ",
+      "source_en": "Restricted Ability",
+      "text": "Gesperrte Begabung"
+    },
+    {
+      "key": "QUEST_MSG_MOB_HUNT_TITLE_EN",
+      "read_index": "153",
+      "source_jp": "Wild Hunt",
+      "source_en": "Wild Hunt",
+      "text": "Monsterjagd"
+    },
+    {
+      "key": "QUEST_MSG_ADV_GUIDE_CATEGORY_08",
+      "read_index": "155",
+      "source_jp": "ワイルドハント",
+      "source_en": "Wild Hunt",
+      "text": "Monsterjagd"
+    },
+    {
+      "key": "QUEST_MSG_MOB_HUNT_LOT_HIGH",
+      "read_index": "156",
+      "source_jp": "リサの信頼度：★★★★",
+      "source_en": "Confidence: ★★★★",
+      "text": "Lisas Vertrauen: ★★★★"
+    },
+    {
+      "key": "QUEST_MSG_MOB_HUNT_LOT_MIDDLE",
+      "read_index": "157",
+      "source_jp": "リサの信頼度：★★★",
+      "source_en": "Confidence: ★★★",
+      "text": "Lisas Vertrauen: ★★★"
+    },
+    {
+      "key": "QUEST_MSG_MOB_HUNT_LOT_LOW",
+      "read_index": "158",
+      "source_jp": "リサの信頼度：★★",
+      "source_en": "Confidence: ★★",
+      "text": "Lisas Vertrauen: ★★"
+    },
+    {
+      "key": "QUEST_MSG_MOB_HUNT_LOT_NONE",
+      "read_index": "159",
+      "source_jp": "リサの信頼度：★",
+      "source_en": "Confidence: ★",
+      "text": "Lisas Vertrauen: ★"
+    },
+    {
+      "key": "QUEST_MSG_MOB_HUNT_NUM",
+      "read_index": "160",
+      "source_jp": "ワイルドハント数：",
+      "source_en": "Wild Hunt Count:",
+      "text": "Anzahl der Monsterjagden:"
+    },
+    {
+      "key": "QUEST_MSG_LOT_RATE_TITLE",
+      "read_index": "161",
+      "source_jp": "Ｓランク抽選：%s",
+      "source_en": "S Rank Lottery: %s",
+      "text": "Chance auf Rang S: %s"
+    },
+    {
+      "key": "QUEST_MSG_LOT_RATE_HIGH",
+      "read_index": "162",
+      "source_jp": "中",
+      "source_en": "Medium",
+      "text": "Mittel"
+    },
+    {
+      "key": "QUEST_MSG_LOT_RATE_MIDDLE",
+      "read_index": "163",
+      "source_jp": "低",
+      "source_en": "Low",
+      "text": "Niedrig"
+    },
+    {
+      "key": "QUEST_MSG_LOT_RATE_LOW",
+      "read_index": "164",
+      "source_jp": "無し",
+      "source_en": "Any",
+      "text": "Keine"
+    },
+    {
+      "key": "QUEST_MSG_LOT_RANK_S",
+      "read_index": "165",
+      "source_jp": "Ｓランク",
+      "source_en": "S Rank",
+      "text": "Rang S"
+    },
+    {
+      "key": "QUEST_MSG_LOT_RANK_A",
+      "read_index": "166",
+      "source_jp": "Ａランク",
+      "source_en": "A Rank",
+      "text": "Rang A"
+    },
+    {
+      "key": "QUEST_MSG_LOT_RANK_B",
+      "read_index": "167",
+      "source_jp": "Ｂランク",
+      "source_en": "B Rank",
+      "text": "Rang B"
+    },
+    {
+      "key": "QUEST_MSG_LOT_NUM",
+      "read_index": "168",
+      "source_jp": "（抽選数：%d）",
+      "source_en": "(Lottery Count: %d)",
+      "text": "(Auslosungen: %d)"
+    },
+    {
+      "key": "QUEST_MSG_GUIDE_LOT_INFO",
+      "read_index": "169",
+      "source_jp": "抽選確率詳細",
+      "source_en": "Lottery Chance Details",
+      "text": "Details zu den Chancen"
+    },
+    {
+      "key": "QUEST_MSG_BONUS_MOB_HUNT_TITLE",
+      "read_index": "170",
+      "source_jp": "ボーナスターゲット出現中！",
+      "source_en": "Bonus Target Appearance!",
+      "text": "Bonusziel erschienen!"
+    },
+    {
+      "key": "QUEST_MSG_BONUS_MOB_HUNT_INFO",
+      "read_index": "171",
+      "source_jp": "討伐でPP報酬量UP",
+      "source_en": "Target PP Reward Amount UP",
+      "text": "Mehr PP für den Sieg"
+    },
+    {
+      "key": "QUEST_MSG_REWARD_TRADE_COST_TITLE",
+      "read_index": "172",
+      "source_jp": "必要アイテム（ボス討伐後に報酬アイテムと交換します）",
+      "source_en": "Required items (Exchange for reward items after\r\ndefeating the boss)",
+      "text": "Tauschgegenstände für die Belohnung\r\nnach dem Bosskampf"
+    },
+    {
+      "key": "QUEST_MSG_ERROR_REWARD_TRADE_ITEM_NONE",
+      "read_index": "173",
+      "source_jp": "必要アイテム（%s）を\r\nアイテムバッグに所持していないため、出撃できません",
+      "source_en": "Cannot commence as you do not have the required\r\nitem(s) in your Item Bag.",
+      "text": "Dir fehlen benötigte Gegenstände\r\nin der Gegenstandstasche."
+    },
+    {
+      "key": "QUEST_MSG_LOT_RATE_HIGHEST",
+      "read_index": "174",
+      "source_jp": "高",
+      "source_en": "High",
+      "text": "Hoch"
+    },
+    {
+      "key": "QUEST_MSG_CONFIRM_MOB_QUEST_CANCEL",
+      "read_index": "175",
+      "source_jp": "クエストを破棄しますか？\r\n<COL ffdc78>※破棄したワイルドハントは\r\n　一定期間経過するまで再受注することができません</COL>",
+      "source_en": "Do you want to abandon the quest?\r\n<COL ffdc78>*Abandoned Wild Hunt quests cannot be\r\nre-accepted until a certain period of time has\r\npassed.</COL>",
+      "text": "Quest aufgeben?\r\n<COL ffdc78>Eine aufgegebene Monsterjagd kannst du\r\nerst nach einer Wartezeit erneut annehmen.</COL>"
+    },
+    {
+      "key": "QUEST_MSG_ERROR_NAVIGATE_MOB_HUNT",
+      "read_index": "176",
+      "source_jp": "ワイルドハントでは使用できません",
+      "source_en": "Not available in Wild Hunt",
+      "text": "Bei Monsterjagden nicht verfügbar."
+    },
+    {
+      "key": "QUEST_MSG_UI_REWARD_TRADE_ITEM",
+      "read_index": "177",
+      "source_jp": "%s×%d（所持数：%d）",
+      "source_en": "%s×%d (Have: %d)",
+      "text": "%s×%d (Im Besitz: %d)"
+    }
+  ]
+}

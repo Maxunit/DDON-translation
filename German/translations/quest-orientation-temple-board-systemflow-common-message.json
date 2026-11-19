@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "White Dragon Temple board quest templates and rotating targets from the first client test",
+  "gmd_path": "ui\\00_message\\ui\\common_message.gmd",
+  "arc_path": "\\systemFlow.arc",
+  "entries": [
+    {
+      "key": "common_guide_decide",
+      "read_index": "52",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "common_time_limit",
+      "read_index": "74",
+      "source_jp": "あと",
+      "source_en": "Left:",
+      "text": "Noch "
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Character menu labels, item bag subtitle, and channel and area selection labels",
+  "gmd_path": "ui\\00_message\\ui\\server_select_res.gmd",
+  "arc_path": "\\ui\\uGUIServerSelect.arc",
+  "entries": [
+    {
+      "key": "server_sel_server_en",
+      "read_index": "2",
+      "source_jp": "World Select",
+      "source_en": "Select Channel",
+      "text": "Kanalauswahl"
+    }
+  ]
+}

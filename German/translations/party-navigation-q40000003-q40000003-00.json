@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000003_00.gmd",
+  "arc_path": "\\quest\\q40000003.arc",
+  "entries": [
+    {
+      "key": "q40000003_00_3",
+      "read_index": "1",
+      "source_jp": "憂うべき事に、<LQEM>により往来の商人が脅かされる事件が多発している\r\n治安維持のため、各自速やかに<LQVA>体以上討伐し、対処にあたれ",
+      "source_en": "It is concerning that incidents\r\nof <LQEM> \r\nthreatening traveling merchants\r\nhave been increasing.\r\nFor the sake of maintaining order,\r\neach of you should quickly eliminate\r\nat least <LQVA> of them and address the situation.",
+      "text": "Immer öfter geraten reisende Händler\r\ndurch <LQEM> in Gefahr.\r\nSichert die Straßen. Besiegt zügig\r\nmindestens <LQVA> dieser Gegner."
+    }
+  ]
+}

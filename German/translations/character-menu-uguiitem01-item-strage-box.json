@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Character menu labels, item bag subtitle, and channel and area selection labels",
+  "gmd_path": "ui\\00_message\\ui\\item_strage_box.gmd",
+  "arc_path": "\\ui\\uGUIItem01.arc",
+  "entries": [
+    {
+      "key": "item_title_item_jp",
+      "read_index": "20",
+      "source_jp": "アイテムバッグ",
+      "source_en": "Item Bag",
+      "text": "Tasche"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "scope": "Shared map controls, area information and Rift transport",
+  "gmd_path": "ui\\00_message\\ui\\map.gmd",
+  "arc_path": "\\ui\\uGUIMap.arc",
+  "entries": [
+    {
+      "key": "map_menumap_titlee",
+      "read_index": "0",
+      "source_jp": "MAP",
+      "source_en": "Map",
+      "text": "Karte"
+    },
+    {
+      "key": "map_menumap_titlej",
+      "read_index": "1",
+      "source_jp": "マップ",
+      "source_en": "Map",
+      "text": "Karte"
+    },
+    {
+      "key": "map_menumap_maptypes",
+      "read_index": "2",
+      "source_jp": "詳細マップ",
+      "source_en": "Local",
+      "text": "Ortskarte"
+    },
+    {
+      "key": "map_menumap_maptypem",
+      "read_index": "3",
+      "source_jp": "フィールドマップ",
+      "source_en": "Field",
+      "text": "Gebietskarte"
+    },
+    {
+      "key": "map_menumap_maptypel",
+      "read_index": "4",
+      "source_jp": "広域マップ",
+      "source_en": "Global",
+      "text": "Weltkarte"
+    },
+    {
+      "key": "map_menumap_guide_zoom",
+      "read_index": "5",
+      "source_jp": "ズームイン/アウト",
+      "source_en": "Zoom",
+      "text": "Zoomen"
+    },
+    {
+      "key": "map_menumap_guide_filter",
+      "read_index": "6",
+      "source_jp": "マーカーフィルター変更",
+      "source_en": "Change marker filter",
+      "text": "Markerfilter"
+    },
+    {
+      "key": "map_menumap_guide_movecursor",
+      "read_index": "7",
+      "source_jp": "カーソル移動",
+      "source_en": "Cursor",
+      "text": "Cursor bewegen"
+    },
+    {
+      "key": "map_menumap_guide_moveplayer",
+      "read_index": "8",
+      "source_jp": "プレイヤー移動",
+      "source_en": "Player Movement",
+      "text": "Figur bewegen"
+    },
+    {
+      "key": "map_menumap_guide_backgm",
+      "read_index": "9",
+      "source_jp": "ゲームメニューに戻る",
+      "source_en": "Return to game menu",
+      "text": "Zum Spielmenü"
+    },
+    {
+      "key": "map_menumap_guide_freemarker",
+      "read_index": "11",
+      "source_jp": "フリーマーカー (長押しで消去)",
+      "source_en": "Waypoint (Hold to Remove)",
+      "text": "Wegpunkt (halten zum Löschen)"
+    },
+    {
+      "key": "map_menumap_guide_close",
+      "read_index": "12",
+      "source_jp": "閉じる",
+      "source_en": "Close",
+      "text": "Schließen"
+    },
+    {
+      "key": "map_menumap_guide_transparent",
+      "read_index": "13",
+      "source_jp": "透明度の変更",
+      "source_en": "Opacity",
+      "text": "Transparenz"
+    },
+    {
+      "key": "map_menumap_guide_change_freemarker",
+      "read_index": "14",
+      "source_jp": "フリーマーカーの切り替え",
+      "source_en": "Change Free Marker",
+      "text": "Wegpunkt wechseln"
+    },
+    {
+      "key": "map_menumap_guide_change_land",
+      "read_index": "15",
+      "source_jp": "大陸の切り替え",
+      "source_en": "Continent",
+      "text": "Kontinent wechseln"
+    }
+  ]
+}

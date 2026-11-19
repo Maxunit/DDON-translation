@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "White Dragon Temple board quest templates and rotating targets from the first client test",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000011_00.gmd",
+  "arc_path": "\\quest\\q40000011.arc",
+  "entries": [
+    {
+      "key": "q40000011_00_11",
+      "read_index": "0",
+      "source_jp": "本当は自分で行くんだが――",
+      "source_en": "Would've Gone There",
+      "text": "Ich würde ja selbst gehen …"
+    },
+    {
+      "key": "q40000011_00_11",
+      "read_index": "1",
+      "source_jp": "誰でもいい、この辺りで採れる<LQIM>を<LQVA>個ばかり集めて来てくれないか\r\n本当だったら自分で行くんだが、神殿の外は危険だってんで騎士様に止められてな",
+      "source_en": "Could someone go and gather \r\n<LQVA> <LQIM> \r\nfrom around here? Anyone will do.\r\nI'd go myself, but the knights have stopped me,\r\nclaiming it's too dangerous outside the Temple.",
+      "text": "Hier in der Gegend gibt es <LQIM>.\r\nKann mir jemand <LQVA> Stück mitbringen?\r\nIch würde ja selbst gehen, aber die Ritter\r\nmeinen, vor dem Tempel sei es zu gefährlich.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Hidell travel, quest-hint rewards, appraisal exchange and Alfred's area-master dialogue",
+  "gmd_path": "ui\\00_message\\ui\\shop_title.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "shop_title_appraise_sub",
+      "read_index": "38",
+      "source_jp": "鑑定交換",
+      "source_en": "Appraisal Exchange",
+      "text": "Begutachtung und Tausch"
+    },
+    {
+      "key": "shop_title_appraise",
+      "read_index": "39",
+      "source_jp": "Appraise",
+      "source_en": "Appraise",
+      "text": "Begutachtung"
+    }
+  ]
+}

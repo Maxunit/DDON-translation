@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "White Dragon Temple board quest templates and rotating targets from the first client test",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000015_00.gmd",
+  "arc_path": "\\quest\\q40000015.arc",
+  "entries": [
+    {
+      "key": "q40000015_00_15",
+      "read_index": "0",
+      "source_jp": "あのヒトを虜に",
+      "source_en": "Captivated",
+      "text": "Sein Herz gewinnen"
+    },
+    {
+      "key": "q40000015_00_15",
+      "read_index": "1",
+      "source_jp": "カレにどうしても欲しいってせがまれちゃって、<LQIM>が必要なの！　<LQVA>つ届けてくれないかしら\r\n恋愛には努力とお金が掛るもの、仕方ないわよね\r\nえ、誰かって？　そこまでは言えないわよぉ",
+      "source_en": "He's been insisting that he absolutely needs it, \r\nso I need <LQIM>!\r\nCould you deliver <LQVA> of them?\r\nLove requires effort and money, after all.\r\nWho's asking? Well, I can't say that!",
+      "text": "Er wünscht sich unbedingt <LQIM>!\r\nWürdet Ihr mir <LQVA> Stück bringen?\r\nLiebe kostet eben Mühe und Geld.\r\nWie, wer er ist? Das verrate ich nicht!"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "scope": "Delivery windows, confirmation, amount prompt and inventory controls",
+  "gmd_path": "ui\\00_message\\ui\\general_handover.gmd",
+  "arc_path": "\\ui\\uGUIGiveAndTake.arc",
+  "entries": [
+    {
+      "key": "HANDOVER_MSG_BTN_CANCEL",
+      "read_index": "4",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "HANDOVER_MSG_TAB_CONSUME",
+      "read_index": "7",
+      "source_jp": "消費",
+      "source_en": "Consumable",
+      "text": "Verbrauch"
+    },
+    {
+      "key": "HANDOVER_MSG_TAB_EQUIP",
+      "read_index": "8",
+      "source_jp": "装備",
+      "source_en": "Equip",
+      "text": "Ausrüstung"
+    },
+    {
+      "key": "HANDOVER_MSG_TAB_MATERIAL",
+      "read_index": "9",
+      "source_jp": "素材",
+      "source_en": "Raw Material",
+      "text": "Material"
+    },
+    {
+      "key": "HANDOVER_MSG_TAB_SPECIAL",
+      "read_index": "10",
+      "source_jp": "特殊",
+      "source_en": "Special",
+      "text": "Spezial"
+    },
+    {
+      "key": "HANDOVER_MSG_BTN_FINISH",
+      "read_index": "11",
+      "source_jp": "完了",
+      "source_en": "Finish",
+      "text": "Fertig"
+    },
+    {
+      "key": "HANDOVER_MSG_TITLE_M_TITLE04",
+      "read_index": "12",
+      "source_jp": "Delivery",
+      "source_en": "Delivery",
+      "text": "Abgabe"
+    },
+    {
+      "key": "HANDOVER_MSG_TITLE_M_TITLE05",
+      "read_index": "13",
+      "source_jp": "納品",
+      "source_en": "Delivery",
+      "text": " "
+    },
+    {
+      "key": "HANDOVER_MSG_DIALOG_YES",
+      "read_index": "15",
+      "source_jp": "はい",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "HANDOVER_MSG_DIALOG_NO",
+      "read_index": "16",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "HANDOVER_MSG_DIALOG_02",
+      "read_index": "20",
+      "source_jp": "アイテムの納品をキャンセルします\r\nよろしいですか？",
+      "source_en": "Are you sure you want to cancel\r\nitem delivery?",
+      "text": "Abgabe abbrechen?"
+    },
+    {
+      "key": "HANDOVER_MSG_DIALOG_03",
+      "read_index": "21",
+      "source_jp": "選択したアイテムを渡します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to deliver\r\nthe selected items?",
+      "text": "Auswahl abgeben?"
+    },
+    {
+      "key": "HANDOVER_MSG_ANNOUCE_02",
+      "read_index": "22",
+      "source_jp": "アイテムを渡しました",
+      "source_en": "You delivered an item",
+      "text": "Gegenstand abgegeben."
+    },
+    {
+      "key": "HANDOVER_MSG_DIALOG_04",
+      "read_index": "23",
+      "source_jp": "アイテムが選択されていません\r\nアイテムの納品をキャンセルします\r\nよろしいですか？",
+      "source_en": "Item is not selected.\r\nAre you sure you want to cancel delivery?",
+      "text": "Keine Auswahl. Abgabe abbrechen?"
+    }
+  ]
+}

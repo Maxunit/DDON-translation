@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\ui\\poptop_sel_res.gmd",
+  "arc_path": "\\ui\\uGUIMenuAreaInfo.arc",
+  "entries": [
+    {
+      "key": "poptop_quick_party",
+      "read_index": "15",
+      "source_jp": "クイックパーティー",
+      "source_en": "Quick Party",
+      "text": "Schnellsuche"
+    },
+    {
+      "key": "poptop_player_search",
+      "read_index": "31",
+      "source_jp": "パーティー検索",
+      "source_en": "Party Search",
+      "text": "Gruppensuche"
+    },
+    {
+      "key": "poptop_issue",
+      "read_index": "62",
+      "source_jp": "支援品",
+      "source_en": "Support Goods",
+      "text": "Versorgung"
+    }
+  ]
+}

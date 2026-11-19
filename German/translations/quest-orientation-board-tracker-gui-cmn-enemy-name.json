@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Shared Board Quest tracker objectives and the observed Hidell hunt target",
+  "gmd_path": "ui\\00_message\\enemy\\enemy_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ENEMY_NAME_159",
+      "read_index": "159",
+      "source_jp": "キラービー",
+      "source_en": "Killer Bee",
+      "text": "Killerbiene"
+    }
+  ]
+}

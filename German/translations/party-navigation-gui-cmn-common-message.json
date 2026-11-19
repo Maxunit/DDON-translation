@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\ui\\common_message.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "common_back",
+      "read_index": "5",
+      "source_jp": "戻る",
+      "source_en": "Return",
+      "text": "Zurück"
+    },
+    {
+      "key": "common_guide_return",
+      "read_index": "56",
+      "source_jp": "戻る",
+      "source_en": "Return",
+      "text": "Zurück"
+    }
+  ]
+}

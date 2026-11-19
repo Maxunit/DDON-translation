@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000009_00.gmd",
+  "arc_path": "\\quest\\q40000009.arc",
+  "entries": [
+    {
+      "key": "q40000009_00_9",
+      "read_index": "1",
+      "source_jp": "神殿滞在中の覚者様に通達です\r\n任地にて<LQEM>を確認した場合、地域安全維持のため各自<LQVA>体以上の討伐を願いします",
+      "source_en": "Notification to the Arisen staying at the Temple:\r\nIf <LQEM> are confirmed\r\nin your area, for the sake of the region's safety, \r\nplease each eliminate at least <LQVA> of them.",
+      "text": "An die Erweckten im Tempel.\r\nWenn ihr in eurem Einsatzgebiet\r\n<LQEM> sichtet, schützt die Menschen,\r\nindem ihr mindestens <LQVA> davon besiegt."
+    }
+  ]
+}

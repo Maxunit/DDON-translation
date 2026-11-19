@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\ui\\quick_party_res.gmd",
+  "arc_path": "\\ui\\uGUIQuickParty.arc",
+  "entries": [
+    {
+      "key": "quick_party_matching",
+      "read_index": "0",
+      "source_jp": "マッチング中...",
+      "source_en": "Searching for a match...",
+      "text": "Gruppe wird gesucht ..."
+    },
+    {
+      "key": "quick_party_ready",
+      "read_index": "1",
+      "source_jp": "一定時間内に準備完了してください",
+      "source_en": "Please select ready within a period of time.",
+      "text": "Bestätige rechtzeitig, dass du bereit bist."
+    }
+  ]
+}

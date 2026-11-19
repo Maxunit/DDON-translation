@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Adventure Guide menu entries, navigation labels, and display setting",
+  "gmd_path": "ui\\00_message\\ui\\option_res_win.gmd",
+  "arc_path": "\\ui\\uGUIOption.arc",
+  "entries": [
+    {
+      "key": "OPTION_MSG_ADV_001",
+      "read_index": "368",
+      "source_jp": "冒険ガイド",
+      "source_en": "Adventure Guide",
+      "text": "Abenteuerführer"
+    }
+  ]
+}

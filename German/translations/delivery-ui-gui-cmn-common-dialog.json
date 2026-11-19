@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Delivery windows, confirmation, amount prompt and inventory controls",
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_number_selection",
+      "read_index": "237",
+      "source_jp": "個数を選択してください",
+      "source_en": "Please select the amount.",
+      "text": "Lege die Menge fest."
+    }
+  ]
+}

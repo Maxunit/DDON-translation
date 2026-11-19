@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Board delivery workflow, marker hints, and quest history menus",
+  "gmd_path": "ui\\00_message\\ui\\pq_history.gmd",
+  "arc_path": "\\ui\\uGUIPackageQuestHistory.arc",
+  "entries": [
+    {
+      "key": "pq_history_001",
+      "read_index": "0",
+      "source_jp": "Log Select",
+      "source_en": "Log Select",
+      "text": "Questbericht wählen"
+    },
+    {
+      "key": "pq_history_002",
+      "read_index": "1",
+      "source_jp": "依頼人",
+      "source_en": "Client",
+      "text": "Auftraggeber"
+    },
+    {
+      "key": "pq_history_003",
+      "read_index": "2",
+      "source_jp": "使命：%s",
+      "source_en": "Mission: %s",
+      "text": "Auftrag: %s"
+    },
+    {
+      "key": "pq_history_004",
+      "read_index": "3",
+      "source_jp": "あらすじ",
+      "source_en": "Overview",
+      "text": "Zusammenfassung"
+    },
+    {
+      "key": "pq_history_005",
+      "read_index": "4",
+      "source_jp": "次の受注まであと",
+      "source_en": "Receive Next Mission",
+      "text": "Bis zur nächsten Annahme"
+    }
+  ]
+}

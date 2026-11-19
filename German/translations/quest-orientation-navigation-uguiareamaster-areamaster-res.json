@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "scope": "Shared map controls, area information and Rift transport",
+  "gmd_path": "ui\\00_message\\ui\\AreaMaster_res.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "areamaster_msg_bought",
+      "read_index": "5",
+      "source_jp": "購入済み",
+      "source_en": "Bought",
+      "text": "Gekauft"
+    },
+    {
+      "key": "areamaster_msg_recommend",
+      "read_index": "6",
+      "source_jp": "推奨",
+      "source_en": "Rec.",
+      "text": "Empf."
+    },
+    {
+      "key": "areamaster_msg_mainreward",
+      "read_index": "8",
+      "source_jp": "メイン報酬",
+      "source_en": "Main Reward",
+      "text": "Hauptbelohnung"
+    },
+    {
+      "key": "areamaster_msg_clearbonus",
+      "read_index": "9",
+      "source_jp": "クリアボーナス",
+      "source_en": "Clear Bonus",
+      "text": "Abschlussbonus"
+    },
+    {
+      "key": "areamaster_msg_price",
+      "read_index": "10",
+      "source_jp": "情報料金",
+      "source_en": "Information Fee",
+      "text": "Gebühr"
+    },
+    {
+      "key": "areamaster_msg_button_buy",
+      "read_index": "11",
+      "source_jp": "情報購入",
+      "source_en": "Purchase Information",
+      "text": "Infos kaufen"
+    },
+    {
+      "key": "areamaster_msg_dialog_buy",
+      "read_index": "12",
+      "source_jp": "<VAL GOLD>を消費して<NAME QUEST>のクエスト情報を購入します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to spend\r\n<VAL GOLD> to purchase quest information for\r\n<NAME QUEST>?",
+      "text": "Für <VAL GOLD> Questinfos zu\r\n„<NAME QUEST>“ kaufen?"
+    },
+    {
+      "key": "areamaster_msg_weekly",
+      "read_index": "23",
+      "source_jp": "Weekly",
+      "source_en": "Weekly",
+      "text": "Wöchentlich"
+    },
+    {
+      "key": "areamaster_msg_last_week",
+      "read_index": "24",
+      "source_jp": "先週",
+      "source_en": "Last Week",
+      "text": "Letzte Woche"
+    },
+    {
+      "key": "areamaster_msg_this_week",
+      "read_index": "25",
+      "source_jp": "今週",
+      "source_en": "This Week",
+      "text": "Diese Woche"
+    },
+    {
+      "key": "areamaster_msg_bonus_point",
+      "read_index": "26",
+      "source_jp": "Bonus Point",
+      "source_en": "Bonus Point",
+      "text": "Bonuspunkte"
+    },
+    {
+      "key": "areamaster_msg_limited_bonus",
+      "read_index": "27",
+      "source_jp": "期間限定ボーナス",
+      "source_en": "Limited Time Bonus",
+      "text": "Zeitlich begrenzter Bonus"
+    },
+    {
+      "key": "areamaster_msg_target",
+      "read_index": "28",
+      "source_jp": "Target",
+      "source_en": "Target",
+      "text": "Ziel"
+    },
+    {
+      "key": "areamaster_msg_point",
+      "read_index": "29",
+      "source_jp": "Point",
+      "source_en": "Point",
+      "text": "Punkte"
+    },
+    {
+      "key": "areamaster_msg_total",
+      "read_index": "31",
+      "source_jp": "Total",
+      "source_en": "Total",
+      "text": "Gesamt"
+    },
+    {
+      "key": "areamaster_msg_mergodahint",
+      "read_index": "38",
+      "source_jp": "「マップ」から\r\n「亡都メルゴダ　下層」「亡都メルゴダ　王宮層」の\r\nマップが確認できるようになりました\r\nエリアマスターから知りえるワールドクエスト情報\r\nおよび、スポット情報の確認に利用しましょう",
+      "source_en": "From the \"Map\" option,\r\nyou can now view area and world quest information\r\nthat you have available\r\nfor the following areas:\r\n\"Mergoda Ruins: Lower Level\" \"Mergoda Ruins:\r\nRoyal Palace Level\".\r\nLet's use it to confirm spot information.",
+      "text": "Auf der Karte siehst du jetzt die Unterebene\r\nund die Palastebene der Ruinen von Mergoda.\r\nDort findest du auch die Weltquest- und\r\nOrtsinfos des Gebietsmeisters."
+    },
+    {
+      "key": "areamaster_msg_header_item_rank",
+      "read_index": "58",
+      "source_jp": "入手IR",
+      "source_en": "Obtain IR",
+      "text": "Gegenstandsrang"
+    },
+    {
+      "key": "areamaster_msg_header_expedition_num",
+      "read_index": "60",
+      "source_jp": "派遣数",
+      "source_en": "Dispatch Num",
+      "text": "Entsendungen"
+    },
+    {
+      "key": "areamaster_msg_spot_open",
+      "read_index": "61",
+      "source_jp": "<COL ffdc78>現在開放中！</COL>閉鎖まで",
+      "source_en": "<COL ffdc78>Currently open!</COL>. Closing in:",
+      "text": "<COL ffdc78>Geöffnet!</COL> Schließt in:"
+    },
+    {
+      "key": "areamaster_msg_spot_close",
+      "read_index": "62",
+      "source_jp": "現在は開放されていません。開放まで",
+      "source_en": "Currently not open. Opening in:",
+      "text": "Geschlossen. Öffnet in:"
+    },
+    {
+      "key": "areamaster_msg_release_limited",
+      "read_index": "66",
+      "source_jp": "特定の時間帯にのみ開放",
+      "source_en": "Only available at specific times",
+      "text": "Nur zu bestimmten Zeiten zugänglich"
+    },
+    {
+      "key": "areamaster_msg_hot_growth_spot",
+      "read_index": "67",
+      "source_jp": "<COL ffdc78>スポットボス</COL>出現中！",
+      "source_en": "<COL ffdc78>Spot Boss</COL> has appeared!",
+      "text": "<COL ffdc78>Ortsboss</COL> erschienen!"
+    }
+  ]
+}

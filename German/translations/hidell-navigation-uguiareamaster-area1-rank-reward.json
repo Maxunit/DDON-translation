@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "scope": "Hidell travel, quest-hint rewards, appraisal exchange and Alfred's area-master dialogue",
+  "gmd_path": "ui\\00_message\\master\\area1_rank_reward.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "AREA_RANK_REWARD_2",
+      "read_index": "0",
+      "source_jp": "支援品の配給",
+      "source_en": "Distribution of support goods",
+      "text": "Versorgungsgüter verfügbar"
+    },
+    {
+      "key": "AREA_RANK_REWARD_6",
+      "read_index": "1",
+      "source_jp": "封鎖エリア《狩人の抜け穴》開放",
+      "source_en": "Unblock area [Hunters' Secret Passage]",
+      "text": "Geheimgang der Jäger freigeschaltet"
+    },
+    {
+      "key": "AREA_RANK_REWARD_7",
+      "read_index": "2",
+      "source_jp": "《鬼鳴き橋》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [Roaring Demon Bridge]",
+      "text": "Starker Gegner an der Dämonenbrücke"
+    },
+    {
+      "key": "AREA_RANK_REWARD_10",
+      "read_index": "3",
+      "source_jp": "封鎖エリア《ハイデル地下霊廟》開放",
+      "source_en": "Unblock area [Hidell Catacombs]",
+      "text": "Hidell-Katakomben freigeschaltet"
+    },
+    {
+      "key": "AREA_RANK_REWARD_11",
+      "read_index": "4",
+      "source_jp": "交通路《南ハイデル大橋》復旧",
+      "source_en": "Restore path [South Hidell Bridge]",
+      "text": "Südbrücke von Hidell wieder offen"
+    },
+    {
+      "key": "AREA_RANK_REWARD_12",
+      "read_index": "5",
+      "source_jp": "封鎖エリア《開かずの路》開放",
+      "source_en": "Unblock area [Blocked Passage]",
+      "text": "Versperrter Gang freigeschaltet"
+    },
+    {
+      "key": "AREA_RANK_REWARD_13",
+      "read_index": "6",
+      "source_jp": "《血すすぎ河原》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [Blood-soaked Riverbank]",
+      "text": "Starker Gegner am Blutigen Flussufer"
+    },
+    {
+      "key": "AREA_RANK_REWARD_14",
+      "read_index": "7",
+      "source_jp": "《黒狼団のアジト》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [The Black Wolves' Hideout]",
+      "text": "Starker Gegner im Versteck der Schwarzen Wölfe"
+    },
+    {
+      "key": "AREA_RANK_REWARD_15",
+      "read_index": "8",
+      "source_jp": "封鎖エリア《ハイデル地下霊廟　深部～最深部》開放",
+      "source_en": "Unblock area [Hidell Catacombs Depths～Innermost Depths]",
+      "text": "Tiefe und tiefste Hidell-Katakomben offen"
+    },
+    {
+      "key": "AREA_RANK_REWARD_16",
+      "read_index": "9",
+      "source_jp": "支援品ランクアップ",
+      "source_en": "Rank up of support goods",
+      "text": "Bessere Versorgungsgüter"
+    },
+    {
+      "key": "AREA_RANK_REWARD_181",
+      "read_index": "10",
+      "source_jp": "《ハイデル平原》各地にある未解放のリム転移 解放",
+      "source_en": "Unlocks all [Hidell Plains] Portcrystals",
+      "text": "Alle Zielkristalle der Hidell-Ebene frei"
+    },
+    {
+      "key": "AREA_RANK_REWARD_182",
+      "read_index": "11",
+      "source_jp": "《刃擦れの細道》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [Blade-Scarred Path]",
+      "text": "Starker Gegner am Pfad der Klingenspuren"
+    },
+    {
+      "key": "AREA_RANK_REWARD_183",
+      "read_index": "12",
+      "source_jp": "封鎖エリア《アーク　裏層》開放",
+      "source_en": "Unblock area [The Ark's Lower Level]",
+      "text": "Untere Ebene der Arche offen"
+    },
+    {
+      "key": "AREA_RANK_REWARD_184",
+      "read_index": "13",
+      "source_jp": "《アーク　裏層》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [The Ark's Lower Level]",
+      "text": "Starker Gegner in der Arche, untere Ebene"
+    },
+    {
+      "key": "AREA_RANK_REWARD_321",
+      "read_index": "14",
+      "source_jp": "支援品ランクアップ",
+      "source_en": "Rank up of support goods",
+      "text": "Bessere Versorgungsgüter"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "scope": "Shared quest menus, order conditions, navigation controls and rewards",
+  "gmd_path": "ui\\00_message\\ui\\QuestReward_res.gmd",
+  "arc_path": "\\ui\\uGUIQuestReward.arc",
+  "entries": [
+    {
+      "key": "REWARD_MSG_REWARD_PREMIAM",
+      "read_index": "15",
+      "source_jp": "<OPCS>報酬",
+      "source_en": "<OPCS> Reward",
+      "text": "Belohnung für <OPCS>"
+    },
+    {
+      "key": "REWARD_MSG_NOTION_BUY",
+      "read_index": "20",
+      "source_jp": "チェックを付けていない報酬は売却されます\r\n(未選択の選択報酬は破棄されます)\r\nよろしいですか？\r\n売却合計額：<VAL G>",
+      "source_en": "Random Rewards that were not checked\r\nwill be sold.\r\n(Select Rewards not checked will be lost.)\r\nAre you sure?\r\nTotal Sale: <VAL G>",
+      "text": "Ungewählte Zufallsbelohnungen werden verkauft.\r\nUngewählte Auswahlbelohnungen verfallen.\r\nFortfahren? Erlös: <VAL G>"
+    },
+    {
+      "key": "REWARD_MSG_YES",
+      "read_index": "22",
+      "source_jp": "はい",
+      "source_en": "OK",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "REWARD_MSG_STOP_PLZ_PICK",
+      "read_index": "28",
+      "source_jp": "選択報酬が選ばれていないため\r\n「全て受け取り」ができません",
+      "source_en": "Some Select Rewards were not checked.\r\nNot all items will be received.",
+      "text": "Deine Auswahl ist noch nicht vollständig.\r\nDu erhältst nur die gewählten Belohnungen."
+    },
+    {
+      "key": "REWARD_MSG_STOP_ITEMOVER",
+      "read_index": "29",
+      "source_jp": "保管ボックスが入りきらないため\r\n「全て受け取り」ができません",
+      "source_en": "The storage box is full.\r\nNot all items will be received.",
+      "text": "Die Lagerkiste ist voll.\r\nDu erhältst nur die Gegenstände, die hineinpassen."
+    },
+    {
+      "key": "REWARD_MSG_KIND_RANKING",
+      "read_index": "30",
+      "source_jp": "ランキング報酬",
+      "source_en": "Ranking Reward",
+      "text": "Ranglistenbelohnung"
+    },
+    {
+      "key": "REWARD_MSG_KIND_BORDER",
+      "read_index": "31",
+      "source_jp": "累計スコア報酬",
+      "source_en": "Total Score Rewards",
+      "text": "Belohnung für die Gesamtpunktzahl"
+    },
+    {
+      "key": "REWARD_MSG_NOTICE_SELL",
+      "read_index": "33",
+      "source_jp": "チェックを付けていない報酬は売却されます\r\n(未選択の選択報酬は破棄されます)\r\nよろしいですか？\r\n売却合計額：<VAL GOLD>",
+      "source_en": "Random Rewards that were not checked\r\nwill be sold.\r\n(Select Rewards not checked will be lost.)\r\nAre you sure?\r\nTotal Sale: <VAL GOLD>",
+      "text": "Ungewählte Zufallsbelohnungen werden verkauft.\r\nUngewählte Auswahlbelohnungen verfallen.\r\nFortfahren? Erlös: <VAL GOLD>"
+    },
+    {
+      "key": "REWARD_MSG_KIND_SUPPORT",
+      "read_index": "36",
+      "source_jp": "アシスト報酬",
+      "source_en": "Assist Reward",
+      "text": "Assistenzbelohnung"
+    },
+    {
+      "key": "REWARD_MSG_ALL_DELETE",
+      "read_index": "38",
+      "source_jp": "報酬を売却しました",
+      "source_en": "Rewards have been sold.",
+      "text": "Belohnungen verkauft."
+    },
+    {
+      "key": "REWARD_MSG_REWARD_PARTS",
+      "read_index": "39",
+      "source_jp": "部位破壊報酬",
+      "source_en": "Part Break Rewards",
+      "text": "Belohnungen für zerstörte Körperteile"
+    },
+    {
+      "key": "REWARD_MSG_GM_TITLE_SUB",
+      "read_index": "40",
+      "source_jp": "グランドミッション最終報酬受け取り",
+      "source_en": "Grand Mission Final Rewards Received",
+      "text": "Abschlussbelohnungen der Großmission"
+    },
+    {
+      "key": "REWARD_MSG_RECEIVE_LIMIT",
+      "read_index": "41",
+      "source_jp": "受け取り期限まで",
+      "source_en": "Until the claim deadline",
+      "text": "Abholfrist"
+    },
+    {
+      "key": "REWARD_MSG_OTHER_REWARD_NOTICE",
+      "read_index": "42",
+      "source_jp": "特別報酬あり",
+      "source_en": "Special rewards available",
+      "text": "Sonderbelohnungen verfügbar"
+    }
+  ]
+}

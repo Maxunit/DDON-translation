@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Hidell travel, quest-hint rewards, appraisal exchange and Alfred's area-master dialogue",
+  "gmd_path": "ui\\00_message\\ui\\poptop_sel_res.gmd",
+  "arc_path": "\\ui\\uGUIPopTopSel.arc",
+  "entries": [
+    {
+      "key": "poptop_contriinfo",
+      "read_index": "9",
+      "source_jp": "名声度確認",
+      "source_en": "View Reputation",
+      "text": "Gebietsansehen"
+    },
+    {
+      "key": "poptop_questinfo",
+      "read_index": "11",
+      "source_jp": "ワールドクエスト情報",
+      "source_en": "World Quest Info",
+      "text": "Weltquest-Hinweise"
+    }
+  ]
+}

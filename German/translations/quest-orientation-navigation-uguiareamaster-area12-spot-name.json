@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Shared map controls, area information and Rift transport",
+  "gmd_path": "ui\\00_message\\master\\area12_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "10",
+      "source_jp": "亡都メルゴダ　下層",
+      "source_en": "Mergoda Ruins: Lower Level",
+      "text": "Ruinen von Mergoda: Unterebene"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "11",
+      "source_jp": "亡都メルゴダ　王宮層",
+      "source_en": "Mergoda Ruins: Royal Palace Level",
+      "text": "Ruinen von Mergoda: Palastebene"
+    }
+  ]
+}

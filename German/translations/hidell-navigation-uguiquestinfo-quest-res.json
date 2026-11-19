@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Hidell travel, quest-hint rewards, appraisal exchange and Alfred's area-master dialogue",
+  "gmd_path": "ui\\00_message\\ui\\Quest_res.gmd",
+  "arc_path": "\\ui\\uGUIQuestInfo.arc",
+  "entries": [
+    {
+      "key": "QUEST_MSG_SELECT_REWARD",
+      "read_index": "59",
+      "source_jp": "選択報酬 (1つ選択)",
+      "source_en": "Select Reward (1)",
+      "text": "Auswahl"
+    },
+    {
+      "key": "QUEST_MSG_RANDOM_REWARD",
+      "read_index": "90",
+      "source_jp": "ランダム報酬",
+      "source_en": "Random Reward",
+      "text": "Zufall"
+    }
+  ]
+}

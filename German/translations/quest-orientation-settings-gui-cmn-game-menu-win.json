@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Quest guidance options, related unlocks and the world menu",
+  "gmd_path": "ui\\00_message\\ui\\game_menu_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "menu_newspaper",
+      "read_index": "3",
+      "source_jp": "レスタニアニュース",
+      "source_en": "Lestania News",
+      "text": "Lestania-Nachrichten"
+    }
+  ]
+}

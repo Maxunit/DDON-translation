@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Hidell travel, quest-hint rewards, appraisal exchange and Alfred's area-master dialogue",
+  "gmd_path": "ui\\00_message\\ui\\Newspaper_res.gmd",
+  "arc_path": "\\ui\\uGUINewspaper.arc",
+  "entries": [
+    {
+      "key": "np_msg_icon_party",
+      "read_index": "2",
+      "source_jp": "PT推奨",
+      "source_en": "Party Members",
+      "text": "Gruppe"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "White Dragon Temple board quest templates and rotating targets from the first client test",
+  "gmd_path": "ui\\00_message\\enemy\\enemy_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ENEMY_NAME_3",
+      "read_index": "2",
+      "source_jp": "シールドゴブリン",
+      "source_en": "Shield Goblin",
+      "text": "Schildgoblin"
+    },
+    {
+      "key": "ENEMY_NAME_4",
+      "read_index": "3",
+      "source_jp": "スリングゴブリン",
+      "source_en": "Sling Goblin",
+      "text": "Schleudergoblin"
+    },
+    {
+      "key": "ENEMY_NAME_36",
+      "read_index": "36",
+      "source_jp": "スケルトンソーサラー",
+      "source_en": "Skeleton Sorcerer",
+      "text": "Skelettzauberer"
+    },
+    {
+      "key": "ENEMY_NAME_46",
+      "read_index": "46",
+      "source_jp": "リザードマン",
+      "source_en": "Saurian",
+      "text": "Echsenmensch"
+    },
+    {
+      "key": "ENEMY_NAME_50",
+      "read_index": "50",
+      "source_jp": "マッドマン",
+      "source_en": "Mudman",
+      "text": "Schlammwesen"
+    },
+    {
+      "key": "ENEMY_NAME_139",
+      "read_index": "139",
+      "source_jp": "ローグガーダー",
+      "source_en": "Rogue Defender",
+      "text": "Räuberwache"
+    }
+  ]
+}

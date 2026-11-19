@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\ui\\pop_party_list_res.gmd",
+  "arc_path": "\\ui\\uGUIPopPartyList.arc",
+  "entries": [
+    {
+      "key": "pop_prof_quick_party",
+      "read_index": "10",
+      "source_jp": "マッチング中",
+      "source_en": "Matching",
+      "text": "Suche läuft ..."
+    },
+    {
+      "key": "pop_prof_quickparty_name",
+      "read_index": "28",
+      "source_jp": "セット名",
+      "source_en": "Name",
+      "text": "Vorlagenname"
+    },
+    {
+      "key": "pop_prof_quickparty_pawn",
+      "read_index": "31",
+      "source_jp": "ポーン：",
+      "source_en": "Pawns:",
+      "text": "Vasallen:"
+    },
+    {
+      "key": "pop_prof_quickparty_pawn_allow",
+      "read_index": "32",
+      "source_jp": "許可する",
+      "source_en": "Allow",
+      "text": "Erlauben"
+    },
+    {
+      "key": "pop_prof_quickparty_pawn_disallow",
+      "read_index": "33",
+      "source_jp": "許可しない",
+      "source_en": "Disallow",
+      "text": "Verbieten"
+    },
+    {
+      "key": "pop_prof_quickparty_continue",
+      "read_index": "34",
+      "source_jp": "続ける",
+      "source_en": "Continue",
+      "text": "Weiter"
+    },
+    {
+      "key": "pop_prof_quickparty_end",
+      "read_index": "35",
+      "source_jp": "終了",
+      "source_en": "Close",
+      "text": "Schließen"
+    },
+    {
+      "key": "pop_prof_quickparty",
+      "read_index": "36",
+      "source_jp": "クイックパーティー",
+      "source_en": "Quick Party",
+      "text": "Schnellsuche"
+    },
+    {
+      "key": "pop_prof_quickparty_retry",
+      "read_index": "37",
+      "source_jp": "リトライ",
+      "source_en": "Retry",
+      "text": "Erneut suchen"
+    },
+    {
+      "key": "pop_prof_quickparty_fail",
+      "read_index": "38",
+      "source_jp": "マッチング失敗",
+      "source_en": "Match failed",
+      "text": "Keine Gruppe gefunden"
+    },
+    {
+      "key": "pop_prof_quickparty_time",
+      "read_index": "39",
+      "source_jp": "あと <VAL> 秒後に終了します",
+      "source_en": "Quick party will quit after <VAL> seconds",
+      "text": "Die Suche endet in <VAL> Sek."
+    },
+    {
+      "key": "PopPartyList_QuickPartyEdit_Title",
+      "read_index": "48",
+      "source_jp": "クイックパーティー条件編集",
+      "source_en": "Edit Quick Party Conditions",
+      "text": "Einstellungen der Schnellsuche"
+    },
+    {
+      "key": "PopPartyList_QuickPartyEdit_JobBalance",
+      "read_index": "49",
+      "source_jp": "ジョブバランスを取る",
+      "source_en": "Job Balance",
+      "text": "Klassenverteilung"
+    },
+    {
+      "key": "PopPartyList_QuickPartyEdit_JobBalanceBrief",
+      "read_index": "50",
+      "source_jp": "(タンク1人/アタッカー2人/ヒーラー1人でバランスを取ります）",
+      "source_en": "1 Tank/2 DPS/1 Healer",
+      "text": "1 Tank / 2 Angreifer / 1 Heiler"
+    },
+    {
+      "key": "PopPartyList_QuickPartyEdit_LevelBalance",
+      "read_index": "51",
+      "source_jp": "レベルバランスを取る",
+      "source_en": "Level Balance",
+      "text": "Stufenbereich"
+    },
+    {
+      "key": "PopPartyList_QuickPartyEdit_LevelBalanceBrief",
+      "read_index": "52",
+      "source_jp": "(±4以内で検索します)",
+      "source_en": "(Search for levels within ±4)",
+      "text": "Suche im Bereich von ±4 Stufen"
+    },
+    {
+      "key": "PopPartyList_QuickPartyEdit_Warning",
+      "read_index": "53",
+      "source_jp": "※進行に変化があった場合は、クイックパーティーの登録が解除されます\r\n※パーティー内のポーンは、合流時にパーティーから外れます\r\n※登録時のジョブと異なる場合は、合流時に元のジョブに戻ります",
+      "source_en": "※If quest progress changes, the registration will be canceled.\r\n※If there are pawns in party, they will be dismissed.\r\n※If your job is different, you will return to your original job.",
+      "text": "Bei neuem Questfortschritt endet die Suche.\r\nBeim Beitritt verlassen Vasallen die Gruppe.\r\nDu kehrst zur Klasse zurück, mit der du\r\ndie Suche gestartet hast."
+    },
+    {
+      "key": "PopPartyList_QuickPartyEdit_MainPurpose_Main",
+      "read_index": "54",
+      "source_jp": "メインクエストで遊ぶ",
+      "source_en": "Play Main Quest",
+      "text": "Hauptquest spielen"
+    },
+    {
+      "key": "PopPartyList_QuickPartyEdit_MainPurpose_Area",
+      "read_index": "55",
+      "source_jp": "エリアスポットで遊ぶ",
+      "source_en": "Play in an Area Spot",
+      "text": "Gebietsort erkunden"
+    },
+    {
+      "key": "PopPartyList_QuickPartyEdit_MainPurpose_News",
+      "read_index": "56",
+      "source_jp": "レスタニアニュースで遊ぶ",
+      "source_en": "Play Lestania News",
+      "text": "Quest aus den Nachrichten"
+    },
+    {
+      "key": "PopPartyList_Simple_Req_Title",
+      "read_index": "57",
+      "source_jp": "簡易パーティー要請条件設定",
+      "source_en": "Set Simple Party Conditions",
+      "text": "Kurzanfrage einstellen"
+    },
+    {
+      "key": "PopPartyList_QuickPartyEdit_PTLeader",
+      "read_index": "58",
+      "source_jp": "パーティーリーダーＯＫ",
+      "source_en": "Party Leader",
+      "text": "Gruppenleitung möglich"
+    },
+    {
+      "key": "PopPartyList_QuickPartyEdit_PTLeaderBrief",
+      "read_index": "59",
+      "source_jp": "(パーティーが組まれた時、リーダー候補になります)",
+      "source_en": "(Upon party forming, you may become the leader)",
+      "text": "Du kannst die Leitung der neuen Gruppe übernehmen."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "White Dragon Temple board quest templates and rotating targets from the first client test",
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "583",
+      "source_jp": "亡者の腐肉",
+      "source_en": "Undead Carrion",
+      "text": "Faulfleisch"
+    },
+    {
+      "key": "",
+      "read_index": "613",
+      "source_jp": "乾いた骨",
+      "source_en": "Dry Bone",
+      "text": "Trockener Knochen"
+    },
+    {
+      "key": "",
+      "read_index": "619",
+      "source_jp": "獣毛",
+      "source_en": "Animal Fur",
+      "text": "Tierhaar"
+    },
+    {
+      "key": "",
+      "read_index": "668",
+      "source_jp": "虫毒液",
+      "source_en": "Insect Venom",
+      "text": "Insektengift"
+    },
+    {
+      "key": "",
+      "read_index": "675",
+      "source_jp": "粗砂",
+      "source_en": "Coarse Sand",
+      "text": "Grober Sand"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "scope": "Quest and navigation feedback, unlocks, and system messages",
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_warp_regist_error",
+      "read_index": "136",
+      "source_jp": "礎の解放に失敗しました",
+      "source_en": "Failed to unlock Portcrystal.",
+      "text": "Der Zielkristall konnte nicht freigeschaltet werden."
+    },
+    {
+      "key": "ana_warp_regist_error_main_quest",
+      "read_index": "137",
+      "source_jp": "メインクエストの進行度が不足しているため\r\n拠点の礎の解放に失敗しました",
+      "source_en": "Because of your progress in the main quests,\r\nyou cannot unlock this Portcrystal.",
+      "text": "Für diesen Zielkristall musst du in der\r\nHauptquest weiter vorankommen."
+    },
+    {
+      "key": "ana_warp_regist_error_area_rank",
+      "read_index": "138",
+      "source_jp": "エリアランクが不足しているため\r\n拠点の礎の解放に失敗しました",
+      "source_en": "Because your area rank is too low,\r\nyou cannot unlock this Portcrystal.",
+      "text": "Für diesen Zielkristall brauchst du\r\neinen höheren Gebietsrang."
+    },
+    {
+      "key": "ana_pt_warp_begin",
+      "read_index": "139",
+      "source_jp": "<NAME TARGET>が＜<VAL>＞にリム転移しました\r\n<VAL PARTY_WARP_SEC>秒の間、同行リム転移が可能です",
+      "source_en": "<NAME TARGET> \r\nhas teleported to \"<VAL>\".\r\nWithin <VAL PARTY_WARP_SEC> seconds, you can\r\nteleport with them.",
+      "text": "<NAME TARGET> reiste nach „<VAL>“. Du hast <VAL PARTY_WARP_SEC> Sek. für die Gruppenreise."
+    },
+    {
+      "key": "ana_warp_point_release",
+      "read_index": "140",
+      "source_jp": "礎「<NAME SPOT>」を解放しました",
+      "source_en": "Portcrystal for \"<NAME SPOT>\" has been unlocked.",
+      "text": "Zielkristall „<NAME SPOT>“ freigeschaltet."
+    },
+    {
+      "key": "ana_warp_regist_error_area_or_quest",
+      "read_index": "141",
+      "source_jp": "メインクエストの進行度\r\nまたはエリアランク不足のため\r\n拠点の礎の解放に失敗しました",
+      "source_en": "Because of your progression in the main quest\r\nor your area rank,\r\nyou cannot unlock this Portcrystal.",
+      "text": "Für diesen Zielkristall brauchst du mehr\r\nHauptquest-Fortschritt oder einen höheren Gebietsrang."
+    },
+    {
+      "key": "ana_warp_disable_battle",
+      "read_index": "142",
+      "source_jp": "戦闘中は使用できません",
+      "source_en": "You cannot teleport during combat.",
+      "text": "Im Kampf kannst du den Rift-Transport nicht nutzen."
+    },
+    {
+      "key": "ana_warp_disable_large_party",
+      "read_index": "143",
+      "source_jp": "特定のコンテンツ中は使用できません",
+      "source_en": "You cannot teleport in this content.",
+      "text": "Hier ist der Rift-Transport nicht verfügbar."
+    },
+    {
+      "key": "ana_questreward_to_rewardbox",
+      "read_index": "270",
+      "source_jp": "クエスト報酬が報酬ボックスに入りました",
+      "source_en": "Quest rewards have been placed into your storage\r\nbox.",
+      "text": "Questbelohnungen liegen in der Belohnungsbox."
+    },
+    {
+      "key": "ana_news_err_favorite_warp",
+      "read_index": "298",
+      "source_jp": "拠点をマイ拠点に登録していないためリム転移できません",
+      "source_en": "You cannot teleport because it is not registered\r\nas a favorite.",
+      "text": "Speichere den Zielkristall als Favoriten, um dorthin zu reisen."
+    },
+    {
+      "key": "ana_quest_order_err_condition",
+      "read_index": "299",
+      "source_jp": "クエスト受注条件を満たしていません",
+      "source_en": "You do not meet the entry conditions for this\r\nquest.",
+      "text": "Du erfüllst die Voraussetzungen dieser Quest nicht."
+    },
+    {
+      "key": "ana_quest_order_err_max",
+      "read_index": "300",
+      "source_jp": "クエスト受注数が上限に達しています",
+      "source_en": "You cannot accept any more quests.",
+      "text": "Du hast die Höchstzahl laufender Quests erreicht."
+    },
+    {
+      "key": "ana_quest_cancel_err",
+      "read_index": "301",
+      "source_jp": "このクエストは破棄できません",
+      "source_en": "You cannot cancel this quest.",
+      "text": "Du kannst diese Quest nicht aufgeben."
+    },
+    {
+      "key": "ana_play_main_quest",
+      "read_index": "314",
+      "source_jp": "メインクエストで遊ぶ",
+      "source_en": "Play Main Quest",
+      "text": "Hauptquest spielen"
+    },
+    {
+      "key": "ana_areamaster_no_quest",
+      "read_index": "363",
+      "source_jp": "現在、配信されているクエストがありません",
+      "source_en": "Currently there are no quests available.",
+      "text": "Derzeit sind keine Quests verfügbar."
+    },
+    {
+      "key": "ana_quest_wait_order_member_error",
+      "read_index": "366",
+      "source_jp": "リーダーのみ操作が可能です",
+      "source_en": "Only the leader can do this.",
+      "text": "Nur die Gruppenleitung kann das."
+    },
+    {
+      "key": "ana_quest_progress_error",
+      "read_index": "367",
+      "source_jp": "＜<NAME QUEST>＞は\r\n進行条件を満たしていません",
+      "source_en": "You do not meet the progress conditions for\r\n\"<NAME QUEST>\".",
+      "text": "Du erfüllst die Fortschrittsbedingungen für „<NAME QUEST>“ nicht."
+    },
+    {
+      "key": "ana_main_quest_accept_error_party_inviting",
+      "read_index": "419",
+      "source_jp": "パーティー要請中のため、メインクエストを受注できません",
+      "source_en": "Unable to accept main quest\r\ndue to party request in progress.",
+      "text": "Bei laufender Gruppenanfrage kannst du\r\nkeine Hauptquest annehmen."
+    },
+    {
+      "key": "ana_err_quest_progress_no_leader_",
+      "read_index": "421",
+      "source_jp": "リーダーが不在のため、クエストを進行できません",
+      "source_en": "Quest cannot proceed due to leader's absence",
+      "text": "Ohne Gruppenleitung kannst du die Quest nicht fortsetzen."
+    },
+    {
+      "key": "ana_quest_invalid_status_change",
+      "read_index": "441",
+      "source_jp": "クエスト状況が変化したため進行できませんでした",
+      "source_en": "Couldn't proceed because the quest conditions\r\nhave changed.",
+      "text": "Die Questbedingungen haben sich geändert.\r\nDu konntest nicht fortfahren."
+    }
+  ]
+}

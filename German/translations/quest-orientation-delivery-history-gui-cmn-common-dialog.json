@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Board delivery workflow, marker hints, and quest history menus",
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_quest_announce_set_discover_add",
+      "read_index": "461",
+      "source_jp": "未公開クエスト「%s」を発見した！",
+      "source_en": "Discovered the Hidden Quest \"%s\"!",
+      "text": "Verborgene Quest entdeckt: „%s“!"
+    },
+    {
+      "key": "ana_quest_navi_ng_01",
+      "read_index": "573",
+      "source_jp": "ナビゲート設定できません\r\n白竜神殿かエリアマスターのいる拠点施設で設定してください",
+      "source_en": "Cannot set the navigation settings.\r\nPlease set them in the White Dragon Temple or at\r\na base facility where the Area Master is present.",
+      "text": "Navigation hier nicht verfügbar.\r\nAktiviere sie im Tempel des Weißen Drachen\r\noder an einem Stützpunkt mit Gebietsmeister."
+    }
+  ]
+}

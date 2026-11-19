@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "White Dragon Temple board quest templates and rotating targets from the first client test",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000014_00.gmd",
+  "arc_path": "\\quest\\q40000014.arc",
+  "entries": [
+    {
+      "key": "q40000014_00_14",
+      "read_index": "0",
+      "source_jp": "クラフト材料譲ってくれよ",
+      "source_en": "A Plea for Craft Materials",
+      "text": "Material für die Werkstatt gesucht"
+    },
+    {
+      "key": "q40000014_00_14",
+      "read_index": "1",
+      "source_jp": "<LQIM>を<LQVA>個、融通してくれないか？\r\nクラフトに必要なんだが、仕入れに出る時間が無くってさ\r\n悪ぃ、頼むよ！",
+      "source_en": "Can you spare <LQVA> pieces of \r\n<LQIM>?\r\nI need them for crafting, \r\nand I don't have time to go out for supplies.\r\nApologies for the trouble, and thanks!",
+      "text": "Für meine Arbeit fehlt mir <LQIM>.\r\nKönnt Ihr mir <LQVA> Stück abgeben?\r\nIch schaffe es gerade nicht, selbst\r\nNachschub zu holen. Danke für die Hilfe!",
+      "tag_source": "source_jp"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000004_00.gmd",
+  "arc_path": "\\quest\\q40000004.arc",
+  "entries": [
+    {
+      "key": "q40000004_00_4",
+      "read_index": "1",
+      "source_jp": "統計によると<LQEM>が近年増加しているようです。民の脅威となる前に、対策を講じるべきと神官のご判断がありました\r\n発見し次第、白騎団ならびに覚者隊の皆さまは<LQVA>体は討伐するよう願います",
+      "source_en": "According to recent statistics,\r\n<LQEM>'s numbers have been increasing.\r\nThe clergy has determined that measures\r\nshould be taken before they become a threat\r\nto the common folk.\r\nIf discovered, we ask that the White Knights\r\nand the Arisen eliminate at least <LQVA> of them.",
+      "text": "In letzter Zeit häufen sich Sichtungen von\r\n<LQEM>.\r\nDie Priester wollen die Gefahr eindämmen.\r\nErweckte und Weiße Ritter sollen\r\nmindestens <LQVA> dieser Monster besiegen."
+    }
+  ]
+}

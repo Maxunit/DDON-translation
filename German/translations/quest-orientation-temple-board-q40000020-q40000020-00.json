@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "White Dragon Temple board quest templates and rotating targets from the first client test",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000020_00.gmd",
+  "arc_path": "\\quest\\q40000020.arc",
+  "entries": [
+    {
+      "key": "q40000020_00_20",
+      "read_index": "0",
+      "source_jp": "＜エリアオーダー＞白竜神殿補給",
+      "source_en": "Area Order: White Dragon Temple Resupply",
+      "text": "Gebietsauftrag: Nachschub für den Tempel"
+    },
+    {
+      "key": "q40000020_00_20",
+      "read_index": "1",
+      "source_jp": "神殿にいらっしゃる覚者さまに依頼です！\r\n現在レーゼでは武具や薬の材料になる<LQIM>の保管数が激減してまして、補給にも回せない状態です\r\nどうか<LQVA>個、入手次第納品お願いします\r\nお礼にエリアポイントはたくさん支給しますね！",
+      "source_en": "A request to the Arisen at the Temple!\r\nCurrently, the supply of <LQIM> \r\nfor weapons and potion materials\r\nin Riese has drastically decreased, \r\nmaking it impossible to restock.\r\nPlease gather and deliver <LQVA> pieces \r\nas soon as possible.\r\nYou will be rewarded with plenty of Area Points!",
+      "text": "An die Erweckten im Tempel: Unsere Vorräte\r\nan <LQIM> reichen kaum noch für Waffen\r\nund Heilmittel. Liefert bitte <LQVA> Stück,\r\nsobald Ihr sie beschafft habt. Dafür gibt\r\nes reichlich Gebietspunkte!"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000013_00.gmd",
+  "arc_path": "\\quest\\q40000013.arc",
+  "entries": [
+    {
+      "key": "q40000013_00_13",
+      "read_index": "1",
+      "source_jp": "ちょっとばかり商品の手入れに<LQIM>が要り用でね\r\n素材屋でも入荷がなかったんで、こっちで頼むことにしたんだよ。<LQVA>個ほど手に入れちゃくれないか？",
+      "source_en": "We require <LQIM> \r\nfor a bit of product maintenance.\r\nThe supplier hasn't restocked, so I'm asking here.\r\nCould you get us <LQVA> pieces?",
+      "text": "Zur Pflege meiner Ware brauche ich\r\n<LQIM>.\r\nBeim Händler kam nichts Neues an.\r\nKann mir jemand <LQVA> Stück besorgen?"
+    }
+  ]
+}

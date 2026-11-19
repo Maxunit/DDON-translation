@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Adventure Guide menu entries, navigation labels, and display setting",
+  "gmd_path": "ui\\00_message\\npc\\func_select_name.gmd",
+  "arc_path": "\\game_common.arc",
+  "entries": [
+    {
+      "key": "FUNC_SELECT_NAME_86",
+      "read_index": "80",
+      "source_jp": "冒険ガイド",
+      "source_en": "Adventure Guide",
+      "text": "Abenteuerführer"
+    }
+  ]
+}

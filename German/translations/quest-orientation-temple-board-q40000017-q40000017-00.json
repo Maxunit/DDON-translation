@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "White Dragon Temple board quest templates and rotating targets from the first client test",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000017_00.gmd",
+  "arc_path": "\\quest\\q40000017.arc",
+  "entries": [
+    {
+      "key": "q40000017_00_17",
+      "read_index": "0",
+      "source_jp": "我が主のために――",
+      "source_en": "For a Master",
+      "text": "Für meinen Meister"
+    },
+    {
+      "key": "q40000017_00_17",
+      "read_index": "1",
+      "source_jp": "大変恐縮なのですが、覚者様にお願いです\r\n私の腕前がどうも不器用で、いつもなぜか使える素材をダメにしてしまいます。どうか、<LQIM>を<LQVA>個、私に譲って頂けないでしょうか\r\nこのままでは主に顔向けできません――",
+      "source_en": "I am terribly sorry, \r\nbut I have a favor to ask of you, Arisen.\r\nMy skills are rather clumsy, \r\nand I always seem to ruin usable materials.\r\nI humbly request from you\r\n<LQVA> <LQIM>.\r\nI can't face my Master if this continues...",
+      "text": "Verzeiht, Erweckter, ich habe eine Bitte.\r\nIch stelle mich so ungeschickt an, dass\r\nich ständig gutes Material verderbe.\r\nKönntet Ihr mir mit <LQIM> aushelfen?\r\nIch brauche <LQVA> Stück. Sonst kann ich\r\nmeinem Meister nicht unter die Augen treten.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

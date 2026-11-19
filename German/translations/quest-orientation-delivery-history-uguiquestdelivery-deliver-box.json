@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "scope": "Board delivery workflow, marker hints, and quest history menus",
+  "gmd_path": "ui\\00_message\\ui\\deliver_box.gmd",
+  "arc_path": "\\ui\\uGUIQuestDelivery.arc",
+  "entries": [
+    {
+      "key": "DELIVER_MSG_TITLE01",
+      "read_index": "0",
+      "source_jp": "Quest List",
+      "source_en": "Quest List",
+      "text": "Questliste"
+    },
+    {
+      "key": "DELIVER_MSG_TITLE02",
+      "read_index": "1",
+      "source_jp": "クエストリスト",
+      "source_en": "Quest List",
+      "text": "Questliste"
+    },
+    {
+      "key": "DELIVER_MSG_NOTION_NOQUEST",
+      "read_index": "4",
+      "source_jp": "納品が必要なボードクエストを受注していません",
+      "source_en": "There are no quest board orders that require a\r\ndelivery.",
+      "text": "Du hast keinen Lieferauftrag angenommen."
+    },
+    {
+      "key": "DELIVER_MSG_LB_GOAL",
+      "read_index": "5",
+      "source_jp": "目標納品数",
+      "source_en": "Required Amount",
+      "text": "Benötigte Menge"
+    },
+    {
+      "key": "DELIVER_MSG_NOTION_DELIVER",
+      "read_index": "6",
+      "source_jp": "<NAME ITEM> × <VAL> を納品しました",
+      "source_en": "<NAME ITEM> x<VAL> has been delivered.",
+      "text": "<NAME ITEM> ×<VAL> abgegeben."
+    },
+    {
+      "key": "DELIVER_MSG_BUTTON_FINISH",
+      "read_index": "8",
+      "source_jp": "完了",
+      "source_en": "Finish",
+      "text": "Fertig"
+    },
+    {
+      "key": "DELIVER_MSG_BUTTON_END",
+      "read_index": "9",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    }
+  ]
+}

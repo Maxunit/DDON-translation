@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Shared Board Quest tracker objectives and the observed Hidell hunt target",
+  "gmd_path": "ui\\00_message\\common\\light_quest_purpose.gmd",
+  "arc_path": "\\game_common.arc",
+  "entries": [
+    {
+      "key": "LIGHT_QUEST_PURPOSE_1001",
+      "read_index": "0",
+      "source_jp": "<LQEM>を討伐：<VAL> / <VAL>",
+      "source_en": "Defeat <LQEM>: <VAL> / <VAL>",
+      "text": "<LQEM> besiegen: <VAL> / <VAL>"
+    },
+    {
+      "key": "LIGHT_QUEST_PURPOSE_1002",
+      "read_index": "1",
+      "source_jp": "<LQIM>を入手：<VAL> / <VAL>",
+      "source_en": "Obtain <LQIM>: <VAL> / <VAL>",
+      "text": "<LQIM> beschaffen: <VAL> / <VAL>"
+    },
+    {
+      "key": "LIGHT_QUEST_PURPOSE_1006",
+      "read_index": "2",
+      "source_jp": "<LQIM>を納品",
+      "source_en": "<LQIM> is ready to be delivered.",
+      "text": "<LQIM> abgeben"
+    }
+  ]
+}

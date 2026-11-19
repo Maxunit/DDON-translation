@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\ui\\MenuAreaInfo_res.gmd",
+  "arc_path": "\\ui\\uGUIMenuAreaInfo.arc",
+  "entries": [
+    {
+      "key": "mai_msg_title_j",
+      "read_index": "2",
+      "source_jp": "エリアリスト",
+      "source_en": "Area List",
+      "text": " "
+    }
+  ]
+}

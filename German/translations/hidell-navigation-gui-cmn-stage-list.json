@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "scope": "Hidell travel, quest-hint rewards, appraisal exchange and Alfred's area-master dialogue",
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_38",
+      "read_index": "35",
+      "source_jp": "平原の廃墟地下室",
+      "source_en": "Plains House Abandoned Cellar",
+      "text": "Verlassener Keller in der Ebene"
+    },
+    {
+      "key": "STAGE_NAME_85",
+      "read_index": "82",
+      "source_jp": "ハイデル地下霊廟",
+      "source_en": "Hidell Catacombs",
+      "text": "Hidell-Katakomben"
+    },
+    {
+      "key": "STAGE_NAME_87",
+      "read_index": "84",
+      "source_jp": "開かずの路",
+      "source_en": "Blocked Passage",
+      "text": "Versperrter Gang"
+    },
+    {
+      "key": "STAGE_NAME_88",
+      "read_index": "85",
+      "source_jp": "死者の小窟",
+      "source_en": "Small Cave Tombs",
+      "text": "Kleine Grabhöhlen"
+    },
+    {
+      "key": "STAGE_NAME_126",
+      "read_index": "123",
+      "source_jp": "テルの枯れ井戸",
+      "source_en": "Tel's Withered Well",
+      "text": "Tels trockener Brunnen"
+    },
+    {
+      "key": "STAGE_NAME_134",
+      "read_index": "131",
+      "source_jp": "ハイデル街道の枯れ井戸",
+      "source_en": "Roadside Dry Well",
+      "text": "Trockener Brunnen an der Straße"
+    },
+    {
+      "key": "STAGE_NAME_135",
+      "read_index": "132",
+      "source_jp": "修練の祠",
+      "source_en": "Training Chapel",
+      "text": "Übungsschrein"
+    },
+    {
+      "key": "STAGE_NAME_143",
+      "read_index": "140",
+      "source_jp": "アーク",
+      "source_en": "The Ark",
+      "text": "Die Arche"
+    },
+    {
+      "key": "STAGE_NAME_146",
+      "read_index": "143",
+      "source_jp": "アーク",
+      "source_en": "The Ark",
+      "text": "Die Arche"
+    },
+    {
+      "key": "STAGE_NAME_238",
+      "read_index": "235",
+      "source_jp": "ハイデル地下霊廟　深部",
+      "source_en": "Hidell Catacombs Depths",
+      "text": "Tiefe Hidell-Katakomben"
+    },
+    {
+      "key": "STAGE_NAME_239",
+      "read_index": "236",
+      "source_jp": "ハイデル地下霊廟　最深部",
+      "source_en": "Hidell Catacombs Innermost Depths",
+      "text": "Tiefste Hidell-Katakomben"
+    },
+    {
+      "key": "STAGE_NAME_240",
+      "read_index": "237",
+      "source_jp": "アーク",
+      "source_en": "The Ark",
+      "text": "Die Arche"
+    },
+    {
+      "key": "STAGE_NAME_406",
+      "read_index": "324",
+      "source_jp": "アーク　裏層",
+      "source_en": "The Ark's Lower Level",
+      "text": "Untere Ebene der Arche"
+    },
+    {
+      "key": "STAGE_NAME_662",
+      "read_index": "519",
+      "source_jp": "ハイデル地下霊廟",
+      "source_en": "Hidell Catacombs",
+      "text": "Hidell-Katakomben"
+    },
+    {
+      "key": "STAGE_NAME_721",
+      "read_index": "559",
+      "source_jp": "白竜神殿",
+      "source_en": "The White Dragon Temple",
+      "text": "Tempel des Weißen Drachen"
+    }
+  ]
+}

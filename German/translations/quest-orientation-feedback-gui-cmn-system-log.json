@@ -1,0 +1,359 @@
+{
+  "schema_version": 1,
+  "scope": "Quest and navigation feedback, unlocks, and system messages",
+  "gmd_path": "ui\\00_message\\ui\\system_log.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "syslog_quest_discover_solo",
+      "read_index": "41",
+      "source_jp": "<NAME QUEST>を発見しました",
+      "source_en": "<NAME QUEST>\r\nhas been discovered.",
+      "text": "„<NAME QUEST>“ entdeckt."
+    },
+    {
+      "key": "syslog_quest_discover_party",
+      "read_index": "42",
+      "source_jp": "<NAME TARGET>が<NAME QUEST>を発見しました",
+      "source_en": "<NAME TARGET> has discovered\r\n<NAME QUEST>.",
+      "text": "<NAME TARGET> hat „<NAME QUEST>“ entdeckt."
+    },
+    {
+      "key": "syslog_quest_happen",
+      "read_index": "45",
+      "source_jp": "<NAME QUEST>に異常事態が発生しました",
+      "source_en": "<NAME QUEST> has updated.",
+      "text": "„<NAME QUEST>“: Ein ungewöhnliches Ereignis ist eingetreten."
+    },
+    {
+      "key": "syslog_quest_order_wait",
+      "read_index": "49",
+      "source_jp": "パーティーリーダーが<NAME QUEST>を受注待ちです",
+      "source_en": "Wait for the party leader to accept\r\n<NAME QUEST>.",
+      "text": "Warte, bis die Gruppenleitung „<NAME QUEST>“ annimmt."
+    },
+    {
+      "key": "syslog_quest_order",
+      "read_index": "50",
+      "source_jp": "＜<NAME QUEST>＞が受注待ちになりました",
+      "source_en": "\"<NAME QUEST>\" is\r\nawaiting acceptance.",
+      "text": "„<NAME QUEST>“ zur Annahme vorgemerkt."
+    },
+    {
+      "key": "syslog_quest_discontinue",
+      "read_index": "51",
+      "source_jp": "進行不可能になったクエストがあります",
+      "source_en": "This quest is not able to progress.",
+      "text": "Eine Quest kann nicht weitergeführt werden."
+    },
+    {
+      "key": "syslog_quest_partyquest_set",
+      "read_index": "55",
+      "source_jp": "<NAME QUEST>がパーティークエストに設定されました",
+      "source_en": "<NAME QUEST> was set\r\nas a party quest.",
+      "text": "„<NAME QUEST>“ als Gruppenquest festgelegt."
+    },
+    {
+      "key": "syslog_quest_partyquest_unset",
+      "read_index": "56",
+      "source_jp": "<NAME QUEST>がパーティークエストから外されました",
+      "source_en": "<NAME QUEST> was removed\r\nfrom the party's quests.",
+      "text": "„<NAME QUEST>“ aus den Gruppenquests entfernt."
+    },
+    {
+      "key": "syslog_quest_ready_start",
+      "read_index": "57",
+      "source_jp": "<NAME TARGET>がイベント準備・パーティー招集を行いました",
+      "source_en": "<NAME TARGET> \r\nprepared for the event and convened the party.",
+      "text": "<NAME TARGET> hat die Gruppe zur Vorbereitung gerufen."
+    },
+    {
+      "key": "syslog_quest_ready_ready",
+      "read_index": "58",
+      "source_jp": "<NAME TARGET>が進行準備完了になりました",
+      "source_en": "<NAME TARGET> is now ready to proceed!",
+      "text": "<NAME TARGET> ist bereit!"
+    },
+    {
+      "key": "syslog_quest_meinquest_enable",
+      "read_index": "59",
+      "source_jp": "<NAME QUEST>が受注可能になりました",
+      "source_en": "<NAME QUEST> is now\r\navailable for completion.",
+      "text": "„<NAME QUEST>“ ist jetzt verfügbar."
+    },
+    {
+      "key": "syslog_quest_stopedquest_enable",
+      "read_index": "60",
+      "source_jp": "進行不能が解除されたクエストがあります",
+      "source_en": "There are quests that have been released from\r\nbeing unable to progress.",
+      "text": "Eine Quest kann wieder fortgesetzt werden."
+    },
+    {
+      "key": "syslog_quest_cancel",
+      "read_index": "61",
+      "source_jp": "<NAME QUEST>を破棄しました",
+      "source_en": "<NAME QUEST>\r\nhas been canceled.",
+      "text": "„<NAME QUEST>“ aufgegeben."
+    },
+    {
+      "key": "syslog_quest_accept_max",
+      "read_index": "62",
+      "source_jp": "クエスト受注数が最大になりました",
+      "source_en": "Your quest log has reached the\r\nmaximum and you cannot accept more.",
+      "text": "Questlog voll. Du kannst keine weiteren Quests annehmen."
+    },
+    {
+      "key": "syslog_areamaster_rankup_ready",
+      "read_index": "64",
+      "source_jp": "<NAME AREA>のエリアランクアップが\r\n可能になりました",
+      "source_en": "Area rank up is now available\r\nfor <NAME AREA>.",
+      "text": "„<NAME AREA>“: Rangaufstieg möglich."
+    },
+    {
+      "key": "syslog_areamaster_spot_open",
+      "read_index": "65",
+      "source_jp": "<NAME SPOT>が解放されました",
+      "source_en": "<NAME SPOT> unlocked.",
+      "text": "„<NAME SPOT>“ freigeschaltet."
+    },
+    {
+      "key": "syslog_map_freemarker_on",
+      "read_index": "121",
+      "source_jp": "マップにフリーマーカーを記入しました",
+      "source_en": "Place the free marker on the map.",
+      "text": "Wegpunkt gesetzt."
+    },
+    {
+      "key": "syslog_map_freemarker_off",
+      "read_index": "122",
+      "source_jp": "マップのフリーマーカーを消去しました",
+      "source_en": "You erased the free marker from the map.",
+      "text": "Wegpunkt entfernt."
+    },
+    {
+      "key": "syslog_map_freemarker_described",
+      "read_index": "123",
+      "source_jp": "<NAME TARGET>がマップにフリーマーカーを記入しました",
+      "source_en": "<NAME TARGET> \r\nhas placed a free marker on the map.",
+      "text": "<NAME TARGET> hat einen Wegpunkt gesetzt."
+    },
+    {
+      "key": "syslog_map_freemarker_removed",
+      "read_index": "124",
+      "source_jp": "<NAME TARGET>がマップのフリーマーカーを消去しました",
+      "source_en": "<NAME TARGET> \r\nhas erased the free marker from the map.",
+      "text": "<NAME TARGET> hat einen Wegpunkt entfernt."
+    },
+    {
+      "key": "syslog_touchom_areamaster_lock",
+      "read_index": "180",
+      "source_jp": "エリアマスターにより封鎖されている――",
+      "source_en": "This has been blocked by the Area Master.",
+      "text": "Der Gebietsmeister hat diesen Ort gesperrt."
+    },
+    {
+      "key": "syslog_soloquest_lock",
+      "read_index": "181",
+      "source_jp": "現在クエストを受注する事は出来ません。謁見の間でレオに話しかけてメインクエストを進行してください",
+      "source_en": "You cannot accept personal quests at the moment.\r\nPlease progress through the main quest by speaking\r\nto Leo.",
+      "text": "Sprich zuerst mit Leo im Audienzsaal, um persönliche Quests freizuschalten."
+    },
+    {
+      "key": "syslog_areamaster_ap_get_ex",
+      "read_index": "182",
+      "source_jp": "<NAME AREA>のエリアポイント\r\n<VAL> (+<VAL>) <UNIT AP>を獲得しました",
+      "source_en": "<NAME AREA>: +<VAL AP>(+<VAL>)",
+      "text": "<NAME AREA>: +<VAL> (+<VAL>) <UNIT AP>",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "syslog_quest_pawn_xp_get",
+      "read_index": "185",
+      "source_jp": "<NAME PAWN>が<VAL XP>獲得しました",
+      "source_en": "<NAME PAWN> gained <VAL XP>.",
+      "text": "<NAME PAWN> erhält <VAL XP>."
+    },
+    {
+      "key": "syslog_quest_pawn_xp_get_ex",
+      "read_index": "186",
+      "source_jp": "<NAME PAWN>が<VAL> (+<VAL>) <UNIT XP>獲得しました",
+      "source_en": "<NAME PAWN> gained <VAL> (+<VAL>) <UNIT XP>.",
+      "text": "<NAME PAWN> erhält <VAL> (+<VAL>) <UNIT XP>."
+    },
+    {
+      "key": "syslog_quest_end_dist_cancel",
+      "read_index": "194",
+      "source_jp": "＜<VAL>＞の配信期間が終了したためクエスト破棄されました",
+      "source_en": "Quest \"<VAL>\" has expired.",
+      "text": "„<VAL>“ ist abgelaufen."
+    },
+    {
+      "key": "syslog_awaitquest_auto_cancel",
+      "read_index": "195",
+      "source_jp": "受注待ちクエスト＜<VAL>＞を破棄しました",
+      "source_en": "Abandoned pending quest <VAL>",
+      "text": "Vorgemerkte Quest „<VAL>“ aufgegeben."
+    },
+    {
+      "key": "syslog_quest_repeat_reward",
+      "read_index": "203",
+      "source_jp": "＜<NAME QUEST>＞の報酬に、繰り返しボーナスが適用されました",
+      "source_en": "Earned a bonus reward for repeating \r\n\"<NAME QUEST>\".",
+      "text": "„<NAME QUEST>“: Wiederholungsbonus erhalten."
+    },
+    {
+      "key": "syslog_quest_undiscover_reward",
+      "read_index": "204",
+      "source_jp": "＜<NAME QUEST>＞の未公開報酬を獲得しました",
+      "source_en": "Earned the hidden reward for\r\n\"<NAME QUEST>\".",
+      "text": "„<NAME QUEST>“: Verborgene Belohnung erhalten."
+    },
+    {
+      "key": "syslog_quest_help_reward",
+      "read_index": "205",
+      "source_jp": "リーダーが＜<NAME QUEST>＞をクリアしたため、アシスト報酬を獲得しました",
+      "source_en": "Party leader has cleared\r\n\"<NAME QUEST>\" and you\r\nhave received a reward for assisting.",
+      "text": "„<NAME QUEST>“: Assistenzbelohnung erhalten."
+    },
+    {
+      "key": "syslog_quest_party_bonus",
+      "read_index": "206",
+      "source_jp": "パーティーでの＜<NAME QUEST>＞クリアにより、報酬にパーティーボーナスが適用されました",
+      "source_en": "Party has completed\r\n\"<NAME QUEST>\" and you\r\nhave received a party bonus.",
+      "text": "„<NAME QUEST>“: Gruppenbonus erhalten."
+    },
+    {
+      "key": "syslog_quest_cannot_progress_party",
+      "read_index": "207",
+      "source_jp": "リーダーと進行状況が異なるため、<NAME TARGET>の＜<NAME QUEST>＞が進行保留になりました",
+      "source_en": "The quest progress between\r\nthe party leader and\r\n<NAME TARGET> for\r\n\"<NAME QUEST>\" differs.",
+      "text": "<NAME TARGET>: „<NAME QUEST>“ pausiert wegen abweichendem Fortschritt."
+    },
+    {
+      "key": "syslog_quest_can_progress_party",
+      "read_index": "208",
+      "source_jp": "<NAME TARGET>の＜<NAME QUEST>＞が進行可能になりました",
+      "source_en": "<NAME TARGET>'s quest \"<NAME QUEST>\"\r\ncan now progress.",
+      "text": "<NAME TARGET> kann „<NAME QUEST>“ fortsetzen."
+    },
+    {
+      "key": "syslog_quest_wait_order",
+      "read_index": "209",
+      "source_jp": "パーティーリーダーの＜<NAME QUEST>＞が受注待ちになりました",
+      "source_en": "The party leader's quest\r\n\"<NAME QUEST>\"\r\nhas orders waiting.",
+      "text": "Die Gruppenleitung hat „<NAME QUEST>“ vorgemerkt."
+    },
+    {
+      "key": "syslog_quest_can_progress_leader",
+      "read_index": "210",
+      "source_jp": "パーティーリーダーの＜<NAME QUEST>＞が進行可能になりました",
+      "source_en": "Because of the party leader,\r\n\"<NAME QUEST>\"\r\ncan now progress.",
+      "text": "Die Gruppenleitung kann „<NAME QUEST>“ fortsetzen."
+    },
+    {
+      "key": "syslog_quest_can_progress",
+      "read_index": "211",
+      "source_jp": "＜<NAME QUEST>＞が進行可能になりました",
+      "source_en": "\"<NAME QUEST>\"\r\ncan now progress.",
+      "text": "„<NAME QUEST>“ kann fortgesetzt werden."
+    },
+    {
+      "key": "syslog_quest_cannot_progress_leader",
+      "read_index": "212",
+      "source_jp": "パーティーリーダーの＜<NAME QUEST>＞が進行不可になりました",
+      "source_en": "Because of the party leader,\r\n\"<NAME QUEST>\" can\r\nno longer progress.",
+      "text": "Die Gruppenleitung kann „<NAME QUEST>“ nicht fortsetzen."
+    },
+    {
+      "key": "syslog_quest_cannot_progress",
+      "read_index": "213",
+      "source_jp": "＜<NAME QUEST>＞が進行不可になりました",
+      "source_en": "\"<NAME QUEST>\" can\r\nno longer progress.",
+      "text": "„<NAME QUEST>“ kann nicht fortgesetzt werden."
+    },
+    {
+      "key": "syslog_quest_party_progress_myself",
+      "read_index": "214",
+      "source_jp": "＜<VAL>＞を進行しようとしました（あと<VAL>人で進行）",
+      "source_en": "Attempted to progress with <VAL> (progress with\r\n<VAL> more people)",
+      "text": "„<VAL>“ fortsetzen: Noch <VAL> Spieler müssen zustimmen."
+    },
+    {
+      "key": "syslog_quest_party_progress",
+      "read_index": "215",
+      "source_jp": "＜<VAL>＞をパーティーメンバーが進行しようとしました（あと<VAL>人で進行）",
+      "source_en": "Party members attempted to progress with <VAL>\r\n(progress with <VAL> more people)",
+      "text": "Die Gruppe will „<VAL>“ fortsetzen (noch <VAL> Zustimmungen)."
+    },
+    {
+      "key": "syslog_quest_party_order_myself",
+      "read_index": "216",
+      "source_jp": "＜<VAL>＞を受注しようとしました（あと<VAL>人で受注）",
+      "source_en": "Tried to accept <VAL> (accept with <VAL> more\r\npeople)",
+      "text": "„<VAL>“ annehmen: Noch <VAL> Spieler müssen zustimmen."
+    },
+    {
+      "key": "syslog_quest_party_order",
+      "read_index": "217",
+      "source_jp": "＜<VAL>＞をパーティーメンバーが受注しようとしました（あと<VAL>人で受注）",
+      "source_en": "Party members attempted to accept <VAL> (accept\r\nwith <VAL> more people)",
+      "text": "Die Gruppe will „<VAL>“ annehmen (noch <VAL> Zustimmungen)."
+    },
+    {
+      "key": "syslog_quest_decide_deliver",
+      "read_index": "224",
+      "source_jp": "＜<NAME QUEST>＞の納品目標を達成しました",
+      "source_en": "\"<NAME QUEST>\" delivery\r\nobjective achieved.",
+      "text": "„<NAME QUEST>“: Abgabeziel erfüllt."
+    },
+    {
+      "key": "syslog_quest_progress_failed",
+      "read_index": "233",
+      "source_jp": "＜<NAME QUEST>＞の進行に失敗しました\r\nクエストログで進行状況を確認してください",
+      "source_en": "The progress of \r\n<NAME QUEST> has failed.\r\nPlease check the quest log\r\nfor status updates.",
+      "text": "„<NAME QUEST>“ konnte nicht fortgesetzt werden. Prüfe das Questlog."
+    },
+    {
+      "key": "syslog_quest_stop_content_reset",
+      "read_index": "243",
+      "source_jp": "クエストが進行不能のため、コンテンツ中断をおこなってください",
+      "source_en": "Due to the impossibility of progressing the\r\nquest, please cancel the current Content.",
+      "text": "Questfortschritt blockiert. Brich den laufenden Inhalt ab."
+    },
+    {
+      "key": "syslog_quest_root_reward",
+      "read_index": "244",
+      "source_jp": "条件が満たされたため、＜<NAME QUEST>＞の\r\nクリア報酬が変化します",
+      "source_en": "Because you satisfied the conditions,\r\nthe clear reward of\r\n\"<NAME QUEST>\"\r\nwill change.",
+      "text": "„<NAME QUEST>“: Die Abschlussbelohnung ändert sich."
+    },
+    {
+      "key": "syslog_clanquest_enable_clear_over",
+      "read_index": "253",
+      "source_jp": "クランクエスト＜<VAL>＞の\r\nCP報酬の有効クリア回数が上限に達しました",
+      "source_en": "The maximum number of times to receive CP rewards\r\nfor the Clan Quest <VAL> has been reached.",
+      "text": "„<VAL>“: Das Limit für Clanpunkt-Belohnungen ist erreicht."
+    },
+    {
+      "key": "syslog_quest_assist_accept",
+      "read_index": "261",
+      "source_jp": "＜<NAME QUEST>＞の受注条件を満たしていないため、アシスト状態で受注しました",
+      "source_en": "You do not meet the conditions of\r\n\"<NAME QUEST>\", so it was\r\naccepted in assist mode.",
+      "text": "„<NAME QUEST>“ als Helfer angenommen."
+    },
+    {
+      "key": "syslog_boardquest_sp_allclear_log",
+      "read_index": "306",
+      "source_jp": "このクエストボードから配信されている\r\nすべてのクエストを一括してクリア状態にしました",
+      "source_en": "All quests posted to this Quest Board\r\nhave been cleared.",
+      "text": "Alle Quests dieses Questboards wurden abgeschlossen."
+    },
+    {
+      "key": "syslog_hardboardquest_reload_log",
+      "read_index": "307",
+      "source_jp": "スペシャルクエストボードがリロードされました\r\n（本日<VAL>回目）",
+      "source_en": "Special Quest Board has been\r\nreloaded. (<VAL> time today)",
+      "text": "Spezial-Questboard aktualisiert (heute: <VAL>)."
+    }
+  ]
+}

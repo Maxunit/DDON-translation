@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000005_00.gmd",
+  "arc_path": "\\quest\\q40000005.arc",
+  "entries": [
+    {
+      "key": "q40000005_00_5",
+      "read_index": "1",
+      "source_jp": "先日、旅人らしき者の遺体が発見された\r\n近くにあった痕跡から、どうやら被害は<LQEM>によるものとのことだ。これを<LQVA>体討伐し、白騎団の誇りに懸けて往来の安全を確保せよ",
+      "source_en": "Recently, the deceased body of a traveler was found.\r\nNearby traces suggest their death was caused\r\nby <LQEM>. \r\nWe must eliminate <LQVA> of them\r\nto ensure safety on the roads and uphold\r\nthe honor of the White Knights.",
+      "text": "Kürzlich fand man einen toten Reisenden.\r\nDie Spuren deuten auf <LQEM>.\r\nBei der Ehre der Weißen Ritter! Besiegt\r\n<LQVA> und macht die Straßen wieder sicher."
+    }
+  ]
+}

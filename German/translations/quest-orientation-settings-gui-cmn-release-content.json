@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Quest guidance options, related unlocks and the world menu",
+  "gmd_path": "ui\\00_message\\common\\release_content.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "RELEASE_CONTENT_3",
+      "read_index": "2",
+      "source_jp": "ワールドクエスト",
+      "source_en": "World Quest",
+      "text": "Weltquest"
+    },
+    {
+      "key": "RELEASE_CONTENT_5",
+      "read_index": "3",
+      "source_jp": "エクストリームミッション",
+      "source_en": "Extreme Missions",
+      "text": "Extremmissionen"
+    },
+    {
+      "key": "RELEASE_CONTENT_7",
+      "read_index": "5",
+      "source_jp": "レスタニアニュース",
+      "source_en": "Lestania News",
+      "text": "Lestania-Nachrichten"
+    },
+    {
+      "key": "RELEASE_CONTENT_16",
+      "read_index": "13",
+      "source_jp": "エリアマスターのワールドクエスト情報",
+      "source_en": "Area Master's World Quest Info",
+      "text": "Weltquest-Infos beim Gebietsmeister"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Character menu labels, item bag subtitle, and channel and area selection labels",
+  "gmd_path": "ui\\00_message\\ui\\game_menu_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "menu_equip_status",
+      "read_index": "2",
+      "source_jp": "ステータス・装備",
+      "source_en": "Status / Equipment",
+      "text": "Status / Ausrüstung"
+    },
+    {
+      "key": "menu_matching_profile",
+      "read_index": "22",
+      "source_jp": "プロフィール編集",
+      "source_en": "Edit Profile",
+      "text": "Profil bearbeiten"
+    },
+    {
+      "key": "menu_arisen_card",
+      "read_index": "24",
+      "source_jp": "覚者プロフィール",
+      "source_en": "Arisen Profile",
+      "text": "Erwecktenprofil"
+    },
+    {
+      "key": "menu_achievement",
+      "read_index": "31",
+      "source_jp": "アチーブメント",
+      "source_en": "Achievement",
+      "text": "Erfolge"
+    }
+  ]
+}

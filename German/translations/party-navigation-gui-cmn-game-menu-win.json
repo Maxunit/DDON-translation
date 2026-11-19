@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\ui\\game_menu_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "menu_serch_player",
+      "read_index": "47",
+      "source_jp": "プレイヤー検索",
+      "source_en": "Player Search",
+      "text": "Spielersuche"
+    },
+    {
+      "key": "menu_quick_party",
+      "read_index": "49",
+      "source_jp": "クイックパーティー",
+      "source_en": "Quick Party",
+      "text": "Schnellsuche"
+    }
+  ]
+}

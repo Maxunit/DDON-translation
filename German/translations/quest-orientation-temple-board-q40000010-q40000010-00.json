@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "White Dragon Temple board quest templates and rotating targets from the first client test",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000010_00.gmd",
+  "arc_path": "\\quest\\q40000010.arc",
+  "entries": [
+    {
+      "key": "q40000010_00_10",
+      "read_index": "0",
+      "source_jp": "＜エリアオーダー＞神殿近郊魔物征伐",
+      "source_en": "Area Order: Temple Outskirts Demon Extermination",
+      "text": "Gebietsauftrag: Jagd am Tempel"
+    },
+    {
+      "key": "q40000010_00_10",
+      "read_index": "1",
+      "source_jp": "神殿滞在中の覚者達へ緊急依頼だ\r\n神殿付近にて危険性の高い<LQEM>が多数確認されたとの報告があった\r\n重大な危機に繋がる可能性があるので、<LQVA>体の討伐にご協力頼む！",
+      "source_en": "Urgent request to the Arisen staying at the temple:\r\nReports indicate that a large number of dangerous \r\n<LQEM>\r\nhave been confirmed near the Temple.\r\nAs this poses a serious threat, \r\nwe request your help to eliminate <LQVA> enemies!",
+      "text": "Eilauftrag an die Erweckten im Tempel!\r\nIn der Nähe wurde eine große Zahl\r\ngefährlicher Gegner gesichtet: <LQEM>.\r\nBesiegt <LQVA> von ihnen, bevor\r\ndie Lage außer Kontrolle gerät!"
+    }
+  ]
+}

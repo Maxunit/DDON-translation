@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Adventure Guide menu entries, navigation labels, and display setting",
+  "gmd_path": "ui\\00_message\\ui\\game_menu_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "menu_adv_guide",
+      "read_index": "61",
+      "source_jp": "冒険ガイド",
+      "source_en": "Adventure Guide",
+      "text": "Abenteuerführer"
+    }
+  ]
+}

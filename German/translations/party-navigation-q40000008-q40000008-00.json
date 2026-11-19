@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000008_00.gmd",
+  "arc_path": "\\quest\\q40000008.arc",
+  "entries": [
+    {
+      "key": "q40000008_00_8",
+      "read_index": "1",
+      "source_jp": "神殿滞在中の覚者様に通達です\r\n近年任地にて<LQEM>が増えつつあるとの報告が上がっております。可能であれば任務の合間で構いませんので、<LQVA>体ほどの討伐にご協力お願いします",
+      "source_en": "To the Arisen currently at the temple:\r\nReports suggest an increase\r\nin <LQEM> \r\nin your assignment area.\r\nIf possible, between missions,\r\nplease lend your assist by taking down\r\nabout <LQVA> enemies.",
+      "text": "An die Erweckten im Tempel.\r\nIn eurem Einsatzgebiet wird vermehrt\r\n<LQEM> gesichtet.\r\nBesiegt zwischen euren Aufträgen\r\nnach Möglichkeit etwa <LQVA> davon."
+    }
+  ]
+}

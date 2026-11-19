@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Player XP chat lines with and without bonus",
+  "gmd_path": "ui\\00_message\\ui\\system_log.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "syslog_xp_get",
+      "read_index": "271",
+      "source_jp": "<VAL XP>を入手しました",
+      "source_en": "<VAL XP> obtained.",
+      "text": "<VAL XP> erhalten."
+    },
+    {
+      "key": "syslog_xp_get_ex",
+      "read_index": "272",
+      "source_jp": "<VAL> (+<VAL>) <UNIT XP>を入手しました",
+      "source_en": "<VAL> (+<VAL>) <UNIT XP> obtained.",
+      "text": "<VAL> (+<VAL>) <UNIT XP> erhalten."
+    }
+  ]
+}

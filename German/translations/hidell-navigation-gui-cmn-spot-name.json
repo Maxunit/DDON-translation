@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "scope": "Hidell travel, quest-hint rewards, appraisal exchange and Alfred's area-master dialogue",
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_450",
+      "read_index": "0",
+      "source_jp": "白竜神殿レーゼ",
+      "source_en": "The White Dragon Temple",
+      "text": "Tempel des Weißen Drachen"
+    },
+    {
+      "key": "SPOT_NAME_486",
+      "read_index": "36",
+      "source_jp": "ハイデル地下霊廟",
+      "source_en": "Hidell Catacombs",
+      "text": "Hidell-Katakomben"
+    },
+    {
+      "key": "SPOT_NAME_487",
+      "read_index": "37",
+      "source_jp": "ハイデル地下霊廟　深部",
+      "source_en": "Hidell Catacombs Depths",
+      "text": "Tiefe Hidell-Katakomben"
+    },
+    {
+      "key": "SPOT_NAME_488",
+      "read_index": "38",
+      "source_jp": "ハイデル地下霊廟　最深部",
+      "source_en": "Hidell Catacombs Innermost Depths",
+      "text": "Tiefste Hidell-Katakomben"
+    },
+    {
+      "key": "SPOT_NAME_503",
+      "read_index": "53",
+      "source_jp": "南ハイデル大橋",
+      "source_en": "South Hidell Bridge",
+      "text": "Südbrücke von Hidell"
+    },
+    {
+      "key": "SPOT_NAME_517",
+      "read_index": "67",
+      "source_jp": "アーク",
+      "source_en": "The Ark",
+      "text": "Die Arche"
+    },
+    {
+      "key": "SPOT_NAME_539",
+      "read_index": "89",
+      "source_jp": "大門前",
+      "source_en": "Front Gate",
+      "text": "Vor dem Haupttor"
+    },
+    {
+      "key": "SPOT_NAME_541",
+      "read_index": "91",
+      "source_jp": "死者の小窟",
+      "source_en": "Small Cave Tombs",
+      "text": "Kleine Grabhöhlen"
+    },
+    {
+      "key": "SPOT_NAME_569",
+      "read_index": "119",
+      "source_jp": "修練の祠",
+      "source_en": "Training Chapel",
+      "text": "Übungsschrein"
+    },
+    {
+      "key": "SPOT_NAME_579",
+      "read_index": "129",
+      "source_jp": "開かずの路",
+      "source_en": "Blocked Passage",
+      "text": "Versperrter Gang"
+    },
+    {
+      "key": "SPOT_NAME_580",
+      "read_index": "130",
+      "source_jp": "ハイデル街道の枯れ井戸",
+      "source_en": "Roadside Dry Well",
+      "text": "Trockener Brunnen an der Straße"
+    },
+    {
+      "key": "SPOT_NAME_581",
+      "read_index": "131",
+      "source_jp": "平原の廃墟地下室",
+      "source_en": "Plains House Abandoned Cellar",
+      "text": "Verlassener Keller in der Ebene"
+    },
+    {
+      "key": "SPOT_NAME_583",
+      "read_index": "133",
+      "source_jp": "テルの枯れ井戸",
+      "source_en": "Tel's Withered Well",
+      "text": "Tels trockener Brunnen"
+    },
+    {
+      "key": "SPOT_NAME_614",
+      "read_index": "160",
+      "source_jp": "鬼鳴き橋",
+      "source_en": "Roaring Demon Bridge",
+      "text": "Dämonenbrücke"
+    },
+    {
+      "key": "SPOT_NAME_615",
+      "read_index": "161",
+      "source_jp": "血すすぎ河原",
+      "source_en": "Blood-soaked Riverbank",
+      "text": "Blutiges Flussufer"
+    },
+    {
+      "key": "SPOT_NAME_616",
+      "read_index": "162",
+      "source_jp": "黒狼団のアジト",
+      "source_en": "The Black Wolves' Hideout",
+      "text": "Versteck der Schwarzen Wölfe"
+    },
+    {
+      "key": "SPOT_NAME_689",
+      "read_index": "235",
+      "source_jp": "アーク　裏層",
+      "source_en": "The Ark's Lower Level",
+      "text": "Untere Ebene der Arche"
+    },
+    {
+      "key": "SPOT_NAME_715",
+      "read_index": "260",
+      "source_jp": "刃擦れの細道",
+      "source_en": "Blade-Scarred Path",
+      "text": "Pfad der Klingenspuren"
+    },
+    {
+      "key": "SPOT_NAME_818",
+      "read_index": "288",
+      "source_jp": "酒場",
+      "source_en": "Tavern",
+      "text": "Taverne"
+    },
+    {
+      "key": "SPOT_NAME_819",
+      "read_index": "289",
+      "source_jp": "美容院前",
+      "source_en": "Beauty Salon",
+      "text": "Vor dem Schönheitssalon"
+    },
+    {
+      "key": "SPOT_NAME_1025",
+      "read_index": "491",
+      "source_jp": "商店区 裏通り",
+      "source_en": "Shopping District Alley",
+      "text": "Gasse im Händlerviertel"
+    },
+    {
+      "key": "SPOT_NAME_1026",
+      "read_index": "492",
+      "source_jp": "謁見の間 手前",
+      "source_en": "Before the Audience Chamber",
+      "text": "Vor dem Audienzsaal"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Board delivery workflow, marker hints, and quest history menus",
+  "gmd_path": "ui\\00_message\\ui\\history.gmd",
+  "arc_path": "\\ui\\uGUIQuestHistory.arc",
+  "entries": [
+    {
+      "key": "HISTRY_MSG_TITLE_01",
+      "read_index": "0",
+      "source_jp": "Arisen History",
+      "source_en": "Arisen History",
+      "text": "Chronik der Erweckten"
+    },
+    {
+      "key": "HISTRY_MSG_TITLE_02",
+      "read_index": "1",
+      "source_jp": "ジョゼフの報告書",
+      "source_en": "Joseph's Reports",
+      "text": "Josephs Berichte"
+    },
+    {
+      "key": "HISTORY_MSG_TITLE_EVENT_VIEWER_01",
+      "read_index": "2",
+      "source_jp": "Event Viewer",
+      "source_en": "Event Viewer",
+      "text": "Szenenübersicht"
+    },
+    {
+      "key": "HISTORY_MSG_TITLE_EVENT_VIEWER_02",
+      "read_index": "3",
+      "source_jp": "イベントビューアー",
+      "source_en": "Event Viewer",
+      "text": "Szenenübersicht"
+    },
+    {
+      "key": "HISTORY_MSG_BTN_GUIDE_EVENT_VIEWER",
+      "read_index": "4",
+      "source_jp": "イベントリストを開く",
+      "source_en": "Open Event List",
+      "text": "Szenenliste öffnen"
+    },
+    {
+      "key": "HISTORY_MSG_ERROR_NO_EVENT",
+      "read_index": "5",
+      "source_jp": "イベントがありません",
+      "source_en": "There are no Events",
+      "text": "Keine Szenen verfügbar"
+    }
+  ]
+}

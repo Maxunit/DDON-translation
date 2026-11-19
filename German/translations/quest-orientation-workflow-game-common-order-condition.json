@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "scope": "Shared quest menus, order conditions, navigation controls and rewards",
+  "gmd_path": "ui\\00_message\\common\\order_condition.gmd",
+  "arc_path": "\\game_common.arc",
+  "entries": [
+    {
+      "key": "ORDER_CONDITION_988",
+      "read_index": "0",
+      "source_jp": "無し",
+      "source_en": "None",
+      "text": "Keine"
+    },
+    {
+      "key": "ORDER_CONDITION_994",
+      "read_index": "2",
+      "source_jp": "ジョブ限定：<QCND 0>のジョブレベル<QCND 1>以上",
+      "source_en": "Vocation restriction: <QCND 0>, at least level\r\n<QCND 1>",
+      "text": "<QCND 0> ab Stufe <QCND 1>"
+    },
+    {
+      "key": "ORDER_CONDITION_996",
+      "read_index": "4",
+      "source_jp": "無し",
+      "source_en": "None",
+      "text": "Keine"
+    },
+    {
+      "key": "ORDER_CONDITION_997",
+      "read_index": "5",
+      "source_jp": "無し",
+      "source_en": "None",
+      "text": "Keine"
+    },
+    {
+      "key": "ORDER_CONDITION_1000",
+      "read_index": "8",
+      "source_jp": "エクストリームミッション [<QCND 0>] をクリア",
+      "source_en": "Clear Extreme Mission [<QCND 0>]",
+      "text": "Extremmission [<QCND 0>] abschließen"
+    },
+    {
+      "key": "ORDER_CONDITION_993",
+      "read_index": "9",
+      "source_jp": "<QCND 0>のエリアランク<QCND 1>以上",
+      "source_en": "Area rank for <QCND 0> at least <QCND 1>",
+      "text": "<QCND 0>: Gebietsrang <QCND 1> oder höher"
+    },
+    {
+      "key": "ORDER_CONDITION_1004",
+      "read_index": "11",
+      "source_jp": "白竜神殿レンテンから覚者の戦術試練を学ぶ",
+      "source_en": "Learn about the Arisen's tactics trial from\r\nRenton in the White Dragon Temple",
+      "text": "Bei Renton im Tempel des Weißen Drachen\r\netwas über die Taktikprüfung erfahren"
+    },
+    {
+      "key": "ORDER_CONDITION_1005",
+      "read_index": "12",
+      "source_jp": "イリスから十分な装備の準備方法について学ぶ",
+      "source_en": "Learn how to prepare adequate equipment from Iris",
+      "text": "Bei Iris lernen, wie man sich passend ausrüstet"
+    },
+    {
+      "key": "ORDER_CONDITION_1007",
+      "read_index": "13",
+      "source_jp": "無し",
+      "source_en": "None",
+      "text": "Keine"
+    },
+    {
+      "key": "ORDER_CONDITION_1008",
+      "read_index": "14",
+      "source_jp": "パーティー内にパートナーポーンがいる",
+      "source_en": "Partner Pawn in party",
+      "text": "Partnervasall in der Gruppe"
+    },
+    {
+      "key": "ORDER_CONDITION_1010",
+      "read_index": "15",
+      "source_jp": "無し",
+      "source_en": "None",
+      "text": "Keine"
+    },
+    {
+      "key": "ORDER_CONDITION_1011",
+      "read_index": "16",
+      "source_jp": "装備のアイテムランクが<QCND 0>以上（平均IR）",
+      "source_en": "Item Rank of <QCND 0> or more (average IR)",
+      "text": "Mittlerer Gegenstandsrang: mind. <QCND 0>"
+    },
+    {
+      "key": "ORDER_CONDITION_1012",
+      "read_index": "17",
+      "source_jp": "アイテム＜<QCND 0>＞を<QCND 1>個所持",
+      "source_en": "Possesses <QCND 0> of <QCND 1> items",
+      "text": "<QCND 0> im Besitz (mind. <QCND 1>)"
+    },
+    {
+      "key": "ORDER_CONDITION_1014",
+      "read_index": "18",
+      "source_jp": "パーティプレイ不可（メインポーン<QCND 0>人同行可）",
+      "source_en": "No party members (<QCND 0> main pawn allowed)",
+      "text": "Solo (erlaubte Hauptvasallen: <QCND 0>)"
+    },
+    {
+      "key": "ORDER_CONDITION_1015",
+      "read_index": "19",
+      "source_jp": "ワールドクエスト＜<QCND 0>＞をクリア",
+      "source_en": "Clear World Quest [<QCND 0>]",
+      "text": "Weltquest [<QCND 0>] abschließen"
+    },
+    {
+      "key": "ORDER_CONDITION_1016",
+      "read_index": "20",
+      "source_jp": "サブストーリー [<QCND 0>] をクリア",
+      "source_en": "Clear Substory [<QCND 0>]",
+      "text": "Nebenquest [<QCND 0>] abschließen"
+    },
+    {
+      "key": "ORDER_CONDITION_1017",
+      "read_index": "21",
+      "source_jp": "現在のジョブのジョブレベル<QCND 0>以上",
+      "source_en": "Current Job Level <QCND 0> or more",
+      "text": "Aktuelle Klasse: Stufe <QCND 0> oder höher"
+    }
+  ]
+}

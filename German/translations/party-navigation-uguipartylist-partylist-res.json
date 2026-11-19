@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "scope": "Area list, party management, quick matchmaking, and board description wrap",
+  "gmd_path": "ui\\00_message\\ui\\PartyList_res.gmd",
+  "arc_path": "\\ui\\uGUIPartyList.arc",
+  "entries": [
+    {
+      "key": "party_list_invite",
+      "read_index": "2",
+      "source_jp": "パーティーへの招待がきています",
+      "source_en": "You have been sent a party invite.",
+      "text": "Du wurdest in eine Gruppe eingeladen."
+    },
+    {
+      "key": "party_list_pl_search",
+      "read_index": "7",
+      "source_jp": "プレイヤー検索",
+      "source_en": "Player Search",
+      "text": "Spielersuche"
+    },
+    {
+      "key": "party_list_q_party",
+      "read_index": "8",
+      "source_jp": "クイックパーティー",
+      "source_en": "Quick Party",
+      "text": "Schnellsuche"
+    },
+    {
+      "key": "party_list_dissolution",
+      "read_index": "10",
+      "source_jp": "パーティーを解散する",
+      "source_en": "Disband",
+      "text": "Gruppe auflösen"
+    },
+    {
+      "key": "party_list_quickp_start",
+      "read_index": "12",
+      "source_jp": "クイックパーティー開始",
+      "source_en": "Start Quick Party",
+      "text": "Schnellsuche starten"
+    },
+    {
+      "key": "party_list_settings",
+      "read_index": "13",
+      "source_jp": "設定の編集",
+      "source_en": "Edit Settings",
+      "text": "Einstellungen bearbeiten"
+    },
+    {
+      "key": "party_list_lobby",
+      "read_index": "16",
+      "source_jp": "ワールド",
+      "source_en": "World",
+      "text": "Kanal"
+    },
+    {
+      "key": "party_list_clan",
+      "read_index": "18",
+      "source_jp": "クラン",
+      "source_en": "Clan",
+      "text": "Clanname"
+    },
+    {
+      "key": "party_list_search_now",
+      "read_index": "25",
+      "source_jp": "検索中です",
+      "source_en": "Searching in progress",
+      "text": "Suche läuft ..."
+    },
+    {
+      "key": "party_list_settings_err",
+      "read_index": "26",
+      "source_jp": "条件を設定してください",
+      "source_en": "Please enter search criteria.",
+      "text": "Gib Suchkriterien ein."
+    },
+    {
+      "key": "party_list_notfound_player",
+      "read_index": "27",
+      "source_jp": "要請を出せる相手がいませんでした",
+      "source_en": "Couldn't find anyone to make a request to.",
+      "text": "Niemand für die Anfrage gefunden."
+    },
+    {
+      "key": "party_list_notfound_party",
+      "read_index": "28",
+      "source_jp": "参加出来るパーティーがありませんでした",
+      "source_en": "There were no parties to join.",
+      "text": "Keine passende Gruppe gefunden."
+    },
+    {
+      "key": "party_list_inviting",
+      "read_index": "29",
+      "source_jp": "（招待中）",
+      "source_en": "(Pending)",
+      "text": "(Anfrage offen)"
+    },
+    {
+      "key": "party_list_count",
+      "read_index": "31",
+      "source_jp": "冒険／クラフト残り回数",
+      "source_en": "Adventure / Craft Left",
+      "text": "Verbleibend"
+    },
+    {
+      "key": "party_list_pawn_joblv",
+      "read_index": "32",
+      "source_jp": "ジョブ／クラフトレベル",
+      "source_en": "Vocation / Craft Level",
+      "text": "Stufen"
+    },
+    {
+      "key": "party_list_party_link",
+      "read_index": "37",
+      "source_jp": "（合流中）",
+      "source_en": "(Merging in progress)",
+      "text": "(Gruppenbeitritt)"
+    },
+    {
+      "key": "party_list_simple_req_btn",
+      "read_index": "38",
+      "source_jp": "簡易要請",
+      "source_en": "Simple Request",
+      "text": "Kurzanfrage"
+    },
+    {
+      "key": "party_list_pt_search",
+      "read_index": "39",
+      "source_jp": "パーティー検索",
+      "source_en": "Party Search",
+      "text": "Gruppensuche"
+    },
+    {
+      "key": "party_list_pl_search_notfound",
+      "read_index": "40",
+      "source_jp": "一致する情報は見つかりませんでした",
+      "source_en": "There were no results.",
+      "text": "Keine Treffer."
+    },
+    {
+      "key": "party_list_pl_name_empty",
+      "read_index": "41",
+      "source_jp": "(指定なし)",
+      "source_en": "(None)",
+      "text": "(Ohne Vorgabe)"
+    },
+    {
+      "key": "party_list_btn_dra_skill",
+      "read_index": "42",
+      "source_jp": "ドラゴンアビリティ情報",
+      "source_en": "Dragon Ability Information",
+      "text": "Drachenfähigkeiten"
+    }
+  ]
+}

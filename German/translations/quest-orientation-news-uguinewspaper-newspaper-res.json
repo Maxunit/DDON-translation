@@ -1,0 +1,506 @@
+{
+  "schema_version": 1,
+  "scope": "Lestania News, world quest discovery and travel, party bonuses, and shared mission tabs",
+  "gmd_path": "ui\\00_message\\ui\\Newspaper_res.gmd",
+  "arc_path": "\\ui\\uGUINewspaper.arc",
+  "entries": [
+    {
+      "key": "np_msg_icon_new",
+      "read_index": "0",
+      "source_jp": "最近公開",
+      "source_en": "Recently Published",
+      "text": "Neu"
+    },
+    {
+      "key": "np_msg_menutitle_area",
+      "read_index": "3",
+      "source_jp": "エリア選択メニュー",
+      "source_en": "Area Select Menu",
+      "text": "Gebietsauswahl"
+    },
+    {
+      "key": "np_msg_category_news",
+      "read_index": "5",
+      "source_jp": "本日のパーティーボーナス",
+      "source_en": "Today's Party Bonus",
+      "text": "Heutiger Gruppenbonus"
+    },
+    {
+      "key": "np_msg_fit",
+      "read_index": "6",
+      "source_jp": "推奨",
+      "source_en": "Rec.",
+      "text": "Empf."
+    },
+    {
+      "key": "np_msg_heard",
+      "read_index": "8",
+      "source_jp": "目撃文",
+      "source_en": "Sighting Report",
+      "text": "Sichtungsmeldung"
+    },
+    {
+      "key": "np_msg_reward",
+      "read_index": "9",
+      "source_jp": "初回報酬",
+      "source_en": "Initial Reward",
+      "text": "Erstbelohnung"
+    },
+    {
+      "key": "np_msg_limit",
+      "read_index": "10",
+      "source_jp": "<DATE> まで",
+      "source_en": "until <DATE>",
+      "text": "bis <DATE>"
+    },
+    {
+      "key": "np_msg_sercret_reward",
+      "read_index": "11",
+      "source_jp": "未公開報酬",
+      "source_en": "Hidden Reward",
+      "text": "Geheime Belohnung"
+    },
+    {
+      "key": "np_msg_dialog_jump_check",
+      "read_index": "16",
+      "source_jp": "<NAME AREA> に転移します\r\n必要リム：<VAL RIM>\r\n所持リム：<VAL RIM>",
+      "source_en": "You will teleport to <NAME AREA>.\r\nRift Crystal Cost: <VAL RIM>\r\nRift Crystal Total: <VAL RIM>",
+      "text": "Reise nach <NAME AREA>?\r\nKosten: <VAL RIM>\r\nIm Besitz: <VAL RIM>"
+    },
+    {
+      "key": "np_msg_dialoig_jump_norim",
+      "read_index": "17",
+      "source_jp": "リムが不足しています\r\n必要リム：<VAL RIM>\r\n所持リム：<VAL RIM>",
+      "source_en": "You do not have enough Rift Crystals.\r\nRift Crystal Cost: <VAL RIM>\r\nRift Crystal Total: <VAL RIM>",
+      "text": "Du hast nicht genug Riftkristalle.\r\nKosten: <VAL RIM>\r\nIm Besitz: <VAL RIM>"
+    },
+    {
+      "key": "np_msg_decision_decide",
+      "read_index": "18",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "np_msg_decision_cansel",
+      "read_index": "19",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "np_msg_article_event",
+      "read_index": "20",
+      "source_jp": "イベント情報",
+      "source_en": "Information",
+      "text": "Veranstaltungsinfos"
+    },
+    {
+      "key": "np_msg_title",
+      "read_index": "21",
+      "source_jp": "レスタニアニュース",
+      "source_en": "Lestania News",
+      "text": "Lestania-Nachrichten"
+    },
+    {
+      "key": "np_msg_guid_others",
+      "read_index": "22",
+      "source_jp": "他のイベント情報",
+      "source_en": "Other Event Information",
+      "text": "Weitere Veranstaltungen"
+    },
+    {
+      "key": "np_msg_state_partin",
+      "read_index": "23",
+      "source_jp": "参加中",
+      "source_en": "Participating",
+      "text": "Teilnahme läuft"
+    },
+    {
+      "key": "np_msg_state_nopartin",
+      "read_index": "24",
+      "source_jp": "参加受付中",
+      "source_en": "Accepting Participants",
+      "text": "Anmeldung offen"
+    },
+    {
+      "key": "np_msg_subtitle_event",
+      "read_index": "25",
+      "source_jp": "イベント情報",
+      "source_en": "Information",
+      "text": "Informationen"
+    },
+    {
+      "key": "np_msg_tab_ranking",
+      "read_index": "26",
+      "source_jp": "ランキング",
+      "source_en": "Ranking",
+      "text": "Rangliste"
+    },
+    {
+      "key": "np_msg_rab_reward",
+      "read_index": "27",
+      "source_jp": "報酬",
+      "source_en": "Reward",
+      "text": "Belohnung"
+    },
+    {
+      "key": "np_msg_ranking",
+      "read_index": "29",
+      "source_jp": "ランキング",
+      "source_en": "Ranking",
+      "text": "Rangliste"
+    },
+    {
+      "key": "np_msg_reward_boarder",
+      "read_index": "32",
+      "source_jp": "累計スコア報酬",
+      "source_en": "Total Score Rewards",
+      "text": "Belohnungen für Gesamtpunkte"
+    },
+    {
+      "key": "np_msg_reward_ranking",
+      "read_index": "33",
+      "source_jp": "ランキング報酬",
+      "source_en": "Ranking Reward",
+      "text": "Ranglistenbelohnung"
+    },
+    {
+      "key": "np_msg_rate_period",
+      "read_index": "35",
+      "source_jp": "<VAL>位～<VAL>位",
+      "source_en": "<VAL>th to <VAL>th",
+      "text": "Platz <VAL> bis <VAL>"
+    },
+    {
+      "key": "np_msg_noreward",
+      "read_index": "36",
+      "source_jp": "報酬なし",
+      "source_en": "No Reward",
+      "text": "Keine Belohnung"
+    },
+    {
+      "key": "np_msg_update",
+      "read_index": "37",
+      "source_jp": "集計日: <DATE>",
+      "source_en": "Scored: <DATE>",
+      "text": "Stand: <DATE>"
+    },
+    {
+      "key": "np_msg_starting",
+      "read_index": "38",
+      "source_jp": "開始直後",
+      "source_en": "Started",
+      "text": "Gerade gestartet"
+    },
+    {
+      "key": "np_msg_hoursago",
+      "read_index": "39",
+      "source_jp": "<VAL> 時間前",
+      "source_en": "<VAL> hours ago",
+      "text": "Vor <VAL> Std."
+    },
+    {
+      "key": "np_msg_term",
+      "read_index": "40",
+      "source_jp": "<DATE> - <DATE>",
+      "source_en": "<DATE> - <DATE>",
+      "text": "<DATE> bis <DATE>"
+    },
+    {
+      "key": "np_msg_pt_period",
+      "read_index": "41",
+      "source_jp": "<VAL>pt  - <VAL>pt",
+      "source_en": "<VAL>pt - <VAL>pt",
+      "text": "<VAL> bis <VAL> Pkt."
+    },
+    {
+      "key": "np_msg_icon_ending",
+      "read_index": "42",
+      "source_jp": "終了直前",
+      "source_en": "Ending",
+      "text": "Endet bald"
+    },
+    {
+      "key": "np_msg_noquickpt",
+      "read_index": "43",
+      "source_jp": "新聞クイックパーティは現在利用できません",
+      "source_en": "Newspaper Quick Party is currently unavailable.",
+      "text": "Die Gruppensuche über die Nachrichten ist derzeit gesperrt."
+    },
+    {
+      "key": "np_msg_mypoint",
+      "read_index": "44",
+      "source_jp": "スコア",
+      "source_en": "Score",
+      "text": "Punktestand"
+    },
+    {
+      "key": "np_msg_condition",
+      "read_index": "46",
+      "source_jp": "状況",
+      "source_en": "Conditions",
+      "text": "Voraussetzungen"
+    },
+    {
+      "key": "np_msg_period",
+      "read_index": "47",
+      "source_jp": "配信期間",
+      "source_en": "Event Time",
+      "text": "Zeitraum"
+    },
+    {
+      "key": "np_msg_period_start",
+      "read_index": "48",
+      "source_jp": "<DATE> から",
+      "source_en": "From <DATE>",
+      "text": "Ab <DATE>"
+    },
+    {
+      "key": "np_msg_period_end",
+      "read_index": "49",
+      "source_jp": "<DATE> まで",
+      "source_en": "until <DATE>",
+      "text": "bis <DATE>"
+    },
+    {
+      "key": "np_msg_rank",
+      "read_index": "50",
+      "source_jp": "位",
+      "source_en": "Rank",
+      "text": "Rang"
+    },
+    {
+      "key": "np_msg_abst",
+      "read_index": "51",
+      "source_jp": "概要",
+      "source_en": "Overview",
+      "text": "Übersicht"
+    },
+    {
+      "key": "np_msg_entry_point",
+      "read_index": "52",
+      "source_jp": "参加場所",
+      "source_en": "Entry Location",
+      "text": "Startort"
+    },
+    {
+      "key": "np_msg_reward_info",
+      "read_index": "53",
+      "source_jp": "ハイスコア報酬例",
+      "source_en": "High Score Example Rewards",
+      "text": "Beispielbelohnungen für hohe Punktzahlen"
+    },
+    {
+      "key": "np_msg_func_disable",
+      "read_index": "54",
+      "source_jp": "この機能は現在使用できません",
+      "source_en": "This function is currently unavailable",
+      "text": "Diese Funktion ist derzeit gesperrt."
+    },
+    {
+      "key": "np_msg_ability_reward",
+      "read_index": "55",
+      "source_jp": "アビリティ：",
+      "source_en": "Augment:",
+      "text": "Passive Fertigkeit:"
+    },
+    {
+      "key": "np_msg_total",
+      "read_index": "56",
+      "source_jp": "Total",
+      "source_en": "Total",
+      "text": "Gesamt"
+    },
+    {
+      "key": "np_msg_no_ranking",
+      "read_index": "57",
+      "source_jp": "現在ランキングは発表されていません",
+      "source_en": "Current rankings have not been published",
+      "text": "Die aktuelle Rangliste ist noch nicht veröffentlicht."
+    },
+    {
+      "key": "np_msg_no_quest",
+      "read_index": "58",
+      "source_jp": "現在クエストの配信はありません",
+      "source_en": "No quests are currently available.",
+      "text": "Derzeit sind keine Quests verfügbar."
+    },
+    {
+      "key": "np_msg_dailybonus",
+      "read_index": "59",
+      "source_jp": "■<COL ffdc78>《本日のパーティーボーナス》</COL>詳細\r\n＜ボーナス発生条件＞\r\n　・対象のワールドクエストを他のプレイヤーと\r\n　　パーティーを組んで<VAL>回クリア\r\n　　（ポーンとの混成パーティーＯＫ）\r\n＜ボーナス内容＞\r\n　・クエスト報酬（XP/G/R/AP）にボーナス倍率\r\n　・レベルや進行度の差による報酬ペナルティ無効\r\n　※対象クエストはデイリーで変化します\r\n　※各クエストの受注画面、ログの報酬欄にて\r\n　　ボーナス詳細が確認できます",
+      "source_en": "<COL ffdc78>\"Today's Party Bonus\"</COL> Details\r\n[Bonus Activation Conditions]\r\n\r\nClear the specified world quest <VAL> times\r\nin a party with other players.\r\n(Mixed parties with Pawns are OK)\r\n\r\n[Bonus Contents]\r\nBonus multiplier to quest rewards (XP/G/R/AP)\r\n\r\nReward penalty from level or progress \r\ndifferences is ignored.\r\n*Eligible quests change daily\r\n*You can check bonus details on the quest \r\nacceptance screen or in the rewards log",
+      "text": "<COL ffdc78>Heutiger Gruppenbonus</COL>\r\n[Voraussetzungen]\r\nSchließe die angegebene Weltquest\r\n<VAL>-mal mit anderen Spielern ab.\r\nVasallen dürfen die Gruppe ergänzen.\r\n\r\n[Bonus]\r\nMehr XP, Gold, Riftkristalle und AP.\r\nKeine Abzüge durch Stufenunterschiede\r\noder unterschiedlichen Questfortschritt.\r\nDie Quest wechselt täglich. Details stehen\r\nbei der Annahme und im Belohnungslog."
+    },
+    {
+      "key": "np_msg_dailybonus_bo",
+      "read_index": "60",
+      "source_jp": "■<COL ffdc78>《本日のパーティーボーナス》</COL>詳細\r\n＜ボーナス発生条件＞\r\n　・対象のワールドクエストを他のプレイヤーと\r\n　　パーティーを組んで<VAL>回クリア\r\n　　（ポーンとの混成パーティーＯＫ）\r\n＜ボーナス内容＞\r\n　<COL ffdc78>★本日は《ブラッドオーブ</COL><VAL BO><COL ffdc78>》追加！</COL>\r\n　・クエスト報酬（XP/G/R/AP）にボーナス倍率\r\n　・レベルや進行度の差による報酬ペナルティ無効\r\n　※対象クエストはデイリーで変化します\r\n　※各クエストの受注画面、ログの報酬欄にて\r\n　　ボーナス詳細が確認できます",
+      "source_en": "<COL ffdc78>\"Today's Party Bonus\"</COL> Details\r\n[Bonus Activation Conditions]\r\n\r\nClear the specified world quest <VAL> times\r\nin a party with other players\r\n(Mixed parties with Pawns are OK)\r\n\r\n[Bonus Contents]\r\nBonus multiplier to quest rewards (XP/G/R/AP)\r\n\r\nReward penalty from level or progress differences is ignored\r\n*Eligible quests change daily\r\n*You can check bonus details\r\non the quest acceptance screen or in the rewards log",
+      "text": "<COL ffdc78>Heutiger Gruppenbonus</COL>\r\n[Voraussetzungen]\r\nSchließe die angegebene Weltquest\r\n<VAL>-mal mit anderen Spielern ab.\r\nVasallen dürfen die Gruppe ergänzen.\r\n\r\n[Bonus]\r\n<COL ffdc78>Heute zusätzlich: </COL><VAL BO><COL ffdc78> Blutkugeln</COL>\r\nMehr XP, Gold, Riftkristalle und AP.\r\nKeine Abzüge durch Stufenunterschiede\r\noder unterschiedlichen Questfortschritt.\r\nDie Quest wechselt täglich. Details stehen\r\nbei der Annahme und im Belohnungslog.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "np_msg_guide_partybonus",
+      "read_index": "61",
+      "source_jp": "パーティーボーナス情報",
+      "source_en": "Party Bonus Information",
+      "text": "Infos zum Gruppenbonus"
+    },
+    {
+      "key": "np_msg_just",
+      "read_index": "62",
+      "source_jp": "適正",
+      "source_en": "Suitable",
+      "text": "Passend"
+    },
+    {
+      "key": "np_msg_pt_period_more",
+      "read_index": "63",
+      "source_jp": "<VAL>pt 以上",
+      "source_en": "<VAL>pt or more",
+      "text": "Ab <VAL> Pkt."
+    },
+    {
+      "key": "np_msg_state_preparation",
+      "read_index": "64",
+      "source_jp": "開戦準備中",
+      "source_en": "Preparing",
+      "text": "In Vorbereitung"
+    },
+    {
+      "key": "np_msg_state_ranking",
+      "read_index": "65",
+      "source_jp": "戦果分析中",
+      "source_en": "Veteran Analysis",
+      "text": "Auswertung läuft"
+    },
+    {
+      "key": "np_msg_state_receiving",
+      "read_index": "66",
+      "source_jp": "報酬配分中",
+      "source_en": "Reward Claim",
+      "text": "Belohnungen abholen"
+    },
+    {
+      "key": "np_msg_no_gm",
+      "read_index": "68",
+      "source_jp": "現在開催されていません",
+      "source_en": "Not currently being held",
+      "text": "Derzeit läuft keine Mission."
+    },
+    {
+      "key": "np_msg_event_select",
+      "read_index": "69",
+      "source_jp": "Event Select",
+      "source_en": "Event Select",
+      "text": "Veranstaltung wählen"
+    },
+    {
+      "key": "np_msg_andmore",
+      "read_index": "70",
+      "source_jp": "and more...",
+      "source_en": "and more...",
+      "text": "und mehr ..."
+    },
+    {
+      "key": "np_msg_order_info",
+      "read_index": "71",
+      "source_jp": "受注条件情報",
+      "source_en": "Accept Conditions",
+      "text": "Annahmebedingungen"
+    },
+    {
+      "key": "np_msg_header_gm",
+      "read_index": "72",
+      "source_jp": "Grand Mission",
+      "source_en": "Grand Mission",
+      "text": "Großmission"
+    },
+    {
+      "key": "np_msg_header_wm",
+      "read_index": "73",
+      "source_jp": "War Mission",
+      "source_en": "War Mission",
+      "text": "Kriegsmission"
+    },
+    {
+      "key": "np_msg_dp_info_title",
+      "read_index": "74",
+      "source_jp": "ポイント獲得状況",
+      "source_en": "Point Acquisition Status",
+      "text": "Punkteübersicht"
+    },
+    {
+      "key": "np_msg_dp_info_name_acc",
+      "read_index": "76",
+      "source_jp": "ウォーミッション累積ポイント",
+      "source_en": "War Mission Accumulated Points",
+      "text": "Gesamtpunkte der Kriegsmission"
+    },
+    {
+      "key": "np_msg_dp_info_att_cap",
+      "read_index": "77",
+      "source_jp": "注意事項",
+      "source_en": "Important Note",
+      "text": "Wichtiger Hinweis"
+    },
+    {
+      "key": "np_msg_dp_info_att_inf",
+      "read_index": "78",
+      "source_jp": "<UNTN DP>、ウォーミッション累積ポイントは\r\n次回のコンテンツ開催時にリセットされます",
+      "source_en": "<UNTN DP>, War Mission accumulated points will be\r\nreset at the time of the next scheduled content\r\nevent.",
+      "text": "<UNTN DP> und Kriegsmissionspunkte werden\r\nzu Beginn der nächsten Veranstaltung\r\nzurückgesetzt."
+    },
+    {
+      "key": "np_msg_state_receiving_wm",
+      "read_index": "79",
+      "source_jp": "ランキング確定",
+      "source_en": "Fixed ranking",
+      "text": "Rangliste steht fest"
+    },
+    {
+      "key": "np_msg_wm_limited_condition_open",
+      "read_index": "80",
+      "source_jp": "期間限定開催！",
+      "source_en": "Held for a limited period of time!",
+      "text": "Nur für kurze Zeit verfügbar!"
+    },
+    {
+      "key": "np_msg_mypoint_wm",
+      "read_index": "81",
+      "source_jp": "ウォーミッション累積<UNIT PT>",
+      "source_en": "Cumulative War Mission <UNIT PT>",
+      "text": "Kriegsmission gesamt: <UNIT PT>"
+    },
+    {
+      "key": "np_msg_period_01",
+      "read_index": "82",
+      "source_jp": "本作戦進行期間",
+      "source_en": "Main Operation Progress Period",
+      "text": "Einsatzzeitraum"
+    },
+    {
+      "key": "np_msg_period_02",
+      "read_index": "83",
+      "source_jp": "戦果分析期間",
+      "source_en": "Battle Results Analysis Period",
+      "text": "Auswertungszeitraum"
+    },
+    {
+      "key": "np_msg_period_03",
+      "read_index": "84",
+      "source_jp": "報酬配分期間",
+      "source_en": "Reward Distribution Period",
+      "text": "Zeitraum für Belohnungen"
+    },
+    {
+      "key": "np_msg_wm_limited_multi_open",
+      "read_index": "85",
+      "source_jp": "詳しくはコンテンツ窓口を確認してください",
+      "source_en": "Please check the Contents window for more details.",
+      "text": "Weitere Details stehen im Inhaltsfenster."
+    }
+  ]
+}

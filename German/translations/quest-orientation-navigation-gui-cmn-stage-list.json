@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Shared map controls, area information and Rift transport",
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_76",
+      "read_index": "73",
+      "source_jp": "亡都メルゴダ　下層",
+      "source_en": "Mergoda Ruins: Lower Level",
+      "text": "Ruinen von Mergoda: Unterebene"
+    },
+    {
+      "key": "STAGE_NAME_84",
+      "read_index": "81",
+      "source_jp": "亡都メルゴダ　王宮層",
+      "source_en": "Mergoda Ruins: Royal Palace Level",
+      "text": "Ruinen von Mergoda: Palastebene"
+    },
+    {
+      "key": "STAGE_NAME_288",
+      "read_index": "243",
+      "source_jp": "亡都メルゴダ　王宮層",
+      "source_en": "Mergoda Ruins: Royal Palace Level",
+      "text": "Ruinen von Mergoda: Palastebene"
+    },
+    {
+      "key": "STAGE_NAME_602",
+      "read_index": "475",
+      "source_jp": "黒呪の迷宮：入り江",
+      "source_en": "Bitterblack Maze Cove",
+      "text": "Bucht am Bitterblack-Labyrinth"
+    }
+  ]
+}

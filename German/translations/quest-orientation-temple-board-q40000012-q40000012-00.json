@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "White Dragon Temple board quest templates and rotating targets from the first client test",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000012_00.gmd",
+  "arc_path": "\\quest\\q40000012.arc",
+  "entries": [
+    {
+      "key": "q40000012_00_12",
+      "read_index": "0",
+      "source_jp": "クラフトルーム備品補充のお願い",
+      "source_en": "For the Crafting Room",
+      "text": "Nachschub für die Werkstatt"
+    },
+    {
+      "key": "q40000012_00_12",
+      "read_index": "1",
+      "source_jp": "クラフトルームの備品素材、<LQIM>が現在不足しているのです\r\nどなたか、<LQVA>個の手配をお願いできますでしょうか\r\nどうかよろしくお願いします",
+      "source_en": "The Craft Room is currently short on supply\r\nof <LQIM>.\r\nCould someone please arrange <LQVA> pieces?\r\nYour assistance would be greatly appreciated.",
+      "text": "In der Werkstatt fehlt uns <LQIM>.\r\nKönnte jemand <LQVA> Stück beschaffen?\r\nFür Eure Hilfe wären wir sehr dankbar."
+    }
+  ]
+}
