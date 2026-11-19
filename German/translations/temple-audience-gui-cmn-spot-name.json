@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Arrival at the temple and the audience quest",
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_534",
+      "read_index": "84",
+      "source_jp": "中央広場",
+      "source_en": "Central Plaza",
+      "text": "Zentralplatz"
+    },
+    {
+      "key": "SPOT_NAME_535",
+      "read_index": "85",
+      "source_jp": "商店区",
+      "source_en": "Shopping District",
+      "text": "Händlerviertel"
+    },
+    {
+      "key": "SPOT_NAME_536",
+      "read_index": "86",
+      "source_jp": "宿場区",
+      "source_en": "Relay Station",
+      "text": "Herbergsviertel"
+    },
+    {
+      "key": "SPOT_NAME_537",
+      "read_index": "87",
+      "source_jp": "クラフトルーム",
+      "source_en": "Craft Room",
+      "text": "Werkstatt"
+    },
+    {
+      "key": "SPOT_NAME_538",
+      "read_index": "88",
+      "source_jp": "港洞",
+      "source_en": "Cave Harbor",
+      "text": "Höhlenhafen"
+    },
+    {
+      "key": "SPOT_NAME_578",
+      "read_index": "128",
+      "source_jp": "謁見の間",
+      "source_en": "Audience Chamber",
+      "text": "Audienzsaal"
+    }
+  ]
+}

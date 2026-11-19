@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Arrival at the temple and the audience quest",
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_3",
+      "read_index": "2",
+      "source_jp": "謁見の間",
+      "source_en": "Audience Chamber",
+      "text": "Audienzsaal"
+    },
+    {
+      "key": "STAGE_NAME_5",
+      "read_index": "4",
+      "source_jp": "港洞",
+      "source_en": "Cave Harbor",
+      "text": "Höhlenhafen"
+    }
+  ]
+}

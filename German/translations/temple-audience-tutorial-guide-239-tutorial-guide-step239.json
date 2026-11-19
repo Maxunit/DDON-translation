@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Arrival at the temple and the audience quest",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step239.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_239.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_381",
+      "read_index": "0",
+      "source_jp": "これらのゲーム説明は【<KC UI_GAME_MENU>】ゲームメニュー\r\n《ワールド》の<COL ffdc78>《チュートリアルガイド》</COL>から\r\n再確認できます\r\nカテゴリー別にゲームの各種情報が\r\nいつでも見られますので\r\n迷った時はまず目を通してみましょう",
+      "source_en": "This game info can be found again in the [<KC UI_GAME_MENU>]\r\nGame Menu,in the <COL ffdc78>Tutorial Guide</COL>\r\nunder World.\r\nGame info is categorized and viewable anytime.\r\nIf you get stuck, start by checking there!",
+      "text": "Öffne mit [<KC UI_GAME_MENU>] das Spielmenü.\r\nUnter World findest du die <COL ffdc78>Tutorialübersicht</COL>.\r\nDort kannst du die Einführungen jederzeit\r\nnach Themen geordnet nachlesen."
+    }
+  ]
+}

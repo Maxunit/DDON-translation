@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Arrival at the temple and the audience quest",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\tutorial_guide.gmd",
+  "arc_path": "\\tutorial_guide.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_8",
+      "read_index": "0",
+      "source_jp": "メインクエスト",
+      "source_en": "Main Quests",
+      "text": "Hauptquests"
+    },
+    {
+      "key": "TUTORIAL_35",
+      "read_index": "7",
+      "source_jp": "白竜神殿レーゼ",
+      "source_en": "The White Dragon Temple",
+      "text": "Tempel des Weißen Drachen"
+    },
+    {
+      "key": "TUTORIAL_46",
+      "read_index": "14",
+      "source_jp": "チャットログ",
+      "source_en": "Chat Log",
+      "text": "Chatprotokoll"
+    },
+    {
+      "key": "TUTORIAL_239",
+      "read_index": "116",
+      "source_jp": "チュートリアルガイド",
+      "source_en": "Tutorial Guide",
+      "text": "Tutorialübersicht"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "scope": "Arrival at the temple and the audience quest",
+  "gmd_path": "ui\\00_message\\event\\st0200\\ev000.gmd",
+  "arc_path": "\\event\\st0200\\st0200ev000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "よう、砦はどうだった？",
+      "source_en": "Yo, how was the fort?",
+      "text": "He, wie lief's in der Festung?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "まあ、レオたちも戻っているわけだから\r\nなんとかなったんだろうな",
+      "source_en": "Well, Leo and the others have returned,\r\nso things must've have worked out.",
+      "text": "Leo und die anderen sind zurück.\r\nEs muss also gut ausgegangen sein."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "さて――俺の名はファビオだ",
+      "source_en": "Well then...the names Fabio.",
+      "text": "Ach ja, ich bin Fabio."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "ここに立って、初陣を生きのびた覚者に\r\n声をかけている",
+      "source_en": "I stand here, calling out to the newly Arisen who have\r\nsurvived their first battle, and offer guidance",
+      "text": "Ich helfe Erweckten, die aus ihrer\r\nersten Schlacht zurückkehren."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "ほら、あそこ――白竜が眠る《謁見の間》だ",
+      "source_en": "Look, over there... The Audience Chamber where the\r\nWhite Dragon slumbers.",
+      "text": "Sieh mal da drüben. Das ist der Audienzsaal.\r\nDort schläft der Weiße Drache."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "外から戻ったらまずあそこへ\r\n顔を出した方がいい",
+      "source_en": "Before leaving on your travels, it would be wise\r\nto first make an appearance there.",
+      "text": "Wenn du von draußen zurückkommst,\r\nschau am besten zuerst dort vorbei."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "source_jp": "行かなくてもいいが、行った方がいいぞ",
+      "source_en": "You don't have to go, but it would be better if you did.",
+      "text": "Du musst nicht hin, aber ich rate es dir."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "source_jp": "《謁見の間》の雰囲気は独特だからな\r\n時々行っておかないと顔を出しづらくなる",
+      "source_en": "The Audience Chamber has quite the atmosphere,\r\nso it's easy to get uneasy if you haven't\r\nbeen there in awhile.",
+      "text": "Die Stimmung dort ist eigen. Wenn du lange\r\nwegbleibst, fällt es schwer, wieder hinzugehen."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "source_jp": "――この俺みたいによ",
+      "source_en": "... Just like I haven't.",
+      "text": "Mir geht's jedenfalls so."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "source_jp": "じゃあ、行ってこい\r\nまた、あとでな",
+      "source_en": "Well, off you go.\r\nI'll see you later, I'm sure.",
+      "text": "Also los, geh schon. Wir sehen uns später."
+    }
+  ]
+}

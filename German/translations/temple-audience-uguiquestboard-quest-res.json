@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Arrival at the temple and the audience quest",
+  "gmd_path": "ui\\00_message\\ui\\Quest_res.gmd",
+  "arc_path": "\\ui\\uGUIQuestBoard.arc",
+  "entries": [
+    {
+      "key": "QUEST_MSG_TITLE01",
+      "read_index": "11",
+      "source_jp": "Quest Log",
+      "source_en": "Quest Log",
+      "text": "Questlog"
+    },
+    {
+      "key": "QUEST_MSG_TITLE02",
+      "read_index": "12",
+      "source_jp": "クエストログ",
+      "source_en": "Quest Log",
+      "text": "Questlog"
+    }
+  ]
+}

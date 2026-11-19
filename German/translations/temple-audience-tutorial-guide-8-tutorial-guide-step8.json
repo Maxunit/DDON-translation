@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Arrival at the temple and the audience quest",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step8.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_8.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_6",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《メインクエスト》</COL>は\r\n覚者としてあなたが紡ぐ、この地レスタニアと\r\nそこで生きる人々の物語を体験するクエストです",
+      "source_en": "The <COL ffdc78>Main Quest</COL> is an adventure where you, the\r\nArisen, will experience the story of the land of\r\nLestania and the people living here.",
+      "text": "In den <COL ffdc78>Hauptquests</COL> erlebst du als\r\nErweckter die Geschichte von Lestania und\r\nden Menschen, die hier leben."
+    },
+    {
+      "key": "TUTORIAL_STEP_34",
+      "read_index": "1",
+      "source_jp": "進行中のクエスト詳細は、いつでも【<KC UI_GAME_MENU>】\r\nゲームメニュー《クエスト》の<COL ffdc78>《クエストログ》</COL>\r\nで見ることができます\r\n概要、現在の目的、成功報酬などを\r\n知りたい場合はここで確認しましょう",
+      "source_en": "The <KC UI_GAME_MENU> <COL ffdc78>Game Menu</COL>\r\nwill show you details about quests in progress\r\nin the <COL ffdc78>Quest Log</COL> under <COL ffdc78>Quest</COL>.\r\nIf you want to see the quest summary, current\r\nobjective, completion reward, etc.,\r\nyou can view it here.",
+      "text": "Öffne mit [<KC UI_GAME_MENU>] das <COL ffdc78>Spielmenü</COL>.\r\nIm <COL ffdc78>Questlog</COL> findest du alle <COL ffdc78>laufenden Quests</COL>\r\nmit Beschreibung, Ziel und Belohnung."
+    },
+    {
+      "key": "TUTORIAL_STEP_195",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>メインクエストで指定の魔物討伐が目的の\r\n場合、対象敵はミニマップに赤の丸で示されます</COL>\r\nまた過去のクエスト経緯は\r\n《謁見の間》にいる神官ジョゼフが\r\n報告書形式で管理しています\r\nこれまでの出来事を振り返りたい場合は\r\n彼を訪ねましょう",
+      "source_en": "<COL ffdc78>When the Main Quest's objective is to defeat\r\nmonsters, the target enemies will be marked on\r\nthe minimap with a red circle.</COL>\r\nAlso, a history of previous quests is available\r\nfrom Master Joseph in the\r\n<COL ffdc78>Audience Room.</COL>\r\nIf you wish to look back upon your previous\r\nexploits, give him a visit.",
+      "text": "<COL ffdc78>Bei Jagdzielen der Hauptquest siehst du\r\ndie Gegner als rote Kreise auf der Minikarte.</COL>\r\nJoseph sammelt Berichte über frühere Quests.\r\nBesuche ihn im <COL ffdc78>Audienzsaal</COL>, um nachzulesen,\r\nwas bisher geschehen ist."
+    }
+  ]
+}

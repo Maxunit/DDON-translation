@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Arrival at the temple and the audience quest",
+  "gmd_path": "ui\\00_message\\quest_info\\q00000002_00.gmd",
+  "arc_path": "\\quest\\q00000002.arc",
+  "entries": [
+    {
+      "key": "q00000002_00_3",
+      "read_index": "0",
+      "source_jp": "横たわる神",
+      "source_en": "The Slumbering God",
+      "text": "Der schlummernde Gott"
+    },
+    {
+      "key": "q00000002_00_3",
+      "read_index": "1",
+      "source_jp": "謁見の間に集まった主要人物らと話し\r\n覚者としての立場と使命を理解する",
+      "source_en": "Talk to the important people in the Audience Chamber.\r\nLearn about your position and mission as an Arisen.",
+      "text": "Sprich im Audienzsaal mit den Anwesenden.\r\nErfahre, was es heißt, erweckt zu sein,\r\nund welche Aufgabe dich erwartet."
+    },
+    {
+      "key": "q00000002_00_954",
+      "read_index": "2",
+      "source_jp": "謁見の間へ向かいレオと話す",
+      "source_en": "Find Leo in the Audience Chamber",
+      "text": "Geh zum Audienzsaal und sprich mit Leo"
+    },
+    {
+      "key": "q00000002_00_955",
+      "read_index": "3",
+      "source_jp": "レオとミシアルに話す",
+      "source_en": "Speak with Leo and Mysial",
+      "text": "Sprich mit Leo und Mysial"
+    },
+    {
+      "key": "q00000002_00_1494",
+      "read_index": "4",
+      "source_jp": "白竜に話しかける",
+      "source_en": "Speak with the White Dragon",
+      "text": "Sprich mit dem Weißen Drachen"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "scope": "Arrival at the temple and the audience quest",
+  "gmd_path": "ui\\00_message\\event\\st0201\\ev000.gmd",
+  "arc_path": "\\event\\st0201\\st0201ev000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "ここにいる顔ぶれを覚えておけ\r\nレスタニアを動かす重要人物たちだ",
+      "source_en": "Remember that these are faces of the people who\r\nare key to keeping Lestania running.",
+      "text": "Merk dir diese Gesichter.\r\nDiese Leute lenken Lestanias Geschicke."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "《レオ――白翼覚者統率》",
+      "source_en": "Leo - Leader of the White Winged Arisen.",
+      "text": "Leo, Anführer der Erweckten des Weißen Flügels"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "《イリス――白翼覚者》",
+      "source_en": "Iris - Member of the White Winged Arisen",
+      "text": "Iris, Erweckte des Weißen Flügels"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "《ミシアル――巫女》",
+      "source_en": "Mysial - Priestess",
+      "text": "Mysial, Priesterin"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "《ジョゼフ――神官》",
+      "source_en": "Joseph - Priest",
+      "text": "Joseph, Priester"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "《クラウス――神官助手》",
+      "source_en": "Klaus - Priest's Assistant",
+      "text": "Klaus, Assistent des Priesters"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "source_jp": "《ゲルト――白衛騎士団長》",
+      "source_en": "Gerd - Captain of the White Guard Knights",
+      "text": "Gerd, Hauptmann der Weißen Garde"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "source_jp": "レオ、自分で言うかなぁ",
+      "source_en": "Leo, awful bold to say that about yourself, no?",
+      "text": "Leo, das sagst du über dich selbst?"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "source_jp": "イリス――\r\n自覚もなく俺の右腕でいられると思うな",
+      "source_en": "Iris...\r\nYou can't call yourself my right hand without\r\nhaving realized that, can you?",
+      "text": "Iris ... Als meine rechte Hand solltest du\r\nwissen, welche Verantwortung du trägst."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "source_jp": "地位が欲しくて\r\nここにいるわけじゃあないんだけど？",
+      "source_en": "I'm not here because I'm looking for status, you know?",
+      "text": "Ich bin doch nicht um eines Titels willen hier."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "source_jp": "さあさあ、揉め事は外でな\r\nオークどもを巻き添えにしてやるがいい",
+      "source_en": "Now, now, you can settle this outside.\r\nFeel free to involve the orcs as well.",
+      "text": "Tragt euren Streit draußen aus.\r\nNehmt euch ruhig ein paar Orks dazu."
+    }
+  ]
+}

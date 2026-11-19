@@ -1,0 +1,680 @@
+{
+  "schema_version": 1,
+  "scope": "Arrival at the temple and the audience quest",
+  "gmd_path": "ui\\00_message\\quest\\q00000002.gmd",
+  "arc_path": "\\quest\\q00000002.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "【ヒント：新たなメインクエストについて】\r\n新たな<COL ff7575>メインクエスト＜和解の使者＞</COL>が受注可能になりました\r\n謁見の間にいるレオに話しかけて受注しましょう",
+      "source_en": "[Tip: About New Main Quests]\r\nNew <COL ff7575>Main Quest (Envoy of Reconciliation)</COL>\r\nGain new orders by speaking to Leo, who is in\r\nthe Audience Chamber.",
+      "text": "[Hinweis zu neuen Hauptquests]\r\nDie <COL ff7575>Hauptquest Gesandter der Versöhnung</COL>\r\nist verfügbar. Sprich mit Leo im Audienzsaal,\r\num die Quest anzunehmen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "まず《謁見の間》へ行くこと\r\nそのあとでまた会おう\r\n少し話そうぜ",
+      "source_en": "First, go to the Audience Chamber. \r\nWe'll talk again after that.",
+      "text": "Geh erst mal zum Audienzsaal.\r\nDanach sehen wir uns wieder und reden."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "画面右上のミニマップを見て、赤いマーカーが示す\r\n《謁見の間》へ向かいましょう",
+      "source_en": "Look at the minimap on the top-right of\r\nthe screen, and head for the \"Audience Chamber\"\r\nindicated by the red marker.",
+      "text": "Sieh auf die Minikarte oben rechts.\r\nDer rote Marker führt dich zum Audienzsaal."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "マップを拡大すると見やすくなります",
+      "source_en": "Expanding the map out makes it easier\r\nto see everything.",
+      "text": "Auf einer größeren Minikarte erkennst du mehr."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "【ヒント：ミニマップのサイズ変更】",
+      "source_en": "[Tip: Resizing the Minimap]",
+      "text": "[Hinweis zur Größe der Minikarte]"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "<COL ff7575><KCT UI_MINIMAP>を押しながら<KCT UI_MINIMAP_SCALING></COL>でサイズ変更",
+      "source_en": "<COL ff7575>While holding <KCT UI_MINIMAP>, change minmap\r\nsize by pressing <KCT UI_MINIMAP_SCALING></COL>",
+      "text": "<COL ff7575>Halte <KCT UI_MINIMAP> und drücke\r\n<KCT UI_MINIMAP_SCALING>, um die Größe zu ändern.</COL>"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "source_jp": "ついてきな――謁見の間の前まで案内してやるよ",
+      "source_en": "Follow me. I'll show you to\r\nthe Audience Chamber.",
+      "text": "Komm mit. Ich bring dich zum Audienzsaal."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "source_jp": "この神殿は白竜の守護のもと――神官によって統治されてるんだ",
+      "source_en": "This temple is under the protection\r\nof the White Dragon, and governed by the\r\nclergy.",
+      "text": "Der Weiße Drache beschützt diesen Tempel.\r\nDie Priester leiten ihn."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "source_jp": "砦戦はどうだった？レオとイリスに相当いわれたようだな",
+      "source_en": "How fared the battle?\r\nLeo and Iris seem to think it went fairly well.",
+      "text": "Wie lief es in der Festung?\r\nLeo und Iris haben dir wohl einiges erzählt."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "source_jp": "一人前の覚者になるためには――まだまだ戦い方を知る必要があるぜ",
+      "source_en": "In order to become an Arisen, you\r\nstill need to know how to fight properly.",
+      "text": "Bis du dich in jedem Kampf behaupten kannst,\r\nmusst du als Erweckter noch viel lernen."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "source_jp": "今のジョブが自分に合ってないと思うなら<COL ff7575>いつでも他のジョブに転職</COL>も可能だ",
+      "source_en": "If you feel your current vocation\r\ndoes not suit you, <COL ff7575> it is possible to change\r\nto another vocation at any time.</COL>",
+      "text": "Falls deine Klasse dir nicht liegt,\r\n<COL ff7575>kannst du jederzeit die Klasse wechseln.</COL>"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "source_jp": "<COL ff7575>装備を強くしたりスキルの使い方</COL>などいろいろ教える事があるが――まずは白竜に挨拶が先だ",
+      "source_en": "There are many things to be taught,\r\nsuch as <COL ff7575>enhancing equipment and properly\r\nutilizing skills.</COL>\r\nBefore that however, it is time to greet \r\nthe White Dragon.",
+      "text": "Ich kann dir noch einiges beibringen, etwa\r\n<COL ff7575>wie du Ausrüstung verbesserst und\r\nFertigkeiten einsetzt.</COL>\r\nBegrüßen wir aber erst den Weißen Drachen."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "source_jp": "<COL ff7575>他の覚者と一緒に冒険に出る</COL>――これもお前がもう少し一人前になってからだ",
+      "source_en": "<COL ff7575>Go out and adventure with other\r\nArisen</COL>, even if you feel you can handle\r\nthings on your own.",
+      "text": "<COL ff7575>Mit anderen Erweckten ziehst du ins Abenteuer</COL>,\r\nsobald du etwas mehr Erfahrung hast."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "source_jp": "あと自分の容姿が気に入らないようなら<COL ff7575>＜商店区＞にある美容院</COL>にいくといいぜ",
+      "source_en": "If you're unsatisfied with your\r\nappearance, seek out the hairdresser\r\n<COL ff7575>located in the Shopping District's \r\nbeauty salon.</COL>",
+      "text": "Wenn dir dein Aussehen nicht gefällt,\r\ngeh zum <COL ff7575>Schönheitssalon im Händlerviertel.</COL>"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "source_jp": "ついたぞ――この先が謁見の間だ",
+      "source_en": "We've arrived. Beyond this\r\npoint lies the Audience Chamber.",
+      "text": "Da sind wir. Dahinter liegt der Audienzsaal."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "source_jp": "今さら自己紹介でもないが\r\n俺は覚者の統率――まとめ役のレオだ",
+      "source_en": "Albeit a bit late for an introduction,\r\nI am Leo, leader of the Arisen.",
+      "text": "Für eine Vorstellung ist es wohl etwas spät.\r\nIch bin Leo und führe die Erweckten an."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "source_jp": "俺が重要だと考えている\r\n覚者の務めは、ふたつ",
+      "source_en": "I would like to think myself important,\r\nas are the duties of the Arisen.",
+      "text": "Für mich haben wir Erweckten zwei\r\nAufgaben, auf die es ankommt."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "source_jp": "ひとつは――\r\n石化した白竜の回復を助け\r\n完全なる復活への後押しをすること",
+      "source_en": "First of which, is to reverse the petrification of\r\nthe White Dragon, and strive towards its complete\r\nrevival.",
+      "text": "Erstens müssen wir dem Weißen Drachen helfen,\r\ndie Versteinerung zu überwinden und wieder\r\nvollständig zu Kräften zu kommen."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "source_jp": "心臓を捧げた俺たちと\r\nその心臓を預かる白竜は一心同体だ",
+      "source_en": "We who dedicated our hearts, and the\r\nWhite Dragon whom safeguards the heart,\r\nare all of one mind.",
+      "text": "Wir haben ihm unsere Herzen anvertraut.\r\nEr behütet sie, und so sind wir mit ihm eins."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "source_jp": "白竜が力を取り戻せば、俺たち覚者の\r\n力も増す――もちろん、その逆もしかり",
+      "source_en": "If the White Dragon regains their strength, so\r\ntoo shall our strength increase, and of\r\ncourse, the reverse is also true.",
+      "text": "Wenn der Weiße Drache wieder stärker wird,\r\nwächst auch unsere Kraft.\r\nUmgekehrt gilt das genauso."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "source_jp": "加えて――\r\n白竜はこのレスタニアの大地とも\r\n深くつながっている",
+      "source_en": "Additionally, the White Dragon is also deeply\r\nconnected to this land of Lestania.",
+      "text": "Der Weiße Drache ist auch mit dem Land\r\nLestania tief verbunden."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "source_jp": "つまり、レスタニアと、人々の未来は\r\n我々の双肩にかかっているというわけだ",
+      "source_en": "In other words, Lestania and the people's\r\nfuture, rests upon our shoulders.",
+      "text": "Damit liegt die Zukunft Lestanias und\r\nseiner Menschen auf unseren Schultern."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "source_jp": "もうひとつの務めは\r\n白竜の砦となり、盾として戦うこと",
+      "source_en": "Another duty of ours is to become a bulwark of\r\nthe White Dragon, to fight as their shield.",
+      "text": "Zweitens müssen wir ihn beschützen.\r\nWir kämpfen für ihn als Schild und Bollwerk."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "source_jp": "このところ、オークどもの勢いが増している\r\n防衛隊はあちこちの小競り合いで敗走を重ね\r\nグリッテン砦への侵入まで許してしまった",
+      "source_en": "Recently, the Orc's offensive momentum has\r\nincreased, and the Defense Corps have been\r\nrepeatedly driven to defeat in skirmishes against\r\nthem. We've allowed this to continue, that is,\r\nuntil the invasion of Fort Gritten.",
+      "text": "Die Orks werden immer dreister.\r\nUnsere Verteidiger haben ein Gefecht nach\r\ndem anderen verloren. Schließlich haben die\r\nOrks es bis in die Festung Gritten geschafft."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "source_jp": "このきびしい季節の到来に合わせるように\r\n覚者になった意味を考えてくれ\r\nそうすれば、生き方が見えてくるだろう",
+      "source_en": "As this harsh season arrives,\r\nconsider the meaning of becoming an Arisen.\r\nThen, you'll see a way to live.",
+      "text": "Gerade in diesen schweren Zeiten solltest du\r\ndarüber nachdenken, was es bedeutet, erweckt\r\nzu sein. Dann findest du deinen eigenen Weg."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "source_jp": "もちろん、苦難に背を向ける生き方もある\r\nだが、おまえは誇り高き道を選ぶ――",
+      "source_en": "Of course, there are ways to live that keep one\r\naway from suffering, but you chose to\r\nlive proudly...",
+      "text": "Du könntest all dem Leid den Rücken kehren.\r\nAber du wirst den ehrenhaften Weg wählen."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "source_jp": "ああ、俺の目にくるいはない",
+      "source_en": "Yes... I can see it clearly.",
+      "text": "Ja. Da täusche ich mich in dir nicht."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "source_jp": "（白竜は半ば石になっている――）",
+      "source_en": "(The White Dragon is partially turned to stone--)",
+      "text": "(Der Weiße Drache ist halb versteinert.)"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "source_jp": "グリッテン砦からのお帰りですね？\r\n初陣、お疲れさまでした",
+      "source_en": "I see you are back from Fort Gritten?\r\nGood job on your first mission!",
+      "text": "Du kommst aus der Festung Gritten zurück?\r\nDeine erste Schlacht liegt hinter dir. Gut gemacht."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "source_jp": "ここであらためてお話ししたいことがあります",
+      "source_en": "There is something I would like to \r\ndiscuss.",
+      "text": "Ich möchte hier noch einmal mit dir reden."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "source_jp": "白竜様がここにいらっしゃる経緯と\r\n現在の状況は知っていますね？",
+      "source_en": "Do you know the background and current situation \r\nof Lord White Dragon being here?",
+      "text": "Du weißt, wie der Weiße Drache hierherkam\r\nund wie es um ihn steht?"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "source_jp": "白竜様は３００年前に竜力の大部分を使い果たし\r\n残されていたのは\r\nあなたたち覚者を生み出す力だけでした",
+      "source_en": "Lord White Dragon exhausted the majority of his \r\nDragon Force 300 years ago. \r\n\r\nWhat remained was only \r\nthe power to create you Arisen.",
+      "text": "Vor 300 Jahren hat der Weiße Drache den\r\nGroßteil seiner Drachenkraft verbraucht.\r\nIhm blieb nur die Macht, Erweckte zu erschaffen."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "source_jp": "白竜様は最後の力を振り絞って\r\n幾人もの――異例なことですが――幾人もの\r\n覚者を誕生させたのです",
+      "source_en": "Lord White Dragon exerted his last \r\nremaining strength, and remarkably, \r\nhe gave birth to numerous Arisen,\r\ndespite it being an unusual occurrence.",
+      "text": "Mit letzter Kraft hat er gleich mehrere Erweckte\r\nerschaffen. Das war höchst ungewöhnlich."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "source_jp": "全身の石化が始まったのはその後のことで\r\n今では時折目覚めては覚者を生み出すくらい――",
+      "source_en": "After this, his body began to petrify, \r\nand now he only occasionally \r\nwakes up and produces an Arisen...",
+      "text": "Erst danach begann sein Leib zu versteinern.\r\nHeute erwacht er nur noch hin und wieder,\r\num einzelne Erweckte zu erschaffen."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "source_jp": "竜力の減退で野山の活力までもが弱まり\r\nそれに乗じてオークや魔物が力をつけています",
+      "source_en": "With the decline of his Dragon Force, \r\neven the vitality of the land has weakened. \r\nTaking advantage of this, \r\nthe Orcs and other foes have only grown stronger.",
+      "text": "Mit seiner Drachenkraft schwindet auch die\r\nLebenskraft des Landes. Orks und andere\r\nUngeheuer nutzen das und werden stärker."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "source_jp": "白竜様に心臓を預けたあなたたちは\r\n時の流れから解放され、老いることはありません",
+      "source_en": "Those of you who have entrusted your hearts \r\nto Lord White Dragon are liberated from the flow \r\nof time and do not age.",
+      "text": "Ihr habt dem Weißen Drachen eure Herzen\r\nanvertraut. Für euch steht die Zeit still,\r\nund ihr altert nicht."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "source_jp": "でも、忘れないでください\r\nレスタニアの大地、そこに暮らす人々――\r\nその上を、時は変わらず流れているのです",
+      "source_en": "But do not forget the land of Lestania, \r\nor the people who live there...\r\nover which time flows unceasing.",
+      "text": "Vergiss aber Lestania und seine Menschen nicht.\r\nFür sie vergeht die Zeit wie eh und je."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "source_jp": "白竜様の復活がどうか間に合いますように\r\nわたしはそう願わずにはいられません\r\nあなたの力を、ぜひ、貸してください",
+      "source_en": "I can only hope that the resurrection of \r\nLord White Dragon will not come too late.\r\nPlease, lend us your power.",
+      "text": "Ich hoffe, der Weiße Drache erwacht noch\r\nrechtzeitig. Bitte leih uns deine Kraft."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "source_jp": "わたしは神官のジョゼフだ",
+      "source_en": "I am Joseph, a priest.",
+      "text": "Ich bin Joseph, einer der Priester."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "source_jp": "神官と言ってもぴんと来ないだろうが\r\nこの神殿を中心とする政（まつりごと）の\r\n取りまとめが主な仕事だ",
+      "source_en": "Even if I say \"priest\", \r\nyou probably won't understand, \r\nbut the main job is to manage the ceremonies \r\ncentered around this temple.",
+      "text": "Der Titel sagt dir womöglich wenig.\r\nMeine Aufgabe ist es, die Geschicke dieses\r\nTempels zu lenken."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "source_jp": "オークどもとの戦争に加えて\r\n味方同士である覚者と騎士団の反目もあってな――",
+      "source_en": "In addition to the war with the orcs,\r\nthere is also tension between the Arisen and \r\nthe Knights' Order, who are allies...",
+      "text": "Wir führen Krieg gegen die Orks. Zugleich\r\nliegen die Erweckten und der Ritterorden\r\nim Streit, obwohl sie Verbündete sind."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "source_jp": "部隊編成やら任務の分担、あらゆる事に\r\n口を出すことにしている",
+      "source_en": "I make it a point to involve myself\r\nin everything, from forming squads\r\nto assigning missions.",
+      "text": "Darum mische ich überall mit, von der\r\nAufstellung der Truppen bis zur Verteilung\r\nder Aufträge."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "source_jp": "ところで、この神殿の歴史は知っているか？",
+      "source_en": "By the way, \r\ndo you know the history of this temple?",
+      "text": "Kennst du eigentlich die Geschichte des Tempels?"
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "source_jp": "ふむ――簡単に説明しておこう\r\nかれこれ、３００年前のことだ――",
+      "source_en": "Hmm―― let me explain it briefly. \r\nThis happened about 300 years ago――",
+      "text": "Nun, ich fasse mich kurz.\r\nEs geschah vor rund 300 Jahren ..."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "source_jp": "この地に墜落し、身動きもならない白竜――\r\nその身を案じたレスタニアの民が力を合わせ\r\n長い時間をかけて造りあげたのがこの神殿だ",
+      "source_en": "The people of Lestania, \r\nconcerned about the white dragon that crashed here\r\nand was unable to move, joined forces\r\nand built this temple over a long period of time.",
+      "text": "Der Weiße Drache stürzte hier nieder und\r\nkonnte sich nicht mehr rühren. Die Menschen\r\nvon Lestania sorgten sich um ihn. Gemeinsam\r\nbauten sie über lange Zeit diesen Tempel."
+    },
+    {
+      "key": "",
+      "read_index": "45",
+      "source_jp": "堅牢な神殿、覚者、騎士団――\r\nそして戦えない者たちが捧げる祈り――\r\nすべてが白竜を守る力となるのだ",
+      "source_en": "A solid temple, the Arisen, the Knights' Order――\r\nAnd the prayers offered by those who cannot fight―\r\nAll become the power to protect the White Dragon.",
+      "text": "Der feste Tempel, die Erweckten, der Ritterorden\r\nund die Gebete jener, die nicht kämpfen können,\r\ntragen alle zum Schutz des Weißen Drachen bei."
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "source_jp": "どれひとつとして、欠けてはいけない\r\n――いいな？\r\nすべてを尊重し、慈しむのだ",
+      "source_en": "None of them should be missing.\r\n-- alright?\r\nRespect and care for all of them.",
+      "text": "Jeder einzelne Beitrag zählt.\r\nAchte und schätze sie alle."
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "source_jp": "僕はクラウス\r\nジョゼフ様の助手さ\r\nまあ、使いっ走りみたいなものだね",
+      "source_en": "I am Klaus,\r\nthe assistant of Master Joseph.\r\nWell, I suppose I'm more like a errand boy.",
+      "text": "Ich bin Klaus, Josephs Assistent.\r\nEigentlich bin ich eher sein Laufbursche."
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "source_jp": "え？　\r\nいやいや、僕は覚者じゃないんだ",
+      "source_en": "Huh? No, no, I'm not an Arisen.",
+      "text": "Wie? Nein, ich bin kein Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "49",
+      "source_jp": "覚者たちのほとんどは神殿の外――\r\nレスタニアのあちこちを駆け巡っているよ",
+      "source_en": "Most of the Arisen are outside the temple - \r\nrunning around Lestania.",
+      "text": "Die meisten Erweckten sind außerhalb des\r\nTempels in ganz Lestania unterwegs."
+    },
+    {
+      "key": "",
+      "read_index": "50",
+      "source_jp": "もちろん、レオが一声かければ\r\n大勢の覚者が集まるわけだけど",
+      "source_en": "Of course, if Leo were to call out,\r\nmany Arisen would gather together.",
+      "text": "Doch wenn Leo ruft, kommen viele zusammen."
+    },
+    {
+      "key": "",
+      "read_index": "51",
+      "source_jp": "ところで君は《ブラッドオーブ》を知ってるかい？\r\n白竜様に捧げると石化の進行を\r\n食い止めることができるんだ",
+      "source_en": "By the way, do you know about the \"Blood Orb\"? \r\nIf you offer it to Lord White Dragon, \r\nyou can halt the progression of petrification.",
+      "text": "Kennst du Blutkugeln? Wenn man sie dem\r\nWeißen Drachen darbringt, können sie\r\nseine Versteinerung aufhalten."
+    },
+    {
+      "key": "",
+      "read_index": "52",
+      "source_jp": "でも、なかなか手に入らなくてさ\r\n《ブラッドオーブ》のことは\r\nいつでも頭の片隅で気にしておくといい",
+      "source_en": "But, it's quite hard to get, you know.\r\nIt's good to always keep the thought \r\nof the [Blood Orb]\r\nin the back of your mind.",
+      "text": "Sie sind schwer zu bekommen.\r\nBehalte die Blutkugeln also im Hinterkopf."
+    },
+    {
+      "key": "",
+      "read_index": "53",
+      "source_jp": "わたしは白衛騎士団――通称白騎団の\r\n団長を拝命しているゲルトだ",
+      "source_en": "I am Gerd, \r\nthe Commander of the White Guard Knights, \r\nalso known as the White Knights.",
+      "text": "Ich bin Gerd, Hauptmann der Weißen Garde.\r\nViele kennen uns als die Weißen Ritter."
+    },
+    {
+      "key": "",
+      "read_index": "54",
+      "source_jp": "見たところ、貴殿は覚者になって日も浅いようだ",
+      "source_en": "From what I can see, \r\nt seems that you have recently become an Arisen.",
+      "text": "Ihr scheint erst seit Kurzem erweckt zu sein."
+    },
+    {
+      "key": "",
+      "read_index": "55",
+      "source_jp": "これから見聞を広げるのだろうが、\r\n先輩たち――特に覚者から、くだらない偏見を\r\n吹き込まれないようにな",
+      "source_en": "You're about to broaden your horizons,\r\nbut make sure not to let the seniors,\r\nespecially among the Arisen, instill\r\nfoolish prejudices in you.",
+      "text": "Ihr werdet noch vieles sehen und lernen.\r\nLasst Euch keine törichten Vorurteile\r\neinreden, gerade von älteren Erweckten."
+    },
+    {
+      "key": "",
+      "read_index": "56",
+      "source_jp": "残念なことに覚者の中には\r\n我々騎士団を下に見る者もいる\r\n例えば、こんな陰口をきいたことはないか？",
+      "source_en": "Unfortunately, among the Arisen, there are \r\nthose who look down upon our Knights' Order. \r\nHave you ever heard such slander such as this?",
+      "text": "Manche Erweckte blicken leider auf unseren\r\nOrden herab. Habt Ihr schon einmal\r\nsolches Gerede gehört?"
+    },
+    {
+      "key": "",
+      "read_index": "57",
+      "source_jp": "ミミズのフンほどのわずかな報酬のために\r\n騎士になった者がいる――",
+      "source_en": "There are those who become knights \r\nfor the sake of a reward as meager as worm dung.",
+      "text": "Manche behaupten, einige seien für einen\r\nLohn Ritter geworden, der kaum ein Häufchen\r\nWurmdreck wert sei."
+    },
+    {
+      "key": "",
+      "read_index": "58",
+      "source_jp": "違うぞ！　断じて違う！",
+      "source_en": "That's not true! Absolutely not true!",
+      "text": "Das ist falsch! Völlig falsch!"
+    },
+    {
+      "key": "",
+      "read_index": "59",
+      "source_jp": "我々は全て、白竜様のために\r\nレスタニアのために！\r\nそこに生きる人々のために剣と命を捧げたのだ",
+      "source_en": "For the sake of the White Dragon,\r\nand for the sake of Lestania!\r\nWe have devoted our swords and lives\r\nfor the people who live there.",
+      "text": "Wir haben Schwert und Leben dem Weißen\r\nDrachen, Lestania und den Menschen hier\r\nverschrieben!"
+    },
+    {
+      "key": "",
+      "read_index": "60",
+      "source_jp": "貴殿たち覚者のように、運命でも使命でもなく――",
+      "source_en": "Like you, noble Arisen, not bound by fate or purpose--",
+      "text": "Wir wurden ohne ein Schicksal oder eine\r\nBerufung wie die der Erweckten geboren."
+    },
+    {
+      "key": "",
+      "read_index": "61",
+      "source_jp": "戦いに背を向けることもできたのに\r\nそれをいさぎよしとせず、騎士になる道を選んだ\r\n意志と奉仕の塊が、我々白衛騎士団なのだ",
+      "source_en": "Even though we could have turned \r\nour backs on the fight,\r\nwe chose the path to become knights.\r\nThe embodiment of will and service, \r\nwe are the White Guard Knights.",
+      "text": "Wir hätten dem Kampf den Rücken kehren können.\r\nWir entschieden uns für den Ritterstand.\r\nDas ist die Weiße Garde: Wille und Dienst."
+    },
+    {
+      "key": "",
+      "read_index": "62",
+      "source_jp": "もし、貴殿の態度にナめた様子があれば\r\n容赦なく思い知らせてやるからな",
+      "source_en": "If I see any nonsense in your attitude,\r\nI will show you no mercy.",
+      "text": "Solltet Ihr uns verachten,\r\nwerde ich Euch eines Besseren belehren."
+    },
+    {
+      "key": "",
+      "read_index": "63",
+      "source_jp": "ええと――\r\n自己紹介はしたんだっけ？　まだだっけ？\r\nま、いいか――わたしはイリス",
+      "source_en": "Um... Did I introduce myself? Or not yet?\r\nWell, it's okay... I'm Iris.",
+      "text": "Äh ... Hab ich mich schon vorgestellt?\r\nNa, egal. Ich bin Iris."
+    },
+    {
+      "key": "",
+      "read_index": "64",
+      "source_jp": "たいていはレオとつるんでいて\r\nあちこち走り回っているの",
+      "source_en": "I usually hang out with Leo and \r\nrun around here and there.",
+      "text": "Meistens hänge ich mit Leo herum.\r\nWir sind ständig auf Achse."
+    },
+    {
+      "key": "",
+      "read_index": "65",
+      "source_jp": "覚者の連絡係みたいなものだね\r\n結構大変な仕事だから頼りになりそうなら\r\n仕事、譲ってもいいよ",
+      "source_en": "It's like I'm the Arisen's liaison.\r\nIt's quite a demanding job,\r\nso if you seem reliable,\r\nI might pass it on to you.",
+      "text": "Ich halte die Erweckten auf dem Laufenden.\r\nGanz schön viel Arbeit. Wenn du zuverlässig\r\nbist, kannst du sie gern übernehmen."
+    },
+    {
+      "key": "",
+      "read_index": "66",
+      "source_jp": "覚者ってさ、みんな基本的に、バラバラに\r\n生きているんだよね",
+      "source_en": "The Arisen, you know, everyone basically lives\r\ntheir own lives, scattered all over the place.",
+      "text": "Weißt du, die meisten Erweckten leben\r\nverstreut und gehen ihren eigenen Weg."
+    },
+    {
+      "key": "",
+      "read_index": "67",
+      "source_jp": "心臓が時を刻まないから、時間が幾らでも\r\nあるでしょ？\r\nだからさ、いろんなこと考えちゃうんだ",
+      "source_en": "Since your heart doesn't beat time, \r\nyou have all the time in the world, right?\r\nThat's why you think about all sorts of things.",
+      "text": "Dein Herz gibt dir keinen Takt mehr vor.\r\nDu hast alle Zeit der Welt, oder?\r\nDa denkt man über alles Mögliche nach."
+    },
+    {
+      "key": "",
+      "read_index": "68",
+      "source_jp": "覚者とは？人生とは？自分って何？とかさ",
+      "source_en": "What is an Arisen? \r\nWhat is life? \r\nWhat is self? \r\nI wonder.",
+      "text": "Was macht jemanden zum Erweckten?\r\nWas ist das Leben? Wer bin ich? So was eben."
+    },
+    {
+      "key": "",
+      "read_index": "69",
+      "source_jp": "もちろん、白竜を守るのが本業だけど\r\nその守り方も、ただ戦うだけじゃなくて\r\n覚者ならではの方法を探すべき――とか\r\nいろいろな考え方があるわけよ",
+      "source_en": "Of course, \r\nprotecting the White Dragon is our main duty,\r\nbut our approach to protecting it isn't just about \r\nfighting.\r\n\r\nAs Arisen, \r\nwe should seek out methods unique to us――\r\nthere are various ways of thinking, you know.",
+      "text": "Klar, wir müssen den Weißen Drachen schützen.\r\nAber vielleicht gibt es andere Wege als den\r\nKampf, die nur wir Erweckten kennen.\r\nDarüber gehen die Meinungen auseinander."
+    },
+    {
+      "key": "",
+      "read_index": "70",
+      "source_jp": "覚者も騎士団みたいにビシッと組織にした方が\r\nいいって意見もあるけど――\r\nどうなんだろうね",
+      "source_en": "There are also opinions that it would be better \r\nto organize the Arisen like a Knights' Order and \r\nbe more organized.\r\nI wonder how that would be.",
+      "text": "Manche wollen die Erweckten genauso straff\r\norganisieren wie einen Ritterorden.\r\nOb das eine gute Idee ist?"
+    },
+    {
+      "key": "",
+      "read_index": "71",
+      "source_jp": "あ、わたしは深く考えない派なので、よろしく！",
+      "source_en": "Ah, I'm not the type to think deeply, so, \r\nnice to meet you!",
+      "text": "Ach, ich grüble lieber nicht so viel.\r\nSchön, dich kennenzulernen!"
+    },
+    {
+      "key": "",
+      "read_index": "72",
+      "source_jp": "白竜様が力を取り戻すまで\r\nわたしたちが世の理を守らねばなりません",
+      "source_en": "Until Lord White Dragon regains his power,\r\nwe must protect the order of the world.",
+      "text": "Bis der Weiße Drache seine Kraft wiedererlangt,\r\nmüssen wir die Ordnung der Welt bewahren."
+    },
+    {
+      "key": "",
+      "read_index": "73",
+      "source_jp": "特に、覚者の皆さんの責任は重大です\r\n白竜様のご期待をゆめゆめお忘れなく",
+      "source_en": "In particular, the responsibility of \r\nall the Arisen is significant. \r\nPlease never forget the \r\nexpectations of Lord White Dragon.",
+      "text": "Die Erweckten tragen besondere Verantwortung.\r\nDenk immer daran, was er von euch erwartet."
+    },
+    {
+      "key": "",
+      "read_index": "74",
+      "source_jp": "他の連中とも話して\r\n顔を覚えてもらうんだな",
+      "source_en": "I'll talk to the others\r\nand make sure they remember your face.",
+      "text": "Rede auch mit den anderen.\r\nSie sollen sich dein Gesicht merken."
+    },
+    {
+      "key": "",
+      "read_index": "75",
+      "source_jp": "レオがこんなに世話をやくなんて\r\nどういう風の吹き回しだろうね\r\nよっぽどあんたが気に入ったらしいよ",
+      "source_en": "Leo is really taking care of you.\r\nI wonder what's got into him.\r\nSeems like he really likes you.",
+      "text": "Dass Leo sich so um jemanden kümmert!\r\nDu musst ihm wirklich gefallen."
+    },
+    {
+      "key": "",
+      "read_index": "76",
+      "source_jp": "あのさぁ――",
+      "source_en": "Hey, you know...",
+      "text": "Sag mal ..."
+    },
+    {
+      "key": "",
+      "read_index": "77",
+      "source_jp": "神殿以外にも《拠点》があるのは\r\n知っているよね？",
+      "source_en": "Did you know that there are \r\nother locations outside of the temple?",
+      "text": "Du weißt, dass es außer dem Tempel\r\nnoch andere Stützpunkte gibt, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "78",
+      "source_jp": "村だったり、特別な施設があったり――\r\nそこの住人が助けを求めていたり――",
+      "source_en": "It could be a village, or a special facility,\r\nwhere the residents are looking for help--",
+      "text": "Dörfer, besondere Einrichtungen ...\r\nManchmal brauchen die Leute dort Hilfe."
+    },
+    {
+      "key": "",
+      "read_index": "79",
+      "source_jp": "いろいろあるから、時間があるなら\r\nあちこち行ってみた方がいいよ",
+      "source_en": "There's a lot going on, so if you have the time,\r\nyou should go all over the place.",
+      "text": "Es gibt viel zu entdecken.\r\nSieh dich ruhig um, wenn du Zeit hast."
+    },
+    {
+      "key": "",
+      "read_index": "80",
+      "source_jp": "ここんところジョゼフ様が老け込んじゃって\r\n結構重要な仕事を任せてもらえるようになったんだ",
+      "source_en": "Master Joseph has been getting old these days,\r\nso I've been entrusted with quite important tasks.",
+      "text": "Joseph ist in letzter Zeit alt geworden.\r\nJetzt vertraut er mir wichtige Aufgaben an."
+    },
+    {
+      "key": "",
+      "read_index": "81",
+      "source_jp": "うれしいけど――重圧もあってさ――\r\n時々、話しを聞いてくれるとうれしいな",
+      "source_en": "I'm glad you're here— \r\nbut I'm also under a lot of pressure.\r\nI'd love it if you'd talk to me from time to time.",
+      "text": "Das freut mich, aber es lastet auch auf mir.\r\nIch wäre froh, wenn du mir hin und wieder zuhörst."
+    },
+    {
+      "key": "",
+      "read_index": "82",
+      "source_jp": "レオに期待されるということは――\r\n危険な場所に行く機会が多いということだ\r\n精進と用心を忘れなさんな",
+      "source_en": "What Leo expects is that you have a lot \r\nof opportunities to go to dangerous places.\r\nDo not forget diligence and caution.",
+      "text": "Wenn Leo dir vertraut, wirst du oft an\r\ngefährliche Orte kommen.\r\nÜbe fleißig und bleib vorsichtig."
+    },
+    {
+      "key": "",
+      "read_index": "83",
+      "source_jp": "オークどもとの戦争が続く限り\r\n背中を預け合って戦う機会がすぐに来る\r\n貴殿の力はその時に見せてもらおう",
+      "source_en": "As long as the war with the Orcs continues,\r\nthe opportunity to fight \r\nshoulder to shoulder will come soon.\r\nI look forward to seeing your strength \r\nat that time.",
+      "text": "Solange der Krieg gegen die Orks dauert,\r\nwerden wir bald Seite an Seite kämpfen.\r\nDann will ich Eure Stärke sehen."
+    },
+    {
+      "key": "",
+      "read_index": "84",
+      "source_jp": "白竜様は一日の多くを眠って過ごしますが\r\nごくわずかながらお目覚めの時もあります\r\nそんな時は、お話だってできますよ",
+      "source_en": "Lord White Dragon spends much of the day sleeping,\r\nbut there are also moments when he wakes up,\r\nand during those times, \r\nhe can have a conversation with you.",
+      "text": "Der Weiße Drache schläft fast den ganzen Tag.\r\nManchmal erwacht er für einen kurzen Moment.\r\nDann kannst du sogar mit ihm sprechen."
+    },
+    {
+      "key": "",
+      "read_index": "85",
+      "source_jp": "まあ、最初のうちは言われるがままに\r\n戦っていればいいさ",
+      "source_en": "Well, in the beginning, \r\njust do as you're told and fight.",
+      "text": "Am Anfang kämpfst du am besten\r\nso, wie man es dir sagt."
+    },
+    {
+      "key": "",
+      "read_index": "86",
+      "source_jp": "そのうち、自分なりの生き方が\r\n見えてくるはずだ",
+      "source_en": "Eventually, \r\nyou should be able to see your own way of living.",
+      "text": "Mit der Zeit wirst du deinen Weg schon finden."
+    },
+    {
+      "key": "",
+      "read_index": "87",
+      "source_jp": "どれどれどれ？",
+      "source_en": "Hmm, I wonder...",
+      "text": "Na, mal sehen ..."
+    },
+    {
+      "key": "",
+      "read_index": "88",
+      "source_jp": "レオはあんたのどこが気に入ったのかな？\r\nそれともただの気まぐれか――なんてね",
+      "source_en": "What does Leo like about you?\r\nOr is it just a whim?",
+      "text": "Was Leo wohl an dir gefällt?\r\nOder war's bloß eine Laune? Nur Spaß!"
+    },
+    {
+      "key": "",
+      "read_index": "89",
+      "source_jp": "君はどんな覚者人生を歩むんだろうね",
+      "source_en": "I wonder what kind of life as an \r\nArisen you will lead.",
+      "text": "Was du wohl aus deinem Leben\r\nals Erweckter machst?"
+    },
+    {
+      "key": "",
+      "read_index": "90",
+      "source_jp": "冒険者みたいな生き方もいいけど\r\n僕としては神殿のために尽力して欲しい――",
+      "source_en": "You can live like an adventurer,\r\nbut for my part, \r\nI want you to do your best for the temple--",
+      "text": "Das Abenteurerleben hat seine Reize,\r\naber ich hoffe, du setzt dich für den Tempel ein."
+    },
+    {
+      "key": "",
+      "read_index": "91",
+      "source_jp": "いや、最近、少ないんだよね、そういう覚者",
+      "source_en": "No, there aren't many of those Arisen these days.",
+      "text": "Solche Erweckte sind selten geworden."
+    },
+    {
+      "key": "",
+      "read_index": "92",
+      "source_jp": "ここで見聞したことを外で話す時は\r\nその判断を慎重に行うようにな",
+      "source_en": "Be careful about your judgment when \r\ntalking about what you have seen here outside.",
+      "text": "Überleg dir gut, wem du draußen erzählst,\r\nwas du hier erfährst."
+    },
+    {
+      "key": "",
+      "read_index": "93",
+      "source_jp": "秘密は可能な限り少なくしたいが\r\n内容によってはそうもいかん",
+      "source_en": "I want to minimize the secretkeeping \r\nas much as possible, \r\nbut depending on the subject, \r\nit may not be possible.",
+      "text": "Ich möchte so wenig wie möglich geheim halten.\r\nBei manchen Dingen lässt es sich nicht vermeiden."
+    },
+    {
+      "key": "",
+      "read_index": "94",
+      "source_jp": "どうした？　時間を持て余しているのなら\r\nオークの一匹でも倒してくるがいい",
+      "source_en": "What's wrong? If you're just wasting time, \r\ngo ahead and defeat even one Orc.",
+      "text": "Was ist? Wenn Ihr freie Zeit habt,\r\nzieht los und erschlagt einen Ork."
+    },
+    {
+      "key": "",
+      "read_index": "95",
+      "source_jp": "戦士に大切なことは\r\n百の無駄口より剣のひと振り――忘れるな",
+      "source_en": "The important thing for a warrior is \r\nthe swing of a sword, not empty words――\r\ndon't forget.",
+      "text": "Ein Schwerthieb ist einem Krieger mehr wert\r\nals hundert leere Worte. Vergesst das nicht."
+    }
+  ]
+}

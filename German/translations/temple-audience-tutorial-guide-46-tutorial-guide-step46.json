@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "scope": "Arrival at the temple and the audience quest",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step46.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_46.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_150",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《チャット》</COL>は、ゲームプレイ中に\r\n他のプレイヤーとコミュニケーションを\r\n取るための基本ツールです\r\nまた<COL ffdc78>《チャットログ》</COL>にはそれまでの\r\nチャット発言が記録され、\r\nゲーム中の状況告知も流れます\r\n【<KC UI_CHAT>】を押してチャットモードに\r\n切替え、発言を入力しましょう",
+      "source_en": "<COL ffdc78>Chat</COL>\r\nThis is the fundamental tool you use to\r\ncommunicate with others during gameplay.\r\nThe <COL ffdc78>Chat Log</COL> records all messages\r\nrecieved during gameplay.\r\nThis chat gets refreshed\r\ncontinously during gameplay.\r\nPress [<KC UI_CHAT>] to enter chat mode.\r\nThis will switch to the chat window so you can\r\ninput what you want to say.",
+      "text": "Über den <COL ffdc78>Chat</COL> sprichst du mit anderen Spielern.\r\nIm <COL ffdc78>Chatprotokoll</COL> stehen bisherige Nachrichten\r\nund Meldungen des Spiels.\r\nÖffne mit [<KC UI_CHAT>] den Chat, um zu schreiben."
+    },
+    {
+      "key": "TUTORIAL_STEP_149",
+      "read_index": "1",
+      "source_jp": "表示させる情報はフィルタリングできます\r\n　【<KC UI_LB>／<KC UI_RB>】でチャンネル切替\r\n　（＋）からチャンネル追加\r\n　入力欄などで【<KC UI_RT>】を押すとログ拡大\r\n　【<KC KEY_UP>／<KC KEY_DOWN>】でログ確認\r\n<COL ffdc78>拡大した状態であれば、発言者を直接選んで\r\n話しかけたり、プロフィール確認やパーティー要請、\r\nフレンド申請できます</COL>",
+      "source_en": "The Information that is displayed can be\r\nfiltered with [<KC UI_LB>/<KC UI_RB>]; this will switch channels.\r\nUse (+) to add a channel.\r\nWhile in the input field, press [<KC UI_RT>] to\r\nenlarge the chat log.\r\nUse [<KC KEY_UP>/<KC KEY_DOWN>] to scroll through it.",
+      "text": "Wähle mit [<KC UI_LB>/<KC UI_RB>] einen Kanal.\r\nÜber (+) fügst du einen Kanal hinzu.\r\nMit [<KC UI_RT>] im Eingabefeld vergrößerst\r\ndu das Protokoll. [<KC KEY_UP>/<KC KEY_DOWN>] blättert.\r\n<COL ffdc78>Im großen Protokoll kannst du Spieler auswählen,\r\nihre Profile ansehen, ihnen schreiben oder\r\nsie in die Gruppe und Freundesliste einladen.</COL>",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_280",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>誰に対して発言するかは\r\nチャット入力欄上の《対象メニュー》で\r\n切替えられます</COL>\r\n不特定多数向け、パーティーメンバー向け\r\nグループチャットメンバー向けなど、\r\n話しかける相手を変えたい場合に利用しましょう\r\n操作方法は入力欄下のガイドで確認できます",
+      "source_en": "<COL ffdc78>The channel your message is directed to can be\r\nswitched using the channel menu located above\r\nthe chat input area.</COL>\r\nUtilise it when you want to change the\r\nrecipient of your messages.\r\nYou can check the current selection\r\nbelow the input area.",
+      "text": "<COL ffdc78>Über dem Eingabefeld wählst du aus,\r\nwer deine Nachricht empfangen soll.</COL>\r\nSo erreichst du etwa Spieler in der Nähe,\r\ndeine Gruppe oder einen Gruppenchat.\r\nDie Bedienung steht unter dem Eingabefeld."
+    },
+    {
+      "key": "TUTORIAL_STEP_390",
+      "read_index": "3",
+      "source_jp": "チャット会話対象タイプは、以下になります\r\n　<COL ffdc78>Say</COL> ：周りのプレイヤー\r\n　<COL ffdc78>Shout</COL> ：同ワールドのプレイヤー全員\r\n　<COL ffdc78>Party</COL> ：パーティーメンバー\r\n　<COL ffdc78>Tell</COL> ：特定の個人\r\n　<COL ffdc78>Clan</COL> ：クランメンバー\r\n　<COL ffdc78>Group</COL> ：グループチャットメンバー\r\n　<COL ffdc78>Entry Board</COL> ：エントリーボード参加者",
+      "source_en": "The chat targets are as follows:\r\n<COL ffdc78>Say</COL>: Surrounding players.\r\n<COL ffdc78>Shout</COL>: All players in the channel.\r\n<COL ffdc78>Party</COL>: Party members.\r\n<COL ffdc78>Tell</COL>: Specific player.\r\n<COL ffdc78>Clan</COL>: Clan members.\r\n<COL ffdc78>Group</COL> Group Chat members.\r\n<COL ffdc78>Entry Board</COL>: Entry Board participants.",
+      "text": "Du kannst an diese Ziele schreiben:\r\n<COL ffdc78>Say</COL>: Spieler in der Nähe\r\n<COL ffdc78>Shout</COL>: Alle Spieler im Kanal\r\n<COL ffdc78>Party</COL>: Gruppenmitglieder\r\n<COL ffdc78>Tell</COL>: Eine bestimmte Person\r\n<COL ffdc78>Clan</COL>: Clanmitglieder\r\n<COL ffdc78>Group</COL>: Mitglieder des Gruppenchats\r\n<COL ffdc78>Entry Board</COL>: Teilnehmer am Eintragsbrett"
+    },
+    {
+      "key": "TUTORIAL_STEP_597",
+      "read_index": "4",
+      "source_jp": "＜メモ機能＞\r\n宛先を<COL ffdc78>Memo</COL>に合わせて\r\nテキストを入力し、発言すると\r\n相手に発信されず<COL ffdc78>メモログ</COL>に記録されます\r\nメモログは、チャンネルタブを\r\n一番左に合わせることで確認できます\r\nまた、チャットログから任意のテキストを選んで\r\n「メモする」ことでメモログに記録できます",
+      "source_en": "You can also make a <COL ffdc78>Memo</COL>, a note only visible to\r\nyou, saved to the <COL ffdc78>Memo Log</COL>.",
+      "text": "Wähle <COL ffdc78>Memo</COL> als Empfänger, um eine private\r\nNotiz zu schreiben. Du findest sie im\r\n<COL ffdc78>Notizprotokoll</COL>, ganz links in der Kanalliste.\r\nDu kannst auch Text aus dem Chat auswählen\r\nund ihn als Notiz speichern."
+    }
+  ]
+}
