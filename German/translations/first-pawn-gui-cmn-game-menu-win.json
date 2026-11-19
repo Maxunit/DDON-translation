@@ -19,11 +19,18 @@
       "text": "Gruppenverwaltung"
     },
     {
+      "key": "menu_pawn",
+      "read_index": "29",
+      "source_jp": "ポーン",
+      "source_en": "Pawns",
+      "text": "Vasallen"
+    },
+    {
       "key": "menu_pawn_command",
       "read_index": "30",
       "source_jp": "ポーン命令",
       "source_en": "Pawn Order",
-      "text": "Pawn-Befehle"
+      "text": "Vasallenbefehle"
     }
   ]
 }

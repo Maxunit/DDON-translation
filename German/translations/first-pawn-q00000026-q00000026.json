@@ -65,7 +65,7 @@
       "read_index": "8",
       "source_jp": "我々にできることは何もない\r\nポーンのことは忘れてくれ",
       "source_en": "There's nothing we can do about it.\r\nForget about pawns.",
-      "text": "… können wir nichts für Euch tun.\r\nDann vergesst die Sache mit den Pawns."
+      "text": "… können wir nichts für Euch tun.\r\nDann vergesst die Sache mit den Vasallens."
     },
     {
       "key": "",
@@ -128,21 +128,21 @@
       "read_index": "17",
       "source_jp": "《ポーン郷》のアルヴァーとは会えましたか？",
       "source_en": "Did you meet with Alvar in the Pawn Cathedral?",
-      "text": "Hast du Alvar in der Pawn-Kathedrale getroffen?"
+      "text": "Hast du Alvar getroffen?\r\nEr ist in der Vasallenkathedrale."
     },
     {
       "key": "",
       "read_index": "18",
       "source_jp": "《ポーン郷》への道中はなかなか大変だ\r\n先々での情報収集を怠るなよ",
       "source_en": "The road to the Pawn Cathedral is a tough one.\r\nDon't neglect to gather information en-route.",
-      "text": "Der Weg zur Pawn-Kathedrale ist beschwerlich.\r\nErkundige dich unterwegs, was dich erwartet."
+      "text": "Der Weg zur Vasallenkathedrale ist beschwerlich.\r\nFrag unterwegs nach, was dich erwartet."
     },
     {
       "key": "",
       "read_index": "19",
       "source_jp": "ポーンが登場する瞬間は何度見ても\r\n震えてしまうんだ\r\nこの世の不思議の代表格だね",
       "source_en": "No matter how many times I see the moment\r\nwhen Pawns appear, I can't help but tremble. \r\nThey are truly embody the epitome\r\nof the mysteries of this world.",
-      "text": "Ich habe schon oft einen Pawn erscheinen sehen.\r\nEs lässt mich jedes Mal erschauern.\r\nEines der größten Rätsel dieser Welt."
+      "text": "Ich habe schon viele Vasallen erscheinen sehen.\r\nEs lässt mich jedes Mal erschauern.\r\nEines der größten Rätsel dieser Welt."
     },
     {
       "key": "",
@@ -198,7 +198,7 @@
       "read_index": "27",
       "source_jp": "おお――《ポーン郷》帰りか",
       "source_en": "Oh—back from the the Pawn Cathedral?",
-      "text": "Ah, zurück aus der Pawn-Kathedrale?"
+      "text": "Ah, zurück aus der Vasallenkathedrale?"
     },
     {
       "key": "",
@@ -212,7 +212,7 @@
       "read_index": "29",
       "source_jp": "ほう――\r\nポーンとの契約に奔走中か",
       "source_en": "Hmm...\r\nAre you looking to form a contract with the Pawns?",
-      "text": "Ah … Du willst also einen Pakt\r\nmit einem Pawn schließen?"
+      "text": "Ah … Du willst also einen Pakt\r\nmit einem Vasallen schließen?"
     },
     {
       "key": "",
@@ -226,7 +226,7 @@
       "read_index": "31",
       "source_jp": "ポーンとの契約は何度も見たけど\r\nその度に、この世界の神秘を感じるよ",
       "source_en": "I've seen the contract with Pawns many times,\r\nand each time, I feel the mystery of this world.",
-      "text": "Ich habe schon viele Pawn-Pakte miterlebt.\r\nJedes Mal staune ich über unsere Welt."
+      "text": "Ich habe schon viele Vasallenpakte miterlebt.\r\nJedes Mal staune ich über unsere Welt."
     },
     {
       "key": "",
@@ -268,7 +268,7 @@
       "read_index": "37",
       "source_jp": "さあ――\r\nあなたが共に歩みたいポーンの姿を\r\n強くイメージしてください",
       "source_en": "Now— \r\nPlease focus strongly on the appearance\r\nof the Pawn you wish to walk with.",
-      "text": "Stell dir den Pawn, der dich auf deinem Weg\r\nbegleiten soll, so lebhaft wie möglich vor."
+      "text": "Stell dir den Vasallen vor, der dich\r\nbegleiten soll. So lebhaft du kannst."
     },
     {
       "key": "",
@@ -289,7 +289,7 @@
       "read_index": "40",
       "source_jp": "メインポーンが編成が可能となり戦力が強化されました",
       "source_en": "The Main Pawn can now be summoned, \r\nand its vigor can be strengthened.",
-      "text": "Dein Hauptpawn kann dich jetzt begleiten\r\nund deine Gruppe im Kampf verstärken."
+      "text": "Dein Hauptvasall kann dich jetzt begleiten\r\nund deine Gruppe im Kampf verstärken."
     },
     {
       "key": "",

@@ -9,28 +9,28 @@
       "read_index": "17",
       "source_jp": "サポートポーン",
       "source_en": "Support Pawns",
-      "text": "Hilfspawns"
+      "text": "Hilfsvasallen"
     },
     {
       "key": "poptop_rim_stone_main_pawn",
       "read_index": "18",
       "source_jp": "メインポーン",
       "source_en": "Main Pawns",
-      "text": "Hauptpawns"
+      "text": "Hauptvasallen"
     },
     {
       "key": "poptop_rim_stone_pawn_search",
       "read_index": "19",
       "source_jp": "ポーン検索",
       "source_en": "Pawn Search",
-      "text": "Pawn-Suche"
+      "text": "Vasallensuche"
     },
     {
       "key": "poptop_pawn_join",
       "read_index": "30",
       "source_jp": "ポーンを入れる",
       "source_en": "Invite Pawn",
-      "text": "Pawn aufnehmen"
+      "text": "Vasallen aufnehmen"
     },
     {
       "key": "poptop_party_jp",
@@ -45,6 +45,13 @@
       "source_jp": "Party",
       "source_en": "Party Members",
       "text": "Gruppenmitglieder"
+    },
+    {
+      "key": "poptop_rim_stone_lost_pawn",
+      "read_index": "71",
+      "source_jp": "ポーンの救出",
+      "source_en": "Lost Pawns",
+      "text": "Vasallen retten"
     }
   ]
 }

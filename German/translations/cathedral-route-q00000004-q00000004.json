@@ -30,21 +30,21 @@
       "read_index": "3",
       "source_jp": "そして《ポーン郷》へ行く\r\nまずは、そこからだね",
       "source_en": "And then you'll go to the [Pawn Cathedral].\r\nThat's a good place to start.",
-      "text": "Von dort geht es zur Pawn-Kathedrale.\r\nDamit fängst du am besten an."
+      "text": "Von dort geht es zur Vasallenkathedrale.\r\nDamit fängst du am besten an."
     },
     {
       "key": "",
       "read_index": "4",
       "source_jp": "あなたはどんなポーンと出会うのでしょうね\r\nわたしも楽しみです",
       "source_en": "What kind of Pawns will you encounter, I wonder? \r\nI'm looking forward to it as well.",
-      "text": "Was für Pawns dir wohl begegnen werden?\r\nIch bin schon gespannt."
+      "text": "Was für Vasallen dir wohl begegnen werden?\r\nIch bin schon gespannt."
     },
     {
       "key": "",
       "read_index": "5",
       "source_jp": "ほう、ポーンと契約する気になったのか\r\nふむ、それでこそ覚者だ",
       "source_en": "Oh, so you've decided \r\nto make a contract with the Pawns. \r\nWell, that's what it truly means to be an Arisen.",
-      "text": "Ah, du willst also einen Pakt mit einem Pawn\r\nschließen. Das nenne ich einen Erweckten."
+      "text": "Ah, du willst also mit einem Vasallen\r\neinen Pakt schließen. Ein wahrer Erweckter!"
     },
     {
       "key": "",
@@ -79,7 +79,7 @@
       "read_index": "10",
       "source_jp": "なるほど、《ポーン郷》か\r\nならば一度、引き返すことをすすめるよ",
       "source_en": "I see... Pawn Cathedral.\r\nThen I suggest you turn around and go back.",
-      "text": "Zur Pawn-Kathedrale?\r\nDann kehr lieber erst mal um."
+      "text": "Zur Vasallenkathedrale?\r\nDann kehr lieber erst mal um."
     },
     {
       "key": "",
@@ -107,7 +107,7 @@
       "read_index": "14",
       "source_jp": "《ポーン郷》方面はしばらくのあいだ\r\nテル村経由で行くしかないだろうな",
       "source_en": "The area around the Pawn Cathedral will probably \r\nhave to be reached through Tel Village for a while.",
-      "text": "Eine Weile wird der einzige Weg\r\nzur Pawn-Kathedrale wohl über Tel führen."
+      "text": "Eine Weile wird der einzige Weg\r\nzur Vasallenkathedrale wohl über Tel führen."
     },
     {
       "key": "",
@@ -149,7 +149,7 @@
       "read_index": "20",
       "source_jp": "貴君は今、《ポーン郷》へ行きたいのだろう？\r\nならば、丁度良い",
       "source_en": "Are you looking to go to the Pawn Cathedral?\r\nPerfect timing if that's the case.",
-      "text": "Ihr wollt zur Pawn-Kathedrale?\r\nDas trifft sich gut."
+      "text": "Ihr wollt zur Vasallenkathedrale?\r\nDas trifft sich gut."
     },
     {
       "key": "",
@@ -170,7 +170,7 @@
       "read_index": "23",
       "source_jp": "《ポーン郷》へと続く《狩人の抜け穴》を\r\n貴君が通れるようにしておこう\r\nやや危険だが、貴君なら問題ないだろう",
       "source_en": "I will ensure that you can pass through\r\nthe Hunters' Secret Passage that leads to\r\nthe Pawn Cathedral. The path may prove dangerous,\r\nbut I'm sure you will be able to handle it.",
-      "text": "Ich gebe Euch den Geheimgang der Jäger frei.\r\nEr führt zur Pawn-Kathedrale. Der Weg birgt\r\nein paar Gefahren, aber Ihr werdet ihn meistern."
+      "text": "Ich gebe Euch den Geheimgang der Jäger frei.\r\nEr führt zur Vasallenkathedrale. Der Weg birgt\r\nGefahren, aber Ihr werdet ihn meistern."
     },
     {
       "key": "",
@@ -226,14 +226,14 @@
       "read_index": "31",
       "source_jp": "だったらポーン郷へ行っちゃおう！",
       "source_en": "In that case, let's go to Pawn Cathedral!",
-      "text": "Dann auf zur Pawn-Kathedrale!"
+      "text": "Dann auf zur Vasallenkathedrale!"
     },
     {
       "key": "",
       "read_index": "32",
       "source_jp": "これはこれは、新しき覚者さま\r\nお待ち申しておりました\r\nここは我らポーンの民が集いし《ポーン郷》",
       "source_en": "Greetings, greetings, esteemed new Arisen.\r\nWe have been eagerly awaiting your arrival.\r\nThis is the gathering place of our Pawn \r\ncommunity, the \"Pawn Cathedral\".",
-      "text": "Ah, ein neuer Erweckter!\r\nWir haben Euch erwartet. Willkommen in\r\nder Pawn-Kathedrale, dem Heim unseres Volkes."
+      "text": "Ah, ein neuer Erweckter!\r\nWir haben Euch erwartet. Willkommen\r\nin der Vasallenkathedrale, unserem Heim."
     },
     {
       "key": "",
@@ -254,35 +254,35 @@
       "read_index": "35",
       "source_jp": "《ポーン郷》へようこそ\r\nわたしはここの管理人アルヴァー",
       "source_en": "Welcome to the Pawn Cathedral.\r\nI am the caretaker of this place, Alvar.",
-      "text": "Willkommen in der Pawn-Kathedrale.\r\nIch bin Alvar, der Vorsteher hier."
+      "text": "Willkommen in der Vasallenkathedrale.\r\nIch bin Alvar, der Vorsteher hier."
     },
     {
       "key": "",
       "read_index": "36",
       "source_jp": "さて、覚者よ\r\n貴君はまだポーンについて何も知るまい",
       "source_en": "Now, O Arisen, you may not yet know \r\nanything about Pawns.",
-      "text": "Nun, Erweckter, Ihr wisst wohl noch wenig\r\nüber uns Pawns."
+      "text": "Nun, Erweckter, Ihr wisst wohl noch wenig\r\nüber uns Vasallen."
     },
     {
       "key": "",
       "read_index": "37",
       "source_jp": "――気にするな\r\n最初は誰でも同じだ\r\nそんなことで我々ポーンは貴君を\r\n見限ったりはしない",
       "source_en": "Don't worry about it.\r\nAt first, everyone is the same.\r\nWe Pawns won't abandon you just\r\nbecause of something like that.",
-      "text": "Macht Euch nichts daraus. So geht es jedem\r\nam Anfang. Wir Pawns lassen Euch\r\ndeswegen nicht im Stich."
+      "text": "Macht Euch nichts daraus. So geht es jedem\r\nam Anfang. Wir Vasallen lassen Euch\r\ndeswegen nicht im Stich."
     },
     {
       "key": "",
       "read_index": "38",
       "source_jp": "――いや、見限るなど、できないのだ\r\nポーンには己の意志や感情がない\r\n欲望、野望――何もなく、ただ覚者の\r\n意志に従うのみ",
       "source_en": "No, it's impossible to abandon them.\r\nPawns have no will or emotions of their own.\r\nNo desires, ambitions—nothing,\r\nthey simply follow the will of the Arisen.",
-      "text": "Wir könnten Euch gar nicht im Stich lassen.\r\nPawns haben keinen eigenen Willen und\r\nkeine Gefühle, keine Wünsche, keinen Ehrgeiz.\r\nWir folgen allein dem Willen der Erweckten."
+      "text": "Wir könnten Euch gar nicht im Stich lassen.\r\nVasallen haben keinen eigenen Willen und\r\nkeine Gefühle, keine Wünsche, keinen Ehrgeiz.\r\nWir folgen allein dem Willen der Erweckten."
     },
     {
       "key": "",
       "read_index": "39",
       "source_jp": "ポーンは異界から来た不倒の戦士だ",
       "source_en": "Pawns are unyielding warriors who have \r\ncome from a different realm.",
-      "text": "Pawns sind unbezwingbare Krieger\r\naus einer anderen Welt."
+      "text": "Vasallen sind unbezwingbare Krieger\r\naus einer anderen Welt."
     },
     {
       "key": "",
@@ -310,7 +310,7 @@
       "read_index": "43",
       "source_jp": "ポーンとの契約を望む者は\r\n《異界の狭間》へ行かねばならぬが\r\nそれが許されるのは一時にただひとりだけ",
       "source_en": "Those who wish to make a contract with\r\nPawns must go to \"The Rift\".\r\nBut only one person is allowed to do so \r\nat a time.",
-      "text": "Wer einen Pakt mit einem Pawn schließen will,\r\nmuss in den Rift. Das ist jeweils nur\r\neiner Person gestattet."
+      "text": "Für den Pakt mit einem Vasallen müsst Ihr\r\nin den Rift. Dort darf jeweils nur\r\neine Person hinein."
     },
     {
       "key": "",

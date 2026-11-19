@@ -23,14 +23,14 @@
       "read_index": "5",
       "source_jp": "メインポーン",
       "source_en": "Main Pawns",
-      "text": "Hauptpawns"
+      "text": "Hauptvasallen"
     },
     {
       "key": "party_list_spawn",
       "read_index": "6",
       "source_jp": "サポートポーン",
       "source_en": "Support Pawns",
-      "text": "Hilfspawns"
+      "text": "Hilfsvasallen"
     },
     {
       "key": "party_list_leave",
@@ -89,6 +89,13 @@
       "text": "Eintrag"
     },
     {
+      "key": "party_list_pawn",
+      "read_index": "23",
+      "source_jp": "Pawn",
+      "source_en": "Pawn",
+      "text": "Vasall"
+    },
+    {
       "key": "party_list_guide_switch",
       "read_index": "30",
       "source_jp": "表示切り替え",
@@ -128,14 +135,14 @@
       "read_index": "35",
       "source_jp": "ポーンと契約していません",
       "source_en": "You have not made a contract with any pawns",
-      "text": "Du hast noch keinen Pakt mit einem Pawn geschlossen."
+      "text": "Du hast noch keinen Pakt mit einem Vasallen geschlossen."
     },
     {
       "key": "party_list_notfound_support_pawn",
       "read_index": "36",
       "source_jp": "ポーンを雇用していません",
       "source_en": "You have not hired any pawns",
-      "text": "Du hast keine Pawns angeheuert."
+      "text": "Du hast keine Vasallen angeheuert."
     }
   ]
 }
