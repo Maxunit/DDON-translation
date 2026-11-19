@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\ui\\Quest_res.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "QUEST_MSG_ENEMYINFO",
+      "read_index": "103",
+      "source_jp": "魔物情報",
+      "source_en": "Enemies",
+      "text": "Gegner"
+    }
+  ]
+}

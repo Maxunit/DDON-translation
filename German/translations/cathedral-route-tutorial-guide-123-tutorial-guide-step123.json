@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step123.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_123.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_109",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《エリアマスター》情報が解放されました！</COL>\r\n<COL ffdc78>《エリアマスター》</COL>とは、地域の事情に\r\n精通した人物です\r\n各エリアに１人ずつ存在し、その地域の\r\nクエストや注意すべき魔物の存在、冒険スポット\r\nについての情報を与えてくれます",
+      "source_en": "<COL 78f5ff>Area Master information has been unlocked!</COL>\r\nAn <COL ffdc78>Area Master</COL> is someone who is well-versed in\r\nthe local situation.\r\nThere is one person in each area who can provide\r\ninformation about quests, notable enemies to\r\nwatch out for, and adventure\r\nspots in that region.",
+      "text": "<COL 78f5ff>Infos zu Gebietsmeistern sind jetzt verfügbar!</COL>\r\nEin <COL ffdc78>Gebietsmeister</COL> kennt sich in seiner Gegend aus.\r\nIn jedem Gebiet gibt es einen. Er informiert\r\ndich über Quests, gefährliche Gegner\r\nund besondere Orte."
+    },
+    {
+      "key": "TUTORIAL_STEP_108",
+      "read_index": "1",
+      "source_jp": "彼らと交流し地域のクエストに\r\n取り組むことで、エリアにさまざまな変化が\r\n起こるほか、訪れた覚者への支援品を\r\n受け取ることもできます\r\n<COL ffdc78>エリアを探索する際は、まず彼らの元へ\r\n立ち寄るといいでしょう</COL>",
+      "source_en": "By interacting with them and engaging in local\r\nquests, various changes can occur in the area.\r\nAdditionally, you can also\r\nreceive support items.\r\n<COL ffdc78>When exploring the area, it is advisable\r\nto first visit them.</COL>",
+      "text": "Hilf dem Gebietsmeister bei regionalen Quests.\r\nDadurch kann sich das Gebiet verändern.\r\nDu kannst bei ihm auch Vorräte erhalten.\r\n<COL ffdc78>Wenn du ein Gebiet erkundest, statte ihm\r\nam besten zuerst einen Besuch ab.</COL>"
+    }
+  ]
+}

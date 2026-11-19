@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\master\\area1_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "source_jp": "ハイデル平原",
+      "source_en": "Hidell Plains",
+      "text": "Hidell-Ebene"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "13",
+      "source_jp": "廃屋の地下室",
+      "source_en": "Abandoned House Cellar",
+      "text": "Keller des verlassenen Hauses"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "14",
+      "source_jp": "狩人の抜け穴",
+      "source_en": "Hunters' Secret Passage",
+      "text": "Geheimgang der Jäger"
+    }
+  ]
+}

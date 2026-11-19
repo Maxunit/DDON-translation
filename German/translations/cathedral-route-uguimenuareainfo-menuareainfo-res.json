@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\ui\\MenuAreaInfo_res.gmd",
+  "arc_path": "\\ui\\uGUIMenuAreaInfo.arc",
+  "entries": [
+    {
+      "key": "mai_msg_title_e",
+      "read_index": "0",
+      "source_jp": "Area List",
+      "source_en": "Area List",
+      "text": "Gebietsliste"
+    },
+    {
+      "key": "mai_msg_nodeta",
+      "read_index": "1",
+      "source_jp": "データがありません",
+      "source_en": "There is no data",
+      "text": "Keine Daten"
+    },
+    {
+      "key": "mai_msg_title_j",
+      "read_index": "2",
+      "source_jp": "エリアリスト",
+      "source_en": "Area List",
+      "text": "Gebietsliste"
+    },
+    {
+      "key": "mai_msg_category_area",
+      "read_index": "3",
+      "source_jp": "エリア",
+      "source_en": "Area",
+      "text": "Gebiet"
+    },
+    {
+      "key": "mai_msg_category_rank",
+      "read_index": "4",
+      "source_jp": "ランク",
+      "source_en": "Rank",
+      "text": "Rang"
+    },
+    {
+      "key": "mai_msg_next",
+      "read_index": "5",
+      "source_jp": "次のランクアップまで",
+      "source_en": "Next rank up",
+      "text": "Nächster Rang"
+    },
+    {
+      "key": "mai_msg_weekly",
+      "read_index": "6",
+      "source_jp": "今週の獲得AP",
+      "source_en": "AP gained this week",
+      "text": "AP diese Woche"
+    },
+    {
+      "key": "mai_msg_rank",
+      "read_index": "7",
+      "source_jp": "Rank",
+      "source_en": "Rank",
+      "text": "Rang"
+    },
+    {
+      "key": "mai_msg_clan_point_total",
+      "read_index": "8",
+      "source_jp": "クラン累計AP",
+      "source_en": "Clan gained AP",
+      "text": "Clan-AP gesammelt"
+    },
+    {
+      "key": "mai_msg_clan_point_max",
+      "read_index": "9",
+      "source_jp": "クラン最大貢献AP",
+      "source_en": "Clan maximum AP",
+      "text": "Max. Clan-AP"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\quest_info\\q00000003_00.gmd",
+  "arc_path": "\\quest\\q00000003.arc",
+  "entries": [
+    {
+      "key": "q00000003_00_4",
+      "read_index": "0",
+      "source_jp": "和解の使者",
+      "source_en": "Envoy of Reconciliation",
+      "text": "Gesandter der Versöhnung"
+    },
+    {
+      "key": "q00000003_00_4",
+      "read_index": "1",
+      "source_jp": "魔物撃退の任務について対立する\r\n覚者と白衛騎士団のいさかいを鎮める",
+      "source_en": "Intervene to quell the conflict\r\nbetween the Arisen Corps and the White Guard Knights",
+      "text": "Schlichte den Streit zwischen den Erweckten und\r\nden Rittern der Weißen Garde um die Monsterjagd."
+    },
+    {
+      "key": "q00000003_00_956",
+      "read_index": "2",
+      "source_jp": "テル村へ向かう",
+      "source_en": "Head to the village of Tel",
+      "text": "Geh ins Dorf Tel"
+    },
+    {
+      "key": "q00000003_00_957",
+      "read_index": "3",
+      "source_jp": "黒ブドウ亭にいるアルフレドから事情を聞く",
+      "source_en": "Consult Alfred in the Black Grape Inn",
+      "text": "Sprich mit Alfred im Gasthaus Zur Schwarzen Traube"
+    },
+    {
+      "key": "q00000003_00_1527",
+      "read_index": "4",
+      "source_jp": "テル村の＜拠点の礎＞を解放しマイ拠点に登録する",
+      "source_en": "Register the Tel Village Portcrystal",
+      "text": "Schalte den Zielkristall in Tel frei und speichere ihn als Favoriten"
+    },
+    {
+      "key": "q00000003_00_958",
+      "read_index": "5",
+      "source_jp": "廃屋の地下室を調査する",
+      "source_en": "Investigate the Abandoned House Cellar",
+      "text": "Untersuche den Keller des verlassenen Hauses"
+    },
+    {
+      "key": "q00000003_00_959",
+      "read_index": "6",
+      "source_jp": "遭遇した敵を殲滅する",
+      "source_en": "Exterminate the encountered enemy",
+      "text": "Besiege die Untoten"
+    },
+    {
+      "key": "q00000003_00_960",
+      "read_index": "7",
+      "source_jp": "アルフレドに成果を報告する",
+      "source_en": "Report the outcome to Alfred",
+      "text": "Berichte Alfred"
+    },
+    {
+      "key": "q00000003_00_961",
+      "read_index": "8",
+      "source_jp": "騎士団員らのいる場所に行く",
+      "source_en": "Return to the troops' location",
+      "text": "Kehre zu den Truppen zurück"
+    },
+    {
+      "key": "q00000003_00_962",
+      "read_index": "9",
+      "source_jp": "リム転移で神殿に戻り、謁見の間のレオに報告する",
+      "source_en": "Warp back to the Temple and report to Leo",
+      "text": "Reise per Rift-Transport zum Tempel und berichte Leo"
+    }
+  ]
+}

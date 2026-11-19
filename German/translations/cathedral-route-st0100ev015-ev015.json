@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\event\\st0100\\ev015.gmd",
+  "arc_path": "\\event\\st0100\\st0100ev015.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "今度はなんだ？　奴らに聞かせるなよ",
+      "source_en": "What is it this time? Don't let them hear you.",
+      "text": "Was ist jetzt? Ich hab dich nicht verstanden."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "なんだと！？\r\n魔物を倒しただって？",
+      "source_en": "What did you say!?\r\nYou took care of it?",
+      "text": "Du hast sie erledigt?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "今、なんと言った？",
+      "source_en": "Huh, what was that?",
+      "text": "Was hast du da gerade gesagt?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "騎士団さんよ、人が悪いぜ\r\n魔物はすっかり倒したらしいじゃねえか",
+      "source_en": "Hey, knights! Cut the slack. It seems the\r\nmonsters are all defeated.",
+      "text": "Tja, Ritter, wir waren schneller.\r\nDie Monster sind schon weg."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "ったく！\r\nおれたちは帰る！　ああ、帰るぞ！",
+      "source_en": "Right then, we're going back! \r\nYeah, time to head home!",
+      "text": "Wir gehen."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "なんの話だ――",
+      "source_en": "What are you even...",
+      "text": "Wovon redest du?"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "source_jp": "おまえ、騎士団副長のハインツだろ？",
+      "source_en": "You're the vice captain of the Knights, \r\nHeinz, yeah?",
+      "text": "Vizehauptmann Heinz …"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "source_jp": "そこまで出世するってのは\r\nよほど話のわかる奴に違いねえ",
+      "source_en": "To have climbed the ranks that far,\r\nyou must be pretty reasonable.",
+      "text": "Wer so einen Rang hat,\r\nwird doch zur Vernunft fähig sein."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "source_jp": "だから、ここの魔物を退治したのは\r\nあんたか部下の誰かってことにしておけ",
+      "source_en": "So, let's just say that you or one of your\r\nsubordinates took care of the problem here.",
+      "text": "Offiziell hast du die Monster erledigt.\r\nOder einer deiner Leute."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "source_jp": "それから新入り、おまえ――",
+      "source_en": "And you, the newcomer...",
+      "text": "Neuling …"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "source_jp": "いろいろ文句はあるだろうが全部飲み込め\r\n疑問も飲み込め",
+      "source_en": "You may some complaints about this,\r\nbut just forget about them.\r\nSwallow your doubts as well.",
+      "text": "Spar dir Einwände und Fragen."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "source_jp": "ここにいる全員、おまえの手柄は忘れない\r\nだが、公式には騎士団が倒したことにする",
+      "source_en": "Everyone here will never forget your achievement,\r\nbut officially, we'll credit the knighthood for\r\nhandling it.",
+      "text": "Wir vergessen deine Leistung nicht.\r\nFür alle anderen waren es die Ritter."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "source_jp": "いいな？",
+      "source_en": "Isn't it nice?",
+      "text": "Verstanden?"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "source_jp": "はん！　その手には乗るか！",
+      "source_en": "Hah! You think I'll fall for that?!",
+      "text": "Ha! Darauf falle ich nicht rein."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "source_jp": "恩を売りつけようというのか？\r\n貸しを作っておこうという魂胆か！？",
+      "source_en": "Are you trying to curry my favor?\r\nOr is your intention to create a debt!?",
+      "text": "Sollen wir dir jetzt etwas schuldig sein?"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "source_jp": "はっ！",
+      "source_en": "Ah!",
+      "text": "Jawohl!"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "source_jp": "怒声が木々に響き渡っているが――\r\n揉め事ではないだろうな",
+      "source_en": "I heard raised voices echoing through the trees, \r\nbut it doesn't look like there's a fight.",
+      "text": "Ich habe euch rufen hören.\r\nIhr streitet doch nicht etwa?"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "source_jp": "信じられないことだが、騎士と見れば\r\n因縁をつける志の低い覚者もいるようだ",
+      "source_en": "It's hard to believe, but there are some\r\nlow-minded Arisen who pick fights with Knights at\r\nthe slightest provocation.",
+      "text": "Manche Erweckte suchen Streit mit den Rittern."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "source_jp": "まさか挑発に――",
+      "source_en": "Of course,  we wouldn't actually take the bait...",
+      "text": "Ihr werdet euch doch nicht …"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "source_jp": "とんでもありません！",
+      "source_en": "No, certainly not!",
+      "text": "Keineswegs!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "source_jp": "騎士団長さんよ、信じてやりな\r\nこいつはおれたちの不作法をいさめただけだ",
+      "source_en": "Oh Captain of the Knights, please believe me.\r\nThis person merely reprimanded our rudeness.",
+      "text": "Glaubt ihnen, Hauptmann.\r\nSie haben uns für unser Benehmen gerügt."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "source_jp": "ハインツたち、いい仕事をしたぜ？\r\n魔物はもういない――静かなもんだ",
+      "source_en": "Heinz and the others did a great job, huh?\r\nThe trouble is resolved;\r\nPeace has been restored.",
+      "text": "Heinz hat gute Arbeit geleistet.\r\nDie Monster sind weg. Jetzt ist Ruhe."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "source_jp": "――ほう\r\n任務はすでに完了したというのか",
+      "source_en": "Oh, so it's true that the mission \r\nhas already been completed?",
+      "text": "Schon erledigt?"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "source_jp": "ふむ――\r\nレオから報告を受けて慌ててここへ来たが",
+      "source_en": "Hmm...\r\nI hurried here upon receiving a report\r\nfrom Leo, but...",
+      "text": "Leo bat mich, nach dem Rechten zu sehen.\r\nIch bin sofort aufgebrochen."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "source_jp": "取り越し苦労だったようだな\r\nでは、一同、神殿へ戻るがいい",
+      "source_en": "It seems that I was overly worried.\r\nWell then, everyone, let us return to the Temple.",
+      "text": "Meine Sorge war wohl unbegründet.\r\nKehrt alle zum Tempel zurück."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "source_jp": "よし、じゃあ、覚者も解散だ！",
+      "source_en": "Alright, then. It's time for the Arisen to\r\nhead back as well!",
+      "text": "Erweckte, auseinander!"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "source_jp": "お疲れだったな\r\n特におまえ――よくこらえた、いい根性だ",
+      "source_en": "Good work, everyone.\r\nEspecially you—you really hung in there. \r\nThat shows some real grit.",
+      "text": "Gut gemacht, Neuling.\r\nDu kannst dich zusammenreißen."
+    }
+  ]
+}

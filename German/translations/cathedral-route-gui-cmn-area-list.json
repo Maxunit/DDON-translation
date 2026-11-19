@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\common\\area_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "AREA_NAME_1",
+      "read_index": "0",
+      "source_jp": "ハイデル平原",
+      "source_en": "Hidell Plains",
+      "text": "Hidell-Ebene"
+    },
+    {
+      "key": "AREA_NAME_3",
+      "read_index": "2",
+      "source_jp": "ミスリウ森林",
+      "source_en": "Mysree Forest",
+      "text": "Mysree-Wald"
+    }
+  ]
+}

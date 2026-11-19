@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\npc\\func_select_name.gmd",
+  "arc_path": "\\game_common.arc",
+  "entries": [
+    {
+      "key": "FUNC_SELECT_NAME_21",
+      "read_index": "18",
+      "source_jp": "エリア情報",
+      "source_en": "Area Information",
+      "text": "Gebietsinformation"
+    }
+  ]
+}

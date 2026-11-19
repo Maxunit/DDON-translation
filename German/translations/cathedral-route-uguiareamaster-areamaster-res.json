@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\ui\\AreaMaster_res.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "areamaster_msg_rank",
+      "read_index": "0",
+      "source_jp": "Rank",
+      "source_en": "Rank",
+      "text": "Rang"
+    },
+    {
+      "key": "areamaster_msg_questhint_e",
+      "read_index": "1",
+      "source_jp": "Quest Hint",
+      "source_en": "Quest Hint",
+      "text": "Questhinweis"
+    },
+    {
+      "key": "areamaster_msg_questhint_j",
+      "read_index": "2",
+      "source_jp": "クエストヒント",
+      "source_en": "Quest Hint",
+      "text": "Questhinweis"
+    },
+    {
+      "key": "areamaster_msg_abstraction",
+      "read_index": "3",
+      "source_jp": "概要",
+      "source_en": "Overview",
+      "text": "Übersicht"
+    },
+    {
+      "key": "areamaster_msg_reward",
+      "read_index": "4",
+      "source_jp": "報酬",
+      "source_en": "Reward",
+      "text": "Belohnung"
+    },
+    {
+      "key": "areamaster_msg_title_e",
+      "read_index": "13",
+      "source_jp": "Area Status",
+      "source_en": "Area Status",
+      "text": "Gebietsinformation"
+    },
+    {
+      "key": "areamaster_msg_spot_info",
+      "read_index": "14",
+      "source_jp": "スポット情報",
+      "source_en": "Spot Info",
+      "text": "Ortsinfo"
+    },
+    {
+      "key": "areamaster_msg_populator",
+      "read_index": "15",
+      "source_jp": "入手可能アイテム",
+      "source_en": "Available Items",
+      "text": "Mögliche Funde"
+    },
+    {
+      "key": "areamaster_msg_title_j",
+      "read_index": "16",
+      "source_jp": "エリア説明",
+      "source_en": "Area Status",
+      "text": "Gebietsinformation"
+    },
+    {
+      "key": "areamaster_msg_areacontribution_e",
+      "read_index": "17",
+      "source_jp": "エリア名声度",
+      "source_en": "Area Reputation",
+      "text": "Gebietsansehen"
+    },
+    {
+      "key": "areamaster_msg_areacontribution_j",
+      "read_index": "18",
+      "source_jp": "Area Reputation",
+      "source_en": "Area Reputation",
+      "text": "Gebietsansehen"
+    },
+    {
+      "key": "areamaster_msg_rankbonus",
+      "read_index": "19",
+      "source_jp": "ランクボーナス",
+      "source_en": "Rank Bonus",
+      "text": "Rangbonus"
+    },
+    {
+      "key": "areamaster_msg_contribution",
+      "read_index": "20",
+      "source_jp": "名声度",
+      "source_en": "Reputation",
+      "text": "Ansehen"
+    },
+    {
+      "key": "areamaster_msg_next",
+      "read_index": "21",
+      "source_jp": "次のランクアップまで",
+      "source_en": "Next rank up",
+      "text": "Nächster Rang"
+    },
+    {
+      "key": "areamaster_msg_ap_thisweek",
+      "read_index": "22",
+      "source_jp": "今週のポイント",
+      "source_en": "Points This Week",
+      "text": "Punkte diese Woche"
+    },
+    {
+      "key": "areamaster_msg_clear",
+      "read_index": "30",
+      "source_jp": "Clear",
+      "source_en": "Clear",
+      "text": "Abgeschlossen"
+    },
+    {
+      "key": "areamaster_msg_map_title",
+      "read_index": "33",
+      "source_jp": "Area Map",
+      "source_en": "Area Map",
+      "text": "Gebietskarte"
+    },
+    {
+      "key": "areamaster_msg_area_point_title",
+      "read_index": "36",
+      "source_jp": "エリア名声度：<NAME AREA_NAME>",
+      "source_en": "Area Reputation: <NAME AREA_NAME>",
+      "text": "Ansehen in <NAME AREA_NAME>"
+    },
+    {
+      "key": "areamaster_msg_checkmap",
+      "read_index": "37",
+      "source_jp": "地図で確認",
+      "source_en": "Check Map",
+      "text": "Karte ansehen"
+    },
+    {
+      "key": "areamaster_msg_detectedquest",
+      "read_index": "40",
+      "source_jp": "公開クエスト",
+      "source_en": "Discovered Quests",
+      "text": "Entdeckte Quests"
+    },
+    {
+      "key": "areamaster_msg_undetectedquest",
+      "read_index": "41",
+      "source_jp": "未公開クエスト",
+      "source_en": "Undiscovered Quests",
+      "text": "Unentdeckte Quests"
+    },
+    {
+      "key": "areamaster_msg_no_watch",
+      "read_index": "42",
+      "source_jp": "今のところ警戒情報はない",
+      "source_en": "There is no warning information so far",
+      "text": "Derzeit keine Warnhinweise"
+    },
+    {
+      "key": "areamaster_msg_close",
+      "read_index": "43",
+      "source_jp": "現在は封鎖されている",
+      "source_en": "Currently blocked",
+      "text": "Derzeit gesperrt"
+    },
+    {
+      "key": "areamaster_msg_disable_koukendo",
+      "read_index": "47",
+      "source_jp": "パーティーリーダーしか閲覧できません",
+      "source_en": "Only viewable by the Party Leader",
+      "text": "Nur für die Gruppenleitung sichtbar"
+    },
+    {
+      "key": "areamaster_msg_tab_rewardlist",
+      "read_index": "49",
+      "source_jp": "支援品　一覧",
+      "source_en": "Support Goods List",
+      "text": "Vorräte"
+    },
+    {
+      "key": "areamaster_msg_tab_bonus",
+      "read_index": "50",
+      "source_jp": "名声度",
+      "source_en": "Reputation",
+      "text": "Ansehen"
+    },
+    {
+      "key": "areamaster_msg_area_trial",
+      "read_index": "54",
+      "source_jp": "特殊条件",
+      "source_en": "Trial",
+      "text": "Prüfung"
+    },
+    {
+      "key": "areamaster_msg_header_recommend_level",
+      "read_index": "56",
+      "source_jp": "推奨レベル",
+      "source_en": "Recommended Level",
+      "text": "Empf. Stufe"
+    },
+    {
+      "key": "areamaster_msg_header_spot",
+      "read_index": "57",
+      "source_jp": "スポット",
+      "source_en": "Spot",
+      "text": "Ort"
+    },
+    {
+      "key": "areamaster_msg_release_condition",
+      "read_index": "63",
+      "source_jp": "解放条件",
+      "source_en": "Unlock Conditions",
+      "text": "Voraussetzungen"
+    },
+    {
+      "key": "areamaster_msg_release_rank",
+      "read_index": "64",
+      "source_jp": "エリアランク<VAL>に到達",
+      "source_en": "Reach Area Rank <VAL>",
+      "text": "Gebietsrang <VAL> erreichen"
+    },
+    {
+      "key": "areamaster_msg_release_personal_quest",
+      "read_index": "65",
+      "source_jp": "クエスト＜<VAL>＞を進行、またはクリア",
+      "source_en": "Progress or clear quest \"<VAL>\"",
+      "text": "Quest „<VAL>“ vorantreiben oder abschließen"
+    }
+  ]
+}

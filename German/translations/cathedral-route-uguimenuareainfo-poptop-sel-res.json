@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\ui\\poptop_sel_res.gmd",
+  "arc_path": "\\ui\\uGUIMenuAreaInfo.arc",
+  "entries": [
+    {
+      "key": "poptop_spotinfo",
+      "read_index": "10",
+      "source_jp": "スポット情報",
+      "source_en": "Spot Info",
+      "text": "Ortsinfo"
+    },
+    {
+      "key": "poptop_areamaster_en",
+      "read_index": "13",
+      "source_jp": "Area Master",
+      "source_en": "Area Master",
+      "text": "Gebietsmeister"
+    }
+  ]
+}

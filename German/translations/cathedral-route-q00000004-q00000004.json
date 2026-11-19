@@ -1,0 +1,330 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\quest\\q00000004.gmd",
+  "arc_path": "\\quest\\q00000004.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "【ヒント：遠方への冒険準備】",
+      "source_en": "[Hint: Preparation for Distant Adventures]",
+      "text": "[Tipp: Ausrüstung für lange Reisen]"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "遠方へ向かう前は、保管ボックスや商店で\r\n装備を整えましょう\r\n※保管ボックスの《報酬受け取り》から\r\n　LV.5用武器を入手し、装備しましょう",
+      "source_en": "Before heading off into the distance, let's \r\nprepare equipment at the Storage Box and shops.\r\n※Obtain a LV.5 weapon from the \"Quest Rewards\" \r\nin the Storage Box and equip it.",
+      "text": "Rüste dich an der Lagerkiste und bei Händlern\r\nfür die Reise aus. Hol unter „Questbelohnungen“\r\nan der Lagerkiste eine Waffe für Stufe 5 ab\r\nund lege sie an."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "テル村へはリム転移を使えばすぐに行けるよ\r\nそこでエリアマスターのアルフレドと会う",
+      "source_en": "You can quickly go to Tel Village \r\nusing Rift Teleport.\r\nThere, you will meet the Area Master, Alfred.",
+      "text": "Per Rift-Transport bist du schnell in Tel.\r\nDort triffst du Alfred, den Gebietsmeister."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "そして《ポーン郷》へ行く\r\nまずは、そこからだね",
+      "source_en": "And then you'll go to the [Pawn Cathedral].\r\nThat's a good place to start.",
+      "text": "Von dort geht es zur Pawn-Kathedrale.\r\nDamit fängst du am besten an."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "あなたはどんなポーンと出会うのでしょうね\r\nわたしも楽しみです",
+      "source_en": "What kind of Pawns will you encounter, I wonder? \r\nI'm looking forward to it as well.",
+      "text": "Was für Pawns dir wohl begegnen werden?\r\nIch bin schon gespannt."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "ほう、ポーンと契約する気になったのか\r\nふむ、それでこそ覚者だ",
+      "source_en": "Oh, so you've decided \r\nto make a contract with the Pawns. \r\nWell, that's what it truly means to be an Arisen.",
+      "text": "Ah, du willst also einen Pakt mit einem Pawn\r\nschließen. Das nenne ich einen Erweckten."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "source_jp": "ふふふ――\r\nどうやら本決まりになりそうなんだ\r\n例の話――",
+      "source_en": "Hehehe—\r\nLooks like it's going to be official.\r\nThat thing we talked about—",
+      "text": "Hehe … Unsere Sache steht wohl kurz davor,\r\noffiziell zu werden. Du weißt schon …"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "source_jp": "ああ、話したい！　しゃべってしまいたい！",
+      "source_en": "Oh, I want to talk! I want to speak!",
+      "text": "Ach, es juckt mich so, es dir zu erzählen!"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "source_jp": "この先は行き止まりだ",
+      "source_en": "It's a dead end.",
+      "text": "Hier geht es nicht weiter."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "source_jp": "前の大水で橋が流されてな\r\n復旧の目処はまったく立っていない\r\n――どこへ行くつもりなんだ？",
+      "source_en": "The bridge was washed away in the previous flood,\r\nand there is no prospect of restoration at all.\r\nWhere do you intend to go?",
+      "text": "Die letzte Flut hat die Brücke weggespült.\r\nWir wissen noch nicht, wann sie wieder steht.\r\nWo willst du hin?"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "source_jp": "なるほど、《ポーン郷》か\r\nならば一度、引き返すことをすすめるよ",
+      "source_en": "I see... Pawn Cathedral.\r\nThen I suggest you turn around and go back.",
+      "text": "Zur Pawn-Kathedrale?\r\nDann kehr lieber erst mal um."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "source_jp": "テル村へ行ってアルフレドに相談するといい\r\n確か、村から森の方へ抜けられる道が\r\nあったはずだ",
+      "source_en": "It would be a good idea to go to Tel Village and \r\nconsult with Alfred. \r\nI remember there was a path that leads \r\nfrom the village to the forest.",
+      "text": "Frag Alfred in Tel. Vom Dorf aus führt,\r\nglaube ich, ein Weg in den Wald."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "source_jp": "橋はいつ直るのかって？",
+      "source_en": "When will the bridge be repaired?",
+      "text": "Wann die Brücke wieder steht?"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "source_jp": "さあな――ミスリウの森の材木があれば\r\n良いのだろうが――\r\nここまで木を運ぶのはかなり大変だ",
+      "source_en": "I don't know—\r\nWell, I suppose it would be good to have lumber \r\nfrom the Mysree Forest. \r\nBut it's quite difficult to \r\ntransport it all the way here.",
+      "text": "Tja … Holz aus dem Mysree-Wald wäre gut.\r\nAber es bis hierher zu schaffen, ist mühsam."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "source_jp": "《ポーン郷》方面はしばらくのあいだ\r\nテル村経由で行くしかないだろうな",
+      "source_en": "The area around the Pawn Cathedral will probably \r\nhave to be reached through Tel Village for a while.",
+      "text": "Eine Weile wird der einzige Weg\r\nzur Pawn-Kathedrale wohl über Tel führen."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "source_jp": "おお、貴君は――\r\nいつぞやはご苦労だったな",
+      "source_en": "Oh, it's you...\r\nYou had some troubles the other day.",
+      "text": "Ah, Ihr seid es.\r\nNochmals vielen Dank für Eure Hilfe neulich."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "source_jp": "あらためて挨拶をさせてもらおう\r\nわたしはハイデル平原のエリアマスター\r\n覚者のアルフレドだ",
+      "source_en": "Let's have a proper introduction.\r\nI am the Area Master of the Hidell Plains,\r\nAlfred the Arisen.",
+      "text": "Lasst mich Euch ordentlich begrüßen.\r\nIch bin Alfred, Erweckter und Gebietsmeister\r\nder Hidell-Ebene."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "source_jp": "知っていると思うがエリアマスターとは\r\n担当地区を取り仕切る監督官のことだ",
+      "source_en": "I think you already know, but an Area Master is \r\nthe supervisor who oversees a designated area.",
+      "text": "Wie Ihr vermutlich wisst, beaufsichtigt\r\nein Gebietsmeister die ihm zugeteilte Gegend."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "source_jp": "さて――\r\n我々エリアマスターは、エリアを訪れる覚者に対し\r\n情報の提供や、アイテムの支給を行っている",
+      "source_en": "Now then— \r\nAs Area Masters, we provide information and \r\nsupply items to the Arisen who visit our areas.",
+      "text": "Wir informieren die Erweckten, die unsere\r\nGebiete besuchen, und versorgen sie mit Vorräten."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "source_jp": "また、エリアの名声度\r\n――つまり、《エリアランク》が高い者に対しては\r\n封鎖された場所への立入許可を\r\n与えることもできるのだ",
+      "source_en": "Furthermore, for individuals with high area fame,\r\nin other words, a high \"Area Rank\",\r\naccess permits to sealed areas \r\ncan also be granted.",
+      "text": "Wir können auch Zugang zu gesperrten Orten\r\ngewähren. Dafür braucht Ihr genug Ansehen\r\nin der Gegend, also einen hohen Gebietsrang."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "source_jp": "貴君は今、《ポーン郷》へ行きたいのだろう？\r\nならば、丁度良い",
+      "source_en": "Are you looking to go to the Pawn Cathedral?\r\nPerfect timing if that's the case.",
+      "text": "Ihr wollt zur Pawn-Kathedrale?\r\nDas trifft sich gut."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "source_jp": "以前レオの使者として貴君がここに来た時の\r\n活躍は十分評価に値する",
+      "source_en": "The achievements you made when you came here\r\nas Leo's envoy are highly commendable.",
+      "text": "Was Ihr hier als Leos Gesandter\r\ngeleistet habt, verdient Anerkennung."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "source_jp": "その礼として、封鎖エリアの一つを\r\n開放しようではないか",
+      "source_en": "As a token of gratitude,\r\nhow about we open up one of the sealed areas?",
+      "text": "Als Dank öffne ich Euch einen der gesperrten Orte."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "source_jp": "《ポーン郷》へと続く《狩人の抜け穴》を\r\n貴君が通れるようにしておこう\r\nやや危険だが、貴君なら問題ないだろう",
+      "source_en": "I will ensure that you can pass through\r\nthe Hunters' Secret Passage that leads to\r\nthe Pawn Cathedral. The path may prove dangerous,\r\nbut I'm sure you will be able to handle it.",
+      "text": "Ich gebe Euch den Geheimgang der Jäger frei.\r\nEr führt zur Pawn-Kathedrale. Der Weg birgt\r\nein paar Gefahren, aber Ihr werdet ihn meistern."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "source_jp": "では、わたしに話しかけ直して\r\n《エリア情報》を選び\r\nエリアランクとその内容を確認してくれ",
+      "source_en": "Then, please speak to me again and choose \r\n\"Area Information.\" \r\nConfirm the Area Rank and its contents for me.",
+      "text": "Sprecht mich noch einmal an und wählt\r\n„Gebietsinformation“. Seht Euch Euren\r\nGebietsrang und die Informationen dort an."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "source_jp": "さあ――、わたしに話しかけ直して\r\n《エリア情報》を選び\r\nエリアランクとその内容を確認してくれ",
+      "source_en": "Come on—please speak to me again and choose \r\n\"Area Information.\" \r\nConfirm the Area Rank and its contents for me.",
+      "text": "Sprecht mich wieder an und wählt\r\n„Gebietsinformation“. Dort findet Ihr\r\nEuren Gebietsrang und weitere Informationen."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "source_jp": "これで《狩人の抜け穴》は開放された\r\n魔物が多いから気をつけてくれ",
+      "source_en": "With this, \r\nthe Hunters' Secret Passage has been opened.\r\nBe careful, as there are many enemies.",
+      "text": "Der Geheimgang der Jäger ist jetzt offen.\r\nPasst auf, dort wimmelt es von Monstern."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "source_jp": "《狩人の抜け穴》に出る魔物やアイテムの\r\n情報は、《エリア情報》の《スポット情報》\r\nで確認していくといいだろう",
+      "source_en": "It is recommended to check the information on the \r\nmonsters and items that appear in \r\nHunters' Secret Passage in the \"Area Information\" \r\nand \"Spot Information.\"",
+      "text": "Welche Gegner und Funde Euch im Geheimgang\r\nder Jäger erwarten, steht unter „Ortsinfo“\r\nin der „Gebietsinformation“."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "source_jp": "それから――\r\nエリアポイントを貯めたら、また足を運んでくれ\r\n話しかけてくれれば、ポイントを精査して\r\n相応しい恩賞を与えよう",
+      "source_en": "And then—\r\nWhen you accumulate area points, \r\nplease come back again.\r\n\r\nIf you talk to me, \r\nI will carefully examine the points\r\nand give you a suitable reward.",
+      "text": "Sobald Ihr Gebietspunkte gesammelt habt,\r\nkommt wieder vorbei. Sprecht mich an.\r\nIch prüfe Eure Punkte und belohne Euch dafür."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "source_jp": "ああ――\r\n恩賞はエリアの開放だけではない\r\nポイントの多寡によって様々な恩賞を考えている\r\n励みになるだろう？",
+      "source_en": "Ah-...\r\nThe reward is not only the opening of the area.\r\nI am considering various rewards based on the \r\nnumber of points.\r\nIt will be encouraging, won't it?",
+      "text": "Ihr könnt Euch damit mehr verdienen\r\nals Zutritt zu gesperrten Orten. Je nach\r\nPunktestand warten verschiedene Belohnungen.\r\nDas ist doch ein Ansporn, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "source_jp": "狩人の抜け穴は開放してもらえた？",
+      "source_en": "Was the Hunter's Secret Passage opened up for use?",
+      "text": "Ist der Geheimgang der Jäger jetzt offen?"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "source_jp": "だったらポーン郷へ行っちゃおう！",
+      "source_en": "In that case, let's go to Pawn Cathedral!",
+      "text": "Dann auf zur Pawn-Kathedrale!"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "source_jp": "これはこれは、新しき覚者さま\r\nお待ち申しておりました\r\nここは我らポーンの民が集いし《ポーン郷》",
+      "source_en": "Greetings, greetings, esteemed new Arisen.\r\nWe have been eagerly awaiting your arrival.\r\nThis is the gathering place of our Pawn \r\ncommunity, the \"Pawn Cathedral\".",
+      "text": "Ah, ein neuer Erweckter!\r\nWir haben Euch erwartet. Willkommen in\r\nder Pawn-Kathedrale, dem Heim unseres Volkes."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "source_jp": "里長アルヴァーさまは聖堂の奥におられます\r\n――が、まずは左手にある《拠点の礎》を開放し\r\n登録なさいませ",
+      "source_en": "Master Alvar is located deep within the cathedral.\r\n- First, unlock the Portcrystal on your left hand \r\nside and register it.",
+      "text": "Alvar, unser Vorsteher, ist hinten in der Kathedrale.\r\nSchaltet zuerst den Zielkristall links frei\r\nund speichert ihn als Favoriten."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "source_jp": "契約の試練に行かれるにも準備をなさるにも\r\n覚者さまの拠点としてきっとお役に立つでしょう",
+      "source_en": "Whether you are going to the \r\nTrial of the Contract \r\nor preparing for it, I'm sure it will be useful \r\nas the base of the Arisen.",
+      "text": "So habt Ihr einen Stützpunkt für die Paktprüfung\r\nund die Vorbereitungen darauf."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "source_jp": "《ポーン郷》へようこそ\r\nわたしはここの管理人アルヴァー",
+      "source_en": "Welcome to the Pawn Cathedral.\r\nI am the caretaker of this place, Alvar.",
+      "text": "Willkommen in der Pawn-Kathedrale.\r\nIch bin Alvar, der Vorsteher hier."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "source_jp": "さて、覚者よ\r\n貴君はまだポーンについて何も知るまい",
+      "source_en": "Now, O Arisen, you may not yet know \r\nanything about Pawns.",
+      "text": "Nun, Erweckter, Ihr wisst wohl noch wenig\r\nüber uns Pawns."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "source_jp": "――気にするな\r\n最初は誰でも同じだ\r\nそんなことで我々ポーンは貴君を\r\n見限ったりはしない",
+      "source_en": "Don't worry about it.\r\nAt first, everyone is the same.\r\nWe Pawns won't abandon you just\r\nbecause of something like that.",
+      "text": "Macht Euch nichts daraus. So geht es jedem\r\nam Anfang. Wir Pawns lassen Euch\r\ndeswegen nicht im Stich."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "source_jp": "――いや、見限るなど、できないのだ\r\nポーンには己の意志や感情がない\r\n欲望、野望――何もなく、ただ覚者の\r\n意志に従うのみ",
+      "source_en": "No, it's impossible to abandon them.\r\nPawns have no will or emotions of their own.\r\nNo desires, ambitions—nothing,\r\nthey simply follow the will of the Arisen.",
+      "text": "Wir könnten Euch gar nicht im Stich lassen.\r\nPawns haben keinen eigenen Willen und\r\nkeine Gefühle, keine Wünsche, keinen Ehrgeiz.\r\nWir folgen allein dem Willen der Erweckten."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "source_jp": "ポーンは異界から来た不倒の戦士だ",
+      "source_en": "Pawns are unyielding warriors who have \r\ncome from a different realm.",
+      "text": "Pawns sind unbezwingbare Krieger\r\naus einer anderen Welt."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "source_jp": "けして死ぬことはなく――\r\nただ、異界に帰り、また復活する\r\nその特性から我らを\"異界渡り\"と呼ぶ者もいる",
+      "source_en": "There is no such thing as dying.\r\nInstead, we return to the other world and revive.\r\nSome even call us \"otherworld travelers\" \r\nbecause of this characteristic.",
+      "text": "Wir sterben nie. Wir kehren in unsere Welt\r\nzurück und erstehen wieder auf.\r\nDarum nennen uns manche „Weltenwanderer“."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "source_jp": "そして、ポーンの能力が発揮されるのは\r\n戦場だけではない",
+      "source_en": "And it's not just on the battlefield that\r\nthe pawn's abilities come into play.",
+      "text": "Unsere Fähigkeiten kommen uns\r\nauch abseits des Schlachtfelds zugute."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "source_jp": "《クラフト》の能力で貴君ら覚者のために\r\n様々な装具を生み出すだろう",
+      "source_en": "They will use their ability of \"Craft\" to create \r\nvarious equipment for you, noble Arisen.",
+      "text": "Mit unserem Handwerk fertigen wir\r\nallerlei Ausrüstung für Euch Erweckte."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "source_jp": "ポーンとの契約を望む者は\r\n《異界の狭間》へ行かねばならぬが\r\nそれが許されるのは一時にただひとりだけ",
+      "source_en": "Those who wish to make a contract with\r\nPawns must go to \"The Rift\".\r\nBut only one person is allowed to do so \r\nat a time.",
+      "text": "Wer einen Pakt mit einem Pawn schließen will,\r\nmuss in den Rift. Das ist jeweils nur\r\neiner Person gestattet."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "source_jp": "準備と覚悟ができているのなら\r\nあらためて声をかけてくれ",
+      "source_en": "If you are prepared and ready,\r\nplease reach out to me again.",
+      "text": "Sprecht mich wieder an, sobald Ihr\r\nbereit und fest entschlossen seid."
+    },
+    {
+      "key": "",
+      "read_index": "45",
+      "source_jp": "ん？　準備できたら教えてね\r\n君に足りないのは経験だけだよ",
+      "source_en": "Hmm? Let me know when you're ready.\r\nAll you're missing is experience.",
+      "text": "Hm? Sag Bescheid, wenn du so weit bist.\r\nDir fehlt nur noch etwas Erfahrung."
+    }
+  ]
+}

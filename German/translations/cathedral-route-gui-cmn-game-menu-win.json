@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\ui\\game_menu_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "menu_area_infomation",
+      "read_index": "35",
+      "source_jp": "エリアリスト",
+      "source_en": "Area List",
+      "text": "Gebietsliste"
+    }
+  ]
+}

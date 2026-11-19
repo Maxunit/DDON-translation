@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\event\\st0201\\ev005.gmd",
+  "arc_path": "\\event\\st0201\\st0201ev005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "いいところに来てくれた\r\nひとっ走り、テル村まで行ってほしいんだ",
+      "source_en": "You've come at a good time. I need you to make a\r\nquick trip to Tel Village.",
+      "text": "Gut, dass du da bist.\r\nIch brauche dich im Dorf Tel."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "魔物退治の依頼に応じたのだが\r\nちょっとした手違いがあった",
+      "source_en": "I accepted a request to exterminate some monsters,\r\nbut there was a slight mistake.",
+      "text": "Es geht um eine Monsterjagd.\r\nMir ist dabei ein Fehler unterlaufen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "すでに騎士団が討伐隊を出したことを知らずに\r\nおれは覚者を送り込んでしまった",
+      "source_en": "Not knowing that the knights had already sent out\r\na strike team, I mistakenly sent the Arisen.",
+      "text": "Die Ritter hatten schon eine Truppe geschickt.\r\nIch wusste das nicht und schickte Erweckte."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "こういうことは揉め事の原因になりやすい上に\r\nあろうことかガルドリンを行かせてしまったんだ",
+      "source_en": "These kinds of things can easily lead to\r\ndisputes, and to make matters worse, I sent\r\nGurdolin.",
+      "text": "Wir geraten öfter mit den Rittern aneinander.\r\nAusgerechnet diesmal habe ich Gurdolin geschickt."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "拳から生まれた覚者ガルドリン\r\n魔物退治の腕は一流だが粗野な性格でな――",
+      "source_en": "The Arisen Gurdolin, born from fists. A\r\nfirst-rate monster hunter with a difficult\r\npersonality...",
+      "text": "Gurdolin wurde wohl mit geballten Fäusten geboren.\r\nEin guter Monsterjäger, aber ein Raufbold."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "騎士団とのいさかいはなるべくなら避けたい",
+      "source_en": "We would prefer to avoid any disputes with the\r\nKnights' Order if possible.",
+      "text": "Ein Kampf zwischen uns und den Rittern\r\nist das Letzte, was wir jetzt brauchen."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "source_jp": "急ぎ、帰還するようにガルドリンに伝えてくれ\r\n活躍の場はすぐに用意すると言い添えてな",
+      "source_en": "Tell Gurdolin to hurry up and return, with\r\nassurance that we'll have him back in action as\r\nsoon as possible.",
+      "text": "Sag Gurdolin, er soll sich sofort zurückziehen.\r\nEr kommt bald wieder zum Kämpfen."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "source_jp": "テル村は神殿を出たら南東に――",
+      "source_en": "Once you leave the Temple, Tel Village is to the\r\nsoutheast—",
+      "text": "Tel liegt südöstlich vom Tempel."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "source_jp": "いや、自分で地図を確認した方が\r\n頭に入るだろう",
+      "source_en": "No, you'd be better off checking the map yourself\r\nto memorize it.",
+      "text": "Schau selbst auf der Karte nach.\r\nSo merkst du es dir besser."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "source_jp": "では、頼んだぞ",
+      "source_en": "Well then, I'm counting on you.",
+      "text": "Ich zähle auf dich."
+    }
+  ]
+}

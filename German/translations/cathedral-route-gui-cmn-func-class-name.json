@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\npc\\func_class_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "FUNC_CLASS_NAME_21",
+      "read_index": "18",
+      "source_jp": "エリアマスター",
+      "source_en": "Area Master",
+      "text": "Gebietsmeister"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\ui\\rim_transport.gmd",
+  "arc_path": "\\ui\\uGUIRimWarp.arc",
+  "entries": [
+    {
+      "key": "error_regist_fail",
+      "read_index": "23",
+      "source_jp": "マイ拠点の登録に失敗しました",
+      "source_en": "Failed to register to Favorites.",
+      "text": "Der Favorit konnte nicht gespeichert werden."
+    }
+  ]
+}

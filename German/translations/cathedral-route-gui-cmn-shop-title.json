@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\ui\\shop_title.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "shop_title_area_master",
+      "read_index": "9",
+      "source_jp": "Area Master",
+      "source_en": "Area Master",
+      "text": "Gebietsmeister"
+    }
+  ]
+}

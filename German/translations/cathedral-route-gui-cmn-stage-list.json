@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Tel and the route to the Pawn Cathedral",
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_23",
+      "read_index": "20",
+      "source_jp": "エテルナ装具屋",
+      "source_en": "Eterna's Outfitter",
+      "text": "Eternas Ausrüstungsladen"
+    },
+    {
+      "key": "STAGE_NAME_25",
+      "read_index": "22",
+      "source_jp": "テル組合宿　黒ブドウ亭",
+      "source_en": "Black Grape Inn",
+      "text": "Gasthaus Zur Schwarzen Traube"
+    },
+    {
+      "key": "STAGE_NAME_29",
+      "read_index": "26",
+      "source_jp": "廃屋の地下室",
+      "source_en": "Abandoned House Cellar",
+      "text": "Keller des verlassenen Hauses"
+    },
+    {
+      "key": "STAGE_NAME_78",
+      "read_index": "75",
+      "source_jp": "ポーン郷",
+      "source_en": "Pawn Cathedral",
+      "text": "Pawn-Kathedrale"
+    },
+    {
+      "key": "STAGE_NAME_161",
+      "read_index": "158",
+      "source_jp": "狩人の抜け穴",
+      "source_en": "Hunters' Secret Passage",
+      "text": "Geheimgang der Jäger"
+    }
+  ]
+}
