@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\tutorial_guide.gmd",
+  "arc_path": "\\tutorial_guide.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_32",
+      "read_index": "5",
+      "source_jp": "ボードクエスト",
+      "source_en": "Board Quest",
+      "text": "Board-Quests"
+    },
+    {
+      "key": "TUTORIAL_36",
+      "read_index": "8",
+      "source_jp": "優先クエスト",
+      "source_en": "Priority Quests",
+      "text": "Prioritätsquests"
+    },
+    {
+      "key": "TUTORIAL_88",
+      "read_index": "38",
+      "source_jp": "保管ボックス",
+      "source_en": "Storage Box",
+      "text": "Lagerkiste"
+    },
+    {
+      "key": "TUTORIAL_91",
+      "read_index": "39",
+      "source_jp": "竜の礎とリム転移",
+      "source_en": "Dragon's Portcrystal and Rift Teleport",
+      "text": "Zielkristalle und Rift-Transport"
+    },
+    {
+      "key": "TUTORIAL_102",
+      "read_index": "44",
+      "source_jp": "戦技の獲得",
+      "source_en": "Acquiring Combat Skills",
+      "text": "Kampftechniken erlernen"
+    },
+    {
+      "key": "TUTORIAL_337",
+      "read_index": "171",
+      "source_jp": "メールの確認",
+      "source_en": "Mail Confirmation",
+      "text": "Post lesen"
+    }
+  ]
+}

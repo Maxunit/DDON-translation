@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step337.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_337.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_539",
+      "read_index": "0",
+      "source_jp": "覚者として日々を過ごしていると、メールを通して\r\n様々なイベントの通知などが送られてきます\r\nメールの内容は\r\n【<KC UI_GAME_MENU>】ゲームメニュー<COL ffdc78>《コミュニケーション》の\r\n《メール》</COL>から確認することができます\r\nまた、メールにアイテムが添付されていた場合は\r\n【<KC UI_GAME_MENU>】ゲームメニュー<COL ffdc78>《キャラクター》の\r\n《アイテムポスト》</COL>から受け取ることができます",
+      "source_en": "As an Arisen, while you spend your days, various\r\nevent notifications are sent\r\nto you through mail.\r\nThe contents can be checked from Mail in the\r\n<COL ffdc78>Communication</COL> section of the Game Menu [<KC UI_GAME_MENU>] If an\r\nitem is attached to the mail, you can receive it\r\nfrom the section of the Character menu labeled\r\n<COL ffdc78>Item Post</COL> in the Game Menu.[<KC UI_GAME_MENU>]",
+      "text": "Einladungen und Hinweise zu Ereignissen\r\nbekommst du per Post. Öffne [<KC UI_GAME_MENU>]\r\nund wähle <COL ffdc78>Post unter Communication</COL>.\r\nAnhänge holst du über [<KC UI_GAME_MENU>]\r\nin der <COL ffdc78>Gegenstandspost unter Character</COL> ab.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_540",
+      "read_index": "1",
+      "source_jp": "イベントによっては<COL ffdc78>《イベントコード入力》</COL>による\r\nアイテムの受け取り方法もあります\r\nイベントコードを入手する事があれば\r\n【<KC UI_GAME_MENU>】ゲームメニュー<COL ffdc78>《オンラインショップ》の\r\n《イベントコード入力》</COL>から入力してみましょう\r\nなお、コード入力によるアイテムの受け取りについても\r\nメールを介して《アイテムポスト》から\r\n確認することができます",
+      "source_en": "Depending on the event, there may be a way to\r\nreceive items through <COL ffdc78>Event Code Input</COL>.\r\nIf you have obtained an event code, try entering\r\nit from the [<KC UI_GAME_MENU>] Game Menu\r\n<COL ffdc78>Online Shop</COL> and see what happens.\r\nAdditionally, you can confirm the receipt of\r\nitems through the mail from the <COL ffdc78>Item Post</COL>.",
+      "text": "Bei manchen Ereignissen gibt es Items per\r\n<COL ffdc78>Eventcode</COL>. Öffne mit [<KC UI_GAME_MENU>]\r\n<COL ffdc78>Eventcode eingeben im Online-Shop</COL> und\r\ngib den Code ein. Die Gegenstände findest\r\ndu danach in der Gegenstandspost.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

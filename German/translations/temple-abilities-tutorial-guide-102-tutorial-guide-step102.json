@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step102.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_102.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_54",
+      "read_index": "0",
+      "source_jp": "ジョブでの経験を積みレベルアップすることで\r\n<COL ffdc78>《ジョブポイント》</COL>が得られます\r\nジョブポイントを使うことで、レベルに応じた\r\n新たな戦技<COL ffdc78>《スキル》</COL>や<COL ffdc78>《アビリティ》</COL>\r\nを身につけることができます",
+      "source_en": "By gaining experience in your job, you can level\r\nup and earn <COL ffdc78>Job Points </COL>(JP).\r\nYou can use Job Points to acquire new <COL ffdc78>skills</COL>\r\nand <COL ffdc78>abilities</COL> corresponding to your level.",
+      "text": "Beim Stufenaufstieg erhältst du\r\n<COL ffdc78>Klassenpunkte</COL> (JP). Damit lernst du\r\npassend zu deiner Stufe neue\r\n<COL ffdc78>Fertigkeiten</COL> und <COL ffdc78>Begabungen</COL>."
+    },
+    {
+      "key": "TUTORIAL_STEP_55",
+      "read_index": "1",
+      "source_jp": "新たなスキルやアビリティは、\r\n神殿のアーチボルトや各拠点の<COL ffdc78>《戦技補佐》</COL>に\r\n相談し、ジョブポイントを支払って\r\n習得・装備しましょう\r\nレベルアップした時は、\r\n新しく使える技がないか見に行くといいでしょう",
+      "source_en": "New skills and abilities can be learned and\r\nequipped by consulting with Archibald at the\r\ntemple and the <COL ffdc78>Arts Support</COL> at each Portcrystal,\r\nand paying Job Points.\r\nWhen you level up, it would be a good idea to go\r\nand see if there are any new\r\ntechniques that you can use.",
+      "text": "Sprich mit Archibald im Tempel oder einem\r\n<COL ffdc78>Kampfausbilder</COL> an einem Stützpunkt.\r\nDort kannst du für Klassenpunkte Techniken\r\nlernen und ausrüsten. Schau nach einem\r\nStufenaufstieg nach neuen Techniken."
+    },
+    {
+      "key": "TUTORIAL_STEP_397",
+      "read_index": "2",
+      "source_jp": "獲得可能なスキルやアビリティは<COL ffdc78>【ＧＥＴ】</COL>と\r\nいう緑色のアイコンが表示されます\r\n獲得したいスキルを選択し、下に表示された\r\nジョブポイントを支払いましょう\r\n<COL ffdc78>獲得したスキルは、スキルアイコンを選択し\r\n右側のボタンに応じた《カスタムスキルセット枠》\r\nに割り振ることで、戦闘時使えるようになります</COL>",
+      "source_en": "You can obtain skills and abilities by selecting\r\nthe green icon labeled <COL ffdc78>[GET]</COL>, as shown.\r\nChoose the skill you want to acquire and pay the\r\nJob Points shown below.\r\n<COL ffdc78>Once you have acquired a skill, you can allocate\r\nit to the \"Custom Skill Set\" frame on the right\r\nside, by selecting the skill icon and using the\r\ncorresponding button. This will allow you to use\r\nthe skill in combat.</COL>",
+      "text": "Das grüne Symbol <COL ffdc78>[GET]</COL> zeigt, was du\r\nlernen kannst. Wähle die Fertigkeit aus und\r\nbezahle die unten genannten Klassenpunkte.\r\n<COL ffdc78>Wähle danach die Fertigkeit und weise ihr\r\nrechts eine Taste zu. So kannst du sie\r\nim Kampf einsetzen.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_398",
+      "read_index": "3",
+      "source_jp": "獲得したアビリティは、それぞれに\r\n必要な<COL ffdc78>《アビリティコスト》</COL>が定められています\r\n<COL ffdc78>コスト上限以内であれば、自由な組み合わせで\r\nジョブに関わらずアビリティを付けられます</COL>\r\nスキルとアビリティ次第で戦い方は\r\n大きく変わるため、ぜひ試してみてください",
+      "source_en": "The acquired <COL ffdc78>augments</COL> each have a specific <COL ffdc78>\r\nAbility Cost</COL> required.\r\nAs long as it is within the cost limit, you can\r\nfreely attach augments regardless of the job.\r\nThe way you battle can greatly vary depending on\r\nyour skills and augments, so be\r\nsure to give them a try.",
+      "text": "Jede Begabung hat feste <COL ffdc78>Kosten</COL>.\r\n<COL ffdc78>Solange die Summe unter dem Limit bleibt,\r\nkannst du Begabungen aus beliebigen Klassen\r\nkombinieren.</COL>\r\nProbier aus, welche Techniken zu dir passen."
+    },
+    {
+      "key": "TUTORIAL_STEP_399",
+      "read_index": "4",
+      "source_jp": "また、一度獲得したスキルやアビリティは\r\n<COL ffdc78>【ＬＶ　ＵＰ】</COL>を選択しジョブポイントを\r\n注ぐことでさらなる強化が可能です\r\nスキルによっては威力上昇、スキの減少や\r\nモーション変化が起こります\r\nアビリティの場合も効果が上昇するため\r\n戦技のレベルアップも活用しましょう",
+      "source_en": "Furthermore, by selecting <COL ffdc78>[LV UP]</COL>\r\nand paying job points, it is possible to further\r\nstrengthen the skills and abilities\r\nthat have been acquired.\r\nDepending on the skill, there may be an increase\r\nin power, a decrease in cost,\r\nor a change in motion.\r\nFor abilities as well, the effects will improve,\r\nbe sure to level up your combat techniques.",
+      "text": "Über <COL ffdc78>[Stufe +]</COL> kannst du gelernte Techniken\r\nfür weitere Klassenpunkte verbessern.\r\nFertigkeiten können stärker oder schneller\r\nwerden oder ihre Bewegung ändern.\r\nAuch Begabungen erhalten bessere Effekte."
+    },
+    {
+      "key": "TUTORIAL_STEP_215",
+      "read_index": "5",
+      "source_jp": "今のジョブが不向きだなと感じた場合も\r\nアーチボルトに相談することで、\r\n他のジョブにすぐに<COL ffdc78>《転職》</COL>できます\r\n自分に合った戦闘スタイルを探しましょう",
+      "source_en": "If you feel that your current Vocation is a bad\r\nfit for you, you can consult Archibald and\r\nimmediately switch to another Vocation through a\r\n<COL ffdc78>Change Vocation</COL>.\r\nFind a combat style that suits you.",
+      "text": "Liegt dir deine Klasse nicht? Sprich mit\r\nArchibald und wähle <COL ffdc78>Klasse wechseln</COL>.\r\nProbier aus, welcher Kampfstil dir liegt."
+    }
+  ]
+}

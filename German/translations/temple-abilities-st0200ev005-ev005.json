@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\event\\st0200\\ev005.gmd",
+  "arc_path": "\\event\\st0200\\st0200ev005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "よう！　あ、忘れたか？\r\nファビオだよ、ファビオ",
+      "source_en": "Hey! Oh, did you forget? It's me. Fabio, Fabio!",
+      "text": "He! Hast du mich vergessen?\r\nIch bin's, Fabio!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "《謁見の間》はどうだった？\r\n独特の雰囲気だろ？",
+      "source_en": "How was the Audience Chamber? \r\nThere's nothing quite like it, right?",
+      "text": "Wie war's im Audienzsaal?\r\nEine ganz eigene Stimmung, was?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "気後れしないためには、なるべく早く\r\n一人前の覚者になる必要がある",
+      "source_en": "To avoid feeling intimidated, it is necessary to\r\nbecome a full-fledged Arisen as soon as possible.",
+      "text": "Wenn du dich dort behaupten willst,\r\nmusst du rasch auf eigenen Beinen stehen."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "そのための、ちょっとしたコツを教えてやろう\r\nまず、街を歩きまわって他人の話をよく聞くんだ",
+      "source_en": "So, I'll teach you a little trick for that.\r\nFirst, walk around the city and listen to what\r\nfolks have to say.",
+      "text": "Ein kleiner Tipp: Sieh dich in der Stadt um\r\nund hör dir an, was die Leute erzählen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "特に、北東にある宿場区の宿屋――",
+      "source_en": "In particular, the Inn at the Relay Station\r\nDistrict to the northeast—",
+      "text": "Geh vor allem ins Gasthaus.\r\nEs liegt im Herbergsviertel im Nordosten."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "そこにいるアーチボルトとレンテン――\r\nこの二人には必ず会っておけ",
+      "source_en": "You must meet the two individuals there—Archibald\r\nand Renton.",
+      "text": "Dort findest du Archibald und Renton.\r\nDie beiden solltest du kennenlernen."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "source_jp": "戦闘での動き方や、戦技スキルの習得\r\nそして転職など――",
+      "source_en": "Combat strategies, battle skills, and\r\nvocation changes—",
+      "text": "Sie erklären dir, wie du kämpfst,\r\nFertigkeiten lernst und die Klasse wechselst."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "source_jp": "有益な話をしてくれるはずだ\r\nアーチボルトとレンテン――忘れるなよ",
+      "source_en": "I'm sure they'll give you some useful advice.\r\nArchibald and Renton - don't forget.",
+      "text": "Du kannst von ihnen einiges lernen.\r\nArchibald und Renton. Merk dir die Namen."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "source_jp": "ああ、そうだ\r\n今から宿場区へ行ってふたりに会ってくるといい",
+      "source_en": "Right, you can go to the Relay Station\r\nnow and see them both.",
+      "text": "Geh am besten gleich ins Herbergsviertel\r\nund triff die beiden."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "source_jp": "まず、顔を覚えてもらうんだな\r\nそれが終わったら、また話そう",
+      "source_en": "First, make a memorable introduction.\r\nThen, after that, we'll talk again.",
+      "text": "Stell dich erst mal vor.\r\nDanach reden wir weiter."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "source_jp": "ここで待ってるよ",
+      "source_en": "I'll be waiting here.",
+      "text": "Ich warte hier."
+    }
+  ]
+}

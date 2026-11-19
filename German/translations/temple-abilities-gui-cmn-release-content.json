@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\common\\release_content.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "RELEASE_CONTENT_9",
+      "read_index": "7",
+      "source_jp": "リム転移",
+      "source_en": "Rift Teleport",
+      "text": "Rift-Transport"
+    },
+    {
+      "key": "RELEASE_CONTENT_13",
+      "read_index": "11",
+      "source_jp": "クエストボード",
+      "source_en": "Quest Board",
+      "text": "Questboard"
+    },
+    {
+      "key": "RELEASE_CONTENT_26",
+      "read_index": "23",
+      "source_jp": "他のジョブへの転職",
+      "source_en": "Change Vocations",
+      "text": "Klassenwechsel"
+    }
+  ]
+}

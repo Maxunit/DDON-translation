@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\ui\\equip_status_win.gmd",
+  "arc_path": "\\ui\\uGUICharacter.arc",
+  "entries": [
+    {
+      "key": "status_tab_skill",
+      "read_index": "60",
+      "source_jp": "スキル",
+      "source_en": "Skills",
+      "text": "Fertigkeiten"
+    }
+  ]
+}

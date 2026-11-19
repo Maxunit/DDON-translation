@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000004_00.gmd",
+  "arc_path": "\\quest\\q40000004.arc",
+  "entries": [
+    {
+      "key": "q40000004_00_4",
+      "read_index": "0",
+      "source_jp": "魔物の増加傾向に関して",
+      "source_en": "Growing Number of Monsters",
+      "text": "Immer mehr Monster"
+    },
+    {
+      "key": "q40000004_00_4",
+      "read_index": "1",
+      "source_jp": "統計によると<LQEM>が近年増加しているようです。民の脅威となる前に、対策を講じるべきと神官のご判断がありました\r\n発見し次第、白騎団ならびに覚者隊の皆さまは<LQVA>体は討伐するよう願います",
+      "source_en": "According to recent statistics,\r\n<LQEM>'s numbers have been increasing.\r\nThe clergy has determined that measures\r\nshould be taken before they become a threat\r\nto the common folk.\r\nIf discovered, we ask that the White Knights\r\nand the Arisen eliminate at least <LQVA> of them.",
+      "text": "Die Berichte über <LQEM> häufen sich.\r\nDie Priester wollen die Gefahr für die\r\nBevölkerung früh eindämmen. Erweckte und\r\nWeiße Ritter sollen mindestens <LQVA>\r\nder gesichteten Monster besiegen."
+    }
+  ]
+}

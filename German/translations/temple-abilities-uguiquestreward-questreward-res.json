@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\ui\\QuestReward_res.gmd",
+  "arc_path": "\\ui\\uGUIQuestReward.arc",
+  "entries": [
+    {
+      "key": "REWARD_MSG_LB_CONTENTS",
+      "read_index": "0",
+      "source_jp": "Contents",
+      "source_en": "Contents",
+      "text": "Inhalt"
+    },
+    {
+      "key": "REWARD_MSG_LB_REWARD_NUMBER",
+      "read_index": "1",
+      "source_jp": "報酬件数：",
+      "source_en": "Reward Total:",
+      "text": "Belohnungen gesamt:"
+    },
+    {
+      "key": "REWARD_MSG_LB_POCKET_G",
+      "read_index": "2",
+      "source_jp": "所持金",
+      "source_en": "Money in Possession",
+      "text": "Gold im Besitz"
+    },
+    {
+      "key": "REWARD_MSG_LB_POCKET_R",
+      "read_index": "3",
+      "source_jp": "所持リム",
+      "source_en": "Rift Crystals in Possession",
+      "text": "Riftkristalle im Besitz"
+    },
+    {
+      "key": "REWARD_MSG_LB_POCKET_BO",
+      "read_index": "4",
+      "source_jp": "所持ブラッドオーブ",
+      "source_en": "Blood Orbs",
+      "text": "Blutkugeln"
+    },
+    {
+      "key": "REWARD_MSG_LB_SOUKO",
+      "read_index": "5",
+      "source_jp": "保管ボックス",
+      "source_en": "Storage Box",
+      "text": "Lagerkiste"
+    },
+    {
+      "key": "REWARD_MSG_TAB_COMSUME",
+      "read_index": "6",
+      "source_jp": "消費アイテム",
+      "source_en": "Usable Item",
+      "text": "Verbrauchsgüter"
+    },
+    {
+      "key": "REWARD_MSG_TAB_MATERIAL",
+      "read_index": "7",
+      "source_jp": "素材",
+      "source_en": "Raw Material",
+      "text": "Material"
+    },
+    {
+      "key": "REWARD_MSG_TAB_EQUIPMENT",
+      "read_index": "8",
+      "source_jp": "武具",
+      "source_en": "Equip",
+      "text": "Ausrüstung"
+    },
+    {
+      "key": "REWARD_MSG_TAB_JOB",
+      "read_index": "9",
+      "source_jp": "特殊アイテム",
+      "source_en": "Special Item",
+      "text": "Besondere Gegenstände"
+    },
+    {
+      "key": "REWARD_MSG_NOTION_ITEMOVER",
+      "read_index": "11",
+      "source_jp": "保管ボックスがあふれてしまうため受け取りできません",
+      "source_en": "You cannot receive it because the storage box is\r\nfull.",
+      "text": "Die Lagerkiste ist voll."
+    },
+    {
+      "key": "REWARD_MSG_NOTION_PLZ_PICK",
+      "read_index": "12",
+      "source_jp": "選択報酬を選んでください",
+      "source_en": "Please select a reward.",
+      "text": "Wähle eine Belohnung."
+    },
+    {
+      "key": "REWARD_MSG_NOTION_PLZ_ONE",
+      "read_index": "13",
+      "source_jp": "１つ選んでください",
+      "source_en": "Please choose one.",
+      "text": "Bitte nur eine auswählen."
+    },
+    {
+      "key": "REWARD_MSG_REWARD_COMMON",
+      "read_index": "14",
+      "source_jp": "基本報酬",
+      "source_en": "Basic Reward",
+      "text": "Grundbelohnung"
+    },
+    {
+      "key": "REWARD_MSG_BUTTON_ALLGET",
+      "read_index": "16",
+      "source_jp": "全て受け取る",
+      "source_en": "Take All",
+      "text": "Alle abholen"
+    },
+    {
+      "key": "REWARD_MSG_BUTTON_END",
+      "read_index": "17",
+      "source_jp": "一部受け取る",
+      "source_en": "Receive Partial",
+      "text": "Auswahl abholen"
+    },
+    {
+      "key": "REWARD_MSG_BUTTON_CANCEL",
+      "read_index": "18",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "REWARD_MSG_NOTION_ALLGET",
+      "read_index": "19",
+      "source_jp": "全ての報酬を受け取りますか？",
+      "source_en": "Do you want to receive all the rewards?",
+      "text": "Alle Belohnungen abholen?"
+    },
+    {
+      "key": "REWARD_MSG_NOTION_CANCEL",
+      "read_index": "21",
+      "source_jp": "報酬受け取りをやめます",
+      "source_en": "Receive reward canceled.",
+      "text": "Abholen abgebrochen."
+    },
+    {
+      "key": "REWARD_MSG_NO",
+      "read_index": "23",
+      "source_jp": "いいえ",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "REWARD_MSG_NOTION_FAILURE",
+      "read_index": "24",
+      "source_jp": "報酬受け取りに失敗しました",
+      "source_en": "Failed to accept rewards.",
+      "text": "Belohnungen konnten nicht abgeholt werden."
+    },
+    {
+      "key": "REWARD_MSG_NOTION_FINISH",
+      "read_index": "25",
+      "source_jp": "報酬を受け取りました\r\n（アイテムは保管ボックスに送られます）",
+      "source_en": "Received rewards.\r\n(Items sent to the storage box.)",
+      "text": "Belohnungen erhalten.\r\nDie Gegenstände liegen in der Lagerkiste."
+    },
+    {
+      "key": "REWARD_MSG_ANNOUNCE_QCLEAR",
+      "read_index": "26",
+      "source_jp": "クエスト報酬が報酬ボックスに入りました",
+      "source_en": "Quest rewards have been placed into your storage\r\nbox.",
+      "text": "Deine Questbelohnungen liegen\r\nin der Lagerkiste."
+    },
+    {
+      "key": "REWARD_MSG_REWARD_BONUS",
+      "read_index": "27",
+      "source_jp": "ボーナス報酬",
+      "source_en": "Bonus Reward",
+      "text": "Bonusbelohnung"
+    },
+    {
+      "key": "REWARD_MSG_KIND_QUEST",
+      "read_index": "32",
+      "source_jp": "クエスト報酬",
+      "source_en": "Quest Reward",
+      "text": "Questbelohnung"
+    },
+    {
+      "key": "REWARD_MSG_TITLE",
+      "read_index": "34",
+      "source_jp": "Reward",
+      "source_en": "Rewards Received",
+      "text": "Belohnungen erhalten"
+    },
+    {
+      "key": "REWARD_MSG_NO_REWOARD",
+      "read_index": "37",
+      "source_jp": "報酬はありません",
+      "source_en": "There are currently no rewards.",
+      "text": "Derzeit keine Belohnungen verfügbar."
+    }
+  ]
+}

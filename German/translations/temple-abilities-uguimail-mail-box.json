@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\ui\\mail_box.gmd",
+  "arc_path": "\\ui\\uGUIMail.arc",
+  "entries": [
+    {
+      "key": "mail_title_mail_en",
+      "read_index": "15",
+      "source_jp": "Mail",
+      "source_en": "Mail",
+      "text": "Post"
+    }
+  ]
+}

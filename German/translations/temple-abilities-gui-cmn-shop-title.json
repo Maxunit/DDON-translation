@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\ui\\shop_title.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "shop_title_warehouse_sub",
+      "read_index": "6",
+      "source_jp": "保管ボックス",
+      "source_en": "Storage Box",
+      "text": "Lagerkiste"
+    },
+    {
+      "key": "shop_title_quest_board",
+      "read_index": "34",
+      "source_jp": "Quest Board",
+      "source_en": "Quest Board",
+      "text": "Questboard"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\quest_info\\q60000012_00.gmd",
+  "arc_path": "\\quest\\q60000012.arc",
+  "entries": [
+    {
+      "key": "q60000012_00_15",
+      "read_index": "0",
+      "source_jp": "覚者の甲斐性",
+      "source_en": "The Arisen's Abilities",
+      "text": "Die Fähigkeiten der Erweckten"
+    },
+    {
+      "key": "q60000012_00_15",
+      "read_index": "1",
+      "source_jp": "覚者ファビオの教示に応えるため\r\n宿場区にいるアーチボルトに挨拶に行く",
+      "source_en": "Per the Arisen Fabio's instructions, \r\ngo speak to Archibald in the Relay District.",
+      "text": "Folge Fabios Rat und stell dich Archibald\r\nim Herbergsviertel vor."
+    },
+    {
+      "key": "q60000012_00_1531",
+      "read_index": "2",
+      "source_jp": "ファビオのもとへ向かう",
+      "source_en": "Find Fabio",
+      "text": "Geh zu Fabio"
+    },
+    {
+      "key": "q60000012_00_1204",
+      "read_index": "3",
+      "source_jp": "宿場区にいるアーチボルトに挨拶する",
+      "source_en": "Introduce yourself to Archibald at the Relay Station",
+      "text": "Stell dich Archibald im Herbergsviertel vor"
+    },
+    {
+      "key": "q60000012_00_1528",
+      "read_index": "4",
+      "source_jp": "転職／戦技の付替えでカスタムスキルをセットする",
+      "source_en": "Equip a Skill via the Change Vocation/Skills menu at Archibald",
+      "text": "Rüste bei Archibald eine Spezialfertigkeit aus"
+    },
+    {
+      "key": "q60000012_00_1529",
+      "read_index": "5",
+      "source_jp": "もう一度アーチボルトに話しかける",
+      "source_en": "Speak with Archibald again",
+      "text": "Sprich erneut mit Archibald"
+    },
+    {
+      "key": "q60000012_00_1203",
+      "read_index": "6",
+      "source_jp": "ファビオに報告をする",
+      "source_en": "Report back to Fabio",
+      "text": "Erstatte Fabio Bericht"
+    },
+    {
+      "key": "q60000012_00_1113",
+      "read_index": "7",
+      "source_jp": "クエストボードの依頼を1つ受注する",
+      "source_en": "Accept a quest from the Quest Board",
+      "text": "Nimm einen Auftrag vom Questboard an"
+    },
+    {
+      "key": "q60000012_00_1530",
+      "read_index": "8",
+      "source_jp": "受注したボードクエストを１つクリアする",
+      "source_en": "Complete a quest from the Quest Board",
+      "text": "Schließe die angenommene Board-Quest ab"
+    },
+    {
+      "key": "q60000012_00_1292",
+      "read_index": "9",
+      "source_jp": "ファビオに依頼クリアの報告をする",
+      "source_en": "Report the quest clear to Fabio",
+      "text": "Melde Fabio den Abschluss der Board-Quest"
+    },
+    {
+      "key": "q60000012_00_1279",
+      "read_index": "10",
+      "source_jp": "保管ボックスの《報酬受け取り》を確認する",
+      "source_en": "Check the \"Rewards\" of the Storage Box",
+      "text": "Öffne in der Lagerkiste die Questbelohnungen"
+    },
+    {
+      "key": "q60000012_00_1114",
+      "read_index": "11",
+      "source_jp": "ファビオに経緯を報告する",
+      "source_en": "Report back to Fabio",
+      "text": "Erstatte Fabio Bericht"
+    },
+    {
+      "key": "q60000012_00_1538",
+      "read_index": "12",
+      "source_jp": "オンラインショップで指定の商品を無料購入する",
+      "source_en": "Purchase the designated item from the Online Shop for free",
+      "text": "Hol den angegebenen Gratisartikel im Online-Shop ab"
+    },
+    {
+      "key": "q60000012_00_2794",
+      "read_index": "13",
+      "source_jp": "ファビオに報告をする",
+      "source_en": "Report back to Fabio",
+      "text": "Erstatte Fabio Bericht"
+    }
+  ]
+}

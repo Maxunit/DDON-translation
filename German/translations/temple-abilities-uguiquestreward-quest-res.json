@@ -1,0 +1,330 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\ui\\Quest_res.gmd",
+  "arc_path": "\\ui\\uGUIQuestReward.arc",
+  "entries": [
+    {
+      "key": "QUEST_MSG_LB_REC",
+      "read_index": "0",
+      "source_jp": "推奨",
+      "source_en": "Rec.",
+      "text": "Empf."
+    },
+    {
+      "key": "QUEST_MSG_LB_PROV",
+      "read_index": "1",
+      "source_jp": "受注条件",
+      "source_en": "Accept Requirements",
+      "text": "Voraussetzungen"
+    },
+    {
+      "key": "QUEST_MSG_LB_NOTHING",
+      "read_index": "2",
+      "source_jp": "なし",
+      "source_en": "None",
+      "text": "Keine"
+    },
+    {
+      "key": "QUEST_MSG_LB_REQ",
+      "read_index": "3",
+      "source_jp": "依頼内容",
+      "source_en": "Request Details",
+      "text": "Auftragsdetails"
+    },
+    {
+      "key": "QUEST_MSG_LB_REWARD",
+      "read_index": "4",
+      "source_jp": "報酬",
+      "source_en": "Reward",
+      "text": "Belohnung"
+    },
+    {
+      "key": "QUEST_MSG_LB_EXP",
+      "read_index": "5",
+      "source_jp": "経験値",
+      "source_en": "Experience points",
+      "text": "Erfahrungspunkte"
+    },
+    {
+      "key": "QUEST_MSG_LB_G",
+      "read_index": "6",
+      "source_jp": "ゴールド",
+      "source_en": "Gold",
+      "text": "Gold"
+    },
+    {
+      "key": "QUEST_MSG_LB_RIM",
+      "read_index": "7",
+      "source_jp": "リム",
+      "source_en": "Rift Crystal",
+      "text": "Riftkristalle"
+    },
+    {
+      "key": "QUEST_MSG_PRIOD",
+      "read_index": "8",
+      "source_jp": "<VAL>まで",
+      "source_en": "Until <VAL>",
+      "text": "Bis <VAL>"
+    },
+    {
+      "key": "QUEST_MSG_LB_NOREWARD",
+      "read_index": "9",
+      "source_jp": "報酬アイテムなし",
+      "source_en": "No rewards",
+      "text": "Keine Belohnungen"
+    },
+    {
+      "key": "QUEST_MSG_MENU_ENPRI",
+      "read_index": "13",
+      "source_jp": "優先クエストに設定",
+      "source_en": "Set Priority Quest",
+      "text": "Priorität setzen"
+    },
+    {
+      "key": "QUEST_MSG_ACCEPTED",
+      "read_index": "14",
+      "source_jp": "受注数：",
+      "source_en": "Accepted: ",
+      "text": "Angenommen: "
+    },
+    {
+      "key": "QUEST_MSG_MENU",
+      "read_index": "15",
+      "source_jp": "メニュー",
+      "source_en": "Menu",
+      "text": "Menü"
+    },
+    {
+      "key": "QUEST_MSG_LB_ABS",
+      "read_index": "16",
+      "source_jp": "概要",
+      "source_en": "Overview",
+      "text": "Übersicht"
+    },
+    {
+      "key": "QUEST_MSG_LB_PROG",
+      "read_index": "17",
+      "source_jp": "進行",
+      "source_en": "Progress",
+      "text": "Fortschritt"
+    },
+    {
+      "key": "QUEST_MSG_TAB_MYQ",
+      "read_index": "18",
+      "source_jp": "マイクエスト",
+      "source_en": "My Quests",
+      "text": "Eigene Quests"
+    },
+    {
+      "key": "QUEST_MSG_TAB_PTQ",
+      "read_index": "19",
+      "source_jp": "パーティークエスト情報",
+      "source_en": "Party Quests",
+      "text": "Gruppenquests"
+    },
+    {
+      "key": "QUEST_MSG_CG_MAIN",
+      "read_index": "20",
+      "source_jp": "メインクエスト",
+      "source_en": "Main Quest",
+      "text": "Hauptquest"
+    },
+    {
+      "key": "QUEST_MSG_CG_GRAND",
+      "read_index": "21",
+      "source_jp": "ワールドクエスト",
+      "source_en": "World Quest",
+      "text": "Weltquest"
+    },
+    {
+      "key": "QUEST_MSG_CG_SOLO",
+      "read_index": "22",
+      "source_jp": "パーソナルクエスト",
+      "source_en": "Personal Quest",
+      "text": "Persönliche Quest"
+    },
+    {
+      "key": "QUEST_MSG_LB_NSTEP",
+      "read_index": "23",
+      "source_jp": "次の目的",
+      "source_en": "Next Step",
+      "text": "Nächster Schritt"
+    },
+    {
+      "key": "QUEST_MSG_LB_CLEARED",
+      "read_index": "24",
+      "source_jp": "クリア回数",
+      "source_en": "Times Cleared",
+      "text": "Abschlüsse"
+    },
+    {
+      "key": "QUEST_MSG_LB_GOAL",
+      "read_index": "31",
+      "source_jp": "目的",
+      "source_en": "Goal",
+      "text": "Ziel"
+    },
+    {
+      "key": "QUEST_MSG_OPERATION",
+      "read_index": "32",
+      "source_jp": "クエスト操作",
+      "source_en": "Quest Operations",
+      "text": "Questaktionen"
+    },
+    {
+      "key": "QUEST_MSG_MENU_CANCELLATION",
+      "read_index": "33",
+      "source_jp": "優先解除",
+      "source_en": "Cancel Priority",
+      "text": "Priorität aufheben"
+    },
+    {
+      "key": "QUEST_MSG_MENU_PROORITY",
+      "read_index": "34",
+      "source_jp": "優先クエスト",
+      "source_en": "Priority Quests",
+      "text": "Prioritätsquests"
+    },
+    {
+      "key": "QUEST_MSG_MENU_CANCEL",
+      "read_index": "35",
+      "source_jp": "クエスト破棄",
+      "source_en": "Cancel Quest",
+      "text": "Quest aufgeben"
+    },
+    {
+      "key": "QUEST_MSG_MENU_MAP",
+      "read_index": "36",
+      "source_jp": "地図で確認",
+      "source_en": "Check Map",
+      "text": "Karte ansehen"
+    },
+    {
+      "key": "QUEST_MSG_QUESTMENU",
+      "read_index": "37",
+      "source_jp": "クエストメニュー",
+      "source_en": "Quest Menu",
+      "text": "Questmenü"
+    },
+    {
+      "key": "QUEST_MSG_QUESTLIST",
+      "read_index": "38",
+      "source_jp": "受注クエスト一覧",
+      "source_en": "List of Available Quests",
+      "text": "Verfügbare Quests"
+    },
+    {
+      "key": "QUEST_MSG_BOARD_TITLE01",
+      "read_index": "39",
+      "source_jp": "Quest Board",
+      "source_en": "Quest Board",
+      "text": "Questboard"
+    },
+    {
+      "key": "QUEST_MSG_BOARD_TITLE02",
+      "read_index": "40",
+      "source_jp": "クエストボード",
+      "source_en": "Quest Board",
+      "text": "Questboard"
+    },
+    {
+      "key": "QUEST_MSG_LB_REQ2",
+      "read_index": "41",
+      "source_jp": "依頼",
+      "source_en": "Request",
+      "text": "Auftrag"
+    },
+    {
+      "key": "QUEST_MSG_BUTTON_ACCEPT",
+      "read_index": "42",
+      "source_jp": "受注する",
+      "source_en": "Accept",
+      "text": "Annehmen"
+    },
+    {
+      "key": "QUEST_MSG_BUTTON_CANCEL",
+      "read_index": "43",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "QUEST_MSG_SUBMENU",
+      "read_index": "45",
+      "source_jp": "サブメニュー",
+      "source_en": "Submenu",
+      "text": "Untermenü"
+    },
+    {
+      "key": "QUEST_MSG_TAB_ALL",
+      "read_index": "47",
+      "source_jp": "すべて",
+      "source_en": "All",
+      "text": "Alle"
+    },
+    {
+      "key": "QUEST_MSG_TAB_HUNT",
+      "read_index": "48",
+      "source_jp": "討伐",
+      "source_en": "Hunt",
+      "text": "Jagdaufträge"
+    },
+    {
+      "key": "QUEST_MSG_TAB_COLLECT",
+      "read_index": "49",
+      "source_jp": "納品",
+      "source_en": "Delivery",
+      "text": "Lieferaufträge"
+    },
+    {
+      "key": "QUEST_MSG_CAUTION_FULL",
+      "read_index": "50",
+      "source_jp": "クエスト受注数が上限に達しているため\r\nクエストを受注できません",
+      "source_en": "Can't accept the quest because the maximum number\r\nof quests has been reached.",
+      "text": "Du hast die Höchstzahl laufender Quests erreicht."
+    },
+    {
+      "key": "QUEST_MSG_CAUTION_NOTHING",
+      "read_index": "51",
+      "source_jp": "現在、特別な報せはありません",
+      "source_en": "There are no quests currently available.",
+      "text": "Derzeit sind keine Quests verfügbar."
+    },
+    {
+      "key": "QUEST_MSG_SELECT_REWARD",
+      "read_index": "59",
+      "source_jp": "選択報酬 (1つ選択)",
+      "source_en": "Select Reward (1)",
+      "text": "Eine Belohnung wählen"
+    },
+    {
+      "key": "QUEST_MSG_NOTHING",
+      "read_index": "60",
+      "source_jp": "現在受注しているクエストはありません",
+      "source_en": "There are currently no quests available.",
+      "text": "Derzeit sind keine Quests verfügbar."
+    },
+    {
+      "key": "QUEST_MSG_CONFIRM_QUEST_CANCEL",
+      "read_index": "67",
+      "source_jp": "クエストを破棄しますか？\r\n※破棄したクエストは白竜神殿などの\r\n　拠点に入りなおすと再受注可能になります",
+      "source_en": "Do you want to abandon this quest?\r\n*Quests you abandon can be accepted again\r\nby re-entering a safe location or the White Dragon Temple.",
+      "text": "Quest aufgeben?\r\nAn einem sicheren Ort oder im Tempel des\r\nWeißen Drachen kannst du sie erneut annehmen."
+    },
+    {
+      "key": "QUEST_MSG_CONFIRM_QUEST_ORDER",
+      "read_index": "68",
+      "source_jp": "クエストを受注します\r\nよろしいですか？",
+      "source_en": "Will you accept the quest?",
+      "text": "Quest annehmen?"
+    },
+    {
+      "key": "QUEST_MSG_MENU_ORDER",
+      "read_index": "69",
+      "source_jp": "クエスト受注",
+      "source_en": "Quest Order",
+      "text": "Quest annehmen"
+    }
+  ]
+}

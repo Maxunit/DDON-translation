@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\npc\\func_select_name.gmd",
+  "arc_path": "\\game_common.arc",
+  "entries": [
+    {
+      "key": "FUNC_SELECT_NAME_11",
+      "read_index": "8",
+      "source_jp": "転職／戦技の付替え",
+      "source_en": "Vocation / Arts Support",
+      "text": "Klasse / Kampftechniken"
+    },
+    {
+      "key": "FUNC_SELECT_NAME_43",
+      "read_index": "38",
+      "source_jp": "報酬受け取り",
+      "source_en": "Receive Reward",
+      "text": "Questbelohnungen"
+    }
+  ]
+}

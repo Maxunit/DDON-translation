@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_01.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_01_4",
+      "read_index": "0",
+      "source_jp": "連撃",
+      "source_en": "Onslaught",
+      "text": "Schlagfolge"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_01_5",
+      "read_index": "1",
+      "source_jp": "強連撃",
+      "source_en": "Dire Onslaught",
+      "text": "Schwere Schlagfolge"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_01_13",
+      "read_index": "2",
+      "source_jp": "斬り崩し",
+      "source_en": "Guard Break",
+      "text": "Deckungsbrecher"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_01_14",
+      "read_index": "3",
+      "source_jp": "強斬り崩し",
+      "source_en": "Strong Guard Break",
+      "text": "Starker Deckungsbrecher"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_01_18",
+      "read_index": "4",
+      "source_jp": "跳び斬り",
+      "source_en": "Jump Slash",
+      "text": "Sprunghieb"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_01_19",
+      "read_index": "5",
+      "source_jp": "兜割り",
+      "source_en": "Helm Splitter",
+      "text": "Helmspalter"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_01_15",
+      "read_index": "6",
+      "source_jp": "ガード",
+      "source_en": "Guard",
+      "text": "Blocken"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_01_16",
+      "read_index": "7",
+      "source_jp": "盾弾き",
+      "source_en": "Deflect",
+      "text": "Abwehren"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_01_17",
+      "read_index": "8",
+      "source_jp": "連係投げ",
+      "source_en": "Linking Throw",
+      "text": "Verbündete hochwerfen"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_01_22",
+      "read_index": "9",
+      "source_jp": "受け身",
+      "source_en": "Controlled Fall",
+      "text": "Kontrollierter Fall"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_01_23",
+      "read_index": "10",
+      "source_jp": "えぐり突き",
+      "source_en": "Gouge",
+      "text": "Aufreißen"
+    }
+  ]
+}

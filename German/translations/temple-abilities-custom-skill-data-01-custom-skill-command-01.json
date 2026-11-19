@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\skill\\custom_skill_command_01.gmd",
+  "arc_path": "\\skill\\custom_skill_data_01.arc",
+  "entries": [
+    {
+      "key": "CUSTOM_SKILL_COMMAND_01_8",
+      "read_index": "0",
+      "source_jp": "セットボタンを押す",
+      "source_en": "Press the assigned button.",
+      "text": "Drücke die zugewiesene Taste."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_01_12",
+      "read_index": "1",
+      "source_jp": "セットボタンを押す",
+      "source_en": "Press the assigned button.",
+      "text": "Drücke die zugewiesene Taste."
+    }
+  ]
+}

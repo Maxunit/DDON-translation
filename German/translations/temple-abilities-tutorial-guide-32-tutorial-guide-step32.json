@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step32.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_32.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_9",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《ボードクエスト》が解放されました！</COL>\r\n世界各地の拠点にある<COL ffdc78>《クエストボード》</COL>には\r\n住民の依頼書、さまざまな<COL ffdc78>《ボードクエスト》</COL>が\r\n日々寄せられています\r\n<COL ffdc78>「討伐クエスト」</COL>と<COL ffdc78>「納品クエスト」</COL>\r\nから、受注したいものを選びましょう",
+      "source_en": "With this, you can raise your current \r\nvocation to level 80.\r\nYou can also raise the limit for skills and\r\nabilities, except for special ones.\r\nAnd of course, job points can be accumulated up\r\nto the new limit.",
+      "text": "<COL 78f5ff>Board-Quests sind jetzt verfügbar!</COL>\r\nAn Stützpunkten in Lestania findest du\r\nam <COL ffdc78>Questboard</COL> täglich neue Aufträge.\r\nDiese <COL ffdc78>Board-Quests</COL> kommen von Anwohnern.\r\nDu kannst <COL ffdc78>Jagdaufträge</COL> oder\r\n<COL ffdc78>Lieferaufträge</COL> annehmen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_10",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>「討伐クエスト」は指定の魔物討伐が目的と\r\nなり、対象敵はミニマップに緑の丸で示されます</COL>\r\n<COL ffdc78>「納品クエスト」は依頼の品を入手し\r\n《納品ボックス》に納めることが目的となります</COL>\r\nなお、依頼期間（配信）が過ぎてしまった\r\n場合は自動的にクエスト破棄されますので\r\nご注意ください",
+      "source_en": "<COL ffdc78>Elimination Quests</COL> are aimed at the\r\nsuppression of monsters.\r\nThe target enemies are indicated by a green\r\ncircle on the Minimap.\r\n<COL ffdc78>Delivery Quests</COL> are about obtaining specific\r\nitems and delivering them to a <COL ffdc78>Delivery Box</COL>.\r\nHowever, if the time limit for the quest has\r\npassed, the quest will automatically fail.\r\nPlease keep this in mind.",
+      "text": "<COL ffdc78>Bei Jagdaufträgen besiegst du bestimmte\r\nMonster. Grüne Kreise auf der Minikarte\r\nzeigen die Ziele.</COL>\r\n<COL ffdc78>Bei Lieferaufträgen beschaffst du Gegenstände\r\nund gibst sie an der Lieferkiste ab.</COL>\r\nLäuft die Frist ab, verfällt der Auftrag.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

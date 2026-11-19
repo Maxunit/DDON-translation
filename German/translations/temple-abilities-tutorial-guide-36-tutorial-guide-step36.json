@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step36.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_36.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_11",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《パーソナルクエスト》が解放されました！</COL>\r\n緑のアイコンで表される<COL ffdc78>《パーソナルクエスト》</COL>は\r\nレスタニアの世界を知り、深めることができる\r\n優先度の高いクエストです",
+      "source_en": "<COL 78f5ff>Personal Quests are available!</COL>\r\n<COL ffdc78>Personal Quests</COL> are represented by a green icon.\r\nYou will know and understand more of\r\nLestania doing these quests.\r\nThey are very important!",
+      "text": "<COL 78f5ff>Persönliche Quests sind jetzt verfügbar!</COL>\r\nGrüne Symbole markieren <COL ffdc78>persönliche Quests</COL>.\r\nSie helfen dir, Lestania kennenzulernen,\r\nund sind besonders wichtig."
+    },
+    {
+      "key": "TUTORIAL_STEP_196",
+      "read_index": "1",
+      "source_jp": "パーソナルクエストを受注したら<COL ffdc78>《優先クエスト》</COL>に\r\n設定してみましょう\r\n目的地が離れている場合でも\r\n画面右上のミニマップで行き先が分かりやすく\r\nアシスト表示されます",
+      "source_en": "A Personal Quest will appear as a <COL ffdc78>\r\nPriority Quest</COL> once accepted.\r\nEven if your destination is far away, it will\r\nappear on the minimap in the upper-right\r\ncorner of the screen.\r\nThis will help you reach your objectives.",
+      "text": "Markiere eine angenommene persönliche Quest\r\nals <COL ffdc78>Prioritätsquest</COL>. Die Minikarte oben\r\nrechts zeigt dir dann die Richtung,\r\nauch wenn dein Ziel weit entfernt ist."
+    },
+    {
+      "key": "TUTORIAL_STEP_12",
+      "read_index": "2",
+      "source_jp": "優先設定と解除は、【<KC UI_GAME_MENU>】ゲームメニュー\r\n《クエスト》の<COL ffdc78>《クエストログ》</COL>から行えます\r\n<COL ffdc78>優先クエストは最大３つまで設定できます</COL>\r\n複数のクエストを同時に進めている場合も\r\nうまく優先の切替えをおこない、\r\n必要な情報をすぐ見られるようにしましょう",
+      "source_en": "Quest priority can be set in the [<KC UI_GAME_MENU>]\r\n<COL ffdc78>Game Menu Quest Log</COL> inside the <COL ffdc78>Quest</COL>\r\nmain menu.\r\n<COL ffdc78>You can set up to 3 Priority Quests.</COL>\r\nIf you are progressing through multiple quests\r\nat the same time you should switch quest\r\npriority as needed, so you can easily see the\r\ninformation that you need.",
+      "text": "Öffne mit [<KC UI_GAME_MENU>] das Spielmenü.\r\nIm <COL ffdc78>Questlog</COL> kannst du die Priorität\r\nsetzen oder aufheben.\r\n<COL ffdc78>Bis zu drei Quests können Priorität haben.</COL>\r\nBei mehreren laufenden Quests kannst du\r\ndie Auswahl jederzeit anpassen.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

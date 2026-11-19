@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\skill\\custom_skill_name_01.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "CUSTOM_SKILL_NAME_01_8",
+      "read_index": "0",
+      "source_jp": "一閃突き",
+      "source_en": "Blink Strike",
+      "text": "Sturmstoß"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_12",
+      "read_index": "1",
+      "source_jp": "刀牙昇斬",
+      "source_en": "Tusk Toss",
+      "text": "Aufwärtshieb"
+    }
+  ]
+}

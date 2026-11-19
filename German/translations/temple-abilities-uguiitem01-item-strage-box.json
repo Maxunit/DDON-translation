@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\ui\\item_strage_box.gmd",
+  "arc_path": "\\ui\\uGUIItem01.arc",
+  "entries": [
+    {
+      "key": "title_item",
+      "read_index": "0",
+      "source_jp": "所持アイテム",
+      "source_en": "Possessed Items",
+      "text": "Gegenstände im Besitz"
+    },
+    {
+      "key": "title_item_strage",
+      "read_index": "1",
+      "source_jp": "キーアイテム",
+      "source_en": "Key Items",
+      "text": "Schlüsselgegenstände"
+    },
+    {
+      "key": "title_fee_e",
+      "read_index": "8",
+      "source_jp": "Reward Box",
+      "source_en": "Reward Box",
+      "text": "Belohnungsbox"
+    },
+    {
+      "key": "title_fee",
+      "read_index": "9",
+      "source_jp": "報酬ボックス",
+      "source_en": "Reward Box",
+      "text": "Belohnungsbox"
+    },
+    {
+      "key": "title_strage",
+      "read_index": "10",
+      "source_jp": "保管ボックス",
+      "source_en": "Storage Box",
+      "text": "Lagerkiste"
+    },
+    {
+      "key": "option_move",
+      "read_index": "11",
+      "source_jp": "移動",
+      "source_en": "Move",
+      "text": "Verschieben"
+    },
+    {
+      "key": "item_title_item_en",
+      "read_index": "19",
+      "source_jp": "Item Bag",
+      "source_en": "Item Bag",
+      "text": "Gegenstandstasche"
+    },
+    {
+      "key": "item_title_item_jp",
+      "read_index": "20",
+      "source_jp": "アイテムバッグ",
+      "source_en": "Item Bag",
+      "text": "Gegenstandstasche"
+    },
+    {
+      "key": "itempost_title_itempost_en",
+      "read_index": "21",
+      "source_jp": "Item Post",
+      "source_en": "Item Post",
+      "text": "Gegenstandspost"
+    },
+    {
+      "key": "option_send_bag",
+      "read_index": "23",
+      "source_jp": "アイテムバッグに送る",
+      "source_en": "Send to Item Bag",
+      "text": "In die Tasche"
+    },
+    {
+      "key": "option_send_box",
+      "read_index": "24",
+      "source_jp": "保管ボックスに送る",
+      "source_en": "Send to Storage Box",
+      "text": "In die Lagerkiste"
+    },
+    {
+      "key": "item_title_storage_en",
+      "read_index": "34",
+      "source_jp": "Storage Box",
+      "source_en": "Storage Box",
+      "text": "Lagerkiste"
+    },
+    {
+      "key": "item_msg_guid_tostorage",
+      "read_index": "37",
+      "source_jp": "保管ボックスに移動",
+      "source_en": "Go to Storage Box",
+      "text": "Zur Lagerkiste"
+    },
+    {
+      "key": "item_title_depositbox_en",
+      "read_index": "42",
+      "source_jp": "Storage Chest",
+      "source_en": "Storage Chest",
+      "text": "Lagerkiste"
+    },
+    {
+      "key": "option_targeting_itempost",
+      "read_index": "76",
+      "source_jp": "アイテムポスト",
+      "source_en": "Item Post",
+      "text": "Gegenstandspost"
+    }
+  ]
+}

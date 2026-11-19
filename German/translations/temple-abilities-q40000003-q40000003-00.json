@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000003_00.gmd",
+  "arc_path": "\\quest\\q40000003.arc",
+  "entries": [
+    {
+      "key": "q40000003_00_3",
+      "read_index": "0",
+      "source_jp": "周辺治安維持",
+      "source_en": "On the Outskirts",
+      "text": "Sicherheit im Umland"
+    },
+    {
+      "key": "q40000003_00_3",
+      "read_index": "1",
+      "source_jp": "憂うべき事に、<LQEM>により往来の商人が脅かされる事件が多発している\r\n治安維持のため、各自速やかに<LQVA>体以上討伐し、対処にあたれ",
+      "source_en": "It is concerning that incidents\r\nof <LQEM> \r\nthreatening traveling merchants\r\nhave been increasing.\r\nFor the sake of maintaining order,\r\neach of you should quickly eliminate\r\nat least <LQVA> of them and address the situation.",
+      "text": "Reisende Händler geraten immer häufiger\r\nwegen <LQEM> in Gefahr. Um die Straßen\r\nsicher zu halten, besiegt zügig\r\nmindestens <LQVA> der gemeldeten Gegner."
+    }
+  ]
+}

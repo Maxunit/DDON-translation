@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000001_00.gmd",
+  "arc_path": "\\quest\\q40000001.arc",
+  "entries": [
+    {
+      "key": "q40000001_00_1",
+      "read_index": "0",
+      "source_jp": "街道の安全確保",
+      "source_en": "Highway Security",
+      "text": "Sichere Straßen"
+    },
+    {
+      "key": "q40000001_00_1",
+      "read_index": "1",
+      "source_jp": "近年、街道付近で<LQEM>による被害が相次いでいる。これ以上の被害拡大を防ぐため、<LQVA>体の討伐を任務として発布する\r\n覚者、ならびに白騎団は対処にあたること",
+      "source_en": "In recent years, damages caused\r\nby <LQEM> \r\nhave been frequent near the streets.\r\nTo stop further escalation, \r\na mission to defeat <LQVA> of them\r\nhas been issued to the Arisen\r\nand the White Knights to handle this.",
+      "text": "Von den Straßen werden immer wieder Angriffe\r\ndurch <LQEM> gemeldet. Erweckte und\r\nWeiße Ritter sollen weitere Schäden verhindern.\r\nJagdauftrag: <LQVA> besiegen."
+    }
+  ]
+}

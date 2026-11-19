@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\npc\\func_class_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "FUNC_CLASS_NAME_11",
+      "read_index": "8",
+      "source_jp": "転職・戦技補佐",
+      "source_en": "Vocation / Arts Support",
+      "text": "Klasse / Kampftechniken"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_25",
+      "read_index": "21",
+      "source_jp": "保管ボックス",
+      "source_en": "Storage Box",
+      "text": "Lagerkiste"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_31",
+      "read_index": "27",
+      "source_jp": "クエストボード",
+      "source_en": "Quest Board",
+      "text": "Questboard"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_43",
+      "read_index": "38",
+      "source_jp": "報酬受け取り",
+      "source_en": "Quest Rewards",
+      "text": "Questbelohnungen"
+    }
+  ]
+}

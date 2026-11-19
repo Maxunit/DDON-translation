@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\ui\\game_menu_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "menu_item",
+      "read_index": "0",
+      "source_jp": "アイテムバッグ",
+      "source_en": "Item Bag",
+      "text": "Gegenstandstasche"
+    },
+    {
+      "key": "menu_map",
+      "read_index": "7",
+      "source_jp": "マップ",
+      "source_en": "Map",
+      "text": "Karte"
+    },
+    {
+      "key": "menu_rim_transport",
+      "read_index": "9",
+      "source_jp": "リム転移",
+      "source_en": "Rift Teleport",
+      "text": "Rift-Transport"
+    },
+    {
+      "key": "menu_gp_shop",
+      "read_index": "21",
+      "source_jp": "オンラインショップ",
+      "source_en": "Online Shop",
+      "text": "Online-Shop"
+    },
+    {
+      "key": "menu_mail",
+      "read_index": "28",
+      "source_jp": "メール",
+      "source_en": "Mail",
+      "text": "Post"
+    },
+    {
+      "key": "menu_deli_box",
+      "read_index": "36",
+      "source_jp": "アイテムポスト",
+      "source_en": "Item Post",
+      "text": "Gegenstandspost"
+    }
+  ]
+}

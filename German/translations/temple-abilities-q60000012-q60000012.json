@@ -1,0 +1,519 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\quest\\q60000012.gmd",
+  "arc_path": "\\quest\\q60000012.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "【ヒント：カスタムスキルの付け方】",
+      "source_en": "[Hint: How to assign Custom Skills]",
+      "text": "[Hinweis: Spezialfertigkeiten ausrüsten]"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "①アーチボルトに話し、会話メニューから\r\n　《転職/戦技の付替え》を選択",
+      "source_en": "① Talk to Archibald and select\r\n[Vocation / Arts Support] from the chat menu",
+      "text": "1. Sprich mit Archibald und wähle\r\nKlasse / Kampftechniken."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "②メニューで《スキル》を選択",
+      "source_en": "②Select [Skills] from the menu.",
+      "text": "2. Wähle im Menü Fertigkeiten."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "③《カスタムスキル》からつけたいスキルを選び\r\n　右のボタン割り当てにセット",
+      "source_en": "③Select a skill from [Custom Skill]\r\nand assign it to the key combination on the right.",
+      "text": "3. Wähle eine Spezialfertigkeit und\r\nweise ihr rechts eine Taste zu."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "【ヒント：クエスト報酬アイテムの受け取り】",
+      "source_en": "[Hint: How to receive Quest Reward items]",
+      "text": "[Hinweis: Questbelohnungen abholen]"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "①クエストクリア後、保管ボックスを調べる",
+      "source_en": "①After clearing the quest, check your Storage Box.",
+      "text": "1. Öffne nach Abschluss der Quest die Lagerkiste."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "source_jp": "②メニューで《報酬受け取り》を選択",
+      "source_en": "②Select [Quest Rewards] from the menu.",
+      "text": "2. Wähle Questbelohnungen."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "source_jp": "③クエスト名を選び、その報酬を受け取る\r\n※受け取った報酬は保管ボックスの\r\n　アイテム欄に送られます",
+      "source_en": "③Choose the quest name and receive its reward.\r\n※Received rewards will be sent to the\r\nitem section of the Storage Box.",
+      "text": "3. Wähle die Quest und nimm die Belohnung an.\r\nDie Gegenstände landen in der Lagerkiste."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "source_jp": "【ヒント：クエスト進行】",
+      "source_en": "[Hint: Quest Progression]",
+      "text": "[Hinweis zum Questfortschritt]"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "source_jp": "ボードクエストをクリアしました\r\n白竜神殿に戻りファビオに報告しましょう",
+      "source_en": "You have completed the Board Quest.\r\nLet's return to the White Dragon Temple\r\nand report the results to Fabio.",
+      "text": "Du hast die Board-Quest abgeschlossen.\r\nKehre zum Tempel des Weißen Drachen\r\nzurück und berichte Fabio."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "source_jp": "【ヒント：覚者の成長について】",
+      "source_en": "[Hint: Growth of the Arisen]",
+      "text": "[Hinweis: Als Erweckter stärker werden]"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "source_jp": "神殿内の＜宿場区＞にいるアーチボルトとレンテンは\r\n戦闘で強くなるために重要な人物です",
+      "source_en": "To help you become stronger in battle,\r\nArchibald and Renton are important allies to visit\r\nin the [Relay Station] of the Temple.",
+      "text": "Archibald und Renton im Herbergsviertel\r\nhelfen dir, im Kampf stärker zu werden."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "source_jp": "自分にあったジョブに転職も可能なので\r\nさっそく会いにいきましょう",
+      "source_en": "You can switch to a Vocation that fits you better,\r\nso let's go see them right away.",
+      "text": "Du kannst auch in eine Klasse wechseln,\r\ndie besser zu dir passt. Geh zu den beiden."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "source_jp": "宿場区の宿屋へ行って\r\nアーチボルトと話すんだ",
+      "source_en": "Head to the Inn in the Relay Station\r\nand talk to Archibald.",
+      "text": "Geh ins Gasthaus im Herbergsviertel\r\nund sprich mit Archibald."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "source_jp": "俺はここで待っているから\r\n終わったら、声をかけてくれ",
+      "source_en": "I'll be right here,\r\nso give me a shout once you're done.",
+      "text": "Ich warte hier.\r\nSag Bescheid, wenn du fertig bist."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "source_jp": "俺は白衛騎士団のアーチボルトだ\r\n戦技――スキルの習得や付替え\r\n転職の補佐をしている",
+      "source_en": "I am Archibald of the White Knights.\r\nSkill acquisition, augment changes,\r\nand vocation transitions, that's all me.",
+      "text": "Ich bin Archibald von der Weißen Garde.\r\nBei mir lernst du Kampftechniken, wechselst\r\nFertigkeiten und kannst deine Klasse ändern."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "source_jp": "――強くなるためにはどうすればいいか？\r\nそれはいたってシンプルだ！",
+      "source_en": "How does one grow in strength?\r\nIt's very simple!",
+      "text": "Du willst stärker werden?\r\nDas ist ganz einfach!"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "source_jp": "敵と戦い己を鍛え、クエストに取り組め！\r\nその経験から得た《ジョブポイント》を使い\r\n新たな戦技――つまり、スキルやアビリティを\r\n獲得できるというわけだ",
+      "source_en": "Fight foes, train yourself, and take on quests!\r\nThe experience you gain earns you [Job Points]\r\nto unlock new combat techniques;\r\nnamely Skills, Augments, the works.\r\nThat's how you get 'em.",
+      "text": "Kämpfe, übe und erledige Quests!\r\nMit der Erfahrung erhältst du Klassenpunkte.\r\nDamit lernst du neue Kampftechniken,\r\nalso Fertigkeiten und Begabungen."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "source_jp": "うむ？　スキル、アビリティに関しても\r\n簡単に説明をしておいたほうが良さそうだな",
+      "source_en": "Caught your interest, eh?\r\nI'll give you a quick rundown\r\nof Skills and Augments.",
+      "text": "Hm? Ich erkläre dir kurz, was es mit\r\nFertigkeiten und Begabungen auf sich hat."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "source_jp": "スキルとは、すなわちジョブ固有の技！\r\n特にカスタムスキルという様々な技を\r\n習得することで、お前の身ごなしや\r\n戦いの幅は大きく広がるだろう！",
+      "source_en": "Skills define each Vocation's unique edge!\r\nBy learning Custom Skills in particular,\r\nyou'll have more options when it comes to \r\ncombat and movement!",
+      "text": "Fertigkeiten sind Techniken deiner Klasse.\r\nMit Spezialfertigkeiten bekommst du besonders\r\nviele neue Möglichkeiten im Kampf und\r\nbei der Bewegung."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "source_jp": "次に、アビリティとは能力を引き出す心得――\r\n職により獲得できるアビリティは異なるが\r\nどの職であろうと活かすことができるぞ",
+      "source_en": "Next up, Augments. Unlock your true potential.\r\nAugments differ depending on the Vocation,\r\nthough you can use any of them\r\nregardless of your current Vocation.",
+      "text": "Begabungen stärken deine Fähigkeiten.\r\nJede Klasse lernt andere, doch du kannst\r\nsie mit jeder Klasse nutzen."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "source_jp": "まぁ、まずは何事もやってみることだ\r\n実際にカスタムスキルをセットしてゆけ",
+      "source_en": "Well, go ahead.\r\nSet those Custom Skills up yourself.",
+      "text": "Probier es gleich aus.\r\nRüste eine Spezialfertigkeit aus."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "source_jp": "俺に話しかけ、《転職／戦技の付替え》から\r\n《スキル》を選び試してみるがいい",
+      "source_en": "Talk to me, pick [Vocation / Arts Support]\r\nthen [Skills] to give it a try.",
+      "text": "Sprich mit mir, wähle Klasse / Kampftechniken\r\nund dann Fertigkeiten."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "source_jp": "さぁ、まずは何事もやってみることだ\r\n実際にカスタムスキルをセットしてゆけ",
+      "source_en": "Now, go ahead.\r\nSet those Custom Skills up yourself.",
+      "text": "Probier es gleich aus.\r\nRüste eine Spezialfertigkeit aus."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "source_jp": "俺に話しかけ、《転職／戦技の付替え》から\r\n《スキル》を選び試してみるがいい",
+      "source_en": "Talk to me, pick [Vocation / Arts Support]\r\nthen [Skills] to give it a try.",
+      "text": "Sprich mit mir, wähle Klasse / Kampftechniken\r\nund dann Fertigkeiten."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "source_jp": "よし、それでいい！\r\nカスタムスキルを身に付けることが\r\nできたようだな",
+      "source_en": "Good, that's it!\r\nYou've got yourself a Custom Skill now.",
+      "text": "Genau so! Jetzt hast du eine\r\nSpezialfertigkeit ausgerüstet."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "source_jp": "そうだな、後は――\r\n今のジョブが合わないと感じたら\r\n転職してみることを勧めよう\r\nきっとお前にあったジョブが見つかるはずだ",
+      "source_en": "Now, one more thing.\r\nIf the Vocation you've got now doesn't feel right,\r\nI recommend trying a different one.\r\nYou'll find one that fits you, no doubt about it.",
+      "text": "Eins noch: Liegt dir deine Klasse nicht,\r\nprobier eine andere aus. Du wirst bestimmt\r\neine finden, die zu dir passt."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "source_jp": "――ではな\r\nともに精進しよう、新たな覚者よ\r\n白竜様のために！",
+      "source_en": "Off you go, Newly Arisen.\r\nWe'll hone our strength together.\r\nFor the White Dragon!",
+      "text": "Mach's gut, junger Erweckter.\r\nLass uns gemeinsam stärker werden.\r\nFür den Weißen Drachen!"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "source_jp": "どうだ、鍛えているか？\r\n戦技や転職についてであれば\r\nいつでも相談にのるぞ\r\n遠慮は無用だ",
+      "source_en": "How's it going? Been training?\r\nIf you've got any questions about changing\r\nSkills or Vocations, I'll be right here.\r\nThere's no need to be shy.",
+      "text": "Na, hast du geübt? Bei Fragen zu Fertigkeiten\r\noder zum Klassenwechsel helfe ich dir gern.\r\nFrag einfach."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "source_jp": "よぉ！　覚者隊の新入りだよな？\r\n俺は白衛騎士団のレンテンだ、よろしくな\r\n――へへ、実は俺もまだ見習いでさ",
+      "source_en": "Yo! You're the new to the Arisen Corps, right?\r\nI'm Renton of the White Knights, nice to meet ya.\r\nHehe, I'm still a trainee myself, y'know.",
+      "text": "He! Du bist neu bei den Erweckten, oder?\r\nIch bin Renton von der Weißen Garde.\r\nHehe, ich bin selbst noch in der Ausbildung."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "source_jp": "各ジョブに必要な役割と基本的な動き\r\nスキルの使い方について教習してるんだ\r\nほら、教えるのも勉強の内って言うだろ？",
+      "source_en": "I'll be showing you different combatant roles,\r\nbasic movements, and how to master your skills.\r\nHey, they say teaching is learning too, right?",
+      "text": "Ich zeige dir, welche Rolle jede Klasse hat,\r\nwie du dich bewegst und Fertigkeiten einsetzt.\r\nBeim Lehren lernt man ja selbst, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "source_jp": "ジョブの基礎訓練をしたければ\r\nいつでも声を掛けてくれよ！\r\n《修練の祠》へ案内するからさ",
+      "source_en": "Whenever you need a refresher\r\non Vocation basics, just say the word!\r\nI'll guide you to the [Training Chapel].",
+      "text": "Wenn du die Grundlagen deiner Klasse üben\r\nwillst, sag Bescheid. Ich bring dich zur\r\nTrainingskapelle."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "source_jp": "実戦の前に、まずは訓練だぜ！\r\n試してみたいジョブがあるなら、声掛けてくれよ\r\nいつでも歓迎だからさ！",
+      "source_en": "Training comes first, then the real action!\r\nGot a Vocation you wanna try out? Let me know.\r\nYou're welcome anytime!",
+      "text": "Erst üben, dann in die Schlacht!\r\nWenn du eine Klasse ausprobieren willst,\r\nbist du jederzeit willkommen."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "source_jp": "よし、挨拶完了だな？",
+      "source_en": "Introductions out of the way, yeah?",
+      "text": "Na, hast du dich vorgestellt?"
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "source_jp": "次は――覚者の基本、各地の問題解決だ\r\nほら、目の前に《クエストボード》があるだろ？",
+      "source_en": "Next lesson, fixing people's problems.\r\nIt's the price to pay, being the Arisen.\r\nSee that Quest Board in front of you?",
+      "text": "Jetzt machen wir, was Erweckte eben tun: Wir\r\nhelfen den Leuten. Siehst du das Questboard?"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "source_jp": "あそこには、神殿や住民から俺たち\r\n覚者への依頼書が貼り出されている\r\n魔物討伐や品物補給だな",
+      "source_en": "On it, you'll find requests posted by locals\r\nand the Temple meant for us Arisen.\r\nKilling monsters, supply runs, things of that sort.",
+      "text": "Dort hängen Aufträge für uns Erweckte.\r\nSie kommen vom Tempel oder von Anwohnern.\r\nMal geht's um Monster, mal um Nachschub."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "source_jp": "もちろん、報酬金も出る\r\n生活のためにも旅の準備にも鍛えるにも\r\nクエストボードの依頼をこなすのが\r\nてっとり早いだろうな",
+      "source_en": "Of course, it pays to do these Board Quests.\r\nWhether it's to make a living, for travel expenses,\r\nor honing your skills, knocking out those requests\r\nis the best way to go, if you ask me.",
+      "text": "Dafür gibt es natürlich eine Belohnung.\r\nBrauchst du Geld für die Reise oder willst\r\ndu stärker werden? Aufträge am Questboard\r\nsind dafür der schnellste Weg."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "source_jp": "じゃあ、そういうわけで\r\n自分が達成できそうな依頼を選んで\r\nひとつやってみな",
+      "source_en": "Alright, with that said,\r\npick a quest you think you can pull off\r\nand give it a go.",
+      "text": "Such dir einen Auftrag aus, den du dir\r\nzutraust, und probier's aus."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "source_jp": "クエストボードは見たか？\r\n依頼書がいっぱいだっただろ？",
+      "source_en": "Did you check the Quest Board?\r\nThere's loads to do, right?",
+      "text": "Hast du dir das Questboard angesehen?\r\nAufträge gibt's genug, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "source_jp": "じゃあ、そういうわけで\r\nどれかひとつやってみるんだ\r\n頑張れよ！",
+      "source_en": "So with that said, pick one and give it a go.\r\nBest of luck!",
+      "text": "Such dir einen aus und leg los.\r\nViel Glück!"
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "source_jp": "よし、上出来上出来\r\nあんたなかなかいいセンスだよ\r\n思ったとおり、仲良くなれそうだな！",
+      "source_en": "Well, well. Nicely handled.\r\nYou've got some pretty good instincts.\r\nJust as I thought, we'll get along just fine!",
+      "text": "Sauber gemacht! Du hast ein gutes Gespür.\r\nIch wusste doch, dass wir uns gut verstehen."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "source_jp": "とにかくボードクエストの解決が\r\n金や経験を稼ぐ基本さ、覚えときな\r\n高望みして無茶な依頼を引き受けるなよ？",
+      "source_en": "Bottom line, tackling Board Quests\r\nis the basic way to earn coin and experience.\r\nAnd don't bite off more than you can chew.\r\nKnow your limits, 'kay?",
+      "text": "Board-Quests bringen dir Geld und Erfahrung.\r\nSuch dir Aufträge aus, die du auch\r\nwirklich schaffst."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "source_jp": "もう一つ\r\n旅において大事なことを伝えておく",
+      "source_en": "One more thing you should know when you travel.",
+      "text": "Eins solltest du für deine Reisen noch wissen."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "source_jp": "一度に持ち歩ける所持品には制限がある\r\nそのため定期的に所持品を整理する必要がある",
+      "source_en": "There's a limit to how much you can carry.\r\nBest be sorting your items regularly.",
+      "text": "Du kannst nur eine begrenzte Menge mitnehmen.\r\nSortiere dein Gepäck also regelmäßig."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "source_jp": "そこで目の前にあると思うが――",
+      "source_en": "That's where the thing right in front of you\r\nwill come into play...",
+      "text": "Dafür ist das Ding da vor dir gedacht ..."
+    },
+    {
+      "key": "",
+      "read_index": "45",
+      "source_jp": "この《保管ボックス》が便利なんだ\r\nここではいろんなクエストをクリアした時に\r\n報酬として手に入るアイテムを受け取ったり――",
+      "source_en": "This [Storage Box] is handy.\r\nHere, you can receive Reward Items\r\nfrom completed Quests...",
+      "text": "Die Lagerkiste ist ziemlich praktisch.\r\nHier holst du die Gegenstände ab,\r\ndie du für erledigte Quests bekommst."
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "source_jp": "装備品の変更やアイテム整理をして\r\n旅支度をする事ができる\r\n定期的に訪れて利用するといい",
+      "source_en": "...And change your Equipment or sort your Items.\r\nUse it regularly to prepare for your next outing.",
+      "text": "Du kannst auch Ausrüstung wechseln und\r\ndeine Gegenstände sortieren. Schau vor\r\ndeinem nächsten Aufbruch hier vorbei."
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "source_jp": "もしかしたらもう受け取ったかもしれないが\r\n俺から旅に便利なアイテムをプレゼント\r\nとしていくつか入れておいた\r\n報酬受け取り口ともども、確認してみてくれ",
+      "source_en": "You might've got them already,\r\nbut I left some useful items for you\r\nas a little gift from me, for your journey.\r\nLook in 'Quest Rewards' for them.",
+      "text": "Vielleicht hast du sie schon abgeholt.\r\nIch hab dir ein paar nützliche Sachen\r\nfür die Reise dagelassen.\r\nSchau unter Questbelohnungen nach."
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "source_jp": "確認できたら\r\nまた俺に話しかけてくれ",
+      "source_en": "Once you've checked it out,\r\ncome talk to me again.",
+      "text": "Sprich mich wieder an, wenn du nachgesehen hast."
+    },
+    {
+      "key": "",
+      "read_index": "49",
+      "source_jp": "今回は特別に、俺から\r\n旅に便利なアイテムをプレゼントとして\r\n入れておいたから、保管ボックス内のプレゼントや\r\n報酬がないかどうか、一度確認してみてくれ",
+      "source_en": "This time, as a special treat,\r\nI've left some useful travel items\r\nin the Storage Box as a present.\r\nTake a look and see if there are\r\nany rewards waiting for you.",
+      "text": "Ich hab dir ausnahmsweise ein paar nützliche\r\nSachen für die Reise dagelassen. Schau in\r\nder Lagerkiste nach Geschenken und Belohnungen."
+    },
+    {
+      "key": "",
+      "read_index": "50",
+      "source_jp": "確認できたら\r\nまた俺に話しかけてくれ",
+      "source_en": "Once you've checked it out,\r\ncome talk to me again.",
+      "text": "Sprich mich wieder an, wenn du nachgesehen hast."
+    },
+    {
+      "key": "",
+      "read_index": "51",
+      "source_jp": "保管ボックスの中身は確かめたようだな\r\nここじゃなくても神殿内の各所にあるから\r\n上手く利用してくれ",
+      "source_en": "Now you've checked out the Storage Box.\r\nYou'll find similar ones all over the Temple,\r\nso make good use of them.",
+      "text": "Du hast also in die Lagerkiste geschaut.\r\nSolche Kisten findest du überall im Tempel.\r\nMach guten Gebrauch davon."
+    },
+    {
+      "key": "",
+      "read_index": "52",
+      "source_jp": "最後に、覚者の冒険を全面的に\r\nサポートしてくれるイイモノを紹介しよう\r\nこの世の中――便利なものは知らないより\r\n知っておいた方が今どきの覚者ってやつだ",
+      "source_en": "Finally, let me introduce something great\r\nthat fully supports the Arisen's adventure.\r\nThese days, it's better to be in the know\r\nabout the useful things than to miss out.",
+      "text": "Zum Schluss zeige ich dir noch etwas,\r\ndas dir auf deinen Reisen hilft.\r\nAls Erweckter sollte man wissen, was\r\neinem das Leben leichter macht."
+    },
+    {
+      "key": "",
+      "read_index": "53",
+      "source_jp": "そうだな、期待の新人覚者を応援するため\r\n俺がもう一肌ぬぐことにしよう\r\n――こんな大盤振る舞いそうないぞ",
+      "source_en": "Alright, since you've showed such promise,\r\nI'll go the extra mile for you.\r\nYou won't find this kind of generosity often.",
+      "text": "Für einen Neuling mit so viel Potenzial\r\ntue ich noch einmal, was ich kann.\r\nSo großzügig bin ich selten!"
+    },
+    {
+      "key": "",
+      "read_index": "54",
+      "source_jp": "まずはゲームメニューから\r\n《オンラインショップ》に入り\r\n俺からのプレゼントを探して手に入れるんだ\r\nん？　もちろん無料だから安心してくれ",
+      "source_en": "First, go to the [Online Shop] from the Game Menu,\r\nlook for my present and claim it for yourself.\r\nHm? Don't worry, it's on the house.",
+      "text": "Öffne im Spielmenü den Online-Shop\r\nund hol mein Geschenk ab.\r\nKeine Sorge, es ist gratis."
+    },
+    {
+      "key": "",
+      "read_index": "55",
+      "source_jp": "ああ、待っていた\r\nおまえに頼みたいことがあってな――",
+      "source_en": "Ah, I've been waiting for you.\r\nThere's something I'd like to ask of you...",
+      "text": "Ah, da bist du ja.\r\nIch hätte da eine Bitte ..."
+    },
+    {
+      "key": "",
+      "read_index": "56",
+      "source_jp": "【ヒント：オンラインショップの利用方法】",
+      "source_en": "[Hint: How to use the Online Shop]",
+      "text": "[Hinweis zum Online-Shop]"
+    },
+    {
+      "key": "",
+      "read_index": "57",
+      "source_jp": "①ゲームメニューから《オンラインショップ》選択",
+      "source_en": "①Select [Online Shop] from the Game Menu.",
+      "text": "1. Wähle im Spielmenü Online-Shop."
+    },
+    {
+      "key": "",
+      "read_index": "58",
+      "source_jp": "②メニューにある《ピックアップ》を選択し、《【新人覚者へ】ファビオからのプレゼント》を購入",
+      "source_en": "②Select [Pickup] from the Menu\r\nand purchase [[Present for New Arisen] From Fabio]",
+      "text": "2. Wähle die Empfehlungen und nimm\r\nFabios Geschenk für neue Erweckte."
+    },
+    {
+      "key": "",
+      "read_index": "59",
+      "source_jp": "まずはゲームメニューから\r\n《オンラインショップ》に入り\r\n俺からのプレゼントを探して手に入れるんだ\r\nん？　もちろん無料だから安心してくれ",
+      "source_en": "First, go to the [Online Shop] from the Game Menu,\r\nlook for my present and claim it for yourself.\r\nHm? Don't worry, it's on the house.",
+      "text": "Öffne im Spielmenü den Online-Shop\r\nund hol mein Geschenk ab.\r\nKeine Sorge, es ist gratis."
+    },
+    {
+      "key": "",
+      "read_index": "60",
+      "source_jp": "無事、プレゼントを手に入れたな\r\nこいつのサポートを受けて冒険に出れば\r\nみるみる覚者として成長できるぜ",
+      "source_en": "You got the present safe and sound.\r\nWith this to support you on your adventure,\r\nyou'll grow rapidly as an Arisen.",
+      "text": "Du hast das Geschenk also bekommen.\r\nMit dieser Hilfe wirst du auf deinen Reisen\r\nschnell zu einem starken Erweckten."
+    },
+    {
+      "key": "",
+      "read_index": "61",
+      "source_jp": "そうそう、ささやかだけど――\r\nメールでおまけを送っておいたから\r\nあとで忘れず確認してくれ",
+      "source_en": "Oh yeah, I sent you a little bonus by mail.\r\nCheck it when you have a moment, alright?",
+      "text": "Ach ja, ich habe dir noch eine Kleinigkeit\r\nper Post geschickt. Schau später rein."
+    },
+    {
+      "key": "",
+      "read_index": "62",
+      "source_jp": "オンラインショップには\r\n他にも便利なものが色々あるから\r\n自分にあったサポートを\r\n調べて使ってみるといいんじゃないか",
+      "source_en": "There's lots of useful things in the Online Shop.\r\nWhy not try to find something\r\nthat suits you? Won't hurt to look.",
+      "text": "Im Online-Shop gibt es noch andere\r\npraktische Dinge. Sieh dich um, wenn du\r\nUnterstützung für deine Reise suchst."
+    },
+    {
+      "key": "",
+      "read_index": "63",
+      "source_jp": "これで俺からいうべき\r\n旅に必要な基本知識は終わりだ",
+      "source_en": "That's it from me.\r\nYou're all set with the basics for the road ahead.",
+      "text": "Damit weißt du alles Wichtige\r\nfür deine ersten Reisen."
+    },
+    {
+      "key": "",
+      "read_index": "64",
+      "source_jp": "さて――\r\n少々改まってだな\r\n今から、大切な話をする\r\n知り合ってから、一番重要な話だ",
+      "source_en": "Now then, what I'm about to say matters―\r\nThe most important thing I've got to tell you yet.",
+      "text": "Jetzt muss ich doch noch ernst werden.\r\nWas ich dir sage, ist das Wichtigste,\r\nseit wir uns kennen."
+    },
+    {
+      "key": "",
+      "read_index": "65",
+      "source_jp": "覚者は年をとらない\r\n心臓を白竜に預けてしまったからな",
+      "source_en": "The Arisen do not age, \r\nas we've given our hearts to the White Dragon.",
+      "text": "Erweckte altern nicht. Wir haben unsere\r\nHerzen dem Weißen Drachen anvertraut."
+    },
+    {
+      "key": "",
+      "read_index": "66",
+      "source_jp": "だから、無茶さえしなければ\r\n永遠に生きられる――かもしれない",
+      "source_en": "So, as long as you don't push your luck,\r\nyou could live forever... -could-.",
+      "text": "Wenn du es nicht übertreibst, könntest\r\ndu also ewig leben. Könntest."
+    },
+    {
+      "key": "",
+      "read_index": "67",
+      "source_jp": "でもな、それも白竜あってこそだ",
+      "source_en": "But remember, that's only possible\r\nbecause of the White Dragon.",
+      "text": "Solange es den Weißen Drachen gibt."
+    },
+    {
+      "key": "",
+      "read_index": "68",
+      "source_jp": "つまり白竜と俺たちは\r\n持ちつ持たれつ――",
+      "source_en": "In other words, the Dragon and our kind,\r\nwe're mutually dependent...",
+      "text": "Er braucht uns und wir brauchen ihn."
+    },
+    {
+      "key": "",
+      "read_index": "69",
+      "source_jp": "白竜が死んだり、あるいは、完全に\r\n石の塊になってしまったら――",
+      "source_en": "If the White Dragon were to truly die,\r\nor turn completely to stone...",
+      "text": "Wenn der Weiße Drache stirbt oder\r\nvollständig zu Stein wird ..."
+    },
+    {
+      "key": "",
+      "read_index": "70",
+      "source_jp": "覚者はどうなるのか？\r\n誰も知らない――知らないが\r\n幸福な結末になるとは思えない",
+      "source_en": "What will become of us Arisen?\r\nNo one knows, but...\r\nI don't think it'll end happily.",
+      "text": "... was wird dann aus uns Erweckten?\r\nNiemand weiß es. Aber ich glaube kaum,\r\ndass es gut für uns ausgeht."
+    },
+    {
+      "key": "",
+      "read_index": "71",
+      "source_jp": "俺たちには自由に生きる権利がある\r\nでもな、イザって時は白竜のために\r\n戦うと、俺は決めている\r\nそれが覚者ってもんだと、俺は思う",
+      "source_en": "We may live freely as individuals.\r\nBut if and when disaster should strike,\r\nI've decided I will fight for the White Dragon.\r\nThat's what it means to be Arisen, in my book.",
+      "text": "Wir dürfen unser Leben frei gestalten.\r\nDoch wenn es so weit ist, kämpfe ich\r\nfür den Weißen Drachen. Das gehört für\r\nmich dazu, wenn man erweckt ist."
+    },
+    {
+      "key": "",
+      "read_index": "72",
+      "source_jp": "――以上、真面目な話、終了だ",
+      "source_en": "Alright, that's it.\r\nNo more of this depressing business.\r\nI'm done.",
+      "text": "So. Schluss mit den ernsten Sachen."
+    }
+  ]
+}

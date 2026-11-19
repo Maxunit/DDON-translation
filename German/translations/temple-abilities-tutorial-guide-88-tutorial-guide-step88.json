@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "scope": "Archibald, Fabio, and the mandatory temple board quest",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step88.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_88.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_115",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《保管ボックス》</COL>は、入手したアイテムを\r\n管理・保存しておく場所です\r\n携帯できるアイテム数には限りがあるため、\r\n大切なものやすぐに使わないアイテムは\r\nこちらに保管するといいでしょう",
+      "source_en": "The <COL ffdc78>Storage Box</COL> is a place to manage and store\r\nthe items you acquire.\r\nThe number of items you can carry is limited, so\r\nyou may want to store important items or items\r\nyou won't use immediately here.",
+      "text": "In der <COL ffdc78>Lagerkiste</COL> kannst du Gegenstände\r\naufbewahren. Dein Gepäck hat nur begrenzt\r\nPlatz. Lagere Wertvolles oder Dinge,\r\ndie du gerade nicht brauchst, hier ein."
+    },
+    {
+      "key": "TUTORIAL_STEP_243",
+      "read_index": "1",
+      "source_jp": "ボックス内では保管アイテムの出し入れ、\r\n整理や売却が行えます\r\n<COL ffdc78>またクエストクリアなど、各コンテンツで得た\r\n報酬の受け取り場所にもなります</COL>",
+      "source_en": "In the box, you can move items in and out of\r\nstorage, organize them, and sell them.\r\n<COL ffdc78>It is also where you receive rewards for\r\ncompleting quests and other content.</COL>",
+      "text": "An der Kiste kannst du einlagern,\r\nentnehmen, sortieren und verkaufen.\r\n<COL ffdc78>Hier holst du auch die Belohnungen für\r\nerledigte Quests und andere Aufgaben ab.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_306",
+      "read_index": "2",
+      "source_jp": "また、<OPCS>の効果により\r\n《保管ボックス》がさらに便利になります\r\n<COL ffdc78>保管できるアイテム枠が拡張される上、\r\n地方拠点で《拠点用保管ボックス》が\r\n利用できるようになります</COL>",
+      "source_en": "In addition, the effects of <COL ffdc78><OPCS></COL> will\r\nmake the <COL ffdc78>Storage Box</COL> even more convenient.\r\nYou will be able to expand the number of item\r\nslots that can be stored, and you will also be\r\nable to use <COL ffdc78>Camp Storage Boxes</COL> at local inns.",
+      "text": "Mit <OPCS> bietet die Lagerkiste mehr Platz.\r\n<COL ffdc78>Du kannst dann auch Lagerkisten an\r\nStützpunkten außerhalb des Tempels nutzen.</COL>",
+      "tag_source": "source_jp"
+    }
+  ]
+}
