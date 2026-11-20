@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\consecrate_orb.gmd",
+  "arc_path": "\\ui\\uGUIJobOrbTree.arc",
+  "entries": [
+    {
+      "key": "ORB_TEXT_INDEX",
+      "read_index": "0",
+      "source_jp": "竜力の継承",
+      "source_en": "Dragon Force Augmentation",
+      "text": "Erbe der Drachenkraft"
+    },
+    {
+      "key": "ORB_TEXT_JOB_ORB_TREE",
+      "read_index": "26",
+      "source_jp": "竜力の継承２",
+      "source_en": "Dragon Force Augmentation 2",
+      "text": "Klassenverstärkung"
+    },
+    {
+      "key": "ORB_TEXT_GUIDE_CONVERT_ORB",
+      "read_index": "36",
+      "source_jp": "ブラッドオーブ変換",
+      "source_en": "Blood Orb Conversion",
+      "text": "Blutkugeln umtauschen"
+    }
+  ]
+}

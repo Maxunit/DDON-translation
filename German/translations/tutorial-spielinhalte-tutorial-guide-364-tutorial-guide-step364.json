@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step364.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_364.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_630",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《マンドラゴラ・ガーデニング》が解放されました！</COL>\r\n\r\n自室にマンドラゴラを住まわせ、\r\nパートナーポーンのように触れ合ったり\r\nアイテムを肥料として与えて育成することができます\r\n\r\n解放クエストクリア後、報酬の植木鉢を受け取ったら\r\nパートナーポーンまたはマンドラゴラたちを通じて\r\n育成を行いましょう",
+      "source_en": "<COL 78f5ff>[Mandragora Gardening] has been unlocked!</COL>\r\nYou can have Mandragoras reside in your room and\r\ninteract with them like partner Pawns.\r\nYou can also nurture them by providing\r\nitems as fertilizer.\r\nAfter clearing the unlocking quest and receiving\r\nthe reward planter, cultivate them through\r\nyour partner Pawns or the Mandragoras.",
+      "text": "<COL 78f5ff>Du kannst jetzt Mandragoras züchten!</COL>\nMandragoras wohnen in deinem Zimmer.\nDu kannst mit ihnen Zeit verbringen\nund sie mit Gegenständen düngen.\nSchließe die Quest ab und hol den\nBlumentopf als Belohnung ab. Sprich\nanschließend deinen Partnervasallen\noder die Mandragoras auf die Zucht an."
+    },
+    {
+      "key": "TUTORIAL_STEP_631",
+      "read_index": "1",
+      "source_jp": "＜マンドラゴラの育成＞\r\n\r\nマンドラゴラの育成を行うと\r\n《ボーナスダンジョンチケット》などの\r\nアイテムを作成することができます\r\n\r\nマンドラゴラの育成には\r\n《作るもの》と《肥料》を選ぶ必要があり、\r\n育成完了には18時間かかります",
+      "source_en": "[Mandragora Cultivation] By cultivating\r\nMandragoras, you can create items such as\r\n\"Bonus Dungeon Tickets\".\r\nTo cultivate Mandragoras, you need to choose the\r\n\"Crafting item\" and \"Fertilizer\".\r\nIt takes 18 hours to complete the cultivation.",
+      "text": "Bei der Zucht können Gegenstände wie\nTickets für Bonusverliese entstehen.\nWähle, was deine Mandragora herstellen\nsoll, und gib ihr Dünger. Die Zucht\ndauert 18 Stunden."
+    },
+    {
+      "key": "TUTORIAL_STEP_632",
+      "read_index": "2",
+      "source_jp": "＜マンドラゴラの進化＞\r\n\r\nマンドラゴラを育成する際に\r\n選択する《肥料》の内容によって\r\nマンドラゴラが進化し、姿を変えることがあります\r\n\r\nまた、現在のマンドラゴラの種類を\r\n一度発見した種類に任意で変更することもできます\r\nただし、\"何の種類から育成するか\"というのは\r\n進化に影響するため、育成の際には注意しましょう",
+      "source_en": "[Mandragora Evolution] When nurturing a\r\nMandragora, the type of fertilizer selected can\r\ncause the Mandragora to evolve and\r\nchange its appearance.\r\nAdditionally, the current type of Mandragora can\r\nbe changed to any previously discovered type.\r\nHowever, the choice of \"which type to nurture\r\nfrom\" can affect its evolution, so please be\r\ncautious when nurturing.",
+      "text": "Manchmal verändert eine Mandragora\nbei der Zucht ihr Aussehen. Das hängt\nvom verwendeten Dünger ab.\nDu kannst sie auch in eine bereits\nentdeckte Art verwandeln. Überlege dir,\nmit welcher Art du startest. Auch sie\nbeeinflusst das Ergebnis der Zucht."
+    },
+    {
+      "key": "TUTORIAL_STEP_633",
+      "read_index": "3",
+      "source_jp": "＜マンドラゴラ生態図鑑＞\r\n\r\n新種を発見した場合は\r\n《マンドラゴラ図鑑》に情報が収められていきます\r\n中にはマンドラゴラの専門家、エイダス教授も\r\n発見していない高レアリティの種類も存在します\r\n<COL ffdc78>レアリティRまたはMRの種類が発見された場合\r\n第一発見者のプレイヤーキャラクター名が\r\n図鑑に記録されます</COL>\r\n\r\n様々な肥料を試し、新種を発見していきましょう",
+      "source_en": "[Mandragora Observation Journal]\r\n\r\nWhen a new species is discovered, the information\r\nwill be recorded in the \"Mandragora Journal\".\r\nThere are also rare types that even Professor\r\nAidas, an expert on Mandragoras, has not\r\ndiscovered.\r\n<COL ffdc78>If a rarity R or MR type is found,\r\nthe player character's name will be recorded in\r\nthe journal.</COL>\r\n\r\nTry various fertilizers and discover new\r\nspecies.",
+      "text": "Neu entdeckte Arten erscheinen im\nMandragora-Lexikon. Manche sind so\nselten, dass selbst Professor Aidas\nsie noch nicht entdeckt hat.\n<COL ffdc78>Entdeckst du als Erster eine Art mit\nSeltenheit R oder MR, wird der Name\ndeines Charakters im Lexikon vermerkt.</COL>\nProbiere verschiedene Dünger aus."
+    }
+  ]
+}

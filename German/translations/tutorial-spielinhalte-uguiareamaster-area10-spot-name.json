@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\master\\area10_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "source_jp": "ザンドラ禁域",
+      "source_en": "Zandora Wastelands",
+      "text": "Zandora-Sperrgebiet"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "10",
+      "source_jp": "メルゴダ護政区",
+      "source_en": "Mergoda Security District",
+      "text": "Wachtbezirk Mergoda"
+    }
+  ]
+}

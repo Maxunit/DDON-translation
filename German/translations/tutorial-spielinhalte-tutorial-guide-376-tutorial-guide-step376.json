@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step376.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_376.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_665",
+      "read_index": "0",
+      "source_jp": "十分に身を隠せる高さの障害物がない場所では\r\n<COL ffdc78>伏せて進む</COL>必要があります\r\n\r\n伏せると<COL ffdc78>低い障害物にも隠れる</COL>ことができますが\r\n周囲の状況が把握しづらくなるので注意が必要です",
+      "source_en": "In places where there are no obstacles of\r\nsufficient height to conceal yourself, it is\r\nnecessary to <COL ffdc78>crawl forward.</COL>\r\nWhile crawling, you can also <COL ffdc78>hide behind low\r\nobstacles</COL>, but be cautious as it will be\r\ndifficult to assess the surrounding conditions.",
+      "text": "Fehlt hohe Deckung, kannst du\n<COL ffdc78>flach am Boden vorrücken</COL>.\nSo bleibst du auch <COL ffdc78>hinter niedrigen\nHindernissen verborgen</COL>. Allerdings\nsiehst du von dort weniger von deiner\nUmgebung."
+    },
+    {
+      "key": "TUTORIAL_STEP_709",
+      "read_index": "1",
+      "source_jp": "＜伏せる方法＞\r\n\r\n　【<KC UI_GAME_MENU>】ゲームメニュー《コミュニケーション》から\r\n《エモート》を選択し、左に表示される《<COL ffdc78>Category</COL>》から\r\n　《<COL ffdc78>アクション・１</COL>》を選びます\r\n\r\n　右側のリストから《<COL ffdc78>伏せる</COL>》を\r\n　選択すると、伏せた状態になります\r\n　また、<COL ffdc78>伏せたまま移動する</COL>こともできます\r\n\r\n　<COL ffdc78>※「ショートカット登録」をしておくと便利です</COL>",
+      "source_en": "<COL ffdc78>How to Crawl:</COL>\r\nFrom the <KC UI_GAME_MENU>Game Menu, select\r\n<Emotes> in the <Communication> section. Choose\r\n<COL ffdc78><Actions 1></COL> from the <COL ffdc78>\r\nCategory</COL> displayed on the left.\r\nSelect <COL ffdc78>Crawl</COL> from the list on the right to get\r\ninto a crawling position. <COL ffdc78>\r\nYou can also move while crawling.</COL>\r\n<COL ffdc78>※ Registering shortcuts will be convenient.</COL>",
+      "text": "Öffne mit [<KC UI_GAME_MENU>] das Spielmenü.\nWähle unter „Soziales“ die „Emotes“.\nWähle links unter <COL ffdc78>„Kategorie“</COL>\n<COL ffdc78>„Aktionen 1“</COL>.\nWähle rechts <COL ffdc78>„Hinlegen“</COL>.\n<COL ffdc78>Du kannst dich im Liegen bewegen.</COL>\n<COL ffdc78>Du kannst das Emote auch auf einen\nSchnellzugriff legen.</COL>",
+      "tag_source": "source_jp"
+    }
+  ]
+}

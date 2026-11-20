@@ -1,0 +1,372 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "19",
+      "source_jp": "ランタン火種",
+      "source_en": "Lantern Kindling",
+      "text": "Laternenzunder"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "source_jp": "ピッケル",
+      "source_en": "Pickaxe",
+      "text": "Spitzhacke"
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "source_jp": "ブラッドオーブ",
+      "source_en": "Blood Orb",
+      "text": "Blutkugel"
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "source_jp": "ブラッドオーブ",
+      "source_en": "Blood Orb",
+      "text": "Blutkugel"
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "source_jp": "ブラッドオーブ",
+      "source_en": "Blood Orb",
+      "text": "Blutkugel"
+    },
+    {
+      "key": "",
+      "read_index": "113",
+      "source_jp": "シルバーチケット",
+      "source_en": "Silver Ticket",
+      "text": "Silberticket"
+    },
+    {
+      "key": "",
+      "read_index": "118",
+      "source_jp": "侵食治療薬",
+      "source_en": "Corruption Cure",
+      "text": "Befallsheilmittel"
+    },
+    {
+      "key": "",
+      "read_index": "119",
+      "source_jp": "抗侵薬",
+      "source_en": "Corruption Preventative",
+      "text": "Befallsschutz"
+    },
+    {
+      "key": "",
+      "read_index": "329",
+      "source_jp": "ボーナスダンジョンチケット【XP】",
+      "source_en": "Bonus Dungeon Ticket (XP)",
+      "text": "Bonusverlies-Ticket (XP)"
+    },
+    {
+      "key": "",
+      "read_index": "330",
+      "source_jp": "ボーナスダンジョンチケット【リム】",
+      "source_en": "Bonus Dungeon Ticket (R)",
+      "text": "Bonusverlies-Ticket (R)"
+    },
+    {
+      "key": "",
+      "read_index": "331",
+      "source_jp": "ボーナスダンジョンチケット【BO】",
+      "source_en": "Bonus Dungeon Ticket (BO)",
+      "text": "Bonusverlies-Ticket (BO)"
+    },
+    {
+      "key": "",
+      "read_index": "332",
+      "source_jp": "ボーナスダンジョンチケット【ゴールド】",
+      "source_en": "Bonus Dungeon Ticket (G)",
+      "text": "Bonusverlies-Ticket (G)"
+    },
+    {
+      "key": "",
+      "read_index": "335",
+      "source_jp": "ドミニオンポイント",
+      "source_en": "Dominion Point",
+      "text": "Herrschaftspunkte"
+    },
+    {
+      "key": "",
+      "read_index": "336",
+      "source_jp": "ドミニオンポイント",
+      "source_en": "Dominion Point",
+      "text": "Herrschaftspunkte"
+    },
+    {
+      "key": "",
+      "read_index": "337",
+      "source_jp": "ドミニオンポイント",
+      "source_en": "Dominion Point",
+      "text": "Herrschaftspunkte"
+    },
+    {
+      "key": "",
+      "read_index": "338",
+      "source_jp": "ハイオーブ",
+      "source_en": "High Orb",
+      "text": "Hohe Kugel"
+    },
+    {
+      "key": "",
+      "read_index": "339",
+      "source_jp": "ハイオーブ",
+      "source_en": "High Orb",
+      "text": "Hohe Kugel"
+    },
+    {
+      "key": "",
+      "read_index": "340",
+      "source_jp": "ハイオーブ",
+      "source_en": "High Orb",
+      "text": "Hohe Kugel"
+    },
+    {
+      "key": "",
+      "read_index": "348",
+      "source_jp": "ブラッドオーブ",
+      "source_en": "Blood Orb",
+      "text": "Blutkugel"
+    },
+    {
+      "key": "",
+      "read_index": "350",
+      "source_jp": "プレイポイント",
+      "source_en": "Play Points",
+      "text": "Spielpunkte"
+    },
+    {
+      "key": "",
+      "read_index": "435",
+      "source_jp": "ブラッドオーブ",
+      "source_en": "Blood Orb",
+      "text": "Blutkugel"
+    },
+    {
+      "key": "",
+      "read_index": "514",
+      "source_jp": "金竜の印",
+      "source_en": "Gold Dragon Mark",
+      "text": "Golddrachenmarke"
+    },
+    {
+      "key": "",
+      "read_index": "515",
+      "source_jp": "金竜の印",
+      "source_en": "Gold Dragon Mark",
+      "text": "Golddrachenmarke"
+    },
+    {
+      "key": "",
+      "read_index": "516",
+      "source_jp": "金竜の印",
+      "source_en": "Gold Dragon Mark",
+      "text": "Golddrachenmarke"
+    },
+    {
+      "key": "",
+      "read_index": "517",
+      "source_jp": "銀竜の印",
+      "source_en": "Silver Dragon Mark",
+      "text": "Silberdrachenmarke"
+    },
+    {
+      "key": "",
+      "read_index": "518",
+      "source_jp": "銀竜の印",
+      "source_en": "Silver Dragon Mark",
+      "text": "Silberdrachenmarke"
+    },
+    {
+      "key": "",
+      "read_index": "519",
+      "source_jp": "銀竜の印",
+      "source_en": "Silver Dragon Mark",
+      "text": "Silberdrachenmarke"
+    },
+    {
+      "key": "",
+      "read_index": "520",
+      "source_jp": "赤竜の印",
+      "source_en": "Red Dragon Mark",
+      "text": "Rotdrachenmarke"
+    },
+    {
+      "key": "",
+      "read_index": "521",
+      "source_jp": "赤竜の印",
+      "source_en": "Red Dragon Mark",
+      "text": "Rotdrachenmarke"
+    },
+    {
+      "key": "",
+      "read_index": "522",
+      "source_jp": "赤竜の印",
+      "source_en": "Red Dragon Mark",
+      "text": "Rotdrachenmarke"
+    },
+    {
+      "key": "",
+      "read_index": "523",
+      "source_jp": "黒呪の迷宮リセット券",
+      "source_en": "Bitterblack Maze Reset Ticket",
+      "text": "Labyrinth-Reset-Ticket"
+    },
+    {
+      "key": "",
+      "read_index": "535",
+      "source_jp": "ボーナスダンジョンチケット【SP】",
+      "source_en": "Bonus Dungeon Ticket (SP)",
+      "text": "Bonusverlies-Ticket (SP)"
+    },
+    {
+      "key": "",
+      "read_index": "536",
+      "source_jp": "ボーナスダンジョンチケット【JP】",
+      "source_en": "Bonus Dungeon Ticket (JP)",
+      "text": "Bonusverlies-Ticket (JP)"
+    },
+    {
+      "key": "",
+      "read_index": "537",
+      "source_jp": "ボーナスダンジョンチケット【HO】",
+      "source_en": "Bonus Dungeon Ticket (HO)",
+      "text": "Bonusverlies-Ticket (HO)"
+    },
+    {
+      "key": "",
+      "read_index": "564",
+      "source_jp": "プレイポイント",
+      "source_en": "Play Points",
+      "text": "Spielpunkte"
+    },
+    {
+      "key": "",
+      "read_index": "565",
+      "source_jp": "プレイポイント",
+      "source_en": "Play Points",
+      "text": "Spielpunkte"
+    },
+    {
+      "key": "",
+      "read_index": "566",
+      "source_jp": "プレイポイント",
+      "source_en": "Play Points",
+      "text": "Spielpunkte"
+    },
+    {
+      "key": "",
+      "read_index": "1759",
+      "source_jp": "精霊の火種",
+      "source_en": "Spiritual Flame",
+      "text": "Geisterfunke"
+    },
+    {
+      "key": "",
+      "read_index": "2129",
+      "source_jp": "黒呪のディードボックス",
+      "source_en": "Bitterblack Deed Box",
+      "text": "Finstergram-Schatulle"
+    },
+    {
+      "key": "",
+      "read_index": "3735",
+      "source_jp": "理力",
+      "source_en": "Force",
+      "text": "Willenskraft"
+    },
+    {
+      "key": "",
+      "read_index": "3736",
+      "source_jp": "精霊竜",
+      "source_en": "Spirit Dragon",
+      "text": "Geisterdrache"
+    },
+    {
+      "key": "",
+      "read_index": "3737",
+      "source_jp": "火竜",
+      "source_en": "Fire Dragon",
+      "text": "Feuerdrache"
+    },
+    {
+      "key": "",
+      "read_index": "3738",
+      "source_jp": "白竜",
+      "source_en": "White Dragon",
+      "text": "Weißer Drache"
+    },
+    {
+      "key": "",
+      "read_index": "3739",
+      "source_jp": "黄金竜",
+      "source_en": "Golden Dragon",
+      "text": "Golddrache"
+    },
+    {
+      "key": "",
+      "read_index": "3740",
+      "source_jp": "対黒竜",
+      "source_en": "Black Dragon",
+      "text": "Schwarzer Drache"
+    },
+    {
+      "key": "",
+      "read_index": "3741",
+      "source_jp": "最果てのディードボックス",
+      "source_en": "Bitterblack Chest of the Farthest End",
+      "text": "Schatulle der fernsten Tiefe"
+    },
+    {
+      "key": "",
+      "read_index": "3745",
+      "source_jp": "リワードメダル",
+      "source_en": "Reward Medal",
+      "text": "Belohnungsmedaille"
+    },
+    {
+      "key": "",
+      "read_index": "3746",
+      "source_jp": "滅びへ向かう鍵石",
+      "source_en": "Portcrystal to Ruin",
+      "text": "Schlüsselstein zur Vernichtung"
+    },
+    {
+      "key": "",
+      "read_index": "3761",
+      "source_jp": "一級品シャイニーシルク",
+      "source_en": "Premium Shiny Silk",
+      "text": "Feine Glanzseide"
+    },
+    {
+      "key": "",
+      "read_index": "20578",
+      "source_jp": "黒呪の指輪",
+      "source_en": "Bitterblack Ring",
+      "text": "Finstergram-Ring"
+    },
+    {
+      "key": "",
+      "read_index": "20579",
+      "source_jp": "黒呪の耳飾り",
+      "source_en": "Bitterblack Earring",
+      "text": "Finstergram-Ohrschmuck"
+    },
+    {
+      "key": "",
+      "read_index": "21115",
+      "source_jp": "語らいのベル",
+      "source_en": "Chatting Bell",
+      "text": "Gesprächsglocke"
+    }
+  ]
+}

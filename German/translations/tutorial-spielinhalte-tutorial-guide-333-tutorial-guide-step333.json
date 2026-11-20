@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step333.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_333.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_522",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《エリア目視調査》が開放されました！</COL>\r\n<COL ffdc78>エリア目視調査</COL>は各エリアの\r\nフィールドに点在する<COL ffdc78>精霊の火種</COL>を\r\n探索して発見するコンテンツです",
+      "source_en": "<COL 78f5ff>The \"Area Investigation\" is now open!</COL>\r\n<COL ffdc78>Area Visual Inspection</COL>is a content to\r\nexplore and discover the<COL ffdc78>\r\nSpiritual Flame</COL>scattered in the\r\nfields of each area!",
+      "text": "<COL 78f5ff>Gebietserkundung freigeschaltet!</COL>\nBei der <COL ffdc78>Gebietserkundung</COL> suchst du nach\n<COL ffdc78>Geisterfunken</COL>. Sie sind draußen über\ndie Gebiete verteilt."
+    },
+    {
+      "key": "TUTORIAL_STEP_523",
+      "read_index": "1",
+      "source_jp": "発見場所はミニマップにも表示されないため\r\n下記のヒントを参考にフィールドを探索しましょう\r\n<COL ffdc78>＜探索場所のヒント＞\r\n・地形をよく調べる（高低差や壁向こうなど）\r\n・カメラ操作を利用して上下左右を見回してみる</COL>",
+      "source_en": "The location of the discovery is not displayed\r\non the minimap, so explore the field\r\nusing the hints below.\r\n<COL ffdc78>[HINT FOR EXPLORATION LOCATION] - Examine the\r\nterrain (such as elevation differences and\r\nbeyond walls) - Use camera controls to look\r\naround in all directions</COL>",
+      "text": "Geisterfunken werden auf der Minikarte\nnicht angezeigt.\n<COL ffdc78>Prüfe das Gelände. Sieh auch hinter\nMauern und auf anderen Höhen nach.\nSchwenke die Kamera in alle Richtungen.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_524",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>精霊の火種</COL>を発見するたびに\r\n経験値かプレイポイントのいずれかが獲得できます\r\nまた発見数に応じて<COL ffdc78>アチーブメント</COL>で\r\n専用報酬が入るのでチャレンジしてみましょう\r\n<COL ffdc78>※プレイポイントは\r\n　コンテンツ解放をするまでは獲得できません</COL>",
+      "source_en": "Every time you discover a <COL ffdc78>Spiritual Flame</COL>, you\r\ncan obtain experience points or play points.\r\nAlso, depending on the number of discoveries,\r\nyou will receive special rewards in the <COL ffdc78>\r\nAchievements</COL>. Challenge\r\nyourself and try it out.\r\n<COL ffdc78>*You can't earn play points until\r\nyou unlock the content.</COL>",
+      "text": "Jeder <COL ffdc78>Geisterfunke</COL> bringt entweder\nErfahrung oder Spielpunkte.\nJe mehr du findest, desto mehr\nbesondere Belohnungen kannst du\nüber <COL ffdc78>„Erfolge“</COL> erhalten.\n<COL ffdc78>Spielpunkte kannst du erst sammeln,\nwenn sie freigeschaltet sind.</COL>"
+    }
+  ]
+}

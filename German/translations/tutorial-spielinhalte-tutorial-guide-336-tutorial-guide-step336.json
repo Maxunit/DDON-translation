@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step336.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_336.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_537",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《オンラインショップ》</COL>では\r\n<COL ffdc78>《黄金石》</COL>を使って\r\n覚者の成長や冒険を強力にサポートしてくれる\r\n各種サービスやアイテムを購入することができます\r\n特典や有効期限にも注意しながら\r\nプレイスタイルにあったサービスを\r\n有効に利用しましょう",
+      "source_en": "In the <COL ffdc78>Online Shop</COL>, <COL ffdc78>Golden Gemstones</COL> can be used\r\nto purchase various services and items to\r\nsupport your growth and adventure.\r\nPay attention to the benefits and expiration\r\ndates and make the most of the services that\r\nsuit your play style!",
+      "text": "Im <COL ffdc78>Online-Shop</COL> kaufst du mit\r\n<COL ffdc78>Goldsteinen</COL> Dienste und Gegenstände,\r\ndie dir beim Aufstieg und auf deinen\r\nAbenteuern helfen.\r\nAchte auf die Vorteile und Laufzeiten.\r\nWähle, was zu deinem Spielstil passt."
+    },
+    {
+      "key": "TUTORIAL_STEP_538",
+      "read_index": "1",
+      "source_jp": "購入済みの未使用コースについては\r\n【<KC UI_GAME_MENU>】ゲームメニュー<COL ffdc78>《オンラインショップ》にある\r\n《オンラインステーション》の《未使用コース》</COL>から\r\n確認することができます",
+      "source_en": "For purchased unused courses, you can check them\r\nfrom the [<KC UI_GAME_MENU>] Game Menu in the\r\n<COL ffdc78>Online Shop</COL> under the <COL ffdc78> Online Station.</COL>",
+      "text": "Öffne mit [<KC UI_GAME_MENU>] das Spielmenü.\r\nWähle im <COL ffdc78>Online-Shop</COL> die <COL ffdc78>Online-Station</COL>.\r\nUnter „Ungenutzte Pässe“ siehst du Pässe,\r\ndie du gekauft und noch nicht genutzt hast."
+    }
+  ]
+}

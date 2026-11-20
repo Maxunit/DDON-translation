@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\poptop_sel_res.gmd",
+  "arc_path": "\\ui\\uGUIPopTopSel.arc",
+  "entries": [
+    {
+      "key": "poptop_entryboard_title",
+      "read_index": "27",
+      "source_jp": "Entry Board",
+      "source_en": "Entryboard",
+      "text": "Anmeldeboard"
+    },
+    {
+      "key": "poptop_color_change",
+      "read_index": "33",
+      "source_jp": "カラー変更",
+      "source_en": "Change Color",
+      "text": "Farbe ändern"
+    },
+    {
+      "key": "poptop_crest_attach",
+      "read_index": "34",
+      "source_jp": "クレスト装着",
+      "source_en": "Mount Crest",
+      "text": "Siegel einsetzen"
+    },
+    {
+      "key": "poptop_equip_build",
+      "read_index": "35",
+      "source_jp": "装備の強化",
+      "source_en": "Enhance Equipment",
+      "text": "Ausrüstung verstärken"
+    },
+    {
+      "key": "poptop_item_create",
+      "read_index": "36",
+      "source_jp": "アイテム生産",
+      "source_en": "Craft Item",
+      "text": "Gegenstand herstellen"
+    },
+    {
+      "key": "poptop_battle_assist_jp",
+      "read_index": "42",
+      "source_jp": "戦技補佐",
+      "source_en": "Arts Support ",
+      "text": "Kampftechniken"
+    },
+    {
+      "key": "poptop_point_sep",
+      "read_index": "47",
+      "source_jp": "ステータス確認",
+      "source_en": "Pawn Status",
+      "text": "Vasallenstatus"
+    },
+    {
+      "key": "poptop_enhance_evolution",
+      "read_index": "93",
+      "source_jp": "リミット解除",
+      "source_en": "Limit Break",
+      "text": "Limit aufheben"
+    },
+    {
+      "key": "poptop_enhance_special_evolution",
+      "read_index": "94",
+      "source_jp": "極限合成",
+      "source_en": "Ultimate Synthesis",
+      "text": "Ultimative Synthese"
+    }
+  ]
+}

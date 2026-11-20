@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\master\\area20_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "source_jp": "メガドシス高地",
+      "source_en": "Megadosys Plateau",
+      "text": "Megadosys-Hochland"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "11",
+      "source_jp": "隠匿の王間",
+      "source_en": "The King's Hidden Chamber",
+      "text": "Geheime Königskammer"
+    }
+  ]
+}

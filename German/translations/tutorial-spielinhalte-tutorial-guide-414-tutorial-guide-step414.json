@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step414.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_414.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_764",
+      "read_index": "0",
+      "source_jp": "＜《証拠》入手イベントについて＞\r\n諜報活動中、マップ上にマーカーがある場所では\r\n様々なイベントが発生します\r\nまた、他の任務を進めることで\r\n新たな変化が起きることもあります",
+      "source_en": "Regarding the \"Evidence Acquisition\" event:\r\nDuring intelligence operations, various events\r\nwill occur at locations marked on the map.\r\nIn addition, new changes may occur by\r\nprogressing through other missions.",
+      "text": "An markierten Orten auf der Karte\nkannst du bei der Spurensuche auf\nEreignisse stoßen, die zu Beweisen\nführen. Andere Aufträge können\nneue Ereignisse auslösen."
+    },
+    {
+      "key": "TUTORIAL_STEP_781",
+      "read_index": "1",
+      "source_jp": "＜イベント：盗み聞きについて＞\r\n夜のメガドの路地では、住人たちが\r\nヒソヒソと内緒話をしていることがあります\r\n彼らに近づくと、盗み聞きすることができますが\r\n近付きすぎると気付かれて、警戒されてしまうので\r\n<COL ffdc78>上手く隠れながら情報を盗み聞きしましょう</COL>\r\nまた、盗み聞きする時は\r\n<COL ffdc78>チャットログ</COL>に注目しましょう",
+      "source_en": "[Event: About Eavesdropping] In the alleys of\r\nMegado at night, residents sometimes engage in\r\nwhispered conversations.\r\nIf you approach them, you can eavesdrop on their\r\nsecret talks, but be careful not to get too\r\nclose and arouse suspicion.\r\n<COL ffdc78>Try to stealthily eavesdrop on the\r\ninformation by hiding effectively.</COL>\r\nAlso, when eavesdropping, pay attention to the\r\n<COL ffdc78>chat logs</COL>.",
+      "text": "Nachts tuscheln manchmal Bewohner\nin den Gassen von Megado.\nNäherst du dich, kannst du lauschen.\nKommst du zu nah, bemerken sie dich\nund werden misstrauisch.\n<COL ffdc78>Such dir ein Versteck und hör zu.</COL>\nAchte beim Lauschen auf den\n<COL ffdc78>Chatverlauf</COL>."
+    }
+  ]
+}

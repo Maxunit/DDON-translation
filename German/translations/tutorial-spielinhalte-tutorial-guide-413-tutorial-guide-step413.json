@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step413.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_413.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_763",
+      "read_index": "0",
+      "source_jp": "《諜報活動》とは、メガドの街を自由に探索し\r\n尋問に使用するための《証拠》を集める任務です\r\n<COL ffdc78>※諜報活動中は、リム転移の使用ができません\r\n　リム転移で別の場所へ移動すると\r\n　諜報任務範囲外となり、任務終了になります</COL>\r\nまた、同行するメフィスに話しかけることで\r\nいつでも任務を終了し、帰還することができます",
+      "source_en": "\"Intelligence Assessment\" is a task to explore\r\nthe city of Megado freely and collect [evidence]\r\nto be used for interrogations.\r\n<COL ffdc78>*During the Intelligence Assessment,\r\nRift Teleport cannot be used.\r\nIf you teleport to a different location using\r\nRift Teleport, you will be out of the scope of the\r\nIntelligence Assessment and the mission will\r\nend.</COL>\r\nFurthermore, by speaking to Mephis, who is\r\naccompanying you, you can end the mission anytime\r\nand return.",
+      "text": "Erkunde Megado und sammle Beweise\nfür deine Verhöre.\n<COL ffdc78>Ein Rift-Transport an einen anderen Ort\nbeendet die Spurensuche.</COL>\nSprich mit Mephis, wenn du den Einsatz\nbeenden und zurückkehren möchtest.\nDas kannst du jederzeit tun."
+    },
+    {
+      "key": "TUTORIAL_STEP_776",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>また、1度の《諜報活動》では\r\n全ての証拠を入手することはできません</COL>\r\n探索できそうな場所が無くなったら\r\n帰還し、他の任務を進めてみるのも良いでしょう\r\n<COL ffdc78>《尋問》や《潜入調査》も進めながら\r\n何度もクエストを繰り返していくことで\r\n《証拠》を集めて行きましょう</COL>",
+      "source_en": "<COL ffdc78>Also, during a single intelligence operation, it\r\nis not possible to obtain all the evidence</COL>\r\nIf there are no more places to search, it is a\r\ngood idea to return and proceed\r\nwith other missions.\r\n<COL ffdc78>While progressing through \"interrogations\" and\r\n\"undercover investigations\", repeat quests\r\nmultiple times to gather [evidence]</COL>",
+      "text": "<COL ffdc78>Du findest nicht alle Beweise bei\neiner einzigen Spurensuche.</COL>\nSind keine Orte mehr zu untersuchen,\nkehre zurück und gehe anderen\nAufträgen nach.\n<COL ffdc78>Wiederhole Verhöre, verdeckte Einsätze\nund Spurensuchen, um Beweise zu sammeln.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_787",
+      "read_index": "2",
+      "source_jp": "＜メフィスの呟きについて＞\r\n諜報活動では、メガドの調査を\r\n自由に進めていくことができますが\r\n進展があった場合には\r\nメフィスが \"調査を進めるためのヒント\" を\r\n呟くことがあります\r\n調査に進展があり、アナウンスが発生したときは\r\nチャットログに注目しましょう",
+      "source_en": "Regarding Mephis's mutterings: In intelligence\r\nassessments, you are free to proceed with the\r\ninvestigation of Megado.\r\nIf there are any developments, Mephis may mutter\r\n\"hints for advancing the investigation.\" When\r\nthere are developments in the investigation and\r\nan announcement occurs, please pay\r\nattention to the chat log.",
+      "text": "Bei der Spurensuche kannst du selbst\nentscheiden, wo du in Megado suchst.\nWenn eure Ermittlungen vorankommen,\näußert Mephis manchmal eine Vermutung,\ndie dir weiterhilft. Erscheint ein\nHinweis auf neue Erkenntnisse,\nachte auf den Chatverlauf."
+    }
+  ]
+}

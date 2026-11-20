@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step432.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_432.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_826",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《ドラゴンアビリティ：精霊竜》</COL>は\r\n闇の眷属\"アバドーン\"に対して力を発揮します\r\n竜防具に付与された《精霊竜》のポイントの\r\nパーティーメンバーの合計が一定値を満たすことが\r\n発動の条件となります",
+      "source_en": "<COL ffdc78>Dragon Abilities: Spirit Dragon</COL>\r\nwill wield its power against the Dark Servant\r\n\"Abaddon.\" The condition for activation is that\r\nthe total points of Spirit Dragons attached to\r\nDragon Armor must meet a certain value when\r\ncombined with the Party Members.",
+      "text": "Die Begabungen des <COL ffdc78>Geisterdrachen</COL>\nwirken gegen Abaddon.\nSie werden aktiv, wenn eure Rüstungen\nin der Gruppe genug Geisterdrachenpunkte\nbeisteuern."
+    },
+    {
+      "key": "TUTORIAL_STEP_825",
+      "read_index": "1",
+      "source_jp": "＜ビーストスレイヤー＞\r\nアバドーンの弱点部位に一定量のダメージを与えると\r\n敵に大ダメージを与える追撃が発生します\r\nLV UP毎に追撃のダメージがより増加",
+      "source_en": "[Beast Slayer] When you deal a certain amount of\r\ndamage to Abaddon's weak spot, it triggers a\r\nfollow-up attack that deals massive\r\ndamage to the enemy.\r\nThe damage of the follow-up attack\r\nincreases with each level up.",
+      "text": "Bestientöter\nRichte genug Schaden an einer\nSchwachstelle von Abaddon an, um einen\nstarken Folgetreffer auszulösen.\nHöhere Stufen erhöhen dessen Schaden."
+    },
+    {
+      "key": "TUTORIAL_STEP_824",
+      "read_index": "2",
+      "source_jp": "＜精霊竜の反撃＞\r\n敵が攻撃を放ったタイミングで\r\n攻撃してきた部位や周囲の弱点部位を攻撃すると\r\n<COL 78f5ff>《精霊竜の反撃アイコン》</COL>が増加し\r\nアイコンが満了になると破壊可能部位への\r\nダメージが大幅に増加します\r\nLV UP毎にダメージがより増加",
+      "source_en": "Counterattack of the Spirit Dragon When the\r\nenemy attacks, if you attack the part that was\r\nattacked or the weak point area around it, the <COL 78f5ff>\r\nSpirit Dragon Counterattack Icon</COL> will increase.\r\nWhen the icon is fully charged, the damage to\r\ndestructible parts will significantly increase.\r\nDamage increases with each LV UP.",
+      "text": "Konter des Geisterdrachen\nWenn Abaddon zuschlägt, triff das\nangreifende Körperteil oder eine\nSchwachstelle in der Nähe. Das füllt\ndie <COL 78f5ff>Konteranzeige des Geisterdrachen</COL>.\nIst sie voll, erleiden zerstörbare Teile\nmehr Schaden. Höhere Stufen erhöhen ihn."
+    },
+    {
+      "key": "TUTORIAL_STEP_866",
+      "read_index": "3",
+      "source_jp": "＜精霊竜の抱擁＞\r\n大ダメージを受けるアバドーンの攻撃\r\n<COL 78f5ff>《キラーアルベ》</COL>のダメージを軽減する\r\n残り体力が少ない場合は発動しません\r\nLV UP毎にダメージをさらに軽減",
+      "source_en": "[Embrace of the Spirit Dragon] Reduce the damage\r\nfrom Abaddon's attack.\r\nThe damage from <COL 78f5ff>Killer Ailbhe</COL> is reduced.\r\nIt does not activate when the\r\nremaining health is low.\r\nFurther reduce damage with each LV UP.",
+      "text": "Umarmung des Geisterdrachen\nSenkt den Schaden von Abaddons\n<COL 78f5ff>Killer-Albe</COL>. Bei wenigen Lebenspunkten\nlöst die Begabung nicht aus.\nHöhere Stufen verringern den Schaden weiter."
+    }
+  ]
+}

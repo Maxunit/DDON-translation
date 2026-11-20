@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step40.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_40.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_100",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《レスタニアニュース》は、\r\n現在各地で起こっているさまざまなトピックが\r\n掲載される、この世界の冒険ガイドです</COL>\r\n神殿のセネカや、【<KC UI_GAME_MENU>】ゲームメニュー\r\n<COL ffdc78>《クエスト》</COL>から読むことができます\r\n配信中のワールドクエストやイベントなど\r\n開催情報はここをチェックしましょう",
+      "source_en": "<COL ffdc78>Lestania News</COL> is your adventure guide to this\r\nworld, featuring articles on various topics\r\ncurrently happening across Lestania.\r\nYou can read it talking to Seneka or via the\r\n<COL ffdc78>Quest</COL> option in the [<KC UI_GAME_MENU>] Game Menu.\r\nCheck here for the latest information on ongoing\r\nWorld Quests, Events, and more.",
+      "text": "Die <COL ffdc78>Lestania-Nachrichten</COL> zeigen dir,\nwas gerade in Lestania los ist.\nDort findest du laufende Weltquests\nund Veranstaltungen.\nSprich mit Seneka im Tempel oder öffne\nmit [<KC UI_GAME_MENU>] das Spielmenü.\nDie Nachrichten stehen unter <COL ffdc78>„Quests“</COL>.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_99",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>掲載されているクエストを遊びたい人\r\n同士のクイックパーティーや、最寄り拠点への\r\nリム転移も可能です</COL>\r\nまた地域メニュー上の<COL ffdc78>《本日のパーティーボーナス》</COL>\r\n対象のクエストは、他のプレイヤーとパーティーを\r\n組んでクリアするとボーナス報酬が\r\n得られるもので、内容はデイリーで変化します\r\nレスタニアニュースは日々チェックしましょう",
+      "source_en": "For players who want to play\r\nthe featured quests,\r\n<COL ffdc78>Quick Parties</COL> with others and Rift Teleports to\r\nthe closest locations are also available.\r\nIn addition, quests that are part of\r\n<COL ffdc78>Today's Party Bonus</COL> on the Regional Menu are\r\ndesigned to give bonus rewards when cleared in a\r\nparty with other players, and their\r\ncontents change every day.\r\nBe sure to check <COL ffdc78>Lestania News</COL> daily.",
+      "text": "<COL ffdc78>Nutze die Schnellsuche bei einer Quest,\num Mitspieler zu finden. Per Rift-Transport\nkommst du zum nächsten Stützpunkt.</COL>\nDer <COL ffdc78>Gruppenbonus</COL> bringt Extra-Belohnungen,\nwenn du Quests mit anderen Spielern\nabschließt. Die Quests mit Gruppenbonus\nwechseln täglich. Schau regelmäßig rein.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

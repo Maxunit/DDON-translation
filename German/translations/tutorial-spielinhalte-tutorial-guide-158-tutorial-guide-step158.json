@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step158.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_158.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_42",
+      "read_index": "0",
+      "source_jp": "夜間や洞窟内は、暗く見通しが悪くなります\r\n<COL ffdc78>暗闇では《ランタン》を使いましょう</COL>\r\n【<KC UI_GAME_MENU>】ゲームメニュー《キャラクター》の\r\n<COL ffdc78>《アイテムバッグ》</COL>から消費アイテム\r\n<COL ffdc78>《ランタン火種》</COL>を使うと、一定時間\r\nプレイヤーの周囲を明るく照らします\r\n《ランタン火種》は常にいくつか携帯しましょう",
+      "source_en": "At night or inside caves, visibility\r\nbecomes poor and dark.\r\n<COL ffdc78>Use a lantern</COL> in the darkness.\r\n[<KC UI_GAME_MENU>] In the game menu, go to <COL ffdc78>Item Bag</COL> and use the\r\nconsumable item <COL ffdc78>Lantern Kindling</COL>\r\nto illuminate the player's surroundings for a\r\ncertain period of time.\r\nAlways carry several <COL ffdc78>Lantern Kindling</COL>\r\nwith you.",
+      "text": "Nachts und in Höhlen siehst du schlecht.\r\n<COL ffdc78>Benutze im Dunkeln eine Laterne.</COL>\r\nÖffne mit [<KC UI_GAME_MENU>] das Spielmenü.\r\nWähle unter „Charakter“ die <COL ffdc78>Tasche</COL>.\r\nVerwende <COL ffdc78>Laternenzunder</COL>, um deine\r\nUmgebung eine Weile auszuleuchten.\r\nNimm stets etwas Zunder mit.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

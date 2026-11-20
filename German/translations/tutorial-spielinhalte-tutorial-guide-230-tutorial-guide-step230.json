@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step230.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_230.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_365",
+      "read_index": "0",
+      "source_jp": "マップを使う上でなにかと便利なのが\r\n自由に目印を置ける<COL ffdc78>《フリーマーカー》</COL>機能です\r\n＜フリーマーカー＞　\r\n　【<KC UI_MAP_FREEMARKER>】設置／消去（長押し）\r\nフリーマーカーは拡大時のミニマップのほか、\r\n《詳細マップ》と《フィールドマップ》で\r\n使用できます",
+      "source_en": "One convenient feature when using the map is the\r\nability to freely place markers. This is the\r\n<COL ffdc78>[Waypoint]</COL> function.\r\n[Waypoint] [<KC UI_MAP_FREEMARKER>] Set / Remove (Long press)\r\nWaypoints can be used on the minimap when zoomed\r\nin, as well as on the [Local] and [Field] maps.",
+      "text": "Mit einem <COL ffdc78>Wegpunkt</COL> kannst du einen\nOrt auf der Karte markieren.\n[<KC UI_MAP_FREEMARKER>] Wegpunkt setzen\nHalte die Taste, um ihn zu löschen.\nDas geht auf der vergrößerten\nMinikarte, der Ortskarte und der\nGebietskarte."
+    },
+    {
+      "key": "TUTORIAL_STEP_366",
+      "read_index": "1",
+      "source_jp": "エリアマスターのスポット情報を見た時に\r\n向かいたい《魔物警戒スポット》場所に\r\n目印として打ったり\r\nワールドクエストを発見した時に\r\n場所を忘れないため打っておくなど\r\n使い道はさまざまです\r\n目的に合わせて活用しましょう",
+      "source_en": "When you see the spot information of the Area\r\nMaster, you can use it in various ways depending\r\non your purpose, such as putting a mark as a\r\nsign to the \"Monster Caution Spot\" you want to\r\ngo to, or typing it in to remember the location\r\nwhen you discover a World Quest.\r\nMake use of it according to your needs.",
+      "text": "Markiere zum Beispiel ein\nMonster-Warngebiet aus den\nOrtsinformationen des Gebietsmeisters.\nOder setze einen Wegpunkt, wenn du\neine Weltquest entdeckst und ihre\nPosition später wiederfinden willst."
+    }
+  ]
+}

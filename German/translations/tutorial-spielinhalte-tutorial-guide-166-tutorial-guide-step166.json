@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step166.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_166.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_162",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《スタンプボーナス》</COL>とは、あなたがログインで\r\nこの世界を訪れるたびに送られる証印です\r\n１日１回、神殿の《復活力／ログインスタンプ》\r\n係官オフィリアから、訪れた証《スタンプ》と共に\r\nリムやシルバーチケットなどの報酬がもらえます\r\nスタンプは日ごとにリセットされ、\r\n新たに受け取れるようになります",
+      "source_en": "<COL ffdc78>\"Stamp Bonus\"</COL> is a proof mark sent to you every\r\ntime you visit this world, when you log in.\r\nOnce a day, you can receive rewards such as Rift\r\nCrystals and Silver Tickets as a reward along\r\nwith the proof \"Stamp of Resurrection/ Login\r\nStamp\" from Ophelia, the temple attendant.\r\nStamps reset daily, allowing you\r\nto receive them again.",
+      "text": "Der <COL ffdc78>Stempelbonus</COL> belohnt dich für\ndeine Besuche in Lestania.\nHol einmal am Tag bei Ophelia im\nTempel einen Login-Stempel ab.\nDazu bekommst du zum Beispiel\nRiftkristalle oder Silbertickets.\nAm nächsten Tag gibt es einen neuen."
+    },
+    {
+      "key": "TUTORIAL_STEP_311",
+      "read_index": "1",
+      "source_jp": "スタンプボーナスには２種類あります\r\n＜連続スタンプボーナス＞\r\n　　毎日連続ログインすることで得られる証\r\n　　連続日数により報酬が変わり、途切れると\r\n　　１日目からスタートしなおします\r\n＜累計スタンプボーナス＞\r\n　　累計ログイン日数によるボーナスです\r\n　　累計日数により報酬が変わります",
+      "source_en": "There are two types of stamp bonuses.\r\n[Consecutive Stamp Bonus] This is a proof\r\nobtained by logging in consecutively every day.\r\nThe rewards change depending on the consecutive\r\ndays, and if interrupted, it will\r\nstart from day 1 again.\r\n[Accumulated Stamp Bonus] This is a bonus based\r\non the cumulative login days.\r\nThe rewards change depending on\r\nthe cumulative days.",
+      "text": "Es gibt zwei Arten von Bonus.\n\nStempelserie\nDie Belohnung hängt von den Tagen\nin Folge ab. Verpasst du einen Tag,\nbeginnt die Serie wieder bei Tag 1.\n\nGesamtzahl der Stempel\nHier zählt die Zahl aller Tage,\nan denen du einen Stempel abgeholt hast."
+    },
+    {
+      "key": "TUTORIAL_STEP_312",
+      "read_index": "2",
+      "source_jp": "スタンプボーナスでもらえる\r\nリムやシルバーチケットは冒険で非常に有用です\r\n受け取り忘れてしまった日は、\r\n日数カウントが抜けてしまうため\r\n必ず忘れず受け取りましょう",
+      "source_en": "You can receive stamp bonuses. Rift Crystals and\r\nSilver Tickets are very useful for adventures.\r\nIf you forget to receive them on every day, you\r\nwill miss out on counting those days. So be sure\r\nto always receive them without fail.",
+      "text": "Riftkristalle und Silbertickets sind\nauf deinen Abenteuern nützlich.\nHol deinen Stempel täglich ab.\nEin ausgelassener Tag zählt nicht."
+    }
+  ]
+}

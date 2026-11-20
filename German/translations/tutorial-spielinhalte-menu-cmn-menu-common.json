@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\menu_common.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "menu_cmn_category",
+      "read_index": "16",
+      "source_jp": "Category",
+      "source_en": "Category",
+      "text": "Kategorie"
+    }
+  ]
+}

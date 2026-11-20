@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step397.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_397.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_740",
+      "read_index": "0",
+      "source_jp": "一部のエピタフロードでは\r\n<COL ffdc78>全ての試練を解放することで挑戦できる\r\n《大試練》をクリアすると、初回報酬として\r\n貴重な装備の素材が入手できます</COL>\r\n※初回報酬の受け取りは毎週リセットされます\r\n大試練クリア後は\r\n同じ区画の試練をクリアした際にも\r\n素材がドロップするようになります",
+      "source_en": "In some parts of the Epitaph Road,\r\n<COL ffdc78>you can challenge the \"Great Trials\"\r\nby unlocking all trials.\r\nWhen you clear the \"Great Trials\", you can\r\nreceive valuable equipment materials as a\r\nfirst-time reward</COL>.\r\nPlease note that the first-time rewards are reset\r\nevery week.\r\nAfter clearing the \"Great Trials\", you will also\r\nreceive materials when you clear trials in the\r\nsame section.",
+      "text": "Auf manchen Pfaden kannst du\n<COL ffdc78>alle Prüfungen freischalten und so\nzur „Großen Prüfung“ antreten.\nDer erste Abschluss bringt Material\nfür hochwertige Ausrüstung.</COL>\nDiese Belohnung wird jede Woche neu\nverfügbar. Nach der Großen Prüfung\nkann das Material auch bei Prüfungen\nim selben Abschnitt fallen."
+    },
+    {
+      "key": "TUTORIAL_STEP_800",
+      "read_index": "1",
+      "source_jp": "＜試練報酬の確認＞\r\n《報酬を確認する》では\r\n試練クリア時に入手できるアイテム一覧と\r\n入手数の確認ができます",
+      "source_en": "[Rewards] In \"Rewards,\" you can see a list of\r\nitems that can be obtained when clearing a trial\r\nand check the number of items obtained.",
+      "text": "Unter „Belohnungen prüfen“ siehst du,\nwelche Gegenstände du beim Abschluss\nder Prüfung erhältst und in welcher\nMenge sie vergeben werden."
+    },
+    {
+      "key": "TUTORIAL_STEP_793",
+      "read_index": "2",
+      "source_jp": "＜新しい区画＞\r\nエピタフロードの入口を守っている\r\nNPCに話しかけることで\r\n新しい区画の解放が可能です\r\n<COL ffdc78>パーティプレイでは、リーダーの\r\n解放状況がメンバーに反映されます</COL>",
+      "source_en": "[New Area] By speaking to the NPC guarding the\r\nentrance of Epitaph Road, you\r\ncan unlock a new area.\r\n<COL ffdc78>In party play, the leader's unlocking status\r\nwill be reflected for the members.</COL>",
+      "text": "Sprich mit der Wache am Eingang des\nPfads, um neue Abschnitte freizuschalten.\n<COL ffdc78>In einer Gruppe sind die Abschnitte\nverfügbar, die die Gruppenleitung\nbereits freigeschaltet hat.</COL>"
+    }
+  ]
+}

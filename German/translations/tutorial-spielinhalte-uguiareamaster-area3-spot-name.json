@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\master\\area3_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "source_jp": "ミスリウ森林",
+      "source_en": "Mysree Forest",
+      "text": "Mysree-Wald"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "6",
+      "source_jp": "古の祭祀場",
+      "source_en": "Ancient Ritual Ground",
+      "text": "Alte Kultstätte"
+    }
+  ]
+}

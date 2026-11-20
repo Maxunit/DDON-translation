@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step79.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_79.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_129",
+      "read_index": "0",
+      "source_jp": "ソーサラーは、多彩で強力な攻撃魔法により\r\n敵の弱点属性を突ける、火力と広範囲戦闘に\r\n優れた術師です\r\n＜基本操作＞\r\n　【<KC ATTACK1>】マジックボール（魔法弾）\r\n　【<KC ATTACK2>】マジックトラップ（設置魔法罠）",
+      "source_en": "Sorcerers are skilled magicians with versatile\r\nand powerful attack magick. They excel in\r\nfirepower and wide-range combat by exploiting\r\nthe weaknesses in their enemies' attributes.\r\n[Basic Operations] [Magick Bolts] <KC ATTACK1>\r\n[Magick Trap] <KC ATTACK2>",
+      "text": "Der Erzmagier greift mit mächtigen\nFlächenzaubern an. Wähle das Element,\ngegen das deine Gegner anfällig sind.\nGrundsteuerung\n[<KC ATTACK1>] Magiegeschosse\n[<KC ATTACK2>] Magiefalle platzieren"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\option_res_win.gmd",
+  "arc_path": "\\ui\\uGUIOption.arc",
+  "entries": [
+    {
+      "key": "OPTION_MSG_TUTORIAL_POP",
+      "read_index": "24",
+      "source_jp": "チュートリアル発生時にポップアップを表示する",
+      "source_en": "Display Tutorial Pop-ups",
+      "text": "Tutorial-Popups anzeigen"
+    }
+  ]
+}

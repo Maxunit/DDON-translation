@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step77.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_77.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_126",
+      "read_index": "0",
+      "source_jp": "シーカーは、ダガ―による連撃やシーカーロープを\r\n使った空中攻撃などトリッキーで手数豊富な\r\n軽業の使い手です\r\n＜基本操作＞\r\n　【<KC ATTACK1>】連撃（ダガ―攻撃）\r\n　【<KC ATTACK2>】百裂斬り（ダガ―高速攻撃）\r\n　【<KC ROLLING>】転身（回避移動）",
+      "source_en": "The Seeker is a skilled performer in the art of\r\nacrobatics, using a combination of dagger\r\nstrikes and aerial attacks\r\nsuch as the Seeker Rope.\r\n[Basic Operations] - Press <KC ATTACK1> for a rapid\r\nonslaught of dagger attacks.\r\n- Use <KC ATTACK2> for the Scarlet Kisses technique, a\r\nhigh-speed dagger attack.\r\n- Employ <KC ROLLING> to perform a forward roll\r\nfor evasive maneuvers.",
+      "text": "Der Kundschafter ist flink und greift\nmit Dolchen in rascher Folge an.\nMit seinem Seil kann er Gegner auch\naus der Luft angreifen.\nGrundsteuerung\n[<KC ATTACK1>] Schnittfolge\n[<KC ATTACK2>] Klingensalve\n[<KC ROLLING>] Ausweichrolle"
+    }
+  ]
+}

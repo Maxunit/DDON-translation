@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step440.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_440.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_849",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《精霊竜》《火竜》《白竜》《黄金竜》《対黒竜》</COL>\r\n上記のドラゴンアビリティは装備強化により\r\n<COL ffdc78>防具が★4になった際、性能が上昇します</COL>\r\n防具に付与されているドラゴンアビリティの\r\nポイントが<COL ffdc78>\"3以下\"</COL>だった場合は\r\n該当するドラゴンアビリティのポイントが上昇します\r\nドラゴンアビリティのポイントが<COL ffdc78>\"4以上\"</COL>の場合は\r\n《理力》のアビリティポイントが上昇します",
+      "source_en": "<COL 78f5ff>\"Spirit Dragon\" \"Fire Dragon\" \"White\r\nDragon\" \"Golden Dragon\" \"Anti-Black Dragon\"</COL>\r\nThe Dragon Abilities mentioned above will have\r\ntheir performance enhanced when <COL 78f5ff>the\r\narmor reaches ★4 through equipment\r\nstrengthening.</COL>\r\nIf the points of the Dragon Abilities attached to\r\nthe armor are <COL ffdc78>\"3 or less\"</COL>, the\r\ncorresponding Dragon Ability points will increase.\r\nIf the points of the Dragon Abilities are <COL ffdc78>\r\n\"4 or above\"</COL>, the Ability Points for\r\n\"Force\" will increase.",
+      "text": "<COL 78f5ff>Geister-, Feuer-, Weißer Drache,\nGolddrache und Schwarzer Drache</COL>\n<COL ffdc78>Verstärke eine Rüstung auf vier Sterne</COL>,\num ihre Drachenbegabung zu verbessern.\nHat sie <COL ffdc78>höchstens 3 Punkte</COL> der Begabung,\nsteigen die Punkte dieser Begabung.\nHat sie <COL ffdc78>4 oder mehr Punkte</COL>, steigt\nstattdessen die Willenskraft.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

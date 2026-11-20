@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step258.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_258.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_427",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>≪覚者の自室≫を入手しました！</COL>\r\n<COL ffdc78>≪覚者の自室≫</COL>では、メインポーンを\r\n<COL ffdc78>≪パートナーポーン≫</COL>に設定することで\r\n一緒に住むことができます\r\nパートナーポーンは\r\nリムストーンの≪メインポーン≫から\r\n設定することができます\r\nまた、パートナーポーンはロストする事がありません",
+      "source_en": "You've obtained the <COL ffdc78>Arisen's Room</COL>!\r\nIn <COL ffdc78>Arisen's Room,</COL> you can set your main pawn as\r\nyour <COL ffdc78>Partner Pawn</COL> and live together.\r\nYou can set the Partner Pawn from Main\r\nPawns in the Riftstone.\r\nAlso, the Partner Pawn will never be lost.",
+      "text": "<COL 78f5ff>Du hast jetzt ein eigenes Zimmer!</COL>\nIn <COL ffdc78>deinem Zimmer</COL> kannst du mit einem\n<COL ffdc78>Partnervasallen</COL> zusammenleben.\nÖffne an einem Riftstein das Menü\n„Hauptvasall“ und wähle deinen Partner.\nPartnervasallen können nicht verloren\ngehen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_473",
+      "read_index": "1",
+      "source_jp": "パートナーポーンとは一緒に冒険に出かけたり\r\nクラフトを依頼したり\r\n自室でご褒美をあげることで\r\n絆を深める事ができます\r\n絆を深めていけば、パートナーポーンから\r\n特別なエモートや髪型などの提案をされたり、\r\nフォトモードで呼びかけに応えてくれるように\r\nなるかもしれません",
+      "source_en": "You can go on adventures together with your\r\nPartner Pawn, request crafting, and strengthen\r\nyour bond by giving rewards in your room.\r\nBy deepening your bond, your Partner Pawn may\r\nsuggest special emotes, hairstyles, and more.\r\nThey may also respond to your\r\ncalls in Photo Mode.",
+      "text": "Vertiefe eure Bindung durch gemeinsame\nAbenteuer, Handwerksaufträge oder\nBelohnungen in deinem Zimmer.\nMit wachsender Bindung schlägt dir dein\nPartnervasall vielleicht besondere\nEmotes oder Frisuren vor. Vielleicht\nreagiert er auch im Fotomodus auf dich."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step181.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_181.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_177",
+      "read_index": "0",
+      "source_jp": "冒険フィールドへは神殿の東側にある\r\n大門から出ることができます\r\n野外には魔物など、多くの危険が\r\n待ち構えています\r\n回復アイテム、ランタンなど\r\n神殿の《商店区》や《宿場区》で旅の準備を\r\n整えてから出発しましょう",
+      "source_en": "You can exit from the main gate on the east side\r\nof the temple to reach the adventure field.\r\nThere are many dangers such as enemies\r\nlurking in the wilderness.\r\nPrepare for the journey by getting healing\r\nitems and a lantern from the <COL ffdc78>Shopping District</COL>\r\nand <COL ffdc78>Relay Station</COL> of the Temple.",
+      "text": "Das Haupttor im Osten des Tempels\r\nführt ins Freie. Draußen warten Monster\r\nund andere Gefahren auf dich.\r\nBesorge im Händlerviertel oder bei\r\nder Herberge Heilmittel, eine Laterne\r\nund alles für deine Reise.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

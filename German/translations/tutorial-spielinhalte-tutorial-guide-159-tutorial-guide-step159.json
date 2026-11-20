@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step159.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_159.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_41",
+      "read_index": "0",
+      "source_jp": "プレイヤーは基本攻撃の他に\r\nスタミナを消費して専用アクションである\r\n<COL ffdc78>《カスタムスキル》</COL>が使用できます\r\n<PADM>　【<KC WEAPON_SUB>】を押しながら【<KC ATTACK1>／<KC ATTACK2>】\r\n　【<KC WEAPON_MAIN>】を押しながら【<KC ATTACK1>／<KC ATTACK2>】\r\n<KEYM>　【<KC SKILL_CUSTOM3>】 【<KC SKILL_CUSTOM4>】\r\n　【<KC SKILL_CUSTOM1>】 【<KC SKILL_CUSTOM2>】\r\n</KEYM>\r\nどういった技が出せるかは\r\n画面右下のガイドで確認しましょう",
+      "source_en": "In addition to basic attacks, players can use\r\n<COL ffdc78>Custom Skills</COL> by consuming Stamina.\r\n<PADM> Press <KC WEAPON_SUB> and <KC ATTACK1>/<KC ATTACK2> together.\r\nPress <KC WEAPON_MAIN> and <KC ATTACK1>/<KC ATTACK2> together.\r\n<KEYM> Press <KC SKILL_CUSTOM3> <KC SKILL_CUSTOM4>\r\nPress <KC SKILL_CUSTOM1> <KC SKILL_CUSTOM2>\r\n</KEYM>\r\nCheck the guide in the bottom right of the\r\nscreen to see what kind of\r\ntechniques can be used.",
+      "text": "<COL ffdc78>Spezialfertigkeiten</COL> ergänzen\r\ndeine Grundangriffe und kosten Ausdauer.\r\n<PADM>Halte <KC WEAPON_SUB>, dann <KC ATTACK1>/<KC ATTACK2>.\r\nHalte <KC WEAPON_MAIN>, dann <KC ATTACK1>/<KC ATTACK2>.\r\n<KEYM>Diese Tasten lösen Spezialfertigkeiten aus\r\n<KC SKILL_CUSTOM3> / <KC SKILL_CUSTOM4>\r\n<KC SKILL_CUSTOM1> / <KC SKILL_CUSTOM2></KEYM>\r\nUnten rechts siehst du die verfügbaren\r\nAktionen."
+    },
+    {
+      "key": "TUTORIAL_STEP_92",
+      "read_index": "1",
+      "source_jp": "ジョブにより、使えるカスタムスキルは異なります\r\n戦闘中に試してみてください\r\nなお導入クエスト「覚悟と兆し」でセット\r\nされているカスタムスキルは\r\nこのクエスト限定の一時的なものとなります",
+      "source_en": "Depending on the vocation, the available\r\ncustom skills may vary.\r\nTry them out in combat.\r\nPlease note that any custom skills used during\r\nthe introductory quest <COL ffdc78>Resolutions and Omens</COL>\r\nwill need to be unlocked.",
+      "text": "Welche Spezialfertigkeiten du nutzen\r\nkannst, hängt von deiner Klasse ab.\r\nProbiere sie im Kampf aus.\r\nDie Fertigkeiten aus der Einführungsquest\r\n<COL ffdc78>Entschluss und Vorzeichen</COL>\r\nstehen dir nur in dieser Quest zur Verfügung."
+    }
+  ]
+}

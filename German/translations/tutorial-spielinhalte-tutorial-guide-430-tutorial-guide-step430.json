@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step430.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_430.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_820",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《ハイオーブショップ》が追加されました！</COL>\r\nハイオーブと引き換えに、強力なクレストや\r\nユニークな見た目の装備品を作るための\r\nクラフト用素材などが得られます",
+      "source_en": "<COL 78f5ff>[High Orb Shop] has been added!</COL>\r\nBy exchanging High Orbs, you can obtain crafting\r\nmaterials for creating powerful crests and\r\nunique-looking equipment.",
+      "text": "<COL 78f5ff>Du kannst jetzt Edle Kugeln eintauschen!</COL>\nDafür erhältst du starke Siegel und\nMaterialien für Ausrüstung mit\nbesonderem Aussehen."
+    },
+    {
+      "key": "TUTORIAL_STEP_865",
+      "read_index": "1",
+      "source_jp": "ハイオーブショップで交換できる\r\n<COL 78f5ff>《<ITEM 24821>》</COL>を利用するクラフトレシピは\r\n様々なアチーブメントを取得することで解放されます\r\n<COL ffdc78>黒呪の迷宮、ウォーミッション、大竜晶破壊戦など\r\nコンテンツを複数回クリアすることで\r\nアチーブメントは取得できます</COL>\r\nまだ見ぬ装備を目指して、様々なコンテンツを攻略しましょう",
+      "source_en": "You can exchange <COL 78f5ff>[<ITEM 24821>]</COL>\r\nat the High Orb Shop. Crafting recipes using it\r\nwill be unlocked by obtaining\r\nvarious achievements.\r\n<COL ffdc78>You can obtain achievements by clearing various\r\ncontents such as Bitterblack Maze, War Missions,\r\nand Great Dragon Crystal Destruction\r\nBattle multiple times.</COL>\r\nConquer various contents to aim for\r\nnew equipment.",
+      "text": "Im Laden für Edle Kugeln erhältst du\n<COL 78f5ff><ITEM 24821></COL>. Die passenden Rezepte\nschaltest du über Erfolge frei.\n<COL ffdc78>Wiederhole dazu etwa das Finstergram-\nLabyrinth, Kriegsmissionen oder die\nSchlacht um den dunklen Drachenkristall.</COL>\nSo kannst du neue Ausrüstung herstellen."
+    }
+  ]
+}

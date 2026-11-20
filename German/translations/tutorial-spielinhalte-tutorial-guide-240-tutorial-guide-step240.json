@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step240.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_240.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_382",
+      "read_index": "0",
+      "source_jp": "一定のクラフトレベルに達したメインポーンは\r\n<COL ffdc78>《クラフトレベル昇格試験》</COL>に挑むことが\r\nできます\r\n示された<COL ffdc78>《昇格試験レシピ》</COL>のクラフトに\r\n成功すれば、クラフトレベルの上限が引き上げられ\r\nポーンのクラフト技術を\r\nより高めることができるようになります",
+      "source_en": "Once your Main Pawn has reached a certain\r\ncrafting level, they can challenge the <COL ffdc78>\r\nCrafting Level Test</COL>.\r\nBy successfully crafting the given <COL ffdc78>\r\nPromotion Test Recipe</COL>, the upper limit of their\r\ncraft level will be raised, allowing them to\r\nfurther enhance their crafting abilities.",
+      "text": "Ab einer bestimmten Handwerksstufe\nkann dein Hauptvasall eine\n<COL ffdc78>Handwerksprüfung</COL> ablegen.\nStelle das <COL ffdc78>Prüfungsrezept</COL> fertig.\nDadurch steigt seine Höchststufe und\ner kann sich weiter verbessern."
+    },
+    {
+      "key": "TUTORIAL_STEP_383",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>昇格試験をクリアしなければそれ以上に\r\nクラフトレベルは上がらず、クラフト経験値も\r\n入らなくなるため注意しましょう</COL>",
+      "source_en": "<COL ffdc78>If you don't clear the promotion exam, your\r\nCraft Level will not increase, and Craft EXP\r\nwill not be obtained. Please be careful.</COL>",
+      "text": "<COL ffdc78>Bis dein Vasall die Prüfung besteht,\nsammelt er keine Handwerkserfahrung\nund kann nicht weiter aufsteigen.</COL>"
+    }
+  ]
+}

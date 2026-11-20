@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step426.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_426.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_808",
+      "read_index": "0",
+      "source_jp": "過去に挑んだことがあるダンジョンに\r\n滅びの渦が現れ、様々な<COL ffdc78>\"異変\"</COL>が発生しています\r\nダンジョン内の\"異変\"を調査し、\r\n元凶となる<COL 78f5ff>《暗黒の大竜晶》</COL>を\r\n見つけ出して破壊することが目的のコンテンツです",
+      "source_en": "In a dungeon you have previously explored, a\r\nvortex of stagnation has\r\nappeared, causing various\r\n<COL ffdc78>Mutations</COL>.\r\nThe objective of this content is to investigate\r\nthe Mutations within the dungeon and find and\r\ndestroy the source, the <COL 78f5ff>\"Great Dragon\r\nCrystal of Darkness\".</COL>",
+      "text": "Ein Wirbel der Vernichtung bringt\n<COL ffdc78>Anomalien</COL> in Dungeons, die du schon\nbesucht hast. Untersuche die Anomalien,\nfinde den <COL 78f5ff>großen dunklen\nDrachenkristall</COL> und zerstöre ihn."
+    },
+    {
+      "key": "TUTORIAL_STEP_809",
+      "read_index": "1",
+      "source_jp": "＜報酬について＞\r\n多くの異変を調査・解決することで\r\n強力なドラゴンアビリティが付与された\r\n防具を入手できます\r\nドラゴンアビリティは、闇の眷属である\r\n強大な敵への重要な対抗策です",
+      "source_en": "[Regarding Rewards] By investigating and\r\nresolving various Mutations, you can obtain\r\narmor that grants powerful Dragon Abilities.\r\nDragon Abilities are crucial countermeasures\r\nagainst powerful enemies known as Dark Servants.",
+      "text": "Untersuche und löse viele Anomalien,\num Rüstungen mit mächtigen\nDrachenbegabungen zu erhalten.\nDiese Begabungen helfen dir im Kampf\ngegen die Diener der Finsternis."
+    },
+    {
+      "key": "TUTORIAL_STEP_856",
+      "read_index": "2",
+      "source_jp": "暗黒の大竜晶破壊戦については\r\nチュートリアルガイドのカテゴリ\r\n<COL ffdc78>＜暗黒の大竜晶破壊戦＞</COL>にまとまっています\r\nプレイしていて分からないことや\r\n気になることがあった時は\r\nまずチュートリアルガイドを確認してみましょう",
+      "source_en": "Regarding the Battle for the Destruction of the\r\nGreat Dragon Crystal of Darkness, it is gathered\r\nin the category of the Tutorial Guide: <COL ffdc78>Battle\r\nfor the Destruction of the Great Dragon\r\nCrystal of Darkness</COL>.\r\nIf there is something you don't understand while\r\nplaying or if you have any concerns, first,\r\ncheck the Tutorial Guide.",
+      "text": "Weitere Hinweise zu Missionen und\nBelohnungen stehen im Tutorial-Menü\nunter <COL ffdc78>„Schlacht um den dunklen\nDrachenkristall“</COL>."
+    }
+  ]
+}

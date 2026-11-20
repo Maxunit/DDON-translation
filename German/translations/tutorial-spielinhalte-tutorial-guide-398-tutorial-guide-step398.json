@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step398.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_398.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_741",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《黒呪の迷宮》</COL>は\r\n探索のたびに、出現する敵や\r\n入手できるアイテムが変わる\r\n特殊なダンジョンを攻略するコンテンツです\r\n1度手に入れた報酬や特別な宝箱は\r\n《黒呪の迷宮リセット券》を使用する事で\r\n再び入手が可能になり、繰り返し挑戦できます\r\n※《黒呪の迷宮リセット券》は1週間に1度\r\n　　黒呪の迷宮を訪れると補充されます",
+      "source_en": "<COL ffdc78>\"Bitterblack Maze\"</COL> is a special dungeon where\r\nthe enemies and treasure change\r\neach time you enter.\r\nYou can use a \"Bitterblack Maze Reset Ticket\" to\r\nreset chests and rewards, allowing you\r\nto collect them again.\r\n※\"Bitterblack Maze Reset Ticket\" will restock\r\neach week after visiting Bitterblack Maze.",
+      "text": "Im <COL ffdc78>Finstergram-Labyrinth</COL> erwarten dich\nbei jeder Erkundung andere Gegner\nund Gegenstände.\nMit einem Labyrinth-Reset-Ticket\nkannst du Belohnungen und besondere\nSchatztruhen erneut erhalten.\nEinmal pro Woche erhältst du beim\nBesuch des Labyrinths ein neues Ticket."
+    },
+    {
+      "key": "TUTORIAL_STEP_742",
+      "read_index": "1",
+      "source_jp": "黒呪の迷宮は、隔絶された世界ゆえに\r\nレスタニアでの容姿とは違う姿で\r\n冒険することができます\r\n容姿は<COL ffdc78>黒呪の迷宮へと足を踏み入れる際\r\n1度だけ変更可能</COL>です\r\n※覚者の名前は変更できません",
+      "source_en": "Bitterblack Maze is isolated from the world, so\r\nyou can travel it with a different appearance.\r\nYour appearance <COL ffdc78>can only be changed upon your\r\nfirst entrance to Bitterblack Maze.</COL>\r\n※You cannot change the name of the Arisen.",
+      "text": "Im Labyrinth kannst du anders aussehen\nals in Lestania. <COL ffdc78>Du kannst dein Aussehen\nbeim Betreten einmal ändern.</COL>\nDer Name deines Erweckten bleibt gleich."
+    },
+    {
+      "key": "TUTORIAL_STEP_743",
+      "read_index": "2",
+      "source_jp": "コンテンツの進行状況は\r\nキャラクターデータとして保存され\r\n<COL ffdc78>いつでも進行の途中から始めることが可能</COL>です\r\n<COL ffdc78>特定のエリアをクリアすることで\r\n進行が保存される</COL>ので、最後まで諦めずに\r\nクリアを目指して頑張りましょう！",
+      "source_en": "Your character data is saved during progression,\r\n<COL ffdc78>so you can resume progress at any time</COL>.\r\n<COL ffdc78>Progress is saved when you clear a specific area</COL>\r\n, so try to reach all the way to the end!",
+      "text": "Das Spiel speichert deinen Fortschritt\nfür deinen Charakter. <COL ffdc78>Du kannst später\nan derselben Stelle weitermachen.</COL>\n<COL ffdc78>Der Fortschritt wird gespeichert,\nsobald du bestimmte Bereiche\nabgeschlossen hast.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_798",
+      "read_index": "3",
+      "source_jp": "案内人リュカに《探索結果の報告》を行うことで\r\n《金竜の印》、《銀竜の印》、《赤竜の印》を\r\n報酬として受け取ることができます\r\n・金竜の印　<COL ffdc78>所持上限 30個</COL>\r\n　　《黒呪アイテムの持ち帰り》に使用します\r\n・銀竜の印　<COL ffdc78>所持上限 150個</COL>\r\n　　集めることで黒呪アイテムと交換できます\r\n・赤竜の印　<COL ffdc78>所持上限 99999個</COL>\r\n 　《黒呪装具の効果封印》に使用します",
+      "source_en": "Report to Luca to get rewards: Gold Dragon Seal <COL ffdc78>\r\n(Max 30)</COL>: Bring back cursed items.\r\nSilver Dragon Seal <COL ffdc78>(Max 150)</COL>:\r\nTrade for cursed items.\r\nRed Dragon Seal <COL ffdc78>(Max 99999)</COL>: Seal\r\ncursed gear effects.",
+      "text": "Wähle bei Luca „Erkundung melden“.\nDanach kannst du Marken erhalten:\nGolddrachenmarken <COL ffdc78>(max. 30)</COL>\nFür die Mitnahme von Gegenständen\nSilberdrachenmarken <COL ffdc78>(max. 150)</COL>\nZum Tausch gegen Labyrinth-Beute\nRotdrachenmarken <COL ffdc78>(max. 99.999)</COL>\nDamit versiegelst du Ausrüstungseffekte."
+    },
+    {
+      "key": "TUTORIAL_STEP_788",
+      "read_index": "4",
+      "source_jp": "黒呪の迷宮については\r\nチュートリアルガイドのカテゴリ<COL ffdc78>《黒呪の迷宮》</COL>に\r\nまとまっています\r\nプレイしていて分からないことや\r\n気になることがあった時は\r\nまずチュートリアルガイドを確認してみましょう",
+      "source_en": "Bitterblack Maze tutorials are gathered in the\r\n\"Bitterblack Maze\" tutorial guide category.\r\nIf there is something you don't understand\r\nconsult the tutorial guide.",
+      "text": "Weitere Hilfen findest du im\nTutorial-Menü unter <COL ffdc78>„Finstergram-\nLabyrinth“</COL>. Schau dort nach, wenn\nbei der Erkundung Fragen aufkommen.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

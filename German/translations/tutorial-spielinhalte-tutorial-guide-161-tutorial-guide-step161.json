@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step161.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_161.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_157",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《ジョブ修練ログ》</COL>では、あなたがこれまでに\r\nジョブマスターから受けた修練の状況が\r\n記録されています\r\n現在進めている課題や、\r\nジョブごとの達成度をここで確認しましょう\r\n達成したジョブ修練は、ジョブ修練ログを確認することでも\r\n報告完了できます",
+      "source_en": "In the <COL ffdc78>Job Training Log</COL>, your progress in the\r\ntraining you have received from the Job\r\nMasters is recorded.\r\nHere, you can check the current tasks you are\r\nworking on and the level of\r\nachievement for each job.\r\nYou can also report completed job trainings by\r\nchecking the Job Training Log.",
+      "text": "Im <COL ffdc78>Trainingsbuch</COL> siehst du die\nAufgaben deiner Klassenmeister und\ndeinen Fortschritt je Klasse.\nAbgeschlossene Aufgaben kannst du\nauch durch Öffnen des Buchs melden."
+    },
+    {
+      "key": "TUTORIAL_STEP_287",
+      "read_index": "1",
+      "source_jp": "《ジョブ修練》に取り組む上で、いくつか\r\n覚えておくべきことがあります\r\n＜注意点＞\r\n　①修練課題は、対応するジョブで行う\r\n　②討伐方法は不問\r\n　　課題スキルを使わなくてもＯＫ\r\n　③同じ戦闘エリアなら\r\n　　他のパーティーメンバーが討伐してもＯＫ",
+      "source_en": "When working on \"Job Training,\" there are\r\nseveral things to keep in mind: [Notes] ①\r\nPerform training tasks with\r\nthe corresponding job.\r\n② The method of subjugation is irrelevant, and\r\nit is okay not to use skill in the task.\r\n③ If it is the same combat area, it is okay for\r\nother party members to subjugate.",
+      "text": "Beim Klassentraining gilt:\n1. Spiele die Klasse, für die du trainierst.\n2. Du kannst Gegner beliebig besiegen.\n   Die genannte Fertigkeit ist keine Pflicht.\n3. Kämpft ihr im selben Kampfbereich, zählen\n   auch Gegner, die ein anderes Mitglied\n   deiner Gruppe besiegt."
+    },
+    {
+      "key": "TUTORIAL_STEP_411",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>また、実際にレベルアップするには\r\n戦技補佐に話しかけ、それまでの\r\nレベルアップ同様にジョブポイントを\r\n支払う必要があります</COL>\r\nパーティーの仲間と協力し、\r\n多くの課題をこなして技のレベルアップを\r\n目指しましょう",
+      "source_en": "<COL ffdc78>Also, in order to actually level up, you will\r\nneed to talk to Arts Support and pay job points,\r\njust like leveling up before.</COL>\r\nWork together with your party members and\r\ncomplete many tasks to aim for\r\nleveling up of your skills.",
+      "text": "<COL ffdc78>Sprich nach dem Training mit einem\nKampftrainer. Unter „Kampftechniken“\nkannst du die Fertigkeit wie gewohnt\nmit Klassenpunkten aufwerten.</COL>\nErledige weitere Aufgaben mit deiner\nGruppe und verbessere deine Fertigkeiten."
+    }
+  ]
+}

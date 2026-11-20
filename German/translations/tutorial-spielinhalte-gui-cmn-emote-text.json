@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\emote_text.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "emote_text_875",
+      "read_index": "22",
+      "source_jp": "手招き",
+      "source_en": "Beckon",
+      "text": "Heranwinken"
+    },
+    {
+      "key": "emote_text_907",
+      "read_index": "54",
+      "source_jp": "伏せる",
+      "source_en": "Crawl",
+      "text": "Hinlegen"
+    }
+  ]
+}

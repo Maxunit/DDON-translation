@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step275.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_275.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_446",
+      "read_index": "0",
+      "source_jp": "大型の侵食魔には\r\nパーティで協力して戦いましょう\r\n大型の侵食魔は戦闘中に時間が経過することで\r\n角やトゲのようにも見える\r\n<COL ffdc78>《侵食核》</COL>が増えていきます\r\n侵食魔は《侵食核》の本数が増えるごとに\r\nより強力になっていく性質を持っているので\r\n注意が必要です",
+      "source_en": "For larger Corrupted enemies, cooperate\r\nand fight them in a party.\r\nDuring battle, the Large enemy will gradually\r\nincrease its number of <COL ffdc78>\"Corruption Cores,\"</COL> which\r\nmay appear as horns or spikes.\r\nThe Corrupted becomes more powerful as the\r\nnumber of \"Corruption Cores\" increases, so\r\ncaution is necessary.",
+      "text": "Bekämpft große Befallene gemeinsam.\r\nJe länger der Kampf dauert, desto\r\nmehr <COL ffdc78>Befallskerne</COL> wachsen am Gegner.\r\nSie sehen aus wie Hörner oder Stacheln.\r\nMit jedem neuen Kern wird der\r\nGegner stärker."
+    },
+    {
+      "key": "TUTORIAL_STEP_468",
+      "read_index": "1",
+      "source_jp": "侵食核が存在しているときは\r\n通常攻撃でのダメージを与えにくくなります\r\nまずは侵食核を破壊することが\r\n効率的な討伐につながります\r\nすべての侵食核を破壊すると\r\n敵をダウンさせることができます\r\n安全に攻撃するチャンスとなるので\r\n積極的に破壊しましょう",
+      "source_en": "When a Corruption Core is present, it becomes\r\ndifficult to inflict damage\r\nwith regular attacks.\r\nIt is efficient to destroy the Corruption Core\r\nfirst as it leads to efficient defeat.\r\nBy destroying all Corruption Cores, you can\r\nbring the enemy down and create an\r\nopportunity for safe attacks.\r\nMake sure to actively destroy them.",
+      "text": "Solange der Gegner Befallskerne hat,\r\nrichten normale Angriffe wenig an.\r\nZerstört zuerst die Kerne. Wenn alle\r\nzerstört sind, geht der Gegner zu Boden.\r\nDann könnt ihr ihn gefahrlos angreifen."
+    },
+    {
+      "key": "TUTORIAL_STEP_447",
+      "read_index": "2",
+      "source_jp": "侵食魔が放出する<COL ffdc78>《侵食胞子》</COL>は\r\n敵をのけぞらせることで\r\n一定時間放出を止めることが可能です\r\n侵食胞子の放出が止まっている間は\r\n侵食核を破壊するための最良のタイミングです\r\n<COL ffdc78>侵食核には打撃・斬撃が有効\r\nその他の部位は魔法・射撃が有効です</COL>",
+      "source_en": "The <COL ffdc78>Corruption Spores</COL> released by the Corruption\r\nenemies can be stopped for a\r\nwhile using stagger.\r\nWhile the release of the Corruption Spores is\r\nhalted, it is the best time to destroy\r\nthe Corruption Core.\r\n<COL ffdc78>Striking and slashing are effective against the\r\nCorruption Core, while magick and shooting are\r\neffective against other parts.</COL>",
+      "text": "Wenn du einen Befallenen taumeln\r\nlässt, gibt er eine Weile keine\r\n<COL ffdc78>Sporen</COL> ab.\r\nNutze diese Zeit, um die Kerne zu\r\nzerstören.\r\n<COL ffdc78>Hiebe und Schnitte treffen die Kerne\r\nam besten. Für andere Stellen eignen\r\nsich Magie und Fernangriffe.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_448",
+      "read_index": "3",
+      "source_jp": "また、タンク職が侵食魔の注目を集めることで\r\nしがみついているプレイヤーへの攻撃頻度を\r\n下げることが可能です\r\nそれぞれのジョブの特性を活かし\r\n強敵に挑みましょう",
+      "source_en": "In addition, by drawing the attention of the\r\nCorruption Infected to Tanks, it is possible to\r\ndecrease the frequency of attacks\r\non clinging players.\r\nLet us make use of the unique characteristics of\r\neach job and challenge formidable enemies.",
+      "text": "Wenn ein Verteidiger die Aufmerksamkeit\r\neines Befallenen auf sich zieht, greift\r\ndieser seltener die Spieler an, die\r\nsich an ihm festhalten.\r\nNutzt die Stärken eurer Klassen."
+    }
+  ]
+}

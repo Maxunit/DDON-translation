@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step357.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_357.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_621",
+      "read_index": "0",
+      "source_jp": "エピタフロード<COL ffdc78>《英霊眠りし道》</COL>では\r\n封印された<COL ffdc78>《絶技の継承》</COL>を解放することができます\r\nしかし、そのためには<COL ffdc78>《英霊の間》</COL>と呼ばれる場所で\r\n墓碑に記された試練に挑み、特殊な条件を達成して\r\n敵を討伐する必要があります",
+      "source_en": "In the <COL ffdc78>Epitaph Road: Heroic Spirit Sleeping Path</COL>\r\n, you can unlock the <COL ffdc78>Special Skill Augmentation</COL>\r\nthat has been sealed.\r\nHowever, in order to do so, you need to\r\nchallenge the trials inscribed on the\r\ngravestones in a place called <COL ffdc78>The Realm of\r\nHeroic Spirits</COL> and achieve special conditions\r\nto defeat the enemy.",
+      "text": "Auf dem <COL ffdc78>Pfad der Heldengeister</COL> kannst\ndu <COL ffdc78>erweiterte Klassenverstärkungen</COL>\nfreischalten. Dazu stellst du dich in\nder <COL ffdc78>Halle der Heldengeister</COL> den Prüfungen\nauf den Grabsteinen. Erfülle ihre\nBedingungen und besiege die Gegner."
+    },
+    {
+      "key": "TUTORIAL_STEP_622",
+      "read_index": "1",
+      "source_jp": "また、英霊眠りし道のさらなる深部へと\r\n足を踏み入れるには、土砂を撤去するため\r\n英霊の力を借りて<COL ffdc78>《大開拓》</COL>をしなければなりません\r\n大開拓は英霊となるNPCの力を\r\n借りることで解放されるようになります",
+      "source_en": "Furthermore, in order to venture further into\r\nthe depths of the Epitaph Road and remove the\r\ndebris, you must harness the power of the Heroic\r\nSpirits and engage in <COL ffdc78>\r\n\"Large-Scale Development\" </COL> .\r\nLarge-Scale Development is a power that is\r\nliberated by borrowing the strength of\r\nthe Heroic Spirit NPCs.",
+      "text": "Tiefer im Pfad versperrt dir Geröll\nweitere Wege. Hol dir die Hilfe der\nHeldengeister, um mit der <COL ffdc78>„Großen\nRäumung“</COL> das Geröll zu entfernen.\nSprich dafür mit den Heldengeistern."
+    },
+    {
+      "key": "TUTORIAL_STEP_672",
+      "read_index": "2",
+      "source_jp": "ただし、中には英霊の力を借りずに\r\n自ら土砂を撤去する《小開拓》ができる所もあります\r\n小開拓を行うと即時に土砂が撤去され\r\nクレストなど、\r\nより多くの報酬が手に入る道が拓かれます\r\n全ての道を開拓することにより\r\n英霊の加護を手に入れることができるでしょう",
+      "source_en": "However, there are also places where\r\n\"Small-scale Development\" can remove the soil\r\nwithout borrowing the power\r\nof the heroic spirit.\r\nWhen conducting small-scale development, the\r\nsoil is immediately removed, and a path to\r\nobtain more rewards such as Crests will be open.\r\nBy developing all paths, you will be able to\r\nobtain the divine protection\r\nof the heroic spirit.",
+      "text": "Manche Geröllhaufen kannst du selbst\nmit der „Kleinen Räumung“ entfernen.\nSo öffnest du die Wege sofort und\nfindest mehr Belohnungen, etwa Siegel.\nWenn du alle Wege freilegst, kannst du\nden Segen der Heldengeister erhalten."
+    },
+    {
+      "key": "TUTORIAL_STEP_689",
+      "read_index": "3",
+      "source_jp": "※エピタフロードへは\r\nパーティーメンバー全員が揃っていないと\r\n入場できません\r\n1人だけダンジョンの外に退出してしまうと\r\n試練の起動や再入場ができなくなるため、\r\n再度、パーティー全員で入場し直す必要があります",
+      "source_en": "*You can only enter the Epitaph Road if all\r\nparty members are present.\r\nIf one person exits the dungeon you will not be\r\nable to start the trials or re-enter the\r\ndungeon, you will have to re-enter with\r\nthe whole party again.",
+      "text": "Betretet den Pfad nur, wenn alle aus\nder Gruppe dabei sind. Verlässt jemand\nden Dungeon, kann er nicht allein\nzurückkehren und ihr könnt keine\nPrüfung starten. Betretet den Pfad\nerneut gemeinsam."
+    }
+  ]
+}

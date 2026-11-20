@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\package_quest\\package_quest_sequence_03.gmd",
+  "arc_path": "\\quest\\package_quest\\seq_name_03.arc",
+  "entries": [
+    {
+      "key": "PACKAGE_QUEST_SEQUENCE_18",
+      "read_index": "0",
+      "source_jp": "第１の尋問―怪しい無頼漢―",
+      "source_en": "1st Interrogation -Suspicious Vagabond-",
+      "text": "Erstes Verhör: Ein verdächtiger Streuner"
+    },
+    {
+      "key": "PACKAGE_QUEST_SEQUENCE_19",
+      "read_index": "1",
+      "source_jp": "潜入調査―陽光照らすメガド―",
+      "source_en": "Undercover -Sunlight Illuminating Megado-",
+      "text": "Verdeckter Einsatz: Megado bei Tag"
+    },
+    {
+      "key": "PACKAGE_QUEST_SEQUENCE_20",
+      "read_index": "2",
+      "source_jp": "諜報活動―闇夜覆うメガド―",
+      "source_en": "Intelligence Assessment-Dark Night Covering Megado-",
+      "text": "Spurensuche: Megado bei Nacht"
+    },
+    {
+      "key": "PACKAGE_QUEST_SEQUENCE_21",
+      "read_index": "3",
+      "source_jp": "第２の尋問―鍵握る悪鬼―",
+      "source_en": "2nd Interrogation -Demonic Keyholder-",
+      "text": "Zweites Verhör: Der Dämon mit dem Schlüssel"
+    },
+    {
+      "key": "PACKAGE_QUEST_SEQUENCE_22",
+      "read_index": "4",
+      "source_jp": "潜入調査―誉れの侯爵 ナヴィド―",
+      "source_en": "Undercover -Marquis of Honor Navid-",
+      "text": "Verdeckter Einsatz: Markgraf Navid"
+    },
+    {
+      "key": "PACKAGE_QUEST_SEQUENCE_23",
+      "read_index": "5",
+      "source_jp": "諜報活動―反旗翻す者たち―",
+      "source_en": "Intelligence Assessment -People Rising in Revolt-",
+      "text": "Spurensuche: Die Aufständischen"
+    },
+    {
+      "key": "PACKAGE_QUEST_SEQUENCE_24",
+      "read_index": "6",
+      "source_jp": "永き闇裂く者たち",
+      "source_en": "Eternal Darkness Breakers",
+      "text": "Die lange Finsternis durchbrechen"
+    }
+  ]
+}

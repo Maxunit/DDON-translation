@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step209.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_209.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_337",
+      "read_index": "0",
+      "source_jp": "メインクエスト進行中、チェックポイントとなる\r\n場所に出現するのが<COL ffdc78>《進行マーカー》</COL>です\r\nソロプレイ中でもパーティープレイ中でも\r\n<COL ffdc78>進行者（パーティープレイ時はリーダー）\r\nが《進行マーカー》に触れることで\r\nメインクエストは次のイベントへ進行します</COL>",
+      "source_en": "During the Main Quest <COL ffdc78>Progress Marker</COL>, appears\r\nat the checkpoint location.\r\nWhether playing solo or in a party, the player\r\nleading the progression (the leader in party\r\nplay) advances the Main Quest to the next event\r\nby touching the <COL ffdc78>Progress Marker</COL>.",
+      "text": "In Hauptquests erscheinen an bestimmten\r\nStellen <COL ffdc78>Fortschrittsmarker</COL>.\r\n<COL ffdc78>Interagiere mit dem Marker, um das nächste\r\nEreignis zu starten. In einer Gruppe\r\nübernimmt das der Gruppenleiter.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_338",
+      "read_index": "1",
+      "source_jp": "ただし、パーティープレイ中はメインクエスト\r\nの要所で進行マーカーが発生した場合、\r\nマーカーの元に全員集合する必要があります\r\nリーダーから<COL ffdc78>《パーティー招集》要請が\r\n届いたら、メンバーもマーカーに触れて\r\n《準備完了》状態になり、待機</COL>してください\r\nまた、同様の機能をもつ扉も存在します",
+      "source_en": "However, during party play, if a progress marker\r\noccurs at a key point in the main quest,\r\neveryone must gather at the marker.\r\nWhen a <COL ffdc78>Party Summoning</COL> request is received from\r\nthe leader, members should also touch\r\nthe marker and enter a\r\n<COL ffdc78>Preparation Complete</COL> state, then wait.\r\nThere are also doors that\r\nhave the same function.",
+      "text": "An manchen Fortschrittsmarkern muss\r\nsich die ganze Gruppe versammeln.\r\n<COL ffdc78>Wenn der Leiter euch zusammenruft,\r\nbenutze den Marker, melde dich bereit\r\nund warte am Treffpunkt.</COL>\r\nAuch manche Türen haben diese Funktion.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step266.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_266.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_435",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《侵食状態異常》</COL>を与える敵が現れるようになりました\r\n侵食状態異常にかかると\r\n時間と共に体力が減少し動きも遅くなっていき\r\nやがて死に至ります\r\n侵食魔が放出する《侵食胞子》を浴びると\r\n侵食状態異常値が蓄積していくので\r\n接近し続けないよう注意しましょう",
+      "source_en": "Enemies that give <COL ffdc78>Corruption status\r\nabnormality</COL> have started to appear.\r\nWhen affected by the Corruption status\r\nabnormality, your health gradually decreases over\r\ntime, and your movements become slower, eventually\r\nleading to death.\r\nWhen you are exposed to the <COL ffdc78>\r\nCorruption Spores</COL> released by\r\nCorruption monsters, the Corruption status\r\nabnormality value accumulates, so be careful not\r\nto keep approaching them.",
+      "text": "Manche Gegner können <COL ffdc78>Befall</COL>\r\nverursachen. Befallene Erweckte\r\nverlieren nach und nach Lebenspunkte\r\nund werden langsamer. Der Befall\r\nkann tödlich enden.\r\nSporen der Gegner lassen den Befall\r\nanwachsen. Halte Abstand zu ihnen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_445",
+      "read_index": "1",
+      "source_jp": "また、侵食胞子を放出していない侵食魔に\r\n侵食胞子が触れると、触れた対象に胞子が伝染し\r\n胞子を振りまくように変異します\r\n敵がどのような状態かを把握し\r\n倒す順番を考えて戦いましょう",
+      "source_en": "Furthermore, when the Corruption-infected\r\nmonster that has not released its Corruption\r\nspores comes into contact with the spores, it\r\nmutates and spreads the spores.\r\nAssess the condition of the enemy and\r\nconsider the order in which to defeat them.",
+      "text": "Treffen Sporen einen Befallenen,\r\nder noch keine abgibt, verändert er\r\nsich und wird zur Sporenquelle.\r\nAchte darauf, wer schon Sporen abgibt.\r\nEntscheide danach, wen du zuerst\r\nbekämpfst."
+    },
+    {
+      "key": "TUTORIAL_STEP_469",
+      "read_index": "2",
+      "source_jp": "侵食状態異常は<COL ffdc78>《抗侵薬》</COL>によって\r\n発病しにくくすることができるほか\r\n<COL ffdc78>《侵食治療薬》</COL>の使用や\r\n<COL ffdc78>仲間の救済行動</COL>によって\r\n回復することが可能です\r\n立ち止まっている時に\r\n味方にタッチをしてもらうことで\r\n救済行動を受けることができます",
+      "source_en": "Abnormal corruption states can be prevented by\r\nusing <COL ffdc78>Corruption Preventative</COL>.\r\nIt is also possible to recover by using <COL ffdc78>\r\nCorruption Cure</COL> or through the <COL ffdc78>\r\nrelief actions of allies</COL>.\r\nWhen standing still, you can receive relief\r\nactions by having your allies touch you.",
+      "text": "<COL ffdc78>Befallsschutz</COL> beugt dem Befall vor. Mit einem\r\n<COL ffdc78>Befallsheilmittel</COL> kannst du dich heilen.\r\nOder du lässt dir von einem\r\n<COL ffdc78>Gruppenmitglied helfen</COL>.\r\nBleib dafür stehen und lass dich von\r\neinem Verbündeten berühren."
+    },
+    {
+      "key": "TUTORIAL_STEP_470",
+      "read_index": "3",
+      "source_jp": "ヒーラー職はタッチでの侵食回復スピードが\r\n早い特性を持っています\r\n仲間が侵食状態異常を発症していたら\r\n積極的に回復して助け合いましょう",
+      "source_en": "Healers have the trait of fast recovery speed\r\nfor corruption through touch.\r\nIf your allies are afflicted with the corruption\r\nstatus ailment, actively heal them\r\nand support each other.",
+      "text": "Heiler können Befall durch Berührung\r\nschneller lindern.\r\nBemerkst du Befall bei einem\r\nGruppenmitglied, hilf ihm."
+    }
+  ]
+}

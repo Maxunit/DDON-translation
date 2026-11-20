@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step359.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_359.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_625",
+      "read_index": "0",
+      "source_jp": "クラフトルームにある<COL ffdc78>カスタムメイド工房</COL>は\r\n武具の性能をカスタムできる施設です\r\nこの施設では、クラフト生産やコンテンツの報酬で\r\n手に入れた武器や防具の\r\n<COL ffdc78>さらなる能力</COL>を引き出すことができます\r\nカスタムメイドできる条件が揃った武具を\r\n手に入れたら訪れてみましょう",
+      "source_en": "In the Workshop, there is a <COL ffdc78>Custom-Made Workshop</COL>\r\nwhere you can customize the\r\nperformance of equipment.\r\nAt this facility, you can bring out the <COL ffdc78>further\r\nabilities</COL> of weapons and armor that you have\r\nobtained through crafting and content.\r\nWhen you have acquired equipment that\r\nmeets the conditions for\r\ncustomization, visit the facility.",
+      "text": "Die <COL ffdc78>Spezialwerkstatt</COL> findest du\nin der Werkstatt. Dort kannst du\nbei geeigneter Ausrüstung <COL ffdc78>zusätzliche\nFähigkeiten freischalten</COL>.\nBring passende Ausrüstung vorbei.\nDu erhältst sie durch Handwerk oder\nals Belohnung für Spielinhalte."
+    },
+    {
+      "key": "TUTORIAL_STEP_626",
+      "read_index": "1",
+      "source_jp": "カスタムメイド工房では、以下のことができます\r\n＜武具のカスタムメイド＞\r\n必要な素材を用意し、費用を支払うことで\r\n<COL ffdc78>★４まで強化した武器や防具を\r\nリミット解除／極限合成</COL>させ、\r\n付加能力を引き出し、性能を向上させます\r\n＜武具の資源分解＞\r\n不要になった武器や防具から\r\n資源となる素材を抽出できます",
+      "source_en": "<COL ffdc78>Custom-made Arms</COL>\r\nBy preparing the necessary materials and paying\r\nthe fee, weapons and armor enhanced up to ★4 can\r\nundergo <COL ffdc78>Limit Breaks/Ultimate Synthesis</COL>, adding\r\nadditional abilities and improving performance.\r\n<COL ffdc78>Weapon/Armor Dismantling</COL>\r\nExtract materials and resources from no\r\nlonger needed equipment.",
+      "text": "Mit Material und Riftkristallen kannst\ndu passende Waffen und Rüstungen\nmit vier Sternen weiter verbessern.\nWähle „Limit aufheben“ oder\n„Ultimative Synthese“.\n<COL ffdc78>Material lässt sich auch aus ungenutzten\nWaffen und Rüstungen gewinnen.</COL>",
+      "tag_source": "source_jp"
+    }
+  ]
+}

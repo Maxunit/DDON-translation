@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\gacha_res.gmd",
+  "arc_path": "\\ui\\uGUIBoxGachaInfo.arc",
+  "entries": [
+    {
+      "key": "gacha_msg_title_j",
+      "read_index": "36",
+      "source_jp": "トレジャーズロット",
+      "source_en": "Treasure Lot",
+      "text": "Schatzlotterie"
+    },
+    {
+      "key": "gacha_msg_title_e",
+      "read_index": "37",
+      "source_jp": "Treasure Lot",
+      "source_en": "Treasure Lot",
+      "text": "Schatzlotterie"
+    },
+    {
+      "key": "gacha_msg_title_box_e",
+      "read_index": "54",
+      "source_jp": "Box Treasure Lot",
+      "source_en": "Box Treasure Lot",
+      "text": "Kistenlotterie"
+    },
+    {
+      "key": "gacha_msg_title_box_j",
+      "read_index": "55",
+      "source_jp": "ボックストレジャーズロット",
+      "source_en": "Box Treasure Lot",
+      "text": "Kistenlotterie"
+    }
+  ]
+}

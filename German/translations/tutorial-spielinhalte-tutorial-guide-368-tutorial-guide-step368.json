@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step368.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_368.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_638",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>クラン拠点に家具を設置できるようになりました！</COL>\r\n\r\nイベントなどで入手したクラン拠点専用家具は\r\nクラン執務官に話しかけて\r\nCPを消費することで設置できるようになります\r\n\r\nクラン拠点を華やかに彩り、思い出を作りましょう",
+      "source_en": "<COL 78f5ff>Furniture can now be installed in clan bases!</COL>\r\nFurniture obtained from events can be installed\r\nby talking to the Clan Steward and spending CP.\r\nMake your clan base more colorful and memorable!",
+      "text": "<COL 78f5ff>Du kannst jetzt Möbel im\nClan-Stützpunkt aufstellen!</COL>\nPassende Möbel gibt es zum Beispiel\nbei Veranstaltungen. Sprich mit dem\nClan-Verwalter und bezahle mit\nClan-Punkten, um sie aufzustellen."
+    }
+  ]
+}

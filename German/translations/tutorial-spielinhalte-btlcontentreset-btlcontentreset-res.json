@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\BtlContentReset_res.gmd",
+  "arc_path": "\\ui\\BtlContentReset.arc",
+  "entries": [
+    {
+      "key": "BTL_CONTENT_RESET_REPORT",
+      "read_index": "0",
+      "source_jp": "探索結果の報告",
+      "source_en": "Report Search Results",
+      "text": "Erkundung melden"
+    },
+    {
+      "key": "BTL_CONTENT_RESET_RESET_PROGRESS",
+      "read_index": "1",
+      "source_jp": "進行のリセット",
+      "source_en": "Reset Progress",
+      "text": "Fortschritt zurücksetzen"
+    },
+    {
+      "key": "BTL_CONTENT_RESET_RESET_PROGRESS_REWARD",
+      "read_index": "2",
+      "source_jp": "進行と報酬のリセット",
+      "source_en": "Reset Rewards and Progress",
+      "text": "Fortschritt und Beute zurücksetzen"
+    },
+    {
+      "key": "BTL_CONTENT_RESET_NO_ENOUGH_GP",
+      "read_index": "8",
+      "source_jp": "黄金石が不足しています\r\n（所持数：%d）",
+      "source_en": "Not enough Golden Gemstones.\r\n(Number in possession: %d)",
+      "text": "Du hast zu wenige Goldsteine.\n(Im Besitz: %d)"
+    },
+    {
+      "key": "BTL_CONTENT_RESET_ERR_NO_REWARD",
+      "read_index": "9",
+      "source_jp": "報酬がありません",
+      "source_en": "No Rewards",
+      "text": "Keine Belohnungen"
+    },
+    {
+      "key": "BTL_CONTENT_RESET_ERR_NO_REPORT",
+      "read_index": "10",
+      "source_jp": "探索結果の報告を確認してください",
+      "source_en": "Please review the report search results.",
+      "text": "Melde zuerst deine Erkundung."
+    },
+    {
+      "key": "BTL_CONTENT_RESET_ERR_NO_PROGRESS",
+      "read_index": "11",
+      "source_jp": "進行中のデータが存在しません",
+      "source_en": "No data in progress exists",
+      "text": "Kein gespeicherter Fortschritt."
+    },
+    {
+      "key": "BTL_CONTENT_RESET_SUCCESS_REWARD",
+      "read_index": "12",
+      "source_jp": "報酬を受け取りました",
+      "source_en": "Rewards have been received.",
+      "text": "Belohnungen abgeholt."
+    },
+    {
+      "key": "BTL_CONTENT_RESET_SUCCESS_PROGRESS",
+      "read_index": "13",
+      "source_jp": "進行のリセットが完了しました",
+      "source_en": "Reset Progress has been completed",
+      "text": "Fortschritt zurückgesetzt."
+    },
+    {
+      "key": "BTL_CONTENT_RESET_SUCCESS_PROGRESS_REWARD",
+      "read_index": "14",
+      "source_jp": "進行と報酬のリセットが完了しました",
+      "source_en": "Reset Rewards and Progress has been completed",
+      "text": "Fortschritt und Beute zurückgesetzt."
+    },
+    {
+      "key": "BTL_CONTENT_RESET_SELECT_TITLE",
+      "read_index": "15",
+      "source_jp": "選択してください",
+      "source_en": "Please select",
+      "text": "Bitte auswählen"
+    }
+  ]
+}

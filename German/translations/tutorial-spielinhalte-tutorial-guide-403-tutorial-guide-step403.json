@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step403.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_403.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_748",
+      "read_index": "0",
+      "source_jp": "黒呪の迷宮は、最深部まで到達しても\r\n進行をリセットすることで\r\nふたたび探索できるようになります\r\nリセットを行うと\r\n<COL ffdc78>その際に所持しているアイテムは破棄されるため</COL>\r\n必要なアイテムは《黒呪アイテムの持ち帰り》から\r\nレスタニアに持ち帰りましょう",
+      "source_en": "Even when you reach the end of Bitterblack Maze\r\nyou can reset your progress and explore again.\r\nWhen you reset <COL ffdc78>your items are lost</COL>, so bring\r\nimportant items back through\r\n\"Bitterblack Item Takeaway\".",
+      "text": "Auch nach der tiefsten Ebene kannst du\ndas Labyrinth erneut erkunden. Setze\nbei Luca den Fortschritt zurück.\n<COL ffdc78>Dabei geht dein Inventar im Labyrinth\nverloren.</COL> Nimm wichtige Gegenstände\nvorher über „Beute mitnehmen“ mit."
+    },
+    {
+      "key": "TUTORIAL_STEP_792",
+      "read_index": "1",
+      "source_jp": "リセットには下記の２種類があります\r\n<COL ffdc78>①《進行のリセット》</COL>\r\n　レベル１の状態に戻り、最初から遊べますが\r\n　宝箱などの報酬はリセットされません\r\n　他のプレイヤーと最初から遊ぶ場合に活用します\r\n<COL ffdc78>②《進行と報酬のリセット》</COL>\r\n　特別な宝箱やクリア報酬を再び入手可能です\r\n　黒呪の迷宮を再周回するために必ず必要となります",
+      "source_en": "There are two different types of resets:\r\n<COL ffdc78>①\"Reset Progress\"</COL>\r\nReturn to level 1 and play again from the start.\r\nChests and rewards are not reset.\r\nUse when you want to play with other\r\nplayers from the start.\r\n<COL ffdc78>\"Reset Rewards and Progress\"</COL>\r\nChests and rewards are available again.\r\nNecessary to explore Bitterblack Maze again.",
+      "text": "Du kannst auf zwei Arten zurücksetzen.\n<COL ffdc78>„Fortschritt zurücksetzen“</COL>\nBeginne auf Stufe 1, etwa wenn du mit\nanderen von vorn spielen willst.\nTruhen und Belohnungen bleiben erhalten.\n<COL ffdc78>„Fortschritt und Beute zurücksetzen“</COL>\nSo kannst du besondere Truhen öffnen\nund Abschlussbelohnungen erneut erhalten."
+    }
+  ]
+}

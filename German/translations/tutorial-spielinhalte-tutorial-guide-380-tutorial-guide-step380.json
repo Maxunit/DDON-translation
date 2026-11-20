@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step380.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_380.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_715",
+      "read_index": "0",
+      "source_jp": "各防衛区画の奥には門があり\r\n序盤は<COL ffdc78>かなり強力な敵と設備</COL>で守りを固めています\r\n\r\nしかし、同じ防衛区画内の\r\n他の施設に与えた損害によって\r\n<COL ffdc78>その戦力は段階的に弱体化</COL>していきます\r\n\r\n「敵が強い」と感じたら、無理せず\r\n<COL ffdc78>他の施設の攻略を進めて損害度を蓄積</COL>させ\r\n戦力を削いでいきましょう",
+      "source_en": "At the back of each defense zone is a gate.\r\nIn the beginning, they will have fortified the\r\ndefense with quite <COL ffdc78>powerful enemies\r\nand equipment.</COL>\r\n\r\nHowever, the <COL ffdc78>strength gradually\r\nweakens</COL> due to the damage inflicted on other\r\nfacilities within the same defense zone.\r\nIf you feel that the enemy is too strong, do not\r\nforce it.\r\n\r\n<COL ffdc78>Advance the capture of other\r\nfacilities within the same zone and accumulate\r\ndamage,</COL>\r\nGradually weakening their strength.",
+      "text": "Am Ende jedes Verteidigungsabschnitts\nliegt ein Tor. Zunächst schützen es\n<COL ffdc78>starke Gegner und Anlagen</COL>.\nBeschädigst du andere Einrichtungen\nim selben Abschnitt, <COL ffdc78>wird die Wache\nSchritt für Schritt schwächer</COL>.\nSind die Gegner zu stark, <COL ffdc78>richte erst\nmehr Schaden an anderen Anlagen an</COL>.\nDanach lässt sich das Tor eher nehmen."
+    },
+    {
+      "key": "TUTORIAL_STEP_716",
+      "read_index": "1",
+      "source_jp": "＜門の攻略の失敗＞\r\n\r\n戦闘の最中に\r\n<COL ffdc78>ソネルの《ごきげんゲージ》が０</COL>になると\r\n自動的に展望城へ撤退しますが、撤退しても\r\n<COL ffdc78>他の施設に与えた損害は無駄にはなりません</COL>\r\n\r\nうまく行かなかったとしても、任務での積み重ねは\r\n<COL ffdc78>いつか必ず門の攻略に繋がる</COL>ので\r\n諦めずにがんばりましょう！",
+      "source_en": "[Gate Attack Failure] During combat, if <COL ffdc78>Sonel's\r\nMood Gauge reaches 0</COL>, he will automatically\r\nretreat to Lookout Castle.\r\nHowever, even if he retreats, the <COL ffdc78>\r\ndamage inflicted on other facilities\r\nwill not be in vain.</COL>\r\nEven if things don't go well, the accumulation\r\nof missions <COL ffdc78>will eventually lead to the\r\nconquest of the gate.</COL>\r\nDo your best without giving up!",
+      "text": "Ist <COL ffdc78>Sonels Stimmungsanzeige im\nKampf leer</COL>, zieht ihr euch automatisch\nzur Burg Weitblick zurück.\n<COL ffdc78>Schäden an anderen Anlagen bleiben\nauch nach dem Rückzug bestehen.</COL>\nJeder weitere Auftrag bringt dich\n<COL ffdc78>der Einnahme des Tors näher</COL>."
+    }
+  ]
+}

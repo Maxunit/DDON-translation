@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\common_message.gmd",
+  "arc_path": "\\systemFlow.arc",
+  "entries": [
+    {
+      "key": "common_chat_ch_general",
+      "read_index": "91",
+      "source_jp": "General",
+      "source_en": "General",
+      "text": "Allgemein"
+    },
+    {
+      "key": "common_chat_ch_party",
+      "read_index": "92",
+      "source_jp": "Party",
+      "source_en": "Party",
+      "text": "Gruppe"
+    },
+    {
+      "key": "common_unitname_silverticket",
+      "read_index": "93",
+      "source_jp": "シルバーチケット",
+      "source_en": "Silver Ticket",
+      "text": "Silberticket"
+    },
+    {
+      "key": "common_custom_skill_pallet_sub",
+      "read_index": "111",
+      "source_jp": "パレット サブ",
+      "source_en": "Sub Palette",
+      "text": "Zweitsatz"
+    },
+    {
+      "key": "common_custom_skill_pallet_main",
+      "read_index": "112",
+      "source_jp": "パレット メイン",
+      "source_en": "Main Palette",
+      "text": "Hauptsatz"
+    },
+    {
+      "key": "common_unitname_cp",
+      "read_index": "121",
+      "source_jp": "クランポイント",
+      "source_en": "Clan Point",
+      "text": "Clan-Punkte"
+    },
+    {
+      "key": "common_unitname_hb",
+      "read_index": "130",
+      "source_jp": "ハイオーブ",
+      "source_en": "High Orbs",
+      "text": "Edle Kugeln"
+    },
+    {
+      "key": "common_partyboard_type01",
+      "read_index": "131",
+      "source_jp": "パーティー募集掲示板",
+      "source_en": "Party Recruitment Board",
+      "text": "Gruppenboard"
+    },
+    {
+      "key": "common_unitname_dp",
+      "read_index": "142",
+      "source_jp": "ドミニオンポイント",
+      "source_en": "Dominion Point",
+      "text": "Herrschaftspunkte"
+    },
+    {
+      "key": "common_unit_ptp",
+      "read_index": "143",
+      "source_jp": "育成EXP",
+      "source_en": "Training EXP",
+      "text": "Trainings-XP"
+    },
+    {
+      "key": "common_unit_pap",
+      "read_index": "144",
+      "source_jp": "対話回数",
+      "source_en": "Dialogue Count",
+      "text": "Verfügbare Gespräche"
+    },
+    {
+      "key": "common_unitname_dragon_mark_01",
+      "read_index": "154",
+      "source_jp": "金竜の印",
+      "source_en": "Gold Dragon Mark",
+      "text": "Golddrachenmarke"
+    },
+    {
+      "key": "common_unitname_dragon_mark_02",
+      "read_index": "155",
+      "source_jp": "銀竜の印",
+      "source_en": "Silver Dragon Mark",
+      "text": "Silberdrachenmarke"
+    },
+    {
+      "key": "common_unitname_dragon_mark_03",
+      "read_index": "156",
+      "source_jp": "赤竜の印",
+      "source_en": "Red Dragon Mark",
+      "text": "Rotdrachenmarke"
+    },
+    {
+      "key": "common_unitname_entrance_right",
+      "read_index": "157",
+      "source_jp": "黒呪の迷宮リセット券",
+      "source_en": "Bitterblack Maze Reset Ticket",
+      "text": "Labyrinth-Reset-Ticket"
+    },
+    {
+      "key": "common_draskill_1",
+      "read_index": "168",
+      "source_jp": "理力",
+      "source_en": "Force",
+      "text": "Willenskraft"
+    },
+    {
+      "key": "common_draskill_2",
+      "read_index": "169",
+      "source_jp": "精霊竜",
+      "source_en": "Spirit Dragon",
+      "text": "Geisterdrache"
+    },
+    {
+      "key": "common_draskill_3",
+      "read_index": "170",
+      "source_jp": "火竜",
+      "source_en": "Fire Dragon",
+      "text": "Feuerdrache"
+    },
+    {
+      "key": "common_draskill_4",
+      "read_index": "171",
+      "source_jp": "白竜",
+      "source_en": "White Dragon",
+      "text": "Weißer Drache"
+    },
+    {
+      "key": "common_draskill_5",
+      "read_index": "172",
+      "source_jp": "黄金竜",
+      "source_en": "Golden Dragon",
+      "text": "Golddrache"
+    },
+    {
+      "key": "common_msg_en_dragonskills",
+      "read_index": "187",
+      "source_jp": "Dragon Ability Points",
+      "source_en": "Dragon Ability Points",
+      "text": "Punkte für Drachenbegabungen"
+    },
+    {
+      "key": "common_draskill_6",
+      "read_index": "188",
+      "source_jp": "対黒竜",
+      "source_en": "Black Dragon",
+      "text": "Schwarzer Drache"
+    },
+    {
+      "key": "common_msg_jp_dragonskills",
+      "read_index": "189",
+      "source_jp": "ドラゴンアビリティ",
+      "source_en": "Dragon Abilities",
+      "text": "Drachenbegabungen"
+    }
+  ]
+}

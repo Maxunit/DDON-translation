@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step238.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_238.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_380",
+      "read_index": "1",
+      "source_jp": "各エリアのランクと現在のポイントは\r\n【<KC UI_GAME_MENU>】ゲームメニュー\r\n《ワールド》の<COL ffdc78>《エリアリスト》</COL>から確認できます\r\nポイントが溜まったらエリアマスターの元を\r\n訪れ、《エリア情報》を選びましょう\r\nそうすることでエリアランクが上がります\r\n各地のクエストをこなしてエリアランクを上げ\r\n冒険の幅を増やしましょう",
+      "source_en": "The rank and current points of each area can be\r\nchecked in the [<KC UI_GAME_MENU>] Game Menu.\r\nYou can find them in the <COL ffdc78>Area List</COL> in the\r\n<COL ffdc78>World</COL> section.\r\nOnce you have accumulated enough points, visit\r\nthe Area Master and choose <COL ffdc78>Area Information</COL>.\r\nThis will increase your area rank.\r\nComplete quests in various areas to increase\r\nyour area rank and expand your adventure.",
+      "text": "Öffne mit <KC UI_GAME_MENU> das Spielmenü.\nDie <COL ffdc78>„Gebietsliste“</COL> unter <COL ffdc78>„Welt“</COL> zeigt\nden Rang und die Punkte jedes Gebiets.\nMit genug Punkten kannst du beim\nGebietsmeister unter <COL ffdc78>„Gebietsinformation“</COL>\nim Rang aufsteigen. Quests schalten\nneue Orte und Gegner frei."
+    }
+  ]
+}

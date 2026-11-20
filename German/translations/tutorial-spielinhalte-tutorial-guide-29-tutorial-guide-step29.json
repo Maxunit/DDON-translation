@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step29.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_29.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_145",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《ショートカット》</COL>はさまざまな機能を\r\n楽なボタンで呼び出せる便利な短縮操作です\r\n回復アイテム、チャット定型文、メニューや\r\nポーン命令など、とっさの使用が\r\n生死を分けることもあります\r\nすぐ使いたいアイテムや機能は\r\nあらかじめ登録しておきましょう",
+      "source_en": "<COL ffdc78>\"Shortcuts\"</COL> are a convenient way to execute game\r\nfunctions with a simple button combination.\r\nThe use of healing items, chat messages,\r\nmenu/pawn commands and more in an instant can be\r\nthe difference between life and death.\r\nIf you have an item or feature you might want to\r\nuse in a hurry, make sure to\r\nregister it in advance.",
+      "text": "Mit <COL ffdc78>Schnellzugriffen</COL> rufst du Menüs,\nHeilmittel, Textbausteine und\nVasallenbefehle schnell auf.\nGerade im Kampf kann ein Heilmittel\nzur rechten Zeit dein Leben retten.\nBelege die Plätze vor dem Aufbruch."
+    },
+    {
+      "key": "TUTORIAL_STEP_408",
+      "read_index": "1",
+      "source_jp": "＜登録方法：マルチショートカット＞\r\n【<KC UI_GAME_MENU>】ゲームメニューから、登録したい\r\nメニューを選択\r\nアイテムの場合は《アイテムバッグ》の\r\n<COL ffdc78>消費アイテム</COL>を選択\r\n<PADM>　【<KC UI_SC_MULTI>】を押して【 <KC UI_SC_MULTI_RIGHT>／<KC UI_SC_MULTI_DOWN>／<KC UI_SC_MULTI_LEFT>／<KC UI_SC_MULTI_UP> 】<KEYM>　【<KC UI_MSC1> ～ <KC UI_MSC12>】任意に割り当て</KEYM>\r\n<PADM>　　　　　　※任意に割り当て\r\n<PADM>　【<KC UI_SC_MULTI_PAGE_L>／<KC UI_SC_MULTI_PAGE_R>】セット切替（３セットまで可能）</PADM>",
+      "source_en": "Registration Method - Multi-Shortcut:\r\nFrom the [<KC UI_GAME_MENU>] Game Menu, highlight\r\nthe menu option.\r\nIn the case of an item, highlight a <COL ffdc78>\r\nConsumable</COL>\r\nfrom the \"Item Bag\".\r\n<PADM> Hold [<KC UI_SC_MULTI>] then press [<KC UI_SC_MULTI_RIGHT>\r\n/<KC UI_SC_MULTI_DOWN>/<KC UI_SC_MULTI_LEFT>\r\n/<KC UI_SC_MULTI_UP>] <KEYM> [<KC UI_MSC1>\r\n ～ <KC UI_MSC12>] assign to your\r\nchoice</KEYM>\r\n<PADM>　　　　　　*assign to your choice\r\n<PADM> [<KC UI_SC_MULTI_PAGE_L>/<KC UI_SC_MULTI_PAGE_R>] Change set (Up to 3 sets\r\nallowed)</PADM>",
+      "text": "Mehrfach-Schnellzugriff\nÖffne mit [<KC UI_GAME_MENU>] das Spielmenü.\nWähle einen Menüpunkt oder einen\n<COL ffdc78>Verbrauchsgegenstand</COL> aus der Tasche.\n<PADM>Halte [<KC UI_SC_MULTI>] und wähle einen Platz\n[<KC UI_SC_MULTI_RIGHT>/<KC UI_SC_MULTI_DOWN>/<KC UI_SC_MULTI_LEFT>/<KC UI_SC_MULTI_UP>]<KEYM>\nWeise [<KC UI_MSC1>] bis [<KC UI_MSC12>] zu.</KEYM><PADM>\nBelege den gewünschten Platz.<PADM>\nMit [<KC UI_SC_MULTI_PAGE_L>/<KC UI_SC_MULTI_PAGE_R>] wechselst du\nzwischen bis zu drei Sätzen.</PADM>"
+    },
+    {
+      "key": "TUTORIAL_STEP_409",
+      "read_index": "2",
+      "source_jp": "＜登録方法：簡易コミュニケーション＞\r\n【<KC UI_GAME_MENU>】ゲームメニューの\r\n《コミュニケーション》の《定型文》《エモート》や\r\n《キャラクター》の《ポーン命令》で登録項目を選択\r\n<PADM>　【<KC UI_SC_COMMU>】を押して【 <KC UI_SC_COMMU1>／<KC UI_SC_COMMU2>／<KC UI_SC_COMMU3>／<KC UI_SC_COMMU4> 】<KEYM>　【<KC UI_MSC1> ～ <KC UI_MSC8>】任意に割り当て</KEYM>\r\n<PADM>　　　　　　　　【 <KC UI_SC_COMMU5>／<KC UI_SC_COMMU6>／<KC UI_SC_COMMU7>／<KC UI_SC_COMMU8> 】\r\n　　　　　　※任意に割り当て</PADM><KEYM>　　　※呼び出し時は【<KC UI_SC_COMMU>】で登録ウィンドウ切替</KEYM>\r\n<PADM>　【<KC UI_SC_COMMU_PAGE_L>／<KC UI_SC_COMMU_PAGE_R>】<KEYM>　【<KC UI_MSC9>／<KC UI_MSC10>】</KEYM>セット切替（３セットまで可能）",
+      "source_en": "Registration Method - Quick Communication:\r\nFrom the [<KC UI_GAME_MENU>] Game Menu, in\r\n\"Communication\"->\"Phrases\" or \"Emotes\"\r\nor in \"Character\"->\"Pawn Order\", highlight\r\nan entry to register.\r\n<PADM> Hold [<KC UI_SC_COMMU>] then press [<KC UI_SC_COMMU1>\r\n/<KC UI_SC_COMMU2>/<KC UI_SC_COMMU3>\r\n/<KC UI_SC_COMMU4>] <KEYM> [<KC UI_MSC1>\r\n ～ <KC UI_MSC8>] assign to your\r\nchoice</KEYM>\r\n<PADM> [<KC UI_SC_COMMU5>/<KC UI_SC_COMMU6>/<KC UI_SC_COMMU7>\r\n/<KC UI_SC_COMMU8>]\r\n*assign to your choice</PADM><KEYM> *press [<KC UI_SC_COMMU>] to toggle the quick chat\r\nwindow</KEYM>\r\n<PADM> [<KC UI_SC_COMMU_PAGE_L>/<KC UI_SC_COMMU_PAGE_R>] <KEYM> [<KC UI_MSC9>/<KC UI_MSC10>] </KEYM> Change set (Up to 3 sets\r\nallowed)",
+      "text": "Schnellkommunikation\nÖffne mit [<KC UI_GAME_MENU>] das Spielmenü.\nWähle einen Textbaustein, ein Emote\noder einen Eintrag in „Vasallenbefehle“.\n<PADM>Halte [<KC UI_SC_COMMU>] und wähle einen Platz\n[<KC UI_SC_COMMU1>/<KC UI_SC_COMMU2>/<KC UI_SC_COMMU3>/<KC UI_SC_COMMU4>]<KEYM>\nWeise [<KC UI_MSC1>] bis [<KC UI_MSC8>] zu.</KEYM><PADM>\n[<KC UI_SC_COMMU5>/<KC UI_SC_COMMU6>/<KC UI_SC_COMMU7>/<KC UI_SC_COMMU8>]</PADM><KEYM>\nMit [<KC UI_SC_COMMU>] wechselst du das Fenster.</KEYM>\n<PADM>[<KC UI_SC_COMMU_PAGE_L>/<KC UI_SC_COMMU_PAGE_R>]<KEYM>[<KC UI_MSC9>/<KC UI_MSC10>]</KEYM> Satz wechseln\nBis zu drei Sätze sind möglich."
+    }
+  ]
+}

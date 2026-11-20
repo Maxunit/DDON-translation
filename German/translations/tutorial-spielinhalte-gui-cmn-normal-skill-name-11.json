@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_11.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_11_165",
+      "read_index": "0",
+      "source_jp": "四連斬",
+      "source_en": "Quadruple Slash",
+      "text": "Vierfachhieb"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_11_167",
+      "read_index": "4",
+      "source_jp": "ルイン・ショット",
+      "source_en": "Ruin Shot",
+      "text": "Verderbensschuss"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_11_168",
+      "read_index": "7",
+      "source_jp": "ウィル・マーカー",
+      "source_en": "Will Marker",
+      "text": "Willensmal"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_11_172",
+      "read_index": "8",
+      "source_jp": "バック・リープ",
+      "source_en": "Back Leap",
+      "text": "Rücksprung"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_11_170",
+      "read_index": "9",
+      "source_jp": "リターン・シフト",
+      "source_en": "Return Shift",
+      "text": "Rückkehr"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_11_173",
+      "read_index": "10",
+      "source_jp": "ルイン・ブレード",
+      "source_en": "Ruin Blade",
+      "text": "Verderbensklinge"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\common\\condition_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "CONDITION_NAME_35",
+      "read_index": "25",
+      "source_jp": "弱化",
+      "source_en": "Weakened",
+      "text": "Geschwächt"
+    },
+    {
+      "key": "CONDITION_NAME_70",
+      "read_index": "58",
+      "source_jp": "闇炎",
+      "source_en": "Dark Flame",
+      "text": "Dunkelflamme"
+    }
+  ]
+}

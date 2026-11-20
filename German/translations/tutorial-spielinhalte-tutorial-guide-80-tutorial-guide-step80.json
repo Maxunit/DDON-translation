@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step80.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_80.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_127",
+      "read_index": "0",
+      "source_jp": "エレメントアーチャ―は、魔道弓と魔矢により\r\n攻撃と味方支援両方を行い、さらには一度に\r\n複数の相手を狙える神秘の狙撃手です\r\n＜基本操作／攻撃＞\r\n<PADM>　【<KC WEAPON_SUB>】闘波の構え（攻撃矢構え）<KEYM>　【<KC HOLD_BOW>】闘波の構え（攻撃矢構え）</KEYM>\r\n<PADM>　【<KC WEAPON_SUB>】＋【右スティック】<KEYM>　【<KC HOLD_BOW>】＋【<ICON MOUSE>移動】</KEYM>\r\n　　　　　　闘波の魔眼（複数敵ロックオン）\r\n　構えながら【<KC SHOOT>】闘波の矢\r\n　【<KC ATTACK1>】前蹴り",
+      "source_en": "The Element Archer uses a magickal bow and magick\r\narrows to perform both attacks and support for\r\nallies.\r\nThey are a mystic sniper who can target multiple\r\nopponents at once.\r\n[Basic Operations]\r\n<PADM> Press [<KC WEAPON_SUB>] for Seeker Stance\r\n(Attack Arrow Stance).\r\n<KEYM>Hold [<KC HOLD_BOW>] for Seeker Stance\r\n(Attack Arrow Stance)</KEYM>\r\n<PADM>Hold [<KC WEAPON_SUB>] + move right stick\r\n<KEYM>Hold [<KC HOLD_BOW>] + <ICON MOUSE>move\r\nusing the mouse</KEYM>\r\nMagick Eye: Seeker (Locks onto multiple enemies)\r\nWhile in stance, press [<KC SHOOT>] to shoot\r\nSeeker Arrow.\r\nPress [<KC ATTACK1>] for a Front Kick.",
+      "text": "Mit dem Magiebogen greifst du an und\nunterstützt Verbündete. Du kannst auch\nmehrere Ziele gleichzeitig anvisieren.\n<PADM>[<KC WEAPON_SUB>] Angriffshaltung<KEYM>[<KC HOLD_BOW>] Angriffshaltung</KEYM>\n<PADM>[<KC WEAPON_SUB>] + rechter Stick<KEYM>[<KC HOLD_BOW>] + [<ICON MOUSE>] bewegen</KEYM>\nAngriffsblick: Mehrere Gegner anvisieren\n[<KC SHOOT>] Beim Zielen Angriffspfeil schießen\n[<KC ATTACK1>] Tritt nach vorn"
+    }
+  ]
+}

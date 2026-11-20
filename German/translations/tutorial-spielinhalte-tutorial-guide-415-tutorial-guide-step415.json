@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step415.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_415.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_765",
+      "read_index": "0",
+      "source_jp": "王都メガドでのサブストーリーは\r\n以下の3つのパートで構成されており\r\nそれぞれの任務成果が相互に影響します\r\n①尋問\r\n②潜入調査\r\n③諜報活動\r\nこれらの任務を繰り返し、暗躍者メフィスと共に\r\n王都に潜む闇に迫っていきましょう",
+      "source_en": "The sub-stories in Megado City are composed of\r\nthree parts: ① Interrogation ② Infiltration\r\nInvestigation ③ Espionage Repeat these missions\r\nand approach the darkness lurking in the Royal\r\nCapital together with the\r\nshadowy figure, Mephis.",
+      "text": "In der Königsstadt Megado bestehen\ndie Geheimaufträge aus drei Teilen.\n1. Verhör\n2. Verdeckter Einsatz\n3. Spurensuche\nDeine Ergebnisse beeinflussen die\nanderen Einsätze. Wiederhole sie, um\nmit Mephis die Verschwörung aufzudecken."
+    },
+    {
+      "key": "TUTORIAL_STEP_768",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>※注意\r\nこのサブストーリー内では\r\nリム転移を使用することができません\r\nリム転移を使用した場合、\r\n＜失敗になり進行が破棄される＞ または ＜強制クリア＞\r\nとなるので注意してください</COL>",
+      "source_en": "<COL ffdc78>※Attention In this substory, you\r\ncannot use Rift Teleport.\r\nIf you use Rift Teleport, it will result in\r\neither [Failure and progress will be discarded]\r\nor [Forced Clear], so please be wary.</COL>",
+      "text": "<COL ffdc78>Bleib während der Aufträge in Megado.\nMit einem Rift-Transport verlässt du\nden Einsatzbereich. Je nach Auftrag\nscheitert der Einsatz und du verlierst\nden Fortschritt, oder er endet vorzeitig\nund gilt als abgeschlossen.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_769",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>《尋問》</COL>について\r\n尋問とは、メフィスと共に\r\n情報を握った人物と対話することで\r\n核心に迫る情報を引き出していく任務です\r\n尋問には<COL ffdc78>《証拠》</COL>を必要とし、\r\nまた証拠は<COL ffdc78>《諜報活動》</COL>の中で入手できます\r\n<COL ffdc78>尋問の成果により\r\n《諜報活動》の内容に変化が起きることもあります</COL>",
+      "source_en": "About <COL ffdc78>[Interrogation]</COL>\r\nInterrogation is a mission to approach critical\r\ninformation by conversing with individuals who\r\nhold crucial information, along with Mephis.\r\nInterrogation requires <COL ffdc78>[evidence]</COL>, which can be\r\nobtained through <COL ffdc78>[Intelligence Assessment]</COL>.\r\n<COL ffdc78>The outcome of the interrogation can also result\r\nin changes to the content of\r\n[Intelligence Assessment]</COL>.",
+      "text": "Beim <COL ffdc78>Verhör</COL> befragst du mit Mephis\nLeute, die etwas wissen.\nSo entlockst du ihnen Informationen.\nDazu brauchst du <COL ffdc78>Beweise</COL>, die du\nbei der <COL ffdc78>Spurensuche</COL> sammelst.\n<COL ffdc78>Was du im Verhör erfährst, kann\nweitere Spuren für die Suche eröffnen.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_770",
+      "read_index": "3",
+      "source_jp": "<COL ffdc78>《潜入調査》</COL>について\r\n潜入調査とは、<NPC 681>侯爵の元で\r\n頼まれた任務をこなしながら\r\n<NPC 681>侯爵の行動や、尋問に使える情報を\r\n収集する任務です\r\n<COL ffdc78>潜入調査の成果により\r\n《諜報活動》の内容に変化が起きることもあります</COL>",
+      "source_en": "About <COL ffdc78>\"Undercover\" </COL>\r\nUndercover investigation refers to a mission\r\nwhere tasks assigned by Marquis <NPC 681> are\r\ncarried out while collecting information on\r\nMarquis <NPC 681>'s actions and information that\r\ncan be used for interrogation.\r\n<COL ffdc78>The results of the undercover investigation may\r\nalso bring changes to the content of\r\n\"Intelligence Assessment\".</COL>",
+      "text": "Beim <COL ffdc78>verdeckten Einsatz</COL> erledigst du\nAufträge für Markgraf <NPC 681>.\nBeobachte dabei, was Markgraf <NPC 681>\nsagt und tut. Halte nach Informationen\nfür das nächste Verhör Ausschau.\n<COL ffdc78>Deine Ergebnisse können beeinflussen,\nwelche Spuren du danach findest.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_779",
+      "read_index": "4",
+      "source_jp": "<COL ffdc78>《諜報活動》</COL>について\r\n諜報活動とは、\r\n夜のメガドをメフィスと共に自由に調査し\r\n尋問に使用する<COL ffdc78>《証拠》</COL>を集める任務です\r\n<COL ffdc78>この任務に限り\r\n同行するメフィスに話しかけることで\r\nいつでも終了することが可能です\r\n</COL>",
+      "source_en": "About <COL ffdc78>\"Intelligence Assessment\"</COL>\r\nIntelligence Assessment Investigate the Megado\r\nat night with Mephis freely to collect <COL ffdc78>\r\nEvidence </COL> for interrogation.\r\n<COL ffdc78>In this mission only, You can end it at any time\r\nby talking to Mephis</COL>",
+      "text": "Bei der <COL ffdc78>Spurensuche</COL> kannst du nachts\nfrei mit Mephis durch Megado streifen.\nSammle <COL ffdc78>Beweise</COL> für deine Verhöre.\n<COL ffdc78>Nur bei der Spurensuche kannst du den\nEinsatz jederzeit beenden. Sprich dazu\nmit Mephis.</COL>"
+    }
+  ]
+}

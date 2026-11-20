@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step437.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_437.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_839",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《ワイルドハント》</COL>は\r\n通常では存在しない強さや大きさの魔物の\r\n討伐依頼を受け、フィールドに出て\r\n探索・討伐するコンテンツです\r\n白竜神殿の宿場区にいる\r\nリサに話しかけることで確認できるリストから\r\n好きな依頼を受注できます\r\n<COL ffdc78>討伐・クリアによる経験値取得はありませんが\r\n大量のプレイポイントが手に入ります</COL>",
+      "source_en": "<COL 78f5ff>Wild Hunt</COL>\r\nis a content where you accept requests to subdue\r\nand defeat monsters that possess extraordinary\r\nstrength and size that do not normally exist, and\r\nthen go out into the field to explore and defeat\r\nthem.\r\nYou can receive and accept your desired requests\r\nfrom a list that you can confirm by talking to\r\nLisa, who is in the Relay Station of the\r\nWhite Dragon Temple.\r\n<COL ffdc78>Although you do not gain experience\r\npoints through subduing and clearing, you can\r\nobtain a large amount of play points.</COL>",
+      "text": "Bei der <COL 78f5ff>Monsterjagd</COL> suchst und besiegst\ndu ungewöhnlich starke oder große\nMonster in offenen Gebieten.\nSprich für die Aufträge mit Lisa\nim Herbergsviertel des Tempels.\nWähle aus der Liste einen Auftrag.\n<COL ffdc78>Die Jagd bringt keine Erfahrung.\nDafür erhältst du viele Spielpunkte.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_840",
+      "read_index": "1",
+      "source_jp": "ワイルドハントには<COL 78f5ff>《ランク》</COL>があり\r\n高いほど難易度が上がりますが\r\n貰える報酬も多くなります\r\n　Sランク：もっとも高いランク\r\n　Aランク：高いランク\r\n　Bランク：通常のランク\r\n<COL ffdc78>特にSランクはワイルドハントをたくさんクリアし\r\nリサからの信頼を得ないと滅多に受けられません</COL>",
+      "source_en": "In the Wild Hunt, there are <COL 78f5ff> Ranks</COL> which\r\ndetermine the difficulty level. The higher the\r\nrank, the more challenging it becomes, but the\r\nrewards also increase.\r\nS Rank: The highest rank A Rank: High\r\nrank B Rank: Normal rank\r\n<COL ffdc78> In particular, S Rank is rarely given unless\r\nyou clear the Wild Hunt many times\r\nand gain Lisa's trust.</COL>",
+      "text": "Monsterjagden haben einen <COL 78f5ff>Rang</COL>.\nJe höher der Rang, desto größer sind\nGefahr und Belohnung.\nS ist der höchste Rang.\nA steht für schwierige Jagden.\nB ist der gewöhnliche Rang.\n<COL ffdc78>Aufträge auf Rang S sind selten, bis\ndu Lisas Vertrauen gewonnen hast.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_841",
+      "read_index": "2",
+      "source_jp": "ワイルドハントの討伐は\r\nフィールドを探索してターゲットを\r\n探し出すところから始まります\r\nミニマップに表示されるマーカーの範囲内に\r\nターゲットがいるので、周囲を注意深く\r\n探索してみましょう\r\n<COL ffdc78>ランクが高くなるほど候補となるマーカーが増え\r\n探し出すことが困難になります</COL>",
+      "source_en": "The Wild Hunt begins with exploring the field\r\nand searching for targets.\r\nThere are markers displayed on the mini-map to\r\nindicate the range in which the targets can be\r\nfound, so carefully\r\nsearch the surroundings.\r\n<COL ffdc78>As the rank increases, it becomes more difficult\r\nto locate the markers that are\r\npotential candidates.</COL>",
+      "text": "Suche dein Ziel draußen im Gebiet.\nAuf der Minikarte zeigen Markierungen,\nwo es sich aufhalten könnte.\nUntersuche die markierten Bereiche\naufmerksam. <COL ffdc78>Bei höherem Rang gibt es\nmehr mögliche Suchgebiete. Das Ziel\nist dann schwerer zu finden.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_842",
+      "read_index": "3",
+      "source_jp": "＜ボーナスターゲット＞\r\nマーカーの中には、討伐対象ではない\r\n強力な魔物が潜んでいることがあります\r\n<COL ffdc78>討伐しなくてもクエストの進行に影響はありませんが\r\n討伐するとプレイポイントを獲得できます</COL>\r\nボーナスターゲットと出会った時は\r\n画面上部に青いテキストが表示されます",
+      "source_en": "[Bonus Target] Inside the marker, there may be\r\npowerful enemies that are not the\r\ntarget of extermination.\r\n<COL ffdc78>It doesn't affect the progress of the quest if\r\nyou don't exterminate them, but you can earn\r\nplay points by defeating them.</COL>\r\nWhen you encounter a bonus target, blue text\r\nwill be displayed at the top of the screen.",
+      "text": "Manchmal steckt hinter einer Markierung\nein anderes mächtiges Monster.\n<COL ffdc78>Du musst dieses Bonusziel für den\nAuftrag nicht besiegen. Tust du es,\nbekommst du zusätzliche Spielpunkte.</COL>\nEine blaue Meldung oben im Bild zeigt,\ndass du ein Bonusziel entdeckt hast."
+    }
+  ]
+}

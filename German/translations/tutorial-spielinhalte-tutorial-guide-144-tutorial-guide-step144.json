@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step144.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_144.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_29",
+      "read_index": "0",
+      "source_jp": "クエストは一度に受注できる数に制限があります\r\n<COL ffdc78>同時受注できるのは１０件</COL>ですのでご注意ください\r\n制限数いっぱいまで受注してしまった場合、\r\n【<KC UI_GAME_MENU>】ゲームメニュー<COL ffdc78>《クエストログ》\r\nから《クエスト破棄》が可能</COL>です\r\nそうすることで、新たにクエストを受注できる\r\nようになります",
+      "source_en": "Quests have a limit on the number that can\r\nbe accepted at once.\r\nYou can only accept up to 10 quests\r\nsimultaneously, so please be aware of that.\r\nIf you have accepted quests up to the maximum\r\nlimit, you can <COL ffdc78>Cancel Quest</COL> by going to the <KC UI_GAME_MENU>\r\nGame Menu <COL ffdc78>[Quest Log]</COL>\r\nto make room for new quests.",
+      "text": "Du kannst <COL ffdc78>bis zu zehn Quests gleichzeitig\r\nannehmen</COL>. Ist die Liste voll, öffne mit\r\n[<KC UI_GAME_MENU>] das Spielmenü.\r\nWähle im <COL ffdc78>Questlog „Quest aufgeben“</COL>,\r\num Platz für eine neue Quest zu machen."
+    },
+    {
+      "key": "TUTORIAL_STEP_28",
+      "read_index": "1",
+      "source_jp": "ですがワールドクエストにおいて\r\n突発的な敵討伐クエストに巻き込まれ、\r\n自動受注する場合がありえます\r\n<COL ffdc78>制限のためそれらのクエストを受けられない場合、\r\n《受注待ち》機能により、《クエストログ》の\r\nマイクエストに５個までストックできます</COL>\r\n《受注待ち》クエストを優先的にクリアしたい時は\r\nクエストログで受注数を整理し、正式受注しましょう",
+      "source_en": "However, in World Quests, you may get involved\r\nin sudden enemy subjugation quests and\r\nautomatically receive them.\r\n<COL ffdc78>Due to limitations, if you are unable to accept\r\nthose quests, you can store up to 5 in the\r\n\"Quest Orders\" function of the Quest Log.\r\n</COL>\r\nWhen you want to prioritize clearing \"Quest\r\nOrders\" quests, organize the number of quests in\r\nthe Quest Log and accept them formally.",
+      "text": "Manche Weltquests beginnen unvermittelt,\r\nwenn du einem Zielgegner begegnest.\r\nSie werden automatisch angenommen.\r\n<COL ffdc78>Ist kein Platz mehr frei, kannst du bis\r\nzu fünf solcher Quests im Questlog\r\nunter „Meine Quests“ vormerken.</COL>\r\nGib im Questlog Plätze frei, wenn du eine\r\nvorgemerkte Quest annehmen möchtest."
+    },
+    {
+      "key": "TUTORIAL_STEP_323",
+      "read_index": "2",
+      "source_jp": "注意点として、《受注待ち》をストックした状態で\r\n他プレイヤーのパーティーに参加すると\r\n自身の《受注待ち》は自動的に破棄されます",
+      "source_en": "Please not that when you join another player's\r\nparty while having \"Quest Orders\" in stock, your\r\nown \"Quest Orders\" will be\r\nautomatically discarded.",
+      "text": "Wenn du der Gruppe eines anderen\r\nSpielers beitrittst, werden deine\r\nvorgemerkten Quests automatisch\r\nverworfen."
+    }
+  ]
+}

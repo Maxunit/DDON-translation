@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step445.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_445.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_854",
+      "read_index": "0",
+      "source_jp": "悪しき魔物が鎮座する<COL 78f5ff>《滅びの渦》</COL>に突入する為には\r\n<COL 78f5ff>《<ITEM 24728>》</COL>が必要となります\r\nこの《<ITEM 24728>》は主に<COL ffdc78>《大竜晶破壊戦》を\r\n攻略することで入手できます</COL>\r\n《破滅の渦》を攻略後、《<ITEM 24728>》は\r\n報酬と引き替えに壊れてしまいます",
+      "source_en": "In order to enter the <COL 78f5ff>\"Vortex of Stagnation\"</COL>\r\nwhere the evil enemies reside, you will need <COL 78f5ff>\"\r\n<ITEM 24728>\"</COL>.\r\nThis <ITEM 24728> can be obtained mainly\r\nby conquering the <COL ffdc78>\"Great Dragon Crystal War\"</COL>.\r\nAfter conquering the \"Vortex of Stagnation\", the\r\n<ITEM 24728> will be destroyed in\r\nexchange for rewards.",
+      "text": "Für den <COL 78f5ff>Wirbel der Vernichtung</COL> brauchst du\n<COL 78f5ff><ITEM 24728></COL>.\nDen <ITEM 24728> findest du\nvor allem in der <COL ffdc78>Schlacht um den dunklen\nDrachenkristall</COL>. Nach dem Sieg im Wirbel\nzerbricht der <ITEM 24728>\nbeim Abholen der Belohnung."
+    }
+  ]
+}

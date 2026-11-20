@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step233.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_233.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_370",
+      "read_index": "0",
+      "source_jp": "エリアランクが上がると、時として新たな\r\n強敵が<COL ffdc78>《魔物警戒スポット》</COL>に登場します\r\n<COL ffdc78>そういった強敵には固有の名前がついており\r\n討伐すると高グレードの装備や珍しいアイテムを\r\n手に入れることができます</COL>",
+      "source_en": "When \"Area Rank\" rises, sometimes a\r\n<COL ffdc78>\"Monster Warning Message\"</COL>might appear.\r\n<COL ffdc78>These powerful monsters have unique names.\r\nAnd by killing them you can get rare items or\r\nhigh grade equipment.</COL>",
+      "text": "Mit höherem Gebietsrang erscheinen\r\nmanchmal starke Gegner in\r\n<COL ffdc78>Monster-Warngebieten</COL>.\r\n<COL ffdc78>Sie tragen Namen und lassen hochwertige\r\nAusrüstung oder seltene Stücke fallen.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_371",
+      "read_index": "1",
+      "source_jp": "それらエリアの強敵は、フィールドの\r\n専用ロケーションや封鎖ダンジョンの奥などで\r\n待ち構えています\r\n時にはエリア試練クエストの討伐対象になる\r\nこともあるため、十分準備して挑みましょう",
+      "source_en": "These Powerful enemies wait in special areas in\r\nthe field or in deep dungeons.\r\nBecause it's likely to become the target of a\r\nquest, Always be well\r\nprepared to challenge them!",
+      "text": "Starke Gegner lauern an bestimmten\r\nOrten im Freien oder tief in gesperrten\r\nVerliesen. Einige sind auch Ziele von\r\nGebietsprüfungen.\r\nBereite dich auf den Kampf vor."
+    }
+  ]
+}

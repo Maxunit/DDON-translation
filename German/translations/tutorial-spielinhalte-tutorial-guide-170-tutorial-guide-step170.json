@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step170.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_170.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_166",
+      "read_index": "0",
+      "source_jp": "アルケミストは、錬成物質とエリクシルを\r\n駆使して状態異常を引き起こし、\r\n敵の注目を集めつつパーティーに有利な\r\n戦況を生む、優れたタンクです\r\nガードと魔法属性が主体となる\r\nシールドセージと対照的に、\r\n機動力と状態異常がアルケミスト最大の\r\n持ち味といえるでしょう",
+      "source_en": "The Alchemist, utilizing synthesized materials\r\nand Elixirs, is a formidable tank that can\r\ninflict status ailments and attract enemy\r\nattention, creating advantageous\r\nconditions for the party.\r\nCompared to the Shield Sage, whose focus lies in\r\nguarding and magick attributes, the Alchemist\r\nexcels in mobility and status ailments.",
+      "text": "Mit alchemistischer Materie und\nElixieren baust du Statuseffekte auf.\nSo ziehst du Gegner als Tank auf dich\nund verschaffst deiner Gruppe Vorteile.\nDer Schildweiser setzt auf Blocken und\nElemente. Als Alchemist nutzt du vor\nallem Beweglichkeit und Statuseffekte."
+    },
+    {
+      "key": "TUTORIAL_STEP_346",
+      "read_index": "1",
+      "source_jp": "数々の状態異常を秘めた《エリクシル》の\r\nどの異常属性をいつ装備し、\r\nどの敵に使うか――\r\nその見極めが戦局を大きく動かします\r\nシールドセージのような頑健さが無い分は、\r\nアルケム・フーガやレクス・リープなどの\r\n特殊移動を用いてうまく立ち回りましょう",
+      "source_en": "Which abnormal attribute of the \"Elixir\" should\r\nbe equipped and when to use it on which enemy\r\nwill greatly affect the battle situation.\r\nIn the absence of the resilience of a Shield\r\nSage, maneuver skillfully using special\r\nmovements like Alchemical Fuga and Rex Leap.",
+      "text": "Wähle das Elixier passend zum Gegner\nund zur Lage. Der richtige Statuseffekt\nzur rechten Zeit kann einen Kampf wenden.\nDu hältst weniger aus als ein Schildweiser.\nMit Alchem-Fuga und Rex-Sprung kannst\ndu Angriffen entkommen und dich neu\npositionieren."
+    }
+  ]
+}

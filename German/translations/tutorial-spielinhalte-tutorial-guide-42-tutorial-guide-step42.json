@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step42.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_42.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_35",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《ワールドクエスト》が解放されました！</COL>\r\n<COL ffdc78>《ワールドクエスト》</COL>は、日々レスタニアを\r\n探索することで見つけられるクエストです\r\nＮＰＣからの依頼、突発的な戦闘などさまざまです\r\n推奨レベルは受ける前に確認すると良いでしょう\r\n<COL ffdc78>ワールドクエスト指定の討伐対象敵は\r\nミニマップに青の丸で示されます</COL>",
+      "source_en": "<COL 78f5ff>World Quests are available!</COL>\r\n<COL ffdc78>World Quests</COL> are unique to each area, they can\r\nbe obtained from <COL ffdc78>Lestania News</COL>, talking to NPCs\r\nor Encountering an enemy in the field.\r\nBe sure to check the recommended level!\r\nThe target enemy of the <COL ffdc78>World Quest</COL>\r\nappears on your Minimap as a\r\n<COL 78f5ff>blue circle</COL>.",
+      "text": "<COL 78f5ff>Weltquests sind jetzt verfügbar!</COL>\r\n<COL ffdc78>Weltquests</COL> findest du beim Erkunden von\r\nLestania, etwa durch Aufträge von\r\nEinwohnern oder Begegnungen im Feld.\r\nPrüfe vor der Annahme die empfohlene Stufe.\r\n<COL ffdc78>Zielgegner für Weltquests erscheinen als\r\nblaue Kreise auf der Minikarte.</COL>",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_300",
+      "read_index": "1",
+      "source_jp": "各地で起こっているワールドクエストとその報酬は\r\n<COL ffdc78>《レスタニアニュース》</COL>でいつでも確認できます\r\nまた、各拠点の<COL ffdc78>《エリアマスター》が持つ\r\n《ワールドクエスト情報》</COL>では、発生場所や討伐敵\r\nなどの詳細情報が得られます\r\nもう一つのポイントは\r\n<COL ffdc78>《公開クエスト》か《未公開クエスト》</COL>によって\r\n報酬や遊び方が異なることです",
+      "source_en": "<COL ffdc78>World Quests</COL> and their rewards can be checked at\r\nany time by checking\r\n<COL ffdc78>Lestania News.</COL>\r\nAlso, each <COL ffdc78>Area Master has\r\nWorld Quest information.</COL>\r\nYou can get detailed information of what the\r\nenemy is or where it appears.\r\nAlso note that <COL ffdc78>Public quests and Hidden Quests</COL>\r\nhave different rewards and objectives.",
+      "text": "In den <COL ffdc78>Lestania-Nachrichten</COL> findest du\r\nlaufende Weltquests und ihre Belohnungen.\r\nBeim <COL ffdc78>Gebietsmeister unter „Weltquest-Infos“</COL>\r\nerfährst du mehr über Orte und Zielgegner.\r\n<COL ffdc78>Öffentliche und unentdeckte Weltquests</COL>\r\nunterscheiden sich beim Auffinden\r\nund bei den Belohnungen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_36",
+      "read_index": "2",
+      "source_jp": "＜公開クエスト＞：通常報酬\r\n　...全てのプレイヤーに発生場所や報酬、敵などが\r\n　　公開されているクエストです\r\n＜未公開クエスト＞：ボーナス報酬追加\r\n　...自力で探索し見つけ出すか、エリアマスターに\r\n　　情報料を払う必要があるクエストです\r\n　<COL ffdc78>クリア時１度のみ、未公開ボーナス報酬が付きます</COL>",
+      "source_en": "<COL ffdc78>Public Quests</COL>: give normal rewards.\r\nThe location of the enemy and the quest rewards\r\ncan be seen by all players.\r\n<COL ffdc78>Hidden Quests</COL>: give bonus rewards.\r\nYou need to search for yourself to find it; You\r\ncan also pay <COL ffdc78>Area Master</COL> for hints.\r\n<COL ffdc78>Know that you can only get\r\nthe bonus rewards once.</COL>",
+      "text": "Öffentliche Weltquests\r\nOrt, Zielgegner und reguläre Belohnungen\r\nsind für alle Spieler sichtbar.\r\nUnentdeckte Weltquests\r\nFinde sie selbst oder kaufe Hinweise\r\nvom Gebietsmeister.\r\n<COL ffdc78>Die Zusatzbelohnung gibt es nur beim\r\nersten Abschluss.</COL>",
+      "tag_source": "source_jp"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step358.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_358.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_623",
+      "read_index": "0",
+      "source_jp": "《ハイオーブ》は、従来のブラッドオーブよりも\r\nさらに強い竜力を秘めた結晶です\r\nこのハイオーブは、絶技の継承の一部解放に\r\n使うことができます",
+      "source_en": "The \"High Orb\" is a crystal that contains an\r\neven stronger Dragon Force than the\r\nconventional Blood Orb.\r\nThis High Orb can be used to partially unlock\r\nSpecial Skill Augmentation.",
+      "text": "Edle Kugeln enthalten noch mehr\nDrachenkraft als Blutkugeln.\nDamit kannst du manche Boni der\nerweiterten Klassenverstärkung erwerben."
+    },
+    {
+      "key": "TUTORIAL_STEP_624",
+      "read_index": "1",
+      "source_jp": "ハイオーブは《英霊眠りし道》や\r\n《期間解放スポット》で敵を討伐することで\r\n入手できます\r\nまた、ブラッドオーブをハイオーブに\r\n変換することもできます",
+      "source_en": "High Orbs can be obtained by defeating enemies\r\nin the Epitaph Road and\r\nPeriodically Unlocked Spots.\r\nAdditionally, Blood Orbs can be\r\nconverted into High Orbs.",
+      "text": "Besiege Gegner auf dem Pfad der\nHeldengeister oder an zeitweise\ngeöffneten Orten, um sie zu erhalten.\nDu kannst auch Blutkugeln gegen\nEdle Kugeln tauschen."
+    }
+  ]
+}

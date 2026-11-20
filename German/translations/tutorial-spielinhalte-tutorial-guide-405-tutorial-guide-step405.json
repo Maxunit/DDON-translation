@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step405.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_405.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_752",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《霧の森の死闘》</COL>は\r\n最大８人のパーティーを結成して\r\n悪しき竜軍に占領された霧の森を\r\n進攻するウォーミッションです\r\n各征圧エリアを奪還すると自軍の旗が設置されますが\r\n敵の攻撃で壊されてしまうこともあります\r\n奪還したエリアが敵軍に攻め込まれないよう\r\nミニマップを参考に、常に気を配りましょう",
+      "source_en": "<COL ffdc78>\"The Deathly Battle of the Forest of Mist\"</COL>\r\nis a War Mission where you form a party of up to\r\neight people to advance into the Forest of Mist,\r\nwhich has been occupied by the Evil Dragon Army.\r\nWhen each subjugated area is reclaimed, your\r\narmy's flag will be placed, but it may be\r\ndestroyed by enemy attacks.\r\nTo prevent the enemy from invading the areas you\r\nhave recaptured, always pay attention to the\r\nmini map for reference.",
+      "text": "In <COL ffdc78>„Todeskampf im Nebelwald“</COL> erobert\nihr mit bis zu acht Erweckten den\nNebelwald vom Heer des bösen Drachen\nzurück. Eure Flaggen markieren die\neroberten Gebiete. Gegner können sie\nzerstören. Behaltet die Minikarte im\nBlick, damit ihr Angriffe auf eure\nStellungen rechtzeitig bemerkt."
+    },
+    {
+      "key": "TUTORIAL_STEP_754",
+      "read_index": "1",
+      "source_jp": "ミッションの途中には\r\n悪しき竜軍によって繰り出される\r\n<COL ffdc78>襲撃イベント</COL>が発生します\r\n自軍旗への集中攻撃や、強大な敵の出現など\r\n様々な作戦をもって覚者の進攻を阻んできます\r\n全ての困難に打ち勝ち\r\n最奥エリアの征圧を目指しましょう",
+      "source_en": "During the mission, there are <COL ffdc78>\r\nraids</COL> by the evil dragon army.\r\nThese raids include concentrated attacks on our\r\nown flag and the appearance of powerful enemies,\r\nall aimed at hindering the Arisen's advancement\r\nwith various strategies.\r\nOvercome all challenges and aim to\r\nconquer the deepest area.",
+      "text": "Das feindliche Heer versucht, euch mit\n<COL ffdc78>Überfällen</COL> aufzuhalten. Es greift etwa\ngezielt eure Flaggen an oder schickt\nbesonders starke Gegner. Wehrt die\nAngriffe ab und erobert auch den\nletzten Abschnitt des Nebelwalds."
+    },
+    {
+      "key": "TUTORIAL_STEP_775",
+      "read_index": "2",
+      "source_jp": "エリアの征圧や襲撃イベントの結果に応じて\r\n覚者のパラメーターに変化が起きることがあります\r\n変化したパラメータは\r\nアナウンスやチャットログで確認でき\r\nミッションが終了すると同時に効果は無くなります\r\nより良い性能アップを目指しながら\r\nミッションを進めましょう",
+      "source_en": "Depending on the results of area conquest and\r\nraid events, the Arisen's status may change.\r\nThe changed status can be confirmed through\r\nannouncements and chat logs, and the effects\r\nwill disappear as soon as the mission ends.\r\nProgress through the missions while aiming\r\nfor better performance.",
+      "text": "Eroberte Gebiete und der Ausgang von\nÜberfällen können eure Werte verändern.\nMeldungen auf dem Bildschirm und im\nChatverlauf zeigen, was sich ändert.\nDie Effekte enden mit der Mission.\nNutzt die Vorteile, um schneller\nvoranzukommen."
+    }
+  ]
+}

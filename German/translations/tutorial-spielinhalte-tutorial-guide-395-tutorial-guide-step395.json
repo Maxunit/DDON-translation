@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step395.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_395.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_729",
+      "read_index": "0",
+      "source_jp": "アッカーシェランの火山地帯には<COL ffdc78>《マグマ》</COL>があり\r\n触れると一定間隔でダメージを受けてしまいます\r\n深い場所に入るほどダメージ量も増え\r\n覚者の移動速度も低下します\r\nあまりにも深い場所に入ると\r\n燃え尽きてしまい、死亡状態となります\r\n　※その場合は、最後にいた陸地に戻されます",
+      "source_en": "In the volcanic region of Acre Selund, there is\r\n<COL ffdc78>[Magma]</COL>, which will cause damage at regular\r\nintervals if touched.\r\nThe deeper you go, the greater the amount of\r\ndamage and the slower the movement\r\nspeed of the Arisen.\r\nIf you go too deep, you will burn out and enter\r\na dead state, and in that case, you will be\r\nreturned to the last solid ground you were on.",
+      "text": "In den Vulkangebieten von Acre Selund\r\ngibt es <COL ffdc78>Magma</COL>. Bei Berührung nimmst\r\ndu in Abständen Schaden.\r\nJe tiefer du hineingerätst, desto\r\nlangsamer wirst du und desto mehr\r\nSchaden erleidest du.\r\nIn besonders tiefem Magma stirbst du.\r\nDu wirst dann ans Ufer zurückgesetzt."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step351.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_351.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_605",
+      "read_index": "0",
+      "source_jp": "ウォーミッションでは、敵軍と自軍の戦況を表す\r\n<COL ffdc78>《戦況ゲージ》</COL>が表示されます\r\n時間経過や、パーティーメンバーの死亡など、\r\n敵軍に有利な状態になると戦況ゲージの赤い部分が\r\n自軍を示す青い部分を押しやり\r\n戦況が悪化していることを表します",
+      "source_en": "In War Missions, the <COL ffdc78>war status gauge</COL> is\r\ndisplayed to represent the battle situation\r\nbetween the enemy forces and our own forces.\r\nAs time passes or when unfavorable conditions\r\noccur, such as the death of party members, the\r\nred portion of the war status gauge indicates\r\nthat the situation is becoming advantageous for\r\nthe enemy forces, pushing against the blue\r\nportion representing our own forces and\r\nindicating a worsening of the battle situation.",
+      "text": "In Kriegsmissionen zeigt die\n<COL ffdc78>Schlachtanzeige</COL>, welche Seite im\nVorteil ist. Verstreicht Zeit oder\nstirbt ein Gruppenmitglied, drängt\ndas Rot der Gegner das Blau eurer\nSeite zurück. Eure Lage wird schlechter."
+    },
+    {
+      "key": "TUTORIAL_STEP_606",
+      "read_index": "1",
+      "source_jp": "逆に、敵軍を討伐したり、砦内に攻め入るなど\r\n自軍に有利な状態になると戦況ゲージの青い部分が\r\n敵軍を示す赤い部分を押しやり\r\n戦況が好転したことを表します",
+      "source_en": "Conversely, when the situation is favorable to\r\nyour army, such as defeating an enemy army or\r\ninvading a fort, the blue portion of the war\r\nstatus gauge pushes over the red portion\r\nindicating the enemy army, indicating that the\r\nwar situation has turned around.",
+      "text": "Besiegt ihr Gegner oder dringt ihr\nin eine Festung ein, drängt das Blau\ndas Rot zurück. Dann wendet sich die\nSchlacht zu euren Gunsten."
+    },
+    {
+      "key": "TUTORIAL_STEP_607",
+      "read_index": "2",
+      "source_jp": "戦況の悪化と好転により\r\nミッション中様々なことが起こります\r\n臨機応変にその場の状況を読み\r\n戦況の好転を続けてミッションを進め\r\nより素早く敵軍を殲滅していきましょう",
+      "source_en": "With the deterioration and improvement of the\r\nwar situation, various things can\r\nhappen during the mission.\r\nRead the situation flexibly, Continue to improve\r\nthe war situation and advance the mission,\r\nDestroy the enemy forces more quickly!",
+      "text": "Je nach Schlachtlage können\nunterschiedliche Ereignisse eintreten.\nAchtet auf die Veränderungen und\npasst euer Vorgehen an. Haltet den\nVorteil, um die Gegner rasch zu besiegen."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step428.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_428.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_870",
+      "read_index": "0",
+      "source_jp": "ミッションをクリアすることで、チェインが増加します\r\nチェインは<COL 78f5ff>ミッションクリアごとに+1ずつ加算</COL>され\r\n<COL 78f5ff>最大15チェインまで</COL>増加しますが、<COL ffdc78>覚者の死亡</COL>や\r\n<COL ffdc78>ミッション失敗</COL>で減少します\r\nまた、一定チェインごとに報酬の宝箱が追加されます\r\n<COL 78f5ff>宝箱の追加は5/10/15チェイン達成</COL>の時に発生し\r\n高いチェイン達成時に追加される宝箱ほど\r\n良い報酬が入っている確率が上がります",
+      "source_en": "By clearing the mission, your chain will increase.\r\nThe chain will increase by +1 for <COL 78f5ff>\r\neach mission cleared</COL>, up to a <COL 78f5ff>\r\nmaximum of 15 chains</COL>. However, it\r\nwill decrease in the event of the <COL ffdc78>\r\nArisen's death</COL> or <COL ffdc78>mission\r\nfailure.</COL>\r\nAdditionally, additional reward boxes will be\r\nadded at certain chain intervals.\r\nThe addition of reward boxes occurs when\r\nachieving <COL 78f5ff>5/10/15 chains</COL>, and\r\nthe higher the chain achieved, the higher the\r\nprobability of containing better rewards.",
+      "text": "Jede abgeschlossene Mission <COL 78f5ff>erhöht\ndeine Serie um 1</COL>, bis zu <COL 78f5ff>15</COL>.\nDie Serie sinkt, wenn <COL ffdc78>Erweckte sterben</COL>\noder <COL ffdc78>eine Mission scheitert</COL>.\n<COL 78f5ff>Bei 5, 10 und 15</COL> erscheint je eine Truhe.\nBei höheren Serien hast du eine größere\nChance auf bessere Belohnungen."
+    },
+    {
+      "key": "TUTORIAL_STEP_871",
+      "read_index": "1",
+      "source_jp": "クリア時に得られる報酬は以下の通りです\r\n<COL 78f5ff>《チェイン報酬》</COL>\r\n5/10/15チェインで宝箱が1つずつ追加\r\n<COL ffdc78>※一度追加された宝箱は\r\n　チェイン数が減少しても消えることはありません</COL>\r\n<COL 78f5ff>《特別報酬》</COL>\r\n変異した敵を討伐するミッションをクリアで追加\r\n<COL ffdc78>※報酬部屋に採取ポイントが追加されます\r\n※クリア回数が多いほど報酬の中身も増えます</COL>",
+      "source_en": "The rewards obtained upon clearing are as follows:\r\n<COL 78f5ff>[Chain Rewards]</COL>\r\nAn additional treasure chest for every 5/10/15\r\nchains.\r\n<COL ffdc78>(*Once a treasure chest is added, it\r\nwill not disappear even if the chain count\r\ndecreases.)</COL>\r\n<COL 78f5ff>[Special Rewards]</COL>\r\nClearing missions to defeat mutated enemies will\r\nadd rewards to the reward room.\r\n<COL ffdc78>(*Collection points will be added as\r\nrewards.\r\n*The more times you clear, the more rewards you\r\nwill receive.)</COL>",
+      "text": "<COL 78f5ff>Serienbelohnung</COL>\nEine Truhe jeweils bei 5, 10 und 15.\n<COL ffdc78>Diese Truhen bleiben erhalten, auch\nwenn deine Serie danach sinkt.</COL>\n<COL 78f5ff>Sonderbelohnung</COL>\nFür Missionen mit veränderten Gegnern.\n<COL ffdc78>Im Belohnungsraum gibt es Sammelstellen.\nJe mehr solcher Missionen ihr abschließt,\ndesto mehr enthalten sie.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_872",
+      "read_index": "2",
+      "source_jp": "<COL 78f5ff>《デイリー報酬》</COL>\r\n1日に1回だけアイテムを取得できる、\r\n特別な宝箱が報酬部屋に出現します\r\n<COL 78f5ff>《コンテンツクリア報酬》</COL>\r\n拠点の保管ボックスから\"報酬受け取り\" にて\r\n受け取ることができます",
+      "source_en": "<COL 78f5ff>\"Daily Rewards\"</COL>\r\nSpecial treasure chests appear in the reward\r\nroom where you can obtain items once a day.\r\n<COL 78f5ff>\"Clear Rewards\"</COL>\r\nYou can receive rewards from the storage box at\r\nthe Hall by selecting \"Receive Reward\".",
+      "text": "<COL 78f5ff>Tagesbelohnung</COL>\nEine besondere Truhe im Belohnungsraum\nlässt sich einmal am Tag plündern.\n<COL 78f5ff>Abschlussbelohnung</COL>\nWähle „Questbelohnungen“ an einer\nLagerkiste im Stützpunkt."
+    },
+    {
+      "key": "TUTORIAL_STEP_873",
+      "read_index": "3",
+      "source_jp": "ダンジョン内ではクリア報酬以外にも\r\n貴重な素材や、探索に役立つアイテムが入手できる\r\n<COL 78f5ff>《封印された宝箱》</COL>が登場します\r\n<COL 78f5ff>《封印された宝箱≫</COL>は6チェイン、11チェイン達成時に\r\n解放される特別な場所で入手することができます",
+      "source_en": "In the dungeon, in addition to clearing rewards,\r\nyou can obtain valuable materials and items that\r\nare useful for exploration;\r\n<COL 78f5ff>Sealed Treasure Chests</COL> will appear.\r\n<COL 78f5ff>Sealed Treasure Chests</COL> can be obtained in\r\nspecial locations that are unlocked when you\r\nachieve a 6-chain or 11-chain.",
+      "text": "<COL 78f5ff>Versiegelte Truhen</COL> enthalten seltene\nMaterialien und nützliche Gegenstände.\nBei einer Serie von 6 oder 11 erreichst\ndu besondere Bereiche mit <COL 78f5ff>solchen\nTruhen</COL>."
+    },
+    {
+      "key": "TUTORIAL_STEP_875",
+      "read_index": "4",
+      "source_jp": "封印された宝箱に触れると、周囲に\r\n<COL ffdc78>《不思議な力》</COL>もしくは<COL ffdc78>《封印の欠片》</COL>が散らばります\r\n<COL ffdc78>不思議な力を全て集めるか、\r\n封印の欠片を全て見つけだし破壊する</COL>ことで\r\n宝箱の封印を解くことができます",
+      "source_en": "When you touch a sealed treasure chest,\r\n<COL ffdc78>a Mysterious Force</COL> or <COL ffdc78>\r\na Piece of the Seal</COL> scatters around you.\r\nBy gathering all the <COL ffdc78>Mysterious Force, or by\r\nfinding and destroying all the pieces of the\r\nseal</COL>, you can unlock the seal\r\nof the treasure chest.",
+      "text": "Berührst du eine versiegelte Truhe,\nverteilen sich <COL ffdc78>seltsame Kräfte</COL> oder\n<COL ffdc78>Siegelsplitter</COL> in der Umgebung.\n<COL ffdc78>Sammle alle Kräfte ein oder zerstöre\nalle Splitter</COL>, um die Truhe zu öffnen."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step72.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_72.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_144",
+      "read_index": "0",
+      "source_jp": "ソーサラー最大の魅せ場は、敵の弱点属性を\r\n突いた一撃必殺の大魔法を放つことです\r\n火力に秀でた反面、大魔法の詠唱中はスキも多く\r\n敵に狙われると脆くもあります\r\n位置やタイミングに注意して立ち回りましょう",
+      "source_en": "The Sorcerer's greatest spectacle is unleashing\r\na devastating magick attack that strikes the\r\nenemy's weak attribute.\r\nWhile they excel in firepower, they are also\r\nvulnerable during the incantation of powerful\r\nmagick, making them easy targets for the enemy.\r\nBe wary of your position and timing\r\nwhen engaging in combat.",
+      "text": "Ein mächtiger Zauber mit dem richtigen\nElement kann einen Kampf entscheiden.\nBeim Wirken großer Zauber bist du\nallerdings leicht angreifbar. Achte auf\ndeinen Standort und den richtigen Moment."
+    },
+    {
+      "key": "TUTORIAL_STEP_275",
+      "read_index": "1",
+      "source_jp": "そして、ソーサラーにとって重要なのは\r\n魔法の威力をあげる《スペリング》です\r\n詠唱中に唱えたスペリングコマンドの\r\n分だけ、放たれた魔法の威力は上がります\r\nスペリングを磨き、優れた術師になりましょう",
+      "source_en": "And thus, what is important for a Sorcerer is to\r\nenhance the power of magick,\r\nknown as \"Chanting\".\r\nThe more Chanting commands uttered during\r\nincantation, the greater the power of the\r\nunleashed magick will be.\r\nLet us refine our Chanting and become\r\nexceptional sorcerers.",
+      "text": "Während du einen Zauber wirkst, kannst\ndu ihn mit „Zauberzeichen“ verstärken.\nJe mehr Zeichen du eingibst,\ndesto stärker ist der Zauber.\nÜbe die Eingaben, damit sie dir auch\nmitten im Kampf gelingen."
+    }
+  ]
+}

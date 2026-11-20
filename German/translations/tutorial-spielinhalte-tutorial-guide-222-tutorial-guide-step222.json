@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step222.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_222.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_353",
+      "read_index": "0",
+      "source_jp": "メインポーンには、待機時やクエスト\r\n成功時などに取らせたいリアクションを\r\n設定することができます\r\n<COL ffdc78>《ポーンのリアクション設定》</COL>は、\r\n《リムストーン》の《メインポーン》\r\nメニューから設定できます\r\n容姿や口調だけでなく、エモートも\r\n使ってポーンの個性を演出しましょう",
+      "source_en": "You can set the reactions you want the main pawn\r\nto have during standby or when quests are\r\nsuccessfully completed, among other occasions.\r\nYou can set the <COL ffdc78>Pawn Reaction Settings</COL> from the\r\nMain Pawn menu in Riftstone.\r\nUse emotes to showcase the pawn's\r\npersonality, not just their\r\nappearance and speech.",
+      "text": "Du kannst festlegen, wie dein\r\nHauptvasall beim Warten oder nach\r\neinem Questabschluss reagiert.\r\n<COL ffdc78>Öffne am Riftstein unter\r\n„Hauptvasall“ die Einstellungen\r\nfür Vasallenreaktionen.</COL>\r\nMit Emotes gibst du ihm neben\r\nAussehen und Stimme Persönlichkeit."
+    }
+  ]
+}

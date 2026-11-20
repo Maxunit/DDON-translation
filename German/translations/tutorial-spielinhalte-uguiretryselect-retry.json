@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\retry.gmd",
+  "arc_path": "\\ui\\uGUIRetrySelect.arc",
+  "entries": [
+    {
+      "key": "RETRY_MSG_REVIVE_MENU_STOCK",
+      "read_index": "0",
+      "source_jp": "復活力を使用して復活",
+      "source_en": "Revive with Revival Power",
+      "text": "Mit Wiederbelebungskraft"
+    },
+    {
+      "key": "RETRY_MSG_REVIVE_MENU_SHOP",
+      "read_index": "10",
+      "source_jp": "黄金石を購入して復活",
+      "source_en": "Revive with Golden Gemstone",
+      "text": "Mit Goldsteinen"
+    },
+    {
+      "key": "RETRY_MSG_REVIVE_MENU_PENALTY",
+      "read_index": "11",
+      "source_jp": "直前の拠点から再開",
+      "source_en": "Revive at Last Camp",
+      "text": "Zum Stützpunkt zurück"
+    }
+  ]
+}

@@ -1,0 +1,1695 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\tutorial_guide.gmd",
+  "arc_path": "\\tutorial_guide.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_24",
+      "read_index": "1",
+      "source_jp": "詳細～広域マップの使い方",
+      "source_en": "Using the Area Map",
+      "text": "Die Karte benutzen"
+    },
+    {
+      "key": "TUTORIAL_29",
+      "read_index": "3",
+      "source_jp": "ショートカット登録",
+      "source_en": "Shortcut Bar",
+      "text": "Schnellzugriffe belegen"
+    },
+    {
+      "key": "TUTORIAL_31",
+      "read_index": "4",
+      "source_jp": "危険な場所",
+      "source_en": "Hazardous Locations",
+      "text": "Gefährliche Orte"
+    },
+    {
+      "key": "TUTORIAL_33",
+      "read_index": "6",
+      "source_jp": "戦うべき敵",
+      "source_en": "Fighting Monsters",
+      "text": "Gegen Monster kämpfen"
+    },
+    {
+      "key": "TUTORIAL_38",
+      "read_index": "9",
+      "source_jp": "世界の住人",
+      "source_en": "NPCs",
+      "text": "Einwohner Lestanias"
+    },
+    {
+      "key": "TUTORIAL_40",
+      "read_index": "11",
+      "source_jp": "レスタニアニュース",
+      "source_en": "Lestania News",
+      "text": "Lestania-Nachrichten"
+    },
+    {
+      "key": "TUTORIAL_42",
+      "read_index": "12",
+      "source_jp": "ワールドクエスト",
+      "source_en": "World Quests",
+      "text": "Weltquests"
+    },
+    {
+      "key": "TUTORIAL_43",
+      "read_index": "13",
+      "source_jp": "クエスト推奨レベル",
+      "source_en": "Quest Recommended Level",
+      "text": "Empfohlene Queststufe"
+    },
+    {
+      "key": "TUTORIAL_49",
+      "read_index": "15",
+      "source_jp": "覚者の基本成長",
+      "source_en": "Basic Growth",
+      "text": "Stufenaufstieg"
+    },
+    {
+      "key": "TUTORIAL_53",
+      "read_index": "16",
+      "source_jp": "クライミング",
+      "source_en": "Climbing",
+      "text": "Klettern"
+    },
+    {
+      "key": "TUTORIAL_55",
+      "read_index": "17",
+      "source_jp": "アイテムの入手",
+      "source_en": "Obtaining Items",
+      "text": "Gegenstände finden"
+    },
+    {
+      "key": "TUTORIAL_56",
+      "read_index": "18",
+      "source_jp": "アイテムの活用",
+      "source_en": "Using Items",
+      "text": "Gegenstände benutzen"
+    },
+    {
+      "key": "TUTORIAL_57",
+      "read_index": "19",
+      "source_jp": "エレメントアーチャーの戦術的役割",
+      "source_en": "Tactical Role of the Element Archer",
+      "text": "Kampfrolle: Elementarschütze"
+    },
+    {
+      "key": "TUTORIAL_66",
+      "read_index": "20",
+      "source_jp": "ファイターの戦術的役割",
+      "source_en": "Tactical Role of the Fighter",
+      "text": "Kampfrolle: Kämpfer"
+    },
+    {
+      "key": "TUTORIAL_67",
+      "read_index": "21",
+      "source_jp": "プリーストの戦術的役割",
+      "source_en": "Tactical Role of the Priest",
+      "text": "Kampfrolle: Priester"
+    },
+    {
+      "key": "TUTORIAL_68",
+      "read_index": "22",
+      "source_jp": "ハンターの戦術的役割",
+      "source_en": "Tactical Role of the Hunter",
+      "text": "Kampfrolle: Jäger"
+    },
+    {
+      "key": "TUTORIAL_69",
+      "read_index": "23",
+      "source_jp": "シールドセージの戦術的役割",
+      "source_en": "Tactical Role of the Shield Sage",
+      "text": "Kampfrolle: Schildweiser"
+    },
+    {
+      "key": "TUTORIAL_70",
+      "read_index": "24",
+      "source_jp": "シーカーの戦術的役割",
+      "source_en": "Tactical Role of the Seeker",
+      "text": "Kampfrolle: Kundschafter"
+    },
+    {
+      "key": "TUTORIAL_71",
+      "read_index": "25",
+      "source_jp": "ウォリアーの戦術的役割",
+      "source_en": "Tactical Role of the Warrior",
+      "text": "Kampfrolle: Krieger"
+    },
+    {
+      "key": "TUTORIAL_72",
+      "read_index": "26",
+      "source_jp": "ソーサラーの戦術的役割",
+      "source_en": "Tactical Role of the Sorcerer",
+      "text": "Kampfrolle: Erzmagier"
+    },
+    {
+      "key": "TUTORIAL_77",
+      "read_index": "31",
+      "source_jp": "シーカーの戦法：基本",
+      "source_en": "Basic Tactics: Seeker",
+      "text": "Grundtaktik: Kundschafter"
+    },
+    {
+      "key": "TUTORIAL_78",
+      "read_index": "32",
+      "source_jp": "ウォリアーの戦法：基本",
+      "source_en": "Basic Tactics: Warrior",
+      "text": "Grundtaktik: Krieger"
+    },
+    {
+      "key": "TUTORIAL_79",
+      "read_index": "33",
+      "source_jp": "ソーサラーの戦法：基本",
+      "source_en": "Basic Tactics: Sorcerer",
+      "text": "Grundtaktik: Erzmagier"
+    },
+    {
+      "key": "TUTORIAL_80",
+      "read_index": "34",
+      "source_jp": "エレメントアーチャーの戦法：基本",
+      "source_en": "Basic Tactics: Element Archer",
+      "text": "Grundtaktik: Elementarschütze"
+    },
+    {
+      "key": "TUTORIAL_81",
+      "read_index": "35",
+      "source_jp": "美容院",
+      "source_en": "Beauty Shop",
+      "text": "Schönheitssalon"
+    },
+    {
+      "key": "TUTORIAL_86",
+      "read_index": "36",
+      "source_jp": "商品の取引",
+      "source_en": "Trading Goods",
+      "text": "Waren kaufen und verkaufen"
+    },
+    {
+      "key": "TUTORIAL_87",
+      "read_index": "37",
+      "source_jp": "装備品",
+      "source_en": "Equipment",
+      "text": "Ausrüstung"
+    },
+    {
+      "key": "TUTORIAL_92",
+      "read_index": "40",
+      "source_jp": "宿屋",
+      "source_en": "Inn",
+      "text": "In der Herberge rasten"
+    },
+    {
+      "key": "TUTORIAL_93",
+      "read_index": "41",
+      "source_jp": "バザー",
+      "source_en": "Bazaar",
+      "text": "Auf dem Basar handeln"
+    },
+    {
+      "key": "TUTORIAL_97",
+      "read_index": "42",
+      "source_jp": "パーティー編成",
+      "source_en": "Party Creation",
+      "text": "Eine Gruppe bilden"
+    },
+    {
+      "key": "TUTORIAL_100",
+      "read_index": "43",
+      "source_jp": "パーティープレイ中の注意点",
+      "source_en": "Important Points of Party Play",
+      "text": "Gemeinsam auf Abenteuer"
+    },
+    {
+      "key": "TUTORIAL_107",
+      "read_index": "45",
+      "source_jp": "エクストリームミッション",
+      "source_en": "Extreme Missions",
+      "text": "Extremmissionen"
+    },
+    {
+      "key": "TUTORIAL_109",
+      "read_index": "46",
+      "source_jp": "覚者のさらなる成長・竜力の継承",
+      "source_en": "Dragon Force Augmentation",
+      "text": "Erbe der Drachenkraft"
+    },
+    {
+      "key": "TUTORIAL_110",
+      "read_index": "47",
+      "source_jp": "ジョブロール（戦闘時の役割）",
+      "source_en": "Job Roles (Role in Combat)",
+      "text": "Klassenrollen im Kampf"
+    },
+    {
+      "key": "TUTORIAL_114",
+      "read_index": "48",
+      "source_jp": "オートラン",
+      "source_en": "Auto-Run",
+      "text": "Automatisch laufen"
+    },
+    {
+      "key": "TUTORIAL_115",
+      "read_index": "49",
+      "source_jp": "冒険中のリトライ",
+      "source_en": "Retrying Quests",
+      "text": "Nach dem Tod weiterspielen"
+    },
+    {
+      "key": "TUTORIAL_118",
+      "read_index": "50",
+      "source_jp": "ジョブマスター",
+      "source_en": "Job Masters",
+      "text": "Klassenmeister"
+    },
+    {
+      "key": "TUTORIAL_119",
+      "read_index": "51",
+      "source_jp": "拠点の利用",
+      "source_en": "Portcrystal Use",
+      "text": "Zielkristalle nutzen"
+    },
+    {
+      "key": "TUTORIAL_121",
+      "read_index": "52",
+      "source_jp": "世界の探索",
+      "source_en": "Exploring the World",
+      "text": "Die Welt erkunden"
+    },
+    {
+      "key": "TUTORIAL_122",
+      "read_index": "53",
+      "source_jp": "ブラッドオーブの物々交換",
+      "source_en": "Blood Orb Exchange",
+      "text": "Blutkugeln eintauschen"
+    },
+    {
+      "key": "TUTORIAL_128",
+      "read_index": "58",
+      "source_jp": "ポーンの死亡と復活",
+      "source_en": "Resurrecting Pawns",
+      "text": "Vasallen wiederbeleben"
+    },
+    {
+      "key": "TUTORIAL_131",
+      "read_index": "59",
+      "source_jp": "クラフトルーム",
+      "source_en": "The Craft Room",
+      "text": "Die Werkstatt"
+    },
+    {
+      "key": "TUTORIAL_132",
+      "read_index": "60",
+      "source_jp": "アイテム生産の基本",
+      "source_en": "Crafting Basic Items",
+      "text": "Gegenstände herstellen"
+    },
+    {
+      "key": "TUTORIAL_135",
+      "read_index": "61",
+      "source_jp": "装備品のカスタマイズ",
+      "source_en": "Customizing Equipment",
+      "text": "Ausrüstung anpassen"
+    },
+    {
+      "key": "TUTORIAL_136",
+      "read_index": "62",
+      "source_jp": "アチーブメント",
+      "source_en": "Achievements",
+      "text": "Erfolge"
+    },
+    {
+      "key": "TUTORIAL_139",
+      "read_index": "63",
+      "source_jp": "クラン",
+      "source_en": "Clans",
+      "text": "Clans gründen und beitreten"
+    },
+    {
+      "key": "TUTORIAL_143",
+      "read_index": "64",
+      "source_jp": "アイテムの所持制限",
+      "source_en": "Item Limits",
+      "text": "Limits für Gegenstände"
+    },
+    {
+      "key": "TUTORIAL_144",
+      "read_index": "65",
+      "source_jp": "クエストの受注制限",
+      "source_en": "Quest Limits",
+      "text": "Grenze für angenommene Quests"
+    },
+    {
+      "key": "TUTORIAL_152",
+      "read_index": "66",
+      "source_jp": "ゲームの中断／再開方法",
+      "source_en": "Suspend/Resume Game",
+      "text": "Spiel beenden und fortsetzen"
+    },
+    {
+      "key": "TUTORIAL_155",
+      "read_index": "68",
+      "source_jp": "グリッテン砦攻防戦",
+      "source_en": "Battle for Fort Gritten",
+      "text": "Schlacht um Fort Gritten"
+    },
+    {
+      "key": "TUTORIAL_156",
+      "read_index": "69",
+      "source_jp": "魔物のるつぼ",
+      "source_en": "The Crucible of Demons",
+      "text": "Schmelztiegel der Monster"
+    },
+    {
+      "key": "TUTORIAL_158",
+      "read_index": "70",
+      "source_jp": "闇を照らすランタン",
+      "source_en": "Casting Light into Darkness",
+      "text": "Licht mit der Laterne"
+    },
+    {
+      "key": "TUTORIAL_159",
+      "read_index": "71",
+      "source_jp": "カスタムスキル",
+      "source_en": "Custom Skills",
+      "text": "Spezialfertigkeiten"
+    },
+    {
+      "key": "TUTORIAL_161",
+      "read_index": "72",
+      "source_jp": "ジョブ修練ログ",
+      "source_en": "Job Training Log",
+      "text": "Trainingsbuch"
+    },
+    {
+      "key": "TUTORIAL_163",
+      "read_index": "73",
+      "source_jp": "拠点の礎",
+      "source_en": "Portcrystals",
+      "text": "Zielkristalle an Stützpunkten"
+    },
+    {
+      "key": "TUTORIAL_164",
+      "read_index": "74",
+      "source_jp": "回復手段",
+      "source_en": "Means of Recovery",
+      "text": "Heilung und Erholung"
+    },
+    {
+      "key": "TUTORIAL_165",
+      "read_index": "75",
+      "source_jp": "レスタニアの状況",
+      "source_en": "Situation in Lestania",
+      "text": "Wie sich Lestania verändert"
+    },
+    {
+      "key": "TUTORIAL_166",
+      "read_index": "76",
+      "source_jp": "スタンプボーナス",
+      "source_en": "Stamp Bonus",
+      "text": "Stempelbonus"
+    },
+    {
+      "key": "TUTORIAL_167",
+      "read_index": "77",
+      "source_jp": "クレストによる装備強化",
+      "source_en": "Strengthening Equipment with Crests",
+      "text": "Siegel einsetzen"
+    },
+    {
+      "key": "TUTORIAL_168",
+      "read_index": "78",
+      "source_jp": "トレジャーズロット",
+      "source_en": "Treasure Lot",
+      "text": "Schatzlotterie"
+    },
+    {
+      "key": "TUTORIAL_169",
+      "read_index": "79",
+      "source_jp": "アルケミストの戦法：基本",
+      "source_en": "Basic Tactics: Alchemist",
+      "text": "Grundtaktik: Alchemist"
+    },
+    {
+      "key": "TUTORIAL_170",
+      "read_index": "80",
+      "source_jp": "アルケミストの戦術的役割",
+      "source_en": "Tactical Role of the Alchemist",
+      "text": "Kampfrolle: Alchemist"
+    },
+    {
+      "key": "TUTORIAL_174",
+      "read_index": "82",
+      "source_jp": "クエストの進め方",
+      "source_en": "How to Continue Quests",
+      "text": "Quests fortsetzen"
+    },
+    {
+      "key": "TUTORIAL_175",
+      "read_index": "83",
+      "source_jp": "戦徒の契り",
+      "source_en": "Myrmidon's Pledge",
+      "text": "Bund der Kampfvasallen"
+    },
+    {
+      "key": "TUTORIAL_176",
+      "read_index": "84",
+      "source_jp": "着飾り装備",
+      "source_en": "Dress Equipment",
+      "text": "Zierausrüstung"
+    },
+    {
+      "key": "TUTORIAL_180",
+      "read_index": "88",
+      "source_jp": "しがみつき行動",
+      "source_en": "Clinging",
+      "text": "An Gegnern festklammern"
+    },
+    {
+      "key": "TUTORIAL_181",
+      "read_index": "89",
+      "source_jp": "冒険フィールドへの出発",
+      "source_en": "Leaving to the Field",
+      "text": "Aufbruch ins Abenteuergebiet"
+    },
+    {
+      "key": "TUTORIAL_182",
+      "read_index": "90",
+      "source_jp": "復活力の回復",
+      "source_en": "Recover Revival Power",
+      "text": "Wiederbelebungskraft auffüllen"
+    },
+    {
+      "key": "TUTORIAL_195",
+      "read_index": "91",
+      "source_jp": "神殿への帰還",
+      "source_en": "Return to Temple",
+      "text": "Zum Tempel zurückkehren"
+    },
+    {
+      "key": "TUTORIAL_208",
+      "read_index": "92",
+      "source_jp": "大型敵との戦い",
+      "source_en": "Fighting Large Enemies",
+      "text": "Kampf gegen große Gegner"
+    },
+    {
+      "key": "TUTORIAL_209",
+      "read_index": "93",
+      "source_jp": "進行マーカーの使い方",
+      "source_en": "Using the Progress Marker",
+      "text": "Fortschrittsmarker verwenden"
+    },
+    {
+      "key": "TUTORIAL_211",
+      "read_index": "94",
+      "source_jp": "シーカーの戦法：追記",
+      "source_en": "Advanced Tactics: Seeker",
+      "text": "Fortgeschrittene Taktik: Kundschafter"
+    },
+    {
+      "key": "TUTORIAL_212",
+      "read_index": "95",
+      "source_jp": "ソーサラーの戦法：追記",
+      "source_en": "Advanced Tactics: Sorcerer",
+      "text": "Fortgeschrittene Taktik: Erzmagier"
+    },
+    {
+      "key": "TUTORIAL_214",
+      "read_index": "96",
+      "source_jp": "エレメントアーチャーの戦法：追記",
+      "source_en": "Advanced Tactics: Element Archer",
+      "text": "Fortgeschrittene Taktik: Elementarschütze"
+    },
+    {
+      "key": "TUTORIAL_216",
+      "read_index": "97",
+      "source_jp": "ウォリアーの戦法：追記",
+      "source_en": "Advanced Tactics: Warrior",
+      "text": "Fortgeschrittene Taktik: Krieger"
+    },
+    {
+      "key": "TUTORIAL_218",
+      "read_index": "98",
+      "source_jp": "アルケミストの戦法：追記",
+      "source_en": "Advanced Tactics: Alchemist",
+      "text": "Fortgeschrittene Taktik: Alchemist"
+    },
+    {
+      "key": "TUTORIAL_219",
+      "read_index": "99",
+      "source_jp": "太古の強者",
+      "source_en": "Ancient Warrior",
+      "text": "Der Krieger der Vorzeit"
+    },
+    {
+      "key": "TUTORIAL_220",
+      "read_index": "100",
+      "source_jp": "失われた秩序",
+      "source_en": "The Lost Order",
+      "text": "Die verlorene Ordnung"
+    },
+    {
+      "key": "TUTORIAL_221",
+      "read_index": "101",
+      "source_jp": "眩き黄金",
+      "source_en": "The Dazzling Gold",
+      "text": "Strahlendes Gold"
+    },
+    {
+      "key": "TUTORIAL_222",
+      "read_index": "102",
+      "source_jp": "ポーンのリアクション設定",
+      "source_en": "Pawn Reaction Settings",
+      "text": "Vasallenreaktionen einstellen"
+    },
+    {
+      "key": "TUTORIAL_224",
+      "read_index": "103",
+      "source_jp": "ポーンへの命令",
+      "source_en": "Pawn Commands",
+      "text": "Vasallenbefehle"
+    },
+    {
+      "key": "TUTORIAL_226",
+      "read_index": "104",
+      "source_jp": "パーティー同行リム転移",
+      "source_en": "Rift Teleport with Party",
+      "text": "Rift-Transport mit der Gruppe"
+    },
+    {
+      "key": "TUTORIAL_227",
+      "read_index": "105",
+      "source_jp": "コンテンツの途中離脱",
+      "source_en": "Withdrawing",
+      "text": "Eine Mission vorzeitig verlassen"
+    },
+    {
+      "key": "TUTORIAL_229",
+      "read_index": "106",
+      "source_jp": "ロストポーンの救出",
+      "source_en": "Pawn Rescue",
+      "text": "Verlorene Vasallen retten"
+    },
+    {
+      "key": "TUTORIAL_230",
+      "read_index": "107",
+      "source_jp": "便利なフリーマーカー",
+      "source_en": "Use of Free Markers",
+      "text": "Wegpunkte setzen"
+    },
+    {
+      "key": "TUTORIAL_231",
+      "read_index": "108",
+      "source_jp": "ワールドクエストの情報購入",
+      "source_en": "Purchasing World Quest Information",
+      "text": "Weltquest-Infos kaufen"
+    },
+    {
+      "key": "TUTORIAL_232",
+      "read_index": "109",
+      "source_jp": "ワールドクエストの繰り返し報酬",
+      "source_en": "Reap Rewards for the World Quest",
+      "text": "Weltquests wiederholen"
+    },
+    {
+      "key": "TUTORIAL_233",
+      "read_index": "110",
+      "source_jp": "魔物警戒スポットの強敵",
+      "source_en": "Monster Warning Message",
+      "text": "Warngebiete mit starken Monstern"
+    },
+    {
+      "key": "TUTORIAL_234",
+      "read_index": "111",
+      "source_jp": "オーブエネミー",
+      "source_en": "Blood Orb Enemies",
+      "text": "Blutkugel-Gegner"
+    },
+    {
+      "key": "TUTORIAL_235",
+      "read_index": "112",
+      "source_jp": "連係アクション",
+      "source_en": "Coordinated Actions",
+      "text": "Gemeinsame Kampfaktionen"
+    },
+    {
+      "key": "TUTORIAL_236",
+      "read_index": "113",
+      "source_jp": "エリアマスターの支援品",
+      "source_en": "Area Master's Support Goods",
+      "text": "Vorräte der Gebietsmeister"
+    },
+    {
+      "key": "TUTORIAL_237",
+      "read_index": "114",
+      "source_jp": "ランキングへの挑戦",
+      "source_en": "Challenge Ranking",
+      "text": "Ranglisten für Kriegsmissionen"
+    },
+    {
+      "key": "TUTORIAL_240",
+      "read_index": "117",
+      "source_jp": "クラフトレベル昇格試験",
+      "source_en": "Crafting Level Test",
+      "text": "Handwerksprüfung"
+    },
+    {
+      "key": "TUTORIAL_241",
+      "read_index": "118",
+      "source_jp": "エリア試練クエスト",
+      "source_en": "Area Quests",
+      "text": "Gebietsprüfungen"
+    },
+    {
+      "key": "TUTORIAL_242",
+      "read_index": "119",
+      "source_jp": "未知なるジョブへの挑戦",
+      "source_en": "Changing Vocations",
+      "text": "Weitere Klassen freischalten"
+    },
+    {
+      "key": "TUTORIAL_243",
+      "read_index": "120",
+      "source_jp": "パーティーリワード",
+      "source_en": "Party Rewards",
+      "text": "Gruppenbelohnungen"
+    },
+    {
+      "key": "TUTORIAL_245",
+      "read_index": "121",
+      "source_jp": "クラフトポイントの割り振り",
+      "source_en": "Allocating Craft Points",
+      "text": "Handwerkspunkte verteilen"
+    },
+    {
+      "key": "TUTORIAL_247",
+      "read_index": "122",
+      "source_jp": "弱化になった時の対処",
+      "source_en": "Dealing with Weakness",
+      "text": "Schwäche behandeln"
+    },
+    {
+      "key": "TUTORIAL_249",
+      "read_index": "123",
+      "source_jp": "パーティー要請への対応",
+      "source_en": "Responding to Party Invites",
+      "text": "Auf Gruppeneinladungen antworten"
+    },
+    {
+      "key": "TUTORIAL_250",
+      "read_index": "124",
+      "source_jp": "メインクエストのボス戦時の注意点",
+      "source_en": "Notes on Main Quest Boss Monsters",
+      "text": "Bosskämpfe in Hauptquests"
+    },
+    {
+      "key": "TUTORIAL_252",
+      "read_index": "125",
+      "source_jp": "レスタニア序節　到達",
+      "source_en": "Lestania: Prologue",
+      "text": "Lestania: Prolog"
+    },
+    {
+      "key": "TUTORIAL_253",
+      "read_index": "126",
+      "source_jp": "レスタニア第二節　到達",
+      "source_en": "Lestania: Section II",
+      "text": "Lestania: Abschnitt II"
+    },
+    {
+      "key": "TUTORIAL_255",
+      "read_index": "127",
+      "source_jp": "鑑定交換",
+      "source_en": "Appraisal Exchange",
+      "text": "Begutachtung und Tausch"
+    },
+    {
+      "key": "TUTORIAL_257",
+      "read_index": "128",
+      "source_jp": "レスタニア第三節　到達",
+      "source_en": "Lestania: Section III",
+      "text": "Lestania: Abschnitt III"
+    },
+    {
+      "key": "TUTORIAL_258",
+      "read_index": "129",
+      "source_jp": "覚者の自室",
+      "source_en": "Arisen's Room",
+      "text": "Eigenes Zimmer"
+    },
+    {
+      "key": "TUTORIAL_261",
+      "read_index": "130",
+      "source_jp": "鑑定ジュエリー",
+      "source_en": "Appraising Jewelry",
+      "text": "Schmuck begutachten"
+    },
+    {
+      "key": "TUTORIAL_264",
+      "read_index": "131",
+      "source_jp": "覚者のさらなる成長・戦技の継承",
+      "source_en": "Skill Augmentation",
+      "text": "Klassenverstärkung"
+    },
+    {
+      "key": "TUTORIAL_266",
+      "read_index": "132",
+      "source_jp": "侵食魔について：小型敵",
+      "source_en": "About Infected: Small Enemies",
+      "text": "Befallene kleine Gegner"
+    },
+    {
+      "key": "TUTORIAL_267",
+      "read_index": "133",
+      "source_jp": "汚染植物について",
+      "source_en": "About Infected Plants",
+      "text": "Verseuchte Pflanzen"
+    },
+    {
+      "key": "TUTORIAL_268",
+      "read_index": "134",
+      "source_jp": "スピリットランサーの戦法：基本",
+      "source_en": "Basic Tactics: Spirit Lancer",
+      "text": "Grundtaktik: Geisterlancier"
+    },
+    {
+      "key": "TUTORIAL_269",
+      "read_index": "135",
+      "source_jp": "スピリットランサーの戦法：追記",
+      "source_en": "Advanced Tactics: Spirit Lancer",
+      "text": "Fortgeschrittene Taktik: Geisterlancier"
+    },
+    {
+      "key": "TUTORIAL_271",
+      "read_index": "136",
+      "source_jp": "スピリットランサーの戦術的役割",
+      "source_en": "Tactical Role of the Spirit Lancer",
+      "text": "Kampfrolle: Geisterlancier"
+    },
+    {
+      "key": "TUTORIAL_275",
+      "read_index": "137",
+      "source_jp": "侵食魔について：大型敵",
+      "source_en": "About Infected: Large Enemies",
+      "text": "Befallene große Gegner"
+    },
+    {
+      "key": "TUTORIAL_278",
+      "read_index": "138",
+      "source_jp": "魔赤島の狂宴",
+      "source_en": "Bloodbane Isle's Feast of Madness",
+      "text": "Das wilde Fest der Blutfluchinsel"
+    },
+    {
+      "key": "TUTORIAL_279",
+      "read_index": "139",
+      "source_jp": "目覚めし闇の魔物",
+      "source_en": "The Demon of Darkness Awakens",
+      "text": "Ein Schattenmonster erwacht"
+    },
+    {
+      "key": "TUTORIAL_286",
+      "read_index": "140",
+      "source_jp": "淀みし大竜力",
+      "source_en": "Phantasmic Great Dragon",
+      "text": "Angestaute Drachenkraft"
+    },
+    {
+      "key": "TUTORIAL_288",
+      "read_index": "141",
+      "source_jp": "歪みの執行人",
+      "source_en": "Agent of Corruption",
+      "text": "Vollstrecker der Verderbnis"
+    },
+    {
+      "key": "TUTORIAL_293",
+      "read_index": "142",
+      "source_jp": "侵食の大災 序説　到達",
+      "source_en": "The Infection: Introduction",
+      "text": "Der große Befall: Prolog"
+    },
+    {
+      "key": "TUTORIAL_294",
+      "read_index": "143",
+      "source_jp": "侵食の大災 第二節　到達",
+      "source_en": "The Infection: Section II",
+      "text": "Der große Befall: Abschnitt II"
+    },
+    {
+      "key": "TUTORIAL_295",
+      "read_index": "144",
+      "source_jp": "新エリア解放",
+      "source_en": "New Area Unlock",
+      "text": "Ein neues Gebiet erschließen"
+    },
+    {
+      "key": "TUTORIAL_297",
+      "read_index": "145",
+      "source_jp": "平均アイテムランク （IR） とは",
+      "source_en": "What Is Average Item Rank (IR)?",
+      "text": "Durchschnittlicher Gegenstandsrang"
+    },
+    {
+      "key": "TUTORIAL_299",
+      "read_index": "146",
+      "source_jp": "ポーン遠征隊",
+      "source_en": "Pawn Expeditions",
+      "text": "Vasallenexpeditionen"
+    },
+    {
+      "key": "TUTORIAL_301",
+      "read_index": "147",
+      "source_jp": "辺境の礎",
+      "source_en": "Sub Portcrystals",
+      "text": "Kleine Zielkristalle"
+    },
+    {
+      "key": "TUTORIAL_302",
+      "read_index": "148",
+      "source_jp": "カスタムスキルパレット切り替え",
+      "source_en": "Custom Skill Palette Switching",
+      "text": "Fertigkeitssätze wechseln"
+    },
+    {
+      "key": "TUTORIAL_303",
+      "read_index": "149",
+      "source_jp": "家具について",
+      "source_en": "About Furniture",
+      "text": "Möbel herstellen und aufstellen"
+    },
+    {
+      "key": "TUTORIAL_304",
+      "read_index": "150",
+      "source_jp": "エリアランクキャップ解放",
+      "source_en": "Area Rank Cap Unlock",
+      "text": "Gebietsrang über 10"
+    },
+    {
+      "key": "TUTORIAL_306",
+      "read_index": "151",
+      "source_jp": "大型敵との戦い：ブレイクアイコン",
+      "source_en": "Fighting Large Enemies: Break Icon",
+      "text": "Große Gegner und Break-Symbol"
+    },
+    {
+      "key": "TUTORIAL_307",
+      "read_index": "152",
+      "source_jp": "大型敵との戦い：特殊状態",
+      "source_en": "Fighting Large Enemies: Special Conditions",
+      "text": "Große Gegner und blaue Ausdauerleiste"
+    },
+    {
+      "key": "TUTORIAL_314",
+      "read_index": "153",
+      "source_jp": "古代神殿の死闘",
+      "source_en": "The Deathly Battle of the Ancient Temple",
+      "text": "Todeskampf im alten Tempel"
+    },
+    {
+      "key": "TUTORIAL_315",
+      "read_index": "154",
+      "source_jp": "呼び覚まされし竜",
+      "source_en": "The Dragon Awakened",
+      "text": "Der erwachte Drache"
+    },
+    {
+      "key": "TUTORIAL_316",
+      "read_index": "155",
+      "source_jp": "プレイポイント",
+      "source_en": "Play Points",
+      "text": "Spielpunkte"
+    },
+    {
+      "key": "TUTORIAL_317",
+      "read_index": "156",
+      "source_jp": "クランレベルとクラン拠点",
+      "source_en": "Clan Levels and Clan Halls",
+      "text": "Clan-Stufe und Clan-Stützpunkt"
+    },
+    {
+      "key": "TUTORIAL_320",
+      "read_index": "157",
+      "source_jp": "ある探検家の軌跡",
+      "source_en": "The Trail of an Explorer",
+      "text": "Auf den Spuren eines Entdeckers"
+    },
+    {
+      "key": "TUTORIAL_321",
+      "read_index": "158",
+      "source_jp": "ポーンからのお願い",
+      "source_en": "Requests from Pawn",
+      "text": "Bitten von Vasallen"
+    },
+    {
+      "key": "TUTORIAL_322",
+      "read_index": "159",
+      "source_jp": "大地の怒り",
+      "source_en": "Earth's Fury",
+      "text": "Der Zorn der Erde"
+    },
+    {
+      "key": "TUTORIAL_323",
+      "read_index": "160",
+      "source_jp": "降臨せし闇",
+      "source_en": "Onset of Darkness",
+      "text": "Die Finsternis steigt herab"
+    },
+    {
+      "key": "TUTORIAL_326",
+      "read_index": "161",
+      "source_jp": "侵食の大災 第三節　到達",
+      "source_en": "The Infection: Section III",
+      "text": "Der große Befall: Abschnitt III"
+    },
+    {
+      "key": "TUTORIAL_327",
+      "read_index": "162",
+      "source_jp": "侵食の大災 第四節　到達",
+      "source_en": "The Infection: Section IV",
+      "text": "Der große Befall: Abschnitt IV"
+    },
+    {
+      "key": "TUTORIAL_328",
+      "read_index": "163",
+      "source_jp": "狂侵魔の触芽",
+      "source_en": "Corruption Monster tendrils",
+      "text": "Ranken stark befallener Gegner"
+    },
+    {
+      "key": "TUTORIAL_329",
+      "read_index": "164",
+      "source_jp": "鍛練の小部屋",
+      "source_en": "Small room of training",
+      "text": "Trainingsraum"
+    },
+    {
+      "key": "TUTORIAL_330",
+      "read_index": "165",
+      "source_jp": "クランダンジョン",
+      "source_en": "Clan Dungeons",
+      "text": "Clan-Dungeons"
+    },
+    {
+      "key": "TUTORIAL_332",
+      "read_index": "166",
+      "source_jp": "プレイポイントショップ",
+      "source_en": "Play Point Shop",
+      "text": "Spielpunkte-Shop"
+    },
+    {
+      "key": "TUTORIAL_333",
+      "read_index": "167",
+      "source_jp": "エリア目視調査",
+      "source_en": "Visual survey of the area",
+      "text": "Gebietserkundung"
+    },
+    {
+      "key": "TUTORIAL_334",
+      "read_index": "168",
+      "source_jp": "アルケミストの戦法：追記２",
+      "source_en": "Advanced Tactics: Alchemist II",
+      "text": "Konter des Alchemisten"
+    },
+    {
+      "key": "TUTORIAL_335",
+      "read_index": "169",
+      "source_jp": "闇の再動",
+      "source_en": "Recurrence of Darkness",
+      "text": "Die Finsternis regt sich erneut"
+    },
+    {
+      "key": "TUTORIAL_336",
+      "read_index": "170",
+      "source_jp": "オンラインショップ",
+      "source_en": "Online Shop",
+      "text": "Online-Shop"
+    },
+    {
+      "key": "TUTORIAL_339",
+      "read_index": "172",
+      "source_jp": "■絶望の料理番　キャリー",
+      "source_en": "◆Despair of the Cook Carrie",
+      "text": "◆ Carrie, die verzweifelte Köchin"
+    },
+    {
+      "key": "TUTORIAL_340",
+      "read_index": "173",
+      "source_jp": "NPCの護衛（食料ゲージ）",
+      "source_en": "NPC Escorts (Food Gauge)",
+      "text": "Carrie beschützen und Vorräte sammeln"
+    },
+    {
+      "key": "TUTORIAL_341",
+      "read_index": "174",
+      "source_jp": "大食堂の復旧",
+      "source_en": "Restoration of the Great Dining Hall",
+      "text": "Den großen Speisesaal wiederaufbauen"
+    },
+    {
+      "key": "TUTORIAL_342",
+      "read_index": "175",
+      "source_jp": "拠点への食料運搬",
+      "source_en": "Food Transportation to Locations",
+      "text": "Vorräte zu Stützpunkten bringen"
+    },
+    {
+      "key": "TUTORIAL_348",
+      "read_index": "176",
+      "source_jp": "ドミニオンポイントショップ",
+      "source_en": "Dominion Point Shop",
+      "text": "Laden für Herrschaftspunkte"
+    },
+    {
+      "key": "TUTORIAL_349",
+      "read_index": "177",
+      "source_jp": "ダクレイム砦奪還戦",
+      "source_en": "Dacreim Fortress Recapture Battle",
+      "text": "Rückeroberung der Festung Dacreim"
+    },
+    {
+      "key": "TUTORIAL_350",
+      "read_index": "178",
+      "source_jp": "絶望と惨劇の砲声 限界域",
+      "source_en": "Enfilade of Despair and Tragedy: Restricted Stage",
+      "text": "Donner der Verzweiflung: Grenzprüfung"
+    },
+    {
+      "key": "TUTORIAL_351",
+      "read_index": "179",
+      "source_jp": "戦況ゲージ",
+      "source_en": "War status gauge",
+      "text": "Die Schlachtanzeige"
+    },
+    {
+      "key": "TUTORIAL_352",
+      "read_index": "180",
+      "source_jp": "覚者のさらなる成長・絶技の継承",
+      "source_en": "Special Skill Augmentation",
+      "text": "Erweiterte Klassenverstärkung"
+    },
+    {
+      "key": "TUTORIAL_353",
+      "read_index": "181",
+      "source_jp": "カスタムスキルEX　剛/技の切替え",
+      "source_en": "Custom Skill EX - Strength/Switching Techniques",
+      "text": "Spezialfertigkeiten EX wechseln"
+    },
+    {
+      "key": "TUTORIAL_354",
+      "read_index": "182",
+      "source_jp": "ポーン戦術育成",
+      "source_en": "Pawn Tactics Training",
+      "text": "Taktiktraining für Vasallen"
+    },
+    {
+      "key": "TUTORIAL_355",
+      "read_index": "183",
+      "source_jp": "魔物集結スポット",
+      "source_en": "Monster gathering spot",
+      "text": "Monsterlager"
+    },
+    {
+      "key": "TUTORIAL_356",
+      "read_index": "184",
+      "source_jp": "期間解放スポット",
+      "source_en": "Limited Time Spots",
+      "text": "Verliese mit Öffnungszeiten"
+    },
+    {
+      "key": "TUTORIAL_357",
+      "read_index": "185",
+      "source_jp": "エピタフロード",
+      "source_en": "The Epitaph Road",
+      "text": "Pfad der Heldengeister"
+    },
+    {
+      "key": "TUTORIAL_358",
+      "read_index": "186",
+      "source_jp": "ハイオーブ",
+      "source_en": "High Orbs",
+      "text": "Edle Kugeln"
+    },
+    {
+      "key": "TUTORIAL_359",
+      "read_index": "187",
+      "source_jp": "カスタムメイド工房について",
+      "source_en": "About Custom-Made Workshop",
+      "text": "Spezialwerkstatt"
+    },
+    {
+      "key": "TUTORIAL_360",
+      "read_index": "188",
+      "source_jp": "ジフール砦攻略戦",
+      "source_en": "Jifule Fortress Capture Battle",
+      "text": "Angriff auf die Festung Jifule"
+    },
+    {
+      "key": "TUTORIAL_361",
+      "read_index": "189",
+      "source_jp": "誘う眼 限界域",
+      "source_en": "The Inviting Eye: Restricted Stage",
+      "text": "Verlockender Blick: Grenzprüfung"
+    },
+    {
+      "key": "TUTORIAL_362",
+      "read_index": "190",
+      "source_jp": "絶望の大陸 序節　到達",
+      "source_en": "The Land of Despair: Prologue",
+      "text": "Land der Verzweiflung: Prolog"
+    },
+    {
+      "key": "TUTORIAL_363",
+      "read_index": "191",
+      "source_jp": "絶望の大陸 第二節　到達",
+      "source_en": "The Land of Despair: Section II",
+      "text": "Land der Verzweiflung: Abschnitt II"
+    },
+    {
+      "key": "TUTORIAL_364",
+      "read_index": "192",
+      "source_jp": "マンドラゴラ・ガーデニング",
+      "source_en": "Mandragora Gardening",
+      "text": "Mandragoras züchten"
+    },
+    {
+      "key": "TUTORIAL_365",
+      "read_index": "193",
+      "source_jp": "ボーナスダンジョン",
+      "source_en": "Bonus Dungeons",
+      "text": "Bonusverliese"
+    },
+    {
+      "key": "TUTORIAL_366",
+      "read_index": "194",
+      "source_jp": "アチーブメント：王家再興",
+      "source_en": "Achievements: Royal Family Restoration",
+      "text": "Erfolge: Das Königshaus wieder aufrichten"
+    },
+    {
+      "key": "TUTORIAL_367",
+      "read_index": "195",
+      "source_jp": "エンブレムストーン",
+      "source_en": "Emblem Stones",
+      "text": "Klassenembleme"
+    },
+    {
+      "key": "TUTORIAL_368",
+      "read_index": "196",
+      "source_jp": "クラン拠点専用家具",
+      "source_en": "Clan Hall Exclusive Furniture",
+      "text": "Möbel für den Clan-Stützpunkt"
+    },
+    {
+      "key": "TUTORIAL_369",
+      "read_index": "197",
+      "source_jp": "戦甲種について：小型敵",
+      "source_en": "About Armored Battles: Small Enemies",
+      "text": "Gepanzerte kleine Gegner"
+    },
+    {
+      "key": "TUTORIAL_370",
+      "read_index": "198",
+      "source_jp": "戦甲種について：大型敵",
+      "source_en": "About Armored Battles: Large Enemies",
+      "text": "Gepanzerte große Gegner"
+    },
+    {
+      "key": "TUTORIAL_371",
+      "read_index": "199",
+      "source_jp": "フォトモード",
+      "source_en": "Photo Mode",
+      "text": "Fotomodus"
+    },
+    {
+      "key": "TUTORIAL_372",
+      "read_index": "200",
+      "source_jp": "ドワーフオークについて",
+      "source_en": "About Dwarf Orcs",
+      "text": "Zwergorks"
+    },
+    {
+      "key": "TUTORIAL_373",
+      "read_index": "201",
+      "source_jp": "敵地への潜入とソネルのごきげん",
+      "source_en": "Infiltration into enemy territory and Sonel's\r\ngood fortune",
+      "text": "Schleichmissionen und Sonels Stimmung"
+    },
+    {
+      "key": "TUTORIAL_374",
+      "read_index": "202",
+      "source_jp": "ソネルを誘導する",
+      "source_en": "Guide Sonel",
+      "text": "Sonel ein Zeichen geben"
+    },
+    {
+      "key": "TUTORIAL_375",
+      "read_index": "203",
+      "source_jp": "警備が厳重な場所",
+      "source_en": "Heavily guarded area",
+      "text": "Stark bewachte Bereiche"
+    },
+    {
+      "key": "TUTORIAL_376",
+      "read_index": "204",
+      "source_jp": "身を伏せて移動する",
+      "source_en": "Going prone? Sneaking Mission?",
+      "text": "Flach am Boden vorrücken"
+    },
+    {
+      "key": "TUTORIAL_377",
+      "read_index": "205",
+      "source_jp": "■奪還を指揮せし異才者　ソネル",
+      "source_en": "◆Rescue the Genius Commander Sonel",
+      "text": "◆ Sonel, Stratege der Rückeroberung"
+    },
+    {
+      "key": "TUTORIAL_378",
+      "read_index": "206",
+      "source_jp": "テントの細工",
+      "source_en": "Tent Tactics",
+      "text": "Zelte in der Kaserne sabotieren"
+    },
+    {
+      "key": "TUTORIAL_379",
+      "read_index": "207",
+      "source_jp": "細工成功後の選択",
+      "source_en": "Selection after successful crafting",
+      "text": "Nach der Sabotage entscheiden"
+    },
+    {
+      "key": "TUTORIAL_380",
+      "read_index": "208",
+      "source_jp": "門の攻略",
+      "source_en": "Gate attack",
+      "text": "Ein Tor einnehmen"
+    },
+    {
+      "key": "TUTORIAL_381",
+      "read_index": "209",
+      "source_jp": "ウォーミッション",
+      "source_en": "War Missions",
+      "text": "Kriegsmissionen"
+    },
+    {
+      "key": "TUTORIAL_382",
+      "read_index": "210",
+      "source_jp": "エンブレムストーンの入手方法",
+      "source_en": "How to Obtain an Emblem Stone",
+      "text": "Klassenembleme erhalten"
+    },
+    {
+      "key": "TUTORIAL_383",
+      "read_index": "211",
+      "source_jp": "戦甲種について：追記",
+      "source_en": "About Armored Battles: Additional Notes",
+      "text": "Kriegsrüstung kontern"
+    },
+    {
+      "key": "TUTORIAL_384",
+      "read_index": "212",
+      "source_jp": "武具のリミット解除",
+      "source_en": "Limit Breaking Arms",
+      "text": "Ausrüstungslimit aufheben"
+    },
+    {
+      "key": "TUTORIAL_385",
+      "read_index": "213",
+      "source_jp": "武具の極限合成",
+      "source_en": "Ultimate Synthesis of Arms",
+      "text": "Ultimative Synthese"
+    },
+    {
+      "key": "TUTORIAL_386",
+      "read_index": "214",
+      "source_jp": "スペシャルクエストボード",
+      "source_en": "Special Quest Board",
+      "text": "Besonderes Questboard"
+    },
+    {
+      "key": "TUTORIAL_388",
+      "read_index": "215",
+      "source_jp": "ハイセプターの戦法：基本",
+      "source_en": "Basic Tactics: High Scepter",
+      "text": "Grundtaktik: Zauberklinge"
+    },
+    {
+      "key": "TUTORIAL_389",
+      "read_index": "216",
+      "source_jp": "ハイセプターの戦法：追記",
+      "source_en": "Advanced Tactics: High Scepter",
+      "text": "Fortgeschrittene Taktik: Zauberklinge"
+    },
+    {
+      "key": "TUTORIAL_390",
+      "read_index": "217",
+      "source_jp": "ハイセプターの戦術的役割",
+      "source_en": "Tactical Role of the High Scepter",
+      "text": "Kampfrolle: Zauberklinge"
+    },
+    {
+      "key": "TUTORIAL_391",
+      "read_index": "218",
+      "source_jp": "プレイヤーが操作可能な大砲",
+      "source_en": "Artillery That Players Can Operate",
+      "text": "Kanonen bedienen"
+    },
+    {
+      "key": "TUTORIAL_392",
+      "read_index": "219",
+      "source_jp": "絶望の大陸 第三節　到達",
+      "source_en": "The Land of Despair: Section III",
+      "text": "Land der Verzweiflung: Abschnitt III"
+    },
+    {
+      "key": "TUTORIAL_393",
+      "read_index": "220",
+      "source_jp": "ポーンの特技",
+      "source_en": "Pawn Special Skills",
+      "text": "Vasallentalente"
+    },
+    {
+      "key": "TUTORIAL_394",
+      "read_index": "221",
+      "source_jp": "パーティーメンバーの自室へ訪問",
+      "source_en": "Visit Party Member's Room",
+      "text": "Zimmer von Mitspielern besuchen"
+    },
+    {
+      "key": "TUTORIAL_395",
+      "read_index": "222",
+      "source_jp": "危険な場所：追記",
+      "source_en": "Hazardous Locations: Additional Notes",
+      "text": "Gefährliche Orte mit Magma"
+    },
+    {
+      "key": "TUTORIAL_396",
+      "read_index": "223",
+      "source_jp": "王家により封印されている扉",
+      "source_en": "The Door Sealed by the Royal Family",
+      "text": "Versiegelte Türen des Königshauses"
+    },
+    {
+      "key": "TUTORIAL_397",
+      "read_index": "224",
+      "source_jp": "エピタフロード：試練",
+      "source_en": "The Epitaph Road: Ordeals",
+      "text": "Pfad der Heldengeister: Prüfungen"
+    },
+    {
+      "key": "TUTORIAL_398",
+      "read_index": "225",
+      "source_jp": "黒呪の迷宮とは",
+      "source_en": "What Is the Bitterblack Maze?",
+      "text": "Das Finstergram-Labyrinth"
+    },
+    {
+      "key": "TUTORIAL_399",
+      "read_index": "226",
+      "source_jp": "黒呪装具の効果封印",
+      "source_en": "Bitterblack Equipment Effect Seal",
+      "text": "Ausrüstungseffekte versiegeln"
+    },
+    {
+      "key": "TUTORIAL_400",
+      "read_index": "227",
+      "source_jp": "レアアイテムの鑑定",
+      "source_en": "Rare Item Appraisal",
+      "text": "Seltene Gegenstände begutachten"
+    },
+    {
+      "key": "TUTORIAL_401",
+      "read_index": "228",
+      "source_jp": "黒呪の迷宮での装備",
+      "source_en": "Bitterblack Maze Equipment",
+      "text": "Ausrüstung im Labyrinth"
+    },
+    {
+      "key": "TUTORIAL_402",
+      "read_index": "229",
+      "source_jp": "黒呪アイテムの持ち帰り",
+      "source_en": "Bitterblack Item Takeaway",
+      "text": "Beute aus dem Labyrinth mitnehmen"
+    },
+    {
+      "key": "TUTORIAL_403",
+      "read_index": "230",
+      "source_jp": "黒呪の迷宮を再び遊ぶ",
+      "source_en": "Play Bitterblack Maze Again",
+      "text": "Fortschritt im Labyrinth zurücksetzen"
+    },
+    {
+      "key": "TUTORIAL_404",
+      "read_index": "231",
+      "source_jp": "冒険ガイド",
+      "source_en": "Adventure Guide",
+      "text": "Abenteuerführer"
+    },
+    {
+      "key": "TUTORIAL_405",
+      "read_index": "232",
+      "source_jp": "霧の森の死闘",
+      "source_en": "The Deathly Battle of the Forest of Mist",
+      "text": "Todeskampf im Nebelwald"
+    },
+    {
+      "key": "TUTORIAL_406",
+      "read_index": "233",
+      "source_jp": "暗晦の炎　限界域",
+      "source_en": "Flames of Darkness: Restricted Stage",
+      "text": "Dunkle Flammen: Grenzprüfung"
+    },
+    {
+      "key": "TUTORIAL_407",
+      "read_index": "234",
+      "source_jp": "特定の条件で壊れる壁",
+      "source_en": "Walls That Break under Certain Conditions",
+      "text": "Zerstörbare Wände"
+    },
+    {
+      "key": "TUTORIAL_409",
+      "read_index": "235",
+      "source_jp": "ポーンの新しい行動",
+      "source_en": "Pawn's New Behavior",
+      "text": "Neue Aktionen des Partnervasallen"
+    },
+    {
+      "key": "TUTORIAL_410",
+      "read_index": "236",
+      "source_jp": "■暗部を暴きし暗躍者　メフィス",
+      "source_en": "◆Unmasker of Dark Deeds: Mephis",
+      "text": "◆ Mephis, Ermittler im Verborgenen"
+    },
+    {
+      "key": "TUTORIAL_411",
+      "read_index": "237",
+      "source_jp": "《尋問》とは",
+      "source_en": "What Is \"Interrogation\"?",
+      "text": "Ein Verhör führen"
+    },
+    {
+      "key": "TUTORIAL_412",
+      "read_index": "238",
+      "source_jp": "《潜入調査》について",
+      "source_en": "About \"Undercover\"",
+      "text": "Verdeckter Einsatz"
+    },
+    {
+      "key": "TUTORIAL_413",
+      "read_index": "239",
+      "source_jp": "《諜報活動》について",
+      "source_en": "About \"Intelligence Assessment\"",
+      "text": "Spurensuche"
+    },
+    {
+      "key": "TUTORIAL_414",
+      "read_index": "240",
+      "source_jp": "《諜報活動》について：追記",
+      "source_en": "About \"Intelligence Assessment\": Additional Notes",
+      "text": "Weitere Hinweise zur Spurensuche"
+    },
+    {
+      "key": "TUTORIAL_415",
+      "read_index": "241",
+      "source_jp": "メガドでの極秘任務について",
+      "source_en": "About the Secret Mission in Megado",
+      "text": "Geheimaufträge in Megado"
+    },
+    {
+      "key": "TUTORIAL_416",
+      "read_index": "242",
+      "source_jp": "《仲間》について",
+      "source_en": "About \"Friends\"",
+      "text": "Verbündete für den Widerstand gewinnen"
+    },
+    {
+      "key": "TUTORIAL_417",
+      "read_index": "243",
+      "source_jp": "蘇りし絶望の炎",
+      "source_en": "Resurrection of the Flame of Despair",
+      "text": "Die Flamme der Verzweiflung kehrt zurück"
+    },
+    {
+      "key": "TUTORIAL_418",
+      "read_index": "244",
+      "source_jp": "エピタフロード：英霊の加護",
+      "source_en": "The Epitaph Road: Divine Protection of Heroic\r\nSpirits",
+      "text": "Pfad der Heldengeister: Segen"
+    },
+    {
+      "key": "TUTORIAL_419",
+      "read_index": "245",
+      "source_jp": "火炎体の敵について",
+      "source_en": "On enemies with flaming bodies",
+      "text": "Gegner mit Flammenkörpern"
+    },
+    {
+      "key": "TUTORIAL_420",
+      "read_index": "246",
+      "source_jp": "絶望の大陸 第四節　到達",
+      "source_en": "The Land of Despair: Section IV",
+      "text": "Land der Verzweiflung: Abschnitt IV"
+    },
+    {
+      "key": "TUTORIAL_422",
+      "read_index": "247",
+      "source_jp": "味方の攻撃による救済行動",
+      "source_en": "Rescue by friendly fire",
+      "text": "Verbündete durch Treffer befreien"
+    },
+    {
+      "key": "TUTORIAL_425",
+      "read_index": "248",
+      "source_jp": "黒呪の迷宮　深淵",
+      "source_en": "Bitterblack Maze Abyss",
+      "text": "Finstergram-Labyrinth: Abgrund"
+    },
+    {
+      "key": "TUTORIAL_426",
+      "read_index": "249",
+      "source_jp": "暗黒の大竜晶破壊戦",
+      "source_en": "Battle for the Destruction of the Great Dragon\r\nCrystal of Darkness",
+      "text": "Der große dunkle Drachenkristall"
+    },
+    {
+      "key": "TUTORIAL_427",
+      "read_index": "250",
+      "source_jp": "ダンジョン内でのミッション",
+      "source_en": "Missions in Dungeons",
+      "text": "Missionen im Dungeon"
+    },
+    {
+      "key": "TUTORIAL_428",
+      "read_index": "251",
+      "source_jp": "チェインと報酬",
+      "source_en": "Chain Rewards",
+      "text": "Missionsserie und Belohnungen"
+    },
+    {
+      "key": "TUTORIAL_430",
+      "read_index": "252",
+      "source_jp": "ハイオーブショップ",
+      "source_en": "High Orb Shop",
+      "text": "Edle Kugeln eintauschen"
+    },
+    {
+      "key": "TUTORIAL_431",
+      "read_index": "253",
+      "source_jp": "ドラゴンアビリティ",
+      "source_en": "Dragon Abilities",
+      "text": "Drachenbegabungen"
+    },
+    {
+      "key": "TUTORIAL_432",
+      "read_index": "254",
+      "source_jp": "ドラゴンアビリティ：精霊竜",
+      "source_en": "Dragon Abilities: Spirit Dragon",
+      "text": "Drachenbegabungen: Geisterdrache"
+    },
+    {
+      "key": "TUTORIAL_433",
+      "read_index": "255",
+      "source_jp": "ドラゴンアビリティ：火竜",
+      "source_en": "Dragon Abilities: Fire Dragon",
+      "text": "Drachenbegabungen: Feuerdrache"
+    },
+    {
+      "key": "TUTORIAL_434",
+      "read_index": "256",
+      "source_jp": "ドラゴンアビリティ：白竜",
+      "source_en": "Dragon Abilities: White Dragon",
+      "text": "Drachenbegabungen: Weißer Drache"
+    },
+    {
+      "key": "TUTORIAL_435",
+      "read_index": "257",
+      "source_jp": "黒竜との決戦に向けて",
+      "source_en": "Toward the final battle against the Black Dragon",
+      "text": "Der Kampf gegen den Schwarzen Drachen"
+    },
+    {
+      "key": "TUTORIAL_437",
+      "read_index": "258",
+      "source_jp": "ワイルドハント：基本",
+      "source_en": "Wild Hunt: Basics",
+      "text": "Monsterjagd: Grundlagen"
+    },
+    {
+      "key": "TUTORIAL_438",
+      "read_index": "259",
+      "source_jp": "ワイルドハント：追記",
+      "source_en": "Wild Hunt: Additional Notes",
+      "text": "Monsterjagd: Aufträge und Vertrauen"
+    },
+    {
+      "key": "TUTORIAL_439",
+      "read_index": "260",
+      "source_jp": "アッカーシェラン追懐戦記",
+      "source_en": "Acre Selund War Chronicles",
+      "text": "Kriegschronik von Acre Selund"
+    },
+    {
+      "key": "TUTORIAL_440",
+      "read_index": "261",
+      "source_jp": "ドラゴンアビリティの強化",
+      "source_en": "Enhancement of Dragon Abilities",
+      "text": "Drachenbegabungen verstärken"
+    },
+    {
+      "key": "TUTORIAL_441",
+      "read_index": "262",
+      "source_jp": "ドラゴンアビリティの合成",
+      "source_en": "Synthesis of Dragon Abilities",
+      "text": "Drachenbegabungen kombinieren"
+    },
+    {
+      "key": "TUTORIAL_443",
+      "read_index": "263",
+      "source_jp": "竜武具の資源分解",
+      "source_en": "Equipment Disassembly",
+      "text": "Drachenausrüstung zerlegen"
+    },
+    {
+      "key": "TUTORIAL_444",
+      "read_index": "264",
+      "source_jp": "リワードミッション",
+      "source_en": "Reward Missions",
+      "text": "Belohnungsmissionen"
+    },
+    {
+      "key": "TUTORIAL_445",
+      "read_index": "265",
+      "source_jp": "滅びの渦に向かうためには",
+      "source_en": "Portent of Destruction",
+      "text": "Zugang zum Wirbel der Vernichtung"
+    },
+    {
+      "key": "TUTORIAL_446",
+      "read_index": "266",
+      "source_jp": "絶望の大陸 第五節　到達",
+      "source_en": "The Land of Despair: Section V",
+      "text": "Land der Verzweiflung: Abschnitt V"
+    }
+  ]
+}

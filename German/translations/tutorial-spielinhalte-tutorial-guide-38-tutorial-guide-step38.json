@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step38.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_38.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_83",
+      "read_index": "0",
+      "source_jp": "このレスタニアには、覚者であるあなたのほかにも\r\n多くの人々（ＮＰＣ）が暮らしています\r\n彼らＮＰＣの中には\r\n\r\n　　　店や施設を開いている者\r\n　　　クエスト依頼者\r\n　　　地域問題やジョブの専門家\r\n\r\nなど、さまざまな役割を持つ者がいます",
+      "source_en": "In Lestania, beside the Arisen\r\nlive many people (NPCs).\r\nNPCs have different roles, such as:\r\nShopkeepers and Innkeeps.\r\nQuest clients.\r\nArea and Job Masters.\r\nBe sure to meet them all!",
+      "text": "In Lestania leben neben dir viele\r\nweitere Einwohner, die NPCs.\r\nSie führen Läden oder Einrichtungen,\r\nvergeben Quests oder helfen dir bei\r\nFragen zu Gebieten und Klassen."
+    },
+    {
+      "key": "TUTORIAL_STEP_82",
+      "read_index": "1",
+      "source_jp": "彼らに話しかけると、\r\n会話メニューに項目が表示されます\r\n\r\n利用したい機能、話したい内容を\r\n選びましょう",
+      "source_en": "When you talk to them, options appear in\r\nthe <COL ffdc78> Conversation menu.</COL>\r\nYou can choose what you want to talk\r\nabout. Get to know them!",
+      "text": "Sprich einen Einwohner an, um das\r\nGesprächsmenü zu öffnen.\r\nWähle dort den Dienst, den du nutzen\r\nwillst, oder dein Gesprächsthema.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

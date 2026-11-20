@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step348.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_348.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_601",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《</COL><ICON G><COL ffdc78>：ドミニオンポイント》（DP）</COL>は\r\n《ウォーミッション》で獲得できる通貨です\r\nDPを所持していれば、各ウォーミッションの\r\n担当NPCからアイテムの購入が可能です。",
+      "source_en": "<COL ffdc78>[</COL><ICON G><COL ffdc78>: Dominion Points] (DP)</COL> is a currency that can\r\nbe earned in \"War Missions\".\r\nIf you have DP, you can purchase items from the\r\nNPC in charge of each war mission.",
+      "text": "<COL ffdc78>„</COL><ICON G><COL ffdc78> Herrschaftspunkte“ (DP)</COL> verdienst du\nin Kriegsmissionen. Damit kannst du\nbeim Händler der jeweiligen Mission\nGegenstände kaufen."
+    },
+    {
+      "key": "TUTORIAL_STEP_602",
+      "read_index": "1",
+      "source_jp": "各ショップに並んでいるアイテムの中には\r\n<COL ffdc78>在庫</COL>のあるモノや<COL ffdc78>購入条件</COL>のあるモノがあります\r\n欲しいアイテムの詳細を確認し、コンテンツへ\r\n参加してDPを獲得しましょう",
+      "source_en": "Among the items in each shop, there are some\r\nthat are <COL ffdc78>in stock</COL> and some with <COL ffdc78>\r\npurchase requirements</COL>.\r\nPlease check the details of the item you want\r\nand participate in the content to earn DP.",
+      "text": "Manche Waren sind <COL ffdc78>nur begrenzt vorrätig</COL>\noder haben <COL ffdc78>Kaufbedingungen</COL>.\nPrüfe die Angaben im Laden und sammle\ndie benötigten Punkte in Kriegsmissionen."
+    }
+  ]
+}

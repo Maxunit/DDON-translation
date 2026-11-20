@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step169.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_169.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_165",
+      "read_index": "0",
+      "source_jp": "アルケミストは、錬成物質による攻撃で\r\n敵の注目を集め、多彩な状態異常と特殊移動\r\nで戦況を操る術師です\r\n＜基本操作／攻撃＞\r\n　【<KC ATTACK1>】アルケム（錬成）\r\n　【<KC ATTACK2>】クラスター（集中錬成）\r\n　※《錬成値》の蓄積により強く注目を引きつけます",
+      "source_en": "The Alchemist is a mage who uses offensive\r\nattacks with synthesized materials to attract\r\nthe enemy's attention. They manipulate the\r\nbattle situation with various abnormal\r\nconditions and special moves.\r\n[Basic Operations] - [Alchemy] <KC ATTACK1>\r\n- [Cluster] <KC ATTACK2>\r\n* By accumulating \"Stakes\", they can\r\ndraw stronger attention.",
+      "text": "Der Alchemist zieht mit seinen\nGebilden die Aufmerksamkeit der Gegner\nauf sich. Statuseffekte und besondere\nAusweichmanöver helfen ihm dabei.\n[<KC ATTACK1>] Alchem: Materie erschaffen\n[<KC ATTACK2>] Verdichten: Materie bündeln\nJe mehr Materie am Gegner haftet,\ndesto eher greift er dich an."
+    },
+    {
+      "key": "TUTORIAL_STEP_344",
+      "read_index": "1",
+      "source_jp": "機動力と回避力に優れており\r\n特殊移動を活かした鋭い立ち回りが可能です\r\nただし特殊移動はスタミナを消費するため\r\n残量には注意しましょう\r\n＜基本操作／回避＞\r\n　【<KC AVOID>】アルケム・フーガ（回避錬成）</KEYM>\r\nまた、成長により新たな特殊移動を習得できます",
+      "source_en": "It has excellent mobility and evasion and can\r\nmake use of special moves for sharp maneuvers.\r\nHowever, special moves consume stamina, so be\r\ncareful of your remaining stamina.\r\n[Basic Operation/Evasion] [<KC AVOID>]\r\nAlchem Fuga (Evasion)</KEYM>\r\nYou can also learn new special\r\nmoves through growth.",
+      "text": "Der Alchemist weicht flink aus und\nkann sich mit besonderen Manövern\nschnell neu positionieren.\nDiese Manöver verbrauchen Ausdauer.\n[<KC AVOID>] Alchem-Fuga: Ausweichen</KEYM>\nBeim Aufstieg lernst du weitere Manöver."
+    }
+  ]
+}

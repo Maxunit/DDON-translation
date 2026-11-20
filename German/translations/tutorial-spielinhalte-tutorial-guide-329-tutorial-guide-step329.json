@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step329.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_329.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_506",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《鍛練の小部屋》では戦闘のフローや\r\nジョブ毎の立ち回りの練習を行う事ができます</COL>\r\nまた、受付のNPCに話しかける事で\r\n捕獲された数種類の敵と模擬戦闘も行えます\r\n新しいスキルは\r\n鍛練の小部屋で慣らしてから\r\n実戦に出るようにすると安心です",
+      "source_en": "<COL ffdc78>In the \"Training Room\", you can practice the\r\nflow of combat and the behavior of each job.</COL>\r\nYou can also talk to the NPC at the reception\r\nand have mock battles with several types\r\nof captured enemies.\r\nYou can get used to your new skills in the\r\nTraining Room before going into battle.",
+      "text": "Im <COL ffdc78>Trainingsraum</COL> kannst du den Kampf\nund die Spielweise deiner Klasse üben.\nSprich an der Anmeldung vor, um\ngegen gefangene Gegner anzutreten.\nProbiere neue Fertigkeiten hier aus,\nbevor du sie im Ernstfall einsetzt."
+    }
+  ]
+}

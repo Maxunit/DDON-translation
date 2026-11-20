@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_09.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_09_136",
+      "read_index": "0",
+      "source_jp": "アルケム",
+      "source_en": "Alchemy",
+      "text": "Alchem"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_09_138",
+      "read_index": "4",
+      "source_jp": "クラスター",
+      "source_en": "Cluster",
+      "text": "Verdichten"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_09_142",
+      "read_index": "6",
+      "source_jp": "エリクシル",
+      "source_en": "Elixir",
+      "text": "Elixier auslösen"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_09_141",
+      "read_index": "7",
+      "source_jp": "エリクシル・チェンジ",
+      "source_en": "Change Elixir",
+      "text": "Elixier wechseln"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_09_140",
+      "read_index": "8",
+      "source_jp": "アルケム・フーガ",
+      "source_en": "Alchemical Fuga",
+      "text": "Alchem-Fuga"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_09_145",
+      "read_index": "9",
+      "source_jp": "レクス・リープ",
+      "source_en": "Rex Leap",
+      "text": "Rex-Sprung"
+    }
+  ]
+}

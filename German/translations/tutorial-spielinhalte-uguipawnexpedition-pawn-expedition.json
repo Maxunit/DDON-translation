@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\pawn_expedition.gmd",
+  "arc_path": "\\ui\\uGUIPawnExpedition.arc",
+  "entries": [
+    {
+      "key": "area_list_title",
+      "read_index": "0",
+      "source_jp": "Dispatch Area",
+      "source_en": "Expedition Area",
+      "text": "Expeditionsgebiet"
+    },
+    {
+      "key": "area_list_header0",
+      "read_index": "2",
+      "source_jp": "エリア",
+      "source_en": "Area",
+      "text": "Gebiet"
+    },
+    {
+      "key": "area_list_header1",
+      "read_index": "3",
+      "source_jp": "ホットスポット",
+      "source_en": "Hotspot",
+      "text": "Fundstelle"
+    },
+    {
+      "key": "result_hotspot_discovered",
+      "read_index": "6",
+      "source_jp": "<VAL>でホットスポットを発見しました",
+      "source_en": "Found a hotspot in <VAL>",
+      "text": "Fundstelle in <VAL> entdeckt"
+    },
+    {
+      "key": "sally_hot_spot",
+      "read_index": "14",
+      "source_jp": "<COL ffdc78>ホットスポット</COL>",
+      "source_en": "<COL ffdc78>Hotspot</COL>",
+      "text": "<COL ffdc78>Fundstelle</COL>"
+    },
+    {
+      "key": "sally_hot_spot_with_support",
+      "read_index": "26",
+      "source_jp": "<COL ffdc78>ホットスポット（強化派遣中）</COL>",
+      "source_en": "<COL ffdc78>Hotspot (Enhanced dispatch)</COL>",
+      "text": "<COL ffdc78>Fundstelle (verstärkte Expedition)</COL>"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step224.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_224.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_354",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>ポーンと旅をする上で、特に戦闘時\r\nとても重要になるのが《ポーン命令》です</COL>\r\n回復の要請、エンチャントの要請、\r\n追従指示、待機指示、特定スキルの発動など\r\nプレイヤーが必要に応じた命令をくだす\r\nことで、よりポーンとの共闘を\r\n有利に運ぶことができます",
+      "source_en": "<COL ffdc78>When traveling with a Pawn, it is particularly\r\nimportant in combat to give Pawn orders. </COL>\r\nRequesting recovery, requesting enchantments,\r\ngiving follow commands, standby commands,\r\nactivating specific skills, etc.\r\nBy giving orders that respond to the player's\r\nneeds, you can effectively cooperate with Pawns\r\nand gain an advantage in battle.",
+      "text": "<COL ffdc78>Mit Vasallenbefehlen koordinierst du\r\ndeine Vasallen, vor allem im Kampf.</COL>\r\nSag ihnen, ob sie heilen, Waffen\r\nverzaubern, folgen oder warten sollen.\r\nDu kannst sie auch auffordern,\r\neine bestimmte Fertigkeit einzusetzen."
+    },
+    {
+      "key": "TUTORIAL_STEP_355",
+      "read_index": "1",
+      "source_jp": "ポーン命令は【<KC UI_GAME_MENU>】ゲームメニュー\r\n《キャラクター》の<COL ffdc78>《ポーン命令》</COL>から\r\n行えます\r\nただし、戦闘時とっさに命令を下すには\r\n【<KC UI_SC_COMMU>】簡易コミュニケーションに\r\nショートカット登録しておくことをおすすめします",
+      "source_en": "Pawn orders can be performed from <COL ffdc78>\r\nPawn orders</COL> in the game menu<KC UI_GAME_MENU>\r\nof the character tab.\r\nHowever, it is recommended to register them in\r\nthe <KC UI_SC_COMMU>Shortcut Bar for quick\r\ncommand during combat.",
+      "text": "Öffne mit [<KC UI_GAME_MENU>] das Spielmenü.\r\nUnter „Charakter“ findest du\r\ndie <COL ffdc78>„Vasallenbefehle“</COL>.\r\nLege häufige Befehle auf die\r\nSchnellkommunikation [<KC UI_SC_COMMU>].\r\nSo hast du sie im Kampf griffbereit.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

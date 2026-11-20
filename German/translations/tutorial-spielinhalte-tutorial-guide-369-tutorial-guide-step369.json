@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step369.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_369.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_639",
+      "read_index": "0",
+      "source_jp": "アッカーシェラン大陸では、<COL ffdc78>《戦甲》</COL>という\r\n自己修復機能を持った特殊な鎧で\r\n武装した魔物が出現します\r\n\r\n戦甲は、悪しき竜の加護を元に\r\nドワーフオークが作成した鎧であり、\r\n体に多く装着するほどその性能が向上します\r\n\r\n戦甲を装着した魔物<COL ffdc78>《戦甲種》</COL>との戦闘では\r\n戦甲を破壊してゆくことがカギとなります",
+      "source_en": "In the Acre Selund continent, special monsters\r\narmed with a unique armor called <COL ffdc78>War Ready</COL> with\r\nself-repairing abilities appear.\r\nWar Ready Armor is armor created by Orcs using\r\nthe protection of the evil dragon.\r\nThe more it is worn on the body, the better its\r\nperformance becomes.\r\nIn battles against the monsters wearing War\r\nReady Armor called <COL ffdc78>War Ready Species</COL>, the key is\r\nto destroy their armor.",
+      "text": "In Acre Selund tragen manche Monster\r\neine <COL ffdc78>Kriegsrüstung</COL>, die sich selbst\r\nrepariert. Zwergorks schmiedeten sie\r\nmit dem Segen des bösen Drachen.\r\nJe mehr Teile das Monster trägt,\r\ndesto besser wirkt die Rüstung.\r\nBei <COL ffdc78>gepanzerten Gegnern</COL> ist es wichtig,\r\ndiese Rüstung zu zerstören."
+    },
+    {
+      "key": "TUTORIAL_STEP_647",
+      "read_index": "1",
+      "source_jp": "戦甲に攻撃すると表面に<COL ffdc78>赤いヒビ</COL>が入ります\r\nこの状態では<COL ffdc78>吹き飛ばし力により\r\n戦甲にダメージを与えることができます</COL>が\r\n高い防御性能に阻まれ、<COL ffdc78>体力を削ることはできません</COL>\r\n<COL ffdc78>※吹き飛ばし力によるダメージは紫色で表示されます</COL>\r\n\r\nまた、戦甲には自己修復能力があるため\r\n時間が経過することで修復されてしまいます\r\n\r\n<COL ffdc78>赤いヒビは自己修復能力と高い防御性能を\r\n有した状態を示します</COL>",
+      "source_en": "When attacking the war-ready armor, <COL ffdc78>\r\nred cracks will appear on the\r\nsurface</COL>.\r\nIn this state, you can <COL ffdc78>damage the\r\nwar-ready armor with the force of impact</COL>,\r\nbut its high defense prevents you from depleting\r\nits health. <COL ffdc78>Note that damage from\r\nimpact force will be displayed in purple.</COL>\r\n\r\nAdditionally, the war-ready armor has self-repair\r\ncapabilities, so it will be repaired over time.\r\n\r\n<COL ffdc78>Red cracks indicate a state with both\r\nself-repair capabilities and high defense.</COL>",
+      "text": "Treffer erzeugen <COL ffdc78>rote Risse</COL>.\r\n<COL ffdc78>Wuchtige Angriffe beschädigen dann\r\ndie Rüstung.</COL> Der Gegner selbst\r\n<COL ffdc78>verliert weiterhin keine LP.</COL>\r\n<COL ffdc78>Wuchtschaden wird violett angezeigt.</COL>\r\nDie Rüstung repariert sich mit der Zeit.\r\n<COL ffdc78>Rote Risse zeigen an, dass die Rüstung\r\ngeschützt ist und sich noch heilt.</COL>",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_648",
+      "read_index": "2",
+      "source_jp": "赤いヒビが入った戦甲が自己修復する前に\r\n攻撃を重ねることで、自己修復能力を失った\r\n<COL ffdc78>白いヒビ</COL>へと拡大させることができます\r\n\r\nまた、白いヒビの状態では防御性能が低下するため\r\n<COL ffdc78>戦甲と戦甲種自身の体力を削ることが可能となります</COL>\r\n\r\n<COL ffdc78>白いヒビは自己修復能力を失い\r\n防御性能が低下した状態を示します</COL>",
+      "source_en": "Before the red crack in the combat armor can\r\nself-repair, by repeating attacks, you can expand\r\nit into a <COL ffdc78>white crack</COL> that has\r\nlost its self-repair ability.\r\n\r\nFurthermore, in the state of the white crack,\r\n<COL ffdc78>the defensive performance decreases,\r\nmaking it possible to reduce the health of the\r\ncombat armor and War Ready species\r\nthemselves.</COL>\r\n\r\n<COL ffdc78>The white crack represents a state\r\nwhere the self-repair ability is lost and the\r\ndefensive performance is decreased.</COL>",
+      "text": "Triff die Rüstung erneut, bevor sie\r\nsich repariert. Aus roten Rissen\r\nwerden <COL ffdc78>weiße Risse</COL>.\r\n<COL ffdc78>Die Rüstung schützt nun weniger. Du\r\nkannst der Rüstung und dem Gegner\r\nSchaden zufügen.</COL>\r\n<COL ffdc78>Weiße Risse bedeuten, dass die Rüstung\r\nsich nicht mehr selbst repariert.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_649",
+      "read_index": "3",
+      "source_jp": "白いヒビが入った戦甲は、さらに攻撃を加え続けると\r\n戦甲を完全に破壊することができます。\r\n\r\n戦甲へは<COL ffdc78>吹き飛ばし力が高い攻撃</COL>が特に有効です\r\nその他、<COL ffdc78>仲間と協力して集中攻撃</COL>を仕掛けることも\r\n有効な戦法となるでしょう\r\n\r\n戦甲を破壊することで鎧の下に隠された弱点が\r\n露出されるなど、様々なメリットが得られるので\r\n積極的に戦甲の破壊を狙いましょう",
+      "source_en": "The war armor with white cracks can be completely\r\ndestroyed if you continue to attack it.\r\n\r\n<COL ffdc78>Attacks with high Knockdown Power are\r\nparticularly effective</COL> against the war\r\narmor.\r\nIn addition,<COL ffdc78>launching concentrated\r\nattacks with allies</COL> can also be an effective\r\nstrategy.\r\n\r\nBy destroying the war armor, you can expose the\r\nweakness hidden under the armor and gain various\r\nbenefits.\r\nActively aim to destroy the war armor.",
+      "text": "Greif eine Rüstung mit weißen Rissen\r\nweiter an, um sie ganz zu zerstören.\r\n<COL ffdc78>Besonders wirksam sind wuchtige\r\nAngriffe.</COL> Hilfreich sind auch\r\n<COL ffdc78>gemeinsame Angriffe auf dieselbe\r\nStelle.</COL> Unter der zerstörten Rüstung\r\nkönnen Schwachstellen freiliegen."
+    }
+  ]
+}

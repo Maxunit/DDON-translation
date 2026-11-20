@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step118.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_118.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_107",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《ジョブマスター》修練が可能になりました！</COL>\r\n<COL ffdc78>《ジョブマスター》</COL>とは、ジョブの基礎を\r\n修めた者に、より高レベルのスキルやアビリティを\r\n教えてくれる各ジョブのエキスパートです\r\n<COL ffdc78>レベル１８に達したなら神殿《宿場区》の\r\nレンテンを訪れましょう\r\n彼が訓練官としてあなたを紹介してくれるでしょう</COL>",
+      "source_en": "<COL 78f5ff>Job Master Training is now available!</COL>\r\nA \"Job Master\" is an expert of each job who can\r\nteach advanced skills and abilities to those who\r\nhave mastered the basics of the job.\r\nIf you have reached Level 18, visit Renton in\r\nthe Temple District. He will introduce you as a\r\ntrainer who will help you with your training.",
+      "text": "<COL 78f5ff>Du kannst jetzt bei Klassenmeistern trainieren!</COL>\n<COL ffdc78>Klassenmeister</COL> lehren fortgeschrittene\nFertigkeiten und Begabungen, wenn du\ndie Grundlagen deiner Klasse beherrschst.\n<COL ffdc78>Sprich ab Stufe 18 mit Lenten im\nHerbergsviertel des Tempels.\nAls Ausbilder stellt er dich ihnen vor.</COL>",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_106",
+      "read_index": "1",
+      "source_jp": "ジョブマスターは《ジョブ修練》を達成\r\nすることで、課題に対応する戦技の\r\nレベル上限をさらに引き上げてくれます\r\n※レベル上限は戦技によって異なります\r\n特に、カスタムスキルはレベル６に\r\n強化することで性能や攻撃回数などが\r\n大幅に強化されるようになります",
+      "source_en": "Job Masters will raise the level cap of combat\r\nskills that correspond to the challenges by\r\nachieving \"Job Training\".\r\n※ The level cap varies depending\r\non the combat skill.\r\nCustom Skills, in particular, will be greatly\r\nenhanced in terms of performance and number of\r\nattacks when strengthened to level 6.",
+      "text": "Schließt du eine Trainingsaufgabe ab,\nhebt der Klassenmeister die Höchststufe\nder betreffenden Fertigkeit an.\nDas Limit hängt von der Fertigkeit ab.\nAuf Stufe 6 werden Spezialfertigkeiten\nviel stärker oder treffen häufiger."
+    },
+    {
+      "key": "TUTORIAL_STEP_489",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>さらに、世界には神殿に伝えられていない\r\nジョブも存在するようです</COL>\r\nジョブマスターとの出会いが、新たなジョブ\r\nへの入門になることもあるでしょう",
+      "source_en": "<COL ffdc78>Furthermore, it seems that there are jobs in the\r\nworld that have not been passed\r\ndown to the Temple. </COL>\r\nMeeting a Job Master can also serve as an\r\nintroduction to a new job.",
+      "text": "<COL ffdc78>Es gibt Klassen, die im Tempel kaum\nbekannt sind.</COL> Ein Klassenmeister\nkann dir den Weg zu einer neuen\nKlasse eröffnen."
+    }
+  ]
+}

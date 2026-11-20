@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\tutorial_guide_category.gmd",
+  "arc_path": "\\ui\\uGUIMenuTutorial.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_CATEGORY_17",
+      "read_index": "0",
+      "source_jp": "覚者の基本",
+      "source_en": "The Arisen",
+      "text": "Die Erweckten"
+    },
+    {
+      "key": "TUTORIAL_CATEGORY_8",
+      "read_index": "1",
+      "source_jp": "冒険の基礎知識",
+      "source_en": "Adventuring Basics",
+      "text": "Abenteuergrundlagen"
+    },
+    {
+      "key": "TUTORIAL_CATEGORY_15",
+      "read_index": "2",
+      "source_jp": "ジョブの操作と役割",
+      "source_en": "Job Roles",
+      "text": "Klassen und Rollen"
+    },
+    {
+      "key": "TUTORIAL_CATEGORY_3",
+      "read_index": "3",
+      "source_jp": "クエストのルール",
+      "source_en": "About Quests",
+      "text": "Questregeln"
+    },
+    {
+      "key": "TUTORIAL_CATEGORY_12",
+      "read_index": "4",
+      "source_jp": "施設と拠点",
+      "source_en": "Establishments and Locations",
+      "text": "Stützpunkte und Dienste"
+    },
+    {
+      "key": "TUTORIAL_CATEGORY_4",
+      "read_index": "5",
+      "source_jp": "便利なシステム機能",
+      "source_en": "Menu Functions",
+      "text": "Menüfunktionen"
+    },
+    {
+      "key": "TUTORIAL_CATEGORY_18",
+      "read_index": "6",
+      "source_jp": "ポーンの基本",
+      "source_en": "Pawns",
+      "text": "Vasallen"
+    },
+    {
+      "key": "TUTORIAL_CATEGORY_19",
+      "read_index": "7",
+      "source_jp": "クラフト手引き",
+      "source_en": "Crafting Basics",
+      "text": "Handwerksgrundlagen"
+    },
+    {
+      "key": "TUTORIAL_CATEGORY_20",
+      "read_index": "8",
+      "source_jp": "コンテンツ紹介",
+      "source_en": "Dungeons",
+      "text": "Spielinhalte"
+    },
+    {
+      "key": "TUTORIAL_CATEGORY_21",
+      "read_index": "9",
+      "source_jp": "シナリオ進行",
+      "source_en": "Scenarios",
+      "text": "Szenarien"
+    },
+    {
+      "key": "TUTORIAL_CATEGORY_22",
+      "read_index": "10",
+      "source_jp": "サブストーリー",
+      "source_en": "Substories",
+      "text": "Nebengeschichten"
+    },
+    {
+      "key": "TUTORIAL_CATEGORY_23",
+      "read_index": "11",
+      "source_jp": "黒呪の迷宮",
+      "source_en": "Bitterblack Maze",
+      "text": "Finstergram-Labyrinth"
+    },
+    {
+      "key": "TUTORIAL_CATEGORY_25",
+      "read_index": "13",
+      "source_jp": "ドラゴンアビリティ",
+      "source_en": "Dragon Ability",
+      "text": "Drachenbegabungen"
+    }
+  ]
+}

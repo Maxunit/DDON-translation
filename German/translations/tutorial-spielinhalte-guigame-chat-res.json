@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\Chat_res.gmd",
+  "arc_path": "\\ui\\GUIGame.arc",
+  "entries": [
+    {
+      "key": "MSG_RECORD_J",
+      "read_index": "11",
+      "source_jp": "履歴",
+      "source_en": "History",
+      "text": "Verlauf"
+    },
+    {
+      "key": "MSG_VIEWLOG",
+      "read_index": "13",
+      "source_jp": "ログ参照",
+      "source_en": "View Log",
+      "text": "Verlauf ansehen"
+    },
+    {
+      "key": "MSG_CHATMODE",
+      "read_index": "16",
+      "source_jp": "チャットモード",
+      "source_en": "Chat Mode",
+      "text": "Chatmodus"
+    },
+    {
+      "key": "MSG_CHANGE_TO",
+      "read_index": "19",
+      "source_jp": "宛て先の変更",
+      "source_en": "Change Destination",
+      "text": "Empfänger wechseln"
+    },
+    {
+      "key": "MSG_ADDRESS_MEMO",
+      "read_index": "23",
+      "source_jp": "Memo",
+      "source_en": "Memo",
+      "text": "Notiz"
+    }
+  ]
+}

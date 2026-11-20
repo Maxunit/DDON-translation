@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step381.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_381.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_673",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《ウォーミッション》とは\r\n期間限定で開催され、\r\n最大８人までのパーティーを組んで\r\n挑戦する大規模コンテンツです</COL>\r\n\r\n開催時期や内容は《レスタニアニュース》で\r\n告知されるので、チェックしましょう",
+      "source_en": "<COL ffdc78>\"War Missions\" are large-scale challenges that\r\nare held for a limited time only.\r\nYou can form a party of up to 8 people to\r\ntake on these missions.</COL>\r\nBe sure to check the \"Lestania News\" for\r\nannouncements about the timing and\r\ndetails of the event.",
+      "text": "<COL ffdc78>Kriegsmissionen sind große Schlachten\nfür Gruppen mit bis zu acht Leuten.\nSie finden nur zeitweise statt.</COL>\nDie Termine und Einzelheiten stehen\nin den Lestania-Nachrichten."
+    },
+    {
+      "key": "TUTORIAL_STEP_674",
+      "read_index": "1",
+      "source_jp": "これら専用のパーティーを組むコンテンツは、\r\n担当ＮＰＣに話しかけることで\r\n<COL ffdc78>《エントリーボード》</COL>から参加申請できます\r\n\r\n<COL ffdc78>　＜ウォーミッションパーティー時の制限＞\r\n　　　※結成時は担当NPC前に集合・帰還することに\r\n　　　　なり、フィールドなどへは移動できません\r\n　　　※申請後も転職は可能ですが、\r\n　　　　パーティー結成時に\r\n　　　　登録ジョブへ強制変更されます\r\n　　　　（その後の再転職は可能です）</COL>",
+      "source_en": "You can apply to join these dedicated party\r\ncontents by talking to the assigned NPC from the\r\n<COL ffdc78>Entry Board</COL>.\r\n\r\n<COL ffdc78>[War Missions party restrictions]</COL>\r\n- When the party is formed, you will need to\r\ngather and return to the assigned NPC, and you\r\nwill not be able to move to open play areas or\r\nother locations.\r\n- After applying, you can still change vocations,\r\nbut your registered job will be forcibly changed\r\nat the time of party formation. (You can still\r\nchange vocations after that)",
+      "text": "Sprich mit der zuständigen Person,\num dich über das <COL ffdc78>Anmeldeboard</COL>\nfür eine Kriegsmission anzumelden.\n<COL ffdc78>Sobald die Gruppe gebildet ist,\nversammeln sich alle Teilnehmer vor\nder zuständigen Person. Ihr könnt\ndann nicht mehr ins offene Gebiet.\nDu kannst nach der Anmeldung die\nKlasse wechseln. Sobald die Gruppe\nsteht, wechselst du wieder zur\nangemeldeten Klasse. Danach kannst\ndu sie erneut wechseln.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_675",
+      "read_index": "2",
+      "source_jp": "ウォーミッションに参加すると\r\n<COL ffdc78>終了時の戦果が、そのままDPショップで使える\r\n通貨《ドミニオンポイント》として獲得できます</COL>\r\n\r\nまた、開催中はアッカーシェラン大陸全土に\r\n戦果となる特別な魔物も出現します\r\n\r\nより高い報酬を目指し、DPショップで\r\nアイテムを購入しましょう",
+      "source_en": "When you participate in a war mission<COL ffdc78>\r\n, you can earn the currency \"Dominion Points\"\r\nthat can be used directly in the DP Shop.</COL>\r\nAlso, during the event, special enemies will\r\nappear throughout the Acre Selund continent that\r\ncontribute to the war.\r\nAim for higher rewards and purchase\r\nitems in the DP Shop!",
+      "text": "<COL ffdc78>Am Ende der Kriegsmission erhältst\ndu deine erzielten Punkte direkt als\nHerrschaftspunkte (DP).</COL> Damit kannst\ndu im Laden für Herrschaftspunkte\neinkaufen. Während der Missionen\nerscheinen auf ganz Acre Selund\nauch besondere Monster, die zu\ndeiner Wertung beitragen."
+    },
+    {
+      "key": "TUTORIAL_STEP_685",
+      "read_index": "3",
+      "source_jp": "本開催期間中、ウォーミッションに付随した\r\nワールドクエストと戦況：敵軍殲滅では\r\n<COL ffdc78>稀にオークの将が出現することがあります</COL>\r\n\r\n大将からは希少なアイテムが獲得できるほか、\r\n大将を討伐した数が一定数に達すると\r\n<COL ffdc78>特別な戦況：大将討滅</COL>が出現します\r\n\r\n全覚者で協力し、大将出現を目指しましょう",
+      "source_en": "During this event, there are World Quests\r\nassociated with War Missions.\r\nIn the battle situation of annihilating the\r\nenemy, <COL ffdc78>there is a rare chance that a\r\nleader of the Orcs will appear. </COL>\r\n\r\nDefeating the leader not only allows you to\r\nobtain rare items, but also triggers a special\r\nbattle situation called <COL ffdc78>\"Leader\r\nElimination\"</COL> when a certain number of leader\r\ndefeats is reached.\r\n\r\nCooperate as Arisen and aim for the\r\nappearance of the leader.",
+      "text": "Während des regulären Einsatzes\ntauchen bei zugehörigen Weltquests\noder bei „Feindheer vernichten“\nselten <COL ffdc78>Ork-Befehlshaber</COL> auf.\nSie tragen seltene Gegenstände.\nBesiegt ihr gemeinsam genug von ihnen,\nöffnet sich die besondere Schlacht\n<COL ffdc78>„Den Feldherrn stürzen“</COL>."
+    }
+  ]
+}

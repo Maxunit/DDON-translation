@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step242.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_242.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_385",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78> 特定のジョブは\r\nジョブマスターに出会うことで\r\n転職の道が開けます</COL>\r\n入門のための<COL ffdc78>《習得課題》</COL>をクリアすることで\r\nそのジョブへの転職が可能になります ",
+      "source_en": "<COL ffdc78>You can change vocations by\r\nfinding a Job Master.\r\nThere is one for every vocation.</COL>\r\nBy completing the <COL ffdc78>\"Acquisition Task\"</COL> of the\r\nvocation, you will be able to\r\nchange to that vocation.",
+      "text": "<COL ffdc78>Sprich für bestimmte Klassen mit dem\njeweiligen Klassenmeister.</COL>\nSchließe die <COL ffdc78>Aufnahmeprüfung</COL> ab.\nDanach kannst du zu der neuen\nKlasse wechseln."
+    }
+  ]
+}

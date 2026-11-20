@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step114.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_114.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_146",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《オートラン》</COL>は、長距離移動を\r\n楽にするサポート機能です\r\n遠い場所への冒険時はぜひ使ってみましょう\r\n【<KC AUTO_RUN>】オートラン（継続走行）\r\n　　　　　　※再度押すと解除",
+      "source_en": "<COL ffdc78>[Auto-Run]</COL> is a support function that makes\r\nlong-distance travel easier.\r\nWhen going on adventures to faraway places, be\r\nsure to give it a try.\r\n[<KC AUTO_RUN>] Auto-Run (continuous running) ※Press\r\nagain to deactivate.",
+      "text": "Mit <COL ffdc78>automatischem Laufen</COL> legst du\nlange Strecken leichter zurück.\n[<KC AUTO_RUN>] Laufen starten\nDrücke die Taste erneut, um aufzuhören."
+    },
+    {
+      "key": "TUTORIAL_STEP_278",
+      "read_index": "1",
+      "source_jp": "また、パーティープレイ時には\r\n他のパーティーメンバーに追従する\r\nオートランの設定も可能です\r\n　　追従したいメンバーに近づいて\r\n　【<KC TOUCH>】でメニューから\r\n　　<COL ffdc78>《追従オートラン》</COL>を選択\r\n　　※ポーンには追従オートランできません",
+      "source_en": "Also, during party play, it is possible to set\r\nauto-run to follow other party members.\r\nTo enable auto-run to follow the desired member,\r\napproach them and select \"Follow Auto-Run\" from\r\nthe menu using the <KC TOUCH>.\r\nNote: Pawns cannot use follow auto-run.",
+      "text": "In einer Gruppe kannst du automatisch\neinem anderen Spieler folgen.\nGeh zu ihm und öffne das Menü mit\n[<KC TOUCH>]. Wähle <COL ffdc78>„Automatisch folgen“</COL>.\nVasallen können dabei nicht als\nZiel dienen.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

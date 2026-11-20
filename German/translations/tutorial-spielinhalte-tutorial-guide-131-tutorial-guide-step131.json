@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step131.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_131.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_193",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《クラフトルーム》が利用可能になりました！</COL>\r\n<COL ffdc78>《クラフトルーム》</COL>は、素材アイテムを加工して\r\nさまざまなアイテムや装備品を\r\n生産・カスタマイズする場所です\r\n契約したポーンたちはここでクラフト作業を行います",
+      "source_en": "<COL 78f5ff>The Workshop is now available!</COL>\r\nThe <COL ffdc78>Workshop</COL> is a place where you can process\r\nmaterial items and produce/customize various\r\nitems and equipment.\r\nThe contracted pawns will\r\nperform crafting work here.",
+      "text": "<COL 78f5ff>Die Werkstatt steht dir jetzt offen!</COL>\nIn der <COL ffdc78>Werkstatt</COL> stellen deine Vasallen\naus Materialien Gegenstände her.\nSie können auch Ausrüstung fertigen,\nverstärken und anpassen."
+    },
+    {
+      "key": "TUTORIAL_STEP_248",
+      "read_index": "1",
+      "source_jp": "ゲームをより有利に進めるためには、\r\n戦闘に役立つ武器・防具の作成や強化\r\nが欠かせません\r\n積極的に利用しましょう",
+      "source_en": "To get the most out of the game, create and\r\nstrengthen weapons and armor that\r\nwill help you in battle.\r\nUtilize this system to its full potential.",
+      "text": "Fertige und verstärke Waffen und\nRüstungen in der Werkstatt.\nGute Ausrüstung erleichtert dir\nviele Kämpfe."
+    }
+  ]
+}

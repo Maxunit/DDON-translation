@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_02.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_02_24",
+      "read_index": "0",
+      "source_jp": "連斬",
+      "source_en": "Carve",
+      "text": "Schnittfolge"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_02_26",
+      "read_index": "2",
+      "source_jp": "百裂斬り",
+      "source_en": "Scarlet Kisses",
+      "text": "Klingensalve"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_02_28",
+      "read_index": "6",
+      "source_jp": "ロープ構え",
+      "source_en": "Rope Stance",
+      "text": "Seil bereithalten"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_02_29",
+      "read_index": "7",
+      "source_jp": "ロープ投げ",
+      "source_en": "Throw Rope",
+      "text": "Seilwurf"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_02_30",
+      "read_index": "8",
+      "source_jp": "転身",
+      "source_en": "Forward Roll",
+      "text": "Ausweichrolle"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_02_31",
+      "read_index": "9",
+      "source_jp": "連係投げ",
+      "source_en": "Linking Throw",
+      "text": "Verbündete hochwerfen"
+    }
+  ]
+}

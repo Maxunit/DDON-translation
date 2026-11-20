@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\master\\area21_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "5",
+      "source_jp": "火垂れ山野営地",
+      "source_en": "Firefall Mountain Campsite",
+      "text": "Lager am Feuerfallberg"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "18",
+      "source_jp": "火垂れ山拝竜院",
+      "source_en": "Firefall Mountain Dragon Temple",
+      "text": "Drachentempel am Feuerfallberg"
+    }
+  ]
+}

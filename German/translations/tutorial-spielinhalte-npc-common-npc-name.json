@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\npc\\npc_name.gmd",
+  "arc_path": "\\npc\\npc_common.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "557",
+      "source_jp": "黒騎士",
+      "source_en": "Black Knight",
+      "text": "Schwarzer Ritter"
+    },
+    {
+      "key": "",
+      "read_index": "559",
+      "source_jp": "淀みし大竜力",
+      "source_en": "Phantasmic Great Dragon",
+      "text": "Angestaute Drachenkraft"
+    },
+    {
+      "key": "",
+      "read_index": "655",
+      "source_jp": "パートナーポーン",
+      "source_en": "Partner Pawn",
+      "text": "Partnervasall"
+    },
+    {
+      "key": "",
+      "read_index": "1040",
+      "source_jp": "黒竜",
+      "source_en": "Black Dragon",
+      "text": "Schwarzer Drache"
+    }
+  ]
+}

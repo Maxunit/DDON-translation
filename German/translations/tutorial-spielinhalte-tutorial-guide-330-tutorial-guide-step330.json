@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step330.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_330.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_507",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《クランダンジョン》</COL>は\r\n敵を討伐する時間によって\r\n報酬が変わってゆくダンジョンです\r\n制限時間はありませんが\r\n<COL ffdc78>素早く敵を討伐することで\r\nより価値の高い報酬が手に入ります</COL>\r\nまた、<COL ffdc78>残り時間を多く残して最奥に潜む\r\n敵を討伐すると、報酬となる宝箱の数が多くなります</COL>\r\n最高の報酬を手にするには仲間との協力が不可欠です",
+      "source_en": "<COL ffdc78>\"Clan Dungeon\"</COL> is a dungeon\r\nwhere the rewards change depending on the time it\r\ntakes to defeat the enemy.\r\nThere is no time limit, but <COL ffdc78>defeating\r\nthe enemy quickly</COL> will allow you to obtain\r\nmore valuable rewards.\r\nAlso, if you <COL ffdc78>defeat the enemy lurking\r\nat the deepest part while having more remaining\r\ntime, the number of treasure chests that become\r\nrewards will increase.</COL>\r\nCooperation with your allies is essential to\r\nobtain the highest rewards.",
+      "text": "In <COL ffdc78>Clan-Dungeons</COL> hängt die Belohnung\ndavon ab, wie schnell ihr die Gegner\nbesiegt. Ihr könnt euch Zeit lassen,\naber <COL ffdc78>ein schneller Sieg bringt\nwertvollere Belohnungen.</COL>\n<COL ffdc78>Je mehr Bonuszeit euch beim Sieg über\nden letzten Gegner bleibt, desto mehr\nSchatztruhen erhaltet ihr.</COL>\nArbeitet für die beste Belohnung zusammen."
+    },
+    {
+      "key": "TUTORIAL_STEP_541",
+      "read_index": "1",
+      "source_jp": "ある探検家が記した《手がかり》が\r\n世界中に散らばっており、\r\n<COL ffdc78>探索できるクランダンジョンは\r\n見つけた手がかりに対応して増えていきます</COL>\r\n※クランダンジョンの探索では\r\nマルチプレイでのエントリーボード検索は\r\nできませんので、<COL ffdc78>招待機能を使って\r\n他のプレイヤーを募集してください</COL>",
+      "source_en": "A certain explorer left behind \"clues\"\r\nscattered all over the world.\r\n<COL ffdc78>The number of clan dungeons that can be explored\r\nwill increase as you find corresponding clues. </COL>\r\n※ In the search for clan dungeons, entry board\r\nsearching in multiplayer is not possible. <COL ffdc78>\r\nPlease use the invitation function to\r\nrecruit other players.</COL>",
+      "text": "Ein Entdecker hat in der Welt an\nvielen Orten Hinweise hinterlassen.\n<COL ffdc78>Mit jedem Hinweis kannst du einen\nweiteren Clan-Dungeon erkunden.</COL>\nBei diesen Dungeons steht die Suche\nübers Anmeldeboard nicht zur Verfügung.\n<COL ffdc78>Lade andere Spieler stattdessen direkt\nein.</COL>"
+    }
+  ]
+}

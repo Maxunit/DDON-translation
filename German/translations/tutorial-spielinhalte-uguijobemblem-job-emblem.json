@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\job_emblem.gmd",
+  "arc_path": "\\ui\\uGUIJobEmblem.arc",
+  "entries": [
+    {
+      "key": "job_emblem_title",
+      "read_index": "1",
+      "source_jp": "Job Emblem",
+      "source_en": "Vocation Emblem",
+      "text": "Klassenemblem"
+    },
+    {
+      "key": "job_emblem_sub_title",
+      "read_index": "2",
+      "source_jp": "ジョブエンブレムメニュー",
+      "source_en": "Vocation Emblem",
+      "text": "Klassenemblem"
+    },
+    {
+      "key": "job_emblem_point_name",
+      "read_index": "6",
+      "source_jp": "EMBLEM POINTS",
+      "source_en": "EMBLEM POINTS",
+      "text": "EMBLEMPUNKTE"
+    }
+  ]
+}

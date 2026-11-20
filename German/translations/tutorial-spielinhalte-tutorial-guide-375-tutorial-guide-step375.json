@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step375.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_375.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_664",
+      "read_index": "0",
+      "source_jp": "大きな広場など、見張りが多数いる場所は\r\n戦闘で切り抜けるのが困難なため\r\n<COL ffdc78>一度発見されると潜入任務が失敗</COL>となる\r\n場合があります\r\n\r\nソネルから注意があった場合は\r\n<COL ffdc78>見張りの位置や動きに注意</COL>して\r\nより慎重に進みましょう",
+      "source_en": "In places such as large plazas where there are\r\nmany guards, it can be difficult to\r\nnavigate through combat,\r\n<COL ffdc78>and once discovered, the\r\ninfiltration mission may fail.</COL>\r\nIf there is a warning from Sonel, pay attention\r\nto the <COL ffdc78>positions and movements</COL>\r\nof the guards and proceed with caution.",
+      "text": "Auf großen Plätzen und an anderen\nStellen mit vielen Wachen ist es\nschwer, sich durchzukämpfen.\n<COL ffdc78>Werdet ihr einmal entdeckt, kann die\nSchleichmission sofort scheitern.</COL>\nWarnt dich Sonel, achte genau auf\n<COL ffdc78>Standort und Wege der Wachen</COL>.\nGeh dort besonders vorsichtig vor."
+    }
+  ]
+}

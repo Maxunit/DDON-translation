@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\npc\\npc_class_name.gmd",
+  "arc_path": "\\npc\\npc_common.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "よろず屋・ハイオーブ交換",
+      "source_en": "General Shop / High Orb Exchange",
+      "text": "Gemischtwaren / Tausch für Edle Kugeln"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "source_jp": "美容院",
+      "source_en": "Beauty Salon",
+      "text": "Schönheitssalon"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "source_jp": "バザー",
+      "source_en": "Bazaar",
+      "text": "Basar"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "source_jp": "バザー",
+      "source_en": "Bazaar",
+      "text": "Basar"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "source_jp": "バザー",
+      "source_en": "Bazaar",
+      "text": "Basar"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "source_jp": "クラン酒場",
+      "source_en": "Clan Tavern",
+      "text": "Clan-Taverne"
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "source_jp": "宿屋",
+      "source_en": "Inn",
+      "text": "Herberge"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "source_jp": "エクストリームミッション",
+      "source_en": "Extreme Missions",
+      "text": "Extremmissionen"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "source_jp": "トレジャーズロット・納品イベント受付",
+      "source_en": "Treasure Lot / Delivery Event Reception",
+      "text": "Schatzlotterie / Lieferevents"
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "source_jp": "バザー",
+      "source_en": "Bazaar",
+      "text": "Basar"
+    },
+    {
+      "key": "",
+      "read_index": "103",
+      "source_jp": "鑑定交換",
+      "source_en": "Appraisal Exchange",
+      "text": "Begutachtung und Tausch"
+    },
+    {
+      "key": "",
+      "read_index": "111",
+      "source_jp": "黒呪の迷宮 案内人",
+      "source_en": "Bitterblack Maze Guide",
+      "text": "Wegweiser des Labyrinths"
+    },
+    {
+      "key": "",
+      "read_index": "115",
+      "source_jp": "クラン執務官",
+      "source_en": "Clan Officer",
+      "text": "Clan-Verwalter"
+    },
+    {
+      "key": "",
+      "read_index": "116",
+      "source_jp": "クラン執務官",
+      "source_en": "Clan Officer",
+      "text": "Clan-Verwalter"
+    },
+    {
+      "key": "",
+      "read_index": "117",
+      "source_jp": "クランダンジョン",
+      "source_en": "Clan Dungeon",
+      "text": "Clan-Dungeons"
+    },
+    {
+      "key": "",
+      "read_index": "147",
+      "source_jp": "復活力の回復",
+      "source_en": "Recover Revival Power",
+      "text": "Wiederbelebungskraft"
+    },
+    {
+      "key": "",
+      "read_index": "148",
+      "source_jp": "ポーン遠征隊",
+      "source_en": "Pawn Expedition Corps",
+      "text": "Vasallenexpeditionen"
+    },
+    {
+      "key": "",
+      "read_index": "160",
+      "source_jp": "宿屋",
+      "source_en": "Inn",
+      "text": "Herberge"
+    },
+    {
+      "key": "",
+      "read_index": "171",
+      "source_jp": "宿屋",
+      "source_en": "Inn",
+      "text": "Herberge"
+    },
+    {
+      "key": "",
+      "read_index": "181",
+      "source_jp": "バザー",
+      "source_en": "Bazaar",
+      "text": "Basar"
+    },
+    {
+      "key": "",
+      "read_index": "190",
+      "source_jp": "バザー",
+      "source_en": "Bazaar",
+      "text": "Basar"
+    },
+    {
+      "key": "",
+      "read_index": "191",
+      "source_jp": "宿屋",
+      "source_en": "Inn",
+      "text": "Herberge"
+    },
+    {
+      "key": "",
+      "read_index": "196",
+      "source_jp": "カスタムメイド工房",
+      "source_en": "Custom-Made Workshop",
+      "text": "Spezialwerkstatt"
+    },
+    {
+      "key": "",
+      "read_index": "199",
+      "source_jp": "鑑定交換",
+      "source_en": "Appraisal Exchange",
+      "text": "Begutachtung und Tausch"
+    },
+    {
+      "key": "",
+      "read_index": "207",
+      "source_jp": "美容院",
+      "source_en": "Beauty Salon",
+      "text": "Schönheitssalon"
+    },
+    {
+      "key": "",
+      "read_index": "208",
+      "source_jp": "鑑定交換",
+      "source_en": "Appraisal Exchange",
+      "text": "Begutachtung und Tausch"
+    },
+    {
+      "key": "",
+      "read_index": "216",
+      "source_jp": "黒呪の迷宮 案内人",
+      "source_en": "Bitterblack Maze Guide",
+      "text": "Wegweiser des Labyrinths"
+    },
+    {
+      "key": "",
+      "read_index": "217",
+      "source_jp": "黒呪の迷宮 案内人",
+      "source_en": "Bitterblack Maze Guide",
+      "text": "Wegweiser des Labyrinths"
+    },
+    {
+      "key": "",
+      "read_index": "218",
+      "source_jp": "黒呪の迷宮 案内人",
+      "source_en": "Bitterblack Maze Guide",
+      "text": "Wegweiser des Labyrinths"
+    },
+    {
+      "key": "",
+      "read_index": "220",
+      "source_jp": "黒呪の迷宮 案内人",
+      "source_en": "Bitterblack Maze Guide",
+      "text": "Wegweiser des Labyrinths"
+    }
+  ]
+}

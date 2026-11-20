@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step53.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_53.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_88",
+      "read_index": "0",
+      "source_jp": "野外には、登ること<COL ffdc78>《クライミング》</COL>が\r\nできる場所があります\r\nはしご、ツタに覆われた岩壁、巨大な樹木\r\nなどを見つけたら登ってみましょう\r\nただし、高所落下ダメージには注意が必要です\r\n<PADM>　　クライミング中は【左スティック】で移動<KEYM>　　クライミング中は【<KC MOVE_FORWARD><KC MOVE_LEFT><KC MOVE_BACKWARD><KC MOVE_RIGHT>】で移動</KEYM>\r\n<PADM>　　（移動中【<KC DASH>】を押すと一足跳び）<KEYM>　　（同じ移動キーを２回押すと一足跳び）</KEYM>",
+      "source_en": "In the outdoors, there are places where you can\r\ntry <COL ffdc78>Climbing</COL>.\r\nIf you find a ladder, a rock wall covered in\r\nvines, or a giant tree, try climbing it.\r\nHowever, be careful of the damage from falling\r\nfrom a high place.\r\n<PADM>During climbing, use the [left stick] to\r\nmove.<KEYM>During climbing, use the [<KC MOVE_FORWARD>\r\n<KC MOVE_LEFT><KC MOVE_BACKWARD><KC MOVE_RIGHT>] to move.</KEYM>\r\n<PADM>(Pressing [<KC DASH>] while moving will\r\nmake you jump forward) <KEYM>(Pressing the same\r\nmovement key twice will make you jump\r\nforward)</KEYM>",
+      "text": "Nutze Leitern, Ranken an Felswänden\nund große Bäume zum <COL ffdc78>Klettern</COL>.\nEin Sturz aus großer Höhe kann dich\nverletzen.\n<PADM>Bewege dich mit dem linken Stick.<KEYM>Bewegen:\n[<KC MOVE_FORWARD> / <KC MOVE_LEFT> / <KC MOVE_BACKWARD> / <KC MOVE_RIGHT>]</KEYM>\n<PADM>[<KC DASH>] Beim Klettern weiter springen\n<KEYM>Zum Springen die Richtungstaste\nzweimal drücken.</KEYM>"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step182.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_182.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_178",
+      "read_index": "0",
+      "source_jp": "冒険中に敵の攻撃などで<COL ffdc78>《死亡状態》</COL>に\r\nなってしまった場合でも\r\n白竜から授かった<COL ffdc78>《復活力》</COL>を使うことで\r\n覚者はその場で起き上がることができます",
+      "source_en": "Even if you are put in a state of death during\r\nan adventure due to enemy attacks, the Revival\r\nPower bestowed by the White Dragon allows the\r\nArisen to rise yet again.",
+      "text": "Wenn du im Kampf <COL ffdc78>stirbst</COL>, kannst du\ndich an Ort und Stelle wiederbeleben.\nNutze dafür die <COL ffdc78>Wiederbelebungskraft</COL>,\ndie dir der Weiße Drache verleiht.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_331",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>《復活力》は現実時間の１日１回、\r\n最大３個まで神殿にいる\r\n《復活力／ログインスタンプ》係官オフィリアから\r\n受け取ることができます</COL>\r\nその日の授与分は日ごとにリセット\r\nされ、再び受け取れるようになります\r\n１日１回、復活力は忘れず受け取りましょう",
+      "source_en": "<COL ffdc78>Revival charges can be claimed once per\r\nreal-world day (up to a maxium of 3) from\r\nOphelia, the official at the temple in charge of\r\nthe Revival Power/Login Stamps</COL>.\r\nDaily allotments reset at midnight— don't\r\nforget to collect yours!",
+      "text": "<COL ffdc78>Bei Ophelia im Tempel kannst du pro\nrealem Tag einmal bis zu drei Ladungen\nWiederbelebungskraft abholen.</COL>\nOphelia ist für Wiederbelebungskraft\nund Login-Stempel zuständig.\nDie Ausgabe wird täglich zurückgesetzt."
+    },
+    {
+      "key": "TUTORIAL_STEP_332",
+      "read_index": "2",
+      "source_jp": "なお、<OPCS>の効果により\r\n<COL ffdc78>《復活力》は１日何度でも\r\n受け取ることができるようになります</COL>",
+      "source_en": "Furthermore, due to the effect of\r\n<OPCS>, <COL ffdc78>Revival Power</COL> can be restored\r\nmultiple times a day.",
+      "text": "Ist <OPCS> aktiv,\n<COL ffdc78>kannst du deine Wiederbelebungskraft\nmehrmals am Tag auffüllen.</COL>"
+    }
+  ]
+}

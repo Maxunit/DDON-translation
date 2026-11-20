@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step334.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_334.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_528",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>アルケミストに新たなカウンター要素\r\n《カウンテラ・アウルム》が追加されました！</COL>\r\n<COL ffdc78>《カウンテラ・アウルム》とは、\r\n敵が仕掛けてくる攻撃に対して\r\nタイミングよく自身のスキルを放つことで\r\n発動できるカウンター要素です</COL>\r\n※一部の回避／防御スキルでは発動できません",
+      "source_en": "<COL 78f5ff>A new counter element has been added to\r\nAlchemist, \"Counterra Aurum\"!</COL>\r\n<COL ffdc78>Counterra Aurum is a counter element that can be\r\nactivated by timing your own skills to\r\ncounter enemy attacks.</COL>\r\n(Note: It cannot be activated by some\r\nevasion/defense skills)",
+      "text": "<COL 78f5ff>Der Alchemist kann jetzt mit\nCounterra Aurum kontern!</COL>\n<COL ffdc78>Setze im richtigen Moment eine\nFertigkeit ein, wenn dich ein Gegner\nangreift. So löst du den Konter aus.</COL>\nMit manchen Ausweich- und\nSchutzfertigkeiten klappt das nicht."
+    },
+    {
+      "key": "TUTORIAL_STEP_529",
+      "read_index": "1",
+      "source_jp": "発動に成功すると\r\n<COL ffdc78>自身の体に金を纏わせて敵の攻撃を防ぎ、\r\nまた攻撃を仕掛けてきた対象に\r\n錬成物質を付着させることができます</COL>\r\nスキルを放つタイミングに失敗すると\r\n敵の攻撃が直撃してしまうというリスクがあります\r\nしかし、うまく発動できれば\r\n得られる効果は非常に高いといえるでしょう",
+      "source_en": "When successfully activated, <COL ffdc78>you will wrap\r\nyourself in gold to protect against enemy\r\nattacks, and also attach alchemical substances\r\nto the target that initiated the attack. </COL>\r\nHowever, there is a risk of being directly hit\r\nby the enemy's attack if the timing of\r\nunleashing the skill is unsuccessful.\r\nNevertheless, if activated successfully, the\r\neffects obtained can be\r\nconsidered very important.",
+      "text": "<COL ffdc78>Gelingt der Konter, hüllt dich Gold ein\nund fängt den Angriff ab. Außerdem\nheftet sich Materie an den Gegner,\nder dich angegriffen hat.</COL>\nVerfehlst du den richtigen Moment,\ntrifft dich der Angriff ungehindert."
+    },
+    {
+      "key": "TUTORIAL_STEP_530",
+      "read_index": "2",
+      "source_jp": "この金を纏う効果は一定時間継続します\r\n<COL ffdc78>効果が継続している間は\r\n攻撃を受けても、自動的に敵の攻撃が\r\n遮断されることが最大の特徴です</COL>\r\n地上、空中、しがみつき中、\r\nどの状態からでも《カウンテラ・アウルム》を\r\n発動することができるので\r\n積極的に発動を狙っていきましょう",
+      "source_en": "This gold-clad effect lasts for a certain amount\r\nof time <COL ffdc78>and while the effect lasts enemy attacks\r\nare automatically blocked, even if you\r\nare attacked directly.</COL>\r\nOn the ground, in the air, or while holding on,\r\nyou can activate \"Counterra Aurum\" from any\r\nstate, so be proactive and aim to activate it!",
+      "text": "Die Goldhülle bleibt eine Weile aktiv.\n<COL ffdc78>Solange sie hält, wehrt sie eingehende\nAngriffe automatisch ab.</COL>\nDu kannst Counterra Aurum am Boden,\nin der Luft und beim Festklammern\nan einem Gegner auslösen."
+    }
+  ]
+}

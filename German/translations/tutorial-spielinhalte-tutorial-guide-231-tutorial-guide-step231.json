@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step231.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_231.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_367",
+      "read_index": "0",
+      "source_jp": "レスタニアニュースでまだ公開されていない\r\n<COL ffdc78>《未公開のワールドクエスト》に\r\nついての情報は、各エリアの《エリアマスター》\r\nに話しかけることで《ワールドクエスト情報》\r\nから購入できます</COL>\r\n推奨レベルを確認し、挑戦したい\r\nワールドクエストの情報を購入しましょう\r\nまた、公開済み情報も同時に確認できます",
+      "source_en": "Information about <COL ffdc78>Hidden World Quests</COL>\r\nthat have not yet been published in Lestania\r\nNews can be purchased from\r\n<COL ffdc78>World Quest Information</COL> by talking to the <COL ffdc78>Area\r\nMaster</COL> in each area.\r\nCheck the recommended level and purchase\r\ninformation about the World\r\nQuest you want to try.\r\nYou can also check the published\r\ninformation at the same time!",
+      "text": "<COL ffdc78>Hinweise zu unentdeckten Weltquests\r\nkannst du beim Gebietsmeister unter\r\n„Weltquest-Infos“ kaufen.</COL>\r\nPrüfe die empfohlene Stufe, bevor du\r\nHinweise zu einer Quest erwirbst.\r\nDort kannst du auch bereits öffentliche\r\nQuestinfos nachlesen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_368",
+      "read_index": "1",
+      "source_jp": "受注場所、倒すべき魔物といった\r\nクエスト目的、そしてクリア時の報酬など\r\nさまざまな情報が確認できます\r\nワールドクエスト情報を利用して\r\n多くの未公開クエストに挑戦しましょう",
+      "source_en": "You can check various information such as the\r\nlocation of the order, the monsters to defeat,\r\nthe quest objectives, and the\r\nrewards upon completion.\r\nUse the World Quest information to challenge\r\nmany undiscovered quests.",
+      "text": "Die Questinfos zeigen den Ort der\r\nQuestannahme, die Zielgegner und die\r\nBelohnung für den Abschluss.\r\nSo findest du auch unentdeckte\r\nWeltquests in deiner Nähe."
+    }
+  ]
+}

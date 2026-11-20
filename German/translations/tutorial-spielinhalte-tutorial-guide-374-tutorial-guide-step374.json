@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step374.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_374.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_663",
+      "read_index": "0",
+      "source_jp": "潜入任務中は\r\n<COL ffdc78>障害物の影に隠れながら進む</COL>ことが\r\n基本となりますが、時には<COL ffdc78>見張りをやり過ごさないと\r\n進めない場所</COL>もあるでしょう\r\n\r\nその際、ソネルが同行していると\r\n<COL ffdc78>移動のタイミングの合図</COL>を出すようにと\r\n指示がある場合があります",
+      "source_en": "During infiltration missions, <COL ffdc78>it is essential to\r\nmove while hiding in the shadows of obstacles</COL>.\r\nHowever, there are also places where you <COL ffdc78>\r\ncannot proceed without bypassing the lookouts</COL>.\r\nIn such cases, there may be instructions to have\r\nSonel accompany you and <COL ffdc78>give\r\nsignals for movement.</COL>",
+      "text": "<COL ffdc78>Bleib in Deckung und rück von einem\nHindernis zum nächsten vor.</COL>\nManche Stellen erreicht ihr erst,\nwenn ihr <COL ffdc78>an einer Wache vorbeikommt</COL>.\nIst Sonel bei dir, bittet er dich\nmanchmal um ein <COL ffdc78>Zeichen</COL>, sobald\nder Weg für ihn frei ist."
+    },
+    {
+      "key": "TUTORIAL_STEP_706",
+      "read_index": "1",
+      "source_jp": "＜移動タイミングの合図を出す＞\r\n\r\n　①まず、先にあなたが指定された位置まで\r\n　　<COL ffdc78>敵に見つからないように</COL>進みます\r\n\r\n　　見張りの動きをよく観察し、\r\n　　<COL ffdc78>十分距離が離れた状態で背を向けたら</COL>\r\n　　すばやく移動します\r\n　　（離れた位置で背を向けて\r\n　　　<COL ffdc78>立ち止まっている時</COL>がチャンスです）",
+      "source_en": "[Signal the timing of movement]\r\n\r\n1. First, proceed to the specified location <COL ffdc78>\r\nwithout being spotted by the enemy</COL>.\r\n\r\nCarefully observe the movements of the guards and\r\n<COL ffdc78>quickly move</COL> when they have <COL ffdc78>\r\nturned their backs and are at a sufficient\r\ndistance</COL>.\r\n(The opportunity arises when they have <COL ffdc78>\r\nstopped and are facing away</COL> at a\r\ndistant location).",
+      "text": "Schleich zuerst alleine zur markierten\nStelle. <COL ffdc78>Lass dich nicht entdecken.</COL>\nBeobachte den Wachposten.\nIst er <COL ffdc78>weit genug weg und schaut\nin die andere Richtung</COL>, geh rasch los.\nAm besten ist der Moment, in dem er\nmit dem Rücken zu dir <COL ffdc78>stehen bleibt</COL>.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_707",
+      "read_index": "2",
+      "source_jp": "　②指定された位置まで移動したら\r\n　　<COL ffdc78>《手招き》のエモートでソネルに合図</COL>を出します\r\n\r\n　　合図を確認すると<COL ffdc78>ソネルが移動を開始</COL>します\r\n\r\n　　敵に見つからずに要所を渡り切ることが\r\n　　できれば成功です",
+      "source_en": "Once you have moved to the specified location,\r\nissue a <COL ffdc78>beckon emote to Sonel</COL>.\r\nOnce Sonel confirms the signal, <COL ffdc78>\r\nSonel will start moving</COL>.\r\nIf you can cross the crucial points without\r\nbeing noticed by the enemy,\r\nit will be a success.",
+      "text": "Bist du an der markierten Stelle,\nwähle <COL ffdc78>„Heranwinken“</COL>, um Sonel ein\nZeichen zu geben.\nSieht er das Zeichen, <COL ffdc78>läuft er los</COL>.\nDie Aktion gelingt, wenn Sonel den\nAbschnitt unbemerkt überquert."
+    },
+    {
+      "key": "TUTORIAL_STEP_708",
+      "read_index": "3",
+      "source_jp": "＜《手招き》エモートの出し方＞\r\n\r\n　【<KC UI_GAME_MENU>】ゲームメニュー《コミュニケーション》から\r\n　《エモート》を選択し、左に表示される\r\n　《<COL ffdc78>Category</COL>》から　《<COL ffdc78>アクション・１</COL>》を選びます\r\n\r\n　右側のリストから《<COL ffdc78>手招き</COL>》を選択すると\r\n　それが合図となります\r\n\r\n　<COL ffdc78>※《ショートカット登録》をしておくと便利です</COL>",
+      "source_en": "<COL ffdc78>How to Perform the [\"Beckon\"] Emote</COL>\r\nFrom the <KC UI_GAME_MENU>[Game Menu] Communication section,\r\nselect [Emotes] and choose [Actions 1] from the\r\n<COL ffdc78>[Category]</COL> displayed on the left.\r\nWhen you select <COL ffdc78>[Beckon]</COL> from the list on the\r\nright, it will be your signal.\r\n<COL ffdc78>※ Registering shortcuts is convenient</COL>",
+      "text": "Öffne mit [<KC UI_GAME_MENU>] das Spielmenü.\nWähle unter „Soziales“ die „Emotes“.\nWähle links unter <COL ffdc78>„Kategorie“</COL>\n<COL ffdc78>„Aktionen 1“</COL>.\nWähle rechts <COL ffdc78>„Heranwinken“</COL>.\n<COL ffdc78>Du kannst das Emote auch auf einen\nSchnellzugriff legen.</COL>",
+      "tag_source": "source_jp"
+    }
+  ]
+}

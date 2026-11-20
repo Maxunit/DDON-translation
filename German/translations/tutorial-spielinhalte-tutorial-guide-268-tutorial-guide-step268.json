@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step268.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_268.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_437",
+      "read_index": "0",
+      "source_jp": "スピリットランサーは、精霊槍により\r\n攻撃と味方支援の両方を行う\r\n森羅の加護を得た槍士です\r\n＜基本操作＞\r\n【<KC ATTACK1>】スラスト（槍による連続攻撃）\r\n【<KC ATTACK2>】エイド（回復エリアを展開）",
+      "source_en": "The Spirit Lancer wields the Spirit Lance and\r\nperforms both offensive attacks and supportive\r\nactions, receiving the divine\r\nprotection of the forest.\r\n[Basic Operations] Press <KC ATTACK1> to perform a Thrust\r\n(a series of spear attacks).\r\nPress <KC ATTACK2> to deploy an Aid (healing area).",
+      "text": "Mit der Geisterlanze greifst du an\nund unterstützt deine Verbündeten.\nDabei hilft dir der Segen der Natur.\nGrundsteuerung\n[<KC ATTACK1>] Stichfolge mit der Lanze\n[<KC ATTACK2>] Heilfeld erzeugen"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\shop_title.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "shop_title_craft",
+      "read_index": "7",
+      "source_jp": "Craft",
+      "source_en": "Craft Menu",
+      "text": "Handwerk"
+    },
+    {
+      "key": "shop_title_inn",
+      "read_index": "11",
+      "source_jp": "Inn",
+      "source_en": "Inn",
+      "text": "Herberge"
+    },
+    {
+      "key": "shop_title_bazaar",
+      "read_index": "13",
+      "source_jp": "Bazaar",
+      "source_en": "Bazaar",
+      "text": "Basar"
+    },
+    {
+      "key": "shop_title_party_support_sub",
+      "read_index": "16",
+      "source_jp": "冒険仲介",
+      "source_en": "Adventure Organizer",
+      "text": "Abenteuervermittler"
+    },
+    {
+      "key": "shop_title_shop",
+      "read_index": "17",
+      "source_jp": "Shop",
+      "source_en": "Shop",
+      "text": "Laden"
+    },
+    {
+      "key": "shop_title_orb_shop",
+      "read_index": "19",
+      "source_jp": "Orb Shop",
+      "source_en": "Orb Shop",
+      "text": "Blutkugeltausch"
+    },
+    {
+      "key": "shop_title_arts_support",
+      "read_index": "21",
+      "source_jp": "Arts Support",
+      "source_en": "Arts Support",
+      "text": "Kampftechniken"
+    },
+    {
+      "key": "shop_title_job_master",
+      "read_index": "23",
+      "source_jp": "Job Master",
+      "source_en": "Job Master",
+      "text": "Klassenmeister"
+    },
+    {
+      "key": "shop_title_beauty_parlor",
+      "read_index": "25",
+      "source_jp": "Beauty Salon",
+      "source_en": "Beauty Salon",
+      "text": "Schönheitssalon"
+    },
+    {
+      "key": "shop_title_revival_recover",
+      "read_index": "27",
+      "source_jp": "Revival Recover",
+      "source_en": "Revival Recover",
+      "text": "Wiederbelebungskraft"
+    },
+    {
+      "key": "shop_title_gacha",
+      "read_index": "32",
+      "source_jp": "Treasures Lot",
+      "source_en": "Treasures Lot",
+      "text": "Schatzlotterie"
+    },
+    {
+      "key": "shop_title_end_contents",
+      "read_index": "36",
+      "source_jp": "Extreme Missions",
+      "source_en": "Extreme Missions",
+      "text": "Extremmissionen"
+    },
+    {
+      "key": "shop_title_boxgacha",
+      "read_index": "42",
+      "source_jp": "Box Treasure Lot",
+      "source_en": "Box Treasure Lot",
+      "text": "Kistenlotterie"
+    },
+    {
+      "key": "shop_title_clan_base",
+      "read_index": "46",
+      "source_jp": "クラン拠点管理",
+      "source_en": "Clan Hall Management",
+      "text": "Clan-Stützpunkt verwalten"
+    },
+    {
+      "key": "shop_title_clan_quest",
+      "read_index": "47",
+      "source_jp": "Clan Quest",
+      "source_en": "Clan Quest",
+      "text": "Clan-Quests"
+    },
+    {
+      "key": "shop_title_clan_dungeon",
+      "read_index": "49",
+      "source_jp": "クランダンジョン",
+      "source_en": "Clan Dungeon",
+      "text": "Clan-Dungeons"
+    },
+    {
+      "key": "shop_title_partyboard",
+      "read_index": "50",
+      "source_jp": "パーティー募集掲示板",
+      "source_en": "Party Recruitment Board",
+      "text": "Gruppenboard"
+    },
+    {
+      "key": "shop_title_war_mission",
+      "read_index": "51",
+      "source_jp": "ウォーミッション",
+      "source_en": "War Missions",
+      "text": "Kriegsmissionen"
+    },
+    {
+      "key": "shop_title_equip_enhance",
+      "read_index": "52",
+      "source_jp": "武具のカスタムメイド",
+      "source_en": "Custom-made Arms",
+      "text": "Ausrüstung veredeln"
+    },
+    {
+      "key": "shop_title_job_emblem",
+      "read_index": "54",
+      "source_jp": "ジョブエンブレム",
+      "source_en": "Vocation Emblem",
+      "text": "Klassenemblem"
+    },
+    {
+      "key": "shop_title_bbi_efcsealed",
+      "read_index": "57",
+      "source_jp": "黒呪装具の効果封印",
+      "source_en": "Bitterblack Maze Effect Seal",
+      "text": "Ausrüstungseffekte versiegeln"
+    },
+    {
+      "key": "shop_title_bbi_dispel",
+      "read_index": "58",
+      "source_jp": "レアアイテムの鑑定",
+      "source_en": "Rare Item Appraisal",
+      "text": "Seltene Gegenstände begutachten"
+    },
+    {
+      "key": "shop_title_bbi_embody",
+      "read_index": "59",
+      "source_jp": "黒呪アイテムの持ち帰り",
+      "source_en": "Bitterblack Item Takeaway",
+      "text": "Beute mitnehmen"
+    },
+    {
+      "key": "shop_title_daily_mission",
+      "read_index": "60",
+      "source_jp": "リワードミッション",
+      "source_en": "Reward Mission",
+      "text": "Belohnungsmissionen"
+    },
+    {
+      "key": "shop_title_ds_fusion",
+      "read_index": "61",
+      "source_jp": "ドラゴンアビリティの合成",
+      "source_en": "Synthesis of Dragon Abilities",
+      "text": "Drachenbegabungen kombinieren"
+    },
+    {
+      "key": "shop_title_mob_hunt",
+      "read_index": "62",
+      "source_jp": "ワイルドハント",
+      "source_en": "Wild Hunt",
+      "text": "Monsterjagd"
+    }
+  ]
+}

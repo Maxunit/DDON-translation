@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\package_quest\\package_quest_info2.gmd",
+  "arc_path": "\\quest\\pqi_02.arc",
+  "entries": [
+    {
+      "key": "PACKAGE_QUEST_INFO_2",
+      "read_index": "0",
+      "source_jp": "展望城の奪還に成功した解放軍\r\nしかし――\r\n魔軍の残党は、城外の防衛区画へ逃げ込み\r\n今もなお、籠城を続けていた――\r\n展望城の防衛にも十分な戦力を割けない\r\n解放軍には、その奪還は不可能――\r\nそう思われていた\r\nただ、そんな状況を打破できる人物が一人\r\n解放軍にいるという――\r\n天才参謀官\"ソネル\"\r\n展望城奪還に尽力した覚者は\r\n彼と共に\"不可能な奪還任務\"に挑むこととなる\r\n",
+      "source_en": "The Liberation Army succeeded in \r\nretaking Lookout Castle.\r\nHowever, the remnants of the Demon Army\r\nescaped into the outer defense zone of the castle\r\nand continue to hold their ground.\r\n\r\nIt's believed that the Liberation Army\r\ncould not possibly hold the castle\r,\r\nas they could not allocate sufficient forces\r\nfor its defense. There is, however, one person\r\nwho can break through such a situation;\r\nA genius staff officer named Sonel,\r\na member of the Liberation Army.\r\n\r\nThe Arisen who played a significant role\r\nin the recapture of Lookout Castle will join him\r\non this \"impossible mission\".",
+      "text": "Das Befreiungsheer hat Burg Weitblick\nzurückerobert. Doch Reste des feindlichen\nHeers halten die Verteidigungsabschnitte\nvor der Burg besetzt.\n\nSchon die Burg zu halten kostet fast\nalle verfügbaren Kräfte. Eine weitere\nRückeroberung scheint unmöglich.\n\nDoch einer im Befreiungsheer könnte\ndie Lage wenden. Sonel ist sein\nfähigster Stratege. Du hast bereits\nbei der Rückeroberung der Burg geholfen.\nJetzt stellst du dich mit ihm einer\nAufgabe, die als unmöglich gilt."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "解放軍の天才参謀官\r\n作戦の立案だけでなく\r\n自らもソーサラーとして戦う",
+      "source_en": "Genius Staff Officer of the Liberation Army. Not\r\nonly does he plan operations, he also fights\r\nas a Sorcerer himself.",
+      "text": "Ein brillanter Stratege des Befreiungsheers.\nEr entwirft Pläne und kämpft selbst\nals Erzmagier an der Front."
+    }
+  ]
+}

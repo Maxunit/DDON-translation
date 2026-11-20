@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step354.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_354.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_612",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《ポーン戦術育成》が解放されました！</COL>\r\n覚者の自室に設置された<COL ffdc78>《語らいのベル》</COL>を\r\n鳴らすことで、あなたのメインポーンの行動方針を\r\n対話によって育成することができます\r\n行動方針は、各メインポーンの各ジョブごとに\r\n育成することができます",
+      "source_en": "<COL 78f5ff>Pawn Tactical Training has been released!</COL>\r\nBy ringing the<COL ffdc78>\"Chatting Bell\"</COL>in your room, you\r\ncan cultivate your main pawn's\r\nbehavior through dialogue.\r\nThe behavior can be cultivated for each\r\njob of each main pawn.",
+      "text": "<COL 78f5ff>Taktiktraining für Vasallen verfügbar!</COL>\r\nLäute die <COL ffdc78>Gesprächsglocke</COL> in deinem\r\nZimmer. Im Gespräch bringst du deinem\r\nHauptvasallen bei, wie er handeln soll.\r\nJeder Hauptvasall kann das für jede\r\nseiner Klassen einzeln lernen."
+    },
+    {
+      "key": "TUTORIAL_STEP_613",
+      "read_index": "1",
+      "source_jp": "メインポーンと対話するためには\r\n<COL ffdc78>《対話回数》</COL>が１以上であることが必要です\r\nメインポーンと共に敵を討伐すると\r\n<COL ffdc78>《育成EXP》</COL>\r\nを取得できます\r\nこの育成EXPを一定値以上取得する度に\r\n対話回数が増えていきます",
+      "source_en": "To have a conversation with the Main Pawn, it is\r\nnecessary to have a <COL ffdc78>[Dialogue\r\nCount]</COL> of 1 or more.\r\nBy defeating enemies together with the Main\r\nPawn, you can obtain <COL ffdc78>[Training EXP]</COL>.\r\nEvery time you obtain a certain amount of\r\nTraining EXP, the Dialogue Count will increase.",
+      "text": "Für ein Gespräch brauchst du mindestens\r\nein <COL ffdc78>verfügbares Gespräch</COL>.\r\nBesiege Gegner mit deinem Hauptvasallen,\r\num <COL ffdc78>Trainings-XP</COL> zu sammeln.\r\nMit genug Trainings-XP bekommst du\r\njedes Mal ein weiteres Gespräch."
+    },
+    {
+      "key": "TUTORIAL_STEP_614",
+      "read_index": "2",
+      "source_jp": "育成EXPは１日の取得量に応じて\r\nボーナス分が付与されます\r\n※ボーナスは育成初期であるほど\r\n　多めに付与されます\r\n１日の入手量としてカウントされる育成EXPは\r\n<COL ffdc78>毎朝５時にリセットされます</COL>",
+      "source_en": "Training EXP will be granted as a bonus based on\r\nthe amount obtained in a day.\r\n※ The earlier the training, the more\r\nbonuses will be granted.\r\nThe training EXP counted as the amount obtained\r\nin a day <COL ffdc78>will be reset at 5 am every morning.</COL>",
+      "text": "Je nach den am Tag gesammelten\r\nTrainings-XP erhältst du einen Bonus.\r\nZu Beginn des Trainings ist er höher.\r\n<COL ffdc78>Der Tageszähler für Trainings-XP\r\nwird jeden Morgen um 5 Uhr\r\nzurückgesetzt.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_615",
+      "read_index": "3",
+      "source_jp": "育成を進めていくと、対話できる項目と\r\nストックしておける対話回数の最大値が\r\n増えていきます\r\nまた、パートナーポーンは少しだけ\r\n育成速度が速くなります\r\nポーンがあなたの戦いを的確に\r\nサポートできるよう、対話を重ねましょう",
+      "source_en": "As you continue to raise them, the number of\r\ntopics you can have dialogues about and the\r\nmaximum number of dialogue counts you can\r\nstock will increase.\r\nIn addition, Partner Pawns will slightly\r\nincrease their growth speed.\r\nTo ensure that your pawn can support your\r\nbattles accurately, go through\r\nrepeated dialogues.",
+      "text": "Mit dem Training kommen Themen hinzu.\r\nDu kannst auch immer mehr Gespräche\r\nfür später aufbewahren.\r\nDein Partnervasall lernt etwas schneller.\r\nSprich regelmäßig mit deinen Vasallen,\r\num ihre Hilfe auf dich abzustimmen."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step67.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_67.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_133",
+      "read_index": "0",
+      "source_jp": "プリーストにとって、敵への接近は\r\nあまり有益ではありません\r\n中～遠距離の安全な位置を常に確保して\r\n魔法による味方の回復やサポート、\r\n補助攻撃を行うという戦闘スタイルになります",
+      "source_en": "For a Priest, approaching the enemy is\r\nnot very beneficial.\r\nTheir combat style is to always maintain a safe\r\nposition at medium to long range, and perform\r\nally recovery and support through magick, as\r\nwell as auxiliary attacks.",
+      "text": "Halte als Priester etwas Abstand.\nAus mittlerer oder großer Entfernung\nkannst du sicher heilen, deine\nVerbündeten stärken und sie mit\neigenen Angriffen unterstützen."
+    },
+    {
+      "key": "TUTORIAL_STEP_132",
+      "read_index": "1",
+      "source_jp": "回復が最大の役割となるため、自身はもとより\r\n仲間のダメージをいかに適切に癒せるかが\r\n勝利の鍵となります\r\nまた、ヒールオーラによる大型敵の弱点探知\r\n《シークレットコア発現》もプリーストの\r\n重要な役割です\r\n戦況に合う最適なサポートで、皆を支えましょう",
+      "source_en": "The role of a Priest is primarily focused on\r\nhealing and supporting the team.\r\nThe ability to efficiently heal oneself and\r\nallies is crucial for achieving victory.\r\nAdditionally, utilizing Heal Aura to detect the\r\nweak points of large enemies and triggering their\r\n\"Secret Core Manifestation\" is a vital\r\nresponsibility of a Priest.\r\nIt is important to provide the most appropriate\r\nsupport that aligns with the current battle\r\nsituation in order to effectively support and\r\nuplift everyone.",
+      "text": "Heilen ist deine wichtigste Aufgabe.\nAchte darauf, dass du selbst und\ndeine Verbündeten kampffähig bleiben.\nMit der Heilaura kannst du außerdem\nverborgene Kerne großer Gegner\nsichtbar machen. Unterstütze deine\nGruppe so, wie es der Kampf erfordert."
+    }
+  ]
+}

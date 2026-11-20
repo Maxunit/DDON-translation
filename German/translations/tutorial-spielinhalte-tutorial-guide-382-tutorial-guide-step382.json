@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step382.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_382.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_681",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>エンブレムストーン</COL>は\r\nゴブリン王ギルスタンが所持しています\r\n\r\n各ジョブでレベル70以上になったら\r\nホボリック洞穴に住むギルスタンの元を\r\n訪れ、エンブレムストーンを譲ってくれるよう\r\n交渉してみましょう\r\n\r\nエンブレムストーンは覚者にしか価値の無い物なので\r\n何らかの要求と引き換えに譲り受けることが\r\nできるはずです",
+      "source_en": "<COL ffdc78>Emblem Stones</COL> are in the possession of\r\nGoblin King Gilstan.\r\nWhen you reach level 70 or higher in each job,\r\nvisit Gilstan, who resides in Hobolic Cave, and\r\ntry to negotiate with him to give\r\nyou the Emblem Stones.\r\nSince the Emblem Stones have no value except for\r\nthe Arisen, you should be able to receive them\r\nin exchange for some kind of request.",
+      "text": "Goblinkönig Gilstan besitzt die\n<COL ffdc78>Klassenembleme</COL>.\nSobald du mit einer Klasse Stufe 70\nerreichst, kannst du mit ihm sprechen.\nEr lebt in der Hobolic-Höhle.\nFür andere haben die Embleme keinen\nWert. Vielleicht überlässt er dir eins,\nwenn du dafür einen Auftrag erfüllst."
+    },
+    {
+      "key": "TUTORIAL_STEP_682",
+      "read_index": "1",
+      "source_jp": "※各ジョブごとのエンブレムストーンの\r\nクエスト報酬として、エンブレムストーンを\r\n入手することができます\r\n\r\n<COL ffdc78>※なお、試練を行う修練の祠では\r\n他の戦術試練やエンブレムストーンの試練を\r\n同時に受注できないので注意しましょう</COL>",
+      "source_en": "※You can obtain Emblem Stones as quest\r\nrewards for each job.\r\n<COL ffdc78>※Please note that in the Training Chapel, where\r\ntrials are conducted, you cannot simultaneously\r\naccept other tactical trials or\r\nemblem stone trials.</COL>",
+      "text": "Für die Quest jeder Klasse erhältst du\ndas passende Emblem als Belohnung.\n<COL ffdc78>In der Übungsschrein kannst du jeweils\nnur eine Taktik- oder Emblemprüfung\nannehmen.</COL>"
+    }
+  ]
+}

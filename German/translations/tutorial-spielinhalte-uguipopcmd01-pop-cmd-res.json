@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\pop_cmd_res.gmd",
+  "arc_path": "\\ui\\uGUIPopCmd01.arc",
+  "entries": [
+    {
+      "key": "pop_cmd_party_request",
+      "read_index": "8",
+      "source_jp": "パーティー要請",
+      "source_en": "Party Request",
+      "text": "Gruppeneinladung"
+    },
+    {
+      "key": "pop_cmd_pawn_reaction",
+      "read_index": "29",
+      "source_jp": "ポーンのリアクション設定",
+      "source_en": "Pawn Reaction Settings",
+      "text": "Vasallenreaktionen"
+    },
+    {
+      "key": "pop_cmd_keep_up_autorun",
+      "read_index": "37",
+      "source_jp": "追従オートラン",
+      "source_en": "Follow Auto-Run",
+      "text": "Automatisch folgen"
+    }
+  ]
+}

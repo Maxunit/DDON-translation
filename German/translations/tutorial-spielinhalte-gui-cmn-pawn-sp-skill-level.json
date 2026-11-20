@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\common\\pawn_sp_skill_level.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "地",
+      "source_en": "Earth",
+      "text": "Erde"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "空",
+      "source_en": "Sky",
+      "text": "Luft"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "天",
+      "source_en": "Heaven",
+      "text": "Himmel"
+    }
+  ]
+}

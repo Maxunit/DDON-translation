@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step307.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_307.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_486",
+      "read_index": "0",
+      "source_jp": "敵スタミナゲージ の減少量が一時的に増加する\r\n<COL ffdc78>《特殊状態》</COL>が新たに追加されました\r\nこの特殊状態が発生すると\r\nスタミナゲージが青色に変わります\r\n青色に変わっている間は、揺さぶりを行った時の\r\n敵スタミナゲージの減少量が一気に跳ね上がり\r\n敵をダウンさせるまでの時間短縮に大きく貢献します",
+      "source_en": "A new <COL ffdc78>\"Special State\"</COL> has been added that\r\ntemporarily increases the decrease in the\r\nenemy's Stamina Gauge.\r\nWhen this special state occurs, the Stamina\r\nGauge will turn blue.\r\nWhile it is blue, shaking will cause a\r\nsignificant increase in the amount of decrease\r\nin the enemy's Stamina Gauge, contributing\r\ngreatly to shortening the time\r\nuntil the enemy is down.",
+      "text": "Bei großen Gegnern wechselt die\r\nAusdauerleiste unter <COL ffdc78>besonderen\r\nBedingungen</COL> vorübergehend zu Blau.\r\nRüttelst du in dieser Zeit am Gegner,\r\nverliert er auf einmal viel mehr\r\nAusdauer und geht schneller zu Boden."
+    },
+    {
+      "key": "TUTORIAL_STEP_487",
+      "read_index": "1",
+      "source_jp": "なお、<COL ffdc78>スタミナゲージが\r\n青色に変色する条件は敵ごとに異なります</COL>\r\n怒った敵に攻撃を加えて敵の体勢を崩したとき\r\n有翼系の敵が空中を飛んでいるとき、など\r\n変色条件は様々です\r\n敵スタミナゲージが青色に変色したら\r\n積極的にしがみついて揺さぶりを狙いましょう",
+      "source_en": "Also, the condition for the stamina gauge to\r\nturn blue varies for each enemy.\r\nFor example, when attacking an enraged enemy and\r\ndisrupting their posture, or when winged beasts\r\nare flying in the sky.\r\nThe conditions for the color change are diverse.\r\nWhen the enemy's stamina gauge turns blue,\r\nactively cling to them and aim to shake them up.",
+      "text": "<COL ffdc78>Wann die Leiste blau wird, hängt\r\nvom Gegner ab.</COL> Manche Gegner\r\nmüssen in Rage ins Taumeln geraten.\r\nBei manchen geflügelten Gegnern\r\nreicht es, dass sie fliegen.\r\nSobald die Ausdauerleiste blau ist,\r\nhalte dich fest und rüttle am Gegner.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

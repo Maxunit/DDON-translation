@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\common\\area_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "AREA_NAME_8",
+      "read_index": "7",
+      "source_jp": "バートランド平原",
+      "source_en": "Betland Plains",
+      "text": "Betland-Ebene"
+    },
+    {
+      "key": "AREA_NAME_10",
+      "read_index": "10",
+      "source_jp": "ザンドラ禁域",
+      "source_en": "Zandora Wastelands",
+      "text": "Zandora-Sperrgebiet"
+    },
+    {
+      "key": "AREA_NAME_13",
+      "read_index": "12",
+      "source_jp": "魔赤島",
+      "source_en": "Bloodbane Isle",
+      "text": "Blutfluchinsel"
+    },
+    {
+      "key": "AREA_NAME_15",
+      "read_index": "14",
+      "source_jp": "ファーラナ平原",
+      "source_en": "Farana Plains",
+      "text": "Farana-Ebene"
+    },
+    {
+      "key": "AREA_NAME_18",
+      "read_index": "17",
+      "source_jp": "ラスニテ山麓",
+      "source_en": "Rathnite Foothills",
+      "text": "Rathnite-Vorgebirge"
+    },
+    {
+      "key": "AREA_NAME_19",
+      "read_index": "18",
+      "source_jp": "フェルヤナ荒原",
+      "source_en": "Feryana Wilderness",
+      "text": "Feryana-Wildnis"
+    },
+    {
+      "key": "AREA_NAME_20",
+      "read_index": "19",
+      "source_jp": "メガドシス高地",
+      "source_en": "Megadosys Plateau",
+      "text": "Megadosys-Hochland"
+    },
+    {
+      "key": "AREA_NAME_24",
+      "read_index": "23",
+      "source_jp": "黒呪の迷宮",
+      "source_en": "Bitterblack Maze",
+      "text": "Finstergram-Labyrinth"
+    }
+  ]
+}

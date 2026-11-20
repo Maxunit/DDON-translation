@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\common\\job_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "JOB_NAME_0",
+      "read_index": "0",
+      "source_jp": "指定なし",
+      "source_en": "Any",
+      "text": "Beliebig"
+    },
+    {
+      "key": "JOB_NAME_2",
+      "read_index": "2",
+      "source_jp": "シーカー",
+      "source_en": "Seeker",
+      "text": "Kundschafter"
+    },
+    {
+      "key": "JOB_NAME_6",
+      "read_index": "6",
+      "source_jp": "ソーサラー",
+      "source_en": "Sorcerer",
+      "text": "Erzmagier"
+    },
+    {
+      "key": "JOB_NAME_7",
+      "read_index": "7",
+      "source_jp": "ウォリアー",
+      "source_en": "Warrior",
+      "text": "Krieger"
+    },
+    {
+      "key": "JOB_NAME_8",
+      "read_index": "8",
+      "source_jp": "エレメントアーチャー",
+      "source_en": "Element Archer",
+      "text": "Elementarschütze"
+    },
+    {
+      "key": "JOB_NAME_10",
+      "read_index": "10",
+      "source_jp": "スピリットランサー",
+      "source_en": "Spirit Lancer",
+      "text": "Geisterlancier"
+    },
+    {
+      "key": "JOB_NAME_11",
+      "read_index": "11",
+      "source_jp": "ハイセプター",
+      "source_en": "High Scepter",
+      "text": "Zauberklinge"
+    }
+  ]
+}

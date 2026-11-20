@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step352.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_352.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_608",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《絶技の継承》が解放されました！</COL>\r\n戦技の継承と同じく\r\n白竜にブラッドオーブを捧げることで\r\n各ジョブごとの能力を\r\nさらに上げられるようになりました\r\n一部の能力はティネス砦などから探索できる\r\n<COL ffdc78>《エピタフロード》</COL>で条件を満たすことで\r\n習得可能となります",
+      "source_en": "<COL 78f5ff>\"Special Skill Augmentation\" has been unlocked!</COL>\r\nJust like the Skill Augmentation, by offering a\r\nBlood Orb to the White Dragon, you can further\r\nenhance the abilities of each job.\r\nSome abilities can be obtained by meeting the\r\nconditions at <COL ffdc78>\"Epitaph Road\"</COL> in places like Fort\r\nThines and other locations.",
+      "text": "<COL 78f5ff>Erweiterte Klassenverstärkung ist offen!</COL>\nOpfere dem Weißen Drachen Blutkugeln,\num die Werte einzelner Klassen noch\nweiter zu verbessern.\nFür manche Boni musst du Bedingungen\nauf dem <COL ffdc78>Pfad der Heldengeister</COL> erfüllen.\nDu erreichst ihn etwa von Fort Thines aus."
+    },
+    {
+      "key": "TUTORIAL_STEP_609",
+      "read_index": "1",
+      "source_jp": "また、絶技の継承では\r\n既存のカスタムスキルが強化された\r\n<COL ffdc78>《カスタムスキルEX》</COL>の習得が可能です\r\nカスタムスキルEXには<COL ffdc78>剛</COL>と<COL ffdc78>技</COL>の2種類があり、\r\n各種類ごとに強化される能力が異なります\r\nなお、カスタムスキルEXには装備条件があり\r\n元となるカスタムスキルがＬＶ．9になれば技、\r\nＬＶ．10になれば剛を装備可能です",
+      "source_en": "Furthermore, in Special Skill Augmentation, it\r\nbecomes possible to acquire the <COL ffdc78>Custom\r\nSkill EX</COL> which lets existing custom skills be\r\nstrengthened.\r\nThere are two types of Custom Skill EX: <COL ffdc78>\r\nFortified</COL> and <COL ffdc78>\r\nTechnique</COL>, and the abilities that are\r\nstrengthened vary for each type.\r\nPlease note that there are equipment requirements\r\nfor Custom Skill EX. Once the base custom skill\r\nreaches LV. 9, Technique can be equipped, and once\r\nit reaches LV. 10, Fortified can be equipped.",
+      "text": "Schalte auch <COL ffdc78>Spezialfertigkeiten EX</COL> frei.\nDiese verstärken bekannte Fertigkeiten\nauf zwei Arten: <COL ffdc78>„Kraft“</COL> und <COL ffdc78>„Technik“</COL>.\nJede Variante verbessert andere Werte.\n„Technik“ kannst du ausrüsten, sobald\ndie normale Fertigkeit Stufe 9 erreicht.\n„Kraft“ setzt Stufe 10 voraus."
+    }
+  ]
+}

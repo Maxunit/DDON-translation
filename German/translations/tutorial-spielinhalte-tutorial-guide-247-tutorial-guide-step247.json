@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step247.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_247.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_394",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>死亡後《拠点に戻る》を選択して復活すると\r\n最大体力ほか各能力値が大幅にダウンする\r\n《弱化》状態になってしまいます</COL>\r\n《弱化》は一定時間経過で解消しますが\r\n治療したい場合は<COL ffdc78>《宿屋》にて《弱化の治療》</COL>\r\nを行いましょう\r\nなお、《黄金石》を使い復活すれば、弱化に\r\nかかっていても《強化》が反映されます",
+      "source_en": "<COL ffdc78>After selecting \"Revive at Last Camp\"\r\nto revive after death, your maximum health and\r\nother abilities will be significantly decreased.\r\nYou will enter a weakened state called\r\n\"Weakened\".</COL>\r\nThe \"Weakened\" state will be resolved after a\r\ncertain amount of time, but if you wish to receive\r\ntreatment, <COL ffdc78>visit the Inn and undergo\r\n[Weakness Treatment]</COL>.\r\nMoreover, even if you are in a weakened state,\r\nusing a [Golden Gemstones] to revive will still\r\napply the \"Strengthened\" state.",
+      "text": "<COL ffdc78>„Zum Stützpunkt zurück“</COL> belebt dich\nwieder, lässt dich aber geschwächt zurück.\nDu hast weniger maximale Lebenspunkte\nund auch andere Werte sinken.\nDie Schwäche vergeht mit der Zeit.\nIn der Herberge kannst du sie mit\n<COL ffdc78>„Schwäche behandeln“</COL> sofort loswerden.\nBelebst du dich mit Goldsteinen wieder,\nerhältst du auch bei Schwäche eine Stärkung."
+    }
+  ]
+}

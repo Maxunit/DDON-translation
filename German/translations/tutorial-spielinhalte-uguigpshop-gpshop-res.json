@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\GPShop_res.gmd",
+  "arc_path": "\\ui\\uGUIGPShop.arc",
+  "entries": [
+    {
+      "key": "OS_status_cticket",
+      "read_index": "13",
+      "source_jp": "シルバーチケット",
+      "source_en": "Silver Ticket",
+      "text": "Silberticket"
+    },
+    {
+      "key": "OS_status_newcourse",
+      "read_index": "17",
+      "source_jp": "未使用コース",
+      "source_en": "Unused Courses",
+      "text": "Ungenutzte Pässe"
+    },
+    {
+      "key": "OS_index_status_en",
+      "read_index": "47",
+      "source_jp": "Online Station",
+      "source_en": "Online Station",
+      "text": "Online-Station"
+    }
+  ]
+}

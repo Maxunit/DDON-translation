@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\game_menu_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "menu_master",
+      "read_index": "5",
+      "source_jp": "ジョブ修練ログ",
+      "source_en": "Job Training Log",
+      "text": "Trainingsbuch"
+    },
+    {
+      "key": "menu_clan",
+      "read_index": "11",
+      "source_jp": "クランステータス",
+      "source_en": "Clan Status",
+      "text": "Clan-Status"
+    },
+    {
+      "key": "menu_photo",
+      "read_index": "13",
+      "source_jp": "フォトモード",
+      "source_en": "Photo Mode",
+      "text": "Fotomodus"
+    },
+    {
+      "key": "menu_shut_down",
+      "read_index": "19",
+      "source_jp": "ゲーム中断",
+      "source_en": "Exit Game",
+      "text": "Spiel beenden"
+    },
+    {
+      "key": "menu_gp_status",
+      "read_index": "20",
+      "source_jp": "オンラインステーション",
+      "source_en": "Online Station",
+      "text": "Online-Station"
+    },
+    {
+      "key": "menu_fixed_pattern",
+      "read_index": "26",
+      "source_jp": "定型文",
+      "source_en": "Phrases",
+      "text": "Textbausteine"
+    },
+    {
+      "key": "menu_exit_contents",
+      "read_index": "33",
+      "source_jp": "コンテンツ中断",
+      "source_en": "Exit Content",
+      "text": "Mission abbrechen"
+    },
+    {
+      "key": "menu_login_bonus",
+      "read_index": "39",
+      "source_jp": "スタンプボーナス確認",
+      "source_en": "Check Stamp Bonus",
+      "text": "Stempelbonus prüfen"
+    },
+    {
+      "key": "menu_quit_select_shutdown",
+      "read_index": "43",
+      "source_jp": "ログアウトしてゲームを終了する",
+      "source_en": "Log out and exit game",
+      "text": "Ausloggen und Spiel beenden"
+    },
+    {
+      "key": "menu_quit_select_go_title",
+      "read_index": "44",
+      "source_jp": "タイトルに戻る",
+      "source_en": "Return to title",
+      "text": "Zum Titelmenü"
+    },
+    {
+      "key": "menu_quit_select_go_launcher",
+      "read_index": "45",
+      "source_jp": "ログアウトしてランチャーに戻る",
+      "source_en": "Log out and return to launcher",
+      "text": "Ausloggen und zum Launcher"
+    },
+    {
+      "key": "menu_gacha",
+      "read_index": "46",
+      "source_jp": "トレジャーズロット",
+      "source_en": "Treasure Lot",
+      "text": "Schatzlotterie"
+    },
+    {
+      "key": "menu_entryboard",
+      "read_index": "48",
+      "source_jp": "エントリーボード",
+      "source_en": "Entryboard",
+      "text": "Anmeldeboard"
+    },
+    {
+      "key": "menu_clan_management",
+      "read_index": "52",
+      "source_jp": "クラン管理",
+      "source_en": "Clan Management",
+      "text": "Clan-Verwaltung"
+    },
+    {
+      "key": "menu_boxgacha",
+      "read_index": "53",
+      "source_jp": "ボックストレジャーズロット",
+      "source_en": "Box Treasure Lot",
+      "text": "Kistenlotterie"
+    },
+    {
+      "key": "menu_time_event",
+      "read_index": "54",
+      "source_jp": "リワードミッション",
+      "source_en": "Reward Mission",
+      "text": "Belohnungsmissionen"
+    },
+    {
+      "key": "menu_partyboard",
+      "read_index": "57",
+      "source_jp": "募集掲示板",
+      "source_en": "Recruitment Board",
+      "text": "Mitspieler gesucht"
+    },
+    {
+      "key": "menu_partyboard_dialog",
+      "read_index": "58",
+      "source_jp": "パーティー募集掲示板のカテゴリを選択してください",
+      "source_en": "Please select\r\nParty Recruitment Board category.",
+      "text": "Wähle eine Kategorie\nfür das Gruppenboard."
+    },
+    {
+      "key": "menu_partyboard_type01",
+      "read_index": "59",
+      "source_jp": "パーティー募集掲示板を開く",
+      "source_en": "Open Party Recruitment Board",
+      "text": "Gruppenboard öffnen"
+    },
+    {
+      "key": "menu_pq_history",
+      "read_index": "60",
+      "source_jp": "サブストーリーログ",
+      "source_en": "Substory Log",
+      "text": "Nebengeschichten"
+    },
+    {
+      "key": "menu_partyboard_select",
+      "read_index": "66",
+      "source_jp": "パーティー募集掲示板",
+      "source_en": "Party Recruitment Board",
+      "text": "Gruppenboard"
+    }
+  ]
+}

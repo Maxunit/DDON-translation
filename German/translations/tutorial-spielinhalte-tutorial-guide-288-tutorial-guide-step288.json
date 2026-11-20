@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step288.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_288.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_454",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《歪みの執行人》</COL>は最大４人のパーティーで\r\n魔赤島に現れた新たな敵と戦う\r\nエクストリームミッションです\r\n<COL ffdc78>異界の礎の力によりパーティーメンバーの誰かが\r\n離れた地へ飛ばされてしまう事があります</COL>\r\n飛ばされたメンバーは、現れた敵を全滅させ\r\nパーティーへの合流を目指しましょう",
+      "source_en": "<COL ffdc78>Agent of Corruption</COL>\r\nis an Extreme Mission where you fight against\r\nnew enemies that appear on Bloodbane Isle with a\r\nmaximum party size of four.\r\n<COL ffdc78>Due to the power of the Portcrystal of the Other\r\nWorld, one of the party members may be\r\ntransported to a distant location. </COL>\r\nThe transported member should defeat all the\r\nenemies that appear and aim to rejoin the party.",
+      "text": "In <COL ffdc78>„Vollstrecker der Verderbnis“</COL>\nkämpft ihr mit bis zu vier Erweckten\ngegen neue Feinde auf der Blutfluchinsel.\n<COL ffdc78>Ein fremder Zielkristall kann jemanden\naus eurer Gruppe an einen entfernten\nOrt versetzen.</COL>\nWer dort landet, muss erst alle Gegner\nvor Ort besiegen und kann dann zur\nGruppe zurückkehren."
+    },
+    {
+      "key": "TUTORIAL_STEP_481",
+      "read_index": "1",
+      "source_jp": "白竜神殿のアイザックに話しかけ、\r\n《エクストリームミッション》から参加してください",
+      "source_en": "Speak to Isaac at the White Dragon Temple and\r\njoin from 'Extreme Missions'.",
+      "text": "Sprich mit Isaac im Tempel und\nwähle „Extremmissionen“."
+    }
+  ]
+}

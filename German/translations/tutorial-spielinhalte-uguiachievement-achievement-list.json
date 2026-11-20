@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\achievement_list.gmd",
+  "arc_path": "\\ui\\uGUIAchievement.arc",
+  "entries": [
+    {
+      "key": "ACHIEVEMENT_MSG_TITLE_01",
+      "read_index": "0",
+      "source_jp": "Achievements",
+      "source_en": "Achievement",
+      "text": "Erfolge"
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_TITLE_02",
+      "read_index": "1",
+      "source_jp": "アチーブメント",
+      "source_en": "Achievement",
+      "text": "Erfolge"
+    }
+  ]
+}

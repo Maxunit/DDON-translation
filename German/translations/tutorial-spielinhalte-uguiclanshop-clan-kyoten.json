@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\clan_kyoten.gmd",
+  "arc_path": "\\ui\\uGUIClanShop.arc",
+  "entries": [
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_BUFF_TITLE",
+      "read_index": "21",
+      "source_jp": "Pawn Expedition Support",
+      "source_en": "Pawn Expedition Corps Support",
+      "text": "Expeditionen unterstützen"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_BUFF_SUB_TITLE",
+      "read_index": "22",
+      "source_jp": "ポーン遠征隊支援",
+      "source_en": "Pawn Expedition Corps Support",
+      "text": "Expeditionen unterstützen"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_CONCIERGE_TITLE",
+      "read_index": "23",
+      "source_jp": "Clan Office Officer",
+      "source_en": "Clan Officer",
+      "text": "Clan-Verwalter"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_CONCIERGE_SUB_TITLE",
+      "read_index": "24",
+      "source_jp": "クラン執務官",
+      "source_en": "Clan Officer",
+      "text": "Clan-Verwalter"
+    }
+  ]
+}

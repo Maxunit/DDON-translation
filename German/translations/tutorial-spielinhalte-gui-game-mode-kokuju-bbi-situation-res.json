@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\bbi_situation_res.gmd",
+  "arc_path": "\\ui\\gui_game_mode_kokuju.arc",
+  "entries": [
+    {
+      "key": "bbi_sit_msg_state_01",
+      "read_index": "0",
+      "source_jp": "黒呪の迷宮 はじめから",
+      "source_en": "Bitterblack Maze Beginning",
+      "text": "Beginn des Finstergram-Labyrinths"
+    },
+    {
+      "key": "bbi_sit_msg_state_02",
+      "read_index": "1",
+      "source_jp": "《%s》 探索中",
+      "source_en": "Search [%s]",
+      "text": "Erkunde [%s]"
+    },
+    {
+      "key": "bbi_sit_msg_state_05",
+      "read_index": "2",
+      "source_jp": "黒呪の迷宮 探索結果の報告待ち",
+      "source_en": "Waiting for Maze search result report",
+      "text": "Erkundung kann gemeldet werden"
+    },
+    {
+      "key": "bbi_sit_msg_state_06",
+      "read_index": "3",
+      "source_jp": "黒呪の迷宮 進行リセット可能",
+      "source_en": "Reset Maze progress possible",
+      "text": "Fortschritt kann zurückgesetzt werden"
+    },
+    {
+      "key": "bbi_sit_msg_state_01_kai",
+      "read_index": "5",
+      "source_jp": "黒呪の迷宮 はじめから<COL d23c3c> (ルート固定中)</COL>",
+      "source_en": "Bitterblack Maze starts from<COL d23c3c> (fixed\r\nroute)</COL>",
+      "text": "Das Labyrinth beginnt<COL d23c3c>\n(feste Route)</COL>"
+    }
+  ]
+}

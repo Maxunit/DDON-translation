@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step174.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_174.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_358",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>パーティーでクエストを進行する際は\r\n優先クエストの表示はパーティーリーダーの\r\n進行状態に切り替わります</COL>\r\nソロやポーンのみを連れて冒険に出た時は\r\n自分の進行ログが画面右に表示されます\r\n他のプレイヤーがリーダーの場合、その人の\r\nログを共有して進めることになりますので\r\n自分の進行度を確認しつつ進めましょう",
+      "source_en": "<COL ffdc78>When you are in a party, the priority quests\r\nwill switch to the party leader'sprogress.</COL>\r\nIf you are solo or only have a pawn, your\r\nprogress log will appear on the\r\nright side of the screen.\r\nIf another player is the leader, their log will\r\nbe shared with you, so check your\r\nprogress as you go along!",
+      "text": "<COL ffdc78>Spielst du in einer Gruppe, zeigt der\r\nTracker der Prioritätsquest den Fortschritt\r\ndes Gruppenleiters an.</COL>\r\nAllein oder mit Vasallen siehst du rechts\r\ndeinen eigenen Questfortschritt.\r\nFolge in der Gruppe dem Tracker des Leiters.\r\nBehalte deinen eigenen Fortschritt im Blick."
+    },
+    {
+      "key": "TUTORIAL_STEP_320",
+      "read_index": "1",
+      "source_jp": "またソロでもパーティーでもイベント進行時は\r\n確認を求められることがあります\r\n＜進行マーカー＞\r\nクエスト進行の局所でパーティー状態を確認\r\nする機能です。進行判断はリーダーのみ可能です\r\n＜会話を聞く＞\r\nクエストの進行に関わる会話は重要な情報です\r\n個人でもパーティーでも必ず聞くようにしましょう",
+      "source_en": "During events, whether you are playing solo or in\r\na party, there may be times when you are asked for\r\nconfirmation.\r\n[Progress Marker]\r\nThis function allows you to check the status of\r\nthe party during the progression of the quest.\r\nOnly the leader can make the judgment.\r\n[Listen to the Conversation]\r\nThe conversations related to the progress of the\r\nquest are important information. Whether you are\r\nplaying solo or in a party, make sure to always\r\nlisten to them.",
+      "text": "Bei manchen Ereignissen musst du den\r\nFortschritt bestätigen, auch wenn du\r\nallein unterwegs bist.\r\n\r\nFortschrittsmarker\r\nNur der Gruppenleiter kann an diesem\r\nMarker das nächste Ereignis starten.\r\n\r\nGespräche\r\nHör dir questrelevante Gespräche an.\r\nSie geben dir wichtige Hinweise."
+    },
+    {
+      "key": "TUTORIAL_STEP_321",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>またパーティークエストにおいては\r\n自分とパーティーリーダーの進行状態によって\r\nクリアした時の報酬が変化します</COL>\r\n＜進行が同じ場合＞\r\nリーダーと同じく正規の報酬が得られます\r\n＜進行が違う場合＞\r\n正規報酬ではなく協力とみなされ、アシスト報酬\r\nパーティーリワードが獲得できます",
+      "source_en": "<COL ffdc78>In party quests, the rewards for clearing the\r\nquest will vary depending on the progression of\r\nboth yourself and the party leader.</COL>\r\n[If the progression is the same] You will\r\nreceive the regular rewards,\r\njust like the leader.\r\n[If the progression is different] Instead of\r\nregular rewards, it will be considered as\r\ncooperation, and you will receive assist\r\nrewards and party rewards.",
+      "text": "<COL ffdc78>Deine Belohnung hängt davon ab, wie weit du\r\nund der Gruppenleiter in der Quest seid.</COL>\r\nBei gleichem Fortschritt erhältst du\r\ndieselbe reguläre Belohnung wie der Leiter.\r\nBei anderem Fortschritt zählt dein Einsatz\r\nals Unterstützung. Dafür bekommst du eine\r\nGruppenbelohnung."
+    },
+    {
+      "key": "TUTORIAL_STEP_322",
+      "read_index": "3",
+      "source_jp": "パーティー内のレベル差や\r\nどこまで一緒に進行したかによって受け取る\r\nことができる報酬も変わることがあります\r\nなるべく一から同じクエストを\r\n一緒にクリアしましょう",
+      "source_en": "Depending on the level difference in your party\r\nand how far you have progressed together, you\r\nmay receive different rewards.\r\nTry to complete the same quest\r\nfrom scratch together!",
+      "text": "Die Stufenunterschiede in der Gruppe und\r\nder gemeinsam gespielte Questabschnitt\r\nkönnen deine Belohnung beeinflussen.\r\nSpielt die Quest möglichst von Anfang\r\nbis Ende gemeinsam."
+    }
+  ]
+}

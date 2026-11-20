@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step271.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_271.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_439",
+      "read_index": "0",
+      "source_jp": "スピリットランサーは蓄積した\r\nスピリットゲージを解放することで、\r\n攻撃と支援のどちらの能力を強化するかを\r\n戦況に応じて選べる槍士です\r\nスピリットゲージは敵を攻撃することで溜まるため\r\n積極的に攻撃していきましょう",
+      "source_en": "The Spirit Lancer is a Spear Specialist who can\r\nenhance either their offensive or supportive\r\nabilities by releasing the accumulated Spirit\r\nGauge, depending on the situation of the battle.\r\nThe Spirit Gauge fills up by attacking enemies,\r\nso actively engage in attacking.",
+      "text": "Setze deine gesammelte Geisterkraft\npassend zum Kampf ein. Du kannst\nAngriffe oder Unterstützung verstärken.\nDurch Treffer mit der Lanze füllst du\ndeine Leiste. Greif also selbst an."
+    },
+    {
+      "key": "TUTORIAL_STEP_497",
+      "read_index": "1",
+      "source_jp": "エイドによる大型敵の弱点探知\r\n《シークレットコア発現》も重要な役割のひとつです\r\n短時間ではありますが\r\nエイドの霊球を敵に吸着させることで\r\n全てのシークレットコアを発現させることができます\r\nより長時間発現させたい場合は\r\n敵のシークレットコア発現位置に合わせて\r\n吸着させましょう",
+      "source_en": "Aid is also one of the important roles in\r\ndetecting the weaknesses of large enemies.\r\nAlthough it is for a short time, by attaching\r\nAid's spirit sphere to the enemy, you can expose\r\nall of their secret cores.\r\nIf you want to extend the exposure time, attach\r\nit to the enemy's secret core point.",
+      "text": "Mit einem Heilfeld kannst du verborgene\nKerne großer Gegner sichtbar machen.\nHefte die Geisterkugel an den Gegner,\num alle seine Kerne kurz aufzudecken.\nSetze die Kugel genau auf einen Kern,\nwenn er länger sichtbar bleiben soll."
+    }
+  ]
+}

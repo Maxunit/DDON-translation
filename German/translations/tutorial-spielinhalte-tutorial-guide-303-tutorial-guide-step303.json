@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step303.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_303.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_475",
+      "read_index": "0",
+      "source_jp": "アチーブメントの達成に応じて\r\n<COL ffdc78>≪家具レシピ≫</COL>を獲得できます\r\n宿場区のジュリアに話しかけ\r\n≪アチーブメント≫から\r\n家具レシピの獲得条件を確認したり\r\n家具レシピを受け取ることができます",
+      "source_en": "You can get<COL ffdc78>≪Furniture Recipes≫</COL>\r\nfor each achievement. Talk to Julia in the Relay\r\nStation and choose ≪Achievements≫ to see the\r\nconditions for getting furniture recipes!",
+      "text": "Mit bestimmten Erfolgen erhältst du\n<COL ffdc78>Möbelrezepte</COL>. Sprich mit Julia im\nHerbergsviertel und wähle „Erfolge“.\nDort kannst du die Bedingungen prüfen\nund freigeschaltete Rezepte abholen."
+    },
+    {
+      "key": "TUTORIAL_STEP_476",
+      "read_index": "1",
+      "source_jp": "家具レシピを手に入れることができたら\r\nクラフトルームで家具を作成してみましょう\r\n作成した家具は\r\n≪覚者の自室≫でパートナーポーンに\r\n話しかけることで設置、変更ができます\r\nお気に入りの家具を設置して自室を彩りましょう",
+      "source_en": "Once you have the furniture recipe, go and\r\ncreate your own furniture in the Craft Room.\r\nYou can install or change the furniture you\r\ncreated by talking to your partner pawn in\r\nthe [Arisen's Room].\r\nSet up your favorite furniture\r\nand decorate your room!",
+      "text": "Stelle Möbel mit den Rezepten in der\nWerkstatt her. Sprich dann in deinem\nZimmer mit deinem Partnervasallen.\nDort kannst du Möbel aufstellen\noder austauschen."
+    }
+  ]
+}

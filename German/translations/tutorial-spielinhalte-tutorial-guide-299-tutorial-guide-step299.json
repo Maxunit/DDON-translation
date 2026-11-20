@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step299.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_299.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_460",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《ポーン遠征隊》が解放されました！</COL>\r\n<COL ffdc78>《ポーン遠征隊》</COL>は、\r\nクラン拠点から１日１回パートナーポーンを\r\n指定したスポットに派遣できるコンテンツです\r\n派遣したポーンは翌日まで戻ってこないため\r\n冒険の終わりに派遣させるとよいでしょう\r\n※スポットに採取物が無い場合、\r\n　ゴールドを持ち帰ります",
+      "source_en": "<COL 78f5ff>\"Pawn Expeditions\" have been unlocked!</COL>\r\n<COL 78f5ff>\"Pawn Expeditions\"</COL> is a content where you can\r\ndispatch a partner pawn to a designated spot\r\nonce a day from the clan hall.\r\nThe dispatched pawn will not return until the\r\nnext day, so it is recommended to send them on\r\nan adventure at the end of your session.\r\n※ If there are no collectible items at the spot,\r\nthey will bring back gold.",
+      "text": "<COL 78f5ff>Vasallenexpeditionen sind verfügbar!</COL>\nBei <COL ffdc78>Vasallenexpeditionen</COL> schickst du vom\nClan-Stützpunkt einmal am Tag deinen\nPartnervasallen an einen gewählten Ort.\nEr kehrt erst am nächsten Tag zurück.\nSchick ihn am besten nach dem Abenteuer\nlos. Gibt es dort nichts zu sammeln,\nbringt er stattdessen Gold zurück.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_504",
+      "read_index": "1",
+      "source_jp": "ポーン遠征隊に派遣したポーンは、\r\n《ホットスポット》と呼ばれる\r\n特殊な状態のスポットを発見することがあります\r\nポーン隊帰還後の報告で知ることができ、\r\nスポットリストにホットスポットが登録されます\r\nホットスポットでは《発掘武器》と呼ばれる\r\n未知のお宝を入手する事ができるため\r\n積極的に参加しましょう",
+      "source_en": "Pawns dispatched to the Pawn Expeditions may\r\ndiscover special spots called \"Hotspots\".\r\nThis information can be learned from the reports\r\nupon the return of the Pawn, and the Hotspots\r\nwill be registered in the Spot List.\r\nHotspots are where you can obtain unknown\r\ntreasures called \"Excavation Weapons\", so be\r\nsure to actively participate.",
+      "text": "Auf einer Expedition kann dein Vasall\neine besondere Fundstelle entdecken.\nNach seiner Rückkehr erfährst du davon\nim Bericht. Der Ort erscheint dann\nin der Liste der Expeditionsziele.\nDort kannst du ausgegrabene Waffen\nfinden. Halte nach solchen Orten Ausschau."
+    },
+    {
+      "key": "TUTORIAL_STEP_505",
+      "read_index": "2",
+      "source_jp": "※《発掘武器》とは\r\nホットスポットで入手する事ができる\r\n特殊な鑑定素材です\r\n鑑定することで特殊な武器として生まれ変わります",
+      "source_en": "※\"Excavated Weapons\" are special appraisal\r\nmaterials that can be obtained at hotspots.\r\nBy appraising them, they will be\r\nreborn as special weapons.",
+      "text": "Ausgegrabene Waffen sind besondere\nFunde, die du an Fundstellen erhältst.\nLass sie begutachten, um daraus\nbesondere Waffen zu erhalten."
+    }
+  ]
+}

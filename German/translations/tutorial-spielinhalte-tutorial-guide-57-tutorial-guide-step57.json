@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step57.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_57.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_141",
+      "read_index": "0",
+      "source_jp": "エレメントアーチャー最大の特徴は\r\n魔道弓の構え方により、放たれる矢が\r\n魔法の刃にも癒しの光にも変化する点です\r\nまた、魔道弓を構え、標的を捉えることで\r\n集中力を高めることができるのもポイントです\r\n集中時間が長い程魔矢の威力は上昇し、\r\nさらに集中時間が満了した瞬間に魔矢を放つことで\r\nその威力はさらに上昇します",
+      "source_en": "The biggest feature of the Element Archer is that\r\nthe arrows released from the Magick Bow can change\r\ninto both magickal blades and healing light\r\ndepending on how the bow is held.\r\nIn addition, by taking aim with the Magick Bow\r\nand focusing on the target, it is possible to\r\nincrease concentration, which is also a key point.\r\nThe longer the concentration time, the higher the\r\npower of the magick arrows. Furthermore, by\r\nreleasing the magick arrow at the moment the\r\nconcentration time is complete, its power\r\nincreases even more.",
+      "text": "Je nach Haltung verschießt dein Bogen\nPfeile für Angriff oder Heilung.\nVisiere ein Ziel an, um dich auf den\nSchuss zu konzentrieren. Je länger du\nzielst, desto stärker wird der Pfeil.\nSchieße genau dann, wenn die Ladezeit\nendet, um die Wirkung noch zu steigern."
+    },
+    {
+      "key": "TUTORIAL_STEP_140",
+      "read_index": "1",
+      "source_jp": "魔矢の種類によっては、複数の敵や味方を\r\n同時に標的にする、または\r\n標的と《最適距離》を保つことで\r\n集中する時間を短縮することができます\r\n戦況や敵味方の状況に合わせた魔矢を選び、\r\n的確に射ることが重要となります",
+      "source_en": "Depending on the type of magick arrows, you can\r\nsimultaneously target multiple enemies or\r\nallies, or maintain an optimal distance with the\r\ntarget to shorten the concentration time.\r\nIt is important to choose magick arrows that\r\nsuit the situation and the state of the enemies\r\nand allies, and shoot accurately.",
+      "text": "Je nach Pfeilart lädt der Schuss rascher,\nwenn du mehrere Ziele anvisierst oder\ndie optimale Entfernung einhältst.\nBehalte Gegner und Verbündete im Blick.\nWähle den Pfeil, der am besten zur\nLage passt, und schieße gezielt."
+    }
+  ]
+}

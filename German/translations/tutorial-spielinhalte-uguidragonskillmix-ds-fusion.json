@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\ds_fusion.gmd",
+  "arc_path": "\\ui\\uGUIDragonSkillMix.arc",
+  "entries": [
+    {
+      "key": "ds_fusion_msg_000",
+      "read_index": "0",
+      "source_jp": "Dragon Ability Synthesis",
+      "source_en": "Dragon Ability Synthesis",
+      "text": "Drachenbegabungen kombinieren"
+    },
+    {
+      "key": "ds_fusion_msg_001",
+      "read_index": "1",
+      "source_jp": "ドラゴンアビリティの合成",
+      "source_en": "Synthesis of Dragon Abilities",
+      "text": "Drachenbegabungen kombinieren"
+    },
+    {
+      "key": "ds_fusion_msg_009",
+      "read_index": "9",
+      "source_jp": "Synthesis Source",
+      "source_en": "Synthesis Source",
+      "text": "Grundausrüstung"
+    },
+    {
+      "key": "ds_fusion_msg_010",
+      "read_index": "10",
+      "source_jp": "Synthetic Material",
+      "source_en": "Synthetic Material",
+      "text": "Material"
+    },
+    {
+      "key": "ds_fusion_msg_011",
+      "read_index": "11",
+      "source_jp": "黒竜装備",
+      "source_en": "Black Dragon Equipment",
+      "text": "Schwarzer Drache"
+    },
+    {
+      "key": "ds_fusion_msg_012",
+      "read_index": "12",
+      "source_jp": "精霊竜装備",
+      "source_en": "Spirit Dragon Equipment",
+      "text": "Geisterdrache"
+    },
+    {
+      "key": "ds_fusion_msg_013",
+      "read_index": "13",
+      "source_jp": "火竜装備",
+      "source_en": "Fire Dragon Equipment",
+      "text": "Feuerdrache"
+    },
+    {
+      "key": "ds_fusion_msg_014",
+      "read_index": "14",
+      "source_jp": "白竜装備",
+      "source_en": "White Dragon Equipment",
+      "text": "Weißer Drache"
+    },
+    {
+      "key": "ds_fusion_msg_015",
+      "read_index": "15",
+      "source_jp": "黄金竜装備",
+      "source_en": "Golden Dragon Equipment",
+      "text": "Golddrache"
+    },
+    {
+      "key": "ds_fusion_msg_016",
+      "read_index": "16",
+      "source_jp": "選択してください",
+      "source_en": "Please select",
+      "text": "Bitte auswählen"
+    },
+    {
+      "key": "ds_fusion_msg_017",
+      "read_index": "17",
+      "source_jp": "合成結果の確認",
+      "source_en": "Confirmation of synthesis results",
+      "text": "Ergebnis prüfen"
+    },
+    {
+      "key": "ds_fusion_msg_018",
+      "read_index": "18",
+      "source_jp": "合成結果の確率",
+      "source_en": "Probability of synthesis results",
+      "text": "Chancen für die Ergebnisse"
+    },
+    {
+      "key": "ds_fusion_msg_019",
+      "read_index": "19",
+      "source_jp": "合成開始",
+      "source_en": "Start synthesis",
+      "text": "Kombination starten"
+    },
+    {
+      "key": "ds_fusion_msg_020",
+      "read_index": "20",
+      "source_jp": "合成を開始します。よろしいですか？",
+      "source_en": "Synthesis will be started. Are you sure?",
+      "text": "Kombination starten?"
+    },
+    {
+      "key": "ds_fusion_msg_021",
+      "read_index": "21",
+      "source_jp": "すべての装備アイテムがセットされていません",
+      "source_en": "Not all equipment items are set",
+      "text": "Es fehlt Ausrüstung."
+    },
+    {
+      "key": "ds_fusion_msg_022",
+      "read_index": "22",
+      "source_jp": "合成完了しました",
+      "source_en": "Synthesis complete",
+      "text": "Kombination abgeschlossen."
+    },
+    {
+      "key": "ds_fusion_msg_023",
+      "read_index": "23",
+      "source_jp": "対象となるアイテムを所持していません",
+      "source_en": "You do not currently possess the required item.",
+      "text": "Dir fehlt der nötige Gegenstand."
+    },
+    {
+      "key": "ds_fusion_msg_024",
+      "read_index": "24",
+      "source_jp": "現在選択中のアイテムです",
+      "source_en": "Currently selected item",
+      "text": "Gewählter Gegenstand"
+    }
+  ]
+}

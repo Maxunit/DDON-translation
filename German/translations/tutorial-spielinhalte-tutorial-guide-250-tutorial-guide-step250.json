@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step250.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_250.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_401",
+      "read_index": "0",
+      "source_jp": "メインクエスト中、ボスに勝てない時は\r\n《復活力》や《黄金石》を使うことで\r\n倒れたとしても戦闘を続けられます\r\n<COL ffdc78>閉鎖空間での戦闘時は《拠点に戻る》\r\nを選択した場合であっても、例外的に《弱化》に\r\nかかるもののその場で復活可能です</COL>",
+      "source_en": "During the main quest, if you are unable to\r\ndefeat the boss, you can continue the battle\r\neven if you have been knocked down by using\r\n\"Revival Force\" or \"Golden Gemstone\".\r\n<COL ffdc78>If you choose to \"Revive at Last Camp\" during a\r\nbattle in a closed space, you can still revive\r\non the spot, although you will be\r\ntemporarily \"Weakened\".</COL>",
+      "text": "Wenn du im Bosskampf zu Boden gehst,\r\nkannst du mit Wiederbelebungskraft\r\noder Goldsteinen weiterkämpfen.\r\n<COL ffdc78>In einem abgeschlossenen Kampfareal\r\nbelebt dich „Zum Stützpunkt zurück“\r\nvor Ort wieder. Du bist dann geschwächt.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_402",
+      "read_index": "1",
+      "source_jp": "勝ち目がなく、準備し出直したい場合は\r\nゲームメニュー《クエスト》の<COL ffdc78>《コンテンツ中断》</COL>\r\nから参加しているパーティーメンバーに\r\n途中離脱の提案が行えます\r\n<COL ffdc78>メンバーから提案があった時は\r\n《ワールドアナウンス》で通知が届きます</COL>",
+      "source_en": "If there is no chance of winning and you want to\r\nstart over, you can propose a withdrawal during\r\nthe quest by selecting <COL ffdc78>\"Exit\r\nContent\" </COL> in the game menu.\r\n<COL ffdc78>The proposal will be sent to the party members\r\nparticipating in the quest. When a proposal is\r\nreceived from a member, you will be notified\r\nthrough \"World Announcement\".</COL>",
+      "text": "Wenn ihr euch besser vorbereiten wollt,\r\nkannst du der Gruppe den Rückzug\r\nvorschlagen. Öffne im Spielmenü\r\nunter „Quests“ <COL ffdc78>„Inhalt unterbrechen“</COL>.\r\n<COL ffdc78>Der Vorschlag erscheint als Weltmeldung\r\nbei den anderen Gruppenmitgliedern.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_403",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>途中離脱するかしないかは\r\nパーティーメンバーの投票で決まり\r\n投票者中、過半数を占めた方が採用されます</COL>\r\n離脱の提案アナウンスが届いた場合は\r\n【<KC UI_GAME_MENU>】ゲームメニューで【<KC UI_X>】\r\nを押し、投票画面を呼び出して投票してください",
+      "source_en": "<COL ffdc78>Whether to withdraw or not depends on the votes\r\nof the party members. If you receive a\r\nwithdrawal proposal, please press [<KC UI_GAME_MENU>] in the\r\ngame menu and vote on the voting screen.</COL>",
+      "text": "<COL ffdc78>Die Gruppe stimmt über den Rückzug ab.\r\nDie Mehrheit der Stimmen entscheidet.</COL>\r\nBei einem Vorschlag öffne mit\r\n[<KC UI_GAME_MENU>] das Spielmenü.\r\nDrücke [<KC UI_X>], um abzustimmen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_404",
+      "read_index": "3",
+      "source_jp": "なお、投票は一定時間で締め切られるため\r\nご注意ください\r\n反対多数で提案が拒否された場合は\r\n一定時間提案できなくなりますのでその点も\r\nご留意ください",
+      "source_en": "Please note that voting will be closed after a\r\ncertain amount of time.\r\nIf the proposal is rejected by a majority vote,\r\nit will not be eligible for reconsideration for\r\na certain period of time. Please\r\nalso keep this in mind.",
+      "text": "Die Abstimmung endet nach einer Frist.\r\nWenn die Mehrheit den Rückzug ablehnt,\r\nmusst du eine Weile warten, bevor du\r\nerneut einen Vorschlag machen kannst."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_08.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_08_113",
+      "read_index": "0",
+      "source_jp": "<PADM>闘波の構え<KEYM>構えの変更（闘波の構え）",
+      "source_en": "<PADM>Seeker Stance<KEYM>Change Stance (Seeker\r\nStance)",
+      "text": "<PADM>Angriffshaltung<KEYM>Zur Angriffshaltung wechseln"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_08_114",
+      "read_index": "1",
+      "source_jp": "闘波の魔眼",
+      "source_en": "Magick Eye: Seeker",
+      "text": "Angriffsblick"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_08_115",
+      "read_index": "2",
+      "source_jp": "闘波の矢",
+      "source_en": "Seeker Arrow",
+      "text": "Angriffspfeil"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_08_117",
+      "read_index": "4",
+      "source_jp": "<PADM>助真の構え<KEYM>構えの変更（助真の構え）",
+      "source_en": "<PADM>True Aid Stance<KEYM>Change Stance (True\r\nAid Stance)",
+      "text": "<PADM>Hilfshaltung<KEYM>Zur Hilfshaltung wechseln"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_08_118",
+      "read_index": "5",
+      "source_jp": "助真の魔眼",
+      "source_en": "Magick Eye: True Aid",
+      "text": "Magieauge der wahren Hilfe"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_08_119",
+      "read_index": "6",
+      "source_jp": "助真の矢",
+      "source_en": "True Aid Arrow",
+      "text": "Hilfspfeil"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_08_121",
+      "read_index": "8",
+      "source_jp": "前蹴り",
+      "source_en": "Front Kick",
+      "text": "Tritt nach vorn"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_08_122",
+      "read_index": "9",
+      "source_jp": "癒しの装",
+      "source_en": "Healing Shroud",
+      "text": "Heilschleier"
+    }
+  ]
+}

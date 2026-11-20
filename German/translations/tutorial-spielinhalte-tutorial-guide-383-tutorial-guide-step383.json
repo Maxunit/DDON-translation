@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step383.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_383.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_683",
+      "read_index": "0",
+      "source_jp": "戦甲を纏った部位で攻撃を放ったタイミングで\r\n攻撃を接触させるテクニック<COL ffdc78>《カウンター》</COL>も\r\n戦甲を破壊する上で有効とされる手段です\r\n\r\nなお、カウンターで攻撃を接触させた時に\r\n有効とされる攻撃は\r\n<COL ffdc78>《物理攻撃》</COL>のみに限定されます\r\n\r\n《魔法攻撃》ではカウンターは\r\n成立しないので注意しましょう",
+      "source_en": "When attacking a part covered in war-ready\r\narmor, using the technique <COL ffdc78>\"Counter\"</COL> to make\r\ncontact with the attack is also considered an\r\neffective means of destroying\r\nthe war-ready armor.\r\nPlease note that when making contact with an\r\nattack using Counter, it is limited to <COL ffdc78>\r\n\"physical attacks\"</COL> only.\r\nCounter does not work with \"magick attacks\", so\r\nplease be aware of this.",
+      "text": "Wenn der Gegner mit einem\r\ngepanzerten Körperteil angreift,\r\ntriff dieses Teil im selben Moment.\r\nEin solcher <COL ffdc78>Konter</COL> beschädigt\r\ndie Rüstung. Dafür brauchst du\r\neinen <COL ffdc78>physischen Angriff</COL>.\r\nZauber lösen keinen Konter aus."
+    },
+    {
+      "key": "TUTORIAL_STEP_684",
+      "read_index": "1",
+      "source_jp": "一部のカスタムスキルでは\r\n戦甲に対してカウンターで攻撃することで\r\n<COL ffdc78>一撃で戦甲を白ヒビ状態にすることができます</COL>\r\n\r\n該当するカスタムスキルはハンターの 《鬼神射ち》\r\nウォリアーの 《殲魔剣風斬》 など\r\n威力の高さに特化したカスタムスキルです\r\n\r\n一部のカスタムスキルに限定されますが、\r\n成功時に得られるメリットは非常に大きいので\r\n積極的に発動を狙ってみましょう",
+      "source_en": "Using some custom skills, you can <COL ffdc78>\r\ncounterattack against war-ready\r\nopponents</COL> and instantly put their war\r\nreadiness into a cracked state.\r\n\r\nThe corresponding custom skills are the Hunter's\r\n\"Demon Arrow\" and the Warrior's \"Annihilator's\r\nWind Slash,\" which are specialized in high power.\r\n\r\nAlthough limited to some custom skills, the\r\nbenefits obtained upon successful activation are\r\nvery significant, so proactively aim to\r\ntrigger them.",
+      "text": "Manche Spezialfertigkeiten erzeugen\r\nbeim Kontern <COL ffdc78>mit einem einzigen Treffer\r\nweiße Risse in der Rüstung.</COL>\r\nDazu gehören etwa „Dämonenpfeil“\r\nbeim Jäger und „Vernichtender\r\nWindschnitt“ beim Krieger.\r\nSetze diese wuchtigen Angriffe\r\ngezielt zum Kontern ein."
+    },
+    {
+      "key": "TUTORIAL_STEP_688",
+      "read_index": "2",
+      "source_jp": "その他、対象となるカスタムスキルは\r\n神殿や各拠点の 《戦技補佐》で\r\n確認できます\r\n\r\n戦技補佐画面で＜カスタムスキル＞を選択し\r\n＜Command＞に\r\n《戦甲へのカウンターに特化》と\r\n記載されているスキルが\r\n対象となるカスタムスキルです",
+      "source_en": "Other Custom Skills that are the applicable can\r\nbe confirmed in the Arts Support of the\r\ntemples and various halls.\r\nSelect \"Custom Skills\" in the Arts Support\r\nscreen, and under \"Command\" is a skill described\r\nas specialized in countering War Readies, which\r\nis the applicable Custom Skill.",
+      "text": "Weitere passende Fertigkeiten findest\r\ndu bei den Kampftrainern im Tempel\r\noder an anderen Stützpunkten.\r\nÖffne dort die Kampftechniken und\r\nwähle „Spezialfertigkeiten“.\r\nBei geeigneten Fertigkeiten steht\r\nin der Befehlsanzeige ein Hinweis\r\nauf Konter gegen Kriegsrüstungen."
+    }
+  ]
+}

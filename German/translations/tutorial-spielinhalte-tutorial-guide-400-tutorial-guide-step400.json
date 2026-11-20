@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step400.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_400.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_745",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>黒呪の宝箱</COL>に入っている\r\n《黒呪の指輪》を入手したときや\r\n《黒呪のディードボックス》を鑑定交換した際に\r\n<COL ffdc78>《黒呪装具の効果封印》</COL>が発動します\r\n封印していない効果が付与された\r\n《黒呪の指輪》を入手できるので\r\n積極的に利用しましょう\r\n<COL ffdc78>レアアイテムの鑑定交換は、\r\n港洞や、黒呪の迷宮にいるリュカから行えます</COL>",
+      "source_en": "When you obtain a \"Bitterblack Ring\" from\r\ninside a <COL ffdc78>Bitterblack Chest</COL>\r\nor when you appraise a \"Bitterblack Deed Box\",\r\n<COL ffdc78>\"Bitterblack Equiment Effect Seal\"</COL> is activated.\r\nYou can obtain a ring with a non-sealed effect,\r\nso make sure to use it.\r\n<COL ffdc78>You can appraise rare items by talking to Luca\r\nat the Cave Harbor or in the Bitterblack Maze.</COL>",
+      "text": "Wenn du einen Finstergram-Ring aus\neiner <COL ffdc78>Finstergram-Truhe</COL> erhältst oder\neine Finstergram-Schatulle eintauschst,\ngreift die <COL ffdc78>Effektversiegelung</COL>.\nDer Ring erhält nur Effekte,\ndie du nicht versiegelt hast.\n<COL ffdc78>Luca begutachtet und tauscht seltene\nStücke im Höhlenhafen oder im Labyrinth.</COL>"
+    }
+  ]
+}

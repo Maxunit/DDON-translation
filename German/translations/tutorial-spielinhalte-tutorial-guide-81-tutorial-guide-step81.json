@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step81.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_81.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_101",
+      "read_index": "0",
+      "source_jp": "キャラクターの外見や声を変えたい時は\r\n神殿内<COL ffdc78>《美容院》</COL>のモーリスを訪れましょう\r\n<COL ffdc78>外見の変更には《黄金石》が必要です</COL>\r\n髪型やメイクのほか、顔のパーツ、体型など\r\n自由に変更できます",
+      "source_en": "When you want to change the appearance or voice\r\nof your character, visit Morris at the <COL ffdc78>\r\nBeauty Salon</COL> in the Temple.\r\n<COL ffdc78>A Golden Gemstone is required for\r\nchanging your appearance</COL>.\r\nIn addition to hairstyles and makeup, you can\r\nfreely change facial features,\r\nbody shape, and more.",
+      "text": "Besuche Morris im <COL ffdc78>Schönheitssalon</COL>\nim Tempel, um Aussehen oder Stimme\nzu ändern. <COL ffdc78>Für das Aussehen brauchst\ndu Goldsteine.</COL> Du kannst etwa Haare,\nMake-up, Gesicht und Körperbau ändern."
+    },
+    {
+      "key": "TUTORIAL_STEP_237",
+      "read_index": "1",
+      "source_jp": "また声や、ポーンの発言頻度、口調\r\nについてもここで変更できます\r\nこちらは何度でも自由に変更可能です\r\nあなたやポーンの容姿、声などを\r\nイメージチェンジしたい場合におすすめです",
+      "source_en": "You can also change the voice, the frequency of\r\nPawn's comments, and their tone here.\r\nYou are free to change it as\r\nmany times as you like.\r\nThis is the place to go if you want to change\r\nthe appearance, voice, or other aspects\r\nof yourself or Pawn!",
+      "text": "Hier kannst du auch die Stimmen\nanpassen und festlegen, wie oft und\nin welchem Ton deine Vasallen sprechen.\nDiese Einstellungen kannst du jederzeit\nerneut ändern."
+    },
+    {
+      "key": "TUTORIAL_STEP_690",
+      "read_index": "2",
+      "source_jp": "性別・名前の変更は同施設内にある\r\n<COL ffdc78>《転生》</COL>から可能です\r\n変更には《黄金石》が必要となります\r\n性別だけでなく容姿や声なども同時に設定し\r\nなりたい姿に生まれ変わることができます\r\n※覚者の名前は変更する事ができません\r\n　 ご注意ください",
+      "source_en": "Gender and name changes are possible within the\r\nsame facility, using <COL ffdc78>[Reincarnation]</COL>.\r\nTo make the changes, you will need a \"Golden\r\nGemstone\". You can not only change your gender\r\nbut also your appearance and voice, all at the\r\nsame time, allowing you to be reborn as the\r\nperson you want to become.\r\n※ Please note that you cannot change\r\nthe name of the Arisen.",
+      "text": "Über <COL ffdc78>„Wiedergeburt“</COL> im Salon kannst\ndu für Goldsteine das Geschlecht ändern.\nLege dabei auch Aussehen und Stimme neu\nfest. Vasallen kannst du umbenennen.\nDer Name eines Erweckten bleibt gleich."
+    }
+  ]
+}

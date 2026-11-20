@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step321.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_321.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_503",
+      "read_index": "0",
+      "source_jp": "ポーンとの絆が高まると\r\n特別なお願いをされることがあります\r\nポーンの気持ちに応えて、さらに絆を深めましょう",
+      "source_en": "As your bond with a pawn grows, you may be asked\r\nto do something special Respond to the pawn's\r\nfeelings to further strengthen your bond!",
+      "text": "Wenn eure Bindung wächst, bittet\r\ndein Vasall dich manchmal um etwas.\r\nErfülle seine Bitte. So wächst eure Bindung."
+    },
+    {
+      "key": "TUTORIAL_STEP_532",
+      "read_index": "1",
+      "source_jp": "お願いを叶えてあげることで\r\n特別なお礼がもらえるかもしれません\r\n<COL ffdc78>お願いを受けずに自室を出入りすると\r\nポーンがお願いの内容を考え直してしまうので\r\n注意が必要です</COL>",
+      "source_en": "By granting the request, you may receive\r\na special thank you.\r\n<COL ffdc78>If you leave or enter your room without\r\naccepting the request the pawn will reconsider\r\nthe request, so you need to be careful</COL>",
+      "text": "Für erfüllte Bitten gibt es mitunter\r\neine besondere Belohnung.\r\n<COL ffdc78>Verlässt du vor der Annahme das Zimmer,\r\nkann dein Vasall bei deiner Rückkehr\r\neine andere Bitte äußern.</COL>"
+    }
+  ]
+}

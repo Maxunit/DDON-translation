@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step418.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_418.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_778",
+      "read_index": "0",
+      "source_jp": "一部の石碑の試練をクリアすると\r\n<COL ffdc78>《英霊の加護》</COL>が得られ、一時的に\r\nプレイヤーキャラクターの能力を\r\n強化することが可能です\r\n強化内容は各種ステータスアップや\r\n耐性アップなどがあり、提示された選択肢の中から\r\n１つを自由に選べます\r\n<COL ffdc78>※エピタフロード内でのみ有効な強化です\r\n　別のエリアに移動するとリセットされます</COL>",
+      "source_en": "After clearing The Trial of the Stone Monument,\r\nyou can obtain the \"Divine Protection of Heroic\r\nSpirits\" and temporarily enhance the abilities\r\nof your player character.\r\nThe enhancements include various stat boosts and\r\nresistance increases, and you can freely choose\r\none from the options presented.\r\n※This enhancement is only valid within the\r\nEpitaph Road and will reset upon moving\r\nto a different area.",
+      "text": "Manche Prüfungen an den Grabsteinen\ngewähren dir den <COL ffdc78>Segen der Heldengeister</COL>.\nEr verbessert vorübergehend Werte\noder Widerstände deines Charakters.\nWähle eine der angezeigten Wirkungen.\n<COL ffdc78>Der Segen gilt nur auf dem Pfad.\nWechselst du in ein anderes Gebiet,\nendet die Wirkung.</COL>",
+      "tag_source": "source_jp"
+    }
+  ]
+}

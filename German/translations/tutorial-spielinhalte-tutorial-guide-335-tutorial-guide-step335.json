@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step335.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_335.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_533",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《闇の再動》</COL>は最大４人のパーティーで\r\n《芯なる樹》に再び姿が確認された黒騎士の剣を\r\n１０本破壊するエクストリームミッションです",
+      "source_en": "<COL ffdc78>\"Recurrence of Darkness\"</COL>\r\nis an Extreme Mission where up to four party\r\nmembers are required to destroy ten swords of\r\nthe Black Knight, whose presence has been\r\nconfirmed once again at the [Core Tree].",
+      "text": "In <COL ffdc78>„Die Finsternis regt sich erneut“</COL>\nkämpft ihr mit bis zu vier Erweckten.\nDer Schwarze Ritter ist zum Herzbaum\nzurückgekehrt. Zerstört dort zehn\nseiner Schwerter."
+    },
+    {
+      "key": "TUTORIAL_STEP_534",
+      "read_index": "1",
+      "source_jp": "《始まりの洞》から繋がる４つのダンジョンは\r\n<COL ffdc78>その内部も位置関係を同じくして繋がっています</COL>\r\n一番左のダンジョンからは１つ右のダンジョンにしか\r\n移動できません\r\nダンジョンに入ったらミニマップのアイコンを確認し\r\n<COL ffdc78>他のダンジョンへ通じる扉がどこにあるか</COL>を\r\n把握しましょう",
+      "source_en": "From the Hollow of Beginnings, four\r\ndungeons are connected,\r\n<COL ffdc78>The insides of each are also connected in the\r\nsame positional relationship.</COL>\r\nYou can only move to the leftmost dungeon from\r\nthe one on the right.\r\nOnce you enter a dungeon, check the icon on the\r\nmini-map to see <COL ffdc78>where the doors leading\r\nto other dungeons are</COL>.",
+      "text": "Die Höhle des Ursprungs führt zu\nvier Dungeons. <COL ffdc78>Sie sind untereinander\nin derselben Reihenfolge verbunden</COL>.\nVom ganz linken Dungeon kommst du\nalso nur in den Dungeon rechts daneben.\nDie Minikarte zeigt, <COL ffdc78>welche Türen in\nandere Dungeons führen</COL>."
+    },
+    {
+      "key": "TUTORIAL_STEP_535",
+      "read_index": "2",
+      "source_jp": "黒騎士の剣には敵対者を感知する力があり、\r\nしばらくすると魔物が呼び寄せられます\r\n少数での討伐が難しい場合、他のメンバーに\r\n助けを求めましょう",
+      "source_en": "The Black Knight's sword has the power to sense\r\nhostiles, and after a while the monsters\r\nwill be called to you.\r\nIf you have difficulty defeating them with a few\r\npeople, ask other members to help you!",
+      "text": "Die Schwerter des Schwarzen Ritters\nspüren Feinde und locken nach einer\nWeile Monster an. Ruf Verstärkung,\nwenn ihr zu wenige für den Kampf seid."
+    },
+    {
+      "key": "TUTORIAL_STEP_536",
+      "read_index": "3",
+      "source_jp": "ステージ内に出現する魔物の中でも、《時番群》の\r\n名を持つ魔物は、その一帯を全て討伐すると\r\n<COL ffdc78>ミッションの制限時間が延長</COL>されます\r\n残りの制限時間を確認しながら\r\n臨機応変に対応しましょう",
+      "source_en": "Among the monsters that appear in the stage,\r\nthose with the name of [Time\r\nBonus Group] will grant\r\n<COL ffdc78>mission time limit extended</COL> when all the\r\nmonsters in the area are defeated.\r\nCheck the remaining time\r\nlimit and be resourceful!",
+      "text": "Besiegt ihr alle Zeitwächter und\nanderen Monster in einem Bereich,\n<COL ffdc78>verlängert sich das Zeitlimit</COL>.\nBehaltet die verbleibende Zeit im\nBlick und passt euer Vorgehen an."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step384.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_384.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_686",
+      "read_index": "0",
+      "source_jp": "カスタムメイド工房での<COL ffdc78>《武具のリミット解除》</COL>は\r\n下記の２つを揃えることで\r\n何度でも行うことができます\r\n　①★４まで強化された武器や防具\r\n　②素材やリムなどの必要な費用\r\nまた、付与される性能は\r\n<COL ffdc78>リミット解除を試すたびに上書きされる</COL>ため\r\n成功時に付与される性能例を\r\n確認しながら行いましょう",
+      "source_en": "In the <COL ffdc78> \"Limit Breaking Arms\"</COL>\r\nat the Custom-Made Workshop, you can perform it\r\nas many times as you want by obtaining the\r\nfollowing two things: ① Weapons and armor\r\nenhanced up to ★4 ② Required costs such as\r\nmaterials and Rift Crystals Also, the <COL ffdc78>granted\r\nabilities are overwritten every time you attempt\r\nthe Limit Break</COL>, so proceed while\r\nconfirming examples of granted\r\nabilities upon success.",
+      "text": "Mit <COL ffdc78>„Limit aufheben“</COL> kannst du in der\nSpezialwerkstatt Waffen und Rüstungen\nmit vier Sternen weiter verbessern.\nDu brauchst Material und Riftkristalle.\nDu kannst es mehrmals versuchen.\n<COL ffdc78>Bei jedem Versuch ersetzen die neuen\nWerte die bisherigen.</COL>\nSieh dir das Beispiel im Bild an."
+    }
+  ]
+}

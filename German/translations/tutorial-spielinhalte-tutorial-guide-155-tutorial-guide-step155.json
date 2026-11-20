@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step155.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_155.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_38",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《グリッテン砦攻防戦》</COL>は\r\n最大８人のパーティーを結成し、強敵に攻められた\r\nグリッテン砦を防衛するエクストリームミッション\r\nです\r\n戦況は時により変化し、何が起こるか\r\n予断を許しません\r\nジョブの役割を活かしてパーティーを組み\r\n死角を補いあって戦いましょう",
+      "source_en": "<COL ffdc78>[Battle for Fort Gritten]</COL> is an Extreme Mission\r\nwhere you form a party of up to eight people to\r\ndefend Fort Gritten against formidable enemies.\r\nThe battlefield conditions can change at any\r\ntime, and you can't afford to\r\nlet your guard down.\r\nUtilize the roles of each job and work together\r\nas a party to cover each other's\r\nblind spots and fight.",
+      "text": "Verteidige in der Extremmission\n<COL ffdc78>„Schlacht um Fort Gritten“</COL> das Fort\nin einer Gruppe aus bis zu acht Leuten.\nDie Lage kann sich im Kampf ändern.\nStimmt eure Klassenrollen aufeinander\nab, damit ihr einander decken könnt."
+    },
+    {
+      "key": "TUTORIAL_STEP_206",
+      "read_index": "1",
+      "source_jp": "なお、本ミッションでは\r\n強大な敵を数多く倒すことで\r\nより多くの戦功を得ることができます\r\n敵精鋭の増援は見逃さないようにしましょう\r\n<COL ffdc78>また、護衛対象を守れなかった場合は\r\nミッション失敗となります</COL>\r\n注意しましょう",
+      "source_en": "In this mission, by defeating numerous powerful\r\nenemies, you can earn more War Merits.\r\nBe sure not to overlook the\r\nreinforcements of elite enemies.\r\n<COL ffdc78>In addition, if you fail to protect the escort\r\ntarget, the mission will be\r\nconsidered a failure.</COL>\r\nPlease be careful.",
+      "text": "Besiegt möglichst viele starke Gegner,\num eure Wertung zu steigern.\nAchtet auch auf die Verstärkung\nmit feindlichen Elitetruppen.\n<COL ffdc78>Fällt jemand, den ihr beschützen\nsollt, scheitert die Mission.</COL>"
+    }
+  ]
+}

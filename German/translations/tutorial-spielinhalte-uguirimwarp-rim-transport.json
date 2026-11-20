@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\rim_transport.gmd",
+  "arc_path": "\\ui\\uGUIRimWarp.arc",
+  "entries": [
+    {
+      "key": "list_name_return_kokuju_entrance",
+      "read_index": "34",
+      "source_jp": "<COL ffdc78>黒呪の迷宮・入り江に戻る</COL>",
+      "source_en": "<COL ffdc78>Return to Bitterblack Maze -\r\nCove</COL>",
+      "text": "<COL ffdc78>Zur Bucht am Finstergram-Labyrinth</COL>"
+    },
+    {
+      "key": "dialog_return_kokuju_entrance_check",
+      "read_index": "35",
+      "source_jp": "黒呪の迷宮・入り江に戻ります\r\nよろしいですか？",
+      "source_en": "Are you sure you want to return to\r\nthe Bitterblack Maze Cove?",
+      "text": "Zur Bucht am Finstergram-Labyrinth zurückkehren?"
+    }
+  ]
+}

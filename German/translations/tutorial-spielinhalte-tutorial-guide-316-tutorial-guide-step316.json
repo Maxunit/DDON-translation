@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step316.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_316.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_510",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《プレイポイント》が入手可能になりました！</COL>\r\n<COL ffdc78>《プレイポイント（PP）》</COL>は\r\n各ジョブがレベル70に到達した後に\r\n経験値（XP）の代わりに獲得することができます\r\n集めたプレイポイントを使い、\r\n《プレイポイントショップ》にて様々な要素を\r\n購入しましょう",
+      "source_en": "<COL 78f5ff>\"Play Points\" are now available for acquisition!</COL>\r\nAfter reaching level 70 in each job, you will be\r\nable to obtain <COL ffdc78>\"Play Points (PP)\"</COL> instead of\r\nexperience points (XP).\r\nUse the collected Play Points to purchase\r\nvarious elements at the \"Play Point Shop.\"",
+      "text": "<COL 78f5ff>Du kannst jetzt Spielpunkte sammeln!</COL>\nAb Stufe 70 kannst du mit der jeweiligen\nKlasse <COL ffdc78>Spielpunkte (PP)</COL> anstelle von\nErfahrung (XP) verdienen.\nGib diese Punkte im Spielpunkte-Shop\nfür neue Möglichkeiten zur Entwicklung\ndeiner Klasse aus."
+    },
+    {
+      "key": "TUTORIAL_STEP_515",
+      "read_index": "1",
+      "source_jp": "《プレイポイント》を入手するためには\r\n白竜神殿にいるアーチボルトに話しかけ、\r\nプレイポイントを取得するモードに切り替えてから\r\n敵を倒す必要があります\r\n<COL ffdc78>※敵討伐時のプレイポイント入手に関しては\r\n自分と同レベル相当の一部の敵が対象となります</COL>\r\n<COL ffdc78>※メインクエストなど一部コンテンツの\r\n　クリア報酬では、取得モードが通常/PP\r\n　どちらの状態でも経験値を取得します</COL>",
+      "source_en": "To obtain \"Play Points,\" speak to Archibald in\r\nthe White Dragon Temple and switch to the mode\r\nto acquire Play Points before defeating enemies.\r\n<COL ffdc78>※When acquiring Play Points by defeating\r\nenemies, only some enemies at the same level as\r\nyourself are eligible.</COL>\r\n<COL ffdc78>※For certain content such as Main Quests,\r\nexperience points are obtained regardless of\r\nwhether the acquisition mode\r\nis set to Normal/PP.</COL>",
+      "text": "Sprich mit Archibald im Tempel des\nWeißen Drachen und wechsle in den\nSpielpunkte-Modus. Besiege dann Gegner.\n<COL ffdc78>PP erhältst du nur für bestimmte Gegner\netwa auf deiner eigenen Stufe.</COL>\n<COL ffdc78>Die Abschlussbelohnung mancher Inhalte\nenthält weiterhin XP. Dazu gehören\nzum Beispiel Hauptquests.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_516",
+      "read_index": "2",
+      "source_jp": "＜プレイポイント獲得モードへの切替方法＞\r\n《戦技補佐》画面の《ジョブ》からジョブ別に\r\nプレイポイント獲得モードに切替可能です\r\n※モード切替が可能になったジョブに関しては\r\nいつでも元に戻すことが可能です",
+      "source_en": "Switching to the [Play Point Acquisition Mode]:\r\nYou can switch to the Play Point Acquisition\r\nMode for each job from the [Arts Support] screen\r\nunder [Vocation Select].\r\n※ For jobs where mode switching is possible, you\r\ncan always revert back to the original mode.",
+      "text": "Öffne bei Archibald die Kampftechniken.\nWähle dort die gewünschte Klasse\nund aktiviere den Spielpunkte-Modus.\nBei Klassen mit freigeschaltetem Modus\nkannst du jederzeit zu XP zurückkehren."
+    }
+  ]
+}

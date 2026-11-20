@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step43.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_43.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_16",
+      "read_index": "0",
+      "source_jp": "各クエストには、そのクエストがクリア可能かどうかの\r\n指標となる<COL ffdc78>《推奨レベル》</COL>が設定されています\r\nエリア難度、登場する敵レベルの目安となるため、\r\n自分のレベルに見合ったクエストに挑みましょう\r\n<COL ffdc78>また、ジョブレベルだけではなく装備品もレベルに\r\n見合っていることが前提です</COL>",
+      "source_en": "All quests have a <COL ffdc78>Recommended Level.</COL>\r\nThis will tell you the level of enemies that\r\nappear in the quest area.\r\n<COL ffdc78>Note that the recommended level not only means\r\nyour vocation level but also\r\nyour equipment level.</COL>\r\nBe sure to challenge quests\r\nthat match your level.",
+      "text": "Jede Quest hat eine <COL ffdc78>empfohlene Stufe</COL>.\r\nSie hilft dir, Gegner und Schwierigkeit\r\ndes Gebiets einzuschätzen. Wähle Quests,\r\ndie zu deiner Stufe passen.\r\n<COL ffdc78>Auch deine Ausrüstung sollte deiner\r\nKlassenstufe entsprechen.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_189",
+      "read_index": "1",
+      "source_jp": "なおワールドクエストやメインクエストにおいては\r\n仲間やポーンも含め、パーティー４人全員が\r\n《推奨レベル》に適正である事も重要です\r\n装備品がレベルに見合わない場合もクリア難度は\r\n上がるため、挑む前には準備も整えましょう",
+      "source_en": "In <COL ffdc78>World Quests</COL> and <COL ffdc78>Main Quests</COL>, all party\r\nmembers should also fulfil the\r\nrecommended level requirements.\r\nIf your equipment does not match your level, the\r\nquest difficulty goes up.\r\nBe sure to be prepared!",
+      "text": "Bei Hauptquests und Weltquests sollten\r\nalle vier Gruppenmitglieder die\r\nempfohlene Stufe haben. Das gilt auch\r\nfür deine Vasallen.\r\nMit zu schwacher Ausrüstung wird die\r\nQuest schwerer. Bereite dich vorher vor.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

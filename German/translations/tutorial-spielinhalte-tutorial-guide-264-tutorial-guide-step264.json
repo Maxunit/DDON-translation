@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step264.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_264.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_433",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《戦技の継承》が解放されました！</COL>\r\n各ジョブレベルをLV40以上にすると\r\nジョブマスターから新たな試練を受けることが\r\n可能になります\r\n新たな試練をクリアすることで\r\n白竜が戦技の継承を解放し\r\n各ジョブごとの能力を上げられるようになります",
+      "source_en": "<COL 78f5ff>[Skill Augmentation] has been unlocked!</COL>\r\nWhen each job reaches level 40 or above, you can\r\nundergo a new trial from the Job Masters and\r\nopen up new possibilities.\r\nBy clearing this new trial, the White Dragon\r\nwill unlock the Skill Augmentation, allowing you\r\nto enhance the abilities of each job.",
+      "text": "<COL 78f5ff>Klassenverstärkung freigeschaltet!</COL>\nAb Stufe 40 kannst du beim Meister\ndeiner Klasse eine neue Prüfung ablegen.\nBestehe sie, damit der Weiße Drache\ndie Klassenverstärkung freischaltet.\nSo kannst du jede Klasse gezielt\nweiterentwickeln."
+    }
+  ]
+}

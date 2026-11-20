@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step435.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_435.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_833",
+      "read_index": "0",
+      "source_jp": "黒竜との戦いでは、これまでの闇の眷属との戦いで\r\n力を発揮した様々なドラゴンアビリティの効果が\r\n必要となります\r\n全てのドラゴンアビリティの発動が可能な\r\n<COL ffdc78>《ドラゴンアビリティ：対黒竜》</COL>の力を宿した\r\n竜防具を準備し、黒竜との決戦に備えましょう",
+      "source_en": "In the battle against the Black Dragon, the\r\neffects of various Dragon Abilities that have\r\nproven their strength in previous battles\r\nagainst dark servants will be necessary.\r\nPrepare dragon armor infused with the power of\r\n<COL ffdc78>\"Dragon Ability: Anti-Black Dragon\"</COL> that allows\r\nthe activation of all Dragon Abilities and be\r\nready for the decisive battle\r\nagainst the Black Dragon.",
+      "text": "Gegen den Schwarzen Drachen brauchst du\ndie Begabungen, die dir gegen andere\nDiener der Finsternis geholfen haben.\nTrage Rüstung mit Punkten für den\n<COL ffdc78>Schwarzen Drachen</COL>.\nSie erlauben alle Drachenbegabungen\nim Kampf gegen den Schwarzen Drachen."
+    },
+    {
+      "key": "TUTORIAL_STEP_834",
+      "read_index": "1",
+      "source_jp": "高難度となる黒竜との決戦では<COL ffdc78>《破滅の力》</COL>と\r\nよばれる力が黒竜に蓄積していきます\r\n破滅の力は黒竜の特定の攻撃を受けることで\r\n上昇していきます。最大まで高まった破滅の力による\r\n黒竜の一撃は、覚者たちを殲滅するには\r\n十分すぎるほどの威力となるでしょう\r\n<COL ffdc78>黒竜の竜力がむき出しとなった部位</COL>を攻撃することで\r\n破滅の力を減少させることが可能です\r\nこの点を上手く利用できるよう立ち回りましょう",
+      "source_en": "During the decisive battle with the formidable\r\nBlack Dragon, a power called <COL ffdc78>\"Power of\r\nDestruction\"</COL> accumulates.\r\nThis power increases when the Arisen receives\r\nspecific attacks from the Black Dragon. When the\r\nPower of Destruction reaches its maximum, the\r\nBlack Dragon's strike will possess a power that is\r\nmore than enough to annihilate the Arisen.\r\n<COL ffdc78>By attacking the exposed parts of the\r\nBlack Dragon's Dragon Force</COL>, it is possible\r\nto decrease the Power of Destruction. Make\r\ngood use of this point in our strategies.",
+      "text": "Bestimmte Treffer des Schwarzen Drachen\nerhöhen seine <COL ffdc78>Macht der Vernichtung</COL>.\nErreicht sie ihr Maximum, kann sein\nSchlag alle Erweckten vernichten.\nTriff <COL ffdc78>die Stellen, an denen seine\nDrachenkraft offen zutage tritt</COL>.\nSo senkst du die Macht der Vernichtung."
+    },
+    {
+      "key": "TUTORIAL_STEP_835",
+      "read_index": "2",
+      "source_jp": "《対黒竜》でのみ発動可能なドラゴンアビリティ\r\n＜ドラゴンスレイヤー＞\r\n黒竜の弱点部位、または黒竜により召喚された竜晶に\r\n一定量のダメージを与えると\r\n大ダメージを与える追撃が発生します\r\nLV UP毎に追撃のダメージがより増加",
+      "source_en": "Dragon Ability Exclusive to \"Anti-Black Dragon\"\r\n[Dragon Slayer] When you deal a certain amount\r\nof damage to the weak points of the Black Dragon\r\nor the Dragon Crystal summoned by the Black\r\nDragon, a follow-up attack that inflicts\r\nsignificant damage will occur.\r\nThe damage of the follow-up attack\r\nincreases with each level up.",
+      "text": "Drachentöter\nNur mit Punkten für den Schwarzen Drachen.\nFüge seinen Schwachstellen oder den von\nihm beschworenen Kristallen genug Schaden\nzu. Das löst einen starken Folgetreffer aus.\nHöhere Stufen erhöhen dessen Schaden."
+    },
+    {
+      "key": "TUTORIAL_STEP_869",
+      "read_index": "3",
+      "source_jp": "＜黄金竜の一撃＞\r\n黄金竜の攻撃により、敵の特定の攻撃を中断します\r\n攻撃を中断すると破滅の力の蓄積量が減少します\r\nLV UP毎に破滅の力の減少量がより増加",
+      "source_en": "[Blow of the Golden Dragon] The Golden Dragon's\r\nattack interrupts the enemy's specific attack.\r\nInterrupting the attack reduces the accumulation\r\nof the Power of Destruction.\r\nThe amount of reduction in the Power of\r\nDestruction increases with each LV UP.",
+      "text": "Schlag des Golddrachen\nDer Golddrache unterbricht bestimmte\nAngriffe. Das senkt die Macht der\nVernichtung. Höhere Stufen senken sie mehr."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step121.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_121.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_96",
+      "read_index": "0",
+      "source_jp": "世界は大きく地域別にエリア区分されています\r\nエリアにはそれぞれ《ハイデル平原》、\r\n《ブリア海岸》、《ミスリウ森林》などの\r\n名前がついています\r\n目的地や現在地がどのエリアか【<KC UI_GAME_MENU>】\r\nゲームメニュー《ワールド》の<COL ffdc78>《マップ》</COL>で\r\n確認するクセをつけるといいでしょう",
+      "source_en": "The world is divided into different areas: Each\r\narea is named, such as <COL ffdc78>Hidell Plains</COL>,\r\n<COL ffdc78>Breya Coast</COL> and <COL ffdc78>Mysree Forest.</COL>\r\nTo find out which area your destination or\r\ncurrent location is in, it's a good idea to\r\ndevelop a habit of checking the Map in the game\r\nmenu called World (Game menu: <KC UI_GAME_MENU>) (Map: <COL ffdc78>World</COL>)",
+      "text": "Lestania besteht aus benannten Gebieten.\r\nDazu gehören die Hidell-Ebene,\r\nBreya Coast und der Mysree-Wald.\r\nÖffne mit [<KC UI_GAME_MENU>] das Spielmenü.\r\nUnter „Welt“ findest du die <COL ffdc78>Karte</COL>.\r\nSie zeigt, in welchem Gebiet du bist\r\nund wo dein Reiseziel liegt.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_95",
+      "read_index": "1",
+      "source_jp": "また、エリアごとに受注できるクエストや\r\n店舗の品ぞろえ、発見できるアイテムや\r\n魔物が異なり、冒険難度も違います\r\nエリアの特色を把握することで\r\n冒険を有利にすすめられます",
+      "source_en": "Furthermore, there are quests that can be\r\nundertaken in each area, as well as a variety of\r\nitems available in the shops and different\r\nenemies and levels of difficulty.\r\nBy understanding the unique characteristics of\r\neach area, you can progress in your adventure\r\nmore advantageously.",
+      "text": "Quests, Händlerwaren, Fundstücke und\r\nGegner unterscheiden sich je nach Gebiet.\r\nAuch die Schwierigkeit variiert.\r\nWenn du die Gebiete kennst, findest du\r\nschneller, was du für dein Abenteuer\r\nbrauchst."
+    }
+  ]
+}

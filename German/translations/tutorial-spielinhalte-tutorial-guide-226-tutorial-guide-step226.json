@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step226.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_226.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_356",
+      "read_index": "0",
+      "source_jp": "他の覚者とパーティーを組んで\r\n冒険している場合\r\n<COL ffdc78>パーティーリーダーがリム転移を行うと\r\n他のメンバーも転移先へ同行できます</COL>\r\n転移勧誘のお知らせがきたら\r\n行き先が同じ場合、ゲームメニューの\r\n<COL ffdc78>《リム転移》から《パーティー同行リム転移》</COL>\r\nを選びましょう",
+      "source_en": "If you are adventuring with other Arisen, when\r\nthe <COL ffdc78>party leader performs a Rift Teleport, the\r\nother members can also accompany\r\nthem to the destination.</COL>\r\nWhen you receive a <COL ffdc78>Rift Teleport invitation, if\r\nthe destination is the same, select \"Rift\r\nTeleport with Party\" from the \"Rift Teleport\"\r\noption in the game menu.</COL>",
+      "text": "Reist du mit anderen Erweckten, könnt\nihr <COL ffdc78>der Gruppenleitung per Rift-Transport\nzum Ziel folgen.</COL>\nWenn du eine Einladung zur Reise erhältst,\nöffne im Spielmenü <COL ffdc78>„Rift-Transport“\nund wähle „Rift-Transport zur Gruppe“</COL>,\nwenn du zum selben Ziel möchtest."
+    },
+    {
+      "key": "TUTORIAL_STEP_357",
+      "read_index": "1",
+      "source_jp": "さらに特定の<OPCS>発動中は\r\n<COL ffdc78>解放した礎すべてがゲームメニューの\r\n《リム転移》で選べるようになるほか、\r\n「マイ拠点」へのリムは無料となり\r\nその他の礎へ行く時も大幅に割り引きされます</COL>",
+      "source_en": "Furthermore, while the specific <OPCS>\r\nare active, <COL ffdc78>all released Rift Crystals can be\r\nselected in the Game Menu's \"Rift Teleport\" and\r\ngoing to \"Favorites\" becomes free. Additionally,\r\nthere is a significant discount when\r\ngoing to other locations.</COL>",
+      "text": "Solange <OPCS> aktiv ist:\n<COL ffdc78>Unter „Rift-Transport“ kannst du alle\nfreigeschalteten Zielkristalle wählen.\nFavoriten sind kostenlos. Andere Ziele\nkannst du viel günstiger erreichen.</COL>"
+    }
+  ]
+}

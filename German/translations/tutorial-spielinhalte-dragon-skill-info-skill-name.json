@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\dragon_skill\\skill_name.gmd",
+  "arc_path": "\\dragon_skill_info.arc",
+  "entries": [
+    {
+      "key": "DRAGON_SKILL_NAME_1",
+      "read_index": "0",
+      "source_jp": "竜の加護",
+      "source_en": "Dragon Protection",
+      "text": "Drachenschutz"
+    },
+    {
+      "key": "DRAGON_SKILL_NAME_2",
+      "read_index": "1",
+      "source_jp": "ビーストスレイヤー",
+      "source_en": "Beast Slayer",
+      "text": "Bestientöter"
+    },
+    {
+      "key": "DRAGON_SKILL_NAME_3",
+      "read_index": "2",
+      "source_jp": "デーモンスレイヤー",
+      "source_en": "Fiend Slayer",
+      "text": "Dämonentöter"
+    },
+    {
+      "key": "DRAGON_SKILL_NAME_4",
+      "read_index": "3",
+      "source_jp": "ゴーストスレイヤー",
+      "source_en": "Spirit Slayer",
+      "text": "Geistertöter"
+    },
+    {
+      "key": "DRAGON_SKILL_NAME_5",
+      "read_index": "4",
+      "source_jp": "ドラゴンスレイヤー",
+      "source_en": "Dragon Slayer",
+      "text": "Drachentöter"
+    },
+    {
+      "key": "DRAGON_SKILL_NAME_6",
+      "read_index": "5",
+      "source_jp": "精霊竜の抱擁",
+      "source_en": "Embrace of the Spirit Dragon",
+      "text": "Umarmung des Geisterdrachen"
+    },
+    {
+      "key": "DRAGON_SKILL_NAME_7",
+      "read_index": "6",
+      "source_jp": "精霊竜の反撃",
+      "source_en": "Counterattack of the Spirit Dragon",
+      "text": "Konter des Geisterdrachen"
+    },
+    {
+      "key": "DRAGON_SKILL_NAME_8",
+      "read_index": "7",
+      "source_jp": "火竜の浄化",
+      "source_en": "Purification of the Fire Dragon",
+      "text": "Läuterung des Feuerdrachen"
+    },
+    {
+      "key": "DRAGON_SKILL_NAME_9",
+      "read_index": "8",
+      "source_jp": "火竜の魔防壁",
+      "source_en": "Demon Bulwark of the Fire Dragon",
+      "text": "Magieschild des Feuerdrachen"
+    },
+    {
+      "key": "DRAGON_SKILL_NAME_10",
+      "read_index": "9",
+      "source_jp": "白竜の防壁",
+      "source_en": "Bulwark of the White Dragon",
+      "text": "Wall des Weißen Drachen"
+    },
+    {
+      "key": "DRAGON_SKILL_NAME_11",
+      "read_index": "10",
+      "source_jp": "白竜の刃",
+      "source_en": "Edge of the White Dragon",
+      "text": "Klinge des Weißen Drachen"
+    },
+    {
+      "key": "DRAGON_SKILL_NAME_12",
+      "read_index": "11",
+      "source_jp": "竜の祝福",
+      "source_en": "Dragon Blessing",
+      "text": "Drachensegen"
+    },
+    {
+      "key": "DRAGON_SKILL_NAME_13",
+      "read_index": "12",
+      "source_jp": "黄金竜の一撃",
+      "source_en": "Blow of the Golden Dragon",
+      "text": "Schlag des Golddrachen"
+    }
+  ]
+}

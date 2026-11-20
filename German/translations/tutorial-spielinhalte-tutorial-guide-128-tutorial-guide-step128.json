@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step128.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_128.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_67",
+      "read_index": "0",
+      "source_jp": "ポーンはダメージを受け、体力が尽きると\r\n《行動不能》となり、さらに一定時間経過すると\r\nあなた同様《死亡状態》になってしまいます\r\n<COL ffdc78>行動不能になったポーンは\r\n一定時間内に覚者が接近して【<KC TOUCH>】で\r\n助け起こすことでその場復活します</COL>",
+      "source_en": "When a Pawn takes damage and runs out of health,\r\nthey become \"incapacitated\" and after a certain\r\namount of time, they will end up in a state of\r\n\"death\" just like you.\r\n<COL ffdc78>When a Pawn becomes incapacitated, if an Arisen\r\napproaches within a certain amount of time, they\r\ncan revive them on the spot using the\r\n<KC TOUCH> command.</COL>",
+      "text": "Verliert ein Vasall alle Lebenspunkte,\r\nwird er kampfunfähig. Nach einer\r\nWeile stirbt er.\r\n<COL ffdc78>Geh rechtzeitig zu ihm und hilf ihm\r\nmit [<KC TOUCH>] wieder auf. Er kann\r\ndann sofort weiterkämpfen.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_66",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>一定時間内に助け起こせなかった場合も、\r\n雇い主の覚者が倒れたポーンに触れ《復活力》か\r\n《黄金石》を与えることで、復活させられます</COL>\r\n　自身の《復活力》を与える\r\n　　　　　...体力全快でその場復活\r\n　自身の《黄金石》を与える\r\n　　　　　...体力全快、【強化】状態でその場復活",
+      "source_en": "<COL ffdc78>If assistance cannot be provided within a\r\ncertain period of time, the Arisen employer can\r\nrevive the fallen Pawn by touching them and\r\nproviding either their own Revival Power\r\nor a Golden Gemstone.</COL>\r\n- Giving one's own Revival Power: Fully restores\r\nhealth and revives on the spot.\r\n- Giving one's own Golden Gemstone: Fully\r\nrestores health and revives on the spot in\r\na strengthened state.",
+      "text": "<COL ffdc78>Ist der Vasall gestorben, kann ihn\r\nsein Auftraggeber an Ort und Stelle\r\nwiederbeleben. Berühre ihn und gib ihm\r\nWiederbelebungskraft oder Goldsteine.</COL>\r\nMit Wiederbelebungskraft erhält er\r\nalle Lebenspunkte zurück.\r\nMit Goldsteinen erhält er zusätzlich\r\neine Stärkung."
+    },
+    {
+      "key": "TUTORIAL_STEP_303",
+      "read_index": "2",
+      "source_jp": "メインポーンが復活できず死亡状態のまま\r\n消えてしまった場合、<COL ffdc78>《ロスト状態》</COL>となり\r\n再呼び出しできなくなります\r\n<COL ffdc78>ロストしたポーンは、《ポーン郷》にある\r\n《異界の狭間》に再び囚われます</COL>\r\n《異界の狭間》を訪れ、救出してあげましょう\r\nそうすることで再び呼び出せるようになります",
+      "source_en": "If the main pawn cannot be revived and\r\ndisappears while in a dead state, it will become<COL ffdc78>\r\n\"Lost\"</COL>and cannot be recalled.\r\n<COL ffdc78>Lost pawns will be trapped again in the\r\n\"Rift\" in \"Pawn Cathedral\"</COL>\r\nVisit \"The Rift\" and rescue them, and they will\r\nbe able to be recalled again!",
+      "text": "Verschwindet ein toter Hauptvasall,\r\ngilt er als <COL ffdc78>verloren</COL> und kann\r\nvorerst nicht mehr gerufen werden.\r\n<COL ffdc78>Er ist dann im Rift bei der\r\nVasallenkathedrale gefangen.</COL>\r\nRette ihn dort. Danach kannst du\r\nihn wieder zu dir rufen."
+    },
+    {
+      "key": "TUTORIAL_STEP_304",
+      "read_index": "3",
+      "source_jp": "サポートポーンが復活できず倒れたまま\r\n消えてしまった場合、<COL ffdc78>《冒険回数》</COL>が１回分\r\n減り、待機状態に戻されます\r\n冒険回数が残っていれば、再呼び出し可能です\r\nポーンの戦線離脱は大きな戦力ダウンに\r\nなるため、行動不能のポーンは急いで\r\n助け起こしてあげましょう",
+      "source_en": "The support pawn, unable to be revived, remains\r\nfallen and disappears. In such cases, the <COL ffdc78>\r\n\"Battle Count\"</COL> will decrease by one, and the\r\npawn will be returned to a standby state.\r\nIf there are remaining Battle Count, it\r\ncan be summoned again.\r\nWhen a pawn becomes unable to act, it results in\r\na significant decrease in fighting strength.\r\nTherefore, be sure to quickly help and revive\r\nthe incapacitated pawn.",
+      "text": "Kannst du einen Hilfsvasallen nicht\r\nrechtzeitig wiederbeleben, kehrt er\r\nin den Bereitschaftszustand zurück.\r\nEr verliert <COL ffdc78>einen Abenteuereinsatz</COL>.\r\nHat er noch Einsätze übrig, kannst\r\ndu ihn erneut rufen. Hilf deinen\r\nVasallen im Kampf schnell wieder auf."
+    },
+    {
+      "key": "TUTORIAL_STEP_420",
+      "read_index": "4",
+      "source_jp": "また、特定の<OPCS>発動中はロストした\r\nメインポーンをリムストーンから直接救出\r\nできるようになります\r\nリムストーンのメニューから<COL ffdc78>《ポーンの救出》</COL>を\r\n選ぶことで、対象ポーンのレベルに応じた\r\nリムと引き換えに、すぐに復活させられます",
+      "source_en": "Furthermore, while specific <OPCS> is\r\nactive, it will be possible to directly rescue a\r\nlost Main Pawn from the Riftstone.\r\nBy selecting \"<COL ffdc78>Lost Pawns</COL>\" from the Riftstone\r\nmenu, you can immediately revive the target Pawn\r\nin exchange for Rift Crystals\r\ncorresponding to their level.",
+      "text": "Ist <OPCS>\r\naktiv, kannst du verlorene Hauptvasallen\r\ndirekt am Riftstein zurückholen.\r\nWähle dort <COL ffdc78>„Vasallen retten“</COL>.\r\nDer Preis in Riftkristallen hängt\r\nvon der Stufe des Vasallen ab."
+    }
+  ]
+}

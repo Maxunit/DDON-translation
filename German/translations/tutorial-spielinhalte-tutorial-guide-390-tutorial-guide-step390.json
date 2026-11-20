@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step390.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_390.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_723",
+      "read_index": "0",
+      "source_jp": "ハイセプターは、\r\n剣による近距離戦と魔法による遠距離戦の\r\n両方をこなせるバランスに優れたアタッカーです\r\n魔力を消費することで発動できる純魔法は強力なので\r\n適切なタイミングを見極めて使用しましょう\r\n魔力がない時には、性能を十分に発揮できないので\r\nゲージの管理には気を付けて立ち回りましょう",
+      "source_en": "The High Scepter is an excellent attacker with a\r\nbalanced ability to handle both close combat\r\nwith a sword and long-range combat with magick.\r\nThe Pure Magick that can be activated by\r\nconsuming mana is powerful, so use it at\r\nthe appropriate timing.\r\nWhen there is no mana, the performance cannot be\r\nfully displayed, so be careful\r\nin managing the gauge.",
+      "text": "Mit dem Schwert kämpfst du im Nahkampf,\nmit Zaubern aus der Ferne.\nWirke mächtige reine Magie, wenn sich\neine gute Gelegenheit bietet.\nOhne Magie bist du im Kampf deutlich\nschwächer. Behalte deine Magieleiste\nim Blick."
+    }
+  ]
+}

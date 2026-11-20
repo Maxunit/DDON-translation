@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step394.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_394.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_737",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>パーティーメンバーの\r\n自室へ訪問できるようになりました！</COL>\r\nパーティーメンバーがいる状態で\r\n白竜神殿にいる宿屋のバートンに話しかけ\r\n<COL ffdc78>《他人の自室訪問》</COL>を選択することで訪問できます\r\nまた、<COL ffdc78>《自室訪問設定》</COL>を選択すると\r\n自室への訪問を許可するかどうかの設定を\r\n行うことができます",
+      "source_en": "<COL 78f5ff>You can now visit Party members rooms!</COL>\r\nWhile party members are present, speak to Barton\r\nat the inn in the White\r\nDragon Temple, and select\r\n<COL ffdc78>\"Visit Another's Room\"</COL> to visit their rooms.\r\nAlternatively, you can select <COL ffdc78>\"My Room Visit\r\nSetup\"</COL> to determine whether visits to your\r\nown room are allowed.",
+      "text": "<COL 78f5ff>Du kannst jetzt die Zimmer von\nGruppenmitgliedern besuchen!</COL>\nSprich in einer Gruppe mit Barton\nin der Herberge des Tempels und wähle\n<COL ffdc78>„Zimmer besuchen“</COL>.\nUnter <COL ffdc78>„Besuchseinstellungen“</COL> kannst du\nBesuche in deinem eigenen Zimmer\nzulassen oder sperren."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step241.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_241.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_384",
+      "read_index": "0",
+      "source_jp": "名声度《エリアランク》が一定に達すると\r\n地域の問題により深く関わるパーソナルクエスト\r\n<COL ffdc78>《エリア試練クエスト》</COL>が発生します\r\nさらにエリア名声度を上げるには\r\nポイントの蓄積だけではなく\r\n試練クエストのクリアが必要です\r\n提示された強敵討伐や封鎖ダンジョン攻略に\r\n十分準備して挑みましょう",
+      "source_en": "Once the reputation level \"Area Rank\" reaches a\r\ncertain threshold, you will become more deeply\r\ninvolved in local issues through Personal Quests.\r\nArea Quests, known as <COL ffdc78>\"Area\r\nQuests,\"</COL> will also arise.\r\nTo increase your Area Reputation, it is not just\r\nabout accumulating points. Clearing Area Quests is\r\nalso necessary.\r\nPrepare adequately and take on challenges such as\r\ndefeating powerful enemies and conquering sealed\r\ndungeons.",
+      "text": "Ab einem bestimmten Gebietsrang werden\r\n<COL ffdc78>Gebietsprüfungen</COL> verfügbar. In diesen\r\npersönlichen Quests hilfst du, Probleme\r\nder Region zu lösen.\r\nFür den nächsten Rang brauchst du\r\ngenügend Ansehen und musst die Prüfung\r\nabschließen. Bereite dich auf starke\r\nGegner oder gesperrte Verliese vor."
+    }
+  ]
+}

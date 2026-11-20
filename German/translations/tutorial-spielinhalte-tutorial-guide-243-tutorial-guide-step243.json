@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step243.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_243.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_386",
+      "read_index": "0",
+      "source_jp": "メインクエストやワールドクエストで\r\nパーティーを組んでリーダーの\r\nクエストクリアを手伝った場合\r\n通常の報酬ではなくアシスト報酬\r\n<COL ffdc78>《パーティーリワード》</COL>が獲得できます\r\nメインクエストの場合は経験値とゴールドとリム、\r\nワールドクエストの場合はアイテムも\r\n受け取ることができます",
+      "source_en": "When you assist in clearing the leader's Main\r\nQuest or World Quest in a party, you can receive\r\nan assist reward and a <COL ffdc78>Party Reward</COL>,\r\nnot the usual reward.\r\nFor Main Quests, you can receive experience\r\npoints, gold, and Rift Crystals. For World\r\nQuests, you can also receive items.",
+      "text": "Hilfst du dem Leiter beim Abschluss\r\neiner Haupt- oder Weltquest, erhältst du\r\ndafür eine <COL ffdc78>Gruppenbelohnung</COL>.\r\nBei Hauptquests bekommst du XP,\r\nGold und Riftkristalle. Bei Weltquests\r\nkönnen Gegenstände dazukommen."
+    },
+    {
+      "key": "TUTORIAL_STEP_387",
+      "read_index": "1",
+      "source_jp": "なおメインクエスト、ワールドクエスト\r\nともに<COL ffdc78>進行度がリーダーと完全に同じで\r\nあれば、メンバーも正規報酬を受け取る\r\nことができます</COL>\r\n進行度が同じ場合も異なる場合も\r\n積極的にパーティーでクエストに挑んでください",
+      "source_en": "<COL ffdc78>If the Main Quest or World Quest progress is\r\ncompletely the same as the leader's, members can\r\nalso receive regular rewards.</COL>\r\nPlease actively challenge quests with your\r\nparty, regardless of whether the progress is\r\nthe same or different.",
+      "text": "<COL ffdc78>Wenn dein Questfortschritt genau dem\r\ndes Gruppenleiters entspricht, erhältst\r\nauch du die reguläre Belohnung.</COL>\r\nDas gilt für Hauptquests und Weltquests.\r\nDu kannst deine Gruppe auch mit einem\r\nanderen Fortschritt unterstützen."
+    }
+  ]
+}

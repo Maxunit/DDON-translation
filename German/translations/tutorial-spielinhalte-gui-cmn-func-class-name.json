@@ -1,0 +1,372 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\npc\\func_class_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "FUNC_CLASS_NAME_7",
+      "read_index": "4",
+      "source_jp": "宿屋",
+      "source_en": "Inn",
+      "text": "Herberge"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_10",
+      "read_index": "7",
+      "source_jp": "戦技補佐",
+      "source_en": "Arts Support",
+      "text": "Kampftechniken"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_14",
+      "read_index": "11",
+      "source_jp": "クラン酒場",
+      "source_en": "Clan Tavern",
+      "text": "Clan-Taverne"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_16",
+      "read_index": "13",
+      "source_jp": "美容院",
+      "source_en": "Beauty Salon",
+      "text": "Schönheitssalon"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_17",
+      "read_index": "14",
+      "source_jp": "レスタニアニュース",
+      "source_en": "Lestania News",
+      "text": "Lestania-Nachrichten"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_18",
+      "read_index": "15",
+      "source_jp": "竜力の継承",
+      "source_en": "Dragon Force Augmentation",
+      "text": "Erbe der Drachenkraft"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_19",
+      "read_index": "16",
+      "source_jp": "オーブ交換：クレスト",
+      "source_en": "Orb Exchange: Crests",
+      "text": "Blutkugeltausch"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_20",
+      "read_index": "17",
+      "source_jp": "オーブ交換：珍品／素材",
+      "source_en": "Orb Exchange: Rare Items / Materials",
+      "text": "Blutkugeltausch"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_22",
+      "read_index": "19",
+      "source_jp": "ジョブマスター",
+      "source_en": "Job Master",
+      "text": "Klassenmeister"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_24",
+      "read_index": "20",
+      "source_jp": "バザー",
+      "source_en": "Bazaar",
+      "text": "Basar"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_28",
+      "read_index": "24",
+      "source_jp": "竜の礎",
+      "source_en": "Dragon's Portcrystal",
+      "text": "Drachen-Zielkristall"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_29",
+      "read_index": "25",
+      "source_jp": "拠点の礎",
+      "source_en": "Portcrystal",
+      "text": "Zielkristall"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_30",
+      "read_index": "26",
+      "source_jp": "竜の礎",
+      "source_en": "Dragon's Portcrystal",
+      "text": "Drachen-Zielkristall"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_32",
+      "read_index": "28",
+      "source_jp": "クランクエストボード",
+      "source_en": "Clan Quest Board",
+      "text": "Clan-Questboard"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_33",
+      "read_index": "29",
+      "source_jp": "ランキングボード",
+      "source_en": "Ranking Board",
+      "text": "Rangtafel"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_39",
+      "read_index": "34",
+      "source_jp": "エクストリームミッション",
+      "source_en": "Extreme Missions",
+      "text": "Extremmissionen"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_40",
+      "read_index": "35",
+      "source_jp": "復活力の回復",
+      "source_en": "Recover Revival Power",
+      "text": "Wiederbelebungskraft auffüllen"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_42",
+      "read_index": "37",
+      "source_jp": "ログインスタンプ",
+      "source_en": "Login Stamp",
+      "text": "Login-Stempel"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_44",
+      "read_index": "39",
+      "source_jp": "トレジャーズロット",
+      "source_en": "Treasure Lot",
+      "text": "Schatzlotterie"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_46",
+      "read_index": "41",
+      "source_jp": "弱化の治療",
+      "source_en": "Weakness Treatment",
+      "text": "Schwäche behandeln"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_47",
+      "read_index": "42",
+      "source_jp": "戦徒の契り",
+      "source_en": "Myrmidon's Pledge",
+      "text": "Bund der Kampfvasallen"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_49",
+      "read_index": "44",
+      "source_jp": "パートナーポーン",
+      "source_en": "Partner Pawn",
+      "text": "Partnervasall"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_50",
+      "read_index": "45",
+      "source_jp": "戦技の継承",
+      "source_en": "Skill Augmentation",
+      "text": "Klassenverstärkung"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_53",
+      "read_index": "48",
+      "source_jp": "ジョブ解放",
+      "source_en": "Vocation Unlock",
+      "text": "Klasse freischalten"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_54",
+      "read_index": "49",
+      "source_jp": "ボックストレジャーズロット",
+      "source_en": "Box Treasure Lot",
+      "text": "Kistenlotterie"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_55",
+      "read_index": "50",
+      "source_jp": "ポーン遠征隊",
+      "source_en": "Pawn Expedition Corps",
+      "text": "Vasallenexpeditionen"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_57",
+      "read_index": "52",
+      "source_jp": "プレイポイントショップ",
+      "source_en": "Play Point Shop",
+      "text": "Spielpunkte-Shop"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_58",
+      "read_index": "53",
+      "source_jp": "クラン拠点管理",
+      "source_en": "Clan Hall Management",
+      "text": "Clan-Stützpunkt verwalten"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_60",
+      "read_index": "55",
+      "source_jp": "クランダンジョン",
+      "source_en": "Clan Dungeon",
+      "text": "Clan-Dungeons"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_64",
+      "read_index": "59",
+      "source_jp": "絶技の継承",
+      "source_en": "Special Skill Augmentation",
+      "text": "Erweiterte Klassenverstärkung"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_65",
+      "read_index": "60",
+      "source_jp": "ジョブエンブレム",
+      "source_en": "Vocation Emblem",
+      "text": "Klassenemblem"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_66",
+      "read_index": "61",
+      "source_jp": "サブストーリーログ",
+      "source_en": "Substory Log",
+      "text": "Nebengeschichten"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_67",
+      "read_index": "62",
+      "source_jp": "英霊眠りし道",
+      "source_en": "Epitaph Road",
+      "text": "Pfad der Heldengeister"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_69",
+      "read_index": "64",
+      "source_jp": "ウォーミッション",
+      "source_en": "War Missions",
+      "text": "Kriegsmissionen"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_70",
+      "read_index": "65",
+      "source_jp": "ドミニオンポイントショップ",
+      "source_en": "Dominion Point Shop",
+      "text": "Laden für Herrschaftspunkte"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_71",
+      "read_index": "66",
+      "source_jp": "転生",
+      "source_en": "Reincarnation",
+      "text": "Wiedergeburt"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_72",
+      "read_index": "67",
+      "source_jp": "武具のカスタムメイド",
+      "source_en": "Custom-made Arms",
+      "text": "Ausrüstung veredeln"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_78",
+      "read_index": "73",
+      "source_jp": "アチーブメント：王家再興",
+      "source_en": "Achievements: Royal Family Restoration",
+      "text": "Erfolge des Königshauses"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_82",
+      "read_index": "76",
+      "source_jp": "他人の自室訪問",
+      "source_en": "Visit Another's Room",
+      "text": "Zimmer besuchen"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_85",
+      "read_index": "79",
+      "source_jp": "自室訪問設定",
+      "source_en": "My Room Visit Setup",
+      "text": "Besuchseinstellungen"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_87",
+      "read_index": "81",
+      "source_jp": "募集掲示板",
+      "source_en": "Recruitment Board",
+      "text": "Mitspieler gesucht"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_88",
+      "read_index": "82",
+      "source_jp": "効果の封印",
+      "source_en": "Effect Seal",
+      "text": "Ausrüstungseffekte versiegeln"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_89",
+      "read_index": "83",
+      "source_jp": "黒呪アイテムの鑑定",
+      "source_en": "Bitterblack Item Appraisal",
+      "text": "Seltene Gegenstände begutachten"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_90",
+      "read_index": "84",
+      "source_jp": "具現化",
+      "source_en": "Materialize",
+      "text": "Beute mitnehmen"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_91",
+      "read_index": "85",
+      "source_jp": "探索結果の報告",
+      "source_en": "Report Search Results",
+      "text": "Erkundung melden"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_97",
+      "read_index": "90",
+      "source_jp": "黒呪ショップ",
+      "source_en": "Bitterblack Shop",
+      "text": "Finstergram-Laden"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_99",
+      "read_index": "92",
+      "source_jp": "ワイルドハント",
+      "source_en": "Wild Hunt",
+      "text": "Monsterjagd"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_100",
+      "read_index": "93",
+      "source_jp": "ハイオーブ交換",
+      "source_en": "High Orb Exchange",
+      "text": "Edle Kugeln eintauschen"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_101",
+      "read_index": "94",
+      "source_jp": "ドラゴンアビリティの合成",
+      "source_en": "Synthesis of Dragon Abilities",
+      "text": "Drachenbegabungen kombinieren"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_102",
+      "read_index": "95",
+      "source_jp": "竜防具の鑑定交換",
+      "source_en": "Appraisal Exchange of Dragon Armor",
+      "text": "Drachenrüstung begutachten"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_103",
+      "read_index": "96",
+      "source_jp": "リワードミッション",
+      "source_en": "Reward Mission",
+      "text": "Belohnungsmissionen"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_104",
+      "read_index": "97",
+      "source_jp": "リワードメダル交換",
+      "source_en": "Reward Medal Exchange",
+      "text": "Belohnungsmedaillen tauschen"
+    }
+  ]
+}

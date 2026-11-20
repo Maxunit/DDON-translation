@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step355.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_355.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_616",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《魔物集結スポット》が追加されました！</COL>\r\n《魔物集結スポット》には日数が経過するごとに\r\n魔物が集まり、魔軍の拠点が発展していきます\r\n魔軍拠点が発展すると、より強力な敵が\r\n出現するようになります",
+      "source_en": "<COL 78f5ff>\"Monster Gathering Spots\" have been added!</COL>\r\nIn the \"Monster Gathering Spots,\" enemies gather\r\nand the Demon Army's bases\r\ndevelop as the days pass.\r\nAs the Demon Army's bases develop, stronger\r\nenemies will start to appear.",
+      "text": "<COL 78f5ff>Monsterlager sind jetzt verfügbar!</COL>\r\nMit der Zeit sammeln sich weitere\r\nMonster an diesen Orten.\r\nIhr Lager wächst von Tag zu Tag.\r\nJe größer das Lager wird, desto\r\nstärkere Gegner tauchen auf."
+    },
+    {
+      "key": "TUTORIAL_STEP_617",
+      "read_index": "1",
+      "source_jp": "魔軍拠点が最大限まで発展すると\r\n<COL ffdc78>《スポットボス》</COL>と呼ばれる特殊な敵が出現します\r\nスポットボスを討伐すると、その他の敵よりも\r\n莫大な量の経験値を獲得することができます\r\n※スポットボスを討伐した状態で日数が経過すると\r\n　魔軍拠点の発展段階は最初期の状態に戻ります",
+      "source_en": "When the Demon Army base reaches its maximum\r\ndevelopment, a special enemy called a <COL ffdc78>\r\nSpot Boss</COL> appears.\r\nDefeating the Spot Boss allows you to obtain a\r\ntremendous amount of experience points\r\ncompared to other enemies.\r\nNote: If the days pass while the Spot Boss is\r\ndefeated, the development stage of the Demon\r\nArmy base will return to its initial state.",
+      "text": "Im voll ausgebauten Monsterlager\r\nerscheint ein <COL ffdc78>Lagerboss</COL>.\r\nEr bringt viel mehr Erfahrung als\r\ndie übrigen Gegner.\r\nEinige Tage nach dem Sieg beginnt\r\ndas Lager wieder auf der ersten Stufe."
+    }
+  ]
+}

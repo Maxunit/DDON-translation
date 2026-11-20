@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\Craft_res.gmd",
+  "arc_path": "\\ui\\uGUISubRecipe.arc",
+  "entries": [
+    {
+      "key": "MENU_OPT_POINT_ASSIGN",
+      "read_index": "2",
+      "source_jp": "クラフトステータス",
+      "source_en": "Craft Status",
+      "text": "Handwerksstatus"
+    },
+    {
+      "key": "MENU_OPT_PRODUCT",
+      "read_index": "3",
+      "source_jp": "アイテム生産",
+      "source_en": "Craft Item",
+      "text": "Gegenstand herstellen"
+    },
+    {
+      "key": "MENU_OPT_UPGRADE",
+      "read_index": "4",
+      "source_jp": "装備の強化",
+      "source_en": "Enhance Equipment",
+      "text": "Ausrüstung verstärken"
+    },
+    {
+      "key": "MENU_OPT_CREST",
+      "read_index": "5",
+      "source_jp": "クレスト装備",
+      "source_en": "Mount Crest",
+      "text": "Siegel einsetzen"
+    },
+    {
+      "key": "MENU_OPT_CHANGE_COLOR",
+      "read_index": "6",
+      "source_jp": "カラー変更",
+      "source_en": "Change Color",
+      "text": "Farbe ändern"
+    },
+    {
+      "key": "HEADING_ADDITION",
+      "read_index": "23",
+      "source_jp": "精錬材",
+      "source_en": "Refining Material",
+      "text": "Veredelungsmaterial"
+    },
+    {
+      "key": "HEADING_SPEED",
+      "read_index": "33",
+      "source_jp": "生産作業スピード",
+      "source_en": "Production Speed",
+      "text": "Herstellungstempo"
+    },
+    {
+      "key": "HEADING_TECHNOLOGY",
+      "read_index": "34",
+      "source_jp": "装備の強化技術",
+      "source_en": "Equipment Enhancement",
+      "text": "Verstärkungstechnik"
+    },
+    {
+      "key": "HEADING_FLASH",
+      "read_index": "35",
+      "source_jp": "高品質装備の作成力",
+      "source_en": "Equipment Quality",
+      "text": "Ausrüstungsqualität"
+    },
+    {
+      "key": "HEADING_CAPACITY",
+      "read_index": "36",
+      "source_jp": "消耗品の生産数アップ",
+      "source_en": "Consumable Quantity",
+      "text": "Verbrauchsmenge"
+    },
+    {
+      "key": "HEADING_COST_PERFORMANCE",
+      "read_index": "37",
+      "source_jp": "コストパフォーマンス",
+      "source_en": "Cost Performance",
+      "text": "Geringere Kosten"
+    },
+    {
+      "key": "HEADING_CREST",
+      "read_index": "80",
+      "source_jp": "Crest",
+      "source_en": "Crest",
+      "text": "Siegel"
+    },
+    {
+      "key": "HEADING_CREST_EQUIP",
+      "read_index": "81",
+      "source_jp": "Crest Equip",
+      "source_en": "Mount Crest",
+      "text": "Siegel einsetzen"
+    },
+    {
+      "key": "HEADING_DYES",
+      "read_index": "95",
+      "source_jp": "染料",
+      "source_en": "Dye",
+      "text": "Farbstoff"
+    },
+    {
+      "key": "BUTTON_CHANGE_COLOR",
+      "read_index": "97",
+      "source_jp": "カラー変更",
+      "source_en": "Change Color",
+      "text": "Farbe ändern"
+    },
+    {
+      "key": "HEADING_CREST_ITEM",
+      "read_index": "148",
+      "source_jp": "Equip Crest",
+      "source_en": "Mount Crest",
+      "text": "Siegel einsetzen"
+    },
+    {
+      "key": "EXAM_RECEIPE_TITLE",
+      "read_index": "157",
+      "source_jp": "昇格試験レシピ",
+      "source_en": "Promotion Test Recipe",
+      "text": "Prüfungsrezept"
+    },
+    {
+      "key": "CATEGORY_CLASS_UP_EXAM",
+      "read_index": "202",
+      "source_jp": "昇格試験",
+      "source_en": "Promotion Test",
+      "text": "Handwerksprüfung"
+    },
+    {
+      "key": "RECIPE_CATE_MATERIAL_ADD_STATUS",
+      "read_index": "254",
+      "source_jp": "特質錬石",
+      "source_en": "Slayer Stone",
+      "text": "Eigenschaftsstein"
+    }
+  ]
+}

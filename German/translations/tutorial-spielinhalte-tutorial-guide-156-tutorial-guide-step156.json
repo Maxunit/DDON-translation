@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step156.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_156.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_207",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《魔物のるつぼ》</COL>は最大８人のパーティーを\r\n結成して洋撃船で魔の孤島《竜の巣》に\r\n乗り込むエクストリームミッションです\r\n制限時間内に《竜の巣》を探索し、\r\n仲間と役割分担しつつ協力して\r\n多くの竜族を討伐しましょう",
+      "source_en": "<COL ffdc78>The Crucible of Demons</COL> is an Extreme Mission\r\nwhere you form a party of up to 8 people and\r\nboard a western attack ship to infiltrate the\r\nDragon's Nest, an island of monsters.\r\nExplore the Dragon's Nest within the time limit\r\nand work together with your comrades, dividing\r\nroles and cooperating to defeat as many\r\nDragonkin as possible.",
+      "text": "Beim <COL ffdc78>„Schmelztiegel der Monster“</COL>\nsegelt ihr mit bis zu acht Erweckten\nzur Insel Drachennest. Erkundet sie\ninnerhalb des Zeitlimits. Teilt euch\ndie Aufgaben auf und besiegt möglichst\nviele Drachenwesen."
+    },
+    {
+      "key": "TUTORIAL_STEP_208",
+      "read_index": "1",
+      "source_jp": "《竜の巣》には時折\r\n<COL ffdc78>《時番》</COL>と呼ばれる魔物が出現します\r\nこの魔物を倒すと制限時間が延長されるので\r\n見逃さないようにしましょう",
+      "source_en": "In the Dragon's Nest, occasionally, there are\r\n<COL ffdc78>Time Bonus</COL> enemies that appear.\r\nDefeating these monsters will extend the time\r\nlimit, so be sure not to overlook them.",
+      "text": "Im Drachennest tauchen gelegentlich\nMonster namens <COL ffdc78>„Zeitwächter“</COL> auf.\nBesiegt sie, um das Zeitlimit zu\nverlängern."
+    }
+  ]
+}

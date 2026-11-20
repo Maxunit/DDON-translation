@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step87.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_87.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_97",
+      "read_index": "0",
+      "source_jp": "【<KC UI_GAME_MENU>】ゲームメニュー《キャラクター》の\r\n<COL ffdc78>《ステータス・装備》</COL>から\r\n装備品の付け替えや詳細確認ができます\r\n装備品は頭や腕、胴など部位ごとに装着でき、\r\nあなたの強さや体力に大きく影響します\r\n《武具屋》などのショップで購入できます",
+      "source_en": "[<KC UI_GAME_MENU>] Game Menu <COL ffdc78>Character</COL>\r\nFrom <COL ffdc78>Status/Equipment</COL> in the Character menu, you\r\ncan switch equipment and check its details.\r\nEquipment can be equipped on different body\r\nparts such as the head, arms and torso.\r\nThey greatly affects your strength and health.\r\nYou can purchase equipment at shops\r\nlike the Equipment Shop.",
+      "text": "Öffne mit [<KC UI_GAME_MENU>] das Spielmenü.\r\nUnter „Charakter“ findest du\r\n<COL ffdc78>„Status / Ausrüstung“</COL>. Dort kannst du\r\nAusrüstung wechseln und Werte prüfen.\r\nDu rüstest Kopf, Arme, Oberkörper und\r\nweitere Körperteile aus. Das beeinflusst\r\ndeine Werte und LP. Ausrüstung gibt\r\nes beim Waffen- und Rüstungshändler.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_235",
+      "read_index": "1",
+      "source_jp": "装備できる品はジョブやレベル、性別により\r\n制限があります\r\n<COL ffdc78>ジョブとレベルに見合った武器や防具を\r\n身に付けることが重要です</COL>\r\n各品のパラメータをよく確認し\r\n万全の装備で冒険に出かけましょう",
+      "source_en": "You are limited in the items you can equip based\r\non your job, level, and gender.\r\n<COL ffdc78>It is important to equip weapons and armor that\r\nmatch your job and level.</COL>\r\nMake sure to carefully check the parameters of\r\neach item and go on an adventure\r\nwith the best equipment.",
+      "text": "Welche Ausrüstung du tragen kannst,\r\nhängt von Klasse, Stufe und Geschlecht\r\nab. <COL ffdc78>Trage Waffen und Rüstung, die zu\r\ndeiner Klasse und Stufe passen.</COL>\r\nVergleiche die Werte und rüste dich\r\nvor dem nächsten Abenteuer aus."
+    }
+  ]
+}

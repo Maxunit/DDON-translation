@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step434.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_434.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_830",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《ドラゴンアビリティ：白竜》</COL>は\r\n闇の眷属\"黒騎士\"に対して力を発揮します\r\n竜防具に付与された《白竜》のポイントの\r\nパーティーメンバーの合計が一定値を満たすことが\r\n発動の条件となります",
+      "source_en": "<COL ffdc78>Dragon Ability: White Dragon</COL>\r\nwill unleash its power against the dark\r\nservant, \"Black Knight\".\r\nThe condition for activation is that the total\r\npoints of the White Dragon attached to dragon\r\narmor, combined with the party members, must\r\nmeet a certain value.",
+      "text": "Die Begabungen des <COL ffdc78>Weißen Drachen</COL>\nwirken gegen den Schwarzen Ritter.\nSie werden aktiv, wenn eure Rüstungen\nin der Gruppe genug Weißdrachenpunkte\nbeisteuern."
+    },
+    {
+      "key": "TUTORIAL_STEP_832",
+      "read_index": "1",
+      "source_jp": "＜ゴーストスレイヤー＞\r\n黒騎士の弱点部位に一定量のダメージを与えると\r\n敵に大ダメージを与える追撃が発生します\r\nLV UP毎に追撃のダメージがより増加",
+      "source_en": "[Spirit Slayer] When you deal a certain amount\r\nof damage to the Black Knight's weak spot, it\r\ntriggers a follow-up attack that deals major\r\ndamage to the enemy.\r\nThe damage of the follow-up attack\r\nincreases with each level up.",
+      "text": "Geistertöter\nFüge einer Schwachstelle des Schwarzen\nRitters genug Schaden zu, um einen\nstarken Folgetreffer auszulösen.\nHöhere Stufen erhöhen dessen Schaden."
+    },
+    {
+      "key": "TUTORIAL_STEP_831",
+      "read_index": "2",
+      "source_jp": "＜白竜の防壁＞\r\n敵の《物理攻撃力上昇》に合わせて\r\n物理攻撃のダメージを無効化するバリアを展開します\r\nバリア展開中は筋力／魔力／疲労攻力／チャンス攻力\r\nが増加するが物理攻撃を受けるか時間経過により\r\nバリアの耐久値は減少していきます\r\nLV UP毎にステータスアップ効果／\r\nバリアの耐久値がより上昇",
+      "source_en": "[Bulwark of the White Dragon]\r\nCreates a barrier that nullifies physical attacks\r\nin response to the enemy's \"Increase Physical\r\nAttack Power\" buff.\r\nWhile the barrier is active,\r\nStrength/Magick/Exhaust Attack/Chance Attack are\r\nincreased, but the durability of the barrier\r\ndecreases when receiving physical attacks or over\r\ntime.\r\nWith each level up, the barrier's durability\r\nincreases along with the effect of stat boosts.",
+      "text": "Wall des Weißen Drachen\nVerstärkt der Schwarze Ritter seinen\nphysischen Angriff, fängt ein Schild\nphysischen Schaden ab. Währenddessen\nsteigen Stärke, Magie, Erschöpfungskraft\nund Chancenkraft. Treffer und Zeitablauf\nschwächen den Schild.\nHöhere Stufen stärken Schild und Boni."
+    },
+    {
+      "key": "TUTORIAL_STEP_868",
+      "read_index": "3",
+      "source_jp": "＜白竜の刃＞\r\n敵の《鎧硬化》に合わせて\r\n吹き飛ばし力が増加し鎧硬化状態を解除しやすくなる\r\n鎧硬化状態を解除すると、敵が体勢を崩している間\r\n筋力／魔力／疲労攻力／チャンス攻力が増加する\r\n追加効果が発動します\r\nLV UP毎にステータスアップ効果がより上昇",
+      "source_en": "[White Dragon's Edge] Knockdown Power increases\r\nin response to the enemy's \"Armor Harden\" state,\r\nmaking it easier to break through their armor.\r\nWhen the armor is broken, while the enemy is off\r\nbalance, Strength/Magick/Exhaust Attack/Chance\r\nAttack increase, triggering additional effects.\r\nThe stat bonus for each level up increases.",
+      "text": "Klinge des Weißen Drachen\nVerhärtet der Ritter seine Rüstung,\nkannst du sie mit erhöhter Wucht brechen.\nSobald sie bricht und der Ritter taumelt,\nsteigen Stärke, Magie, Erschöpfungskraft\nund Chancenkraft. Höhere Stufen\nverstärken diese Boni."
+    }
+  ]
+}

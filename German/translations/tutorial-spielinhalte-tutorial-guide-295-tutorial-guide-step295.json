@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step295.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_295.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_449",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>新しい拠点とエリアを開拓しました</COL>\r\nこの新エリアでも、クエストボードや\r\nワールドクエストが解放されました",
+      "source_en": "<COL 78f5ff>We have established new bases and\r\nexpanded into new areas.</COL>\r\nQuest boards and world\r\nquests have been unlocked!",
+      "text": "<COL 78f5ff>Ein neues Gebiet und ein neuer\nStützpunkt sind jetzt zugänglich!</COL>\nDort gibt es ein Questboard und\nWeltquests."
+    },
+    {
+      "key": "TUTORIAL_STEP_450",
+      "read_index": "1",
+      "source_jp": "エリアマスターのベルトランに話しかけることで\r\nエリアランクを確認することができます\r\n新エリアでも積極的にクエストをこなして\r\nエリアポイントを貯め\r\nエリアランクを上げましょう",
+      "source_en": "You can check your area rank by talking to\r\nArea Master Bertrand.\r\nActively complete quests in new areas,\r\nAccumulate area points and\r\nincrease your area rank!",
+      "text": "Sprich mit dem Gebietsmeister Bertrand,\num den Gebietsrang zu sehen.\nSchließe Quests im neuen Gebiet ab.\nSo sammelst du Gebietspunkte\nund kannst im Rang aufsteigen."
+    }
+  ]
+}

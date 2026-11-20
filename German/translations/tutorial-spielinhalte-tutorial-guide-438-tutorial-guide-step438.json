@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step438.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_438.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_843",
+      "read_index": "0",
+      "source_jp": "＜ワイルドハントの依頼＞\r\n1日につき2件のワイルドハントが依頼されます\r\n<COL ffdc78>依頼は最大9件までストックできるようになっています</COL>\r\nログインしていない間にも依頼は貯まっていくので\r\n溢れさせないように注意しましょう\r\nまたストックが最大の状態で次の日を迎えた場合は\r\nストックの更新はされず依頼の内容は変わりません",
+      "source_en": "[Wild Hunt Requests] There are two Wild\r\nHunt requests per day.\r\n<COL ffdc78>You can stock up to a maximum of 9 requests.</COL>\r\nRequests accumulate even when you are not logged\r\nin, so be careful not to let them overflow.\r\nAlso, if you reach the maximum stock and the\r\nnext day comes, the stock will not be updated\r\nand the requests will remain the same.",
+      "text": "Du erhältst zwei Aufträge pro Tag.\n<COL ffdc78>Bis zu neun können sich ansammeln.</COL>\nDas gilt auch, wenn du ausgeloggt bist.\nIst die Liste zum Tageswechsel voll,\nkommen keine neuen Aufträge dazu.\nDie vorhandenen Aufträge bleiben gleich."
+    },
+    {
+      "key": "TUTORIAL_STEP_844",
+      "read_index": "1",
+      "source_jp": "＜リサの信頼度＞\r\n依頼を繰り返し達成することで\r\nリサの<COL 78f5ff>《信頼度》</COL>が上昇します\r\n信頼度は★で表示され、最大で★★★★になります",
+      "source_en": "[Lisa's Trust] By repeatedly\r\nachieving tasks, Lisa's <COL 78f5ff>\r\ntrust</COL> will increase.\r\nTrustworthiness is displayed as ★ and can\r\nreach a maximum of ★★★★.",
+      "text": "Mit jedem erfüllten Auftrag wächst\nLisas <COL 78f5ff>Vertrauen</COL>. Sterne zeigen dir,\nwie sehr sie dir vertraut. Du kannst\nbis zu vier Sterne erreichen."
+    },
+    {
+      "key": "TUTORIAL_STEP_863",
+      "read_index": "2",
+      "source_jp": "信頼度を上げるメリットとしては\r\n<COL ffdc78>高ランクの依頼を受けやすくなるほか\r\n１日に依頼される件数が最大３件まで増える</COL>ことが\r\n挙げられます\r\nしかし\r\n<COL ffdc78>依頼を最大までストックしたまま次の日を迎える</COL>と\r\n信頼を損なってしまうので注意しましょう",
+      "source_en": "The benefits of increasing trust include being\r\nmore likely to <COL ffdc78>receive high-ranking requests and\r\nbeing able to receive up to a maximum of\r\nthree requests per day. </COL>\r\nHowever, <COL ffdc78>be careful not to compromise trust</COL> by\r\nholding onto maximum requests and carrying them\r\nover to the next day.",
+      "text": "<COL ffdc78>Mit höherem Vertrauen bekommst du\neher Aufträge mit hohem Rang. Du\nkannst bis zu drei pro Tag erhalten.</COL>\n<COL ffdc78>Eine volle Liste zum Tageswechsel</COL>\nkostet dich allerdings Vertrauen.\nErledige also regelmäßig Aufträge."
+    },
+    {
+      "key": "TUTORIAL_STEP_845",
+      "read_index": "3",
+      "source_jp": "＜パーティープレイ時の注意＞\r\nワイルドハントはパーティでも遊ぶことができますが\r\n<COL ffdc78>魔物が潜む範囲マーカーの位置を\r\n知ることができるのは、依頼を受注している\r\nパーティーリーダーのみです</COL>\r\nミニマップのフリーマーカー機能などを活用して\r\nパーティーメンバーに指示を出しましょう",
+      "source_en": "[Notes for party play] The Wild Hunt can also be\r\nplayed in a party, but\r\n<COL ffdc78>only the party leader who has accepted the quest\r\ncan see the position of the\r\nmarkers where enemies lurk.</COL>\r\nUtilize features such as the Waypoint\r\nfunction on the map to give\r\ninstructions to party members.",
+      "text": "Du kannst auch in einer Gruppe jagen.\n<COL ffdc78>Nur die Gruppenleitung sieht die\nSuchbereiche, wenn sie den Auftrag\nangenommen hat.</COL> Setze Wegpunkte\nauf der Karte und führe deine Gruppe\nzu den markierten Orten."
+    }
+  ]
+}

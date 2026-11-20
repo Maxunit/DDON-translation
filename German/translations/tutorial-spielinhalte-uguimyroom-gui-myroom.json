@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\GUI_myroom.gmd",
+  "arc_path": "\\ui\\uGUIMyRoom.arc",
+  "entries": [
+    {
+      "key": "g_myr_title_en",
+      "read_index": "0",
+      "source_jp": "My Room",
+      "source_en": "My Room",
+      "text": "Eigenes Zimmer"
+    },
+    {
+      "key": "g_myr_title_kyoten_en",
+      "read_index": "6",
+      "source_jp": "Clan Base",
+      "source_en": "Clan Hall",
+      "text": "Clan-Stützpunkt"
+    }
+  ]
+}

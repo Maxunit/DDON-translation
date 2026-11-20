@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step385.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_385.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_687",
+      "read_index": "0",
+      "source_jp": "カスタムメイド工房内にある<COL ffdc78>武具の極限合成</COL>は\r\n下記の２つを揃えることで\r\n何度でも行うことができます\r\n　①★４まで強化された<COL ffdc78>特定の武器</COL>\r\n　　（プリズムアイコンのもの：画像参照）\r\n　②素材やリムなどの必要な費用\r\n",
+      "source_en": "Within the Custom-Made Workshop, the <COL ffdc78>\r\nUltimate Synthesis of Arms</COL> is available.\r\nBy obtaining the following two items, you can\r\nperform it as many times as you want:\r\n① A <COL ffdc78> specific weapon</COL>\r\nstrengthened up to ★4 (Refer to the image for\r\nweapons with a prism icon) ② The required\r\nmaterials and Rift Crystals",
+      "text": "Mit <COL ffdc78>„Ultimative Synthese“</COL> verbesserst du\nin der Spezialwerkstatt bestimmte\n<COL ffdc78>Waffen mit vier Sternen und dem\nPrismensymbol im Bild</COL>.\nDu brauchst Material und Riftkristalle.\nDu kannst es mehrmals versuchen."
+    },
+    {
+      "key": "TUTORIAL_STEP_691",
+      "read_index": "1",
+      "source_jp": "極限合成は通常の強化とは異なり\r\n大幅に攻撃性能を高めることができます\r\n各武器につき、最初の１回目は\r\n必要な素材とリムで極限合成することができます\r\nすでに極限合成を試したことのある武具に\r\n<COL ffdc78>ふたたび極限合成を試みる場合は\r\nリムではなく《黄金石》が必要です</COL>",
+      "source_en": "Ultimate synthesis is different from regular\r\nenhancement, as it significantly\r\nboosts attack performance.\r\nFor each weapon, the first synthesis can be done\r\nusing the required materials and Rift Crystals.\r\nIf you want to attempt ultimate synthesis again\r\non equipment that has already undergone it, you\r\nwill need <COL ffdc78>Golden Gemstones\r\ninstead of Rift Crystals.</COL>",
+      "text": "Die ultimative Synthese erhöht die\nAngriffswerte der Waffe deutlich.\nDer erste Versuch je Waffe kostet\nMaterial und Riftkristalle.\n<COL ffdc78>Für weitere Versuche brauchst du\nGoldsteine statt Riftkristalle.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_692",
+      "read_index": "2",
+      "source_jp": "また、何度も極限合成を試みる場合は\r\nそのたびに<COL ffdc78>性能が上書きされるため</COL>\r\n成功時に付与される性能例を\r\nしっかりと確認しながら行いましょう",
+      "source_en": "In addition, if you attempt the Ultimate\r\nSynthesis multiple times, <COL ffdc78>the performance will\r\nbe overwritten each time</COL>, so perform it\r\nwhile thoroughly confirming the results\r\ngranted upon success.",
+      "text": "<COL ffdc78>Bei jedem Versuch ersetzen die neuen\nWerte die bisherigen.</COL>\nIm Bild siehst du ein Beispiel für\neine erfolgreiche Synthese."
+    }
+  ]
+}

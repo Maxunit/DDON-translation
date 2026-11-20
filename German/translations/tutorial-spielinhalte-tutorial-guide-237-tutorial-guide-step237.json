@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step237.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_237.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_377",
+      "read_index": "0",
+      "source_jp": "《ウォーミッション》は各コンテンツの\r\n累計取得DPによる<COL ffdc78>ランキング</COL>に対応しています。\r\n参加するとリザルト時に得られる<COL ffdc78>《スコア》</COL>によって\r\n他の覚者と順位を競うことができます\r\n１度でもスコアが獲得できていれば、\r\n本作戦期間中の中間集計時と、戦果分析期間後に\r\n<COL ffdc78>神殿の《ランキングボード》と\r\n《レスタニアニュース》にその名が記され、\r\n自身の順位を確認できます</COL>",
+      "source_en": "\"War Missions\" supports a <COL ffdc78>\r\nranking</COL> based on the cumulative DP\r\nacquired in each content.\r\nBy participating, you can compete with other\r\nArisen for rankings based on the <COL ffdc78>\r\n\"Score\"</COL> obtained during the result\r\nannouncement.\r\nIf you have acquired a score even once, your name\r\nwill be listed on the <COL ffdc78>Temple's\r\n\"Ranking Board\" and in the Lestania News</COL>\r\nduring the tally in the mission period and after\r\nthe battle analysis period. Look there to check\r\nyour ranking.",
+      "text": "Für jede Kriegsmission gibt es eine\n<COL ffdc78>Rangliste</COL> nach gesammelten DP.\nDeine <COL ffdc78>Punktzahl</COL> am Ende der Mission\nbestimmt deine Platzierung.\nHast du mindestens einmal Punkte\nverdient, findest du deinen Rang\n<COL ffdc78>an der Rangtafel im Tempel und in den\nLestania-Nachrichten</COL>. Es gibt einen\nZwischenstand während der Mission\nund eine Schlusswertung danach."
+    },
+    {
+      "key": "TUTORIAL_STEP_378",
+      "read_index": "1",
+      "source_jp": "戦果分析期間後に発表されるランキングで\r\n見事上位ランクインを果たした覚者には\r\n<COL ffdc78>特別なアイテム</COL>がDPショップで\r\n購入できるようになります。\r\nウォーミッションは、本作戦期間中なら\r\n何度でも挑むことができますので\r\nより効率的な攻略や、大物の討伐を狙って\r\n上位ランクインを目指しましょう",
+      "source_en": "After the battle analysis period, the\r\naccomplished Arisen who have achieved a\r\nremarkable rank will be able to purchase a <COL ffdc78>\r\nspecial item</COL> at the DP Shop.\r\nYou can challenge War Missions as many times as\r\nyou want during this operation period, so aim\r\nfor a higher rank to efficiently conquer and\r\nsubdue formidable enemies.",
+      "text": "Stehst du nach der Schlusswertung\nweit oben, kannst du im Laden für\nHerrschaftspunkte <COL ffdc78>besondere\nGegenstände</COL> kaufen. Solange die\nKriegsmission läuft, kannst du\nbeliebig oft antreten. Finde eine\ngute Strategie und besiege starke\nGegner, um im Rang aufzusteigen."
+    }
+  ]
+}

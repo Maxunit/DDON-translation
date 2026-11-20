@@ -1,0 +1,379 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_4",
+      "read_index": "3",
+      "source_jp": "クラフトルーム",
+      "source_en": "Craft Room",
+      "text": "Werkstatt"
+    },
+    {
+      "key": "STAGE_NAME_72",
+      "read_index": "69",
+      "source_jp": "ボルド大坑道",
+      "source_en": "Volden Large Tunnels",
+      "text": "Volden-Stollen"
+    },
+    {
+      "key": "STAGE_NAME_73",
+      "read_index": "70",
+      "source_jp": "竜の巣",
+      "source_en": "Dragon's Nest",
+      "text": "Drachennest"
+    },
+    {
+      "key": "STAGE_NAME_74",
+      "read_index": "71",
+      "source_jp": "禊の神殿",
+      "source_en": "Temple of Purification",
+      "text": "Tempel der Läuterung"
+    },
+    {
+      "key": "STAGE_NAME_77",
+      "read_index": "74",
+      "source_jp": "メルゴダ護政区",
+      "source_en": "Mergoda Security District",
+      "text": "Wachtbezirk Mergoda"
+    },
+    {
+      "key": "STAGE_NAME_79",
+      "read_index": "76",
+      "source_jp": "古の祭祀場",
+      "source_en": "Ancient Ritual Ground",
+      "text": "Alte Kultstätte"
+    },
+    {
+      "key": "STAGE_NAME_82",
+      "read_index": "79",
+      "source_jp": "古の祭祀場",
+      "source_en": "Ancient Ritual Ground",
+      "text": "Alte Kultstätte"
+    },
+    {
+      "key": "STAGE_NAME_95",
+      "read_index": "92",
+      "source_jp": "ホボリック洞穴",
+      "source_en": "Hobolic Cave",
+      "text": "Hobolic-Höhle"
+    },
+    {
+      "key": "STAGE_NAME_286",
+      "read_index": "242",
+      "source_jp": "古の祭祀場",
+      "source_en": "Ancient Ritual Ground",
+      "text": "Alte Kultstätte"
+    },
+    {
+      "key": "STAGE_NAME_308",
+      "read_index": "253",
+      "source_jp": "メルゴダ護政区",
+      "source_en": "Mergoda Security District",
+      "text": "Wachtbezirk Mergoda"
+    },
+    {
+      "key": "STAGE_NAME_335",
+      "read_index": "267",
+      "source_jp": "魔赤島",
+      "source_en": "Bloodbane Isle",
+      "text": "Blutfluchinsel"
+    },
+    {
+      "key": "STAGE_NAME_347",
+      "read_index": "274",
+      "source_jp": "クラン拠点",
+      "source_en": "Clan Hall",
+      "text": "Clan-Stützpunkt"
+    },
+    {
+      "key": "STAGE_NAME_348",
+      "read_index": "275",
+      "source_jp": "覚者の自室",
+      "source_en": "Arisen's Room",
+      "text": "Eigenes Zimmer"
+    },
+    {
+      "key": "STAGE_NAME_349",
+      "read_index": "276",
+      "source_jp": "鍛練の小部屋",
+      "source_en": "Training Room",
+      "text": "Trainingsraum"
+    },
+    {
+      "key": "STAGE_NAME_361",
+      "read_index": "288",
+      "source_jp": "淀みの渦",
+      "source_en": "Vortex of Stagnation",
+      "text": "Wirbel gestauter Drachenkraft"
+    },
+    {
+      "key": "STAGE_NAME_362",
+      "read_index": "289",
+      "source_jp": "淀みの渦",
+      "source_en": "Vortex of Stagnation",
+      "text": "Wirbel gestauter Drachenkraft"
+    },
+    {
+      "key": "STAGE_NAME_371",
+      "read_index": "297",
+      "source_jp": "ファーラナ平原",
+      "source_en": "Farana Plains",
+      "text": "Farana-Ebene"
+    },
+    {
+      "key": "STAGE_NAME_375",
+      "read_index": "301",
+      "source_jp": "シェドレアン大神殿",
+      "source_en": "Shadolean Great Temple",
+      "text": "Großer Tempel von Shadolean"
+    },
+    {
+      "key": "STAGE_NAME_376",
+      "read_index": "302",
+      "source_jp": "シェドレアン大神殿",
+      "source_en": "Shadolean Great Temple",
+      "text": "Großer Tempel von Shadolean"
+    },
+    {
+      "key": "STAGE_NAME_382",
+      "read_index": "308",
+      "source_jp": "始まりの洞",
+      "source_en": "Hollow of Beginnings",
+      "text": "Höhle des Ursprungs"
+    },
+    {
+      "key": "STAGE_NAME_383",
+      "read_index": "309",
+      "source_jp": "始まりの洞",
+      "source_en": "Hollow of Beginnings",
+      "text": "Höhle des Ursprungs"
+    },
+    {
+      "key": "STAGE_NAME_433",
+      "read_index": "348",
+      "source_jp": "魔赤島",
+      "source_en": "Bloodbane Isle",
+      "text": "Blutfluchinsel"
+    },
+    {
+      "key": "STAGE_NAME_442",
+      "read_index": "355",
+      "source_jp": "ボルド大坑道",
+      "source_en": "Volden Large Tunnels",
+      "text": "Volden-Stollen"
+    },
+    {
+      "key": "STAGE_NAME_452",
+      "read_index": "363",
+      "source_jp": "古の祭祀場",
+      "source_en": "Ancient Ritual Ground",
+      "text": "Alte Kultstätte"
+    },
+    {
+      "key": "STAGE_NAME_455",
+      "read_index": "365",
+      "source_jp": "シェドレアン大神殿",
+      "source_en": "Shadolean Great Temple",
+      "text": "Großer Tempel von Shadolean"
+    },
+    {
+      "key": "STAGE_NAME_459",
+      "read_index": "367",
+      "source_jp": "ファーラナ平原",
+      "source_en": "Farana Plains",
+      "text": "Farana-Ebene"
+    },
+    {
+      "key": "STAGE_NAME_461",
+      "read_index": "369",
+      "source_jp": "ラスニテ山麓",
+      "source_en": "Rathnite Foothills",
+      "text": "Rathnite-Vorgebirge"
+    },
+    {
+      "key": "STAGE_NAME_463",
+      "read_index": "371",
+      "source_jp": "フェルヤナ荒原",
+      "source_en": "Feryana Wilderness",
+      "text": "Feryana-Wildnis"
+    },
+    {
+      "key": "STAGE_NAME_464",
+      "read_index": "372",
+      "source_jp": "メガドシス高地",
+      "source_en": "Megadosys Plateau",
+      "text": "Megadosys-Hochland"
+    },
+    {
+      "key": "STAGE_NAME_468",
+      "read_index": "376",
+      "source_jp": "ダクレイム砦",
+      "source_en": "Dacreim Fortress",
+      "text": "Festung Dacreim"
+    },
+    {
+      "key": "STAGE_NAME_472",
+      "read_index": "379",
+      "source_jp": "始まりの洞",
+      "source_en": "Hollow of Beginnings",
+      "text": "Höhle des Ursprungs"
+    },
+    {
+      "key": "STAGE_NAME_476",
+      "read_index": "380",
+      "source_jp": "ジフール砦",
+      "source_en": "Jifule Fortress",
+      "text": "Festung Jifule"
+    },
+    {
+      "key": "STAGE_NAME_477",
+      "read_index": "381",
+      "source_jp": "展望城",
+      "source_en": "Lookout Castle",
+      "text": "Burg Weitblick"
+    },
+    {
+      "key": "STAGE_NAME_478",
+      "read_index": "382",
+      "source_jp": "展望城",
+      "source_en": "Lookout Castle",
+      "text": "Burg Weitblick"
+    },
+    {
+      "key": "STAGE_NAME_508",
+      "read_index": "406",
+      "source_jp": "火垂れ山拝竜院",
+      "source_en": "Firefall Mountain Dragon Temple",
+      "text": "Drachentempel am Feuerfallberg"
+    },
+    {
+      "key": "STAGE_NAME_571",
+      "read_index": "445",
+      "source_jp": "霧の森",
+      "source_en": "Forest of Mist",
+      "text": "Nebelwald"
+    },
+    {
+      "key": "STAGE_NAME_572",
+      "read_index": "446",
+      "source_jp": "ダクレイム砦",
+      "source_en": "Dacreim Fortress",
+      "text": "Festung Dacreim"
+    },
+    {
+      "key": "STAGE_NAME_573",
+      "read_index": "447",
+      "source_jp": "ダクレイム砦",
+      "source_en": "Dacreim Fortress",
+      "text": "Festung Dacreim"
+    },
+    {
+      "key": "STAGE_NAME_574",
+      "read_index": "448",
+      "source_jp": "ジフール砦",
+      "source_en": "Jifule Fortress",
+      "text": "Festung Jifule"
+    },
+    {
+      "key": "STAGE_NAME_576",
+      "read_index": "450",
+      "source_jp": "ティネス砦　大食堂",
+      "source_en": "Fort Thines: Great Dining Hall",
+      "text": "Fort Thines: Großer Speisesaal"
+    },
+    {
+      "key": "STAGE_NAME_585",
+      "read_index": "458",
+      "source_jp": "展望城",
+      "source_en": "Lookout Castle",
+      "text": "Burg Weitblick"
+    },
+    {
+      "key": "STAGE_NAME_586",
+      "read_index": "459",
+      "source_jp": "隠匿の王間",
+      "source_en": "The King's Hidden Chamber",
+      "text": "Geheime Königskammer"
+    },
+    {
+      "key": "STAGE_NAME_595",
+      "read_index": "468",
+      "source_jp": "火垂れ山野営地",
+      "source_en": "Firefall Mountain Campsite",
+      "text": "Lager am Feuerfallberg"
+    },
+    {
+      "key": "STAGE_NAME_596",
+      "read_index": "469",
+      "source_jp": "霧の森",
+      "source_en": "Forest of Mist",
+      "text": "Nebelwald"
+    },
+    {
+      "key": "STAGE_NAME_598",
+      "read_index": "471",
+      "source_jp": "クルト侯爵邸",
+      "source_en": "Marquise Kurt's residence",
+      "text": "Anwesen des Markgrafen"
+    },
+    {
+      "key": "STAGE_NAME_601",
+      "read_index": "474",
+      "source_jp": "クルト侯爵邸",
+      "source_en": "Marquise Kurt's residence",
+      "text": "Anwesen des Markgrafen"
+    },
+    {
+      "key": "STAGE_NAME_602",
+      "read_index": "475",
+      "source_jp": "黒呪の迷宮：入り江",
+      "source_en": "Bitterblack Maze Cove",
+      "text": "Bucht am Finstergram-Labyrinth"
+    },
+    {
+      "key": "STAGE_NAME_625",
+      "read_index": "498",
+      "source_jp": "霧の森",
+      "source_en": "Forest of Mist",
+      "text": "Nebelwald"
+    },
+    {
+      "key": "STAGE_NAME_703",
+      "read_index": "541",
+      "source_jp": "展望城",
+      "source_en": "Lookout Castle",
+      "text": "Burg Weitblick"
+    },
+    {
+      "key": "STAGE_NAME_711",
+      "read_index": "549",
+      "source_jp": "ダクレイム砦",
+      "source_en": "Dacreim Fortress",
+      "text": "Festung Dacreim"
+    },
+    {
+      "key": "STAGE_NAME_712",
+      "read_index": "550",
+      "source_jp": "ジフール砦",
+      "source_en": "Jifule Fortress",
+      "text": "Festung Jifule"
+    },
+    {
+      "key": "STAGE_NAME_713",
+      "read_index": "551",
+      "source_jp": "隠匿の王間",
+      "source_en": "The King's Hidden Chamber",
+      "text": "Geheime Königskammer"
+    },
+    {
+      "key": "STAGE_NAME_718",
+      "read_index": "556",
+      "source_jp": "ダクレイム砦",
+      "source_en": "Dacreim Fortress",
+      "text": "Festung Dacreim"
+    }
+  ]
+}

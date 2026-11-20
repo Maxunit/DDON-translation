@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\achievement\\achievement_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ACHIEVEMENT_NAME_521",
+      "read_index": "3",
+      "source_jp": "神の目覚め",
+      "source_en": "The God's Awakening",
+      "text": "Das Erwachen des Gottes"
+    },
+    {
+      "key": "ACHIEVEMENT_NAME_523",
+      "read_index": "5",
+      "source_jp": "命の行方",
+      "source_en": "The Course of Life",
+      "text": "Wohin das Leben führt"
+    },
+    {
+      "key": "ACHIEVEMENT_NAME_2285",
+      "read_index": "1196",
+      "source_jp": "レスタニアの命運",
+      "source_en": "The Fate of Lestania",
+      "text": "Lestanias Schicksal"
+    },
+    {
+      "key": "ACHIEVEMENT_NAME_2286",
+      "read_index": "1197",
+      "source_jp": "託されし者",
+      "source_en": "The Entrusted One",
+      "text": "Die anvertraute Bürde"
+    },
+    {
+      "key": "ACHIEVEMENT_NAME_2288",
+      "read_index": "1199",
+      "source_jp": "新しい世代",
+      "source_en": "The New Generation",
+      "text": "Eine neue Generation"
+    },
+    {
+      "key": "ACHIEVEMENT_NAME_2848",
+      "read_index": "1617",
+      "source_jp": "王子ネド",
+      "source_en": "Prince Nedo",
+      "text": "Prinz Nedo"
+    },
+    {
+      "key": "ACHIEVEMENT_NAME_2849",
+      "read_index": "1618",
+      "source_jp": "展望城の戦い",
+      "source_en": "The Battle of Lookout Castle",
+      "text": "Die Schlacht um Burg Weitblick"
+    },
+    {
+      "key": "ACHIEVEMENT_NAME_2850",
+      "read_index": "1619",
+      "source_jp": "王都の決戦",
+      "source_en": "The Final Battle of the Royal Capital",
+      "text": "Entscheidungsschlacht in der Königsstadt"
+    },
+    {
+      "key": "ACHIEVEMENT_NAME_2851",
+      "read_index": "1620",
+      "source_jp": "竜を継ぐ者",
+      "source_en": "Those Who Follow the Dragon",
+      "text": "Der Erbe des Drachen"
+    },
+    {
+      "key": "ACHIEVEMENT_NAME_2953",
+      "read_index": "1721",
+      "source_jp": "すべての行く末",
+      "source_en": "The Fate of All",
+      "text": "Das Schicksal aller"
+    },
+    {
+      "key": "ACHIEVEMENT_NAME_2990",
+      "read_index": "1758",
+      "source_jp": "白竜よ永遠なれ",
+      "source_en": "White Dragon Eternal",
+      "text": "Ewig sei der Weiße Drache"
+    }
+  ]
+}

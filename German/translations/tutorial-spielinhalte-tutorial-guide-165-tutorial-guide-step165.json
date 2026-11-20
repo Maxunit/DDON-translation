@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step165.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_165.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_161",
+      "read_index": "0",
+      "source_jp": "この世界レスタニアの状況は\r\nパーティーリーダーのメインクエスト進行度や\r\nエリアランクに基づき、変化します\r\n登場する敵、遊べるクエスト、封鎖区域の\r\n解放状況などさまざまな要素が\r\n影響を受けます",
+      "source_en": "The situation in Lestania, this world, changes\r\nbased on the party leader's main quest\r\nprogress and the area rank.\r\nVarious elements, such as the appearance of\r\nenemies, available quests, and the status of\r\nrestricted areas, are influenced.",
+      "text": "Der Hauptquestfortschritt und der\r\nGebietsrang des Gruppenleiters\r\nbestimmen den Zustand der Welt.\r\nDavon hängen unter anderem Gegner,\r\nverfügbare Quests und der Zugang\r\nzu gesperrten Gebieten ab."
+    },
+    {
+      "key": "TUTORIAL_STEP_309",
+      "read_index": "1",
+      "source_jp": "あなたがパーティーリーダーでない場合は\r\n自身がリーダーの時と世界の状況が違うことを\r\n覚えておきましょう\r\nまた、この世界はパーティーで\r\n１回冒険に出るたびに、入手したアイテムや\r\n倒した敵が再び出現するようになります",
+      "source_en": "If you are not the party leader, remember that\r\nthe situation is different from\r\nwhen you are the leader.\r\nAlso, in this world, every time you go on an\r\nadventure as a party, the items you obtain and\r\nthe enemies you defeat will reappear.",
+      "text": "Reist du mit einem anderen Leiter,\r\nkann die Welt anders aussehen als\r\nunter deiner eigenen Führung.\r\nBei einem neuen Gruppenausflug sind\r\ngesammelte Gegenstände und besiegte\r\nGegner wieder da."
+    },
+    {
+      "key": "TUTORIAL_STEP_310",
+      "read_index": "2",
+      "source_jp": "アイテムの採取や敵の討伐を狙いたい場合は\r\n一度パーティー全員で神殿や各地の拠点\r\n（リムストーンのある組合宿など）に帰ることで\r\n世界状況をリセットすることができます\r\n<COL ffdc78>また、リセットされることで破棄したり\r\nクリアしたワールドクエスト、パーソナルクエスト\r\n（進行に関わるものを除く）も\r\n再受注可能になります</COL>",
+      "source_en": "If you want to collect items or defeat enemies,\r\nyou can reset the world status by returning to\r\nthe temple or bases in various locations with\r\nyour entire party (such as the\r\ninns with a Riftstone).\r\nAdditionally, by resetting, you can discard or\r\nre-accept completed world quests and personal\r\nquests (excluding those related to progress).",
+      "text": "Kehrt als Gruppe zum Tempel oder zu\r\neinem Stützpunkt mit Riftstein zurück,\r\num Gegner und Funde zurückzusetzen.\r\n<COL ffdc78>Danach kannst du aufgegebene und\r\nabgeschlossene Weltquests sowie\r\npersönliche Quests erneut annehmen.\r\nQuests zum Spielfortschritt sind\r\nausgenommen.</COL>",
+      "tag_source": "source_jp"
+    }
+  ]
+}

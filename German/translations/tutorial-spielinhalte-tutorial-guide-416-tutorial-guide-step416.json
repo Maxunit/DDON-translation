@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step416.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_416.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_766",
+      "read_index": "0",
+      "source_jp": "＜仲間について＞\r\n《証拠》を入手した際に、関わった人物が\r\n\"レジスタンス\"の仲間に加わることがあります\r\n加入した仲間は、諜報活動中に\r\n証拠イベントのヒントを持って現れたり\r\n戦闘に参加してくれることもあります\r\n仲間に誘えるタイミングが来たら\r\n積極的に誘ってみましょう",
+      "source_en": "[About Comrades] When obtaining \"evidence,\" the\r\npeople involved may join the ranks of the\r\n\"Resistance\" comrades.\r\nJoined comrades may appear during intelligence\r\nactivities with hints for evidence events or\r\nparticipate in combat.\r\nWhen the timing is right to invite comrades,\r\nactively extend the invitation.",
+      "text": "Wenn du einen Beweis findest, schließt\nsich manchmal jemand, der damit zu tun\nhatte, dem Widerstand an.\nSolche Verbündeten können dir bei der\nSpurensuche Hinweise auf neue Beweise\ngeben oder im Kampf helfen.\nLade sie ein, sobald du die Möglichkeit\nhast."
+    },
+    {
+      "key": "TUTORIAL_STEP_797",
+      "read_index": "1",
+      "source_jp": "※仲間に誘えるタイミングは\r\n　人物につき1回のみです\r\n　タイミングを逃すと、もうその人物を\r\n　誘うことはできなくなるので注意しましょう",
+      "source_en": "Each person can only be invited once.\r\nBe careful, if you miss the timing, you won't be\r\nable to invite that person anymore!",
+      "text": "Du kannst jede Person nur einmal\neinladen. Lässt du die Gelegenheit\nverstreichen, kannst du sie später\nnicht mehr für euch gewinnen."
+    }
+  ]
+}

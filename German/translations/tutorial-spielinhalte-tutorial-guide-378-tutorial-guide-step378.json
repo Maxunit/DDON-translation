@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step378.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_378.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_667",
+      "read_index": "0",
+      "source_jp": "《兵舎》では、ソネルがテントに細工を行うことで\r\nゲームが進行しますが\r\n同時に<COL ffdc78>見張りが巡回にやってきます</COL>\r\n\r\nソネルは<COL ffdc78>《細工》</COL>と<COL ffdc78>《隠れる》</COL>の\r\n２つの状態を持っており\r\nそれらは<COL ffdc78>プレイヤーが話しかける</COL>ことで\r\n切り替えることができます",
+      "source_en": "In the \"Barracks,\" Sonel progresses the game by\r\ntampering with the tent. At the same time, <COL ffdc78>\r\nthe sentry comes around for patrol.</COL>\r\nSonel has two states, <COL ffdc78>\"Tampering\"\r\n</COL>and <COL ffdc78>\"Hiding,\"</COL> which can be switched by the <COL ffdc78>\r\nplayer talking to him.</COL>",
+      "text": "In der Kaserne sabotiert Sonel Zelte.\nDabei <COL ffdc78>gehen Wachen auf Streife</COL>.\nSonel kann <COL ffdc78>sabotieren</COL> oder sich\n<COL ffdc78>verstecken</COL>.\n<COL ffdc78>Sprich ihn an</COL>, um zwischen beiden\nAktionen zu wechseln."
+    },
+    {
+      "key": "TUTORIAL_STEP_711",
+      "read_index": "1",
+      "source_jp": "＜ソネルの細工状態＞\r\n\r\n<COL ffdc78>テントの外に出ている間</COL>は細工が進行しますが\r\nその状態では<COL ffdc78>見張りに発見</COL>されてしまいます\r\n\r\n＜ソネルの隠れ状態＞\r\n\r\n<COL ffdc78>テントの中にいる間</COL>は身を隠しますが\r\nその状態では<COL ffdc78>細工が進行しません</COL>",
+      "source_en": "<Sonel's Condition>\r\n<COL ffdc78>While outside the tent, the work will progress</COL>,\r\nbut in that state, he will be <COL ffdc78>\r\ndiscovered by the lookout.</COL>\r\n<Sonel's Hidden Condition>\r\n<COL ffdc78>While inside the tent, he hides himself</COL>, but in\r\nthat state, <COL ffdc78>the work does not progress.</COL>",
+      "text": "Sabotieren\n<COL ffdc78>Vor dem Zelt</COL> kommt Sonel mit der\nSabotage voran. Dort können die\n<COL ffdc78>Wachen ihn entdecken</COL>.\n\nVerstecken\n<COL ffdc78>Im Zelt</COL> ist er verborgen. Solange er\ndort wartet, <COL ffdc78>ruht die Sabotage</COL>.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_712",
+      "read_index": "2",
+      "source_jp": "＜見張りに見つかった場合＞\r\n\r\nもし、あなたかソネルのどちらかが\r\n敵に見つかってしまうと<COL ffdc78>戦闘が始まります</COL>\r\n\r\n敵を排除できれば、潜入任務はそこで中断しますが\r\n<COL ffdc78>それまでの成果は持ち帰ることができます</COL>",
+      "source_en": "[If discovered by a guard] If either you or\r\nSonel is discovered by the\r\nenemy, <COL ffdc78> combat will begin.</COL>\r\nIf you can eliminate the enemy, the infiltration\r\nmission will be cancelled at that point, but you\r\ncan <COL ffdc78>bring back the results up until then.</COL>",
+      "text": "Entdecken die Wachen dich oder\nSonel, <COL ffdc78>beginnt ein Kampf</COL>.\nSchaltest du die Gegner aus, endet\nder Schleichauftrag. <COL ffdc78>Deine Ergebnisse\nkannst du dennoch mitnehmen.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_713",
+      "read_index": "3",
+      "source_jp": "＜細工任務のポイント＞\r\n\r\nソネルの傍を離れる時は\r\n見張りが巡回してくるタイミングに注意が必要です\r\n\r\nソネルの<COL ffdc78>２つの状態をうまく切り替えて</COL>\r\n敵に見つからずに細工を成功させましょう",
+      "source_en": "[Point of the task] When leaving Sonel's side,\r\nit is important to be aware of the timing when\r\nthe lookout comes on patrol.\r\nSuccessfully carry out the task without being\r\ndiscovered by the enemy by <COL ffdc78>skillfully switching\r\nbetween Sonel's two states.</COL>",
+      "text": "Lässt du Sonel allein, achte auf\ndie Wege der Wachen und darauf,\nwann sie vorbeikommen.\n<COL ffdc78>Wechsle rechtzeitig zwischen Sabotage\nund Versteck</COL>, um unbemerkt fertig\nzu werden."
+    }
+  ]
+}

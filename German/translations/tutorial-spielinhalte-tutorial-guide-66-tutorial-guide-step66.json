@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step66.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_66.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_131",
+      "read_index": "0",
+      "source_jp": "ファイターはあらゆる戦闘場面で\r\n汎用的に立ち回ることができますが\r\nとりわけ近接物理攻撃に優れています\r\n接近し、盾で敵の攻撃をいなしながら\r\n的確に攻撃することが基本になります",
+      "source_en": "A Fighter can navigate through any combat\r\nsituation with versatility, but they excel in\r\nclose-range physical attacks.\r\nThe basic principle is to approach the enemy,\r\ndeflecting their attacks with a shield, and\r\nthen strike accurately.",
+      "text": "Der Kämpfer ist vielseitig. Besonders\nstark ist er im physischen Nahkampf.\nGeh nah heran, wehr Angriffe mit\ndem Schild ab und nutze die Lücke\nfür einen gezielten Gegenangriff."
+    },
+    {
+      "key": "TUTORIAL_STEP_130",
+      "read_index": "1",
+      "source_jp": "盾はカウンター攻撃の起点として使ったり、\r\n仲間を高所に跳ねあげることもできます\r\n魔法耐性は低いので、敵からの属性攻撃には\r\n仲間のサポートが必要です\r\n得手不得手を理解し、積極的に敵陣に\r\n斬り込みダメージを奪いましょう",
+      "source_en": "You can use the shield as a starting point for\r\ncounterattacks, and also to launch your\r\nallies to higher places.\r\nBecause it has low magick resistance, support\r\nfrom allies is necessary to defend against\r\nenemy attribute attacks.\r\nUnderstand your strengths and weaknesses and\r\nactively dive into enemy\r\nterritory to deal damage.",
+      "text": "Mit dem Schild kannst du kontern und\nVerbündete in die Höhe befördern.\nMagie hältst du weniger gut stand.\nBei Elementarangriffen brauchst du\ndaher die Hilfe deiner Gruppe.\nNutze deine Stärken und dringe\nentschlossen in die Reihen der Gegner vor."
+    }
+  ]
+}

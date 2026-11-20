@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step97.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_97.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_60",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>他覚者との《パーティープレイ》が解放されました！</COL>\r\n他の覚者とパーティーを組むには\r\n４通りの方法があります\r\nあなた自身がパーティーリーダーとなって\r\n他のプレイヤーに参加要請を出す場合と\r\nゲストとして他のパーティーに参加する場合\r\n《クイックパーティー》を使う場合\r\nそして《パーティー募集掲示板》を使う場合です",
+      "source_en": "<COL 78f5ff>Party play with other Arisen has been unlocked!</COL>\r\nThere are four ways to team up with other: 1.You\r\ncan become the party leader and send invitation\r\nrequests to other players.\r\n2.You can join other parties as a guest.\r\n3.You can use the Quick Party feature.\r\n4.You can use the Party Recruitment Board.",
+      "text": "<COL 78f5ff>Gruppenspiel ist jetzt verfügbar!</COL>\nDu kannst auf vier Arten mit anderen\nErweckten eine Gruppe bilden.\n1. Leite eine Gruppe und lade Spieler ein.\n2. Tritt einer anderen Gruppe bei.\n3. Nutze die Schnellsuche.\n4. Nutze das Gruppenboard."
+    },
+    {
+      "key": "TUTORIAL_STEP_388",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>【自分がリーダーとなってパーティーを作る場合】</COL>\r\n拠点にいる<COL ffdc78>《冒険仲介係》</COL>か\r\nゲームメニュー《パーティー》の<COL ffdc78>《パーティー管理》</COL>\r\nから行います\r\n《プレイヤー検索》で参加してほしいプレイヤーに\r\n<COL ffdc78>《パーティー要請》</COL>を出してください\r\nジョブ、レベルなど細かい設定での検索も可能です",
+      "source_en": "<COL ffdc78>If you wish to create a party as the leader:</COL>\r\nGo to the <COL ffdc78>Adventure Organizer</COL> at the base, or\r\naccess the <COL ffdc78>Party Management</COL> in the Game Menu.\r\nSend a <COL ffdc78>Party Request</COL> to the players you want to\r\njoin through <COL ffdc78>Player Search</COL>.\r\nYou can also search for players based on job,\r\nlevel, and other specific settings.",
+      "text": "<COL ffdc78>Selbst eine Gruppe leiten</COL>\nGeh zum <COL ffdc78>Abenteuervermittler</COL> oder öffne\nunter „Gruppe“ die <COL ffdc78>Gruppenverwaltung</COL>.\nFinde Spieler über „Spielersuche“.\nSchick ihnen eine <COL ffdc78>Gruppeneinladung</COL>.\nDu kannst nach Klasse, Stufe und\nweiteren Kriterien filtern.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_61",
+      "read_index": "2",
+      "source_jp": "また、下記の方法でもパーティーに誘えます\r\n＜プレイヤーキャラクターに話しかける＞\r\n　【<KC TOUCH>】で選択し会話メニューから誘う\r\n＜チャットログから誘う＞\r\n　チャットログを【<KC UI_RT>】で拡大後【<KC KEY_UP>／<KC KEY_DOWN>】で\r\n　発言者名を選択して誘う",
+      "source_en": "You can also invite people to your party in the\r\nfollowing ways: Talk to a player character [<KC TOUCH>]\r\nand invite them from the conversation menu.\r\nInvite from the chat log.\r\nAfter expanding the chat log with [<KC UI_RT>], go to [<KC KEY_UP>/\r\n<KC KEY_DOWN>] and invite by selecting the speaker's name.",
+      "text": "Du kannst Spieler auch direkt einladen.\nSprich einen Spieler mit [<KC TOUCH>] an\nund lade ihn über das Menü ein.\nOder vergrößere den Chat mit [<KC UI_RT>].\nWähle mit [<KC KEY_UP> / <KC KEY_DOWN>] den Namen\nim Chat und schick ihm eine Einladung."
+    },
+    {
+      "key": "TUTORIAL_STEP_389",
+      "read_index": "3",
+      "source_jp": "<COL ffdc78>【誰かのパーティーに参加したい場合】</COL>\r\n他のプレイヤーから<COL ffdc78>《パーティー要請》</COL>を\r\n出してもらう必要があります\r\nパーティー要請を受けると画面中央にアナウンスが\r\n表示されるので、操作に従いパーティーに\r\n参加しましょう",
+      "source_en": "<COL ffdc78>If you want to join someone's party</COL>, you need to\r\nask another player to send a\r\n<COL ffdc78>party request</COL>.\r\nWhen you receive a party request, an\r\nannouncement will appear in the\r\ncenter of the screen.\r\nFollow the instructions and join the party!",
+      "text": "<COL ffdc78>Einer Gruppe beitreten</COL>\nBitte einen anderen Spieler um eine\n<COL ffdc78>Gruppeneinladung</COL>. Sobald er sie schickt,\nerscheint ein Hinweis in der Mitte\ndes Bildschirms. Folge dem Hinweis,\num der Gruppe beizutreten."
+    },
+    {
+      "key": "TUTORIAL_STEP_416",
+      "read_index": "4",
+      "source_jp": "<COL ffdc78>【クイックパーティーを利用する場合】</COL>\r\nゲームメニュー<COL ffdc78>《クイックパーティー》</COL>の利用で\r\n同じ目的のプレイヤーと簡単にパーティーを\r\n組むことができます\r\n遊びたいクエストやエリアを指定し、待つだけで\r\n自動的にマッチングされるため、ぜひ活用ください",
+      "source_en": "When using <COL ffdc78>Quick Party</COL>.\r\nBy using the game menu and <COL ffdc78>Quick Party</COL>, you can\r\neasily form a party with players who\r\nhave the same objective.\r\nSpecify the quest or area you want\r\nto play and just wait.\r\nThe matching process will be done automatically,\r\nso please make use of it.",
+      "text": "<COL ffdc78>Die Schnellsuche nutzen</COL>\nÖffne die <COL ffdc78>„Schnellsuche“</COL> im Spielmenü.\nWähle eine Quest oder ein Gebiet\nund warte. Das Spiel bringt dich\nmit anderen zusammen, die dasselbe\nZiel gewählt haben."
+    },
+    {
+      "key": "TUTORIAL_STEP_190",
+      "read_index": "5",
+      "source_jp": "<COL ffdc78>【パーティー募集掲示板を利用する場合】</COL>\r\nゲームメニュー<COL ffdc78>《募集掲示板》</COL>から\r\n《パーティー募集掲示板》を選択するとご利用頂けます\r\nエントリーボードを使った機能で\r\nカテゴリ別にパーティーを募集したり、\r\n募集中のプレイヤーを検索することができます",
+      "source_en": "To use the <COL ffdc78>Party Recruitment Board</COL>, go to Game\r\nMenu <COL ffdc78>Recruitment Board</COL> and select <COL ffdc78>\r\nParty Recruitment Board</COL>.\r\nYou can use the Entry Board function to recruit\r\nparties by category and search for players who\r\nare currently recruiting!",
+      "text": "<COL ffdc78>Das Gruppenboard nutzen</COL>\nWähle im Menü <COL ffdc78>„Mitspieler gesucht“</COL>\nund dann „Gruppenboard“. Dort kannst du\nMitspieler für verschiedene Aktivitäten\nsuchen oder dich bei anderen melden,\ndie gerade eine Gruppe zusammenstellen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_218",
+      "read_index": "6",
+      "source_jp": "パーティーリーダーが誰なのか\r\n冒険時は必ず確認しましょう\r\n<COL ffdc78>リーダーが不在の場合は冒険が進行できません</COL>\r\n白竜神殿かリムストーンのある拠点施設内\r\nに戻り、《パーティー管理》から\r\n新しいリーダーを決めてください",
+      "source_en": "Who is the party leader?\r\nMake sure to confirm during adventures.\r\n<COL ffdc78>If the leader is absent, the\r\nadventure cannot proceed.</COL>\r\nReturn to the White Dragon Temple or a Rift\r\nStone, and select a new leader from\r\nthe Party Management.",
+      "text": "Prüfe vor dem Aufbruch, wer die Gruppe\nleitet. <COL ffdc78>Ohne die Gruppenleitung kannst\ndu das Abenteuer nicht fortsetzen.</COL>\nWähle in der Gruppenverwaltung\nim Tempel oder an einem Stützpunkt\nmit Riftstein eine neue Leitung."
+    },
+    {
+      "key": "TUTORIAL_STEP_859",
+      "read_index": "7",
+      "source_jp": "特定のコンテンツでは\r\n<COL ffdc78>推奨ドラゴンアビリティポイント</COL>が確認できます\r\nまた、ドラゴンアビリティを指定した検索や\r\nマッチングも可能です",
+      "source_en": "In specific content, you can confirm the\r\nrecommended <COL ffdc78>Dragon Ability</COL> points.\r\nMoreover, you can also search for and\r\nmatch Dragon Abilities.",
+      "text": "Bei manchen Aktivitäten siehst du die\nempfohlenen Punkte für <COL ffdc78>Drachenbegabungen</COL>.\nDu kannst bei der Gruppensuche auch\nnach Drachenbegabungen filtern."
+    }
+  ]
+}

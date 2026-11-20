@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step371.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_371.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_645",
+      "read_index": "0",
+      "source_jp": "《フォトモード》は、ゲーム画面を\r\n撮影できる機能です\r\n\r\nズームイン・アウトや様々なフレームを使って\r\n冒険の思い出を写真に残しましょう",
+      "source_en": "\"Photo Mode\" is a feature that allows you to\r\ntake photos of the game screen.\r\nUse zoom in and out and various frames to\r\ncapture memories of your adventures in photos.",
+      "text": "Im Fotomodus kannst du Bilder\nvon deinem Abenteuer aufnehmen.\nZoom und verschiedene Rahmen helfen\ndir, deinen Ausschnitt zu gestalten."
+    },
+    {
+      "key": "TUTORIAL_STEP_646",
+      "read_index": "1",
+      "source_jp": "パートナーポーンとの絆が深まると\r\nフォトモード使用時に\r\n「注目」コマンドを使用できるようになります\r\n\r\n「注目」コマンドとは\r\n画面に映るポーンたちを\r\nカメラ側へ向かせることができるコマンドです",
+      "source_en": "When the bond with Partner Pawn deepens, you\r\nwill be able to use the \"Focus\"\r\ncommand during Photo Mode.\r\nThe \"Focus\" command allows you to direct the\r\nPawns on the screen towards the camera.",
+      "text": "Wenn eure Bindung wächst, kannst du\nmit deinem Partnervasallen den Befehl\n„Zur Kamera“ im Fotomodus nutzen.\nDamit schauen die Vasallen im Bild\nin Richtung Kamera."
+    }
+  ]
+}

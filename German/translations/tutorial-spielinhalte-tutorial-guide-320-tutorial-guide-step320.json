@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step320.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_320.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_501",
+      "read_index": "0",
+      "source_jp": "《ある探検家の軌跡》\r\n<COL ffdc78>未知の大陸を旅した探検家の手がかりが\r\n日記の切れ端として世界中に散りばめられています</COL>\r\n探検家の思いを受け継ぎ、手がかりを集めることで\r\n彼らが追い求め、魅了されたものへ\r\n近づくことができます\r\n何か見つけることがあれば\r\n積極的に内容を確認してみましょう",
+      "source_en": "\"The Trail of an Explorer\"\r\n<COL ffdc78>The clues left behind by an explorer who\r\ntraveled an unknown continent are scattered\r\nthroughout the world as fragments of a diary.</COL>\r\nBy inheriting the explorer's thoughts and\r\ncollecting these clues, we can approach the\r\nthings that they pursued and were fascinated by.\r\nIf there is something to be found,\r\nactively check its contents.",
+      "text": "<COL ffdc78>Die Tagebuchseiten eines Entdeckers\nliegen über die Welt verstreut.</COL>\nEr reiste durch unbekannte Länder.\nSammle seine Aufzeichnungen, wenn du\nverstehen willst, was ihn an diesen\nOrten faszinierte. Lies die Hinweise,\nwenn du eine Seite findest."
+    },
+    {
+      "key": "TUTORIAL_STEP_502",
+      "read_index": "1",
+      "source_jp": "《クランダンジョン》\r\n<COL ffdc78>手がかりをクラン拠点で共有することで\r\nクランダンジョンを探索できるようになります</COL>\r\n探索できるダンジョンは、クランメンバーが\r\n見つけた手がかりに対応して増えていきます\r\nすべての手がかりを見つけて\r\n隠された宝物を目指しましょう",
+      "source_en": "\"Clan Dungeon\"\r\n<COL ffdc78>By sharing clues at the Clan Hall, you will be\r\nable to explore the Clan Dungeon.</COL>\r\nThe dungeons available for exploration will\r\nincrease in accordance with the clues\r\ndiscovered by clan members.\r\nFind all the clues and aim for\r\nthe hidden treasures.",
+      "text": "<COL ffdc78>Teilt die Hinweise im Clan-Stützpunkt,\num Clan-Dungeons freizuschalten.</COL>\nJe mehr euer Clan findet, desto mehr\nDungeons könnt ihr erkunden.\nSucht gemeinsam nach den Hinweisen,\num die verborgenen Schätze zu finden."
+    }
+  ]
+}

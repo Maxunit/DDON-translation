@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step425.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_425.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_806",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>黒呪の迷宮に新たな入り口＜深淵＞が追加されました</COL>\r\n<COL ffdc78>船着場から西へ進むと\r\n案内人リュシアンが深淵への入り口の前で待っています</COL>\r\n深淵は全4階層からなる、難易度の高いルートです\r\nクリアを目指して頑張りましょう！",
+      "source_en": "<COL 78f5ff>A new entrance [The Abyss] has been added to\r\nthe Bitterblack Maze</COL>\r\n<COL ffdc78>Go west from the landing. The guide Lucien is\r\nwaiting for you in front of the\r\nentrance to the Abyss</COL>\r\nThe Abyss is a highly challenging route\r\nconsisting of 4 levels in total.\r\nDo your best to clear it!",
+      "text": "<COL 78f5ff>Der Abgrund ist jetzt zugänglich!</COL>\n<COL ffdc78>Geh vom Anleger nach Westen zu Lucien.\nEr wartet vor dem Eingang zum Abgrund.</COL>\nDich erwarten vier besonders schwierige\nEbenen. Versuche, alle zu meistern."
+    },
+    {
+      "key": "TUTORIAL_STEP_807",
+      "read_index": "1",
+      "source_jp": "深淵では、\r\n新しい効果の付与される黒呪装具や、\r\nその黒呪装具を交換できる\r\n<COL 78f5ff>《最果てのディードボックス》</COL>を入手できます\r\n最果てのディードボックスは\r\n黒呪の迷宮 案内人に渡すことで\r\n黒呪装具との交換が可能です\r\n",
+      "source_en": "In the Abyss, you can obtain the <COL 78f5ff>\r\nBitterblack Chest of the Farthest End</COL>, a new\r\nitem that grants special effects, and exchange\r\nit with Bitterblack Maze Guide.\r\nThe Bitterblack Chest of the Farthest End can be\r\nexchanged with Bitterblack Maze Guide for\r\nBitterblack equipment.",
+      "text": "Im Abgrund findest du Ausrüstung\nmit neuen Effekten und die\n<COL 78f5ff>Schatulle der fernsten Tiefe</COL>.\nTausche diese Schatullen bei einem\nWegweiser des Labyrinths gegen\nAusrüstung aus Finstergram ein."
+    }
+  ]
+}

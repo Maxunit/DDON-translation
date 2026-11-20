@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step286.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_286.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_457",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《淀みし大竜力》</COL>は最大４人のパーティーで\r\n禊の神殿奥にある《淀みの渦》に再び現れた\r\n竜力の化身と戦うエクストリームミッションです",
+      "source_en": "<COL ffdc78>Phantasmic Great Dragon</COL>\r\nis an Extreme Mission in which a party of up to\r\n4 people fight the incarnation of the dragon\r\npower that has reappeared in the \"Vortex of\r\nStagnation\" deep within the\r\nTemple of Purification.",
+      "text": "In <COL ffdc78>„Angestaute Drachenkraft“</COL> kämpft ihr\nmit bis zu vier Erweckten gegen die\nGestalt, die die Drachenkraft im\nWirbel tief im Tempel der Läuterung\nwieder angenommen hat."
+    },
+    {
+      "key": "TUTORIAL_STEP_492",
+      "read_index": "1",
+      "source_jp": "集う竜力は以前と比べ物にならないほど強大で\r\n数多くの戦徒が生み出されては\r\nあなたの前に立ち塞がります\r\n敵の中に孤立しないよう立ち回りましょう",
+      "source_en": "The gathering Dragon Force is incredibly\r\npowerful, incomparable to before.\r\nCountless Myrmidons are being produced and they\r\nwill stand in your way.\r\nStrategize so that you don't end up\r\nisolated among the enemies.",
+      "text": "Die angestaute Drachenkraft ist\nstärker als je zuvor. Aus ihr treten\nimmer neue Krieger hervor.\nHaltet zusammen, damit die Gegner\nniemanden von der Gruppe trennen."
+    }
+  ]
+}

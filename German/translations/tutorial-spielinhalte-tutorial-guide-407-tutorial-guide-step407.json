@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step407.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_407.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_755",
+      "read_index": "0",
+      "source_jp": "ダンジョンの中には\r\n<COL ffdc78>《特定の条件で壊れる壁》</COL>があります\r\n壁の向こう側には隠された道や\r\n希少な素材が入った宝箱などがあるので\r\n見つけた際には積極的に破壊しましょう",
+      "source_en": "Inside the dungeon, there are <COL ffdc78>Walls That Break\r\nunder Certain Conditions.</COL>\r\nThere are hidden paths and treasure chests\r\ncontaining rare materials on the other side of\r\nthese walls, so when you find them, be\r\nproactive and break them.",
+      "text": "In manchen Verliesen gibt es\r\n<COL ffdc78>Wände, die sich nur auf bestimmte\r\nWeise zerstören lassen.</COL>\r\nDahinter können verborgene Wege oder\r\nTruhen mit seltenen Materialien liegen.\r\nUntersuche solche Wände genau."
+    },
+    {
+      "key": "TUTORIAL_STEP_756",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>＜爆発で破壊できる壁＞</COL>\r\nダンジョン内には覚者が持つことが可能な\r\n爆発する樽が置かれていることがあります\r\nその樽を投げつけて爆発させることで\r\n壁を破壊できます\r\n<COL ffdc78>＜大型モンスターの攻撃で破壊できる壁＞</COL>\r\nアッカーシェラン大陸にある壁の中には\r\n大型モンスターにのみ破壊可能な壁も存在しています\r\n上手く大型モンスターの攻撃を誘発して\r\n破壊しましょう",
+      "source_en": "<COL ffdc78>[Cracked walls that can be destroyed by explosions]</COL>\r\nThere are barrels in the dungeon that can be\r\ncarried by the Arisen and exploded by throwing\r\nthem, allowing you to destroy walls.\r\n<COL ffdc78>[Walls that can be destroyed by attacks from large monsters]</COL>\r\nWithin the land of Acre Selund, there are walls\r\nthat can only be destroyed by large monsters.\r\nTry to provoke the attacks of the large monsters\r\nand destroy the walls.",
+      "text": "<COL ffdc78>Wände, die durch Explosionen brechen</COL>\r\nManchmal findest du Fässer, die du\r\ntragen und werfen kannst. Wirf ein\r\nexplosives Fass gegen die Wand.\r\n<COL ffdc78>Wände, die durch Monsterangriffe brechen</COL>\r\nAuf Acre Selund können manche Wände\r\nnur von großen Monstern eingerissen\r\nwerden. Lock ihren Angriff auf die\r\nWand, um sie aufzubrechen."
+    },
+    {
+      "key": "TUTORIAL_STEP_757",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>＜回復で破壊できる壁＞</COL>\r\nヒールオーラなど回復効果があるスキルが当たると\r\n緑色で文字が浮かびあがる壁があります\r\n※回復効果のあるスキルを一定時間接触させると\r\n　簡単に破壊することができますが\r\n　通常スキルでも時間をかければ破壊できます",
+      "source_en": "<COL ffdc78>[A wall that can be\r\ndestroyed by recovery skills]</COL>\r\nThere is a wall that if hit by skills with\r\nrecovery effects, such as Heal Aura, text\r\nwill appear in green.\r\n※ If a skill with a recovery effect is in\r\ncontact for a certain period of time, it can be\r\neasily destroyed, but it can also be destroyed\r\nwith a normal skill by taking time.",
+      "text": "<COL ffdc78>Wände, die durch Heilung brechen</COL>\r\nHeilfertigkeiten wie die Heilaura\r\nlassen an manchen Wänden grüne\r\nSchrift erscheinen.\r\nWirkt die Heilung eine Weile auf\r\ndie Wand, bricht sie leichter.\r\nNormale Treffer brauchen länger."
+    }
+  ]
+}

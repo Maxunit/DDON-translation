@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\common\\land_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "LAND_NAME_2",
+      "read_index": "1",
+      "source_jp": "魔赤島",
+      "source_en": "Bloodbane Isle",
+      "text": "Blutfluchinsel"
+    },
+    {
+      "key": "LAND_NAME_5",
+      "read_index": "4",
+      "source_jp": "英霊眠りし道",
+      "source_en": "Epitaph Road",
+      "text": "Pfad der Heldengeister"
+    },
+    {
+      "key": "LAND_NAME_6",
+      "read_index": "5",
+      "source_jp": "黒呪の迷宮",
+      "source_en": "Bitterblack Maze",
+      "text": "Finstergram-Labyrinth"
+    }
+  ]
+}

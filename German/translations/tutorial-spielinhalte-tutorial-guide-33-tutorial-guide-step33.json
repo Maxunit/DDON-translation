@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step33.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_33.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_80",
+      "read_index": "0",
+      "source_jp": "レスタニアには、覚者や住民に襲い来る\r\n多くの敵が徘徊しています\r\n巨大なもの、群れを成すもの\r\n毒や魔力を持つもの、夜間や雨天のみ\r\n登場するものなどさまざまです\r\n<COL ffdc78>レベル（Ｌｖ）が高い敵ほど強力です</COL>\r\n自分のレベルと合った敵と戦いましょう",
+      "source_en": "In Lestania there are many roaming monsters they\r\nmove in groups and attack\r\neveryone indiscriminately.\r\nAnd at night or in rain, monsters that use\r\npoison or magick appear.\r\n<COL ffdc78>Monsters with higher levels are more powerful.</COL>\r\nFight against enemies that match your level.",
+      "text": "In Lestania lauern Gegner, die\r\nErweckte und Einwohner angreifen.\r\nManche sind riesig, jagen im Rudel,\r\nsetzen Gift oder Magie ein. Andere\r\nerscheinen nur nachts oder bei Regen.\r\n<COL ffdc78>Je höher die Stufe, desto stärker der\r\nGegner.</COL> Such dir passende Gegner aus."
+    },
+    {
+      "key": "TUTORIAL_STEP_79",
+      "read_index": "1",
+      "source_jp": "敵を倒すとレベルアップに必要な\r\n<COL ffdc78>経験値（ＸＰ）</COL>が得られます\r\n時にはアイテムを落とすこともあるため\r\n積極的に立ち向かいましょう\r\n<COL ffdc78>また、敵により弱点となる属性や\r\n狙うべき弱点部位が異なります</COL>\r\n敵の特性を知り、弱点を突くことで\r\nより戦闘は有利になるでしょう",
+      "source_en": "As you defeat monsters you will level up.\r\n<COL ffdc78>You will get Experience Points per kill</COL>, And\r\nsometimes monsters will drop Items.\r\nFight monsters aggressively!\r\n<COL ffdc78>Monsters have different attributes and\r\nweaknesses; each monster is different as\r\nare their weaknesses.</COL>\r\nKnow your enemy and target their weak points.\r\nDoing so will give you an advantage.",
+      "text": "Besiegte Gegner bringen <COL ffdc78>Erfahrung\r\n(XP)</COL> für den Stufenaufstieg.\r\nManchmal lassen sie auch\r\nGegenstände fallen.\r\n<COL ffdc78>Je nach Gegner wirken bestimmte\r\nElemente oder Treffer an bestimmten\r\nKörperstellen besser.</COL>\r\nNutze diese Schwächen im Kampf."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step362.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_362.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_629",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>絶望の大陸 序節：「王子ネド」到達！</COL>\r\n　\"そこに一切の希望は無いかと思われた\r\n　　絶望の国　アッカーシェラン\r\n　　火を噴く混沌より覚者が救い上げたは\r\n　　年若い王子　ネドであった\r\n　　人々はまだか細いその背に\r\n　　一縷の希望を見出した――\"",
+      "source_en": "<COL 78f5ff>\"The Land of Despair: Introduction - Prince\r\nNedo\" has been unlocked!</COL>\r\n\"At the Land of despair, Acre Selund, Saved from\r\nthe erupting chaos by the Arisen, Was a\r\nyoung prince named Nedo.\r\nThough slender in stature, people discovered a\r\nglimmer of hope in him—\"",
+      "text": "<COL 78f5ff>Prolog: „Prinz Nedo“ erreicht!</COL>\n„Alle Hoffnung schien verloren in\nAcre Selund, dem Land der Verzweiflung.\nAus Flammen und Chaos retteten die\nErweckten den jungen Prinzen Nedo.\nIn seiner schmalen Gestalt sahen die\nMenschen einen Funken Hoffnung.“"
+    },
+    {
+      "key": "TUTORIAL_STEP_670",
+      "read_index": "1",
+      "source_jp": "突如として連れ去られた《アッカーシェラン大陸》\r\nあなたは滅びを待つ王国において\r\n唯一の再建の希望となる\r\n王子ネドを救い出すことに成功しました\r\n奪われた国を、誇りを取り戻すための\r\n戦いが始まろうとしています",
+      "source_en": "Suddenly, you were kidnapped and taken to the\r\ncontinent of Acre Selund.\r\nIn a kingdom awaiting destruction, you have\r\nsuccessfully rescued Prince Nedo, who is the\r\nonly hope for its reconstruction.\r\nA battle is about to begin to reclaim the stolen\r\ncountry and restore its pride.",
+      "text": "Du wurdest unvermittelt nach Acre Selund\ngebracht. Dort hast du Prinz Nedo\nin einem untergehenden Königreich\ngerettet. Er ist seine letzte Hoffnung.\nNun beginnt der Kampf um das verlorene\nLand und den Stolz seiner Bewohner."
+    },
+    {
+      "key": "TUTORIAL_STEP_671",
+      "read_index": "2",
+      "source_jp": "クラフトルームでの《武具のカスタムメイド》や\r\n覚者の自室での《ポーン戦術育成》などを\r\n有効活用し、さらなる戦力の増強を図りましょう\r\nまた、ティネス砦では\r\n王国の再建を支えるための\r\n一つの小さな戦いがあなたを待っています",
+      "source_en": "Utilize the \"Custom-made Arms\" in the Workshop\r\nand \"Pawn Tactics Training\" in the Arisen's Room\r\nto effectively strengthen your forces.\r\nFurthermore, at Fort Thines, a small battle\r\nawaits you to support the\r\nreconstruction of the kingdom.",
+      "text": "Verbessere deine Ausrüstung in der\nSpezialwerkstatt und nutze das\nTaktiktraining für Vasallen in deinem\nZimmer. In Fort Thines wartet ein\nerster kleiner Kampf auf dich, bei dem\ndu dem Königreich helfen kannst."
+    }
+  ]
+}

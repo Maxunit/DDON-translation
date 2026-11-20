@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\common\\field_area_name.gmd",
+  "arc_path": "\\game_common.arc",
+  "entries": [
+    {
+      "key": "FIELD_AREA_INFO_4",
+      "read_index": "3",
+      "source_jp": "魔赤島",
+      "source_en": "Bloodbane Isle",
+      "text": "Blutfluchinsel"
+    },
+    {
+      "key": "FIELD_AREA_INFO_8",
+      "read_index": "7",
+      "source_jp": "黒呪の迷宮",
+      "source_en": "Bitterblack Maze",
+      "text": "Finstergram-Labyrinth"
+    }
+  ]
+}

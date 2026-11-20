@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step167.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_167.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_163",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>装備品に《クレスト装着》を行うことで、\r\n性能を高めたり、属性や追加効果を持たせる\r\nことができます</COL>\r\n特殊素材<COL ffdc78>《クレスト》</COL>は、一部のクエスト報酬や\r\n《ポーン郷》のアルヴァーからブラッドオーブと\r\n交換で入手可能です",
+      "source_en": "<COL ffdc78>By \"Mounting a Crest\" to your equipment, you can\r\nenhance its performance, attributes,\r\nand additional effects.</COL>\r\nSpecial material<COL ffdc78>\"Crests\"</COL>can be obtained as\r\nrewards for certain quests or in exchange for\r\nBlood Orbs from Alvar in \"Pawn Cathedral\".",
+      "text": "Mit <COL ffdc78>„Siegel einsetzen“</COL> fügst du deiner\nAusrüstung Werte, Elemente oder Effekte\nhinzu. Die nötigen <COL ffdc78>Siegel</COL> erhältst du\nals Questbelohnung oder bei Alvar\nin der Vasallenkathedrale im Tausch\ngegen Blutkugeln."
+    },
+    {
+      "key": "TUTORIAL_STEP_313",
+      "read_index": "1",
+      "source_jp": "《クレスト装着》が可能なのは、下記の装備品です\r\n武器用クレスト：\r\n　　メイン武器（最大スロット数４）\r\n防具用クレスト：\r\n　　胴アーマー（最大スロット数４）\r\n　　頭防具/腕防具/脚アーマー（最大スロット数３）",
+      "source_en": "The following equipment allows for mounting\r\ncrests Weapon Crest: Main Weapon (maximum of 4\r\nslots) Armor Crest: Torso Armor (maximum of 4\r\nslots) Headgear/Armguards/Leg Armor\r\n(maximum of 3 slots)",
+      "text": "In deine Hauptwaffe und deine Rüstung\nam Oberkörper passen je bis zu vier\nSiegel. Kopf-, Arm- und Beinrüstung\nnehmen je bis zu drei auf."
+    },
+    {
+      "key": "TUTORIAL_STEP_314",
+      "read_index": "2",
+      "source_jp": "メイン武器、胴アーマーや一部の特殊装備は\r\nクレストスロットが最初から１つあります\r\n<COL ffdc78>他の防具や、同じ装備に２つ以上のクレストを\r\n装着したい場合、《アイテム生産》時に《精錬材》\r\nを合成することで、より多くのクレストが装着できる\r\n《高品質装備（＋１～＋３）》を製作できます</COL>\r\nまた、クレストを装着した装備品は\r\nクレストを破壊することで付け直し可能です",
+      "source_en": "Main weapons, torso armor, and certain special\r\nequipment come with one Crest\r\nslot from the beginning.\r\n<COL ffdc78>If you want to attach more than one Crest to\r\nother armor or the same equipment, you can\r\ncreate high-quality equipment (+1 to +3) that\r\nallows you to attach more Crests by synthesizing\r\nRefined Materials during Item Crafting.</COL>\r\nAdditionally, equipment with attached Crests can\r\nbe reattached by destroying the Crests.",
+      "text": "Hauptwaffen, Oberkörperrüstung und\nmanche besonderen Stücke haben von\nAnfang an einen Platz für ein Siegel.\nFür andere Rüstung oder mehr Plätze\nnutze beim Herstellen <COL ffdc78>Veredelungsmaterial</COL>.\nHöhere Qualität (+1 bis +3) schafft\nweitere Plätze. Alte Siegel musst du\nzerstören, bevor du sie ersetzt."
+    }
+  ]
+}

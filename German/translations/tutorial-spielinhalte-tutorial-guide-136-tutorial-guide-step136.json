@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step136.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_136.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_152",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《アチーブメント》</COL>は、\r\nあなたがゲーム内で行ったさまざまな行動に\r\n対して送られる達成の証です\r\n敵の討伐、クエスト攻略、クラフトなど\r\n多岐にわたりますので、ぜひ探してみてください\r\n獲得したアチーブメントは【<KC UI_GAME_MENU>】\r\nゲームメニュー《キャラクター》の\r\n《アチーブメント》で確認できます",
+      "source_en": "<COL ffdc78>\"Achievement\"</COL> is a proof of achievement that is\r\nawarded to you for various actions\r\nyou take in the game.\r\nIt includes defeating enemies, completing\r\nquests, crafting, and more, so\r\nplease try to find them.\r\nThe achievements you have earned can be checked\r\nin the <KC UI_GAME_MENU>Game Menu under\r\n\"Character\" -> \"Achievements\".",
+      "text": "Für vieles, was du im Spiel tust,\nbekommst du <COL ffdc78>Erfolge</COL>.\nDazu zählen etwa besiegte Gegner,\nabgeschlossene Quests und Handwerk.\nÖffne mit [<KC UI_GAME_MENU>] das Spielmenü.\nDeine Erfolge stehen unter\n„Charakter“ im Menüpunkt „Erfolge“."
+    }
+  ]
+}

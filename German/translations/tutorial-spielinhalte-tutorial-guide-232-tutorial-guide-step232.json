@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step232.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_232.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_369",
+      "read_index": "0",
+      "source_jp": "ワールドクエストは常に起こっている\r\nわけではありません\r\n配信期間が終了すると\r\n自動的にクエストは破棄されます\r\n<COL ffdc78>ただし期間中は何度でも受注・クリア可能です\r\n繰り返し挑むことで、報酬に《繰り返しボーナス》が\r\nつくことがあるため、ぜひ狙ってみましょう<COL ffdc78>",
+      "source_en": "World Quests are not constantly happening.\r\nThey will be automatically discarded when\r\nthe event period ends.\r\nHowever, you can accept and clear them as many\r\ntimes as you want during the period.\r\nBy attempting them repeatedly, you may receive a\r\n<COL ffdc78>Repeat Bonus</COL> as a reward, so go for it!",
+      "text": "Weltquests sind nur eine begrenzte Zeit\r\nverfügbar. Danach werden sie automatisch\r\naus deinem Questlog entfernt.\r\n<COL ffdc78>Während der Laufzeit kannst du dieselbe\r\nWeltquest mehrmals annehmen und\r\nabschließen. Dafür gibt es manchmal\r\neinen Wiederholungsbonus.</COL>"
+    }
+  ]
+}

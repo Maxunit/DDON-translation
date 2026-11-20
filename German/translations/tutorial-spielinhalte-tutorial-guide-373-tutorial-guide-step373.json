@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step373.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_373.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_662",
+      "read_index": "0",
+      "source_jp": "展望城でのサブストーリーでは、軍師ソネルとの\r\n<COL ffdc78>潜入任務</COL>が基本となります\r\n\r\n敵に見つからないようにするために\r\n<COL ffdc78>いつもと違った行動</COL>が必要になるので\r\nソネルの指示をしっかりと聞きながら進みましょう",
+      "source_en": "In the substory at Lookout Castle, the main\r\nfocus will be on the <COL ffdc78>infiltration mission</COL> with\r\nmilitary strategist Sonel.\r\nIn order to avoid being discovered by the enemy,\r\nwe will need to take different actions than\r\nusual, so <COL ffdc78>proceed while clearly listening\r\nto Sonel's instructions.</COL>",
+      "text": "In der Nebengeschichte auf Burg\nWeitblick gehst du mit Sonel auf\n<COL ffdc78>Schleichmissionen</COL>.\nDamit euch niemand entdeckt, musst du\n<COL ffdc78>anders vorgehen als sonst</COL>.\nHör genau hin, was Sonel dir sagt."
+    },
+    {
+      "key": "TUTORIAL_STEP_702",
+      "read_index": "1",
+      "source_jp": "また、潜入任務中はソネルの<COL ffdc78>《ごきげんゲージ》</COL>にも\r\n気を配る必要があります\r\n\r\n《ごきげんゲージ》はソネルの頭上と\r\n画面右のクエスト名の上に表示される<COL ffdc78>黄色のゲージ</COL>で\r\nソネルのごきげんの状態を示します",
+      "source_en": "Furthermore, during the infiltration mission,\r\nyou must also pay attention to Sonel's <COL ffdc78>\r\nMood Gauge</COL>.\r\nThe \"Mood Gauge\" is a <COL ffdc78>yellow gauge</COL> that is\r\ndisplayed above Sonel's head and above the quest\r\nname on the right side of the screen.\r\nIt indicates Sonel's level of happiness.",
+      "text": "Behalte Sonels <COL ffdc78>Stimmungsanzeige</COL>\nim Blick. Du erkennst sie an\nder <COL ffdc78>gelben Leiste</COL> über Sonel und\nrechts über dem Questnamen."
+    },
+    {
+      "key": "TUTORIAL_STEP_703",
+      "read_index": "2",
+      "source_jp": "敵に見つかるなど\r\n<COL ffdc78>潜入任務がうまくいかない時</COL>に減少します\r\n\r\n万が一戦闘になった場合、敵の攻撃でダメージを\r\n受けることでも減少します",
+      "source_en": "It is reduced on<COL ffdc78>when an infiltration mission\r\ngoes wrong</COL>, such as being spotted by the enemy\r\nIt is also reduced by taking damage from enemy\r\nattacks in the unlikely event of a battle",
+      "text": "<COL ffdc78>Wenn euch Wachen entdecken</COL> oder sonst\netwas schiefläuft, sinkt die Anzeige.\nAuch Treffer durch gegnerische Angriffe\nim Kampf lassen sie sinken."
+    },
+    {
+      "key": "TUTORIAL_STEP_704",
+      "read_index": "3",
+      "source_jp": "<COL ffdc78>《ごきげんゲージ》が０になる</COL>と\r\nソネルは任務遂行をあきらめてしまい\r\nそのクエストは失敗となります\r\n\r\n失敗すると、<COL ffdc78>もう一度展望城から出直す</COL>\r\nことになりますが、クリアまで何度でも挑戦できます",
+      "source_en": "When the <COL ffdc78>Mood Gauge</COL> reaches 0, Sonel will give\r\nup on the mission, and the quest will fail.\r\nIf you fail, you'll have to <COL ffdc78>go back to Lookout\r\nCastle</COL>, but you can attempt to\r\nclear it multiple times.",
+      "text": "<COL ffdc78>Ist die Stimmungsanzeige leer</COL>, gibt\nSonel auf und die Quest scheitert.\nDu kannst <COL ffdc78>von Burg Weitblick aus\nneu starten</COL>, so oft du möchtest."
+    },
+    {
+      "key": "TUTORIAL_STEP_705",
+      "read_index": "4",
+      "source_jp": "<COL ffdc78>リム転移で別の場所へ移動</COL>しても\r\n失敗となるため注意しましょう",
+      "source_en": "<COL ffdc78>Note that moving to a different location</COL>with\r\nRift Teleport will result in a failure!",
+      "text": "Reist du per <COL ffdc78>Rift-Transport an einen\nanderen Ort</COL>, scheitert die Quest."
+    }
+  ]
+}

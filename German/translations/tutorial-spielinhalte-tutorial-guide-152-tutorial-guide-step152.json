@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step152.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_152.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_69",
+      "read_index": "0",
+      "source_jp": "ゲームを中断したいときは\r\n【<KC UI_GAME_MENU>】ゲームメニュー《オプション》\r\nから<COL ffdc78>《ゲーム中断》</COL>を選んでください\r\nログアウト時には\r\nそれまでのプレイ記録が自動保存されます\r\n再開時は、最後に居た場所ではなく\r\n白竜神殿《中央広場》からスタートします",
+      "source_en": "If you want to interrupt the game, please go to\r\n[<KC UI_GAME_MENU>] Game Menu, <COL ffdc78>Options</COL>\r\nand select <COL ffdc78>Exit Game</COL>.\r\nWhen you log out, the game will automatically\r\nsave your previous play record.\r\nWhen you restart the game, you will start from\r\nthe White Dragon Temple <COL ffdc78>Central Plaza</COL>, not\r\nfrom your last location.",
+      "text": "Öffne mit [<KC UI_GAME_MENU>] das Spielmenü.\nWähle unter „Optionen“ den Eintrag\n<COL ffdc78>„Spiel beenden“</COL>.\nBeim Ausloggen wird dein Fortschritt\nvon selbst gespeichert.\nBeim nächsten Start beginnst du auf dem\nZentralplatz im Tempel des Weißen Drachen.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

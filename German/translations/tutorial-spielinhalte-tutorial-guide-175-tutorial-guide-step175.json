@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step175.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_175.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_171",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《メインポーン》は、白竜との会話\r\n《戦徒の契り》により証を示すことで、契約人数を\r\n増やすことができます</COL>\r\n新たなポーンとの契約には、次の２つが必要です\r\n　①<SPAI NAME>（<SPAI NUM>個）\r\n　　　......エリアマスター支援品、エリア試練クエスト\r\n　　　　　などで獲得可能\r\n　②メインポーン契約枠",
+      "source_en": "You can increase the number of <COL ffdc78>Main Pawn</COL>\r\ncontracts by showing proof through the\r\n<COL ffdc78>Myrmidon's Pledge</COL>, by speaking\r\nwith the White Dragon.\r\nFor a contract with a new Pawn, the following\r\ntwo are necessary: ① <SPAI NAME> (x<SPAI NUM>),\r\nobtainable through Support Goods,\r\nArea Quests, and more.\r\n② A free Main Pawn contract slot.",
+      "text": "<COL ffdc78>Beim Weißen Drachen kannst du mit\r\ndem Bund der Kampfvasallen weitere\r\nHauptvasallen unter Vertrag nehmen.</COL>\r\nDu brauchst einen freien Vertragsplatz\r\nund diesen Gegenstand\r\n<SPAI NAME> (<SPAI NUM> Stück)\r\nDu erhältst ihn für Gebietsprüfungen\r\noder als Hilfe vom Gebietsmeister.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_324",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>《<SPAI NAME>》</COL>を必要数（<SPAI NUM>個）\r\n入手し、メインポーン契約枠に空きがあれば\r\n新たなメインポーンを生みだすことができます\r\n<COL ffdc78>なお、２人分の契約枠はすでに備わっています</COL>\r\n契約状況は《ポーン》画面右下で確認しましょう",
+      "source_en": "Get the required number of <COL ffdc78><SPAI NAME>s</COL> (<SPAI NUM>)\r\nand if there is a free Main Pawn slot, you can\r\ncreate a new Main Pawn.\r\n<COL ffdc78>At the start, you have 2 slots total.</COL>\r\nCheck your contract status on the bottom\r\nright of the <COL ffdc78>Pawn</COL> screen.",
+      "text": "Besorge <COL ffdc78><SPAI NAME></COL>\r\n(<SPAI NUM> Stück). Mit einem freien\r\nVertragsplatz kannst du einen weiteren\r\nHauptvasallen erschaffen.\r\n<COL ffdc78>Zwei Plätze stehen bereits bereit.</COL>\r\nIm Vasallenmenü stehen sie rechts unten.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

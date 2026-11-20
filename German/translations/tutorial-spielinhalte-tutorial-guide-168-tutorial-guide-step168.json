@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step168.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_168.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_164",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《トレジャーズロット》</COL>に挑戦すれば\r\n特別な装備やレアアイテム入手の\r\nチャンスがあります\r\n神殿のキャメロンか【<KC UI_GAME_MENU>】ゲームメニュー\r\n《オンラインショップ》の<COL ffdc78>《トレジャーズロット》</COL>\r\nから、《黄金石》や《シルバーチケット》と\r\n引き換えに抽選できます",
+      "source_en": "By trying your luck at <COL ffdc78>Treasure Lots</COL> at Cameron\r\nin the Temple, the game menu or in the online\r\nshop, there is a chance to obtain special\r\nequipment and rare items.\r\nYou can exchange <COL ffdc78>Golden Gemstones</COL> and\r\n<COL ffdc78>Silver Tickets</COL> for a lottery draw.",
+      "text": "Bei der <COL ffdc78>Schatzlotterie</COL> kannst du seltene\nGegenstände und Ausrüstung gewinnen.\nSprich mit Cameron im Tempel oder öffne\nmit [<KC UI_GAME_MENU>] das Spielmenü.\nWähle unter „Online-Shop“ <COL ffdc78>„Schatzlotterie“</COL>.\nZieh Lose mit Goldsteinen oder Silbertickets.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_315",
+      "read_index": "1",
+      "source_jp": "当たるアイテムは期間限定のものや\r\n冒険に役立つもの、ファッションに関係\r\nするものなどさまざまです\r\n好きなシリーズカテゴリーを選択し\r\n黄金石やチケットを集めて\r\n目当てのアイテムをゲットしましょう",
+      "source_en": "The items that can be obtained include limited-\r\ntime items, items useful for adventures, and\r\nitems related to fashion.\r\nChoose your favorite series category, collect\r\nGolden Gemstones and tickets, and get\r\nthe items you desire.",
+      "text": "Es gibt etwa zeitlich begrenzte Preise,\nnützliche Gegenstände und besondere\nKleidung. Wähle eine Serie mit Preisen,\ndie dir gefallen. Sammle Goldsteine\noder Silbertickets, um Lose zu ziehen."
+    }
+  ]
+}

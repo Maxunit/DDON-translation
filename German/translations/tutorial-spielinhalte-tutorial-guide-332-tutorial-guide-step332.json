@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step332.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_332.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_517",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《プレイポイントショップ》が開放されました！</COL>\r\n<COL ffdc78>《プレイポイントショップ》</COL>とは\r\n各ジョブのさらなる成長に関わる要素を\r\nプレイポイント（PP）で購入できる施設です",
+      "source_en": "<COL 78f5ff>The \"Play Points Shop\" is now open!</COL>\r\n<COL ffdc78>The [Play Points Shop]</COL> is a facility where you\r\ncan purchase elements related to the further\r\ndevelopment of each job with play points (PP).",
+      "text": "<COL 78f5ff>Der Spielpunkte-Shop ist jetzt offen!</COL>\nIm <COL ffdc78>Spielpunkte-Shop</COL> kannst du mit\nSpielpunkten (PP) neue Möglichkeiten\nfür die Entwicklung deiner Klasse kaufen."
+    },
+    {
+      "key": "TUTORIAL_STEP_519",
+      "read_index": "1",
+      "source_jp": "プレイポイントショップは\r\n白竜神殿のレンテンを訪ねることで利用できます\r\nプレイポイントで入手できる様々な要素で\r\n自分のスタイルを極めていきましょう",
+      "source_en": "The Play Points Shop is available by visiting\r\nRenton at the White Dragon Temple With the\r\nvarious elements available for Play Points, you\r\ncan master your own style!",
+      "text": "Lenten betreibt den Spielpunkte-Shop\nim Tempel des Weißen Drachen.\nMit dem Angebot kannst du deine\nKlasse gezielt weiterentwickeln."
+    }
+  ]
+}

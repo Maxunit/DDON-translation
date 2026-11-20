@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step78.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_78.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_128",
+      "read_index": "0",
+      "source_jp": "ウォリアーは、鋼の肉体と重い両手武器で敵を\r\n粉砕する闘士です。敵の攻撃に耐えるほど、\r\nその破壊力は輝きを増します\r\n＜基本操作／攻撃＞\r\n　【<KC ATTACK1>】破斬（連続斬り）\r\n　【<KC ATTACK2>】魔人斬り（長押しの溜め斬り）",
+      "source_en": "The Warrior is a fighter who crushes enemies\r\nwith their steel body and heavy two-handed\r\nweapon. The more they withstand enemy attacks,\r\nthe more their destructive power increases.\r\n[Basic Operations] - [KC ATTACK1]: Hack\r\n(Multiple slashes) - [KC ATTACK2]: Savage Lash\r\n(Hold down to charge the slash)",
+      "text": "Als Krieger kämpfst du mit schweren\nZweihandwaffen. Je mehr Angriffe du\nüberstehst, desto härter schlägst du zu.\nGrundsteuerung\n[<KC ATTACK1>] Hiebfolge\n[<KC ATTACK2>] Berserkerhieb (Taste halten)",
+      "tag_source": "source_jp"
+    }
+  ]
+}

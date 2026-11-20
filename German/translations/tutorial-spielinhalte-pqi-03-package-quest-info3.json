@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\package_quest\\package_quest_info3.gmd",
+  "arc_path": "\\quest\\pqi_03.arc",
+  "entries": [
+    {
+      "key": "PACKAGE_QUEST_INFO_3",
+      "read_index": "0",
+      "source_jp": "王都メガドの奪還に成功した解放軍\r\nしかし――\r\nメガドの市民は、支配者の圧政に怯え\r\n街には不穏な気配が漂っていた――\r\n市民に礼賛される絶対的支配者へ\r\n密かに反旗を翻したレジスタンスと\r\nそのリーダーである暗躍者\"メフィス\"\r\n覚者は、メガドの人々の真の平穏を奪還するため\r\n彼らと共に隠された闇へと挑むこととなる――",
+      "source_en": "Royal Capital Megado has been successfully \r\nrecaptured by the Liberation Army.\r\n\r\nHowever, the citizens of Megado still live in fear\r\nof the tyrannical rule of their oppressors,\r\nand an unsettling atmosphere lingers in the city.\r\n\r\nIn secret opposition to this ruler, a\r\nresistance group has risen, led by a manipulative\r\nfigure known as \"Mephis\".\"\r\n\r\nTo reclaim true peace for the people of Megado,\r\nthe Arisen join forces with them, and together,\r\nthey venture into the depths of darkness.",
+      "text": "Das Befreiungsheer hat die Königsstadt\nMegado zurückerobert. Doch die Menschen\nfürchten noch immer die Willkür ihres\nHerrschers. Unruhe liegt über der Stadt.\n\nDen Mann, den viele öffentlich verehren,\nbekämpft im Verborgenen der Widerstand.\nAn seiner Spitze steht Mephis,\nein Mann, der lieber im Schatten bleibt.\n\nDu schließt dich Mephis und seinen\nLeuten an, um aufzudecken, was in Megado\nvor sich geht, und den Menschen\nendlich Frieden zu bringen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "メガドの闇を知る\r\n謎多き暗躍者",
+      "source_en": "A mysterious and influential\r\nfigure who knows of the \r\ndarkness lurking within Megado.",
+      "text": "Ein rätselhafter Mann im Verborgenen.\nEr weiß, was in Megados Schatten\nvor sich geht."
+    }
+  ]
+}

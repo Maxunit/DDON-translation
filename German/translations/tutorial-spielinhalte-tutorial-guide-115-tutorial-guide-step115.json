@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step115.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_115.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_58",
+      "read_index": "0",
+      "source_jp": "冒険中、あなたの体力が尽きるとその場に倒れ\r\n<COL ffdc78>《死亡状態》</COL>になってしまいます\r\n<COL ffdc78>パーティーに他のプレイヤーがいる場合、\r\n《行動不能》扱いとなり一定時間内に助け起こして\r\nもらうことでその場復帰が可能です</COL>\r\n同様に、あなたも体力の尽きた仲間がいる時は\r\n接近して【<KC TOUCH>】を押せば\r\n覚者やポーンを助けることができます",
+      "source_en": "During an adventure, if your Health runs out,\r\nyou will collapse on the spot and enter a\r\n<COL ffdc78>[dead state]</COL>.\r\nIf there are other players in your party, you\r\nwill be considered <COL ffdc78>incapacitated</COL>\r\nand can be revived on the spot within a certain\r\namount of time with their help.\r\nLikewise, when your fellow allies run out of\r\nHealth, you can approach them and press the <KC TOUCH>\r\nbutton to assist the Arisen or Pawn.",
+      "text": "Sind deine Lebenspunkte aufgebraucht,\nbrichst du zusammen und <COL ffdc78>stirbst</COL>.\n<COL ffdc78>Mit anderen Spielern in der Gruppe\nbist du zunächst kampfunfähig.\nSie können dir kurzzeitig aufhelfen.</COL>\nHilf auch anderen Erweckten oder\nVasallen auf. Geh zu ihnen und drücke\n[<KC TOUCH>]."
+    },
+    {
+      "key": "TUTORIAL_STEP_59",
+      "read_index": "1",
+      "source_jp": "しかし、<COL ffdc78>他のプレイヤーがいない時や一定時間を\r\n超えてしまった場合は、３つの復活手段から\r\nどれかを選び復活</COL>することになります\r\n　《復活力》を使う　...体力全快でその場復活\r\n　《黄金石》を使う　...体力全快、【強化】状態で\r\n　　　　　　　　　　　その場復活\r\n　　拠点に戻る　　　...【弱化】状態となり\r\n　　　　　　　　　　　直前の拠点で復活",
+      "source_en": "However, when there are no other players present\r\nor when a certain amount of time has passed, you\r\nwill have to choose one of the three\r\nrevival methods and revive.\r\nUsing [Revival Power]... Full health\r\nrevival on the spot.\r\nUsing a \"Golden Gemstone\"... Full health\r\nrevival, in a \"Strengthened\" state.\r\nReturning to the base... Becoming a \"Weakened\"\r\nstate and reviving at the previous base.",
+      "text": "Ist kein anderer Spieler da oder ist die\nFrist abgelaufen, hast du <COL ffdc78>drei Möglichkeiten</COL>.\nWiederbelebungskraft: Volle LP vor Ort\nGoldsteine: Volle LP und Stärkung vor Ort\n„Zum Stützpunkt zurück“: Du kehrst\nzum letzten Stützpunkt zurück und\nbist vorübergehend geschwächt.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_216",
+      "read_index": "2",
+      "source_jp": "《復活力》、《黄金石》が無くなってしまうと\r\nその場復帰ができません\r\n「拠点に戻る」で復活できますが、\r\n<COL ffdc78>状態異常【弱化】により、基本能力が\r\n一定時間通常より低くなってしまいます</COL>\r\n《復活力》や《黄金石》の残量には\r\n常に気を配りましょう",
+      "source_en": "If the [Revival Power] and [Golden Gemstone] are\r\ndepleted, you will not be able\r\nto revive on the spot.\r\nYou can revive by choosing \"Return to Base\", but\r\ndue to the <COL ffdc78>debuff of Weakened</COL>, your basic\r\nabilities will be lower than usual for a\r\ncertain period of time.\r\nAlways keep an eye on the remaining amount of\r\n[Revival Power] and [Golden Gemstone].",
+      "text": "Hast du weder Wiederbelebungskraft\nnoch Goldsteine, wähle\n„Zum Stützpunkt zurück“.\nDie <COL ffdc78>Schwäche</COL> senkt für eine Weile\ndeine Werte. Behalte deine\nWiederbelebungskraft und Goldsteine\nim Blick."
+    }
+  ]
+}

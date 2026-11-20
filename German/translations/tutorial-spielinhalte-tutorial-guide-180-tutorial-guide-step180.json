@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step180.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_180.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_176",
+      "read_index": "0",
+      "source_jp": "中～大型の敵には<COL ffdc78>《しがみつき》</COL>が可能です\r\n技や行動も変わるため右下のガイドで確認しましょう\r\n＜しがみつき＞\r\n　敵に近付いて【<KC TOUCH>】\r\n＜しがみつきからの行動＞\r\n　しがみついた状態で【<KC ATTACK1>】攻撃など\r\n　しがみついた状態で【<KC CLIMB_JOLT>】揺さぶり",
+      "source_en": "You can <COL ffdc78>[Cling]</COL> to medium-large enemies. Make\r\nsure to check the guide on the bottom right to\r\nconfirm which techniques and\r\nactions will change.\r\n[Cling] Approach the enemy and [<KC TOUCH>] [Actions from\r\nclinging] Actions, such as attacking, while\r\nclinging [<KC ATTACK1>] Actions, such as shaking,\r\nwhile clinging [<KC CLIMB JOLT>].",
+      "text": "An mittleren und großen Gegnern kannst\ndu dich <COL ffdc78>festklammern</COL>.\nDie Befehle ändern sich. Sieh unten rechts\nnach, welche Aktionen möglich sind.\n[<KC TOUCH>] Nah am Gegner festklammern\n[<KC ATTACK1>] Festgeklammert angreifen\n[<KC CLIMB_JOLT>] Am Gegner rütteln",
+      "tag_source": "source_jp"
+    }
+  ]
+}

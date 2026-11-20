@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_10.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_10_149",
+      "read_index": "0",
+      "source_jp": "スラスト",
+      "source_en": "Thrust",
+      "text": "Stichfolge"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_10_151",
+      "read_index": "4",
+      "source_jp": "エイド",
+      "source_en": "Aid",
+      "text": "Heilfeld"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_10_153",
+      "read_index": "7",
+      "source_jp": "スカー・ムーヴ",
+      "source_en": "Scáth Move",
+      "text": "Schattenschritt"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_10_155",
+      "read_index": "8",
+      "source_jp": "アタックブースト",
+      "source_en": "Attack Boost",
+      "text": "Angriff verstärken"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_10_156",
+      "read_index": "9",
+      "source_jp": "ヒールブースト",
+      "source_en": "Heal Boost",
+      "text": "Heilung verstärken"
+    }
+  ]
+}

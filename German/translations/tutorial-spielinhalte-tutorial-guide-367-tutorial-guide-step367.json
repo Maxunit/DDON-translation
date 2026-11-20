@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step367.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_367.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_636",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《エンブレムストーン》</COL>は\r\n《プレイポイント》を使って成長させることが\r\nできる、各ジョブ専用の装備です\r\n\r\nエンブレムレベルが上がることで\r\n《エンブレムポイント》を入手できます\r\n\r\nエンブレムポイントを各パラメーターに\r\n割り振り、お気に入りのジョブを\r\nさらに強化していきましょう",
+      "source_en": "<COL ffdc78>[Emblem]</COL>\r\nA job-exclusive piece of equipment that is\r\nimproved using [Play Points].\r\nIncreasing your Emblem Level earns Emblem\r\nPoints- allocate these to further enhance\r\nyour preferred jobs!",
+      "text": "Ein <COL ffdc78>Klassenemblem</COL> ist nur für die\njeweilige Klasse bestimmt.\nStufe es mit Spielpunkten auf.\nFür höhere Stufen bekommst du\nEmblempunkte. Verteile sie auf\ndie Werte, die du verbessern willst."
+    },
+    {
+      "key": "TUTORIAL_STEP_637",
+      "read_index": "1",
+      "source_jp": "＜クレスト継承＞\r\nエンブレムレベルが上がると\r\nジュエリーにはめ込まれたクレストを\r\nエンブレムに継承することができます\r\n\r\n※サポートポーンが装備しているエンブレムの性能は\r\n　<COL ffdc78>プレイヤーが所持しているエンブレムの性能となります</COL>\r\n　また、解放していないジョブのものだった場合\r\n　<COL ffdc78>効果を発揮することはできません</COL>",
+      "source_en": "[Crest Inheritance] As your Emblem Level\r\nincreases, you can transfer Crests embedded in\r\njewelry to your Emblem.\r\n※Support Pawn Mechanics: Stats derive from your\r\ncorresponding Emblem.\r\n(<COL ffdc78>Pawns mirror your owned Emblem's stats.</COL>) Only\r\nEmblems for unlocked Jobs will activate.\r\n(<COL ffdc78>Emblems for locked Jobs remain inert.</COL>)",
+      "text": "Siegel übertragen\nMit steigender Emblemstufe kannst du\nSiegel aus Schmuck übernehmen.\nDie Embleme von Hilfsvasallen haben\n<COL ffdc78>dieselben Werte wie deine Embleme</COL>\nfür die jeweilige Klasse.\n<COL ffdc78>Embleme nicht freigeschalteter Klassen\nhaben dabei keine Wirkung.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_653",
+      "read_index": "2",
+      "source_jp": "クレスト継承には成功率があり、\r\n成功した場合でも失敗した場合でも、\r\n材料にしたジュエリーは破壊されます\r\n\r\nアイテムを使用することで\r\nクレスト継承の成功率を上げることができます\r\n\r\nまた、黄金石を使用すると\r\n失敗してもジュエリーを破壊せず\r\n残すことが可能です",
+      "source_en": "For crest inheritance, there is a success rate,\r\nand whether successful or not, the jewelry used\r\nas materials will be destroyed.\r\nBy using an item, you can increase the success\r\nrate of crest inheritance.\r\nAlso, by using a Golden Gemstone, even if it\r\nfails, the jewelry won't be destroyed\r\nand can be preserved.",
+      "text": "Beim Übertragen eines Siegels kann\netwas schiefgehen. Der Schmuck geht\nauch bei einem Fehlschlag verloren.\nMit einem Gegenstand kannst du die\nErfolgschance erhöhen.\nSetzt du Goldsteine ein, behältst du\nden Schmuck bei einem Fehlschlag."
+    }
+  ]
+}

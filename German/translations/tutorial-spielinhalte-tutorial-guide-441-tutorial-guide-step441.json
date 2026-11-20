@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step441.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_441.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_850",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>＜ドラゴンアビリティの合成＞</COL>は\r\n《対黒竜》ドラゴンアビリティの性能を\r\n向上させる事ができる特殊な合成です\r\n基となる《黒竜装備》に\r\n《精霊竜装備》,《火竜装備》\r\n《白竜装備》,《黄金竜装備》\r\nをあわせることで可能となります\r\n<COL ffdc78>※合成では《理力》の性能は向上しません</COL>",
+      "source_en": "<COL 78f5ff><Synthesis of Dragon Abilities></COL>\r\ncan improve the performance of <Anti-Black Dragon> Dragon Abilities\r\nby combining <Black Dragon Equipment> with <Spirit Dragon Equipment>,\r\n<Fire Dragon Equipment>, <White Dragon Equipment>, and <Golden Dragon Equipment>.\r\n<COL ffdc78>However, the [Force] performance does not\r\nimprove during synthesis.</COL>",
+      "text": "Mit <COL 78f5ff>„Drachenbegabungen kombinieren“</COL>\nverstärkst du die Begabungen gegen den\nSchwarzen Drachen. Kombiniere seine\nAusrüstung mit Stücken des Geister-,\nFeuer-, Weißen und Golddrachen.\n<COL ffdc78>Willenskraft erhöht sich dabei nicht.</COL>",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_857",
+      "read_index": "1",
+      "source_jp": "合成の際に付与される《対黒竜》のポイントは\r\n選択した《精霊竜》,《火竜》,《白竜》,《黄金竜》の\r\nドラゴンアビリティポイントによって決まります\r\nすべてのポイントが一定値の場合\r\nその値で《対黒竜》アビリティが付与され\r\nそうでない場合、確率で付与されます\r\n確率は<COL 78f5ff>《合成結果の確認》</COL>から確認できます",
+      "source_en": "The points granted during synthesis for\r\n\"Anti-Black Dragon\" are determined by the Dragon\r\nAbility points of the selected \"Spirit Dragon,\"\r\n\"Fire Dragon,\" \"White Dragon,\" and \"Golden\r\nDragon.\" If all points are at the same value,\r\n\"Anti-Black Dragon\" ability is\r\ngranted at that value.\r\nOtherwise, it is granted probabilistically.\r\nThe <COL 78f5ff>probability can be checked from\r\n\"Confirmation of Synthesis Results.\"</COL>",
+      "text": "Die Punkte der vier eingesetzten Stücke\nbestimmen die Punkte für den Schwarzen\nDrachen. Haben alle denselben Wert,\nwird genau dieser Wert übernommen.\nSonst entscheidet der Zufall.\nDie Chancen siehst du unter\n<COL 78f5ff>„Ergebnis prüfen“</COL>."
+    }
+  ]
+}

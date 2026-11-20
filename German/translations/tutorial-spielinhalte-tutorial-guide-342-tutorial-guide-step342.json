@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step342.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_342.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_548",
+      "read_index": "0",
+      "source_jp": "＜キャリーを護衛する＞\r\nティネス砦から、別の村などへ\r\nキャリーが食料を運ぶのに協力します\r\n道中探索しながら食料を集めますが\r\n一回の運搬では十分な量は確保できません\r\n何度か食料運搬を繰り返し、支援を達成しましょう",
+      "source_en": "[Protecting Carrie] From Fort Thines, we will\r\nassist Carrie in transporting\r\nfood to other villages.\r\nWhile searching along the way, we will gather\r\nfood, but a sufficient amount cannot be\r\nsecured in one transport.\r\nRepeat the food transport multiple\r\ntimes to support them!",
+      "text": "Begleite Carrie, wenn sie Vorräte aus\nFort Thines in andere Dörfer bringt.\nUnterwegs sucht sie nach mehr Essen.\nEine Lieferung reicht für gewöhnlich\nnicht. Begleite sie mehrmals,\nbis die Orte genug erhalten haben."
+    },
+    {
+      "key": "TUTORIAL_STEP_698",
+      "read_index": "1",
+      "source_jp": "＜ルートの選択について＞\r\n特定のクエストでは、<COL ffdc78>ルートの選択</COL>を\r\n迫られることがあります\r\nルートによって<COL ffdc78>魔物の強さ</COL>や<COL ffdc78>食料の発見量</COL>が\r\n違うため、<COL ffdc78>どのルートを選ぶか</COL>は\r\n非常に重要な選択になります",
+      "source_en": "Regarding the selection of routes: In certain\r\nquests, you may be forced to make\r\na choice of <COL ffdc78> routes</COL>.\r\nSince the <COL ffdc78>strength of the enemies</COL> and the <COL ffdc78>amount\r\nof food discovered</COL> differ depending on the\r\nroute, it is a very important\r\ndecision to determine <COL ffdc78>\r\nwhich route to choose</COL>.",
+      "text": "Bei manchen Quests musst du <COL ffdc78>eine\nRoute wählen</COL>.\nJe nach Weg sind die <COL ffdc78>Monster stärker</COL>\noder du findest <COL ffdc78>mehr oder weniger Essen</COL>.\n<COL ffdc78>Wäge gut ab, welchen Weg du nimmst.</COL>"
+    }
+  ]
+}

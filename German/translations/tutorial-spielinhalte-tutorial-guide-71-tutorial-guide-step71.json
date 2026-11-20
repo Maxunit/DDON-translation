@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step71.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_71.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_143",
+      "read_index": "0",
+      "source_jp": "ウォリアー最大の特徴は、分厚い両手武器による\r\n圧倒的な物理攻撃力です\r\n機動力に欠けるものの、練り上げられた\r\n一撃はすさまじい破壊力を誇り、敵を怯ませ\r\n吹き飛ばし、致命的ダメージを与えるでしょう",
+      "source_en": "The greatest characteristic of a Warrior is\r\ntheir overwhelming Physical Attack Power with\r\nthick two-handed weapons.\r\nAlthough they lack mobility, their refined\r\nstrikes boast incredible destructive power,\r\nintimidating and sending enemies flying,\r\ndealing fatal damage.",
+      "text": "Deine schwere Zweihandwaffe macht\ndich langsam. Dafür kannst du Gegner\nmit einem wuchtigen, geladenen Hieb\nins Taumeln bringen, wegschleudern\nund schwer verletzen."
+    },
+    {
+      "key": "TUTORIAL_STEP_142",
+      "read_index": "1",
+      "source_jp": "ウォリアーは、敵の攻撃に耐えることで\r\n《リベンジゲージ》を溜め、その分量に\r\n比例して、魔人斬りの攻撃力が上がります\r\nやられた分以上やり返す、その意思とパワーは\r\n魔人斬りと共に敵にぶつけることができます\r\n耐え忍び、剣と共に爆発させる\r\n不屈の闘志こそがウォリアーの戦術です",
+      "source_en": "The Warrior, by enduring enemy attacks,\r\naccumulates a \"Revenge Gauge\" which increases the\r\npower of Savage Lash in proportion to its amount.\r\nThey can retaliate with a force greater than what\r\nthey have endured, channeling their determination\r\nand power into striking back at the enemy together\r\nwith Savage Lash.\r\nThe unwavering fighting spirit to withstand and\r\nunleash explosive power alongside their sword is\r\nthe Warrior's tactic.",
+      "text": "Halte gegnerischen Angriffen stand,\num die Racheleiste zu füllen.\nJe voller die Leiste ist, desto mehr\nSchaden richtet der Berserkerhieb an.\nWarte den richtigen Moment ab und\nzahle dem Gegner seine Angriffe heim."
+    }
+  ]
+}

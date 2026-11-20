@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\master\\area15_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "source_jp": "ファーラナ平原",
+      "source_en": "Farana Plains",
+      "text": "Farana-Ebene"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "6",
+      "source_jp": "始まりの洞",
+      "source_en": "Hollow of Beginnings",
+      "text": "Höhle des Ursprungs"
+    }
+  ]
+}

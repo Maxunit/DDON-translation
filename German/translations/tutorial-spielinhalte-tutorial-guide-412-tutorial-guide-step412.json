@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step412.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_412.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_762",
+      "read_index": "0",
+      "source_jp": "《潜入調査》とは、<NPC 681>侯爵の懐に潜り込み\r\n尋問時に利用できる情報や、侯爵の言動を\r\n探っていく任務のことです\r\n<COL ffdc78>※任務中は、リム転移の使用ができません\r\n　リム転移で別の場所へ移動すると\r\n　任務範囲外となり、クエスト失敗になります</COL>",
+      "source_en": "Undercover Investigation is a mission to\r\ninfiltrate <NPC 681> the Marquis's inner circle and\r\ngather information that can be used during\r\ninterrogation, as well as to investigate the\r\nMarquis's words and actions.\r\n<COL ffdc78>※During the mission, Rift\r\nTeleport cannot be used.\r\nMoving to a different location via Rift Teleport\r\nwill result in going out of the mission area\r\nand failing the quest.</COL>",
+      "text": "Schleuse dich bei Markgraf <NPC 681> ein.\nBeobachte ihn und sammle Informationen,\ndie dir im Verhör helfen.\n<COL ffdc78>Reise während des Auftrags nicht per\nRift-Transport. Verlässt du den\nEinsatzbereich, scheitert die Quest.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_771",
+      "read_index": "1",
+      "source_jp": "また、この任務中に取った行動は\r\n《諜報活動》に影響を及ぼすことがあります\r\n<COL ffdc78>アナウンスが表示されたら\r\nチャットログに注目しましょう</COL>",
+      "source_en": "Also, the actions taken during this mission may\r\nhave an impact on \"Intelligence Assessment\".\r\n<COL ffdc78>When the announcement appears, pay\r\nattention to the Chat Log</COL>.",
+      "text": "Was du im verdeckten Einsatz tust,\nkann die Spurensuche beeinflussen.\n<COL ffdc78>Erscheint ein Hinweis, achte auf\nden Chatverlauf.</COL>"
+    }
+  ]
+}

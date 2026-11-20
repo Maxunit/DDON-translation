@@ -25,20 +25,6 @@
       "source_jp": "<COL ffdc78>誰に対して発言するかは\r\nチャット入力欄上の《対象メニュー》で\r\n切替えられます</COL>\r\n不特定多数向け、パーティーメンバー向け\r\nグループチャットメンバー向けなど、\r\n話しかける相手を変えたい場合に利用しましょう\r\n操作方法は入力欄下のガイドで確認できます",
       "source_en": "<COL ffdc78>The channel your message is directed to can be\r\nswitched using the channel menu located above\r\nthe chat input area.</COL>\r\nUtilise it when you want to change the\r\nrecipient of your messages.\r\nYou can check the current selection\r\nbelow the input area.",
       "text": "<COL ffdc78>Über dem Eingabefeld wählst du aus,\r\nwer deine Nachricht empfangen soll.</COL>\r\nSo erreichst du etwa Spieler in der Nähe,\r\ndeine Gruppe oder einen Gruppenchat.\r\nDie Bedienung steht unter dem Eingabefeld."
-    },
-    {
-      "key": "TUTORIAL_STEP_390",
-      "read_index": "3",
-      "source_jp": "チャット会話対象タイプは、以下になります\r\n　<COL ffdc78>Say</COL> ：周りのプレイヤー\r\n　<COL ffdc78>Shout</COL> ：同ワールドのプレイヤー全員\r\n　<COL ffdc78>Party</COL> ：パーティーメンバー\r\n　<COL ffdc78>Tell</COL> ：特定の個人\r\n　<COL ffdc78>Clan</COL> ：クランメンバー\r\n　<COL ffdc78>Group</COL> ：グループチャットメンバー\r\n　<COL ffdc78>Entry Board</COL> ：エントリーボード参加者",
-      "source_en": "The chat targets are as follows:\r\n<COL ffdc78>Say</COL>: Surrounding players.\r\n<COL ffdc78>Shout</COL>: All players in the channel.\r\n<COL ffdc78>Party</COL>: Party members.\r\n<COL ffdc78>Tell</COL>: Specific player.\r\n<COL ffdc78>Clan</COL>: Clan members.\r\n<COL ffdc78>Group</COL> Group Chat members.\r\n<COL ffdc78>Entry Board</COL>: Entry Board participants.",
-      "text": "Du kannst an diese Ziele schreiben:\r\n<COL ffdc78>Say</COL>: Spieler in der Nähe\r\n<COL ffdc78>Shout</COL>: Alle Spieler im Kanal\r\n<COL ffdc78>Party</COL>: Gruppenmitglieder\r\n<COL ffdc78>Tell</COL>: Eine bestimmte Person\r\n<COL ffdc78>Clan</COL>: Clanmitglieder\r\n<COL ffdc78>Group</COL>: Mitglieder des Gruppenchats\r\n<COL ffdc78>Entry Board</COL>: Teilnehmer am Eintragsbrett"
-    },
-    {
-      "key": "TUTORIAL_STEP_597",
-      "read_index": "4",
-      "source_jp": "＜メモ機能＞\r\n宛先を<COL ffdc78>Memo</COL>に合わせて\r\nテキストを入力し、発言すると\r\n相手に発信されず<COL ffdc78>メモログ</COL>に記録されます\r\nメモログは、チャンネルタブを\r\n一番左に合わせることで確認できます\r\nまた、チャットログから任意のテキストを選んで\r\n「メモする」ことでメモログに記録できます",
-      "source_en": "You can also make a <COL ffdc78>Memo</COL>, a note only visible to\r\nyou, saved to the <COL ffdc78>Memo Log</COL>.",
-      "text": "Wähle <COL ffdc78>Memo</COL> als Empfänger, um eine private\r\nNotiz zu schreiben. Du findest sie im\r\n<COL ffdc78>Notizprotokoll</COL>, ganz links in der Kanalliste.\r\nDu kannst auch Text aus dem Chat auswählen\r\nund ihn als Notiz speichern."
     }
   ]
 }

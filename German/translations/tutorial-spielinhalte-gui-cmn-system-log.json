@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\system_log.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "syslog_tutorial_open",
+      "read_index": "120",
+      "source_jp": "<NAME TUTORIAL>がチュートリアルガイドに追加されました",
+      "source_en": "<NAME TUTORIAL> has been added to the tutorial\r\nguide.",
+      "text": "<NAME TUTORIAL> wurde der Tutorialübersicht hinzugefügt."
+    },
+    {
+      "key": "syslog_darkgauge_growup",
+      "read_index": "380",
+      "source_jp": "\"破滅の力\"のゲージが徐々に上昇してゆく！",
+      "source_en": "The Power of Destruction is rising!",
+      "text": "Die Macht der Vernichtung nimmt zu!"
+    }
+  ]
+}

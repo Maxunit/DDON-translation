@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step444.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_444.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_853",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《リワードミッション》が解放されました！</COL>\r\n<COL ffdc78>《リワードミッション》の内容は、宿場区のリサに\r\n話しかけることで確認できます</COL>\r\nミッションの達成数に応じて、特別報酬が獲得できます\r\nなかでも、<COL 78f5ff>《白竜神殿発行・リワードメダル》</COL>は\r\nリワードミッションでしか入手できない\r\n特別なアイテムです\r\nリサが様々な品物と交換してくれるでしょう",
+      "source_en": "<COL 78f5ff>[Reward Missions] have been unlocked!</COL>\r\n<COL ffdc78>You can check the details of the Reward Missions\r\nby talking to Lisa in the\r\nRelay Station District.</COL>\r\nDepending on the number of missions you\r\ncomplete, you can earn special rewards.\r\nAmong them, the <COL 78f5ff>[White Dragon Temple-issued\r\nReward Medal]</COL> can only be obtained through\r\nReward Missions. It is a special item.\r\nLisa will exchange it for various items.",
+      "text": "<COL 78f5ff>Belohnungsmissionen freigeschaltet!</COL>\n<COL ffdc78>Sprich mit Lisa im Herbergsviertel.\nSie zeigt dir die Belohnungsmissionen.</COL>\nJe mehr du abschließt, desto mehr\nbesondere Belohnungen erhältst du.\nNur hier bekommst du <COL 78f5ff>Belohnungsmedaillen</COL>\ndes Tempels. Lisa tauscht diese\nMedaillen gegen verschiedene Waren."
+    },
+    {
+      "key": "TUTORIAL_STEP_858",
+      "read_index": "1",
+      "source_jp": "リワードミッションには\r\n<COL 78f5ff>《毎日更新》</COL>されるミッションや\r\n<COL 78f5ff>《毎週更新》</COL>されるミッションなどがあります\r\n<COL ffdc78>報酬も同じく、ミッションの更新日にリセットされます</COL>\r\nすべての報酬を手に入れられるよう\r\n日々のミッションに挑みましょう\r\n<COL ffdc78>※大竜晶破壊戦をクリアすることでは\r\n　エクストリームミッションのクリア回数は増えません</COL>",
+      "source_en": "For reward missions, there are missions that are\r\nupdated <COL 78f5ff>daily</COL> and missions that\r\nare updated <COL 78f5ff> weekly. </COL>\r\n<COL ffdc78>The rewards are also reset on the\r\nday of mission update. </COL>\r\nChallenge daily missions\r\nto obtain all rewards.\r\n<COL ffdc78>※ Clearing the The Great Dragon Crystal War does\r\nnot increase the number of clears\r\nfor extreme missions.</COL>",
+      "text": "Manche Belohnungsmissionen wechseln\n<COL 78f5ff>täglich</COL>, andere <COL 78f5ff>wöchentlich</COL>.\n<COL ffdc78>Mit den Missionen werden auch die\njeweiligen Belohnungen zurückgesetzt.</COL>\nErledige deine Aufträge rechtzeitig.\n<COL ffdc78>Die Schlacht um den dunklen\nDrachenkristall zählt hier nicht als\nAbschluss einer Extremmission.</COL>"
+    }
+  ]
+}

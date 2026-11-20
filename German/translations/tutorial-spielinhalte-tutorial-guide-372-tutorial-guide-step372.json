@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step372.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_372.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_658",
+      "read_index": "0",
+      "source_jp": "ドワーフオークは鍛冶の技術に長けた\r\nアッカーシェラン大陸固有のオーク種です\r\n\r\n金属の鎧を着こんでいるため\r\n防御の固い正面側よりも\r\n背面からの攻撃が有効です",
+      "source_en": "The Dwarf Orc, a unique species native to the\r\nAcre Selund continent, excels in the\r\nart of blacksmithing.\r\nWearing metal armor, it is more effective to\r\nattack from the back rather than from the\r\nheavily defended front.",
+      "text": "Zwergorks stammen aus Acre Selund.\r\nSie sind geübte Schmiede und\r\ntragen Rüstungen aus Metall.\r\nVorn sind sie gut geschützt.\r\nGreif sie möglichst von hinten an."
+    },
+    {
+      "key": "TUTORIAL_STEP_659",
+      "read_index": "1",
+      "source_jp": "ドワーフオークには、\r\n兵種により鎧や武器が異なるという特徴があります\r\n鎧の違いにより、攻撃の有効部位が大きく異なります\r\n\r\n＜打兵ドワーフオーク＞\r\n　兜を被っていないため、頭部への攻撃も有効\r\n\r\n＜重兵ドワーフオーク・隊将ドワーフオーク＞\r\n　身に付けている盾へは攻撃が通りにくい\r\n\r\nなど",
+      "source_en": "Dwarf Orcs have are unique in that their armor\r\nand weapons differ depending on the soldier type.\r\nDifferent armor results in significantly\r\ndifferent effective attack points.\r\n\r\n[Blunt Soldier Dwarf Orc]\r\nSince they don't wear helmets, attacks to the\r\nhead are also effective.\r\n\r\n[Heavy Soldier Dwarf Orc & Squad Leader Dwarf Orc]\r\nAttacks are less effective against the shields\r\nthey wear.\r\n\r\nAnd so on.",
+      "text": "Waffen und Rüstung der Zwergorks\r\nhängen von ihrer Truppengattung ab.\r\nDadurch ändern sich ihre Schwächen.\r\nZwergorks mit Schlagwaffen tragen\r\nkeinen Helm. Triff sie am Kopf.\r\nSchwere Zwergorks und ihre Anführer\r\ntragen Schilde. Dort richten deine\r\nAngriffe wenig aus."
+    },
+    {
+      "key": "TUTORIAL_STEP_660",
+      "read_index": "2",
+      "source_jp": "持っている武器の種類によって\r\n戦闘中の動きも大きく異なります\r\n\r\nそれぞれのタイプにあった立ち回りを\r\nこころがけましょう",
+      "source_en": "Depending on the type of weapon you have, your\r\nmovements in battle will differ greatly.\r\nTry to find the right strategy for\r\neach type of weapon.",
+      "text": "Das Verhalten eines Zwergorks hängt\r\nstark von seiner Waffe ab.\r\nAchte darauf, wie er angreift und\r\npass deine Taktik entsprechend an."
+    },
+    {
+      "key": "TUTORIAL_STEP_661",
+      "read_index": "3",
+      "source_jp": "また、ドワーフオーク兵たちは\r\n彼らをまとめるリーダー的存在である\r\n《隊将ドワーフオーク》に鼓舞されることで\r\n士気が上がり、一時的に戦闘力が上昇します\r\n\r\n逆に、隊将ドワーフオークを優先的に倒すことで\r\nその配下に動揺を与え、\r\n攻撃の手を緩めることができます\r\n\r\nドワーフオークの習性を利用し、有利に\r\n戦いを進めましょう",
+      "source_en": "Furthermore, the Dwarf Orc soldiers are inspired\r\nby their leader, the Squad Leader Dwarf Orc.\r\nThis boosts their morale and temporarily\r\nincreases their combat power.\r\nOn the other hand, by prioritizing the defeat of\r\nthe Squad Leader Dwarf Orc, you can disrupt\r\ntheir subordinates and weaken their attacks.\r\nTake advantage of the Dwarf Orc's\r\ncharacteristics and proceed with the\r\nbattle advantageously.",
+      "text": "Ein Zwergork-Anführer kann seine\r\nSoldaten anfeuern. Dadurch kämpfen\r\nsie vorübergehend stärker.\r\nBesiegt ihr den Anführer zuerst,\r\nverlieren seine Soldaten die Fassung\r\nund greifen weniger entschlossen an.\r\nNutzt das zu eurem Vorteil."
+    }
+  ]
+}

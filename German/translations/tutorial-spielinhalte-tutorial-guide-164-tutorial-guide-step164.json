@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step164.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_164.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_160",
+      "read_index": "0",
+      "source_jp": "敵の攻撃や高所落下など、旅に危険はつきものです\r\n体力の回復手段は常に用意しておきましょう\r\nプリーストなどの回復魔法が主な回復手段に\r\nなりますが、<COL ffdc78>回復魔法では減少した体力のうち\r\n《治癒上限値》（白いゲージ）分までしか\r\n回復できません</COL>\r\n体力回復用アイテム、宿も活用し\r\nより万全の状態に整えてください",
+      "source_en": "Traveling is always dangerous, with enemy\r\nattacks, falling from heights, etc.\r\nAlways have a way to recover your health.\r\nPriests and other recovery magick is the main\r\nmeans of recovery, but<COL ffdc78>recovery magick can only\r\nrecover up to \"Healable Limit\" (white gauge)\r\nof the reduced health.</COL>\r\nPlease make sure you are in good shape!",
+      "text": "Bei Angriffen oder Stürzen verlierst\r\ndu Lebenspunkte. Halte Heilmittel bereit.\r\nHeilzauber etwa vom Priester helfen dir.\r\n<COL ffdc78>Sie füllen die LP-Leiste bis zur\r\nweißen Heilgrenze auf.</COL>\r\nMit Heilmitteln oder in der Herberge\r\nkannst du dich weiter erholen."
+    },
+    {
+      "key": "TUTORIAL_STEP_294",
+      "read_index": "1",
+      "source_jp": "また、敵の特殊攻撃や地形の影響で\r\n<COL ffdc78>《状態異常》</COL>と呼ばれるペナルティーを\r\n受ける場合があります\r\nその場合も、治療魔法や異常治療効果のある\r\nアイテム、宿を利用して状態異常の解消を\r\n行ってください",
+      "source_en": "Additionally, there may be instances where you\r\nreceive penalties, known as <COL ffdc78>\r\n\"debilitations\"</COL>, due to special attacks from\r\nenemies or the effects of the terrain.\r\nIn such cases, please use healing magick, items\r\nwith debilitation treatment effects, or stay at\r\nan inn to resolve the debilitation.",
+      "text": "Bestimmte Angriffe und Gefahren\r\nin der Umgebung verursachen\r\n<COL ffdc78>Statusleiden</COL>.\r\nHeilzauber, passende Heilmittel\r\nund die Rast in einer Herberge\r\nkönnen sie beseitigen."
+    }
+  ]
+}

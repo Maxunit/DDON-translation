@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step139.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_139.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_111",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《クラン》が解放されました！</COL>\r\n<COL ffdc78>《クラン》</COL>とはプレイヤー同士で結成する同盟隊です\r\nクランに参加し、覚者同士の絆を結ぶことは\r\n冒険の幅を広げる良いきっかけになるでしょう\r\n神殿内、《宿場区》にある《クラン酒場》の主\r\nキビザに相談することで\r\nクランの作成・検索・参加表明などが行えます",
+      "source_en": "<COL 78f5ff>Clans are now available!</COL>\r\n<COL ffdc78>Clans</COL> are alliances formed by players.\r\nJoining a clan is a great way to expand your\r\nadventures and form bonds with other players.\r\nYou can create, search, and join a clan by\r\ntalking to Kibiza, the owner of the Clan Tavern\r\nin the Temple's <COL ffdc78>Relay Station District</COL>.",
+      "text": "<COL 78f5ff>Du kannst jetzt Clans beitreten!</COL>\n<COL ffdc78>Clans</COL> sind Bündnisse von Spielern.\nIn einem Clan lernst du andere Erweckte\nkennen und kannst mit ihnen auf Abenteuer\ngehen. Sprich mit Kibiza in der\nClan-Taverne im Herbergsviertel,\num einen Clan zu gründen oder zu finden.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_242",
+      "read_index": "1",
+      "source_jp": "クランメンバー間では、ポーンの貸し借りリムが\r\n安くなったり、クランチャットやメールなど、\r\nコミュニケーションの幅も広がります\r\n仲間を募り、クランに参加して\r\n覚者同士の絆を深めましょう",
+      "source_en": "Among clan members, there is a lending and\r\nborrowing system for Pawns, and the Rift\r\nCrystal price decreases.\r\nThe range of communication also expands through\r\nclan chat and mail, etc.\r\nLet's recruit companions and join a clan to\r\ndeepen the bond between Arisen.",
+      "text": "Clanmitglieder leihen sich Vasallen\nfür weniger Riftkristalle.\nÜber Clan-Chat und Post bleibst du\nmit deinen Mitspielern in Kontakt."
+    }
+  ]
+}

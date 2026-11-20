@@ -1,6 +1,6 @@
 # DDON-Glossar und Stilregeln für Deutsch
 
-Das [Referenzglossar](../Terms%20and%20references%20directory/glossary.csv) liefert die japanischen und englischen Begriffe. Hier stehen die deutschen Festlegungen und Regeln für die Oberfläche.
+Das [Referenzglossar](snapshot/Terms%20and%20references%20directory/glossary.csv) liefert die japanischen und englischen Begriffe. Hier stehen die deutschen Festlegungen und Regeln für die Oberfläche. Bei Abweichungen ist der japanische Originaltext maßgeblich. Die englische Fassung hilft bei der Zuordnung. Bereits festgelegte deutsche Menübegriffe gelten auch in den Anleitungen.
 
 | Referenz | Deutsch |
 | --- | --- |
@@ -29,4 +29,4 @@ Für NPC-Dialogboxen gilt die native UI-Größe als Referenz. Der Arbeitswert li
 | Native UI-Größe | Rund 0,50 Screenshot-Pixel je Schrifteinheit | Die Zeile mit 775 Einheiten belegt rund 385 Pixel. |
 | 1080p mit `Enlarge UI = 44` | Rund 0,60 Screenshot-Pixel je Schrifteinheit | Der frühere Arbeitswert von 700 Einheiten entspricht rund 420 Pixeln. |
 
-Die Zeilen anhand der Zeichenvorschübe prüfen und feste GMD-Umbrüche als `\r\n` an Satz- oder Wortgrenzen setzen. Bei Alfred standen die beiden beobachteten Umbrüche bereits in der englischen GMD-Vorlage. Beim Sichttest auch die letzte Zeile und den Abstand zum Fensterrand kontrollieren. Der abschließende Sichttest ist unter [Goal 4.1](milestones/Goal-4.1.md) zusammengefasst.
+Die Zeilen anhand der Zeichenvorschübe prüfen und feste GMD-Umbrüche als `\r\n` an Satz- oder Wortgrenzen setzen. Bei Alfred standen die beiden beobachteten Umbrüche bereits in der englischen GMD-Vorlage. Beim Sichttest auch die letzte Zeile und den Abstand zum Fensterrand kontrollieren. Die Originalmessungen für NPC-Dialog und Chat stehen im [Sichttestprotokoll von Goal 3](first-pawn/Goal-3-Bestandsaufnahme.md).

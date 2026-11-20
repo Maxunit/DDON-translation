@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step31.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_31.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_78",
+      "read_index": "0",
+      "source_jp": "野外には危険な場所も存在します\r\n以下の場所には注意して進みましょう\r\n＜毒や炎に包まれた場所＞\r\n　ダメージを受けたり、状態異常の\r\n 【毒】や【延焼】にかかってしまいます\r\n　深刻な追加ダメージにつながるため、\r\n　回復手段はいつでも用意しておきましょう",
+      "source_en": "There are dangerous places in the field.\r\nProceed with caution.\r\nThere are places filled with poison and flames.\r\nYou will take damage or status abnormalities,\r\nlike [Poison] and [Burning].\r\nWhich will deal additional damage over time.\r\nAlways prepare ways to recover from those.",
+      "text": "Gift und Feuer\r\nGift und Feuer verursachen Schaden.\r\nDu kannst dich auch vergiften oder\r\nin Brand geraten. Beides kann weiteren\r\nSchaden anrichten. Halte Heilmittel\r\noder andere Hilfe bereit."
+    },
+    {
+      "key": "TUTORIAL_STEP_77",
+      "read_index": "1",
+      "source_jp": "＜水辺＞\r\n　レスタニアの水辺にはヒュージブルという\r\n　魔物が潜み、深みに入ると引きずり込まれます\r\n　その場合、最後にいた陸地に戻されます\r\n　ただし、あまりに深い淵や谷川に落下した場合\r\n　死亡状態になることもあります",
+      "source_en": "\"Water\".\r\nThere is danger in the waters of Lestania.\r\nThe Brine hides in the water and drags\r\nvictims into the depths.\r\nIf that happens you will be returned to land.\r\nHowever, if you fall into a deep pool or stream.\r\nYou may die.",
+      "text": "Gewässer\r\nIn den Gewässern Lestanias lauert\r\ndie Brine. Sie zieht dich hinab,\r\nwenn du ins tiefe Wasser gerätst.\r\nDu wirst ans Ufer zurückgebracht.\r\nEin Sturz tief in einen Abgrund oder\r\nFluss kann jedoch tödlich sein."
+    },
+    {
+      "key": "TUTORIAL_STEP_229",
+      "read_index": "2",
+      "source_jp": "＜高所からの落下＞\r\n　高所から落下すると、高さに応じて\r\n　ダメージを受けてしまいます\r\n　あまりに高いと死亡の危険もあるため\r\n　崖ぎわなどは特に注意が必要です",
+      "source_en": "\"Falling Damage\".\r\nWhen you fall, the damage you take depends on\r\nthe height which you fell.\r\nFall from too high and you may die.\r\nBe careful around cliffs.",
+      "text": "Stürze aus großer Höhe\r\nBeim Fallen verlierst du Lebenspunkte.\r\nJe höher der Fall, desto mehr Schaden.\r\nEin sehr tiefer Sturz kann tödlich sein.\r\nPass an Felskanten gut auf."
+    }
+  ]
+}

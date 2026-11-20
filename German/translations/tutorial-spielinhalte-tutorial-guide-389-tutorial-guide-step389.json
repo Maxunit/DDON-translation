@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step389.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_389.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_722",
+      "read_index": "0",
+      "source_jp": "敵から魔力を吸収すると、<COL ffdc78>《魔力ゲージ》</COL>が溜まり\r\n１本ゲージが溜まるごとに<COL ffdc78>《魔力スタック》</COL>が\r\n１つ増加します\r\n溜めた魔力は以下の２種の魔法として使用します\r\n<COL ffdc78>《純魔法》</COL>　...魔力スタックを消費する高威力の魔法\r\n<COL ffdc78>《補助魔法》</COL>　...魔力ゲージを消費するサポート魔法",
+      "source_en": "When you absorb magick power from an enemy, your\r\n<COL ffdc78>\"Magick Gauge\"</COL> fills up.\r\nFor each filled gauge, your <COL ffdc78>\"Magick\r\nStack\"</COL> increases by one.\r\nYou can use the accumulated magick power to cast\r\ntwo types of magick:\r\n<COL ffdc78>\"Pure Magick\"</COL>: A high-power magick that\r\nconsumes Magick Stacks.\r\n<COL ffdc78>\"Support Magick\"</COL>: A support magick that\r\nconsumes Magick Gauge.",
+      "text": "Entzogene Magie füllt deine <COL ffdc78>Magieleiste</COL>.\nJede volle Leiste ergibt eine <COL ffdc78>Magieladung</COL>.\nDu kannst zwei Arten von Magie wirken:\n<COL ffdc78>Reine Magie</COL> verbraucht Ladungen\nfür besonders starke Zauber.\n<COL ffdc78>Hilfsmagie</COL> verbraucht Magie direkt\naus der Leiste."
+    },
+    {
+      "key": "TUTORIAL_STEP_732",
+      "read_index": "1",
+      "source_jp": "【<KC OVER_BRADE>】ルイン・ブレード\r\n　　　　　　　（魔力を込めた剣を放つ純魔法）\r\n【<KC SKILL_NORMAL1>】 バック・リープ\r\n　　　　　　　（後方に高速で移動する補助魔法）\r\n【<KC SKILL_NORMAL1>】 リターン・シフト\r\n　　　　　　　（高速で敵に接近する）\r\n※バック・リープは敵に密着した状態で使用すると\r\n　発動し、次にリターン・シフトに切り替わります",
+      "source_en": "[<KC OVER_BRADE>] Ruin Blade (Pure Magick that fires a sword\r\nfilled with magick power) [<KC SKILL_NORMAL1>] Back Leap\r\n(auxiliary magick that moves backward at high\r\nspeed) [<KC SKILL_NORMAL1>] Return Shift (approaches the enemy\r\nat high speed) *Back Leap activates when used\r\nwhile in close contact with the enemy, then\r\nswitches to Return Shift.",
+      "text": "[<KC OVER_BRADE>] Verderbensklinge\nReine Magie: Schleudert eine Magieklinge.\n[<KC SKILL_NORMAL1>] Rücksprung\nHilfsmagie: Weicht schnell nach hinten aus.\n[<KC SKILL_NORMAL1>] Rückkehr\nHilfsmagie: Bringt dich rasch zum Gegner.\nDer Rücksprung funktioniert direkt am\nGegner. Danach steht Rückkehr bereit."
+    },
+    {
+      "key": "TUTORIAL_STEP_794",
+      "read_index": "2",
+      "source_jp": "補助魔法を使い、敵との間合いを近距離と遠距離で\r\n即座に切り替えられる点も\r\nハイセプターの強みと言えるでしょう",
+      "source_en": "The ability to use auxiliary magick and switch\r\nbetween close and far range with the enemy\r\ninstantly is also a strength\r\nof the high scepter!",
+      "text": "Mit Hilfsmagie kannst du im Kampf\nschnell zwischen Nahkampf und\nFernkampf wechseln."
+    }
+  ]
+}

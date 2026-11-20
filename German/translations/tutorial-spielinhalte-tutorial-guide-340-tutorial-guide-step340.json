@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step340.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_340.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_544",
+      "read_index": "0",
+      "source_jp": "キャリーを連れてクエストに出ると\r\n大きな袋と<COL ffdc78>《食料ゲージ》</COL>を持った状態になります\r\n<COL ffdc78>《食料ゲージ》</COL>はキャリーの頭上と\r\n画面右のクエスト名の上に表示される<COL ffdc78>黄色のゲージ</COL>で\r\nキャリーが持っている食料の量を示します",
+      "source_en": "When going on a quest with Carrie, She will have\r\na large bag and <COL ffdc78>\"Food Gauge\"</COL>.\r\nThe <COL ffdc78>\"Food Gauge\"</COL> is a <COL ffdc78>\r\nyellow gauge</COL> displayed above Carrie's head and\r\nabove the quest name on the right side of the\r\nscreen, indicating the amount of\r\nfood Carrie is carrying.",
+      "text": "Wenn Carrie dich begleitet, trägt sie\neinen großen Sack. Die <COL ffdc78>Vorratsanzeige</COL>\nzeigt, wie viel Essen sie dabeihat.\nDu siehst die <COL ffdc78>Vorratsanzeige</COL> über ihr\nund rechts über dem Questnamen.\nSie ist <COL ffdc78>gelb</COL>."
+    },
+    {
+      "key": "TUTORIAL_STEP_545",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>＜食料ゲージの増減＞</COL>\r\n＜食料が増える＞\r\nキャリーは道中、様々な場所を探索して\r\n食料を見つけ出します\r\n食料は<COL ffdc78>キャリーが直接拾う</COL>ことでのみ\r\n増えます",
+      "source_en": "<COL ffdc78>[Food Gauge Increase/Decrease]</COL>\r\n[Increase in Food] Carrie will explore various\r\nlocations during the journey and find food.\r\nFood can only increase by <COL ffdc78>picked\r\nup directly by Carrie</COL>",
+      "text": "<COL ffdc78>Vorräte sammeln</COL>\nCarrie sucht unterwegs nach Essen.\nNur wenn <COL ffdc78>Carrie es selbst aufhebt</COL>,\nfüllt sich ihre Vorratsanzeige."
+    },
+    {
+      "key": "TUTORIAL_STEP_693",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>＜食料ゲージの増減＞</COL>\r\n＜食料が減る＞\r\nキャリーが魔物などの攻撃でダメージを受けると\r\n袋の中の<COL ffdc78>食料を落として</COL>しまいます\r\nよりＬV．が高い魔物の攻撃ほど\r\n<COL ffdc78>一度にたくさんの食料を落としてしまう</COL>ので\r\n注意が必要です",
+      "source_en": "<COL ffdc78>Food Gauge Increase/Decrease</COL>\r\n<Food Decrease>\r\nWhen Carrie receives damage from enemies or\r\nmonsters, she will <COL ffdc78>lose food from her bag</COL>.\r\nThe higher level the enemy, the more <COL ffdc78>\r\nfood will be lost at once</COL>,\r\nso please be cautious.",
+      "text": "<COL ffdc78>Vorräte verlieren</COL>\nWird Carrie von einem Monster getroffen,\n<COL ffdc78>verliert sie Essen aus ihrem Sack</COL>.\nJe höher die Stufe des Monsters,\n<COL ffdc78>desto mehr Essen verliert sie pro Treffer</COL>.\nHalte Gegner von ihr fern.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_694",
+      "read_index": "3",
+      "source_jp": "<COL ffdc78>＜食料がなくなると...＞</COL>\r\n<COL ffdc78>《食料ゲージ》が０になる</COL>と\r\nそのクエストは失敗となります\r\n失敗すると、<COL ffdc78>もう一度大食堂から出直す</COL>\r\nことになりますが、クリアまで何度も挑戦することが\r\nできます",
+      "source_en": "<COL ffdc78>[When the food runs out...]</COL>\r\n<COL ffdc78>If the <Food Gauge> reaches 0</COL>, the quest will fail.\r\nIf you fail, <COL ffdc78>you'll have to go back to the\r\ndining hall</COL>, but you can attempt to\r\nclear it multiple times.",
+      "text": "<COL ffdc78>Was passiert ohne Vorräte?</COL>\n<COL ffdc78>Ist die Vorratsanzeige leer</COL>, scheitert\ndie Quest. Du kannst so oft wie nötig\n<COL ffdc78>im großen Speisesaal neu beginnen</COL>.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_695",
+      "read_index": "4",
+      "source_jp": "<COL ffdc78>＜その他の失敗する要因＞</COL>\r\nキャリーから離れ過ぎて見失ってしまう\r\nリム転移して別の場所へ移動してしまう\r\nこれらの行動でも失敗となるため、キャリーの傍から\r\n離れ過ぎないように注意しましょう",
+      "source_en": "<COL ffdc78>Other Factors that Lead to Failure:</COL>\r\n- Losing sight of Carrie by moving too far away.\r\n- Teleporting to a different location\r\ndue to Rift Teleport.\r\nThese actions also result in failure, so be\r\ncareful not to stray too far from Carrie's side.",
+      "text": "<COL ffdc78>Wann du sonst scheiterst</COL>\nBleib in Carries Nähe. Wenn du sie\nverlierst oder per Rift-Transport an\neinen anderen Ort reist, scheitert\ndie Quest ebenfalls."
+    }
+  ]
+}

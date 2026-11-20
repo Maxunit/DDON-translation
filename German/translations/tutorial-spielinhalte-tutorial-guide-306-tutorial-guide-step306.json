@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step306.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_306.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_484",
+      "read_index": "0",
+      "source_jp": "敵スタミナゲージを減少させるための\r\n\"揺さぶり\"　そして\r\n\"弱点 《シークレットコア》 への攻撃\" \r\nこれらにつづく新たな手段が追加されました\r\n怒ってダメージが通りにくくなった敵に攻撃を加え、\r\n<COL ffdc78>ブレイク状態</COL>にすることで\r\nスタミナゲージを大量に減少させることができます",
+      "source_en": "To decrease the enemy stamina gauge, new methods\r\nhave been added following 'Shake-off' and\r\n'Attacks to the [Secret Core] Weak Point'.\r\nBy attacking enemies that have become enraged\r\nand are difficult to damage,\r\nand putting them into a\r\n<COL ffdc78>Break State</COL>, you can significantly\r\nreduce the stamina gauge.",
+      "text": "Du kannst Gegner erschöpfen, indem\r\ndu an ihnen rüttelst oder ihre\r\nverborgenen Kerne triffst.\r\nAuch <COL ffdc78>Break</COL> leert viel Ausdauer auf\r\neinmal. Greif dazu Gegner an, die\r\nbereits in Rage sind. In diesem Zustand\r\nrichten Treffer sonst wenig Schaden an."
+    },
+    {
+      "key": "TUTORIAL_STEP_485",
+      "read_index": "1",
+      "source_jp": "怒った敵に攻撃を加えて\r\n<COL ffdc78>《ブレイクアイコン》</COL>が満了になると\r\n敵は大きく体勢を崩してブレイク状態となります\r\nブレイク値の上昇量は\r\n攻撃を加えた敵の部位によって大きく異なります\r\nまた、吹き飛ばし力が高い攻撃ほど\r\nブレイク値が大きく上昇します",
+      "source_en": "Furthermore, when the <COL ffdc78>\"Break Icon\"</COL> next to the\r\nenemy's stamina gauge fills up, the enemy will\r\nlose their balance and enter a break state.\r\nThe break value increases when you attack an\r\nenraged enemy, and the amount of increase varies\r\ndepending on the body part you attack. Moreover,\r\nattacks with high Knockdown\r\nPower are more effective.",
+      "text": "Treffer gegen Gegner in Rage füllen\r\ndas <COL ffdc78>Break-Symbol</COL>. Ist es voll, gerät\r\nder Gegner aus dem Gleichgewicht.\r\nJe nach getroffener Körperstelle\r\nfüllt sich das Symbol unterschiedlich\r\nstark. Wuchtige Angriffe erhöhen\r\nden Wert schneller."
+    },
+    {
+      "key": "TUTORIAL_STEP_488",
+      "read_index": "2",
+      "source_jp": "ダウンさせるまでの時間短縮に大きく貢献しますので\r\nブレイク値の上昇量が多い部位を\r\n積極的に狙いましょう",
+      "source_en": "It contributes greatly to shortening the time it\r\ntakes to bring down a target.\r\nAim aggressively at areas with a large\r\nincrease in break value.",
+      "text": "Mit Break bringst du Gegner schneller\r\nzu Boden. Ziele auf Körperstellen, an\r\ndenen sich das Break-Symbol besonders\r\nschnell füllt."
+    }
+  ]
+}

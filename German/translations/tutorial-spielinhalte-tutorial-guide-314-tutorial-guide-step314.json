@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step314.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_314.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_508",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《古代神殿の死闘》</COL>は\r\n最大８人のパーティーを結成して\r\n《シェドレアン大神殿》に現れた脅威と戦う\r\nエクストリームミッションです\r\nミッション開始後、《殲滅区　右方》と\r\n《殲滅区　左方》への道が拓かれます\r\nパーティーメンバー同士で協力し\r\n神殿の最奥にいる元凶となる魔物を退けましょう",
+      "source_en": "<COL ffdc78>The Deathly Battle of the Ancient Temple</COL>\r\nis an Extreme Mission where you form a party of\r\nup to 8 people to fight against the threat that\r\nappears at the Shadolean Great Temple.\r\nAfter the mission starts, the path to the\r\n\"Extermination Area: Left Side\" and the\r\n\"Extermination Area: Right Side\" will be opened.\r\nCooperate with your party members and defeat the\r\nenemy creature at the\r\ndeepest part of the temple.",
+      "text": "In <COL ffdc78>„Todeskampf im alten Tempel“</COL>\nkämpft ihr mit bis zu acht Erweckten\nim Großen Tempel von Shadolean.\nZu Beginn öffnen sich die Wege zum\nrechten und linken Kampfbereich.\nArbeitet zusammen, um das Monster\nin der Tiefe des Tempels zu besiegen."
+    },
+    {
+      "key": "TUTORIAL_STEP_520",
+      "read_index": "1",
+      "source_jp": "先に宝物庫へ到達したメンバーは\r\nアイテムを受け取った後に最奥へ進むか\r\nもう一方のメンバーを加勢しにいくことができます\r\n最奥に潜む魔物を討伐することでミッションは\r\nクリアーとなるため、まだ<COL ffdc78>《殲滅区》を進行途中の\r\nメンバーがいる場合は、加勢することをオススメします</COL>",
+      "source_en": "The member who reaches the treasury first can\r\nproceed to the innermost part after receiving\r\nthe item or go to join another other member.\r\nThe mission will be cleared by defeating the\r\nmonster lurking at the innermost part.\r\n<COL ffdc78>If there are still members who are in the middle\r\nof the \"Extermination Area\", it is\r\nrecommended to join them.</COL>",
+      "text": "Wer zuerst die Schatzkammer erreicht,\nkann die Beute abholen. Danach könnt\nihr tiefer in den Tempel vordringen\noder der anderen Gruppe helfen.\nMit dem letzten Gegner endet die\nMission. <COL ffdc78>Helft daher Erweckten, die\nnoch im anderen Kampfbereich sind.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_521",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>特別な宝物庫への行き方</COL>\r\n《殲滅区　右方》と《殲滅区　左方》のどちらかの\r\n魔物が全て殲滅されると、礎を封じる魔壁が\r\n片方のみ消滅します\r\n<COL ffdc78>ミッションに出撃したパーティーメンバーの\r\n誰一人として死亡状態にならないことも条件</COL>である\r\nため、競い合いつつも、互いに協力することが\r\n不可欠となります",
+      "source_en": "<COL ffdc78>How to get to the special treasure vault</COL>\r\nWhen all the enemies in the \"Extermination Area:\r\nRight Side\" or \"Extermination Area: Left Side\"\r\nare completely eliminated, the magickal barrier\r\nsealing the Portcrystal will\r\ndisappear only on one side.\r\n<COL ffdc78>It is also a condition that none of the party\r\nmembers deployed on the mission be in a dead\r\nstate</COL>, so it is essential to compete and\r\ncooperate with each other.",
+      "text": "<COL ffdc78>Weg zur besonderen Schatzkammer</COL>\nBesiegt alle Monster im rechten oder\nlinken Kampfbereich. Dann fällt eine\nder magischen Sperren vor dem\nZielkristall.\n<COL ffdc78>Dabei darf niemand aus der Gruppe\nsterben.</COL> Seid schnell und helft euch\ngegenseitig."
+    },
+    {
+      "key": "TUTORIAL_STEP_525",
+      "read_index": "3",
+      "source_jp": "弱化して復活した覚者は入口に戻され\r\n《殲滅区　右方》と《殲滅区　左方》の\r\nどちらにも移動することができます",
+      "source_en": "An Arisen who is weakened and revived is\r\nreturned to the entrance.\r\nThey can move to either the \"Extermination Area\r\n- Right Side\" or the\r\n\"Extermination Area - Left Side\".",
+      "text": "Wer geschwächt wiederbelebt wird,\nkehrt zum Eingang zurück und kann\nbeide Kampfbereiche betreten."
+    }
+  ]
+}

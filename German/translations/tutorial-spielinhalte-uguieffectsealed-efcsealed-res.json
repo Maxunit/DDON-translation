@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\EfcSealed_res.gmd",
+  "arc_path": "\\ui\\uGUIEffectSealed.arc",
+  "entries": [
+    {
+      "key": "EFC_SEALED_TITLE",
+      "read_index": "0",
+      "source_jp": "Sealing Effect",
+      "source_en": "Sealing Effect",
+      "text": "Effektversiegelung"
+    },
+    {
+      "key": "EFC_SEALED_SUB_TITLE",
+      "read_index": "1",
+      "source_jp": "黒呪装具の効果封印",
+      "source_en": "Bitterblack Maze Effect Seal",
+      "text": "Ausrüstungseffekte versiegeln"
+    },
+    {
+      "key": "EFC_SEALED_INFO_TITLE_COST",
+      "read_index": "2",
+      "source_jp": "Cost",
+      "source_en": "Cost",
+      "text": "Kosten"
+    },
+    {
+      "key": "EFC_SEALED_INFO_NOW_COST",
+      "read_index": "3",
+      "source_jp": "現在の必要費用",
+      "source_en": "Current Required Cost",
+      "text": "Aktuelle Kosten"
+    },
+    {
+      "key": "EFC_SEALED_INFO_NEXT_COST",
+      "read_index": "4",
+      "source_jp": "NEXT費用",
+      "source_en": "Next Cost",
+      "text": "Nächste Kosten"
+    },
+    {
+      "key": "EFC_SEALED_INFO_SEALED_NUM",
+      "read_index": "5",
+      "source_jp": "封印数",
+      "source_en": "Sealed Count",
+      "text": "Versiegelte Effekte"
+    },
+    {
+      "key": "EFC_SEALED_INFO_RESET_COST",
+      "read_index": "6",
+      "source_jp": "封印の全解除費用",
+      "source_en": "Reset All Seals Cost",
+      "text": "Kosten für das Aufheben aller Siegel"
+    },
+    {
+      "key": "EFC_SEALED_INFO_INFOMATION",
+      "read_index": "7",
+      "source_jp": "選択して封印した効果は、\r\n黒呪の迷宮の装備品に付与されなくなります\r\n封印している個数によって費用が変わります",
+      "source_en": "Sealed effects will no longer be applied\r\nto equipment from the Bitterblack Maze.\r\nCost increases as more effects are sealed.",
+      "text": "Versiegelte Effekte erscheinen auf\nLabyrinth-Ausrüstung nicht mehr.\nMit jedem Siegel steigen die Kosten."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step409.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_409.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_758",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>パートナーポーンが新しい行動を覚えました！</COL>\r\n①フィールド探索中に珍しい宝箱や採取ポイントを\r\n　発見するようになりました\r\n②<COL ffdc78>パートナーポーンと一緒に修練目標を討伐すると\r\n　いつもより修練が早く進みます</COL>\r\n③近くの敵の弱点属性や、修練目標であるかを\r\n　声掛けで教えてくれるようになりました",
+      "source_en": "<COL 78f5ff>The Partner Pawn has learned a new action!</COL>\r\n①They have become able to discover rare treasure\r\nchests and gathering points\r\nwhile field searching.\r\n②<COL ffdc78>By defeating training targets with the Partner\r\nPawn, your training progress will\r\nadvance faster than usual.</COL>\r\n③They have become able to inform you of nearby\r\nenemies' elemental weaknesses and whether they\r\nare training targets by voice.",
+      "text": "<COL 78f5ff>Dein Partnervasall hat dazugelernt!</COL>\r\nBei Ausflügen entdeckt er seltene\r\nTruhen und Sammelstellen.\r\n<COL ffdc78>Besiegt ihr gemeinsam Trainingsziele,\r\nkommst du beim Training schneller voran.</COL>\r\nEr sagt dir, gegen welche Elemente\r\nGegner in eurer Nähe anfällig sind\r\nund welche davon Trainingsziele sind."
+    }
+  ]
+}

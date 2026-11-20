@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\jmaster_hb.gmd",
+  "arc_path": "\\ui\\uGUIJobMaster.arc",
+  "entries": [
+    {
+      "key": "JMMH_MSG_ALLTASK_CLEAR_STR",
+      "read_index": "0",
+      "source_jp": "課題を達成し、ジョブマスターに報告しました",
+      "source_en": "Task finished and reported to the Job Master.",
+      "text": "Aufgabe erfüllt und dem Klassenmeister gemeldet."
+    },
+    {
+      "key": "JMMH_MSG_TASK_STR",
+      "read_index": "2",
+      "source_jp": "<VAL>で課題を達成し、ジョブマスターに報告せよ",
+      "source_en": "Accomplish the task and report to the <VAL> Job\r\nMaster.",
+      "text": "Erfülle die Aufgabe und melde dich\nbeim Klassenmeister für <VAL>."
+    },
+    {
+      "key": "JMMH_MSG_JOB_MASTER_STR",
+      "read_index": "7",
+      "source_jp": "Job Master",
+      "source_en": "Job Master",
+      "text": "Klassenmeister"
+    },
+    {
+      "key": "JMMH_MSG_CUSTOM_SKILL_STR",
+      "read_index": "11",
+      "source_jp": "カスタムスキル",
+      "source_en": "Custom Skill",
+      "text": "Spezialfertigkeit"
+    },
+    {
+      "key": "JMMH_MSG_ABILITY_STR",
+      "read_index": "12",
+      "source_jp": "アビリティ",
+      "source_en": "Augments",
+      "text": "Begabungen"
+    },
+    {
+      "key": "JMMH_MSG_MASTER_HB_STR",
+      "read_index": "18",
+      "source_jp": "Training Note",
+      "source_en": "Training Note",
+      "text": "Trainingsbuch"
+    },
+    {
+      "key": "JMMH_MSG_TASK_EXAM_STR",
+      "read_index": "19",
+      "source_jp": "課題を達成し、ジョブマスターに報告せよ",
+      "source_en": "Accomplish the task and report to the Job Master.",
+      "text": "Erfülle die Aufgabe und melde dich\nbeim Klassenmeister."
+    },
+    {
+      "key": "JMMH_MSG_JOB_STR",
+      "read_index": "20",
+      "source_jp": "ジョブ",
+      "source_en": "Vocation",
+      "text": "Klasse"
+    },
+    {
+      "key": "JMMH_MSG_NO_ORDER_STR",
+      "read_index": "21",
+      "source_jp": "課題はありません",
+      "source_en": "There are no tasks.",
+      "text": "Es gibt keine Aufgaben."
+    },
+    {
+      "key": "JMMH_MSG_JOB_CHANGE_ENABLE",
+      "read_index": "22",
+      "source_jp": "転職できるようになりました",
+      "source_en": "Vocation change available.",
+      "text": "Klassenwechsel verfügbar."
+    }
+  ]
+}

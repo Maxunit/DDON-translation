@@ -7,6 +7,7 @@ on:
       - 'gmd.csv'
       - 'German/translations/**'
       - 'German/build_gmd.py'
+      - 'German/gmd-supplement.json'
       - 'German/tests/**'
       - '.github/workflows/german-gmd.yml'
 

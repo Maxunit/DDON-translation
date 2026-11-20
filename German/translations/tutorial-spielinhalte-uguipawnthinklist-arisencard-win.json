@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\ArisenCard_win.gmd",
+  "arc_path": "\\ui\\uGUIPawnThinkList.arc",
+  "entries": [
+    {
+      "key": "ARISEN_CARD_TEXT_STRENGTH",
+      "read_index": "26",
+      "source_jp": "筋力",
+      "source_en": "Strength",
+      "text": "Stärke"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CHANCEATK",
+      "read_index": "27",
+      "source_jp": "チャンス攻力",
+      "source_en": "Chance Attack",
+      "text": "Chancenkraft"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_TIREDATK",
+      "read_index": "28",
+      "source_jp": "疲労攻力",
+      "source_en": "Exhaust Attack",
+      "text": "Erschöpfungskraft"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_MAGIC",
+      "read_index": "73",
+      "source_jp": "魔力",
+      "source_en": "Magick",
+      "text": "Magie"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_KNOCKBACK",
+      "read_index": "74",
+      "source_jp": "吹き飛ばし力",
+      "source_en": "Knockdown Power",
+      "text": "Wucht"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_ORB_TREE",
+      "read_index": "97",
+      "source_jp": "竜力の継承",
+      "source_en": "Dragon Force Augmentation",
+      "text": "Erbe der Drachenkraft"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_ORB_TREE_2",
+      "read_index": "98",
+      "source_jp": "戦技の継承",
+      "source_en": "Skill Augmentation",
+      "text": "Klassenverstärkung"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_ORB_TREE_3",
+      "read_index": "99",
+      "source_jp": "絶技の継承",
+      "source_en": "Special Skill Augmentation",
+      "text": "Erweiterte Klassenverstärkung"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PAWNTHINK_TITLE",
+      "read_index": "100",
+      "source_jp": "ポーン戦術育成",
+      "source_en": "Pawn Tactical Training",
+      "text": "Taktiktraining für Vasallen"
+    }
+  ]
+}

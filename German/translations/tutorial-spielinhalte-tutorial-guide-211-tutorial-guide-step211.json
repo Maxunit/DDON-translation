@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step211.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_211.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_340",
+      "read_index": "0",
+      "source_jp": "狙った敵にロープを投げて捉えることで\r\n対象に急接近することができます\r\n　【<KC WEAPON_SUB>】ロープ構え\r\n　【<KC WEAPON_SUB>】＋【<KC THROW_ROPE>】ロープ投げ\r\nまた、味方を空中高く打ち上げることもできます\r\n　【<KC CATAPULT>】連係投げ",
+      "source_en": "By throwing a rope at the intended enemy, you\r\ncan capture them and quickly\r\napproach your target.\r\n<KC WEAPON_SUB>[Rope Stance] [<KC WEAPON_SUB>] + [<KC THROW_ROPE>] Throw Rope\r\nAdditionally, you can also launch your\r\nallies high into the sky.\r\n<KC CATAPULT>[Linking Throw]",
+      "text": "Wirf das Seil nach einem Gegner,\num dich schnell zu ihm zu ziehen.\n[<KC WEAPON_SUB>] Seil bereithalten\n[<KC WEAPON_SUB>] + [<KC THROW_ROPE>] Seilwurf\nAuch Verbündete kannst du hochwerfen.\n[<KC CATAPULT>] Verbündete hochwerfen"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step234.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_234.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_49",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《オーブエネミー》</COL>と呼ばれる魔物を討伐\r\nすると、その敵の強さに応じた数の\r\n《ブラッドオーブ》が入手できます\r\n<COL ffdc78>《オーブエネミー》は通常の敵と異なり\r\nＨＰゲージが紫色をしています</COL>\r\n周囲の敵と比べてやや強い難敵ですが\r\n発見したら果敢に挑みましょう",
+      "source_en": "Defeat the monsters called <COL ffdc78>Blood Orb Enemies</COL>,\r\nand you will obtain a number of\r\n<COL ffdc78>Blood Orbs</COL> corresponding to the\r\nstrength of the enemy.\r\nUnlike regular enemies, the <COL ffdc78>Blood Orb Enemies</COL>\r\nhave a purple HP gauge.\r\nThey are slightly stronger and more challenging\r\nthan the surrounding enemies, but bravely\r\nface them as you come across them.",
+      "text": "Wenn du einen <COL ffdc78>Blutkugel-Gegner</COL>\r\nbesiegst, bekommst du je nach seiner\r\nStärke unterschiedlich viele Blutkugeln.\r\n<COL ffdc78>Diese Gegner erkennst du an ihrer\r\nvioletten LP-Leiste.</COL>\r\nSie sind stärker als andere Monster\r\nin der Nähe. Bereite dich gut vor.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_372",
+      "read_index": "1",
+      "source_jp": "オーブエネミーは、フィールド上では\r\n滅多に遭遇することがありません\r\n討伐を狙うのであれば\r\n<COL ffdc78>エリアマスターが管理する封鎖ダンジョン</COL>に\r\n多く潜んでいるため、そういったスポットに\r\n足を運ぶとよいでしょう",
+      "source_en": "Blood Orb Enemies are rarely\r\nencountered in the field.\r\nIf you are aiming to defeat them, it is\r\nrecommended to visit <COL ffdc78>Blocked Dungeons managed by\r\nArea Masters</COL> where they are often hidden.",
+      "text": "Im Freien siehst du Blutkugel-Gegner\r\nnur selten. Wenn du gezielt nach\r\nihnen suchst, schau in die\r\n<COL ffdc78>gesperrten Verliese der Gebietsmeister</COL>.\r\nDort treten sie häufiger auf."
+    }
+  ]
+}

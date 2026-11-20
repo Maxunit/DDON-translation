@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step110.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_110.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_72",
+      "read_index": "0",
+      "source_jp": "パーティープレイでは、\r\n戦闘時に自身のジョブがどのような役割を\r\n担っているかを把握しておくことが重要です\r\nジョブの役割（ジョブロール）には\r\n<COL ffdc78>アタッカー／ヒーラー／タンク</COL>\r\nの３種があります\r\n期待される役割を理解し戦闘に臨みましょう",
+      "source_en": "In party play, it is important to understand the\r\nrole your job plays during combat.\r\nJobs have three roles: <COL ffdc78>\r\nAttacker, Healer, and Tank.</COL>\r\nLet's understand the expected roles and\r\napproach combat accordingly.",
+      "text": "In einer Gruppe ist es wichtig zu wissen,\nwelche Aufgabe deine Klasse im Kampf hat.\nEs gibt drei Rollen:\n<COL ffdc78>Angreifer, Heiler und Tanks.</COL>\nMach dich mit deiner Rolle vertraut,\nbevor ihr euch in den Kampf stürzt."
+    },
+    {
+      "key": "TUTORIAL_STEP_74",
+      "read_index": "1",
+      "source_jp": "＜アタッカー＞　：ファイター、ハンターなど\r\n　　敵にダメージを与えることが主な役割です\r\n＜ヒーラー＞　　：プリーストなど\r\n　　仲間の回復と戦況に合わせた支援が主な役割です\r\n＜タンク＞　　　：シールドセージなど\r\n　　高い防御力を生かし、敵の注目と攻撃を\r\n　　引き受けるのが主な役割です",
+      "source_en": "<Attacker>: Fighter, Hunter, etc.\r\nThe main role is to inflict damage on enemies.\r\n<Healer>: Priest, etc.\r\nThe main role is to heal fellow players and\r\nsupport them according to the battle situation.\r\n<Tank>: Shield Sage, etc.\r\nThe main role is to take advantage of high\r\ndefense to draw attention\r\nand attacks of enemies.",
+      "text": "Angreifer wie Kämpfer und Jäger\nrichten vor allem Schaden an.\nHeiler wie Priester heilen Verbündete\nund unterstützen sie nach Bedarf.\nTanks wie Schildweise nutzen ihre\nstarke Verteidigung, um die Gegner\nund ihre Angriffe auf sich zu ziehen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_226",
+      "read_index": "2",
+      "source_jp": "【パーティープレイ時の基本】\r\nタンク系ジョブのメンバーを狙っている敵は、\r\n体力ゲージに<COL ffdc78>《タンクアイコン》</COL>が表示されます\r\nアタッカーやヒーラーは、そのアイコンを確認して\r\nタンクを狙っている敵を攻撃したり、回復や支援を\r\n行うことで安全な立ち回りが可能です\r\nタンクはアトラクトなど《挑発スキル》の使用\r\nにより、敵の注目を集めることができます",
+      "source_en": "[Basic During Party Play] When enemies target\r\ntank jobs, the tank icon <COL ffdc78>[tank icon]</COL> will be\r\ndisplayed on their health gauge.\r\nAttackers and healers can confirm this icon and\r\nsafely engage the enemies targeting the tank,\r\nattacking or providing healing and support.\r\nTanks can use skills like provoke to\r\nattract enemies' attention.",
+      "text": "Ein <COL ffdc78>Tank-Symbol</COL> an der Lebensleiste zeigt,\ndass der Gegner einen Tank anvisiert.\nAngreifer können diesen Gegner gezielt\nbekämpfen. Heiler können den Tank\nheilen oder anderweitig unterstützen.\nAls Tank ziehst du Gegner mit\nFertigkeiten wie „Provozieren“ auf dich."
+    },
+    {
+      "key": "TUTORIAL_STEP_73",
+      "read_index": "3",
+      "source_jp": "敵の注目度があがる主な要因は下記です\r\n　・敵に攻撃する、ダメージを与える\r\n　・回復魔法を使う\r\n　・敵との距離が近い\r\n　・敵にしがみつく （中～大型敵）\r\n　・挑発スキルを使う \r\n敵に狙われたくない時、または自分に注目度を\r\n集めたい時は意識して立ち回りましょう",
+      "source_en": "The main factors that increase the attention of\r\nenemies are as follows - Attacking or damaging\r\nenemies - Using recovery magick - Being close to\r\nenemies - Clinging to enemies (medium to large\r\nenemies) - Using provocation skills Be aware\r\nwhen you don't want enemies to target you or\r\nwhen you want to draw attention to yourself!",
+      "text": "Das erregt die Aufmerksamkeit eines Gegners:\n- Ihn angreifen oder ihm Schaden zufügen\n- Heilmagie wirken\n- Ihm zu nahe kommen\n- Sich an ihm festklammern\n- Ihn provozieren\nNutze das, um Gegner auf dich zu ziehen\noder dich aus ihrem Blick zu halten."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\common\\release_content.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "RELEASE_CONTENT_1",
+      "read_index": "0",
+      "source_jp": "他のプレイヤーとのパーティープレイ",
+      "source_en": "Party Play (With Other Players)",
+      "text": "Gruppenspiel mit Erweckten"
+    },
+    {
+      "key": "RELEASE_CONTENT_6",
+      "read_index": "4",
+      "source_jp": "着飾り装備",
+      "source_en": "Dress Equipment",
+      "text": "Zierausrüstung"
+    },
+    {
+      "key": "RELEASE_CONTENT_8",
+      "read_index": "6",
+      "source_jp": "ジョブ修練ログ",
+      "source_en": "Job Training Log",
+      "text": "Trainingsbuch"
+    },
+    {
+      "key": "RELEASE_CONTENT_10",
+      "read_index": "8",
+      "source_jp": "竜力の継承",
+      "source_en": "Dragon Force Augmentation",
+      "text": "Erbe der Drachenkraft"
+    },
+    {
+      "key": "RELEASE_CONTENT_11",
+      "read_index": "9",
+      "source_jp": "クラフト",
+      "source_en": "Craft",
+      "text": "Handwerk"
+    },
+    {
+      "key": "RELEASE_CONTENT_27",
+      "read_index": "24",
+      "source_jp": "クランの設立と加入",
+      "source_en": "Create and Join Clans",
+      "text": "Clans gründen und beitreten"
+    },
+    {
+      "key": "RELEASE_CONTENT_29",
+      "read_index": "25",
+      "source_jp": "戦徒の契り",
+      "source_en": "Myrmidon's Pledge",
+      "text": "Bund der Kampfvasallen"
+    },
+    {
+      "key": "RELEASE_CONTENT_37",
+      "read_index": "29",
+      "source_jp": "戦技の継承",
+      "source_en": "Skill Augmentation",
+      "text": "Klassenverstärkung"
+    },
+    {
+      "key": "RELEASE_CONTENT_49",
+      "read_index": "40",
+      "source_jp": "マイルーム",
+      "source_en": "My Room",
+      "text": "Eigenes Zimmer"
+    },
+    {
+      "key": "RELEASE_CONTENT_57",
+      "read_index": "47",
+      "source_jp": "プレイポイント",
+      "source_en": "Play Points",
+      "text": "Spielpunkte"
+    },
+    {
+      "key": "RELEASE_CONTENT_58",
+      "read_index": "48",
+      "source_jp": "エリア目視調査",
+      "source_en": "Area Investigation",
+      "text": "Gebietserkundung"
+    },
+    {
+      "key": "RELEASE_CONTENT_59",
+      "read_index": "49",
+      "source_jp": "ポーン戦術育成",
+      "source_en": "Pawn Tactical Training",
+      "text": "Taktiktraining für Vasallen"
+    },
+    {
+      "key": "RELEASE_CONTENT_72",
+      "read_index": "62",
+      "source_jp": "マンドラゴラ育成",
+      "source_en": "Mandragora Breeding",
+      "text": "Mandragoras züchten"
+    },
+    {
+      "key": "RELEASE_CONTENT_73",
+      "read_index": "63",
+      "source_jp": "絶技の継承",
+      "source_en": "Special Skill Augmentation",
+      "text": "Erweiterte Klassenverstärkung"
+    },
+    {
+      "key": "RELEASE_CONTENT_74",
+      "read_index": "64",
+      "source_jp": "自室のテラス",
+      "source_en": "Your Room's Terrace",
+      "text": "Terrasse am eigenen Zimmer"
+    },
+    {
+      "key": "RELEASE_CONTENT_86",
+      "read_index": "73",
+      "source_jp": "ワイルドハント",
+      "source_en": "Wild Hunt",
+      "text": "Monsterjagd"
+    },
+    {
+      "key": "RELEASE_CONTENT_87",
+      "read_index": "74",
+      "source_jp": "竜武具の分解",
+      "source_en": "Dismantling of Dragon Arms",
+      "text": "Drachenausrüstung zerlegen"
+    },
+    {
+      "key": "RELEASE_CONTENT_88",
+      "read_index": "75",
+      "source_jp": "ドラゴンアビリティの合成",
+      "source_en": "Synthesis of Dragon Abilities",
+      "text": "Drachenbegabungen kombinieren"
+    },
+    {
+      "key": "RELEASE_CONTENT_93",
+      "read_index": "80",
+      "source_jp": "竜防具の鑑定交換",
+      "source_en": "Appraisal Exchange of Dragon Armor",
+      "text": "Drachenrüstung begutachten"
+    }
+  ]
+}

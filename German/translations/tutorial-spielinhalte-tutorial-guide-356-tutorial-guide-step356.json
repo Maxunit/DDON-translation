@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step356.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_356.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_618",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《期間解放スポット》が追加されました！</COL>\r\n《期間解放スポット》は限られた\r\n一定期間にのみ入場することができるダンジョンです",
+      "source_en": "<COL 78f5ff>[Periodically Unlocked Spots] have been added!</COL>\r\n[Periodically Unlocked Spots] is a dungeon that\r\ncan only be entered during a\r\nlimited period of time.",
+      "text": "<COL 78f5ff>Zeitweise offene Verliese sind\r\njetzt verfügbar!</COL>\r\nDiese Verliese kannst du nur in\r\nbestimmten Zeiträumen betreten."
+    },
+    {
+      "key": "TUTORIAL_STEP_619",
+      "read_index": "1",
+      "source_jp": "期間解放スポットに入場可能なタイミングは\r\n<COL ffdc78>スポット情報</COL>に記載されています\r\nまた、ダンジョンの入り口付近の見た目にも\r\n変化が起こるので、よく観察してみましょう\r\n期間解放スポットでは、\r\nハイオーブをたくさん入手することができます",
+      "source_en": "You can enter the Periodically Unlocked Spots at\r\nthe timing indicated in the <COL ffdc78>Spot Information.</COL>\r\nAlso, pay close attention to the changes in\r\nappearance near the entrance of the dungeon.\r\nIn the Periodically Unlocked Spots, you can\r\nobtain a lot of High Orbs.",
+      "text": "Die <COL ffdc78>Ortsinformationen</COL> nennen dir\r\ndie Zeiten, zu denen das Verlies\r\noffen ist. Auch das Aussehen des\r\nEingangs verändert sich.\r\nIn diesen Verliesen kannst du viele\r\nHohe Kugeln sammeln."
+    }
+  ]
+}

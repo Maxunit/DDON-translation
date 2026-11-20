@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step56.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_56.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_91",
+      "read_index": "0",
+      "source_jp": "アイテムには、<COL ffdc78>消費アイテム、素材アイテム、\r\n装備品、ジョブ専用アイテム</COL>という\r\n４つの分類があります\r\n＜消費アイテム＞\r\n　　使用することで消費し、効果を得られます\r\n＜素材アイテム＞\r\n　　クラフト素材として活用できます",
+      "source_en": "There are four classifications of items:\r\n<COL ffdc78>Consumable items, material items, Equipment,\r\nand Job-specific items.</COL>\r\n<COL ffdc78>Consumable items</COL>\r\nThese items are consumed upon use\r\nto gain their effects.\r\n<COL ffdc78>Material items</COL>\r\nThese items can be used as crafting materials.",
+      "text": "Es gibt vier Arten von Gegenständen.\r\n<COL ffdc78>Verbrauchsgegenstände, Materialien,\r\nAusrüstung und Klassengegenstände.</COL>\r\nVerbrauchsgegenstände haben einen\r\nEffekt und werden bei Gebrauch verbraucht.\r\nMaterialien brauchst du für die\r\nHerstellung von Gegenständen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_233",
+      "read_index": "1",
+      "source_jp": "＜装備品＞\r\n　　装備により攻撃力・防御力・体力等が上昇します\r\n＜ジョブ専用アイテム＞\r\n　　ハンターの特殊矢など、戦闘に使います\r\nそれぞれ携帯できる枠や個数は決まっている\r\nため、冒険前は所持品の確認をしましょう",
+      "source_en": "<COL ffdc78>Equipment</COL>\r\nBy equipping, attack power, defense power,\r\nstamina, and so on will increase.\r\n<COL ffdc78>Job-specific items</COL>\r\nFor example, the Hunter's special arrows.\r\nThey are used in combat.\r\nThere are limits to the number of slots and\r\nquantity that can be carried for each.\r\nTherefore, before embarking on an adventure,\r\nmake sure to check your belongings.",
+      "text": "Ausrüstung erhöht unter anderem\r\nAngriff, Verteidigung und Lebenspunkte.\r\nKlassengegenstände wie Spezialpfeile\r\nfür Jäger kommen im Kampf zum Einsatz.\r\nTaschenplätze und Stückzahlen sind\r\nbegrenzt. Sieh vor einem Ausflug nach,\r\nwas du bei dir hast.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

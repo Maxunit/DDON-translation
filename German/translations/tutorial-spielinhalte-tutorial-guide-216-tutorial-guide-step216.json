@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step216.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_216.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_343",
+      "read_index": "0",
+      "source_jp": "敵から受けた攻撃に耐え、《リベンジゲージ》を\r\n溜めることができます\r\nリベンジゲージを溜める事で【<KC ATTACK2>】魔人斬りの\r\n破壊力が大きく上昇します\r\n　【<KC AVOID>】耐魔の身構え（リベンジゲージ上昇）\r\nまた、味方を力強く打ち上げることもできます\r\n　【<KC CATAPULT>】連係投げ",
+      "source_en": "You can withstand attacks from enemies and\r\naccumulate \"Revenge Gauge\".\r\nBy accumulating the Revenge Gauge, the\r\ndestructive power of the <KC ATTACK2> \"Savage Lash\" skill\r\nwill greatly increase.\r\n[<KC AVOID>] Brace for Magick Resistance\r\n(Increase Revenge Gauge).\r\nYou can also forcefully launch allies into the\r\nair with the <KC CATAPULT>Linking Throw skill.",
+      "text": "Wenn du Angriffe abfängst, füllt sich\ndeine Racheleiste. Je voller sie ist,\ndesto stärker trifft der Berserkerhieb\nmit [<KC ATTACK2>].\n[<KC AVOID>] Standhalten: Füllt die Racheleiste\n[<KC CATAPULT>] Verbündete hochwerfen"
+    }
+  ]
+}

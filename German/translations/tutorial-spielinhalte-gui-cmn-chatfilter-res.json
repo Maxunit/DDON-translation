@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\chatfilter_res.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "CF_LOBBY",
+      "read_index": "0",
+      "source_jp": "Say",
+      "source_en": "Say",
+      "text": "Sagen"
+    },
+    {
+      "key": "CF_LOBBYALL",
+      "read_index": "1",
+      "source_jp": "Shout",
+      "source_en": "Shout",
+      "text": "Rufen"
+    },
+    {
+      "key": "CF_PARTY",
+      "read_index": "2",
+      "source_jp": "Party",
+      "source_en": "Party Members",
+      "text": "Gruppe"
+    },
+    {
+      "key": "CF_TELL",
+      "read_index": "3",
+      "source_jp": "Tell",
+      "source_en": "Tell",
+      "text": "Flüstern"
+    },
+    {
+      "key": "CF_CLAN",
+      "read_index": "5",
+      "source_jp": "Clan",
+      "source_en": "Clan only",
+      "text": "Clan"
+    },
+    {
+      "key": "CF_GROUP",
+      "read_index": "6",
+      "source_jp": "Group",
+      "source_en": "Group",
+      "text": "Gruppenchat"
+    },
+    {
+      "key": "CF_ENTRYBOARD",
+      "read_index": "11",
+      "source_jp": "Entry Board",
+      "source_en": "Entryboard",
+      "text": "Anmeldeboard"
+    }
+  ]
+}

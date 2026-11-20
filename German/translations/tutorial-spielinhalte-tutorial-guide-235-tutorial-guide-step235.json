@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step235.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_235.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_373",
+      "read_index": "0",
+      "source_jp": "２人以上で連係し行うアクション\r\n<COL ffdc78>《連係投げ》</COL>と<COL ffdc78>《押さえつけ》</COL>を覚えることで\r\nパーティープレイの幅が広がります\r\n＜連係投げ＞\r\n近接アタッカーが自らジャンプ台となり\r\n高所や敵の頭上に仲間を跳ね上げます\r\n　　連係投げ体勢：　【<KC CATAPULT>】\r\n　　高所ジャンプ：投げ体勢の味方に　【<KC TOUCH>】",
+      "source_en": "When two or more people work together and\r\ncoordinate their actions, they can use the\r\nskills of <COL ffdc78>\"Linking Throw\"</COL> and <COL ffdc78>\"Hold Down,\"</COL> which\r\nwill expand the possibilities of party play.\r\n\"Linking Throw\" is when a close-range attacker\r\nbecomes a jumping platform and launches a\r\nteammate up to high places or\r\nabove enemies' heads.\r\n- Linking Throw Stance: [<KC CATAPULT>] - High Jump: [<KC TOUCH>] on\r\na teammate in throwing stance",
+      "text": "Mit anderen Spielern kannst du einen\n<COL ffdc78>Partnerwurf</COL> ausführen oder Gegner\n<COL ffdc78>festhalten</COL>.\nBeim Partnerwurf dient ein Nahkämpfer\nals Sprungbrett. So erreichst du hohe\nStellen oder springst über Gegner.\n[<KC CATAPULT>] Wurfhaltung einnehmen\n[<KC TOUCH>] Beim Partner hochspringen"
+    },
+    {
+      "key": "TUTORIAL_STEP_94",
+      "read_index": "1",
+      "source_jp": "＜押さえつけ＞\r\n小型の敵がのけぞったりダウンした時に\r\n行うことで、敵を長時間拘束できます\r\n拘束された敵へのダメージは大幅アップします\r\n　　のけぞり／ダウン中の小型敵に　【<KC TOUCH>】\r\n　　　（解除は【<KC JUMP>】）\r\n　　※拘束中はスタミナを消費",
+      "source_en": "[Hold Down] By performing this action when a\r\nsmall enemy staggers or is knocked down, you can\r\nrestrain them for a long period of time. The\r\ndamage dealt to restrained enemies is\r\nsignificantly increased.\r\nPerform [<KC TOUCH>] on small enemies while they are\r\nstaggered/down (Release with [<KC JUMP>] ) ※ Stamina\r\nis consumed while restraining the enemy",
+      "text": "Du kannst kleine Gegner festhalten,\nsobald sie taumeln oder am Boden liegen.\nSo hältst du sie eine Weile fest.\nSie erleiden viel mehr Schaden.\nDabei verbrauchst du Ausdauer.\n[<KC TOUCH>] Gegner festhalten\n[<KC JUMP>] Gegner loslassen"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step322.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_322.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_511",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《大地の怒り》</COL>は最大４人のパーティーで\r\n《<AREA 15>》に現れた巨大な甲竜と戦う\r\nエクストリームミッションです",
+      "source_en": "<COL ffdc78>[Earth's Fury]</COL>\r\nis an extreme mission for a party of up to 4\r\npeople to fight a giant Shell Dragon that\r\nappears in [<AREA 15>].",
+      "text": "In <COL ffdc78>„Der Zorn der Erde“</COL> kämpft ihr\nmit bis zu vier Erweckten gegen\neinen riesigen gepanzerten Drachen.\nIhr findet ihn hier: <AREA 15>."
+    },
+    {
+      "key": "TUTORIAL_STEP_531",
+      "read_index": "1",
+      "source_jp": "また、他の魔物が《<SPOT 877>村》を襲わないように\r\n<NPC 501>たちが各地で奮闘しています\r\n彼らに助勢して魔物を殲滅できれば\r\n制限時間を延長することができます\r\nどの敵に挑むかはあなたの判断次第です\r\n限られた時間を有効に使いましょう",
+      "source_en": "Also, <NPC 501> and others are struggling in\r\nvarious places to prevent other monsters from\r\nattacking [<SPOT 877> villages].\r\nIf you help them and destroy the monsters, you\r\ncan extend the time limit.\r\nIt is up to you to decide\r\nwhich enemy to challenge.\r\nMake the most of your limited time!",
+      "text": "Monster wollen das Dorf <SPOT 877> angreifen.\n<NPC 501> und seine Leute halten sie auf.\nHelft ihnen, die Monster zu besiegen.\nDadurch verlängert sich das Zeitlimit.\nEntscheidet gemeinsam, welche Gegner\nihr in der verbleibenden Zeit angeht.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

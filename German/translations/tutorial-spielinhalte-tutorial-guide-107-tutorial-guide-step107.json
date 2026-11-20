@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step107.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_107.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_31",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《エクストリームミッション》が解放されました！</COL>\r\n<COL ffdc78>《エクストリームミッション》</COL>は選ばれた\r\n覚者のみ挑戦できる高難度コンテンツです",
+      "source_en": "<COL 78f5ff>Extreme Missions unlocked!</COL>\r\n<COL ffdc78>Extreme Missions</COL> are high-difficulty content that\r\nonly chosen Arisen can challenge.",
+      "text": "<COL 78f5ff>Extremmissionen freigeschaltet!</COL>\n<COL ffdc78>Extremmissionen</COL> sind anspruchsvoll.\nNur ausgewählte Erweckte dürfen antreten."
+    },
+    {
+      "key": "TUTORIAL_STEP_202",
+      "read_index": "1",
+      "source_jp": "制限時間内に指定された敵を討伐できればクリアとなり\r\n他では見られない特殊な報酬が入手できます\r\nただし、時間切れの場合はミッション失敗となり\r\n報酬は一切得られません",
+      "source_en": "If you can defeat the specified enemies within\r\nthe time limit, you will clear the mission and\r\nreceive a special reward that\r\ncannot be found elsewhere.\r\nHowever, if time runs out, the mission will be\r\nconsidered a failure and no\r\nrewards will be obtained.",
+      "text": "Besiege die vorgegebenen Gegner\ninnerhalb des Zeitlimits, um die\nMission abzuschließen. Dafür erhältst\ndu besondere Belohnungen. Läuft die\nZeit ab, scheitert die Mission und\ndu gehst leer aus."
+    },
+    {
+      "key": "TUTORIAL_STEP_442",
+      "read_index": "2",
+      "source_jp": "また、ミッション開始時には\r\n《ミッション専用アイテム》が\r\n支給されることがあります\r\n《ミッション専用アイテム》が支給される場合\r\nミッション内ではそのアイテムのみが使用可能です\r\n※それまでに持っていた消費アイテムは\r\n　ミッション終了時にアイテムバッグに戻されます",
+      "source_en": "Furthermore, at the start of the mission, a\r\n\"Mission-exclusive item\" may be provided.\r\nIf a \"Mission-exclusive item\" is provided, only\r\nthat item can be used during the mission.\r\n*Any consumable items held prior to this will be\r\nreturned to the Item Bag at\r\nthe end of the mission.",
+      "text": "Zu Beginn erhältst du manchmal\nGegenstände für die Mission.\nSolange dir solche Gegenstände\nbereitgestellt werden, kannst du\nnur diese verwenden. Nach der Mission\nkommen deine eigenen Verbrauchswaren\nzurück in deine Tasche."
+    },
+    {
+      "key": "TUTORIAL_STEP_30",
+      "read_index": "3",
+      "source_jp": "エクストリームミッションは、\r\n《エントリーボード》から参加申請可能です\r\n窓口のNPCに話しかけ、\r\n《エクストリームミッション》から参加してください\r\n腕に覚えのある覚者は十分に装備を整えた上で挑戦し\r\n最後に待つ強大な敵を目指しましょう",
+      "source_en": "Extreme Missions are available for application\r\nfrom the \"Entry Board\".\r\nPlease talk to the NPC at the counter and\r\nparticipate in the Extreme Missions.\r\nSkilled Arisen should challenge them fully\r\nequipped and aim for the powerful enemy\r\nthat awaits at the end.",
+      "text": "Melde dich für Extremmissionen am\nAnmeldeboard an. Sprich dazu mit\nder zuständigen Person und wähle\n„Extremmissionen“.\nRüste dich gut aus, bevor du dich\nden stärksten Gegnern stellst."
+    }
+  ]
+}

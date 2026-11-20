@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step218.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_218.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_345",
+      "read_index": "0",
+      "source_jp": "蓄積した《錬成値》は、《エリクシル》により\r\n解放することで、敵に大ダメージを与えます\r\n装備するエリクシルによって解放時の性質は変化し\r\nさまざまな状態異常を敵に与えることができます\r\n　【<KC SKILL_NORMAL1>】エリクシル（状態異常値に変換）\r\n　【<KC ELIXIR_CHANGE>】エリクシル・チェンジ（装備異常切替）",
+      "source_en": "Accumulated \"Stakes\" can be released by using\r\n\"Elixirs\" to deal great damage to enemies. The\r\nnature of the release varies depending on the\r\nequipped \"Elixir,\" allowing the ability to\r\ninflict various status ailments on enemies.\r\n[<KC SKILL_NORMAL1>] Elixirs (conversion to status\r\nailments) [<KC ELIXIR_CHANGE>] Change Elixir\r\n(debilitation equipment change)",
+      "text": "Setze die am Gegner gesammelte\nMaterie mit einem Elixier frei.\nDas verursacht hohen Schaden.\nDas gewählte Elixier bestimmt,\nwelchen Statuseffekt du aufbaust.\n[<KC SKILL_NORMAL1>] Elixier auslösen\n[<KC ELIXIR_CHANGE>] Elixier wechseln"
+    }
+  ]
+}

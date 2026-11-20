@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step261.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_261.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_430",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>≪鑑定ジュエリー≫</COL>とは\r\n冒険の中で手に入れることができる\r\n鑑定するまで性能がわからないジュエリーです\r\n冒険の中で運良く入手することができたら\r\n白竜神殿の商店区にいるグレゴリーに\r\n鑑定を依頼してみましょう\r\n特別なアビリティがセットされたジュエリーに\r\n出会えるかもしれません",
+      "source_en": "<COL ffdc78>≪Appraising Jewelry≫</COL>\r\nis a type of jewelry that can be obtained during\r\nadventures. Until it is appraised, its\r\nperformance is unknown.\r\nIf you are fortunate enough to obtain one during\r\nyour adventure, you can visit Gregory in the\r\nshopping district of the White Dragon Temple and\r\nrequest an appraisal.\r\nYou may come across jewelry that has special\r\nabilities set on them.",
+      "text": "Die Werte von <COL ffdc78>unbestimmtem Schmuck</COL>,\nden du auf Abenteuern findest, werden\nerst durch Begutachtung sichtbar.\nBring solche Stücke zu Gregory im\nHändlerviertel des Tempels.\nVielleicht entdeckt er an deinem\nSchmuck eine besondere Begabung."
+    }
+  ]
+}

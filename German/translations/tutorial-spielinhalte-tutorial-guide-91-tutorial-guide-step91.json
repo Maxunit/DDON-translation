@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step91.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_91.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_244",
+      "read_index": "1",
+      "source_jp": "覚者はみな、冒険の旅先どこからでも\r\n【<KC UI_GAME_MENU>】ゲームメニュー《ワールド》の\r\n<COL ffdc78>《リム転移》</COL>により、竜の礎へ帰還できます\r\nさらに、レスタニア各地には子器である\r\n《拠点の礎》が存在し、一度訪れた場所へは\r\n《リム》を支払うことで瞬時に移動できます",
+      "source_en": "All the Arisen can return to the Dragon's\r\nPortcrystal from anywhere in their adventurous\r\njourney using the <COL ffdc78>Rift Teleport</COL> in the [<KC UI_GAME_MENU>]\r\nGame Menu of the World.\r\nFurthermore, in various locations in Lestania,\r\nthere exist Portcrystals, which allow instant\r\nmovement to previously visited places by\r\npaying Rift Crystals.",
+      "text": "Öffne mit [<KC UI_GAME_MENU>] das Spielmenü.\nWähle unter „Welt“ den\n<COL ffdc78>Rift-Transport</COL>, um zum Tempel\nzurückzureisen. Für Riftkristalle\nkannst du auch zu bereits besuchten\nZielkristallen in Lestania reisen.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

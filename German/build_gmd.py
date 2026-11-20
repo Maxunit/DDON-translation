@@ -5,7 +5,7 @@ import hashlib
 import io
 import json
 from itertools import zip_longest
-from pathlib import Path
+from pathlib import Path, PureWindowsPath
 import re
 
 RAW_URL = 'https://raw.githubusercontent.com/Maxunit/DDON-translation/refs/heads/test/charselect-de-0.1.1/German/gmd.csv'
@@ -131,14 +131,50 @@ def render(base, groups, minimum=131125):
     return result, dict(data_records=count, covered_entries=len(found), changed_MsgEn_fields=changed)
 
 
+def apply_supplement(root, base, output):
+    """Add proven client keys that are absent from the pinned export."""
+    path = root / 'German/gmd-supplement.json'
+    if not path.is_file():
+        return output, {}
+    supplemental = json.loads(path.read_text(encoding='utf-8'))
+    if supplemental['schema_version'] != 1 or supplemental['source_sha256'] != digest(base):
+        raise ValueError('Supplemental GMD records require the pinned source CSV')
+    occupied = {(row[4], row[5], row[7])
+                for row, _, _ in records(output) if is_data(row)}
+    rows = []
+    for entry in supplemental['entries']:
+        key, gmd, arc, index = (entry[field] for field in ('key', 'gmd_path', 'arc_path', 'read_index'))
+        if not key or not index.isascii() or not index.isdecimal() or (gmd, arc, index) in occupied:
+            raise ValueError(f'Invalid or occupied supplemental GMD slot: {(key, gmd, arc, index)!r}')
+        text = entry['text']
+        if not text.strip() or '\x00' in text or TAGS.findall(text) != TAGS.findall(entry['source_text']):
+            raise ValueError(f'Invalid supplemental string: {key}')
+        occupied.add((gmd, arc, index))
+        rows.append([index, key, '', text, gmd, arc, PureWindowsPath(arc).name, index])
+    with io.StringIO(newline='') as stream:
+        csv.writer(stream, lineterminator='\r\n').writerows(rows)
+        addition = stream.getvalue().encode('utf-8')
+    if [row for row, _, _ in records(addition)] != rows:
+        raise ValueError('Supplemental records did not survive CSV encoding')
+    separator = b'' if output.endswith(b'\n') else b'\r\n'
+    return output + separator + addition, {
+        'added_records': len(rows),
+        'supplemental_path': path.relative_to(root).as_posix(),
+        'supplemental_sha256': digest(path.read_bytes()),
+    }
+
+
 def build(root):
     paths = sorted((root / 'German/translations').glob('*.json'))
     groups = [json.loads(p.read_text(encoding='utf-8')) for p in paths]
     base = (root / 'gmd.csv').read_bytes()
     output, stats = render(base, groups)
+    output, extra = apply_supplement(root, base, output)
+    stats['data_records'] += extra.get('added_records', 0)
+    stats['covered_entries'] += extra.get('added_records', 0)
     manifest = dict(schema_version=1, description='Complete English base with German translation overlays',
                     source_path='gmd.csv', source_sha256=digest(base), raw_url=RAW_URL,
-                    bytes=len(output), sha256=digest(output), **stats,
+                    bytes=len(output), sha256=digest(output), **stats, **extra,
                     translation_files={p.relative_to(root).as_posix(): digest(p.read_bytes()) for p in paths})
     return {'German/gmd.csv': output,
             'German/gmd-manifest.json': (json.dumps(manifest, ensure_ascii=False, indent=2) + '\n').encode('utf-8')}

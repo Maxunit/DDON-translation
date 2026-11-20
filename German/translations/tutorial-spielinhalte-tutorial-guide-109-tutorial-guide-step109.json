@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step109.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_109.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_56",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《竜力の継承》が解放されました！</COL>\r\n<COL ffdc78>《ブラッドオーブ》を獲得し白竜に捧げることで\r\n《竜力の継承》を行い、あなたはさらに成長します</COL>\r\n上げたいカテゴリーを選び、白竜に伝えましょう\r\n　《生命力》　...体力やスタミナなど基本能力\r\n　《冒険力》　...アイテム所持数や資本力\r\n　《攻力》　　...肉体面の力強さ\r\n　《魔法力》　...魔力面の力強さ",
+      "source_en": "<COL 78f5ff>Dragon Force Augmentation has been unlocked!</COL>\r\n<COL ffdc78>By offering Blood Orbs to the White Dragon,\r\nyou can grow stronger.</COL>\r\nTalk to the White Dragon and choose a\r\ncategory to enhance:\r\n<COL ffdc78>Vitality</COL>…HP, stamina, and basic attributes\r\n<COL ffdc78>Utility</COL>…Item capacity and wealth\r\n<COL ffdc78>Strength</COL>…Physical power\r\n<COL ffdc78>Magick</COL>…Magickal potency",
+      "text": "<COL 78f5ff>Erbe der Drachenkraft freigeschaltet!</COL>\n<COL ffdc78>Opfere dem Weißen Drachen Blutkugeln,\num stärker zu werden.</COL> Wähle einen Bereich.\nLebenskraft: LP, Ausdauer, Grundwerte\nAbenteuer: Taschenplatz und Vermögen\nAngriffskraft: Körperliche Stärke\nMagiekraft: Magische Stärke",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_57",
+      "read_index": "1",
+      "source_jp": "オーブエネミーを討伐し、たくさんの\r\nブラッドオーブを集めましょう\r\nさらにメインポーンも白竜へ《ブラッドオーブ》\r\nを捧げることで、あなた同様\r\n各能力を向上させることができます\r\nまた、中にはジョブのレベル合計（トータルレベル）\r\nに応じて獲得できる要素もあるため\r\n転職も活用するとよいでしょう",
+      "source_en": "Defeat the Blood Orb Enemies and\r\ncollect many Blood Orbs.\r\nFurthermore, by offering Blood Orbs to the White\r\nDragon, like you, your main Pawn can also\r\nimprove its various abilities.\r\nAdditionally, there are elements that can be\r\nobtained based on the total level of the Jobs\r\n(Total Level), so it is recommended to make\r\ngood use of job changes.",
+      "text": "Sammle Blutkugeln, indem du Gegner\nbesiegst, die Blutkugeln tragen.\nAuch dein Hauptvasall kann dem Weißen\nDrachen Blutkugeln opfern und so seine\nWerte verbessern.\nManche Boni richten sich nach der Summe\ndeiner Klassenstufen. Spiele also auch\nandere Klassen, um sie freizuschalten."
+    },
+    {
+      "key": "TUTORIAL_STEP_339",
+      "read_index": "2",
+      "source_jp": "一つ覚えておくべきこととして、竜力の継承で\r\n得た能力はすべてのジョブにおいて適用されます\r\nただし、《シークレットアビリティ》は\r\n獲得だけでは効果が発揮されず\r\n通常のアビリティ同様《戦技補佐》で\r\nセットする必要があります",
+      "source_en": "One thing to remember is that the abilities\r\nobtained through the inheritance of Dragon Force\r\nwill be applied to all jobs.\r\nHowever, <COL ffdc78>Secret Augments</COL> do not take effect\r\njust by acquiring them.\r\nLike regular augments, they need to be set using\r\n<COL ffdc78>Arts Support</COL> in order to activate their effects.",
+      "text": "Die Boni aus dem Erbe der Drachenkraft\ngelten für jede Klasse.\nGeheime Fähigkeiten wirken erst,\nwenn du sie ausrüstest. Das geht wie\nbei anderen Fähigkeiten über das Menü\n„Kampftechniken“.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

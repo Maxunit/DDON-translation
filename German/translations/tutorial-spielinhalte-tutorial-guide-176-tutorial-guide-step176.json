@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step176.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_176.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_172",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《着飾り装備》が解放されました！</COL>\r\n<COL ffdc78>《着飾り装備》</COL>とは、本来の性能の\r\n装備品とは別に見た目のみを姿に反映する\r\n特殊な着飾り術のことです",
+      "source_en": "<COL 78f5ff>\"Dress Equipment\" are available!</COL>\r\n<COL ffdc78>\"Dress Equipment\"</COL> this system allows you to\r\nchoose a piece of gear that will appear instead\r\nof what you have actually equipped.",
+      "text": "<COL 78f5ff>Zierausrüstung freigeschaltet!</COL>\n<COL ffdc78>Zierausrüstung</COL> ändert nur dein Aussehen.\nDeine Werte stammen weiterhin von der\nAusrüstung, die du für den Kampf trägst."
+    },
+    {
+      "key": "TUTORIAL_STEP_325",
+      "read_index": "1",
+      "source_jp": "【<KC UI_GAME_MENU>】ゲームメニュー《キャラクター》の\r\n<COL ffdc78>《ステータス・装備》</COL>から装備枠で\r\n【<KC UI_X>】を押すことで、その装備品について\r\n性能を反映するか、見た目を反映するか\r\n（性能装備／着飾り装備）を選択できます\r\nぜひ自分なりのおしゃれや着合わせを\r\n探し、さまざまな装備で着飾ってみてください",
+      "source_en": "[<KC UI_GAME_MENU>] In the \"Character\" menu in <COL ffdc78>\"Status and\r\nEquipment\"</COL> in the Equipment Window [<KC UI_X>] You can\r\nchoose wether a piece of gear is the \"Dress\" or\r\nthe \"Equipment\" Find your own style!\r\nTry on various gear!",
+      "text": "Öffne mit [<KC UI_GAME_MENU>] das Spielmenü.\nWähle unter „Charakter“ den Eintrag\n<COL ffdc78>„Status / Ausrüstung“</COL>.\nMit [<KC UI_X>] wechselst du am Ausrüstungsplatz\nzwischen Kampfausrüstung und\nZierausrüstung. Probiere verschiedene\nAusrüstungsstücke für dein Aussehen aus."
+    }
+  ]
+}

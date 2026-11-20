@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_07.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_07_103",
+      "read_index": "0",
+      "source_jp": "破斬",
+      "source_en": "Hack",
+      "text": "Hiebfolge"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_07_105",
+      "read_index": "2",
+      "source_jp": "魔人斬り",
+      "source_en": "Savage Lash",
+      "text": "Berserkerhieb"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_07_107",
+      "read_index": "4",
+      "source_jp": "耐魔の身構え",
+      "source_en": "Brace",
+      "text": "Standhalten"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_07_108",
+      "read_index": "5",
+      "source_jp": "連係投げ",
+      "source_en": "Linking Throw",
+      "text": "Verbündete hochwerfen"
+    }
+  ]
+}

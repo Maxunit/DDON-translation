@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step86.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_86.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_102",
+      "read_index": "0",
+      "source_jp": "この世界の主要通貨は<COL ffdc78>《</COL><ICON G><COL ffdc78>：ゴールド》</COL>です\r\nゴールドを所持していれば、神殿や各地の村\r\nなどにある店でアイテム売買が可能です\r\n　＜アイテム売買＞\r\n店舗ＮＰＣの会話メニュー《ショップ》を選択\r\n　　【<KC UI_START>】アイテム購入／売却の切替\r\n　　【<KC UI_Y>】アイテム情報の切替\r\n　　【<KC UI_X>】装備品試着の切替",
+      "source_en": "The main currency in this world is <COL ffdc78></COL><ICON G><COL ffdc78>: Gold</COL>\r\nIf you have gold, you can buy and sell items in\r\nstores at the temples and in villages.\r\n<COL ffdc78>Trading items</COL>\r\nSelect <COL ffdc78>Shop</COL> from the store\r\nNPC conversation menu.\r\n[<KC UI_START>] Toggle item buy/sell [<KC UI_Y>] Toggle item info [<KC UI_X>] Toggle equipment try-on",
+      "text": "Die wichtigste Währung ist\n<COL ffdc78>„</COL><ICON G><COL ffdc78> Gold“</COL>.\nDamit handelst du im Tempel und in\nDörfern. Wähle beim Händler „Laden“.\n[<KC UI_START>] Kauf oder Verkauf wählen\n[<KC UI_Y>] Gegenstandsinformation wechseln\n[<KC UI_X>] Ausrüstung anprobieren",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_238",
+      "read_index": "1",
+      "source_jp": "また、他にも覚者にとって重要となる\r\n以下２種の通貨があります\r\n＜<ICON RIM>：リム＞\r\n　　リム転移やポーン雇用に用いる異界の通貨\r\n＜<ICON BO>：ブラッドオーブ＞\r\n　　白竜に捧げ《竜力の継承》を受けることが\r\n　　できるほか、貴重アイテムと物々交換できる",
+      "source_en": "In addition, there are two types of currency\r\nthat are important for Arisen.\r\n<ICON RIM>: Rift Crystals Used for Rift Teleports and\r\nhiring Pawns from other dimensions.\r\n<ICON BO>: Blood Orbs Can be used for Dragon Force\r\nAugmentation from the White Dragon and\r\ntraded for valuable items.",
+      "text": "Zwei weitere wichtige Währungen:\n<ICON RIM> Riftkristalle\nFür Rift-Transport und Hilfsvasallen.\n<ICON BO> Blutkugeln\nOpfere sie dem Weißen Drachen für das\nErbe der Drachenkraft. Du kannst sie\nauch gegen seltene Waren tauschen."
+    },
+    {
+      "key": "TUTORIAL_STEP_239",
+      "read_index": "2",
+      "source_jp": "それ以外にも特別な取引きに使える\r\n特殊通貨が存在します\r\n＜<COL ffdc78>黄金石</COL>＞\r\n　　復活、パスポート・コース、トレジャーズロット\r\n　　美容院など、さまざまな特典に利用できる\r\n＜<COL ffdc78>シルバーチケット</COL>＞\r\n　　トレジャーズロットなどに利用できる",
+      "source_en": "In addition, there are special currencies that\r\ncan be used for special transactions.\r\n<COL ffdc78>Golden Gemstones</COL>\r\nCan be used for various benefits such as special\r\nrevivals, Passport Courses, Treasure Lots and\r\nat the beauty salon.\r\n<COL ffdc78>Silver Tickets</COL>\r\nCan be used for Treasure's\r\nLot and other purposes.",
+      "text": "Für besondere Angebote gibt es\nweitere Währungen.\n<COL ffdc78>Goldsteine</COL> kannst du für Wiederbelebung,\nPässe, Schatzlotterie und Schönheitssalon\nverwenden.\n<COL ffdc78>Silbertickets</COL> kannst du zum Beispiel\nbei der Schatzlotterie einlösen."
+    },
+    {
+      "key": "TUTORIAL_STEP_406",
+      "read_index": "3",
+      "source_jp": "ＮＰＣや取引アイテムにより\r\nどの通貨がどれくらい必要となるかは\r\n異なります\r\nいつ誰と何を取引するか\r\n計画的に利用しましょう",
+      "source_en": "Depending on NPCs and the items you trade, which\r\ncurrency you will need and how much varies.",
+      "text": "Die benötigte Währung und der Preis\nhängen vom Händler und der Ware ab.\nPrüfe beides vor dem Kauf."
+    }
+  ]
+}

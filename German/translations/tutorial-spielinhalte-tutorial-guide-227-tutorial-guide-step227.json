@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step227.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_227.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_360",
+      "read_index": "0",
+      "source_jp": "エクストリームミッションなど特定コンテンツを\r\nなんらかの事情でやむなく途中離脱したい場合、\r\nゲームメニュー《クエスト》の<COL ffdc78>《コンテンツ中断》</COL>\r\nから参加しているパーティーメンバーに\r\nコンテンツ途中離脱の提案が行えます\r\n<COL ffdc78>メンバーから提案があった時は\r\n《ワールドアナウンス》で通知が届きます</COL>",
+      "source_en": "If you want to withdraw from specific content,\r\nsuch as Extreme Missions, for some reason, you\r\ncan propose to <COL ffdc78>Exit Content</COL> to the party members\r\nparticipating from \"Quest\" in the game menu.\r\n<COL ffdc78>When a proposal is made by a member, you will\r\nreceive a notification via \"World Announcement\".</COL>",
+      "text": "Musst du etwa eine Extremmission\nvorzeitig verlassen, wähle unter\n„Quests“ im Spielmenü\n<COL ffdc78>„Mission abbrechen“</COL>. Damit schlägst du\nder Gruppe den Abbruch vor.\n<COL ffdc78>Bei einem Vorschlag erscheint eine\nMeldung auf dem Bildschirm.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_361",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>途中離脱するかしないかは\r\nパーティーメンバーの投票で決まり\r\n投票者中、過半数を占めた方が採用されます</COL>\r\n離脱の提案アナウンスが届いた場合は\r\n【<KC UI_GAME_MENU>】ゲームメニューで【<KC UI_X>】\r\nを押し、投票画面を呼び出して投票してください",
+      "source_en": "<COL ffdc78>Whether to withdraw or not depends on the votes\r\nof the party members. If you receive a\r\nwithdrawal proposal, please press [<KC UI_GAME_MENU>] in the\r\ngame menu and vote on the voting screen.</COL>",
+      "text": "<COL ffdc78>Die Gruppenmitglieder stimmen ab.\nEs entscheidet die Mehrheit der\nabgegebenen Stimmen.</COL>\nÖffne bei einem Vorschlag mit\n[<KC UI_GAME_MENU>] das Spielmenü und drücke\n[<KC UI_X>], um abzustimmen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_362",
+      "read_index": "2",
+      "source_jp": "なお、投票は一定時間で締め切られるため\r\nご注意ください\r\n反対多数で提案が拒否された場合は\r\n一定時間、再提案できなくなりますので\r\nその点もご留意ください",
+      "source_en": "Please note that voting will be closed after a\r\ncertain amount of time.\r\nIf the proposal is rejected by a majority vote,\r\nit will not be eligible for reconsideration for\r\na certain period of time. Please\r\nalso keep this in mind.",
+      "text": "Stimme ab, bevor die Frist abläuft.\nWird der Antrag mehrheitlich\nabgelehnt, musst du eine Weile\nwarten, bevor du erneut einen\nAbbruch vorschlagen kannst."
+    }
+  ]
+}

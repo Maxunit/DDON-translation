@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\event\\event_name.gmd",
+  "arc_path": "\\EventViewRoom.arc",
+  "entries": [
+    {
+      "key": "EVENT_NAME_st0201ev095",
+      "read_index": "51",
+      "source_jp": "白竜よ永遠なれ",
+      "source_en": "Be Forevermore, White Dragon!",
+      "text": "Ewig sei der Weiße Drache"
+    },
+    {
+      "key": "EVENT_NAME_st0460ev005",
+      "read_index": "273",
+      "source_jp": "王都の決戦",
+      "source_en": "The Final Battle of the Royal Capital",
+      "text": "Entscheidungsschlacht in der Königsstadt"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev230",
+      "read_index": "288",
+      "source_jp": "竜を継ぐ者",
+      "source_en": "Heir to the Dragon",
+      "text": "Der Erbe des Drachen"
+    }
+  ]
+}

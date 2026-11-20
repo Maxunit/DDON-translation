@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step399.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_399.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_744",
+      "read_index": "0",
+      "source_jp": "黒呪の迷宮にある《黒呪の宝箱》からは\r\n様々な効果の付与されたジュエリーを\r\n入手することができます\r\nまた、《黒呪のディードボックス》を\r\n鑑定交換することでも\r\nそれらのジュエリーを入手できます",
+      "source_en": "You can acquire jewelry with various effects\r\nfrom the \"Bitterblack Chests\"\r\ninside Bitterblack Maze.\r\nYou can also acquire jewelry from appraising\r\n\"Bitterblack Deed Boxes\".",
+      "text": "Die Finstergram-Truhen enthalten\nSchmuck mit unterschiedlichen Effekten.\nDu erhältst solchen Schmuck auch,\nwenn du Finstergram-Schatullen\nbegutachten und eintauschen lässt."
+    },
+    {
+      "key": "TUTORIAL_STEP_799",
+      "read_index": "1",
+      "source_jp": "鑑定交換する前に\r\n《黒呪装具の効果封印》をしておくことで\r\n<COL ffdc78>自分にとって不要な効果をあらかじめ封印できます</COL>\r\n不要な効果を封印すると\r\nその効果が発動することがなくなるため\r\n<COL ffdc78>自分の欲しい効果が付与される確率が上がります</COL>",
+      "source_en": "Before appraising, if you use \"Bitterblack Maze\r\nEffect Seal\" <COL ffdc78>you can seal unwanted effects</COL>.\r\nIf you seal an unwanted effect it will no longer\r\nshow up, <COL ffdc78>so desired effects will\r\nbecome more frequent</COL>.",
+      "text": "Wähle vor dem Tausch\n„Ausrüstungseffekte versiegeln“.\n<COL ffdc78>So schließt du unerwünschte Effekte aus.</COL>\n<COL ffdc78>Damit steigen die Chancen auf einen\nEffekt, den du haben möchtest.</COL>"
+    }
+  ]
+}

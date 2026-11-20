@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step422.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_422.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_801",
+      "read_index": "0",
+      "source_jp": "ボルトアイなどが使用する特殊な攻撃\r\nの一つとして、接触すると対象に付着し\r\n一定時間後にダメージを受けるなどの\r\nデメリットを受ける攻撃があります\r\n<COL ffdc78>このようなデメリットを受けてしまった場合\r\n味方から攻撃を受けることで救済してもらえます</COL>",
+      "source_en": "One of the special attacks used by characters\r\nlike Volt Eye is an attack that attaches to the\r\ntarget upon contact and causes damage after a\r\ncertain amount of time, resulting in\r\ndisadvantages for the target.\r\n<COL ffdc78>If you receive such a disadvantage, you can be\r\nrelieved by receiving an attack from an ally.</COL>",
+      "text": "Manche Gegner wie der Volt Eye\r\nheften mit einem Spezialangriff\r\netwas an ihr Ziel. Nach einer Weile\r\nkann das Schaden verursachen.\r\n<COL ffdc78>Ein Treffer durch einen Verbündeten\r\nkann den Betroffenen befreien.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_802",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>救済が可能な仲間の頭上には\r\n特殊なアイコンが表示されます</COL>\r\n被害を最小限に抑えるために\r\n救済行動を行いやすい立ち回りを意識しましょう",
+      "source_en": "<COL ffdc78>A special icon will be displayed on the heads of\r\nteammates who can be assisted.</COL>\r\nTo minimize damage, let us be conscious of\r\nmaneuvering that allows for easy assistance.",
+      "text": "<COL ffdc78>Ein Symbol über dem Kopf zeigt an,\r\nwem du helfen kannst.</COL> Bleib so in\r\nReichweite, dass ihr euch jederzeit\r\ngegenseitig befreien könnt."
+    }
+  ]
+}

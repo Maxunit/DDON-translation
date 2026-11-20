@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step419.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_419.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_790",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《火炎体の敵》</COL>は\r\n死して体を失ってなお、炎を纏って徘徊する\r\n実体のない敵です\r\n常に体から炎が発生しているため\r\n長く近付いていると延焼状態となってしまう\r\n厄介な相手と言えます",
+      "source_en": "<COL ffdc78>\"Enemies with Flaming Bodies\"</COL>\r\nare enemies without physical form that continue\r\nto wander while enveloped in flames even after\r\ndeath and losing their bodies.\r\nBecause flames are constantly generated from\r\ntheir bodies, if one gets too close for too\r\nlong, they will catch fire and spread.\r\nThey can be quite troublesome adversaries.",
+      "text": "<COL ffdc78>Gegner mit Flammenkörpern</COL> haben\r\nnach ihrem Tod keinen festen Körper\r\nmehr. Sie werden von Feuer umhüllt.\r\nWenn du zu lange in ihrer Nähe\r\nbleibst, kannst du in Brand geraten."
+    },
+    {
+      "key": "TUTORIAL_STEP_791",
+      "read_index": "1",
+      "source_jp": "一部の火炎体の敵には\r\n<COL ffdc78>癒し効果を持つスキルを接触</COL>させたり\r\n<COL ffdc78>エレメントアーチャーの助真の魔眼で捕捉</COL>すると\r\n体から発する炎を封じ込め、<COL ffdc78>《鎮火状態》</COL>に\r\nすることができます\r\n鎮火状態では近付いていても延焼にかからなくなります\r\nまた、与えるダメージ量が増えるほか\r\n敵が体勢を崩しやすくなるメリットもあるため\r\nヒーラーは積極的に鎮火状態にできるよう\r\n立ち回りましょう",
+      "source_en": "For some enemies with flaming bodies, you can use\r\nskills with <COL ffdc78>healing effects on\r\ncontact</COL> or capture them with the Magick Eye:\r\nTrue Aid from Element Archer to contain the flames\r\nemitted from their bodies and put them in a <COL ffdc78>\r\n\"quenched state\"</COL>.\r\nIn a quenched state, they will no longer catch\r\nfire even if you get close to them.\r\nIn addition, the amount of damage inflicted\r\nincreases and there is also the benefit that the\r\nenemy becomes more susceptible to losing their\r\nbalance.\r\nSo, healers should actively strive to put enemies\r\nin the quenched state in their strategies.",
+      "text": "Bei manchen Gegnern lassen sich\r\ndie Flammen bändigen. Setze dafür\r\neine <COL ffdc78>Heilfertigkeit</COL> ein oder erfasse\r\nsie mit <COL ffdc78>„Magieauge der wahren Hilfe“</COL>.\r\nSind die Flammen erst <COL ffdc78>gelöscht</COL>, kannst\r\ndu heran, ohne in Brand zu geraten.\r\nDie Gegner nehmen mehr Schaden und\r\nkommen leichter aus dem Gleichgewicht.\r\nHeiler sollten diese Chance nutzen.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

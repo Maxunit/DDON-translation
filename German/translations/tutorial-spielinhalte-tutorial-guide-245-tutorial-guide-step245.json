@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step245.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_245.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_391",
+      "read_index": "0",
+      "source_jp": "ポーンのクラフトレベルが上昇すると、\r\n<COL ffdc78>《クラフトポイント》</COL>が獲得できます\r\nそのポイントをクラフトメニュー《ステータス確認》\r\nから、上げたい<COL ffdc78>《クラフトスキル》</COL>に割り振ることで\r\n需要にあった技術を高めることができます",
+      "source_en": "When a pawn's crafting level increases, they can\r\nobtain <COL ffdc78>Craft Points</COL>.\r\nBy allocating these points to the desired <COL ffdc78>\r\nCrafting Skill</COL> through the craft menu\r\n<COL ffdc78>Status Check</COL>, it is possible to improve the\r\nnecessary techniques.",
+      "text": "Mit steigender Handwerksstufe erhält\ndein Vasall <COL ffdc78>Handwerkspunkte</COL>.\nUnter <COL ffdc78>„Handwerksstatus“</COL> verteilst du sie\nauf seine Handwerksfertigkeiten.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_392",
+      "read_index": "1",
+      "source_jp": "それにより伸ばせるクラフトスキルの\r\n種類と内容は下記です\r\n<COL ffdc78>＜生産作業スピード＞</COL>\r\n　　アイテム生産にかかる時間を短縮する\r\n<COL ffdc78>＜装備の強化技術＞</COL>\r\n　　装備の強化効率が上がり、少ない回数\r\n　　でグレードを上げられるようになる",
+      "source_en": "Here are the types and details of craft skills\r\nthat can be enhanced:\r\n<COL ffdc78>Crafting</COL>\r\nReduces the time required for item production.\r\n<COL ffdc78>Crafting Speed</COL>\r\nIncreases the efficiency of enhancing equipment,\r\nallowing for grade upgrades with fewer attempts.",
+      "text": "<COL ffdc78>Herstellungstempo</COL>\nDein Vasall stellt Gegenstände schneller\nher.\n\n<COL ffdc78>Verstärkungstechnik</COL>\nDu brauchst weniger Versuche, um die\nSternstufe der Ausrüstung zu erhöhen."
+    },
+    {
+      "key": "TUTORIAL_STEP_393",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>＜高品質装備の作成力＞</COL>\r\n　　装備品の生産で精錬材を使った時\r\n　　大成功しやすくなる\r\n<COL ffdc78>＜消耗品の生産数アップ＞</COL>\r\n　　消費アイテム作成時、生産個数が\r\n　　通常よりも多くなる\r\n<COL ffdc78>＜コストパフォーマンス＞</COL>\r\n　　アイテム生産、装備強化、クレスト装着\r\n　　などの必要Ｇが少なくなる",
+      "source_en": "<COL ffdc78>Creating High-Quality Equipment</COL>\r\nRefining materials used in the production of\r\nequipment make it easier to achieve Great Success.\r\n<COL ffdc78>Increased Consumable Production</COL>\r\nWhen creating consumable items, the production\r\nquantity will be higher than usual.\r\n<COL ffdc78>Cost Performance</COL>\r\nThe required G for item production, equipment\r\nstrengthening, and crest attachment will be\r\nreduced.",
+      "text": "<COL ffdc78>Ausrüstungsqualität</COL>\nVeredelungsmaterial führt häufiger\nzu einem großen Erfolg.\n<COL ffdc78>Verbrauchsmenge</COL>\nDein Vasall stellt mehr Verbrauchsware\nauf einmal her.\n<COL ffdc78>Geringere Kosten</COL>\nDu zahlst weniger Gold für Herstellung,\nVerstärkung und das Einsetzen von Siegeln."
+    },
+    {
+      "key": "TUTORIAL_STEP_490",
+      "read_index": "3",
+      "source_jp": "<COL ffdc78>※一度割り振ったポイントは\r\n変更できません</COL>\r\nただし、オンラインショップでは\r\n<COL ffdc78>一度割り振ったポイントの振り直しが可能です</COL>",
+      "source_en": "<COL ffdc78>※Points allocated once cannot be changed</COL>\r\nHowever, in the online shop, <COL ffdc78>Points that have\r\nbeen allocated can be reallocated</COL>",
+      "text": "<COL ffdc78>Verteilte Handwerkspunkte sind fest\nzugewiesen.</COL>\nMit einem Angebot im <COL ffdc78>Online-Shop</COL>\nkannst du sie zurücksetzen."
+    }
+  ]
+}

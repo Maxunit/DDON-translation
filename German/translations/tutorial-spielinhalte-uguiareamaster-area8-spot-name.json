@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\master\\area8_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "source_jp": "バートランド平原",
+      "source_en": "Betland Plains",
+      "text": "Betland-Ebene"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "12",
+      "source_jp": "禊の神殿",
+      "source_en": "Temple of Purification",
+      "text": "Tempel der Läuterung"
+    }
+  ]
+}

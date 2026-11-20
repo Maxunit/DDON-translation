@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step431.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_431.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_821",
+      "read_index": "0",
+      "source_jp": "暗黒の大竜晶破壊戦などでは\r\n竜の力を帯びた強力な防具<COL ffdc78>《竜防具》</COL>を\r\n入手することができます\r\n竜防具を装備すると闇の眷属との戦闘での\r\n対抗手段となる<COL ffdc78>《ドラゴンアビリティ》</COL>の\r\n発動が可能となります\r\n※メインクエストでは竜防具の力が付与されるため\r\n　ドラゴンアビリティが自動的に発動します",
+      "source_en": "In battles like the Battle for the Destruction\r\nof the Great Dragon Crystal of Darkness, you can\r\nobtain powerful armor imbued with the power of\r\ndragons, called <COL ffdc78>Dragon Armor. </COL>\r\nEquipping Dragon Armor enables the activation of\r\n<COL ffdc78>Dragon Abilities</COL>, which serve as a means of\r\ncountering the dark servants in combat.\r\n※ In the main quests, the power of Dragon Armor\r\nis bestowed, and Dragon Abilities are\r\nautomatically activated.",
+      "text": "In der Schlacht um den dunklen\nDrachenkristall erhältst du mitunter\n<COL ffdc78>Drachenrüstungen</COL> mit besonderen Kräften.\nTrägst du sie, kannst du im Kampf gegen\nDiener der Finsternis <COL ffdc78>Drachenbegabungen</COL>\naktivieren.\nIn Hauptquests verleiht dir das Spiel\ndiese Kräfte automatisch."
+    },
+    {
+      "key": "TUTORIAL_STEP_822",
+      "read_index": "1",
+      "source_jp": "ドラゴンアビリティは竜防具に付与されている\r\n理力／精霊竜／火竜／白竜／対黒竜の\r\n<COL ffdc78>各ポイントが一定値を満たすと発動します</COL>\r\n発動に必要なポイントは大きく分けて\r\n２つの計算方法に分類されます\r\n＜理力＞\r\n装備者１人のポイントによって計算\r\n＜精霊竜／火竜／白竜／対黒竜＞\r\nパーティーメンバーのポイント合計によって計算",
+      "source_en": "Dragon abilities are bestowed upon dragon armor.\r\nForce/Spirit Dragon/Fire Dragon/White\r\nDragon/Anti-Black Dragon\r\n<COL ffdc78>The ability is triggered when each\r\npoint meets a certain value</COL>.\r\nThe required points for activation are classified\r\ninto two calculation methods.\r\n[Force]\r\nCalculated based on the points of the wearer.\r\n[Spirit Dragon/Fire Dragon/White\r\nDragon/Anti-Black Dragon]\r\nCalculated based on the total points of party\r\nmembers.",
+      "text": "Drachenrüstungen haben Punkte für\nWillenskraft, Geisterdrache, Feuerdrache,\nWeißer Drache oder Schwarzer Drache.\n<COL ffdc78>Ab genug Punkten wird die jeweilige\nBegabung aktiv.</COL>\nFür Willenskraft zählt deine eigene\nPunktzahl. Bei den anderen vier Arten\nzählt die Summe der Gruppenmitglieder."
+    },
+    {
+      "key": "TUTORIAL_STEP_823",
+      "read_index": "2",
+      "source_jp": "《理力》によって発動可能なドラゴンアビリティ\r\n＜竜の加護＞\r\n戦闘中、物理攻撃力／魔法攻撃力\r\n物理防御力／魔法防御力が増加する\r\nLV UP毎にステータスアップ効果がより上昇\r\n＜竜の祝福＞\r\nボス撃破時に獲得できる宝箱報酬が増加する\r\nLV UP毎に報酬がより増加",
+      "source_en": "Dragon Abilities Activated by \"Force\" [Dragon\r\nProtection] Increases Physical\r\nAttack/Magick Attack.\r\nIncreases Physical Defense/Magick\r\nDefense during combat.\r\nStatus enhancement effects\r\nincrease with each level up.\r\n[Dragon Blessing] Increases the rewards\r\nobtained from boss battles.\r\nRewards increase further with each level up.",
+      "text": "Willenskraft aktiviert zwei Begabungen.\nDrachenschutz\nErhöht physischen und magischen Angriff\nund die jeweilige Verteidigung im Kampf.\nHöhere Stufen verstärken die Wirkung.\nDrachensegen\nMehr Truhenbelohnungen nach Bosskämpfen.\nHöhere Stufen bringen mehr Belohnungen."
+    },
+    {
+      "key": "TUTORIAL_STEP_861",
+      "read_index": "3",
+      "source_jp": "精霊竜／火竜／白竜／対黒竜によって\r\n発動可能なドラゴンアビリティは、\r\n<COL ffdc78>特定の闇の眷属との戦いでのみ発動します</COL>\r\n理力によって発動可能なドラゴンアビリティは\r\n<COL ffdc78>全ての闇の眷属との戦いで効果が発動します</COL>\r\n※黄金竜の竜防具は理力の加算と合成にのみ有効です",
+      "source_en": "Dragon abilities that can be activated by the\r\nSpirit Dragon/Fire Dragon/White\r\nDragon/Anti-Black Dragon <COL ffdc78>are only activated\r\nduring battles with specific Dark Servants</COL>.\r\nDragon abilities that can be activated by force,\r\n<COL ffdc78>have their effects activated in battles\r\nwith all Dark Servants</COL>.\r\n※ The Dragon Armor of the Golden Dragon is only\r\neffective for force addition and synthesis.",
+      "text": "Geister-, Feuer-, Weißer und Schwarzer\nDrache wirken <COL ffdc78>nur gegen bestimmte\nDiener der Finsternis</COL>.\nWillenskraft wirkt gegen <COL ffdc78>alle\nDiener der Finsternis</COL>.\nGolddrachenrüstungen helfen nur bei\nWillenskraft und bei der Synthese."
+    }
+  ]
+}

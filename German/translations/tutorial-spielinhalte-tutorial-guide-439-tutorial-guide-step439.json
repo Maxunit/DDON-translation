@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step439.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_439.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_846",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《アッカーシェラン追懐戦記》</COL>は\r\n最大８人のパーティーを結成して\r\n様々なエリアに出現する敵を討伐しながら\r\n進攻するウォーミッションです",
+      "source_en": "<COL 78f5ff>Acre Selund War Chronicles</COL>\r\nallows players to form a party of up to eight\r\nmembers and engage in war missions, defeating\r\nenemies that appear in various areas.",
+      "text": "In der <COL 78f5ff>Kriegschronik von Acre Selund</COL>\nkämpft ihr in einer Gruppe von bis\nzu acht Erweckten. Besiegt die Gegner\nauf eurem Weg durch die Kampfgebiete."
+    },
+    {
+      "key": "TUTORIAL_STEP_847",
+      "read_index": "1",
+      "source_jp": "各戦闘エリアにいる敵を討伐すると\r\n進行マーカーが出現します\r\n進行マーカーに集合すると自軍旗がセットされ、\r\n<COL ffdc78>人数制限のあるワープゲート</COL>が解放されます\r\nワープゲートには行き先となるステージ名が表示され、\r\n選択時に<COL ffdc78>あと何人が移動できるか</COL>が確認できます\r\n一定数の覚者がワープするとゲート自体が消滅します\r\n誰をワープさせるのか、パーティーメンバー間で\r\n協力してギミックを使用しましょう",
+      "source_en": "Defeating the enemies in each combat area will\r\ncause progress markers to appear.\r\nIf you gather at the progress marker, your own\r\nflag will be set up, and a warp gate with a <COL ffdc78>\r\nlimited capacity</COL> will be unlocked.\r\nThe warp gate displays the name of the\r\ndestination stage, and when selected, you can\r\nconfirm <COL ffdc78>how many people can still\r\nmove</COL>.\r\nWhen a certain number of Arisen warp, the gate\r\nitself will disappear.\r\nCooperate with your party members and decide who\r\nwill warp.",
+      "text": "Sind alle Gegner in einem Gebiet\nbesiegt, erscheint eine Markierung.\nVersammelt euch dort und hisst eure\nFlagge. Das öffnet ein <COL ffdc78>Tor mit\nbegrenzten Plätzen</COL>. Am Tor seht ihr\ndas Ziel und <COL ffdc78>wie viele Erweckte\nnoch hindurchkönnen</COL>. Sind die Plätze\nverbraucht, verschwindet das Tor.\nSprecht ab, wer durch welches Tor geht."
+    },
+    {
+      "key": "TUTORIAL_STEP_848",
+      "read_index": "2",
+      "source_jp": "自軍旗を守るメンバーと、各地に出現する魔物を\r\n討伐するメンバーで二手に分かれ\r\nミッションの目標を達成しましょう\r\n全てのエリアでの戦闘が終わると\r\n最奥に座す黒騎士に挑むことになります",
+      "source_en": "Divide into two groups: one to protect our\r\narmy's flag, and the other to Defeat the foe(s)\r\nappearing in various locations.\r\nWork to achieve the mission objective!\r\nOnce all battles in each area have concluded, we\r\nwill challenge the Black Knight seated\r\nat the deepest point.",
+      "text": "Teilt euch auf. Manche schützen die\nFlagge, andere besiegen Monster in den\nKampfgebieten. Erfüllt so das Ziel der\nMission. Nach den Kämpfen stellt ihr\neuch dem Schwarzen Ritter."
+    },
+    {
+      "key": "TUTORIAL_STEP_860",
+      "read_index": "3",
+      "source_jp": "WM開催中には魔軍四将が出現することがあります\r\n四将の討伐は<COL ffdc78>大量のDPが獲得できるほか\r\nショップに並ぶ商品の条件解放にも\r\nつながる</COL>ので、戦況が変わった際には\r\nぜひ挑戦してみましょう",
+      "source_en": "During the WM event, the Four Demon\r\nGenerals may appear.\r\nDefeating them not only rewards a large amount\r\nof DP, but also contributes to <COL ffdc78>unlocking\r\nconditions for items in the shop</COL>. So, when the\r\nsituation changes, make sure\r\nto challenge them.",
+      "text": "Während der Kriegsmission können vier\nFeldherren des feindlichen Heers erscheinen.\n<COL ffdc78>Besiegt sie für viele Herrschaftspunkte\nund schaltet neue Waren im Laden frei.</COL>\nNutzt die Gelegenheit, wenn sich die\nSchlachtlage ändert."
+    }
+  ]
+}

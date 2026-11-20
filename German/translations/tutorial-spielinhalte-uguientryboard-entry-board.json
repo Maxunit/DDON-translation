@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\entry_board.gmd",
+  "arc_path": "\\ui\\uGUIEntryBoard.arc",
+  "entries": [
+    {
+      "key": "entry_board_title_en",
+      "read_index": "1",
+      "source_jp": "Entry Board",
+      "source_en": "Entryboard",
+      "text": "Anmeldeboard"
+    },
+    {
+      "key": "entry_board_mission_info_ir_condition",
+      "read_index": "86",
+      "source_jp": "アイテムランクが<VAL>以上 （現在のIR.<VAL>）",
+      "source_en": "  Item Rank <VAL> or more (Current IR. <VAL>)",
+      "text": "  Ø Gegenstandsrang <VAL> oder höher (aktuell <VAL>)"
+    },
+    {
+      "key": "entry_board_reqruit_ir_jobrole_attacker",
+      "read_index": "91",
+      "source_jp": "アタッカー",
+      "source_en": "Attacker",
+      "text": "Angreifer"
+    },
+    {
+      "key": "entry_board_reqruit_ir_jobrole_healer",
+      "read_index": "92",
+      "source_jp": "ヒーラー",
+      "source_en": "Healer",
+      "text": "Heiler"
+    },
+    {
+      "key": "entry_board_recommend_counter_skill_title",
+      "read_index": "118",
+      "source_jp": "推奨ドラゴンアビリティ",
+      "source_en": "Recommended Dragon Ability",
+      "text": "Empfohlene Drachenbegabung"
+    },
+    {
+      "key": "entry_board_dra_skill_msg_001",
+      "read_index": "121",
+      "source_jp": "ドラゴンアビリティ指定",
+      "source_en": "Dragon Ability Designation",
+      "text": "Drachenbegabung vorgeben"
+    },
+    {
+      "key": "entry_board_dra_skill_msg_002",
+      "read_index": "122",
+      "source_jp": "ドラゴンアビリティ情報",
+      "source_en": "Dragon Ability Information",
+      "text": "Drachenbegabungen"
+    },
+    {
+      "key": "entry_board_dra_skill_msg_003",
+      "read_index": "123",
+      "source_jp": "ボーナスドラゴンアビリティ",
+      "source_en": "Bonus Dragon Ability",
+      "text": "Zusätzliche Drachenbegabung"
+    }
+  ]
+}

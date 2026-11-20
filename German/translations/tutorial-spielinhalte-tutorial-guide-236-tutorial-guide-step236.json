@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step236.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_236.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_375",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>各エリアマスターの元を訪れると\r\n１週間に１度《支援品》を受け取ることができます</COL>\r\n有用なアイテムを無料で入手できるため\r\n忘れず受け取るようにしましょう\r\nまた、白竜神殿内であれば《ゲームメニュー》の\r\nエリアリストから各エリアの支援品を\r\n直接受け取ることができます",
+      "source_en": "<COL ffdc78>When you visit each Area Master, you can receive\r\n[support goods] once a week.</COL>\r\nMake sure to receive them without forgetting, as\r\nyou can obtain useful items for free.\r\nAlso, if you are in the White Dragon Temple, you\r\ncan directly receive the support goods of each\r\narea from the Area List in the Game Menu.",
+      "text": "<COL ffdc78>Bei jedem Gebietsmeister kannst du\nwöchentlich einmal Vorräte abholen.</COL>\nSie enthalten nützliche Gegenstände\nund kosten dich nichts.\nIm Tempel kannst du sie auch über\ndie „Gebietsliste“ im Spielmenü abholen."
+    },
+    {
+      "key": "TUTORIAL_STEP_376",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>また、《支援品》はその週に溜めた\r\nエリアポイントにより、翌週の支援品内容が\r\n良くなったり貰える個数が増加します</COL>\r\nさらにエリアランクが上がることで\r\n支援アイテムはよりグレードアップします\r\nエリア名声度を上げ、週毎のポイントを\r\n溜めて良いアイテム入手を目指しましょう",
+      "source_en": "<COL ffdc78>Also, the \"support goods\" will improve in\r\nquality or the number of items received will\r\nincrease based on the accumulated area\r\npoints for that week. </COL>\r\nFurthermore, as the area rank increases, the\r\nsupport items will be upgraded.\r\nIncrease the area reputation and\r\naccumulate points each week to aim for\r\nbetter item acquisition.",
+      "text": "<COL ffdc78>Die Gebietspunkte dieser Woche bestimmen,\nwelche und wie viele Vorräte du in der\nfolgenden Woche bekommst.</COL>\nMit höherem Gebietsrang werden auch\ndie Vorräte wertvoller. Sammle also\nGebietspunkte und steig im Rang auf."
+    }
+  ]
+}

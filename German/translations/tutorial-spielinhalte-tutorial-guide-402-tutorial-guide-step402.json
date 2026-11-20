@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step402.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_402.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_747",
+      "read_index": "0",
+      "source_jp": "黒呪の迷宮で手に入れたアイテムは\r\nリュカに話しかけ、<COL ffdc78>＜黒呪アイテムの持ち帰り＞</COL>から\r\n選択することでレスタニアに持ち帰ることができます\r\nその際、<COL ffdc78>《金竜の印》や《黄金石》を消費します</COL>\r\n　※持ち帰ることにしたアイテムは\r\n　　黒呪の迷宮では使用できなくなります\r\n黒呪の迷宮を探索して、様々なアイテムを\r\nレスタニアに持ち帰りましょう！",
+      "source_en": "Items found inside the Bitterblack Maze can be\r\nbrought back to Lestania by talking to Luca and\r\nselecting \"Bitterblack Item Takeaway\".\r\n<COL ffdc78>This will consume either \"Gold Dragon Marks\"\r\nor \"Gold Gemstones\".</COL>\r\n※Items brought back from Bitterblack Maze will\r\nnot be able to be used inside.\r\nExplore Bitterblack Maze and bring\r\nback all kinds of items!",
+      "text": "Sprich mit Luca und wähle unter\n<COL ffdc78>„Beute mitnehmen“</COL> die Gegenstände aus,\ndie du nach Lestania bringen willst.\n<COL ffdc78>Das kostet Golddrachenmarken\noder Goldsteine.</COL>\nMitgenommene Gegenstände kannst du\nim Labyrinth nicht mehr verwenden.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

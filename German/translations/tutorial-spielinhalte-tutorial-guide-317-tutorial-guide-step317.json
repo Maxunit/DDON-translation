@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step317.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_317.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_498",
+      "read_index": "0",
+      "source_jp": "<COL 78f5ff>《クラン》に成長要素が追加されました</COL>\r\n<COL ffdc78>《クランレベル》</COL>を一定以上に上げることで\r\n<COL ffdc78>《クラン拠点》</COL>を利用できるようになります\r\n＜クランレベルの上げ方＞\r\nクランレベルは\r\n<COL ffdc78>《クランクエスト》をクリアし得られる\r\n《クランポイント》をためることで\r\n上げることができます<COL ffdc78>",
+      "source_en": "<COL 78f5ff>Growth elements have been added to the Clan</COL>.\r\nBy raising the <COL ffdc78>Clan Level</COL> to a certain level,\r\nyou will be able to utilize the\r\n<COL ffdc78>Clan Hall</COL>.\r\nHow to Raise Clan Level\r\n<COL ffdc78>The Clan Level can be increased by accumulating\r\nClan Points obtained by clearing Clan Quests</COL>.",
+      "text": "<COL 78f5ff>Dein Clan kann jetzt aufsteigen!</COL>\nAb einer bestimmten <COL ffdc78>Clan-Stufe</COL>\nkannst du den <COL ffdc78>Clan-Stützpunkt</COL> nutzen.\n<COL ffdc78>Schließe Clan-Quests ab und sammle\nClan-Punkte, um die Stufe deines Clans\nzu erhöhen.</COL>"
+    },
+    {
+      "key": "TUTORIAL_STEP_499",
+      "read_index": "1",
+      "source_jp": "<COL ffdc78>《クランクエスト》</COL>について\r\nクランポイントの獲得には制限があります\r\n様々なクエストをクリアしてクランポイントを\r\n獲得しましょう",
+      "source_en": "<COL ffdc78>About [Clan Quest]</COL>\r\nThere is a limit to how many Clan\r\nPoints you can earn.\r\nComplete various quests to earn Clan Points!",
+      "text": "Mit <COL ffdc78>Clan-Quests</COL> sammelst du Clan-Punkte.\nEs gibt eine Obergrenze dafür, wie\nviele Punkte du sammeln kannst.\nErledige verschiedene Clan-Quests."
+    },
+    {
+      "key": "TUTORIAL_STEP_500",
+      "read_index": "2",
+      "source_jp": "<COL ffdc78>《クランポイント》</COL>について\r\nクランポイントを集めていくことで\r\nクランレベルをあげることができます\r\nまた、クラン拠点解放後はクラン拠点内で\r\n<COL ffdc78>《クラン執務官》</COL>に相談することで\r\nクラン拠点の施設やコンテンツを\r\n利用することができるようになります",
+      "source_en": "<COL ffdc78>Clan Points</COL>\r\nBy collecting Clan Points, you can\r\nincrease the Clan Level.\r\nFurthermore, after the Clan Hall is unlocked,\r\nyou can consult with the <COL ffdc78>Clan Officer</COL> to access\r\nthe facilities and content within the Clan Hall.",
+      "text": "<COL ffdc78>Clan-Punkte</COL> erhöhen die Stufe deines Clans.\nSobald euer Stützpunkt offen ist,\nkannst du dort mit dem <COL ffdc78>Clan-Verwalter</COL>\nsprechen. Bei ihm erhältst du Zugang\nzu den Einrichtungen und Aktivitäten\ndes Clan-Stützpunkts."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step249.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_249.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_395",
+      "read_index": "0",
+      "source_jp": "他のプレイヤーから《パーティー要請》を\r\n受けた場合は【<KC UI_GAME_MENU>】で\r\n受諾するかどうか返答できます\r\nパーティー画面で要請相手を確認し、\r\n問題なければ《パーティーに参加する》を\r\n選びましょう\r\nなお、一定時間内に返答が無かった場合\r\n要請は取り消されます",
+      "source_en": "If you receive a \"Party Request\" from another\r\nplayer, you can respond whether to accept it\r\nor not by using the <KC UI_GAME_MENU>.\r\nCheck the requesting party member on the party\r\nscreen, and if there are no issues,\r\nchoose \"Join Party\".\r\nNote that if there is no response within a\r\ncertain period of time, the\r\nrequest will be canceled.",
+      "text": "Wenn ein Spieler dich einlädt, öffne\nmit [<KC UI_GAME_MENU>] das Spielmenü.\nPrüfe in der Gruppenverwaltung,\nvon wem die Einladung kommt.\nWähle „Gruppe beitreten“, wenn du\nmitmachen möchtest.\nAntwortest du eine Weile nicht,\nverfällt die Einladung."
+    }
+  ]
+}

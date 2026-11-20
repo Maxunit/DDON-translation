@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_mission_order_err_condition_ir",
+      "read_index": "463",
+      "source_jp": "アイテムランクの条件を満たしていません",
+      "source_en": "You do not meet the Item Rank entry condition.",
+      "text": "Dein durchschnittlicher Gegenstandsrang ist zu niedrig."
+    },
+    {
+      "key": "ana_ordeal_conf_reward",
+      "read_index": "586",
+      "source_jp": "報酬を確認する",
+      "source_en": "Check Rewards",
+      "text": "Belohnungen prüfen"
+    },
+    {
+      "key": "ana_ordeal_choice_conf_reward",
+      "read_index": "587",
+      "source_jp": "報酬を確認する試練を選択してください",
+      "source_en": "Please select the trial you wish to check your\r\nrewards for.",
+      "text": "Wähle die Prüfung, deren Belohnungen\ndu sehen möchtest."
+    },
+    {
+      "key": "ana_epitaph_032",
+      "read_index": "591",
+      "source_jp": "大試練解放まで残りの試練<VAL>つ",
+      "source_en": "Remaining trials until the release of the Great\r\nTrials <VAL>",
+      "text": "Noch <VAL> Prüfungen bis zur Großen Prüfung."
+    },
+    {
+      "key": "ana_epitaph_033",
+      "read_index": "592",
+      "source_jp": "第<VAL>区画の大試練が解放された――",
+      "source_en": "The Trial of Section <VAL> has been unlocked—",
+      "text": "Die Große Prüfung in Abschnitt <VAL> ist frei."
+    },
+    {
+      "key": "ana_dark_dungeon_001",
+      "read_index": "596",
+      "source_jp": "暗黒の竜晶を破壊した",
+      "source_en": "Destroyed the Dragon Crystal of Darkness",
+      "text": "Der dunkle Drachenkristall ist zerstört."
+    },
+    {
+      "key": "ana_dark_dungeon_002",
+      "read_index": "597",
+      "source_jp": "暗黒の竜晶が力を失い、消滅した",
+      "source_en": "The Dragon Crystal of Darkness has lost its power\r\nand disappeared",
+      "text": "Der dunkle Drachenkristall hat seine\nKraft verloren und ist verschwunden."
+    },
+    {
+      "key": "ana_dark_dungeon_003",
+      "read_index": "598",
+      "source_jp": "祝福の結晶が無事に転移した",
+      "source_en": "The Crystal of Blessing has been successfully\r\nteleported.",
+      "text": "Der Segenskristall wurde in Sicherheit gebracht."
+    },
+    {
+      "key": "ana_dark_dungeon_004",
+      "read_index": "599",
+      "source_jp": "祝福の結晶が破壊された",
+      "source_en": "The Crystal of Blessing has been destroyed.",
+      "text": "Der Segenskristall ist zerstört."
+    },
+    {
+      "key": "ana_dark_dungeon_005",
+      "read_index": "600",
+      "source_jp": "強い闇を放つ暗黒の竜晶を破壊した",
+      "source_en": "Destroyed the Dragon Crystal of Darkness that\r\nemits powerful darkness.",
+      "text": "Der Drachenkristall, von dem starke\nFinsternis ausging, ist zerstört."
+    },
+    {
+      "key": "ana_dark_dungeon_010",
+      "read_index": "605",
+      "source_jp": "封印された宝箱が開けるようになった",
+      "source_en": "Sealed treasure chest can now be opened.",
+      "text": "Die versiegelte Truhe lässt sich jetzt öffnen."
+    },
+    {
+      "key": "ana_dark_dungeon_011",
+      "read_index": "606",
+      "source_jp": "暗黒の大竜晶が姿を現した",
+      "source_en": "The Great Dragon Crystal of Darkness has revealed\r\nitself",
+      "text": "Der große dunkle Drachenkristall ist erschienen."
+    },
+    {
+      "key": "ana_dark_dungeon_012",
+      "read_index": "607",
+      "source_jp": "暗黒の大竜晶を破壊した",
+      "source_en": "Destroyed the Great Dragon Crystal of Darkness",
+      "text": "Der große dunkle Drachenkristall ist zerstört."
+    },
+    {
+      "key": "ana_dark_dungeon_013",
+      "read_index": "608",
+      "source_jp": "ゲートが開いた",
+      "source_en": "The Gate has opened",
+      "text": "Das Tor ist offen."
+    },
+    {
+      "key": "ana_dark_dungeon_015",
+      "read_index": "611",
+      "source_jp": "祝福の結晶が安全に立ち去った",
+      "source_en": "Crystal of Blessing's safely departed.",
+      "text": "Der Segenskristall ist in Sicherheit."
+    },
+    {
+      "key": "ana_dark_dungeon_016",
+      "read_index": "612",
+      "source_jp": "祝福の結晶が闇に侵食され破壊された",
+      "source_en": "The Crystal of Blessing has been destroyed by the\r\nDark Corruption.",
+      "text": "Die Finsternis hat den Segenskristall zerstört."
+    },
+    {
+      "key": "ana_dark_dungeon_017",
+      "read_index": "613",
+      "source_jp": "闇の渦から強力な力を感じる",
+      "source_en": "You sense a powerful force coming from the Vortex\r\nof Darkness.",
+      "text": "Vom Wirbel der Vernichtung geht\nstarke Macht aus."
+    },
+    {
+      "key": "ana_dark_dungeon_018",
+      "read_index": "614",
+      "source_jp": "さらなる異変が発生した",
+      "source_en": "Further mutations have occurred",
+      "text": "Weitere Anomalien sind aufgetreten."
+    }
+  ]
+}

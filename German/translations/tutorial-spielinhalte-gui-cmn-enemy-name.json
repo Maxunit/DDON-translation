@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\enemy\\enemy_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ENEMY_NAME_248",
+      "read_index": "238",
+      "source_jp": "イービルアイ",
+      "source_en": "Evil Eye",
+      "text": "Böses Auge"
+    },
+    {
+      "key": "ENEMY_NAME_274",
+      "read_index": "257",
+      "source_jp": "黒騎士",
+      "source_en": "Black Knight",
+      "text": "Schwarzer Ritter"
+    },
+    {
+      "key": "ENEMY_NAME_275",
+      "read_index": "258",
+      "source_jp": "淀みし大竜力",
+      "source_en": "Phantasmic Great Dragon",
+      "text": "Angestaute Drachenkraft"
+    },
+    {
+      "key": "ENEMY_NAME_410",
+      "read_index": "378",
+      "source_jp": "黒竜",
+      "source_en": "Black Dragon",
+      "text": "Schwarzer Drache"
+    },
+    {
+      "key": "ENEMY_NAME_418",
+      "read_index": "385",
+      "source_jp": "暗黒の竜晶",
+      "source_en": "Dragon Crystal of Darkness",
+      "text": "Dunkler Drachenkristall"
+    },
+    {
+      "key": "ENEMY_NAME_419",
+      "read_index": "386",
+      "source_jp": "祝福の結晶",
+      "source_en": "Crystal of Blessing",
+      "text": "Segenskristall"
+    }
+  ]
+}

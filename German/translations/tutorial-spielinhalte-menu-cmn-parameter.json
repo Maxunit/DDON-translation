@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\ui\\parameter.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "item_strength",
+      "read_index": "25",
+      "source_jp": "吹き飛ばし力",
+      "source_en": "Knockdown Power",
+      "text": "Wucht"
+    },
+    {
+      "key": "item_chance",
+      "read_index": "27",
+      "source_jp": "チャンス攻力",
+      "source_en": "Chance Attack",
+      "text": "Chancenkraft"
+    },
+    {
+      "key": "material_large_cateforyname_crest",
+      "read_index": "132",
+      "source_jp": "クレスト",
+      "source_en": "Crest",
+      "text": "Siegel"
+    },
+    {
+      "key": "material_large_cateforyname_special",
+      "read_index": "133",
+      "source_jp": "精錬材",
+      "source_en": "Refining Material",
+      "text": "Veredelungsmaterial"
+    },
+    {
+      "key": "material_cateforyname_dyes",
+      "read_index": "136",
+      "source_jp": "染料",
+      "source_en": "Dye",
+      "text": "Farbstoff"
+    },
+    {
+      "key": "pawn_craft_point",
+      "read_index": "169",
+      "source_jp": "クラフトポイント",
+      "source_en": "Craft Point",
+      "text": "Handwerkspunkte"
+    },
+    {
+      "key": "character_tiredness",
+      "read_index": "181",
+      "source_jp": "疲労攻力",
+      "source_en": "Exhaust Attack",
+      "text": "Erschöpfungskraft"
+    },
+    {
+      "key": "character_phisical_attack",
+      "read_index": "183",
+      "source_jp": "筋力",
+      "source_en": "Strength",
+      "text": "Stärke"
+    },
+    {
+      "key": "character_magic_attack",
+      "read_index": "184",
+      "source_jp": "魔力",
+      "source_en": "Magick",
+      "text": "Magie"
+    },
+    {
+      "key": "material_cateforyname_add_status",
+      "read_index": "224",
+      "source_jp": "特質錬石",
+      "source_en": "Slayer Stone",
+      "text": "Eigenschaftsstein"
+    },
+    {
+      "key": "material_cateforyname_draskill",
+      "read_index": "227",
+      "source_jp": "ドラゴンアビリティ",
+      "source_en": "Dragon Ability",
+      "text": "Drachenbegabung"
+    }
+  ]
+}

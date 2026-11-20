@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step212.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_212.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_341",
+      "read_index": "0",
+      "source_jp": "ソーサラーは魔法陣を描く《スペリング》\r\nを行うことで術の威力を高めることができます\r\nスペリングを駆使し、より優れた術者になりましょう\r\n　スペリングに対応する魔法詠唱中【<KC CHANGE_MODE>】で\r\n　スペリング入力切替、<PADM>【右スティック】<KEYM>　【<ICON MOUSE>移動】</KEYM>\r\n　でスペリングコマンド入力",
+      "source_en": "Sorcerers can enhance the power of their spells\r\nby drawing magick circles called \"Chanting.\"\r\nMaster the use of Chanting and become a more\r\nskilled practitioner.\r\nWhile chanting a spell that allows for it, use\r\nthe <KC CHANGE_MODE> to switch to Chanting input, and\r\nuse the <PADM> right stick <KEYM><ICON MOUSE>\r\nto move.</KEYM>",
+      "text": "Mit „Zauberzeichen“ zeichnest du einen\nMagiekreis und verstärkst so den Zauber.\nWechsle beim Wirken eines geeigneten\nZaubers mit [<KC CHANGE_MODE>] zur Eingabe.\n<PADM>Zeichne mit dem rechten Stick.<KEYM>Zeichne mit [<ICON MOUSE>] durch Bewegen\nder Maus.</KEYM>"
+    }
+  ]
+}

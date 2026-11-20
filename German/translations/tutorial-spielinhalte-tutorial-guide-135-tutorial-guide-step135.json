@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step135.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_135.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_121",
+      "read_index": "0",
+      "source_jp": "クラフトルームでは《アイテム生産》のほかに\r\n<COL ffdc78>《装備の強化》や《クレスト装着》、《カラー変更》</COL>\r\nといった装備品のカスタマイズが可能です\r\n必要アイテムを集め、作業費を支払うことで\r\n基本性能アップやおしゃれができるため\r\n好みの装備に改良しましょう",
+      "source_en": "In the Workshop, besides <COL ffdc78>Craft Item</COL>, you can\r\ncustomize equipment through <COL ffdc78>Enhance Equipment,\r\nMount Crest, and Change Color.</COL>\r\nBy gathering required items and paying fees, you\r\ncan improve basic performance or modify\r\nappearance - perfect your favorite equipment\r\nthrough these upgrades.",
+      "text": "In der Werkstatt kannst du deine\nAusrüstung auch <COL ffdc78>verstärken, mit Siegeln\nversehen oder färben</COL>.\nGegen Material und Gold verbesserst du\nihre Werte oder änderst ihr Aussehen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_120",
+      "read_index": "1",
+      "source_jp": "＜装備の強化＞\r\n　　素材アイテムを装備品に合成し\r\n　　鍛えることで、グレード（★）を上げます\r\n　　基本性能が大幅アップします\r\n＜クレスト装着＞\r\n　　特殊素材アイテム《クレスト》を装着\r\n　　することで、性能、属性や追加効果など\r\n　　さまざまな能力を付与できます\r\n　　装着済みのクレストは破壊により外せます",
+      "source_en": "<COL ffdc78>Enhance Equipment</COL>\r\nCombine material items with equipment to\r\nincrease its Grade (★) through forging.\r\nSignificantly boosts base performance.\r\n<COL ffdc78>Mount Crest</COL>\r\nAttach special material items, <COL ffdc78>Crests,</COL>\r\nto grant various abilities like improved stats,\r\nattributes, or bonus effects.\r\nEquipped Crests can be\r\nremoved by destroying them.",
+      "text": "„Ausrüstung verstärken“ erhöht mit\nMaterial die Sternstufe und Werte.\n„Siegel einsetzen“ fügt Werte, Elemente\noder andere Effekte hinzu.\nEingesetzte Siegel lassen sich nur\nentfernen, indem du sie zerstörst.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "TUTORIAL_STEP_251",
+      "read_index": "2",
+      "source_jp": "＜カラー変更＞\r\n　　特殊素材アイテム《染料》を使うことで\r\n　　グレード（★１以上）の装備を染色できます\r\n　　染料に対応したカラーにのみ変更可能です\r\n<COL ffdc78>※各要素で対応する装備品カテゴリーが異なります</COL>\r\n<COL ffdc78>※一部の装備品は要素に対応しないものがあります</COL>",
+      "source_en": "<COL ffdc78>Change Color</COL>\r\nUse special material items, <COL ffdc78>Dyes,</COL> to recolor\r\nequipment (Grade ★1 or higher).\r\nCan only change to colors matching the\r\ncurrently available dyes.\r\n<COL ffdc78>※Supported equipment may vary.</COL>\r\n<COL ffdc78>※Some equipment may not support certain colors.</COL>",
+      "text": "Mit „Farbe ändern“ kannst du Ausrüstung\n<COL ffdc78>ab einem Stern</COL> einfärben. Du brauchst\nden Farbstoff für die gewünschte Farbe.\nWelche Farben möglich sind, hängt\nvom Ausrüstungstyp ab.\n<COL ffdc78>Manche Stücke lassen sich nicht färben.</COL>",
+      "tag_source": "source_jp"
+    }
+  ]
+}

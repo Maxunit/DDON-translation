@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Einstieg, Tutorial-Menü, Questregeln, Abenteuergrundlagen, Vasallen, Menüfunktionen und Handwerksgrundlagen, Die Erweckten, Klassen und Rollen, Stützpunkte und Dienste, Finstergram-Labyrinth, Drachenkristall und Drachenbegabungen, Szenarien und Nebengeschichten, Spielinhalte",
+  "gmd_path": "ui\\00_message\\tutorial_guide\\steps\\tutorial_guide_step93.gmd",
+  "arc_path": "\\tguide\\tutorial_guide_93.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_STEP_105",
+      "read_index": "0",
+      "source_jp": "<COL ffdc78>《バザー》</COL>は、プレイヤー同士でアイテムの\r\n取引を行う場です\r\n他の覚者が出品したアイテムを購入したり\r\n不要なアイテムを出品することができます",
+      "source_en": "The <COL ffdc78>Bazaar</COL> is a place for players to trade\r\nitems with each other.\r\nYou can buy items that other Arisen have\r\nlistings for sale, or sell any unwanted items.",
+      "text": "Auf dem <COL ffdc78>Basar</COL> handelst du mit anderen\nSpielern. Kaufe Waren, die andere\nErweckte anbieten, oder stell eigene\nGegenstände zum Verkauf ein."
+    },
+    {
+      "key": "TUTORIAL_STEP_104",
+      "read_index": "1",
+      "source_jp": "バザーの出品情報はこまめに\r\nチェックするのがおすすめです\r\n思わぬ掘り出しものやレアアイテムが\r\n入手できるかも知れません\r\nなおバザーで扱えるアイテム個数、種類、\r\n値段には制限があります",
+      "source_en": "It is recommended to check the\r\nBazaar listing frequently.\r\nYou may be able to find unexpected\r\ntreasures or rare items.\r\nPlease note that there are limits on the number,\r\nvariety, and price of items that can be\r\nhandled in the Bazaar.",
+      "text": "Schau regelmäßig auf dem Basar vorbei.\nVielleicht findest du seltene Waren\noder ein Schnäppchen.\nFür Menge, Art und Preis der Waren,\ndie du anbieten kannst, gelten Grenzen."
+    },
+    {
+      "key": "TUTORIAL_STEP_400",
+      "read_index": "2",
+      "source_jp": "さらに特定の<OPCS>の発動中は\r\n<COL ffdc78>バザーの出品可能枠が大幅に増加し、\r\nよりバザーの利用が便利になります</COL>",
+      "source_en": "Furthermore, while the certain <OPCS>\r\nare active, <COL ffdc78>the Bazaar's available exhibition\r\nslots will significantly increase, making the\r\nuse of the Bazaar more convenient.</COL>",
+      "text": "Ist <OPCS> aktiv,\n<COL ffdc78>stehen dir deutlich mehr Plätze für\ndeine Angebote auf dem Basar zur Verfügung.</COL>"
+    }
+  ]
+}
