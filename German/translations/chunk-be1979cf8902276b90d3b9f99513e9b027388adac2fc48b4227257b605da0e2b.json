@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>を発動しました\r\n本日のポーン遠征隊の派遣に反映されます",
       "source_en": "Activated <VAL>\r\nIt will be visible in the dispatch of today's\r\nPawn Expedition Corps.",
-      "text": "Aktiviert <VAL>\r\nEs wird im Versand des heutigen\r\nVasall Expedition Corps sichtbar sein."
+      "text": "Aktiviert: <VAL>\r\nDer Bonus gilt für die heutige\r\nVasallenexpedition."
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_BOUGHT_CONCIERGE_NOTICE",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊を解放しました",
       "source_en": "Purchased Pawn Expedition Corps",
-      "text": "Vasall Expedition Corps gekauft"
+      "text": "Vasallenexpeditionen freigeschaltet"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_BUFF_EFFECT",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊支援",
       "source_en": "Pawn Expedition Corps Support",
-      "text": "Vasall Expedition Corps Unterstützung"
+      "text": "Unterstützung für Vasallenexpeditionen"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_CATEGORY_EXT",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊拡張",
       "source_en": "Pawn Expedition Extension",
-      "text": "Vasall Expedition Erweiterung"
+      "text": "Ausbau der Vasallenexpeditionen"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_CONCIERGE",

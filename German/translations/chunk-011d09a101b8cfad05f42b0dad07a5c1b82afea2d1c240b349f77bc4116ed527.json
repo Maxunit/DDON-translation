@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "そのエリアに遠征する権利を購入していません",
       "source_en": "You haven't bought the right to explore that Area.",
-      "text": "Du hast nicht das Recht gekauft, dieses Gebiet zu erkunden."
+      "text": "Du hast die Expedition für dieses Gebiet noch nicht freigeschaltet."
     },
     {
       "key": "area_list_header2",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "遠征数",
       "source_en": "Dispatch Num",
-      "text": "Versandnummer"
+      "text": "Anzahl der Expeditionen"
     },
     {
       "key": "area_list_title_sub",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン：%s\r\n遠征先：%s\r\n状況　：%s",
       "source_en": "Pawn: %s\r\nDestination: %s\r\nSituation: %s",
-      "text": "Vasall: %s\r\nZiel: %s\r\nLage: %s"
+      "text": "Vasall: %s\r\nExpeditionsziel: %s\r\nStatus: %s"
     },
     {
       "key": "sally_error_already_supported",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "すでに強化派遣しています",
       "source_en": "We have already dispatched a reinforcement.",
-      "text": "Wir haben bereits eine Verstärkung verschickt."
+      "text": "Die laufende Expedition ist bereits verstärkt."
     },
     {
       "key": "sally_error_cannot_support",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "強化派遣はホットスポットでのみ使用可能です",
       "source_en": "Reinforcement dispatch is only available at\r\nhotspots.",
-      "text": "Verstärkungsversand ist nur verfügbar unter\r\nHotspots."
+      "text": "Verstärkte Expeditionen sind nur für\r\nHotspots verfügbar."
     },
     {
       "key": "sally_leave_party_confirm",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊に派遣するため\r\nパーティーを離脱しますがよろしいですか？\r\n<COL AA1414>※パーティーからメインポーンがいなくなると\r\n　サポートポーンも自動的に離脱します</COL>",
       "source_en": "I will depart from the party in order to dispatch\r\nthe Pawn Expedition Corps.\r\nIs that acceptable?\r\n<COL AA1414>*If the main pawn is no longer in the\r\nparty,\r\nsupport pawns will automatically withdraw as\r\nwell.</COL>",
-      "text": "Ich werde von der Partei gehen, um zu senden\r\nDas Vasall Expedition Corps.\r\nIst das akzeptabel?\r\n<COL AA1414>*Wenn der Hauptvasall nicht mehr im\r\nPartei,\r\nHilfsvasallen ziehen sich automatisch zurück, da\r\ngut.</COL>"
+      "text": "Dein Partnervasall verlässt die Gruppe,\r\num auf Expedition zu gehen.\r\nFortfahren?\r\n<COL AA1414>Verlässt der Hauptvasall die Gruppe,\r\nverlassen auch die Hilfsvasallen\r\nautomatisch\r\ndie Gruppe.</COL>"
     },
     {
       "key": "sally_need_partner_notice",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊を派遣するには\r\nパートナーポーンが必要です",
       "source_en": "To dispatch a Pawn Expedition Corps,\r\na Partner Pawn is required.",
-      "text": "Um ein Vasall Expedition Corps zu entsenden,\r\na Partnervasall erforderlich ist."
+      "text": "Für eine Vasallenexpedition\r\nbrauchst du einen Partnervasallen."
     },
     {
       "key": "sally_normal",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "通常派遣",
       "source_en": "Normal dispatch",
-      "text": "Normaler Versand"
+      "text": "Normale Expedition"
     },
     {
       "key": "sally_normal_confirm",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊を通常派遣します\r\nよろしいですか？",
       "source_en": "Are you sure you want to dispatch\r\nthe Pawn Expedition Corps normally?",
-      "text": "Bist du sicher, dass du versendest möchten\r\nDas Vasall Expedition Corps normalerweise?"
+      "text": "Möchtest du eine normale\r\nVasallenexpedition starten?"
     },
     {
       "key": "sally_normal_notice",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊を通常派遣しました",
       "source_en": "Pawn Expedition Corps dispatched normally.",
-      "text": "Vasall Expedition Corps normal entsandt."
+      "text": "Die normale Vasallenexpedition hat begonnen."
     },
     {
       "key": "sally_not_enough_cost_select",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "現在、ポーン遠征隊を派遣することができません\r\n再度、ポーン遠征隊を派遣するには\r\n次回のリセット時間までお待ちいただくか\r\n<COL ffdc78>黄金石<VAL>個</COL>を使用することで直ちに派遣できます\r\n(リセット時間はプレイマニュアルをご覧ください)",
       "source_en": "You are currently unable to dispatch a pawn\r\nexpedition\r\nTo dispatch a pawn expedition again, wait until\r\nthe next reset time or you can dispatch it\r\nimmediately by using\r\n<COL ffdc78><VAL> Golden Gemstones</COL>\r\n(please see the play manual for reset times)",
-      "text": "Du kannst derzeit keinen Vasall versenden\r\nExpedition\r\nUm eine Bauernexpedition erneut zu versenden, warte bis\r\ndie nächste Reset-Zeit oder du kannst es versenden\r\nsofort durch Verwendung\r\n<COL ffdc78><VAL> Goldsteine</COL>\r\n(Bitte lies das Spielhandbuch für Reset-Zeiten)"
+      "text": "Eine Vasallenexpedition ist gerade\r\nnicht möglich.\r\nWarte auf die nächste Zurücksetzung.\r\nFür eine sofortige Expedition\r\nkannst du stattdessen\r\n<COL ffdc78><VAL> Goldsteine</COL> einsetzen.\r\n(Die Zeiten stehen im Spielhandbuch.)"
     },
     {
       "key": "sally_nothing",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "オンラインショップを開く",
       "source_en": "Open online shop",
-      "text": "Offener Online-Shop"
+      "text": "Online-Shop öffnen"
     },
     {
       "key": "sally_recover_cost_confirm",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "<COL ffdc78>黄金石<VAL>個</COL>を消費して\r\n直ちに派遣できるようにしますか？\r\n（所持数：<VAL>）",
       "source_en": "<COL ffdc78>Would you like to\r\nconsume <VAL></COL> Golden Gemstones to be able to\r\ndispatch immediately?\r\n(Number in possession: <VAL>)",
-      "text": "<COL ffdc78>Möchtest du gerne\r\nKonsum <VAL></COL> Goldsteine, um es zu können\r\nSofort versenden?\r\n(Anzahl im Besitz:) <VAL>)"
+      "text": "<COL ffdc78>Möchtest du\r\n<VAL></COL> Goldsteine einsetzen,\r\num sofort eine Expedition zu starten?\r\n(Im Besitz: <VAL>)"
     },
     {
       "key": "sally_recover_cost_notice",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "直ちに派遣できるようになりました",
       "source_en": "Ready for immediate dispatch.",
-      "text": "Bereit für den sofortigen Versand."
+      "text": "Du kannst sofort eine Expedition starten."
     },
     {
       "key": "sally_state_check_reward_notice",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊が帰還しています\r\n<COL ffdc78>パートナーポーンから報酬を確認してください</COL>",
       "source_en": "The Pawn Expedition Corps has returned.\r\n<COL ffdc78>Please check the rewards from your\r\nPartner Pawn.</COL>",
-      "text": "Das Vasall Expedition Corps ist zurück.\r\n<COL ffdc78>Bitte überprüfe die Belohnungen von deinem\r\nPartnervasall.</COL>"
+      "text": "Dein Partnervasall ist zurück.\r\n<COL ffdc78>Sprich mit ihm, um deine\r\nBelohnungen abzuholen.</COL>"
     },
     {
       "key": "sally_state_not_enough_cost_notice",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊が解放されていません\r\nポーン遠征隊は拠点拡張から購入できます",
       "source_en": "The Pawn Expedition Corps has not been unlocked.\r\nPawn Expeditions can be purchased from Hall\r\nExpansion.",
-      "text": "Die Vasallenexpedition ist noch nicht frei.\r\nSie lässt sich unter „Clan-Stützpunkt\r\nausbauen“ freischalten."
+      "text": "Vasallenexpeditionen sind noch nicht freigeschaltet.\r\nDu kannst sie beim Ausbau des\r\nClan-Stützpunkts freischalten."
     },
     {
       "key": "sally_state_wait_notice",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊を派遣していません\r\nパートナーポーンから派遣がおこなえます",
       "source_en": "We have not dispatched the Pawn Expedition Corps.\r\nYou can dispatch from Partner Pawns.",
-      "text": "Wir haben das Vasall Expedition Corps nicht entsandt.\r\nDu kannst von Partner Vasallen versenden."
+      "text": "Es läuft keine Vasallenexpedition.\r\nSprich mit deinem Partnervasallen, um eine zu starten."
     },
     {
       "key": "sally_stop",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "派遣を中止",
       "source_en": "Stop dispatch",
-      "text": "Stoppen des Versands"
+      "text": "Expedition abbrechen"
     },
     {
       "key": "sally_stop_confirm",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊の派遣を中止しますか？\r\n再度、ポーン遠征隊を派遣するには\r\n次回のリセット時間までお待ちいただくか\r\n黄金石を使用することで直ちに派遣できます\r\n(リセット時間はプレイマニュアルをご覧ください)",
       "source_en": "Would you like to cancel the dispatch of the Pawn\r\nExpedition Corps?\r\nTo dispatch the Pawn Expedition Corps again,\r\nplease wait until the next reset time or you can\r\nimmediately dispatch it by using Golden Gemstones.\r\n(Please see the play manual for reset times)",
-      "text": "Möchtest du den Versand des Vasall\r\nExpedition Corps stornieren?\r\nUm das Vasall Expedition Corps erneut zu versenden,\r\nBitte warte bis zum nächsten Reset-Zeitpunkt oder du kannst\r\n sofort mit Goldsteinen versenden.\r\n(Bitte sieh sich die Spielanleitung für Reset-Zeiten an)"
+      "text": "Möchtest du die laufende\r\nVasallenexpedition abbrechen?\r\nFür eine weitere Expedition\r\nwarte auf die nächste Zurücksetzung\r\noder setze Goldsteine ein.\r\n(Die Zeiten stehen im Spielhandbuch.)"
     },
     {
       "key": "sally_stop_notice",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊の派遣を中止しました\r\n次回、クラン拠点へ訪れた時に帰還します",
       "source_en": "We have canceled the dispatch of the Pawn\r\nExpedition Corps.\r\nThey will return when we next visit the Clan Hall.",
-      "text": "Wir haben den Versand des Vasall\r\nExpedition Corps abgesagt.\r\nDu wirst zurückkehren, wenn wir das nächste Mal die Clan Hall besuchen."
+      "text": "Die Vasallenexpedition wurde\r\nabgebrochen.\r\nDein Partnervasall kehrt beim nächsten Besuch im Clan-Stützpunkt zurück."
     },
     {
       "key": "sally_use_gp",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石を使用する",
       "source_en": "Use Golden Gemstone",
-      "text": "Verwende Goldstein"
+      "text": "Goldsteine einsetzen"
     },
     {
       "key": "sally_with_support",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石を使用して強化派遣",
       "source_en": "Enhanced dispatch using Golden Gemstone",
-      "text": "Verbesserter Versand mit Goldstein"
+      "text": "Verstärkte Expedition mit Goldsteinen"
     },
     {
       "key": "sally_with_support_confirm",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "<COL ffdc78>強化派遣</COL>すると<COL ffdc78>希少なアイテム</COL>が確実に入手できます\r\n<COL ffdc78>黄金石<VAL>個</COL>を消費して強化派遣しますか？\r\n（所持数：<VAL>）",
       "source_en": "<COL ffdc78>Reinforcement Dispatch</COL> will\r\nensure that <COL ffdc78>rare item</COL> is\r\navailable.\r\n<COL ffdc78>do you want to spend <VAL> Golden\r\nGemstones</COL> for reinforcement dispatch?\r\n(Number in your possession: <VAL>)",
-      "text": "<COL ffdc78>Verstärkter Versand</COL> wird\r\nsicherstellen, dass <COL ffdc78>seltene Gegenstände</COL> ist\r\nverfügbar.\r\n<COL ffdc78>Möchtest du ausgeben <VAL> Gold\r\nEdelsteine</COL> für Verstärkungssendungen?\r\n(Anzahl in deinem Besitz): <VAL>)"
+      "text": "Eine <COL ffdc78>verstärkte Expedition</COL>\r\nbringt garantiert einen <COL ffdc78>seltenen Gegenstand</COL>\r\nmit.\r\n<COL ffdc78>Möchtest du <VAL>\r\nGoldsteine</COL> dafür einsetzen?\r\n(Im Besitz: <VAL>)"
     },
     {
       "key": "sally_with_support_not_enough_gp_select",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石が不足しています\r\n強化派遣するには<COL ffdc78>黄金石<VAL>個</COL>が必要です\r\n（所持数：<VAL>）",
       "source_en": "You do not have enough Golden Gemstones.\r\nTo reinforce, you need <COL ffdc78><VAL> Golden\r\nGemstone(s)</COL>.\r\n(Currently owned: <VAL>)",
-      "text": "Du hast nicht genug Goldsteine.\r\nUm dich zu verstärken, brauchst du <COL ffdc78><VAL> Golden\r\nGemstone(s)</COL>.\r\n(Derzeit im Besitz: <VAL>)"
+      "text": "Du hast nicht genug Goldsteine.\r\nDu brauchst <COL ffdc78><VAL>\r\nGoldsteine</COL> für eine verstärkte Expedition.\r\n(Im Besitz: <VAL>)"
     },
     {
       "key": "sally_with_support_notice",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン遠征隊を<COL ffdc78>強化派遣</COL>しました",
       "source_en": "We <COL ffdc78>dispatched and reinforced </COL>\r\nthe Pawn Expedition Corps.",
-      "text": "Wir <COL ffdc78> haben das Vasall-Expeditionskorps entsandt und verstärkt </COL>\r\n."
+      "text": "Die <COL ffdc78>verstärkte Vasallenexpedition</COL>\r\nhat begonnen."
     }
   ],
   "schema_version": 1,

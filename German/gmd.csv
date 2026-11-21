@@ -252746,15 +252746,15 @@ Buchstaben, Ziffern und diese Zeichen:
 31,CLAN_KYOTEN_MSG_EXT_APPLY,設定中,Aktuell,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,31,
 4,CLAN_KYOTEN_MSG_EXT_BOUGHT,購入済み,Gekauft,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,4,
 15,CLAN_KYOTEN_MSG_EXT_BOUGHT_BUFF_NOTICE,"<VAL>を発動しました
-本日のポーン遠征隊の派遣に反映されます","Aktiviert <VAL>
-Es wird im Versand des heutigen
-Vasall Expedition Corps sichtbar sein.",ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,15,
+本日のポーン遠征隊の派遣に反映されます","Aktiviert: <VAL>
+Der Bonus gilt für die heutige
+Vasallenexpedition.",ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,15,
 33,CLAN_KYOTEN_MSG_EXT_BOUGHT_CONCIERGE_NOTICE,クラン執務官を<VAL>に変更しました,Der Clanoffizier wurde zu <VAL> gewechselt,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,33,
 8,CLAN_KYOTEN_MSG_EXT_BOUGHT_FUNC_NOTICE,"<VAL>を購入しました
 次回、クラン拠点へ訪れた時に反映されます","Gekauft: <VAL>
 Beim nächsten Besuch im Clan-Stützpunkt
 ist die Änderung sichtbar.",ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,8,
-9,CLAN_KYOTEN_MSG_EXT_BOUGHT_PAWN_EXPEDITION,ポーン遠征隊を解放しました,Vasall Expedition Corps gekauft,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,9,
+9,CLAN_KYOTEN_MSG_EXT_BOUGHT_PAWN_EXPEDITION,ポーン遠征隊を解放しました,Vasallenexpeditionen freigeschaltet,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,9,
 12,CLAN_KYOTEN_MSG_EXT_BUFF_EFFECT,支援効果,Unterstützungseffekt,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,12,
 22,CLAN_KYOTEN_MSG_EXT_BUFF_SUB_TITLE,ポーン遠征隊支援,Expeditionen unterstützen,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,22,
 21,CLAN_KYOTEN_MSG_EXT_BUFF_TITLE,Pawn Expedition Support,Expeditionen unterstützen,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,21,
@@ -252773,9 +252773,9 @@ Kosten: <VAL CP>",ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClan
 　購入価格：<VAL CP>","Bist du sicher, dass du folgendes kaufen möchtest?
 Erweiterungsartikel: <VAL>
 Kosten: <VAL CP>",ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,10,
-28,CLAN_KYOTEN_MSG_EXT_CATEGORY_BUFF,ポーン遠征隊支援,Vasall Expedition Corps Unterstützung,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,28,
+28,CLAN_KYOTEN_MSG_EXT_CATEGORY_BUFF,ポーン遠征隊支援,Unterstützung für Vasallenexpeditionen,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,28,
 29,CLAN_KYOTEN_MSG_EXT_CATEGORY_EXT,クラン拠点拡張,Clan Hall Erweiterung,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,29,
-30,CLAN_KYOTEN_MSG_EXT_CATEGORY_PAWN_EXP,ポーン遠征隊拡張,Vasall Expedition Erweiterung,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,30,
+30,CLAN_KYOTEN_MSG_EXT_CATEGORY_PAWN_EXP,ポーン遠征隊拡張,Ausbau der Vasallenexpeditionen,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,30,
 25,CLAN_KYOTEN_MSG_EXT_CONCIERGE,スタッフ,Personal,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,25,
 24,CLAN_KYOTEN_MSG_EXT_CONCIERGE_SUB_TITLE,クラン執務官,Clan-Verwalter,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,24,
 23,CLAN_KYOTEN_MSG_EXT_CONCIERGE_TITLE,Clan Office Officer,Clan-Verwalter,ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClanShop.arc,23,
@@ -252833,7 +252833,7 @@ Kosten: <VAL CP>",ui\00_message\ui\clan_kyoten.gmd,\ui\uGUIClanShop.arc,uGUIClan
 36,CLAN_PROFILE_FEATURE_019,レア素材大好き,Fans von Seltenen Materialien,ui\00_message\ui\clan_profile_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,36,
 37,CLAN_PROFILE_FEATURE_020,オーブエネミーを倒す,Besiege Blood Orb Feinde,ui\00_message\ui\clan_profile_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,37,
 38,CLAN_PROFILE_FEATURE_021,クラン拠点あります,Hat eine Clan Hall,ui\00_message\ui\clan_profile_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,38,
-39,CLAN_PROFILE_FEATURE_022,ポーン遠征隊で遊ぼう,Fans von Vasall Expedition Corps,ui\00_message\ui\clan_profile_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,39,
+39,CLAN_PROFILE_FEATURE_022,ポーン遠征隊で遊ぼう,Fans von Vasallenexpeditionen,ui\00_message\ui\clan_profile_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,39,
 40,CLAN_PROFILE_FEATURE_023,クランダンジョン大好き,Fans von Clan Dungeons,ui\00_message\ui\clan_profile_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,40,
 41,CLAN_PROFILE_FEATURE_024,特徴予備,Nicht verfügbar (nächstes Feature),ui\00_message\ui\clan_profile_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,41,
 14,CLAN_PROFILE_HOUR_001,いつでも,Jederzeit,ui\00_message\ui\clan_profile_item.gmd,\ui\menu_cmn.arc,menu_cmn.arc,14,
@@ -258545,10 +258545,10 @@ der Art des Feindes",ui\00_message\ui\pawn_cultivation.gmd,\ui\uGUIArisenCard.ar
 110,pawn_real_job_no_select,育成するジョブとジョブチェンジしているジョブが同じではないため選択できません。,"Du kannst es nicht auswählen, weil der Job, den du entwickelst
  und der Job, in den du wechselst möchten
 nicht gleich sind.",ui\00_message\ui\pawn_cultivation.gmd,\ui\uGUIArisenCard.arc,uGUIArisenCard.arc,110,,Pawn Training
-5,area_list_err_no_permission,そのエリアに遠征する権利を購入していません,"Du hast nicht das Recht gekauft, dieses Gebiet zu erkunden.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,5,,Pawn Expedition
-5,area_list_err_no_permission,そのエリアに遠征する権利を購入していません,"Du hast nicht das Recht gekauft, dieses Gebiet zu erkunden.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,5,,Pawn Expedition
-5,area_list_err_no_permission,そのエリアに遠征する権利を購入していません,"Du hast nicht das Recht gekauft, dieses Gebiet zu erkunden.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,5,,Pawn Expedition
-5,area_list_err_no_permission,そのエリアに遠征する権利を購入していません,"Du hast nicht das Recht gekauft, dieses Gebiet zu erkunden.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,5,,Pawn Expedition
+5,area_list_err_no_permission,そのエリアに遠征する権利を購入していません,Du hast die Expedition für dieses Gebiet noch nicht freigeschaltet.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,5,,Pawn Expedition
+5,area_list_err_no_permission,そのエリアに遠征する権利を購入していません,Du hast die Expedition für dieses Gebiet noch nicht freigeschaltet.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,5,,Pawn Expedition
+5,area_list_err_no_permission,そのエリアに遠征する権利を購入していません,Du hast die Expedition für dieses Gebiet noch nicht freigeschaltet.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,5,,Pawn Expedition
+5,area_list_err_no_permission,そのエリアに遠征する権利を購入していません,Du hast die Expedition für dieses Gebiet noch nicht freigeschaltet.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,5,,Pawn Expedition
 2,area_list_header0,エリア,Gebiet,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,2,,Pawn Expedition
 2,area_list_header0,エリア,Gebiet,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,2,,Pawn Expedition
 2,area_list_header0,エリア,Gebiet,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,2,,Pawn Expedition
@@ -258557,10 +258557,10 @@ nicht gleich sind.",ui\00_message\ui\pawn_cultivation.gmd,\ui\uGUIArisenCard.arc
 3,area_list_header1,ホットスポット,Fundstelle,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,3,,Pawn Expedition
 3,area_list_header1,ホットスポット,Fundstelle,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,3,,Pawn Expedition
 3,area_list_header1,ホットスポット,Fundstelle,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,3,,Pawn Expedition
-4,area_list_header2,遠征数,Versandnummer,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,4,,Pawn Expedition
-4,area_list_header2,遠征数,Versandnummer,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,4,,Pawn Expedition
-4,area_list_header2,遠征数,Versandnummer,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,4,,Pawn Expedition
-4,area_list_header2,遠征数,Versandnummer,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,4,,Pawn Expedition
+4,area_list_header2,遠征数,Anzahl der Expeditionen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,4,,Pawn Expedition
+4,area_list_header2,遠征数,Anzahl der Expeditionen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,4,,Pawn Expedition
+4,area_list_header2,遠征数,Anzahl der Expeditionen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,4,,Pawn Expedition
+4,area_list_header2,遠征数,Anzahl der Expeditionen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,4,,Pawn Expedition
 0,area_list_title,Dispatch Area,Expeditionsgebiet,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,0,,Pawn Expedition
 0,area_list_title,Dispatch Area,Expeditionsgebiet,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,0,,Pawn Expedition
 0,area_list_title,Dispatch Area,Expeditionsgebiet,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,0,,Pawn Expedition
@@ -258580,35 +258580,35 @@ nicht gleich sind.",ui\00_message\ui\pawn_cultivation.gmd,\ui\uGUIArisenCard.arc
 13,sally_condition,"ポーン：%s
 遠征先：%s
 状況　：%s","Vasall: %s
-Ziel: %s
-Lage: %s",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,13,,Pawn Expedition
+Expeditionsziel: %s
+Status: %s",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,13,,Pawn Expedition
 13,sally_condition,"ポーン：%s
 遠征先：%s
 状況　：%s","Vasall: %s
-Ziel: %s
-Lage: %s",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,13,,Pawn Expedition
+Expeditionsziel: %s
+Status: %s",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,13,,Pawn Expedition
 13,sally_condition,"ポーン：%s
 遠征先：%s
 状況　：%s","Vasall: %s
-Ziel: %s
-Lage: %s",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,13,,Pawn Expedition
+Expeditionsziel: %s
+Status: %s",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,13,,Pawn Expedition
 13,sally_condition,"ポーン：%s
 遠征先：%s
 状況　：%s","Vasall: %s
-Ziel: %s
-Lage: %s",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,13,,Pawn Expedition
-31,sally_error_already_supported,すでに強化派遣しています,Wir haben bereits eine Verstärkung verschickt.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,31,,Pawn Expedition
-31,sally_error_already_supported,すでに強化派遣しています,Wir haben bereits eine Verstärkung verschickt.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,31,,Pawn Expedition
-31,sally_error_already_supported,すでに強化派遣しています,Wir haben bereits eine Verstärkung verschickt.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,31,,Pawn Expedition
-31,sally_error_already_supported,すでに強化派遣しています,Wir haben bereits eine Verstärkung verschickt.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,31,,Pawn Expedition
-32,sally_error_cannot_support,強化派遣はホットスポットでのみ使用可能です,"Verstärkungsversand ist nur verfügbar unter
-Hotspots.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,32,,Pawn Expedition
-32,sally_error_cannot_support,強化派遣はホットスポットでのみ使用可能です,"Verstärkungsversand ist nur verfügbar unter
-Hotspots.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,32,,Pawn Expedition
-32,sally_error_cannot_support,強化派遣はホットスポットでのみ使用可能です,"Verstärkungsversand ist nur verfügbar unter
-Hotspots.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,32,,Pawn Expedition
-32,sally_error_cannot_support,強化派遣はホットスポットでのみ使用可能です,"Verstärkungsversand ist nur verfügbar unter
-Hotspots.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,32,,Pawn Expedition
+Expeditionsziel: %s
+Status: %s",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,13,,Pawn Expedition
+31,sally_error_already_supported,すでに強化派遣しています,Die laufende Expedition ist bereits verstärkt.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,31,,Pawn Expedition
+31,sally_error_already_supported,すでに強化派遣しています,Die laufende Expedition ist bereits verstärkt.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,31,,Pawn Expedition
+31,sally_error_already_supported,すでに強化派遣しています,Die laufende Expedition ist bereits verstärkt.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,31,,Pawn Expedition
+31,sally_error_already_supported,すでに強化派遣しています,Die laufende Expedition ist bereits verstärkt.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,31,,Pawn Expedition
+32,sally_error_cannot_support,強化派遣はホットスポットでのみ使用可能です,"Verstärkte Expeditionen sind nur für
+Hotspots verfügbar.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,32,,Pawn Expedition
+32,sally_error_cannot_support,強化派遣はホットスポットでのみ使用可能です,"Verstärkte Expeditionen sind nur für
+Hotspots verfügbar.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,32,,Pawn Expedition
+32,sally_error_cannot_support,強化派遣はホットスポットでのみ使用可能です,"Verstärkte Expeditionen sind nur für
+Hotspots verfügbar.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,32,,Pawn Expedition
+32,sally_error_cannot_support,強化派遣はホットスポットでのみ使用可能です,"Verstärkte Expeditionen sind nur für
+Hotspots verfügbar.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,32,,Pawn Expedition
 14,sally_hot_spot,<COL ffdc78>ホットスポット</COL>,<COL ffdc78>Fundstelle</COL>,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,14,,Pawn Expedition
 14,sally_hot_spot,<COL ffdc78>ホットスポット</COL>,<COL ffdc78>Fundstelle</COL>,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,14,,Pawn Expedition
 14,sally_hot_spot,<COL ffdc78>ホットスポット</COL>,<COL ffdc78>Fundstelle</COL>,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,14,,Pawn Expedition
@@ -258620,171 +258620,171 @@ Hotspots.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPop
 7,sally_leave_party_confirm,"ポーン遠征隊に派遣するため
 パーティーを離脱しますがよろしいですか？
 <COL AA1414>※パーティーからメインポーンがいなくなると
-　サポートポーンも自動的に離脱します</COL>","Ich werde von der Partei gehen, um zu senden
-Das Vasall Expedition Corps.
-Ist das akzeptabel?
-<COL AA1414>*Wenn der Hauptvasall nicht mehr im
-Partei,
-Hilfsvasallen ziehen sich automatisch zurück, da
-gut.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,7,,Pawn Expedition
+　サポートポーンも自動的に離脱します</COL>","Dein Partnervasall verlässt die Gruppe,
+um auf Expedition zu gehen.
+Fortfahren?
+<COL AA1414>Verlässt der Hauptvasall die Gruppe,
+verlassen auch die Hilfsvasallen
+automatisch
+die Gruppe.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,7,,Pawn Expedition
 7,sally_leave_party_confirm,"ポーン遠征隊に派遣するため
 パーティーを離脱しますがよろしいですか？
 <COL AA1414>※パーティーからメインポーンがいなくなると
-　サポートポーンも自動的に離脱します</COL>","Ich werde von der Partei gehen, um zu senden
-Das Vasall Expedition Corps.
-Ist das akzeptabel?
-<COL AA1414>*Wenn der Hauptvasall nicht mehr im
-Partei,
-Hilfsvasallen ziehen sich automatisch zurück, da
-gut.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,7,,Pawn Expedition
+　サポートポーンも自動的に離脱します</COL>","Dein Partnervasall verlässt die Gruppe,
+um auf Expedition zu gehen.
+Fortfahren?
+<COL AA1414>Verlässt der Hauptvasall die Gruppe,
+verlassen auch die Hilfsvasallen
+automatisch
+die Gruppe.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,7,,Pawn Expedition
 7,sally_leave_party_confirm,"ポーン遠征隊に派遣するため
 パーティーを離脱しますがよろしいですか？
 <COL AA1414>※パーティーからメインポーンがいなくなると
-　サポートポーンも自動的に離脱します</COL>","Ich werde von der Partei gehen, um zu senden
-Das Vasall Expedition Corps.
-Ist das akzeptabel?
-<COL AA1414>*Wenn der Hauptvasall nicht mehr im
-Partei,
-Hilfsvasallen ziehen sich automatisch zurück, da
-gut.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,7,,Pawn Expedition
+　サポートポーンも自動的に離脱します</COL>","Dein Partnervasall verlässt die Gruppe,
+um auf Expedition zu gehen.
+Fortfahren?
+<COL AA1414>Verlässt der Hauptvasall die Gruppe,
+verlassen auch die Hilfsvasallen
+automatisch
+die Gruppe.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,7,,Pawn Expedition
 7,sally_leave_party_confirm,"ポーン遠征隊に派遣するため
 パーティーを離脱しますがよろしいですか？
 <COL AA1414>※パーティーからメインポーンがいなくなると
-　サポートポーンも自動的に離脱します</COL>","Ich werde von der Partei gehen, um zu senden
-Das Vasall Expedition Corps.
-Ist das akzeptabel?
-<COL AA1414>*Wenn der Hauptvasall nicht mehr im
-Partei,
-Hilfsvasallen ziehen sich automatisch zurück, da
-gut.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,7,,Pawn Expedition
+　サポートポーンも自動的に離脱します</COL>","Dein Partnervasall verlässt die Gruppe,
+um auf Expedition zu gehen.
+Fortfahren?
+<COL AA1414>Verlässt der Hauptvasall die Gruppe,
+verlassen auch die Hilfsvasallen
+automatisch
+die Gruppe.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,7,,Pawn Expedition
 30,sally_need_partner_notice,"ポーン遠征隊を派遣するには
-パートナーポーンが必要です","Um ein Vasall Expedition Corps zu entsenden,
-a Partnervasall erforderlich ist.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,30,,Pawn Expedition
+パートナーポーンが必要です","Für eine Vasallenexpedition
+brauchst du einen Partnervasallen.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,30,,Pawn Expedition
 30,sally_need_partner_notice,"ポーン遠征隊を派遣するには
-パートナーポーンが必要です","Um ein Vasall Expedition Corps zu entsenden,
-a Partnervasall erforderlich ist.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,30,,Pawn Expedition
+パートナーポーンが必要です","Für eine Vasallenexpedition
+brauchst du einen Partnervasallen.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,30,,Pawn Expedition
 30,sally_need_partner_notice,"ポーン遠征隊を派遣するには
-パートナーポーンが必要です","Um ein Vasall Expedition Corps zu entsenden,
-a Partnervasall erforderlich ist.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,30,,Pawn Expedition
+パートナーポーンが必要です","Für eine Vasallenexpedition
+brauchst du einen Partnervasallen.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,30,,Pawn Expedition
 30,sally_need_partner_notice,"ポーン遠征隊を派遣するには
-パートナーポーンが必要です","Um ein Vasall Expedition Corps zu entsenden,
-a Partnervasall erforderlich ist.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,30,,Pawn Expedition
-16,sally_normal,通常派遣,Normaler Versand,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,16,,Pawn Expedition
-16,sally_normal,通常派遣,Normaler Versand,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,16,,Pawn Expedition
-16,sally_normal,通常派遣,Normaler Versand,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,16,,Pawn Expedition
-16,sally_normal,通常派遣,Normaler Versand,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,16,,Pawn Expedition
+パートナーポーンが必要です","Für eine Vasallenexpedition
+brauchst du einen Partnervasallen.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,30,,Pawn Expedition
+16,sally_normal,通常派遣,Normale Expedition,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,16,,Pawn Expedition
+16,sally_normal,通常派遣,Normale Expedition,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,16,,Pawn Expedition
+16,sally_normal,通常派遣,Normale Expedition,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,16,,Pawn Expedition
+16,sally_normal,通常派遣,Normale Expedition,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,16,,Pawn Expedition
 18,sally_normal_confirm,"ポーン遠征隊を通常派遣します
-よろしいですか？","Bist du sicher, dass du versendest möchten
-Das Vasall Expedition Corps normalerweise?",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,18,,Pawn Expedition
+よろしいですか？","Möchtest du eine normale
+Vasallenexpedition starten?",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,18,,Pawn Expedition
 18,sally_normal_confirm,"ポーン遠征隊を通常派遣します
-よろしいですか？","Bist du sicher, dass du versendest möchten
-Das Vasall Expedition Corps normalerweise?",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,18,,Pawn Expedition
+よろしいですか？","Möchtest du eine normale
+Vasallenexpedition starten?",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,18,,Pawn Expedition
 18,sally_normal_confirm,"ポーン遠征隊を通常派遣します
-よろしいですか？","Bist du sicher, dass du versendest möchten
-Das Vasall Expedition Corps normalerweise?",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,18,,Pawn Expedition
+よろしいですか？","Möchtest du eine normale
+Vasallenexpedition starten?",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,18,,Pawn Expedition
 18,sally_normal_confirm,"ポーン遠征隊を通常派遣します
-よろしいですか？","Bist du sicher, dass du versendest möchten
-Das Vasall Expedition Corps normalerweise?",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,18,,Pawn Expedition
-21,sally_normal_notice,ポーン遠征隊を通常派遣しました,Vasall Expedition Corps normal entsandt.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,21,,Pawn Expedition
-21,sally_normal_notice,ポーン遠征隊を通常派遣しました,Vasall Expedition Corps normal entsandt.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,21,,Pawn Expedition
-21,sally_normal_notice,ポーン遠征隊を通常派遣しました,Vasall Expedition Corps normal entsandt.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,21,,Pawn Expedition
-21,sally_normal_notice,ポーン遠征隊を通常派遣しました,Vasall Expedition Corps normal entsandt.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,21,,Pawn Expedition
+よろしいですか？","Möchtest du eine normale
+Vasallenexpedition starten?",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,18,,Pawn Expedition
+21,sally_normal_notice,ポーン遠征隊を通常派遣しました,Die normale Vasallenexpedition hat begonnen.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,21,,Pawn Expedition
+21,sally_normal_notice,ポーン遠征隊を通常派遣しました,Die normale Vasallenexpedition hat begonnen.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,21,,Pawn Expedition
+21,sally_normal_notice,ポーン遠征隊を通常派遣しました,Die normale Vasallenexpedition hat begonnen.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,21,,Pawn Expedition
+21,sally_normal_notice,ポーン遠征隊を通常派遣しました,Die normale Vasallenexpedition hat begonnen.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,21,,Pawn Expedition
 8,sally_not_enough_cost_select,"現在、ポーン遠征隊を派遣することができません
 再度、ポーン遠征隊を派遣するには
 次回のリセット時間までお待ちいただくか
 <COL ffdc78>黄金石<VAL>個</COL>を使用することで直ちに派遣できます
-(リセット時間はプレイマニュアルをご覧ください)","Du kannst derzeit keinen Vasall versenden
-Expedition
-Um eine Bauernexpedition erneut zu versenden, warte bis
-die nächste Reset-Zeit oder du kannst es versenden
-sofort durch Verwendung
-<COL ffdc78><VAL> Goldsteine</COL>
-(Bitte lies das Spielhandbuch für Reset-Zeiten)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,8,,Pawn Expedition
+(リセット時間はプレイマニュアルをご覧ください)","Eine Vasallenexpedition ist gerade
+nicht möglich.
+Warte auf die nächste Zurücksetzung.
+Für eine sofortige Expedition
+kannst du stattdessen
+<COL ffdc78><VAL> Goldsteine</COL> einsetzen.
+(Die Zeiten stehen im Spielhandbuch.)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,8,,Pawn Expedition
 8,sally_not_enough_cost_select,"現在、ポーン遠征隊を派遣することができません
 再度、ポーン遠征隊を派遣するには
 次回のリセット時間までお待ちいただくか
 <COL ffdc78>黄金石<VAL>個</COL>を使用することで直ちに派遣できます
-(リセット時間はプレイマニュアルをご覧ください)","Du kannst derzeit keinen Vasall versenden
-Expedition
-Um eine Bauernexpedition erneut zu versenden, warte bis
-die nächste Reset-Zeit oder du kannst es versenden
-sofort durch Verwendung
-<COL ffdc78><VAL> Goldsteine</COL>
-(Bitte lies das Spielhandbuch für Reset-Zeiten)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,8,,Pawn Expedition
+(リセット時間はプレイマニュアルをご覧ください)","Eine Vasallenexpedition ist gerade
+nicht möglich.
+Warte auf die nächste Zurücksetzung.
+Für eine sofortige Expedition
+kannst du stattdessen
+<COL ffdc78><VAL> Goldsteine</COL> einsetzen.
+(Die Zeiten stehen im Spielhandbuch.)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,8,,Pawn Expedition
 8,sally_not_enough_cost_select,"現在、ポーン遠征隊を派遣することができません
 再度、ポーン遠征隊を派遣するには
 次回のリセット時間までお待ちいただくか
 <COL ffdc78>黄金石<VAL>個</COL>を使用することで直ちに派遣できます
-(リセット時間はプレイマニュアルをご覧ください)","Du kannst derzeit keinen Vasall versenden
-Expedition
-Um eine Bauernexpedition erneut zu versenden, warte bis
-die nächste Reset-Zeit oder du kannst es versenden
-sofort durch Verwendung
-<COL ffdc78><VAL> Goldsteine</COL>
-(Bitte lies das Spielhandbuch für Reset-Zeiten)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,8,,Pawn Expedition
+(リセット時間はプレイマニュアルをご覧ください)","Eine Vasallenexpedition ist gerade
+nicht möglich.
+Warte auf die nächste Zurücksetzung.
+Für eine sofortige Expedition
+kannst du stattdessen
+<COL ffdc78><VAL> Goldsteine</COL> einsetzen.
+(Die Zeiten stehen im Spielhandbuch.)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,8,,Pawn Expedition
 8,sally_not_enough_cost_select,"現在、ポーン遠征隊を派遣することができません
 再度、ポーン遠征隊を派遣するには
 次回のリセット時間までお待ちいただくか
 <COL ffdc78>黄金石<VAL>個</COL>を使用することで直ちに派遣できます
-(リセット時間はプレイマニュアルをご覧ください)","Du kannst derzeit keinen Vasall versenden
-Expedition
-Um eine Bauernexpedition erneut zu versenden, warte bis
-die nächste Reset-Zeit oder du kannst es versenden
-sofort durch Verwendung
-<COL ffdc78><VAL> Goldsteine</COL>
-(Bitte lies das Spielhandbuch für Reset-Zeiten)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,8,,Pawn Expedition
+(リセット時間はプレイマニュアルをご覧ください)","Eine Vasallenexpedition ist gerade
+nicht möglich.
+Warte auf die nächste Zurücksetzung.
+Für eine sofortige Expedition
+kannst du stattdessen
+<COL ffdc78><VAL> Goldsteine</COL> einsetzen.
+(Die Zeiten stehen im Spielhandbuch.)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,8,,Pawn Expedition
 15,sally_nothing,特になし,Nichts Besonderes,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,15,,Pawn Expedition
 15,sally_nothing,特になし,Nichts Besonderes,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,15,,Pawn Expedition
 15,sally_nothing,特になし,Nichts Besonderes,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,15,,Pawn Expedition
 15,sally_nothing,特になし,Nichts Besonderes,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,15,,Pawn Expedition
-10,sally_open_onlineshop,オンラインショップを開く,Offener Online-Shop,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,10,,Pawn Expedition
-10,sally_open_onlineshop,オンラインショップを開く,Offener Online-Shop,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,10,,Pawn Expedition
-10,sally_open_onlineshop,オンラインショップを開く,Offener Online-Shop,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,10,,Pawn Expedition
-10,sally_open_onlineshop,オンラインショップを開く,Offener Online-Shop,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,10,,Pawn Expedition
+10,sally_open_onlineshop,オンラインショップを開く,Online-Shop öffnen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,10,,Pawn Expedition
+10,sally_open_onlineshop,オンラインショップを開く,Online-Shop öffnen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,10,,Pawn Expedition
+10,sally_open_onlineshop,オンラインショップを開く,Online-Shop öffnen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,10,,Pawn Expedition
+10,sally_open_onlineshop,オンラインショップを開く,Online-Shop öffnen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,10,,Pawn Expedition
 11,sally_recover_cost_confirm,"<COL ffdc78>黄金石<VAL>個</COL>を消費して
 直ちに派遣できるようにしますか？
-（所持数：<VAL>）","<COL ffdc78>Möchtest du gerne
-Konsum <VAL></COL> Goldsteine, um es zu können
-Sofort versenden?
-(Anzahl im Besitz:) <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,11,,Pawn Expedition
+（所持数：<VAL>）","<COL ffdc78>Möchtest du
+<VAL></COL> Goldsteine einsetzen,
+um sofort eine Expedition zu starten?
+(Im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,11,,Pawn Expedition
 11,sally_recover_cost_confirm,"<COL ffdc78>黄金石<VAL>個</COL>を消費して
 直ちに派遣できるようにしますか？
-（所持数：<VAL>）","<COL ffdc78>Möchtest du gerne
-Konsum <VAL></COL> Goldsteine, um es zu können
-Sofort versenden?
-(Anzahl im Besitz:) <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,11,,Pawn Expedition
+（所持数：<VAL>）","<COL ffdc78>Möchtest du
+<VAL></COL> Goldsteine einsetzen,
+um sofort eine Expedition zu starten?
+(Im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,11,,Pawn Expedition
 11,sally_recover_cost_confirm,"<COL ffdc78>黄金石<VAL>個</COL>を消費して
 直ちに派遣できるようにしますか？
-（所持数：<VAL>）","<COL ffdc78>Möchtest du gerne
-Konsum <VAL></COL> Goldsteine, um es zu können
-Sofort versenden?
-(Anzahl im Besitz:) <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,11,,Pawn Expedition
+（所持数：<VAL>）","<COL ffdc78>Möchtest du
+<VAL></COL> Goldsteine einsetzen,
+um sofort eine Expedition zu starten?
+(Im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,11,,Pawn Expedition
 11,sally_recover_cost_confirm,"<COL ffdc78>黄金石<VAL>個</COL>を消費して
 直ちに派遣できるようにしますか？
-（所持数：<VAL>）","<COL ffdc78>Möchtest du gerne
-Konsum <VAL></COL> Goldsteine, um es zu können
-Sofort versenden?
-(Anzahl im Besitz:) <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,11,,Pawn Expedition
-12,sally_recover_cost_notice,直ちに派遣できるようになりました,Bereit für den sofortigen Versand.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,12,,Pawn Expedition
-12,sally_recover_cost_notice,直ちに派遣できるようになりました,Bereit für den sofortigen Versand.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,12,,Pawn Expedition
-12,sally_recover_cost_notice,直ちに派遣できるようになりました,Bereit für den sofortigen Versand.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,12,,Pawn Expedition
-12,sally_recover_cost_notice,直ちに派遣できるようになりました,Bereit für den sofortigen Versand.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,12,,Pawn Expedition
+（所持数：<VAL>）","<COL ffdc78>Möchtest du
+<VAL></COL> Goldsteine einsetzen,
+um sofort eine Expedition zu starten?
+(Im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,11,,Pawn Expedition
+12,sally_recover_cost_notice,直ちに派遣できるようになりました,Du kannst sofort eine Expedition starten.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,12,,Pawn Expedition
+12,sally_recover_cost_notice,直ちに派遣できるようになりました,Du kannst sofort eine Expedition starten.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,12,,Pawn Expedition
+12,sally_recover_cost_notice,直ちに派遣できるようになりました,Du kannst sofort eine Expedition starten.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,12,,Pawn Expedition
+12,sally_recover_cost_notice,直ちに派遣できるようになりました,Du kannst sofort eine Expedition starten.,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,12,,Pawn Expedition
 25,sally_state_check_reward_notice,"ポーン遠征隊が帰還しています
-<COL ffdc78>パートナーポーンから報酬を確認してください</COL>","Das Vasall Expedition Corps ist zurück.
-<COL ffdc78>Bitte überprüfe die Belohnungen von deinem
-Partnervasall.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,25,,Pawn Expedition
+<COL ffdc78>パートナーポーンから報酬を確認してください</COL>","Dein Partnervasall ist zurück.
+<COL ffdc78>Sprich mit ihm, um deine
+Belohnungen abzuholen.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,25,,Pawn Expedition
 25,sally_state_check_reward_notice,"ポーン遠征隊が帰還しています
-<COL ffdc78>パートナーポーンから報酬を確認してください</COL>","Das Vasall Expedition Corps ist zurück.
-<COL ffdc78>Bitte überprüfe die Belohnungen von deinem
-Partnervasall.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,25,,Pawn Expedition
+<COL ffdc78>パートナーポーンから報酬を確認してください</COL>","Dein Partnervasall ist zurück.
+<COL ffdc78>Sprich mit ihm, um deine
+Belohnungen abzuholen.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,25,,Pawn Expedition
 25,sally_state_check_reward_notice,"ポーン遠征隊が帰還しています
-<COL ffdc78>パートナーポーンから報酬を確認してください</COL>","Das Vasall Expedition Corps ist zurück.
-<COL ffdc78>Bitte überprüfe die Belohnungen von deinem
-Partnervasall.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,25,,Pawn Expedition
+<COL ffdc78>パートナーポーンから報酬を確認してください</COL>","Dein Partnervasall ist zurück.
+<COL ffdc78>Sprich mit ihm, um deine
+Belohnungen abzuholen.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,25,,Pawn Expedition
 25,sally_state_check_reward_notice,"ポーン遠征隊が帰還しています
-<COL ffdc78>パートナーポーンから報酬を確認してください</COL>","Das Vasall Expedition Corps ist zurück.
-<COL ffdc78>Bitte überprüfe die Belohnungen von deinem
-Partnervasall.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,25,,Pawn Expedition
+<COL ffdc78>パートナーポーンから報酬を確認してください</COL>","Dein Partnervasall ist zurück.
+<COL ffdc78>Sprich mit ihm, um deine
+Belohnungen abzuholen.</COL>",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,25,,Pawn Expedition
 24,sally_state_not_enough_cost_notice,"ポーン遠征隊を派遣していません
 再度、ポーン遠征隊を派遣するには
 次回のリセット時間までお待ちいただくか
@@ -258830,165 +258830,165 @@ oder setze Goldsteine ein.
 Sprich dazu mit deinem Partnervasallen.
 (Die Zeiten stehen im Spielhandbuch.)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,24,,Pawn Expedition
 33,sally_state_not_have_expedition,"ポーン遠征隊が解放されていません
-ポーン遠征隊は拠点拡張から購入できます","Die Vasallenexpedition ist noch nicht frei.
-Sie lässt sich unter „Clan-Stützpunkt
-ausbauen“ freischalten.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,33,,Pawn Expedition
+ポーン遠征隊は拠点拡張から購入できます","Vasallenexpeditionen sind noch nicht freigeschaltet.
+Du kannst sie beim Ausbau des
+Clan-Stützpunkts freischalten.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,33,,Pawn Expedition
 33,sally_state_not_have_expedition,"ポーン遠征隊が解放されていません
-ポーン遠征隊は拠点拡張から購入できます","Die Vasallenexpedition ist noch nicht frei.
-Sie lässt sich unter „Clan-Stützpunkt
-ausbauen“ freischalten.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,33,,Pawn Expedition
+ポーン遠征隊は拠点拡張から購入できます","Vasallenexpeditionen sind noch nicht freigeschaltet.
+Du kannst sie beim Ausbau des
+Clan-Stützpunkts freischalten.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,33,,Pawn Expedition
 33,sally_state_not_have_expedition,"ポーン遠征隊が解放されていません
-ポーン遠征隊は拠点拡張から購入できます","Die Vasallenexpedition ist noch nicht frei.
-Sie lässt sich unter „Clan-Stützpunkt
-ausbauen“ freischalten.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,33,,Pawn Expedition
+ポーン遠征隊は拠点拡張から購入できます","Vasallenexpeditionen sind noch nicht freigeschaltet.
+Du kannst sie beim Ausbau des
+Clan-Stützpunkts freischalten.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,33,,Pawn Expedition
 33,sally_state_not_have_expedition,"ポーン遠征隊が解放されていません
-ポーン遠征隊は拠点拡張から購入できます","Die Vasallenexpedition ist noch nicht frei.
-Sie lässt sich unter „Clan-Stützpunkt
-ausbauen“ freischalten.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,33,,Pawn Expedition
+ポーン遠征隊は拠点拡張から購入できます","Vasallenexpeditionen sind noch nicht freigeschaltet.
+Du kannst sie beim Ausbau des
+Clan-Stützpunkts freischalten.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,33,,Pawn Expedition
 23,sally_state_wait_notice,"ポーン遠征隊を派遣していません
-パートナーポーンから派遣がおこなえます","Wir haben das Vasall Expedition Corps nicht entsandt.
-Du kannst von Partner Vasallen versenden.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,23,,Pawn Expedition
+パートナーポーンから派遣がおこなえます","Es läuft keine Vasallenexpedition.
+Sprich mit deinem Partnervasallen, um eine zu starten.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,23,,Pawn Expedition
 23,sally_state_wait_notice,"ポーン遠征隊を派遣していません
-パートナーポーンから派遣がおこなえます","Wir haben das Vasall Expedition Corps nicht entsandt.
-Du kannst von Partner Vasallen versenden.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,23,,Pawn Expedition
+パートナーポーンから派遣がおこなえます","Es läuft keine Vasallenexpedition.
+Sprich mit deinem Partnervasallen, um eine zu starten.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,23,,Pawn Expedition
 23,sally_state_wait_notice,"ポーン遠征隊を派遣していません
-パートナーポーンから派遣がおこなえます","Wir haben das Vasall Expedition Corps nicht entsandt.
-Du kannst von Partner Vasallen versenden.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,23,,Pawn Expedition
+パートナーポーンから派遣がおこなえます","Es läuft keine Vasallenexpedition.
+Sprich mit deinem Partnervasallen, um eine zu starten.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,23,,Pawn Expedition
 23,sally_state_wait_notice,"ポーン遠征隊を派遣していません
-パートナーポーンから派遣がおこなえます","Wir haben das Vasall Expedition Corps nicht entsandt.
-Du kannst von Partner Vasallen versenden.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,23,,Pawn Expedition
-27,sally_stop,派遣を中止,Stoppen des Versands,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,27,,Pawn Expedition
-27,sally_stop,派遣を中止,Stoppen des Versands,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,27,,Pawn Expedition
-27,sally_stop,派遣を中止,Stoppen des Versands,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,27,,Pawn Expedition
-27,sally_stop,派遣を中止,Stoppen des Versands,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,27,,Pawn Expedition
+パートナーポーンから派遣がおこなえます","Es läuft keine Vasallenexpedition.
+Sprich mit deinem Partnervasallen, um eine zu starten.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,23,,Pawn Expedition
+27,sally_stop,派遣を中止,Expedition abbrechen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,27,,Pawn Expedition
+27,sally_stop,派遣を中止,Expedition abbrechen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,27,,Pawn Expedition
+27,sally_stop,派遣を中止,Expedition abbrechen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,27,,Pawn Expedition
+27,sally_stop,派遣を中止,Expedition abbrechen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,27,,Pawn Expedition
 28,sally_stop_confirm,"ポーン遠征隊の派遣を中止しますか？
 再度、ポーン遠征隊を派遣するには
 次回のリセット時間までお待ちいただくか
 黄金石を使用することで直ちに派遣できます
-(リセット時間はプレイマニュアルをご覧ください)","Möchtest du den Versand des Vasall
-Expedition Corps stornieren?
-Um das Vasall Expedition Corps erneut zu versenden,
-Bitte warte bis zum nächsten Reset-Zeitpunkt oder du kannst
- sofort mit Goldsteinen versenden.
-(Bitte sieh sich die Spielanleitung für Reset-Zeiten an)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,28,,Pawn Expedition
+(リセット時間はプレイマニュアルをご覧ください)","Möchtest du die laufende
+Vasallenexpedition abbrechen?
+Für eine weitere Expedition
+warte auf die nächste Zurücksetzung
+oder setze Goldsteine ein.
+(Die Zeiten stehen im Spielhandbuch.)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,28,,Pawn Expedition
 28,sally_stop_confirm,"ポーン遠征隊の派遣を中止しますか？
 再度、ポーン遠征隊を派遣するには
 次回のリセット時間までお待ちいただくか
 黄金石を使用することで直ちに派遣できます
-(リセット時間はプレイマニュアルをご覧ください)","Möchtest du den Versand des Vasall
-Expedition Corps stornieren?
-Um das Vasall Expedition Corps erneut zu versenden,
-Bitte warte bis zum nächsten Reset-Zeitpunkt oder du kannst
- sofort mit Goldsteinen versenden.
-(Bitte sieh sich die Spielanleitung für Reset-Zeiten an)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,28,,Pawn Expedition
+(リセット時間はプレイマニュアルをご覧ください)","Möchtest du die laufende
+Vasallenexpedition abbrechen?
+Für eine weitere Expedition
+warte auf die nächste Zurücksetzung
+oder setze Goldsteine ein.
+(Die Zeiten stehen im Spielhandbuch.)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,28,,Pawn Expedition
 28,sally_stop_confirm,"ポーン遠征隊の派遣を中止しますか？
 再度、ポーン遠征隊を派遣するには
 次回のリセット時間までお待ちいただくか
 黄金石を使用することで直ちに派遣できます
-(リセット時間はプレイマニュアルをご覧ください)","Möchtest du den Versand des Vasall
-Expedition Corps stornieren?
-Um das Vasall Expedition Corps erneut zu versenden,
-Bitte warte bis zum nächsten Reset-Zeitpunkt oder du kannst
- sofort mit Goldsteinen versenden.
-(Bitte sieh sich die Spielanleitung für Reset-Zeiten an)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,28,,Pawn Expedition
+(リセット時間はプレイマニュアルをご覧ください)","Möchtest du die laufende
+Vasallenexpedition abbrechen?
+Für eine weitere Expedition
+warte auf die nächste Zurücksetzung
+oder setze Goldsteine ein.
+(Die Zeiten stehen im Spielhandbuch.)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,28,,Pawn Expedition
 28,sally_stop_confirm,"ポーン遠征隊の派遣を中止しますか？
 再度、ポーン遠征隊を派遣するには
 次回のリセット時間までお待ちいただくか
 黄金石を使用することで直ちに派遣できます
-(リセット時間はプレイマニュアルをご覧ください)","Möchtest du den Versand des Vasall
-Expedition Corps stornieren?
-Um das Vasall Expedition Corps erneut zu versenden,
-Bitte warte bis zum nächsten Reset-Zeitpunkt oder du kannst
- sofort mit Goldsteinen versenden.
-(Bitte sieh sich die Spielanleitung für Reset-Zeiten an)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,28,,Pawn Expedition
+(リセット時間はプレイマニュアルをご覧ください)","Möchtest du die laufende
+Vasallenexpedition abbrechen?
+Für eine weitere Expedition
+warte auf die nächste Zurücksetzung
+oder setze Goldsteine ein.
+(Die Zeiten stehen im Spielhandbuch.)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,28,,Pawn Expedition
 29,sally_stop_notice,"ポーン遠征隊の派遣を中止しました
-次回、クラン拠点へ訪れた時に帰還します","Wir haben den Versand des Vasall
-Expedition Corps abgesagt.
-Du wirst zurückkehren, wenn wir das nächste Mal die Clan Hall besuchen.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,29,,Pawn Expedition
+次回、クラン拠点へ訪れた時に帰還します","Die Vasallenexpedition wurde
+abgebrochen.
+Dein Partnervasall kehrt beim nächsten Besuch im Clan-Stützpunkt zurück.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,29,,Pawn Expedition
 29,sally_stop_notice,"ポーン遠征隊の派遣を中止しました
-次回、クラン拠点へ訪れた時に帰還します","Wir haben den Versand des Vasall
-Expedition Corps abgesagt.
-Du wirst zurückkehren, wenn wir das nächste Mal die Clan Hall besuchen.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,29,,Pawn Expedition
+次回、クラン拠点へ訪れた時に帰還します","Die Vasallenexpedition wurde
+abgebrochen.
+Dein Partnervasall kehrt beim nächsten Besuch im Clan-Stützpunkt zurück.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,29,,Pawn Expedition
 29,sally_stop_notice,"ポーン遠征隊の派遣を中止しました
-次回、クラン拠点へ訪れた時に帰還します","Wir haben den Versand des Vasall
-Expedition Corps abgesagt.
-Du wirst zurückkehren, wenn wir das nächste Mal die Clan Hall besuchen.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,29,,Pawn Expedition
+次回、クラン拠点へ訪れた時に帰還します","Die Vasallenexpedition wurde
+abgebrochen.
+Dein Partnervasall kehrt beim nächsten Besuch im Clan-Stützpunkt zurück.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,29,,Pawn Expedition
 29,sally_stop_notice,"ポーン遠征隊の派遣を中止しました
-次回、クラン拠点へ訪れた時に帰還します","Wir haben den Versand des Vasall
-Expedition Corps abgesagt.
-Du wirst zurückkehren, wenn wir das nächste Mal die Clan Hall besuchen.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,29,,Pawn Expedition
-9,sally_use_gp,黄金石を使用する,Verwende Goldstein,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,9,,Pawn Expedition
-9,sally_use_gp,黄金石を使用する,Verwende Goldstein,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,9,,Pawn Expedition
-9,sally_use_gp,黄金石を使用する,Verwende Goldstein,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,9,,Pawn Expedition
-9,sally_use_gp,黄金石を使用する,Verwende Goldstein,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,9,,Pawn Expedition
-17,sally_with_support,黄金石を使用して強化派遣,Verbesserter Versand mit Goldstein,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,17,,Pawn Expedition
-17,sally_with_support,黄金石を使用して強化派遣,Verbesserter Versand mit Goldstein,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,17,,Pawn Expedition
-17,sally_with_support,黄金石を使用して強化派遣,Verbesserter Versand mit Goldstein,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,17,,Pawn Expedition
-17,sally_with_support,黄金石を使用して強化派遣,Verbesserter Versand mit Goldstein,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,17,,Pawn Expedition
+次回、クラン拠点へ訪れた時に帰還します","Die Vasallenexpedition wurde
+abgebrochen.
+Dein Partnervasall kehrt beim nächsten Besuch im Clan-Stützpunkt zurück.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,29,,Pawn Expedition
+9,sally_use_gp,黄金石を使用する,Goldsteine einsetzen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,9,,Pawn Expedition
+9,sally_use_gp,黄金石を使用する,Goldsteine einsetzen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,9,,Pawn Expedition
+9,sally_use_gp,黄金石を使用する,Goldsteine einsetzen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,9,,Pawn Expedition
+9,sally_use_gp,黄金石を使用する,Goldsteine einsetzen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,9,,Pawn Expedition
+17,sally_with_support,黄金石を使用して強化派遣,Verstärkte Expedition mit Goldsteinen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,17,,Pawn Expedition
+17,sally_with_support,黄金石を使用して強化派遣,Verstärkte Expedition mit Goldsteinen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,17,,Pawn Expedition
+17,sally_with_support,黄金石を使用して強化派遣,Verstärkte Expedition mit Goldsteinen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,17,,Pawn Expedition
+17,sally_with_support,黄金石を使用して強化派遣,Verstärkte Expedition mit Goldsteinen,ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,17,,Pawn Expedition
 19,sally_with_support_confirm,"<COL ffdc78>強化派遣</COL>すると<COL ffdc78>希少なアイテム</COL>が確実に入手できます
 <COL ffdc78>黄金石<VAL>個</COL>を消費して強化派遣しますか？
-（所持数：<VAL>）","<COL ffdc78>Verstärkter Versand</COL> wird
-sicherstellen, dass <COL ffdc78>seltene Gegenstände</COL> ist
-verfügbar.
-<COL ffdc78>Möchtest du ausgeben <VAL> Gold
-Edelsteine</COL> für Verstärkungssendungen?
-(Anzahl in deinem Besitz): <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,19,,Pawn Expedition
+（所持数：<VAL>）","Eine <COL ffdc78>verstärkte Expedition</COL>
+bringt garantiert einen <COL ffdc78>seltenen Gegenstand</COL>
+mit.
+<COL ffdc78>Möchtest du <VAL>
+Goldsteine</COL> dafür einsetzen?
+(Im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,19,,Pawn Expedition
 19,sally_with_support_confirm,"<COL ffdc78>強化派遣</COL>すると<COL ffdc78>希少なアイテム</COL>が確実に入手できます
 <COL ffdc78>黄金石<VAL>個</COL>を消費して強化派遣しますか？
-（所持数：<VAL>）","<COL ffdc78>Verstärkter Versand</COL> wird
-sicherstellen, dass <COL ffdc78>seltene Gegenstände</COL> ist
-verfügbar.
-<COL ffdc78>Möchtest du ausgeben <VAL> Gold
-Edelsteine</COL> für Verstärkungssendungen?
-(Anzahl in deinem Besitz): <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,19,,Pawn Expedition
+（所持数：<VAL>）","Eine <COL ffdc78>verstärkte Expedition</COL>
+bringt garantiert einen <COL ffdc78>seltenen Gegenstand</COL>
+mit.
+<COL ffdc78>Möchtest du <VAL>
+Goldsteine</COL> dafür einsetzen?
+(Im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,19,,Pawn Expedition
 19,sally_with_support_confirm,"<COL ffdc78>強化派遣</COL>すると<COL ffdc78>希少なアイテム</COL>が確実に入手できます
 <COL ffdc78>黄金石<VAL>個</COL>を消費して強化派遣しますか？
-（所持数：<VAL>）","<COL ffdc78>Verstärkter Versand</COL> wird
-sicherstellen, dass <COL ffdc78>seltene Gegenstände</COL> ist
-verfügbar.
-<COL ffdc78>Möchtest du ausgeben <VAL> Gold
-Edelsteine</COL> für Verstärkungssendungen?
-(Anzahl in deinem Besitz): <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,19,,Pawn Expedition
+（所持数：<VAL>）","Eine <COL ffdc78>verstärkte Expedition</COL>
+bringt garantiert einen <COL ffdc78>seltenen Gegenstand</COL>
+mit.
+<COL ffdc78>Möchtest du <VAL>
+Goldsteine</COL> dafür einsetzen?
+(Im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,19,,Pawn Expedition
 19,sally_with_support_confirm,"<COL ffdc78>強化派遣</COL>すると<COL ffdc78>希少なアイテム</COL>が確実に入手できます
 <COL ffdc78>黄金石<VAL>個</COL>を消費して強化派遣しますか？
-（所持数：<VAL>）","<COL ffdc78>Verstärkter Versand</COL> wird
-sicherstellen, dass <COL ffdc78>seltene Gegenstände</COL> ist
-verfügbar.
-<COL ffdc78>Möchtest du ausgeben <VAL> Gold
-Edelsteine</COL> für Verstärkungssendungen?
-(Anzahl in deinem Besitz): <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,19,,Pawn Expedition
+（所持数：<VAL>）","Eine <COL ffdc78>verstärkte Expedition</COL>
+bringt garantiert einen <COL ffdc78>seltenen Gegenstand</COL>
+mit.
+<COL ffdc78>Möchtest du <VAL>
+Goldsteine</COL> dafür einsetzen?
+(Im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,19,,Pawn Expedition
 20,sally_with_support_not_enough_gp_select,"黄金石が不足しています
 強化派遣するには<COL ffdc78>黄金石<VAL>個</COL>が必要です
 （所持数：<VAL>）","Du hast nicht genug Goldsteine.
-Um dich zu verstärken, brauchst du <COL ffdc78><VAL> Golden
-Gemstone(s)</COL>.
-(Derzeit im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,20,,Pawn Expedition
+Du brauchst <COL ffdc78><VAL>
+Goldsteine</COL> für eine verstärkte Expedition.
+(Im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,20,,Pawn Expedition
 20,sally_with_support_not_enough_gp_select,"黄金石が不足しています
 強化派遣するには<COL ffdc78>黄金石<VAL>個</COL>が必要です
 （所持数：<VAL>）","Du hast nicht genug Goldsteine.
-Um dich zu verstärken, brauchst du <COL ffdc78><VAL> Golden
-Gemstone(s)</COL>.
-(Derzeit im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,20,,Pawn Expedition
+Du brauchst <COL ffdc78><VAL>
+Goldsteine</COL> für eine verstärkte Expedition.
+(Im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,20,,Pawn Expedition
 20,sally_with_support_not_enough_gp_select,"黄金石が不足しています
 強化派遣するには<COL ffdc78>黄金石<VAL>個</COL>が必要です
 （所持数：<VAL>）","Du hast nicht genug Goldsteine.
-Um dich zu verstärken, brauchst du <COL ffdc78><VAL> Golden
-Gemstone(s)</COL>.
-(Derzeit im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,20,,Pawn Expedition
+Du brauchst <COL ffdc78><VAL>
+Goldsteine</COL> für eine verstärkte Expedition.
+(Im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,20,,Pawn Expedition
 20,sally_with_support_not_enough_gp_select,"黄金石が不足しています
 強化派遣するには<COL ffdc78>黄金石<VAL>個</COL>が必要です
 （所持数：<VAL>）","Du hast nicht genug Goldsteine.
-Um dich zu verstärken, brauchst du <COL ffdc78><VAL> Golden
-Gemstone(s)</COL>.
-(Derzeit im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,20,,Pawn Expedition
-22,sally_with_support_notice,ポーン遠征隊を<COL ffdc78>強化派遣</COL>しました,"Wir <COL ffdc78> haben das Vasall-Expeditionskorps entsandt und verstärkt </COL>
-.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,22,,Pawn Expedition
-22,sally_with_support_notice,ポーン遠征隊を<COL ffdc78>強化派遣</COL>しました,"Wir <COL ffdc78> haben das Vasall-Expeditionskorps entsandt und verstärkt </COL>
-.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,22,,Pawn Expedition
-22,sally_with_support_notice,ポーン遠征隊を<COL ffdc78>強化派遣</COL>しました,"Wir <COL ffdc78> haben das Vasall-Expeditionskorps entsandt und verstärkt </COL>
-.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,22,,Pawn Expedition
-22,sally_with_support_notice,ポーン遠征隊を<COL ffdc78>強化派遣</COL>しました,"Wir <COL ffdc78> haben das Vasall-Expeditionskorps entsandt und verstärkt </COL>
-.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,22,,Pawn Expedition
+Du brauchst <COL ffdc78><VAL>
+Goldsteine</COL> für eine verstärkte Expedition.
+(Im Besitz: <VAL>)",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,20,,Pawn Expedition
+22,sally_with_support_notice,ポーン遠征隊を<COL ffdc78>強化派遣</COL>しました,"Die <COL ffdc78>verstärkte Vasallenexpedition</COL>
+hat begonnen.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,22,,Pawn Expedition
+22,sally_with_support_notice,ポーン遠征隊を<COL ffdc78>強化派遣</COL>しました,"Die <COL ffdc78>verstärkte Vasallenexpedition</COL>
+hat begonnen.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpedition.arc,uGUIPawnExpedition.arc,22,,Pawn Expedition
+22,sally_with_support_notice,ポーン遠征隊を<COL ffdc78>強化派遣</COL>しました,"Die <COL ffdc78>verstärkte Vasallenexpedition</COL>
+hat begonnen.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPawnExpeditionResult.arc,uGUIPawnExpeditionResult.arc,22,,Pawn Expedition
+22,sally_with_support_notice,ポーン遠征隊を<COL ffdc78>強化派遣</COL>しました,"Die <COL ffdc78>verstärkte Vasallenexpedition</COL>
+hat begonnen.",ui\00_message\ui\pawn_expedition.gmd,\ui\uGUIPopBuffBonus.arc,uGUIPopBuffBonus.arc,22,,Pawn Expedition
 3,pawn_fb_01_001,コーディネートが素敵だ！,Schöne Koordination!,ui\00_message\ui\pawn_feedback_comment.gmd,\ui\menu_cmn.arc,menu_cmn.arc,3,,Pawn Grading
 4,pawn_fb_01_002,アバンギャルドだ！,Avantgarde!,ui\00_message\ui\pawn_feedback_comment.gmd,\ui\menu_cmn.arc,menu_cmn.arc,4,,Pawn Grading
 5,pawn_fb_01_003,クールだ！,Cool!,ui\00_message\ui\pawn_feedback_comment.gmd,\ui\menu_cmn.arc,menu_cmn.arc,5,,Pawn Grading
@@ -259400,15 +259400,15 @@ die Suche gestartet hast.",ui\00_message\ui\pop_party_list_res.gmd,\ui\uGUIPopPa
 89,poptop_clan_kyoten_1,拠点拡張,Hallenerweiterung,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,89,
 89,poptop_clan_kyoten_1,拠点拡張,Hallenerweiterung,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,89,
 89,poptop_clan_kyoten_1,拠点拡張,Hallenerweiterung,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,89,
-90,poptop_clan_kyoten_2,ポーン遠征隊支援,Vasall Expedition Corps Unterstützung,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,90,
-90,poptop_clan_kyoten_2,ポーン遠征隊支援,Vasall Expedition Corps Unterstützung,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,90,
-90,poptop_clan_kyoten_2,ポーン遠征隊支援,Vasall Expedition Corps Unterstützung,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,90,
+90,poptop_clan_kyoten_2,ポーン遠征隊支援,Unterstützung für Vasallenexpeditionen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,90,
+90,poptop_clan_kyoten_2,ポーン遠征隊支援,Unterstützung für Vasallenexpeditionen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,90,
+90,poptop_clan_kyoten_2,ポーン遠征隊支援,Unterstützung für Vasallenexpeditionen,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,90,
 91,poptop_clan_kyoten_3,クラン執務官の変更,Clan-Offiziere wechseln,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,91,
 91,poptop_clan_kyoten_3,クラン執務官の変更,Clan-Offiziere wechseln,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,91,
 91,poptop_clan_kyoten_3,クラン執務官の変更,Clan-Offiziere wechseln,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,91,
-88,poptop_clan_kyoten_4,ポーン遠征隊の状況確認,Status des Vasall Expedition Corps,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,88,
-88,poptop_clan_kyoten_4,ポーン遠征隊の状況確認,Status des Vasall Expedition Corps,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,88,
-88,poptop_clan_kyoten_4,ポーン遠征隊の状況確認,Status des Vasall Expedition Corps,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,88,
+88,poptop_clan_kyoten_4,ポーン遠征隊の状況確認,Status der Vasallenexpedition,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,88,
+88,poptop_clan_kyoten_4,ポーン遠征隊の状況確認,Status der Vasallenexpedition,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,88,
+88,poptop_clan_kyoten_4,ポーン遠征隊の状況確認,Status der Vasallenexpedition,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,88,
 92,poptop_clan_kyoten_5,拠点のレイアウト,Hallenlayout,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIBazaar.arc,uGUIBazaar.arc,92,
 92,poptop_clan_kyoten_5,拠点のレイアウト,Hallenlayout,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIMenuAreaInfo.arc,uGUIMenuAreaInfo.arc,92,
 92,poptop_clan_kyoten_5,拠点のレイアウト,Hallenlayout,ui\00_message\ui\poptop_sel_res.gmd,\ui\uGUIPopTopSel.arc,uGUIPopTopSel.arc,92,
