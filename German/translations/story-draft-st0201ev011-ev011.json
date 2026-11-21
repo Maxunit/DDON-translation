@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5 – Seneka, Werkstatt und der scharlachrote Kristall",
+  "gmd_path": "ui\\00_message\\event\\st0201\\ev011.gmd",
+  "arc_path": "\\event\\st0201\\st0201ev011.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "ああ、ワールドクエストはどうだった？\r\n――うまくいったみたいだね、じゃぁ別件いいかな",
+      "source_en": "Oh, how was that World Quest?\r\nIt looks like it went well! By the way, I've got\r\nanother matter.",
+      "text": "Na, wie lief die Weltquest?\r\nSieht gut aus. Hast du kurz Zeit?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "実はわたし《そよかぜのリング》が欲しいって\r\n頼まれたんだけど、忙しくてさ",
+      "source_en": "Actually, I was asked to procure a Zephyr Ring,\r\nbut I've been too busy.",
+      "text": "Ich soll einen Zephyrring besorgen,\r\naber ich komme gerade nicht dazu."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "source_jp": "あれ？　ポカンとしてる？\r\nそうか、まだ知らないんだよね",
+      "source_en": "Huh? You seem bewildered. Oh, I see, you still\r\ndon't know, do you?",
+      "text": "Du schaust so verdutzt.\r\nAch, du kennst das noch gar nicht."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "source_jp": "ええと、つまり、ポーンのクラフト能力で\r\nアイテムを作って欲しいって話なんだけど――",
+      "source_en": "Um, so basically, I want you to craft an item\r\nusing your Pawn's abilities...",
+      "text": "Ich möchte, dass du den Ring\r\nvon deinem Vasallen anfertigen lässt."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "もちろん、あんたのポーンでね\r\nその気になったら声をかけてよ",
+      "source_en": "Of course, with your pawns.\r\nGive me a shout when you're ready.",
+      "text": "Von deinem eigenen Vasallen, genau.\r\nSag Bescheid, wenn du so weit bist."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000063_00.gmd",
+  "arc_path": "\\quest\\q40000063.arc",
+  "entries": [
+    {
+      "key": "q40000063_00_63",
+      "read_index": "0",
+      "source_jp": "警備が心配だ！",
+      "source_en": "The Guard's Concern",
+      "text": "Sorge um die Wache"
+    },
+    {
+      "key": "q40000063_00_63",
+      "read_index": "1",
+      "source_jp": "警備が心配だ！　む、村の近くで<LQEM>が<LQVA>体いるのを見たんだ！\r\nあいつらがどっかいかないと、心配で心配で\r\nフロイトは良い奴なんだがちょっと頼りないし――",
+      "source_en": "I'm worried about security!\r\nI saw <LQEM>\r\nnear the village, <LQVA> of them! \r\nI worry excessively if they don't leave. \r\nFreud is a good guy, but he's a bit unreliable.",
+      "text": "Nahe beim Dorf habe ich Monster gesehen!\r\n<LQEM>, <LQVA> an der Zahl.\r\nSolange sie da sind, finde ich keine Ruhe.\r\nFreud ist nett, aber etwas unzuverlässig …"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Zauberklinge",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_11.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_11_166",
+      "read_index": "1",
+      "source_jp": "弧連斬",
+      "source_en": "Arc Slash",
+      "text": "Bogenhieb"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_11_169",
+      "read_index": "6",
+      "source_jp": "ウィル・スタンス",
+      "source_en": "Will Stance",
+      "text": "Willenshaltung"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_11_171",
+      "read_index": "5",
+      "source_jp": "避翻斬",
+      "source_en": "Dodge Counter Slash",
+      "text": "Ausweichkonter"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_11_174",
+      "read_index": "3",
+      "source_jp": "空叉斬",
+      "source_en": "Sky Slash",
+      "text": "Luftschnitt"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_11_175",
+      "read_index": "2",
+      "source_jp": "昇墜斬",
+      "source_en": "Falling Slash",
+      "text": "Sturzhieb"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_11_176",
+      "read_index": "12",
+      "source_jp": "握把斬",
+      "source_en": "Gripping Slash",
+      "text": "Klammerhieb"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_11_177",
+      "read_index": "11",
+      "source_jp": "受け身",
+      "source_en": "Controlled Fall",
+      "text": "Abrollen"
+    }
+  ]
+}

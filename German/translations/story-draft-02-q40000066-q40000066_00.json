@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000066_00.gmd",
+  "arc_path": "\\quest\\q40000066.arc",
+  "entries": [
+    {
+      "key": "q40000066_00_66",
+      "read_index": "0",
+      "source_jp": "商売仇",
+      "source_en": "Business Rivals",
+      "text": "Ärger für den Laden"
+    },
+    {
+      "key": "q40000066_00_66",
+      "read_index": "1",
+      "source_jp": "あたしゃ道具屋をやってるんだけど、どうにも最近<LQEM>が出て、仕入れの邪魔をされるのよ\r\n誰か、<LQVA>体くらいやっつけてくれないかい？\r\nこのままじゃおっかなくて、仕事に出られなくなっちまう",
+      "source_en": "I run a tool shop, but lately, \r\n<LQEM> have been\r\nshowing up and disrupting my supplies.\r\nCould someone take care of <LQVA> of them?\r\nFear is getting the better of me\r\nand I can no longer work like this.",
+      "text": "Ich führe einen Werkzeugladen.\r\n<LQEM> machen mir den\r\nEinkauf schwer.\r\nKann jemand etwa <LQVA> davon erledigen?\r\nSo traue ich mich nicht mehr zur Arbeit."
+    }
+  ]
+}

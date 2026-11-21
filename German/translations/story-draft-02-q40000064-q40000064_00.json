@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000064_00.gmd",
+  "arc_path": "\\quest\\q40000064.arc",
+  "entries": [
+    {
+      "key": "q40000064_00_64",
+      "read_index": "0",
+      "source_jp": "あんなのが出たんだよ！！",
+      "source_en": "Where'd That Come From?!",
+      "text": "Wo kamen die denn her?!"
+    },
+    {
+      "key": "q40000064_00_64",
+      "read_index": "1",
+      "source_jp": "この間さぁ、びっくりしたよ。あれが出たんだもの！\r\nほら、<LQEM>！\r\nもしローテスに来たら大変だよ\r\n<LQVA>体いたからやっつけてよ！",
+      "source_en": "I was really surprised the other day.\r\nThat thing appeared! \r\nYou know, <LQEM>! \r\nIt would be a disaster if they come to Rotes. \r\nThere were <LQVA> of them, \r\nso please take care of them!",
+      "text": "Ich habe mich neulich furchtbar erschrocken.\r\n<LQEM> sind\r\naufgetaucht!\r\nWenn sie nach Rotes kommen, gibt es Ärger.\r\nEs waren <LQVA>. Bitte beseitigt sie!"
+    }
+  ]
+}

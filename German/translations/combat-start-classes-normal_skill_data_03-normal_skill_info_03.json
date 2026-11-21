@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_info_03.gmd",
+  "arc_path": "\\skill\\normal_skill_data_03.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_INFO_03_40",
+      "read_index": "0",
+      "source_jp": "前方に向け弓を構える\r\n空中でも発動可能",
+      "source_en": "Hold the bow forward.\r\nCan be activated even while in the air.",
+      "text": "Richte den Bogen nach vorn. Auch in der Luft\r\neinsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_03_41",
+      "read_index": "1",
+      "source_jp": "弓構えの状態から矢を放つ\r\n空中でも発動可能",
+      "source_en": "Loose arrows while in a bow stance.\r\nCan be activated even while in the air.",
+      "text": "Schieße einen Pfeil mit angelegtem Bogen ab.\r\nAuch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_03_42",
+      "read_index": "2",
+      "source_jp": "矢を放った後、次の矢をつがえる速度が速くなる\r\n空中でも発動可能",
+      "source_en": "After landing a hit with an arrow, the speed\r\nof the next arrow is increased.\r\nCan be activated even while in the air.",
+      "text": "Lege nach dem Schuss schneller den nächsten\r\nPfeil an. Auch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_03_46",
+      "read_index": "3",
+      "source_jp": "狙撃照準に切り替わり、正確に敵を狙い射てる",
+      "source_en": "Hone your sight, and precisely aim at the enemy.",
+      "text": "Wechsle zur Zielansicht für präzise Schüsse."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_03_43",
+      "read_index": "4",
+      "source_jp": "<PADM>爆薬矢をつがえ弓を上方に構える<KEYM>通常の弓構えか、上方に向ける\r\n爆矢構えかを選択する</KEYM>\r\n空中でも発動可能",
+      "source_en": "<PADM>Hold an explosive arrow, and keep the bow pointed upwards.\r\n<KEYM>Point the bow upwards while in a normal bow stance,\r\nand decide the destination of the explosive arrows.</KEYM>\r\nCan be activated even while in the air.",
+      "text": "<PADM>Lege einen Explosivpfeil an und richte den\r\nBogen nach oben.<KEYM>Wechsle zwischen der\r\nnormalen Bogenhaltung und der Haltung für den\r\nExplosivpfeil, bei der du nach oben zielst.</KEYM>\r\nAuch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_03_44",
+      "read_index": "5",
+      "source_jp": "爆薬矢を上方に放つ\r\n爆薬矢は一定時間で自動起爆するが\r\n攻撃により起爆させるとダメージが上昇する\r\n空中でも発動可能",
+      "source_en": "Loose an explosive arrow upwards.\r\nThe explosive arrow will detonate automatically after \r\na period of time, but the damage increases by \r\ndetonating when struck by an attack.\r\nCan be activated even while in the air.",
+      "text": "Schieße einen Explosivpfeil nach oben. Er\r\nexplodiert nach einer Weile. Löst ein Angriff die\r\nExplosion aus, steigt der Schaden. Auch in der\r\nLuft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_03_45",
+      "read_index": "6",
+      "source_jp": "爆薬矢の準備動作が高速化される\r\n空中でも発動可能",
+      "source_en": "Speed up the time it takes to prepare an\r\nexplosive arrow.\r\nCan be activated even while in the air.",
+      "text": "Lege Explosivpfeile schneller an. Auch in der\r\nLuft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_03_47",
+      "read_index": "7",
+      "source_jp": "前方に蹴りを放つ\r\n空中でも発動可能",
+      "source_en": "Kick forward.\r\nCan be activated even while in the air.",
+      "text": "Tritt nach vorn. Auch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_03_48",
+      "read_index": "8",
+      "source_jp": "矢筒に矢を補充する",
+      "source_en": "Replenish the quiver with arrows.",
+      "text": "Fülle den Köcher mit Pfeilen auf."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_03_49",
+      "read_index": "9",
+      "source_jp": "矢筒に矢を高速補充する",
+      "source_en": "Quickly replenish the quiver with arrows.",
+      "text": "Fülle den Köcher besonders schnell auf."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_03_50",
+      "read_index": "10",
+      "source_jp": "矢の種類を切り替える\r\n空中でも発動可能",
+      "source_en": "Switch the type of arrow.\r\nCan be activated even while in the air.",
+      "text": "Wechsle die Pfeilsorte. Auch in der Luft\r\neinsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_03_60",
+      "read_index": "11",
+      "source_jp": "しがみついた状態から\r\n装備中の矢の先端で突き刺す\r\nボタン連打で攻撃回数が増加する",
+      "source_en": "While climbing an enemy, stab into them with\r\nthe tip of the arrow that is equipped.\r\nThe number of attacks rises with repeated button presses.",
+      "text": "Stich beim Festhalten mit der Spitze des\r\nausgerüsteten Pfeils zu. Mehr Tastendrücke\r\nergeben mehr Stiche."
+    }
+  ]
+}

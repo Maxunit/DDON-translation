@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q20015005_00.gmd",
+  "arc_path": "\\quest\\q20015005.arc",
+  "entries": [
+    {
+      "key": "q20015005_00_291",
+      "read_index": "0",
+      "source_jp": "ハーピーの群を討て！",
+      "source_en": "Dispatch a Clamor of Harpies!",
+      "text": "Vertreibt die Harpyien!"
+    },
+    {
+      "key": "q20015005_00_291",
+      "read_index": "1",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Gegner"
+    },
+    {
+      "key": "q20015005_00_291",
+      "read_index": "2",
+      "source_jp": "<NAME AREA>は\r\nここ数日異様な気配に満ちているらしい",
+      "source_en": "<NAME AREA> \r\nseems to be filled with an unusual \r\natmosphere these past few days.",
+      "text": "Von der <NAME AREA> kommen seit ein paar\r\nTagen beunruhigende Meldungen."
+    },
+    {
+      "key": "q20015005_00_291",
+      "read_index": "3",
+      "source_jp": "浜辺の中央付近で、ハーピー達の\r\n新しい群ができつつあるというじゃないか\r\nただでさえ鳥寄せ岩なんかで困ってると\r\nいうのに、居付かれちゃ大変だ！\r\n誰かなんとかしてくれ！",
+      "source_en": "It seems that a new flock of harpies is forming \r\nnear the center of the beach. \r\nWith the trouble from Birdcall Rock already, \r\nhaving them settle here would be a disaster! \r\nSomeone do something about it!",
+      "text": "Mitten am Strand soll sich ein neuer Schwarm\r\nHarpyien sammeln. Wir haben am\r\nVogellockfelsen schon genug Ärger. Wenn die\r\nsich auch noch dort einnisten, haben wir ein\r\nProblem. Kann jemand helfen?"
+    },
+    {
+      "key": "q20015005_00_806",
+      "read_index": "4",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Gegner"
+    }
+  ]
+}

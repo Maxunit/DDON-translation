@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Schildweiser",
+  "gmd_path": "ui\\00_message\\ui\\keyconfig_detail.gmd",
+  "arc_path": "\\ui\\uGUIKeyConfig.arc",
+  "entries": [
+    {
+      "key": "kcd_073",
+      "read_index": "73",
+      "source_jp": "<COL DAEEF3>【Ｆｉ】</COL>ガード　　　<COL DAEEF3>【Ｓｈ】</COL>シールドロック\r\n<COL DAEEF3>【Ｓｅ】</COL>ロープ構え　<COL DAEEF3>【Ｈｉ】</COL>ウィル・スタンス",
+      "source_en": "<COL DAEEF3>(Fi)</COL> Guard <COL DAEEF3>\r\n(Sh)</COL> Shield Lock\r\n<COL DAEEF3>(Se)</COL> Rope Stance <COL DAEEF3>\r\n(Hi)</COL> Will Stance",
+      "text": "<COL DAEEF3>(Fi)</COL> Blocken · <COL DAEEF3>(Sh)</COL> Schildblock\r\n<COL DAEEF3>(Se)</COL> Seil bereithalten · <COL DAEEF3>(Hi)</COL> Willenshaltung"
+    }
+  ]
+}

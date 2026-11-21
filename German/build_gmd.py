@@ -73,7 +73,12 @@ def render(base, groups, minimum=131125):
             targets[identity] = entry
     if not targets:
         raise ValueError('No translations supplied')
-    found = set()
+    sources = {
+        identity: {(source['source_jp'], source['source_en'])
+                   for source in (entry, *entry.get('alternate_sources', []))}
+        for identity, entry in targets.items()
+    }
+    found = {identity: set() for identity in targets}
     edits = []
     count = 0
     changed = 0
@@ -86,19 +91,20 @@ def render(base, groups, minimum=131125):
         identity = (row[1], row[4], row[5], row[7])
         if identity not in targets:
             continue
-        if identity in found:
+        source_pair = (row[2], row[3])
+        if source_pair in found[identity]:
             raise ValueError('Duplicate source entry: ' + repr(identity))
-        found.add(identity)
-        entry = targets[identity]
-        if row[2] != entry['source_jp'] or row[3] != entry['source_en']:
+        if source_pair not in sources[identity]:
             raise ValueError('Source text changed; review translation: ' + row[1])
+        found[identity].add(source_pair)
+        entry = targets[identity]
         value = entry['text']
         if not isinstance(value, str) or '\x00' in value:
             raise ValueError('Invalid translation: ' + row[1])
         tag_source = entry.get('tag_source', 'source_en')
         if tag_source not in ('source_en', 'source_jp'):
             raise ValueError('Invalid tag source: ' + row[1])
-        if TAGS.findall(value) != TAGS.findall(entry[tag_source]):
+        if TAGS.findall(value) != TAGS.findall(row[2 if tag_source == 'source_jp' else 3]):
             raise ValueError('Changed control tags: ' + row[1])
         if value == row[3]:
             continue
@@ -107,8 +113,9 @@ def render(base, groups, minimum=131125):
         changed += 1
     if count < minimum:
         raise ValueError(f'Incomplete base CSV: {count} records, minimum {minimum}')
-    if found != targets.keys():
-        raise ValueError('Missing source entries: ' + repr(targets.keys() - found))
+    missing = {identity for identity, expected in sources.items() if found[identity] != expected}
+    if missing:
+        raise ValueError('Missing source entries: ' + repr(missing))
     pieces = []
     cursor = 0
     for a, b, replacement in edits:

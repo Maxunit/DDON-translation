@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q00000006_00.gmd",
+  "arc_path": "\\quest\\q00000006.arc",
+  "entries": [
+    {
+      "key": "q00000006_00_6",
+      "read_index": "0",
+      "source_jp": "森の中の少女",
+      "source_en": "The Girl in the Forest",
+      "text": "Das Mädchen im Wald"
+    },
+    {
+      "key": "q00000006_00_6",
+      "read_index": "1",
+      "source_jp": "姿を消したメイリーフを捜索し保護する",
+      "source_en": "Search for and rescue Mayleaf, \r\nwho has disappeared from the Temple.",
+      "text": "Mayleaf ist verschwunden. Finde sie und bring\r\nsie in Sicherheit."
+    },
+    {
+      "key": "q00000006_00_967",
+      "read_index": "2",
+      "source_jp": "メイリーフを捜しにミスリウ森林へ向かう",
+      "source_en": "Search for Mayleaf in Mysree Forest",
+      "text": "Suche Mayleaf im Mysree-Wald"
+    },
+    {
+      "key": "q00000006_00_968",
+      "read_index": "3",
+      "source_jp": "燐光虫の洞窟に入りメイリーフを捜す",
+      "source_en": "Look for Mayleaf in Glowworm Cave",
+      "text": "Suche Mayleaf in der Glühwürmchenhöhle"
+    },
+    {
+      "key": "q00000006_00_969",
+      "read_index": "4",
+      "source_jp": "洞窟内のトロールを撃破する",
+      "source_en": "Defeat the Troll in the cave",
+      "text": "Besiege den Troll in der Höhle"
+    },
+    {
+      "key": "q00000006_00_970",
+      "read_index": "5",
+      "source_jp": "洞窟内で助けたメイリーフに話す",
+      "source_en": "Speak to Mayleaf in the cleared cave",
+      "text": "Sprich mit Mayleaf in der Höhle"
+    },
+    {
+      "key": "q00000006_00_971",
+      "read_index": "6",
+      "source_jp": "メイリーフとの待ち合わせ場所へ向かう",
+      "source_en": "Head to Mayleaf's meeting place",
+      "text": "Geh zum Treffpunkt mit Mayleaf"
+    },
+    {
+      "key": "q00000006_00_972",
+      "read_index": "7",
+      "source_jp": "謁見の間のジョゼフに経緯を報告する",
+      "source_en": "Report back to Joseph in the Audience Chamber",
+      "text": "Erstatte Joseph im Audienzsaal Bericht"
+    }
+  ]
+}

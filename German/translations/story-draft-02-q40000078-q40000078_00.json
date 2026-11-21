@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000078_00.gmd",
+  "arc_path": "\\quest\\q40000078.arc",
+  "entries": [
+    {
+      "key": "q40000078_00_78",
+      "read_index": "0",
+      "source_jp": "白翼覚者隊・収集依頼　ブリア海岸",
+      "source_en": "White Wings: Collection (Breya Coast)",
+      "text": "Weißer Flügel: Sammlung in Breya"
+    },
+    {
+      "key": "q40000078_00_78",
+      "read_index": "1",
+      "source_jp": "ローテス滞在中の覚者様に、神殿より通達です\r\n対応可能であれば、任地にて<LQIM>、<LQVA>個を神殿まで納品願います\r\n他の任務がある場合、そちらを優先してください",
+      "source_en": "Arisen in Rotes, a notice from the Temple:\r\nIf possible, please deliver\r\n<LQVA> <LQIM>\r\nto the Temple from your current location.\r\nIf you have other tasks, please prioritize them.",
+      "text": "Mitteilung des Tempels an die Erweckten\r\nin Rotes. Gesucht wird:\r\n<LQIM>\r\nBringt nach Möglichkeit <LQVA> Stück zum\r\nTempel. Andere Aufträge haben Vorrang.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

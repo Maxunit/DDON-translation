@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Schildweiser",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_info_05.gmd",
+  "arc_path": "\\skill\\normal_skill_data_05.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_INFO_05_70",
+      "read_index": "0",
+      "source_jp": "大盾で殴りつける",
+      "source_en": "Attack with your greatshield.",
+      "text": "Schlage mit dem Großschild zu."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_05_83",
+      "read_index": "1",
+      "source_jp": "空中から大盾で殴りつける",
+      "source_en": "Attack with your greatshield in the air.",
+      "text": "Schlage aus der Luft mit dem Großschild zu."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_05_72",
+      "read_index": "2",
+      "source_jp": "ロッドに属性効果を付与する\r\n（炎・氷・雷のいずれか）\r\n空中でも発動可能\r\n<COL ffdc78>LV UPで選択可能属性が聖・闇を含む\r\n５属性の＜ペンタエレメントチェンジ＞に進化</COL>",
+      "source_en": "Change the elemental attribute on your rod.\r\n(Ice/Fire/Lightning)\r\nCan be activated in the air.\r\n<COL ffdc78>LV ↑: Add the elements of Holy \r\nand Darkness to selection.</COL>",
+      "text": "Verleiht deinem Stab Feuer, Eis oder Blitz.\r\nAuch in der Luft einsetzbar.\r\n<COL ffdc78>Beim Aufstieg wird daraus der\r\nFünffach-Elementwechsel.\r\nDazu kommen Heilig und Dunkel.</COL>"
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_05_73",
+      "read_index": "3",
+      "source_jp": "ロッドに属性効果を付与する\r\n（炎・氷・雷・聖・闇のいずれか）\r\n空中でも発動可能",
+      "source_en": "Change the elemental attribute on your rod.\r\n(Ice/Fire/Lightning/Holy/Darkness)\r\nCan be activated in the air.",
+      "text": "Verleiht deinem Stab Feuer, Eis, Blitz,\r\nHeilig oder Dunkel.\r\nAuch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_05_74",
+      "read_index": "4",
+      "source_jp": "大盾で敵の攻撃を自動的に防ぎ、攻力を吸収する\r\nロッドの選択属性と受けた攻撃が同属性だと\r\n吸収量増加。空中でも発動可能",
+      "source_en": "Block the enemy's attack with your greatshield to\r\ncharge the gauge with the current element on your rod.\r\nCan be activated in the air.",
+      "text": "Das Großschild blockt Angriffe automatisch\r\nund nimmt ihre Kraft auf. Passt ein Treffer\r\nzum Element am Stab, absorbierst du mehr.\r\nAuch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_05_75",
+      "read_index": "5",
+      "source_jp": "大盾を構え、防御方向を固定する\r\n固定中は攻力吸収量が上がり、スキが減少\r\nロッドの選択属性と受けた攻撃が同属性だと\r\n吸収量増加。空中でも発動可能",
+      "source_en": "Affix your greatshield towards the enemy, increasing\r\nthe rate of gauge gain. Gauge increase is larger\r\nif the attack matches the element on your rod.\r\nCan be activated in the air.",
+      "text": "Fixiert die Blockrichtung des Großschilds.\r\nDu absorbierst mehr und bist kürzer offen.\r\nPasst das Element des Treffers zum Stab,\r\nabsorbierst du mehr. Wirkt auch in der Luft."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_05_76",
+      "read_index": "6",
+      "source_jp": "大盾で敵の攻撃をタイミングよく直前防御する\r\n多量の攻力を吸収し、スタミナ消費もゼロになる\r\nロッドの選択属性と受けた攻撃が同属性だと\r\n吸収量増加。空中でも発動可能",
+      "source_en": "Perfectly block attacks at the last moment\r\nwith greatshield. Absorbs massive Force with\r\nzero stamina cost. Absorption increases if\r\nrod's element matches attack. Works mid-air.",
+      "text": "Ein Block im letzten Moment nimmt viel\r\nKraft auf und kostet keine Ausdauer.\r\nPasst das Element des Treffers zum Stab,\r\nabsorbierst du mehr. Wirkt auch in der Luft."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_05_77",
+      "read_index": "7",
+      "source_jp": "大盾に蓄積した攻力を敵に放つ\r\n空中でも発動可能\r\nフォースゲージ１本消費で発動可能",
+      "source_en": "Fire a ball of elemental energy at the enemy.\r\nThe element is the same as the current selected.\r\nConsumes 1 bar of Force Gauge.",
+      "text": "Feuert die im Großschild gespeicherte Kraft\r\nauf den Gegner. Kostet ein Segment der\r\nKraftanzeige. Auch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_05_78",
+      "read_index": "8",
+      "source_jp": "ロッドの閃光で敵の注目を集め、自身を狙わせる\r\n注目を集めている間、フォースゲージがやや増加する\r\n空中でも発動可能\r\n<COL ffdc78>LV UPで敵の注目を奪う効果がより大きい\r\n＜モアアトラクト＞に進化</COL>",
+      "source_en": "Attract the attention of the enemies.\r\nIncreases Force Gauge slightly during execution.\r\n<COL ffdc78>LV ↑ Increases the amount of attraction.</COL>",
+      "text": "Ein Lichtblitz lenkt Gegner auf dich.\r\nBeim Provozieren füllt sich\r\ndie Kraftanzeige etwas.\r\nAuch in der Luft einsetzbar.\r\n<COL ffdc78>Beim Aufstieg wird daraus „Provozieren +“\r\nmit stärkerer Wirkung.</COL>"
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_05_79",
+      "read_index": "9",
+      "source_jp": "ロッドの閃光で敵の注目をより集め、自身を狙わせる\r\n注目を集めている間、フォースゲージがやや増加する\r\n空中でも発動可能",
+      "source_en": "Attract the attention of enemies by a large amount.\r\nIncreases Force Gauge slightly during execution.\r\nCan be activated in the air.",
+      "text": "Ein Lichtblitz lenkt Gegner stärker auf dich.\r\nBeim Provozieren füllt sich\r\ndie Kraftanzeige etwas.\r\nAuch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_05_80",
+      "read_index": "10",
+      "source_jp": "大盾に蓄積した攻力（炎・氷・雷・聖・闇いずれか）\r\nを属性化し味方に付与する。空中でも発動可能\r\nフォースゲージ１本消費で発動可能",
+      "source_en": "Consumes 1 bar of Force Gauge to enchant ally\r\nweapons with the currently selected rod element.\r\nCan be activated in the air.",
+      "text": "Verleiht Verbündeten das gewählte Element.\r\nKostet ein Segment der Kraftanzeige.\r\nAuch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_05_81",
+      "read_index": "11",
+      "source_jp": "敵の攻撃を大盾で防いだ直後、敵の注意を引く\r\n属性攻撃をするか、素早く後方に身を逸らす\r\n攻撃時フォースゲージ1本以上なら消費し技性能上昇",
+      "source_en": "Immediately after blocking, either attack\r\nthe enemy to increase enmity or dodge backwards.\r\nWill consume 1 Force Gauge to increase effects if available.",
+      "text": "Kontere direkt nach einem Block mit einem\r\nElementarangriff, der den Gegner auf dich\r\nlenkt, oder weiche zurück. Ab einem Segment\r\nnutzt der Konter Kraft für mehr Wirkung."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_05_91",
+      "read_index": "12",
+      "source_jp": "しがみついた状態から、付与した属性の異常値を\r\n敵に蓄積させる放射光を放つ\r\nフォースゲージ１本以上の時、消費して技性能上昇",
+      "source_en": "While clinging to an enemy, attack with the currently\r\nselected attribute. Will consume 1 bar of force\r\ngauge to enhance the effect if available.",
+      "text": "Beim Festklammern strahlst du Licht aus.\r\nEs baut den Zustand des gewählten Elements\r\nam Gegner auf. Ab einem Segment nutzt\r\nder Strahl Kraft für mehr Wirkung."
+    }
+  ]
+}

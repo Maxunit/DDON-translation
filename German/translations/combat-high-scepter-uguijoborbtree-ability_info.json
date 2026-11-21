@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Zauberklinge",
+  "gmd_path": "ui\\00_message\\skill\\ability_info.gmd",
+  "arc_path": "\\ui\\uGUIJobOrbTree.arc",
+  "entries": [
+    {
+      "key": "ABILITY_INFO_466",
+      "read_index": "118",
+      "source_jp": "魔力スタックが2以上の時に、筋力と魔力が増加する\r\n<COL ffdc78>LV UP毎に筋力と魔力がより増加</COL>",
+      "source_en": "Up to +25 STR/MGK while above 2 or more Magick stacks.\r\n<COL ffdc78>LV UP: Further increases Strength and Magick.</COL>",
+      "text": "Ab zwei Magieladungen steigen\r\nStärke und Magie.\r\n<COL ffdc78>Je Stufe steigen beide Werte weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_467",
+      "read_index": "10",
+      "source_jp": "魔印の減退速度が低下する\r\n<COL ffdc78>LV UP毎により減退速度がさらに低下</COL>",
+      "source_en": "Slows the drain of Magick Glyph.\r\n<COL ffdc78>LV UP: Further decreases the\r\ndrain.</COL>",
+      "text": "Das Zaubermal verblasst langsamer.\r\n<COL ffdc78>Je Stufe verblasst es noch langsamer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_468",
+      "read_index": "58",
+      "source_jp": "瀕死時に剣による攻撃の魔力吸収量が増加する\r\n<COL ffdc78>LV UP毎に魔力吸収量がより増加</COL>",
+      "source_en": "Sword attacks absorb more Magick\r\nwhile below 15% HP at Death's Door.\r\n<COL ffdc78>LV UP: Further increases magickal energy absorption.</COL>",
+      "text": "Bei kritischen LP entziehen\r\nSchwerttreffer mehr Magie.\r\n<COL ffdc78>Je Stufe steigt die entzogene Menge.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_469",
+      "read_index": "46",
+      "source_jp": "ルイン・ショットのダメージ量と\r\n吹き飛ばし力と弾速が増加する\r\n<COL ffdc78>LV UP毎にダメージと吹き飛ばし力がより増加</COL>",
+      "source_en": "Increases damage and Knockdown Power of Ruin Shot.\r\n<COL ffdc78>LV UP: Further increases damage and\r\nKnockdown Power.</COL>",
+      "text": "Der Verderbensschuss gewinnt an\r\nSchaden, Wucht und Geschosstempo.\r\n<COL ffdc78>Je Stufe mehr Schaden und Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_470",
+      "read_index": "154",
+      "source_jp": "純魔法発動後、一定時間魔法攻撃力が増加する\r\n<COL ffdc78>LV UP毎に効果時間がより増加</COL>",
+      "source_en": "Increases magickal attack after Pure Magick\r\ninvocation\r\nfor a period of time.\r\n<COL ffdc78>LV UP: Further increases\r\nduration.</COL>",
+      "text": "Nach reiner Magie steigt kurzzeitig\r\ndein magischer Angriff.\r\n<COL ffdc78>Je Stufe verlängert sich die Dauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_471",
+      "read_index": "166",
+      "source_jp": "純魔法発動後、一定時間物理攻撃力が増加する\r\n<COL ffdc78>LV UP毎に効果時間がより増加</COL>",
+      "source_en": "Increases physical attack after Pure Magick\r\ninvocation\r\nfor a period of time.\r\n<COL ffdc78>LV UP: Further increases\r\nduration.</COL>",
+      "text": "Nach reiner Magie steigt kurzzeitig\r\ndein physischer Angriff.\r\n<COL ffdc78>Je Stufe verlängert sich die Dauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_472",
+      "read_index": "94",
+      "source_jp": "剣による攻撃の魔力吸収量が上がる\r\n<COL ffdc78>LV UP毎に魔力吸収量がより増加</COL>",
+      "source_en": "Sword attacks absorb up to 15% more Magick.\r\n<COL ffdc78>LV UP: Further increases amount absorbed.</COL>",
+      "text": "Schwerttreffer entziehen mehr Magie.\r\n<COL ffdc78>Je Stufe steigt die entzogene Menge.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_473",
+      "read_index": "22",
+      "source_jp": "属性の付与されたルイン・ブレードで\r\nより敵を状態異常にかかりやすくする\r\n<COL ffdc78>LV UP毎に状態異常値がより増加</COL>",
+      "source_en": "Ruin Blade accumulates element faster when\r\nenchanted.\r\n<COL ffdc78>LV UP: Increases status effect\r\naccumulation.</COL>",
+      "text": "Eine elementar verstärkte Verderbensklinge\r\nbaut den entsprechenden Zustand\r\nam Gegner schneller auf.\r\n<COL ffdc78>Je Stufe wird der Aufbau stärker.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_474",
+      "read_index": "297",
+      "source_jp": "ルイン・ブレードの魔力消費量を増加させ\r\nダメージを大幅に増加させる\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Greatly increases the damage of Ruin Blade,\r\nup to 50% more, but doubles its gauge cost.\r\n<COL ffdc78>LV UP: Further increases damage.</COL>",
+      "text": "Verderbensklinge verursacht deutlich\r\nmehr Schaden und kostet mehr Magie.\r\n<COL ffdc78>Je Stufe steigt der Schaden weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_475",
+      "read_index": "273",
+      "source_jp": "純魔法を発動し魔力消費した際に少し魔力が残る\r\n<COL ffdc78>LV UP毎に魔力残量がより増加</COL>",
+      "source_en": "Retain up to 25% of the Magick gauge when using Pure Magick.\r\n<COL ffdc78>LV UP: Further increases the remaining portion.</COL>",
+      "text": "Beim Verbrauch durch reine Magie\r\nbleibt ein wenig Magie übrig.\r\n<COL ffdc78>Je Stufe bleibt mehr Magie übrig.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_477",
+      "read_index": "250",
+      "source_jp": "補助魔法を発動し魔力消費した際に少し魔力が残る\r\n<COL ffdc78>LV UP毎に魔力残量がより増加</COL>",
+      "source_en": "Retain up to 25% of the Magick gauge when using support Magick.\r\n<COL ffdc78>LV UP: Further increases the remaining portion.</COL>",
+      "text": "Beim Verbrauch durch Hilfsmagie\r\nbleibt ein wenig Magie übrig.\r\n<COL ffdc78>Je Stufe bleibt mehr Magie übrig.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_478",
+      "read_index": "34",
+      "source_jp": "攻撃を受けて体勢を崩された際の魔印の減退速度が低下する\r\n<COL ffdc78>LV UP毎により減退速度がさらに低下</COL>",
+      "source_en": "Slows the drain of Magick Glyph when you are\r\ndamaged or staggered.\r\n<COL ffdc78>LV UP: Further reduces the\r\ndrain.</COL>",
+      "text": "Das Zaubermal verblasst langsamer,\r\nwenn ein Treffer dich ins Taumeln bringt.\r\n<COL ffdc78>Je Stufe verblasst es noch langsamer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_479",
+      "read_index": "106",
+      "source_jp": "スタミナを一定量消費するスキルを使用した際に\r\n一定確率で消費を無効にする\r\n<COL ffdc78>LV UP毎に無効になる確率がより増加</COL>",
+      "source_en": "Has a chance to not consume stamina when\r\nyou use custom skills.\r\n<COL ffdc78>LV UP: Further increases the\r\nchance.</COL>",
+      "text": "Fertigkeiten, die Ausdauer verbrauchen,\r\nkönnen ohne Ausdauerverbrauch wirken.\r\n<COL ffdc78>Je Stufe steigt die Chance dafür.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_480",
+      "read_index": "190",
+      "source_jp": "フォースゲージ／リベンジゲージ／魔力ゲージを\r\n消費するスキルを使用した際に\r\n一定確率で消費を無効にする\r\n<COL ffdc78>LV UP毎に無効になる確率がより増加</COL>",
+      "source_en": "When using skills that consume power, has a max 10% chance\r\nto not consume Force / Revenge / Magick gauges.\r\n<COL ffdc78>LV UP: Further increases chance up to 10%.</COL>",
+      "text": "Beim Einsatz einer Fertigkeit bleibt\r\ngelegentlich die Kraft-, Rache- oder\r\nMagieanzeige erhalten.\r\n<COL ffdc78>Je Stufe steigt die Chance dafür.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_481",
+      "read_index": "214",
+      "source_jp": "大砲の砲弾により与えるダメージと吹き飛ばし力が増加する\r\n<COL ffdc78>LV UP毎にダメージと吹き飛ばし力がより増加</COL>",
+      "source_en": "Increases damage and Knockdown Power when using\r\nartillery.\r\n<COL ffdc78>LV UP: Further increases damage and\r\nKnockdown Power.</COL>",
+      "text": "Kanonenkugeln verursachen mehr\r\nSchaden und haben mehr Wucht.\r\n<COL ffdc78>Je Stufe steigen Schaden und Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_482",
+      "read_index": "178",
+      "source_jp": "毒沼やマグマなどの特殊な地形から受けるダメージや\r\n状態異常値が減る\r\n<COL ffdc78>LV UP毎にダメージと状態異常値がさらに減少</COL>",
+      "source_en": "Lower damage and status effect accumulation from\r\nterrains such as poison and magma.\r\n<COL ffdc78>LV UP: Further decreases damage and\r\nstatus effect accumulation.</COL>",
+      "text": "Gift, Lava und ähnliches Gelände\r\nverursachen weniger Schaden und\r\nbauen weniger Zustände auf.\r\n<COL ffdc78>Je Stufe sinken Schaden und Aufbau.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_483",
+      "read_index": "70",
+      "source_jp": "疲労攻力が上昇する\r\n<COL ffdc78>LV UP毎に疲労攻力がより増加</COL>",
+      "source_en": "Gain up to +10 Exhaust Attack.\r\n<COL ffdc78>LV UP: Further increases Exhaust Attack.</COL>",
+      "text": "Erhöht die Erschöpfungskraft.\r\n<COL ffdc78>Je Stufe steigt sie weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_484",
+      "read_index": "130",
+      "source_jp": "体力が一定量以上のとき、疲労攻力が上昇する\r\n<COL ffdc78>LV UP毎に疲労攻力がより増加</COL>",
+      "source_en": "Gain up to +15 Exhaust Attack\r\nwhile above 80% Health.\r\n<COL ffdc78>LV UP: Further increases Exhaust Attack.</COL>",
+      "text": "Bei hohen LP steigt die\r\nErschöpfungskraft.\r\n<COL ffdc78>Je Stufe steigt sie weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_485",
+      "read_index": "82",
+      "source_jp": "瀕死状態中に、疲労攻力が上昇する\r\n<COL ffdc78>LV UP毎に疲労攻力がより増加</COL>",
+      "source_en": "Gain up to +15 Exhaust Attack\r\nwhile below 20% Health at Death's Door.\r\n<COL ffdc78>LV UP: Further increases Exhaust Attack.</COL>",
+      "text": "Bei kritischen LP steigt die\r\nErschöpfungskraft.\r\n<COL ffdc78>Je Stufe steigt sie weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_486",
+      "read_index": "142",
+      "source_jp": "スタミナが一定量以上のとき、疲労攻力が上昇する\r\n<COL ffdc78>LV UP毎に疲労攻力がより増加</COL>",
+      "source_en": "Gain up to +15 Exhaust Attack\r\nwhile above 80% Stamina.\r\n<COL ffdc78>LV UP: Further increases Exhaust Attack.</COL>",
+      "text": "Bei hoher Ausdauer steigt die\r\nErschöpfungskraft.\r\n<COL ffdc78>Je Stufe steigt sie weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_487",
+      "read_index": "285",
+      "source_jp": "敵にダメージを与えた時\r\n自身の蓄積中の状態異常値が減少する\r\n<COL ffdc78>LV UP毎に状態異常値がさらに減少</COL>",
+      "source_en": "Status effect accumulation on yourself decreases\r\nwhen you are attacking enemies.\r\n<COL ffdc78>LV UP: Further decreases status\r\neffect accumulation.</COL>",
+      "text": "Fügst du einem Gegner Schaden zu,\r\nsinkt der Zustandsaufbau bei dir.\r\n<COL ffdc78>Je Stufe sinkt er stärker.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_488",
+      "read_index": "226",
+      "source_jp": "戦甲へ与えるダメージと吹き飛ばし力が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Deal up to 25% more damage and Knockdown Power\r\nagainst armored parts of War-Ready enemies.\r\n<COL ffdc78>LV UP: Further increases damage and Knockdown Power.</COL>",
+      "text": "Erhöht Schaden und Wucht gegen\r\nTeile einer Kriegsrüstung.\r\n<COL ffdc78>Je Stufe steigt der Schaden weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_489",
+      "read_index": "202",
+      "source_jp": "戦甲系の敵から受けるダメージ量が減少する\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Take up to 25% reduced damage from War-Ready enemies.\r\n<COL ffdc78>LV UP: Further reduce damage taken.</COL>",
+      "text": "Gegner mit Kriegsrüstung fügen dir\r\nweniger Schaden zu.\r\n<COL ffdc78>Je Stufe sinkt ihr Schaden weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_490",
+      "read_index": "238",
+      "source_jp": "戦甲系の敵に与えるダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Deal up to 15% more damage to War-Ready enemies.\r\n<COL ffdc78>LV UP: Further increases damage dealt.</COL>",
+      "text": "Du fügst Gegnern mit Kriegsrüstung\r\nmehr Schaden zu.\r\n<COL ffdc78>Je Stufe steigt der Schaden weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_493",
+      "read_index": "381",
+      "source_jp": "四連斬のダメージ量が増加する\r\n<COL ffdc78>LVUP毎にダメージがより増加\r\nLV5～6で魔力吸収量が増加</COL>",
+      "source_en": "Increases damage of Quadruple Slash.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases magickal energy absorption.</COL>",
+      "text": "Erhöht den Schaden von Vierfachhieb.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Magieaufnahme.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_494",
+      "read_index": "393",
+      "source_jp": "弧連斬のダメージ量が増加する\r\n<COL ffdc78>LVUP毎にダメージがより増加\r\nLV5～6で魔力吸収量が増加</COL>",
+      "source_en": "Increases damage of Arc Slash.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases magickal energy absorption.</COL>",
+      "text": "Erhöht den Schaden von Bogenhieb.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Magieaufnahme.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_495",
+      "read_index": "405",
+      "source_jp": "空叉斬のダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で魔力吸収量が増加</COL>",
+      "source_en": "Increases damage of Sky Slash.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases magickal energy absorption.</COL>",
+      "text": "Erhöht den Schaden von Luftschnitt.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Magieaufnahme.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_496",
+      "read_index": "417",
+      "source_jp": "昇墜斬のダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で魔力吸収量が増加</COL>",
+      "source_en": "Increases damage of Falling Slash.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases magickal energy absorption.</COL>",
+      "text": "Erhöht den Schaden von Sturzhieb.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Magieaufnahme.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_497",
+      "read_index": "357",
+      "source_jp": "全てのノーマルスキルのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "All core skills deal up to 15% more damage.\r\n<COL ffdc78>LV UP: Further increases damage.</COL>",
+      "text": "Erhöht den Schaden aller\r\nGrundfertigkeiten.\r\n<COL ffdc78>Je Stufe steigt der Schaden weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_498",
+      "read_index": "429",
+      "source_jp": "発動すると前方へ大きく移動するスキルの\r\nダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Increases the damage of skills that move you\r\nforward.\r\n<COL ffdc78>LV UP: Further increases damage.</COL>",
+      "text": "Fertigkeiten, mit denen du weit\r\nvorstößt, richten mehr Schaden an.\r\n<COL ffdc78>Je Stufe steigt der Schaden weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_499",
+      "read_index": "309",
+      "source_jp": "四連斬のダメージ量が増加する\r\n<COL ffdc78>LVUP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Increases damage of Quadruple Slash.\r\n<COL ffdc78>LV UP: Increases damage further.\r\nLV5～6: Increases Knockdown Power.</COL>",
+      "text": "Erhöht den Schaden von Vierfachhieb.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_500",
+      "read_index": "321",
+      "source_jp": "弧連斬のダメージ量が増加する\r\n<COL ffdc78>LVUP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Increases damage of Arc Slash.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases Knockdown Power.</COL>",
+      "text": "Erhöht den Schaden von Bogenhieb.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_501",
+      "read_index": "345",
+      "source_jp": "昇墜斬のダメージ量が増加する\r\n<COL ffdc78>LVUP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Increases damage of Fall Slash.\r\n<COL ffdc78>LV UP: Increases damage further.\r\nLV5～6: Increases Knockdown Power.</COL>",
+      "text": "Erhöht den Schaden von Sturzhieb.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_502",
+      "read_index": "333",
+      "source_jp": "空叉斬のダメージ量が増加する\r\n<COL ffdc78>LVUP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Increases damage of Sky Slash.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases Knockdown Power.</COL>",
+      "text": "Erhöht den Schaden von Luftschnitt.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_503",
+      "read_index": "441",
+      "source_jp": "敵の攻撃に合わせて発動することで\r\nダメージを与えるスキルのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Increases damage for skills that trigger based on\r\nenemy's attacks.\r\n<COL ffdc78>LV UP: Further increases damage.</COL>",
+      "text": "Fertigkeiten, die bei einer gegnerischen\r\nAttacke Schaden auslösen, richten\r\nmehr Schaden an.\r\n<COL ffdc78>Je Stufe steigt der Schaden weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_504",
+      "read_index": "369",
+      "source_jp": "剣による攻撃の魔印の成長速度が増加するが、\r\n攻撃を受けて体勢を崩された際の減退量も増加する\r\n<COL ffdc78>LV UP毎に魔印の成長速度がより増加</COL>",
+      "source_en": "Increases Magick Glyph growth when using sword\r\nskills, but also increases Magick Glyph decay \r\nwhen being staggered.\r\n<COL ffdc78>LV UP: Further increases growth\r\nrate.</COL>",
+      "text": "Schwerttreffer lassen das Zaubermal\r\nschneller wachsen. Gerätst du ins Taumeln,\r\nverblasst das Mal stärker.\r\n<COL ffdc78>Je Stufe wächst das Mal schneller.</COL>"
+    }
+  ]
+}

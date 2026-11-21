@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_461",
+      "read_index": "11",
+      "source_jp": "ブリア海岸",
+      "source_en": "Breya Coast",
+      "text": "Breya-Küste"
+    },
+    {
+      "key": "SPOT_NAME_472",
+      "read_index": "22",
+      "source_jp": "燐光虫の洞窟",
+      "source_en": "Glowworm Cave",
+      "text": "Glühwürmchenhöhle"
+    },
+    {
+      "key": "SPOT_NAME_585",
+      "read_index": "134",
+      "source_jp": "海辺の地下室",
+      "source_en": "Seaside Cellar",
+      "text": "Keller am Meer"
+    },
+    {
+      "key": "SPOT_NAME_617",
+      "read_index": "163",
+      "source_jp": "隠れ浜",
+      "source_en": "Hidden Beach",
+      "text": "Versteckter Strand"
+    },
+    {
+      "key": "SPOT_NAME_618",
+      "read_index": "164",
+      "source_jp": "鳥寄せ岩",
+      "source_en": "Birdcall Rock",
+      "text": "Vogellockfelsen"
+    }
+  ]
+}

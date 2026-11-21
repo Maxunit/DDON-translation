@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5 – Seneka, Werkstatt und der scharlachrote Kristall",
+  "gmd_path": "ui\\00_message\\quest_info\\q60000016_00.gmd",
+  "arc_path": "\\quest\\q60000016.arc",
+  "entries": [
+    {
+      "key": "q60000016_00_18",
+      "read_index": "0",
+      "source_jp": "クラフトで伝える心",
+      "source_en": "Crafted Token of the Heart",
+      "text": "Ein Ring als Zeichen"
+    },
+    {
+      "key": "q60000016_00_18",
+      "read_index": "1",
+      "source_jp": "イリスの依頼を聞き入れ\r\nポーンのクラフト能力を用いアイテムを生産する",
+      "source_en": "Per Iris's request, use the crafting abilities\r\nof Pawns to produce items.",
+      "text": "Iris bittet dich um einen Ring. Lass ihn von\r\ndeinem Vasallen in der Werkstatt anfertigen."
+    },
+    {
+      "key": "q60000016_00_1121",
+      "read_index": "5",
+      "source_jp": "ソニアに話して＜そよかぜのリング＞を作成する",
+      "source_en": "Speak to Sonia and craft a \"Zephyr Ring\"",
+      "text": "Fertige bei Sonia einen Zephyrring an"
+    },
+    {
+      "key": "q60000016_00_1122",
+      "read_index": "8",
+      "source_jp": "謁見の間にいるイリスに経緯を報告する",
+      "source_en": "Report back to Iris in the Audience Chamber",
+      "text": "Berichte Iris im Audienzsaal, wie es lief"
+    },
+    {
+      "key": "q60000016_00_1123",
+      "read_index": "7",
+      "source_jp": "メイリーフに＜そよかぜのリング＞を届ける",
+      "source_en": "Deliver the Zephyr Ring to Mayleaf",
+      "text": "Bring Mayleaf den Zephyrring"
+    },
+    {
+      "key": "q60000016_00_1193",
+      "read_index": "2",
+      "source_jp": "神殿内の中央広場にあるクラフトルームに向かう",
+      "source_en": "Head to the Workshop in the Temple Central Plaza",
+      "text": "Geh zur Werkstatt am Zentralplatz des Tempels"
+    },
+    {
+      "key": "q60000016_00_1194",
+      "read_index": "4",
+      "source_jp": "＜青銅鉱＞と＜ベビーハーブ＞を１つずつ入手する",
+      "source_en": "Obtain a Bronze Ore and Baby Herb",
+      "text": "Besorge je ein Bronzeerz und ein Junges Kraut"
+    },
+    {
+      "key": "q60000016_00_1205",
+      "read_index": "3",
+      "source_jp": "クラフトルームにいるソニアと話す",
+      "source_en": "Speak with Sonia in the Workshop",
+      "text": "Sprich mit Sonia in der Werkstatt"
+    },
+    {
+      "key": "q60000016_00_1208",
+      "read_index": "6",
+      "source_jp": "ソニアともう一度話す",
+      "source_en": "Speak to Sonia again",
+      "text": "Sprich erneut mit Sonia"
+    }
+  ]
+}

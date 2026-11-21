@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\custom_skill_info_01.gmd",
+  "arc_path": "\\skill\\custom_skill_data_01.arc",
+  "entries": [
+    {
+      "key": "CUSTOM_SKILL_INFO_01_8",
+      "read_index": "0",
+      "source_jp": "前方に猛ダッシュしつつ鋭い突き攻撃を放つ\r\n突進距離に応じて威力が上昇する\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で最大移動距離が延長／\r\n突進距離最長時に敵のガード状態を崩す</COL>",
+      "source_en": "Rushes at the target and visits a powerful blow\r\nupon them. Damage increases the further you dash.\r\n<COL ffdc78>LV UP: Increases damage.\r\nLV.6: Increases maximum rush distance.\r\nBreaks enemy guard when rushing at maximum range.</COL>",
+      "text": "Stürme los und stoße mit dem Schwert zu. Je\r\nweiter du stürmst, desto mehr Schaden.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Längerer Ansturm. Am Ende der vollen\r\nStrecke brichst du die gegnerische Deckung.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_12",
+      "read_index": "1",
+      "source_jp": "足元から直上へ鋭く斬り上げ、\r\n軽量の敵を上空へ打ち上げる\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で速度上昇／攻撃ヒット数増加</COL>",
+      "source_en": "Traces a grand skyward arc with the blade,\r\nsending lightweight foes into the air.\r\n<COL ffdc78>LV UP: Increases damage.\r\nLV.6: Increases attack speed and number of hits.</COL>",
+      "text": "Schlage mit dem Schwert nach oben und\r\nschleudere leichte Gegner in die Luft.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Schnellerer Hieb und mehr Treffer.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_10",
+      "read_index": "2",
+      "source_jp": "盾による打撃特化の連続攻撃を繰り出す。敵を怯ませ\r\nやすく、ボタンの連打で攻撃回数が増加する\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６でモーション変化／\r\n最大攻撃回数増加（３→５）</COL>",
+      "source_en": "Unleashes a barrage of strikes using the shield.\r\nEasily staggers enemy. Can be used continously.\r\n<COL ffdc78>LV UP: Increases damage.\r\nLV.6: Motion changes.\r\nIncreases number of hits (3→5).</COL>",
+      "text": "Schlage mehrmals mit dem Schild zu. Bringt\r\nGegner leicht ins Taumeln. Mit jedem\r\nTastendruck setzt du einen Schlag nach.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Geänderter Ablauf und bis zu fünf statt\r\ndrei Schläge.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_13",
+      "read_index": "3",
+      "source_jp": "頭上に連続斬りを繰り出す\r\nボタンの連打で攻撃回数が増加する\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で速度上昇／\r\n最大攻撃回数増加（３→５）</COL>",
+      "source_en": "Looses a flurry of skyward slashes well-suited\r\nto bringing flying foes to the ground.\r\n<COL ffdc78>LV UP: Increases damage.\r\nLV.6: Increases attack speed.\r\nIncreases maximum number of continous strikes (3→5).</COL>",
+      "text": "Schlage mehrmals nach oben. Mit jedem\r\nTastendruck setzt du einen Hieb nach.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Schneller und bis zu fünf statt drei\r\nHiebe.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_15",
+      "read_index": "4",
+      "source_jp": "後方に身を逸らし、すぐさま間合いを詰めて斬り払う\r\n敵の攻撃を回避しつつ繰り出せば威力が上昇する\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で受付時間延長／\r\n回避成功時、攻撃ヒット数増加</COL>",
+      "source_en": "Ducks backward afore charging in to deliver a slashing blow.\r\nUsing it as an evasive maneuver increases its power.\r\n<COL ffdc78>LV UP: Increases damage.\r\nLV.6: Extends evasion time.\r\nWhen an attack is evaded, increases number of hits.</COL>",
+      "text": "Weiche zurück, geh sofort wieder vor und\r\nschlage zu. Weichst du dabei einem Treffer aus,\r\nrichtet der Hieb mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Größeres Zeitfenster. Bei erfolgreichem\r\nAusweichen mehr Treffer.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_9",
+      "read_index": "5",
+      "source_jp": "跳躍し、鋭い一撃を放って下方に突き立てる\r\n落下距離により威力が上昇\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で攻撃ヒット数増加</COL> ",
+      "source_en": "Leap forward and stab your sword into the ground.\r\n<COL ffdc78>LV UP: Increases damage.\r\nLV.6: Increases number of hits.</COL>",
+      "text": "Spring hoch und stoße das Schwert nach unten.\r\nJe weiter du fällst, desto mehr Schaden.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Mehr Treffer.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_11",
+      "read_index": "6",
+      "source_jp": "盾で前方ガードを固めつつ、連続突きを繰り出す\r\nボタンの連打で攻撃回数が増加する\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で速度上昇／最大攻撃回数増加（５→８）</COL>",
+      "source_en": "Unleashes a flurry of stabbing attacks while\r\nmaintaining the user's guard. Can be used continously.\r\n<COL ffdc78>LV UP: Increases damage.\r\nLV.6: Increases attack speed.\r\nIncreases maximum number of strikes (5→8).</COL>",
+      "text": "Stich wiederholt zu, während du dich nach vorn\r\nmit dem Schild deckst. Jeder Tastendruck setzt\r\neinen weiteren Stich nach.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Schneller und bis zu acht statt fünf\r\nStiche.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_14",
+      "read_index": "7",
+      "source_jp": "円弧状に剣先を一回転させ、周囲の敵をなぎ払う\r\nのけぞり中にも発動可能\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６でモーション変化／攻撃ヒット数増加</COL>",
+      "source_en": "Spins with blade extended, drawing a deadly\r\ncircle especially effective when surrounded.\r\nEmployable while under attack.\r\n<COL ffdc78>LV UP: Increases damage.\r\nLV.6: Motion changes. Increases number of hits.</COL>",
+      "text": "Zieh das Schwert im Kreis durch Gegner um dich\r\nherum. Auch einsetzbar, wenn du ins Taumeln\r\ngerätst.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Geänderter Ablauf und mehr Treffer.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_18",
+      "read_index": "8",
+      "source_jp": "盾を構えながら素早く踏み込む\r\n<PADM>左スティック<KEYM>移動キー</KEYM>により特定方向に移動できる\r\n<COL ffdc78>LV UP毎に防御性能の上昇／スタミナ消費減少\r\nLV.６で移動速度上昇／移動方向に左右追加</COL>",
+      "source_en": "A quick forward lunge while guarding with a shield.\r\nUse the <PADM>left stick<KEYM>move key</KEYM> to dash in a specific direction.\r\n<COL ffdc78>LV UP: Decreases Stamina cost to block.\r\nLV.6: Able to dash left and right. Increases speed.</COL>",
+      "text": "Geh mit erhobenem Schild rasch vor. Die\r\nRichtung wählst du mit <PADM>dem linken Stick<KEYM>den\r\nBewegungstasten</KEYM>.\r\n<COL ffdc78>Je Stufe besserer Schutz und weniger\r\nAusdauerverbrauch.\r\nStufe 6: Schneller. Auch nach links und rechts\r\nmöglich.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_16",
+      "read_index": "9",
+      "source_jp": "素早く剣を突き、直後に引き抜く二段攻撃を放つ\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で攻撃ヒット数増加</COL>",
+      "source_en": "Delivers a quick stab and withdrawal slash\r\nwithout distancing user and target, allowing\r\nfor further blows thereafter.\r\n<COL ffdc78>LV UP: Increases damage.\r\nLV.6: Increases number of hits.</COL>",
+      "text": "Stoße rasch zu und triff beim Zurückziehen der\r\nKlinge ein zweites Mal.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Mehr Treffer.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_19",
+      "read_index": "10",
+      "source_jp": "攻撃を受け流しつつ剣で斬り抜ける。<PADM>左スティック<KEYM>移動キー</KEYM>により\r\n後方への斬り抜けも可能。攻撃を受ける瞬間の発動で威力上昇\r\n攻撃アクション中であればいつでも発動可能\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で攻撃範囲拡大／受付時間延長</COL>",
+      "source_en": "Hold your shield in wait, deflecting and seamlessly\r\ncountering enemy attacks. Use the <PADM>left stick<KEYM>move key</KEYM> to move\r\nforward or back. Perfect blocks deal more damage.\r\n<COL ffdc78>LV UP: Increases damage.\r\nLV.6: Increases range. Increases counter duration.</COL>",
+      "text": "Leite einen Angriff ab und schlage beim\r\nVorbeigehen zu. Mit <PADM>dem linken Stick<KEYM>den\r\nBewegungstasten</KEYM> kannst du auch nach hinten\r\nausweichen. Triffst du den Moment des Angriffs,\r\nsteigt der Schaden. Kann jederzeit während\r\neiner Angriffsaktion ausgelöst werden.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Größere Reichweite und größeres\r\nZeitfenster.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_17",
+      "read_index": "11",
+      "source_jp": "高威力の剣舞を広範囲に繰り出す\r\n初段を敵に接触させれば連撃に移行する\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６でモーション変化／攻撃ヒット数増加</COL>",
+      "source_en": "Wide-range, high-power sword dance.\r\nInitial hit connects for full combo.\r\n\r\n<COL ffdc78>LV UP: Damage increase LV.6: More hits + new motion</COL>",
+      "text": "Führe mächtige Hiebe in einem weiten Umkreis\r\naus. Trifft der erste Hieb, folgt die vollständige\r\nSchlagfolge.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Geänderter Ablauf und mehr Treffer.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_120",
+      "read_index": "12",
+      "source_jp": "しがみついた状態から、力を溜めこみ豪快に切り払う\r\n溜め中は敵の揺さぶりにも耐え、\r\nボタンの連打で威力が上昇する\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で攻撃ヒット数増加／必要入力回数減少</COL>",
+      "source_en": "Powerful charged strike while climbing enemies.\r\nResists being shaken off during charge.\r\nStrength increases with button presses.\r\n\r\n<COL ffdc78>LV UP: Damage increase LV.6: More hits, fewer presses needed</COL>",
+      "text": "Lade beim Festhalten einen kräftigen Hieb auf.\r\nWährenddessen kann dich der Gegner\r\nschlechter abschütteln. Mehr Tastendrücke\r\nerhöhen den Schaden.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Mehr Treffer und weniger nötige\r\nTastendrücke.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_121",
+      "read_index": "13",
+      "source_jp": "敵の攻撃の反動を利用し、斬りつけながら跳ね上がる\r\n跳躍後、ボタンの追加入力で派生斬りを発動\r\n攻撃アクション中であればいつでも発動可能\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で跳び上がる高度上昇／派生斬りの攻撃ヒット数増加</COL>",
+      "source_en": "Utilize an enemy attack to launch yourself, slashing upwards.\r\nAfter ascending, invert the direction of the \r\nslash with an additional button press.\r\n<COL ffdc78>LV UP: Increases damage of the skill.\r\nLV.6: Increase altitude of the launch, \r\nand number of hits of the inverted slash.</COL>",
+      "text": "Nutze den gegnerischen Treffer, um mit einem\r\nHieb hochzuspringen. Drücke erneut für einen\r\nFolgeangriff. Kann jederzeit während einer\r\nAngriffsaktion ausgelöst werden.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Höherer Sprung und mehr Treffer beim\r\nFolgeangriff.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_154",
+      "read_index": "14",
+      "source_jp": "【ＥＸ追加効果】\r\nダメージ量が増加\r\n攻撃ヒット数が増加\r\nチャンス攻力と疲労攻力がやや増加\r\n<COL ff7878>人間／竜族／錬金系の敵に与えるダメージ量が増加</COL>",
+      "source_en": "EX Additional Effects:\r\nIncrease damage.\r\nIncrease number of hits.\r\nSlightly increase Chance Attack and Exhaust Attack.\r\n<COL ff7878>Further increase damage to\r\nHuman/Dragonkin/Alchemized type enemies.</COL>",
+      "text": "EX-Zusatzeffekt\r\nMehr Schaden und Treffer. Etwas mehr\r\nChancen- und Erschöpfungskraft.\r\n<COL ff7878>Mehr Schaden gegen Menschen, Drachenwesen\r\nund alchemistische Gegner.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_155",
+      "read_index": "15",
+      "source_jp": "【ＥＸ追加効果】\r\n前方への攻撃範囲が大幅に拡張\r\n吹き飛ばし力が増加\r\nダメージ量がやや増加\r\nチャンス攻力と疲労攻力がやや増加",
+      "source_en": "EX Additional Effects:\r\nExtend the range of the attack.\r\nIncrease Knockdown Power.\r\nSlightly increase damage.\r\nSlightly increase Chance Attack and Exhaust Attack.",
+      "text": "EX-Zusatzeffekt\r\nDeutlich größere Reichweite nach vorn. Mehr\r\nWucht. Etwas mehr Schaden, Chancen- und\r\nErschöpfungskraft."
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_174",
+      "read_index": "16",
+      "source_jp": "【ＥＸ追加効果】\r\nダメージ量が増加\r\n吹き飛ばし力が増加\r\n気絶攻力が増加",
+      "source_en": "EX Additional Effects:\r\nIncrease damage.\r\nIncrease Knockdown Power.\r\nIncrease Stun Power.",
+      "text": "EX-Zusatzeffekt\r\nMehr Schaden, Wucht und Betäubungskraft."
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_175",
+      "read_index": "17",
+      "source_jp": "【ＥＸ追加効果】\r\nダメージ量がやや増加\r\nチャンス攻力と疲労攻力が増加\r\n攻撃範囲がやや拡張",
+      "source_en": "EX Additional Effects:\r\nSlightly increase damage.\r\nIncrease Chance Attack and Exhaust Attack.\r\nSlightly extend attack range",
+      "text": "EX-Zusatzeffekt\r\nMehr Chancen- und Erschöpfungskraft. Etwas\r\nmehr Schaden und Reichweite."
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_209",
+      "read_index": "18",
+      "source_jp": "【ＥＸ追加効果】\r\nダメージ量が増加\r\n引き抜きの攻撃ヒット数が増加\r\nジャンプの飛距離が延長",
+      "source_en": "EX Additional Effects:\r\nIncrease number of hits when pulling your sword out.\r\nIncrease leaping distance.",
+      "text": "EX-Zusatzeffekt\r\nMehr Schaden und mehr Treffer beim\r\nHerausziehen der Klinge. Weiterer Sprung."
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_210",
+      "read_index": "19",
+      "source_jp": "【ＥＸ追加効果】\r\n空中で発動可能になる\r\n吹き飛ばし力が増加\r\n攻撃対象に密着した状態で空中で発動すると\r\n対象を蹴ってより高くジャンプする",
+      "source_en": "EX Additional Effects:\r\nPossible to activate in the air.\r\nIncrease Knockdown Power.\r\nIf activated near enemies, use them as stepping stones\r\nand jump higher.",
+      "text": "EX-Zusatzeffekt\r\nIn der Luft einsetzbar und mehr Wucht. Löst du\r\nihn nah am Gegner aus, stößt du dich von ihm ab\r\nund springst höher."
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_211",
+      "read_index": "20",
+      "source_jp": "【ＥＸ追加効果】\r\nダメージ量が増加\r\n攻撃回数が増す度に剣を振る速度が上昇\r\n最大攻撃回数増加",
+      "source_en": "EX Additional Effects:\r\nIncrease damage.\r\nIncrease attack speed as the number of attack increases.\r\nIncrease maximum number of attacks.",
+      "text": "EX-Zusatzeffekt\r\nMehr Schaden und mehr mögliche Hiebe. Mit\r\njedem Hieb steigt das Tempo."
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_01_212",
+      "read_index": "21",
+      "source_jp": "【ＥＸ追加効果】\r\n攻撃範囲が大幅に拡張\r\n吹き飛ばし力増加",
+      "source_en": "EX Additional Effects:\r\nGreatly extend attack range.\r\nIncrease Knockdown Power.",
+      "text": "EX-Zusatzeffekt\r\nDeutlich größere Reichweite und mehr Wucht."
+    }
+  ]
+}

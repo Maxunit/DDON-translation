@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5 – Seneka, Werkstatt und der scharlachrote Kristall",
+  "gmd_path": "ui\\00_message\\quest\\q00000025.gmd",
+  "arc_path": "\\quest\\q00000025.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "4",
+      "source_jp": "なあ――\r\nグリッテン砦までひとっ走りどうだ？\r\n届けてもらいたい物があるんだ",
+      "source_en": "Hey, listen...\r\nHow about making a quick run to Fort Gritten?\r\nThere's something I want you to deliver for me.",
+      "text": "Hör mal. Kannst du kurz zur Festung Gritten?\r\nIch habe etwas, das du dort abliefern sollst."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "source_jp": "砦の守備隊長、ヴァネッサは知っているか？\r\n戦闘と鍛錬に明け暮れる彼女の生き方は\r\nおれたち覚者の人生の、ひとつの解答だ",
+      "source_en": "Do you know Vanessa, \r\nthe captain of the fort's garrison?\r\nHer way of life, consumed by combat and training,\r\nis one answer to how to conduct ourselves as Arisen.",
+      "text": "Kennst du Vanessa, die Hauptfrau der\r\nGarnison? Für sie zählen Kampf und Übung.\r\nAuch so kann man als Erweckter leben."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "source_jp": "言葉を交わせば何か得るものがあるだろう\r\nだから、この仕事はおまえに頼みたい\r\nいや、これは命令だ",
+      "source_en": "If you exchange words, \r\nthere must be something to gain, right?\r\nThat's why I want to rely on you for this job.\r\nNo, that's an order.",
+      "text": "Ein Gespräch mit ihr könnte dir guttun.\r\nDeshalb vertraue ich dir die Aufgabe an.\r\nSagen wir lieber: Das ist ein Befehl."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "source_jp": "ご苦労だった\r\nおまえが見事に魔物を倒したという\r\n報告は受けている",
+      "source_en": "Thanks for your hard work.\r\nI've been informed that you have\r\nsuccessfully defeated the demon.",
+      "text": "Gute Arbeit. Ich habe schon gehört, dass du\r\ndas Monster besiegt hast."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "source_jp": "ひとつ確認しておきたいのだが\r\n戦利品は《ブラッドオーブ》だったろう？",
+      "source_en": "There is something I want to confirm.\r\nThe spoils were \"Blood Orbs,\" right?",
+      "text": "Eine Frage habe ich noch. Deine Beute war\r\neine Blutkugel, richtig?"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "source_jp": "うむ、やはりな\r\nその《ブラッドオーブ》は神殿に持ち帰って\r\n白竜に捧げてくれ",
+      "source_en": "Yes, as expected. Please bring that\r\n[Blood Orb] back to the Temple\r\nand offer it to the White Dragon.",
+      "text": "Das dachte ich mir. Bring die Kugel zum\r\nTempel zurück und opfere sie dem Weißen\r\nDrachen."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "source_jp": "白竜の回復が我々覚者の能力を引き上げ\r\nひいてはこの長き戦いに終止符を\r\n打つことになるのだ",
+      "source_en": "The recovery of the White Dragon\r\nwill enhance our abilities as Arisen,\r\nso we can conclude this neverending battle.",
+      "text": "Wenn der Weiße Drache zu Kräften kommt,\r\nwerden auch wir Erweckten stärker. So können\r\nwir diesem langen Kampf ein Ende setzen."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "source_jp": "詳しいことは神殿のミシアルに聞くといい",
+      "source_en": "It is best to ask Mysial at the Temple\r\nfor more details on this matter.",
+      "text": "Mysial im Tempel kann dir mehr darüber\r\nsagen."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "source_jp": "ああ、知っているかもしれないが\r\n我々は《リム》と呼ばれる力を使って\r\nこの身体を遠方へ転移することができる",
+      "source_en": "Ah, you may already know this, \r\nbut we can channel through \"Rift Crystals\"\r\nto transfer our bodies to distant places.",
+      "text": "Vielleicht weißt du es schon. Mit der Kraft des\r\nRifts können wir in weit entfernte Gegenden\r\nreisen."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "source_jp": "つまり、無用な体力を使わずに\r\n拠点間を往来できるというわけだ\r\nもちろん神殿へも一瞬で帰ることができる",
+      "source_en": "This means that you can go back and forth\r\nbetween locations without using unnecessary energy\r\nand of course, return to the Temple in an instant!",
+      "text": "So sparst du dir den Fußmarsch zwischen\r\nStützpunkten. Auch zum Tempel kommst du in\r\neinem Augenblick zurück."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "source_jp": "覚えておくといい",
+      "source_en": "It will be good to keep this in mind.",
+      "text": "Merk dir das."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "source_jp": "ああ、戻ったのか\r\nご苦労だったな",
+      "source_en": "Oh, you're back.\r\nThanks for your help.",
+      "text": "Da bist du wieder. Gute Arbeit!"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "source_jp": "少し休んで――いや、その前に話しておこう\r\n突然出現した巨大な建造物の話は聞いたか？",
+      "source_en": "Get some rest—no, let's talk first.\r\nDid you hear about the huge structure\r\nthat suddenly appeared?",
+      "text": "Ruh dich erst mal aus … warte. Hast du von\r\ndem riesigen Bauwerk gehört, das plötzlich\r\naufgetaucht ist?"
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "source_jp": "我々はその場所を特定し――\r\nアークと呼ぶことにした",
+      "source_en": "We decided to call that place -\r\nThe Ark.",
+      "text": "Wir wissen inzwischen, wo es steht. Wir\r\nnennen es die Arche."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "source_jp": "今、ジョゼフと一緒に調査隊の人選を進めている",
+      "source_en": "I'm working with Joseph right now \r\nto select people for the survey team.",
+      "text": "Joseph und ich stellen gerade einen\r\nErkundungstrupp zusammen."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "source_jp": "最初に言っておくが\r\nおまえは俺と居残ってもらうぞ\r\n砦からオークを追いだしたとはいえ\r\nこのあたりはまだ安全とは言えないからな",
+      "source_en": "First off, you're staying with me.\r\nEven though we've driven the Orcs out of the fort,\r\nit's still not safe around here.",
+      "text": "Eins vorweg: Du bleibst bei mir. Wir haben die\r\nOrks aus der Festung vertrieben, aber die\r\nGegend ist immer noch gefährlich."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "source_jp": "では、次の指示があるまで――！？",
+      "source_en": "Then, until the next orders—!?",
+      "text": "Dann warte auf meine nächsten Anwei… Was\r\nist das?!"
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "source_jp": "おいおい、《ブラッドオーブ》を持ち帰るとは\r\n頼もしいじゃないか\r\nよし、早速白竜に捧げてくれ",
+      "source_en": "Hey, bringing back the \"Blood Orb\" is impressive.\r\nAlright, offer it to the White Dragon right away.",
+      "text": "Du hast eine Blutkugel mitgebracht? Alle\r\nAchtung. Opfere sie gleich dem Weißen\r\nDrachen!"
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "source_jp": "《ブラッドオーブ》を手に入れたのですね",
+      "source_en": "You obtained the [Blood Orb], didn't you?",
+      "text": "Ihr habt eine Blutkugel gefunden?"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "source_jp": "それは白竜様の竜力が大地を巡るうちに\r\n結晶化したものだと言われています",
+      "source_en": "It is said that it is a crystallization \r\nthat has been formed as Lord White Dragon's \r\nDragon Force circulates the land.",
+      "text": "Man sagt, sie entsteht, wenn die Drachenkraft\r\ndes Weißen Drachen durch das Land strömt\r\nund sich zu einem Kristall verdichtet."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "source_jp": "体内にオーブを取り込んだ魔物には\r\nわかりやすい目印があるそうですが\r\n気がつきましたか？",
+      "source_en": "There is a noticeable mark on the enemy\r\nthat has assimilated an orb inside their body. \r\nHave you noticed it?",
+      "text": "Monster, die eine Kugel in sich tragen, sollen\r\nleicht zu erkennen sein. Ist Euch etwas\r\naufgefallen?"
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "source_jp": "聞いたところによると――\r\nその魔物の生命力が見える部分の色が\r\n独特なのだとか",
+      "source_en": "From what I've heard -\r\nthe color of the visible part\r\nof that enemy's vitality is said to be unique.",
+      "text": "Wie ich gehört habe, hat ihre\r\nLebenskraftanzeige eine auffällige Farbe."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "source_jp": "次回から気にしてみるといいかもしれませんね",
+      "source_en": "You might want to keep that in mind next time.",
+      "text": "Achtet beim nächsten Mal darauf."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "source_jp": "《ブラッドオーブ》を白竜様に捧げると\r\nオーブの竜力の作用で石化を一時的に\r\n止めることができます",
+      "source_en": "When you offer the Blood Orb to Lord White Dragon,\r\nthe power of the orb's Dragon Force \r\ncan temporarily halt petrification.",
+      "text": "Opfert Ihr dem Weißen Drachen eine Blutkugel,\r\nkann die darin gespeicherte Drachenkraft die\r\nVersteinerung eine Weile aufhalten."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "source_jp": "同時に、あなた自身も竜力を\r\n受け取ることができます\r\n白竜様に《ブラッドオーブ》を届けた\r\nごほうびだと思ってください",
+      "source_en": "At the same time, you can also take in\r\nthe power of the dragon yourself. \r\nPlease think of it as a reward for delivering\r\nthe Blood Orb to Lord White Dragon.",
+      "text": "Dabei geht ein Teil der Drachenkraft auf Euch\r\nüber. Seht es als Dank dafür, dass Ihr dem\r\nWeißen Drachen die Kugel gebracht habt."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "source_jp": "これからも《ブラッドオーブ》を\r\n持ち帰ってくださいね",
+      "source_en": "Please continue to bring back\r\nBlood Orbs in the future.",
+      "text": "Bringt uns auch in Zukunft Blutkugeln mit."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "source_jp": "さあ、《ブラッドオーブ》を白竜様へ！",
+      "source_en": "Now, let's deliver the [Blood Orb] \r\nto Lord White Dragon!",
+      "text": "Bringt die Kugel jetzt zum Weißen Drachen!"
+    }
+  ]
+}

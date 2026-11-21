@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000074_00.gmd",
+  "arc_path": "\\quest\\q40000074.arc",
+  "entries": [
+    {
+      "key": "q40000074_00_74",
+      "read_index": "0",
+      "source_jp": "あの子のために",
+      "source_en": "For a Child",
+      "text": "Für meine Tochter"
+    },
+    {
+      "key": "q40000074_00_74",
+      "read_index": "1",
+      "source_jp": "私の娘は体が弱く、満足に外出もできないのです\r\nそこでどうか旅の方。あの子に外を感じさせてあげるため<LQIM>を<LQVA>こ持ってきてはくれないでしょうか\r\nよろしくお願いいたします",
+      "source_en": "My daughter is ill and rarely gets to go outside.\r\nCould you deliver\r\n<LQVA> of <LQIM>?\r\nIt will help her enjoy the outdoors a bit.\r\nI appreciate your help.",
+      "text": "Meine Tochter ist schwach und kommt\r\nkaum nach draußen. Bringt ihr bitte etwas\r\nmit, das sie ans Meer erinnert.\r\n<LQIM>\r\nMit <LQVA> Stück würdet Ihr uns sehr helfen.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

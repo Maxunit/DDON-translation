@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_command_04.gmd",
+  "arc_path": "\\skill\\normal_skill_data_04.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_COMMAND_04_61",
+      "read_index": "0",
+      "source_jp": "<KC ATTACK2>を押す",
+      "source_en": "Press <KC ATTACK2>.",
+      "text": "<KC ATTACK2> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_04_62",
+      "read_index": "1",
+      "source_jp": "<KC ATTACK1>を押す、再度押すと解除",
+      "source_en": "Press <KC ATTACK1>, press again to cancel.",
+      "text": "<KC ATTACK1> drücken. Erneut drücken, um die Aura zu\r\nbeenden."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_04_63",
+      "read_index": "2",
+      "source_jp": "<KC ATTACK1>を押す、再度押すと解除",
+      "source_en": "Press <KC ATTACK1>, press again to cancel.",
+      "text": "<KC ATTACK1> drücken. Erneut drücken, um die Aura zu\r\nbeenden."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_04_64",
+      "read_index": "3",
+      "source_jp": "<KC SKILL_NORMAL1>を押す、再度押すと解除",
+      "source_en": "Press <KC SKILL_NORMAL1>, press again to cancel.",
+      "text": "<KC SKILL_NORMAL1> drücken. Erneut drücken, um die Aura zu\r\nbeenden."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_04_65",
+      "read_index": "4",
+      "source_jp": "<KC SKILL_NORMAL1>を押す、再度押すと解除",
+      "source_en": "Press <KC SKILL_NORMAL1>, press again to cancel.",
+      "text": "<KC SKILL_NORMAL1> drücken. Erneut drücken, um die Aura zu\r\nbeenden."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_04_66",
+      "read_index": "5",
+      "source_jp": "<KC SKILL_NORMAL2>を押す",
+      "source_en": "Press <KC SKILL_NORMAL2>.",
+      "text": "<KC SKILL_NORMAL2> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_04_68",
+      "read_index": "6",
+      "source_jp": "空中で<KC JUMP>を押す",
+      "source_en": "While in the air, press <KC JUMP>.",
+      "text": "In der Luft <KC JUMP> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_04_69",
+      "read_index": "7",
+      "source_jp": "しがみつき中に<KC ATTACK1>を押す、再度押すと解除",
+      "source_en": "While climbing an enemy,\r\npress <KC ATTACK1>, press again to cancel.",
+      "text": "Beim Festhalten <KC ATTACK1> drücken. Erneut\r\ndrücken, um die Aura zu beenden."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_04_146",
+      "read_index": "8",
+      "source_jp": "しがみつき中に<KC SKILL_NORMAL1>を押す、再度押すと解除",
+      "source_en": "While climbing an enemy,\r\npress <KC SKILL_NORMAL1>, press again to cancel.",
+      "text": "Beim Festhalten <KC SKILL_NORMAL1> drücken. Erneut\r\ndrücken, um die Aura zu beenden."
+    }
+  ]
+}

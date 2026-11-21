@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000068_00.gmd",
+  "arc_path": "\\quest\\q40000068.arc",
+  "entries": [
+    {
+      "key": "q40000068_00_68",
+      "read_index": "0",
+      "source_jp": "白翼覚者隊・協力要請　ブリア海岸",
+      "source_en": "White Wings: Cooperation (Breya Coast)",
+      "text": "Weißer Flügel: Hilfe für Breya"
+    },
+    {
+      "key": "q40000068_00_68",
+      "read_index": "1",
+      "source_jp": "ブリア海岸滞在中の覚者様に、神殿より通達です\r\n近年任地にて<LQEM>が増えつつあるとの報告が上がっております。可能であれば任務の合間で構いませんので、<LQVA>体ほどの討伐にご協力をお願いします",
+      "source_en": "To Arisen staying at Breya Coast,\r\na notice from the Temple:\r\nReports of <LQEM> \r\nhave been increasing in your area.\r\nIf possible, please assist with the elimination\r\nof <LQVA> of them between your missions.",
+      "text": "Mitteilung des Tempels an die Erweckten\r\nan der Breya-Küste.\r\n<LQEM> treten im Gebiet\r\nvermehrt auf.\r\nBesiegt nach Möglichkeit <LQVA> davon,\r\nwenn Eure anderen Aufträge es zulassen."
+    }
+  ]
+}

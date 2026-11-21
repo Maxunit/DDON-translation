@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_03.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_03_42",
+      "read_index": "2",
+      "source_jp": "速弓の型",
+      "source_en": "Quick Bow Style",
+      "text": "Schnelles Anlegen"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_03_45",
+      "read_index": "6",
+      "source_jp": "<PADM>速仕込みの型<KEYM>速構え変更",
+      "source_en": "<PADM>Quick Charge Style<KEYM>Fast Change Stance",
+      "text": "<PADM>Schneller Explosivpfeil<KEYM>Schneller Haltungswechsel"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_03_46",
+      "read_index": "3",
+      "source_jp": "しじま射ち",
+      "source_en": "Keen Sight",
+      "text": "Präzisionsschuss"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_03_50",
+      "read_index": "10",
+      "source_jp": "矢の切替え",
+      "source_en": "Switch Arrows",
+      "text": "Pfeile wechseln"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_03_60",
+      "read_index": "11",
+      "source_jp": "矢じり斬り",
+      "source_en": "Arrowhead Strike",
+      "text": "Pfeilspitzenstich"
+    }
+  ]
+}

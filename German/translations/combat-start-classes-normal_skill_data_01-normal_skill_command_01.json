@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_command_01.gmd",
+  "arc_path": "\\skill\\normal_skill_data_01.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_COMMAND_01_4",
+      "read_index": "0",
+      "source_jp": "<KC ATTACK1>を連続して押す",
+      "source_en": "Repeatedly press <KC ATTACK1>.",
+      "text": "<KC ATTACK1> mehrmals drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_01_5",
+      "read_index": "1",
+      "source_jp": "<KC ATTACK1>後、少し遅らせて<KC ATTACK1>を連続して押す",
+      "source_en": "After <KC ATTACK1>, delay a moment then\r\nrepeatedly press <KC ATTACK1>.",
+      "text": "Nach <KC ATTACK1> kurz warten.\r\nDann <KC ATTACK1> mehrmals drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_01_13",
+      "read_index": "2",
+      "source_jp": "<KC ATTACK2>長押し後、離すと発動",
+      "source_en": "Hold <KC ATTACK2> for a moment then release.",
+      "text": "<KC ATTACK2> halten und loslassen."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_01_14",
+      "read_index": "3",
+      "source_jp": "<KC ATTACK2>長押し後、離すと発動",
+      "source_en": "Hold <KC ATTACK2> for a moment then release.",
+      "text": "<KC ATTACK2> halten und loslassen."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_01_18",
+      "read_index": "4",
+      "source_jp": "空中で<KC ATTACK1>を押す",
+      "source_en": "While in the air, press <KC ATTACK1>.",
+      "text": "In der Luft <KC ATTACK1> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_01_19",
+      "read_index": "5",
+      "source_jp": "空中で<KC ATTACK2>を押す",
+      "source_en": "While in the air, press <KC ATTACK2>.",
+      "text": "In der Luft <KC ATTACK2> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_01_15",
+      "read_index": "6",
+      "source_jp": "<KC WEAPON_SUB>を押す",
+      "source_en": "Press <KC WEAPON_SUB>.",
+      "text": "<KC WEAPON_SUB> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_01_16",
+      "read_index": "7",
+      "source_jp": "敵の攻撃を引きつけて<KC WEAPON_SUB>を押す",
+      "source_en": "Just as an enemy attacks,\r\npress <KC WEAPON_SUB>.",
+      "text": "Kurz vor dem Treffer <KC WEAPON_SUB> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_01_17",
+      "read_index": "8",
+      "source_jp": "<KC CATAPULT>を押す",
+      "source_en": "Press <KC CATAPULT>.",
+      "text": "<KC CATAPULT> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_01_22",
+      "read_index": "9",
+      "source_jp": "吹き飛ばされ中に<KC JUMP>を押す",
+      "source_en": "While being knocked away, press <KC JUMP>.",
+      "text": "Beim Wegschleudern <KC JUMP> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_01_23",
+      "read_index": "10",
+      "source_jp": "しがみつき中に<KC ATTACK1>を押す",
+      "source_en": "While climbing an enemy,\r\npress <KC ATTACK1>.",
+      "text": "Beim Festhalten <KC ATTACK1> drücken."
+    }
+  ]
+}

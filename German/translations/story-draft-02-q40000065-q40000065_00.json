@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000065_00.gmd",
+  "arc_path": "\\quest\\q40000065.arc",
+  "entries": [
+    {
+      "key": "q40000065_00_65",
+      "read_index": "0",
+      "source_jp": "何とかせぃ",
+      "source_en": "A Demand",
+      "text": "Tut endlich etwas!"
+    },
+    {
+      "key": "q40000065_00_65",
+      "read_index": "1",
+      "source_jp": "どうなっとる！　治安維持がなっとらん\r\nまた、ここそこに<LQEM>がのさばっとるではないか。騎士でも覚者でも自警団でも構わん\r\nさっさと<LQVA>体排除せぃ！",
+      "source_en": "What's happening to our public order!\r\n<LQEM> \r\nare all over the place again.\r\nKnights, pawns, or militia, it doesn't matter.\r\nEliminate <LQVA> of them right away!",
+      "text": "Was ist das hier für eine Wache?\r\n<LQEM> treiben sich\r\nwieder überall herum.\r\nRitter, Erweckte, Bürgerwehr, mir egal.\r\nBeseitigt sofort <LQVA> davon!"
+    }
+  ]
+}

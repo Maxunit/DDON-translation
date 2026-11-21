@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\custom_skill_command_03.gmd",
+  "arc_path": "\\skill\\custom_skill_data_03.arc",
+  "entries": [
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_32",
+      "read_index": "0",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_37",
+      "read_index": "1",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_33",
+      "read_index": "2",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_34",
+      "read_index": "3",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_36",
+      "read_index": "4",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_38",
+      "read_index": "5",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_39",
+      "read_index": "6",
+      "source_jp": "セットボタンを押す",
+      "source_en": "Press the assigned button.",
+      "text": "Belegte Taste drücken."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_35",
+      "read_index": "7",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_42",
+      "read_index": "8",
+      "source_jp": "セットボタンを押す",
+      "source_en": "Press the assigned button.",
+      "text": "Belegte Taste drücken."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_40",
+      "read_index": "9",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_41",
+      "read_index": "10",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_43",
+      "read_index": "11",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射\r\n<COL ff7878>溜め満了の瞬間に放つことで\r\n戦甲へのカウンターに特化</COL>",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.\r\n<COL ff7878>Effective against War-Ready enemies if this skill is executed\r\njust as the charge gauge is full.</COL>",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen.\r\n<COL ff7878>Wirksamer Konter gegen Kriegsrüstung, wenn du\r\ngenau bei voller Ladung schießt.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_131",
+      "read_index": "12",
+      "source_jp": "セットボタンを押す\r\n",
+      "source_en": "Press the assigned button.",
+      "text": "Belegte Taste drücken."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_132",
+      "read_index": "13",
+      "source_jp": "セットボタンで構え後、セットボタンを連続して押す",
+      "source_en": "After pressing the assigned button,\r\nrepeatedly press the assigned button.",
+      "text": "Mit der belegten Taste anlegen und dieselbe\r\nTaste mehrmals drücken."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_162",
+      "read_index": "14",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_163",
+      "read_index": "15",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_164",
+      "read_index": "16",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_165",
+      "read_index": "17",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_197",
+      "read_index": "18",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_198",
+      "read_index": "19",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_199",
+      "read_index": "20",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    },
+    {
+      "key": "CUSTOM_SKILL_COMMAND_03_200",
+      "read_index": "21",
+      "source_jp": "セットボタンで構え後、<KC SHOOT>で発射",
+      "source_en": "While holding the assigned button, <KC SHOOT> to shoot.",
+      "text": "Mit der belegten Taste anlegen. Mit <KC SHOOT>\r\nschießen."
+    }
+  ]
+}

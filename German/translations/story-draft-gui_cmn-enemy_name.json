@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5 – Seneka, Werkstatt und der scharlachrote Kristall",
+  "gmd_path": "ui\\00_message\\enemy\\enemy_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ENEMY_NAME_70",
+      "read_index": "70",
+      "source_jp": "サイクロプス",
+      "source_en": "Cyclops",
+      "text": "Zyklop"
+    },
+    {
+      "key": "ENEMY_NAME_131",
+      "read_index": "131",
+      "source_jp": "レッドキャップ",
+      "source_en": "Redcap",
+      "text": "Rotkappe"
+    },
+    {
+      "key": "ENEMY_NAME_132",
+      "read_index": "132",
+      "source_jp": "レッドキャップファイター",
+      "source_en": "Redcap Fighter",
+      "text": "Rotkappen-Kämpfer"
+    },
+    {
+      "key": "ENEMY_NAME_133",
+      "read_index": "133",
+      "source_jp": "スリングレッドキャップ",
+      "source_en": "Sling Redcap",
+      "text": "Rotkappen-Schleuderer"
+    }
+  ]
+}

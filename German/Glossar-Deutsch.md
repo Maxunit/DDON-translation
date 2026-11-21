@@ -1,6 +1,6 @@
 # DDON-Glossar und Stilregeln für Deutsch
 
-Das [Referenzglossar](snapshot/Terms%20and%20references%20directory/glossary.csv) liefert die japanischen und englischen Begriffe. Hier stehen die deutschen Festlegungen und Regeln für die Oberfläche. Bei Abweichungen ist der japanische Originaltext maßgeblich. Die englische Fassung hilft bei der Zuordnung. Bereits festgelegte deutsche Menübegriffe gelten auch in den Anleitungen.
+Das [Referenzglossar](../Terms%20and%20references%20directory/glossary.csv) liefert die japanischen und englischen Begriffe. Hier stehen die deutschen Festlegungen und Regeln für die Oberfläche. Bei Abweichungen ist der japanische Originaltext maßgeblich. Die englische Fassung hilft bei der Zuordnung. Bereits festgelegte deutsche Menübegriffe gelten auch in den Anleitungen.
 
 | Referenz | Deutsch |
 | --- | --- |
@@ -10,6 +10,109 @@ Das [Referenzglossar](snapshot/Terms%20and%20references%20directory/glossary.csv
 | Quick Party | Schnellsuche |
 | Lestania News | Lestania-Nachrichten |
 | World im Sinn von Channel | Kanal |
+
+## Gegenstände und Ausrüstung
+
+Gegenstands- und Ausrüstungsnamen übersetzen wir ins Deutsche. Derselbe Name steht im Inventar, beim Händler und in Questtexten oder Anleitungen, die den Gegenstand beim Namen nennen. Englische Referenznamen helfen beim Nachschlagen.
+
+| Deutsch im Spiel | Englische GMD-Basis |
+| --- | --- |
+| Dünnes Holz | Thin Wood |
+| Trockener Knochen | Dry Bone |
+
+## Ortsnamen
+
+Auf Karte und Reisemenü, in Gebietslisten und in Questtexten verwenden wir denselben deutschen Ortsnamen. Eigennamen wie Tel, Hidell oder Gritten bleiben erkennbar. Beschreibende Bestandteile und etablierte Spielbegriffe übersetzen wir auch bei Dungeons.
+
+Die Tabelle enthält die Ortsnamen aus dem lokalen Stand von Goal 4.4 und ihre Entsprechungen in der englischen GMD-Basis. Beide Spalten eignen sich zur Suche.
+
+| Deutsch im Spiel | Englische GMD-Basis |
+| --- | --- |
+| Alte Kultstätte | Ancient Ritual Ground |
+| Anwesen des Markgrafen | Marquise Kurt's residence |
+| Audienzsaal | Audience Chamber |
+| Betland-Ebene | Betland Plains |
+| Blutfluchinsel | Bloodbane Isle |
+| Blutiges Flussufer | Blood-soaked Riverbank |
+| Breya-Küste | Breya Coast |
+| Bucht am Finstergram-Labyrinth | Bitterblack Maze Cove |
+| Burg Weitblick | Lookout Castle |
+| Clan-Stützpunkt | Clan Hall |
+| Dämonenbrücke | Roaring Demon Bridge |
+| Die Arche | The Ark |
+| Drachennest | Dragon's Nest |
+| Drachentempel am Feuerfallberg | Firefall Mountain Dragon Temple |
+| Eigenes Zimmer | Arisen's Room |
+| Erstes Tor | First Gate |
+| Eternas Ausrüstungsladen | Eterna's Outfitter |
+| Farana-Ebene | Farana Plains |
+| Feryana-Wildnis | Feryana Wilderness |
+| Festung Dacreim | Dacreim Fortress |
+| Festung Gritten | Fort Gritten |
+| Festung Jifule | Jifule Fortress |
+| Festungsstadt Megado | Fortress City Megado |
+| Finstergram-Labyrinth | Bitterblack Maze |
+| Fort Thines: Großer Speisesaal | Fort Thines: Great Dining Hall |
+| Gasse im Händlerviertel | Shopping District Alley |
+| Gasthaus Zum Seedrachen | Sea Dragon Inn |
+| Gasthaus Zur Schwarzen Traube | Black Grape Inn |
+| Gefängnis der Kampfvasallen | Myrmidons' Prison |
+| Geheime Königskammer | The King's Hidden Chamber |
+| Geheimgang der Jäger | Hunters' Secret Passage |
+| Glühwürmchenhöhle | Glowworm Cave |
+| Großer Tempel von Shadolean | Shadolean Great Temple |
+| Händlerviertel | Shopping District |
+| Herbergsviertel | Relay Station |
+| Hidell-Ebene | Hidell Plains |
+| Hidell-Katakomben | Hidell Catacombs |
+| Hobolic-Höhle | Hobolic Cave |
+| Höhle des Ursprungs | Hollow of Beginnings |
+| Höhlenhafen | Cave Harbor |
+| Kaserne | Barracks |
+| Keller am Meer | Seaside Cellar |
+| Keller des verlassenen Hauses | Abandoned House Cellar |
+| Kleine Grabhöhlen | Small Cave Tombs |
+| Lager am Feuerfallberg | Firefall Mountain Campsite |
+| Megadosys-Hochland | Megadosys Plateau |
+| Mysree-Wald | Mysree Forest |
+| Nebelwald | Forest of Mist |
+| Pfad der Klingenspuren | Blade-Scarred Path |
+| Rathnite-Vorgebirge | Rathnite Foothills |
+| Rift | The Rift |
+| Ruinen von Mergoda: Palastebene | Mergoda Ruins: Royal Palace Level |
+| Ruinen von Mergoda: Unterebene | Mergoda Ruins: Lower Level |
+| Schlachtfeld vor Festung Gritten | Battlefield outside Fort Gritten |
+| Südbrücke von Hidell | South Hidell Bridge |
+| Taverne | Tavern |
+| Tel | Tel |
+| Tels trockener Brunnen | Tel's Withered Well |
+| Tempel der Läuterung | Temple of Purification |
+| Tempel des Weißen Drachen | The White Dragon Temple |
+| Tiefe Hidell-Katakomben | Hidell Catacombs Depths |
+| Tiefen des Rifts | Depths of the Rift |
+| Tiefste Hidell-Katakomben | Hidell Catacombs Innermost Depths |
+| Trainingsraum | Training Room |
+| Trockener Brunnen an der Straße | Roadside Dry Well |
+| Untere Ebene der Arche | The Ark's Lower Level |
+| Übungsschrein | Training Chapel |
+| Vasallenkathedrale | Pawn Cathedral |
+| Verlassener Keller in der Ebene | Plains House Abandoned Cellar |
+| Versperrter Gang | Blocked Passage |
+| Versteck der Schwarzen Wölfe | The Black Wolves' Hideout |
+| Versteckter Strand | Hidden Beach |
+| Vogellockfelsen | Birdcall Rock |
+| Volden-Stollen | Volden Large Tunnels |
+| Vor Burg Weitblick | Lookout Castle Exterior |
+| Vor Burg Weitblick: Sonels Lager | Lookout Castle Exterior: Sonel's Camp |
+| Vor dem Audienzsaal | Before the Audience Chamber |
+| Vor dem Haupttor | Front Gate |
+| Vor dem Schönheitssalon | Beauty Salon |
+| Wachtbezirk Mergoda | Mergoda Security District |
+| Werkstatt | Craft Room |
+| Wirbel gestauter Drachenkraft | Vortex of Stagnation |
+| Zandora-Sperrgebiet | Zandora Wastelands |
+| Zentralplatz | Central Plaza |
+| Zweites Tor | Second Gate |
 
 ## Umbrüche in Questbeschreibungen
 
@@ -29,4 +132,4 @@ Für NPC-Dialogboxen gilt die native UI-Größe als Referenz. Der Arbeitswert li
 | Native UI-Größe | Rund 0,50 Screenshot-Pixel je Schrifteinheit | Die Zeile mit 775 Einheiten belegt rund 385 Pixel. |
 | 1080p mit `Enlarge UI = 44` | Rund 0,60 Screenshot-Pixel je Schrifteinheit | Der frühere Arbeitswert von 700 Einheiten entspricht rund 420 Pixeln. |
 
-Die Zeilen anhand der Zeichenvorschübe prüfen und feste GMD-Umbrüche als `\r\n` an Satz- oder Wortgrenzen setzen. Bei Alfred standen die beiden beobachteten Umbrüche bereits in der englischen GMD-Vorlage. Beim Sichttest auch die letzte Zeile und den Abstand zum Fensterrand kontrollieren. Die Originalmessungen für NPC-Dialog und Chat stehen im [Sichttestprotokoll von Goal 3](first-pawn/Goal-3-Bestandsaufnahme.md).
+Die Zeilen anhand der Zeichenvorschübe prüfen und feste GMD-Umbrüche als `\r\n` an Satz- oder Wortgrenzen setzen. Bei Alfred standen die beiden beobachteten Umbrüche bereits in der englischen GMD-Vorlage. Beim Sichttest auch die letzte Zeile und den Abstand zum Fensterrand kontrollieren.

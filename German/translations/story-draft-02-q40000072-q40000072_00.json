@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000072_00.gmd",
+  "arc_path": "\\quest\\q40000072.arc",
+  "entries": [
+    {
+      "key": "q40000072_00_72",
+      "read_index": "0",
+      "source_jp": "素材入荷に協力を",
+      "source_en": "Safe Arrival",
+      "text": "Nachschub für den Händler"
+    },
+    {
+      "key": "q40000072_00_72",
+      "read_index": "1",
+      "source_jp": "素材商をやってるんだが、どなたか品物の入荷を手伝ってもらえないだろうか\r\n内容は、<LQIM>を<LQVA>つだ\r\n手伝ってくれたら謝礼は払わせてもらうよ",
+      "source_en": "I'm a materials merchant\r\nand need help restocking my wares.\r\nThis request is for <LQVA> pieces\r\nof <LQIM>.\r\nI shall provide a reward for your assistance.",
+      "text": "Ich handle mit Materialien und brauche\r\nHilfe beim Auffüllen meiner Vorräte.\r\nGesucht wird:\r\n<LQIM>\r\nFür <LQVA> Stück zahle ich eine Belohnung.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

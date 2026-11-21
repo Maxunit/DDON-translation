@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\master\\area2_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "source_jp": "ブリア海岸",
+      "source_en": "Breya Coast",
+      "text": "Breya-Küste"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "3",
+      "source_jp": "隠れ浜",
+      "source_en": "Hidden Beach",
+      "text": "Versteckter Strand"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "4",
+      "source_jp": "鳥寄せ岩",
+      "source_en": "Birdcall Rock",
+      "text": "Vogellockfelsen"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "5",
+      "source_jp": "海辺の地下室",
+      "source_en": "Seaside Cellar",
+      "text": "Keller am Meer"
+    }
+  ]
+}

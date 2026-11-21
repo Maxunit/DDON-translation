@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Schildweiser",
+  "gmd_path": "ui\\00_message\\skill\\ability_info.gmd",
+  "arc_path": "\\ui\\uGUICharacter.arc",
+  "entries": [
+    {
+      "key": "ABILITY_INFO_76",
+      "read_index": "206",
+      "source_jp": "フォースガード／フォースゲインの攻力吸収量が増加する\r\n<COL ffdc78>LV UP毎に攻力吸収量がより増加</COL>",
+      "source_en": "Increases the Force Gauge gains\r\nof Force Guard / Force Gain up to a maximum of 10%.\r\n<COL ffdc78>LV UP: Further increases Force Gauge gains.</COL>",
+      "text": "Kraftblock und Kraftfang nehmen\r\nmehr Kraft auf.\r\n<COL ffdc78>Je Stufe steigt die Aufnahme weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_77",
+      "read_index": "134",
+      "source_jp": "フォースゲインの攻力吸収量が大幅に増加する\r\n<COL ffdc78>LV UP毎に攻力吸収量がより増加</COL>",
+      "source_en": "Up to a maximum of +50% Force Gauge gains \r\nwhen successfully using Force Gain.\r\n<COL ffdc78>LV UP: Increases gain further.</COL>",
+      "text": "Kraftfang nimmt deutlich mehr Kraft auf.\r\n<COL ffdc78>Je Stufe steigt die Aufnahme weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_78",
+      "read_index": "277",
+      "source_jp": "フォースゲインの成功時にスタミナが回復する\r\n<COL ffdc78>LV UP毎にスタミナ回復量がより増加</COL>",
+      "source_en": "Recovers stamina on a successful Force Gain.\r\n<COL ffdc78>LV UP: Further increases stamina\r\nrecovered.</COL>",
+      "text": "Ein erfolgreicher Kraftfang stellt\r\nAusdauer wieder her.\r\n<COL ffdc78>Je Stufe kehrt mehr Ausdauer zurück.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_79",
+      "read_index": "26",
+      "source_jp": "アトラクト発動時に\r\nより敵の注目を集めるようになる\r\n<COL ffdc78>LV UP毎に敵からの注目度がより増加</COL>",
+      "source_en": "Increases the rate at which Attract\r\ngenerates enemy attention.\r\n<COL ffdc78>LV UP: Further increases\r\nattention.</COL>",
+      "text": "Provozieren lenkt Gegner stärker auf dich.\r\n<COL ffdc78>Je Stufe steigt ihre Aufmerksamkeit.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_80",
+      "read_index": "146",
+      "source_jp": "フォースバーストで\r\nより敵を状態異常にかかりやすくする\r\n<COL ffdc78>LV UP毎に状態異常値がより増加</COL>",
+      "source_en": "Increases the rate at which Force Burst\r\napplies elemental debilitations.\r\n<COL ffdc78>LV UP: Increases debilitation rate\r\nfurther.</COL>",
+      "text": "Kraftstoß baut Zustände schneller auf.\r\n<COL ffdc78>Je Stufe wird der Aufbau stärker.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_81",
+      "read_index": "38",
+      "source_jp": "フォースエンチャントほか、エンチャント系\r\nスキルの効果持続時間が延長される\r\n<COL ffdc78>LV UP毎に効果持続時間がより延長</COL>",
+      "source_en": "Increases the effect duration of Force Enchantment\r\n& Rex Elementa to a maximum of 120 seconds longer.\r\n<COL ffdc78>LV UP: Increases duration further by 20 seconds.</COL>",
+      "text": "„Element verleihen“ und ähnliche\r\nVerzauberungen halten länger an.\r\n<COL ffdc78>Je Stufe verlängert sich die Dauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_82",
+      "read_index": "2",
+      "source_jp": "エレメントチェンジで選択された属性と防御した\r\n敵攻撃の属性が同じとき攻力吸収量がさらに増加する\r\n<COL ffdc78>LV UP毎に攻力吸収量がより増加</COL>",
+      "source_en": "Increases Force Gauge when a blocked attack\r\nmatches the element enchanted to your rod.\r\n<COL ffdc78>LV UP: Further increases Force\r\nGauge.</COL>",
+      "text": "Passt ein geblockter Treffer zum Element\r\nam Stab, nimmst du noch mehr Kraft auf.\r\n<COL ffdc78>Je Stufe steigt die Aufnahme weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_83",
+      "read_index": "218",
+      "source_jp": "シールドシーケンスを行ったときに\r\nスタミナが回復する\r\n<COL ffdc78>LV UP毎にスタミナ回復量がより増加</COL>",
+      "source_en": "Recovers your stamina after executing Shield\r\nSequence.\r\n<COL ffdc78>LV UP: Further increases stamina\r\nrecovered.</COL>",
+      "text": "Die Schildfolge stellt Ausdauer wieder her.\r\n<COL ffdc78>Je Stufe kehrt mehr Ausdauer zurück.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_84",
+      "read_index": "86",
+      "source_jp": "フォースゲージの消費時に少しゲージが残る\r\n<COL ffdc78>LV UP毎にゲージ残量が増加</COL>",
+      "source_en": "Allows some Force Gauge to remain after\r\nyour gauge is consumed.\r\n<COL ffdc78>LV UP: Increases the amount\r\nfurther.</COL>",
+      "text": "Nach Kraftverbrauch bleibt ein kleiner\r\nRest in der Kraftanzeige.\r\n<COL ffdc78>Je Stufe bleibt mehr Kraft übrig.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_85",
+      "read_index": "14",
+      "source_jp": "盾ガード時のスタミナ消費量が軽減される\r\n<COL ffdc78>LV UP毎にスタミナ消費がさらに減少</COL>",
+      "source_en": "Decreases the Stamina consumed when\r\nyou block attacks with your shield.\r\n<COL ffdc78>LV UP: Further decreases Stamina\r\nconsumption.</COL>",
+      "text": "Mit dem Schild zu blocken kostet\r\nweniger Ausdauer.\r\n<COL ffdc78>Je Stufe sinkt der Verbrauch weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_86",
+      "read_index": "110",
+      "source_jp": "ノーマルスキルによる防御状態で\r\nガード不能攻撃を受けた際のダメージが軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Up to a 15% damage reduction when\r\nblocking unblockable attacks.\r\n<COL ffdc78>LV UP: Decreases damage further.</COL>",
+      "text": "Beim Blocken mit einer Grundfertigkeit\r\nverursachen unblockbare Angriffe\r\nweniger Schaden.\r\n<COL ffdc78>Je Stufe sinkt der Schaden weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_87",
+      "read_index": "98",
+      "source_jp": "敵からの攻撃を直前防御（引きつけて防御）\r\nしやすくなる\r\n<COL ffdc78>LV UP毎に直前防御受付時間がより延長</COL>",
+      "source_en": "Allows you to perfect block with ease.\r\n<COL ffdc78>LV UP: Further extends the perfect block time window.</COL>",
+      "text": "Du kannst Treffer leichter im letzten\r\nMoment blocken.\r\n<COL ffdc78>Je Stufe wächst das Zeitfenster dafür.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_88",
+      "read_index": "122",
+      "source_jp": "盾の防御性能が向上し\r\nより強い攻撃を防ぎやすくなる\r\n<COL ffdc78>LV UP毎に盾ガード値がより増加</COL>",
+      "source_en": "Increases the guard power of shields,\r\nmaking it able to withstand stronger attacks.\r\n<COL ffdc78>LV UP: Further increases guard power.</COL>",
+      "text": "Der Schild hält stärkeren Angriffen stand.\r\n<COL ffdc78>Je Stufe wächst die Blockstärke.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_89",
+      "read_index": "50",
+      "source_jp": "盾ガード時や武器ヒット時によろめいた際に\r\n受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Decreases damage received when your guard is broken.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Gerätst du beim Blocken oder nach einem\r\nWaffentreffer ins Taumeln, erleidest du\r\nweniger Schaden.\r\n<COL ffdc78>Je Stufe sinkt der Schaden weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_90",
+      "read_index": "230",
+      "source_jp": "盾ガード時や武器ヒット時によろめいた際の\r\nすき動作時間が短縮される\r\n<COL ffdc78>LV UP毎にすき時間さらに短縮</COL>",
+      "source_en": "Reduces the vulnerability window after getting\r\nstaggered while guarding or by weapon impact.\r\n<COL ffdc78>LV UP: Further reduces vulnerability window.</COL>",
+      "text": "Du bist kürzer verwundbar, wenn du beim\r\nBlocken oder nach einem Waffentreffer\r\ntaumelst.\r\n<COL ffdc78>Je Stufe verkürzt sich die Zeit weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_91",
+      "read_index": "265",
+      "source_jp": "物理防御力と魔法防御力が増加する\r\n<COL ffdc78>LV UP毎に物理/魔法防御力がより増加</COL>",
+      "source_en": "Physical Defense & Magick Defense ↑ by +12 max.\r\n<COL ffdc78>LV UP: Further increases defenses.</COL>",
+      "text": "Erhöht die physische und magische Abwehr.\r\n<COL ffdc78>Je Stufe steigt die Abwehr weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_92",
+      "read_index": "194",
+      "source_jp": "体力が一定以上のとき、\r\n物理防御力と魔法防御力が増加する\r\n<COL ffdc78>LV UP毎に物理/魔法防御力がより増加</COL>",
+      "source_en": "Phys. Def & Magick Def ↑ while above 80% Health.\r\n<COL ffdc78>LV UP: Further increases defenses.</COL>",
+      "text": "Bei hohen LP steigen die physische\r\nund magische Abwehr.\r\n<COL ffdc78>Je Stufe steigt die Abwehr weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_93",
+      "read_index": "62",
+      "source_jp": "瀕死状態中、物理防御力と魔法防御力が増加する\r\n<COL ffdc78>LV UP毎に物理/魔法防御力がより増加</COL>",
+      "source_en": "Phys. Def & Magick Def ↑ at Death's Door;\r\nbelow 20% Health.\r\n<COL ffdc78>LV UP: Further increases Phys. & Magick Defense.</COL>",
+      "text": "Bei kritischen LP steigen die physische\r\nund magische Abwehr.\r\n<COL ffdc78>Je Stufe steigt die Abwehr weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_94",
+      "read_index": "242",
+      "source_jp": "スタミナが一定以上のとき、\r\n物理防御力と魔法防御力が増加する\r\n<COL ffdc78>LV UP毎に物理/魔法防御力がより増加</COL>",
+      "source_en": "Phys. Def & Magick Def ↑ while Stamina is above 80%.\r\n<COL ffdc78>LV UP: Further increases defenses.</COL>",
+      "text": "Bei hoher Ausdauer steigen die physische\r\nund magische Abwehr.\r\n<COL ffdc78>Je Stufe steigt die Abwehr weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_95",
+      "read_index": "158",
+      "source_jp": "魔防低下の状態異常への耐性が増加する\r\n<COL ffdc78>LV UP毎に耐性がより増加</COL>",
+      "source_en": "'Lowered Magick Defense' resistance ↑ by +30 max.\r\n<COL ffdc78>LV UP: Further increases resistance.</COL>",
+      "text": "Erhöht die Resistenz gegen den Verlust\r\nmagischer Abwehr.\r\n<COL ffdc78>Je Stufe steigt die Resistenz weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_96",
+      "read_index": "170",
+      "source_jp": "物防低下の状態異常への耐性が増加する\r\n<COL ffdc78>LV UP毎に耐性がより増加</COL>",
+      "source_en": "'Physical Defense Down' resistance ↑ by +30 max.\r\n<COL ffdc78>LV UP: Further increases resistance.</COL>",
+      "text": "Erhöht die Resistenz gegen den Verlust\r\nphysischer Abwehr.\r\n<COL ffdc78>Je Stufe steigt die Resistenz weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_97",
+      "read_index": "182",
+      "source_jp": "呪いの状態異常への耐性が増加する\r\n<COL ffdc78>LV UP毎に耐性がより増加</COL>",
+      "source_en": "Increases resistance to Curse.\r\n<COL ffdc78>LV UP: Further increases\r\nresistance.</COL>",
+      "text": "Erhöht die Resistenz gegen Flüche.\r\n<COL ffdc78>Je Stufe steigt die Resistenz weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_98",
+      "read_index": "254",
+      "source_jp": "最大体力が増加する\r\n<COL ffdc78>LV UP毎に最大体力がより増加</COL>",
+      "source_en": "Increases maximum Health up to +600.\r\n<COL ffdc78>LV UP: Further increases maximum Health.</COL>",
+      "text": "Erhöht die maximalen LP.\r\n<COL ffdc78>Je Stufe steigen die maximalen LP weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_99",
+      "read_index": "74",
+      "source_jp": "白竜神殿から出てしばらくの間\r\n最大体力が増加する\r\n<COL ffdc78>LV UP毎に最大体力がより増加</COL>",
+      "source_en": "Increases your Health after leaving\r\nthe White Dragon Temple for 30 minutes.\r\n<COL ffdc78>LV UP: Increases Health further.</COL>",
+      "text": "Nach dem Verlassen des Tempels des\r\nWeißen Drachen steigen vorübergehend\r\ndie maximalen LP.\r\n<COL ffdc78>Je Stufe steigen die maximalen LP weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_100",
+      "read_index": "289",
+      "source_jp": "斬属性攻撃によって受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Reduces damage taken from slash attacks up to 25%.\r\n<COL ffdc78>LV UP: Further reduces damage taken.</COL>",
+      "text": "Schnittangriffe verursachen weniger Schaden.\r\n<COL ffdc78>Je Stufe sinkt der Schaden weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_332",
+      "read_index": "302",
+      "source_jp": "シールドブロウのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Increases the damage of Shield Blow.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases stagger power.</COL>",
+      "text": "Erhöht den Schaden von Schildhieb.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_333",
+      "read_index": "314",
+      "source_jp": "ウィークライトのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で状態異常蓄積値が増加</COL>",
+      "source_en": "Increases the damage of Weak Light.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases status effect rate.</COL>",
+      "text": "Erhöht den Schaden von Schwächungslicht.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Stärkerer Zustandsaufbau.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_334",
+      "read_index": "338",
+      "source_jp": "ガード中にダメージを受けた際に\r\n治癒上限値が低下しにくくなる\r\n<COL ffdc78>LV UP毎に治癒上限値をさらに維持</COL>",
+      "source_en": "Recovery Limit ↑ while guarding.\r\n<COL ffdc78>LV UP: Further maintains upper HP limit.</COL>",
+      "text": "Treffer beim Blocken senken deine\r\nHeilungsgrenze weniger stark.\r\n<COL ffdc78>Je Stufe bleibt mehr davon erhalten.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_335",
+      "read_index": "350",
+      "source_jp": "シールドシーケンスのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で状態異常蓄積値が増加</COL>",
+      "source_en": "Increases the damage of Shield Sequence.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases chance of inflicting status\r\nabnormalities.</COL>",
+      "text": "Erhöht den Schaden von Schildfolge.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Stärkerer Zustandsaufbau.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_336",
+      "read_index": "326",
+      "source_jp": "フォースバーストのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Force Burst deals up to 25% more damage.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases Chance and Exhaust Attack.</COL>",
+      "text": "Erhöht den Schaden von Kraftstoß.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_337",
+      "read_index": "362",
+      "source_jp": "攻撃時に、より敵の注目を集めるようになる\r\n<COL ffdc78>LV UP毎に敵からの注目度がより増加</COL>",
+      "source_en": "Increases threat generation when attacking.\r\n<COL ffdc78>LV UP: Further increases threat\r\ngeneration.</COL>",
+      "text": "Deine Angriffe lenken Gegner stärker\r\nauf dich.\r\n<COL ffdc78>Je Stufe steigt ihre Aufmerksamkeit.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_338",
+      "read_index": "374",
+      "source_jp": "シールドブロウのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Increases the amount of damage dealt by Shield Blow.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases Chance and Exhaust Attack.</COL>",
+      "text": "Erhöht den Schaden von Schildhieb.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_339",
+      "read_index": "386",
+      "source_jp": "ウィークライトのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Increases damage of Weak Light.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increase Chance and Exhaust Attack.</COL>",
+      "text": "Erhöht den Schaden von Schwächungslicht.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_340",
+      "read_index": "410",
+      "source_jp": "盾での攻撃時に敵の体勢を崩しやすくなる\r\n<COL ffdc78>LV UP毎に吹き飛ばし力がより増加</COL>",
+      "source_en": "Up to +30 Knockdown Power for Shield attacks,\r\nmaking it easier to throw enemies off balance.\r\n<COL ffdc78>LV UP: Further increases Knockdown Power.</COL>",
+      "text": "Schildangriffe bringen Gegner leichter\r\naus dem Gleichgewicht.\r\n<COL ffdc78>Je Stufe steigt die Wucht weiter.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_341",
+      "read_index": "422",
+      "source_jp": "シールドシーケンスのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Increases damage of Shield Sequence.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases Chance and Exhaust Attack.</COL>",
+      "text": "Erhöht den Schaden von Schildfolge.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_342",
+      "read_index": "398",
+      "source_jp": "フォースバーストのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Increases the damage of Force Burst.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases Knockdown Power.</COL>",
+      "text": "Erhöht den Schaden von Kraftstoß.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_343",
+      "read_index": "434",
+      "source_jp": "アトラクト/モアアトラクトの\r\nスタミナ消費量が軽減される\r\n<COL ffdc78>LV UP毎にスタミナ消費がさらに減少</COL>",
+      "source_en": "Reduces stamina consumption of Attract/More\r\nAttract.\r\n<COL ffdc78>LV UP: Further reduces stamina\r\nconsumption.</COL>",
+      "text": "Provozieren und Provozieren +\r\nverbrauchen weniger Ausdauer.\r\n<COL ffdc78>Je Stufe sinkt der Verbrauch weiter.</COL>"
+    }
+  ]
+}

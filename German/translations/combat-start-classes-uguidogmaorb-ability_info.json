@@ -1,0 +1,785 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\ability_info.gmd",
+  "arc_path": "\\ui\\uGUIDogmaOrb.arc",
+  "entries": [
+    {
+      "key": "ABILITY_INFO_30",
+      "read_index": "48",
+      "source_jp": "達人装填が成功する受付時間が延長され\r\nより成功率が上昇する\r\n<COL ffdc78>LV UP毎に受付時間がより延長</COL>",
+      "source_en": "Extends the time period for active reload.\r\n<COL ffdc78>LV UP: Extends time further.</COL>",
+      "text": "Du hast beim „Gekonnten Nachladen“ mehr Zeit\r\nfür die Eingabe.\r\n<COL ffdc78>Je Stufe größeres Zeitfenster.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_31",
+      "read_index": "132",
+      "source_jp": "達人装填の成功時にスタミナが回復する\r\n<COL ffdc78>LV UP毎にスタミナ回復量がより増加</COL>",
+      "source_en": "Recover Stamina when performing a master reload.\r\n<COL ffdc78>LV UP: Increases recovered Stamina\r\nfurther.</COL>",
+      "text": "Erfolgreiches „Gekonntes Nachladen“ stellt\r\nAusdauer wieder her.\r\n<COL ffdc78>Je Stufe mehr Ausdauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_32",
+      "read_index": "204",
+      "source_jp": "状態異常を引き起こす矢の威力が増加する\r\n<COL ffdc78>LV UP毎に状態異常値がより増加</COL>",
+      "source_en": "Increases the effectiveness of status\r\neffect-inducing arrows.\r\n<COL ffdc78>LV UP: Further increases status\r\neffectiveness.</COL>",
+      "text": "Pfeile, die Zustände auslösen, bauen diese\r\nstärker auf.\r\n<COL ffdc78>Je Stufe stärkerer Aufbau.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_33",
+      "read_index": "72",
+      "source_jp": "達人装填のジャストタイミングの受付時間が延長され\r\nより成功率が上昇する\r\n<COL ffdc78>LV UP毎に受付時間がより延長</COL>",
+      "source_en": "Extends the time window for a master reload.\r\n<COL ffdc78>LV UP: Extends time window further.</COL>",
+      "text": "Vergrößert beim „Gekonnten Nachladen“ das\r\nZeitfenster für die perfekte Eingabe.\r\n<COL ffdc78>Je Stufe größeres Zeitfenster.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_34",
+      "read_index": "12",
+      "source_jp": "仕込み爆矢射ち／降らし爆炎矢／降らし爆炎矢 剛の\r\n起爆までの時間が延長される\r\n<COL ffdc78>LV UP毎に時間がより延長</COL>",
+      "source_en": "Increases the duration of lingering Explosive Arrows.\r\n<COL ffdc78>LV UP: Further extends time before detonation.</COL>",
+      "text": "Verzögert die Explosion von „Explosivpfeil\r\nabschießen“, „Brandpfeilregen“ und\r\n„Brandpfeilregen (Kraft)“.\r\n<COL ffdc78>Je Stufe längere Verzögerung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_35",
+      "read_index": "156",
+      "source_jp": "弓構え中、攻撃を受けても\r\n体勢を崩されにくくなる\r\n<COL ffdc78>LV UP毎により体勢を崩されにくくなる</COL>",
+      "source_en": "Less likely to be staggered while aiming the bow.\r\n<COL ffdc78>LV UP: Further decreases stagger chance.</COL>",
+      "text": "Mit angelegtem Bogen bringen dich Treffer\r\nschwerer aus dem Gleichgewicht.\r\n<COL ffdc78>Je Stufe mehr Standfestigkeit.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_36",
+      "read_index": "60",
+      "source_jp": "弓構え中のスタミナ回復速度が上昇する\r\n<COL ffdc78>LV UP毎にスタミナ回復速度がより増加</COL>",
+      "source_en": "Increases Stamina recovery speed while the bow\r\nis drawn and ready to fire.\r\n<COL ffdc78>LV UP: Increases Stamina recovery further.</COL>",
+      "text": "Mit angelegtem Bogen erholst du schneller\r\nAusdauer.\r\n<COL ffdc78>Je Stufe schnellere Ausdauerregeneration.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_37",
+      "read_index": "263",
+      "source_jp": "弓の威力が増す最適距離の範囲が拡張される\r\n<COL ffdc78>LV UP毎に射撃最適距離がより拡張</COL>",
+      "source_en": "Increases the range in which arrows will deal the\r\ngreatest amount of damage.\r\n<COL ffdc78>LV UP: Further increases range.</COL>",
+      "text": "Vergrößert den Distanzbereich, in dem der\r\nBogen stärker wirkt.\r\n<COL ffdc78>Je Stufe größerer optimaler Distanzbereich.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_38",
+      "read_index": "252",
+      "source_jp": "弓を最適距離で当てた際の攻撃力が増加する\r\n<COL ffdc78>LV UP毎に矢の威力がより増加</COL>",
+      "source_en": "Up to +10% more damage when firing the bow at perfect range.\r\n<COL ffdc78>LV UP: Further increases attack power.</COL>",
+      "text": "Treffer aus optimaler Entfernung richten mehr\r\nSchaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_39",
+      "read_index": "168",
+      "source_jp": "弓を最適距離で当てた際に\r\nより敵の体勢を崩しやすくなる\r\n<COL ffdc78>LV UP毎に矢の吹き飛ばし力がより増加</COL>",
+      "source_en": "Up to +20% Knockdown Power when firing the bow\r\nat perfect range.\r\n<COL ffdc78>LV UP: Further increases Knockdown Power.</COL>",
+      "text": "Treffer aus optimaler Entfernung bringen Gegner\r\nleichter aus dem Gleichgewicht.\r\n<COL ffdc78>Je Stufe mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_40",
+      "read_index": "275",
+      "source_jp": "吹き飛ばし力が上昇し、敵の体勢を崩しやすくなる\r\n<COL ffdc78>LV UP毎に吹き飛ばし力がより増加</COL>",
+      "source_en": "Up to +30 Knockdown Power,\r\nmaking it easier to stagger enemies.\r\n<COL ffdc78>LV UP: Further increases Knockdown Power.</COL>",
+      "text": "Du bringst Gegner mit mehr Wucht leichter aus\r\ndem Gleichgewicht.\r\n<COL ffdc78>Je Stufe mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_41",
+      "read_index": "192",
+      "source_jp": "体力が一定量以上のとき、吹き飛ばし力が上昇し\r\n敵の体勢を崩しやすくなる\r\n<COL ffdc78>LV UP毎に吹き飛ばし力がより増加</COL>",
+      "source_en": "Up to +60 Knockdown Power while above 80% Health.\r\n<COL ffdc78>LV UP: Further increases Knockdown Power.</COL>",
+      "text": "Ab einer bestimmten Menge LP steigt deine\r\nWucht.\r\n<COL ffdc78>Je Stufe mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_42",
+      "read_index": "24",
+      "source_jp": "瀕死状態中に、吹き飛ばし力が上昇し\r\n敵の体勢を崩しやすくなる\r\n<COL ffdc78>LV UP毎に吹き飛ばし力がより増加</COL>",
+      "source_en": "Up to +75 Knockdown Power while standing at Death's Door;\r\nbelow 20% Health.\r\n<COL ffdc78>LV UP: Further increases Knockdown Power.</COL>",
+      "text": "Deine Wucht steigt, wenn du dem Tod nahe bist.\r\n<COL ffdc78>Je Stufe mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_43",
+      "read_index": "216",
+      "source_jp": "スタミナが一定量以上のとき、吹き飛ばし力が上昇し\r\n敵の体勢を崩しやすくなる\r\n<COL ffdc78>LV UP毎に吹き飛ばし力がより増加</COL>",
+      "source_en": "Up to +40 Knockdown Power while above 80% Stamina.\r\n<COL ffdc78>LV UP: Further increases Knockdown Power.</COL>",
+      "text": "Ab einer bestimmten Menge Ausdauer steigt\r\ndeine Wucht.\r\n<COL ffdc78>Je Stufe mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_44",
+      "read_index": "287",
+      "source_jp": "射属性攻撃によって受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Reduces damage taken from Projectiles up to 15%.\r\n<COL ffdc78>LV UP: Further reduces damage taken.</COL>",
+      "text": "Verringert den erlittenen Stichschaden.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_45",
+      "read_index": "180",
+      "source_jp": "射属性の有効部位に与えるダメージ量が増加し\r\n非有効部位へのダメージ量が減少する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Up to +30% increased Pierce damage to weakpoints\r\nand -25% reduced Pierce damage to non-weakpoints.\r\n<COL ffdc78>LV UP: Further increases damage dealt to both parts.</COL>",
+      "text": "Mehr Schaden an Körperteilen, die empfindlich\r\nauf Stichschaden reagieren. Weniger Schaden\r\nan anderen Körperteilen.\r\n<COL ffdc78>Je Stufe mehr Schaden an empfindlichen Stellen.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_46",
+      "read_index": "240",
+      "source_jp": "戦闘態勢をとっていない敵への\r\nダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Deal up to +15% increased damage\r\nto enemies in a non-combat stance.\r\n\r\n<COL ffdc78>LV UP: Further increases damage dealt.</COL>",
+      "text": "Du richtest mehr Schaden an Gegnern an, die\r\nnoch nicht kampfbereit sind.\r\n<COL ffdc78>Je Stufe mehr Schaden.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_47",
+      "read_index": "120",
+      "source_jp": "有翼系の敵から受けるダメージ量が減少する\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Take up to 25% reduced damage from Winged enemies.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Du erleidest weniger Schaden von geflügelten\r\nGegnern.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_48",
+      "read_index": "96",
+      "source_jp": "有翼系の敵に与えるダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Deal up to 15% increased damage to Winged enemies.\r\n<COL ffdc78>LV UP: Further increases damage dealt.</COL>",
+      "text": "Du fügst geflügelten Gegnern mehr Schaden zu.\r\n<COL ffdc78>Je Stufe mehr Schaden.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_49",
+      "read_index": "108",
+      "source_jp": "鬼人系の敵から受けるダメージ量が減少する\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Take up to 25% reduced damage \r\nfrom Ogrekin-type enemies.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Du erleidest weniger Schaden von Ogerwesen.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_50",
+      "read_index": "84",
+      "source_jp": "鬼人系の敵に与えるダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Deal up to 15% increased damage to \r\nOgrekin-type enemies.\r\n<COL ffdc78>LV UP: Further increases damage dealt.</COL>",
+      "text": "Du fügst Ogerwesen mehr Schaden zu.\r\n<COL ffdc78>Je Stufe mehr Schaden.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_51",
+      "read_index": "157",
+      "source_jp": "ヒールオーラ、セイントオーラ展開時の\r\nスタミナ消費量が軽減される\r\n<COL ffdc78>LV UP毎にスタミナ消費がさらに減少</COL>",
+      "source_en": "Decreases Stamina consumption while\r\nHeal Aura and Holy Aura are active.\r\n<COL ffdc78>LV UP: Decreases Stamina consumption further.</COL>",
+      "text": "Heilaura und Heilige Aura verbrauchen beim\r\nWirken weniger Ausdauer.\r\n<COL ffdc78>Je Stufe weniger Ausdauerverbrauch.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_52",
+      "read_index": "37",
+      "source_jp": "フィールドシフト時に\r\n敵の注目を集めにくくする\r\n<COL ffdc78>LV UP毎に敵からの注目度がさらに減少</COL>",
+      "source_en": "Decreases the attention drawn from enemies\r\nwhile using Field Shift.\r\n<COL ffdc78>LV UP: Decreases attention further.</COL>",
+      "text": "Mit „Aura übertragen“ ziehst du weniger\r\nAufmerksamkeit auf dich.\r\n<COL ffdc78>Je Stufe weniger Aufmerksamkeit.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_53",
+      "read_index": "253",
+      "source_jp": "ヒールオーラ展開時に敵から注目\r\nされにくくなる\r\n<COL ffdc78>LV UP毎に敵からの注目度がさらに減少</COL>",
+      "source_en": "Reduces threat generation while deploying Heal Aura.\r\n<COL ffdc78>LV UP: Further reduces threat generation.</COL>",
+      "text": "Eine aktive Heilaura lenkt weniger\r\nAufmerksamkeit auf dich.\r\n<COL ffdc78>Je Stufe weniger Aufmerksamkeit.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_54",
+      "read_index": "276",
+      "source_jp": "表出させたシークレットコア出現時間が延長される\r\n<COL ffdc78>LV UP毎に出現時間がより延長</COL>",
+      "source_en": "Increases the duration of secret cores up to 150% longer.\r\n<COL ffdc78>LV UP: Further increases duration.</COL>",
+      "text": "Von dir aufgedeckte verborgene Kerne bleiben\r\nlänger sichtbar.\r\n<COL ffdc78>Je Stufe länger sichtbar.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_55",
+      "read_index": "205",
+      "source_jp": "助け起こしたパーティーメンバーの\r\n物理攻撃力が一定時間増加する\r\n<COL ffdc78>LV UP毎に効果持続時間がより延長</COL>",
+      "source_en": "Temporarily increases the Physical Attack Power\r\nof allies you revive.\r\n<COL ffdc78>LV UP: Further increases effect\r\nduration.</COL>",
+      "text": "Hilfst du einem Gruppenmitglied auf, steigt sein\r\nphysischer Angriff kurzzeitig.\r\n<COL ffdc78>Je Stufe längere Dauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_56",
+      "read_index": "217",
+      "source_jp": "助け起こしたパーティーメンバーの\r\n魔法攻撃力が一定時間増加する\r\n<COL ffdc78>LV UP毎に効果持続時間がより延長</COL>",
+      "source_en": "Temporarily increases the Magick Attack power of\r\nallies you revive.\r\n<COL ffdc78>LV UP: Further increases effect\r\nduration.</COL>",
+      "text": "Hilfst du einem Gruppenmitglied auf, steigt sein\r\nmagischer Angriff kurzzeitig.\r\n<COL ffdc78>Je Stufe längere Dauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_57",
+      "read_index": "25",
+      "source_jp": "助け起こしたパーティーメンバーの\r\n物理ダメージが一定時間軽減される\r\n<COL ffdc78>LV UP毎に効果持続時間がより延長</COL>",
+      "source_en": "Provides allies with increased Defense\r\nafter picking them up from incapacitation.\r\n<COL ffdc78>LV UP: Further increases duration of\r\nthe effect.</COL>",
+      "text": "Hilfst du einem Gruppenmitglied auf, erleidet es\r\nkurzzeitig weniger physischen Schaden.\r\n<COL ffdc78>Je Stufe längere Dauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_58",
+      "read_index": "73",
+      "source_jp": "助け起こしたパーティーメンバーの\r\n魔法攻撃ダメージが一定時間軽減される\r\n<COL ffdc78>LV UP毎に効果持続時間がより延長</COL>",
+      "source_en": "Provides allies with increased Magick Defense\r\nafter picking them up from incapacitation.\r\n<COL ffdc78>LV UP: Increases duration of the\r\neffect.</COL>",
+      "text": "Hilfst du einem Gruppenmitglied auf, erleidet es\r\nkurzzeitig weniger magischen Schaden.\r\n<COL ffdc78>Je Stufe längere Dauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_59",
+      "read_index": "288",
+      "source_jp": "助け起こしたパーティーメンバーの\r\n最大体力が一定時間増加する\r\n<COL ffdc78>LV UP毎に効果持続時間がより延長</COL>",
+      "source_en": "Temporarily increases the maximum health of\r\nallies you revive.\r\n<COL ffdc78>LV UP: Further increases effect\r\nduration.</COL>",
+      "text": "Hilfst du einem Gruppenmitglied auf, steigen\r\nseine maximalen LP kurzzeitig.\r\n<COL ffdc78>Je Stufe längere Dauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_60",
+      "read_index": "264",
+      "source_jp": "受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Reduces damage taken by up to 15%.\r\n<COL ffdc78>LV UP: Further reduces damage taken.</COL>",
+      "text": "Verringert den erlittenen Schaden.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_61",
+      "read_index": "169",
+      "source_jp": "スタミナ切れ時に受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Decreases damage taken while out of stamina.\r\n<COL ffdc78>LV UP: Further decreases damage\r\ntaken.</COL>",
+      "text": "Bei erschöpfter Ausdauer erleidest du weniger\r\nSchaden.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_62",
+      "read_index": "1",
+      "source_jp": "炎属性魔法によって受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Up to a 15% damage reduction from Fire attacks.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Verringert den erlittenen Feuermagieschaden.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_63",
+      "read_index": "49",
+      "source_jp": "氷属性魔法によって受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Up to a 15% damage reduction from Ice attacks.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Verringert den erlittenen Eismagieschaden.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_64",
+      "read_index": "85",
+      "source_jp": "雷属性魔法によって受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Up to a 15% damage reduction from Lightning attacks.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Verringert den erlittenen Blitzmagieschaden.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_65",
+      "read_index": "181",
+      "source_jp": "聖属性魔法によって受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Up to a 15% damage reduction from Holy attacks.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Verringert den erlittenen Schaden durch heilige\r\nMagie.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_66",
+      "read_index": "193",
+      "source_jp": "闇属性魔法によって受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Up to a 15% damage reduction from Dark attacks.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Verringert den erlittenen Schaden durch dunkle\r\nMagie.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_67",
+      "read_index": "13",
+      "source_jp": "炎属性攻撃を受けても\r\n延焼の状態異常にかかりにくくなる\r\n<COL ffdc78>LV UP毎に状態異常値さらに軽減</COL>",
+      "source_en": "Up to +32 'Burning' resistance.\r\n<COL ffdc78>LV UP: Further reduces debilitation affliction.</COL>",
+      "text": "Feuertreffer lassen dich seltener brennen.\r\n<COL ffdc78>Je Stufe geringerer Zustandsaufbau.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_68",
+      "read_index": "61",
+      "source_jp": "氷属性攻撃を受けても\r\n凍結の状態異常にかかりにくくなる\r\n<COL ffdc78>LV UP毎に状態異常値さらに軽減</COL>",
+      "source_en": "Up to +32 'Frozen' resistance.\r\n<COL ffdc78>LV UP: Further reduces debilitation affliction.</COL>",
+      "text": "Eistreffer lassen dich seltener einfrieren.\r\n<COL ffdc78>Je Stufe geringerer Zustandsaufbau.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_69",
+      "read_index": "97",
+      "source_jp": "雷属性攻撃を受けても\r\n感電の状態異常にかかりにくくなる\r\n<COL ffdc78>LV UP毎に状態異常値さらに軽減</COL>",
+      "source_en": "Up to +32 'Shocked' resistance.\r\n<COL ffdc78>LV UP: Further reduces debilitation affliction.</COL>",
+      "text": "Blitztreffer lassen dich seltener unter Strom\r\nstehen.\r\n<COL ffdc78>Je Stufe geringerer Zustandsaufbau.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_70",
+      "read_index": "229",
+      "source_jp": "聖属性攻撃を受けても\r\n聖吸の状態異常にかかりにくくなる\r\n<COL ffdc78>LV UP毎に状態異常値さらに軽減</COL>",
+      "source_en": "Up to +32 'Holy Drain' resistance.\r\n<COL ffdc78>LV UP: Further reduces debilitation affliction.</COL>",
+      "text": "Heilige Treffer lösen seltener Lichtzehrung aus.\r\n<COL ffdc78>Je Stufe geringerer Zustandsaufbau.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_71",
+      "read_index": "241",
+      "source_jp": "闇属性攻撃を受けても\r\n闇霧の状態異常にかかりにくくなる\r\n<COL ffdc78>LV UP毎に状態異常値さらに軽減</COL>",
+      "source_en": "Up to +32 'Blinded' resistance.\r\n<COL ffdc78>LV UP: Further reduces debilitation affliction.</COL>",
+      "text": "Dunkle Treffer blenden dich seltener.\r\n<COL ffdc78>Je Stufe geringerer Zustandsaufbau.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_72",
+      "read_index": "145",
+      "source_jp": "腐死系の敵から受けるダメージ量が減少する\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Take up to 25% reduced damage from Undead enemies.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Du erleidest weniger Schaden von verwesenden\r\nUntoten.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_73",
+      "read_index": "121",
+      "source_jp": "腐死系の敵に与えるダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Deal up to 15% increased damage to Undead enemies.\r\n<COL ffdc78>LV UP: Further increases damage dealt.</COL>",
+      "text": "Du fügst verwesenden Untoten mehr Schaden\r\nzu.\r\n<COL ffdc78>Je Stufe mehr Schaden.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_74",
+      "read_index": "133",
+      "source_jp": "骸骨系の敵から受けるダメージ量が減少する\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Take up to 25% reduced damage from Skeleton enemies.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Du erleidest weniger Schaden von Skeletten.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_75",
+      "read_index": "109",
+      "source_jp": "骸骨系の敵に与えるダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Deal up to 15% increased damage to Skeleton enemies.\r\n<COL ffdc78>LV UP: Further increases damage dealt.</COL>",
+      "text": "Du fügst Skeletten mehr Schaden zu.\r\n<COL ffdc78>Je Stufe mehr Schaden.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_296",
+      "read_index": "311",
+      "source_jp": "連撃のダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Increases the damage of Onslaught.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases stagger power.</COL>",
+      "text": "„Schlagfolge“ richtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_297",
+      "read_index": "323",
+      "source_jp": "斬り崩し/強斬り崩しのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Increases the damage of Guard Break/Strong Guard\r\nBreak.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases stagger power.</COL>",
+      "text": "Beide Deckungsbrecher richten mehr Schaden\r\nan.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_298",
+      "read_index": "347",
+      "source_jp": "敵のガードを崩すと一定時間攻撃力が上昇する\r\n<COL ffdc78>LV UP毎に効果持続時間がより延長</COL>",
+      "source_en": "Increases physical attack temporarily after\r\nbreaking enemy guard.\r\n<COL ffdc78>LV UP: Further increases effect\r\nduration.</COL>",
+      "text": "Brichst du die Deckung eines Gegners, steigt\r\ndein Angriff für kurze Zeit.\r\n<COL ffdc78>Je Stufe längere Dauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_299",
+      "read_index": "335",
+      "source_jp": "えぐり突きのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で気絶攻力が増加</COL>",
+      "source_en": "Increases the damage of Gouge.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases Stun Power.</COL>",
+      "text": "„Aufreißen“ richtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Betäubungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_328",
+      "read_index": "409",
+      "source_jp": "魔力が増加する\r\n<COL ffdc78>LV UP毎に魔力がより増加</COL>",
+      "source_en": "MGK ↑.\r\n<COL ffdc78>LV UP: Further increases MGK.</COL>",
+      "text": "Erhöht deine Magie.\r\n<COL ffdc78>Je Stufe mehr Magie.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_329",
+      "read_index": "397",
+      "source_jp": "セイントオーラ/セイントオーラエクス\r\nライドセイントオーラのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で状態異常蓄積値が増加</COL>",
+      "source_en": "Increases damage of the following:\r\nHoly Aura/Greater Holy Aura/Ride Holy Aura.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases status affliction\r\naccumulation.</COL>",
+      "text": "Heilige Aura, Große Heilige Aura und Heiliger\r\nKlammerangriff richten mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Stärkerer Zustandsaufbau.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_330",
+      "read_index": "421",
+      "source_jp": "フィールドシフト解除時の衝撃波のダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Increases the damage of the shockwave generated\r\nwhen cancelling Field Shift.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases Chance and Exhaust Attack.</COL>",
+      "text": "Die Stoßwelle am Ende von „Aura übertragen“\r\nrichtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_331",
+      "read_index": "433",
+      "source_jp": "ヒールオーラまたはセイントオーラ展開中\r\n自身の物理防御力と魔法防御力が増加する\r\n<COL ffdc78>LV UP毎に物理/魔法防御力がより増加</COL>",
+      "source_en": "Increases Physical and Magickal Defense power\r\nwhile Heal Aura or Holy Aura are currently active.\r\n<COL ffdc78>LV UP: Further increases Physical and Magickal Defense.</COL>",
+      "text": "Bei aktiver Heilaura oder Heiliger Aura steigen\r\ndeine physische und magische Abwehr.\r\n<COL ffdc78>Je Stufe höhere Abwehr.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_300",
+      "read_index": "359",
+      "source_jp": "強連撃のダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Increases the damage of Dire Onslaught.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases Knockdown Power.</COL>",
+      "text": "„Schwere Schlagfolge“ richtet mehr Schaden\r\nan.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_301",
+      "read_index": "371",
+      "source_jp": "盾の防御性能が向上し\r\nより強い攻撃を防ぎやすくなる\r\n<COL ffdc78>LV UP毎に盾ガード値がより増加</COL>",
+      "source_en": "Guard Power ↑ for shields,\r\nmaking it easier to withstand stronger attacks.\r\n<COL ffdc78>LV UP: Further increases Guard Power.</COL>",
+      "text": "Dein Schild kann stärkere Angriffe abfangen.\r\n<COL ffdc78>Je Stufe besserer Schildblock.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_302",
+      "read_index": "383",
+      "source_jp": "連撃のダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Increases damage of Onslaught.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases Chance and Exhaust Attack.</COL>",
+      "text": "„Schlagfolge“ richtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_303",
+      "read_index": "395",
+      "source_jp": "斬り崩し/強斬り崩しのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で気絶攻力が増加</COL>",
+      "source_en": "Increases damage of Guard Break/Strong Guard\r\nBreak.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases Stun Power.</COL>",
+      "text": "Beide Deckungsbrecher richten mehr Schaden\r\nan.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Betäubungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_304",
+      "read_index": "419",
+      "source_jp": "溜め動作中に受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージがさらに軽減</COL>",
+      "source_en": "Reduces damage taken while charging an attack.\r\n<COL ffdc78>LV UP: Further decreases damage\r\nreceived.</COL>",
+      "text": "Beim Aufladen erleidest du weniger Schaden.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_305",
+      "read_index": "407",
+      "source_jp": "えぐり突きのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Increases the damage of Gouge.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases Chance and Exhaust Attack.</COL>",
+      "text": "„Aufreißen“ richtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_306",
+      "read_index": "431",
+      "source_jp": "強連撃のダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Increases the damage of Dire Onslaught.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases Chance and Exhaust Attack.</COL>",
+      "text": "„Schwere Schlagfolge“ richtet mehr Schaden\r\nan.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_307",
+      "read_index": "443",
+      "source_jp": "えぐり突きのスタミナ消費量が軽減される\r\n<COL ffdc78>LV UP毎にスタミナ消費がさらに減少</COL>",
+      "source_en": "Reduces stamina cost of Gouge.\r\n<COL ffdc78>LV UP: Further increases reduction\r\namount.</COL>",
+      "text": "„Aufreißen“ verbraucht weniger Ausdauer.\r\n<COL ffdc78>Je Stufe weniger Ausdauerverbrauch.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_308",
+      "read_index": "300",
+      "source_jp": "弓射ちのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Basic arrow attacks deal up to 25% more damage.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases Knockdown Power.</COL>",
+      "text": "„Pfeilschuss“ richtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_309",
+      "read_index": "312",
+      "source_jp": "仕込み爆矢射ちのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で状態異常蓄積値が増加</COL>",
+      "source_en": "Explosive Arrows deal up to 25% more damage.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases status effect rate.</COL>",
+      "text": "„Explosivpfeil abschießen“ richtet mehr Schaden\r\nan.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Stärkerer Zustandsaufbau.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_310",
+      "read_index": "336",
+      "source_jp": "弓構え中の物理防御力と魔法防御力が上昇する\r\n<COL ffdc78>LV UP毎に物理/魔法防御力がより上昇</COL>",
+      "source_en": "Increases Physical and Magick defense while aiming\r\nyour bow.\r\n<COL ffdc78>LV UP: Further increases\r\ndefenses.</COL>",
+      "text": "Mit angelegtem Bogen steigt deine physische\r\nund magische Abwehr.\r\n<COL ffdc78>Je Stufe höhere Abwehr.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_311",
+      "read_index": "324",
+      "source_jp": "矢じり斬りのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で状態異常蓄積値が増加</COL>",
+      "source_en": "Arrowhead Strike deals up to 25% more damage.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases status effect rate.</COL>",
+      "text": "„Pfeilspitzenstich“ richtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Stärkerer Zustandsaufbau.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_312",
+      "read_index": "348",
+      "source_jp": "しじま射ちのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Keensight shots deal up to 25% more damage.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases Knockdown Power.</COL>",
+      "text": "„Präzisionsschuss“ richtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_313",
+      "read_index": "360",
+      "source_jp": "パーティーメンバーを助け起こすと\r\n自身が受ける物理攻撃ダメージが一定時間軽減される\r\n<COL ffdc78>LV UP毎に効果持続時間がより延長</COL>",
+      "source_en": "Increases Physical Defense for a period of time\r\nwhen assisting and reviving party members.\r\n<COL ffdc78>LV UP: Increases effect duration further.</COL>",
+      "text": "Hilfst du einem Gruppenmitglied auf, erleidest du\r\nkurzzeitig weniger physischen Schaden.\r\n<COL ffdc78>Je Stufe längere Dauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_314",
+      "read_index": "372",
+      "source_jp": "弓射ちのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Basic Arrow attacks deal up to 25% more damage.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases Chance and Exhaust Attack.</COL>",
+      "text": "„Pfeilschuss“ richtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_315",
+      "read_index": "384",
+      "source_jp": "仕込み爆矢射ちのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Exploding Arrows deal up to 25% more damage.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases Chance and Exhaust Attack.</COL>",
+      "text": "„Explosivpfeil abschießen“ richtet mehr Schaden\r\nan.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_316",
+      "read_index": "408",
+      "source_jp": "最大スタミナが増加する\r\n<COL ffdc78>LV UP毎に最大スタミナがより増加</COL>",
+      "source_en": "Increases your maximum stamina.\r\n<COL ffdc78>LV UP: Further increases maximum\r\nstamina.</COL>",
+      "text": "Erhöht deine maximale Ausdauer.\r\n<COL ffdc78>Je Stufe höhere maximale Ausdauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_317",
+      "read_index": "396",
+      "source_jp": "矢じり斬りのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Arrowhead Strike deals up to 25% more damage.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases Chance and Exhaust Attack.</COL>",
+      "text": "„Pfeilspitzenstich“ richtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_318",
+      "read_index": "420",
+      "source_jp": "しじま射ちのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Keensight shots deal up to 25% more damage.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases Chance and Exhaust Attack.</COL>",
+      "text": "„Präzisionsschuss“ richtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_319",
+      "read_index": "432",
+      "source_jp": "達人装填成功時に増加する弓射ちの矢の威力が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "The triple shot arrows gained from performing\r\na Perfect Reload deals up to 30% more damage.\r\n<COL ffdc78>LV UP: Further increases damage dealt.</COL>",
+      "text": "Steigert den Schadensbonus von „Pfeilschuss“\r\nnach erfolgreichem „Gekonnten Nachladen“.\r\n<COL ffdc78>Je Stufe mehr Schaden.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_320",
+      "read_index": "301",
+      "source_jp": "ヒールオーラ/ヒールオーラエクス/\r\nライドヒールオーラの回復量が増加する\r\n<COL ffdc78>LV UP毎に回復量がより増加\r\nLV5～6で詠唱速度が上昇</COL>",
+      "source_en": "Increases the healing done by Heal Aura,\r\nGreater Heal Aura, and Ride Heal Aura.\r\n<COL ffdc78>LV UP: Further increases resistance.\r\nLV5～6: Increases cast speed.</COL>",
+      "text": "Heilaura, Große Heilaura und Klammer-Heilaura\r\nheilen mehr LP.\r\n<COL ffdc78>Je Stufe mehr Heilung.\r\nStufen 5–6: Kürzere Zauberzeit.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_321",
+      "read_index": "313",
+      "source_jp": "ブラストビットのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Increases the damage of Blast Bit.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases stagger power.</COL>",
+      "text": "„Magiekugel“ richtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_322",
+      "read_index": "337",
+      "source_jp": "パーティーメンバーを助け起こすと\r\n自身が受ける魔法攻撃ダメージが一定時間軽減される\r\n<COL ffdc78>LV UP毎に効果持続時間がより延長</COL>",
+      "source_en": "Decreases damage from magick attacks temporarily\r\nafter reviving a party member.\r\n<COL ffdc78>LV UP: Further extends effect\r\nduration.</COL>",
+      "text": "Hilfst du einem Gruppenmitglied auf, erleidest du\r\nkurzzeitig weniger magischen Schaden.\r\n<COL ffdc78>Je Stufe längere Dauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_323",
+      "read_index": "325",
+      "source_jp": "セイントオーラ/セイントオーラエクス\r\nライドセイントオーラのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Increases the damage of Holy Aura,\r\nGreater Holy Aura, and Ride Holy Aura.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases stagger power.</COL>",
+      "text": "Heilige Aura, Große Heilige Aura und Heiliger\r\nKlammerangriff richten mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_324",
+      "read_index": "349",
+      "source_jp": "フィールドシフト解除時の衝撃波のダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6で吹き飛ばし力が増加</COL>",
+      "source_en": "Increases damage dealt by the shockwave\r\ncreated when cancelling Field Shift.\r\n<COL ffdc78>LV UP: Further increases damage.\r\nLV5～6: Increases Knockdown Power.</COL>",
+      "text": "Die Stoßwelle am Ende von „Aura übertragen“\r\nrichtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_325",
+      "read_index": "361",
+      "source_jp": "敵にとどめを刺したとき、体力が回復する\r\n<COL ffdc78>LV UP毎に回復力がより上昇</COL>",
+      "source_en": "When landing the finishing blow on an enemy,\r\nyour Stamina recovers.\r\n<COL ffdc78>LV UP: Further increase recovered\r\nStamina.</COL>",
+      "text": "Der Todesstoß gegen einen Gegner stellt LP\r\nwieder her.\r\n<COL ffdc78>Je Stufe mehr Heilung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_326",
+      "read_index": "373",
+      "source_jp": "ヒールオーラ/ヒールオーラエクス/\r\nライドヒールオーラの回復量が増加する\r\n<COL ffdc78>LV UP毎に回復量がより増加\r\nLV5～6で展開中の耐久力が増加</COL>",
+      "source_en": "Increases the recovery amount of\r\nHeal Aura / Greater Heal Aura / Ride Heal Aura.\r\n<COL ffdc78>LV UP: Further increases recovery\r\namount.\r\nLV5～6: Increases endurance while aura is\r\ndeployed.</COL>",
+      "text": "Heilaura, Große Heilaura und Klammer-Heilaura\r\nheilen mehr LP.\r\n<COL ffdc78>Je Stufe mehr Heilung.\r\nStufen 5–6: Mehr Standfestigkeit bei aktiver\r\nAura.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_327",
+      "read_index": "385",
+      "source_jp": "ブラストビットのダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加\r\nLV5～6でチャンス攻力と疲労攻力が増加</COL>",
+      "source_en": "Increases damage of Blast Bits.\r\n<COL ffdc78>LV UP: Further increases damage dealt.\r\nLV5～6: Increases Chance and Exhaust Attack.</COL>",
+      "text": "„Magiekugel“ richtet mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufen 5–6: Mehr Chancen- und\r\nErschöpfungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_1",
+      "read_index": "47",
+      "source_jp": "斬り崩しの予備動作が短縮され\r\nより素早く剣を振り下ろすことができる\r\n<COL ffdc78>LV UP毎に予備動作さらに短縮</COL>",
+      "source_en": "Decreases the charge time of Guard Break,\r\nallowing for a quicker downswing.\r\n<COL ffdc78>LV UP: Decreases charge time further.</COL>",
+      "text": "Führe den Deckungsbrecher schneller aus.\r\n<COL ffdc78>Je Stufe kürzere Vorbereitung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_2",
+      "read_index": "155",
+      "source_jp": "えぐり突き時の攻撃速度が上昇する\r\n<COL ffdc78>LV UP毎に攻撃速度がより上昇</COL>",
+      "source_en": "Attack speed ↑ when using Gouge.\r\n<COL ffdc78>LV UP: Increases attack speed further.</COL>",
+      "text": "Stich beim „Aufreißen“ schneller zu.\r\n<COL ffdc78>Je Stufe schneller.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_3",
+      "read_index": "227",
+      "source_jp": "盾弾きの発動時に敵の体勢を崩しやすくなる\r\n<COL ffdc78>LV UP毎に吹き飛ばし力がより増加</COL>",
+      "source_en": "Deflects deal up to 45% more Knockdown Power,\r\nmaking it easier to throw enemies off balance.\r\n<COL ffdc78>LV UP: Further increases Knockdown Power.</COL>",
+      "text": "Mit „Abwehren“ bringst du Gegner leichter aus\r\ndem Gleichgewicht.\r\n<COL ffdc78>Je Stufe mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_4",
+      "read_index": "11",
+      "source_jp": "盾弾きの発動時に敵を気絶させやすくなる\r\n<COL ffdc78>LV UP毎に気絶攻力がより増加</COL>",
+      "source_en": "Stun Power ↑ from Deflects.\r\n<COL ffdc78>LV UP: Further increases Stun Power.</COL>",
+      "text": "Mit „Abwehren“ betäubst du Gegner leichter.\r\n<COL ffdc78>Je Stufe mehr Betäubungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_5",
+      "read_index": "35",
+      "source_jp": "盾弾きの攻撃範囲が拡張される\r\n<COL ffdc78>LV UP毎に攻撃範囲がより拡張</COL>",
+      "source_en": "Extends the attack range of\r\nDeflect.\r\n<COL ffdc78>LV UP: Extends the range\r\nfurther.</COL>",
+      "text": "Vergrößert den Wirkungsbereich von\r\n„Abwehren“.\r\n<COL ffdc78>Je Stufe größerer Wirkungsbereich.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_6",
+      "read_index": "83",
+      "source_jp": "盾弾きの発動時にスタミナが一定量回復する\r\n<COL ffdc78>LV UP毎にスタミナ回復量がより増加</COL>",
+      "source_en": "Allows Stamina to recover from Deflects.\r\n<COL ffdc78>LV UP: Increases Stamina recovery further.</COL>",
+      "text": "„Abwehren“ stellt einen Teil deiner Ausdauer\r\nwieder her.\r\n<COL ffdc78>Je Stufe mehr Ausdauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_7",
+      "read_index": "274",
+      "source_jp": "筋力が増加する\r\n<COL ffdc78>LV UP毎に筋力がより増加</COL>",
+      "source_en": "Increases Strength.\r\n<COL ffdc78>LV UP: Further increases Strength.</COL>",
+      "text": "Erhöht deine Stärke.\r\n<COL ffdc78>Je Stufe mehr Stärke.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_8",
+      "read_index": "203",
+      "source_jp": "体力が一定量以上のとき筋力が増加する\r\n<COL ffdc78>LV UP毎に筋力がより増加</COL>",
+      "source_en": "Gain up to +31 STR while above 80% Health.\r\n<COL ffdc78>LV UP: Further increases physical strength.</COL>",
+      "text": "Erhöht deine Stärke ab einer bestimmten Menge\r\nLP.\r\n<COL ffdc78>Je Stufe mehr Stärke.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_9",
+      "read_index": "59",
+      "source_jp": "瀕死状態中の筋力が増加する\r\n<COL ffdc78>LV UP毎に筋力がより増加</COL>",
+      "source_en": "Gain up to +55 STR while below 20% Health.\r\nYour Strength surges while you stand at Death's Door.\r\n<COL ffdc78>LV UP: Increases Strength further.</COL>",
+      "text": "Erhöht deine Stärke, wenn du dem Tod nahe\r\nbist.\r\n<COL ffdc78>Je Stufe mehr Stärke.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_10",
+      "read_index": "143",
+      "source_jp": "スタミナが一定量以上のとき\r\n筋力が増加する\r\n<COL ffdc78>LV UP毎に筋力がより増加</COL>",
+      "source_en": "Gain up to +35 Strength while above 80% Stamina.\r\n<COL ffdc78>LV UP: Increases Strength further.</COL>",
+      "text": "Erhöht deine Stärke ab einer bestimmten Menge\r\nAusdauer.\r\n<COL ffdc78>Je Stufe mehr Stärke.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_11",
+      "read_index": "262",
+      "source_jp": "盾での攻撃時に与えるダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Gain up to +20 STR with shield attacks.\r\n<COL ffdc78>LV UP: Further increases damage.</COL>",
+      "text": "Schildangriffe richten mehr Schaden an.\r\n<COL ffdc78>Je Stufe mehr Schaden.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_12",
+      "read_index": "167",
+      "source_jp": "盾での攻撃時に敵の体勢を崩しやすくなる\r\n<COL ffdc78>LV UP毎に吹き飛ばし力がより増加</COL>",
+      "source_en": "Shield attacks gain up to +20% Knockdown Power.\r\n<COL ffdc78>LV UP: Further increases Knockdown Power.</COL>",
+      "text": "Schildangriffe bringen Gegner leichter aus dem\r\nGleichgewicht.\r\n<COL ffdc78>Je Stufe mehr Wucht.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_13",
+      "read_index": "239",
+      "source_jp": "盾での攻撃時に\r\n敵を気絶させやすくなる\r\n<COL ffdc78>LV UP毎に気絶攻力がより増加</COL>",
+      "source_en": "Increases Stun Power of shield attacks.\r\n<COL ffdc78>LV UP: Further increases Stun Power.</COL>",
+      "text": "Schildangriffe betäuben Gegner leichter.\r\n<COL ffdc78>Je Stufe mehr Betäubungskraft.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_14",
+      "read_index": "286",
+      "source_jp": "押さえ込みの持続時間が延長される\r\n<COL ffdc78>LV UP毎に持続時間がより延長</COL>",
+      "source_en": "Increases the duration of holding enemies.\r\n<COL ffdc78>LV UP: Further increases\r\nduration.</COL>",
+      "text": "Du hältst Gegner länger am Boden fest.\r\n<COL ffdc78>Je Stufe längere Dauer.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_15",
+      "read_index": "23",
+      "source_jp": "押さえ込み時のスタミナ消費量が軽減される\r\n<COL ffdc78>LV UP毎にスタミナ消費がさらに減少</COL>",
+      "source_en": "Decreases Stamina consumed when pinning down enemies.\r\n<COL ffdc78>LV UP: Further decreases Stamina consumption.</COL>",
+      "text": "Beim Niederhalten verbrauchst du weniger\r\nAusdauer.\r\n<COL ffdc78>Je Stufe weniger Ausdauerverbrauch.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_16",
+      "read_index": "71",
+      "source_jp": "敵に拘束された状態からの脱出が\r\n通常よりも容易になる\r\n<COL ffdc78>LV UP毎に拘束からの脱出がさらに緩和</COL>",
+      "source_en": "Easily escape from enemy grapple-holds.\r\n<COL ffdc78>LV UP: Further facilitates ease of escape.</COL>",
+      "text": "Du entkommst gegnerischen Griffen leichter.\r\n<COL ffdc78>Je Stufe leichtere Befreiung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_17",
+      "read_index": "179",
+      "source_jp": "敵に拘束された状態で受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "When grabbed by enemies, take up to 20% less damage.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Du erleidest weniger Schaden in gegnerischen\r\nGriffen.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_18",
+      "read_index": "215",
+      "source_jp": "連係投げ構え中に受けるダメージ量が軽減され\r\n体勢を崩されにくくなる\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Reduces damage taken and makes you harder to\r\nstagger while in the stance for an assisted jump.\r\n<COL ffdc78>LV UP: Further reduces damage\r\ntaken.</COL>",
+      "text": "Beim Vorbereiten des Hochwurfs erleidest du\r\nweniger Schaden und gerätst schwerer aus dem\r\nGleichgewicht.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_19",
+      "read_index": "191",
+      "source_jp": "受け身の無敵時間が延長される\r\n<COL ffdc78>LV UP毎に無敵時間がより延長</COL>",
+      "source_en": "Increases the invulnerability period when you\r\nquick-recover from a Knockdown.\r\n<COL ffdc78>LV UP: Further increases\r\ninvulnerability period.</COL>",
+      "text": "Beim „Kontrollierten Fall“ bist du länger\r\nunverwundbar.\r\n<COL ffdc78>Je Stufe längere Unverwundbarkeit.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_20",
+      "read_index": "298",
+      "source_jp": "打属性攻撃によって受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Take up to 20% less damage from striking attacks.\r\n<COL ffdc78>LV UP: Further reduces damage taken.</COL>",
+      "text": "Verringert den erlittenen Schlagschaden.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_21",
+      "read_index": "251",
+      "source_jp": "物攻低下の状態異常への耐性が増加する\r\n<COL ffdc78>LV UP毎に耐性がより増加</COL>",
+      "source_en": "Increases resistance to Physical\r\nAttack Down.\r\n<COL ffdc78>LV UP: Further increases\r\nresistance.</COL>",
+      "text": "Erhöht den Widerstand gegen gesenkten\r\nphysischen Angriff.\r\n<COL ffdc78>Je Stufe höherer Widerstand.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_22",
+      "read_index": "131",
+      "source_jp": "亜人系の敵から受けるダメージ量が減少する\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Take up to 20% reduced damage\r\nfrom Demihuman enemies.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Du erleidest weniger Schaden von\r\nHalbmenschen.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_23",
+      "read_index": "107",
+      "source_jp": "亜人系の敵に与えるダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Deal up to 15% increased damage\r\nto Demihuman enemies.\r\n<COL ffdc78>LV UP: Further increases damage dealt.</COL>",
+      "text": "Du fügst Halbmenschen mehr Schaden zu.\r\n<COL ffdc78>Je Stufe mehr Schaden.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_24",
+      "read_index": "119",
+      "source_jp": "軟体系の敵から受けるダメージ量が減少する\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "Take up to 20% reduced damage from Formless enemies.\r\n<COL ffdc78>LV UP: Further decreases damage taken.</COL>",
+      "text": "Du erleidest weniger Schaden von formlosen\r\nGegnern.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_25",
+      "read_index": "95",
+      "source_jp": "軟体系の敵に与えるダメージ量が増加する\r\n<COL ffdc78>LV UP毎にダメージがより増加</COL>",
+      "source_en": "Deal up to 15% increased damage to Formless enemies.\r\n<COL ffdc78>LV UP: Further increases damage dealt.</COL>",
+      "text": "Du fügst formlosen Gegnern mehr Schaden zu.\r\n<COL ffdc78>Je Stufe mehr Schaden.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_26",
+      "read_index": "36",
+      "source_jp": "矢を放った後の反動を抑える\r\n<COL ffdc78>LV UP毎に反動がさらに軽減</COL>",
+      "source_en": "Decreases recoil after firing your bow.\r\n<COL ffdc78>LV UP: Decreases recoil further.</COL>",
+      "text": "Verringert den Rückstoß nach einem Schuss.\r\n<COL ffdc78>Je Stufe weniger Rückstoß.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_27",
+      "read_index": "0",
+      "source_jp": "弓の移動射ちの際、矢が照準からぶれなくなる\r\n<COL ffdc78>LV UP毎にぶれ幅がさらに軽減</COL>",
+      "source_en": "Reduces deviation of arrows fired whilst in motion.\r\n<COL ffdc78>LV UP: Further decreases deviation.</COL>",
+      "text": "Pfeile weichen beim Schießen in Bewegung\r\nweniger vom Ziel ab.\r\n<COL ffdc78>Je Stufe geringere Abweichung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_28",
+      "read_index": "228",
+      "source_jp": "矢の装填中に受けるダメージ量が軽減される\r\n<COL ffdc78>LV UP毎にダメージさらに軽減</COL>",
+      "source_en": "While reloading arrows, take up to 60% less damage.\r\n<COL ffdc78>LV UP: Further reduces damage taken.</COL>",
+      "text": "Beim Nachladen erleidest du weniger Schaden.\r\n<COL ffdc78>Je Stufe stärkere Schadensminderung.</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_29",
+      "read_index": "144",
+      "source_jp": "一度に矢筒に補充できる矢の本数が増加する\r\n<COL ffdc78>LV UP毎に矢の装填数がより増加</COL>",
+      "source_en": "Increases the number of arrows held by the quiver,\r\nholding up to 12 arrows at a time.\r\n<COL ffdc78>LV UP: Increases quiver capacity by 2.</COL>",
+      "text": "Lade mehr Pfeile auf einmal nach.\r\n<COL ffdc78>Je Stufe mehr Pfeile.</COL>"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\event\\event_name.gmd",
+  "arc_path": "\\EventViewRoom.arc",
+  "entries": [
+    {
+      "key": "EVENT_NAME_st0100ev020",
+      "read_index": "10",
+      "source_jp": "メイリーフの捜索",
+      "source_en": "Searching for Mayleaf",
+      "text": "Die Suche nach Mayleaf"
+    },
+    {
+      "key": "EVENT_NAME_st0100ev025",
+      "read_index": "14",
+      "source_jp": "リンウッドの墓",
+      "source_en": "Tomb of Lynwood",
+      "text": "Das Grab von Lynwood"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev015",
+      "read_index": "6",
+      "source_jp": "戻らない調査団",
+      "source_en": "Survey team that never returned",
+      "text": "Der vermisste Erkundungstrupp"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev025",
+      "read_index": "9",
+      "source_jp": "アークからの帰還",
+      "source_en": "Return from the Ark",
+      "text": "Rückkehr von der Arche"
+    },
+    {
+      "key": "EVENT_NAME_st0401ev000",
+      "read_index": "11",
+      "source_jp": "トロール登場",
+      "source_en": "Appearance of Trolls",
+      "text": "Ein Troll taucht auf"
+    },
+    {
+      "key": "EVENT_NAME_st0401ev005",
+      "read_index": "56",
+      "source_jp": "キースヒルトとメイリーフ",
+      "source_en": "Kieshildt and Mayleaf",
+      "text": "Kieshildt und Mayleaf"
+    },
+    {
+      "key": "EVENT_NAME_st0401ev010",
+      "read_index": "12",
+      "source_jp": "メイリーフの救出",
+      "source_en": "Mayleaf Rescue",
+      "text": "Mayleafs Rettung"
+    },
+    {
+      "key": "EVENT_NAME_st0576ev000",
+      "read_index": "7",
+      "source_jp": "溶命炉の番人",
+      "source_en": "Keeper of the Furnace",
+      "text": "Der Wächter des Lebensschmelzofens"
+    },
+    {
+      "key": "EVENT_NAME_st0576ev005",
+      "read_index": "8",
+      "source_jp": "調査団の救助",
+      "source_en": "Rescue of the survey team",
+      "text": "Rettung des Erkundungstrupps"
+    }
+  ]
+}

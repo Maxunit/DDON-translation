@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000075_00.gmd",
+  "arc_path": "\\quest\\q40000075.arc",
+  "entries": [
+    {
+      "key": "q40000075_00_75",
+      "read_index": "0",
+      "source_jp": "潮風の品",
+      "source_en": "Taste the Salt",
+      "text": "Ein Hauch von Meersalz"
+    },
+    {
+      "key": "q40000075_00_75",
+      "read_index": "1",
+      "source_jp": "このあたりは海が近くて、近くで採れた素材にも潮の香りがついてるわ\r\nそういう<LQIM>を<LQVA>こ貰えないかしら\r\nお礼はするから",
+      "source_en": "This area is close to the sea,\r\nand local materials have a hint of salt.\r\nWill you deliver <LQVA> of <LQIM>?\r\nYou will be rewarded for your troubles.",
+      "text": "Die Funde hier riechen nach Meer.\r\n<LQIM> wäre genau das\r\nRichtige.\r\nBringt mir <LQVA> Stück. Ich belohne Euch dafür.",
+      "tag_source": "source_jp"
+    }
+  ]
+}

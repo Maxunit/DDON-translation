@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5 – Seneka, Werkstatt und der scharlachrote Kristall",
+  "gmd_path": "ui\\00_message\\named\\named_param.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "namedparam_53",
+      "read_index": "4",
+      "source_jp": "要警戒",
+      "source_en": " Vigilant ",
+      "text": " Wachsamer "
+    },
+    {
+      "key": "namedparam_456",
+      "read_index": "261",
+      "source_jp": "骨噛み",
+      "source_en": " Bone-Eating ",
+      "text": " Knochenbeißender "
+    },
+    {
+      "key": "namedparam_458",
+      "read_index": "263",
+      "source_jp": "賞金首",
+      "source_en": " Bounty ",
+      "text": " Gesuchter "
+    }
+  ]
+}

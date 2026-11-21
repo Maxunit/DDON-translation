@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_26",
+      "read_index": "23",
+      "source_jp": "ローテス組合宿　海竜亭",
+      "source_en": "Sea Dragon Inn",
+      "text": "Gasthaus Zum Seedrachen"
+    },
+    {
+      "key": "STAGE_NAME_33",
+      "read_index": "30",
+      "source_jp": "海辺の地下室",
+      "source_en": "Seaside Cellar",
+      "text": "Keller am Meer"
+    },
+    {
+      "key": "STAGE_NAME_67",
+      "read_index": "64",
+      "source_jp": "燐光虫の洞窟",
+      "source_en": "Glowworm Cave",
+      "text": "Glühwürmchenhöhle"
+    },
+    {
+      "key": "STAGE_NAME_141",
+      "read_index": "138",
+      "source_jp": "ブリア海岸",
+      "source_en": "Breya Coast",
+      "text": "Breya-Küste"
+    }
+  ]
+}

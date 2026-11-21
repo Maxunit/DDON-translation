@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Schildweiser",
+  "gmd_path": "ui\\00_message\\skill\\ability_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ABILITY_NAME_76",
+      "read_index": "206",
+      "source_jp": "積吸",
+      "source_en": "Absorption",
+      "text": "Kraftsog"
+    },
+    {
+      "key": "ABILITY_NAME_77",
+      "read_index": "134",
+      "source_jp": "貪吸",
+      "source_en": "Trickle",
+      "text": "Starker Sog"
+    },
+    {
+      "key": "ABILITY_NAME_78",
+      "read_index": "277",
+      "source_jp": "猛吸",
+      "source_en": "Great Absorption",
+      "text": "Atemfang"
+    },
+    {
+      "key": "ABILITY_NAME_79",
+      "read_index": "26",
+      "source_jp": "異彩",
+      "source_en": "Prominence",
+      "text": "Blickfang"
+    },
+    {
+      "key": "ABILITY_NAME_80",
+      "read_index": "146",
+      "source_jp": "烈放",
+      "source_en": "Violent Release",
+      "text": "Kraftentladung"
+    },
+    {
+      "key": "ABILITY_NAME_81",
+      "read_index": "38",
+      "source_jp": "過給",
+      "source_en": "Supercharge",
+      "text": "Nachglut"
+    },
+    {
+      "key": "ABILITY_NAME_82",
+      "read_index": "2",
+      "source_jp": "合昇",
+      "source_en": "Counter",
+      "text": "Elementresonanz"
+    },
+    {
+      "key": "ABILITY_NAME_83",
+      "read_index": "218",
+      "source_jp": "岐精",
+      "source_en": "Divided Strength",
+      "text": "Neuer Atem"
+    },
+    {
+      "key": "ABILITY_NAME_84",
+      "read_index": "86",
+      "source_jp": "長守",
+      "source_en": "Frugal Defense",
+      "text": "Kraftreserve"
+    },
+    {
+      "key": "ABILITY_NAME_85",
+      "read_index": "14",
+      "source_jp": "壮防",
+      "source_en": "Adamance",
+      "text": "Ausdauerblock"
+    },
+    {
+      "key": "ABILITY_NAME_86",
+      "read_index": "110",
+      "source_jp": "抗意",
+      "source_en": "Denial",
+      "text": "Gegenwehr"
+    },
+    {
+      "key": "ABILITY_NAME_87",
+      "read_index": "98",
+      "source_jp": "見極",
+      "source_en": "Prescience",
+      "text": "Gespür"
+    },
+    {
+      "key": "ABILITY_NAME_88",
+      "read_index": "122",
+      "source_jp": "堅牢",
+      "source_en": "Solid",
+      "text": "Bollwerk"
+    },
+    {
+      "key": "ABILITY_NAME_89",
+      "read_index": "50",
+      "source_jp": "揺抑",
+      "source_en": "Vibrant Defense",
+      "text": "Abfederung"
+    },
+    {
+      "key": "ABILITY_NAME_90",
+      "read_index": "230",
+      "source_jp": "即直",
+      "source_en": "Instant Recovery",
+      "text": "Schnelle Fassung"
+    },
+    {
+      "key": "ABILITY_NAME_91",
+      "read_index": "265",
+      "source_jp": "壮健",
+      "source_en": "Robust",
+      "text": "Robustheit"
+    },
+    {
+      "key": "ABILITY_NAME_92",
+      "read_index": "194",
+      "source_jp": "気鋭",
+      "source_en": "Fired Up",
+      "text": "Wachsamkeit"
+    },
+    {
+      "key": "ABILITY_NAME_93",
+      "read_index": "62",
+      "source_jp": "開悟",
+      "source_en": "Sanctuary",
+      "text": "Letzte Zuflucht"
+    },
+    {
+      "key": "ABILITY_NAME_94",
+      "read_index": "242",
+      "source_jp": "精強",
+      "source_en": "Great Vigor",
+      "text": "Energiepolster"
+    },
+    {
+      "key": "ABILITY_NAME_95",
+      "read_index": "158",
+      "source_jp": "専心",
+      "source_en": "Dedication",
+      "text": "Magieschutz"
+    },
+    {
+      "key": "ABILITY_NAME_96",
+      "read_index": "170",
+      "source_jp": "堅忍",
+      "source_en": "Perseverance",
+      "text": "Abwehrschutz"
+    },
+    {
+      "key": "ABILITY_NAME_97",
+      "read_index": "182",
+      "source_jp": "聖体",
+      "source_en": "Holy Body",
+      "text": "Heiliger Leib"
+    },
+    {
+      "key": "ABILITY_NAME_98",
+      "read_index": "254",
+      "source_jp": "活性",
+      "source_en": "Invigorated",
+      "text": "Lebenskraft"
+    },
+    {
+      "key": "ABILITY_NAME_99",
+      "read_index": "74",
+      "source_jp": "溌剌",
+      "source_en": "Perky",
+      "text": "Aufbruch"
+    },
+    {
+      "key": "ABILITY_NAME_100",
+      "read_index": "289",
+      "source_jp": "緩刃",
+      "source_en": "Eased Blade",
+      "text": "Klingenschutz"
+    },
+    {
+      "key": "ABILITY_NAME_332",
+      "read_index": "302",
+      "source_jp": "盾打 倒",
+      "source_en": "Shieldbash(S)",
+      "text": "Schildhieb (W)"
+    },
+    {
+      "key": "ABILITY_NAME_333",
+      "read_index": "314",
+      "source_jp": "属照 烈",
+      "source_en": "Weak Light(F)",
+      "text": "Schwächungslicht (Z)"
+    },
+    {
+      "key": "ABILITY_NAME_334",
+      "read_index": "338",
+      "source_jp": "護治",
+      "source_en": "Protected Mend",
+      "text": "Heilschutz"
+    },
+    {
+      "key": "ABILITY_NAME_335",
+      "read_index": "350",
+      "source_jp": "盾序 烈",
+      "source_en": "Shield Counter(S)",
+      "text": "Schildfolge (Z)"
+    },
+    {
+      "key": "ABILITY_NAME_336",
+      "read_index": "326",
+      "source_jp": "攻爆 砕",
+      "source_en": "Force Burst(C)",
+      "text": "Kraftstoß (C)"
+    },
+    {
+      "key": "ABILITY_NAME_337",
+      "read_index": "362",
+      "source_jp": "集視",
+      "source_en": "Attention",
+      "text": "Herausforderung"
+    },
+    {
+      "key": "ABILITY_NAME_338",
+      "read_index": "374",
+      "source_jp": "盾打 砕",
+      "source_en": "Shield Blow(C)",
+      "text": "Schildhieb (C)"
+    },
+    {
+      "key": "ABILITY_NAME_339",
+      "read_index": "386",
+      "source_jp": "属照 砕",
+      "source_en": "Weak Light(C)",
+      "text": "Schwächungslicht (C)"
+    },
+    {
+      "key": "ABILITY_NAME_340",
+      "read_index": "410",
+      "source_jp": "盾崩",
+      "source_en": "Shield Collapse",
+      "text": "Schildwucht"
+    },
+    {
+      "key": "ABILITY_NAME_341",
+      "read_index": "422",
+      "source_jp": "盾序 砕",
+      "source_en": "Shield Sequence(C)",
+      "text": "Schildfolge (C)"
+    },
+    {
+      "key": "ABILITY_NAME_342",
+      "read_index": "398",
+      "source_jp": "攻爆 倒",
+      "source_en": "Force Burst(S)",
+      "text": "Kraftstoß (W)"
+    },
+    {
+      "key": "ABILITY_NAME_343",
+      "read_index": "434",
+      "source_jp": "快視",
+      "source_en": "Pleasant Sight",
+      "text": "Anhaltender Ruf"
+    }
+  ]
+}

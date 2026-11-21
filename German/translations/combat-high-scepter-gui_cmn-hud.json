@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Zauberklinge",
+  "gmd_path": "ui\\00_message\\ui\\hud.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "hud_notice_no_charm_gauge",
+      "read_index": "90",
+      "source_jp": "魔力が%sゲージ以上ありません",
+      "source_en": "Need %s magick gauge!",
+      "text": "%s volle Magieleisten nötig!"
+    },
+    {
+      "key": "hud_notice_no_charm_stack",
+      "read_index": "91",
+      "source_jp": "魔力が%sスタック以上ありません",
+      "source_en": "Need %s magick stack!",
+      "text": "%s Magieladungen nötig!"
+    }
+  ]
+}

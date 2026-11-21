@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Schildweiser",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_command_05.gmd",
+  "arc_path": "\\skill\\normal_skill_data_05.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_70",
+      "read_index": "0",
+      "source_jp": "<KC ATTACK1>を押す",
+      "source_en": "Press <KC ATTACK1>.",
+      "text": "<KC ATTACK1> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_83",
+      "read_index": "1",
+      "source_jp": "空中で<KC ATTACK1>を押す",
+      "source_en": "While in the air, press <KC ATTACK1>.",
+      "text": "In der Luft <KC ATTACK1> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_72",
+      "read_index": "2",
+      "source_jp": "<PADM><KC ATTACK2>を押し、左スティックを倒して３属性を選択<KEYM><KC ATTACK2>を押し、マウス移動で３属性を選択</KEYM>\r\n<PADM><KC ATTACK2>を押して属性決定<KEYM><KC ATTACK1>または<KC ATTACK2>を押して属性決定",
+      "source_en": "Press <PADM><KC ATTACK2><KEYM><KC ATTACK2></KEYM>, then select from <PADM>3<KEYM>3</KEYM> elements\r\nusing <PADM>the left stick<KEYM>mouse movement</KEYM>.\r\nPress <PADM><KC ATTACK2><KEYM><KC ATTACK1> or <KC ATTACK2></KEYM> to confirm element choice.",
+      "text": "<PADM><KC ATTACK2> drücken und per linkem Stick\r\naus 3 Elementen wählen.<KEYM><KC ATTACK2> drücken und per Maus\r\naus 3 Elementen wählen.</KEYM>\r\n<PADM>Mit <KC ATTACK2> bestätigen.<KEYM>Mit <KC ATTACK1> oder <KC ATTACK2> bestätigen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_73",
+      "read_index": "3",
+      "source_jp": "<PADM><KC ATTACK2>を押し、左スティックを倒して５属性を選択<KEYM><KC ATTACK2>を押し、マウス移動で５属性を選択</KEYM>\r\n<PADM><KC ATTACK2>を押して属性決定<KEYM><KC ATTACK1>または<KC ATTACK2>を押して属性決定",
+      "source_en": "Press <PADM><KC ATTACK2><KEYM><KC ATTACK2></KEYM>, then select from <PADM>5<KEYM>5</KEYM> elements\r\nusing <PADM>the left stick<KEYM>mouse movement</KEYM>.\r\nPress <PADM><KC ATTACK2><KEYM><KC ATTACK1> or <KC ATTACK2></KEYM> to confirm element choice.",
+      "text": "<PADM><KC ATTACK2> drücken und per linkem Stick\r\naus 5 Elementen wählen.<KEYM><KC ATTACK2> drücken und per Maus\r\naus 5 Elementen wählen.</KEYM>\r\n<PADM>Mit <KC ATTACK2> bestätigen.<KEYM>Mit <KC ATTACK1> oder <KC ATTACK2> bestätigen.",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_74",
+      "read_index": "4",
+      "source_jp": "敵の攻撃を受ける（スキル発動中を除く）",
+      "source_en": "Block an enemy attack (except when using skills).",
+      "text": "Einen gegnerischen Angriff abfangen.\r\nWirkt außerhalb von Fertigkeitsaktionen."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_75",
+      "read_index": "5",
+      "source_jp": "<KC WEAPON_SUB>を押す",
+      "source_en": "Press <KC WEAPON_SUB>.",
+      "text": "<KC WEAPON_SUB> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_76",
+      "read_index": "6",
+      "source_jp": "敵の攻撃を引きつけて<KC WEAPON_SUB>を押す",
+      "source_en": "Just as an enemy attacks,\r\npress <KC WEAPON_SUB>.",
+      "text": "Warte bis kurz vor dem Treffer\r\nund drücke <KC WEAPON_SUB>."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_77",
+      "read_index": "7",
+      "source_jp": "<KC SKILL_NORMAL2>を押す",
+      "source_en": "Press <KC SKILL_NORMAL2>.",
+      "text": "<KC SKILL_NORMAL2> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_78",
+      "read_index": "8",
+      "source_jp": "<KC WEAPON_MAIN>を押し続ける",
+      "source_en": "Hold <KC WEAPON_MAIN>",
+      "text": "<KC WEAPON_MAIN> gedrückt halten."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_79",
+      "read_index": "9",
+      "source_jp": "<KC WEAPON_MAIN>を押し続ける",
+      "source_en": "Hold <KC WEAPON_MAIN>",
+      "text": "<KC WEAPON_MAIN> gedrückt halten."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_80",
+      "read_index": "10",
+      "source_jp": "<KC SKILL_NORMAL1>を押す",
+      "source_en": "Press <KC SKILL_NORMAL1>.",
+      "text": "<KC SKILL_NORMAL1> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_81",
+      "read_index": "11",
+      "source_jp": "敵の攻撃を防いだ直後、<PADM>左スティックを素早く後方から前方で反撃、前方から後方で後退<KEYM><KC MOVE_FORWARD>を素早く２回押すと反撃、<KC MOVE_BACKWARD>を素早く２回押すと後退</KEYM>",
+      "source_en": "Right after blocking, \r\n<PADM>flick left stick forward→back to counterattack \r\nor back→forward to retreat<KEYM>\r\nDouble-tap <KC MOVE_FORWARD> to counter, double-tap <KC MOVE_BACKWARD> to retreat</KEYM>",
+      "text": "Direkt nach einem Block:\r\n<PADM>Linken Stick rasch von hinten nach vorn\r\nfür den Konter, von vorn nach hinten\r\nzum Zurückweichen.<KEYM><KC MOVE_FORWARD> zweimal für den Konter,\r\n<KC MOVE_BACKWARD> zweimal zum Zurückweichen.</KEYM>"
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_05_91",
+      "read_index": "12",
+      "source_jp": "しがみつき中に<KC ATTACK1>を押す",
+      "source_en": "While climbing an enemy,\r\npress <KC ATTACK1>.",
+      "text": "Beim Festklammern <KC ATTACK1> drücken."
+    }
+  ]
+}

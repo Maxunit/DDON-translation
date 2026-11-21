@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_04.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_04_63",
+      "read_index": "2",
+      "source_jp": "ヒールオーラエクス",
+      "source_en": "Great Heal Aura",
+      "text": "Große Heilaura"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_04_65",
+      "read_index": "4",
+      "source_jp": "セイントオーラエクス",
+      "source_en": "Great Holy Aura",
+      "text": "Große Heilige Aura"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_04_68",
+      "read_index": "6",
+      "source_jp": "フローティング",
+      "source_en": "Floating",
+      "text": "Schweben"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_04_69",
+      "read_index": "7",
+      "source_jp": "ライドヒールオーラ",
+      "source_en": "Ride Heal Aura",
+      "text": "Klammer-Heilaura"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_04_146",
+      "read_index": "8",
+      "source_jp": "ライドセイントオーラ",
+      "source_en": "Ride Holy Aura",
+      "text": "Heiliger Klammerangriff"
+    }
+  ]
+}

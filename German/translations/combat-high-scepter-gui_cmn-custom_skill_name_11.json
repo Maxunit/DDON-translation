@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Zauberklinge",
+  "gmd_path": "ui\\00_message\\skill\\custom_skill_name_11.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "CUSTOM_SKILL_NAME_11_237",
+      "read_index": "0",
+      "source_jp": "光円月",
+      "source_en": "Full Moon Light",
+      "text": "Vollmondhieb"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_11_238",
+      "read_index": "4",
+      "source_jp": "ウォール・バリア",
+      "source_en": "Wall Barrier",
+      "text": "Magiewall"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_11_239",
+      "read_index": "6",
+      "source_jp": "エクリプス・ブライト",
+      "source_en": "Eclipse Bright",
+      "text": "Lichtwirbel"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_11_240",
+      "read_index": "3",
+      "source_jp": "黒閃牙",
+      "source_en": "Black Flash Fang",
+      "text": "Schwarzfang"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_11_241",
+      "read_index": "1",
+      "source_jp": "ミラージュ・シフト",
+      "source_en": "Mirage Shift",
+      "text": "Trugbildschritt"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_11_242",
+      "read_index": "5",
+      "source_jp": "テラー・ブラスト",
+      "source_en": "Terror Blast",
+      "text": "Schreckensklinge"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_11_243",
+      "read_index": "7",
+      "source_jp": "ファントム・エッジ",
+      "source_en": "Phantom Edge",
+      "text": "Phantomklinge"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_11_244",
+      "read_index": "2",
+      "source_jp": "ディム・スライス",
+      "source_en": "Dim Slice",
+      "text": "Dämmerhieb"
+    }
+  ]
+}

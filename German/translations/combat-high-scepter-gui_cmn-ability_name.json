@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Zauberklinge",
+  "gmd_path": "ui\\00_message\\skill\\ability_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ABILITY_NAME_466",
+      "read_index": "118",
+      "source_jp": "魔充",
+      "source_en": "Magickal Charge",
+      "text": "Magiefülle"
+    },
+    {
+      "key": "ABILITY_NAME_470",
+      "read_index": "154",
+      "source_jp": "増魔",
+      "source_en": "Augmented Magick",
+      "text": "Magieschub"
+    },
+    {
+      "key": "ABILITY_NAME_471",
+      "read_index": "166",
+      "source_jp": "転魔",
+      "source_en": "Altered Magick",
+      "text": "Kraftschub"
+    },
+    {
+      "key": "ABILITY_NAME_474",
+      "read_index": "297",
+      "source_jp": "翔剣",
+      "source_en": "Soaring Sword",
+      "text": "Magieklinge"
+    },
+    {
+      "key": "ABILITY_NAME_475",
+      "read_index": "273",
+      "source_jp": "節魔",
+      "source_en": "Magickal Chant",
+      "text": "Magiereserve"
+    },
+    {
+      "key": "ABILITY_NAME_477",
+      "read_index": "250",
+      "source_jp": "節補",
+      "source_en": "Complement Chant",
+      "text": "Hilfsreserve"
+    },
+    {
+      "key": "ABILITY_NAME_479",
+      "read_index": "106",
+      "source_jp": "武運",
+      "source_en": "Fortunes of War",
+      "text": "Kriegsglück"
+    },
+    {
+      "key": "ABILITY_NAME_480",
+      "read_index": "190",
+      "source_jp": "源運",
+      "source_en": "Source Luck",
+      "text": "Quellenglück"
+    },
+    {
+      "key": "ABILITY_NAME_481",
+      "read_index": "214",
+      "source_jp": "砲撃",
+      "source_en": "Bombardment",
+      "text": "Kanonenkraft"
+    },
+    {
+      "key": "ABILITY_NAME_482",
+      "read_index": "178",
+      "source_jp": "厚足",
+      "source_en": "Heavy Foot",
+      "text": "Sicherer Tritt"
+    },
+    {
+      "key": "ABILITY_NAME_483",
+      "read_index": "70",
+      "source_jp": "活鎮",
+      "source_en": "Active Suppression",
+      "text": "Ermüdung"
+    },
+    {
+      "key": "ABILITY_NAME_484",
+      "read_index": "130",
+      "source_jp": "勇鎮",
+      "source_en": "Courageous Suppression",
+      "text": "Gesunde Kraft"
+    },
+    {
+      "key": "ABILITY_NAME_485",
+      "read_index": "82",
+      "source_jp": "迫鎮",
+      "source_en": "Imperative Suppression",
+      "text": "Letzte Kraft"
+    },
+    {
+      "key": "ABILITY_NAME_486",
+      "read_index": "142",
+      "source_jp": "精鎮",
+      "source_en": "Vigorous Suppression",
+      "text": "Frische Kraft"
+    },
+    {
+      "key": "ABILITY_NAME_487",
+      "read_index": "285",
+      "source_jp": "抗滅",
+      "source_en": "Anti-Reduction",
+      "text": "Reinigungshieb"
+    },
+    {
+      "key": "ABILITY_NAME_488",
+      "read_index": "226",
+      "source_jp": "甲砕",
+      "source_en": "Armor Crusher",
+      "text": "Panzerbrecher"
+    },
+    {
+      "key": "ABILITY_NAME_489",
+      "read_index": "202",
+      "source_jp": "戦護",
+      "source_en": "War-Ready Safeguard",
+      "text": "Schutzwacht"
+    },
+    {
+      "key": "ABILITY_NAME_490",
+      "read_index": "238",
+      "source_jp": "戦狙",
+      "source_en": "War-Ready Proficiency",
+      "text": "Rüstungsjäger"
+    },
+    {
+      "key": "ABILITY_NAME_493",
+      "read_index": "381",
+      "source_jp": "四撃 吸",
+      "source_en": "Quadruple Slash(A)",
+      "text": "Vierfachhieb (M)"
+    },
+    {
+      "key": "ABILITY_NAME_494",
+      "read_index": "393",
+      "source_jp": "弧撃 吸",
+      "source_en": "Arc Slash(D)",
+      "text": "Bogenhieb (M)"
+    },
+    {
+      "key": "ABILITY_NAME_495",
+      "read_index": "405",
+      "source_jp": "空叉 吸",
+      "source_en": "Sky Slash(A)",
+      "text": "Luftschnitt (M)"
+    },
+    {
+      "key": "ABILITY_NAME_496",
+      "read_index": "417",
+      "source_jp": "昇墜 吸",
+      "source_en": "Falling Slash(A)",
+      "text": "Sturzhieb (M)"
+    },
+    {
+      "key": "ABILITY_NAME_497",
+      "read_index": "357",
+      "source_jp": "常撃",
+      "source_en": "Ordinary Attack",
+      "text": "Schlagkraft"
+    },
+    {
+      "key": "ABILITY_NAME_498",
+      "read_index": "429",
+      "source_jp": "移撃",
+      "source_en": "Rush Attack",
+      "text": "Vorstoß"
+    },
+    {
+      "key": "ABILITY_NAME_499",
+      "read_index": "309",
+      "source_jp": "四撃 倒",
+      "source_en": "Quadruple Slash(S)",
+      "text": "Vierfachhieb (W)"
+    },
+    {
+      "key": "ABILITY_NAME_500",
+      "read_index": "321",
+      "source_jp": "弧撃 倒",
+      "source_en": "Arc Slash(S)",
+      "text": "Bogenhieb (W)"
+    },
+    {
+      "key": "ABILITY_NAME_501",
+      "read_index": "345",
+      "source_jp": "昇墜 倒",
+      "source_en": "Falling Slash(S)",
+      "text": "Sturzhieb (W)"
+    },
+    {
+      "key": "ABILITY_NAME_502",
+      "read_index": "333",
+      "source_jp": "空叉 倒",
+      "source_en": "Sky Slash(S)",
+      "text": "Luftschnitt (W)"
+    },
+    {
+      "key": "ABILITY_NAME_503",
+      "read_index": "441",
+      "source_jp": "流撃",
+      "source_en": "Flow Attack",
+      "text": "Kraftkonter"
+    },
+    {
+      "key": "ABILITY_NAME_504",
+      "read_index": "369",
+      "source_jp": "偏吸",
+      "source_en": "Respiration",
+      "text": "Rasches Mal"
+    }
+  ]
+}

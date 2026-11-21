@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000069_00.gmd",
+  "arc_path": "\\quest\\q40000069.arc",
+  "entries": [
+    {
+      "key": "q40000069_00_69",
+      "read_index": "0",
+      "source_jp": "白翼覚者隊・討伐任務　ブリア海岸",
+      "source_en": "White Wings: Elimination (Breya Coast)",
+      "text": "Weißer Flügel: Schutz von Breya"
+    },
+    {
+      "key": "q40000069_00_69",
+      "read_index": "1",
+      "source_jp": "ブリア海岸滞在中の覚者様に、神殿より通達です\r\n任地にて<LQEM>を確認した場合、地域安全維持のため各自<LQVA>体以上の討伐を願いします",
+      "source_en": "Arisen at Breya Coast, a notice from the Temple:\r\nIf <LQEM> are spotted in your area,\r\nensure the elimination of at least <LQVA> of them\r\nto maintain the region's level of safety.",
+      "text": "Mitteilung des Tempels an die Erweckten\r\nan der Breya-Küste.\r\nWenn Ihr ihnen begegnet:\r\n<LQEM>\r\nBesiegt zur Sicherheit der Gegend\r\nmindestens <LQVA> davon."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Zauberklinge",
+  "gmd_path": "ui\\00_message\\skill\\custom_skill_info_11.gmd",
+  "arc_path": "\\skill\\custom_skill_data_11.arc",
+  "entries": [
+    {
+      "key": "CUSTOM_SKILL_INFO_11_237",
+      "read_index": "0",
+      "source_jp": "聖属性の魔力を付与した剣で、周囲を薙ぎ払う\r\n魔印が最大に成長している時、性能上昇\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.6で空中でも発動可能</COL>",
+      "source_en": "Imbue your sword with Holy attribute and\r\nattack surrounding enemies.\r\nDamage increases when the Magick Glyph grows.\r\n<COL ffdc78>LV ↑: Increases damage of skill.\r\nLV.6: Can be activated in the air.</COL>",
+      "text": "Ein Rundhieb mit heiligem Schwert\r\ntrifft Gegner in deiner Nähe.\r\nEin voll entwickeltes Zaubermal\r\nverstärkt die Fertigkeit.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Auch in der Luft einsetzbar.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_11_241",
+      "read_index": "1",
+      "source_jp": "幻影を作り出し、前方へ瞬間移動する魔法\r\n移動中に接触した敵に対して、魔力の斬撃を浴びせる\r\n空中での連続発動は2回まで可能\r\n<COL ffdc78>LV UP毎に再発動禁止時間が短縮\r\nLV.6で攻撃アクション中であればいつでも発動可能</COL>",
+      "source_en": "Creates a phantom and teleports\r\nforward. Contact during warp deals\r\nmagick damage. Two aerial uses.\r\n<COL ffdc78>LV↑: Cooldown ↓ LV.6: Usable mid-combo</COL>",
+      "text": "Erschafft ein Trugbild und versetzt dich\r\nschlagartig nach vorn. Den Gegnern in\r\ndeiner Bahn fügst du magische Schnitte zu.\r\nIn der Luft zweimal in Folge einsetzbar.\r\n<COL ffdc78>Je Stufe kürzere Wartezeit.\r\nStufe 6: Auch beim Angriff einsetzbar.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_11_244",
+      "read_index": "2",
+      "source_jp": "その場で剣を構え、振り下ろすと同時に\r\n前方に複数の魔力の刃を放つ\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.6で攻撃ヒット回数が増加</COL>",
+      "source_en": "Ready your sword and slice downwards, releases several\r\nmagick blades towards enemies infont of you.\r\n<COL ffdc78>LV ↑: Increases damage of skill.\r\nLV.6: Increases number of hit.</COL>",
+      "text": "Richte das Schwert auf und schlage nach\r\nunten. Dabei fliegen mehrere magische\r\nKlingen nach vorn.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Mehr Treffer.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_11_240",
+      "read_index": "3",
+      "source_jp": "闇属性の魔力を付与した剣で\r\n逆手に敵を突き、直後に引き抜く\r\n魔印が最大に成長している時、性能上昇\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.6でしがみつき中でも発動可能</COL>",
+      "source_en": "Thrusts the blade imbued with dark magick into\r\nthe target's body before pulling it out.\r\nDamage is increased when the Magick Glyph grows.\r\n<COL ffdc78>LV: ↑ Increases damage of skill.\r\nLV.6: Can be used when climbing.</COL>",
+      "text": "Führe mit der dunkel verzauberten Klinge\r\neinen Stich im Rückhandgriff aus.\r\nZiehe die Klinge sofort wieder heraus.\r\nEin voll entwickeltes Zaubermal\r\nverstärkt die Fertigkeit.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Auch beim Festklammern einsetzbar.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_11_238",
+      "read_index": "4",
+      "source_jp": "自身の前方に魔力の盾を一定時間展開する\r\n純魔法発動時は展開時間が減少しない\r\n<COL ffdc78>LV UP毎に展開時間延長\r\nLV.6で敵の攻撃に合わせて発動した際、展開時間延長</COL>",
+      "source_en": "Creates a magickal barrier ahead that persists for \r\nfixed duration. Duration unaffected \r\nby Pure Magick activation.\r\n<COL ffdc78>LV↑: Barrier duration ↑ \r\nLV.6: Timed blocks extend duration</COL>",
+      "text": "Errichtet für kurze Zeit einen Schild\r\nvor dir. Beim Wirken reiner Magie\r\nläuft seine Dauer nicht weiter ab.\r\n<COL ffdc78>Je Stufe längere Dauer.\r\nStufe 6: Hält länger, wenn du ihn im\r\nrichtigen Moment gegen einen Angriff wirkst.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_11_242",
+      "read_index": "5",
+      "source_jp": "魔力の刃を敵に撃ち込み\r\n闇・斬属性による継続ダメージを与える\r\nボタンの追加入力で攻撃ヒット数が増加\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLv.6で追加入力時の攻撃ヒット数増加</COL>",
+      "source_en": "Slashes enemies with magick blades,\r\ninflicting continuous dark/slash\r\ndamage. Extra inputs add hits.\r\n<COL ffdc78>LV↑: Damage ↑ LV.6: +Hits per input</COL>",
+      "text": "Feuert magische Klingen, die fortlaufend\r\nDunkel- und Schnittschaden verursachen.\r\nWeitere Eingaben erhöhen die Trefferzahl.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Mehr Treffer je Zusatzeingabe.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_11_239",
+      "read_index": "6",
+      "source_jp": "魔力を収束させ、聖・打属性の魔力の渦を発生させる\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLv.6で攻撃ヒット回数が増加</COL>",
+      "source_en": "Create a vortex that deals Holy and Impact damage.\r\n<COL ffdc78>LV ↑: Increases damage of skill\r\nLV.6: Increases number of hits.</COL>",
+      "text": "Bündelt Magie zu einem Wirbel, der\r\nheiligen Schaden und Schlagschaden zufügt.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Mehr Treffer.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_11_243",
+      "read_index": "7",
+      "source_jp": "刃に魔力を帯び、ノーマルスキルの剣技に残像を追加する\r\nボタン再入力で、残像の攻撃回数に応じて強化された\r\n魔力吸収特化の一撃を放つ。発動中は魔力を消費し続ける\r\n<COL ffdc78>LV UP毎に発動中の魔力消費量が減少\r\nLV.6で再入力時の攻撃回数による強化段階が増加（１→２）",
+      "source_en": "Enchants sword with magick, adding\r\nafterimages to normal attacks.\r\nExtra input releases magick-absorbing\r\nstrike scaling with hits. Drains magick.\r\n<COL ffdc78>LV↑: Magick drain ↓ LV.6: +Charge tier (1→2)</COL>",
+      "text": "Verzaubert dein Schwert. Die Schwerthiebe\r\ndeiner Grundfertigkeiten erhalten Nachbilder.\r\nErneut drücken für einen Hieb, der besonders\r\nviel Magie entzieht. Mehr Nachbildtreffer\r\nverstärken ihn. Der Effekt zehrt an Magie.\r\n<COL ffdc78>Je Stufe geringerer Magieverbrauch.\r\nStufe 6: Zwei Verstärkungsstufen statt einer.</COL>"
+    }
+  ]
+}

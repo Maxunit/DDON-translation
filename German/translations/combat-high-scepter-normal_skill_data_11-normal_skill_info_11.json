@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Zauberklinge",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_info_11.gmd",
+  "arc_path": "\\skill\\normal_skill_data_11.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_INFO_11_165",
+      "read_index": "0",
+      "source_jp": "剣による連撃を繰り出す",
+      "source_en": "Perform a continuous attack with your magick sword.",
+      "text": "Greife mehrmals mit dem Schwert an."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_11_166",
+      "read_index": "1",
+      "source_jp": "剣による強力な連撃を繰り出す",
+      "source_en": "Perform a strong continuous attack with your magick sword.",
+      "text": "Führe eine kräftige Folge von\r\nSchwerthieben aus."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_11_175",
+      "read_index": "2",
+      "source_jp": "空中で敵に剣を叩きつけ飛翔し\r\n追加入力で空中から地面へ剣を叩きつける\r\n高所から行うことで威力が上昇する",
+      "source_en": "Attack an enemy in the air and further push yourself up.\r\nPerform a falling hit with additional input.\r\nDamage increases from high place.",
+      "text": "Ein Schwerthieb in der Luft treibt dich hoch.\r\nDrücke erneut, um im Sturz zuzuschlagen.\r\nJe höher du startest,\r\ndesto mehr Schaden richtet der Hieb an."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_11_174",
+      "read_index": "3",
+      "source_jp": "空中で剣による連続攻撃を繰り出す",
+      "source_en": "Perform continuous attacks on air with your magick sword.",
+      "text": "Greife in der Luft mehrmals\r\nmit dem Schwert an."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_11_167",
+      "read_index": "4",
+      "source_jp": "敵に向かう魔弾を放つ\r\nボタン連打で弾数が増加する",
+      "source_en": "Shoot a magick bullet toward an enemy.\r\nNumber of bullets increase with additional input.",
+      "text": "Feuert ein magisches Geschoss auf einen\r\nGegner. Drückst du die Taste mehrmals,\r\nfeuerst du zusätzliche Geschosse."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_11_171",
+      "read_index": "5",
+      "source_jp": "敵の攻撃を避けつつ、剣による攻撃を繰り出す",
+      "source_en": "Attack nearby enemies with your sword\r\nwhile dodging at the same time.",
+      "text": "Weiche einem Angriff aus und\r\nschlage zugleich mit dem Schwert zu."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_11_169",
+      "read_index": "6",
+      "source_jp": "狙いをつけ、敵の力の在り処を探る\r\n空中でも発動可能",
+      "source_en": "Target and explore an enemy's magickal strength.\r\nCan be activated in the air.",
+      "text": "Visiere einen Gegner an und spüre auf,\r\nwo seine Kraft liegt.\r\nAuch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_11_168",
+      "read_index": "7",
+      "source_jp": "狙いを付けた敵に魔印を付与する\r\n付与された敵を剣で攻撃することで\r\n魔印が成長し、持続的に多くの魔力を得る\r\n攻撃を行わないと徐々に減退する",
+      "source_en": "Put a Magick Glyph on an enemy.\r\nAttacking the Glyph with your sword quickly increases\r\nyour magick gauge.\r\nGlyph will diminish if not attacked.",
+      "text": "Setzt ein Zaubermal auf den Gegner.\r\nSchwerttreffer lassen das Mal wachsen.\r\nSo entziehst du länger mehr Magie.\r\nOhne weitere Treffer verblasst das Mal."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_11_172",
+      "read_index": "8",
+      "source_jp": "敵に密着した状態で使用することで\r\n後方に高速で移動する",
+      "source_en": "Instantly move yourself away from an enemy by\r\nactivating this skill at close range.",
+      "text": "Weiche direkt am Gegner mit einem schnellen\r\nSprung nach hinten aus."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_11_170",
+      "read_index": "9",
+      "source_jp": "バック・リープを接触させた敵に高速で接近する\r\n空中でも発動可能",
+      "source_en": "Quickly approach the enemy touched by Back Leap.\r\nCan be used in the air.",
+      "text": "Bringt dich rasch zu dem Gegner zurück,\r\nden du beim Rücksprung berührt hast.\r\nAuch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_11_173",
+      "read_index": "10",
+      "source_jp": "大量の魔力を剣に込め\r\n射属性を持つ魔力の矢として敵に放つ\r\n着弾するまでの飛距離が長い程、威力が上昇する",
+      "source_en": "Channel a large amount of magick to your sword\r\nand launch your sword to an enemy. The longer distance\r\nit travels, the more damage increases.",
+      "text": "Lädt viel Magie ins Schwert und feuert sie\r\nals magischen Pfeil mit Stichschaden ab.\r\nJe weiter er bis zum Treffer fliegt,\r\ndesto mehr Schaden richtet er an."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_11_177",
+      "read_index": "11",
+      "source_jp": "敵に吹き飛ばされた際に転倒を回避する",
+      "source_en": "Recover quickly from being knocked down by an enemy.",
+      "text": "Fängt dich ab, wenn dich ein Gegner\r\nwegschleudert, und verhindert einen Sturz."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_11_176",
+      "read_index": "12",
+      "source_jp": "しがみついた状態から\r\n剣による連続攻撃を繰り出す\r\nボタン連打で攻撃回数が増加する",
+      "source_en": "When climbing, attack an enemy continously\r\nwith your sword. The number of attacks increases with\r\nadditional input.",
+      "text": "Greife beim Festklammern mit dem Schwert an.\r\nDrückst du die Taste mehrmals,\r\nführst du zusätzliche Hiebe aus."
+    }
+  ]
+}

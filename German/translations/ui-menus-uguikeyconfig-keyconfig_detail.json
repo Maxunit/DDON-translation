@@ -488,13 +488,6 @@
       "text": "<COL DAEEF3>(Pr)</COL> <COL DAEEF3>(So)</COL> Zielerfassung wechseln (beim Zaubern)"
     },
     {
-      "key": "kcd_074",
-      "read_index": "74",
-      "source_jp": "<COL DAEEF3>【Ｐｒ】</COL>フィールドシフト　<COL DAEEF3>【Ｓｈ】</COL>フォースバースト",
-      "source_en": "<COL DAEEF3>(Pr)</COL> Field Shift <COL DAEEF3>\r\n(Sh)</COL> Force Burst",
-      "text": "<COL DAEEF3>(Pr)</COL> Feld verlagern\r\n<COL DAEEF3>(Sh)</COL> Kraftstoß"
-    },
-    {
       "key": "kcd_075",
       "read_index": "75",
       "source_jp": "<COL DAEEF3>【Ｓｅ】</COL>転身　<COL DAEEF3>【Ｈｉ】</COL>避翻斬",
@@ -535,13 +528,6 @@
       "source_jp": "カスタムスキルの追加入力（連打 / 派生 等）\r\n※この項目がブランクキーの場合、各カスタムスキル設定キーで追加入力",
       "source_en": "Custom Skill Additional Input (repeated\r\nhits/derivative/etc)\r\n※ If this is a blank key, additional input with\r\neach Custom Skill key setting",
       "text": "Zusatzaktion (z. B. Folgeangriff)\r\nOhne Belegung: jeweilige Fertigkeitstaste drücken"
-    },
-    {
-      "key": "kcd_081",
-      "read_index": "81",
-      "source_jp": "<COL DAEEF3>【Ｈｉ】</COL>ルイン・ブレード",
-      "source_en": "<COL DAEEF3>(Hi)</COL> Ruin Blade",
-      "text": "<COL DAEEF3>(Hi)</COL> Ruinenschwert"
     },
     {
       "key": "kcd_082",

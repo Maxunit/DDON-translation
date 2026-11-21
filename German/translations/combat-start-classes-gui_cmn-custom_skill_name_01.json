@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\custom_skill_name_01.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "CUSTOM_SKILL_NAME_01_9",
+      "read_index": "5",
+      "source_jp": "直下突き",
+      "source_en": "Downthrust",
+      "text": "Fallstoß"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_10",
+      "read_index": "2",
+      "source_jp": "シールドバッシュ",
+      "source_en": "Cymbal Attack",
+      "text": "Schildsalve"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_11",
+      "read_index": "6",
+      "source_jp": "センチュリオンスパイク",
+      "source_en": "Sheltered Spike",
+      "text": "Schildspieß"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_13",
+      "read_index": "3",
+      "source_jp": "天蓋斬り",
+      "source_en": "Skyward Lash",
+      "text": "Himmelshiebe"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_14",
+      "read_index": "7",
+      "source_jp": "円月斬り",
+      "source_en": "Compass Slash",
+      "text": "Rundhieb"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_15",
+      "read_index": "4",
+      "source_jp": "逸らし斬り",
+      "source_en": "Hindsight Slash",
+      "text": "Ausweichhieb"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_16",
+      "read_index": "9",
+      "source_jp": "弐段突き",
+      "source_en": "Intimate Strike",
+      "text": "Doppelstoß"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_17",
+      "read_index": "11",
+      "source_jp": "ブレイブスレイド",
+      "source_en": "Brave's Raid",
+      "text": "Klingentanz"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_18",
+      "read_index": "8",
+      "source_jp": "チャリオットムーブ",
+      "source_en": "Moving Castle",
+      "text": "Schildschritt"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_19",
+      "read_index": "10",
+      "source_jp": "流剣閃",
+      "source_en": "Flowing Sword Flash",
+      "text": "Parierhieb"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_120",
+      "read_index": "12",
+      "source_jp": "豪溜斬り",
+      "source_en": "Pierce Slash",
+      "text": "Aufgeladener Hieb"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_121",
+      "read_index": "13",
+      "source_jp": "流盾翔",
+      "source_en": "Flowing Shield Spiral",
+      "text": "Sprungkonter"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_154",
+      "read_index": "14",
+      "source_jp": "刀牙昇斬 剛",
+      "source_en": "Tusk Toss (P)",
+      "text": "Aufwärtshieb (Kraft)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_155",
+      "read_index": "15",
+      "source_jp": "刀牙昇斬 技",
+      "source_en": "Tusk Toss (T)",
+      "text": "Aufwärtshieb (Technik)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_174",
+      "read_index": "16",
+      "source_jp": "シールドバッシュ 剛",
+      "source_en": "Cymbal Attack (P)",
+      "text": "Schildsalve (Kraft)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_175",
+      "read_index": "17",
+      "source_jp": "シールドバッシュ 技",
+      "source_en": "Cymbal Attack (T)",
+      "text": "Schildsalve (Technik)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_209",
+      "read_index": "18",
+      "source_jp": "直下突き 剛",
+      "source_en": "Downthrust (P)",
+      "text": "Fallstoß (Kraft)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_210",
+      "read_index": "19",
+      "source_jp": "直下突き 技",
+      "source_en": "Downthrust (T)",
+      "text": "Fallstoß (Technik)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_211",
+      "read_index": "20",
+      "source_jp": "天蓋斬り 剛",
+      "source_en": "Skyward Lash (P)",
+      "text": "Himmelshiebe (Kraft)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_01_212",
+      "read_index": "21",
+      "source_jp": "天蓋斬り 技",
+      "source_en": "Skyward Lash (T)",
+      "text": "Himmelshiebe (Technik)"
+    }
+  ]
+}

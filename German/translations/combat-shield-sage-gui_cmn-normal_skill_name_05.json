@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Schildweiser",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_05.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_05_74",
+      "read_index": "4",
+      "source_jp": "フォースガード",
+      "source_en": "Force Guard",
+      "text": "Kraftblock"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_05_76",
+      "read_index": "6",
+      "source_jp": "フォースゲイン",
+      "source_en": "Force Gain",
+      "text": "Kraftfang"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_05_79",
+      "read_index": "9",
+      "source_jp": "モアアトラクト",
+      "source_en": "More Attract",
+      "text": "Provozieren +"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_05_81",
+      "read_index": "11",
+      "source_jp": "シールドシーケンス",
+      "source_en": "Shield Sequence",
+      "text": "Schildfolge"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_05_83",
+      "read_index": "1",
+      "source_jp": "シールドストライク",
+      "source_en": "Shield Strike",
+      "text": "Sprunghieb"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_05_91",
+      "read_index": "12",
+      "source_jp": "ウィークライト",
+      "source_en": "Weak Light",
+      "text": "Schwächungslicht"
+    }
+  ]
+}

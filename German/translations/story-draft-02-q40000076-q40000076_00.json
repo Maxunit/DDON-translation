@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000076_00.gmd",
+  "arc_path": "\\quest\\q40000076.arc",
+  "entries": [
+    {
+      "key": "q40000076_00_76",
+      "read_index": "0",
+      "source_jp": "備蓄が心配だ！",
+      "source_en": "Storage Woes",
+      "text": "Sorge um die Vorräte"
+    },
+    {
+      "key": "q40000076_00_76",
+      "read_index": "1",
+      "source_jp": "し、心配だ！　たくさん持ってた<LQIM>がそろそろなくなりそうなんだ\r\nもう<LQVA>個か追加しないと心配で眠れなくなってしまう！\r\nだ、誰か手伝ってくれ！",
+      "source_en": "I'm worried! I'm running low\r\non <LQIM>\r\nthat I had in large quantities.\r\nIf I don't get <LQVA> more,\r\nI won't be able to sleep!\r\nP-please, someone help!",
+      "text": "Meine Vorräte gehen zur Neige.\r\n<LQIM> habe ich fast\r\naufgebraucht.\r\nOhne <LQVA> Stück mehr schlafe ich kein Auge.\r\nK-kann mir jemand helfen?"
+    }
+  ]
+}

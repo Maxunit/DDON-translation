@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5 – Seneka, Werkstatt und der scharlachrote Kristall",
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60000016.gmd",
+  "arc_path": "\\quest\\q60000016.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "source_jp": "ワールドクエストが解放された！（仮）",
+      "source_en": "A World Quest has been unlocked! (Temp)",
+      "text": "Eine Weltquest wurde freigeschaltet!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "source_jp": "ソニアの会話選択に《クラフト》が追加された！（仮）",
+      "source_en": "[Craft] has been added to Sonia's options!",
+      "text": "Bei Sonia ist jetzt „Handwerk“ verfügbar."
+    }
+  ]
+}

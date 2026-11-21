@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\custom_skill_info_03.gmd",
+  "arc_path": "\\skill\\custom_skill_data_03.arc",
+  "entries": [
+    {
+      "key": "CUSTOM_SKILL_INFO_03_32",
+      "read_index": "0",
+      "source_jp": "複数の矢を連続で放ち\r\n敵を大きくのけぞらせる\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で矢の発射数増加（３→５）</COL>",
+      "source_en": "Fire multiple arrows in quick succession.\r\nStaggers large enemies.\r\n<COL ffdc78>LV ↑: Increases damage.\r\nLV.6: Increases arrows fired (3→5).</COL>",
+      "text": "Schieße mehrere Pfeile nacheinander ab und\r\nbring Gegner stark ins Taumeln.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Fünf statt drei Pfeile.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_37",
+      "read_index": "1",
+      "source_jp": "貫通力のある矢を放つ\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で貫通時のヒット間隔が短縮し\r\n連続ヒットしやすくなる</COL>",
+      "source_en": "Fires a shot capable of piercing multiple targets.\r\n<COL ffdc78>LV ↑: Increases damage.\r\nLV.6: Shortens the interval between hits,\r\nincreasing the likelihood of hitting more times.</COL>",
+      "text": "Schieße einen Pfeil ab, der Gegner durchdringt.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Kürzere Trefferabstände beim\r\nDurchdringen. So trifft der Pfeil leichter\r\nmehrfach.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_33",
+      "read_index": "2",
+      "source_jp": "複数の矢を同時に扇状に放つ\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で矢の発射数増加（３→５）</COL>",
+      "source_en": "Fires three arrows in a wedge pattern.\r\n<COL ffdc78>LV ↑: Increases damage.\r\nLV.6: Increases arrows fired (3→5).</COL>",
+      "text": "Schieße mehrere Pfeile zugleich fächerförmig ab.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Fünf statt drei Pfeile.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_34",
+      "read_index": "3",
+      "source_jp": "敵のガードを崩す爆音火薬を巻いた矢を放つ\r\n爆音に巻き込むことで周囲の敵をも怯ませる\r\n<COL ffdc78>LV UP毎に吹き飛ばし力の上昇\r\nLV.６で攻撃範囲拡大</COL>",
+      "source_en": "Fires an arrow that produces a deafening\r\nblare on impact, breaking enemy guard.\r\nWill also launch nearby enemies.\r\n<COL ffdc78>LV ↑: Increases Knockdown Power.\r\nLV.6: Increases the range of the effect.</COL>",
+      "text": "Schieße einen Pfeil mit Knallpulver ab. Die\r\nExplosion bricht die gegnerische Deckung und\r\nlässt Gegner in der Nähe taumeln.\r\n<COL ffdc78>Je Stufe mehr Wucht.\r\nStufe 6: Größerer Wirkungsbereich.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_36",
+      "read_index": "4",
+      "source_jp": "矢筒内のすべての矢を直上に放ち、\r\n敵の頭上に降らせる\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で攻撃ヒット数増加</COL>",
+      "source_en": "Sends a wall of arrows skyward to\r\nrain down on a broad area.\r\n<COL ffdc78>LV ↑: Increases damage.\r\nLV.6: Increases number of hits.</COL>",
+      "text": "Schieße alle Pfeile aus dem Köcher nach oben\r\nund lass sie auf die Gegner niederregnen.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Mehr Treffer.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_38",
+      "read_index": "5",
+      "source_jp": "着弾時に回転し多段攻撃を加える矢を放つ\r\n特に状態異常矢の使用時に効果的\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で攻撃ヒット数増加</COL>",
+      "source_en": "Looses a spinning arrow that delivers a\r\nbarrage of hits to an area.\r\nEspecially effective with status arrows.\r\n<COL ffdc78>LV ↑: Increases damage.\r\nLV.6: Increases number of hits.</COL>",
+      "text": "Der Pfeil dreht sich beim Aufprall und trifft\r\nmehrfach. Besonders wirksam mit Pfeilen, die\r\nZustände auslösen.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Mehr Treffer.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_39",
+      "read_index": "6",
+      "source_jp": "装填中のすべての矢に気絶効果のある火薬を\r\n巻きつけ強化する\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で攻撃範囲拡大</COL>",
+      "source_en": "Applies an explosive stun effect to all\r\narrows loaded. Increases damage inflicted.\r\n<COL ffdc78>LV ↑: Increases damage.\r\nLV.6: Increases the range of the effect.</COL>",
+      "text": "Versehe alle geladenen Pfeile mit Sprengpulver,\r\ndas Gegner betäuben kann.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Größerer Wirkungsbereich.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_35",
+      "read_index": "7",
+      "source_jp": "渾身の力で弓を引き、高威力の矢を放つ\r\n溜め満了の瞬間に矢を放つと威力が\r\n大幅に上昇する\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で溜め段階拡張（１→２）</COL>",
+      "source_en": "Draws the bow with all the user's might,\r\nthen looses a shot straight ahead.\r\nPower greatly increases if released as\r\nmaximum charge is reached.\r\n<COL ffdc78>LV ↑: Increases damage.\r\nLV.6: Increases total charge stages (1→2).</COL>",
+      "text": "Spanne den Bogen mit aller Kraft und schieße\r\neinen mächtigen Pfeil ab. Schießt du genau bei\r\nvoller Spannung, steigt der Schaden deutlich.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Zwei statt einer Ladestufe.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_42",
+      "read_index": "8",
+      "source_jp": "素早く後方に移動する\r\n敵との間合いを素早く離す\r\n<COL ffdc78>LV UP毎にスタミナ消費減少／発動中の耐久力上昇\r\nLV.６でモーション変化／すり抜け時間延長</COL>",
+      "source_en": "Quickly dodges backwards, creating distance\r\nbetween you and your enemies.\r\n<COL ffdc78>LV ↑: Decreases Stamina cost.\r\nIncreases Endurance during usage.\r\nLV.6: Motion changes. Increases invulnerability time.</COL>",
+      "text": "Weiche schnell nach hinten aus und bring\r\nAbstand zwischen dich und den Gegner.\r\n<COL ffdc78>Je Stufe weniger Ausdauerverbrauch und mehr\r\nWiderstand während der Bewegung.\r\nStufe 6: Geänderter Ablauf. Du weichst Treffern\r\nlänger aus.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_40",
+      "read_index": "9",
+      "source_jp": "火薬を巻きつけた複数の矢を、\r\n渾身の力で空に放ち、敵の頭上に降らせる\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で矢の発射数増加（３→５）</COL>",
+      "source_en": "Coat multiple arrows in gunpowder and send them\r\nskyward to rain down on a broad area.\r\n<COL ffdc78>LV ↑: Increases damage.\r\nLV.6: Increases arrows fired (3→5).</COL>",
+      "text": "Schieße mehrere mit Sprengpulver versehene\r\nPfeile hoch und lass sie auf die Gegner\r\nniederregnen.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Fünf statt drei Pfeile.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_41",
+      "read_index": "10",
+      "source_jp": "ボタンの連打で射撃回数が増加する\r\nまた、射撃回数が増えるにつれ\r\n敵を怯ませやすくなる\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で攻撃速度上昇</COL>",
+      "source_en": "Continously shoot multiple arrows as you press\r\nthe button. As you shoot more arrows, it becomes\r\neasier to stagger enemies.\r\n<COL ffdc78>LV ↑: Increases damage.\r\nLV.6: Increases attack speed.</COL>",
+      "text": "Schieße mit wiederholten Tastendrücken\r\nzusätzliche Pfeile. Je mehr du abschießt, desto\r\nleichter taumeln die Gegner.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Schnelleres Schießen.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_43",
+      "read_index": "11",
+      "source_jp": "絶大な威力の矢を放つ。溜め満了の瞬間に放つと\r\n威力が大幅に上昇し、残り体力が低い敵ほど\r\n効果が高い\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で溜め時間短縮</COL>",
+      "source_en": "Fires an extremely powerful magick arrow that\r\ngains massive damage boost at full charge.\r\nExceptionally effective against weakened foes.\r\n<COL ffdc78>LV↑: +Damage \r\nLV6: Charge time greatly reduced</COL>",
+      "text": "Schieße einen besonders mächtigen Pfeil.\r\nSchießt du genau bei voller Ladung, steigt der\r\nSchaden deutlich. Je weniger LP der Gegner hat,\r\ndesto stärker wirkt der Schuss.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Kürzere Ladezeit.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_131",
+      "read_index": "12",
+      "source_jp": "連鎖的に爆発する火薬を巻きつけた矢を\r\n上空に放つ\r\n射撃時にボタン長押しで起爆高度が上昇\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で爆発回数増加</COL>",
+      "source_en": "Fires arrows wrapped in chained\r\nexplosives skyward. Hold button\r\nduring shot to increase detonation\r\naltitude.\r\n<COL ffdc78>LV ↑: +Damage. LV6: +Explosion count.</COL>",
+      "text": "Schieße einen Pfeil nach oben, der mehrere\r\nExplosionen auslöst. Hältst du beim Schuss die\r\nTaste, explodiert er höher.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Mehr Explosionen.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_132",
+      "read_index": "13",
+      "source_jp": "敵に密着し、複数の矢を番えて渾身の力で放つ\r\nしがみつき状態からでも可能\r\n<COL ffdc78>LV UP毎に攻撃威力の上昇\r\nLV.６で溜め段階上昇（２→３）\r\nボタン入力回数減少</COL>",
+      "source_en": "At close range, nock multiple\r\narrows and fire with full force. Can be\r\nused even while clinging to foes.\r\n<COL ffdc78>LV ↑: +Damage. \r\nLV6: Charge levels increase (2→3), fewer inputs.</COL>",
+      "text": "Geh dicht an den Gegner und schieße mehrere\r\nPfeile gleichzeitig mit aller Kraft ab. Auch beim\r\nFesthalten einsetzbar.\r\n<COL ffdc78>Je Stufe mehr Schaden.\r\nStufe 6: Drei statt zwei Ladestufen und weniger\r\nnötige Tastendrücke.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_162",
+      "read_index": "14",
+      "source_jp": "【ＥＸ追加効果】\r\n発射数が増加（５→６）\r\n連なり射ち 剛に付与した紅蓮爆矢の攻撃威力が上昇",
+      "source_en": "EX Additional Effects:\r\nIncrease the number of arrows shot (5→6).\r\nFurther increase the damage and Knockdown Power when\r\nusing in conjuction with Crimson Arrow.",
+      "text": "EX-Zusatzeffekt\r\nSechs statt fünf Pfeile. Mit „Flammenpfeile“\r\nverstärkte Pfeile richten bei dieser Fertigkeit\r\nmehr Schaden an."
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_163",
+      "read_index": "15",
+      "source_jp": "【ＥＸ追加効果】\r\n構え中の移動速度が上昇\r\n最適距離の範囲が拡張\r\n射程距離が延長",
+      "source_en": "EX Additional Effects:\r\nIncrease moving speed during bow stance.\r\nExtend the optimal shooting range.\r\nExtend the shooting range.",
+      "text": "EX-Zusatzeffekt\r\nBewege dich beim Anlegen schneller. Größerer\r\noptimaler Distanzbereich und mehr Reichweite."
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_164",
+      "read_index": "16",
+      "source_jp": "【ＥＸ追加効果】\r\nダメージ量が増加\r\n状態異常値が増加\r\n<COL ff7878>獣／有翼／侵食系の敵に与えるダメージ量が増加</COL>",
+      "source_en": "EX Additional Effects:\r\nIncrease damage.\r\nIncrease debilitation rate.\r\n<COL ff7878>Further increase damage to Beast/Winged/Infected enemies.</COL>",
+      "text": "EX-Zusatzeffekt\r\nMehr Schaden und stärkerer Zustandsaufbau.\r\n<COL ff7878>Mehr Schaden gegen Bestien, geflügelte und\r\nbefallene Gegner.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_165",
+      "read_index": "17",
+      "source_jp": "【ＥＸ追加効果】\r\nチャンス攻力と疲労攻力が増加\r\n気絶攻力が増加\r\n<COL ff7878>戦甲を攻撃時、ダメージ量が増加</COL>",
+      "source_en": "EX Additional Effects:\r\nIncrease Chance Attack and exhaust power.\r\nIncrease Stun Power.\r\n<COL ff7878>Further increase damage against War-Ready enemies.</COL>",
+      "text": "EX-Zusatzeffekt\r\nMehr Chancen-, Erschöpfungs- und\r\nBetäubungskraft.\r\n<COL ff7878>Mehr Schaden gegen Kriegsrüstung.</COL>"
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_197",
+      "read_index": "18",
+      "source_jp": "【ＥＸ追加効果】\r\n溜め段階２の攻撃ヒット数が増加",
+      "source_en": "EX Additional Effects:\r\nIncrease number of hits on second charge.",
+      "text": "EX-Zusatzeffekt\r\nMehr Treffer auf Ladestufe 2."
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_198",
+      "read_index": "19",
+      "source_jp": "【ＥＸ追加効果】\r\n構え中の移動速度が上昇\r\n最適距離の範囲が拡張\r\n射程距離が延長",
+      "source_en": "EX Additional Effects:\r\nIncrease moving speed during bow stance.\r\nExtend the optimal shooting range.\r\nExtend the shooting range.",
+      "text": "EX-Zusatzeffekt\r\nBewege dich beim Anlegen schneller. Größerer\r\noptimaler Distanzbereich und mehr Reichweite."
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_199",
+      "read_index": "20",
+      "source_jp": "【ＥＸ追加効果】\r\n溜め時間短縮\r\n起爆時の爆発ダメージ量が増加\r\n溜め２段階で、中央の爆発の攻撃ヒット数が増加",
+      "source_en": "EX Additional Effects:\r\nReduce charge time.\r\nIncrease explosion damage.\r\nIncrease number of hits at the center on second charge.",
+      "text": "EX-Zusatzeffekt\r\nKürzere Ladezeit und mehr Explosionsschaden.\r\nAuf Ladestufe 2 trifft die mittlere Explosion öfter."
+    },
+    {
+      "key": "CUSTOM_SKILL_INFO_03_200",
+      "read_index": "21",
+      "source_jp": "【ＥＸ追加効果】\r\n溜め時間短縮\r\n爆薬矢に継続ダメージを付与\r\n攻撃により起爆しなくなり\r\n時間による起爆時の威力が増加",
+      "source_en": "EX Additional Effects:\r\nReduce charge time.\r\nArrows deal continuous damage.\r\nArrows cannot be detonated by attack.",
+      "text": "EX-Zusatzeffekt\r\nKürzere Ladezeit. Explosivpfeile verursachen\r\nSchaden über Zeit und explodieren nach einer\r\nWeile mit mehr Kraft. Angriffe lösen die\r\nExplosion nicht mehr aus."
+    }
+  ]
+}

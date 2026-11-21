@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000062_00.gmd",
+  "arc_path": "\\quest\\q40000062.arc",
+  "entries": [
+    {
+      "key": "q40000062_00_62",
+      "read_index": "0",
+      "source_jp": "散歩の不安",
+      "source_en": "An Uneasy Stroll",
+      "text": "Spaziergang mit Hindernissen"
+    },
+    {
+      "key": "q40000062_00_62",
+      "read_index": "1",
+      "source_jp": "海辺に<LQEM>がいて、砂浜散歩がしにくいの\r\n確か<LQVA>匹くらいいたわ\r\n怖いから何とかしてほしいなぁ",
+      "source_en": "There are <LQEM> on the beach,\r\nmaking it difficult to walk along the sand.\r\nI think there were about <LQVA> of them.\r\nThey're scary, so I'd appreciate it\r\nif someone could take care of them.",
+      "text": "Am Strand sind Monster.\r\n<LQEM>, ich glaube, es\r\nwaren <LQVA>.\r\nIch traue mich kaum noch ans Wasser.\r\nKönnte jemand helfen?"
+    }
+  ]
+}

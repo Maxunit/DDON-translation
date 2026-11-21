@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000073_00.gmd",
+  "arc_path": "\\quest\\q40000073.arc",
+  "entries": [
+    {
+      "key": "q40000073_00_73",
+      "read_index": "0",
+      "source_jp": "海からの宝物",
+      "source_en": "A Treasure from the Sea",
+      "text": "Ein Schatz aus dem Meer"
+    },
+    {
+      "key": "q40000073_00_73",
+      "read_index": "1",
+      "source_jp": "浜辺には、時としてとんでもないモノが漂着するんだ\r\n<LQIM>が流れついた時は驚いたもんだよ\r\nもしあれを持ってる人がいるなら、<LQVA>つほど譲ってもらえないかな",
+      "source_en": "Odd items sometimes wash up on the beach.\r\nI was surprised to see \r\n<LQIM> there.\r\nIf someone has it, can I get <LQVA> of them?",
+      "text": "Das Meer spült manchmal Seltsames an.\r\n<LQIM> hätte ich dort nie\r\nerwartet.\r\nHat jemand <LQVA> Stück davon übrig?"
+    }
+  ]
+}

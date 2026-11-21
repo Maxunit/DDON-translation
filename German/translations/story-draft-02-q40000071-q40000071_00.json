@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000071_00.gmd",
+  "arc_path": "\\quest\\q40000071.arc",
+  "entries": [
+    {
+      "key": "q40000071_00_71",
+      "read_index": "0",
+      "source_jp": "海竜亭の新メニューにご協力を！",
+      "source_en": "For the New Menu!",
+      "text": "Für die neue Speisekarte"
+    },
+    {
+      "key": "q40000071_00_71",
+      "read_index": "1",
+      "source_jp": "海竜亭の新メニューを考案中なのですが、閃いたのです！\r\n<LQIM>を使ってはどうかと\r\nさっそく試したいので、<LQVA>個ばかり届けてくれませんかね",
+      "source_en": "I'm working on a new menu for Sea Dragon Inn,\r\nand I had an idea! How about using\r\n<LQIM>?\r\nI'd like to try it out soon,\r\nso could you bring me <LQVA> pieces?",
+      "text": "Ich habe eine Idee für das Gasthaus\r\nZum Seedrachen.\r\n<LQIM> könnte gut ins\r\nneue Gericht passen!\r\nWer bringt mir <LQVA> Stück zum Ausprobieren?"
+    }
+  ]
+}

@@ -1,0 +1,785 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\ability_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ABILITY_NAME_1",
+      "read_index": "47",
+      "source_jp": "敏動",
+      "source_en": "Agile Motion",
+      "text": "Flinker Hieb"
+    },
+    {
+      "key": "ABILITY_NAME_2",
+      "read_index": "155",
+      "source_jp": "狂刺",
+      "source_en": "Dire Gouge",
+      "text": "Reißende Stiche"
+    },
+    {
+      "key": "ABILITY_NAME_3",
+      "read_index": "227",
+      "source_jp": "受崩",
+      "source_en": "Crush Receive",
+      "text": "Wuchtparade"
+    },
+    {
+      "key": "ABILITY_NAME_4",
+      "read_index": "11",
+      "source_jp": "受倒",
+      "source_en": "Counter",
+      "text": "Betäubende Parade"
+    },
+    {
+      "key": "ABILITY_NAME_5",
+      "read_index": "35",
+      "source_jp": "受拡",
+      "source_en": "Counter Extension",
+      "text": "Weite Parade"
+    },
+    {
+      "key": "ABILITY_NAME_6",
+      "read_index": "83",
+      "source_jp": "受得",
+      "source_en": "Advantageous Feeling",
+      "text": "Erholsame Parade"
+    },
+    {
+      "key": "ABILITY_NAME_7",
+      "read_index": "274",
+      "source_jp": "猛攻",
+      "source_en": "Onslaught",
+      "text": "Offensivkraft"
+    },
+    {
+      "key": "ABILITY_NAME_8",
+      "read_index": "203",
+      "source_jp": "闘勢",
+      "source_en": "Combat Momentum",
+      "text": "Kampfeslust"
+    },
+    {
+      "key": "ABILITY_NAME_9",
+      "read_index": "59",
+      "source_jp": "本領",
+      "source_en": "Exhilaration",
+      "text": "Letzte Kraft"
+    },
+    {
+      "key": "ABILITY_NAME_10",
+      "read_index": "143",
+      "source_jp": "壮腕",
+      "source_en": "Brave Effort",
+      "text": "Kraftreserve"
+    },
+    {
+      "key": "ABILITY_NAME_11",
+      "read_index": "262",
+      "source_jp": "強盾",
+      "source_en": "Strong Shield",
+      "text": "Starker Schild"
+    },
+    {
+      "key": "ABILITY_NAME_12",
+      "read_index": "167",
+      "source_jp": "重盾",
+      "source_en": "Heavy Shield",
+      "text": "Schwerer Schild"
+    },
+    {
+      "key": "ABILITY_NAME_13",
+      "read_index": "239",
+      "source_jp": "倒盾",
+      "source_en": "Toppling Shield",
+      "text": "Betäubender Schild"
+    },
+    {
+      "key": "ABILITY_NAME_14",
+      "read_index": "286",
+      "source_jp": "圧伏",
+      "source_en": "Overpower",
+      "text": "Niederhalten"
+    },
+    {
+      "key": "ABILITY_NAME_15",
+      "read_index": "23",
+      "source_jp": "剛腕",
+      "source_en": "Fitness",
+      "text": "Fester Griff"
+    },
+    {
+      "key": "ABILITY_NAME_16",
+      "read_index": "71",
+      "source_jp": "速離",
+      "source_en": "Egression",
+      "text": "Befreiung"
+    },
+    {
+      "key": "ABILITY_NAME_17",
+      "read_index": "179",
+      "source_jp": "意地",
+      "source_en": "Obstinacy",
+      "text": "Eigensinn"
+    },
+    {
+      "key": "ABILITY_NAME_18",
+      "read_index": "215",
+      "source_jp": "硬台",
+      "source_en": "Steadfast Stand",
+      "text": "Sicherer Stand"
+    },
+    {
+      "key": "ABILITY_NAME_19",
+      "read_index": "191",
+      "source_jp": "無衝",
+      "source_en": "Nullifying Defense",
+      "text": "Sichere Landung"
+    },
+    {
+      "key": "ABILITY_NAME_20",
+      "read_index": "298",
+      "source_jp": "強靭",
+      "source_en": "Resilience",
+      "text": "Schlagschutz"
+    },
+    {
+      "key": "ABILITY_NAME_21",
+      "read_index": "251",
+      "source_jp": "不屈",
+      "source_en": "Fortitude",
+      "text": "Unbeugsam"
+    },
+    {
+      "key": "ABILITY_NAME_22",
+      "read_index": "131",
+      "source_jp": "亜護",
+      "source_en": "Demihuman Safeguard",
+      "text": "Halbmenschen-Schutz"
+    },
+    {
+      "key": "ABILITY_NAME_23",
+      "read_index": "107",
+      "source_jp": "亜狙",
+      "source_en": "Demihuman Proficiency",
+      "text": "Halbmenschen-Jagd"
+    },
+    {
+      "key": "ABILITY_NAME_24",
+      "read_index": "119",
+      "source_jp": "軟護",
+      "source_en": "Formless Safeguard",
+      "text": "Schutz vor Formlosen"
+    },
+    {
+      "key": "ABILITY_NAME_25",
+      "read_index": "95",
+      "source_jp": "軟狙",
+      "source_en": "Formless Proficiency",
+      "text": "Formlosen-Jagd"
+    },
+    {
+      "key": "ABILITY_NAME_26",
+      "read_index": "36",
+      "source_jp": "制動",
+      "source_en": "Damping",
+      "text": "Dämpfung"
+    },
+    {
+      "key": "ABILITY_NAME_27",
+      "read_index": "0",
+      "source_jp": "精密",
+      "source_en": "Precision",
+      "text": "Ruhige Hand"
+    },
+    {
+      "key": "ABILITY_NAME_28",
+      "read_index": "228",
+      "source_jp": "力填",
+      "source_en": "Reload Force",
+      "text": "Sicheres Nachladen"
+    },
+    {
+      "key": "ABILITY_NAME_29",
+      "read_index": "144",
+      "source_jp": "充矢",
+      "source_en": "Arrow Increase",
+      "text": "Voller Köcher"
+    },
+    {
+      "key": "ABILITY_NAME_30",
+      "read_index": "48",
+      "source_jp": "集中",
+      "source_en": "Concentration",
+      "text": "Konzentration"
+    },
+    {
+      "key": "ABILITY_NAME_31",
+      "read_index": "132",
+      "source_jp": "巧填",
+      "source_en": "Skilled Reload",
+      "text": "Erholsames Nachladen"
+    },
+    {
+      "key": "ABILITY_NAME_32",
+      "read_index": "204",
+      "source_jp": "侵矢",
+      "source_en": "Aggression Arrow",
+      "text": "Wirkpfeile"
+    },
+    {
+      "key": "ABILITY_NAME_33",
+      "read_index": "72",
+      "source_jp": "匠填",
+      "source_en": "Perfect Reload",
+      "text": "Meisterliches Nachladen"
+    },
+    {
+      "key": "ABILITY_NAME_34",
+      "read_index": "12",
+      "source_jp": "遅爆",
+      "source_en": "Delayed Explosion",
+      "text": "Spätzündung"
+    },
+    {
+      "key": "ABILITY_NAME_35",
+      "read_index": "156",
+      "source_jp": "威姿",
+      "source_en": "Menacing Form",
+      "text": "Feste Bogenhaltung"
+    },
+    {
+      "key": "ABILITY_NAME_36",
+      "read_index": "60",
+      "source_jp": "逞姿",
+      "source_en": "Sturdy Form",
+      "text": "Ruhige Bogenhaltung"
+    },
+    {
+      "key": "ABILITY_NAME_37",
+      "read_index": "263",
+      "source_jp": "拡撃",
+      "source_en": "Attack Expansion",
+      "text": "Distanzgefühl"
+    },
+    {
+      "key": "ABILITY_NAME_38",
+      "read_index": "252",
+      "source_jp": "快撃",
+      "source_en": "Pleasant Attack",
+      "text": "Idealschuss"
+    },
+    {
+      "key": "ABILITY_NAME_39",
+      "read_index": "168",
+      "source_jp": "芯撃",
+      "source_en": "Heart Shot",
+      "text": "Wuchtschuss"
+    },
+    {
+      "key": "ABILITY_NAME_40",
+      "read_index": "275",
+      "source_jp": "剛力",
+      "source_en": "Herculean Strength",
+      "text": "Gewaltige Wucht"
+    },
+    {
+      "key": "ABILITY_NAME_41",
+      "read_index": "192",
+      "source_jp": "充実",
+      "source_en": "Enhancement",
+      "text": "Gesunde Kraft"
+    },
+    {
+      "key": "ABILITY_NAME_42",
+      "read_index": "24",
+      "source_jp": "底力",
+      "source_en": "Hidden Potential",
+      "text": "Verborgene Kraft"
+    },
+    {
+      "key": "ABILITY_NAME_43",
+      "read_index": "216",
+      "source_jp": "強壮",
+      "source_en": "Hardy",
+      "text": "Ausdauernde Kraft"
+    },
+    {
+      "key": "ABILITY_NAME_44",
+      "read_index": "287",
+      "source_jp": "硬皮",
+      "source_en": "Tough Skin",
+      "text": "Stichschutz"
+    },
+    {
+      "key": "ABILITY_NAME_45",
+      "read_index": "180",
+      "source_jp": "射極",
+      "source_en": "Decisive Shot",
+      "text": "Gezielter Treffer"
+    },
+    {
+      "key": "ABILITY_NAME_46",
+      "read_index": "240",
+      "source_jp": "陰討",
+      "source_en": "Shadow Attack",
+      "text": "Überraschungsangriff"
+    },
+    {
+      "key": "ABILITY_NAME_47",
+      "read_index": "120",
+      "source_jp": "翼護",
+      "source_en": "Winged Safeguard",
+      "text": "Flugwesen-Schutz"
+    },
+    {
+      "key": "ABILITY_NAME_48",
+      "read_index": "96",
+      "source_jp": "翼狙",
+      "source_en": "Winged Proficiency",
+      "text": "Flugwesen-Jagd"
+    },
+    {
+      "key": "ABILITY_NAME_49",
+      "read_index": "108",
+      "source_jp": "鬼護",
+      "source_en": "Ogrekin Safeguard",
+      "text": "Ogerwesen-Schutz"
+    },
+    {
+      "key": "ABILITY_NAME_50",
+      "read_index": "84",
+      "source_jp": "鬼狙",
+      "source_en": "Ogrekin Proficiency",
+      "text": "Ogerwesen-Jagd"
+    },
+    {
+      "key": "ABILITY_NAME_51",
+      "read_index": "157",
+      "source_jp": "緩療",
+      "source_en": "Relaxed Cure",
+      "text": "Sanfte Auren"
+    },
+    {
+      "key": "ABILITY_NAME_52",
+      "read_index": "37",
+      "source_jp": "漲魂",
+      "source_en": "Spirit Overflow",
+      "text": "Unauffällige Übertragung"
+    },
+    {
+      "key": "ABILITY_NAME_53",
+      "read_index": "253",
+      "source_jp": "慈覧",
+      "source_en": "Compassion",
+      "text": "Stille Heilung"
+    },
+    {
+      "key": "ABILITY_NAME_54",
+      "read_index": "276",
+      "source_jp": "長露",
+      "source_en": "Long Exposure",
+      "text": "Anhaltende Enthüllung"
+    },
+    {
+      "key": "ABILITY_NAME_55",
+      "read_index": "205",
+      "source_jp": "攻援",
+      "source_en": "Attack Aid",
+      "text": "Angriffshilfe"
+    },
+    {
+      "key": "ABILITY_NAME_56",
+      "read_index": "217",
+      "source_jp": "魔援",
+      "source_en": "Magick Aid",
+      "text": "Magiehilfe"
+    },
+    {
+      "key": "ABILITY_NAME_57",
+      "read_index": "25",
+      "source_jp": "防助",
+      "source_en": "Assist Defense",
+      "text": "Schutzhilfe"
+    },
+    {
+      "key": "ABILITY_NAME_58",
+      "read_index": "73",
+      "source_jp": "魔助",
+      "source_en": "Assist Magick",
+      "text": "Magieschutz-Hilfe"
+    },
+    {
+      "key": "ABILITY_NAME_59",
+      "read_index": "288",
+      "source_jp": "激励",
+      "source_en": "Encouragement",
+      "text": "Ermutigung"
+    },
+    {
+      "key": "ABILITY_NAME_60",
+      "read_index": "264",
+      "source_jp": "加護",
+      "source_en": "Divine Protection",
+      "text": "Göttlicher Schutz"
+    },
+    {
+      "key": "ABILITY_NAME_61",
+      "read_index": "169",
+      "source_jp": "我慢",
+      "source_en": "Patience",
+      "text": "Durchhalten"
+    },
+    {
+      "key": "ABILITY_NAME_62",
+      "read_index": "1",
+      "source_jp": "防炎",
+      "source_en": "Fireproof",
+      "text": "Feuerschutz"
+    },
+    {
+      "key": "ABILITY_NAME_63",
+      "read_index": "49",
+      "source_jp": "防氷",
+      "source_en": "Iceproof",
+      "text": "Eisschutz"
+    },
+    {
+      "key": "ABILITY_NAME_64",
+      "read_index": "85",
+      "source_jp": "防雷",
+      "source_en": "Thunderproof",
+      "text": "Blitzschutz"
+    },
+    {
+      "key": "ABILITY_NAME_65",
+      "read_index": "181",
+      "source_jp": "防聖",
+      "source_en": "Holyproof",
+      "text": "Heiligschutz"
+    },
+    {
+      "key": "ABILITY_NAME_66",
+      "read_index": "193",
+      "source_jp": "防闇",
+      "source_en": "Darkproof",
+      "text": "Dunkelschutz"
+    },
+    {
+      "key": "ABILITY_NAME_67",
+      "read_index": "13",
+      "source_jp": "減炎",
+      "source_en": "Reduce Burn",
+      "text": "Brennschutz"
+    },
+    {
+      "key": "ABILITY_NAME_68",
+      "read_index": "61",
+      "source_jp": "減氷",
+      "source_en": "Reduce Freeze",
+      "text": "Frostschutz"
+    },
+    {
+      "key": "ABILITY_NAME_69",
+      "read_index": "97",
+      "source_jp": "減雷",
+      "source_en": "Reduce Shocked",
+      "text": "Schockschutz"
+    },
+    {
+      "key": "ABILITY_NAME_70",
+      "read_index": "229",
+      "source_jp": "減聖",
+      "source_en": "Reduce Holy Drain",
+      "text": "Lichtzehrschutz"
+    },
+    {
+      "key": "ABILITY_NAME_71",
+      "read_index": "241",
+      "source_jp": "減闇",
+      "source_en": "Reduce Blind",
+      "text": "Blendschutz"
+    },
+    {
+      "key": "ABILITY_NAME_72",
+      "read_index": "145",
+      "source_jp": "腐護",
+      "source_en": "Undead Safeguard",
+      "text": "Untoten-Schutz"
+    },
+    {
+      "key": "ABILITY_NAME_73",
+      "read_index": "121",
+      "source_jp": "腐狙",
+      "source_en": "Undead Proficiency",
+      "text": "Untoten-Jagd"
+    },
+    {
+      "key": "ABILITY_NAME_74",
+      "read_index": "133",
+      "source_jp": "骨護",
+      "source_en": "Skeleton Safeguard",
+      "text": "Skelettschutz"
+    },
+    {
+      "key": "ABILITY_NAME_75",
+      "read_index": "109",
+      "source_jp": "骨狙",
+      "source_en": "Skeleton Proficiency",
+      "text": "Skelettjagd"
+    },
+    {
+      "key": "ABILITY_NAME_296",
+      "read_index": "311",
+      "source_jp": "連撃 倒",
+      "source_en": "Onslaught(S)",
+      "text": "Schlagfolge (W)"
+    },
+    {
+      "key": "ABILITY_NAME_297",
+      "read_index": "323",
+      "source_jp": "斬崩 倒",
+      "source_en": "Demolishing Strike(S)",
+      "text": "Deckungsbrecher (W)"
+    },
+    {
+      "key": "ABILITY_NAME_298",
+      "read_index": "347",
+      "source_jp": "崩攻",
+      "source_en": "Crushing Blow",
+      "text": "Durchbruch"
+    },
+    {
+      "key": "ABILITY_NAME_299",
+      "read_index": "335",
+      "source_jp": "抉突 絶",
+      "source_en": "Gouge(E)",
+      "text": "Aufreißen (B)"
+    },
+    {
+      "key": "ABILITY_NAME_300",
+      "read_index": "359",
+      "source_jp": "強連 倒",
+      "source_en": "Dire Onslaught(S)",
+      "text": "Schwere Schlagfolge (W)"
+    },
+    {
+      "key": "ABILITY_NAME_301",
+      "read_index": "371",
+      "source_jp": "堅盾",
+      "source_en": "Firm Shield",
+      "text": "Standhafter Schild"
+    },
+    {
+      "key": "ABILITY_NAME_302",
+      "read_index": "383",
+      "source_jp": "連撃 砕",
+      "source_en": "Onslaught(C)",
+      "text": "Schlagfolge (C)"
+    },
+    {
+      "key": "ABILITY_NAME_303",
+      "read_index": "395",
+      "source_jp": "斬崩 絶",
+      "source_en": "Demolishing Strike(E)",
+      "text": "Deckungsbrecher (B)"
+    },
+    {
+      "key": "ABILITY_NAME_304",
+      "read_index": "419",
+      "source_jp": "硬溜",
+      "source_en": "Hardening",
+      "text": "Gehärtetes Aufladen"
+    },
+    {
+      "key": "ABILITY_NAME_305",
+      "read_index": "407",
+      "source_jp": "抉突 砕",
+      "source_en": "Gouge(C)",
+      "text": "Aufreißen (C)"
+    },
+    {
+      "key": "ABILITY_NAME_306",
+      "read_index": "431",
+      "source_jp": "強連 砕",
+      "source_en": "Dire Onslaught(C)",
+      "text": "Schwere Schlagfolge (C)"
+    },
+    {
+      "key": "ABILITY_NAME_307",
+      "read_index": "443",
+      "source_jp": "快突",
+      "source_en": "Pleasant Thrust",
+      "text": "Mühelose Stiche"
+    },
+    {
+      "key": "ABILITY_NAME_308",
+      "read_index": "300",
+      "source_jp": "弓射 倒",
+      "source_en": "Archery(S)",
+      "text": "Pfeilschuss (W)"
+    },
+    {
+      "key": "ABILITY_NAME_309",
+      "read_index": "312",
+      "source_jp": "爆矢 烈",
+      "source_en": "Exploding Arrow(F)",
+      "text": "Explosivpfeil (Z)"
+    },
+    {
+      "key": "ABILITY_NAME_310",
+      "read_index": "336",
+      "source_jp": "硬構",
+      "source_en": "Rigid Stance",
+      "text": "Geschützte Haltung"
+    },
+    {
+      "key": "ABILITY_NAME_311",
+      "read_index": "324",
+      "source_jp": "矢斬 烈",
+      "source_en": "Arrowhead Strike(F)",
+      "text": "Pfeilspitzenstich (Z)"
+    },
+    {
+      "key": "ABILITY_NAME_312",
+      "read_index": "348",
+      "source_jp": "静射 倒",
+      "source_en": "Keensight Shot(S)",
+      "text": "Präzisionsschuss (W)"
+    },
+    {
+      "key": "ABILITY_NAME_313",
+      "read_index": "360",
+      "source_jp": "救耐",
+      "source_en": "Rescue Assistance",
+      "text": "Geschützte Rettung"
+    },
+    {
+      "key": "ABILITY_NAME_314",
+      "read_index": "372",
+      "source_jp": "弓射 砕",
+      "source_en": "Archery(C)",
+      "text": "Pfeilschuss (C)"
+    },
+    {
+      "key": "ABILITY_NAME_315",
+      "read_index": "384",
+      "source_jp": "爆矢 砕",
+      "source_en": "Exploding Arrow(C)",
+      "text": "Explosivpfeil (C)"
+    },
+    {
+      "key": "ABILITY_NAME_316",
+      "read_index": "408",
+      "source_jp": "増精",
+      "source_en": "Augmented Spirit",
+      "text": "Ausdauerplus"
+    },
+    {
+      "key": "ABILITY_NAME_317",
+      "read_index": "396",
+      "source_jp": "矢斬 砕",
+      "source_en": "Arrowhead Strike(C)",
+      "text": "Pfeilspitzenstich (C)"
+    },
+    {
+      "key": "ABILITY_NAME_318",
+      "read_index": "420",
+      "source_jp": "静射 砕",
+      "source_en": "Keensight(C)",
+      "text": "Präzisionsschuss (C)"
+    },
+    {
+      "key": "ABILITY_NAME_319",
+      "read_index": "432",
+      "source_jp": "至弓",
+      "source_en": "Climax Bow",
+      "text": "Perfekter Bogen"
+    },
+    {
+      "key": "ABILITY_NAME_320",
+      "read_index": "301",
+      "source_jp": "癒気 詠",
+      "source_en": "Healing(C)",
+      "text": "Heilaura (Zt)"
+    },
+    {
+      "key": "ABILITY_NAME_321",
+      "read_index": "313",
+      "source_jp": "破球 倒",
+      "source_en": "Blast Bits(S)",
+      "text": "Magiekugel (W)"
+    },
+    {
+      "key": "ABILITY_NAME_322",
+      "read_index": "337",
+      "source_jp": "扶魔",
+      "source_en": "Assist Boost",
+      "text": "Geschützte Hilfe"
+    },
+    {
+      "key": "ABILITY_NAME_323",
+      "read_index": "325",
+      "source_jp": "聖気 倒",
+      "source_en": "Holy Aura(S)",
+      "text": "Heilige Aura (W)"
+    },
+    {
+      "key": "ABILITY_NAME_324",
+      "read_index": "349",
+      "source_jp": "衝破 倒",
+      "source_en": "Shockwave(S)",
+      "text": "Stoßwelle (W)"
+    },
+    {
+      "key": "ABILITY_NAME_325",
+      "read_index": "361",
+      "source_jp": "滅吸",
+      "source_en": "Stagnation",
+      "text": "Lebensfunke"
+    },
+    {
+      "key": "ABILITY_NAME_326",
+      "read_index": "373",
+      "source_jp": "癒気 耐",
+      "source_en": "Heal Aura(E)",
+      "text": "Heilaura (S)"
+    },
+    {
+      "key": "ABILITY_NAME_327",
+      "read_index": "385",
+      "source_jp": "破球 砕",
+      "source_en": "Blast Bits(C)",
+      "text": "Magiekugel (C)"
+    },
+    {
+      "key": "ABILITY_NAME_328",
+      "read_index": "409",
+      "source_jp": "魔猛",
+      "source_en": "Magickal Rush",
+      "text": "Magiekraft"
+    },
+    {
+      "key": "ABILITY_NAME_329",
+      "read_index": "397",
+      "source_jp": "聖気 烈",
+      "source_en": "Holy Aura(R)",
+      "text": "Heilige Aura (Z)"
+    },
+    {
+      "key": "ABILITY_NAME_330",
+      "read_index": "421",
+      "source_jp": "衝破 砕",
+      "source_en": "Shockwave(C)",
+      "text": "Stoßwelle (C)"
+    },
+    {
+      "key": "ABILITY_NAME_331",
+      "read_index": "433",
+      "source_jp": "硬気",
+      "source_en": "Hard Spirit",
+      "text": "Auraschutz"
+    }
+  ]
+}

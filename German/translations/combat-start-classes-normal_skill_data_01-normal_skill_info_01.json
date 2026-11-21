@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_info_01.gmd",
+  "arc_path": "\\skill\\normal_skill_data_01.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_INFO_01_4",
+      "read_index": "0",
+      "source_jp": "剣による連続攻撃を繰り出す",
+      "source_en": "Perform a continuous attack with your sword.",
+      "text": "Schlage mehrmals mit dem Schwert zu."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_01_5",
+      "read_index": "1",
+      "source_jp": "剣による連続一点集中攻撃を繰り出す",
+      "source_en": "Pausing after your first swing allows you to follow\r\nup with a powerful concentrated attack.",
+      "text": "Setze mit einer gezielten Folge kräftiger\r\nSchwerthiebe nach."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_01_13",
+      "read_index": "2",
+      "source_jp": "剣による一撃で敵のガード状態を崩し気絶を誘う\r\nボタンの長押しで威力が増し\r\n敵を転倒させることができる\r\n<COL ffdc78>LV UPで攻撃威力が上昇し\r\n長押しなしで敵を転倒させる＜強斬り崩し＞に進化</COL>",
+      "source_en": "Perform a strong overhead swing, holding down longer \r\nfor increased power that's capable of breaking an enemies \r\nguard. It is also possible to topple the enemy.\r\n<COL ffdc78>LV ↑ Increase attack power\r\nEvolve into \"Strong Guard Break\" allowing you to guard\r\nbreak without max power.</COL>",
+      "text": "Brich mit einem Schwerthieb die gegnerische\r\nDeckung und baue Betäubung auf. Länger\r\nhalten erhöht die Wucht und kann Gegner\r\numwerfen.\r\n<COL ffdc78>Beim Aufstieg wird daraus der „Starke\r\nDeckungsbrecher“. Er wirft Gegner auch ohne\r\nAufladen um und richtet mehr Schaden an.</COL>"
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_01_14",
+      "read_index": "3",
+      "source_jp": "剣による渾身の一撃で敵のガード状態を崩し\r\n転倒させる。さらに気絶させやすくなる\r\nボタンの長押しで威力が増す",
+      "source_en": "Perform a stronger overhead swing capable of breaking\r\nan enemies guard, holding down longer for increased power. \r\nA longer hold has a better chance to topple.",
+      "text": "Brich mit einem kräftigen Hieb die Deckung und\r\nwirf den Gegner um. Betäubt leichter. Länger\r\nhalten erhöht den Schaden."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_01_18",
+      "read_index": "4",
+      "source_jp": "空中で剣を振り払う",
+      "source_en": "Swing your sword while in the air.",
+      "text": "Schwinge das Schwert in der Luft."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_01_19",
+      "read_index": "5",
+      "source_jp": "空中で剣を縦に振り下ろす\r\n高所から行うことで威力が上昇する",
+      "source_en": "Slash downwards while airborne, falling down onto the\r\nenemy. Increased power at an increased height.",
+      "text": "Schlage in der Luft senkrecht nach unten. Je\r\nhöher du beginnst, desto mehr Schaden."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_01_15",
+      "read_index": "6",
+      "source_jp": "盾を構え敵の攻撃を防ぐ\r\n空中でも発動可能",
+      "source_en": "Hold your shield strong to block enemy attacks.\r\nCan also be activated while in the air.",
+      "text": "Fange gegnerische Angriffe mit dem Schild ab.\r\nAuch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_01_16",
+      "read_index": "7",
+      "source_jp": "盾を素早く構え敵の攻撃をはじき返す\r\n空中でも発動可能",
+      "source_en": "Timing your block just as the enemy attacks you,\r\nwill deflect their attack.\r\nCan also be activated while in the air.",
+      "text": "Wehre einen Treffer mit dem Schild im letzten\r\nMoment ab. Auch in der Luft einsetzbar."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_01_17",
+      "read_index": "8",
+      "source_jp": "腰を落とした姿勢で構え、\r\n近接してきた仲間を上方に放りあげる",
+      "source_en": "Hold yourself in a crouched position, and toss\r\nnearby allies into the air.",
+      "text": "Geh in die Hocke und wirf einen Verbündeten\r\nhoch, sobald er nahe genug ist."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_01_22",
+      "read_index": "9",
+      "source_jp": "敵に吹き飛ばされた際に転倒を回避する",
+      "source_en": "Recover quickly from being knocked down by an enemy.",
+      "text": "Fang dich ab, wenn dich ein Gegner\r\nwegschleudert."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_01_23",
+      "read_index": "10",
+      "source_jp": "しがみついた状態から、剣を突き刺し連続してえぐる\r\nボタンの連打で攻撃回数が増加する",
+      "source_en": "While clinging onto an enemy, thrust your sword into\r\nthem. Continuous presses increase attack count.",
+      "text": "Stich beim Festhalten zu und reiß die Wunde mit\r\nweiteren Stichen auf. Mehr Tastendrücke\r\nergeben mehr Treffer."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Zauberklinge",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_command_11.gmd",
+  "arc_path": "\\skill\\normal_skill_data_11.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_165",
+      "read_index": "0",
+      "source_jp": "<KC ATTACK1>を押す",
+      "source_en": "Press <KC ATTACK1>.",
+      "text": "<KC ATTACK1> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_166",
+      "read_index": "1",
+      "source_jp": "<KC ATTACK1>後、少し遅らせて<KC ATTACK1>を連続して押す",
+      "source_en": "After <KC ATTACK1>, delay a moment then\r\nrepeatedly press <KC ATTACK1>.",
+      "text": "Nach <KC ATTACK1> kurz warten.\r\nDann <KC ATTACK1> mehrmals drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_175",
+      "read_index": "2",
+      "source_jp": "空中で<KC ATTACK1>を押す",
+      "source_en": "While in the air, press <KC ATTACK1>.",
+      "text": "In der Luft <KC ATTACK1> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_174",
+      "read_index": "3",
+      "source_jp": "<PADM>空中で左スティックを倒しながら<KC ATTACK1>を押す<KEYM>空中で移動キーを押しながら<KC ATTACK1>を押す</KEYM>",
+      "source_en": "While in the air, press <PADM><KC ATTACK1> while\r\nmoving the left stick<KEYM><KC ATTACK1> while\r\nholding movement keys</KEYM>.",
+      "text": "In der Luft <PADM><KC ATTACK1> drücken,\r\nwährend du den linken Stick bewegst<KEYM><KC ATTACK1> zusammen mit einer\r\nBewegungstaste drücken</KEYM>."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_167",
+      "read_index": "4",
+      "source_jp": "<KC ATTACK2>を押す",
+      "source_en": "Press <KC ATTACK2>.",
+      "text": "<KC ATTACK2> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_171",
+      "read_index": "5",
+      "source_jp": "<KC ROLLING>を押す",
+      "source_en": "Press <KC ROLLING>.",
+      "text": "<KC ROLLING> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_169",
+      "read_index": "6",
+      "source_jp": "<KC WEAPON_SUB>を押す",
+      "source_en": "Press <KC WEAPON_SUB>.",
+      "text": "<KC WEAPON_SUB> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_168",
+      "read_index": "7",
+      "source_jp": "<KC WEAPON_SUB>を押しながら<KC MARK_SHOT>を押す",
+      "source_en": "Hold <KC WEAPON_SUB>, then press <KC MARK_SHOT>.",
+      "text": "<KC WEAPON_SUB> halten\r\nund <KC MARK_SHOT> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_172",
+      "read_index": "8",
+      "source_jp": "<KC SKILL_NORMAL1>を押す\r\n　カテゴリ：補助魔法\r\n　魔力１ゲージ消費で発動可能",
+      "source_en": "Press <KC SKILL_NORMAL1>.\r\n　Category: Support Magick.\r\n　Consumes 1 magick gauge on activation.",
+      "text": "<KC SKILL_NORMAL1> drücken.\r\nHilfsmagie. Kostet eine volle Magieleiste."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_170",
+      "read_index": "9",
+      "source_jp": "バックリープ発動後に<KC SKILL_NORMAL1>を押す",
+      "source_en": "After activating Back Leap, press <KC SKILL_NORMAL1>.",
+      "text": "Nach dem Rücksprung\r\n<KC SKILL_NORMAL1> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_173",
+      "read_index": "10",
+      "source_jp": "<KC OVER_BRADE>を押す\r\n　カテゴリ：純魔法\r\n　魔力１スタック消費で発動可能",
+      "source_en": "Press <KC OVER_BRADE>.\r\n　Category: Pure Magick.\r\n　Consumes 1 magick stack on activation.",
+      "text": "<KC OVER_BRADE> drücken.\r\nReine Magie. Kostet 1 Magieladung."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_177",
+      "read_index": "11",
+      "source_jp": "吹き飛ばされ中に<KC JUMP>を押す",
+      "source_en": "While being knocked away, press <KC JUMP>.",
+      "text": "Beim Wegschleudern <KC JUMP> drücken."
+    },
+    {
+      "key": "NORMAL_SKILL_COMMAND_11_176",
+      "read_index": "12",
+      "source_jp": "しがみつき中に<KC ATTACK1>を連続して押す",
+      "source_en": "While climbing an enemy,\r\nrepeatedly press <KC ATTACK1>",
+      "text": "Beim Festklammern <KC ATTACK1>\r\nmehrmals drücken."
+    }
+  ]
+}

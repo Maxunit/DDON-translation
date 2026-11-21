@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000080_00.gmd",
+  "arc_path": "\\quest\\q40000080.arc",
+  "entries": [
+    {
+      "key": "q40000080_00_80",
+      "read_index": "0",
+      "source_jp": "＜エリアオーダー＞ブリア補給",
+      "source_en": "Area Order: Breya Resupply",
+      "text": "Gebietsauftrag: Vorräte für Breya"
+    },
+    {
+      "key": "q40000080_00_80",
+      "read_index": "1",
+      "source_jp": "ローテスからの急案件！\r\nあのさ、覚者さんでも騎士さんでもいいんだけど、<LQIM>を<LQVA>個融通してもらえないかな？\r\n村の修繕に要るんだけど、どうしてもまかなえなくてさ\r\n頼むよ！",
+      "source_en": "Urgent request from Rotes!\r\nWe are short <LQVA> pieces of <LQIM>.\r\nWhether you're an Arisen or a Knight,\r\nwill you help us out? We need these for repairs\r\nand are struggling to cover the shortage.\r\nPlease, our village needs your assistance!",
+      "text": "Dringender Auftrag aus Rotes!\r\nFür Reparaturen im Dorf fehlt uns:\r\n<LQIM>\r\nOb Erweckte oder Ritter, könnt Ihr uns\r\nbitte mit <LQVA> Stück aushelfen?",
+      "tag_source": "source_jp"
+    }
+  ]
+}

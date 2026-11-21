@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\ui\\keyconfig_detail.gmd",
+  "arc_path": "\\ui\\uGUIKeyConfig.arc",
+  "entries": [
+    {
+      "key": "kcd_062",
+      "read_index": "62",
+      "source_jp": "<COL DAEEF3>【Ｈｕ】</COL>しじま射ち（弓構え中）　<COL DAEEF3>【Ｓｏ】</COL>スペリング（詠唱中）\r\n<COL DAEEF3>【Ｈｉ】</COL>ロックオン中のカメラ操作（ルイン・ブレード構え中）",
+      "source_en": "<COL DAEEF3>(Hu)</COL> Keen Sight (when aiming\r\nbow) <COL DAEEF3>(So)</COL> Chanting\r\n<COL DAEEF3>(Hi)</COL> Camera operation during\r\nlock on (in Ruin Blade stance)",
+      "text": "<COL DAEEF3>(Hu)</COL> Präzisionsschuss · <COL DAEEF3>(So)</COL> Zauber wirken\r\n<COL DAEEF3>(Hi)</COL> Kamera bei Zielerfassung (Verderbensklinge)"
+    },
+    {
+      "key": "kcd_074",
+      "read_index": "74",
+      "source_jp": "<COL DAEEF3>【Ｐｒ】</COL>フィールドシフト　<COL DAEEF3>【Ｓｈ】</COL>フォースバースト",
+      "source_en": "<COL DAEEF3>(Pr)</COL> Field Shift <COL DAEEF3>\r\n(Sh)</COL> Force Burst",
+      "text": "<COL DAEEF3>(Pr)</COL> Aura übertragen\r\n<COL DAEEF3>(Sh)</COL> Kraftstoß"
+    }
+  ]
+}

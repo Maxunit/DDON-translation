@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000061_00.gmd",
+  "arc_path": "\\quest\\q40000061.arc",
+  "entries": [
+    {
+      "key": "q40000061_00_61",
+      "read_index": "0",
+      "source_jp": "言いにくいのですが――",
+      "source_en": "The Hard Truth",
+      "text": "Das ist mir unangenehm …"
+    },
+    {
+      "key": "q40000061_00_61",
+      "read_index": "1",
+      "source_jp": "じ、実はですね。数日前<LQEM>らしい影を<LQVA>体視認したのです。何とかせねばと応援を呼ぼうとした所、その間に見失ってしまったのです！\r\nどうか誰か、副団長に内緒でなんとかしてください！",
+      "source_en": "Actually, a few days ago, I saw what looked\r\nlike <LQEM> shadows,\r\nabout <LQVA> in number.\r\nI tried to call for help, but during that time,\r\nI lost sight of them! Please, someone,\r\nhandle this quietly without letting \r\nthe vice commander know!",
+      "text": "Vor ein paar Tagen sah ich Schatten.\r\n<LQEM>, vermutlich <LQVA>\r\nan der Zahl.\r\nIch wollte Hilfe holen und verlor sie.\r\nBitte kümmert Euch darum, ohne dem\r\nVizekommandanten davon zu erzählen!"
+    }
+  ]
+}

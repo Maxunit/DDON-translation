@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\custom_skill_name_03.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "CUSTOM_SKILL_NAME_03_32",
+      "read_index": "0",
+      "source_jp": "連なり射ち",
+      "source_en": "Threefold Arrow",
+      "text": "Pfeilfolge"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_33",
+      "read_index": "2",
+      "source_jp": "扇射ち",
+      "source_en": "Triad Shot",
+      "text": "Fächerschuss"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_34",
+      "read_index": "3",
+      "source_jp": "仕込み爆音矢",
+      "source_en": "Flying Din",
+      "text": "Knallpfeil"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_35",
+      "read_index": "7",
+      "source_jp": "剛力射ち",
+      "source_en": "Full Bend",
+      "text": "Kraftschuss"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_36",
+      "read_index": "4",
+      "source_jp": "降らし射ち",
+      "source_en": "Cloudburst Volley",
+      "text": "Pfeilregen"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_37",
+      "read_index": "1",
+      "source_jp": "貫き射ち",
+      "source_en": "Puncture Dart",
+      "text": "Durchschuss"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_38",
+      "read_index": "5",
+      "source_jp": "渦巻き射ち",
+      "source_en": "Whirling Arrow",
+      "text": "Wirbelpfeil"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_39",
+      "read_index": "6",
+      "source_jp": "紅蓮爆矢",
+      "source_en": "Crimson Arrow",
+      "text": "Flammenpfeile"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_40",
+      "read_index": "9",
+      "source_jp": "降らし爆炎矢",
+      "source_en": "Explosive Arrow Volley",
+      "text": "Brandpfeilregen"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_41",
+      "read_index": "10",
+      "source_jp": "矢継ぎ嵐",
+      "source_en": "Storm Arrow",
+      "text": "Pfeilsturm"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_42",
+      "read_index": "8",
+      "source_jp": "逆縮地",
+      "source_en": "Backward Retreat",
+      "text": "Rückzugsschritt"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_131",
+      "read_index": "12",
+      "source_jp": "天穹爆矢",
+      "source_en": "Sky Burst Shot",
+      "text": "Himmelsdetonation"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_132",
+      "read_index": "13",
+      "source_jp": "穿ち接射",
+      "source_en": "Combined Pierce Shot",
+      "text": "Durchbohrende Salve"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_162",
+      "read_index": "14",
+      "source_jp": "連なり射ち 剛",
+      "source_en": "Threefold Arrow (P)",
+      "text": "Pfeilfolge (Kraft)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_163",
+      "read_index": "15",
+      "source_jp": "連なり射ち 技",
+      "source_en": "Threefold Arrow (T)",
+      "text": "Pfeilfolge (Technik)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_164",
+      "read_index": "16",
+      "source_jp": "渦巻き射ち 剛",
+      "source_en": "Whirling Arrow (P)",
+      "text": "Wirbelpfeil (Kraft)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_165",
+      "read_index": "17",
+      "source_jp": "渦巻き射ち 技",
+      "source_en": "Whirling Arrow (T)",
+      "text": "Wirbelpfeil (Technik)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_197",
+      "read_index": "18",
+      "source_jp": "剛力射ち 剛",
+      "source_en": "Full Bend (P)",
+      "text": "Kraftschuss (Kraft)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_198",
+      "read_index": "19",
+      "source_jp": "剛力射ち 技",
+      "source_en": "Full Bend (T)",
+      "text": "Kraftschuss (Technik)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_199",
+      "read_index": "20",
+      "source_jp": "降らし爆炎矢 剛",
+      "source_en": "Explosive Arrow Volley (P)",
+      "text": "Brandpfeilregen (Kraft)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_03_200",
+      "read_index": "21",
+      "source_jp": "降らし爆炎矢 技",
+      "source_en": "Explosive Arrow Volley (T)",
+      "text": "Brandpfeilregen (Technik)"
+    }
+  ]
+}

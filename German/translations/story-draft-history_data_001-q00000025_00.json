@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5 – Seneka, Werkstatt und der scharlachrote Kristall",
+  "gmd_path": "ui\\00_message\\quest_info\\q00000025_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00000025_00_25",
+      "read_index": "1",
+      "source_jp": "レオの使いとしてグリッテン砦に向かい\r\n覚者ヴァネッサに補給物資を届ける",
+      "source_en": "Head towards Fort Gritten as Leo's envoy\r\nto deliver supplies to the Arisen Vanessa.",
+      "text": "Bring Vanessa in Festung Gritten Vorräte im\r\nAuftrag von Leo."
+    },
+    {
+      "key": "q00000025_00_1058",
+      "read_index": "2",
+      "source_jp": "グリッテン砦のヴァネッサのもとに向かう",
+      "source_en": "Head to Vanessa's location in Fort Gritten",
+      "text": "Triff Vanessa in Festung Gritten"
+    },
+    {
+      "key": "q00000025_00_1059",
+      "read_index": "3",
+      "source_jp": "死者の小窟内で魔物を探す",
+      "source_en": "Search for monsters within the Small Cave Tombs",
+      "text": "Suche in den Kleinen Grabhöhlen nach Monstern"
+    },
+    {
+      "key": "q00000025_00_1060",
+      "read_index": "4",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die angetroffenen Monster"
+    },
+    {
+      "key": "q00000025_00_1061",
+      "read_index": "5",
+      "source_jp": "グリッテン砦のヴァネッサに戦果を報告する",
+      "source_en": "Report back to Vanessa at Fort Gritten",
+      "text": "Berichte Vanessa in Festung Gritten vom Kampf"
+    },
+    {
+      "key": "q00000025_00_1062",
+      "read_index": "6",
+      "source_jp": "謁見の間のレオに経緯を報告する",
+      "source_en": "Report back to Leo in the Audience Chamber",
+      "text": "Berichte Leo im Audienzsaal, wie es lief"
+    },
+    {
+      "key": "q00000025_00_1202",
+      "read_index": "8",
+      "source_jp": "白竜に＜竜力の継承＞を行いブラッドオーブを捧げる",
+      "source_en": "Offer Blood Orbs to perform Dragon Force Augmentation",
+      "text": "Opfere eine Blutkugel (Erbe der Drachenkraft)"
+    },
+    {
+      "key": "q00000025_00_1245",
+      "read_index": "7",
+      "source_jp": "謁見の間のミシアルに報告する",
+      "source_en": "Report to Mysial in the Audience Chamber",
+      "text": "Berichte Mysial im Audienzsaal vom Fund"
+    }
+  ]
+}

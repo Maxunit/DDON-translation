@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_info_04.gmd",
+  "arc_path": "\\skill\\normal_skill_data_04.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_INFO_04_61",
+      "read_index": "0",
+      "source_jp": "杖から魔法球を放つ\r\nボタンの長押しで弾数、威力が上昇する\r\n空中でも発動可能（ボタン長押しは地上のみ）",
+      "source_en": "Fire magickal bolts from the tip of the cane.\r\nHolding the button down will increase the \r\nnumber and damage of bolts.\r\nCan be activated even while in the air, \r\nbut can only charge on the ground.",
+      "text": "Feuere Magiekugeln aus dem Stab. Halte die\r\nTaste für mehr Kugeln und mehr Schaden. Auch\r\nin der Luft einsetzbar. Aufladen geht nur am\r\nBoden."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_04_62",
+      "read_index": "1",
+      "source_jp": "自身を中心に体力回復効果のある魔法エリアを\r\n展開する（最大回復量は治癒上限値）\r\n空中でも発動可能、フィールドシフトに対応\r\n<COL ffdc78>LV UPで回復力が上昇し、より広範囲に\r\nエリア展開する＜ヒールオーラエクス＞に進化</COL>",
+      "source_en": "Release a magickal aura around yourself that recovers\r\nthe health of those within it. (Maximum recovery amount scales with Recovery Limit.)\r\nCan be activated even while in the air, and works with Field Shift.\r\n<COL ffdc78>LV ↑: Increases Recovery Limit, and becomes a larger radius\r\nform (Great Heal Aura).</COL>",
+      "text": "Erzeuge um dich ein Feld, das LP bis zur\r\nHeilgrenze wiederherstellt. Auch in der Luft\r\neinsetzbar. Lässt sich mit „Aura übertragen“\r\nweitergeben.\r\n<COL ffdc78>Beim Aufstieg wird daraus die „Große Heilaura“.\r\nSie heilt stärker und in einem größeren Bereich.</COL>"
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_04_63",
+      "read_index": "2",
+      "source_jp": "自身を中心に体力回復効果のある\r\n魔法エリアを広範囲に展開する\r\n空中でも発動可能、フィールドシフトに対応",
+      "source_en": "Release a magickal aura around yourself that recovers\r\nthe health of those within it.\r\nCan be activated even while in the air, and works with Field Shift.",
+      "text": "Erzeuge ein großes Heilfeld um dich. Auch in der\r\nLuft einsetzbar. Lässt sich mit „Aura\r\nübertragen“ weitergeben."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_04_64",
+      "read_index": "3",
+      "source_jp": "自身を中心に聖属性を帯びた攻撃魔法エリアを\r\n展開する\r\n空中でも発動可能、フィールドシフトに対応\r\n<COL ffdc78>LV UPで攻撃威力が上昇し、より広範囲に\r\nエリア展開する＜セイントオーラエクス＞に進化</COL>",
+      "source_en": "Release a damaging Holy aura around yourself.\r\nCan be activated even while in the air, and works with Field Shift.\r\n<COL ffdc78>LV ↑: Increases damage of the skill, and becomes\r\na larger radius form (Greater Holy Aura).</COL>",
+      "text": "Erzeuge ein Feld um dich, das Gegnern heiligen\r\nSchaden zufügt. Auch in der Luft einsetzbar.\r\nLässt sich mit „Aura übertragen“ weitergeben.\r\n<COL ffdc78>Beim Aufstieg wird daraus die „Große Heilige\r\nAura“. Sie richtet mehr Schaden an und wirkt in\r\neinem größeren Bereich.</COL>"
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_04_65",
+      "read_index": "4",
+      "source_jp": "自身を中心に聖属性を帯びた攻撃魔法エリアを\r\n広範囲に展開する\r\n空中でも発動可能、フィールドシフトに対応",
+      "source_en": "Release a damaging Holy aura around yourself.\r\nCan be activated even while in the air, and works with Field Shift.",
+      "text": "Erzeuge ein großes Feld um dich, das Gegnern\r\nheiligen Schaden zufügt. Auch in der Luft\r\neinsetzbar. Lässt sich mit „Aura übertragen“\r\nweitergeben."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_04_66",
+      "read_index": "5",
+      "source_jp": "自身が展開している魔法エリアを\r\n味方全員に移し付与する",
+      "source_en": "Transfer an active magickal aura to an ally.",
+      "text": "Übertrage dein aktives Magiefeld auf alle\r\nVerbündeten."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_04_68",
+      "read_index": "6",
+      "source_jp": "ジャンプ中の落下速度を抑制し\r\n滞空時間を延長する",
+      "source_en": "Slow your descent while falling, and\r\nextend the duration you stay in the air.",
+      "text": "Sinke im Sprung langsamer und bleib länger in\r\nder Luft."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_04_69",
+      "read_index": "7",
+      "source_jp": "しがみついた状態から、癒しの魔法陣を展開させる\r\n魔法陣の内部は味方の体力が回復する",
+      "source_en": "While climbing an enemy, form a healing aura around yourself\r\nthat recovers the health of allies inside of it.",
+      "text": "Erzeuge beim Festhalten einen Heilkreis.\r\nVerbündete darin erhalten LP zurück."
+    },
+    {
+      "key": "NORMAL_SKILL_INFO_04_146",
+      "read_index": "8",
+      "source_jp": "しがみついた状態から、自身を中心に\r\n聖属性の攻撃魔法エリアを展開する",
+      "source_en": "While climbing an enemy, form a damaging holy aura around yourself.",
+      "text": "Erzeuge beim Festhalten ein Feld um dich, das\r\nGegnern heiligen Schaden zufügt."
+    }
+  ]
+}

@@ -79,6 +79,32 @@ class BuildTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'Invalid tag source'):
             self.render(base=base, groups=groups)
 
+    def test_documented_source_variants_share_a_translation(self):
+        second = self.row.copy()
+        second[2] = '別の原文'
+        second[3] = 'Different <VAL>'
+        stream = io.StringIO(newline='')
+        csv.writer(stream).writerow(second)
+        second_record = stream.getvalue().encode('utf-8')
+        base = self.prefix + self.record + second_record + self.suffix
+
+        with self.assertRaisesRegex(ValueError, 'Source text changed'):
+            self.render(base=base)
+
+        groups = copy.deepcopy(self.groups)
+        groups[0]['entries'][0]['alternate_sources'] = [
+            dict(source_jp=second[2], source_en=second[3]),
+        ]
+        result, stats = self.render(base=base, groups=groups)
+        records = [row for row, _, _ in builder.records(result) if builder.is_data(row)]
+        self.assertEqual([row[3] for row in records[:2]], [self.entry['text']] * 2)
+        self.assertEqual([row[2] for row in records[:2]], [self.row[2], second[2]])
+        self.assertEqual(stats, dict(data_records=3, covered_entries=1, changed_MsgEn_fields=2))
+        with self.assertRaisesRegex(ValueError, 'Missing source'):
+            self.render(groups=groups)
+        with self.assertRaisesRegex(ValueError, 'Duplicate source'):
+            self.render(base=base + second_record, groups=groups)
+
     def test_intentional_space_and_name_suffix_survive(self):
         for text in (' ', ' wird gelöscht.'):
             groups = copy.deepcopy(self.groups)

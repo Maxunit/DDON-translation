@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.4 – Kämpfer, Jäger und Priester",
+  "gmd_path": "ui\\00_message\\skill\\custom_skill_name_04.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "CUSTOM_SKILL_NAME_04_44",
+      "read_index": "4",
+      "source_jp": "ヒーリングスポット",
+      "source_en": "Healing Spot",
+      "text": "Heilfeld"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_45",
+      "read_index": "5",
+      "source_jp": "キュアスポット",
+      "source_en": "Curing Spot",
+      "text": "Läuterungsfeld"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_46",
+      "read_index": "2",
+      "source_jp": "セラフィムフラップ",
+      "source_en": "Seraphim Flap",
+      "text": "Seraphenschwarm"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_47",
+      "read_index": "6",
+      "source_jp": "セイクリッドシャイン",
+      "source_en": "Sacred Shine",
+      "text": "Heiliges Strahlen"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_48",
+      "read_index": "0",
+      "source_jp": "アタックライザー",
+      "source_en": "Attack Riser",
+      "text": "Angriffsfeld"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_49",
+      "read_index": "1",
+      "source_jp": "ディフェンスライザー",
+      "source_en": "Defense Riser",
+      "text": "Schutzfeld"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_50",
+      "read_index": "3",
+      "source_jp": "ガードビット",
+      "source_en": "Guard Bit",
+      "text": "Schutzkugeln"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_51",
+      "read_index": "11",
+      "source_jp": "クイックチャージ",
+      "source_en": "Quick Charge",
+      "text": "Gebet der Eile"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_52",
+      "read_index": "9",
+      "source_jp": "エナジースポット",
+      "source_en": "Energy Spot",
+      "text": "Ausdauerfeld"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_53",
+      "read_index": "10",
+      "source_jp": "ゾーンオブザゴッド",
+      "source_en": "Holy Glare",
+      "text": "Göttliches Feld"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_54",
+      "read_index": "7",
+      "source_jp": "ソウルエクスプロージョン",
+      "source_en": "Soul Explosion",
+      "text": "Seelenexplosion"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_55",
+      "read_index": "8",
+      "source_jp": "ソリッドライザー",
+      "source_en": "Solid Riser",
+      "text": "Standfeld"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_133",
+      "read_index": "12",
+      "source_jp": "ソラースライザー",
+      "source_en": "Solace Riser",
+      "text": "Feld der Genesung"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_134",
+      "read_index": "13",
+      "source_jp": "ブラストアディション",
+      "source_en": "Blast Addition",
+      "text": "Magiegeschütz"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_166",
+      "read_index": "14",
+      "source_jp": "ソラースライザー 剛",
+      "source_en": "Solace Riser (P)",
+      "text": "Feld der Genesung (Kraft)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_167",
+      "read_index": "15",
+      "source_jp": "ソラースライザー 技",
+      "source_en": "Solace Riser (T)",
+      "text": "Feld der Genesung (Technik)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_168",
+      "read_index": "16",
+      "source_jp": "セラフィムフラップ 剛",
+      "source_en": "Seraphim Flap (P)",
+      "text": "Seraphenschwarm (Kraft)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_169",
+      "read_index": "17",
+      "source_jp": "セラフィムフラップ 技",
+      "source_en": "Seraphim Flap (T)",
+      "text": "Seraphenschwarm (Technik)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_217",
+      "read_index": "19",
+      "source_jp": "キュアスポット 技",
+      "source_en": "Curing Spot (T)",
+      "text": "Läuterungsfeld (Technik)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_218",
+      "read_index": "18",
+      "source_jp": "キュアスポット 剛",
+      "source_en": "Curing Spot (P)",
+      "text": "Läuterungsfeld (Kraft)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_219",
+      "read_index": "20",
+      "source_jp": "ディフェンスライザー 剛",
+      "source_en": "Defense Riser (P)",
+      "text": "Schutzfeld (Kraft)"
+    },
+    {
+      "key": "CUSTOM_SKILL_NAME_04_220",
+      "read_index": "21",
+      "source_jp": "ディフェンスライザー 技",
+      "source_en": "Defense Riser (T)",
+      "text": "Schutzfeld (Technik)"
+    }
+  ]
+}

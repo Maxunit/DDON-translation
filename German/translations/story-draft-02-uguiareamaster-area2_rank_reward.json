@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\master\\area2_rank_reward.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "AREA_RANK_REWARD_22",
+      "read_index": "0",
+      "source_jp": "支援品の配給",
+      "source_en": "Distribution of support goods",
+      "text": "Versorgungsgüter verfügbar"
+    },
+    {
+      "key": "AREA_RANK_REWARD_23",
+      "read_index": "1",
+      "source_jp": "《隠れ浜》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [Hidden Beach]",
+      "text": "Starker Gegner am Versteckten Strand"
+    },
+    {
+      "key": "AREA_RANK_REWARD_24",
+      "read_index": "2",
+      "source_jp": "《鳥寄せ岩》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [Birdcall Rock]",
+      "text": "Starker Gegner am Vogellockfelsen"
+    },
+    {
+      "key": "AREA_RANK_REWARD_25",
+      "read_index": "3",
+      "source_jp": "封鎖エリア《海辺の地下室》開放",
+      "source_en": "Unblock area [Seaside Cellar]",
+      "text": "Keller am Meer zugänglich"
+    }
+  ]
+}

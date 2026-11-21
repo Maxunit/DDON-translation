@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 5.2 – Breya-Küste, Arche und das Mädchen im Wald",
+  "gmd_path": "ui\\00_message\\quest_info\\q40000077_00.gmd",
+  "arc_path": "\\quest\\q40000077.arc",
+  "entries": [
+    {
+      "key": "q40000077_00_77",
+      "read_index": "0",
+      "source_jp": "ブリア名産品の入手依頼",
+      "source_en": "Breya Materials Request",
+      "text": "Spezialitäten aus Breya"
+    },
+    {
+      "key": "q40000077_00_77",
+      "read_index": "1",
+      "source_jp": "行商をやってる者だが、ブリア海岸ではなかなか良質の<LQIM>が採れるのだ\r\n他方からも問い合わせが多くて品薄になっている\r\n<LQVA>個ほど納品してくれれば、相応の対価を支払おう",
+      "source_en": "I'm a traveling merchant, and we get high-quality\r\n<LQIM> at Breya Coast. \r\nHowever, due to high demand from elsewhere,\r\nit's running low. If you can deliver <LQVA> pieces,\r\nI'm offering a fair reward.",
+      "text": "Ich bin Händler. An der Breya-Küste\r\nfindet man ausgezeichnete Ware.\r\n<LQIM>\r\nDie Nachfrage ist so groß, dass kaum\r\netwas übrig ist. Für <LQVA> Stück zahle ich gut."
+    }
+  ]
+}
