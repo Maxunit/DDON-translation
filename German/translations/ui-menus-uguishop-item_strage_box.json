@@ -1,0 +1,674 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\item_strage_box.gmd",
+  "arc_path": "\\ui\\uGUIShop.arc",
+  "entries": [
+    {
+      "key": "title_item",
+      "read_index": "0",
+      "source_jp": "所持アイテム",
+      "source_en": "Possessed Items",
+      "text": "Im Besitz"
+    },
+    {
+      "key": "title_item_strage",
+      "read_index": "1",
+      "source_jp": "キーアイテム",
+      "source_en": "Key Items",
+      "text": "Schlüsselgegenstände"
+    },
+    {
+      "key": "option_disposal",
+      "read_index": "2",
+      "source_jp": "捨てる",
+      "source_en": "Discard",
+      "text": "Wegwerfen"
+    },
+    {
+      "key": "option_use",
+      "read_index": "3",
+      "source_jp": "使う",
+      "source_en": "Use",
+      "text": "Benutzen"
+    },
+    {
+      "key": "option_hold",
+      "read_index": "4",
+      "source_jp": "持つ",
+      "source_en": "Hold",
+      "text": "In die Hand nehmen"
+    },
+    {
+      "key": "option_sheathe",
+      "read_index": "5",
+      "source_jp": "しまう",
+      "source_en": "Stash",
+      "text": "Verstauen"
+    },
+    {
+      "key": "heading_howmany_disposal",
+      "read_index": "6",
+      "source_jp": "いくつ捨てますか？",
+      "source_en": "How many to discard?",
+      "text": "Wie viele möchtest du wegwerfen?"
+    },
+    {
+      "key": "option_equip",
+      "read_index": "7",
+      "source_jp": "装備",
+      "source_en": "Equip",
+      "text": "Anlegen"
+    },
+    {
+      "key": "title_fee",
+      "read_index": "9",
+      "source_jp": "報酬ボックス",
+      "source_en": "Reward Box",
+      "text": "Belohnungsfach"
+    },
+    {
+      "key": "title_strage",
+      "read_index": "10",
+      "source_jp": "保管ボックス",
+      "source_en": "Storage Box",
+      "text": "Lager"
+    },
+    {
+      "key": "option_move",
+      "read_index": "11",
+      "source_jp": "移動",
+      "source_en": "Move",
+      "text": "Verschieben"
+    },
+    {
+      "key": "submenu_sort_name",
+      "read_index": "12",
+      "source_jp": "せいとん（名前順）",
+      "source_en": "Sort (Name)",
+      "text": "Nach Name"
+    },
+    {
+      "key": "submenu_sort_better",
+      "read_index": "13",
+      "source_jp": "せいとん",
+      "source_en": "Sort",
+      "text": "Sortieren"
+    },
+    {
+      "key": "submenu_sort_buy_ascending",
+      "read_index": "14",
+      "source_jp": "せいとん（装備優先）",
+      "source_en": "Sort (Equipment)",
+      "text": "Ausrüstung zuerst"
+    },
+    {
+      "key": "submenu_sort_buy_descending",
+      "read_index": "15",
+      "source_jp": "せいとん（素材優先）",
+      "source_en": "Sort (Materials)",
+      "text": "Material zuerst"
+    },
+    {
+      "key": "submenu_buy",
+      "read_index": "16",
+      "source_jp": "売却",
+      "source_en": "Sell",
+      "text": "Verkaufen"
+    },
+    {
+      "key": "submenu_select_all",
+      "read_index": "17",
+      "source_jp": "全て選択",
+      "source_en": "Select All",
+      "text": "Alle auswählen"
+    },
+    {
+      "key": "submenu_release_all",
+      "read_index": "18",
+      "source_jp": "選択全解除",
+      "source_en": "Release All",
+      "text": "Auswahl aufheben"
+    },
+    {
+      "key": "item_title_item_jp",
+      "read_index": "20",
+      "source_jp": "アイテムバッグ",
+      "source_en": "Item Bag",
+      "text": "Tasche"
+    },
+    {
+      "key": "option_send_bag",
+      "read_index": "23",
+      "source_jp": "アイテムバッグに送る",
+      "source_en": "Send to Item Bag",
+      "text": "In die Tasche"
+    },
+    {
+      "key": "option_send_box",
+      "read_index": "24",
+      "source_jp": "保管ボックスに送る",
+      "source_en": "Send to Storage Box",
+      "text": "Ins Lager"
+    },
+    {
+      "key": "option_send_exbox",
+      "read_index": "25",
+      "source_jp": "拡張枠に送る",
+      "source_en": "Send to Expanded",
+      "text": "Ins Zusatzfach"
+    },
+    {
+      "key": "option_send_num_specified",
+      "read_index": "26",
+      "source_jp": "（個数指定）",
+      "source_en": "(Amount)",
+      "text": "(Menge)"
+    },
+    {
+      "key": "option_drag",
+      "read_index": "27",
+      "source_jp": "つかむ",
+      "source_en": "Grab",
+      "text": "Greifen"
+    },
+    {
+      "key": "item_msg_pop_put",
+      "read_index": "28",
+      "source_jp": "置く",
+      "source_en": "Put",
+      "text": "Ablegen"
+    },
+    {
+      "key": "item_msg_pop_switch",
+      "read_index": "29",
+      "source_jp": "タブ切り替え",
+      "source_en": "Tab Switch",
+      "text": "Reiter wechseln"
+    },
+    {
+      "key": "item_msg_pop_sum",
+      "read_index": "30",
+      "source_jp": "合算",
+      "source_en": "Sum",
+      "text": "Zusammenlegen"
+    },
+    {
+      "key": "item_msg_pop_exchange",
+      "read_index": "31",
+      "source_jp": "交換",
+      "source_en": "Swap",
+      "text": "Tauschen"
+    },
+    {
+      "key": "item_msg_pop_unexchangeable",
+      "read_index": "32",
+      "source_jp": "交換不可",
+      "source_en": "Cannot be swapped",
+      "text": "Tausch nicht möglich"
+    },
+    {
+      "key": "item_msg_pop_move",
+      "read_index": "33",
+      "source_jp": "移動",
+      "source_en": "Move",
+      "text": "Verschieben"
+    },
+    {
+      "key": "item_title_sell_en",
+      "read_index": "35",
+      "source_jp": "Sell",
+      "source_en": "Sell",
+      "text": "Verkaufen"
+    },
+    {
+      "key": "item_msg_guid_tostorage",
+      "read_index": "37",
+      "source_jp": "保管ボックスに移動",
+      "source_en": "Go to Storage Box",
+      "text": "Zum Lager"
+    },
+    {
+      "key": "item_btnguide_buy",
+      "read_index": "38",
+      "source_jp": "アイテムを買う",
+      "source_en": "Buy",
+      "text": "Kaufen"
+    },
+    {
+      "key": "item_btnguide_multichoice",
+      "read_index": "39",
+      "source_jp": "複数選択",
+      "source_en": "Select Multiple",
+      "text": "Mehrfachauswahl"
+    },
+    {
+      "key": "item_conf_disposal",
+      "read_index": "40",
+      "source_jp": "以下のアイテムを破棄します。よろしいですか？",
+      "source_en": "Are you sure you want to\r\ndiscard the following?",
+      "text": "Diese Gegenstände wegwerfen?"
+    },
+    {
+      "key": "item_conf_buy",
+      "read_index": "41",
+      "source_jp": "以下のアイテムを売却します。よろしいですか？\r\n　売却価格：<VAL GOLD>",
+      "source_en": "Are you sure you want to sell the following?\r\nSell Price: <VAL GOLD>",
+      "text": "Diese Gegenstände verkaufen?\r\nVerkaufspreis: <VAL GOLD>"
+    },
+    {
+      "key": "option_send_depositbox",
+      "read_index": "44",
+      "source_jp": "格納チェストに送る",
+      "source_en": "Send to Storage Chest",
+      "text": "In die Lagerkiste"
+    },
+    {
+      "key": "item_msg_guid_todeposit",
+      "read_index": "45",
+      "source_jp": "格納チェストに移動",
+      "source_en": "Go to Storage Chest",
+      "text": "Zur Lagerkiste"
+    },
+    {
+      "key": "item_btnguide_select_all",
+      "read_index": "46",
+      "source_jp": "全選択",
+      "source_en": "Select All",
+      "text": "Alle auswählen"
+    },
+    {
+      "key": "item_btnguide_select_all_cancel",
+      "read_index": "47",
+      "source_jp": "全選択解除",
+      "source_en": "Deselect All",
+      "text": "Auswahl aufheben"
+    },
+    {
+      "key": "submenu_jump_onlineshop",
+      "read_index": "48",
+      "source_jp": "オンラインショップを開く",
+      "source_en": "Open online shop",
+      "text": "Online-Shop öffnen"
+    },
+    {
+      "key": "item_conf_jump_onlineshop",
+      "read_index": "49",
+      "source_jp": "オンラインショップを開きます\r\nよろしいですか？",
+      "source_en": "Are you sure you want to\r\nopen the Online Shop?",
+      "text": "Online-Shop öffnen?"
+    },
+    {
+      "key": "option_send_leftbox",
+      "read_index": "54",
+      "source_jp": "左のボックスに送る",
+      "source_en": "Send to Left Box",
+      "text": "Ins linke Fach"
+    },
+    {
+      "key": "option_send_rightbox",
+      "read_index": "55",
+      "source_jp": "右のボックスに送る",
+      "source_en": "Send to Right Box",
+      "text": "Ins rechte Fach"
+    },
+    {
+      "key": "item_msg_guid_toleftbox",
+      "read_index": "56",
+      "source_jp": "左のボックスに移動",
+      "source_en": "Move to Left Box",
+      "text": "Zum linken Fach"
+    },
+    {
+      "key": "item_msg_guid_torightbox",
+      "read_index": "57",
+      "source_jp": "右のボックスに移動",
+      "source_en": "Move to Right Box",
+      "text": "Zum rechten Fach"
+    },
+    {
+      "key": "pulldown_itembag_1",
+      "read_index": "58",
+      "source_jp": "<COL EBF1DE>アイテムバッグ（消費）</COL>",
+      "source_en": "<COL EBF1DE>Item Bag (Consumable)</COL>",
+      "text": "<COL EBF1DE>Tasche (Verbrauch)</COL>"
+    },
+    {
+      "key": "pulldown_itembag_2",
+      "read_index": "59",
+      "source_jp": "<COL EBF1DE>アイテムバッグ（素材）</COL>",
+      "source_en": "<COL EBF1DE>Item Bag (Material)</COL>",
+      "text": "<COL EBF1DE>Tasche (Material)</COL>"
+    },
+    {
+      "key": "pulldown_itembag_3",
+      "read_index": "60",
+      "source_jp": "<COL EBF1DE>アイテムバッグ（装備）</COL>",
+      "source_en": "<COL EBF1DE>Item Bag (Equipment)</COL>",
+      "text": "<COL EBF1DE>Tasche (Ausrüstung)</COL>"
+    },
+    {
+      "key": "pulldown_itembag_4",
+      "read_index": "61",
+      "source_jp": "<COL EBF1DE>アイテムバッグ（ジョブ専用）</COL>",
+      "source_en": "<COL EBF1DE>Item Bag (Job)</COL>",
+      "text": "<COL EBF1DE>Tasche (Klasse)</COL>"
+    },
+    {
+      "key": "pulldown_storage_normal_1",
+      "read_index": "62",
+      "source_jp": "<COL F2DCDB>保管ボックス（通常枠）</COL>",
+      "source_en": "<COL F2DCDB>Storage Box (Normal)</COL>",
+      "text": "<COL F2DCDB>Lager (normal)</COL>"
+    },
+    {
+      "key": "pulldown_storage_ex_1",
+      "read_index": "63",
+      "source_jp": "<COL F2DCDB>保管ボックス（拡張枠）</COL>",
+      "source_en": "<COL F2DCDB>Storage Box (Expanded)</COL>",
+      "text": "<COL F2DCDB>Lager (erweitert)</COL>"
+    },
+    {
+      "key": "pulldown_deposit_normal_1",
+      "read_index": "64",
+      "source_jp": "<COL DAEEF3>格納チェスト（通常枠）</COL>",
+      "source_en": "<COL DAEEF3>Storage Chest (Normal)</COL>",
+      "text": "<COL DAEEF3>Lagerkiste (normal)</COL>"
+    },
+    {
+      "key": "pulldown_deposit_ex_1",
+      "read_index": "65",
+      "source_jp": "<COL DAEEF3>格納チェスト（拡張枠）</COL>",
+      "source_en": "<COL DAEEF3>Storage Chest (Expanded)</COL>",
+      "text": "<COL DAEEF3>Lagerkiste (erweitert)</COL>"
+    },
+    {
+      "key": "pulldown_itempost",
+      "read_index": "66",
+      "source_jp": "<COL FDE9D9>アイテムポスト</COL>",
+      "source_en": "<COL FDE9D9>Item Post</COL>",
+      "text": "<COL FDE9D9>Gegenstandspost</COL>"
+    },
+    {
+      "key": "option_send_targeting",
+      "read_index": "67",
+      "source_jp": "ボックス指定",
+      "source_en": "Send to Specified",
+      "text": "Fach wählen"
+    },
+    {
+      "key": "option_targeting_itembag_1",
+      "read_index": "68",
+      "source_jp": "アイテムバッグ（消費）",
+      "source_en": "Item Bag (Consumable)",
+      "text": "Tasche (Verbrauch)"
+    },
+    {
+      "key": "option_targeting_itembag_2",
+      "read_index": "69",
+      "source_jp": "アイテムバッグ（素材）",
+      "source_en": "Item Bag (Material)",
+      "text": "Tasche (Material)"
+    },
+    {
+      "key": "option_targeting_itembag_3",
+      "read_index": "70",
+      "source_jp": "アイテムバッグ（装備）",
+      "source_en": "Item Bag (Equipment)",
+      "text": "Tasche (Ausrüstung)"
+    },
+    {
+      "key": "option_targeting_itembag_4",
+      "read_index": "71",
+      "source_jp": "アイテムバッグ（ジョブ専用）",
+      "source_en": "Item Bag (Job)",
+      "text": "Tasche (Klasse)"
+    },
+    {
+      "key": "option_targeting_storage_normal_1",
+      "read_index": "72",
+      "source_jp": "保管ボックス（通常枠）",
+      "source_en": "Storage Box (Normal)",
+      "text": "Lager (normal)"
+    },
+    {
+      "key": "option_targeting_storage_ex_1",
+      "read_index": "73",
+      "source_jp": "保管ボックス（拡張枠）",
+      "source_en": "Storage Box (Expanded)",
+      "text": "Lager (erweitert)"
+    },
+    {
+      "key": "option_targeting_deposit_normal_1",
+      "read_index": "74",
+      "source_jp": "格納チェスト（通常枠）",
+      "source_en": "Storage Chest (Normal)",
+      "text": "Lagerkiste (normal)"
+    },
+    {
+      "key": "option_targeting_deposit_ex_1",
+      "read_index": "75",
+      "source_jp": "格納チェスト（拡張枠）",
+      "source_en": "Storage Chest (Expanded)",
+      "text": "Lagerkiste (erweitert)"
+    },
+    {
+      "key": "option_targeting_itempost",
+      "read_index": "76",
+      "source_jp": "アイテムポスト",
+      "source_en": "Item Post",
+      "text": "Gegenstandspost"
+    },
+    {
+      "key": "option_targeting_itembag_0",
+      "read_index": "77",
+      "source_jp": "アイテムバッグ",
+      "source_en": "Item Bag",
+      "text": "Tasche"
+    },
+    {
+      "key": "title_allbox_e",
+      "read_index": "78",
+      "source_jp": "All Box",
+      "source_en": "All Boxes",
+      "text": "Alle Fächer"
+    },
+    {
+      "key": "title_allbox_j",
+      "read_index": "79",
+      "source_jp": "全てのボックス",
+      "source_en": "All Boxes",
+      "text": "Alle Fächer"
+    },
+    {
+      "key": "title_fertilizer_j",
+      "read_index": "81",
+      "source_jp": "肥料",
+      "source_en": "Fertilizer",
+      "text": "Dünger"
+    },
+    {
+      "key": "title_fertilizer_message_0",
+      "read_index": "82",
+      "source_jp": "肥料は最大２０個まで自由に選んでください\r\n(装備を肥料にすると付加情報は破棄されます)",
+      "source_en": "Please freely choose up to 20 x Pieces of\r\nfertilizer\r\n(If you convert equipment into fertilizer,\r\nadditional information will be discarded)",
+      "text": "Wähle bis zu 20 Gegenstände als Dünger.\r\nZusatzwerte von Ausrüstung gehen dabei verloren."
+    },
+    {
+      "key": "title_fertilizer_message_1",
+      "read_index": "83",
+      "source_jp": "肥料に選んだアイテムは以下の通りです\r\n(装備を肥料にすると付加情報は破棄されます)",
+      "source_en": "The selected item for fertilizer is as follows:\r\n(Equipping the item as fertilizer will discard\r\nadditional information)",
+      "text": "Diese Gegenstände als Dünger verwenden?\r\nZusatzwerte von Ausrüstung gehen dabei verloren."
+    },
+    {
+      "key": "option_send_allbox",
+      "read_index": "84",
+      "source_jp": "元に戻す",
+      "source_en": "Undo",
+      "text": "Rückgängig"
+    },
+    {
+      "key": "option_send_fertilizer_0",
+      "read_index": "85",
+      "source_jp": "肥料に送る",
+      "source_en": "Send to fertilizer",
+      "text": "Als Dünger verwenden"
+    },
+    {
+      "key": "option_send_fertilizer_1",
+      "read_index": "86",
+      "source_jp": "肥料に送る（一個ずつ）",
+      "source_en": "Send to the fertilizer (one piece at a time)",
+      "text": "Einzeln als Dünger verwenden"
+    },
+    {
+      "key": "item_msg_guid_toallbox",
+      "read_index": "87",
+      "source_jp": "全てのボックスに移動",
+      "source_en": "Move to All Boxes",
+      "text": "Zu allen Fächern"
+    },
+    {
+      "key": "item_msg_guid_tofertilizer",
+      "read_index": "88",
+      "source_jp": "肥料に移動",
+      "source_en": "Move to Fertilizer",
+      "text": "Zum Dünger"
+    },
+    {
+      "key": "item_msg_pop_ng_sameitem",
+      "read_index": "89",
+      "source_jp": "同じアイテムは送れません（元に戻します）",
+      "source_en": "You cannot send the same Item (will return it)",
+      "text": "Gleiche Gegenstände lassen sich nicht senden.\r\nDer Gegenstand geht zurück."
+    },
+    {
+      "key": "pulldown_deposit_ex_0",
+      "read_index": "90",
+      "source_jp": "<COL DAEEF3>格納チェスト引出し%s</COL>",
+      "source_en": "<COL DAEEF3>Storage Box Drawer %s</COL>",
+      "text": "<COL DAEEF3>Lagerkistenfach %s</COL>"
+    },
+    {
+      "key": "option_targeting_deposit_ex_0",
+      "read_index": "91",
+      "source_jp": "格納チェスト引出し",
+      "source_en": "Storage Box Drawer",
+      "text": "Lagerkistenfach"
+    },
+    {
+      "key": "option_send_itemlockset",
+      "read_index": "92",
+      "source_jp": "セーフティ設定",
+      "source_en": "Safety Setting",
+      "text": "Gegenstandsschutz"
+    },
+    {
+      "key": "item_conf_itemlockset",
+      "read_index": "93",
+      "source_jp": "<COL ffdc78>セーフティ設定</COL>には、以下の機能があります\r\n・アイテムバッグからの<COL ffdc78>「捨てる」</COL>を防止\r\n・ショップや保管ボックス等からの<COL ffdc78>「売却」</COL>を防止\r\n・装備が消えてしまう場合の<COL ffdc78>「ポーンの削除」</COL>を防止",
+      "source_en": "<COL ffdc78>Safety Settings</COL> include the following features:\r\nPrevent <COL ffdc78>\"Discard\"</COL> from the item bag\r\nPrevent <COL ffdc78>\"Sell\"</COL> from shops or storage boxes\r\nPrevent <COL ffdc78>\"Pawn Deletion\"</COL> when equipment could be lost",
+      "text": "Der <COL ffdc78>Gegenstandsschutz</COL> verhindert:\r\n• <COL ffdc78>Wegwerfen</COL> aus der Tasche\r\n• <COL ffdc78>Verkaufen</COL> aus Shop oder Lager\r\n• <COL ffdc78>Vasallen löschen</COL> bei Ausrüstungsverlust"
+    },
+    {
+      "key": "item_conf_itemlockset_on",
+      "read_index": "94",
+      "source_jp": "設定する",
+      "source_en": "Enable",
+      "text": "Schützen"
+    },
+    {
+      "key": "item_conf_itemlockset_off",
+      "read_index": "95",
+      "source_jp": "設定を解除する",
+      "source_en": "Disable",
+      "text": "Schutz aufheben"
+    },
+    {
+      "key": "item_conf_itemlockset_ng01",
+      "read_index": "96",
+      "source_jp": "設定を解除するには、個別にアイテムを選択してください",
+      "source_en": "To cancel the settings, please select each item\r\nindividually.",
+      "text": "Wähle Gegenstände einzeln aus,\r\num den Schutz aufzuheben."
+    },
+    {
+      "key": "item_conf_itemlockset_ng02",
+      "read_index": "97",
+      "source_jp": "選択中のアイテムは、すでに設定されています",
+      "source_en": "The selected item has already been selected.",
+      "text": "Dieser Gegenstand ist bereits geschützt."
+    },
+    {
+      "key": "item_conf_itemlockset_ng03",
+      "read_index": "98",
+      "source_jp": "選択中のアイテムは、すでに設定解除されています",
+      "source_en": "The selected item has already been deselected.",
+      "text": "Dieser Gegenstand ist bereits freigegeben."
+    },
+    {
+      "key": "bbi_embody_sub_01",
+      "read_index": "99",
+      "source_jp": "<UNTN GDM>を使って持ち帰り",
+      "source_en": "Takeaway with <UNTN GDM>",
+      "text": "Mit <UNTN GDM> mitnehmen"
+    },
+    {
+      "key": "bbi_embody_sub_02",
+      "read_index": "100",
+      "source_jp": "<UNTN GS>を使って持ち帰り",
+      "source_en": "Takeaway with <UNTN GS>",
+      "text": "Mit <UNTN GS> mitnehmen"
+    },
+    {
+      "key": "bbi_embody_sub_03",
+      "read_index": "101",
+      "source_jp": "同じアイテムの所持確認",
+      "source_en": "Confirm Same Item Possession",
+      "text": "Bestand gleicher Gegenstände prüfen"
+    },
+    {
+      "key": "bbi_embody_conf_01",
+      "read_index": "102",
+      "source_jp": "以下のアイテムを<COL ffdc78><UNTN GDM> <VAL GDM></COL>を使用して\r\nレスタニアの<COL ffdc78><VAL></COL>に持ち帰ります\r\nよろしいですか？",
+      "source_en": "Use <COL ffdc78><VAL GDM> pieces of <UNTN GDM></COL>\r\nto transport these items to\r\nyour <COL ffdc78><VAL></COL> in Lestania.\r\nProceed?",
+      "text": "Mit <COL ffdc78><VAL GDM> <UNTN GDM></COL> kannst du die\r\nGegenstände nach Lestania bringen.\r\nZiel: <COL ffdc78><VAL></COL>\r\nFortfahren?"
+    },
+    {
+      "key": "bbi_embody_conf_02",
+      "read_index": "103",
+      "source_jp": "以下のアイテムを<COL ffdc78><UNTN GS> <VAL GS></COL>を使用して\r\nレスタニアの<COL ffdc78><VAL></COL>に持ち帰ります\r\nよろしいですか？",
+      "source_en": "Use <COL ffdc78><VAL GDM> pieces of <UNTN GDM></COL>\r\nto transport these items to\r\nyour <COL ffdc78><VAL></COL> in Lestania.\r\nProceed?",
+      "text": "Mit <COL ffdc78><UNTN GS> <VAL GS></COL> kannst du die\r\nGegenstände nach Lestania bringen.\r\nZiel: <COL ffdc78><VAL></COL>\r\nFortfahren?",
+      "tag_source": "source_jp"
+    },
+    {
+      "key": "bbi_embody_conf_done",
+      "read_index": "104",
+      "source_jp": "アイテムを持ち帰りました",
+      "source_en": "I brought back the item",
+      "text": "Gegenstände mitgenommen."
+    },
+    {
+      "key": "pulldown_equip_pl",
+      "read_index": "105",
+      "source_jp": "<COL DDD9C4>装備中のアイテム</COL>",
+      "source_en": "<COL DDD9C4>Equipped Items</COL>",
+      "text": "<COL DDD9C4>Angelegte Ausrüstung</COL>"
+    },
+    {
+      "key": "option_targeting_equip_pl",
+      "read_index": "106",
+      "source_jp": "装備中のアイテム",
+      "source_en": "Equipped Items",
+      "text": "Angelegte Ausrüstung"
+    },
+    {
+      "key": "bbi_embody_conf_03",
+      "read_index": "107",
+      "source_jp": "黄金石が不足しています\r\n（必要数：<VAL>）\r\n（所持数：<VAL>）",
+      "source_en": "You are running out of Golden Gemstones\r\n(Number in possession: <VAL>)",
+      "text": "Nicht genug Goldsteine.\r\nIm Besitz: <VAL>"
+    }
+  ]
+}

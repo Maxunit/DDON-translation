@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\shortcut_setting.gmd",
+  "arc_path": "\\ui\\uGUIActionPalette.arc",
+  "entries": [
+    {
+      "key": "shortcut_setting_526",
+      "read_index": "0",
+      "source_jp": "ショートカット登録",
+      "source_en": "Register Shortcut",
+      "text": "Schnellzugriff belegen"
+    },
+    {
+      "key": "shortcut_setting_527",
+      "read_index": "1",
+      "source_jp": "選択されている項目は登録可能です",
+      "source_en": "The selected item is eligible for registration.",
+      "text": "Der Gegenstand kann einem Schnellzugriff zugewiesen werden."
+    }
+  ]
+}

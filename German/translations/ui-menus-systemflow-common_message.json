@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\common_message.gmd",
+  "arc_path": "\\systemFlow.arc",
+  "entries": [
+    {
+      "key": "common_next",
+      "read_index": "0",
+      "source_jp": "次へ",
+      "source_en": "Next",
+      "text": "Weiter"
+    },
+    {
+      "key": "common_yes",
+      "read_index": "1",
+      "source_jp": "はい",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "common_no",
+      "read_index": "2",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "common_back",
+      "read_index": "5",
+      "source_jp": "戻る",
+      "source_en": "Back",
+      "text": "Zurück"
+    },
+    {
+      "key": "common_ok",
+      "read_index": "9",
+      "source_jp": "OK",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "common_level",
+      "read_index": "31",
+      "source_jp": "レベル",
+      "source_en": "Level",
+      "text": "Stufe"
+    },
+    {
+      "key": "common_select_clan_motto",
+      "read_index": "44",
+      "source_jp": "モットーを１つ以上選択してください",
+      "source_en": "Please select one or more mottos",
+      "text": "Wähle mindestens ein Motto."
+    },
+    {
+      "key": "common_select_clan_day",
+      "read_index": "45",
+      "source_jp": "活動時間帯を選択してください",
+      "source_en": "Please choose your active time zone",
+      "text": "Wähle deine aktiven Tage."
+    },
+    {
+      "key": "common_select_clan_hour",
+      "read_index": "46",
+      "source_jp": "活動時間帯を選択してください",
+      "source_en": "Please choose your active time zone",
+      "text": "Wähle deine aktiven Zeiten."
+    },
+    {
+      "key": "common_select_clan_feature",
+      "read_index": "47",
+      "source_jp": "特徴を１つ以上選択してください",
+      "source_en": "Please select one or more characteristics",
+      "text": "Wähle mindestens ein Merkmal."
+    },
+    {
+      "key": "common_guide_change_info",
+      "read_index": "49",
+      "source_jp": "情報切り替え",
+      "source_en": "Change Info",
+      "text": "Info wechseln"
+    },
+    {
+      "key": "common_guide_close",
+      "read_index": "50",
+      "source_jp": "閉じる",
+      "source_en": "Close",
+      "text": "Schließen"
+    },
+    {
+      "key": "common_guide_submenu",
+      "read_index": "51",
+      "source_jp": "サブメニュー",
+      "source_en": "Submenu",
+      "text": "Untermenü"
+    },
+    {
+      "key": "common_guide_execute",
+      "read_index": "53",
+      "source_jp": "実行",
+      "source_en": "Execute",
+      "text": "Ausführen"
+    },
+    {
+      "key": "common_guide_return",
+      "read_index": "56",
+      "source_jp": "戻る",
+      "source_en": "Back",
+      "text": "Belegen"
+    },
+    {
+      "key": "common_guide_open",
+      "read_index": "58",
+      "source_jp": "開く",
+      "source_en": "Open",
+      "text": "Öffnen"
+    },
+    {
+      "key": "common_guide_replacement",
+      "read_index": "69",
+      "source_jp": "入れ替え",
+      "source_en": "Replace",
+      "text": "Tauschen"
+    },
+    {
+      "key": "common_guide_set",
+      "read_index": "70",
+      "source_jp": "セット",
+      "source_en": "Set",
+      "text": "Schnellzugriff belegen"
+    },
+    {
+      "key": "common_guide_drag",
+      "read_index": "71",
+      "source_jp": "つかむ",
+      "source_en": "Drag",
+      "text": "Greifen"
+    },
+    {
+      "key": "common_guide_goto_itembag",
+      "read_index": "72",
+      "source_jp": "アイテムバッグに移動",
+      "source_en": "Go to Item Bag",
+      "text": "Zur Tasche"
+    },
+    {
+      "key": "common_guide_shortcut_set",
+      "read_index": "84",
+      "source_jp": "ショートカット登録",
+      "source_en": "Shortcut Bar",
+      "text": "Schnellzugriff belegen"
+    },
+    {
+      "key": "common_select_clan_motto_search",
+      "read_index": "97",
+      "source_jp": "モットーを２つまで選択してください",
+      "source_en": "Please select one or more mottos",
+      "text": "Wähle bis zu vier Mottos."
+    },
+    {
+      "key": "common_select_clan_day_search",
+      "read_index": "98",
+      "source_jp": "活動時間帯を選択してください",
+      "source_en": "Please choose your active time zone",
+      "text": "Wähle die gewünschten Tage."
+    },
+    {
+      "key": "common_select_clan_hour_search",
+      "read_index": "99",
+      "source_jp": "活動時間帯を選択してください",
+      "source_en": "Please choose your active time zone",
+      "text": "Wähle die gewünschten Zeiten."
+    },
+    {
+      "key": "common_select_clan_feature_search",
+      "read_index": "100",
+      "source_jp": "特徴を４つまで選択してください",
+      "source_en": "Please select up to four characteristics",
+      "text": "Wähle bis zu vier Merkmale."
+    },
+    {
+      "key": "common_guide_drag_mousedrag",
+      "read_index": "103",
+      "source_jp": "つかむ(ドラッグ操作)",
+      "source_en": "Drag",
+      "text": "Ziehen"
+    },
+    {
+      "key": "common_none_nasi",
+      "read_index": "129",
+      "source_jp": "なし",
+      "source_en": "None",
+      "text": "Keine"
+    }
+  ]
+}

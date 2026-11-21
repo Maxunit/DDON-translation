@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\clan_list.gmd",
+  "arc_path": "\\ui\\uGUIClanList.arc",
+  "entries": [
+    {
+      "key": "GMD_CLAN_LIST_TAB_JOIN_REQ",
+      "read_index": "0",
+      "source_jp": "加入希望者リスト",
+      "source_en": "View Applications",
+      "text": "Bewerbungen ansehen"
+    },
+    {
+      "key": "GMD_CLAN_LIST_TAB_INVITE",
+      "read_index": "1",
+      "source_jp": "招待リスト",
+      "source_en": "View Invites",
+      "text": "Einladungen ansehen"
+    },
+    {
+      "key": "GMD_CLAN_LIST_TAB_APPLY",
+      "read_index": "2",
+      "source_jp": "加入申請中リスト",
+      "source_en": "View Applications",
+      "text": "Bewerbungen ansehen"
+    },
+    {
+      "key": "GMD_CLAN_LIST_TAB_INVITED",
+      "read_index": "3",
+      "source_jp": "スカウトエントリー招待",
+      "source_en": "View Invites",
+      "text": "Einladungen ansehen"
+    },
+    {
+      "key": "GMD_CLAN_LIST_COLUMN_DATE",
+      "read_index": "8",
+      "source_jp": "日付",
+      "source_en": "Date",
+      "text": "Datum"
+    },
+    {
+      "key": "GMD_CLAN_LIST_NO_JOIN_REQ",
+      "read_index": "9",
+      "source_jp": "加入申請がありません",
+      "source_en": "There are no applicants.",
+      "text": "Keine Bewerbungen erhalten."
+    },
+    {
+      "key": "GMD_CLAN_LIST_NO_INVITE",
+      "read_index": "10",
+      "source_jp": "招待していません",
+      "source_en": "There are no invitations.",
+      "text": "Keine Einladungen vorhanden."
+    },
+    {
+      "key": "GMD_CLAN_LIST_NO_APPLY",
+      "read_index": "11",
+      "source_jp": "加入申請していません",
+      "source_en": "Not currently applying for membership.",
+      "text": "Keine laufenden Bewerbungen."
+    },
+    {
+      "key": "GMD_CLAN_LIST_NO_INVITED",
+      "read_index": "12",
+      "source_jp": "招待されていません",
+      "source_en": "Not currently invited to join.",
+      "text": "Keine Einladung erhalten."
+    },
+    {
+      "key": "GMD_CLAN_LIST_TAB_INVITED_DIRECT",
+      "read_index": "13",
+      "source_jp": "直接招待",
+      "source_en": "Direct Invite",
+      "text": "Direkte Einladung"
+    }
+  ]
+}

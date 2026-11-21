@@ -1,0 +1,324 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\equip_enhance.gmd",
+  "arc_path": "\\ui\\uGUIEquipEnhance.arc",
+  "entries": [
+    {
+      "key": "eqenhance_title",
+      "read_index": "0",
+      "source_jp": "Custom Made",
+      "source_en": "Custom-Made Arms",
+      "text": "Ausrüstung anpassen"
+    },
+    {
+      "key": "eqrecycle_title",
+      "read_index": "2",
+      "source_jp": "Resource Disassembly",
+      "source_en": "Equipment Disassembly",
+      "text": "Ausrüstung zerlegen"
+    },
+    {
+      "key": "eqenhance_weapon",
+      "read_index": "4",
+      "source_jp": "武器",
+      "source_en": "Weapons",
+      "text": "Waffen"
+    },
+    {
+      "key": "eqenhance_armor",
+      "read_index": "5",
+      "source_jp": "防具",
+      "source_en": "Armor",
+      "text": "Rüstungen"
+    },
+    {
+      "key": "eqenhance_start_evolution",
+      "read_index": "9",
+      "source_jp": "カスタム開始",
+      "source_en": "Start Custom",
+      "text": "Anpassung beginnen"
+    },
+    {
+      "key": "eqenhance_success_example",
+      "read_index": "10",
+      "source_jp": "主な成功例",
+      "source_en": "Main Success Example",
+      "text": "Typisches Ergebnis"
+    },
+    {
+      "key": "eqenhance_err_enhance_num",
+      "read_index": "11",
+      "source_jp": "この鍛え方には初回、またはリトライ限定の使用制限があります\r\n対象のアイテムには使用できません",
+      "source_en": "There is a use limit for this training method,\r\nlimited to the first time or retries. It cannot be\r\nused on the target item.",
+      "text": "Diese Methode ist nur beim ersten Versuch\r\noder bei einer Wiederholung verfügbar.\r\nFür diesen Gegenstand ist sie gesperrt."
+    },
+    {
+      "key": "eqenhance_err_not_enough_money",
+      "read_index": "12",
+      "source_jp": "費用が不足しています",
+      "source_en": "Insufficient expenses",
+      "text": "Nicht genug Geld"
+    },
+    {
+      "key": "eqenhance_err_not_enough_item",
+      "read_index": "13",
+      "source_jp": "必要アイテムが不足しています",
+      "source_en": "Required items are missing.",
+      "text": "Benötigte Gegenstände fehlen."
+    },
+    {
+      "key": "eqenhance_header_pack_list",
+      "read_index": "14",
+      "source_jp": "リスト",
+      "source_en": "List",
+      "text": "Liste"
+    },
+    {
+      "key": "eqenhance_header_pack_detail",
+      "read_index": "15",
+      "source_jp": "付与されるステータスは、以下の中から抽選されます",
+      "source_en": "Status added will be selected from the following:",
+      "text": "Mögliche Zusatzwerte"
+    },
+    {
+      "key": "eqenhance_retry_only",
+      "read_index": "19",
+      "source_jp": "リトライ限定",
+      "source_en": "Retry only",
+      "text": "Nur bei Wiederholung"
+    },
+    {
+      "key": "eqenhance_first_only",
+      "read_index": "20",
+      "source_jp": "初回限定",
+      "source_en": "First Time Only",
+      "text": "Nur beim ersten Versuch"
+    },
+    {
+      "key": "eqenhance_order_pack_type",
+      "read_index": "21",
+      "source_jp": "鍛え方",
+      "source_en": "Forging Type",
+      "text": "Schmiedemethode"
+    },
+    {
+      "key": "eqenhance_check_detail",
+      "read_index": "22",
+      "source_jp": "詳細を確認する",
+      "source_en": "View Details",
+      "text": "Details ansehen"
+    },
+    {
+      "key": "eqenhance_confirm_overwrite",
+      "read_index": "23",
+      "source_jp": "すでにステータスが付与されています\r\n上書きして新たにカスタムしてもよろしいですか？",
+      "source_en": "Status has already been assigned.\r\nWould you like to overwrite it and add a new\r\ncustom one?",
+      "text": "Es gibt bereits einen Zusatzwert.\r\nDurch einen neuen ersetzen?"
+    },
+    {
+      "key": "eqenhance_confirm_not_have_pre_weapon",
+      "read_index": "24",
+      "source_jp": "<COL ffdc78>解放条件アイテム</COL>を所持していないため\r\n<COL AA1414>【Special Bonus】のステータスは付与されません</COL>\r\nこのままカスタム開始してもよろしいですか？",
+      "source_en": "You do not have the <COL ffdc78>Unlock Conditions\r\nItem</COL>, so you will not receive the <COL AA1414>\r\nSpecial Bonus</COL>.\r\nIs it okay to start customization like this?",
+      "text": "Dir fehlt der <COL ffdc78>Freischaltgegenstand</COL>.\r\nDer <COL AA1414>Spezialbonus</COL> entfällt.\r\nTrotzdem beginnen?"
+    },
+    {
+      "key": "eqenhance_confirm_enhance",
+      "read_index": "25",
+      "source_jp": "カスタム開始します。よろしいですか？",
+      "source_en": "I will start the customization. Are you sure?",
+      "text": "Anpassung beginnen?"
+    },
+    {
+      "key": "eqenhance_success",
+      "read_index": "26",
+      "source_jp": "成功",
+      "source_en": "Success",
+      "text": "Erfolg"
+    },
+    {
+      "key": "eqrecycle_err_no_recycle_count",
+      "read_index": "27",
+      "source_jp": "残り回数がありません",
+      "source_en": "Insufficient times remaining",
+      "text": "Keine Versuche mehr übrig"
+    },
+    {
+      "key": "eqrecycle_err_cant_use_reset",
+      "read_index": "28",
+      "source_jp": "今は使用できません",
+      "source_en": "You cannot use this right now",
+      "text": "Derzeit nicht verfügbar"
+    },
+    {
+      "key": "eqrecycle_confirm_recycle",
+      "read_index": "29",
+      "source_jp": "<NAME ITEM>の分解を開始します\r\n分解を行うことで下記の恩恵を得られます\r\n受け取り先を選択してください",
+      "source_en": "Beginning disassembly of\r\n<NAME ITEM>.\r\nPlease select destination. \r\nThe following rewards will be granted:",
+      "text": "<NAME ITEM> zerlegen?\r\nDiese Belohnungen warten auf dich.\r\nWähle, wohin sie gehen sollen."
+    },
+    {
+      "key": "eqrecycle_lot_item",
+      "read_index": "30",
+      "source_jp": "抽選アイテムあり（%d個）",
+      "source_en": "Lottery items available (%d)",
+      "text": "Mögliche Zufallsgegenstände (%d)"
+    },
+    {
+      "key": "eqrecycle_err_not_enough_empty",
+      "read_index": "31",
+      "source_jp": "アイテムが受け取れない可能性があります\r\nアイテム枠を十分に空けてください",
+      "source_en": "There is a possibility you may not receive the\r\nitem. Please make sure there is enough space in\r\nyour inventory.",
+      "text": "Vielleicht reicht der Platz für die Belohnung nicht.\r\nPrüfe den freien Platz in der Tasche."
+    },
+    {
+      "key": "eqrecycle_receive_item_title",
+      "read_index": "32",
+      "source_jp": "以下のアイテムを獲得しました",
+      "source_en": "You have obtained the following items",
+      "text": "Diese Gegenstände erhalten"
+    },
+    {
+      "key": "eqrecycle_confirm_sell",
+      "read_index": "33",
+      "source_jp": "以下の内容で売却します。よろしいですか？\r\nアイテム：<NAME ITEM>\r\n合計個数：<VAL>個\r\n売却価格：<VAL GOLD>",
+      "source_en": "Are you sure you want to sell the following?\r\nItem: <NAME ITEM>\r\nTotal quantity: <VAL> pieces\r\nSelling price: <VAL GOLD>",
+      "text": "Diesen Gegenstand verkaufen?\r\nGegenstand: <NAME ITEM>\r\nMenge: <VAL>\r\nErlös: <VAL GOLD>"
+    },
+    {
+      "key": "eqrecycle_recycle_count_over",
+      "read_index": "34",
+      "source_jp": "本日の分解はこれで終了です\r\n次回のリセット時間までお待ちいただくか\r\n<UNTN GS>で、直ちに残り回数をリセットできます\r\n（リセット時間はプレイマニュアルをご覧ください）",
+      "source_en": "Today's disassembly is now complete.\r\nYou can reset the remaining times immediately by\r\nwaiting until the next reset time or by using\r\n<UNTN GS>\r\n(see the play manual for reset times)",
+      "text": "Für heute sind alle Versuche verbraucht.\r\nWarte auf die nächste Auffüllung oder benutze <UNTN GS>.\r\nDie Zeiten findest du in der Spielanleitung."
+    },
+    {
+      "key": "eqrecycle_confirm_reset",
+      "read_index": "35",
+      "source_jp": "<COL ffdc78><UNTN GS><VAL GS></COL>で残り回数をリセットします\r\nよろしいですか？",
+      "source_en": "Shall I reset the remaining number of times to\r\n<COL ffdc78><VAL GS><UNTN GS></COL>?",
+      "text": "Restliche Versuche für <COL ffdc78><VAL GS> <UNTN GS></COL>\r\nauffüllen?"
+    },
+    {
+      "key": "eqrecycle_notice_reset",
+      "read_index": "36",
+      "source_jp": "残り回数をリセットしました",
+      "source_en": "Remaining times have reset",
+      "text": "Versuche aufgefüllt."
+    },
+    {
+      "key": "eqenhance_condition",
+      "read_index": "38",
+      "source_jp": "作業条件",
+      "source_en": "Work Requirements",
+      "text": "Arbeitsbedingungen"
+    },
+    {
+      "key": "eqenhance_need_item",
+      "read_index": "39",
+      "source_jp": "必要アイテム",
+      "source_en": "Required items",
+      "text": "Benötigte Gegenstände"
+    },
+    {
+      "key": "eqenhance_sp_condition_item",
+      "read_index": "41",
+      "source_jp": "解放条件アイテム",
+      "source_en": "Unlock Conditions Item",
+      "text": "Freischaltgegenstand"
+    },
+    {
+      "key": "eqenhance_sp_condition_notice",
+      "read_index": "42",
+      "source_jp": "※解放条件アイテムは消費しません",
+      "source_en": "※ Unlock Conditions Items will not be consumed.",
+      "text": "Der Freischaltgegenstand bleibt erhalten."
+    },
+    {
+      "key": "eqenhance_sp_done",
+      "read_index": "43",
+      "source_jp": "解放済み",
+      "source_en": "Released",
+      "text": "Freigeschaltet"
+    },
+    {
+      "key": "eqenhance_omake",
+      "read_index": "44",
+      "source_jp": "特典",
+      "source_en": "Benefits",
+      "text": "Boni"
+    },
+    {
+      "key": "eqenhance_omake_notice",
+      "read_index": "45",
+      "source_jp": "この作業条件をご利用いただくと、特典として\r\n<COL ffdc78><UNTN MS> <VAL MS>をプレゼント</COL>",
+      "source_en": "By using this work method, you will receive a\r\nbonus\r\n<COL ffdc78><UNTN MS> <VAL MS></COL> as a present",
+      "text": "Bei dieser Methode erhältst du zusätzlich\r\n<COL ffdc78><UNTN MS> <VAL MS></COL>."
+    },
+    {
+      "key": "eqenhance_evolution_done",
+      "read_index": "46",
+      "source_jp": "カスタム完了しました",
+      "source_en": "Custom completed",
+      "text": "Anpassung abgeschlossen"
+    },
+    {
+      "key": "eqenhance_no_equip_notice",
+      "read_index": "47",
+      "source_jp": "カスタムできる装備がありません",
+      "source_en": "There is no equipment that can be customized",
+      "text": "Keine anpassbare Ausrüstung vorhanden."
+    },
+    {
+      "key": "eqrecycle_no_equip_notice",
+      "read_index": "48",
+      "source_jp": "分解できる装備がありません",
+      "source_en": "There is no equipment that can be disassembled",
+      "text": "Keine zerlegbare Ausrüstung vorhanden."
+    },
+    {
+      "key": "eqenhance_txtguide_01",
+      "read_index": "49",
+      "source_jp": "リミット解除する装備を選択してください",
+      "source_en": "Select equipment to limit break",
+      "text": "Wähle Ausrüstung, deren Limit du aufheben möchtest."
+    },
+    {
+      "key": "eqenhance_txtguide_02",
+      "read_index": "50",
+      "source_jp": "極限合成する装備を選択してください",
+      "source_en": "Select equipment for Ultimate Synthesis",
+      "text": "Wähle Ausrüstung für die ultimative Synthese."
+    },
+    {
+      "key": "eqenhance_txtguide_03",
+      "read_index": "51",
+      "source_jp": "鍛え方を選択してください",
+      "source_en": "Please select a forging method",
+      "text": "Wähle eine Schmiedemethode."
+    },
+    {
+      "key": "eqenhance_txtguide_04",
+      "read_index": "52",
+      "source_jp": "「<VAL>」の詳細",
+      "source_en": "\"<VAL>\" details.",
+      "text": "Details zu „<VAL>“"
+    },
+    {
+      "key": "eqrecycle_txtguide_01",
+      "read_index": "53",
+      "source_jp": "資源分解する装備を選択してください",
+      "source_en": "Please select equipment to disassemble.",
+      "text": "Wähle die Ausrüstung zum Zerlegen."
+    },
+    {
+      "key": "eqenhance_need_gs_text",
+      "read_index": "54",
+      "source_jp": "<COL ffdc78><UNTN GS> <VAL GS></COL>が必要です（所持数：<HAVE GS>）",
+      "source_en": "<COL ffdc78><UNTN GS> <UNTN GS></COL> is required\r\n(number in posession: <HAVE GS>)",
+      "text": "Benötigt: <COL ffdc78><UNTN GS> <VAL GS></COL>\r\nIm Besitz: <HAVE GS>",
+      "tag_source": "source_jp"
+    }
+  ]
+}

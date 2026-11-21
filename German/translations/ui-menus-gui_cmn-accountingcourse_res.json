@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\AccountingCourse_res.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ac_msg_OptionCourse",
+      "read_index": "0",
+      "source_jp": "パスポート・コース",
+      "source_en": "Passport Course",
+      "text": "Pässe"
+    },
+    {
+      "key": "as_msg_Course",
+      "read_index": "1",
+      "source_jp": "コース",
+      "source_en": "Course",
+      "text": "Pass"
+    }
+  ]
+}

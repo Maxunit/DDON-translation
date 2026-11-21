@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\item_select_common.gmd",
+  "arc_path": "\\ui\\uGUIItemSelectCommon.arc",
+  "entries": [
+    {
+      "key": "item_sel_mandra_title",
+      "read_index": "0",
+      "source_jp": "Mandragora Craft",
+      "source_en": "Mandragora Raising",
+      "text": "Alraunenzucht"
+    },
+    {
+      "key": "item_sel_header_makable",
+      "read_index": "2",
+      "source_jp": "作るもの",
+      "source_en": "Crafting item",
+      "text": "Produkt"
+    },
+    {
+      "key": "item_sel_empty_notice",
+      "read_index": "3",
+      "source_jp": "項目がありません",
+      "source_en": "No items available",
+      "text": "Keine Gegenstände verfügbar"
+    },
+    {
+      "key": "item_sel_err_not_enough_material",
+      "read_index": "4",
+      "source_jp": "素材が足りません",
+      "source_en": "Insufficient materials",
+      "text": "Nicht genug Material"
+    },
+    {
+      "key": "item_sel_guide_sell",
+      "read_index": "5",
+      "source_jp": "売却",
+      "source_en": "Sell",
+      "text": "Verkaufen"
+    },
+    {
+      "key": "item_sel_infdelivery_title_en",
+      "read_index": "6",
+      "source_jp": "Select Item",
+      "source_en": "Select Item(s)",
+      "text": "Gegenstände wählen"
+    },
+    {
+      "key": "item_sel_sameitem_title_en",
+      "read_index": "8",
+      "source_jp": "Same Item",
+      "source_en": "Same Item List",
+      "text": "Gleiche Gegenstände"
+    }
+  ]
+}

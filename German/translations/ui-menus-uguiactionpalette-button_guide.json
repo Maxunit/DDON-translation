@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\button_guide.gmd",
+  "arc_path": "\\ui\\uGUIActionPalette.arc",
+  "entries": [
+    {
+      "key": "button_guide_touch_catch",
+      "read_index": "0",
+      "source_jp": "つかむ",
+      "source_en": "Grab",
+      "text": "Greifen"
+    },
+    {
+      "key": "button_guide_touch_check",
+      "read_index": "1",
+      "source_jp": "調べる",
+      "source_en": "Examine",
+      "text": "Untersuchen"
+    },
+    {
+      "key": "button_guide_touch_talk",
+      "read_index": "2",
+      "source_jp": "話す",
+      "source_en": "Speak",
+      "text": "Sprechen"
+    },
+    {
+      "key": "button_guide_touch_rescue",
+      "read_index": "3",
+      "source_jp": "救済する",
+      "source_en": "Rescue",
+      "text": "Helfen"
+    },
+    {
+      "key": "button_guide_touch_restore",
+      "read_index": "4",
+      "source_jp": "復活させる",
+      "source_en": "Revive",
+      "text": "Wiederbeleben"
+    },
+    {
+      "key": "button_guide_touch_sitdown",
+      "read_index": "5",
+      "source_jp": "座る",
+      "source_en": "Sit",
+      "text": "Hinsetzen"
+    },
+    {
+      "key": "button_guide_touch_standup",
+      "read_index": "6",
+      "source_jp": "立ち上がる",
+      "source_en": "Stand",
+      "text": "Aufstehen"
+    },
+    {
+      "key": "button_guide_touch_bathin",
+      "read_index": "7",
+      "source_jp": "浸かる",
+      "source_en": "Get In Bath",
+      "text": "Ins Bad steigen"
+    },
+    {
+      "key": "button_guide_touch_bathout",
+      "read_index": "8",
+      "source_jp": "湯船から出る",
+      "source_en": "Get Out Of Bath",
+      "text": "Aus dem Bad steigen"
+    },
+    {
+      "key": "button_guide_lr_endure",
+      "read_index": "9",
+      "source_jp": "耐える",
+      "source_en": "Resist",
+      "text": "Widerstehen"
+    },
+    {
+      "key": "button_guide_circle_dismount",
+      "read_index": "10",
+      "source_jp": "下りる",
+      "source_en": "Dismount",
+      "text": "Absteigen"
+    },
+    {
+      "key": "button_guide_circle_putback",
+      "read_index": "11",
+      "source_jp": "戻す",
+      "source_en": "Put Back",
+      "text": "Zurücklegen"
+    },
+    {
+      "key": "button_guide_cross_jump",
+      "read_index": "12",
+      "source_jp": "ジャンプ",
+      "source_en": "Jump",
+      "text": "Springen"
+    },
+    {
+      "key": "button_guide_cross_qjump",
+      "read_index": "13",
+      "source_jp": "一足跳び",
+      "source_en": "Quick Jump",
+      "text": "Schnellsprung"
+    },
+    {
+      "key": "button_guide_cross_detach",
+      "read_index": "14",
+      "source_jp": "離す",
+      "source_en": "Detach",
+      "text": "Loslassen"
+    },
+    {
+      "key": "button_guide_triangle_shake",
+      "read_index": "15",
+      "source_jp": "揺さぶる",
+      "source_en": "Shake",
+      "text": "Schütteln"
+    },
+    {
+      "key": "button_guide_triangle_throw",
+      "read_index": "16",
+      "source_jp": "投げる",
+      "source_en": "Throw",
+      "text": "Werfen"
+    },
+    {
+      "key": "button_guide_square_kick",
+      "read_index": "17",
+      "source_jp": "蹴る",
+      "source_en": "Kick",
+      "text": "Treten"
+    },
+    {
+      "key": "button_guide_l1_skill",
+      "read_index": "18",
+      "source_jp": "スキル",
+      "source_en": "Skills",
+      "text": "Fertigkeiten"
+    },
+    {
+      "key": "button_guide_r1_skill",
+      "read_index": "19",
+      "source_jp": "スキル",
+      "source_en": "Skills",
+      "text": "Fertigkeiten"
+    },
+    {
+      "key": "button_guide_lr_shift",
+      "read_index": "20",
+      "source_jp": "シフト",
+      "source_en": "Shift",
+      "text": "Wechseln"
+    },
+    {
+      "key": "button_guide_l2_commu",
+      "read_index": "21",
+      "source_jp": "コミュニケーションパレット",
+      "source_en": "Communication",
+      "text": "Kommunikation"
+    },
+    {
+      "key": "button_guide_r2_multi",
+      "read_index": "22",
+      "source_jp": "マルチショートカットパレット",
+      "source_en": "Multi Shortcut Palette",
+      "text": "Schnellzugriffsleiste"
+    },
+    {
+      "key": "button_guide_circle_breakaway",
+      "read_index": "23",
+      "source_jp": "離脱",
+      "source_en": "Withdraw",
+      "text": "Zurückziehen"
+    },
+    {
+      "key": "button_guide_fire_hunter",
+      "read_index": "24",
+      "source_jp": "射る",
+      "source_en": "Shoot",
+      "text": "Schießen"
+    },
+    {
+      "key": "button_guide_fire_elementsarcher",
+      "read_index": "25",
+      "source_jp": "放つ",
+      "source_en": "Shoot",
+      "text": "Schießen"
+    },
+    {
+      "key": "button_guide_decide",
+      "read_index": "26",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "button_guide_cancel",
+      "read_index": "27",
+      "source_jp": "中断",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "button_guide_move",
+      "read_index": "28",
+      "source_jp": "発動",
+      "source_en": "Move",
+      "text": "Auslösen"
+    },
+    {
+      "key": "button_guide_change_stance",
+      "read_index": "29",
+      "source_jp": "(構え中)構えの変更",
+      "source_en": "(Standing) Change Stance",
+      "text": "(Position halten) Haltung wechseln"
+    },
+    {
+      "key": "button_guide_stance_bow",
+      "read_index": "30",
+      "source_jp": "構える",
+      "source_en": "Ready",
+      "text": "Anlegen"
+    },
+    {
+      "key": "button_guide_cancel_magic",
+      "read_index": "31",
+      "source_jp": "解除",
+      "source_en": "Release",
+      "text": "Lösen"
+    },
+    {
+      "key": "button_guide_put",
+      "read_index": "32",
+      "source_jp": "置く",
+      "source_en": "Put",
+      "text": "Ablegen"
+    },
+    {
+      "key": "button_guide_palet_change",
+      "read_index": "33",
+      "source_jp": "(長押し)スキル切替",
+      "source_en": "(Hold) Switch Skills",
+      "text": "(Halten) Fertigkeiten wechseln"
+    },
+    {
+      "key": "button_guide_Auto_Run",
+      "read_index": "34",
+      "source_jp": "オートラン切り替え",
+      "source_en": "Auto Run Toggle",
+      "text": "Autom. Laufen umschalten"
+    },
+    {
+      "key": "button_guide_janken_gu",
+      "read_index": "35",
+      "source_jp": "グー",
+      "source_en": "Rock",
+      "text": "Stein"
+    },
+    {
+      "key": "button_guide_janken_tyoki",
+      "read_index": "36",
+      "source_jp": "チョキ",
+      "source_en": "Scissors",
+      "text": "Schere"
+    },
+    {
+      "key": "button_guide_janken_pa",
+      "read_index": "37",
+      "source_jp": "パー",
+      "source_en": "Paper",
+      "text": "Papier"
+    },
+    {
+      "key": "button_guide_pursuit",
+      "read_index": "38",
+      "source_jp": "追撃",
+      "source_en": "Pursuit",
+      "text": "Nachsetzen"
+    },
+    {
+      "key": "button_guide_fire",
+      "read_index": "39",
+      "source_jp": "発射",
+      "source_en": "Fire",
+      "text": "Abfeuern"
+    }
+  ]
+}

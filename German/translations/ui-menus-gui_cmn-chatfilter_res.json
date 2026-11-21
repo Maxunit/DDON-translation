@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\chatfilter_res.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "CF_ALERT",
+      "read_index": "8",
+      "source_jp": "Alert",
+      "source_en": "# Alert",
+      "text": "# Hinweis"
+    }
+  ]
+}

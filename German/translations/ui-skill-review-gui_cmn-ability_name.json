@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Kampftechniken",
+  "gmd_path": "ui\\00_message\\skill\\ability_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ABILITY_NAME_467",
+      "read_index": "10",
+      "source_jp": "延印",
+      "source_en": "Extended Glyph",
+      "text": "Dauersiegel"
+    },
+    {
+      "key": "ABILITY_NAME_468",
+      "read_index": "58",
+      "source_jp": "危吸",
+      "source_en": "Perilous Absorption",
+      "text": "Notabsorption"
+    },
+    {
+      "key": "ABILITY_NAME_469",
+      "read_index": "46",
+      "source_jp": "強弾",
+      "source_en": "Strong Shot",
+      "text": "Kraftschuss"
+    },
+    {
+      "key": "ABILITY_NAME_472",
+      "read_index": "94",
+      "source_jp": "加吸",
+      "source_en": "Increased Absorption",
+      "text": "Magiesog"
+    },
+    {
+      "key": "ABILITY_NAME_473",
+      "read_index": "22",
+      "source_jp": "烈翔",
+      "source_en": "Fierce Flight",
+      "text": "Elementklinge"
+    },
+    {
+      "key": "ABILITY_NAME_478",
+      "read_index": "34",
+      "source_jp": "護印",
+      "source_en": "Protective Glyph",
+      "text": "Schutzsiegel"
+    }
+  ]
+}

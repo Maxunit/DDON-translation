@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\ArisenCard_pop_pawn.gmd",
+  "arc_path": "\\ui\\uGUIArisenCardPopPawn.arc",
+  "entries": [
+    {
+      "key": "arisenpop_pawn_comment",
+      "read_index": "0",
+      "source_jp": "コメントの設定",
+      "source_en": "Comment settings",
+      "text": "Kommentar bearbeiten"
+    },
+    {
+      "key": "arisenpop_pawn_decided",
+      "read_index": "1",
+      "source_jp": "決定",
+      "source_en": "Choose",
+      "text": "Auswählen"
+    },
+    {
+      "key": "arisenpop_pawn_cancel",
+      "read_index": "2",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    }
+  ]
+}

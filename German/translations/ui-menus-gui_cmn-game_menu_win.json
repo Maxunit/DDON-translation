@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\game_menu_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "menu_lobby",
+      "read_index": "8",
+      "source_jp": "ロビー情報",
+      "source_en": "Lobby Information",
+      "text": "Lobby-Infos"
+    },
+    {
+      "key": "menu_community",
+      "read_index": "12",
+      "source_jp": "コミュニティリスト",
+      "source_en": "Community List",
+      "text": "Kontaktliste"
+    },
+    {
+      "key": "menu_gp_charge",
+      "read_index": "14",
+      "source_jp": "黄金石の確認",
+      "source_en": "Check Golden Gemstones",
+      "text": "Goldsteine prüfen"
+    },
+    {
+      "key": "menu_option_sys",
+      "read_index": "15",
+      "source_jp": "デバイス設定",
+      "source_en": "System Config",
+      "text": "Systemeinstellungen"
+    },
+    {
+      "key": "menu_manual",
+      "read_index": "16",
+      "source_jp": "プレイマニュアル",
+      "source_en": "Play Manual",
+      "text": "Spielanleitung"
+    },
+    {
+      "key": "menu_support",
+      "read_index": "17",
+      "source_jp": "サポート・報告",
+      "source_en": "Support / Report",
+      "text": "Hilfe / Meldung"
+    },
+    {
+      "key": "menu_license",
+      "read_index": "18",
+      "source_jp": "ライセンス",
+      "source_en": "License",
+      "text": "Lizenzen"
+    },
+    {
+      "key": "menu_ls",
+      "read_index": "23",
+      "source_jp": "グループチャット",
+      "source_en": "Group Chat",
+      "text": "Gruppenchat"
+    },
+    {
+      "key": "menu_my_fixed_pattern",
+      "read_index": "25",
+      "source_jp": "マイ定型文",
+      "source_en": "My Phrases",
+      "text": "Meine Textbausteine"
+    },
+    {
+      "key": "menu_emote",
+      "read_index": "27",
+      "source_jp": "エモート",
+      "source_en": "Emotes",
+      "text": "Gesten"
+    },
+    {
+      "key": "menu_server_change",
+      "read_index": "32",
+      "source_jp": "ワールド変更",
+      "source_en": "Channel Select",
+      "text": "Kanalauswahl"
+    },
+    {
+      "key": "menu_option_chr",
+      "read_index": "34",
+      "source_jp": "ゲーム設定",
+      "source_en": "Game Config",
+      "text": "Spieleinstellungen"
+    },
+    {
+      "key": "menu_photo_album",
+      "read_index": "37",
+      "source_jp": "フォトアルバム",
+      "source_en": "Photo Albums",
+      "text": "Fotoalben"
+    },
+    {
+      "key": "menu_code",
+      "read_index": "38",
+      "source_jp": "イベントコード入力",
+      "source_en": "Event Code Input",
+      "text": "Eventcode eingeben"
+    },
+    {
+      "key": "menu_confirm_go_title",
+      "read_index": "40",
+      "source_jp": "ゲームを中断してタイトル画面に戻ります\r\nよろしいですか？",
+      "source_en": "Are you sure you want to exit to the title?",
+      "text": "Spiel unterbrechen und\r\nzum Titelmenü zurückkehren?"
+    },
+    {
+      "key": "menu_confirm_go_launcher",
+      "read_index": "41",
+      "source_jp": "ログアウトしてランチャー画面に戻ります\r\nよろしいですか？",
+      "source_en": "Are you sure you want to exit to the launcher?",
+      "text": "Ausloggen und zum Launcher zurückkehren?"
+    },
+    {
+      "key": "menu_confirm_shutdown",
+      "read_index": "42",
+      "source_jp": "ログアウトしてゲームを終了します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to exit the game?",
+      "text": "Ausloggen und das Spiel beenden?"
+    },
+    {
+      "key": "menu_infdelivery_event",
+      "read_index": "62",
+      "source_jp": "大口納品イベント",
+      "source_en": "Large Delivery Event",
+      "text": "Großlieferung"
+    },
+    {
+      "key": "menu_exmboard_select",
+      "read_index": "63",
+      "source_jp": "EXM募集掲示板",
+      "source_en": "EXM Recruitment Board",
+      "text": "Board für Extremmissionen"
+    },
+    {
+      "key": "menu_exmboard_dialog",
+      "read_index": "64",
+      "source_jp": "エントリーするEXMを選択してください",
+      "source_en": "Please select the EM you wish to enter",
+      "text": "Wähle eine Extremmission aus."
+    },
+    {
+      "key": "menu_board_select",
+      "read_index": "65",
+      "source_jp": "確認する掲示板を選択してください",
+      "source_en": "Please select the board you wish to check",
+      "text": "Wähle ein Questboard."
+    }
+  ]
+}

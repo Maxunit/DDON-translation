@@ -1,0 +1,498 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\GPShop_res.gmd",
+  "arc_path": "\\ui\\uGUIGPShop.arc",
+  "entries": [
+    {
+      "key": "OS_catalog_pawn",
+      "read_index": "0",
+      "source_jp": "クラフトマスターポーン",
+      "source_en": "Craft Master Pawn",
+      "text": "Meisterhandwerker-Vasall"
+    },
+    {
+      "key": "OS_menu_gs_buy",
+      "read_index": "3",
+      "source_jp": "黄金石の購入",
+      "source_en": "Buy Golden Gemstones",
+      "text": "Goldsteine kaufen"
+    },
+    {
+      "key": "OS_menu_status",
+      "read_index": "4",
+      "source_jp": "ステータスの確認",
+      "source_en": "Check Status",
+      "text": "Status prüfen"
+    },
+    {
+      "key": "OS_title_gs_buy",
+      "read_index": "5",
+      "source_jp": "黄金石の購入",
+      "source_en": "Buy Golden Gemstones",
+      "text": "Goldsteine kaufen"
+    },
+    {
+      "key": "OS_cap_remnant",
+      "read_index": "6",
+      "source_jp": "CAP残高",
+      "source_en": "CAP Balance",
+      "text": "CAP-Guthaben"
+    },
+    {
+      "key": "OS_relogin",
+      "read_index": "8",
+      "source_jp": "COGのログインが切れています\r\nブラウザからCOG認証を行ってください",
+      "source_en": "COG login has expired\r\nPlease use your browser to authenticate COG",
+      "text": "COG-Anmeldung abgelaufen.\r\nMelde dich im Browser erneut an."
+    },
+    {
+      "key": "OS_status_title",
+      "read_index": "10",
+      "source_jp": "黄金石ステータス",
+      "source_en": "Golden Gemstone Status",
+      "text": "Goldstein-Status"
+    },
+    {
+      "key": "OS_status_bkbtn",
+      "read_index": "11",
+      "source_jp": "黄金石ショップ",
+      "source_en": "Golden Gemstone Shop",
+      "text": "Goldstein-Shop"
+    },
+    {
+      "key": "OS_status_time_remaining",
+      "read_index": "15",
+      "source_jp": "使用期限：",
+      "source_en": "Expires:",
+      "text": "Läuft ab:"
+    },
+    {
+      "key": "OS_status_history",
+      "read_index": "18",
+      "source_jp": "黄金石使用履歴",
+      "source_en": "GG Usage History",
+      "text": "Goldsteine · Verbrauch"
+    },
+    {
+      "key": "OS_buy_item",
+      "read_index": "20",
+      "source_jp": "<NAME ITEM> を 黄金石 <VAL> 個で購入します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to purchase <NAME ITEM>\r\nwith <VAL> Golden Gemstones?",
+      "text": "<NAME ITEM> für <VAL> Goldsteine kaufen?"
+    },
+    {
+      "key": "OS_buy_goldstone",
+      "read_index": "21",
+      "source_jp": "黄金石 <VAL> 個を <VAL CAP>で購入します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to purchase <VAL>\r\nGolden Gemstones with <VAL CAP>?",
+      "text": "<VAL> Goldsteine für <VAL CAP> kaufen?"
+    },
+    {
+      "key": "OS_btn_ok",
+      "read_index": "22",
+      "source_jp": "購入",
+      "source_en": "Buy",
+      "text": "Kaufen"
+    },
+    {
+      "key": "OS_btn_ng",
+      "read_index": "23",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "OS_catalog_pickup",
+      "read_index": "24",
+      "source_jp": "ピックアップ",
+      "source_en": "Pickup",
+      "text": "Empfehlungen"
+    },
+    {
+      "key": "OS_catalog_wepon",
+      "read_index": "26",
+      "source_jp": "武具・防具",
+      "source_en": "Weapon / Armor",
+      "text": "Waffen / Rüstungen"
+    },
+    {
+      "key": "OS_cod_impression",
+      "read_index": "29",
+      "source_jp": "COG認証",
+      "source_en": "COG ID",
+      "text": "COG-ID"
+    },
+    {
+      "key": "OS_used_btn",
+      "read_index": "30",
+      "source_jp": "使用中",
+      "source_en": "Active",
+      "text": "Aktiv"
+    },
+    {
+      "key": "OS_use_btn",
+      "read_index": "31",
+      "source_jp": "使用",
+      "source_en": "Use",
+      "text": "Benutzen"
+    },
+    {
+      "key": "OS_use_confirm",
+      "read_index": "32",
+      "source_jp": "<NAME ITEM>をいますぐ使用しますか？",
+      "source_en": "Do you want to use <NAME ITEM> right now?",
+      "text": "<NAME ITEM> sofort benutzen?"
+    },
+    {
+      "key": "OS_use_item",
+      "read_index": "33",
+      "source_jp": "<NAME ITEM>を使用します\r\nよろしいですか？",
+      "source_en": "<NAME ITEM> will be used.\r\nIs this okay?",
+      "text": "<NAME ITEM> benutzen?"
+    },
+    {
+      "key": "OS_goldstone_num",
+      "read_index": "34",
+      "source_jp": "黄金石 <VAL> 個",
+      "source_en": "<VAL> Golden Gemstones",
+      "text": "<VAL> Goldsteine"
+    },
+    {
+      "key": "OS_announce_buy_use_item",
+      "read_index": "35",
+      "source_jp": "<NAME ETC> を購入して使用しました",
+      "source_en": "Purchased and used <NAME ETC>.",
+      "text": "<NAME ETC> gekauft und benutzt."
+    },
+    {
+      "key": "OS_announce_buy_gs",
+      "read_index": "36",
+      "source_jp": "黄金石 <VAL> 個を購入しました",
+      "source_en": "Purchased <VAL> Golden Gemstones.",
+      "text": "<VAL> Goldsteine gekauft."
+    },
+    {
+      "key": "OS_announce_use_item",
+      "read_index": "37",
+      "source_jp": "<NAME ETC> を使用しました",
+      "source_en": "<NAME ETC> has been used.",
+      "text": "<NAME ETC> benutzt."
+    },
+    {
+      "key": "OS_announce_voice",
+      "read_index": "38",
+      "source_jp": "ポーンボイス",
+      "source_en": "Pawn Voice",
+      "text": "Vasallenstimme"
+    },
+    {
+      "key": "OS_announce_buy",
+      "read_index": "39",
+      "source_jp": "<NAME ETC> を購入しました",
+      "source_en": "Purchased <NAME ETC>.",
+      "text": "<NAME ETC> gekauft."
+    },
+    {
+      "key": "OS_announce_buyanduse",
+      "read_index": "40",
+      "source_jp": "<NAME ETC> を購入して使用しました",
+      "source_en": "Purchased and used <NAME ETC>.",
+      "text": "<NAME ETC> gekauft und benutzt."
+    },
+    {
+      "key": "OS_announce_use",
+      "read_index": "41",
+      "source_jp": "<NAME ETC> を使用しました",
+      "source_en": "<NAME ETC> has been used.",
+      "text": "<NAME ETC> benutzt."
+    },
+    {
+      "key": "OS_announce_havingnum",
+      "read_index": "42",
+      "source_jp": "所持数：<VAL>",
+      "source_en": "You have: <VAL>",
+      "text": "Im Besitz: <VAL>"
+    },
+    {
+      "key": "OS_announce_gpdialog",
+      "read_index": "43",
+      "source_jp": "黄金石の確認",
+      "source_en": "Check Golden Gemstones",
+      "text": "Goldsteine prüfen"
+    },
+    {
+      "key": "OS_catalog_collabo",
+      "read_index": "44",
+      "source_jp": "コラボレーション装備",
+      "source_en": "Collaboration Equipment",
+      "text": "Kooperationsausrüstung"
+    },
+    {
+      "key": "OS_buy_cap",
+      "read_index": "45",
+      "source_jp": "CAPチャージ",
+      "source_en": "Charge CAP",
+      "text": "CAP aufladen"
+    },
+    {
+      "key": "OS_catalog_passport",
+      "read_index": "46",
+      "source_jp": "パスポート",
+      "source_en": "Passports",
+      "text": "Pässe"
+    },
+    {
+      "key": "OS_histry_information",
+      "read_index": "49",
+      "source_jp": "最新50件(古い履歴から順に削除されます)",
+      "source_en": "The last 50 entries are shown (Older entries are\r\ndeleted)",
+      "text": "Die letzten 50 Einträge sind sichtbar.\r\nÄltere Einträge werden gelöscht."
+    },
+    {
+      "key": "OS_annnounce_nocap",
+      "read_index": "50",
+      "source_jp": "戦闘中にCAPの購入はできません",
+      "source_en": "You cannot purchase CAP while in combat.",
+      "text": "Im Kampf kannst du keine CAP kaufen."
+    },
+    {
+      "key": "OS_annnounce_multi_option",
+      "read_index": "51",
+      "source_jp": "ダブル特典・トリプル特典対象商品です",
+      "source_en": "This is a product eligible for double and triple\r\nrewards.",
+      "text": "Für dieses Angebot gelten Doppel- und Dreifachboni."
+    },
+    {
+      "key": "OS_annnounce_nolist",
+      "read_index": "52",
+      "source_jp": "表示するリストがありません",
+      "source_en": "There is no list to display.",
+      "text": "Keine Einträge vorhanden."
+    },
+    {
+      "key": "OS_activetetimer_remaining",
+      "read_index": "53",
+      "source_jp": "有効期限：",
+      "source_en": "Expires:",
+      "text": "Läuft ab:"
+    },
+    {
+      "key": "OS_index_management",
+      "read_index": "55",
+      "source_jp": "COGアカウント管理",
+      "source_en": "COG Account Management",
+      "text": "COG-Konto verwalten"
+    },
+    {
+      "key": "OS_index_active",
+      "read_index": "56",
+      "source_jp": "発動中",
+      "source_en": "Active",
+      "text": "Aktiv"
+    },
+    {
+      "key": "OS_index_price",
+      "read_index": "58",
+      "source_jp": "価格：",
+      "source_en": "Price:",
+      "text": "Preis:"
+    },
+    {
+      "key": "OS_index_exrecord",
+      "read_index": "60",
+      "source_jp": "COG購入履歴（CAPの購入・継続利用権）",
+      "source_en": "Purchase History (CAP Purchase/Continued Use\r\nRights)",
+      "text": "Kaufverlauf (CAP / Abos)"
+    },
+    {
+      "key": "OS_index_record",
+      "read_index": "61",
+      "source_jp": "COG購入履歴",
+      "source_en": "COG Purchase History",
+      "text": "COG-Kaufverlauf"
+    },
+    {
+      "key": "OS_index_loginskip",
+      "read_index": "62",
+      "source_jp": "ログインスキップ設定",
+      "source_en": "Skip Login Setting",
+      "text": "Anmeldung überspringen"
+    },
+    {
+      "key": "OS_index_loginskip_in_decide",
+      "read_index": "63",
+      "source_jp": "決済時のログインスキップ：",
+      "source_en": "Skip login at the time of payment:",
+      "text": "Anmeldung beim Bezahlen überspringen:"
+    },
+    {
+      "key": "OS_index_valid",
+      "read_index": "64",
+      "source_jp": "有効",
+      "source_en": "Valid",
+      "text": "Aktiv"
+    },
+    {
+      "key": "OS_index_invalid",
+      "read_index": "65",
+      "source_jp": "無効",
+      "source_en": "Disabled",
+      "text": "Deaktiviert"
+    },
+    {
+      "key": "OS_index_loginskip_disable",
+      "read_index": "66",
+      "source_jp": "ログインスキップの解除",
+      "source_en": "Cancel login skip",
+      "text": "Überspringen deaktivieren"
+    },
+    {
+      "key": "OS_index_change_payment",
+      "read_index": "67",
+      "source_jp": "クレジットカード登録情報変更",
+      "source_en": "Change Credit Card Registration Information",
+      "text": "Kreditkartendaten ändern"
+    },
+    {
+      "key": "OS_index_change_records",
+      "read_index": "68",
+      "source_jp": "登録情報変更",
+      "source_en": "Change of registration information",
+      "text": "Kontodaten ändern"
+    },
+    {
+      "key": "OS_index_cancell_passport",
+      "read_index": "69",
+      "source_jp": "パスポート（クレジットカード継続）の解約",
+      "source_en": "Cancellation of Passport (Credit Card\r\nContinuation)",
+      "text": "Pass-Abo kündigen"
+    },
+    {
+      "key": "OS_index_manage_charge",
+      "read_index": "70",
+      "source_jp": "継続利用権 管理",
+      "source_en": "Continued use rights management",
+      "text": "Abos verwalten"
+    },
+    {
+      "key": "OS_index_equipment_item",
+      "read_index": "72",
+      "source_jp": "装備・アイテム",
+      "source_en": "Equipment / Item",
+      "text": "Ausrüstung / Gegenstände"
+    },
+    {
+      "key": "OS_index_none",
+      "read_index": "73",
+      "source_jp": "なし",
+      "source_en": "None",
+      "text": "Keine"
+    },
+    {
+      "key": "OS_catalog_pawn2",
+      "read_index": "74",
+      "source_jp": "クラフトマスターポーン",
+      "source_en": "Craft Master Pawn",
+      "text": "Meisterhandwerker-Vasall"
+    },
+    {
+      "key": "OS_announce_voice2",
+      "read_index": "75",
+      "source_jp": "ポーンボイス",
+      "source_en": "Pawn Voice",
+      "text": "Vasallenstimme"
+    },
+    {
+      "key": "OS_index_eninvalid",
+      "read_index": "76",
+      "source_jp": "無効にする",
+      "source_en": "disable",
+      "text": "Deaktivieren"
+    },
+    {
+      "key": "OS_dialog_is_invalid_logskip",
+      "read_index": "77",
+      "source_jp": "決済時のログインスキップを無効化しますか？",
+      "source_en": "Do you want to disable login skip on payment?",
+      "text": "Beim Bezahlen wieder eine Anmeldung verlangen?"
+    },
+    {
+      "key": "OS_dialog_done_invalid_logskip",
+      "read_index": "78",
+      "source_jp": "決済時のログインスキップを無効化しました",
+      "source_en": "Disabled login skip for payment.",
+      "text": "Die Anmeldung beim Bezahlen wird künftig angezeigt."
+    },
+    {
+      "key": "OS_index_mode_browser",
+      "read_index": "79",
+      "source_jp": "ブラウザ操作",
+      "source_en": "Use Browser",
+      "text": "Im Browser öffnen"
+    },
+    {
+      "key": "OS_index_mode_shop",
+      "read_index": "80",
+      "source_jp": "ショップ操作",
+      "source_en": "Use Shop",
+      "text": "Im Shop öffnen"
+    },
+    {
+      "key": "OS_annnounce_nocap1",
+      "read_index": "81",
+      "source_jp": "今の状況ではCAPの購入はできません",
+      "source_en": "Cannot purchase CAP under the current\r\ncircumstances.",
+      "text": "CAP-Kauf derzeit nicht möglich."
+    },
+    {
+      "key": "OS_annnounce_purchased",
+      "read_index": "82",
+      "source_jp": "<NAME ETC> は既に購入済みです",
+      "source_en": "<NAME ETC> has already been purchased.",
+      "text": "<NAME ETC> wurde bereits gekauft."
+    },
+    {
+      "key": "OS_catalog_storage",
+      "read_index": "83",
+      "source_jp": "ストレージ",
+      "source_en": "Storage",
+      "text": "Lager"
+    },
+    {
+      "key": "OS_catalog_skillreset",
+      "read_index": "84",
+      "source_jp": "スキルリセット",
+      "source_en": "Skill Reset",
+      "text": "Fertigkeiten zurücksetzen"
+    },
+    {
+      "key": "OS_dialog_buy_announce_afterfollow",
+      "read_index": "85",
+      "source_jp": "ご購入された商品は\r\nオンラインステーションの「未使用コース」から\r\nご使用いただけます",
+      "source_en": "The purchased item can be used from the \"Unused\r\nCourse\" of the Online Station.",
+      "text": "Du kannst den Kauf unter „Ungenutzte Pässe“\r\nin der Online-Station aktivieren."
+    },
+    {
+      "key": "OS_catalog_fixed_phrase",
+      "read_index": "86",
+      "source_jp": "ボイス定型文",
+      "source_en": "Voice Phrases",
+      "text": "Vertonte Sprüche"
+    },
+    {
+      "key": "OS_catalog_shortcut",
+      "read_index": "87",
+      "source_jp": "ショートカット",
+      "source_en": "Shortcut",
+      "text": "Schnellzugriff"
+    },
+    {
+      "key": "OS_pop_price_reload",
+      "read_index": "88",
+      "source_jp": "価格が最新の情報に更新されました",
+      "source_en": "The price has been updated to the latest\r\ninformation.",
+      "text": "Der Preis wurde aktualisiert."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\pop_profile_res.gmd",
+  "arc_path": "\\ui\\uGUIPopProfile.arc",
+  "entries": [
+    {
+      "key": "popp_mokuteki_1",
+      "read_index": "0",
+      "source_jp": "冒険目的",
+      "source_en": "Adventure Purpose",
+      "text": "Abenteuerziel"
+    },
+    {
+      "key": "popp_mokuteki_2",
+      "read_index": "1",
+      "source_jp": "活動場所",
+      "source_en": "Activity Location",
+      "text": "Einsatzort"
+    },
+    {
+      "key": "popp_playstyle",
+      "read_index": "2",
+      "source_jp": "プレイスタイル",
+      "source_en": "Play Style",
+      "text": "Spielstil"
+    },
+    {
+      "key": "popp_comment",
+      "read_index": "3",
+      "source_jp": "コメント",
+      "source_en": "Comment",
+      "text": "Kommentar"
+    },
+    {
+      "key": "popp_party",
+      "read_index": "4",
+      "source_jp": "パーティー参加",
+      "source_en": "Party Invites",
+      "text": "Gruppeneinladungen"
+    },
+    {
+      "key": "popp_decide",
+      "read_index": "7",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "popp_cancel",
+      "read_index": "8",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "popp_pt_ok",
+      "read_index": "9",
+      "source_jp": "受ける",
+      "source_en": "Accept",
+      "text": "Annehmen"
+    },
+    {
+      "key": "popp_pt_ng",
+      "read_index": "10",
+      "source_jp": "受けない",
+      "source_en": "Decline",
+      "text": "Ablehnen"
+    },
+    {
+      "key": "popp_main_purpose",
+      "read_index": "11",
+      "source_jp": "冒険目的",
+      "source_en": "Adventure Purpose",
+      "text": "Abenteuerziel"
+    },
+    {
+      "key": "popp_sub_purpose",
+      "read_index": "12",
+      "source_jp": "活動場所",
+      "source_en": "Activity Location",
+      "text": "Einsatzort"
+    },
+    {
+      "key": "popp_job",
+      "read_index": "13",
+      "source_jp": "遊びたいジョブ",
+      "source_en": "Preferred Job",
+      "text": "Bevorzugte Klasse"
+    }
+  ]
+}

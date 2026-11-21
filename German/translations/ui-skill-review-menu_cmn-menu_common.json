@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Kampftechniken",
+  "gmd_path": "ui\\00_message\\ui\\menu_common.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "menu_cmn_cost",
+      "read_index": "10",
+      "source_jp": "Cost",
+      "source_en": "Cost",
+      "text": "Kosten"
+    }
+  ]
+}

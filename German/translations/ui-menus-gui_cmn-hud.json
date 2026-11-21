@@ -1,0 +1,400 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\hud.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "hud_job_hunter_normal_arrow",
+      "read_index": "0",
+      "source_jp": "通常矢",
+      "source_en": "Normal Arrow",
+      "text": "Standardpfeil"
+    },
+    {
+      "key": "hud_job_hunter_change_arrow",
+      "read_index": "4",
+      "source_jp": "矢切替",
+      "source_en": "Change Arrow",
+      "text": "Pfeil wechseln"
+    },
+    {
+      "key": "hud_job_sealedsage_change_attribution",
+      "read_index": "5",
+      "source_jp": "属性切替",
+      "source_en": "Change Attribute",
+      "text": "Element wechseln"
+    },
+    {
+      "key": "hud_status_standby",
+      "read_index": "7",
+      "source_jp": "スタンバイOK",
+      "source_en": "Standby OK",
+      "text": "Bereit"
+    },
+    {
+      "key": "hud_status_away",
+      "read_index": "8",
+      "source_jp": "離席中",
+      "source_en": "AFK",
+      "text": "Abwesend"
+    },
+    {
+      "key": "hud_status_event",
+      "read_index": "9",
+      "source_jp": "イベント",
+      "source_en": "Event",
+      "text": "Ereignis"
+    },
+    {
+      "key": "hud_status_ailment_sec",
+      "read_index": "14",
+      "source_jp": "秒",
+      "source_en": "sec",
+      "text": "Sek."
+    },
+    {
+      "key": "hud_status_ailment_stamina",
+      "read_index": "15",
+      "source_jp": "スタミナ回復",
+      "source_en": "Stamina Recovery",
+      "text": "Ausdauerregeneration"
+    },
+    {
+      "key": "hud_quest_ann_caution_deco",
+      "read_index": "20",
+      "source_jp": "Defeat the enemy !",
+      "source_en": "Defeat the enemy!",
+      "text": "Besiege den Gegner!"
+    },
+    {
+      "key": "hud_pawn_ann_lost",
+      "read_index": "21",
+      "source_jp": "<VAL> がポーン郷にある異界の狭間へ送られました",
+      "source_en": "<VAL> was sent to the Rift within Pawn Cathedral",
+      "text": "<VAL> wurde in den Rift der Vasallenkathedrale geschickt."
+    },
+    {
+      "key": "hud_pawn_ann_rescue_start",
+      "read_index": "22",
+      "source_jp": "<VAL> を襲いかかる敵から救出せよ",
+      "source_en": "Rescue <VAL> from the attacking enemies",
+      "text": "Rette <VAL> vor den angreifenden Gegnern."
+    },
+    {
+      "key": "hud_pawn_ann_rescue_failed",
+      "read_index": "23",
+      "source_jp": "<VAL> の呪縛を解くことができなかった",
+      "source_en": "I was unable to break the curse of <VAL>",
+      "text": "Der Fluch von <VAL> konnte nicht gebrochen werden."
+    },
+    {
+      "key": "hud_pawn_ann_rescue_clear",
+      "read_index": "24",
+      "source_jp": "<VAL> の呪縛が解け、リムの淵辺で目を覚ました",
+      "source_en": "The curse of <VAL> was lifted, and I woke up at\r\nthe Depths of the Rift, eyes open.",
+      "text": "Der Fluch von <VAL> ist gebrochen.\r\nDer Vasall erwacht am Rand des Rifts."
+    },
+    {
+      "key": "hud_pawn_ann_resurrection",
+      "read_index": "25",
+      "source_jp": "<VAL> が復活し、待機状態に戻りました",
+      "source_en": "<VAL> rescued and returned to standby",
+      "text": "<VAL> wurde gerettet und steht wieder bereit."
+    },
+    {
+      "key": "hud_get_announce_pawnlvup",
+      "read_index": "27",
+      "source_jp": "<NAME PAWN>が<LEVEL>にUPしました",
+      "source_en": "<NAME PAWN> \r\nhas reached Level <LEVEL>.",
+      "text": "<NAME PAWN> hat Stufe <LEVEL> erreicht."
+    },
+    {
+      "key": "hud_enemy_engage",
+      "read_index": "29",
+      "source_jp": "In Battle !",
+      "source_en": "In Combat!",
+      "text": "Im Kampf!"
+    },
+    {
+      "key": "hud_status_disconnect",
+      "read_index": "33",
+      "source_jp": "回線切断中",
+      "source_en": "Disconnected",
+      "text": "Verbindung getrennt"
+    },
+    {
+      "key": "hud_job_alchemist_normal_medal",
+      "read_index": "34",
+      "source_jp": "遅延のエリクシル",
+      "source_en": "Torpor Elixir",
+      "text": "Elixier der Verlangsamung"
+    },
+    {
+      "key": "hud_job_alchemist_change_medal",
+      "read_index": "35",
+      "source_jp": "エリクシル切替",
+      "source_en": "Change Elixir",
+      "text": "Elixier wechseln"
+    },
+    {
+      "key": "hud_skill_move",
+      "read_index": "36",
+      "source_jp": "発動",
+      "source_en": "Move",
+      "text": "Auslösen"
+    },
+    {
+      "key": "hud_charges_others",
+      "read_index": "37",
+      "source_jp": "その他×<VAL>",
+      "source_en": "Other × <VAL>",
+      "text": "Sonstige × <VAL>"
+    },
+    {
+      "key": "hud_generalpurpose_clear_deco",
+      "read_index": "42",
+      "source_jp": "Defeated the enemy !",
+      "source_en": "Defeated the enemy!",
+      "text": "Gegner besiegt!"
+    },
+    {
+      "key": "hud_map_guide_lock",
+      "read_index": "48",
+      "source_jp": "ロック",
+      "source_en": "Lock",
+      "text": "Fixieren"
+    },
+    {
+      "key": "hud_map_guide_scaling",
+      "read_index": "49",
+      "source_jp": "拡縮",
+      "source_en": "Scale",
+      "text": "Größe ändern"
+    },
+    {
+      "key": "hud_map_guide_cursor",
+      "read_index": "51",
+      "source_jp": "カーソル移動",
+      "source_en": "Cursor",
+      "text": "Zeiger bewegen"
+    },
+    {
+      "key": "hud_map_guide_operation",
+      "read_index": "52",
+      "source_jp": "ミニマップ操作",
+      "source_en": "Expand",
+      "text": "Minikarte bedienen"
+    },
+    {
+      "key": "hud_map_guide_zoom",
+      "read_index": "53",
+      "source_jp": "ズームイン/アウト",
+      "source_en": "Zoom",
+      "text": "Zoomen"
+    },
+    {
+      "key": "hud_commontext_sorcery_cs13",
+      "read_index": "57",
+      "source_jp": "氷柱を放つ：",
+      "source_en": "Shoot Icicle:",
+      "text": "Eiszapfen abfeuern:"
+    },
+    {
+      "key": "hud_commontext_sorcery_cs14",
+      "read_index": "58",
+      "source_jp": "アンカーを消滅させる：<KC TOUCH>",
+      "source_en": "Eliminate the anchor: <KC TOUCH>",
+      "text": "Anker auflösen: <KC TOUCH>"
+    },
+    {
+      "key": "hud_commontext_all_reliefcancel",
+      "read_index": "60",
+      "source_jp": "救済を中断する：<KC JUMP>",
+      "source_en": "Interrupt Help: <KC JUMP>",
+      "text": "Hilfe abbrechen: <KC JUMP>"
+    },
+    {
+      "key": "hud_job_spiritlancer_change_item",
+      "read_index": "63",
+      "source_jp": "アイテム切替(仮)",
+      "source_en": "Item Switch (Temporary)",
+      "text": "Gegenstand wechseln (vorläufig)"
+    },
+    {
+      "key": "hud_job_spiritlancer_normal_item",
+      "read_index": "64",
+      "source_jp": "【仮0】 HP回復",
+      "source_en": "[Temporary 0] HP Recovery",
+      "text": "[Vorläufig 0] LP regenerieren"
+    },
+    {
+      "key": "hud_caution_announce_warning_deco",
+      "read_index": "67",
+      "source_jp": "Defeat the dungeon enemy !",
+      "source_en": "Defeat the dungeon enemy!",
+      "text": "Besiege den Gegner im Verlies!"
+    },
+    {
+      "key": "hud_caution_announce_clear_warning_deco",
+      "read_index": "68",
+      "source_jp": "Defeated the dungeon enemy !",
+      "source_en": "Defeated the dungeon enemy!",
+      "text": "Gegner im Verlies besiegt!"
+    },
+    {
+      "key": "hud_commontext_spiritlancer_nospirit",
+      "read_index": "69",
+      "source_jp": "No Spirits !",
+      "source_en": "No Spirits!",
+      "text": "Keine Geisterkraft!"
+    },
+    {
+      "key": "hud_commontext_spiritlancer_cs08",
+      "read_index": "70",
+      "source_jp": "支援を解除する：<KC JUMP>",
+      "source_en": "Release Support: <KC JUMP>",
+      "text": "Unterstützung aufheben: <KC JUMP>"
+    },
+    {
+      "key": "hud_map_guide_auto_scaling_lock",
+      "read_index": "71",
+      "source_jp": "拡大固定",
+      "source_en": "Lock Expand",
+      "text": "Vergrößerung halten"
+    },
+    {
+      "key": "hud_map_guide_auto_scaling_unlock",
+      "read_index": "72",
+      "source_jp": "拡大固定解除",
+      "source_en": "Unlock Expand",
+      "text": "Vergrößerung lösen"
+    },
+    {
+      "key": "hud_announce_clan_dungeon_unlock",
+      "read_index": "73",
+      "source_jp": "新たなクランダンジョンが解放されました",
+      "source_en": "A new Clan Dungeon has been unlocked",
+      "text": "Ein neues Clanverlies wurde freigeschaltet."
+    },
+    {
+      "key": "hud_announce_first_discovered",
+      "read_index": "74",
+      "source_jp": "おめでとうございます！ この新種の第一発見者になりました！",
+      "source_en": "Congratulations! You have become the first\r\ndiscoverer of this new species!",
+      "text": "Glückwunsch! Du hast diese neue Art\r\nvor allen anderen entdeckt!"
+    },
+    {
+      "key": "hud_announce_new_species_discovered",
+      "read_index": "75",
+      "source_jp": "お見事！ 新種のマンドラゴラを発見しました！",
+      "source_en": "Well done! A new species of Mandragora has been\r\ndiscovered!",
+      "text": "Gut gemacht!\r\nDu hast eine neue Alraunenart entdeckt!"
+    },
+    {
+      "key": "hud_ordeal_ann_start",
+      "read_index": "80",
+      "source_jp": "特殊条件を満たし、英霊の試練を攻略せよ",
+      "source_en": "Overcome the special conditions and conquer the\r\ntrial of the Heroic Spirit.",
+      "text": "Erfülle die Bedingungen und bestehe\r\ndie Prüfung des Heldengeistes."
+    },
+    {
+      "key": "hud_ordeal_ann_clear",
+      "read_index": "81",
+      "source_jp": "特殊条件を満たし、英霊の試練を突破した",
+      "source_en": "Special conditions were met and the trials of the\r\nHeroic Spirit were conquered.",
+      "text": "Bedingungen erfüllt.\r\nPrüfung des Heldengeistes bestanden."
+    },
+    {
+      "key": "hud_ordeal_ann_failed",
+      "read_index": "82",
+      "source_jp": "特殊条件を満たせず、英霊の試練に失敗した",
+      "source_en": "Failed to meet the special conditions during the\r\ntrial of the Heroic Spirit.",
+      "text": "Bedingungen verfehlt.\r\nPrüfung des Heldengeistes gescheitert."
+    },
+    {
+      "key": "hud_commontext_alchemist_cs12",
+      "read_index": "84",
+      "source_jp": "支援を解除する：<KC JUMP>",
+      "source_en": "Release Support: <KC JUMP>",
+      "text": "Unterstützung aufheben: <KC JUMP>"
+    },
+    {
+      "key": "hud_announce_bbi_clear",
+      "read_index": "88",
+      "source_jp": "《%s》攻略！",
+      "source_en": "\"%s\" cleared!",
+      "text": "„%s“ abgeschlossen!"
+    },
+    {
+      "key": "hud_announce_bbi_comp",
+      "read_index": "89",
+      "source_jp": "%sを踏破した！",
+      "source_en": "%s traversed!",
+      "text": "%s durchquert!"
+    },
+    {
+      "key": "hud_notice_no_charm_gauge",
+      "read_index": "90",
+      "source_jp": "魔力が%sゲージ以上ありません",
+      "source_en": "Need %s magick gauge!",
+      "text": "Mindestens %s Magieanzeige nötig!"
+    },
+    {
+      "key": "hud_notice_no_charm_stack",
+      "read_index": "91",
+      "source_jp": "魔力が%sスタック以上ありません",
+      "source_en": "Need %s magick stack!",
+      "text": "Mindestens %s Magiestapel nötig!"
+    },
+    {
+      "key": "hud_name_om_safetydome",
+      "read_index": "92",
+      "source_jp": "護身の結界",
+      "source_en": "Barrier of Defense",
+      "text": "Schutzbarriere"
+    },
+    {
+      "key": "hud_dragon_skill_pl_1",
+      "read_index": "97",
+      "source_jp": "\"%s\"を発動した！",
+      "source_en": "\"%s\" has activated!",
+      "text": "„%s“ wurde ausgelöst!"
+    },
+    {
+      "key": "hud_dragon_skill_pl_2",
+      "read_index": "98",
+      "source_jp": "渾身の\"%s\"を発動した！",
+      "source_en": "\"%s\" has fully activated!",
+      "text": "„%s“ wurde mit voller Kraft ausgelöst!"
+    },
+    {
+      "key": "hud_dragon_skill_pl_0",
+      "read_index": "99",
+      "source_jp": "\"%s\"を発動できなかった――",
+      "source_en": "\"%s\" could not be activated",
+      "text": "„%s“ konnte nicht ausgelöst werden."
+    },
+    {
+      "key": "hud_job_elementarcher_single",
+      "read_index": "101",
+      "source_jp": "シングルロックオン",
+      "source_en": "Single Lock On",
+      "text": "Einzelziel"
+    },
+    {
+      "key": "hud_job_elementarcher_multi",
+      "read_index": "102",
+      "source_jp": "マルチロックオン",
+      "source_en": "Multi Lock On",
+      "text": "Mehrere Ziele"
+    },
+    {
+      "key": "hud_announce_dragon_skill_set",
+      "read_index": "103",
+      "source_jp": "ドラゴンアビリティが発動した！",
+      "source_en": "Dragon ability has activated!",
+      "text": "Die Drachenfähigkeit wurde ausgelöst!"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\key_name_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "START",
+      "read_index": "0",
+      "source_jp": "10ボタン",
+      "source_en": "Button 10",
+      "text": "Taste 10"
+    },
+    {
+      "key": "BACK",
+      "read_index": "1",
+      "source_jp": "9ボタン",
+      "source_en": "Button 9",
+      "text": "Taste 9"
+    },
+    {
+      "key": "R1",
+      "read_index": "2",
+      "source_jp": "7ボタン",
+      "source_en": "Button 7",
+      "text": "Taste 7"
+    },
+    {
+      "key": "L1",
+      "read_index": "3",
+      "source_jp": "5ボタン",
+      "source_en": "Button 5",
+      "text": "Taste 5"
+    },
+    {
+      "key": "R2",
+      "read_index": "4",
+      "source_jp": "8ボタン",
+      "source_en": "Button 8",
+      "text": "Taste 8"
+    },
+    {
+      "key": "L2",
+      "read_index": "5",
+      "source_jp": "6ボタン",
+      "source_en": "Button 6",
+      "text": "Taste 6"
+    },
+    {
+      "key": "L3",
+      "read_index": "6",
+      "source_jp": "左スティック押し込み",
+      "source_en": "Left Stick Click",
+      "text": "Linken Stick drücken"
+    },
+    {
+      "key": "R3",
+      "read_index": "7",
+      "source_jp": "右スティック押し込み",
+      "source_en": "Right Stick Click",
+      "text": "Rechten Stick drücken"
+    },
+    {
+      "key": "RU",
+      "read_index": "8",
+      "source_jp": "1ボタン",
+      "source_en": "Button 1",
+      "text": "Taste 1"
+    },
+    {
+      "key": "RD",
+      "read_index": "9",
+      "source_jp": "3ボタン",
+      "source_en": "Button 3",
+      "text": "Taste 3"
+    },
+    {
+      "key": "RL",
+      "read_index": "10",
+      "source_jp": "4ボタン",
+      "source_en": "Button 4",
+      "text": "Taste 4"
+    },
+    {
+      "key": "RR",
+      "read_index": "11",
+      "source_jp": "2ボタン",
+      "source_en": "Button 2",
+      "text": "Taste 2"
+    },
+    {
+      "key": "KEY",
+      "read_index": "12",
+      "source_jp": "方向キー",
+      "source_en": "DPad",
+      "text": "Steuerkreuz"
+    },
+    {
+      "key": "K_ARROW",
+      "read_index": "13",
+      "source_jp": "方向キーの上下左右",
+      "source_en": "DPad Up/Down/Left/Right",
+      "text": "Steuerkreuz ↑/↓/←/→"
+    },
+    {
+      "key": "K_UPDOWN",
+      "read_index": "14",
+      "source_jp": "方向キーの上下",
+      "source_en": "DPad Up/Down",
+      "text": "Steuerkreuz ↑/↓"
+    },
+    {
+      "key": "K_SIDE",
+      "read_index": "15",
+      "source_jp": "方向キーの左右",
+      "source_en": "DPad Left/Right",
+      "text": "Steuerkreuz ←/→"
+    },
+    {
+      "key": "K_UP",
+      "read_index": "16",
+      "source_jp": "方向キー上",
+      "source_en": "DPad Up",
+      "text": "Steuerkreuz ↑"
+    },
+    {
+      "key": "K_DOWN",
+      "read_index": "17",
+      "source_jp": "方向キー下",
+      "source_en": "DPad Down",
+      "text": "Steuerkreuz ↓"
+    },
+    {
+      "key": "K_LEFT",
+      "read_index": "18",
+      "source_jp": "方向キー左",
+      "source_en": "DPad Left",
+      "text": "Steuerkreuz ←"
+    },
+    {
+      "key": "K_RIGHT",
+      "read_index": "19",
+      "source_jp": "方向キー右",
+      "source_en": "DPad Right",
+      "text": "Steuerkreuz →"
+    },
+    {
+      "key": "L_STICK",
+      "read_index": "20",
+      "source_jp": "左スティック",
+      "source_en": "Left Stick",
+      "text": "Linker Stick"
+    },
+    {
+      "key": "R_STICK",
+      "read_index": "21",
+      "source_jp": "右スティック",
+      "source_en": "Right Stick",
+      "text": "Rechter Stick"
+    },
+    {
+      "key": "keyname_key_jpn",
+      "read_index": "22",
+      "source_jp": "キー",
+      "source_en": "Key",
+      "text": "Taste"
+    },
+    {
+      "key": "keyname_mouse_left",
+      "read_index": "64",
+      "source_jp": "マウス左ボタン",
+      "source_en": "Left Mouse Button",
+      "text": "Linke Maustaste"
+    },
+    {
+      "key": "keyname_mouse_right",
+      "read_index": "65",
+      "source_jp": "マウス右ボタン",
+      "source_en": "Right Mouse Button",
+      "text": "Rechte Maustaste"
+    },
+    {
+      "key": "keyname_mouse_center",
+      "read_index": "66",
+      "source_jp": "マウス中ボタン",
+      "source_en": "Middle Mouse Button",
+      "text": "Mittlere Maustaste"
+    },
+    {
+      "key": "keyname_mouse_wheel",
+      "read_index": "67",
+      "source_jp": "マウスホイール",
+      "source_en": "Mouse Wheel",
+      "text": "Mausrad"
+    }
+  ]
+}

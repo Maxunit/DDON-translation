@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\CommunityList_res.gmd",
+  "arc_path": "\\ui\\uGUICommunityList.arc",
+  "entries": [
+    {
+      "key": "COMLIST_MSG_BLACK_LIST",
+      "read_index": "0",
+      "source_jp": "ブラックリスト",
+      "source_en": "Blacklist",
+      "text": "Sperrliste"
+    },
+    {
+      "key": "COMLIST_MSG_FRIEND",
+      "read_index": "1",
+      "source_jp": "フレンド",
+      "source_en": "Friends",
+      "text": "Freunde"
+    },
+    {
+      "key": "COMLIST_MSG_REGIST_NUMOFPEAPLE",
+      "read_index": "3",
+      "source_jp": "登録人数",
+      "source_en": "Number",
+      "text": "Anzahl"
+    },
+    {
+      "key": "COMLIST_MSG_BETWEEN_APPLICATION",
+      "read_index": "4",
+      "source_jp": "申請中",
+      "source_en": "Pending",
+      "text": "Ausstehend"
+    },
+    {
+      "key": "COMLIST_MSG_WAIT_APPROVAL",
+      "read_index": "5",
+      "source_jp": "承認待",
+      "source_en": "Pending",
+      "text": "Ausstehend"
+    },
+    {
+      "key": "COMLIST_MSG_JOB_LV",
+      "read_index": "7",
+      "source_jp": "ジョブレベル",
+      "source_en": "Vocation LV.",
+      "text": "Klassenstufe"
+    },
+    {
+      "key": "COMLIST_MSG_LOBBY_ID",
+      "read_index": "8",
+      "source_jp": "ワールド",
+      "source_en": "World",
+      "text": "Kanal"
+    },
+    {
+      "key": "COMLIST_MSG_PARTY_PL_NUM",
+      "read_index": "9",
+      "source_jp": "Party",
+      "source_en": "Party Members",
+      "text": "Gruppenmitglieder"
+    },
+    {
+      "key": "COMLIST_MSG_COMMENT",
+      "read_index": "10",
+      "source_jp": "コメント",
+      "source_en": "Comment",
+      "text": "Kommentar"
+    },
+    {
+      "key": "COMLIST_MSG_COMMUNITY_LIST",
+      "read_index": "11",
+      "source_jp": "Community List",
+      "source_en": "Community List",
+      "text": "Kontaktliste"
+    },
+    {
+      "key": "COMLIST_MSG_FRIEND_LIST",
+      "read_index": "13",
+      "source_jp": "フレンドリスト",
+      "source_en": "Friends only",
+      "text": "Nur Freunde"
+    },
+    {
+      "key": "COMLIST_MSG_RECENT_LIST",
+      "read_index": "15",
+      "source_jp": "最近遊んだプレイヤー",
+      "source_en": "Recent",
+      "text": "Letzte Kontakte"
+    },
+    {
+      "key": "COMLIST_MSG_ANA_0_FRIEND",
+      "read_index": "16",
+      "source_jp": "フレンドがいません",
+      "source_en": "No friends",
+      "text": "Keine Freunde vorhanden."
+    },
+    {
+      "key": "COMLIST_MSG_ANA_0_ACTIVE",
+      "read_index": "17",
+      "source_jp": "オンライン中のフレンド、クランメンバーがいません",
+      "source_en": "No online friends or clanmates",
+      "text": "Keine Freunde oder Clanmitglieder online."
+    },
+    {
+      "key": "COMLIST_MSG_ANA_0_RECENT",
+      "read_index": "18",
+      "source_jp": "最近遊んだ人はいません",
+      "source_en": "No recent players",
+      "text": "Keine kürzlichen Kontakte."
+    },
+    {
+      "key": "COMLIST_MSG_ANA_0_BLACK",
+      "read_index": "19",
+      "source_jp": "ブラックリストに登録されている人はいません",
+      "source_en": "Nobody has been blacklisted",
+      "text": "Die Sperrliste ist leer."
+    }
+  ]
+}

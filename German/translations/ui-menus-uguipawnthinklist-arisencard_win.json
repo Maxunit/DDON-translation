@@ -1,0 +1,463 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\ArisenCard_win.gmd",
+  "arc_path": "\\ui\\uGUIPawnThinkList.arc",
+  "entries": [
+    {
+      "key": "ARISEN_CARD_TEXT_ARISENCARDJP",
+      "read_index": "1",
+      "source_jp": "覚者プロフィール",
+      "source_en": "Arisen Profile",
+      "text": "Erwecktenprofil"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PAWNCARDJP",
+      "read_index": "3",
+      "source_jp": "ポーンプロフィール",
+      "source_en": "Pawn profile",
+      "text": "Vasallenprofil"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CARDMENU",
+      "read_index": "4",
+      "source_jp": "プロフィールの編集",
+      "source_en": "Edit Profile",
+      "text": "Profil bearbeiten"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CLAN",
+      "read_index": "5",
+      "source_jp": "Clan",
+      "source_en": "Clan only",
+      "text": "Nur Clan"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_MEMBER",
+      "read_index": "7",
+      "source_jp": "メンバー数",
+      "source_en": "Members",
+      "text": "Mitglieder"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_LGOAL",
+      "read_index": "11",
+      "source_jp": "冒険目的",
+      "source_en": "Adventure Purpose",
+      "text": "Abenteuerziel"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_SGOAL",
+      "read_index": "12",
+      "source_jp": "活動場所",
+      "source_en": "Activity Location",
+      "text": "Einsatzort"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_STYLE",
+      "read_index": "13",
+      "source_jp": "プレイスタイル",
+      "source_en": "Play Style",
+      "text": "Spielstil"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_TABPROFILE",
+      "read_index": "14",
+      "source_jp": "プロフィール",
+      "source_en": "Profile",
+      "text": "Profil"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_TABHISTORY",
+      "read_index": "17",
+      "source_jp": "ヒストリー",
+      "source_en": "History",
+      "text": "Verlauf"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_TABPLAYER",
+      "read_index": "18",
+      "source_jp": "功績・竜力の継承",
+      "source_en": "Achievement / Dragon Force",
+      "text": "Erfolge / Drachenkraft"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_TABPAWN",
+      "read_index": "19",
+      "source_jp": "育成・竜力の継承",
+      "source_en": "Training / Dragon Force",
+      "text": "Training / Drachenkraft"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PHYSICALATK",
+      "read_index": "21",
+      "source_jp": "物理攻撃力",
+      "source_en": "Phys. Atk",
+      "text": "Phys. Angr."
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_MAGICALATK",
+      "read_index": "22",
+      "source_jp": "魔法攻撃力",
+      "source_en": "Magick Atk",
+      "text": "Mag. Angr."
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PHYSICALDEF",
+      "read_index": "23",
+      "source_jp": "物理防御力",
+      "source_en": "Phys. Def",
+      "text": "Phys. Abw."
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_MAGICALDEF",
+      "read_index": "24",
+      "source_jp": "魔法防御力",
+      "source_en": "Magick Def",
+      "text": "Mag. Abw."
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_KNOCKEDATK",
+      "read_index": "29",
+      "source_jp": "気絶攻力",
+      "source_en": "Stun Power",
+      "text": "Betäubungskraft"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_DEFPWR",
+      "read_index": "31",
+      "source_jp": "耐久力",
+      "source_en": "Endurance",
+      "text": "Standfestigkeit"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CUREPWR",
+      "read_index": "32",
+      "source_jp": "生命治癒力",
+      "source_en": "Recovery Limit",
+      "text": "Heilvermögen"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CUSTOMSKILL",
+      "read_index": "40",
+      "source_jp": "カスタムスキル",
+      "source_en": "Custom Skill",
+      "text": "Spezialfertigkeit"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_NORMALSKILL",
+      "read_index": "41",
+      "source_jp": "ノーマルスキル",
+      "source_en": "Core Skills",
+      "text": "Grundfertigkeiten"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CRAFT",
+      "read_index": "43",
+      "source_jp": "Craft",
+      "source_en": "Craft Menu",
+      "text": "Handwerk"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PHARMACY",
+      "read_index": "44",
+      "source_jp": "生産作業スピード",
+      "source_en": "Production Speed",
+      "text": "Herstellungstempo"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_FORGING",
+      "read_index": "45",
+      "source_jp": "装備の強化技術",
+      "source_en": "Equipment Enhancement",
+      "text": "Ausrüstung verstärken"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_SEWING",
+      "read_index": "46",
+      "source_jp": "高品質装備の作成力",
+      "source_en": "Equipment Quality",
+      "text": "Ausrüstungsqualität"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CHASING",
+      "read_index": "47",
+      "source_jp": "消耗品の生産数アップ",
+      "source_en": "Consumable Quantity",
+      "text": "Verbrauchsgütermenge"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_HERMETIC",
+      "read_index": "48",
+      "source_jp": "コストパフォーマンス",
+      "source_en": "Cost Performance",
+      "text": "Materialeffizienz"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_OWNER",
+      "read_index": "49",
+      "source_jp": "覚者：",
+      "source_en": "Arisen:",
+      "text": "Erweckter:"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_NOJOIN",
+      "read_index": "53",
+      "source_jp": "クランには所属していません。",
+      "source_en": "Does not belong to a clan.",
+      "text": "Gehört keinem Clan an."
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_ADV",
+      "read_index": "54",
+      "source_jp": "冒険",
+      "source_en": "Adventure",
+      "text": "Abenteuer"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_BATTLE",
+      "read_index": "55",
+      "source_jp": "戦闘",
+      "source_en": "Combat",
+      "text": "Kampf"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_GATHER",
+      "read_index": "56",
+      "source_jp": "収集",
+      "source_en": "Collecting",
+      "text": "Sammeln"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_OHTER",
+      "read_index": "58",
+      "source_jp": "その他",
+      "source_en": "Other",
+      "text": "Sonstiges"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_TOTALVALUE",
+      "read_index": "61",
+      "source_jp": "総合評価",
+      "source_en": "Comprehensive Evaluation",
+      "text": "Gesamtwertung"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_RENTALNUM",
+      "read_index": "62",
+      "source_jp": "レンタル回数",
+      "source_en": "Rental Total",
+      "text": "Anwerbungen"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_BATTLENUM",
+      "read_index": "63",
+      "source_jp": "敵の討伐数",
+      "source_en": "Enemies Defeated",
+      "text": "Besiegte Gegner"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CRAFTNUM",
+      "read_index": "64",
+      "source_jp": "クラフト回数",
+      "source_en": "Craft Total",
+      "text": "Herstellungen"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_LOOKSVALUE",
+      "read_index": "65",
+      "source_jp": "外見平均評価",
+      "source_en": "Average Appearance Rating",
+      "text": "Ø Aussehenswertung"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_BATTLEVALUE",
+      "read_index": "66",
+      "source_jp": "冒険平均評価",
+      "source_en": "Average Battle Rating",
+      "text": "Ø Abenteuerwertung"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CRAFTVALUE",
+      "read_index": "67",
+      "source_jp": "クラフト平均評価",
+      "source_en": "Average Craft Rating",
+      "text": "Ø Handwerkswertung"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_EDITPROFILE",
+      "read_index": "68",
+      "source_jp": "プロフィールの編集",
+      "source_en": "Edit Profile",
+      "text": "Profil bearbeiten"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CHANGEBG",
+      "read_index": "69",
+      "source_jp": "背景の変更",
+      "source_en": "Change Background",
+      "text": "Hintergrund ändern"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CHANGEPOSE",
+      "read_index": "70",
+      "source_jp": "ポーズの変更",
+      "source_en": "Change Pose",
+      "text": "Pose ändern"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CHANGEMYTITLE",
+      "read_index": "71",
+      "source_jp": "称号の変更",
+      "source_en": "Change Title",
+      "text": "Titel ändern"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_NOSKILL",
+      "read_index": "75",
+      "source_jp": "なし",
+      "source_en": "None",
+      "text": "Keine"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_TITLE",
+      "read_index": "76",
+      "source_jp": "称号",
+      "source_en": "Title",
+      "text": "Titel"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_NOTITLE",
+      "read_index": "77",
+      "source_jp": "称号設定なし",
+      "source_en": "No Title Set",
+      "text": "Kein Titel gewählt"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_HISTORYGETACHIEVE",
+      "read_index": "79",
+      "source_jp": "<VAL> を獲得しました",
+      "source_en": "Earned achievement <VAL>",
+      "text": "Erfolg erreicht: <VAL>"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_ACHIEVEMENT",
+      "read_index": "80",
+      "source_jp": "アチーブメント",
+      "source_en": "Achievement",
+      "text": "Erfolge"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_BATTLEUSENUM",
+      "read_index": "82",
+      "source_jp": "残り冒険回数",
+      "source_en": "Remaining Adventures",
+      "text": "Verbleibende Abenteuer"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CRAFTUSENUM",
+      "read_index": "83",
+      "source_jp": "残りクラフト回数",
+      "source_en": "Remaining Crafts",
+      "text": "Verbleibende Herstellungen"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_RENTALVALUE",
+      "read_index": "84",
+      "source_jp": "レンタルコスト",
+      "source_en": "Rental Cost",
+      "text": "Anwerbekosten"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_NOWRENTAL",
+      "read_index": "85",
+      "source_jp": "レンタル中",
+      "source_en": "Currently Renting",
+      "text": "Derzeit angeheuert"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PLAYABLEJOB",
+      "read_index": "87",
+      "source_jp": "遊びたいジョブ",
+      "source_en": "Preferred Job",
+      "text": "Bevorzugte Klasse"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PT_OK",
+      "read_index": "88",
+      "source_jp": "許可する",
+      "source_en": "Allow",
+      "text": "Annehmen"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PT_NG",
+      "read_index": "89",
+      "source_jp": "許可しない",
+      "source_en": "Disallow",
+      "text": "Ablehnen"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_NOHISTORY",
+      "read_index": "92",
+      "source_jp": "履歴はありません",
+      "source_en": "There is no history.",
+      "text": "Kein Verlauf vorhanden."
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_RENTALHISTORY",
+      "read_index": "93",
+      "source_jp": "レンタル履歴",
+      "source_en": "Rental History",
+      "text": "Anwerbeverlauf"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_DATING",
+      "read_index": "94",
+      "source_jp": "日付",
+      "source_en": "Date",
+      "text": "Datum"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_LIKABILITY",
+      "read_index": "96",
+      "source_jp": "プレゼントした数",
+      "source_en": "Number of Presents",
+      "text": "Geschenke"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PAWNTHINK_TOTALNUM",
+      "read_index": "101",
+      "source_jp": "育成LV",
+      "source_en": "Training LV",
+      "text": "Trainingsstufe"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PSPSKILL_1",
+      "read_index": "102",
+      "source_jp": "特技",
+      "source_en": "Special Skill",
+      "text": "Besondere Fertigkeit"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PSPSKILL_2",
+      "read_index": "103",
+      "source_jp": "特技の詳細",
+      "source_en": "Special Skill Details",
+      "text": "Details zur Fertigkeit"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_TABSKILL",
+      "read_index": "104",
+      "source_jp": "スキル",
+      "source_en": "Skills",
+      "text": "Fertigkeiten"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_TABPLAYER2",
+      "read_index": "105",
+      "source_jp": "功績",
+      "source_en": "Achievements",
+      "text": "Erfolge"
+    }
+  ]
+}

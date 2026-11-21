@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\achievement_list.gmd",
+  "arc_path": "\\ui\\uGUIAchievement.arc",
+  "entries": [
+    {
+      "key": "ACHIEVEMENT_MSG_LIST_01",
+      "read_index": "2",
+      "source_jp": "Category",
+      "source_en": "Category",
+      "text": "Kategorie"
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_LIST_03",
+      "read_index": "3",
+      "source_jp": "Reward",
+      "source_en": "Reward",
+      "text": "Belohnung"
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_WALLPAPER",
+      "read_index": "6",
+      "source_jp": "背景",
+      "source_en": "Backgrounds",
+      "text": "Hintergründe"
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_WALLPAPER_EXPLANATION",
+      "read_index": "7",
+      "source_jp": "背景を獲得すると、覚者プロフィールで使用できます",
+      "source_en": "Unlocked backgrounds can be used in the Arisen\r\nprofile.",
+      "text": "Freigeschaltete Hintergründe kannst du\r\nim Erwecktenprofil verwenden."
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_FURNITURE",
+      "read_index": "8",
+      "source_jp": "クラフトレシピ",
+      "source_en": "Craft Recipes",
+      "text": "Baupläne"
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_NOT_COMPLETE",
+      "read_index": "9",
+      "source_jp": "未達成",
+      "source_en": "Not Achieved",
+      "text": "Offen"
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_RECEIVE_ENABLE",
+      "read_index": "10",
+      "source_jp": "受け取り可",
+      "source_en": "Receivable",
+      "text": "Abholbereit"
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_RECEIVED",
+      "read_index": "11",
+      "source_jp": "受け取り済",
+      "source_en": "Received",
+      "text": "Erhalten"
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_FURNITURE_EXPLANATION",
+      "read_index": "12",
+      "source_jp": "クラフトレシピを獲得すると、クラフトでアイテムが作成できます",
+      "source_en": "Once you have a craft recipe you can craft the\r\nitem.",
+      "text": "Mit einem Bauplan kannst du\r\nden Gegenstand herstellen."
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_RECEIVE_NOTICE",
+      "read_index": "13",
+      "source_jp": "アチーブメント報酬を受け取りました",
+      "source_en": "Achievement reward received.",
+      "text": "Erfolgsbelohnung erhalten."
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_NOTHING",
+      "read_index": "14",
+      "source_jp": "表示できる項目がありません",
+      "source_en": "There are no items to display",
+      "text": "Keine Einträge vorhanden"
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_FILTER_UNCOMPLETE",
+      "read_index": "15",
+      "source_jp": "未達成アチーブメントだけを表示",
+      "source_en": "Show only unearned achievements",
+      "text": "Nur offene Erfolge anzeigen"
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_FILTER_COMPLETE",
+      "read_index": "16",
+      "source_jp": "達成済みアチーブメントだけを表示",
+      "source_en": "Show only earned achievements",
+      "text": "Nur erreichte Erfolge anzeigen"
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_LIST_02",
+      "read_index": "17",
+      "source_jp": "Great Purpose",
+      "source_en": "Great Purpose",
+      "text": "Ziel"
+    }
+  ]
+}

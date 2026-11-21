@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Sichttest",
+  "gmd_path": "ui\\00_message\\ui\\keyconfig.gmd",
+  "arc_path": "\\ui\\uGUIKeyConfig.arc",
+  "entries": [
+    {
+      "key": "kc_cap_category",
+      "read_index": "2",
+      "source_jp": "Category",
+      "source_en": "Category",
+      "text": "Kategorie"
+    },
+    {
+      "key": "kc_title_en",
+      "read_index": "0",
+      "source_jp": "Keyconfig",
+      "source_en": "Key Config",
+      "text": "Tasten"
+    }
+  ]
+}

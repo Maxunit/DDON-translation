@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Sichttest",
+  "gmd_path": "ui\\00_message\\ui\\ArisenCard.gmd",
+  "arc_path": "\\ui\\uGUIArisenCardPop.arc",
+  "entries": [
+    {
+      "key": "ARISEN_CARD_TEXT_ABILITY",
+      "read_index": "39",
+      "source_jp": "Ability",
+      "source_en": "Ability",
+      "text": "Passive Talente"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_ARISENCARD",
+      "read_index": "0",
+      "source_jp": "Arisen Profile",
+      "source_en": "Arisen Profile",
+      "text": "Profil"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CLASS",
+      "read_index": "60",
+      "source_jp": "Class <VAL>",
+      "source_en": "Class <VAL>",
+      "text": "Rang <VAL>"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_COST",
+      "read_index": "42",
+      "source_jp": "Cost",
+      "source_en": "Cost",
+      "text": "Kosten"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_GROW",
+      "read_index": "57",
+      "source_jp": "成長",
+      "source_en": "Growth",
+      "text": "Wachstum"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_INVITEPARTY",
+      "read_index": "78",
+      "source_jp": "パーティー参加",
+      "source_en": "Party Invites",
+      "text": "Einladungen"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PAWNCARD",
+      "read_index": "2",
+      "source_jp": "Pawn Profile",
+      "source_en": "Pawn Profile",
+      "text": "Vasall"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_SKILL",
+      "read_index": "38",
+      "source_jp": "Skill",
+      "source_en": "Skill",
+      "text": "Fertigkeiten"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_TABSKILLABI",
+      "read_index": "16",
+      "source_jp": "スキル・アビリティ",
+      "source_en": "Skills / Augments",
+      "text": "Fertigkeiten"
+    }
+  ]
+}

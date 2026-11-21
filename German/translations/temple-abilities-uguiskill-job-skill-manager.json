@@ -40,13 +40,6 @@
       "text": "Begabungen"
     },
     {
-      "key": "heading_change_skill_ability",
-      "read_index": "5",
-      "source_jp": "スキル・アビリティ習得/装備",
-      "source_en": " Learn/Equip Skills and Augments",
-      "text": "Techniken lernen und ausrüsten"
-    },
-    {
       "key": "tab_normal_skill",
       "read_index": "6",
       "source_jp": "ノーマルスキル",
@@ -87,20 +80,6 @@
       "source_jp": "LV.MAX",
       "source_en": "LV.MAX",
       "text": "Max. Stufe"
-    },
-    {
-      "key": "heading_current_skill",
-      "read_index": "12",
-      "source_jp": "Set Custom Skill",
-      "source_en": "Set Custom Skill",
-      "text": "Ausgerüstete Spezialfertigkeiten"
-    },
-    {
-      "key": "heading_current_ability",
-      "read_index": "13",
-      "source_jp": "Set Ability",
-      "source_en": "Set Augment",
-      "text": "Ausgerüstete Begabungen"
     },
     {
       "key": "error_joblevel",
@@ -166,13 +145,6 @@
       "text": "Bedienung"
     },
     {
-      "key": "heading_change_skill_ability_eng",
-      "read_index": "37",
-      "source_jp": "Skills/Abilities",
-      "source_en": "Skills/Augments",
-      "text": "Fertigkeiten / Begabungen"
-    },
-    {
       "key": "custom_skill_cmd_title",
       "read_index": "38",
       "source_jp": "操作選択",
@@ -201,13 +173,6 @@
       "text": "Untermenü"
     },
     {
-      "key": "need_level_to_get",
-      "read_index": "44",
-      "source_jp": "ジョブレベル：<VAL>",
-      "source_en": "Job Level: <VAL>",
-      "text": "Klassenstufe: <VAL>"
-    },
-    {
       "key": "get_conditions",
       "read_index": "46",
       "source_jp": "習得条件",
@@ -220,13 +185,6 @@
       "source_jp": "ジョブポイント：<VAL>",
       "source_en": "Job Points: <VAL>",
       "text": "Klassenpunkte: <VAL>"
-    },
-    {
-      "key": "level_up_conditions",
-      "read_index": "48",
-      "source_jp": "次のレベルアップ条件",
-      "source_en": "Level Up Requirements",
-      "text": "Voraussetzungen für Stufenaufstieg"
     },
     {
       "key": "heading_skill",

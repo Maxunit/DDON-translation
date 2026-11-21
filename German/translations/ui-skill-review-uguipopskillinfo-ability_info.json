@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Kampftechniken",
+  "gmd_path": "ui\\00_message\\skill\\ability_info.gmd",
+  "arc_path": "\\ui\\uGUIPopSkillInfo.arc",
+  "entries": [
+    {
+      "key": "ABILITY_INFO_467",
+      "read_index": "10",
+      "source_jp": "魔印の減退速度が低下する\r\n<COL ffdc78>LV UP毎により減退速度がさらに低下</COL>",
+      "source_en": "Slows the drain of Magick Glyph.\r\n<COL ffdc78>LV UP: Further decreases the\r\ndrain.</COL>\r\n<COL B6FF01>Cost: 4</COL>",
+      "text": "Das Magiesiegel schwindet langsamer.\r\n<COL ffdc78>Je Stufe schwindet es noch langsamer.</COL>\r\n<COL B6FF01>Kosten: 4</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_468",
+      "read_index": "58",
+      "source_jp": "瀕死時に剣による攻撃の魔力吸収量が増加する\r\n<COL ffdc78>LV UP毎に魔力吸収量がより増加</COL>",
+      "source_en": "Sword attacks absorb more Magick\r\nwhile below 15% HP at Death's Door.\r\n<COL ffdc78>LV UP: Further increases magickal energy absorption.</COL>\r\n<COL B6FF01>Cost: 3</COL>",
+      "text": "Bei kritischen LP nehmen Schwertangriffe\r\nmehr Magie auf.\r\n<COL ffdc78>Je Stufe steigt die Aufnahme weiter.</COL>\r\n<COL B6FF01>Kosten: 3</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_469",
+      "read_index": "46",
+      "source_jp": "ルイン・ショットのダメージ量と\r\n吹き飛ばし力と弾速が増加する\r\n<COL ffdc78>LV UP毎にダメージと吹き飛ばし力がより増加</COL>",
+      "source_en": "Increases damage and Knockdown Power of Ruin Shot.\r\n<COL ffdc78>LV UP: Further increases damage and\r\nKnockdown Power.</COL>\r\n<COL B6FF01>Cost: 6</COL>",
+      "text": "Erhöht Schaden, Wucht und Tempo des\r\nRuinenschusses.\r\n<COL ffdc78>Je Stufe steigen Schaden und Wucht.</COL>\r\n<COL B6FF01>Kosten: 6</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_472",
+      "read_index": "94",
+      "source_jp": "剣による攻撃の魔力吸収量が上がる\r\n<COL ffdc78>LV UP毎に魔力吸収量がより増加</COL>",
+      "source_en": "Sword attacks absorb up to 15% more Magick.\r\n<COL ffdc78>LV UP: Further increases amount absorbed.</COL>\r\n<COL B6FF01>Cost: 4</COL>",
+      "text": "Schwertangriffe nehmen mehr Magie auf.\r\n<COL ffdc78>Je Stufe steigt die Aufnahme weiter.</COL>\r\n<COL B6FF01>Kosten: 4</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_473",
+      "read_index": "22",
+      "source_jp": "属性の付与されたルイン・ブレードで\r\nより敵を状態異常にかかりやすくする\r\n<COL ffdc78>LV UP毎に状態異常値がより増加</COL>",
+      "source_en": "Ruin Blade accumulates element faster when\r\nenchanted.\r\n<COL ffdc78>LV UP: Increases status effect\r\naccumulation.</COL>\r\n<COL B6FF01>Cost: 10</COL>",
+      "text": "Ein elementar verstärktes Ruinenschwert\r\nlöst Zustände leichter aus.\r\n<COL ffdc78>Je Stufe bauen sie sich schneller auf.</COL>\r\n<COL B6FF01>Kosten: 10</COL>"
+    },
+    {
+      "key": "ABILITY_INFO_478",
+      "read_index": "34",
+      "source_jp": "攻撃を受けて体勢を崩された際の魔印の減退速度が低下する\r\n<COL ffdc78>LV UP毎により減退速度がさらに低下</COL>",
+      "source_en": "Slows the drain of Magick Glyph when you are\r\ndamaged or staggered.\r\n<COL ffdc78>LV UP: Further reduces the\r\ndrain.</COL>\r\n<COL B6FF01>Cost: 2</COL>",
+      "text": "Das Magiesiegel schwindet langsamer,\r\nwenn ein Treffer dich ins Taumeln bringt.\r\n<COL ffdc78>Je Stufe schwindet es noch langsamer.</COL>\r\n<COL B6FF01>Kosten: 2</COL>"
+    }
+  ]
+}

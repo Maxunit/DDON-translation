@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\system_messasge_win.gmd",
+  "arc_path": "\\systemFlow.arc",
+  "entries": [
+    {
+      "key": "sys_announce_controllernotconnect",
+      "read_index": "0",
+      "source_jp": "<PFWD 0>が接続されていません",
+      "source_en": "<PFWD 0> is not currently connected.",
+      "text": "<PFWD 0> ist nicht angeschlossen."
+    },
+    {
+      "key": "sys_announce_notenoughstorage",
+      "read_index": "2",
+      "source_jp": "ハードディスクドライブの空き容量が不足しています\r\nゲームを開始するためには\r\n<VAL 0> 以上の空き容量が必要です\r\nゲームを終了して空き容量を確保してください",
+      "source_en": "Insufficient free space on the HDD.\r\nIn order to start the game,\r\nmore than <VAL 0> is required.\r\nPlease exit the game and free the space necessary.",
+      "text": "Nicht genug Speicherplatz.\r\nZum Start sind mindestens <VAL 0> nötig.\r\nBeende das Spiel und gib Speicherplatz frei."
+    },
+    {
+      "key": "sys_announce_newsave",
+      "read_index": "4",
+      "source_jp": "新規にセーブデータを作成しています\r\nPCの電源を切らないでください",
+      "source_en": "Creating new save data.\r\nDo not turn off the PC.",
+      "text": "Ein Spielstand wird erstellt.\r\nBitte schalte den PC nicht aus."
+    },
+    {
+      "key": "sys_announce_savedata_broken",
+      "read_index": "5",
+      "source_jp": "セーブデータが破損しています\r\nセーブデータを破棄して\r\n新規に作成しますか？",
+      "source_en": "Save data is corrupted\r\nand will be discarded.\r\nDo you want to create a new save?",
+      "text": "Der Spielstand ist beschädigt und wird verworfen.\r\nNeuen Spielstand erstellen?"
+    },
+    {
+      "key": "sys_announce_ps3_loadfail",
+      "read_index": "6",
+      "source_jp": "セーブデータをロードできませんでした\r\nセーブデータを破棄して\r\n新規に作成しますか？",
+      "source_en": "Save data could not be loaded,\r\nand will be discarded.\r\nDo you want to create a new save?",
+      "text": "Der Spielstand konnte nicht geladen werden\r\nund wird verworfen. Neuen Spielstand erstellen?"
+    },
+    {
+      "key": "sys_announce_notuse_anothersave",
+      "read_index": "7",
+      "source_jp": "他のユーザーのセーブデータを\r\n使用することはできません\r\nセーブデータを破棄して\r\n新規に作成します",
+      "source_en": "Other user's save data\r\ncannot be used and will be discarded.\r\nPlease create a new save.",
+      "text": "Dieser Spielstand gehört einem anderen Konto.\r\nEr wird verworfen und ein neuer erstellt."
+    },
+    {
+      "key": "sys_announce_goto_launcher",
+      "read_index": "8",
+      "source_jp": "セーブデータを準備できませんでした\r\nランチャーへ戻ります",
+      "source_en": "Could not create save data.\r\nExiting to the launcher.",
+      "text": "Spielstand konnte nicht erstellt werden.\r\nRückkehr zum Launcher."
+    },
+    {
+      "key": "sys_announce_failedsave",
+      "read_index": "9",
+      "source_jp": "セーブデータの保存に失敗しました",
+      "source_en": "Failed to save.",
+      "text": "Speichern fehlgeschlagen."
+    },
+    {
+      "key": "sys_announce_check_strage_fail",
+      "read_index": "11",
+      "source_jp": "ハードディスクドライブ容量の\r\nチェックに失敗しました\r\nランチャーへ戻ります",
+      "source_en": "Checking HDD capacity failed.\r\nExiting to the launcher.",
+      "text": "Speicherplatz konnte nicht geprüft werden.\r\nRückkehr zum Launcher."
+    },
+    {
+      "key": "sys_announce_trophy_fail",
+      "read_index": "12",
+      "source_jp": "トロフィーデータの準備に失敗しました\r\nランチャーへ戻ります",
+      "source_en": "Failed to create trophy data.\r\nExiting to the launcher.",
+      "text": "Trophäendaten konnten nicht erstellt werden.\r\nRückkehr zum Launcher."
+    },
+    {
+      "key": "sys_announce_firstoption",
+      "read_index": "13",
+      "source_jp": "操作デバイスを選択してください\r\n※この項目はデバイス設定からいつでも変更できます",
+      "source_en": "Please select the input device.\r\n※ This selection can be changed at any time from\r\nthe settings menu.",
+      "text": "Wähle ein Eingabegerät.\r\nDu kannst es später in den Einstellungen ändern."
+    },
+    {
+      "key": "sys_announce_choice_mouse",
+      "read_index": "15",
+      "source_jp": "マウス・キーボード",
+      "source_en": "Mouse/Keyboard",
+      "text": "Maus und Tastatur"
+    },
+    {
+      "key": "sys_announce_calibration",
+      "read_index": "16",
+      "source_jp": "<PFWD 0>のボタン配置を初期化しました\r\nボタン配置の確認後\r\n必要であれば配置変更を行ってください",
+      "source_en": "Initialized inputs from <PFWD 0>.\r\nAfter checking the button layout, you may change\r\nthe\r\nbutton placement if necessary.",
+      "text": "Die Tastenbelegung für <PFWD 0> wurde eingerichtet.\r\nPrüfe sie und passe sie bei Bedarf an."
+    },
+    {
+      "key": "sys_announce_saving",
+      "read_index": "17",
+      "source_jp": "設定を保存します",
+      "source_en": "Save settings",
+      "text": "Einstellungen speichern"
+    },
+    {
+      "key": "sys_announce_exit",
+      "read_index": "18",
+      "source_jp": "Dragon's Dogma Online を終了しますか？",
+      "source_en": "Are you sure you want to exit Dragon's Dogma\r\nOnline?",
+      "text": "Dragon’s Dogma Online beenden?"
+    },
+    {
+      "key": "sys_announce_connecting",
+      "read_index": "19",
+      "source_jp": "サーバーと通信中です",
+      "source_en": "Connecting to server.",
+      "text": "Verbindung zum Server wird aufgebaut."
+    },
+    {
+      "key": "sys_announce_firstoption_uisize",
+      "read_index": "20",
+      "source_jp": "UIの表示設定を選択してください\r\n(解像度1600×900 以上で有効になります)",
+      "source_en": "Please select the UI display setting.\r\n(Available when resolution is 1600×900 or greater)",
+      "text": "Wähle die UI-Größe.\r\nDie Option ist ab 1600 × 900 verfügbar."
+    },
+    {
+      "key": "sys_announce_choice_uilarge",
+      "read_index": "21",
+      "source_jp": "UIを拡大表示する",
+      "source_en": "Enlarge UI",
+      "text": "UI vergrößern"
+    },
+    {
+      "key": "sys_announce_choice_uinormal",
+      "read_index": "22",
+      "source_jp": "UIを拡大表示しない",
+      "source_en": "Do not enlarge UI",
+      "text": "Normale UI-Größe"
+    },
+    {
+      "key": "sys_announce_firstoption_uisize_check",
+      "read_index": "23",
+      "source_jp": "UIの表示サイズはこれでよろしいですか？\r\n※この項目はデバイス設定からいつでも変更できます",
+      "source_en": "Are you sure you want this UI display size?\r\n※ This selection can be changed at any time from\r\nthe settings menu.",
+      "text": "Diese UI-Größe übernehmen?\r\nDu kannst sie später in den Einstellungen ändern."
+    }
+  ]
+}

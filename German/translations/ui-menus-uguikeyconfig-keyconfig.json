@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\keyconfig.gmd",
+  "arc_path": "\\ui\\uGUIKeyConfig.arc",
+  "entries": [
+    {
+      "key": "kc_title_jp",
+      "read_index": "1",
+      "source_jp": "キーコンフィグ",
+      "source_en": "Key Config",
+      "text": "Tastenbelegung"
+    },
+    {
+      "key": "kc_bt_initialization",
+      "read_index": "3",
+      "source_jp": "すべて初期設定に戻す",
+      "source_en": "Default Keys",
+      "text": "Standardbelegung"
+    },
+    {
+      "key": "kc_cap_operating",
+      "read_index": "4",
+      "source_jp": "操作説明",
+      "source_en": "Operation Description",
+      "text": "Funktionsbeschreibung"
+    },
+    {
+      "key": "kc_pulldown_unspecified",
+      "read_index": "5",
+      "source_jp": "指定なし",
+      "source_en": "None",
+      "text": "Keine Sortierung"
+    },
+    {
+      "key": "kc_ng_can_not_be_changed",
+      "read_index": "6",
+      "source_jp": "このキーは変更できません",
+      "source_en": "This key can't be changed",
+      "text": "Diese Taste lässt sich nicht ändern."
+    },
+    {
+      "key": "kc_pulldown_number",
+      "read_index": "7",
+      "source_jp": "番号順",
+      "source_en": "Sorted by Number",
+      "text": "Nach Nummer"
+    },
+    {
+      "key": "kc_pulldown_group",
+      "read_index": "8",
+      "source_jp": "グループ順",
+      "source_en": "Sorted by Group",
+      "text": "Nach Gruppe"
+    },
+    {
+      "key": "kc_pulldown_setting",
+      "read_index": "9",
+      "source_jp": "現在の設定キー順",
+      "source_en": "Sorted by Current Key Config",
+      "text": "Nach aktueller Belegung"
+    },
+    {
+      "key": "kc_ng_overlap",
+      "read_index": "10",
+      "source_jp": "%s番と重複しています",
+      "source_en": "Overlapping with %s",
+      "text": "Bereits für %s belegt"
+    },
+    {
+      "key": "kc_attention_disable_2stroke",
+      "read_index": "11",
+      "source_jp": "ShiftキーやCtrlキーとの同時押し登録はできません",
+      "source_en": "You can't register with Shift key or Ctrl key at\r\nthe same time",
+      "text": "Tastenkombinationen mit Umschalt oder Strg sind nicht möglich."
+    },
+    {
+      "key": "kc_announce_please_enter_the_key",
+      "read_index": "12",
+      "source_jp": "設定したいキーを入力してください",
+      "source_en": "Please press the key you want to set",
+      "text": "Drücke die Taste, die du belegen möchtest."
+    },
+    {
+      "key": "kc_bt_undo",
+      "read_index": "13",
+      "source_jp": "１つ前に戻す",
+      "source_en": "Undo",
+      "text": "Rückgängig"
+    },
+    {
+      "key": "kc_bt_all_blank",
+      "read_index": "14",
+      "source_jp": "すべてブランクキーにする",
+      "source_en": "Blank Keys",
+      "text": "Belegung leeren"
+    }
+  ]
+}

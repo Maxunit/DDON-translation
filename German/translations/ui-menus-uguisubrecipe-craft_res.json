@@ -1,0 +1,1499 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\Craft_res.gmd",
+  "arc_path": "\\ui\\uGUISubRecipe.arc",
+  "entries": [
+    {
+      "key": "CRAFT_MSG_TITLE01",
+      "read_index": "0",
+      "source_jp": "Craft",
+      "source_en": "Craft Menu",
+      "text": "Handwerk"
+    },
+    {
+      "key": "CRAFT_MSG_TITLE02",
+      "read_index": "1",
+      "source_jp": "クラフト",
+      "source_en": "Craft",
+      "text": "Herstellung"
+    },
+    {
+      "key": "MENU_OPT_CRAFT_STATUS",
+      "read_index": "7",
+      "source_jp": "アイテム作成状況",
+      "source_en": "Production Status",
+      "text": "Herstellungsstatus"
+    },
+    {
+      "key": "PAWN_STATUS_STAND_BY",
+      "read_index": "11",
+      "source_jp": "待機",
+      "source_en": "Standby",
+      "text": "Bereit"
+    },
+    {
+      "key": "PAWN_STATUS_WORKING",
+      "read_index": "12",
+      "source_jp": "クラフト中",
+      "source_en": "Crafting",
+      "text": "Beim Handwerk"
+    },
+    {
+      "key": "PAWN_STATUS_COMPLETE",
+      "read_index": "13",
+      "source_jp": "クラフト中（完成）",
+      "source_en": "Crafting (Complete)",
+      "text": "Handwerk (fertig)"
+    },
+    {
+      "key": "PAWN_STATUS_PARTY",
+      "read_index": "14",
+      "source_jp": "パーティー",
+      "source_en": "Party",
+      "text": "In Gruppe"
+    },
+    {
+      "key": "PAWN_STATUS_LOST",
+      "read_index": "15",
+      "source_jp": "ロスト",
+      "source_en": "Lost",
+      "text": "Verloren"
+    },
+    {
+      "key": "BUTTON_CANCEL",
+      "read_index": "16",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "TITLE_ITEM_LIST",
+      "read_index": "17",
+      "source_jp": "Item List",
+      "source_en": "Item List",
+      "text": "Gegenstandsliste"
+    },
+    {
+      "key": "TITLE_MAKE_ITEM",
+      "read_index": "18",
+      "source_jp": "アイテム作成",
+      "source_en": "Created Item",
+      "text": "Hergestellter Gegenstand"
+    },
+    {
+      "key": "HEADING_MAKE_ITEM",
+      "read_index": "19",
+      "source_jp": "作成アイテム",
+      "source_en": "Item to be crafted",
+      "text": "Produkt"
+    },
+    {
+      "key": "HEADING_CRAFT_MEMBER",
+      "read_index": "20",
+      "source_jp": "クラフトメンバー",
+      "source_en": "Craft Member",
+      "text": "Handwerker"
+    },
+    {
+      "key": "HEADING_LEADER",
+      "read_index": "21",
+      "source_jp": "リーダー",
+      "source_en": "Leader",
+      "text": "Leitung"
+    },
+    {
+      "key": "HEADING_ASSISTANT",
+      "read_index": "22",
+      "source_jp": "アシスタント",
+      "source_en": "Assistant",
+      "text": "Assistent"
+    },
+    {
+      "key": "BUTTON_START",
+      "read_index": "24",
+      "source_jp": "作成開始",
+      "source_en": "Start",
+      "text": "Starten"
+    },
+    {
+      "key": "TITLE_PAWN_LIST",
+      "read_index": "25",
+      "source_jp": "Pawn List",
+      "source_en": "Pawn List",
+      "text": "Vasallenliste"
+    },
+    {
+      "key": "TAB_MAIN",
+      "read_index": "26",
+      "source_jp": "メイン",
+      "source_en": "Main",
+      "text": "Hauptvasallen"
+    },
+    {
+      "key": "TAB_SURPPORT",
+      "read_index": "27",
+      "source_jp": "サポート",
+      "source_en": "Support",
+      "text": "Hilfsvasallen"
+    },
+    {
+      "key": "ROW_REQUIRED",
+      "read_index": "40",
+      "source_jp": "必要数",
+      "source_en": "Num",
+      "text": "Menge"
+    },
+    {
+      "key": "HEADING_COST",
+      "read_index": "41",
+      "source_jp": "作業費用",
+      "source_en": "Crafting Cost",
+      "text": "Herstellungskosten"
+    },
+    {
+      "key": "HEADING_TIME",
+      "read_index": "42",
+      "source_jp": "作業時間",
+      "source_en": "Crafting Time",
+      "text": "Herstellungsdauer"
+    },
+    {
+      "key": "HEADING_XP",
+      "read_index": "43",
+      "source_jp": "取得経験値",
+      "source_en": "Experience",
+      "text": "Erfahrung"
+    },
+    {
+      "key": "HEADING_NUMBER",
+      "read_index": "44",
+      "source_jp": "生産個数",
+      "source_en": "Quantity",
+      "text": "Menge"
+    },
+    {
+      "key": "ROW_MATERIAL",
+      "read_index": "45",
+      "source_jp": "素材名",
+      "source_en": "Material Name",
+      "text": "Materialname"
+    },
+    {
+      "key": "DIALOG_CONFIRM_START",
+      "read_index": "46",
+      "source_jp": "このアイテムを通常作成します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to craft this item?",
+      "text": "Diesen Gegenstand herstellen?"
+    },
+    {
+      "key": "DIALOG_START",
+      "read_index": "47",
+      "source_jp": "アイテムの作成を開始しました",
+      "source_en": "Crafting has begun.",
+      "text": "Herstellung begonnen."
+    },
+    {
+      "key": "TAB_WEAPON",
+      "read_index": "48",
+      "source_jp": "武器",
+      "source_en": "Weapons",
+      "text": "Waffen"
+    },
+    {
+      "key": "TAB_PROTECTOR",
+      "read_index": "49",
+      "source_jp": "防具",
+      "source_en": "Armor",
+      "text": "Rüstungen"
+    },
+    {
+      "key": "BALLOON_LITTLE_LONGER",
+      "read_index": "50",
+      "source_jp": "もう少しです",
+      "source_en": "Almost Finished",
+      "text": "Bald fertig"
+    },
+    {
+      "key": "GUIDE_PRODUCT",
+      "read_index": "51",
+      "source_jp": "作成するアイテムを選択してください",
+      "source_en": "Please select the item to create.",
+      "text": "Wähle einen Gegenstand zur Herstellung."
+    },
+    {
+      "key": "GUIDE_UPGRADE",
+      "read_index": "52",
+      "source_jp": "強化する装備を選択してください",
+      "source_en": "Please select the equipment to enhance.",
+      "text": "Wähle die Ausrüstung, die du verstärken möchtest."
+    },
+    {
+      "key": "GUIDE_CREST",
+      "read_index": "53",
+      "source_jp": "クレスト装着する装備を選択してください",
+      "source_en": "Please select the equipment to mount a crest onto.",
+      "text": "Wähle die Ausrüstung für das Siegel."
+    },
+    {
+      "key": "GUIDE_CHANGE_COLOR",
+      "read_index": "54",
+      "source_jp": "カラー変更する装備を選択してください",
+      "source_en": "Please select the equipment you want to color\r\nchange.",
+      "text": "Wähle die Ausrüstung, die du färben möchtest."
+    },
+    {
+      "key": "TITLE_PROGRESS_LIST",
+      "read_index": "55",
+      "source_jp": "Progress List",
+      "source_en": "Progress List",
+      "text": "Laufende Aufträge"
+    },
+    {
+      "key": "BALLOON_FINISH",
+      "read_index": "57",
+      "source_jp": "できました！",
+      "source_en": "Finished!",
+      "text": "Fertig!"
+    },
+    {
+      "key": "CATEGORY_ALL",
+      "read_index": "58",
+      "source_jp": "すべて",
+      "source_en": "All",
+      "text": "Alle"
+    },
+    {
+      "key": "BUTTON_GET_ITEM_FOR_STORAGE",
+      "read_index": "59",
+      "source_jp": "保管ボックスに受け取る",
+      "source_en": "Send to storage",
+      "text": "Ins Lager"
+    },
+    {
+      "key": "TITLE_RECEIPT",
+      "read_index": "61",
+      "source_jp": "アイテムを作成しました",
+      "source_en": "Created an item",
+      "text": "Gegenstand hergestellt."
+    },
+    {
+      "key": "BUTTON_GET_ITEM",
+      "read_index": "62",
+      "source_jp": "受け取る",
+      "source_en": "Take",
+      "text": "Annehmen"
+    },
+    {
+      "key": "DIALOG_RECEIPT_SUCCESS",
+      "read_index": "63",
+      "source_jp": "<NAME ITEM>　<VAL>個を受け取りました",
+      "source_en": "<NAME ITEM> x<VAL> obtained.",
+      "text": "<NAME ITEM> × <VAL> erhalten."
+    },
+    {
+      "key": "DIALOG_GET_XP",
+      "read_index": "64",
+      "source_jp": "クラフトを指揮していた<NAME PAWN>が\r\nクラフト経験値を<VAL XP>入手しました",
+      "source_en": "For being the craft leader, \r\n<NAME PAWN>\r\nhas gained <VAL XP> crafting experience.",
+      "text": "<NAME PAWN> erhält als Handwerksleitung\r\n<VAL XP> Handwerks-XP."
+    },
+    {
+      "key": "HEADING_REMAIN",
+      "read_index": "65",
+      "source_jp": "残りポイント",
+      "source_en": "Remaining Points",
+      "text": "Restpunkte"
+    },
+    {
+      "key": "TITLE_POINT_ASSIGN",
+      "read_index": "66",
+      "source_jp": "クラフトステータス",
+      "source_en": "Craft Status",
+      "text": "Handwerksstatus"
+    },
+    {
+      "key": "DIALOG_BREAKUP",
+      "read_index": "67",
+      "source_jp": "クラフトラインを解散しました",
+      "source_en": "Crafters have returned to standby.",
+      "text": "Alle Handwerker stehen wieder bereit."
+    },
+    {
+      "key": "DIALOG_CONFIRM_STOP",
+      "read_index": "68",
+      "source_jp": "クラフトを中止しますか？\r\n<COL AA1414>※素材・費用・クラフト回数は消費されます</COL>",
+      "source_en": "Are you sure you want to stop crafting?\r\n<COL AA1414>※Materials and crafting cost will be\r\nlost.</COL>",
+      "text": "Herstellung abbrechen?\r\n<COL AA1414>Material und Herstellungskosten gehen verloren.</COL>"
+    },
+    {
+      "key": "DIALOG_STOP",
+      "read_index": "69",
+      "source_jp": "クラフトを中止しました",
+      "source_en": "The craft was canceled.",
+      "text": "Herstellung abgebrochen."
+    },
+    {
+      "key": "ANNOUNCE_LV_UP",
+      "read_index": "70",
+      "source_jp": "<NAME PAWN>のクラフトレベルが<VAL>になりました\r\nクラフトスキルポイントを<VAL>取得しました",
+      "source_en": "<NAME PAWN> has reached craft level <VAL>.\r\nThey acquired <VAL> crafting skill points.",
+      "text": "<NAME PAWN> hat Handwerksstufe <VAL> erreicht.\r\nNeue Handwerkspunkte: <VAL>"
+    },
+    {
+      "key": "DIALOG_CONFIRM_POINT_ASSIGN",
+      "read_index": "71",
+      "source_jp": "ポイントの割り振りを行いますか？",
+      "source_en": "Are you sure you want to allocate the\r\ncrafting skill points?",
+      "text": "Handwerkspunkte verteilen?"
+    },
+    {
+      "key": "DIALOG_POINT_ASSIGN",
+      "read_index": "72",
+      "source_jp": "ポイントの割り振りを行いました",
+      "source_en": "Crafting skill points allocated.",
+      "text": "Handwerkspunkte verteilt."
+    },
+    {
+      "key": "HEADING_REINFORCE_TARGET",
+      "read_index": "73",
+      "source_jp": "強化アイテム",
+      "source_en": "Enhance Item",
+      "text": "Ziel der Verstärkung"
+    },
+    {
+      "key": "HEADING_REINFORCE_POINT",
+      "read_index": "74",
+      "source_jp": "強化ポイント",
+      "source_en": "Enhancement",
+      "text": "Verstärkung"
+    },
+    {
+      "key": "BUTTON_REINFOECE",
+      "read_index": "75",
+      "source_jp": "強化",
+      "source_en": "Enhance",
+      "text": "Verstärken"
+    },
+    {
+      "key": "DIALOG_CONFIRM_REINFORCE",
+      "read_index": "76",
+      "source_jp": "このアイテムを強化しますか？",
+      "source_en": "Are you sure you want to enhance this item?",
+      "text": "Diesen Gegenstand verstärken?"
+    },
+    {
+      "key": "TITLE_REINFORCE",
+      "read_index": "77",
+      "source_jp": "アイテムを強化しました",
+      "source_en": "Item has been enhanced.",
+      "text": "Gegenstand verstärkt."
+    },
+    {
+      "key": "BUTTON_EQUIP_CREST",
+      "read_index": "82",
+      "source_jp": "クレスト装備",
+      "source_en": "Mount Crest",
+      "text": "Siegel einsetzen"
+    },
+    {
+      "key": "HEADING_SLOT1",
+      "read_index": "83",
+      "source_jp": "スロット１",
+      "source_en": "Slot 1",
+      "text": "Platz 1"
+    },
+    {
+      "key": "HEADING_SLOT2",
+      "read_index": "84",
+      "source_jp": "スロット２",
+      "source_en": "Slot 2",
+      "text": "Platz 2"
+    },
+    {
+      "key": "HEADING_SLOT3",
+      "read_index": "85",
+      "source_jp": "スロット３",
+      "source_en": "Slot 3",
+      "text": "Platz 3"
+    },
+    {
+      "key": "HEADING_SLOT4",
+      "read_index": "86",
+      "source_jp": "スロット４",
+      "source_en": "Slot 4",
+      "text": "Platz 4"
+    },
+    {
+      "key": "GUIDE_SERECT_CREST",
+      "read_index": "87",
+      "source_jp": "クレスト選択",
+      "source_en": "Select Crest",
+      "text": "Siegel wählen"
+    },
+    {
+      "key": "DIALOG_CONFIRM_SET_CREST",
+      "read_index": "88",
+      "source_jp": "クレスト装備を行いますか？",
+      "source_en": "Are you sure you want to equip the crests?",
+      "text": "Siegel einsetzen?"
+    },
+    {
+      "key": "CREST_SET",
+      "read_index": "89",
+      "source_jp": "Crest Set！",
+      "source_en": "Crest Set!",
+      "text": "Siegel eingesetzt!"
+    },
+    {
+      "key": "TITLE_CREST_SET",
+      "read_index": "90",
+      "source_jp": "クレストを装備しました",
+      "source_en": "The crest has been equipped.",
+      "text": "Das Siegel wurde eingesetzt."
+    },
+    {
+      "key": "DIALOG_CONFIRM_CREST_BREAK",
+      "read_index": "91",
+      "source_jp": "選択したスロットのクレストを破壊します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to destroy\r\nthe crest in this slot?",
+      "text": "Das Siegel in diesem Platz zerstören?"
+    },
+    {
+      "key": "TITLE_CREST_BREAK",
+      "read_index": "93",
+      "source_jp": "クレストを破壊しました",
+      "source_en": "The crest has been broken.",
+      "text": "Das Siegel wurde zerstört."
+    },
+    {
+      "key": "HEADING_CURRENT_COLOR",
+      "read_index": "94",
+      "source_jp": "現在のカラー",
+      "source_en": "Current Color",
+      "text": "Aktuelle Farbe"
+    },
+    {
+      "key": "HEADING_CHANGE_COLOR",
+      "read_index": "96",
+      "source_jp": "変更するカラー",
+      "source_en": "New Color",
+      "text": "Neue Farbe"
+    },
+    {
+      "key": "DIALOG_CONFIRM_CHANGE_COLOR",
+      "read_index": "98",
+      "source_jp": "カラー変更を行いますか？",
+      "source_en": "Are you sure you want to change the color?",
+      "text": "Farbe ändern?"
+    },
+    {
+      "key": "TITLE_CHANGE_COLOR",
+      "read_index": "100",
+      "source_jp": "カラーを変更しました",
+      "source_en": "The color has been changed.",
+      "text": "Farbe geändert."
+    },
+    {
+      "key": "TITLE_REMOVES_PARTY",
+      "read_index": "101",
+      "source_jp": "選択したポーンはクラフト作業を行うため\r\nパーティーを離脱しますがよろしいですか？\r\n<COL AA1414>※パーティーからメインポーンがいなくなると\r\n　サポートポーンも自動的に離脱します</COL>",
+      "source_en": "A selected pawn is in your party.\r\nAre you sure you want them to leave the party\r\nin order to craft?\r\n<COL AA1414>If there are no main pawns in the party,\r\nsupport pawns will automatically leave as well.</COL>",
+      "text": "Ein gewählter Vasall ist in deiner Gruppe.\r\nSoll er sie zum Handwerken verlassen?\r\n<COL AA1414>Ohne Hauptvasall verlassen auch die\r\nHilfsvasallen die Gruppe.</COL>"
+    },
+    {
+      "key": "TITLE_REMOVES_PARTY_FAILURE",
+      "read_index": "102",
+      "source_jp": "パーティーからの離脱に失敗しました",
+      "source_en": "Failed to leave the party.",
+      "text": "Der Vasall konnte die Gruppe nicht verlassen."
+    },
+    {
+      "key": "TITLE_RECEIPT_FAILURE",
+      "read_index": "103",
+      "source_jp": "アイテム作成に失敗しました",
+      "source_en": "Failed to craft item.",
+      "text": "Herstellung fehlgeschlagen."
+    },
+    {
+      "key": "TITLE_EMPTY_ITEM_PLACE",
+      "read_index": "104",
+      "source_jp": "装備強化する場合は、アイテムバッグの素材枠に空き枠を作ってください",
+      "source_en": "If you are going to strengthen your equipment,\r\nplease make an empty slot in the material slot of\r\nyour Item Bag.",
+      "text": "Mach vor dem Verstärken einen Platz\r\nim Materialfach der Tasche frei."
+    },
+    {
+      "key": "TITLE_REINFORCE_FAILURE",
+      "read_index": "105",
+      "source_jp": "装備の強化に失敗しました",
+      "source_en": "Failed to enhance the equipment.",
+      "text": "Ausrüstung konnte nicht verstärkt werden."
+    },
+    {
+      "key": "DIALOG_GET_ARMS_POINT",
+      "read_index": "106",
+      "source_jp": "装備強化ポイントが<VAL 0>アップしました\r\n現在の装備強化ポイントは<VAL 1>です",
+      "source_en": "Enhancement points have been increased by <VAL 0>.\r\nThe current enhancement points are <VAL 1>.",
+      "text": "Verstärkungspunkte +<VAL 0>\r\nAktuelle Punkte: <VAL 1>"
+    },
+    {
+      "key": "TITLE_REQUEST_FAILURE",
+      "read_index": "107",
+      "source_jp": "リクエストに失敗しました",
+      "source_en": "The request failed.",
+      "text": "Anfrage fehlgeschlagen."
+    },
+    {
+      "key": "DIALOG_GET_GRADE_UP",
+      "read_index": "108",
+      "source_jp": "グレードアップしました",
+      "source_en": "Grade has been enhanced.",
+      "text": "Rang erhöht."
+    },
+    {
+      "key": "DIALOG_CRAFT_LV_UP",
+      "read_index": "109",
+      "source_jp": "クラフトを指揮していた<NAME PAWN>のクラフトレベルが<VAL 0>になった",
+      "source_en": "<NAME PAWN>, \r\nwho was in charge of crafting, \r\nhas reached craft level <VAL 0>.",
+      "text": "<NAME PAWN> hat als Handwerksleitung\r\nHandwerksstufe <VAL 0> erreicht."
+    },
+    {
+      "key": "TAB_UNOPENED",
+      "read_index": "110",
+      "source_jp": "未解放",
+      "source_en": "Not Unlocked",
+      "text": "Gesperrt"
+    },
+    {
+      "key": "TITLE_MONEY_INSUFFICIENT",
+      "read_index": "111",
+      "source_jp": "所持金が足りません",
+      "source_en": "You do not have enough gold.",
+      "text": "Nicht genug Gold."
+    },
+    {
+      "key": "TITLE_EQUIP_CREST_FAILURE",
+      "read_index": "112",
+      "source_jp": "クレスト装着に失敗しました",
+      "source_en": "Failed to mount Crest",
+      "text": "Siegel konnte nicht eingesetzt werden."
+    },
+    {
+      "key": "TITLE_BREAK_CREST_FAILURE",
+      "read_index": "113",
+      "source_jp": "クレスト破棄に失敗しました",
+      "source_en": "Crest destruction failed.",
+      "text": "Siegel konnte nicht zerstört werden."
+    },
+    {
+      "key": "TITLE_EQUIP_CREST_SUCCESS",
+      "read_index": "114",
+      "source_jp": "クレスト装着に成功しました",
+      "source_en": "Crest was successfully equipped",
+      "text": "Siegel erfolgreich eingesetzt."
+    },
+    {
+      "key": "TITLE_BREAK_CREST_SUCCESS",
+      "read_index": "115",
+      "source_jp": "クレスト破棄に成功しました",
+      "source_en": "Crest was successfully destroyed",
+      "text": "Siegel zerstört."
+    },
+    {
+      "key": "TITLE_CHANGE_COLOR_FAILURE",
+      "read_index": "116",
+      "source_jp": "カラー変更に失敗しました",
+      "source_en": "Color change failed.",
+      "text": "Farbe konnte nicht geändert werden."
+    },
+    {
+      "key": "TITLE_CHANGE_COLOR_SUCCESS",
+      "read_index": "117",
+      "source_jp": "カラー変更に成功しました",
+      "source_en": "Color change succeeded",
+      "text": "Farbe erfolgreich geändert."
+    },
+    {
+      "key": "TITLE_PAWN_INFO_FAILURE",
+      "read_index": "118",
+      "source_jp": "詳細情報取得に失敗しました",
+      "source_en": "Failed to retrieve detailed information.",
+      "text": "Details konnten nicht geladen werden."
+    },
+    {
+      "key": "DIALOG_POINT_ASSIGN_FAILURE",
+      "read_index": "119",
+      "source_jp": "クラフトポイントの割り振りに失敗しました",
+      "source_en": "Failed to allocate Craft Points",
+      "text": "Handwerkspunkte konnten nicht verteilt werden."
+    },
+    {
+      "key": "TITLE_CRAFT_INFO_FAILURE",
+      "read_index": "120",
+      "source_jp": "クラフト状況取得に失敗しました",
+      "source_en": "Failed to retrieve crafting information.",
+      "text": "Handwerksdaten konnten nicht geladen werden."
+    },
+    {
+      "key": "TITLE_RECEIPT_SUCCESS",
+      "read_index": "121",
+      "source_jp": "<VAL 0> x <VAL 1>個 が完成しました",
+      "source_en": "<VAL 0> x <VAL 1> pieces have been completed.",
+      "text": "<VAL 0> × <VAL 1> fertiggestellt."
+    },
+    {
+      "key": "TITLE_ITEM_INFO_FAILURE",
+      "read_index": "122",
+      "source_jp": "クラフト完成品情報取得に失敗しました",
+      "source_en": "Failed to retrieve information on completed Craft\r\nitems.",
+      "text": "Daten fertiger Aufträge konnten nicht geladen werden."
+    },
+    {
+      "key": "TITLE_CRAFT_STOP_FAILURE",
+      "read_index": "123",
+      "source_jp": "クラフト中止に失敗しました",
+      "source_en": "The crafting cancellation was unsuccessful.",
+      "text": "Herstellung konnte nicht abgebrochen werden."
+    },
+    {
+      "key": "DIALOG_RECEIPT_FAILURE",
+      "read_index": "124",
+      "source_jp": "アイテム受け取りに失敗しました",
+      "source_en": "Failed to receive the item.",
+      "text": "Gegenstand konnte nicht angenommen werden."
+    },
+    {
+      "key": "TITLE_ARRANGEMENT_ITEM",
+      "read_index": "125",
+      "source_jp": "アイテムバッグ、保管ボックスがいっぱいのため\r\n受け取ることができません\r\n作成アイテム：<VAL> × <VAL>",
+      "source_en": "Due to a full Item Bag and Storage Box, you\r\ncannot receive it.\r\nCreated item: <VAL> × <VAL>",
+      "text": "Tasche und Lager sind voll.\r\nDu kannst das Produkt noch nicht annehmen.\r\nHergestellt: <VAL> × <VAL>"
+    },
+    {
+      "key": "TITLE_GET_ITEM",
+      "read_index": "126",
+      "source_jp": "アイテムを受け取りますか？",
+      "source_en": "Will you receive the items?",
+      "text": "Gegenstände annehmen?"
+    },
+    {
+      "key": "TITLE_GET_NO_ITEM",
+      "read_index": "127",
+      "source_jp": "受け取れるアイテムはありません",
+      "source_en": "There are no items that can be received.",
+      "text": "Keine Gegenstände zum Annehmen vorhanden."
+    },
+    {
+      "key": "MENU_SITUATION",
+      "read_index": "128",
+      "source_jp": "状況確認",
+      "source_en": "Check Conditions",
+      "text": "Status prüfen"
+    },
+    {
+      "key": "HEADING_NEED_ITEM",
+      "read_index": "129",
+      "source_jp": "必要素材 <VAL 0> x <VAL 1>",
+      "source_en": "Required Materials: <VAL 0> x <VAL 1>",
+      "text": "Benötigtes Material: <VAL 0> × <VAL 1>"
+    },
+    {
+      "key": "HEADING_COST_BASE",
+      "read_index": "130",
+      "source_jp": "基準作成費用<VAL 0>",
+      "source_en": "Cost of creating standards: <VAL 0>",
+      "text": "Grundkosten: <VAL 0>"
+    },
+    {
+      "key": "HEADING_COST_CUT",
+      "read_index": "131",
+      "source_jp": "補正後作成費用<VAL 0>",
+      "source_en": "Adjusted Creation Cost <VAL 0>",
+      "text": "Angepasste Kosten: <VAL 0>"
+    },
+    {
+      "key": "TAB_MATERIAL_ITEM",
+      "read_index": "133",
+      "source_jp": "素材",
+      "source_en": "Raw Material",
+      "text": "Rohstoffe"
+    },
+    {
+      "key": "TAB_USE_ITEM",
+      "read_index": "134",
+      "source_jp": "消耗品",
+      "source_en": "Usable",
+      "text": "Verbrauch"
+    },
+    {
+      "key": "GUIDE_SELECT_ADD_ITEM",
+      "read_index": "135",
+      "source_jp": "追加する素材を選択してください",
+      "source_en": "Please select the material you want to add.",
+      "text": "Wähle das Material, das du hinzufügen möchtest."
+    },
+    {
+      "key": "GUIDE_SELECT_COLOR_ITEM",
+      "read_index": "137",
+      "source_jp": "使用する染料を選択してください",
+      "source_en": "Please select the dye to be used",
+      "text": "Wähle den Farbstoff."
+    },
+    {
+      "key": "CRAFT_BUTTON_COMPLETE",
+      "read_index": "139",
+      "source_jp": "完了",
+      "source_en": "Finish",
+      "text": "Fertig"
+    },
+    {
+      "key": "NOTICE_GRADE_MAX",
+      "read_index": "140",
+      "source_jp": "グレードがアップしました！\r\nカラー変更ができるようになりました",
+      "source_en": "Grade has been upgraded!\r\nYou can now change the color.",
+      "text": "Rang erhöht! Färben ist jetzt möglich."
+    },
+    {
+      "key": "CRAFT_BUTTON_EXAM_BEGIN",
+      "read_index": "141",
+      "source_jp": "受領",
+      "source_en": "Claim",
+      "text": "Annehmen"
+    },
+    {
+      "key": "HEADING_CUSTOMIZE_TARGET",
+      "read_index": "146",
+      "source_jp": "アイテム",
+      "source_en": "Item",
+      "text": "Gegenstand"
+    },
+    {
+      "key": "HEADING_CUSTOMIZE_PAWN",
+      "read_index": "147",
+      "source_jp": "クラフトポーン",
+      "source_en": "Craft Pawn",
+      "text": "Handwerksvasall"
+    },
+    {
+      "key": "CRAFT_VAL_NONE",
+      "read_index": "152",
+      "source_jp": "なし",
+      "source_en": "None",
+      "text": "Keine"
+    },
+    {
+      "key": "GUIDE_SELECT_LEADER_PAWN",
+      "read_index": "154",
+      "source_jp": "リーダーをメインポーンから選択してください",
+      "source_en": "Please select a craft leader from your main pawns.",
+      "text": "Wähle einen Hauptvasallen als Handwerksleitung."
+    },
+    {
+      "key": "GUIDE_SELECT_ASSISTANT_PAWN",
+      "read_index": "155",
+      "source_jp": "アシスタントを選択してください",
+      "source_en": "Please select an assistant.",
+      "text": "Wähle einen Assistenten."
+    },
+    {
+      "key": "GUIDE_SELECT_ADD_POINT_PAWN",
+      "read_index": "156",
+      "source_jp": "ポイントを割り振るポーンを選択してください",
+      "source_en": "Please select a Pawn to allocate points",
+      "text": "Wähle einen Vasallen, um Punkte zu verteilen."
+    },
+    {
+      "key": "EXAM_RESULT_PARAM",
+      "read_index": "158",
+      "source_jp": "昇格結果",
+      "source_en": "Promotion Result",
+      "text": "Prüfungsergebnis"
+    },
+    {
+      "key": "CRAFT_DETAIL_BAZAAR",
+      "read_index": "161",
+      "source_jp": "バザー",
+      "source_en": "Bazaar",
+      "text": "Basar"
+    },
+    {
+      "key": "CRAFT_DETAIL_ENABLE_CREST",
+      "read_index": "162",
+      "source_jp": "装着可能",
+      "source_en": "Crest Slot Available",
+      "text": "Freier Siegelplatz"
+    },
+    {
+      "key": "RECIPE_CATE_USE_ITEM_HP",
+      "read_index": "164",
+      "source_jp": "体力回復",
+      "source_en": "Heal",
+      "text": "LP-Heilung"
+    },
+    {
+      "key": "RECIPE_CATE_USE_ITEM_ST",
+      "read_index": "165",
+      "source_jp": "スタミナ回復",
+      "source_en": "Stamina Recovery",
+      "text": "Ausdauer regenerieren"
+    },
+    {
+      "key": "RECIPE_CATE_USE_ITEM_REPAIR",
+      "read_index": "166",
+      "source_jp": "状態異常解消",
+      "source_en": "Cure Debilitation",
+      "text": "Zustände heilen"
+    },
+    {
+      "key": "RECIPE_CATE_USE_ITEM_ENCHANT",
+      "read_index": "167",
+      "source_jp": "能力上昇",
+      "source_en": "Stat Increase",
+      "text": "Werte erhöhen"
+    },
+    {
+      "key": "RECIPE_CATE_USE_ITEM_THROW",
+      "read_index": "168",
+      "source_jp": "投擲道具",
+      "source_en": "Throwing Item",
+      "text": "Wurfgegenstände"
+    },
+    {
+      "key": "RECIPE_CATE_USE_ITEM_KEY",
+      "read_index": "169",
+      "source_jp": "鍵・採集・探索",
+      "source_en": "Exploration",
+      "text": "Schlüssel / Sammeln / Erkunden"
+    },
+    {
+      "key": "RECIPE_CATE_USE_ITEM_JOB",
+      "read_index": "170",
+      "source_jp": "ジョブ専用道具",
+      "source_en": "Job",
+      "text": "Klasse"
+    },
+    {
+      "key": "RECIPE_CATE_MATERIAL_INGOT",
+      "read_index": "171",
+      "source_jp": "インゴット",
+      "source_en": "Ingot",
+      "text": "Barren"
+    },
+    {
+      "key": "RECIPE_CATE_MATERIAL_CLOTH",
+      "read_index": "172",
+      "source_jp": "布",
+      "source_en": "Cloth",
+      "text": "Stoff"
+    },
+    {
+      "key": "RECIPE_CATE_MATERIAL_THREAD",
+      "read_index": "173",
+      "source_jp": "糸",
+      "source_en": "String",
+      "text": "Garn"
+    },
+    {
+      "key": "RECIPE_CATE_MATERIAL_SCROLL",
+      "read_index": "174",
+      "source_jp": "スクロール",
+      "source_en": "Scroll",
+      "text": "Schriftrollen"
+    },
+    {
+      "key": "RECIPE_CATE_MATERIAL_STRENGTH_WEP",
+      "read_index": "175",
+      "source_jp": "精錬材（武器）",
+      "source_en": "Refine (Weapon)",
+      "text": "Veredelung (Waffen)"
+    },
+    {
+      "key": "RECIPE_CATE_MATERIAL_STRENGTH_ARMOR",
+      "read_index": "176",
+      "source_jp": "精錬材（防具）",
+      "source_en": "Refine (Armor)",
+      "text": "Veredelung (Rüstung)"
+    },
+    {
+      "key": "CRAFT_NUM_CLASS_S",
+      "read_index": "178",
+      "source_jp": "S級",
+      "source_en": "S Grade",
+      "text": "Rang S"
+    },
+    {
+      "key": "CRAFT_NUM_CRAFTLV",
+      "read_index": "179",
+      "source_jp": "クラフトレベル<VAL>",
+      "source_en": "Craft Level <VAL>",
+      "text": "Handwerksstufe <VAL>"
+    },
+    {
+      "key": "CRAFT_OVERUP_CRAFTLV",
+      "read_index": "180",
+      "source_jp": "クラフトレベルの上限アップ",
+      "source_en": "Craft Level Limit Up",
+      "text": "Max. Handwerksstufe erhöht"
+    },
+    {
+      "key": "CRAFT_SET_ASSISTANT",
+      "read_index": "181",
+      "source_jp": "アシスタントの設定人数",
+      "source_en": "Assistant Slot Count",
+      "text": "Assistentenplätze"
+    },
+    {
+      "key": "CRAFT_NUM_CLASS_D",
+      "read_index": "183",
+      "source_jp": "D級",
+      "source_en": "D Grade",
+      "text": "Rang D"
+    },
+    {
+      "key": "CRAFT_NUM_CLASS_A",
+      "read_index": "184",
+      "source_jp": "A級",
+      "source_en": "A Grade",
+      "text": "Rang A"
+    },
+    {
+      "key": "CRAFT_NUM_CLASS_B",
+      "read_index": "185",
+      "source_jp": "B級",
+      "source_en": "B Grade",
+      "text": "Rang B"
+    },
+    {
+      "key": "CRAFT_NUM_CLASS_C",
+      "read_index": "186",
+      "source_jp": "C級",
+      "source_en": "C Grade",
+      "text": "Rang C"
+    },
+    {
+      "key": "CRAFT_UPGRADE_EQUIP_NOTHING",
+      "read_index": "187",
+      "source_jp": "強化できる装備がありません",
+      "source_en": "There is no equipment that can be enhanced.",
+      "text": "Keine verstärkbare Ausrüstung vorhanden."
+    },
+    {
+      "key": "CRAFT_COLOR_EQUIP_NOTHING",
+      "read_index": "188",
+      "source_jp": "カラー変更できる装備がありません",
+      "source_en": "There is no equipment that can change color.",
+      "text": "Keine färbbare Ausrüstung vorhanden."
+    },
+    {
+      "key": "CRAFT_CREST_EQUIP_NOTHING",
+      "read_index": "189",
+      "source_jp": "クレスト装着できる装備がありません",
+      "source_en": "There is no equipment that can crests mounted.",
+      "text": "Keine Ausrüstung mit freien Siegelplätzen vorhanden."
+    },
+    {
+      "key": "CRAFT_MATERIAL_NOTHING",
+      "read_index": "190",
+      "source_jp": "使用できる素材がありません",
+      "source_en": "There is no material available.",
+      "text": "Kein Material verfügbar."
+    },
+    {
+      "key": "CRAFT_COLOR_ITEM_NOTHING",
+      "read_index": "191",
+      "source_jp": "使用できる染料がありません",
+      "source_en": "No available dyes",
+      "text": "Keine Farbstoffe verfügbar."
+    },
+    {
+      "key": "CRAFT_PAWN_NO_ONE",
+      "read_index": "192",
+      "source_jp": "ポーンを雇っていません",
+      "source_en": "No Pawns hired",
+      "text": "Keine Vasallen angeheuert"
+    },
+    {
+      "key": "CRAFT_MAKE_ITEM_NOTHING",
+      "read_index": "193",
+      "source_jp": "作成できるアイテムがありません",
+      "source_en": "There are no items that can be created.",
+      "text": "Es lässt sich derzeit nichts herstellen."
+    },
+    {
+      "key": "CRAFT_MAKING_NOTHING",
+      "read_index": "194",
+      "source_jp": "作成中のアイテムはありません",
+      "source_en": "There are no items being crafted.",
+      "text": "Keine laufenden Aufträge."
+    },
+    {
+      "key": "CRAFT_BTGUID_DISPAWN",
+      "read_index": "195",
+      "source_jp": "ポーンをはずす",
+      "source_en": "Remove Pawn",
+      "text": "Vasall entfernen"
+    },
+    {
+      "key": "CRAFT_BTGUID_DISMATERIAL",
+      "read_index": "196",
+      "source_jp": "精錬材をはずす",
+      "source_en": "Remove the refining material",
+      "text": "Veredelungsmaterial entfernen"
+    },
+    {
+      "key": "CRAFT_BTGUID_DISCREST",
+      "read_index": "197",
+      "source_jp": "クレストを戻す",
+      "source_en": "Return Crest",
+      "text": "Siegel entfernen"
+    },
+    {
+      "key": "CRAFT_MAKING_CONTINUE",
+      "read_index": "198",
+      "source_jp": "同じ装備アイテムを強化しますか？",
+      "source_en": "Do you want to enhance the same item again?",
+      "text": "Diesen Gegenstand erneut verstärken?"
+    },
+    {
+      "key": "CRAFT_FINISHED",
+      "read_index": "199",
+      "source_jp": "クラフト完了",
+      "source_en": "Craft Finished",
+      "text": "Herstellung abgeschlossen"
+    },
+    {
+      "key": "REMAINING_MAKE_TIME_HOUR",
+      "read_index": "200",
+      "source_jp": "<VAL>h",
+      "source_en": "<VAL> hours",
+      "text": "<VAL> Std."
+    },
+    {
+      "key": "TAB_CLASS_UP_EXAM",
+      "read_index": "201",
+      "source_jp": "特殊",
+      "source_en": "Special",
+      "text": "Spezial"
+    },
+    {
+      "key": "MSG_NO_CLASS_UP_EXAM",
+      "read_index": "203",
+      "source_jp": "昇格試験がありません",
+      "source_en": "There is currently no promotion test.",
+      "text": "Derzeit ist keine Aufstiegsprüfung verfügbar."
+    },
+    {
+      "key": "GUIDE_MSG_CHARACTER_CHANGE",
+      "read_index": "204",
+      "source_jp": "試着切り替え",
+      "source_en": "Switch Preview",
+      "text": "Vorschau wechseln"
+    },
+    {
+      "key": "TITLE_MSG_CHARACTER_CHANGE",
+      "read_index": "205",
+      "source_jp": "キャラクターを選択してください",
+      "source_en": "Please select the character.",
+      "text": "Wähle einen Charakter."
+    },
+    {
+      "key": "RECIPE_CATE_MATERIAL_OTHER",
+      "read_index": "206",
+      "source_jp": "その他",
+      "source_en": "Other",
+      "text": "Sonstiges"
+    },
+    {
+      "key": "DIALOG_GET_XP_EX",
+      "read_index": "207",
+      "source_jp": "クラフトを指揮していた<NAME PAWN>が\r\nクラフト経験値を<VAL> (+<VAL>) <UNIT XP>入手しました",
+      "source_en": "For being the craft leader, \r\n<NAME PAWN>\r\nhas gained <VAL> (+<VAL>) <UNIT XP> crafting\r\nexperience.",
+      "text": "<NAME PAWN> erhält als Handwerksleitung\r\n<VAL> (+<VAL>) <UNIT XP> fürs Handwerk."
+    },
+    {
+      "key": "COLOR_CHANGE_DISABLE",
+      "read_index": "209",
+      "source_jp": "このアイテムはカラー変更できません",
+      "source_en": "This item cannot have its color changed.",
+      "text": "Die Farbe dieses Gegenstands lässt sich nicht ändern."
+    },
+    {
+      "key": "CATEGORY_FURNITURE",
+      "read_index": "210",
+      "source_jp": "家具",
+      "source_en": "Furniture",
+      "text": "Möbel"
+    },
+    {
+      "key": "CRAFT_FURNITURE_NOTHING",
+      "read_index": "211",
+      "source_jp": "家具レシピがありません",
+      "source_en": "There are no furniture recipes.",
+      "text": "Keine Möbelrezepte vorhanden."
+    },
+    {
+      "key": "ERROR_CANT_MAKE_FURNITURE",
+      "read_index": "212",
+      "source_jp": "作成済み、または作成中の家具は選択できません",
+      "source_en": "Furniture already created or being created cannot\r\nbe selected",
+      "text": "Dieses Möbelstück ist bereits fertig oder in Arbeit."
+    },
+    {
+      "key": "DIALOG_USE_FUNITURE_GUIDE",
+      "read_index": "213",
+      "source_jp": "受け取った家具アイテムは\r\n覚者の自室で配置することができます",
+      "source_en": "You can arrange the furniture items you receive\r\nin the Arisen's Room.",
+      "text": "Erhaltene Möbel kannst du\r\nim Zimmer des Erweckten aufstellen."
+    },
+    {
+      "key": "RECIPE_CATE_MATERIAL_AREA",
+      "read_index": "214",
+      "source_jp": "地域素材",
+      "source_en": "Regional Material",
+      "text": "Gebietsmaterial"
+    },
+    {
+      "key": "DIALOG_CONFIRM_CHOICE_CREATION_TYPE",
+      "read_index": "215",
+      "source_jp": "作成方法を選んでください",
+      "source_en": "Please choose the creation type.",
+      "text": "Wähle die Herstellungsart."
+    },
+    {
+      "key": "DIALOG_CONFIRM_TYPE_START",
+      "read_index": "216",
+      "source_jp": "通常作成",
+      "source_en": "Create",
+      "text": "Herstellen"
+    },
+    {
+      "key": "DIALOG_CONFIRM_TYPE_EX_CREATE",
+      "read_index": "217",
+      "source_jp": "黄金石を使用して作成（即時完成）",
+      "source_en": "Create using GG (instant)",
+      "text": "Sofort mit Goldsteinen herstellen"
+    },
+    {
+      "key": "DIALOG_CONFIRM_EX_CREATE",
+      "read_index": "218",
+      "source_jp": "アイテムの作成がその場で完了します\r\n<COL ffdc78>黄金石<VAL>個</COL>を消費して作成しますか？\r\n(所持数：<VAL>)",
+      "source_en": "The item will be created immediately.\r\nThis will consume <COL ffdc78><VAL> Golden\r\nGemstone</COL>.\r\n(You have: <VAL>)",
+      "text": "Herstellung sofort abschließen?\r\nKosten: <COL ffdc78><VAL> Goldsteine</COL>\r\nIm Besitz: <VAL>"
+    },
+    {
+      "key": "DIALOG_EX_CREATE",
+      "read_index": "219",
+      "source_jp": "アイテムの作成が完了しました",
+      "source_en": "Item creation complete.",
+      "text": "Herstellung abgeschlossen."
+    },
+    {
+      "key": "DIALOG_CONFIRM_EX_CREATE_ERROR",
+      "read_index": "220",
+      "source_jp": "黄金石が不足しています\r\nその場で作成完了するには<COL ffdc78>黄金石<VAL>個</COL>が必要です\r\n(所持数：<VAL>)",
+      "source_en": "You do not have enough GG.\r\nCreating this requires <COL ffdc78><VAL> Golden\r\nGemstone</COL>.\r\n(You have: <VAL>)",
+      "text": "Nicht genug Goldsteine.\r\nBenötigt: <COL ffdc78><VAL> Goldsteine</COL>\r\nIm Besitz: <VAL>"
+    },
+    {
+      "key": "DIALOG_CONFIRM_TYPE_JUMP_ONLINESHOP",
+      "read_index": "221",
+      "source_jp": "オンラインショップを開く",
+      "source_en": "Open online shop",
+      "text": "Online-Shop öffnen"
+    },
+    {
+      "key": "DIALOG_CONFIRM_CHOICE_STOP_TYPE",
+      "read_index": "222",
+      "source_jp": "まだアイテム作成が完了していません",
+      "source_en": "Item production is not yet complete.",
+      "text": "Der Gegenstand ist noch in Arbeit."
+    },
+    {
+      "key": "DIALOG_CONFIRM_TYPE_STOP",
+      "read_index": "223",
+      "source_jp": "アイテム生産を中止",
+      "source_en": "Stop",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "ANALYZE_RESULT",
+      "read_index": "224",
+      "source_jp": "分析結果（概算）",
+      "source_en": "Analysis Result (Approximate)",
+      "text": "Geschätztes Ergebnis"
+    },
+    {
+      "key": "ANALYZE_SPEED",
+      "read_index": "225",
+      "source_jp": "作業時間<VAL>%OFF",
+      "source_en": "Working hours <VAL>%OFF",
+      "text": "Herstellungsdauer −<VAL> %"
+    },
+    {
+      "key": "ANALYZE_GREAT_SUCCESS",
+      "read_index": "227",
+      "source_jp": "大成功率<VAL>%",
+      "source_en": "Success rate: <VAL>%.",
+      "text": "Erfolgsquote: <VAL> %"
+    },
+    {
+      "key": "ANALYZE_INCREASE",
+      "read_index": "228",
+      "source_jp": "<VAL>%の確率で+<VAL>個",
+      "source_en": "<VAL>% chance of + <VAL> pieces.",
+      "text": "Chance von <VAL> % auf <VAL> Stück extra"
+    },
+    {
+      "key": "ANALYZE_COST_CUT",
+      "read_index": "229",
+      "source_jp": "費用<VAL>%OFF",
+      "source_en": "Cost <VAL>% OFF",
+      "text": "Kosten −<VAL> %"
+    },
+    {
+      "key": "ANALYZE_ALWAYS_GREAT_SUCCESS",
+      "read_index": "230",
+      "source_jp": "高品質装備の作成が、特定条件で必ず大成功",
+      "source_en": "Creation of high-quality equipment always results\r\nin a Great Success under specific conditions.",
+      "text": "Unter bestimmten Bedingungen gelingt hochwertige Ausrüstung immer besonders gut."
+    },
+    {
+      "key": "ANALYZE_ALWAYS_INCREASE",
+      "read_index": "231",
+      "source_jp": "消耗品の生産が必ず大成功",
+      "source_en": "Consumables' production always results in great\r\nsuccess.",
+      "text": "Verbrauchsgüter gelingen immer besonders gut."
+    },
+    {
+      "key": "ANALYZE_COST_CUT_MUCH",
+      "read_index": "232",
+      "source_jp": "コストパフォーマンスの効果アップ",
+      "source_en": "Cost Performance's Effects Up",
+      "text": "Höhere Materialeffizienz"
+    },
+    {
+      "key": "CREATE_TIMES_WARNING",
+      "read_index": "233",
+      "source_jp": "※最大<VAL>回 (クラフト回数を消費します)",
+      "source_en": "※ Maximum <VAL> times\r\n(will consume the craft number of times)",
+      "text": "Maximal <VAL> Mal.\r\nDas verbraucht Handwerksversuche."
+    },
+    {
+      "key": "HEADING_CREATE_TIMES",
+      "read_index": "234",
+      "source_jp": "生産回数",
+      "source_en": "Production Amount",
+      "text": "Herstellungsmenge"
+    },
+    {
+      "key": "ANALYZE_BUTTON",
+      "read_index": "235",
+      "source_jp": "パフォーマンス分析",
+      "source_en": "Performance Analysis",
+      "text": "Handwerksanalyse"
+    },
+    {
+      "key": "ERROR_SHORTAGE_MATERIAL",
+      "read_index": "236",
+      "source_jp": "素材が足りません",
+      "source_en": "Insufficient materials",
+      "text": "Nicht genug Material"
+    },
+    {
+      "key": "ERROR_SHORTAGE_MONEY",
+      "read_index": "237",
+      "source_jp": "所持金が足りません",
+      "source_en": "You do not have enough gold.",
+      "text": "Nicht genug Gold."
+    },
+    {
+      "key": "ERROR_SHORTAGE_CRAFT_NUM",
+      "read_index": "238",
+      "source_jp": "アシスタントの残りクラフト回数が足りません",
+      "source_en": "The remaining Crafting total of the Assistant is\r\nnot enough.",
+      "text": "Der Assistent hat zu wenige Handwerksversuche übrig."
+    },
+    {
+      "key": "ERROR_CREST_CANNOT_BREAK",
+      "read_index": "240",
+      "source_jp": "このクレストは破壊できません",
+      "source_en": "This crest cannot be destroyed.",
+      "text": "Dieses Siegel lässt sich nicht zerstören."
+    },
+    {
+      "key": "PERFORMANCE_NO_EFFECT",
+      "read_index": "241",
+      "source_jp": "効果なし",
+      "source_en": "No Effect",
+      "text": "Kein Effekt"
+    },
+    {
+      "key": "BT_CHECK_CHEST",
+      "read_index": "242",
+      "source_jp": "格納チェストを参照",
+      "source_en": "See Storage Chest",
+      "text": "Lagerkiste ansehen"
+    },
+    {
+      "key": "DIALOG_CHECKING_CHEST",
+      "read_index": "243",
+      "source_jp": "格納チェストを参照しています",
+      "source_en": "Checking Storage Chest",
+      "text": "Lagerkiste prüfen"
+    },
+    {
+      "key": "ANNOUNCE_CHECK_NG_CHEST",
+      "read_index": "244",
+      "source_jp": "格納チェストの参照は＜<OPCS>＞の発動中に使用可能となります",
+      "source_en": "Access to the Storage Chest is available while\r\n<OPCS> is active",
+      "text": "Mit aktivem <OPCS> hast du Zugriff auf die Lagerkiste."
+    },
+    {
+      "key": "TAB_SPECIAL",
+      "read_index": "245",
+      "source_jp": "一時レンタル",
+      "source_en": "One-time Rental",
+      "text": "Vorübergehend"
+    },
+    {
+      "key": "DIALOG_CONFIRM_GP_CREATE",
+      "read_index": "246",
+      "source_jp": "以下の機能を利用しているため、このアイテムを\r\n作成するには、<COL ffdc78>黄金石<VAL>個</COL>が必要です\r\nよろしいですか？\r\n(所持数：<VAL>)",
+      "source_en": "To create this item, you need <COL ffdc78>\r\n<VAL> Golden Gemstone pieces</COL>. Do you want to\r\nproceed?\r\n(Have: <VAL>)",
+      "text": "Gegenstand herstellen?\r\nKosten: <COL ffdc78><VAL> Goldsteine</COL>\r\nIm Besitz: <VAL>"
+    },
+    {
+      "key": "DIALOG_CONFIRM_GP_REINFORCE",
+      "read_index": "247",
+      "source_jp": "以下の機能を利用しているため、このアイテムを\r\n強化するには、<COL ffdc78>黄金石<VAL>個</COL>が必要です\r\nよろしいですか？\r\n(所持数：<VAL>)",
+      "source_en": "Due to the use of the following function, to\r\nstrengthen this item, you will need <COL ffdc78>\r\nGG x<VAL></COL>.\r\nDo you agree?\r\n(Currently owned: <VAL>)",
+      "text": "Gegenstand verstärken?\r\nKosten: <COL ffdc78><VAL> Goldsteine</COL>\r\nIm Besitz: <VAL>"
+    },
+    {
+      "key": "DIALOG_CONFIRM_GP_LACK_ERROR",
+      "read_index": "248",
+      "source_jp": "黄金石が不足しています\r\n(所持数：<VAL>)",
+      "source_en": "You are running out of Golden Gemstones\r\n(No. of possessed Golden Gemstones: <VAL>)",
+      "text": "Nicht genug Goldsteine.\r\nIm Besitz: <VAL>"
+    },
+    {
+      "key": "HEADING_TIME_TO_MANDRA",
+      "read_index": "249",
+      "source_jp": "育成時間",
+      "source_en": "Training hours",
+      "text": "Zuchtdauer"
+    },
+    {
+      "key": "HEADING_ADD_STATUS",
+      "read_index": "250",
+      "source_jp": "追加ステータス",
+      "source_en": "Additional Status",
+      "text": "Zusatzwert"
+    },
+    {
+      "key": "ROW_LIST",
+      "read_index": "251",
+      "source_jp": "リスト",
+      "source_en": "List",
+      "text": "Liste"
+    },
+    {
+      "key": "GUIDE_SELECT_ADD_STATUS",
+      "read_index": "252",
+      "source_jp": "追加するステータスを選択してください",
+      "source_en": "Please select the status you want to add",
+      "text": "Wähle den Zusatzwert."
+    },
+    {
+      "key": "CRAFT_BTGUID_DISADDSTATUS",
+      "read_index": "253",
+      "source_jp": "追加ステータスをはずす",
+      "source_en": "Remove additional status",
+      "text": "Zusatzwert entfernen"
+    },
+    {
+      "key": "GUIDE_MATERIALS_CHANGE",
+      "read_index": "257",
+      "source_jp": "品質変更する装備を選択してください",
+      "source_en": "Please select the equipment to change quality.",
+      "text": "Wähle die Ausrüstung für die Qualitätsänderung."
+    },
+    {
+      "key": "ERROR_MATERIALS_CHANGE_001",
+      "read_index": "258",
+      "source_jp": "このアイテムは品質変更できません",
+      "source_en": "This item cannot have its quality changed.",
+      "text": "Die Qualität lässt sich nicht ändern."
+    },
+    {
+      "key": "CRAFT_MATERIALS_CHANGE_NOTHING",
+      "read_index": "259",
+      "source_jp": "品質変更できる装備がありません",
+      "source_en": "There is no equipment that can change quality.",
+      "text": "Bei keiner Ausrüstung lässt sich die Qualität ändern."
+    },
+    {
+      "key": "ERROR_MATERIALS_CHANGE_002",
+      "read_index": "260",
+      "source_jp": "品質が現状維持のまま、もしくは\r\n低下する可能性があるため使用できません",
+      "source_en": "Can't use it because there is a possibility that\r\nthe quality will either remain the same or\r\ndecrease.",
+      "text": "Dieses Material könnte die Qualität gleich lassen\r\noder verschlechtern. Es ist daher gesperrt."
+    },
+    {
+      "key": "BUTTON_MATERIALS_CHANGE",
+      "read_index": "261",
+      "source_jp": "変更",
+      "source_en": "Change",
+      "text": "Ändern"
+    },
+    {
+      "key": "DIALOG_CONFIRM_MATERIALS_CHANGE",
+      "read_index": "262",
+      "source_jp": "このアイテムを品質変更しますか？\r\n作業費用　：<VAL G>\r\n取得経験値：<VAL XP>",
+      "source_en": "Would you like to change the quality of this item?\r\nCost of work:<VAL G>\r\nExperience gained:<VAL XP>",
+      "text": "Qualität des Gegenstands ändern?\r\nKosten: <VAL G>\r\nHandwerks-XP: <VAL XP>"
+    },
+    {
+      "key": "DIALOG_CONFIRM_GP_MATERIALS_CHANGE",
+      "read_index": "263",
+      "source_jp": "以下の機能を利用しているため、このアイテムを\r\n品質変更するには、<COL ffdc78>黄金石<VAL>個</COL>が必要です\r\nよろしいですか？\r\n(所持数：<VAL>)",
+      "source_en": "Due to the use of the following function, to\r\nmodify this item's quality, you will need <COL ffdc78>\r\nGolden Gemstone x<VAL></COL>.\r\nAre you sure?\r\n(Currently owned: <VAL>)",
+      "text": "Qualität ändern?\r\nKosten: <COL ffdc78><VAL> Goldsteine</COL>\r\nIm Besitz: <VAL>"
+    },
+    {
+      "key": "TITLE_MATERIALS_CHANGE",
+      "read_index": "264",
+      "source_jp": "アイテムを品質変更しました",
+      "source_en": "Item quality changed.",
+      "text": "Qualität des Gegenstands geändert."
+    },
+    {
+      "key": "DIALOG_CONFIRM_MATERIALS_CHANGE_EX",
+      "read_index": "265",
+      "source_jp": "このアイテムを品質変更しますか？\r\n作業費用　：<VAL G>\r\n取得経験値：<VAL> (+<VAL>) <UNIT XP>",
+      "source_en": "Would you like to change the quality of this item?\r\nCost of work: <VAL G>\r\nExperience gained: <VAL> (+<VAL>) <UNIT XP>",
+      "text": "Qualität des Gegenstands ändern?\r\nKosten: <VAL G>\r\nHandwerks-XP: <VAL> (+<VAL>) <UNIT XP>"
+    },
+    {
+      "key": "DIALOG_CONFIRM_REINFORCE_ADD_NO_SKIP",
+      "read_index": "266",
+      "source_jp": "\r\n<COL ffdc78>このアイテムの強化では\r\n一度に２段階以上のグレードＵＰはできません</COL>\r\n次のグレードで必要な強化ポイントを満たしていても\r\n２段階目のグレードＵＰ直前でポイントが止まります",
+      "source_en": "\r\n<COL ffdc78>You cannot strengthen this item by\r\nmore than two grades at a time.</COL>\r\nEven if you meet the required enhancement points\r\nfor the next grade, the points will stop\r\naccumulating right before the second-grade\r\nupgrade.",
+      "text": "<COL ffdc78>Je Vorgang ist nur ein Rangaufstieg möglich.</COL>\r\nWeitere Punkte zählen bis knapp\r\nvor dem zweiten Aufstieg."
+    },
+    {
+      "key": "DIALOG_CONFIRM_REINFORCE_ADD_NO_NEXT_ITEM",
+      "read_index": "267",
+      "source_jp": "\r\n<COL ffdc78>次のグレードＵＰで\r\nアイテムのグレードが最大になります</COL>",
+      "source_en": "\r\n<COL ffdc78>With the next upgrade, the item's\r\ngrade will become the maximum.</COL>",
+      "text": "<COL ffdc78>Die nächste Verstärkung erreicht den höchsten Rang.</COL>"
+    },
+    {
+      "key": "GUIDE_MSG_BUY_BAZAAR",
+      "read_index": "268",
+      "source_jp": "バザーで必要素材を購入する",
+      "source_en": "Purchase from the Bazaar",
+      "text": "Im Basar kaufen"
+    }
+  ]
+}

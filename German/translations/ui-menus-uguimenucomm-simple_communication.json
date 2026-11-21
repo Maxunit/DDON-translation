@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\simple_communication.gmd",
+  "arc_path": "\\ui\\uGUIMenuComm.arc",
+  "entries": [
+    {
+      "key": "SC_MSG_MESSAGE",
+      "read_index": "1",
+      "source_jp": "Message",
+      "source_en": "Message",
+      "text": "Nachricht"
+    },
+    {
+      "key": "SC_MSG_EMOTION",
+      "read_index": "2",
+      "source_jp": "Emote",
+      "source_en": "Emote",
+      "text": "Geste"
+    },
+    {
+      "key": "SC_MSG_SPEAK_J",
+      "read_index": "4",
+      "source_jp": "発言",
+      "source_en": "Send",
+      "text": "Senden"
+    },
+    {
+      "key": "SC_MSG_EXECMOTION_J",
+      "read_index": "5",
+      "source_jp": "実行",
+      "source_en": "Execute",
+      "text": "Ausführen"
+    },
+    {
+      "key": "SC_MSG_EXECMOTIONNC_J",
+      "read_index": "6",
+      "source_jp": "モーションのみ実行",
+      "source_en": "Execute motion only",
+      "text": "Nur Geste ausführen"
+    },
+    {
+      "key": "SC_MSG_SUBMENU_J",
+      "read_index": "7",
+      "source_jp": "サブメニュー",
+      "source_en": "Submenu",
+      "text": "Untermenü"
+    },
+    {
+      "key": "SC_MSG_MYPHRASE_J",
+      "read_index": "8",
+      "source_jp": "マイ定型文",
+      "source_en": "My Phrases",
+      "text": "Meine Textbausteine"
+    },
+    {
+      "key": "SC_MSG_TMPPHRASE_J",
+      "read_index": "9",
+      "source_jp": "定型文",
+      "source_en": "Phrases",
+      "text": "Textbausteine"
+    },
+    {
+      "key": "SC_MSG_EMOTION_J",
+      "read_index": "10",
+      "source_jp": "エモート",
+      "source_en": "Emotes",
+      "text": "Gesten"
+    },
+    {
+      "key": "SC_MSG_EDITCTGR_J",
+      "read_index": "11",
+      "source_jp": "カテゴリー名の編集",
+      "source_en": "Edit Category Name",
+      "text": "Kategorie umbenennen"
+    },
+    {
+      "key": "SC_MSG_EDITSC_MSG_J",
+      "read_index": "12",
+      "source_jp": "メッセージの編集",
+      "source_en": "Edit Message",
+      "text": "Nachricht bearbeiten"
+    },
+    {
+      "key": "SC_MSG_ADDSCM_J",
+      "read_index": "13",
+      "source_jp": "ショートカット登録",
+      "source_en": "Register Shortcut",
+      "text": "Schnellzugriff belegen"
+    },
+    {
+      "key": "SC_MSG_DECIDE_J",
+      "read_index": "14",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "SC_MSG_CANCEL_J",
+      "read_index": "15",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "SC_MSG_MESSAGE_J",
+      "read_index": "16",
+      "source_jp": "メッセージ",
+      "source_en": "Message",
+      "text": "Nachricht"
+    },
+    {
+      "key": "SC_MSG_EMOTIONONCHAT_J",
+      "read_index": "17",
+      "source_jp": "エモートをチャットログに表示する",
+      "source_en": "Display Emotes in Chat Log",
+      "text": "Gesten im Chat anzeigen"
+    },
+    {
+      "key": "SC_MSG_NOSC_MSG_J",
+      "read_index": "18",
+      "source_jp": "（なし）",
+      "source_en": "(None)",
+      "text": "(Keine)"
+    },
+    {
+      "key": "SC_MSG_TITLE",
+      "read_index": "19",
+      "source_jp": "Communication",
+      "source_en": "Communication",
+      "text": "Kommunikation"
+    },
+    {
+      "key": "SC_MSG_TITLE_J",
+      "read_index": "20",
+      "source_jp": "コミュニケーション",
+      "source_en": "Communication",
+      "text": "Kommunikation"
+    },
+    {
+      "key": "SC_MSG_DIALOG_TOLL",
+      "read_index": "21",
+      "source_jp": "選択したボイス定型文は未購入の定型文です\r\nオンラインショップで購入できます",
+      "source_en": "The selected voice phrase is an unpurchased\r\nphrase. You can purchase it in the online shop",
+      "text": "Diesen vertonten Spruch besitzt du noch nicht.\r\nDu kannst ihn im Online-Shop kaufen."
+    },
+    {
+      "key": "SC_MSG_DIALOG_TOLL_ITEM1",
+      "read_index": "22",
+      "source_jp": "オンラインショップで購入する",
+      "source_en": "Buy from Online Shop",
+      "text": "Im Online-Shop kaufen"
+    },
+    {
+      "key": "SC_MSG_GUIDE_AUDITION",
+      "read_index": "23",
+      "source_jp": "試聴",
+      "source_en": "Preview",
+      "text": "Vorschau"
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\SubMenu_res.gmd",
+  "arc_path": "\\ui\\uGUIPopCmd01.arc",
+  "entries": [
+    {
+      "key": "msg_SUB_MENU_PROFILE",
+      "read_index": "0",
+      "source_jp": "覚者プロフィールを見る",
+      "source_en": "View Arisen profile",
+      "text": "Erwecktenprofil ansehen"
+    },
+    {
+      "key": "msg_SUB_MENU_STATUS",
+      "read_index": "1",
+      "source_jp": "ステータス・装備を確認する",
+      "source_en": "Check Status / Equipment",
+      "text": "Status / Ausrüstung ansehen"
+    },
+    {
+      "key": "msg_SUB_MENU_TELL",
+      "read_index": "2",
+      "source_jp": "話しかける(Tell)",
+      "source_en": "Talk (Tell)",
+      "text": "Flüstern"
+    },
+    {
+      "key": "msg_SUB_MENU_FRIEND",
+      "read_index": "3",
+      "source_jp": "フレンド申請をする",
+      "source_en": "Send Friend Request",
+      "text": "Freundschaftsanfrage senden"
+    },
+    {
+      "key": "msg_SUB_MENU_KICK",
+      "read_index": "4",
+      "source_jp": "パーティーから外す",
+      "source_en": "Remove from the party",
+      "text": "Aus der Gruppe entfernen"
+    },
+    {
+      "key": "msg_SUB_MENU_LEADER",
+      "read_index": "5",
+      "source_jp": "パーティーリーダーに任命する",
+      "source_en": "Set Party Leader",
+      "text": "Gruppenleitung übertragen"
+    },
+    {
+      "key": "msg_SUB_MENU_CANCEL_INVITE",
+      "read_index": "6",
+      "source_jp": "パーティー勧誘をやめる",
+      "source_en": "Quit party recruitment",
+      "text": "Gruppensuche beenden"
+    },
+    {
+      "key": "msg_SUB_MENU_INVITE",
+      "read_index": "7",
+      "source_jp": "パーティーに誘う",
+      "source_en": "Invite to the Party",
+      "text": "In Gruppe einladen"
+    },
+    {
+      "key": "msg_SUB_MENU_PARTY_DETAIL",
+      "read_index": "8",
+      "source_jp": "パーティーメンバーの確認",
+      "source_en": "Check Party Members",
+      "text": "Gruppenmitglieder ansehen"
+    },
+    {
+      "key": "msg_SUB_MENU_PARTY_DECLINE",
+      "read_index": "10",
+      "source_jp": "パーティー勧誘を断る",
+      "source_en": "Decline party invite",
+      "text": "Gruppeneinladung ablehnen"
+    },
+    {
+      "key": "msg_SUB_MENU_APPLY_CLAN",
+      "read_index": "11",
+      "source_jp": "クランへの加入申請をする",
+      "source_en": "Apply to join the Clan",
+      "text": "Um Clanbeitritt bewerben"
+    },
+    {
+      "key": "msg_SUB_MENU_CANCEL_APPLY_CLAN",
+      "read_index": "12",
+      "source_jp": "クランへの加入申請を取り消す",
+      "source_en": "Cancel the clan application",
+      "text": "Clanbewerbung zurückziehen"
+    },
+    {
+      "key": "msg_SUB_MENU_ALLOW_APPLY_CLAN",
+      "read_index": "13",
+      "source_jp": "クランへの加入を許可する",
+      "source_en": "Accept Clan Application",
+      "text": "Clanbewerbung annehmen"
+    },
+    {
+      "key": "msg_SUB_MENU_DENY_APPLY_CLAN",
+      "read_index": "14",
+      "source_jp": "クランへの加入を拒否する",
+      "source_en": "Reject Clan Application",
+      "text": "Clanbewerbung ablehnen"
+    },
+    {
+      "key": "msg_SUB_MENU_CLAN_DETAIL",
+      "read_index": "15",
+      "source_jp": "クラン詳細情報",
+      "source_en": "Clans Detailed Information",
+      "text": "Clan-Details"
+    },
+    {
+      "key": "msg_SUB_MENU_CLAN_INVITE",
+      "read_index": "16",
+      "source_jp": "クランに勧誘する",
+      "source_en": "Invite to the Clan",
+      "text": "In den Clan einladen"
+    },
+    {
+      "key": "msg_SUB_MENU_CANCEL_CLAN_INVITE",
+      "read_index": "17",
+      "source_jp": "クランへの誘いを取り消す",
+      "source_en": "Withdraw the invitation to join the Clan",
+      "text": "Claneinladung zurückziehen"
+    },
+    {
+      "key": "msg_SUB_MENU_ALLOW_INVITE_CLAN",
+      "read_index": "18",
+      "source_jp": "クランからの誘いを許可する",
+      "source_en": "Accept Clan Invite",
+      "text": "Claneinladung annehmen"
+    },
+    {
+      "key": "msg_SUB_MENU_DENY_INVITE_CLAN",
+      "read_index": "19",
+      "source_jp": "クランからの誘いを拒否する",
+      "source_en": "Reject Clan Invite",
+      "text": "Claneinladung ablehnen"
+    },
+    {
+      "key": "msg_SUB_MENU_EXPEL_CLAN_MEMBER",
+      "read_index": "20",
+      "source_jp": "クランから除名する",
+      "source_en": "Expel from Clan",
+      "text": "Aus dem Clan ausschließen"
+    },
+    {
+      "key": "msg_SUB_MENU_CHANGE_CLAN_MASTER",
+      "read_index": "21",
+      "source_jp": "クランマスターを委譲する",
+      "source_en": "Transfer the position of Clan Master",
+      "text": "Clanleitung übergeben"
+    },
+    {
+      "key": "msg_SUB_MENU_SET_CLAN_LEADER",
+      "read_index": "22",
+      "source_jp": "クランサブマスターに任命する",
+      "source_en": "Appoint as Clan Officer",
+      "text": "Zum Offizier ernennen"
+    },
+    {
+      "key": "msg_SUB_MENU_RESET_CLAN_LEADER",
+      "read_index": "23",
+      "source_jp": "クランサブマスターを解除する",
+      "source_en": "Remove Clan Officer role",
+      "text": "Offiziersrang entziehen"
+    },
+    {
+      "key": "msg_SUB_MENU_CANCEL_FRIEND",
+      "read_index": "24",
+      "source_jp": "フレンド申請を取り消す",
+      "source_en": "Cancel Friend Request",
+      "text": "Freundschaftsanfrage zurückziehen"
+    },
+    {
+      "key": "msg_SUB_MENU_ALLOW_APPLY_FRIEND",
+      "read_index": "25",
+      "source_jp": "フレンド申請を許可する",
+      "source_en": "Accept Friend Request",
+      "text": "Freundschaftsanfrage annehmen"
+    },
+    {
+      "key": "msg_SUB_MENU_DENY_APPLY_FRIEND",
+      "read_index": "26",
+      "source_jp": "フレンド申請を拒否する",
+      "source_en": "Reject Friend Request",
+      "text": "Freundschaftsanfrage ablehnen"
+    },
+    {
+      "key": "msg_SUB_MENU_REMOVE_FRIEND",
+      "read_index": "27",
+      "source_jp": "フレンドを解除する",
+      "source_en": "Unfriend",
+      "text": "Freund entfernen"
+    },
+    {
+      "key": "msg_SUB_MENU_FAVORITE_FRIEND",
+      "read_index": "28",
+      "source_jp": "フレンドお気に入り登録",
+      "source_en": "Register Friend as a Favorite",
+      "text": "Freund als Favorit markieren"
+    },
+    {
+      "key": "msg_SUB_MENU_FAVORITE_PAWN",
+      "read_index": "29",
+      "source_jp": "ポーンお気に入り登録",
+      "source_en": "Register Pawn as a favorite",
+      "text": "Vasall als Favorit markieren"
+    },
+    {
+      "key": "msg_SUB_MENU_FAVORITE_OFF",
+      "read_index": "30",
+      "source_jp": "お気に入り登録解除",
+      "source_en": "Unfavorite",
+      "text": "Aus Favoriten entfernen"
+    },
+    {
+      "key": "msg_SUB_MENU_RENTAL_PAWN",
+      "read_index": "31",
+      "source_jp": "ポーンを雇用する",
+      "source_en": "Hire Pawn",
+      "text": "Vasall anheuern"
+    },
+    {
+      "key": "msg_SUB_MENU_PAWN_DELETE",
+      "read_index": "33",
+      "source_jp": "ポーンの削除",
+      "source_en": "Delete Pawn",
+      "text": "Vasall löschen"
+    },
+    {
+      "key": "msg_SUB_MENU_PAWN_REG_SETTING",
+      "read_index": "34",
+      "source_jp": "ポーンの貸し出し制限",
+      "source_en": "Pawn's rental restrictions",
+      "text": "Anwerberegeln des Vasallen"
+    },
+    {
+      "key": "msg_SUB_MENU_PAWN_HISTORY",
+      "read_index": "35",
+      "source_jp": "ポーンのレンタル履歴",
+      "source_en": "Pawn's Rental History",
+      "text": "Anwerbeverlauf des Vasallen"
+    },
+    {
+      "key": "msg_SUB_MENU_PAWN_RETURN",
+      "read_index": "36",
+      "source_jp": "ポーンを返却する",
+      "source_en": "Return Pawn",
+      "text": "Vasall zurückschicken"
+    },
+    {
+      "key": "msg_SUB_MENU_CARD",
+      "read_index": "37",
+      "source_jp": "覚者プロフィールを見る",
+      "source_en": "View Arisen profile",
+      "text": "Erwecktenprofil ansehen"
+    },
+    {
+      "key": "msg_SUB_MENU_GROUP_CHAT",
+      "read_index": "38",
+      "source_jp": "グループチャットに誘う",
+      "source_en": "Invite to join Group Chat",
+      "text": "Zum Gruppenchat einladen"
+    },
+    {
+      "key": "msg_SUB_MENU_GROUP_CHAT_KICK",
+      "read_index": "39",
+      "source_jp": "グループチャットから外す",
+      "source_en": "Removed from the group chat",
+      "text": "Aus Gruppenchat entfernen"
+    },
+    {
+      "key": "msg_SUB_MENU_ADD_BLACKLIST",
+      "read_index": "41",
+      "source_jp": "ブラックリスト登録",
+      "source_en": "Add to the Blacklist",
+      "text": "Auf Sperrliste setzen"
+    },
+    {
+      "key": "msg_SUB_MENU_REMOVE_BLACKLIST",
+      "read_index": "42",
+      "source_jp": "ブラックリスト登録解除",
+      "source_en": "Delete from Blacklist",
+      "text": "Von Sperrliste entfernen"
+    },
+    {
+      "key": "msg_SUB_MENU_DELETE_MAIL",
+      "read_index": "43",
+      "source_jp": "メール削除",
+      "source_en": "Delete Mail",
+      "text": "Nachricht löschen"
+    },
+    {
+      "key": "msg_SUB_MENU_PARTY_BREAKUP",
+      "read_index": "44",
+      "source_jp": "パーティー解散",
+      "source_en": "Disband Party",
+      "text": "Gruppe auflösen"
+    },
+    {
+      "key": "msg_SUB_MENU_START_QUICKPARTY",
+      "read_index": "45",
+      "source_jp": "クイックパーティーを開始する",
+      "source_en": "Start Quick Party",
+      "text": "Schnellsuche starten"
+    },
+    {
+      "key": "msg_SUB_MENU_EDIT_QUICKPARTY",
+      "read_index": "46",
+      "source_jp": "設定の編集",
+      "source_en": "Edit Settings",
+      "text": "Einstellungen bearbeiten"
+    },
+    {
+      "key": "msg_SUB_MENU_PAWN_CARD",
+      "read_index": "47",
+      "source_jp": "ポーンプロフィールを見る",
+      "source_en": "View Pawn profile",
+      "text": "Vasallenprofil ansehen"
+    },
+    {
+      "key": "msg_SUB_MENU_FAVORITE_FRIEND_OFF",
+      "read_index": "48",
+      "source_jp": "フレンドお気に入り登録解除",
+      "source_en": "Unfavorite Friend",
+      "text": "Freund aus Favoriten entfernen"
+    },
+    {
+      "key": "msg_SUB_MENU_FAVORITE_PAWN_OFF",
+      "read_index": "49",
+      "source_jp": "ポーンお気に入り登録解除",
+      "source_en": "Unfavorite Pawn",
+      "text": "Vasall aus Favoriten entfernen"
+    },
+    {
+      "key": "msg_SUB_MENU_LOST_PAWN_RESCUE",
+      "read_index": "50",
+      "source_jp": "救出する",
+      "source_en": "Rescue",
+      "text": "Retten"
+    },
+    {
+      "key": "msg_SUB_MENU_PAWN_TALK",
+      "read_index": "51",
+      "source_jp": "話しかける",
+      "source_en": "Talk",
+      "text": "Sprechen"
+    },
+    {
+      "key": "msg_SUB_MENU_SP_DISTRIBUTE",
+      "read_index": "52",
+      "source_jp": "レンタルポイントを割り振る",
+      "source_en": "Allocate Rental Points",
+      "text": "Anwerbepunkte verteilen"
+    },
+    {
+      "key": "msg_SUB_MENU_ENTRY_INVITATION",
+      "read_index": "53",
+      "source_jp": "エントリーボード招待",
+      "source_en": "Invitation to the Entry Board",
+      "text": "Zum Anmeldeboard einladen"
+    },
+    {
+      "key": "msg_SUB_MENU_CRAFTSKILLRESET",
+      "read_index": "54",
+      "source_jp": "クラフトポイントのリセット",
+      "source_en": "Reset Craft Points",
+      "text": "Handwerkspunkte zurücksetzen"
+    },
+    {
+      "key": "msg_SUB_MENU_PARTNERPAWN_SET",
+      "read_index": "55",
+      "source_jp": "パートナーポーンに設定",
+      "source_en": "Set as Partner Pawn",
+      "text": "Als Partnervasall festlegen"
+    },
+    {
+      "key": "msg_SUB_MENU_CLAN_INVITE_DIRECT",
+      "read_index": "56",
+      "source_jp": "クランに直接招待する",
+      "source_en": "Direct Invite to Clan",
+      "text": "Direkt in den Clan einladen"
+    },
+    {
+      "key": "msg_SUB_MENU_KEYCONFIG_EDIT_NAME",
+      "read_index": "57",
+      "source_jp": "名前の編集",
+      "source_en": "Edit name",
+      "text": "Name ändern"
+    },
+    {
+      "key": "msg_SUB_MENU_KEYCONFIG_COPY",
+      "read_index": "58",
+      "source_jp": "内容のコピー",
+      "source_en": "Copy the content",
+      "text": "Belegung kopieren"
+    },
+    {
+      "key": "msg_SUB_MENU_KEYCONFIG_CHANGE_BLANK",
+      "read_index": "59",
+      "source_jp": "ブランクキーにする",
+      "source_en": "Set to blank keys",
+      "text": "Tastenbelegung leeren"
+    },
+    {
+      "key": "msg_SUB_MENU_KEYCONFIG_CHANGE_BEFORE",
+      "read_index": "60",
+      "source_jp": "変更前に戻す",
+      "source_en": "Revert",
+      "text": "Rückgängig"
+    },
+    {
+      "key": "msg_SUB_MENU_KEYCONFIG_CHANGE_INITIALIZATION",
+      "read_index": "61",
+      "source_jp": "初期設定に戻す",
+      "source_en": "Restore Default Settings",
+      "text": "Standard wiederherstellen"
+    },
+    {
+      "key": "msg_SUB_MENU_CLAN_AUTHORITY_SETTING",
+      "read_index": "62",
+      "source_jp": "クランの権限設定",
+      "source_en": "Clan permission settings",
+      "text": "Clan-Berechtigungen"
+    },
+    {
+      "key": "msg_SUB_MENU_CHAT_ADDRESS_MEMO",
+      "read_index": "63",
+      "source_jp": "メモする",
+      "source_en": "Take Note",
+      "text": "Notiz hinzufügen"
+    },
+    {
+      "key": "msg_SUB_MENU_PAWN_CHECK_GROWTH",
+      "read_index": "64",
+      "source_jp": "調子をたずねる",
+      "source_en": "Inquire about condition",
+      "text": "Nach dem Befinden fragen"
+    },
+    {
+      "key": "msg_SUB_MENU_KICK_ENTRY",
+      "read_index": "65",
+      "source_jp": "メンバーから外す",
+      "source_en": "Remove from Members",
+      "text": "Teilnehmer entfernen"
+    },
+    {
+      "key": "msg_SUB_MENU_ENTRY_CHECK",
+      "read_index": "66",
+      "source_jp": "エントリーを確認する",
+      "source_en": "Confirm the entry",
+      "text": "Anmeldung ansehen"
+    },
+    {
+      "key": "msg_SUB_MENU_PSPSKILL_01",
+      "read_index": "67",
+      "source_jp": "セットする",
+      "source_en": "Set",
+      "text": "Auswählen"
+    },
+    {
+      "key": "msg_SUB_MENU_PSPSKILL_02",
+      "read_index": "68",
+      "source_jp": "破棄する",
+      "source_en": "Discard",
+      "text": "Verwerfen"
+    },
+    {
+      "key": "msg_SUB_MENU_PSPSKILL_03",
+      "read_index": "69",
+      "source_jp": "アイテムを使用して閃く",
+      "source_en": "Trigger with item",
+      "text": "Mit Gegenstand erlernen"
+    }
+  ]
+}

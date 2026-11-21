@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\server_select_res.gmd",
+  "arc_path": "\\ui\\uGUIServerSelect.arc",
+  "entries": [
+    {
+      "key": "server_sel_page_change",
+      "read_index": "0",
+      "source_jp": "ページ切り替え",
+      "source_en": "Change Page",
+      "text": "Seite wechseln"
+    },
+    {
+      "key": "server_sel_plinfo",
+      "read_index": "1",
+      "source_jp": "プレイヤー情報",
+      "source_en": "Player Information",
+      "text": "Spielerinfos"
+    },
+    {
+      "key": "server_sel_lobby_en",
+      "read_index": "4",
+      "source_jp": "Lobby Select",
+      "source_en": "Lobby Select",
+      "text": "Lobbyauswahl"
+    },
+    {
+      "key": "server_sel_crowded",
+      "read_index": "6",
+      "source_jp": "混雑",
+      "source_en": "Congestion",
+      "text": "Auslastung"
+    },
+    {
+      "key": "server_sel_msg_lobby",
+      "read_index": "7",
+      "source_jp": "LOBBY",
+      "source_en": "LOBBY",
+      "text": "Lobby"
+    },
+    {
+      "key": "server_sel_ver",
+      "read_index": "8",
+      "source_jp": "ver",
+      "source_en": "ver",
+      "text": "Vers."
+    },
+    {
+      "key": "server_sel_destination",
+      "read_index": "10",
+      "source_jp": "行き先を選択してください",
+      "source_en": "Please select your destination.",
+      "text": "Wähle dein Ziel."
+    }
+  ]
+}

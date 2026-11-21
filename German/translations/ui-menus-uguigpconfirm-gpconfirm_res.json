@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\GPConfirm_res.gmd",
+  "arc_path": "\\ui\\uGUIGPConfirm.arc",
+  "entries": [
+    {
+      "key": "OSC_buy",
+      "read_index": "0",
+      "source_jp": "購入",
+      "source_en": "Buy",
+      "text": "Kaufen"
+    },
+    {
+      "key": "OSC_cancel",
+      "read_index": "1",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "OSC_index",
+      "read_index": "2",
+      "source_jp": "現在の黄金石",
+      "source_en": "Golden Gemstones",
+      "text": "Goldsteine"
+    },
+    {
+      "key": "OSC_index_af",
+      "read_index": "3",
+      "source_jp": "購入後の黄金石",
+      "source_en": "After Purchase",
+      "text": "Nach dem Kauf"
+    },
+    {
+      "key": "OSC_warnig_caption",
+      "read_index": "4",
+      "source_jp": "ご購入前に必ずお読みください",
+      "source_en": "Please read before purchasing.",
+      "text": "Bitte lies die Hinweise vor dem Kauf."
+    },
+    {
+      "key": "OSC_buy_item",
+      "read_index": "5",
+      "source_jp": "<NAME ITEM>：<NAME ITEM> を\r\n黄金石 <VAL> 個で購入します",
+      "source_en": "<NAME ITEM>: <NAME ITEM>\r\nYou will spend <VAL> Golden Gemstones to purchase\r\nthis.",
+      "text": "<NAME ITEM>: <NAME ITEM>\r\nDieser Kauf kostet <VAL> Goldsteine."
+    },
+    {
+      "key": "OSC_buy_goldstone",
+      "read_index": "6",
+      "source_jp": "黄金石 <VAL> 個を\r\n<VAL CAP>で購入します",
+      "source_en": "You will purchase <VAL>\r\ngemstones for <VAL CAP>.",
+      "text": "Du kaufst <VAL> Goldsteine für <VAL CAP>."
+    },
+    {
+      "key": "OSC_caution_gs",
+      "read_index": "7",
+      "source_jp": "※「黄金石」は最大５か月で無効になります",
+      "source_en": "*The 'golden stone' becomes invalid after a\r\nmaximum of five months.",
+      "text": "Goldsteine verfallen spätestens nach fünf Monaten."
+    }
+  ]
+}

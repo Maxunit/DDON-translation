@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_member_ready_wait",
+      "read_index": "62",
+      "source_jp": "全員が準備完了するのを待っています",
+      "source_en": "Please wait for everyone to be ready.",
+      "text": "Warte, bis alle bereit sind."
+    },
+    {
+      "key": "ana_entry_board_name_taken_list",
+      "read_index": "256",
+      "source_jp": "リストから名前取得",
+      "source_en": "From List",
+      "text": "Aus der Liste"
+    },
+    {
+      "key": "ana_mail_ana_receivedmail_full",
+      "read_index": "259",
+      "source_jp": "知り合いメールボックスがいっぱいです",
+      "source_en": "That character's mailbox is full",
+      "text": "Das Postfach dieses Charakters ist voll."
+    },
+    {
+      "key": "ana_mail_ana_notificationmail_full",
+      "read_index": "261",
+      "source_jp": "運営メールボックスがいっぱいです\r\n新しい運営メールを受信するには、不要になった運営メールを削除してください",
+      "source_en": "Your mailbox is full.\r\nPlease delete unneeded mail to receive new mail.",
+      "text": "Die Systempost ist voll.\r\nLösche alte Nachrichten, um neue zu erhalten."
+    },
+    {
+      "key": "ana_itembox_submenu_tooltip_sendbox_ng_frame",
+      "read_index": "272",
+      "source_jp": "アイテム枠がいっぱいです",
+      "source_en": "The box is full.",
+      "text": "Kein freier Platz."
+    },
+    {
+      "key": "ana_enter_password",
+      "read_index": "334",
+      "source_jp": "パスワードを入力してください",
+      "source_en": "Please enter your password.",
+      "text": "Gib dein Passwort ein."
+    },
+    {
+      "key": "ana_char_edit_crowded",
+      "read_index": "354",
+      "source_jp": "現在サーバーが混み合っています。\r\nキャラクター作成処理が完了するまで\r\nしばらくおまちください。\r\n(現在<VAL>人待ちです)",
+      "source_en": "The server is busy right now.\r\nWhile your character is being created,\r\nplease wait for a while.\r\n(Currently <VAL> people waiting)",
+      "text": "Der Server ist ausgelastet.\r\nBitte warte, während dein Charakter erstellt wird.\r\n(Warteschlange: <VAL>)"
+    },
+    {
+      "key": "ana_is_backlobby",
+      "read_index": "356",
+      "source_jp": "タイトルに戻りますか？",
+      "source_en": "Return to the title screen?",
+      "text": "Zum Titelmenü zurückkehren?"
+    },
+    {
+      "key": "ana_entry_comment_input",
+      "read_index": "402",
+      "source_jp": "コメントを入力してください",
+      "source_en": "Please enter a comment.",
+      "text": "Gib einen Kommentar ein."
+    },
+    {
+      "key": "ana_mail_receive_bag",
+      "read_index": "505",
+      "source_jp": "アイテムバッグに受け取る",
+      "source_en": "Receive in item bag",
+      "text": "In der Tasche entgegennehmen"
+    },
+    {
+      "key": "ana_party_waiting_for_all",
+      "read_index": "511",
+      "source_jp": "パーティー全員が参加するまで、しばらくお待ちください",
+      "source_en": "Please wait a moment until all party members have\r\njoined.",
+      "text": "Warte, bis alle Gruppenmitglieder beigetreten sind."
+    },
+    {
+      "key": "ana_epitaph_016",
+      "read_index": "535",
+      "source_jp": "試練を中断しますか？\r\n(中断した場合、納品したアイテムは破棄されます)",
+      "source_en": "Interrupt ordeal?\r\n(If interrupted, delivered items will be\r\ndiscarded)",
+      "text": "Prüfung abbrechen?\r\nDabei gehen abgegebene Gegenstände verloren."
+    }
+  ]
+}

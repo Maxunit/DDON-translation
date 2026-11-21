@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\item_restore.gmd",
+  "arc_path": "\\ui\\uGUIItemReStore.arc",
+  "entries": [
+    {
+      "key": "item_restore_header01",
+      "read_index": "2",
+      "source_jp": "アイテム",
+      "source_en": "Item",
+      "text": "Gegenstand"
+    },
+    {
+      "key": "item_restore_header02",
+      "read_index": "3",
+      "source_jp": "復元費用",
+      "source_en": "Restoration cost",
+      "text": "Kosten"
+    },
+    {
+      "key": "item_restore_dialog_01",
+      "read_index": "4",
+      "source_jp": "捨てた、または売却してしまった\r\n<COL ffdc78>特定のアイテム</COL>を復元できます\r\n復元前のアイテムパラメータは\r\n正常な値が反映されていないことがあります\r\n復元することでパラメータも正常な値に復元されます",
+      "source_en": "Restore a <COL ffdc78>specific item</COL> that\r\nyou have discarded or sold.\r\nThe parameters of the item before restoration may\r\nnot reflect the correct values, but they will be\r\nrestored to their proper values upon restoration.",
+      "text": "Du kannst <COL ffdc78>bestimmte Gegenstände</COL>\r\nnach Wegwerfen oder Verkauf zurückholen.\r\nDabei werden auch ihre Werte wiederhergestellt."
+    },
+    {
+      "key": "item_restore_dialog_01_01",
+      "read_index": "5",
+      "source_jp": "復元可能な特定アイテムを確認する",
+      "source_en": "Check for recoverable specific items.",
+      "text": "Wiederherstellbare Gegenstände anzeigen"
+    },
+    {
+      "key": "item_restore_dialog_02",
+      "read_index": "7",
+      "source_jp": "以下の内容で復元します。よろしいですか？\r\n　アイテム：<NAME ITEM>\r\n　復元費用：<VAL GOLD>",
+      "source_en": "Are you sure you want to restore with the\r\nfollowing details?\r\nItem: <NAME ITEM>\r\nCost: <VAL GOLD>",
+      "text": "Diesen Gegenstand wiederherstellen?\r\nGegenstand: <NAME ITEM>\r\nKosten: <VAL GOLD>"
+    },
+    {
+      "key": "item_restore_dialog_02_01",
+      "read_index": "8",
+      "source_jp": "アイテムバッグに復元する",
+      "source_en": "Restore in Item Bag",
+      "text": "In der Tasche wiederherstellen"
+    },
+    {
+      "key": "item_restore_dialog_02_02",
+      "read_index": "9",
+      "source_jp": "保管ボックスに復元する",
+      "source_en": "Restore to Storage Box",
+      "text": "Im Lager wiederherstellen"
+    },
+    {
+      "key": "item_restore_dialog_02_03",
+      "read_index": "10",
+      "source_jp": "格納チェストに復元する",
+      "source_en": "Restore to Storage Chest",
+      "text": "In der Lagerkiste wiederherstellen"
+    },
+    {
+      "key": "item_restore_dialog_02_err01",
+      "read_index": "11",
+      "source_jp": "費用が足りません",
+      "source_en": "Insufficient funds",
+      "text": "Nicht genug Geld"
+    },
+    {
+      "key": "item_restore_dialog_02_err02",
+      "read_index": "12",
+      "source_jp": "アイテム枠がいっぱいです",
+      "source_en": "The box is full.",
+      "text": "Kein freier Platz"
+    },
+    {
+      "key": "item_restore_announce_01",
+      "read_index": "13",
+      "source_jp": "アイテムを復元しました",
+      "source_en": "Item restored.",
+      "text": "Gegenstand wiederhergestellt."
+    },
+    {
+      "key": "item_restore_item0",
+      "read_index": "14",
+      "source_jp": "復元可能なアイテムがありません",
+      "source_en": "There are no restorable items",
+      "text": "Keine wiederherstellbaren Gegenstände"
+    }
+  ]
+}

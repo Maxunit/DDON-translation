@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Sichttest",
+  "gmd_path": "ui\\00_message\\ui\\keyconfig_detail.gmd",
+  "arc_path": "\\ui\\uGUIKeyConfig.arc",
+  "entries": [
+    {
+      "key": "kcd_061",
+      "read_index": "61",
+      "source_jp": "<COL DAEEF3>【Ｐｒ】</COL>セイントオーラ　<COL DAEEF3>【Ｓｈ】</COL>フォースエンチャント\r\n<COL DAEEF3>【Ａｌ】</COL>エリクシル　<COL DAEEF3>【Ｓｐ】</COL>ヒールブースト　<COL DAEEF3>【Ｈｉ】</COL>バック・リープ",
+      "source_en": "<COL DAEEF3>(Pr)</COL> Holy Aura <COL DAEEF3>\r\n(Sh)</COL> Force Enchantment\r\n<COL DAEEF3>(Al)</COL> Elixir <COL DAEEF3>\r\n(Sp)</COL> Heal Boost <COL DAEEF3>\r\n(Hi)</COL> Back Leap",
+      "text": "<COL DAEEF3>(Pr)</COL> Heilige Aura · <COL DAEEF3>(Sh)</COL> Element verleihen · <COL DAEEF3>(Al)</COL> Elixier\r\n<COL DAEEF3>(Sp)</COL> Heilung verstärken · <COL DAEEF3>(Hi)</COL> Rücksprung"
+    },
+    {
+      "key": "kcd_062",
+      "read_index": "62",
+      "source_jp": "<COL DAEEF3>【Ｈｕ】</COL>しじま射ち（弓構え中）　<COL DAEEF3>【Ｓｏ】</COL>スペリング（詠唱中）\r\n<COL DAEEF3>【Ｈｉ】</COL>ロックオン中のカメラ操作（ルイン・ブレード構え中）",
+      "source_en": "<COL DAEEF3>(Hu)</COL> Keen Sight (when aiming\r\nbow) <COL DAEEF3>(So)</COL> Chanting\r\n<COL DAEEF3>(Hi)</COL> Camera operation during\r\nlock on (in Ruin Blade stance)",
+      "text": "<COL DAEEF3>(Hu)</COL> Ruhiger Schuss beim Zielen · <COL DAEEF3>(So)</COL> Zauber wirken\r\n<COL DAEEF3>(Hi)</COL> Kamera bei Zielerfassung (Ruinenschwert)"
+    },
+    {
+      "key": "kcd_065",
+      "read_index": "65",
+      "source_jp": "<COL DAEEF3>【Ｓｏ】</COL>バックムーブ　　　<COL DAEEF3>【Ｗａ】</COL>退魔の身構え\r\n<COL DAEEF3>【Ａｌ】</COL>アルケム・フーガ　<COL DAEEF3>【Ｓｐ】</COL>スカー・ムーヴ",
+      "source_en": "<COL DAEEF3>(So)</COL> Back Move <COL DAEEF3>\r\n(Wa)</COL> Brace\r\n<COL DAEEF3>(Al)</COL> Alchemical Fuga <COL DAEEF3>\r\n(Sp)</COL> Scáth Move",
+      "text": "<COL DAEEF3>(So)</COL> Rückschritt · <COL DAEEF3>(Wa)</COL> Abwehrhaltung\r\n<COL DAEEF3>(Al)</COL> Alchemistische Fuge · <COL DAEEF3>(Sp)</COL> Scáth-Schritt"
+    },
+    {
+      "key": "kcd_073",
+      "read_index": "73",
+      "source_jp": "<COL DAEEF3>【Ｆｉ】</COL>ガード　　　<COL DAEEF3>【Ｓｈ】</COL>シールドロック\r\n<COL DAEEF3>【Ｓｅ】</COL>ロープ構え　<COL DAEEF3>【Ｈｉ】</COL>ウィル・スタンス",
+      "source_en": "<COL DAEEF3>(Fi)</COL> Guard <COL DAEEF3>\r\n(Sh)</COL> Shield Lock\r\n<COL DAEEF3>(Se)</COL> Rope Stance <COL DAEEF3>\r\n(Hi)</COL> Will Stance",
+      "text": "<COL DAEEF3>(Fi)</COL> Blocken · <COL DAEEF3>(Sh)</COL> Schild fixieren\r\n<COL DAEEF3>(Se)</COL> Seil bereithalten · <COL DAEEF3>(Hi)</COL> Willenshaltung"
+    }
+  ]
+}

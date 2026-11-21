@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\PawnReview_res.gmd",
+  "arc_path": "\\ui\\uGUIPawnReview.arc",
+  "entries": [
+    {
+      "key": "pawnreview_msg_title_e",
+      "read_index": "0",
+      "source_jp": "Pawn Review",
+      "source_en": "Pawn Review",
+      "text": "Vasallenwertung"
+    },
+    {
+      "key": "pawnreview_msg_title_j",
+      "read_index": "1",
+      "source_jp": "ポーン評価",
+      "source_en": "Pawn Review",
+      "text": "Vasallenwertung"
+    },
+    {
+      "key": "pawnreview_msg_looks_review",
+      "read_index": "2",
+      "source_jp": "外見評価",
+      "source_en": "Appearance Rating",
+      "text": "Aussehenswertung"
+    },
+    {
+      "key": "pawnreview_msg_battle_review",
+      "read_index": "3",
+      "source_jp": "冒険評価",
+      "source_en": "Combat Rating",
+      "text": "Kampfwertung"
+    },
+    {
+      "key": "pawnreview_msg_craft_review",
+      "read_index": "4",
+      "source_jp": "クラフト評価",
+      "source_en": "Craft Rating",
+      "text": "Handwerkswertung"
+    },
+    {
+      "key": "pawnreview_msg_num_battle",
+      "read_index": "5",
+      "source_jp": "冒険回数:",
+      "source_en": "Battle Count:",
+      "text": "Kämpfe:"
+    },
+    {
+      "key": "pawnreview_msg_num_craft",
+      "read_index": "6",
+      "source_jp": "クラフト回数:",
+      "source_en": "Craft Count:",
+      "text": "Herstellungen:"
+    },
+    {
+      "key": "pawnreview_msg_choice_return",
+      "read_index": "7",
+      "source_jp": "評価して返却",
+      "source_en": "Return as rated",
+      "text": "Bewerten und zurückschicken"
+    },
+    {
+      "key": "pawnreview_msg_choice_cancel",
+      "read_index": "8",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    }
+  ]
+}

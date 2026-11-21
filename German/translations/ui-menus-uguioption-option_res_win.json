@@ -1,0 +1,1954 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\option_res_win.gmd",
+  "arc_path": "\\ui\\uGUIOption.arc",
+  "entries": [
+    {
+      "key": "OPTION_MSG_CATEGORY_DISPLAY",
+      "read_index": "0",
+      "source_jp": "ディスプレイ設定",
+      "source_en": "Display",
+      "text": "Anzeige"
+    },
+    {
+      "key": "OPTION_MSG_TAB_GAMMA",
+      "read_index": "1",
+      "source_jp": "ガンマ補正",
+      "source_en": "Gamma Correction",
+      "text": "Gammakorrektur"
+    },
+    {
+      "key": "OPTION_MSG_CATEGORY_SOUND",
+      "read_index": "2",
+      "source_jp": "サウンド設定",
+      "source_en": "Sound",
+      "text": "Audio"
+    },
+    {
+      "key": "OPTION_MSG_CATEGORY_GAMEPAD",
+      "read_index": "4",
+      "source_jp": "<PFWD 0>設定",
+      "source_en": "<PFWD 0> Setting",
+      "text": "<PFWD 0> konfigurieren"
+    },
+    {
+      "key": "OPTION_MSG_OTHERS",
+      "read_index": "5",
+      "source_jp": "その他",
+      "source_en": "Other",
+      "text": "Sonstiges"
+    },
+    {
+      "key": "OPTION_MSG_TAB_VOICE",
+      "read_index": "6",
+      "source_jp": "ボイス",
+      "source_en": "Voices",
+      "text": "Stimmen"
+    },
+    {
+      "key": "OPTION_MSG_TAB_SE",
+      "read_index": "8",
+      "source_jp": "効果音",
+      "source_en": "Sound Effects",
+      "text": "Soundeffekte"
+    },
+    {
+      "key": "OPTION_MSG_TAB_GENERAL_GAMEPAD",
+      "read_index": "9",
+      "source_jp": "<PFWD 0>の全般設定",
+      "source_en": "<PFWD 0> General Settings",
+      "text": "Allgemeine Einstellungen für <PFWD 0>"
+    },
+    {
+      "key": "OPTION_MSG_SE_TELL",
+      "read_index": "10",
+      "source_jp": "チャットログ受信音",
+      "source_en": "Tell Sound",
+      "text": "Flüsterton"
+    },
+    {
+      "key": "OPTION_MSG_SE_OTHERSYSTEMS",
+      "read_index": "11",
+      "source_jp": "その他のシステム音",
+      "source_en": "Other System Sound",
+      "text": "Sonstige Systemtöne"
+    },
+    {
+      "key": "OPTION_MSG_VOICE_NPC",
+      "read_index": "12",
+      "source_jp": "その他のセリフ",
+      "source_en": "NPC Voices",
+      "text": "NPC-Stimmen"
+    },
+    {
+      "key": "OPTION_MSG_VOICE_PAWN",
+      "read_index": "13",
+      "source_jp": "ポーンのセリフ",
+      "source_en": "Pawn Voices",
+      "text": "Vasallenstimmen"
+    },
+    {
+      "key": "OPTION_MSG_AVOICE_PLAYER",
+      "read_index": "14",
+      "source_jp": "プレイヤーのアクションボイス",
+      "source_en": "Player Action Voices",
+      "text": "Rufe des eigenen Charakters"
+    },
+    {
+      "key": "OPTION_MSG_AVOICE_PARTY",
+      "read_index": "15",
+      "source_jp": "その他のアクションボイス",
+      "source_en": "Party Action Voices",
+      "text": "Rufe der Gruppe"
+    },
+    {
+      "key": "OPTION_MSG_AVOICE_ENEMY",
+      "read_index": "16",
+      "source_jp": "敵のアクションボイス",
+      "source_en": "Enemy Action Voices",
+      "text": "Gegnerrufe"
+    },
+    {
+      "key": "OPTION_MSG_VOICE_COMMUNICATION",
+      "read_index": "17",
+      "source_jp": "簡易コミュニケーションボイス",
+      "source_en": "Communication Voices",
+      "text": "Kommunikationsstimmen"
+    },
+    {
+      "key": "OPTION_MSG_BGM_BATTLE",
+      "read_index": "18",
+      "source_jp": "戦闘BGM",
+      "source_en": "Combat BGM",
+      "text": "Kampfmusik"
+    },
+    {
+      "key": "OPTION_MSG_NOISE_SURROUND",
+      "read_index": "19",
+      "source_jp": "環境音",
+      "source_en": "Ambient",
+      "text": "Umgebung"
+    },
+    {
+      "key": "OPTION_MSG_NOISE_ENEMY",
+      "read_index": "20",
+      "source_jp": "敵",
+      "source_en": "Enemy",
+      "text": "Gegner"
+    },
+    {
+      "key": "OPTION_MSG_NOISE_PLAYER",
+      "read_index": "21",
+      "source_jp": "プレイヤー",
+      "source_en": "Player",
+      "text": "Eigener Charakter"
+    },
+    {
+      "key": "OPTION_MSG_NOISE_PARTY",
+      "read_index": "22",
+      "source_jp": "パーティーメンバー等",
+      "source_en": "Party Members",
+      "text": "Gruppe"
+    },
+    {
+      "key": "OPTION_MSG_VIBRATION_GAMEPAD",
+      "read_index": "23",
+      "source_jp": "振動機能を有効にする",
+      "source_en": "Enable Vibration",
+      "text": "Vibration aktivieren"
+    },
+    {
+      "key": "OPTION_MSG_CATEGORY_GENERAL",
+      "read_index": "27",
+      "source_jp": "全般",
+      "source_en": "General",
+      "text": "Allgemein"
+    },
+    {
+      "key": "OPTION_MSG_CATEGORY_OVERHEAD",
+      "read_index": "29",
+      "source_jp": "頭上表示",
+      "source_en": "Overhead",
+      "text": "Namensanzeigen"
+    },
+    {
+      "key": "OPTION_MSG_CATEGORY_NOTICE",
+      "read_index": "31",
+      "source_jp": "通知・公開設定",
+      "source_en": "Notice & Privacy",
+      "text": "Meldungen / Freigaben"
+    },
+    {
+      "key": "OPTION_MSG_TAB_CHARACAR",
+      "read_index": "32",
+      "source_jp": "キャラクター",
+      "source_en": "Character",
+      "text": "Charakter"
+    },
+    {
+      "key": "OPTION_MSG_TAB_ANYONE",
+      "read_index": "33",
+      "source_jp": "他人",
+      "source_en": "Other Players",
+      "text": "Andere Spieler"
+    },
+    {
+      "key": "OPTION_MSG_TAB_NOTICE",
+      "read_index": "35",
+      "source_jp": "通知",
+      "source_en": "Notice",
+      "text": "Benachrichtigungen"
+    },
+    {
+      "key": "OPTION_MSG_TAB_PRIVACY",
+      "read_index": "36",
+      "source_jp": "公開設定",
+      "source_en": "Privacy",
+      "text": "Privatsphäre"
+    },
+    {
+      "key": "OPTION_MSG_TITLE_M_TITLE00",
+      "read_index": "37",
+      "source_jp": "Device Config",
+      "source_en": "System Config",
+      "text": "Systemeinstellungen"
+    },
+    {
+      "key": "OPTION_MSG_TITLE_M_TITLE03",
+      "read_index": "40",
+      "source_jp": "ゲーム設定",
+      "source_en": "Game Config",
+      "text": "Spieleinstellungen"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_ONLINESTATES",
+      "read_index": "41",
+      "source_jp": "ネットワークステータス",
+      "source_en": "Online Status",
+      "text": "Onlinestatus"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_PCAMERA",
+      "read_index": "42",
+      "source_jp": "カメラ操作：<PFWD 0>",
+      "source_en": "Camera: <PFWD 0>",
+      "text": "Kamera (<PFWD 0>)"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_KCAMERA",
+      "read_index": "43",
+      "source_jp": "カメラ操作：キーボード",
+      "source_en": "Camera: Keyboard",
+      "text": "Kamera (Tastatur)"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_COFFSET",
+      "read_index": "44",
+      "source_jp": "アクション時のカメラ補正",
+      "source_en": "Camera Correction",
+      "text": "Kamerakorrektur"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_CCONTROLL",
+      "read_index": "45",
+      "source_jp": "カメラ操作",
+      "source_en": "Camera Control",
+      "text": "Kamerasteuerung"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_WHINDOWS",
+      "read_index": "46",
+      "source_jp": "各種ウィンドウ",
+      "source_en": "Windows",
+      "text": "Fenster"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_DCHAT",
+      "read_index": "47",
+      "source_jp": "ダイレクトチャット",
+      "source_en": "Direct Chat",
+      "text": "Direktchat"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_DEMO",
+      "read_index": "48",
+      "source_jp": "デモ",
+      "source_en": "Demo",
+      "text": "Zwischensequenzen"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_CSOUND",
+      "read_index": "49",
+      "source_jp": "エクストラサウンド",
+      "source_en": "Extra Sounds",
+      "text": "Zusätzliche Töne"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_CSET",
+      "read_index": "50",
+      "source_jp": "キャラクター設定",
+      "source_en": "Character Settings",
+      "text": "Charaktereinstellungen"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_SHOP_SET",
+      "read_index": "51",
+      "source_jp": "ショップ設定",
+      "source_en": "Shop Settings",
+      "text": "Shop-Einstellungen"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_MAP_SET",
+      "read_index": "52",
+      "source_jp": "マップ設定",
+      "source_en": "Minimap Settings",
+      "text": "Minikarteneinstellungen"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_CINFO",
+      "read_index": "53",
+      "source_jp": "キャラクター情報",
+      "source_en": "Character Information",
+      "text": "Charakterinfos"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_PHOTO",
+      "read_index": "54",
+      "source_jp": "フォト",
+      "source_en": "Photo",
+      "text": "Fotos"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_DISPSET",
+      "read_index": "55",
+      "source_jp": "表示設定",
+      "source_en": "Display Settings",
+      "text": "Anzeigeeinstellungen"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_PARTY_DISP",
+      "read_index": "56",
+      "source_jp": "パーティーメンバー",
+      "source_en": "Party Members",
+      "text": "Gruppenmitglieder"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_OTHERS_DISP",
+      "read_index": "57",
+      "source_jp": "他人",
+      "source_en": "Other Players",
+      "text": "Andere Spieler"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_OBJ_DISP",
+      "read_index": "59",
+      "source_jp": "オブジェクト",
+      "source_en": "Objects",
+      "text": "Objekte"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_CHATLOG",
+      "read_index": "60",
+      "source_jp": "チャットログ設定",
+      "source_en": "Settings",
+      "text": "Einstellungen"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_LOGCOLLER",
+      "read_index": "61",
+      "source_jp": "ログカラー設定",
+      "source_en": "Color",
+      "text": "Farbe"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_CHATSE",
+      "read_index": "62",
+      "source_jp": "チャット着信時のSE",
+      "source_en": "Ringtone",
+      "text": "Signalton"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_NOTION_AREA",
+      "read_index": "63",
+      "source_jp": "通知領域",
+      "source_en": "Notification Area",
+      "text": "Benachrichtigungsbereich"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_ACHIEVE",
+      "read_index": "64",
+      "source_jp": "アチーブメント",
+      "source_en": "Achievement",
+      "text": "Erfolge"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_NOTICE",
+      "read_index": "65",
+      "source_jp": "通知",
+      "source_en": "Notice",
+      "text": "Benachrichtigungen"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_ARISENCARD",
+      "read_index": "66",
+      "source_jp": "覚者プロフィール",
+      "source_en": "Arisen Profile",
+      "text": "Erwecktenprofil"
+    },
+    {
+      "key": "OPTION_MSG_ONLINESTATES",
+      "read_index": "67",
+      "source_jp": "自分のネットワークステータス",
+      "source_en": "Your Status",
+      "text": "Eigener Status"
+    },
+    {
+      "key": "OPTION_MSG_VERTICAL_INV",
+      "read_index": "68",
+      "source_jp": "カメラを垂直反転させる",
+      "source_en": "Invert Vertical Camera",
+      "text": "Kamera vertikal umkehren"
+    },
+    {
+      "key": "OPTION_MSG_FLAT_INV",
+      "read_index": "69",
+      "source_jp": "カメラを水平反転させる",
+      "source_en": "Invert Horizontal Camera",
+      "text": "Kamera horizontal umkehren"
+    },
+    {
+      "key": "OPTION_MSG_CAMERA_OFFSET",
+      "read_index": "70",
+      "source_jp": "カメラ補正を入れる",
+      "source_en": "Enable Camera Correction",
+      "text": "Kamerakorrektur aktivieren"
+    },
+    {
+      "key": "OPTION_MSG_CAMERA_POSITION",
+      "read_index": "71",
+      "source_jp": "初期カメラ位置",
+      "source_en": "Initial Camera Position",
+      "text": "Startposition der Kamera"
+    },
+    {
+      "key": "OPTION_MSG_CSPEED_PAD",
+      "read_index": "72",
+      "source_jp": "右スティックのカメラ回転速度",
+      "source_en": "Camera Speed",
+      "text": "Kameratempo"
+    },
+    {
+      "key": "OPTION_MSG_CSPEED_KAYBOARD",
+      "read_index": "73",
+      "source_jp": "キーボードのカメラ回転速度",
+      "source_en": "Camera Speed",
+      "text": "Kameratempo"
+    },
+    {
+      "key": "OPTION_MSG_ISCHATDISPLAY",
+      "read_index": "74",
+      "source_jp": "アクション時にウィンドウを自動透過する",
+      "source_en": "Automatic Window Transparency",
+      "text": "Fenster automatisch transparent machen"
+    },
+    {
+      "key": "OPTION_MSG_MATCHING_POP",
+      "read_index": "75",
+      "source_jp": "マッチング通知時にポップアップを表示する",
+      "source_en": "Display Matchmaking Pop-ups",
+      "text": "Popups der Gruppensuche anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ISDCHAT",
+      "read_index": "77",
+      "source_jp": "Enterキーを押さずにチャット入力可能にする",
+      "source_en": "Enable Chat Without Pressing Enter",
+      "text": "Chat ohne Eingabetaste aktivieren"
+    },
+    {
+      "key": "OPTION_MSG_ISDISCRIPTION",
+      "read_index": "78",
+      "source_jp": "カットシーン時に字幕を表示する",
+      "source_en": "Display Subtitles",
+      "text": "Untertitel anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ISCSOUND",
+      "read_index": "79",
+      "source_jp": "他人のサウンドを受け入れる",
+      "source_en": "Accept Others' Sound",
+      "text": "Töne anderer Spieler zulassen"
+    },
+    {
+      "key": "OPTION_MSG_ISAHEAD",
+      "read_index": "80",
+      "source_jp": "自分の頭装備を表示する",
+      "source_en": "Display Arisen Helmet",
+      "text": "Eigenen Helm anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ISPHEAD",
+      "read_index": "81",
+      "source_jp": "ポーンの頭装備を表示する",
+      "source_en": "Display Pawn Helmets",
+      "text": "Vasallenhelme anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ISATORCH",
+      "read_index": "82",
+      "source_jp": "自分のランタンを表示する",
+      "source_en": "Display Arisen Lantern",
+      "text": "Eigene Laterne anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ISPTORCH",
+      "read_index": "83",
+      "source_jp": "ポーンのランタンを表示する",
+      "source_en": "Display Pawn Lanterns",
+      "text": "Vasallenlaternen anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_IDLEEMOT_CTGR",
+      "read_index": "84",
+      "source_jp": "待機状態時のエモート",
+      "source_en": "Idle Emote",
+      "text": "Geste bei Inaktivität"
+    },
+    {
+      "key": "OPTION_MSG_WAITTIMER",
+      "read_index": "85",
+      "source_jp": "待機状態に移行するまでの時間",
+      "source_en": "Idle Time",
+      "text": "Zeit bis zur Geste"
+    },
+    {
+      "key": "OPTION_MSG_AC_DISCLOSETYPE",
+      "read_index": "88",
+      "source_jp": "覚者プロフィールの公開設定",
+      "source_en": "Visibility",
+      "text": "Sichtbarkeit"
+    },
+    {
+      "key": "OPTION_MSG_ISMAPROUND",
+      "read_index": "89",
+      "source_jp": "ミニマップを回転させる",
+      "source_en": "Enable Rotation",
+      "text": "Drehung aktivieren"
+    },
+    {
+      "key": "OPTION_MSG_MAPTRANCERATE",
+      "read_index": "90",
+      "source_jp": "マップの不透明度",
+      "source_en": "Opacity",
+      "text": "Deckkraft"
+    },
+    {
+      "key": "OPTION_MSG_ISMAPVERTINVERCE",
+      "read_index": "91",
+      "source_jp": "右スティックでの上下操作反転",
+      "source_en": "Invert Vertical Map",
+      "text": "Karte vertikal umkehren"
+    },
+    {
+      "key": "OPTION_MSG_ISMAPFLATINVERCE",
+      "read_index": "92",
+      "source_jp": "右スティックでの左右操作反転",
+      "source_en": "Invert Horizontal Map",
+      "text": "Karte horizontal umkehren"
+    },
+    {
+      "key": "OPTION_MSG_ISMAPTEXT",
+      "read_index": "93",
+      "source_jp": "マップ上にテキスト表示する",
+      "source_en": "Display Text",
+      "text": "Text anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_HUDTRANCERATE",
+      "read_index": "94",
+      "source_jp": "HUD情報の不透明度",
+      "source_en": "Opacity",
+      "text": "Deckkraft"
+    },
+    {
+      "key": "OPTION_MSG_GUIDPRIORITY",
+      "read_index": "97",
+      "source_jp": "自動クエストガイドされるクエストのカテゴリ",
+      "source_en": "Automatic Quest Guide Priority",
+      "text": "Kategorie der automatischen Questnavigation"
+    },
+    {
+      "key": "OPTION_MSG_ISDYINGEFFECT",
+      "read_index": "98",
+      "source_jp": "プレイヤー瀕死時に画面演出を入れる",
+      "source_en": "Enable Dying Effect",
+      "text": "Effekt bei kritischen LP anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ISPHOTOHUD",
+      "read_index": "99",
+      "source_jp": "撮影時のHUD表示",
+      "source_en": "Display HUD in screenshots",
+      "text": "HUD auf Screenshots anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_DISPTARGET",
+      "read_index": "100",
+      "source_jp": "頭上表示の表示範囲",
+      "source_en": "Overhead Name Display",
+      "text": "Namen über Figuren anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_NAMETIPE1",
+      "read_index": "101",
+      "source_jp": "名前の表示タイプ",
+      "source_en": "Name Display Type",
+      "text": "Namensformat"
+    },
+    {
+      "key": "OPTION_MSG_ISCLANNAME",
+      "read_index": "102",
+      "source_jp": "クラン名を表示する",
+      "source_en": "Display Clan Name",
+      "text": "Clannamen anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ISNPCNAME",
+      "read_index": "103",
+      "source_jp": "名前を表示する",
+      "source_en": "Display Name",
+      "text": "Namen anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ISHAT",
+      "read_index": "104",
+      "source_jp": "肩書を表示する",
+      "source_en": "Display Title",
+      "text": "Titel anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ISCHATCLANNAME",
+      "read_index": "105",
+      "source_jp": "発言者のクラン名を表示する",
+      "source_en": "Display Clan Name",
+      "text": "Clannamen anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ISTIMESTAMP",
+      "read_index": "106",
+      "source_jp": "タイムスタンプを表示する",
+      "source_en": "Display Timestamp",
+      "text": "Zeitstempel anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_CHATTRANCERATE",
+      "read_index": "107",
+      "source_jp": "非アクティブ時のチャット操作UIの不透明度",
+      "source_en": "Inactive Opacity",
+      "text": "Sichtbarkeit bei Inaktivität"
+    },
+    {
+      "key": "OPTION_MSG_LOGCOLLER",
+      "read_index": "108",
+      "source_jp": "ログカラー設定",
+      "source_en": "Color",
+      "text": "Farbe"
+    },
+    {
+      "key": "OPTION_MSG_RECIEVESE",
+      "read_index": "109",
+      "source_jp": "チャット着信音の変更",
+      "source_en": "Ringtone",
+      "text": "Signalton"
+    },
+    {
+      "key": "OPTION_MSG_RATENCY",
+      "read_index": "110",
+      "source_jp": "通信速度を表示する",
+      "source_en": "Display Ping",
+      "text": "Ping anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_TIME",
+      "read_index": "111",
+      "source_jp": "時間を表示する",
+      "source_en": "Display Time",
+      "text": "Uhr anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_TIMETYPE",
+      "read_index": "112",
+      "source_jp": "表示時間の設定",
+      "source_en": "Time Zone",
+      "text": "Zeitanzeige"
+    },
+    {
+      "key": "OPTION_MSG_SERVERCHANNEL",
+      "read_index": "113",
+      "source_jp": "ワールド情報を表示する",
+      "source_en": "Display Channel",
+      "text": "Kanal anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_BATTLETIME",
+      "read_index": "114",
+      "source_jp": "交戦中の表示をする",
+      "source_en": "Display Combat Warning",
+      "text": "Kampfwarnung anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ACHIEVEGET",
+      "read_index": "115",
+      "source_jp": "獲得通知の設定",
+      "source_en": "Display Achievement Notifications",
+      "text": "Erfolgsmeldungen anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_MIDDLE",
+      "read_index": "118",
+      "source_jp": "近い",
+      "source_en": "Near",
+      "text": "Nah"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_FAR",
+      "read_index": "119",
+      "source_jp": "遠い",
+      "source_en": "Far",
+      "text": "Weit"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_ALL1",
+      "read_index": "123",
+      "source_jp": "誰でも表示する",
+      "source_en": "Anyone",
+      "text": "Alle"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_NONE1",
+      "read_index": "124",
+      "source_jp": "表示しない",
+      "source_en": "Any",
+      "text": "Ausblenden"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_FAMILY_FIRST1",
+      "read_index": "128",
+      "source_jp": "すべて",
+      "source_en": "All",
+      "text": "Vollständiger Name"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_FAMILY_F1",
+      "read_index": "129",
+      "source_jp": "ファミリーネームを頭文字のみ",
+      "source_en": "First Initial and Last Name",
+      "text": "Vornamenskürzel und Nachname"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_F_FIRST1",
+      "read_index": "130",
+      "source_jp": "ファーストネームを頭文字のみ",
+      "source_en": "First Name and Last Initial",
+      "text": "Vorname und Nachnamenskürzel"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_FAMILY1",
+      "read_index": "131",
+      "source_jp": "ファミリーネームのみ",
+      "source_en": "Last Name",
+      "text": "Nachname"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_FIRST1",
+      "read_index": "132",
+      "source_jp": "ファーストネームのみ",
+      "source_en": "First Name",
+      "text": "Vorname"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_COLLER1",
+      "read_index": "133",
+      "source_jp": "■ カラー１",
+      "source_en": "■ Color １",
+      "text": "■ Farbe 1"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_COLLER2",
+      "read_index": "134",
+      "source_jp": "■ カラー２",
+      "source_en": "■ Color ２",
+      "text": "■ Farbe 2"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_COLLER3",
+      "read_index": "135",
+      "source_jp": "■ カラー３",
+      "source_en": "■ Color ３",
+      "text": "■ Farbe 3"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_COLLER4",
+      "read_index": "136",
+      "source_jp": "■ カラー４",
+      "source_en": "■ Color ４",
+      "text": "■ Farbe 4"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_COLLER5",
+      "read_index": "137",
+      "source_jp": "■ カラー５",
+      "source_en": "■ Color ５",
+      "text": "■ Farbe 5"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_COLLER6",
+      "read_index": "138",
+      "source_jp": "■ カラー６",
+      "source_en": "■ Color ６",
+      "text": "■ Farbe 6"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_COLLER7",
+      "read_index": "139",
+      "source_jp": "■ カラー７",
+      "source_en": "■ Color ７",
+      "text": "■ Farbe 7"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_COLLER8",
+      "read_index": "140",
+      "source_jp": "■ カラー８",
+      "source_en": "■ Color ８",
+      "text": "■ Farbe 8"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_COLLER9",
+      "read_index": "141",
+      "source_jp": "■ カラー９",
+      "source_en": "■ Color ９",
+      "text": "■ Farbe 9"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_COLLER10",
+      "read_index": "142",
+      "source_jp": "■ カラー１０",
+      "source_en": "■ Color １０",
+      "text": "■ Farbe 10"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_COLLER11",
+      "read_index": "143",
+      "source_jp": "■ カラー１１",
+      "source_en": "■ Color １１",
+      "text": "■ Farbe 11"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_COLLER12",
+      "read_index": "144",
+      "source_jp": "■ カラー１２",
+      "source_en": "■ Color １２",
+      "text": "■ Farbe 12"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_CHATSE1",
+      "read_index": "145",
+      "source_jp": "着信音１",
+      "source_en": "Ringtone １",
+      "text": "Signalton 1"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_CHATSE2",
+      "read_index": "146",
+      "source_jp": "着信音２",
+      "source_en": "Ringtone ２",
+      "text": "Signalton 2"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_CHATSE3",
+      "read_index": "147",
+      "source_jp": "着信音３",
+      "source_en": "Ringtone ３",
+      "text": "Signalton 3"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_CHATSE4",
+      "read_index": "148",
+      "source_jp": "着信音４",
+      "source_en": "Ringtone ４",
+      "text": "Signalton 4"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_CHATSE5",
+      "read_index": "149",
+      "source_jp": "着信音５",
+      "source_en": "Ringtone ５",
+      "text": "Signalton 5"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_CHATSE6",
+      "read_index": "150",
+      "source_jp": "着信音６",
+      "source_en": "Ringtone ６",
+      "text": "Signalton 6"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_CHATSE7",
+      "read_index": "151",
+      "source_jp": "着信音７",
+      "source_en": "Ringtone ７",
+      "text": "Signalton 7"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_CHATSE8",
+      "read_index": "152",
+      "source_jp": "着信音８",
+      "source_en": "Ringtone ８",
+      "text": "Signalton 8"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_LOCAL",
+      "read_index": "155",
+      "source_jp": "ローカル(LT)",
+      "source_en": "Local (LT)",
+      "text": "Lokal (LT)"
+    },
+    {
+      "key": "OPTION_MSG_EXIT_NOTION",
+      "read_index": "161",
+      "source_jp": "変更を適用していない項目があります\r\nこのまま終了しますか？",
+      "source_en": "There are settings that have been changed.\r\nAre you sure you want to exit configuration?",
+      "text": "Du hast Einstellungen geändert.\r\nMöchtest du das Menü verlassen?"
+    },
+    {
+      "key": "OPTION_MSG_EXIT_APLLY",
+      "read_index": "162",
+      "source_jp": "適用して終了",
+      "source_en": "Apply and Exit",
+      "text": "Übernehmen und schließen"
+    },
+    {
+      "key": "OPTION_MSG_EXIT_NOAPPRY",
+      "read_index": "163",
+      "source_jp": "適用せず終了",
+      "source_en": "Exit without applying",
+      "text": "Ohne Übernehmen schließen"
+    },
+    {
+      "key": "OPTION_MSG_EXIT_CANCEL",
+      "read_index": "164",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "OPTION_MSG_BGM_OTHER",
+      "read_index": "165",
+      "source_jp": "その他のBGM",
+      "source_en": "Other BGM",
+      "text": "Übrige Musik"
+    },
+    {
+      "key": "OPTION_MSG_NOISE_OTHER",
+      "read_index": "166",
+      "source_jp": "その他",
+      "source_en": "Other",
+      "text": "Sonstiges"
+    },
+    {
+      "key": "OPTION_MSG_VERTICAL_INV2",
+      "read_index": "167",
+      "source_jp": "カメラを垂直反転させる",
+      "source_en": "Invert Vertical Camera",
+      "text": "Kamera vertikal umkehren"
+    },
+    {
+      "key": "OPTION_MSG_FLAT_INV2",
+      "read_index": "168",
+      "source_jp": "カメラを水平反転させる",
+      "source_en": "Invert Horizontal Camera",
+      "text": "Kamera horizontal umkehren"
+    },
+    {
+      "key": "OPTION_MSG_ISACTIONDISP",
+      "read_index": "169",
+      "source_jp": "アクションパレットを表示する",
+      "source_en": "You want to display the action palette",
+      "text": "Aktionsleiste anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_HUDEHELP",
+      "read_index": "170",
+      "source_jp": "ヘルプ情報",
+      "source_en": "Help information",
+      "text": "Hilfetexte"
+    },
+    {
+      "key": "OPTION_MSG_NAMETIPE2",
+      "read_index": "171",
+      "source_jp": "名前の表示タイプ",
+      "source_en": "Name Display Type",
+      "text": "Namensformat"
+    },
+    {
+      "key": "OPTION_MSG_NAMETIPE3",
+      "read_index": "172",
+      "source_jp": "名前の表示タイプ",
+      "source_en": "Name Display Type",
+      "text": "Namensformat"
+    },
+    {
+      "key": "OPTION_MSG_ISCLANNAME2",
+      "read_index": "173",
+      "source_jp": "クラン名を表示する",
+      "source_en": "Display Clan Name",
+      "text": "Clannamen anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ISNPCNAME2",
+      "read_index": "174",
+      "source_jp": "名前を表示する",
+      "source_en": "Display Name",
+      "text": "Namen anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_APPLY_NOTION",
+      "read_index": "175",
+      "source_jp": "設定を適用しました",
+      "source_en": "Configuration applied",
+      "text": "Einstellungen übernommen"
+    },
+    {
+      "key": "OPTION_MSG_INIT_NOTION",
+      "read_index": "176",
+      "source_jp": "このカテゴリの設定を初期状態に戻します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to reset to defaults?",
+      "text": "Standardeinstellungen wiederherstellen?"
+    },
+    {
+      "key": "OPTION_MSG_INIT_YES",
+      "read_index": "177",
+      "source_jp": "はい",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "OPTION_MSG_INIT_NO",
+      "read_index": "178",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "OPTION_MSG_BUTTON_APPLY",
+      "read_index": "179",
+      "source_jp": "適用",
+      "source_en": "Apply",
+      "text": "Übernehmen"
+    },
+    {
+      "key": "OPTION_MSG_BUTTON_INIT",
+      "read_index": "180",
+      "source_jp": "初期化",
+      "source_en": "Reset",
+      "text": "Zurücksetzen"
+    },
+    {
+      "key": "OPTION_MSG_COLOR_CF",
+      "read_index": "183",
+      "source_jp": "色",
+      "source_en": "Color",
+      "text": "Farbe"
+    },
+    {
+      "key": "OPTION_MSG_SE_CF",
+      "read_index": "185",
+      "source_jp": "着信音",
+      "source_en": "Ringtone",
+      "text": "Signalton"
+    },
+    {
+      "key": "OPTION_MSG_IDLEEMOT_TIME04",
+      "read_index": "187",
+      "source_jp": "120秒",
+      "source_en": "120 Seconds",
+      "text": "120 Sekunden"
+    },
+    {
+      "key": "OPTION_MSG_IDLEEMOT_TIME03",
+      "read_index": "188",
+      "source_jp": "60秒",
+      "source_en": "60 Seconds",
+      "text": "60 Sekunden"
+    },
+    {
+      "key": "OPTION_MSG_IDLEEMOT_TIME02",
+      "read_index": "189",
+      "source_jp": "30秒",
+      "source_en": "30 Seconds",
+      "text": "30 Sekunden"
+    },
+    {
+      "key": "OPTION_MSG_IDLEEMOT_TIME01",
+      "read_index": "190",
+      "source_jp": "15秒",
+      "source_en": "15 Seconds",
+      "text": "15 Sekunden"
+    },
+    {
+      "key": "OPTION_MSG_IDLEEMOT_TIME00",
+      "read_index": "191",
+      "source_jp": "移行させない",
+      "source_en": "Do Not Idle",
+      "text": "Keine Geste"
+    },
+    {
+      "key": "OPTION_MSG_PC_DISCLOSETYPE",
+      "read_index": "192",
+      "source_jp": "ポーンプロフィールの公開設定",
+      "source_en": "Publishing settings of pawn profile",
+      "text": "Sichtbarkeit des Vasallenprofils"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_PAWNCARD",
+      "read_index": "193",
+      "source_jp": "ポーンプロフィール",
+      "source_en": "Pawn profile",
+      "text": "Vasallenprofil"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_CHATSENONE",
+      "read_index": "199",
+      "source_jp": "着信音なし",
+      "source_en": "None",
+      "text": "Keiner"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_ACTPLTTYPE",
+      "read_index": "201",
+      "source_jp": "操作デバイス",
+      "source_en": "Input Device",
+      "text": "Eingabegerät"
+    },
+    {
+      "key": "OPTION_MSG_ACTPLTTYPE_KB",
+      "read_index": "203",
+      "source_jp": "マウス・キーボード",
+      "source_en": "Mouse & Keyboard",
+      "text": "Maus und Tastatur"
+    },
+    {
+      "key": "OPTION_MSG_COURSE_DISP",
+      "read_index": "204",
+      "source_jp": "発動中の<OPCS>のプレートを表示する",
+      "source_en": "Display Current <OPCS> Plate",
+      "text": "Kennzeichen für aktive <OPCS> anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_VIDEOQUARITY",
+      "read_index": "205",
+      "source_jp": "画質設定",
+      "source_en": "Video Quality",
+      "text": "Grafikqualität"
+    },
+    {
+      "key": "OPTION_MSG_CATEGORY_INPUT",
+      "read_index": "206",
+      "source_jp": "入力機器設定",
+      "source_en": "Input",
+      "text": "Eingabe"
+    },
+    {
+      "key": "OPTION_MSG_SCREEN_MODE",
+      "read_index": "207",
+      "source_jp": "スクリーンモード設定",
+      "source_en": "Display Mode",
+      "text": "Anzeigemodus"
+    },
+    {
+      "key": "OPTION_MSG_RESOLUTION",
+      "read_index": "208",
+      "source_jp": "解像度設定",
+      "source_en": "Resolution",
+      "text": "Auflösung"
+    },
+    {
+      "key": "OPTION_MSG_FPS",
+      "read_index": "209",
+      "source_jp": "描画設定(FPS)",
+      "source_en": "Drawing set(FPS)",
+      "text": "Darstellung (FPS)"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_MOUSE",
+      "read_index": "210",
+      "source_jp": "マウス・キーボード操作設定",
+      "source_en": "Mouse & Keyboard Settings",
+      "text": "Maus und Tastatur"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_PAD",
+      "read_index": "211",
+      "source_jp": "<PFWD 0>設定",
+      "source_en": "<PFWD 0> Setting",
+      "text": "<PFWD 0> konfigurieren"
+    },
+    {
+      "key": "OPTION_MSG_CAMERA_SPEED",
+      "read_index": "212",
+      "source_jp": "マウスのカメラ回転速度",
+      "source_en": "Camera Speed",
+      "text": "Kameratempo"
+    },
+    {
+      "key": "OPTION_MSG_POINTER_SPEED",
+      "read_index": "213",
+      "source_jp": "カーソル速度",
+      "source_en": "Cursor Speed",
+      "text": "Zeigertempo"
+    },
+    {
+      "key": "OPTION_MSG_BUTTONCALIBRATION",
+      "read_index": "214",
+      "source_jp": "ボタンの配置",
+      "source_en": "Calibration",
+      "text": "Kalibrieren"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_CHARGE",
+      "read_index": "215",
+      "source_jp": "その他",
+      "source_en": "Other",
+      "text": "Sonstiges"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_DISPLAY",
+      "read_index": "216",
+      "source_jp": "ディスプレイ",
+      "source_en": "Display",
+      "text": "Anzeige"
+    },
+    {
+      "key": "OPTION_MSG_RESOLUTION2",
+      "read_index": "217",
+      "source_jp": "解像度",
+      "source_en": "Resolution",
+      "text": "Auflösung"
+    },
+    {
+      "key": "OPTION_MSG_FRAMERATE",
+      "read_index": "224",
+      "source_jp": "フレームレート",
+      "source_en": "Frame Rate",
+      "text": "Bildrate"
+    },
+    {
+      "key": "OPTION_MSG_CATEGORY_IMAGEQUARITY",
+      "read_index": "227",
+      "source_jp": "画質設定",
+      "source_en": "Video Quality",
+      "text": "Grafikqualität"
+    },
+    {
+      "key": "OPTION_MSG_TAB_TEXTURE",
+      "read_index": "228",
+      "source_jp": "テクスチャ",
+      "source_en": "Textures",
+      "text": "Texturen"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_TEXTURE",
+      "read_index": "229",
+      "source_jp": "テクスチャ全般",
+      "source_en": "General",
+      "text": "Allgemein"
+    },
+    {
+      "key": "OPTION_MSG_TEXTURE_RESOLUTION",
+      "read_index": "230",
+      "source_jp": "テクスチャ解像度",
+      "source_en": "Texture Resolution",
+      "text": "Texturauflösung"
+    },
+    {
+      "key": "OPTION_MSG_TEXTURE_HIGH",
+      "read_index": "231",
+      "source_jp": "高",
+      "source_en": "Low",
+      "text": "Hoch"
+    },
+    {
+      "key": "OPTION_MSG_TEXTURE_HIGHEST",
+      "read_index": "232",
+      "source_jp": "最高",
+      "source_en": "High",
+      "text": "Hoch"
+    },
+    {
+      "key": "OPTION_MSG_ANTI_ALIASE",
+      "read_index": "233",
+      "source_jp": "アンチエイリアス(なめらかに表示する処理)",
+      "source_en": "Anti-Aliasing",
+      "text": "Kantenglättung"
+    },
+    {
+      "key": "OPTION_MSG_AA_DISABLE",
+      "read_index": "234",
+      "source_jp": "無効",
+      "source_en": "Disabled",
+      "text": "Aus"
+    },
+    {
+      "key": "OPTION_MSG_AA_REGULAR",
+      "read_index": "235",
+      "source_jp": "通常(FXAA)",
+      "source_en": "Normal Quality (FXAA)",
+      "text": "Normale Qualität (FXAA)"
+    },
+    {
+      "key": "OPTION_MSG_AA_HIGH",
+      "read_index": "236",
+      "source_jp": "高品質(FXAA3HQ)",
+      "source_en": "High Quality (FXAA3HQ)",
+      "text": "Hohe Qualität (FXAA3HQ)"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_SHADE",
+      "read_index": "237",
+      "source_jp": "影",
+      "source_en": "Shadows",
+      "text": "Schatten"
+    },
+    {
+      "key": "OPTION_MSG_SHADE_PRESET",
+      "read_index": "238",
+      "source_jp": "影の品質",
+      "source_en": "Quality",
+      "text": "Qualität"
+    },
+    {
+      "key": "OPTION_MSG_S_P_LOWEST",
+      "read_index": "239",
+      "source_jp": "最低",
+      "source_en": "Very Low",
+      "text": "Sehr niedrig"
+    },
+    {
+      "key": "OPTION_MSG_S_P_LOW",
+      "read_index": "240",
+      "source_jp": "低",
+      "source_en": "Low",
+      "text": "Niedrig"
+    },
+    {
+      "key": "OPTION_MSG_S_P_HIGH",
+      "read_index": "242",
+      "source_jp": "高",
+      "source_en": "High",
+      "text": "Hoch"
+    },
+    {
+      "key": "OPTION_MSG_S_P_HIGEST",
+      "read_index": "243",
+      "source_jp": "最高",
+      "source_en": "Very High",
+      "text": "Sehr hoch"
+    },
+    {
+      "key": "OPTION_MSG_S_P_CUSTOM",
+      "read_index": "244",
+      "source_jp": "カスタム",
+      "source_en": "Custom",
+      "text": "Benutzerdefiniert"
+    },
+    {
+      "key": "OPTION_MSG_SHADE_RESOLUTION",
+      "read_index": "245",
+      "source_jp": "影の解像度",
+      "source_en": "Resolution",
+      "text": "Auflösung"
+    },
+    {
+      "key": "OPTION_MSG_S_R_LOWEST",
+      "read_index": "246",
+      "source_jp": "最低",
+      "source_en": "Very Low",
+      "text": "Sehr niedrig"
+    },
+    {
+      "key": "OPTION_MSG_S_R_LOW",
+      "read_index": "247",
+      "source_jp": "低",
+      "source_en": "Low",
+      "text": "Niedrig"
+    },
+    {
+      "key": "OPTION_MSG_S_R_HIGH",
+      "read_index": "249",
+      "source_jp": "高",
+      "source_en": "High",
+      "text": "Hoch"
+    },
+    {
+      "key": "OPTION_MSG_S_R_HIGHEST",
+      "read_index": "250",
+      "source_jp": "最高",
+      "source_en": "Very High",
+      "text": "Sehr hoch"
+    },
+    {
+      "key": "OPTION_MSG_SHADE_EFFECTIVERENGTH",
+      "read_index": "251",
+      "source_jp": "カメラ演出を許可する",
+      "source_en": "Enable Camera Effects",
+      "text": "Kameraeffekte aktivieren"
+    },
+    {
+      "key": "OPTION_MSG_SHADE_ATLOBBY",
+      "read_index": "261",
+      "source_jp": "ロビー内でのランタンによる影",
+      "source_en": "The shadow by lantern in the lobby",
+      "text": "Laternenschatten in der Lobby"
+    },
+    {
+      "key": "OPTION_MSG_S_A_ON",
+      "read_index": "262",
+      "source_jp": "有り",
+      "source_en": "On",
+      "text": "An"
+    },
+    {
+      "key": "OPTION_MSG_S_A_OFF",
+      "read_index": "263",
+      "source_jp": "無し",
+      "source_en": "Off",
+      "text": "Aus"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_GRASS",
+      "read_index": "270",
+      "source_jp": "草",
+      "source_en": "Grass",
+      "text": "Gras"
+    },
+    {
+      "key": "OPTION_MSG_GRASS_AMOUNT",
+      "read_index": "271",
+      "source_jp": "表示量",
+      "source_en": "Amount",
+      "text": "Dichte"
+    },
+    {
+      "key": "OPTION_MSG_GRASS_QUARITY",
+      "read_index": "272",
+      "source_jp": "品質",
+      "source_en": "Quality",
+      "text": "Qualität"
+    },
+    {
+      "key": "OPTION_MSG_G_Q_HIGH",
+      "read_index": "274",
+      "source_jp": "最高",
+      "source_en": "High",
+      "text": "Hoch"
+    },
+    {
+      "key": "OPTION_MSG_GRASS_EFFECTIVERENGTH",
+      "read_index": "275",
+      "source_jp": "表示距離",
+      "source_en": "Range",
+      "text": "Reichweite"
+    },
+    {
+      "key": "OPTION_MSG_TAB_OBJECT",
+      "read_index": "279",
+      "source_jp": "オブジェクト",
+      "source_en": "Objects",
+      "text": "Objekte"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_OBJECT",
+      "read_index": "280",
+      "source_jp": "オブジェクト全般",
+      "source_en": "General",
+      "text": "Allgemein"
+    },
+    {
+      "key": "OPTION_MSG_OBJECT_PRESET",
+      "read_index": "281",
+      "source_jp": "オブジェクト品質のプリセット",
+      "source_en": "Preset of object quality",
+      "text": "Vorgabe für Objektqualität"
+    },
+    {
+      "key": "OPTION_MSG_O_B_LOW",
+      "read_index": "282",
+      "source_jp": "低",
+      "source_en": "Low",
+      "text": "Niedrig"
+    },
+    {
+      "key": "OPTION_MSG_O_B_HIGH",
+      "read_index": "284",
+      "source_jp": "高",
+      "source_en": "High",
+      "text": "Hoch"
+    },
+    {
+      "key": "OPTION_MSG_O_B_HIGHEST",
+      "read_index": "285",
+      "source_jp": "最高",
+      "source_en": "Very High",
+      "text": "Sehr hoch"
+    },
+    {
+      "key": "OPTION_MSG_O_B_CUSTOM",
+      "read_index": "286",
+      "source_jp": "カスタム",
+      "source_en": "Custom",
+      "text": "Benutzerdefiniert"
+    },
+    {
+      "key": "OPTION_MSG_OBJECT_EFFECTIVERENGTH",
+      "read_index": "287",
+      "source_jp": "生存距離",
+      "source_en": "Range",
+      "text": "Sichtweite"
+    },
+    {
+      "key": "OPTION_MSG_LOD",
+      "read_index": "291",
+      "source_jp": "LOD比率(近づくと詳細表示になる処理)",
+      "source_en": "LOD Ratio",
+      "text": "Detailstufenabstand (LOD)"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_CHARACTOR",
+      "read_index": "295",
+      "source_jp": "キャラクター",
+      "source_en": "Character",
+      "text": "Charakter"
+    },
+    {
+      "key": "OPTION_MSG_HEADCOUNT_LIMIT",
+      "read_index": "296",
+      "source_jp": "表示人数",
+      "source_en": "Limit",
+      "text": "Max. sichtbare Personen"
+    },
+    {
+      "key": "OPTION_MSG_HEADCOUNT_EFFECTIVERENGTH",
+      "read_index": "301",
+      "source_jp": "表示距離",
+      "source_en": "Range",
+      "text": "Reichweite"
+    },
+    {
+      "key": "OPTION_MSG_TAB_EFFECT",
+      "read_index": "305",
+      "source_jp": "効果",
+      "source_en": "Effects",
+      "text": "Effekte"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_EFFECT",
+      "read_index": "306",
+      "source_jp": "エフェクト全般",
+      "source_en": "General",
+      "text": "Allgemein"
+    },
+    {
+      "key": "OPTION_MSG_ENVIRONMENT_EFFECTQUARITY",
+      "read_index": "307",
+      "source_jp": "エフェクト品質",
+      "source_en": "Quality",
+      "text": "Qualität"
+    },
+    {
+      "key": "OPTION_MSG_E_E_HIGH",
+      "read_index": "309",
+      "source_jp": "高",
+      "source_en": "High",
+      "text": "Hoch"
+    },
+    {
+      "key": "OPTION_MSG_E_E_HIGHEST",
+      "read_index": "310",
+      "source_jp": "最高",
+      "source_en": "Very High",
+      "text": "Sehr hoch"
+    },
+    {
+      "key": "OPTION_MSG_BATTLE_EFFECTTARGET",
+      "read_index": "311",
+      "source_jp": "プレイヤー・バトルエフェクトを表示する対象",
+      "source_en": "Display Combat Effects",
+      "text": "Kampfeffekte anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_B_E_MYSELF",
+      "read_index": "312",
+      "source_jp": "自キャラのみ",
+      "source_en": "My Character",
+      "text": "Eigener Charakter"
+    },
+    {
+      "key": "OPTION_MSG_B_E_ALL",
+      "read_index": "313",
+      "source_jp": "全てのキャラ",
+      "source_en": "All Characters",
+      "text": "Alle Charaktere"
+    },
+    {
+      "key": "OPTION_MSG_EFFECT_LOAD",
+      "read_index": "314",
+      "source_jp": "同時表示するエフェクトの量",
+      "source_en": "Limit",
+      "text": "Max. gleichzeitige Effekte"
+    },
+    {
+      "key": "OPTION_MSG_LOW",
+      "read_index": "315",
+      "source_jp": "少ない",
+      "source_en": "Low",
+      "text": "Niedrig"
+    },
+    {
+      "key": "OPTION_MSG_HIGH",
+      "read_index": "317",
+      "source_jp": "多い",
+      "source_en": "High",
+      "text": "Hoch"
+    },
+    {
+      "key": "OPTION_MSG_MAILNOTION",
+      "read_index": "318",
+      "source_jp": "メールがあふれそうな時に警告表示する",
+      "source_en": "Display Mail Overflow Warning",
+      "text": "Warnung bei vollem Postfach anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_VERYICALSYNC",
+      "read_index": "319",
+      "source_jp": "垂直同期",
+      "source_en": "Enable V-Sync",
+      "text": "V-Sync aktivieren"
+    },
+    {
+      "key": "OPTION_MSG_WINDOW_WINDOW",
+      "read_index": "322",
+      "source_jp": "ウィンドウモード",
+      "source_en": "Window mode",
+      "text": "Fenstermodus"
+    },
+    {
+      "key": "OPTION_MSG_WINDOW_VIRTUALFULL",
+      "read_index": "323",
+      "source_jp": "仮想フルスクリーンモード",
+      "source_en": "Borderless mode",
+      "text": "Randloses Fenster"
+    },
+    {
+      "key": "OPTION_MSG_WINDOW_FULL",
+      "read_index": "324",
+      "source_jp": "フルスクリーンモード",
+      "source_en": "Full-screen mode",
+      "text": "Vollbild"
+    },
+    {
+      "key": "OPTION_MSG_BUTTON_EDIT",
+      "read_index": "325",
+      "source_jp": "編集",
+      "source_en": "Edit",
+      "text": "Bearbeiten"
+    },
+    {
+      "key": "OPTION_MSG_UI_BIGSIZE",
+      "read_index": "326",
+      "source_jp": "UIを拡大表示する (解像度1600×900 以上で有効)",
+      "source_en": "Enlarge UI (Resolution 1600×900 or higher)",
+      "text": "UI vergrößern (ab 1600 × 900)"
+    },
+    {
+      "key": "OPTION_MSG_CLAN_PRIVACY_NOTICE",
+      "read_index": "328",
+      "source_jp": "クランメンバーへ自分のステータスを通知する",
+      "source_en": "Provide Status to Your Clan",
+      "text": "Status an den Clan senden"
+    },
+    {
+      "key": "OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY",
+      "read_index": "329",
+      "source_jp": "他プレイヤーのエフェクト透明度",
+      "source_en": "Visibility of Other Player's Effects",
+      "text": "Deckkraft fremder Spielereffekte"
+    },
+    {
+      "key": "OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_THIN",
+      "read_index": "331",
+      "source_jp": "薄い",
+      "source_en": "Low",
+      "text": "Niedrig"
+    },
+    {
+      "key": "OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_NONE",
+      "read_index": "332",
+      "source_jp": "無し",
+      "source_en": "None",
+      "text": "Aus"
+    },
+    {
+      "key": "OPTION_MSG_LIGHT_SOURCE_NUM",
+      "read_index": "333",
+      "source_jp": "光源の個数",
+      "source_en": "Maximum Light Sources",
+      "text": "Max. Lichtquellen"
+    },
+    {
+      "key": "OPTION_MSG_LIGHT_SOURCE_NUM_MANY",
+      "read_index": "334",
+      "source_jp": "多い",
+      "source_en": "High",
+      "text": "Hoch"
+    },
+    {
+      "key": "OPTION_MSG_LIGHT_SOURCE_NUM_FEW",
+      "read_index": "336",
+      "source_jp": "少ない",
+      "source_en": "Low",
+      "text": "Niedrig"
+    },
+    {
+      "key": "OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_MORETHIN",
+      "read_index": "337",
+      "source_jp": "かなり薄い",
+      "source_en": "Very Low",
+      "text": "Sehr niedrig"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_LIGHT",
+      "read_index": "338",
+      "source_jp": "ライティング全般",
+      "source_en": "Lighting Options",
+      "text": "Beleuchtung"
+    },
+    {
+      "key": "OPTION_MSG_KEY_SETTING",
+      "read_index": "339",
+      "source_jp": "キー設定",
+      "source_en": "Key Setting",
+      "text": "Tasteneinstellung"
+    },
+    {
+      "key": "OPTION_MSG_KEY_SETTING_DEFAULT",
+      "read_index": "340",
+      "source_jp": "デフォルト",
+      "source_en": "Default",
+      "text": "Standard"
+    },
+    {
+      "key": "OPTION_MSG_KEY_SETTING_CUSTOMIZE",
+      "read_index": "341",
+      "source_jp": "カスタマイズ<VAL>",
+      "source_en": "Customize <VAL>",
+      "text": "<VAL> anpassen"
+    },
+    {
+      "key": "OPTION_MSG_KEY_CONFIG",
+      "read_index": "342",
+      "source_jp": "キーコンフィグ",
+      "source_en": "Key Config",
+      "text": "Tastenbelegung"
+    },
+    {
+      "key": "OPTION_MSG_KEY_CONFIG_CUSTOMIZE",
+      "read_index": "343",
+      "source_jp": "カスタマイズ",
+      "source_en": "Customize",
+      "text": "Anpassen"
+    },
+    {
+      "key": "OPTION_MSG_JOB_CHANGE_AUTO_KEY_CHANGE",
+      "read_index": "344",
+      "source_jp": "転職時にキーコンフィグを自動変更する",
+      "source_en": "Automatic Key Config Switch on Vocation Change",
+      "text": "Belegung beim Klassenwechsel automatisch wechseln"
+    },
+    {
+      "key": "OPTION_MSG_JOB_CHANGE_AUTO_KEY_CHANGE_CUSTOMI",
+      "read_index": "345",
+      "source_jp": "カスタマイズ",
+      "source_en": "Customize",
+      "text": "Anpassen"
+    },
+    {
+      "key": "OPTION_MSG_LINK_JOB_KEY",
+      "read_index": "346",
+      "source_jp": "ジョブとキーコンフィグの関連付け",
+      "source_en": "Associate Vocation with Key Config",
+      "text": "Tastenbelegung je Klasse"
+    },
+    {
+      "key": "OPTION_MSG_LINK_JOB_KEY_NOT_AUTO_CHANGE",
+      "read_index": "347",
+      "source_jp": "自動変更しない",
+      "source_en": "Do Not Automatically Change.",
+      "text": "Belegung beibehalten"
+    },
+    {
+      "key": "OPTION_MSG_CAMERARANGE_MAGIC",
+      "read_index": "348",
+      "source_jp": "詠唱中のカメラ設定",
+      "source_en": "Camera Distance when Casting",
+      "text": "Kameraabstand beim Zaubern"
+    },
+    {
+      "key": "OPTION_MSG_CAMERARANGE_MAGIC_NEAR",
+      "read_index": "349",
+      "source_jp": "近距離",
+      "source_en": "Near",
+      "text": "Nah"
+    },
+    {
+      "key": "OPTION_MSG_CAMERARANGE_MAGIC_FAR",
+      "read_index": "350",
+      "source_jp": "遠距離",
+      "source_en": "Far",
+      "text": "Weit"
+    },
+    {
+      "key": "OPTION_MSG_CAMERARANGE_BOW",
+      "read_index": "351",
+      "source_jp": "弓構え中のカメラ設定",
+      "source_en": "Camera Distance when Aiming Bow",
+      "text": "Kameraabstand beim Zielen"
+    },
+    {
+      "key": "OPTION_MSG_CAMERARANGE_BOW_NEAR",
+      "read_index": "352",
+      "source_jp": "近距離",
+      "source_en": "Near",
+      "text": "Nah"
+    },
+    {
+      "key": "OPTION_MSG_CAMERARANGE_BOW_FAR",
+      "read_index": "353",
+      "source_jp": "遠距離",
+      "source_en": "Far",
+      "text": "Weit"
+    },
+    {
+      "key": "OPTION_MSG_MINIMAP_OPE_TYPECHANGE",
+      "read_index": "354",
+      "source_jp": "ミニマップ操作の起動で、自動的にウィンドウを拡大させる",
+      "source_en": "During Mini-map Operation, automatically enlarge\r\nthe window",
+      "text": "Minikarte bei Bedienung automatisch vergrößern"
+    },
+    {
+      "key": "OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB",
+      "read_index": "355",
+      "source_jp": "リム転移画面のデフォルトタブ設定",
+      "source_en": "Rift Teleport Default Tab",
+      "text": "Startreiter für Rift-Transport"
+    },
+    {
+      "key": "OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_MAIN",
+      "read_index": "356",
+      "source_jp": "拠点の礎",
+      "source_en": "Portcrystal",
+      "text": "Zielkristalle"
+    },
+    {
+      "key": "OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_SUB",
+      "read_index": "357",
+      "source_jp": "辺境の礎",
+      "source_en": "Sub Portcrystal",
+      "text": "Außenposten"
+    },
+    {
+      "key": "OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_FAVORITE",
+      "read_index": "358",
+      "source_jp": "マイ拠点",
+      "source_en": "Favorites",
+      "text": "Favoriten"
+    },
+    {
+      "key": "OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_ALL",
+      "read_index": "359",
+      "source_jp": "すべての礎",
+      "source_en": "All",
+      "text": "Alle"
+    },
+    {
+      "key": "OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_LOBBY",
+      "read_index": "360",
+      "source_jp": "神殿内",
+      "source_en": "Temple",
+      "text": "Im Stützpunkt"
+    },
+    {
+      "key": "OPTION_MSG_LINK_JOB_KEY_TEXT",
+      "read_index": "361",
+      "source_jp": "%sで使うキーコンフィグ",
+      "source_en": "Key Config used by %s",
+      "text": "Tastenbelegung für %s"
+    },
+    {
+      "key": "OPTION_MSG_LINK_JOB_KEY_BT_BACK_SAVE_STATE",
+      "read_index": "362",
+      "source_jp": "変更前に戻す",
+      "source_en": "Revert",
+      "text": "Rückgängig"
+    },
+    {
+      "key": "OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPECHANGE",
+      "read_index": "363",
+      "source_jp": "自動拡大の操作で、<KCTP DASH>の優先行動",
+      "source_en": "While the minimap is enlarged, a <KCTP DASH> will",
+      "text": "Priorität für <KCTP DASH> bei vergrößerter Minikarte"
+    },
+    {
+      "key": "OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPE1",
+      "read_index": "364",
+      "source_jp": "ダッシュ",
+      "source_en": "Dash",
+      "text": "Sprinten"
+    },
+    {
+      "key": "OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPE2",
+      "read_index": "365",
+      "source_jp": "オートラン",
+      "source_en": "Auto-run",
+      "text": "Automatisch laufen"
+    },
+    {
+      "key": "OPTION_MSG_TALK_CAMERA",
+      "read_index": "367",
+      "source_jp": "NPCに話しかけた時のカメラを主観にする",
+      "source_en": "Use subjective camera when in NPC conversations",
+      "text": "Ich-Kamera bei NPC-Gesprächen"
+    },
+    {
+      "key": "OPTION_MSG_ADV_002",
+      "read_index": "369",
+      "source_jp": "クエストの紹介通知を表示する",
+      "source_en": "Display Quest Introduction Notice",
+      "text": "Questempfehlungen anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_ADV_NTC_ANNOUNCE_DISP",
+      "read_index": "370",
+      "source_jp": "紹介通知のポップアップを表示する",
+      "source_en": "Display Introduction Notice Pop-up",
+      "text": "Popups für Empfehlungen anzeigen"
+    },
+    {
+      "key": "OPTION_MSG_UI_SCALE",
+      "read_index": "373",
+      "source_jp": "UIを拡大表示した時のスケール値",
+      "source_en": "Scale value when using Enlarge UI",
+      "text": "Skalierung bei vergrößerter UI"
+    }
+  ]
+}

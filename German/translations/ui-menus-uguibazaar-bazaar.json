@@ -1,0 +1,449 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\bazaar.gmd",
+  "arc_path": "\\ui\\uGUIBazaar.arc",
+  "entries": [
+    {
+      "key": "bazaar_msg_itemsearch_en",
+      "read_index": "0",
+      "source_jp": "Item Search",
+      "source_en": "Item Search",
+      "text": "Gegenstandssuche"
+    },
+    {
+      "key": "bazaar_msg_categorysearch_en",
+      "read_index": "2",
+      "source_jp": "Category Search",
+      "source_en": "Category Search",
+      "text": "Nach Kategorie"
+    },
+    {
+      "key": "bazaar_msg_cs_rank",
+      "read_index": "5",
+      "source_jp": "ランク",
+      "source_en": "Rank",
+      "text": "Rang"
+    },
+    {
+      "key": "bazaar_msg_cs_morethan",
+      "read_index": "6",
+      "source_jp": "以上",
+      "source_en": "or more",
+      "text": "oder höher"
+    },
+    {
+      "key": "bazaar_msg_bt_search",
+      "read_index": "7",
+      "source_jp": "検索",
+      "source_en": "Search",
+      "text": "Suchen"
+    },
+    {
+      "key": "bazaar_msg_freewordsearch_en",
+      "read_index": "8",
+      "source_jp": "Free Word Search",
+      "source_en": "Free Word Search (case sensitive)",
+      "text": "Freitextsuche (Groß-/Kleinschreibung)"
+    },
+    {
+      "key": "bazaar_msg_disp_itemname",
+      "read_index": "10",
+      "source_jp": "アイテム名",
+      "source_en": "Item Name",
+      "text": "Gegenstandsname"
+    },
+    {
+      "key": "bazaar_msg_disp_number",
+      "read_index": "11",
+      "source_jp": "件数",
+      "source_en": "Number",
+      "text": "Menge"
+    },
+    {
+      "key": "bazaar_msg_searchresult_num",
+      "read_index": "12",
+      "source_jp": "件",
+      "source_en": " Result(s)",
+      "text": "Treffer"
+    },
+    {
+      "key": "bazaar_msg_itemlist_disp_unitprice",
+      "read_index": "13",
+      "source_jp": "単価",
+      "source_en": "Unit Price",
+      "text": "Stückpreis"
+    },
+    {
+      "key": "bazaar_msg_itemlist_disp_price",
+      "read_index": "14",
+      "source_jp": "価格",
+      "source_en": "Price",
+      "text": "Preis"
+    },
+    {
+      "key": "bazaar_msg_itemlist_disp_number_num",
+      "read_index": "15",
+      "source_jp": "個",
+      "source_en": "Pcs",
+      "text": "Stk."
+    },
+    {
+      "key": "bazaar_msg_buy_distribution",
+      "read_index": "16",
+      "source_jp": "購入する個数を振分けてください",
+      "source_en": "Please distribute your purchase.",
+      "text": "Wähle, wohin der Kauf geliefert werden soll."
+    },
+    {
+      "key": "bazaar_msg_bt_buy",
+      "read_index": "17",
+      "source_jp": "購入",
+      "source_en": "Buy",
+      "text": "Kaufen"
+    },
+    {
+      "key": "bazaar_msg_bt_cancel",
+      "read_index": "18",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "bazaar_msg_buy_confirmation",
+      "read_index": "19",
+      "source_jp": "以下の内容で購入します。よろしいですか？\r\n　アイテム：<NAME ITEM>\r\n　合計個数：<VAL>個\r\n　合計価格：<VAL GOLD>",
+      "source_en": "Are you sure you want to buy the following?\r\nItem: <NAME ITEM>\r\nAmount: <VAL>\r\nTotal Price: <VAL GOLD>",
+      "text": "Diesen Gegenstand kaufen?\r\nGegenstand: <NAME ITEM>\r\nMenge: <VAL>\r\nGesamtpreis: <VAL GOLD>"
+    },
+    {
+      "key": "bazaar_msg_bt_yes",
+      "read_index": "20",
+      "source_jp": "はい",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "bazaar_msg_bt_no",
+      "read_index": "21",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "bazaar_msg_info_switch",
+      "read_index": "22",
+      "source_jp": "情報切替",
+      "source_en": "Switch Information",
+      "text": "Info wechseln"
+    },
+    {
+      "key": "bazaar_msg_info_trade",
+      "read_index": "23",
+      "source_jp": "取引成立相場",
+      "source_en": "Current Market",
+      "text": "Marktpreise"
+    },
+    {
+      "key": "bazaar_msg_info_exhibit",
+      "read_index": "24",
+      "source_jp": "出品中相場",
+      "source_en": "Exhibit",
+      "text": "Anbieten"
+    },
+    {
+      "key": "bazaar_msg_info_disp_tradingday",
+      "read_index": "25",
+      "source_jp": "日付",
+      "source_en": "Date",
+      "text": "Datum"
+    },
+    {
+      "key": "bazaar_msg_info_disp_number",
+      "read_index": "26",
+      "source_jp": "個数",
+      "source_en": "Number",
+      "text": "Menge"
+    },
+    {
+      "key": "bazaar_msg_exhibit_set_unitprice",
+      "read_index": "27",
+      "source_jp": "単価設定",
+      "source_en": "Set Unit Price",
+      "text": "Stückpreis festlegen"
+    },
+    {
+      "key": "bazaar_msg_exhibit_set_number",
+      "read_index": "29",
+      "source_jp": "個数設定",
+      "source_en": "Set Number",
+      "text": "Menge festlegen"
+    },
+    {
+      "key": "bazaar_msg_bt_decision",
+      "read_index": "30",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "bazaar_msg_exhibit_confirmation",
+      "read_index": "31",
+      "source_jp": "以下の内容で出品します。よろしいですか？\r\n　アイテム：<NAME ITEM>\r\n　出品個数：<VAL>個\r\n　出品価格：<VAL GOLD>\r\n　売上時手数料(<VAL>%)：<VAL GOLD>",
+      "source_en": "Are you sure you want to exhibit the following?\r\nItem: <NAME ITEM>\r\nAmount: <VAL>\r\nSell Price: <VAL GOLD>\r\nSales Tax (<VAL>%): <VAL GOLD>",
+      "text": "Diesen Gegenstand anbieten?\r\nGegenstand: <NAME ITEM>\r\nMenge: <VAL>\r\nVerkaufspreis: <VAL GOLD>\r\nSteuer (<VAL> %): <VAL GOLD>"
+    },
+    {
+      "key": "bazaar_msg_announce_exhibited",
+      "read_index": "32",
+      "source_jp": "<NAME ITEM>を出品しました",
+      "source_en": "<NAME ITEM> is now being exhibited",
+      "text": "<NAME ITEM> wird im Basar angeboten."
+    },
+    {
+      "key": "bazaar_msg_situation_en",
+      "read_index": "33",
+      "source_jp": "Sell List",
+      "source_en": "Exhibits",
+      "text": "Angebote"
+    },
+    {
+      "key": "bazaar_msg_situation_disp_exhibiting",
+      "read_index": "35",
+      "source_jp": "出品中：",
+      "source_en": "Total:",
+      "text": "Gesamt:"
+    },
+    {
+      "key": "bazaar_msg_situation_disp_totalsales",
+      "read_index": "36",
+      "source_jp": "売上合計：",
+      "source_en": "Total sales:",
+      "text": "Gesamterlös:"
+    },
+    {
+      "key": "bazaar_msg_bt_salesreceipt",
+      "read_index": "37",
+      "source_jp": "売上の受け取り",
+      "source_en": "Sales Receipt",
+      "text": "Erlös abholen"
+    },
+    {
+      "key": "bazaar_msg_situation_exhibition_poss",
+      "read_index": "38",
+      "source_jp": "出品可能",
+      "source_en": "Exhibition Available",
+      "text": "Kann angeboten werden"
+    },
+    {
+      "key": "bazaar_msg_situation_exhibition_imposs",
+      "read_index": "39",
+      "source_jp": "あと<COL FFFF00><JKAN HM></COL>で利用できます",
+      "source_en": "Available in <COL FFFF00><JKAN HM></COL>",
+      "text": "Verfügbar in <COL FFFF00><JKAN HM></COL>"
+    },
+    {
+      "key": "bazaar_msg_situation_congrats",
+      "read_index": "40",
+      "source_jp": "おめでとうございます！ 取引成立しました！",
+      "source_en": "Congratulations! It was sold!",
+      "text": "Verkauft!"
+    },
+    {
+      "key": "bazaar_msg_announce_get_money",
+      "read_index": "41",
+      "source_jp": "バザー売上 <VAL GOLD>を受け取りました",
+      "source_en": "Received <VAL GOLD> from bazaar sales",
+      "text": "<VAL GOLD> aus Basarverkäufen erhalten."
+    },
+    {
+      "key": "bazaar_msg_bt_stop",
+      "read_index": "42",
+      "source_jp": "取り消し",
+      "source_en": "Cancel",
+      "text": "Angebot zurückziehen"
+    },
+    {
+      "key": "bazaar_msg_bt_re_exhibit",
+      "read_index": "43",
+      "source_jp": "再出品",
+      "source_en": "Re-Exhibit",
+      "text": "Erneut anbieten"
+    },
+    {
+      "key": "bazaar_msg_stop_confirmation",
+      "read_index": "44",
+      "source_jp": "以下の出品を取り消します。よろしいですか？\r\n(取り消したアイテムは保管ボックスに送ります)\r\n　アイテム：<NAME ITEM>\r\n　出品個数：<VAL>個\r\n　設定価格：<VAL GOLD>",
+      "source_en": "Are you sure you want to cancel the following\r\nlisting?\r\n(The canceled item will be sent to the Storage\r\nBox)\r\nItem: <NAME ITEM>\r\nQuantity: <VAL> pieces\r\nPrice: <VAL GOLD>",
+      "text": "Dieses Angebot zurückziehen?\r\nDer Gegenstand geht ins Lager.\r\nGegenstand: <NAME ITEM>\r\nMenge: <VAL>\r\nPreis: <VAL GOLD>"
+    },
+    {
+      "key": "bazaar_msg_announce_stop",
+      "read_index": "45",
+      "source_jp": "<NAME ITEM>を保管ボックスに移動しました",
+      "source_en": "<NAME ITEM> has been moved to storage",
+      "text": "<NAME ITEM> ins Lager verschoben."
+    },
+    {
+      "key": "bazaar_msg_re_exhibit_set_unitprice",
+      "read_index": "46",
+      "source_jp": "単価の再設定",
+      "source_en": "Resetting unit price.",
+      "text": "Stückpreis neu festlegen"
+    },
+    {
+      "key": "bazaar_msg_re_exhibit_confirmation",
+      "read_index": "47",
+      "source_jp": "以下の内容で再出品します。よろしいですか？\r\n　アイテム：<NAME ITEM>\r\n　出品個数：<VAL>個\r\n　出品価格：<VAL GOLD>\r\n　売上時手数料(<VAL>%)：<VAL GOLD>",
+      "source_en": "Are you sure you want to re-exhibit the following?\r\nItem: <NAME ITEM>\r\nAmount: <VAL>\r\nSell Price: <VAL GOLD>\r\nSales Tax (<VAL>%): <VAL GOLD>",
+      "text": "Diesen Gegenstand erneut anbieten?\r\nGegenstand: <NAME ITEM>\r\nMenge: <VAL>\r\nVerkaufspreis: <VAL GOLD>\r\nSteuer (<VAL> %): <VAL GOLD>"
+    },
+    {
+      "key": "bazaar_msg_announce_re_exhibited",
+      "read_index": "48",
+      "source_jp": "<NAME ITEM>を再出品しました",
+      "source_en": "<NAME ITEM> has been re-exhibited",
+      "text": "<NAME ITEM> erneut angeboten."
+    },
+    {
+      "key": "bazaar_msg_announce_buy",
+      "read_index": "49",
+      "source_jp": "<NAME ITEM>を購入しました",
+      "source_en": "<NAME ITEM> has been purchased",
+      "text": "<NAME ITEM> gekauft."
+    },
+    {
+      "key": "bazaar_msg_disp_search_info",
+      "read_index": "50",
+      "source_jp": "左のメニューから検索してください",
+      "source_en": "Please search using the menu to the left.",
+      "text": "Starte die Suche im linken Menü."
+    },
+    {
+      "key": "bazaar_msg_disp_search_notfound",
+      "read_index": "51",
+      "source_jp": "一致する情報は見つかりませんでした",
+      "source_en": "There were no results.",
+      "text": "Keine Treffer."
+    },
+    {
+      "key": "bazaar_msg_announce_error_buy",
+      "read_index": "52",
+      "source_jp": "購入に失敗しました",
+      "source_en": "Failed to purchase",
+      "text": "Kauf fehlgeschlagen."
+    },
+    {
+      "key": "bazaar_msg_announce_error_exhibit",
+      "read_index": "53",
+      "source_jp": "出品に失敗しました",
+      "source_en": "Failed to exhibit.",
+      "text": "Angebot konnte nicht erstellt werden."
+    },
+    {
+      "key": "bazaar_msg_announce_error_stop",
+      "read_index": "54",
+      "source_jp": "取り消しに失敗しました",
+      "source_en": "Failed to cancel",
+      "text": "Angebot konnte nicht zurückgezogen werden."
+    },
+    {
+      "key": "bazaar_msg_announce_error_info",
+      "read_index": "55",
+      "source_jp": "情報の取得に失敗しました",
+      "source_en": "Failed to get information",
+      "text": "Informationen konnten nicht geladen werden."
+    },
+    {
+      "key": "bazaar_msg_announce_error_exhibit_over",
+      "read_index": "56",
+      "source_jp": "出品可能数が０のため、新たに出品できません",
+      "source_en": "You have 0 exhibition slots remaining",
+      "text": "Keine freien Angebotsplätze."
+    },
+    {
+      "key": "bazaar_msg_announce_error_possession_full",
+      "read_index": "57",
+      "source_jp": "アイテムバッグと保管ボックスに空き枠が無いため購入できません",
+      "source_en": "You cannot purchase it because there is no free space in the item bag or storage",
+      "text": "Tasche und Lager haben keinen freien Platz.\r\nDer Kauf ist nicht möglich."
+    },
+    {
+      "key": "bazaar_msg_announce_error_stop_storage_full",
+      "read_index": "58",
+      "source_jp": "保管ボックスに空き枠が無いため取り消しできません",
+      "source_en": "You cannot purchase it because there is no free space in storage",
+      "text": "Das Lager ist voll.\r\nDas Angebot kann nicht zurückgezogen werden."
+    },
+    {
+      "key": "bazaar_msg_shortcut_exhibit",
+      "read_index": "59",
+      "source_jp": "出品へのショートカット",
+      "source_en": "Shortcut to Exhibit",
+      "text": "Zum Angebot"
+    },
+    {
+      "key": "bazaar_msg_announce_error_bazaaritem0",
+      "read_index": "60",
+      "source_jp": "バザーに出品できるアイテムを持っていません",
+      "source_en": "There are no items that can be exhibited",
+      "text": "Keine Gegenstände zum Anbieten vorhanden."
+    },
+    {
+      "key": "bazaar_msg_disp_snatching_notfound",
+      "read_index": "61",
+      "source_jp": "購入できるアイテムは見つかりませんでした\r\n前の画面に戻ってください\r\n（他のプレイヤーに購入された、もしくは\r\n出品を取り消した等の可能性があります）",
+      "source_en": "There were no purchasable items found.\r\nPlease go back to the previous screen.\r\n(It was purchased by other players or the listing\r\nwas canceled)",
+      "text": "Dieses Angebot ist nicht mehr verfügbar.\r\nEs wurde gekauft oder zurückgezogen.\r\nKehre zur vorherigen Ansicht zurück."
+    },
+    {
+      "key": "bazaar_msg_announce_many_search",
+      "read_index": "62",
+      "source_jp": "一致する情報が多いため、すべてを取得できませんでした",
+      "source_en": "There were too many results",
+      "text": "Zu viele Treffer."
+    },
+    {
+      "key": "bazaar_msg_exhibit_set_number_limit",
+      "read_index": "63",
+      "source_jp": "※<VAL> 個まで",
+      "source_en": "Limit of <VAL> items",
+      "text": "Maximal <VAL> Stück"
+    },
+    {
+      "key": "bazaar_msg_disp_access_frequency_error",
+      "read_index": "64",
+      "source_jp": "サーバーへのアクセス頻度が高いため\r\n一定時間、商品検索のご利用を制限いたします\r\n時間を置いてもう一度お試しいただくか\r\nアクセス頻度を下げてご利用いただきますよう\r\nお願いいたします",
+      "source_en": "Due to a high frequency of searches in a small\r\ntimespan,\r\nwe will restrict the use of the Bazaar search for\r\na period of time.\r\nPlease lower the frequency of searches in the\r\nfuture, and\r\ntry again later.",
+      "text": "Die Basarsuche ist nach zu vielen Anfragen\r\nvorübergehend gesperrt.\r\nVersuche es später mit weniger Suchanfragen."
+    },
+    {
+      "key": "bazaar_msg_announce_error_notcovered",
+      "read_index": "65",
+      "source_jp": "対象のアイテムはバザーで購入できません",
+      "source_en": "The target item cannot be purchased in the bazaar",
+      "text": "Dieser Gegenstand ist im Basar nicht erhältlich."
+    },
+    {
+      "key": "bazaar_msg_name_bazaar_en",
+      "read_index": "66",
+      "source_jp": "Bazaar",
+      "source_en": "Bazaar",
+      "text": "Basar"
+    },
+    {
+      "key": "bazaar_msg_name_required_material",
+      "read_index": "68",
+      "source_jp": "必要素材名",
+      "source_en": "Required Material Name",
+      "text": "Benötigtes Material"
+    },
+    {
+      "key": "bazaar_msg_name_num_listings",
+      "read_index": "69",
+      "source_jp": "出品数",
+      "source_en": "Number of Listings",
+      "text": "Angebote"
+    }
+  ]
+}

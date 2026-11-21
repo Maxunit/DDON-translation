@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\Chat_res.gmd",
+  "arc_path": "\\ui\\GUIGame.arc",
+  "entries": [
+    {
+      "key": "MSG_EDITCHNAME",
+      "read_index": "0",
+      "source_jp": "チャンネル名を入力してください",
+      "source_en": "Enter channel name",
+      "text": "Kanalnamen eingeben"
+    },
+    {
+      "key": "MSG_RESIZE_J",
+      "read_index": "1",
+      "source_jp": "ウィンドウ拡縮",
+      "source_en": "Resize",
+      "text": "Größe ändern"
+    },
+    {
+      "key": "MSG_FLTRDEL",
+      "read_index": "2",
+      "source_jp": "このチャンネルを削除しますか？",
+      "source_en": "Are you sure you want to delete this channel?",
+      "text": "Diesen Kanal löschen?"
+    },
+    {
+      "key": "MSG_NOTABLEADDCH",
+      "read_index": "3",
+      "source_jp": "これ以上チャンネルを追加できません",
+      "source_en": "You cannot add anymore channels",
+      "text": "Es können keine weiteren Kanäle hinzugefügt werden."
+    },
+    {
+      "key": "MSG_EDIT",
+      "read_index": "4",
+      "source_jp": "再編集",
+      "source_en": "Edit",
+      "text": "Bearbeiten"
+    },
+    {
+      "key": "MSG_DELCH",
+      "read_index": "5",
+      "source_jp": "チャンネルの削除",
+      "source_en": "Delete Channel",
+      "text": "Kanal löschen"
+    },
+    {
+      "key": "MSG_GUIDE_EDTICH_J",
+      "read_index": "6",
+      "source_jp": "チャンネルの編集",
+      "source_en": "Edit Channel",
+      "text": "Kanal bearbeiten"
+    },
+    {
+      "key": "MSG_EDITCH",
+      "read_index": "7",
+      "source_jp": "チャンネルの設定変更",
+      "source_en": "Edit Channel",
+      "text": "Kanal bearbeiten"
+    },
+    {
+      "key": "MSG_SETFILTER",
+      "read_index": "8",
+      "source_jp": "フィルターを設定してください",
+      "source_en": "Set channel filter",
+      "text": "Kanalfilter einstellen"
+    },
+    {
+      "key": "MSG_SELECT_J",
+      "read_index": "9",
+      "source_jp": "選択",
+      "source_en": "Select",
+      "text": "Auswählen"
+    },
+    {
+      "key": "MSG_SENDMSG_J",
+      "read_index": "10",
+      "source_jp": "発言",
+      "source_en": "Send",
+      "text": "Senden"
+    },
+    {
+      "key": "MSG_NONAME",
+      "read_index": "12",
+      "source_jp": "名前が入力されていません",
+      "source_en": "You must enter a channel name.",
+      "text": "Gib einen Kanalnamen ein."
+    },
+    {
+      "key": "MSG_INPUTSTART",
+      "read_index": "14",
+      "source_jp": "入力",
+      "source_en": "Input",
+      "text": "Eingabe"
+    },
+    {
+      "key": "MSG_CHEDIT",
+      "read_index": "15",
+      "source_jp": "チャンネルの編集",
+      "source_en": "Edit Channel",
+      "text": "Kanal bearbeiten"
+    },
+    {
+      "key": "CHAT_MSG_INPUTMODE_JP",
+      "read_index": "17",
+      "source_jp": "あ",
+      "source_en": "Jp",
+      "text": "JP"
+    },
+    {
+      "key": "MSG_ADDCH",
+      "read_index": "18",
+      "source_jp": "チャンネルの追加",
+      "source_en": "Add Channel",
+      "text": "Kanal hinzufügen"
+    },
+    {
+      "key": "MSG_SWITCH_CH",
+      "read_index": "20",
+      "source_jp": "チャンネルの切り替え",
+      "source_en": "Switch Channel",
+      "text": "Kanal wechseln"
+    },
+    {
+      "key": "MSG_NOT_SPEAK_A_WHILE",
+      "read_index": "21",
+      "source_jp": "しばらく発言できません",
+      "source_en": "Cannot speak for a while.",
+      "text": "Du kannst vorübergehend nichts schreiben."
+    },
+    {
+      "key": "MSG_NOT_SPEAK_A_FEW_SECONDS",
+      "read_index": "22",
+      "source_jp": "発言できません あと<VAL>秒",
+      "source_en": "Cannot speak for <VAL> seconds.",
+      "text": "Du kannst <VAL> Sek. lang nichts schreiben."
+    }
+  ]
+}

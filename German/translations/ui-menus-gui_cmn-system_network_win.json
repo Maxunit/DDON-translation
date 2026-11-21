@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\system_network_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "net_signout_return_l",
+      "read_index": "0",
+      "source_jp": "認証サーバーとの接続が切れました\r\nランチャーに戻ります",
+      "source_en": "The connection with the authentication server has\r\nbeen terminated.\r\nReturning to the launcher.",
+      "text": "Verbindung zum Anmeldeserver getrennt.\r\nRückkehr zum Launcher."
+    },
+    {
+      "key": "net_non_connect_lan_return_l_common",
+      "read_index": "1",
+      "source_jp": "インターネットへの接続が確認できません\r\nインターネット接続が切断されたか、\r\n接続されていない可能性があります\r\nこのゲームをプレイするにはインターネットへの\r\n接続が必要となりますので接続状況をご確認ください\r\nランチャーを再起動いたします",
+      "source_en": "I cannot confirm the connection to the internet.\r\nThe internet connection may be disconnected or\r\nnot connected.\r\nTo play this game, a connection to the internet\r\nis required.\r\nPlease check your connection status.\r\nI will restart the launcher.",
+      "text": "Keine Internetverbindung.\r\nPrüfe deine Verbindung, um weiterzuspielen.\r\nDer Launcher wird neu gestartet."
+    },
+    {
+      "key": "net_network_cancel_return_l_common",
+      "read_index": "2",
+      "source_jp": "ネットワークの開始がキャンセルされました\r\nランチャーに戻ります",
+      "source_en": "The network startup has been canceled. Returning\r\nto the launcher.",
+      "text": "Netzwerkstart abgebrochen.\r\nRückkehr zum Launcher."
+    },
+    {
+      "key": "net_network_ng_return_l_common",
+      "read_index": "3",
+      "source_jp": "ネットワークの開始に失敗しました\r\nランチャーに戻ります",
+      "source_en": "Network initialization failed.\r\nReturning to the launcher.",
+      "text": "Netzwerk konnte nicht gestartet werden.\r\nRückkehr zum Launcher."
+    },
+    {
+      "key": "net_network_error_common",
+      "read_index": "4",
+      "source_jp": "通信エラーが発生しました",
+      "source_en": "An unknown error has occurred.",
+      "text": "Ein unbekannter Fehler ist aufgetreten."
+    },
+    {
+      "key": "net_network_error_return_t_common",
+      "read_index": "5",
+      "source_jp": "通信エラーが発生しました\r\nタイトル画面に戻ります",
+      "source_en": "A communication error has occurred. Returning to\r\nthe title screen.",
+      "text": "Verbindungsfehler.\r\nRückkehr zum Titelmenü."
+    },
+    {
+      "key": "net_network_error_return_l_common",
+      "read_index": "6",
+      "source_jp": "通信エラーが発生しました\r\nランチャーに戻ります",
+      "source_en": "A communication error has occurred.\r\nReturning to the launcher.",
+      "text": "Verbindungsfehler.\r\nRückkehr zum Launcher."
+    },
+    {
+      "key": "net_server_error_common",
+      "read_index": "7",
+      "source_jp": "サーバーとの接続に失敗しました",
+      "source_en": "Failed to connect to the server.",
+      "text": "Verbindung zum Server fehlgeschlagen."
+    },
+    {
+      "key": "net_server_error_return_l_common",
+      "read_index": "8",
+      "source_jp": "サーバーとの接続に失敗しました\r\nランチャーに戻ります",
+      "source_en": "Connection with the server failed.\r\nReturning to the launcher.",
+      "text": "Verbindung zum Server fehlgeschlagen.\r\nRückkehr zum Launcher."
+    },
+    {
+      "key": "net_server_error_return_t_common",
+      "read_index": "9",
+      "source_jp": "サーバーから切断されました\r\nタイトル画面に戻ります",
+      "source_en": "You have been disconnected from the server.\r\nReturning to the title screen.",
+      "text": "Die Serververbindung wurde getrennt.\r\nRückkehr zum Titelmenü."
+    },
+    {
+      "key": "net_login_error_common",
+      "read_index": "10",
+      "source_jp": "ログインに失敗しました",
+      "source_en": "Login failed.",
+      "text": "Anmeldung fehlgeschlagen."
+    },
+    {
+      "key": "net_login_error_return_l_common",
+      "read_index": "11",
+      "source_jp": "ログインに失敗しました\r\nランチャーに戻ります",
+      "source_en": "Login failed\r\nReturning to the launcher.",
+      "text": "Anmeldung fehlgeschlagen.\r\nRückkehr zum Launcher."
+    },
+    {
+      "key": "net_server_error_back_t_common",
+      "read_index": "12",
+      "source_jp": "サーバーから切断されました\r\nタイトル画面に戻ります",
+      "source_en": "You have been disconnected from the server.\r\nReturning to the title screen.",
+      "text": "Die Serververbindung wurde getrennt.\r\nRückkehr zum Titelmenü."
+    },
+    {
+      "key": "net_server_timeout_back_t_common",
+      "read_index": "13",
+      "source_jp": "サーバーとの接続がタイムアウトになりました\r\nタイトル画面に戻ります",
+      "source_en": "The connection to the server has timed out.\r\nReturning to the title screen.",
+      "text": "Zeitlimit der Serververbindung überschritten.\r\nRückkehr zum Titelmenü."
+    },
+    {
+      "key": "net_version_error_back_l_common",
+      "read_index": "14",
+      "source_jp": "更新データが見つかりました\r\nアップデートする必要がありますので\r\nランチャー画面へ戻ります",
+      "source_en": "Update data has been found.\r\nYou need to update, so I will return to the\r\nlauncher screen.",
+      "text": "Ein Update ist verfügbar.\r\nRückkehr zum Launcher."
+    },
+    {
+      "key": "net_autologout",
+      "read_index": "15",
+      "source_jp": "長時間、操作が行われなかったため\r\nサーバーとの接続が切断されました\r\nタイトル画面に戻ります",
+      "source_en": "Due to a long period of inactivity, \r\nthe connection with the server has \r\nbeen terminated.\r\nYou will be returned to the title screen.",
+      "text": "Die Verbindung wurde wegen Inaktivität getrennt.\r\nRückkehr zum Titelmenü."
+    },
+    {
+      "key": "net_signout_return_l_keep",
+      "read_index": "16",
+      "source_jp": "認証サーバーとの接続が切れました",
+      "source_en": "The connection with the authentication server has\r\nbeen terminated.",
+      "text": "Verbindung zum Anmeldeserver getrennt."
+    },
+    {
+      "key": "net_non_connect_lan_return_l_common_keep",
+      "read_index": "17",
+      "source_jp": "インターネットへの接続が確認できません\r\nインターネット接続が切断されたか、\r\n接続されていない可能性があります\r\nこのゲームをプレイするにはインターネットへの\r\n接続が必要となりますので接続状況をご確認ください",
+      "source_en": "I cannot confirm the connection to the internet.\r\nThe internet connection may be disconnected or\r\nnot connected.\r\nTo play this game, a connection to the internet\r\nis required.\r\nPlease check your connection status.\r\nI will restart the launcher.",
+      "text": "Keine Internetverbindung.\r\nPrüfe deine Verbindung, um weiterzuspielen."
+    },
+    {
+      "key": "net_server_error_return_t_common_keep",
+      "read_index": "18",
+      "source_jp": "サーバーから切断されました",
+      "source_en": "You have been disconnected from the server.",
+      "text": "Die Serververbindung wurde getrennt."
+    },
+    {
+      "key": "net_server_error_back_t_common_keep",
+      "read_index": "19",
+      "source_jp": "サーバーから切断されました",
+      "source_en": "You have been disconnected from the server.",
+      "text": "Die Serververbindung wurde getrennt."
+    },
+    {
+      "key": "net_server_timeout_back_t_common_keep",
+      "read_index": "20",
+      "source_jp": "サーバーとの接続がタイムアウトになりました",
+      "source_en": "The connection to the server timed out.",
+      "text": "Zeitlimit der Serververbindung überschritten."
+    },
+    {
+      "key": "net_autologout_keep",
+      "read_index": "21",
+      "source_jp": "長時間、操作が行われなかったため\r\nサーバーとの接続が切断されました",
+      "source_en": "Due to a long period of inactivity, \r\nthe connection with the server has \r\nbeen terminated.\r\nYou will be returned to the title screen.",
+      "text": "Die Verbindung wurde wegen Inaktivität getrennt.\r\nRückkehr zum Titelmenü."
+    },
+    {
+      "key": "net_edit_keep",
+      "read_index": "22",
+      "source_jp": "サーバーと接続されていないため\r\nこれ以上ゲームを進行することができません\r\n現在のエディット情報をPC本体に\r\nセーブすることをオススメします\r\nゲームを終了するにはエディット(または美容院)の\r\n画面でキャンセル操作をおこなってください",
+      "source_en": "Since I am not connected to the server, I cannot\r\nproceed with the game any further.\r\nIt is recommended to save the current edit\r\ninformation on your Pc.\r\nTo exit the game, please perform the cancel\r\noperation on the edit (or beauty salon) screen.",
+      "text": "Keine Verbindung zum Server.\r\nSpeichere den aktuellen Entwurf auf deinem PC.\r\nZum Beenden brich die Bearbeitung im Editor\r\noder im Schönheitssalon ab."
+    }
+  ]
+}

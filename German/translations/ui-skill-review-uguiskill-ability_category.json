@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Kampftechniken",
+  "gmd_path": "ui\\00_message\\skill\\ability_category.gmd",
+  "arc_path": "\\ui\\uGUISkill.arc",
+  "entries": [
+    {
+      "key": "ability_category_2",
+      "read_index": "0",
+      "source_jp": "アクション強化",
+      "source_en": "Improve Actions",
+      "text": "Aktionen"
+    },
+    {
+      "key": "ability_category_3",
+      "read_index": "1",
+      "source_jp": "攻撃力上昇",
+      "source_en": "Inc. Attack Power",
+      "text": "Angriffskraft"
+    },
+    {
+      "key": "ability_category_4",
+      "read_index": "2",
+      "source_jp": "攻力上昇",
+      "source_en": "Inc. Attack Force",
+      "text": "Angriffswucht"
+    },
+    {
+      "key": "ability_category_5",
+      "read_index": "3",
+      "source_jp": "状態異常蓄積",
+      "source_en": "Status/Debilitation",
+      "text": "Zustandsaufbau"
+    },
+    {
+      "key": "ability_category_6",
+      "read_index": "4",
+      "source_jp": "防御力上昇",
+      "source_en": "Inc. Defense Power",
+      "text": "Verteidigung"
+    },
+    {
+      "key": "ability_category_7",
+      "read_index": "5",
+      "source_jp": "防力上昇",
+      "source_en": "Inc. Defense Force",
+      "text": "Standfestigkeit"
+    },
+    {
+      "key": "ability_category_8",
+      "read_index": "6",
+      "source_jp": "耐性上昇",
+      "source_en": "Inc. Resistance",
+      "text": "Resistenzen"
+    },
+    {
+      "key": "ability_category_9",
+      "read_index": "7",
+      "source_jp": "体力回復補助",
+      "source_en": "Stamina Recovery",
+      "text": "LP-Regeneration"
+    },
+    {
+      "key": "ability_category_10",
+      "read_index": "8",
+      "source_jp": "スタミナ補助",
+      "source_en": "Stamina",
+      "text": "Ausdauer"
+    },
+    {
+      "key": "ability_category_11",
+      "read_index": "9",
+      "source_jp": "敵注目度補助",
+      "source_en": "Threat",
+      "text": "Feindaufmerksamkeit"
+    },
+    {
+      "key": "ability_category_12",
+      "read_index": "10",
+      "source_jp": "冒険補助",
+      "source_en": "Adventure",
+      "text": "Abenteuer"
+    },
+    {
+      "key": "ability_category_13",
+      "read_index": "11",
+      "source_jp": "ユニーク",
+      "source_en": "Unique",
+      "text": "Einzigartig"
+    }
+  ]
+}

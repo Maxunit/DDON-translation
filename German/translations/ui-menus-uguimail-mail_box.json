@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\mail_box.gmd",
+  "arc_path": "\\ui\\uGUIMail.arc",
+  "entries": [
+    {
+      "key": "sendmail_button_send",
+      "read_index": "2",
+      "source_jp": "送信",
+      "source_en": "Send",
+      "text": "Senden"
+    },
+    {
+      "key": "sendmail_footer_destination",
+      "read_index": "5",
+      "source_jp": "送信先",
+      "source_en": "Total:",
+      "text": "Gesamt:"
+    },
+    {
+      "key": "sendmail_footer_number",
+      "read_index": "6",
+      "source_jp": "件",
+      "source_en": "Subject:",
+      "text": "Betreff:"
+    },
+    {
+      "key": "sendmail_button_del_address",
+      "read_index": "7",
+      "source_jp": "宛先削除",
+      "source_en": "Delete Addressee",
+      "text": "Empfänger entfernen"
+    },
+    {
+      "key": "receivedmail_button_get_all",
+      "read_index": "10",
+      "source_jp": "すべて入手",
+      "source_en": "Take All",
+      "text": "Alles annehmen"
+    },
+    {
+      "key": "receivedmail_button_reply",
+      "read_index": "11",
+      "source_jp": "返信",
+      "source_en": "Reply",
+      "text": "Antworten"
+    },
+    {
+      "key": "mail_msg_time_minute",
+      "read_index": "12",
+      "source_jp": "<VAL>分前",
+      "source_en": "<VAL> minutes",
+      "text": "<VAL> Min."
+    },
+    {
+      "key": "mail_msg_time_hour",
+      "read_index": "13",
+      "source_jp": "<VAL>時間前",
+      "source_en": "<VAL> hours",
+      "text": "<VAL> Std."
+    },
+    {
+      "key": "mail_msg_time_day",
+      "read_index": "14",
+      "source_jp": "<VAL>日前",
+      "source_en": "<VAL> days",
+      "text": "<VAL> T."
+    },
+    {
+      "key": "mail_tab_unfiled",
+      "read_index": "17",
+      "source_jp": "未読／未取得",
+      "source_en": "Unread / Unclaimed",
+      "text": "Ungelesen / Offen"
+    },
+    {
+      "key": "mail_tab_receivedmail",
+      "read_index": "18",
+      "source_jp": "知り合い",
+      "source_en": "Friend Mail",
+      "text": "Freundespost"
+    },
+    {
+      "key": "mail_tab_notificationmail",
+      "read_index": "19",
+      "source_jp": "運営",
+      "source_en": "Notifications",
+      "text": "Systempost"
+    },
+    {
+      "key": "mail_button_mailcreation",
+      "read_index": "20",
+      "source_jp": "メール作成",
+      "source_en": "Send Mail",
+      "text": "Nachricht verfassen"
+    },
+    {
+      "key": "mail_button_getallitem",
+      "read_index": "21",
+      "source_jp": "全アイテム受け取り",
+      "source_en": "Receive All Items",
+      "text": "Alle Gegenstände annehmen"
+    },
+    {
+      "key": "mail_header_reception",
+      "read_index": "22",
+      "source_jp": "件数：",
+      "source_en": "Number:",
+      "text": "Anzahl:"
+    },
+    {
+      "key": "mail_header_update",
+      "read_index": "23",
+      "source_jp": "更新",
+      "source_en": "Update",
+      "text": "Aktualisieren"
+    },
+    {
+      "key": "mail_msg_0_mail",
+      "read_index": "24",
+      "source_jp": "メールはありません",
+      "source_en": "There is no mail.",
+      "text": "Keine Post vorhanden."
+    },
+    {
+      "key": "mail_btnguide_delete_all_read_mail",
+      "read_index": "25",
+      "source_jp": "既読メールをまとめて削除",
+      "source_en": "Delete All Read Mail",
+      "text": "Gelesene Post löschen"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\FreeGroupChat.gmd",
+  "arc_path": "\\ui\\uGUIFreeGroupChat.arc",
+  "entries": [
+    {
+      "key": "fgc_cate_joblv",
+      "read_index": "3",
+      "source_jp": "ジョブレベル",
+      "source_en": "Vocation LV.",
+      "text": "Klassenstufe"
+    },
+    {
+      "key": "fgc_cate_lobby",
+      "read_index": "4",
+      "source_jp": "ワールド",
+      "source_en": "World",
+      "text": "Kanal"
+    },
+    {
+      "key": "fgc_cate_comment",
+      "read_index": "6",
+      "source_jp": "コメント",
+      "source_en": "Comment",
+      "text": "Kommentar"
+    },
+    {
+      "key": "fgc_cate_number_of_participants",
+      "read_index": "7",
+      "source_jp": "参加人数",
+      "source_en": "Participants",
+      "text": "Teilnehmer"
+    },
+    {
+      "key": "fgc_button_invitation",
+      "read_index": "8",
+      "source_jp": "メンバーを招待",
+      "source_en": "Invite Members",
+      "text": "Mitglieder einladen"
+    },
+    {
+      "key": "fgc_button_roomout",
+      "read_index": "9",
+      "source_jp": "グループから退室",
+      "source_en": "Leave Group",
+      "text": "Gruppe verlassen"
+    },
+    {
+      "key": "fgc_ana_nonfgc",
+      "read_index": "10",
+      "source_jp": "グループチャットが組まれていません",
+      "source_en": "Group Chat is not organized.",
+      "text": "Kein Gruppenchat vorhanden."
+    }
+  ]
+}

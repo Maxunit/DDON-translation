@@ -1,0 +1,281 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\equip_status_win.gmd",
+  "arc_path": "\\ui\\uGUICharacter.arc",
+  "entries": [
+    {
+      "key": "status_title_equip_status",
+      "read_index": "0",
+      "source_jp": "ステータス・装備",
+      "source_en": "Status / Equipment",
+      "text": "Status / Ausrüstung"
+    },
+    {
+      "key": "status_tab_equip",
+      "read_index": "1",
+      "source_jp": "ステータス・装備",
+      "source_en": "Status / Equipment",
+      "text": "Status / Ausrüstung"
+    },
+    {
+      "key": "status_tab_anomaly_resist",
+      "read_index": "2",
+      "source_jp": "耐性・特能",
+      "source_en": "Debilitations / Resists",
+      "text": "Resistenzen / Effekte"
+    },
+    {
+      "key": "status_tab_job_arisenpower",
+      "read_index": "3",
+      "source_jp": "ジョブ・竜力の継承",
+      "source_en": "Jobs / Dragon Force",
+      "text": "Klassen / Drachenkraft"
+    },
+    {
+      "key": "status_tab_skill_ability",
+      "read_index": "4",
+      "source_jp": "スキル・アビリティ",
+      "source_en": "Skills / Augments",
+      "text": "Fertigkeiten / Passivfähigkeiten"
+    },
+    {
+      "key": "status_tab_currency",
+      "read_index": "5",
+      "source_jp": "通貨",
+      "source_en": "Currency",
+      "text": "Währungen"
+    },
+    {
+      "key": "status_option_change_equipment",
+      "read_index": "9",
+      "source_jp": "装備変更",
+      "source_en": "Change Equipment",
+      "text": "Ausrüstung wechseln"
+    },
+    {
+      "key": "status_option_remove",
+      "read_index": "10",
+      "source_jp": "はずす",
+      "source_en": "Remove",
+      "text": "Ablegen"
+    },
+    {
+      "key": "status_tab_craft_review",
+      "read_index": "11",
+      "source_jp": "クラフト・評価",
+      "source_en": "Craft / Evaluation",
+      "text": "Handwerk / Wertung"
+    },
+    {
+      "key": "status_none",
+      "read_index": "17",
+      "source_jp": "なし",
+      "source_en": "None",
+      "text": "Keine"
+    },
+    {
+      "key": "status_pawn_review_title",
+      "read_index": "18",
+      "source_jp": "総合評価",
+      "source_en": "Comprehensive Evaluation",
+      "text": "Gesamtwertung"
+    },
+    {
+      "key": "status_pawn_review_rental",
+      "read_index": "19",
+      "source_jp": "レンタル回数",
+      "source_en": "Rental Total",
+      "text": "Anwerbungen"
+    },
+    {
+      "key": "status_pawn_review_battle",
+      "read_index": "20",
+      "source_jp": "敵の討伐数",
+      "source_en": "Enemies Defeated",
+      "text": "Besiegte Gegner"
+    },
+    {
+      "key": "status_pawn_review_craft",
+      "read_index": "21",
+      "source_jp": "クラフト回数",
+      "source_en": "Craft Total",
+      "text": "Herstellungen"
+    },
+    {
+      "key": "status_pawn_review_looks_ave",
+      "read_index": "22",
+      "source_jp": "外見平均評価",
+      "source_en": "Average Appearance Rating",
+      "text": "Ø Aussehenswertung"
+    },
+    {
+      "key": "status_pawn_review_battle_ave",
+      "read_index": "23",
+      "source_jp": "冒険平均評価",
+      "source_en": "Average Battle Rating",
+      "text": "Ø Abenteuerwertung"
+    },
+    {
+      "key": "status_pawn_review_craft_ave",
+      "read_index": "24",
+      "source_jp": "クラフト平均評価",
+      "source_en": "Average Craft Rating",
+      "text": "Ø Handwerkswertung"
+    },
+    {
+      "key": "status_gain_orb",
+      "read_index": "25",
+      "source_jp": "オーブ",
+      "source_en": "Orb",
+      "text": "Kugel"
+    },
+    {
+      "key": "status_gain_total",
+      "read_index": "27",
+      "source_jp": "合計",
+      "source_en": "Total",
+      "text": "Gesamt"
+    },
+    {
+      "key": "status_preset_title",
+      "read_index": "32",
+      "source_jp": "プリセット",
+      "source_en": "Preset",
+      "text": "Vorlage"
+    },
+    {
+      "key": "status_preset_dialog_rename",
+      "read_index": "33",
+      "source_jp": "プリセット名編集",
+      "source_en": "Rename Preset",
+      "text": "Vorlage umbenennen"
+    },
+    {
+      "key": "status_preset_not_regist",
+      "read_index": "34",
+      "source_jp": "未登録",
+      "source_en": "Unregistered",
+      "text": "Leer"
+    },
+    {
+      "key": "status_preset_dialog_title",
+      "read_index": "35",
+      "source_jp": "プリセット操作",
+      "source_en": "Preset Setting",
+      "text": "Vorlagen verwalten"
+    },
+    {
+      "key": "status_preset_dialog_equip",
+      "read_index": "36",
+      "source_jp": "プリセット適用",
+      "source_en": "Apply Preset",
+      "text": "Vorlage anwenden"
+    },
+    {
+      "key": "status_preset_dialog_regist",
+      "read_index": "37",
+      "source_jp": "プリセット登録",
+      "source_en": "Register Preset",
+      "text": "Vorlage speichern"
+    },
+    {
+      "key": "status_preset_default_name",
+      "read_index": "38",
+      "source_jp": "プリセット",
+      "source_en": "Preset",
+      "text": "Vorlage"
+    },
+    {
+      "key": "status_select_equip_title",
+      "read_index": "39",
+      "source_jp": "装備を選んでください",
+      "source_en": "Please select equipment",
+      "text": "Wähle ein Ausrüstungsteil."
+    },
+    {
+      "key": "status_gain_param_ability_cost",
+      "read_index": "42",
+      "source_jp": "アビリティセットコスト",
+      "source_en": "Augment Points",
+      "text": "Passivkosten"
+    },
+    {
+      "key": "status_gain_jewerly_slot",
+      "read_index": "43",
+      "source_jp": "ジュエリー装備スロット",
+      "source_en": "Jewelry Slots",
+      "text": "Schmuckplätze"
+    },
+    {
+      "key": "status_gain_main_pawn",
+      "read_index": "44",
+      "source_jp": "メインポーン契約枠",
+      "source_en": "Main Pawn Contract Limit",
+      "text": "Hauptvasallenplätze"
+    },
+    {
+      "key": "status_gain_sub_pawn",
+      "read_index": "45",
+      "source_jp": "サポートポーン雇用枠",
+      "source_en": "Support Pawn Contract Limit",
+      "text": "Hilfsvasallenplätze"
+    },
+    {
+      "key": "status_sub_menu",
+      "read_index": "48",
+      "source_jp": "サブメニュー",
+      "source_en": "Submenu",
+      "text": "Untermenü"
+    },
+    {
+      "key": "status_error_storage_box_full",
+      "read_index": "49",
+      "source_jp": "保管ボックスがいっぱいです",
+      "source_en": "Storage box is full.",
+      "text": "Das Lager ist voll."
+    },
+    {
+      "key": "status_buttonguide_equip",
+      "read_index": "50",
+      "source_jp": "装備",
+      "source_en": "Equip",
+      "text": "Anlegen"
+    },
+    {
+      "key": "status_error_storage_bag_full",
+      "read_index": "51",
+      "source_jp": "アイテムバッグがいっぱいです",
+      "source_en": "Item bag is full.",
+      "text": "Die Tasche ist voll."
+    },
+    {
+      "key": "status_craft_title",
+      "read_index": "54",
+      "source_jp": "Craft",
+      "source_en": "Craft Menu",
+      "text": "Handwerk"
+    },
+    {
+      "key": "status_equip_jewelry_slot_num",
+      "read_index": "55",
+      "source_jp": "ジュエリー装備可能数：%d",
+      "source_en": "Max jewelry that can be equipped: %d",
+      "text": "Schmuckplätze: %d"
+    },
+    {
+      "key": "status_tab_job",
+      "read_index": "61",
+      "source_jp": "ジョブ",
+      "source_en": "Vocation",
+      "text": "Klasse"
+    },
+    {
+      "key": "status_error_equip_no_enough_empty",
+      "read_index": "62",
+      "source_jp": "倉庫の空きが不足しているため、装備変更ができませんでした",
+      "source_en": "You couldn't change your equipment because there\r\nis not enough space in storage.",
+      "text": "Ausrüstung konnte nicht gewechselt werden.\r\nIm Lager ist zu wenig Platz."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\clan_search.gmd",
+  "arc_path": "\\ui\\uGUIClanSearch.arc",
+  "entries": [
+    {
+      "key": "CLAN_SEARCH_MSG_NAME",
+      "read_index": "0",
+      "source_jp": "クランの名前",
+      "source_en": "Clan Name",
+      "text": "Clanname"
+    },
+    {
+      "key": "CLAN_SEARCH_MSG_RANK",
+      "read_index": "1",
+      "source_jp": "ランク",
+      "source_en": "Rank",
+      "text": "Rang"
+    },
+    {
+      "key": "CLAN_SEARCH_MSG_MEMBER",
+      "read_index": "2",
+      "source_jp": "メンバー数",
+      "source_en": "Members",
+      "text": "Mitglieder"
+    },
+    {
+      "key": "CLAN_SEARCH_MSG_ATIME",
+      "read_index": "4",
+      "source_jp": "活動時間帯",
+      "source_en": "Activity Time",
+      "text": "Aktive Zeiten"
+    },
+    {
+      "key": "CLAN_SEARCH_MSG_STYLE",
+      "read_index": "5",
+      "source_jp": "特徴",
+      "source_en": "Style",
+      "text": "Spielstil"
+    },
+    {
+      "key": "CLAN_SEARCH_MSG_OK",
+      "read_index": "6",
+      "source_jp": "完了",
+      "source_en": "Finish",
+      "text": "Fertig"
+    },
+    {
+      "key": "CLAN_SEARCH_MSG_CANCEL",
+      "read_index": "7",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "CLAN_SEARCH_MSG_SEARCH_BACK",
+      "read_index": "8",
+      "source_jp": "検索条件変更に戻る",
+      "source_en": "Return",
+      "text": "Zurück"
+    },
+    {
+      "key": "CLAN_SEARCH_MSG_MEMBER_LIST",
+      "read_index": "9",
+      "source_jp": "メンバー",
+      "source_en": "Members",
+      "text": "Mitglieder"
+    },
+    {
+      "key": "CLAN_SEARCH_MSG_DATE",
+      "read_index": "10",
+      "source_jp": "設立日",
+      "source_en": "Founded",
+      "text": "Gegründet"
+    },
+    {
+      "key": "CLAN_SEARCH_MSG_ORLESS",
+      "read_index": "11",
+      "source_jp": "<VAL>以下",
+      "source_en": "Below <VAL>",
+      "text": "Bis <VAL>"
+    },
+    {
+      "key": "CLAN_SEARCH_MSG_ORLESS_P",
+      "read_index": "12",
+      "source_jp": "<VAL>名以下",
+      "source_en": "Below <VAL> people",
+      "text": "Bis <VAL> Personen"
+    },
+    {
+      "key": "CLAN_SEARCH_RANK_LIMIT",
+      "read_index": "13",
+      "source_jp": "%d～%dまで",
+      "source_en": "From %d to %d",
+      "text": "Rang %d bis %d"
+    },
+    {
+      "key": "CLAN_SEARCH_MEMBER_LIMIT",
+      "read_index": "14",
+      "source_jp": "%d～%d人まで",
+      "source_en": "%d to %d people",
+      "text": "%d bis %d Personen"
+    },
+    {
+      "key": "CLAN_SEARCH_SHORT_NAME",
+      "read_index": "19",
+      "source_jp": "略称で検索",
+      "source_en": "Search Tags",
+      "text": "Nach Kürzel suchen"
+    },
+    {
+      "key": "CLAN_SEARCH_MSG_NOT_FOUND",
+      "read_index": "21",
+      "source_jp": "クランが見つかりませんでした",
+      "source_en": "Clan was not found.",
+      "text": "Kein Clan gefunden."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\ArisenCard_pop.gmd",
+  "arc_path": "\\ui\\uGUIArisenCardPop.arc",
+  "entries": [
+    {
+      "key": "arisenpop_bg_change",
+      "read_index": "0",
+      "source_jp": "背景の設定",
+      "source_en": "Change Background",
+      "text": "Hintergrund ändern"
+    },
+    {
+      "key": "arisenpop_title_change",
+      "read_index": "1",
+      "source_jp": "称号の設定",
+      "source_en": "Change Title",
+      "text": "Titel ändern"
+    },
+    {
+      "key": "arisenpop_pose_change",
+      "read_index": "4",
+      "source_jp": "ポーズの設定",
+      "source_en": "Change Pose",
+      "text": "Pose ändern"
+    },
+    {
+      "key": "arisenpop_frame_change",
+      "read_index": "7",
+      "source_jp": "フレームの設定",
+      "source_en": "Change Frame",
+      "text": "Rahmen ändern"
+    }
+  ]
+}

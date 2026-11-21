@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\clan_scout.gmd",
+  "arc_path": "\\ui\\uGUIClanScout.arc",
+  "entries": [
+    {
+      "key": "CLAN_SCOUT_MSG_RANK",
+      "read_index": "0",
+      "source_jp": "ランク",
+      "source_en": "Rank",
+      "text": "Rang"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_MEMBER",
+      "read_index": "1",
+      "source_jp": "メンバー数",
+      "source_en": "Members",
+      "text": "Mitglieder"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_ATIME",
+      "read_index": "3",
+      "source_jp": "活動時間帯",
+      "source_en": "Activity Time",
+      "text": "Aktive Zeiten"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_STYLE",
+      "read_index": "4",
+      "source_jp": "特徴",
+      "source_en": "Style",
+      "text": "Spielstil"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_JOB",
+      "read_index": "6",
+      "source_jp": "ジョブ",
+      "source_en": "Vocation",
+      "text": "Klasse"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_COMMENT_J",
+      "read_index": "8",
+      "source_jp": "コメント",
+      "source_en": "Comment",
+      "text": "Kommentar"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_SUBMENU",
+      "read_index": "9",
+      "source_jp": "サブメニュー",
+      "source_en": "Submenu",
+      "text": "Untermenü"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_INFO",
+      "read_index": "10",
+      "source_jp": "スカウト申請のメッセージを入力してください",
+      "source_en": "Please enter the applicant scout message.",
+      "text": "Schreib eine Nachricht an Interessierte."
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_OK",
+      "read_index": "11",
+      "source_jp": "完了",
+      "source_en": "Finish",
+      "text": "Fertig"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_CANCEL",
+      "read_index": "12",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_DECIDE",
+      "read_index": "13",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_ORLESS",
+      "read_index": "16",
+      "source_jp": "<VAL>以下",
+      "source_en": "Below <VAL>",
+      "text": "Bis <VAL>"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_ORLESS_P",
+      "read_index": "17",
+      "source_jp": "%d名以下",
+      "source_en": "Below %d people.",
+      "text": "Bis %d Personen"
+    },
+    {
+      "key": "CLAN_SCOUT_RANK_LIMIT",
+      "read_index": "18",
+      "source_jp": "%d～%dまで",
+      "source_en": "From %d to %d",
+      "text": "Rang %d bis %d"
+    },
+    {
+      "key": "CLAN_SCOUT_MEMBER_LIMIT",
+      "read_index": "19",
+      "source_jp": "%d～%d人まで",
+      "source_en": "%d to %d people",
+      "text": "%d bis %d Personen"
+    },
+    {
+      "key": "CLAN_SCOUT_INDEX_EN",
+      "read_index": "21",
+      "source_jp": "Scout Entry",
+      "source_en": "Scout",
+      "text": "Anwerben"
+    },
+    {
+      "key": "CLAN_SCOUT_COMMENT_EN",
+      "read_index": "23",
+      "source_jp": "コメント",
+      "source_en": "Comment",
+      "text": "Kommentar"
+    },
+    {
+      "key": "CLAN_SCOUT_JOB_LV",
+      "read_index": "25",
+      "source_jp": "ジョブ",
+      "source_en": "Vocation",
+      "text": "Klasse"
+    },
+    {
+      "key": "CLAN_SCOUT_ANNOUNCE",
+      "read_index": "27",
+      "source_jp": "スカウト申請のメッセージを入力してください",
+      "source_en": "Enter a message for prospective members",
+      "text": "Schreib eine Nachricht an Interessierte."
+    },
+    {
+      "key": "CLAN_SCOUT_NOENTRY",
+      "read_index": "28",
+      "source_jp": "スカウトエントリーがありません",
+      "source_en": "There is no scout entries.",
+      "text": "Keine Anwerbegesuche vorhanden."
+    },
+    {
+      "key": "CLAN_SCOUT_NO_SPECIFIED",
+      "read_index": "29",
+      "source_jp": "指定なし",
+      "source_en": "Not specified",
+      "text": "Beliebig"
+    }
+  ]
+}

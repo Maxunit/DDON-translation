@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\npc_talk\\talk_item.gmd",
+  "arc_path": "\\game_common.arc",
+  "entries": [
+    {
+      "key": "NPC_TALK_ITEM_4",
+      "read_index": "3",
+      "source_jp": "ウォーミッション情報",
+      "source_en": "War Mission Information",
+      "text": "Kriegsmissionen"
+    },
+    {
+      "key": "NPC_TALK_ITEM_14",
+      "read_index": "4",
+      "source_jp": "依頼を受ける",
+      "source_en": "Accept Request",
+      "text": "Auftrag annehmen"
+    },
+    {
+      "key": "NPC_TALK_ITEM_15",
+      "read_index": "5",
+      "source_jp": "詳細を聞く",
+      "source_en": "Let's hear the details",
+      "text": "Details anhören"
+    },
+    {
+      "key": "NPC_TALK_ITEM_16",
+      "read_index": "6",
+      "source_jp": "依頼を受けない",
+      "source_en": "Decline Request",
+      "text": "Auftrag ablehnen"
+    }
+  ]
+}

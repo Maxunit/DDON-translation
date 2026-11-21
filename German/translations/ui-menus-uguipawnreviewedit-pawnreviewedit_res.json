@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\PawnReviewEdit_res.gmd",
+  "arc_path": "\\ui\\uGUIPawnReviewEdit.arc",
+  "entries": [
+    {
+      "key": "pawnreviewedit_msg_looks_edit",
+      "read_index": "0",
+      "source_jp": "外見評価編集",
+      "source_en": "Edit Appearance Rating",
+      "text": "Aussehenswertung bearbeiten"
+    },
+    {
+      "key": "pawnreviewedit_msg_battle_edit",
+      "read_index": "1",
+      "source_jp": "冒険評価編集",
+      "source_en": "Edit Combat Rating",
+      "text": "Kampfwertung bearbeiten"
+    },
+    {
+      "key": "pawnreviewedit_msg_craft_edit",
+      "read_index": "2",
+      "source_jp": "クラフト評価編集",
+      "source_en": "Edit Craft Rating",
+      "text": "Handwerkswertung bearbeiten"
+    },
+    {
+      "key": "pawnreviewedit_msg_decide",
+      "read_index": "3",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "pawnreviewedit_msg_cancel",
+      "read_index": "4",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\shop.gmd",
+  "arc_path": "\\ui\\uGUIShop.arc",
+  "entries": [
+    {
+      "key": "title_general",
+      "read_index": "0",
+      "source_jp": "よろず屋",
+      "source_en": "General Shop",
+      "text": "Gemischtwarenladen"
+    },
+    {
+      "key": "SHOP_TEXT_PRICE",
+      "read_index": "1",
+      "source_jp": "価格",
+      "source_en": "Price",
+      "text": "Preis"
+    },
+    {
+      "key": "SHOP_TEXT_YES",
+      "read_index": "3",
+      "source_jp": "はい",
+      "source_en": "OK",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "SHOP_TEXT_NO",
+      "read_index": "4",
+      "source_jp": "いいえ",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "SHOP_TEXT_BUYED",
+      "read_index": "5",
+      "source_jp": "<NAME ITEM>を購入しました",
+      "source_en": "<NAME ITEM> has been purchased.",
+      "text": "<NAME ITEM> gekauft."
+    },
+    {
+      "key": "SHOP_TEXT_BUY",
+      "read_index": "6",
+      "source_jp": "購入",
+      "source_en": "Buy",
+      "text": "Kaufen"
+    },
+    {
+      "key": "SHOP_TEXT_SELL",
+      "read_index": "7",
+      "source_jp": "売却",
+      "source_en": "Sell",
+      "text": "Verkaufen"
+    },
+    {
+      "key": "SHOP_TEXT_CANCEL",
+      "read_index": "8",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "SHOP_TEXT_SELECTBUYNUM",
+      "read_index": "9",
+      "source_jp": "購入する個数を入力してください",
+      "source_en": "Please enter the number of items to purchase.",
+      "text": "Wähle die Kaufmenge."
+    },
+    {
+      "key": "SHOP_TEXT_SELECTSELLNUM",
+      "read_index": "10",
+      "source_jp": "売却する個数を入力してください",
+      "source_en": "Please enter the number of items to sell.",
+      "text": "Wähle die Verkaufsmenge."
+    },
+    {
+      "key": "SHOP_TEXT_ATTENTIONBUY_1",
+      "read_index": "11",
+      "source_jp": "以下の内容で購入します。よろしいですか？\r\n　アイテム：<VAL>\r\n　合計個数：<VAL>個\r\n　購入価格：<VAL>",
+      "source_en": "Are you sure you want to buy the following?\r\nItem: <VAL>\r\nTotal quantity: <VAL> pieces\r\nTotal price: <VAL>",
+      "text": "Diese Gegenstände kaufen?\r\nGegenstand: <VAL>\r\nMenge: <VAL>\r\nGesamtpreis: <VAL>"
+    },
+    {
+      "key": "SHOP_TEXT_ATTENTIONSELL",
+      "read_index": "12",
+      "source_jp": "以下の内容で売却します。よろしいですか？\r\n　アイテム：<NAME ITEM>\r\n　合計個数：<VAL>個\r\n　売却価格：<VAL GOLD>",
+      "source_en": "Are you sure you want to sell the following?\r\nItem: <NAME ITEM>\r\nTotal quantity: <VAL> pieces\r\nSelling price: <VAL GOLD>",
+      "text": "Diese Gegenstände verkaufen?\r\nGegenstand: <NAME ITEM>\r\nMenge: <VAL>\r\nErlös: <VAL GOLD>"
+    },
+    {
+      "key": "SHOP_TEXT_MANNEQUIN",
+      "read_index": "13",
+      "source_jp": "マネキン",
+      "source_en": "Mannequin",
+      "text": "Schaufensterpuppe"
+    },
+    {
+      "key": "SHOP_TEXT_ATTENTIONBUY_ERR",
+      "read_index": "14",
+      "source_jp": "以下の内容で購入します。よろしいですか？\r\n<COL AA1414>ジョブやレベル、装備状態が合わないため\r\nこのアイテムを装備することはできません</COL>\r\n　アイテム：<VAL>\r\n　合計個数：<VAL>個\r\n　購入価格：<VAL>",
+      "source_en": "Are you sure you want to purchase the following\r\nitem?\r\n<COL AA1414>Due to mismatched job, level, and\r\nequipment status, you cannot equip this\r\nitem.</COL>\r\nItem: <VAL>\r\nTotal quantity: <VAL> pieces\r\nTotal price: <VAL>",
+      "text": "Diesen Gegenstand kaufen?\r\n<COL AA1414>Du erfüllst die Anforderungen\r\nzum Anlegen nicht.</COL>\r\nGegenstand: <VAL>\r\nMenge: <VAL>\r\nGesamtpreis: <VAL>"
+    },
+    {
+      "key": "SHOP_TEXT_BTN_GUIDE_SELL",
+      "read_index": "15",
+      "source_jp": "アイテムを売る",
+      "source_en": "Sell items",
+      "text": "Gegenstände verkaufen"
+    },
+    {
+      "key": "SHOP_TEXT_ITEM",
+      "read_index": "16",
+      "source_jp": "アイテム名",
+      "source_en": "Item Name",
+      "text": "Gegenstandsname"
+    },
+    {
+      "key": "SHOP_TEXT_BUG_SELL",
+      "read_index": "17",
+      "source_jp": "アイテムバッグから売却",
+      "source_en": "Sell from Item Bag",
+      "text": "Aus der Tasche verkaufen"
+    },
+    {
+      "key": "title_weapon",
+      "read_index": "18",
+      "source_jp": "武具屋",
+      "source_en": "Equipment Shop",
+      "text": "Ausrüstungsladen"
+    },
+    {
+      "key": "title_item",
+      "read_index": "19",
+      "source_jp": "道具屋",
+      "source_en": "Item Shop",
+      "text": "Gegenstandsladen"
+    },
+    {
+      "key": "title_material",
+      "read_index": "20",
+      "source_jp": "素材屋",
+      "source_en": "Material Shop",
+      "text": "Materialladen"
+    },
+    {
+      "key": "title_orb_enhance_material",
+      "read_index": "21",
+      "source_jp": "オーブ交換：クレスト",
+      "source_en": "Orb Exchange: Crests",
+      "text": "Kugeltausch: Siegel"
+    },
+    {
+      "key": "title_orb_craft_material",
+      "read_index": "22",
+      "source_jp": "オーブ交換：レア素材",
+      "source_en": "Orb Exchange: Rare materials",
+      "text": "Kugeltausch: Seltene Materialien"
+    },
+    {
+      "key": "heading_sell",
+      "read_index": "23",
+      "source_jp": "売却",
+      "source_en": "Sell",
+      "text": "Verkaufen"
+    },
+    {
+      "key": "heading_buy",
+      "read_index": "24",
+      "source_jp": "購入",
+      "source_en": "Buy",
+      "text": "Kaufen"
+    },
+    {
+      "key": "dialog_buy_how_many",
+      "read_index": "25",
+      "source_jp": "いくつ購入しますか？",
+      "source_en": "Select amount",
+      "text": "Menge wählen"
+    },
+    {
+      "key": "dialog_sell_how_many",
+      "read_index": "26",
+      "source_jp": "いくつ売却しますか？",
+      "source_en": "Select amount",
+      "text": "Menge wählen"
+    },
+    {
+      "key": "SHOP_TEXT_BUY_TITLE",
+      "read_index": "27",
+      "source_jp": "Buy",
+      "source_en": "Buy",
+      "text": "Kaufen"
+    },
+    {
+      "key": "SHOP_TEXT_BUY_JP",
+      "read_index": "28",
+      "source_jp": " ",
+      "source_en": "Buy",
+      "text": "Kaufen"
+    },
+    {
+      "key": "SHOP_TEXT_EQUIPCHANGE",
+      "read_index": "29",
+      "source_jp": "試着切り替え",
+      "source_en": "Switch Preview",
+      "text": "Vorschau wechseln"
+    },
+    {
+      "key": "SHOP_TEXT_BTN_GUIDE_BUY",
+      "read_index": "31",
+      "source_jp": "アイテムを買う",
+      "source_en": "Buy",
+      "text": "Kaufen"
+    },
+    {
+      "key": "SHOP_TEXT_DIALOG_TRYON",
+      "read_index": "32",
+      "source_jp": "キャラクターを選択してください",
+      "source_en": "Please select the character.",
+      "text": "Wähle einen Charakter."
+    },
+    {
+      "key": "SHOP_TEXT_ATTENTIONBUY_BO",
+      "read_index": "33",
+      "source_jp": "以下の内容で購入します。よろしいですか？\r\n　アイテム：<NAME ITEM>\r\n　合計個数：<VAL>個\r\n　購入価格：<VAL BO>",
+      "source_en": "Are you sure you want to buy the following?\r\nItem: <NAME ITEM>\r\nTotal quantity: <VAL> pieces\r\nTotal price: <VAL BO>",
+      "text": "Diese Gegenstände kaufen?\r\nGegenstand: <NAME ITEM>\r\nMenge: <VAL>\r\nGesamtpreis: <VAL BO>"
+    },
+    {
+      "key": "SHOP_TEXT_CHOOSE_TRY_ON",
+      "read_index": "34",
+      "source_jp": "試着する対象を選択してください",
+      "source_en": "Please select the item to try on.",
+      "text": "Wähle einen Gegenstand zum Anprobieren."
+    },
+    {
+      "key": "SHOP_TEXT_STOCK",
+      "read_index": "35",
+      "source_jp": "在庫数",
+      "source_en": "No. in stock",
+      "text": "Auf Lager"
+    },
+    {
+      "key": "SHOP_TEXT_PURCHASED",
+      "read_index": "36",
+      "source_jp": "購入済み",
+      "source_en": "Bought",
+      "text": "Gekauft"
+    },
+    {
+      "key": "SHOP_TEXT_ATTENTIONPPBUY_1",
+      "read_index": "37",
+      "source_jp": "以下を購入します。よろしいですか？\r\n　アイテム：<NAME ITEM>\r\n　合計個数：<VAL>個\r\n　購入価格：<VAL PP>",
+      "source_en": "Are you sure you want to buy the following?\r\nItem: <NAME ITEM>\r\nTotal quantity: <VAL> pieces\r\nTotal price: <VAL PP>",
+      "text": "Diese Gegenstände kaufen?\r\nGegenstand: <NAME ITEM>\r\nMenge: <VAL>\r\nGesamtpreis: <VAL PP>"
+    },
+    {
+      "key": "SHOP_TEXT_ATTENTIONPPBUY_2",
+      "read_index": "38",
+      "source_jp": "以下を購入します。よろしいですか？\r\n　アイテム：<NAME ITEM>\r\n　購入価格：<VAL PP>",
+      "source_en": "Are you sure you want to purchase the following?\r\nItem: <NAME ITEM>\r\nPrice: <VAL PP>",
+      "text": "Diesen Gegenstand kaufen?\r\nGegenstand: <NAME ITEM>\r\nPreis: <VAL PP>"
+    },
+    {
+      "key": "SHOP_TEXT_ERR_01",
+      "read_index": "39",
+      "source_jp": "対象のジョブでは、まだ購入する権利がありません",
+      "source_en": "You do not yet have the right to purchase this\r\nfor the selected job",
+      "text": "Für diese Klasse ist der Kauf noch gesperrt."
+    },
+    {
+      "key": "SHOP_TEXT_ERR_02",
+      "read_index": "40",
+      "source_jp": "すでに購入済みです",
+      "source_en": "Already purchased",
+      "text": "Bereits gekauft"
+    },
+    {
+      "key": "SHOP_TEXT_ERR_03",
+      "read_index": "41",
+      "source_jp": "プレイポイントが足りません",
+      "source_en": "Not enough PP",
+      "text": "Nicht genug Spielpunkte"
+    },
+    {
+      "key": "SHOP_TEXT_ACHIEVE_NG",
+      "read_index": "42",
+      "source_jp": "条件未達成",
+      "source_en": "Requirements not met",
+      "text": "Voraussetzungen fehlen"
+    }
+  ]
+}

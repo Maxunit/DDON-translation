@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "scope": "Goal 4.3 – Menüs und allgemeine UI-Texte",
+  "gmd_path": "ui\\00_message\\ui\\keyconfig_group.gmd",
+  "arc_path": "\\ui\\uGUIKeyConfig.arc",
+  "entries": [
+    {
+      "key": "kcg_00",
+      "read_index": "0",
+      "source_jp": "【アクション】",
+      "source_en": "Action",
+      "text": "Aktionen"
+    },
+    {
+      "key": "kcg_01",
+      "read_index": "1",
+      "source_jp": "【ジョブ専用】",
+      "source_en": "Job Action",
+      "text": "Klassenaktionen"
+    },
+    {
+      "key": "kcg_02",
+      "read_index": "2",
+      "source_jp": "【ツール】",
+      "source_en": "Tool",
+      "text": "Werkzeuge"
+    },
+    {
+      "key": "kcg_03",
+      "read_index": "3",
+      "source_jp": "【メニュー操作】",
+      "source_en": "Menu",
+      "text": "Menü"
+    }
+  ]
+}
