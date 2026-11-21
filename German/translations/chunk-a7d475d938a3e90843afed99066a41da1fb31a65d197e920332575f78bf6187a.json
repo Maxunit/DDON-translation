@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\NpcWindow_res.gmd",
+  "arc_path": "\\ui\\uGUINpcWindow.arc",
+  "entries": [
+    {
+      "key": "NPCWINDOW_MSG_RECOMMEND",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "推奨",
+      "source_en": "Rec.",
+      "text": "Empf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

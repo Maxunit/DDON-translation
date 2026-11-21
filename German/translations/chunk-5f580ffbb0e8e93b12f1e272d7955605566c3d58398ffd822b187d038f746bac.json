@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\chatfilter_res.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "CF_INFOMATION",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "Information",
+      "source_en": "Information",
+      "text": "Informationen"
+    },
+    {
+      "key": "CF_PAWN",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "Pawn",
+      "source_en": "Pawn",
+      "text": "Vasall"
+    },
+    {
+      "key": "CF_QUEST",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "Event",
+      "source_en": "Event",
+      "text": "Ereignis"
+    },
+    {
+      "key": "CF_SYSTEM",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "System",
+      "source_en": "System",
+      "text": "System"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

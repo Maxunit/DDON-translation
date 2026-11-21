@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\PhotoAlbum_res.gmd",
+  "arc_path": "\\ui\\uGUIPhotoAlbum.arc",
+  "entries": [
+    {
+      "key": "album_msg_category",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "Category",
+      "source_en": "Category",
+      "text": "Kategorie"
+    },
+    {
+      "key": "album_msg_conf_delete",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "写真を削除します。よろしいですか？",
+      "source_en": "Deleting photo. Are you sure?",
+      "text": "Foto löschen. Bist du sicher?"
+    },
+    {
+      "key": "album_msg_enfullsize",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "全画面表示",
+      "source_en": "Fullscreen",
+      "text": "Vollbild"
+    },
+    {
+      "key": "album_msg_header_e",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "Photo Preview",
+      "source_en": "Photo Preview",
+      "text": "Fotovorschau"
+    },
+    {
+      "key": "album_msg_header_j",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "プレビュー",
+      "source_en": "Preview",
+      "text": "Vorschau"
+    },
+    {
+      "key": "album_msg_non_photo_up",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "撮影された写真がないため、投稿できません",
+      "source_en": "No photos taken and therefore cannot be submitted",
+      "text": "Keine Fotos gemacht und kann daher nicht eingereicht werden"
+    },
+    {
+      "key": "album_msg_photo_num",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アルバム保存枚数：",
+      "source_en": "Number of albums saved: ",
+      "text": "Anzahl der gespeicherten Alben: "
+    },
+    {
+      "key": "album_msg_photo_up",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "写真の投稿",
+      "source_en": "Post Photo",
+      "text": "Post Foto"
+    },
+    {
+      "key": "album_msg_separation",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "/",
+      "source_en": "/",
+      "text": "/"
+    },
+    {
+      "key": "album_msg_title_e",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "Photo Album",
+      "source_en": "Photo Album",
+      "text": "Fotoalbum"
+    },
+    {
+      "key": "album_msg_title_j",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "アルバム",
+      "source_en": "Album",
+      "text": "Album"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,208 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\poptop_sel_res.gmd",
+  "arc_path": "\\ui\\uGUIMenuAreaInfo.arc",
+  "entries": [
+    {
+      "key": "poptop_entryboard_password_release",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "パスワード解除",
+      "source_en": "Remove Password",
+      "text": "Passwort entfernen"
+    },
+    {
+      "key": "poptop_entryboard_ready",
+      "read_index": "76",
+      "tag_source": "source_en",
+      "source_jp": "準備完了",
+      "source_en": "Ready",
+      "text": "Fertig"
+    },
+    {
+      "key": "poptop_entryboard_reentry",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "再エントリー",
+      "source_en": "Reregister",
+      "text": "Wiedereintragung"
+    },
+    {
+      "key": "poptop_entryboard_sally",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "出撃",
+      "source_en": "Sortie",
+      "text": "Aufbrechen"
+    },
+    {
+      "key": "poptop_entryboard_search_union",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "別エントリー検索",
+      "source_en": "Search Entries",
+      "text": "Sucheinträge"
+    },
+    {
+      "key": "poptop_gp_charge",
+      "read_index": "86",
+      "tag_source": "source_en",
+      "source_jp": "黄金石の確認",
+      "source_en": "Check Golden Gemstones",
+      "text": "Goldsteine überprüfen"
+    },
+    {
+      "key": "poptop_item_state",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "アイテム作成状況",
+      "source_en": "Production Status",
+      "text": "Produktionsstatus"
+    },
+    {
+      "key": "poptop_job",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "ジョブ",
+      "source_en": "Vocation",
+      "text": "Klasse"
+    },
+    {
+      "key": "poptop_jp",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "JP<JP>",
+      "source_en": "JP<JP>",
+      "text": "JP<JP>"
+    },
+    {
+      "key": "poptop_lot_box",
+      "read_index": "85",
+      "tag_source": "source_en",
+      "source_jp": "ボックスロット",
+      "source_en": "Box Lot",
+      "text": "Box Los"
+    },
+    {
+      "key": "poptop_lot_normal",
+      "read_index": "84",
+      "tag_source": "source_en",
+      "source_jp": "通常ロット",
+      "source_en": "Normal Lot",
+      "text": "Normales Los"
+    },
+    {
+      "key": "poptop_lv",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "Lv<LV>",
+      "source_en": "Lv<LV>",
+      "text": "St. <LV>"
+    },
+    {
+      "key": "poptop_member_info",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "パーティーメンバー確認",
+      "source_en": "Check Party Members",
+      "text": "Prüfe die Parteimitglieder"
+    },
+    {
+      "key": "poptop_profile_set",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "プロフィール編集",
+      "source_en": "Edit Profile",
+      "text": "Profil bearbeiten"
+    },
+    {
+      "key": "poptop_recycle_ds_equip",
+      "read_index": "107",
+      "tag_source": "source_en",
+      "source_jp": "竜武具の分解",
+      "source_en": "Dismantling of Dragon Arms",
+      "text": "Demontage von Dragon Arms"
+    },
+    {
+      "key": "poptop_recycle_equip",
+      "read_index": "96",
+      "tag_source": "source_en",
+      "source_jp": "武具の分解",
+      "source_en": "Disassemble Arms",
+      "text": "Demontagearme"
+    },
+    {
+      "key": "poptop_recycle_gs_equip",
+      "read_index": "97",
+      "tag_source": "source_en",
+      "source_jp": "特殊武具の分解",
+      "source_en": "Disassemble Special Arms",
+      "text": "Demontage von Spezialwaffen"
+    },
+    {
+      "key": "poptop_recycle_remaining_num",
+      "read_index": "95",
+      "tag_source": "source_en",
+      "source_jp": "残り回数：",
+      "source_en": "Remaining:",
+      "text": "Verbleibend:"
+    },
+    {
+      "key": "poptop_recycle_remaining_num_reset",
+      "read_index": "98",
+      "tag_source": "source_en",
+      "source_jp": "残り回数リセット",
+      "source_en": "Reset Remaining",
+      "text": "Zurücksetzen Verbleibende"
+    },
+    {
+      "key": "poptop_scout",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "スカウト",
+      "source_en": "Scout",
+      "text": "Rekrutierung"
+    },
+    {
+      "key": "poptop_skill",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "スキル",
+      "source_en": "Skills",
+      "text": "Fähigkeiten"
+    },
+    {
+      "key": "poptop_time_event",
+      "read_index": "104",
+      "tag_source": "source_en",
+      "source_jp": "期間イベント",
+      "source_en": "Time Event",
+      "text": "Uhrzeitereignis"
+    },
+    {
+      "key": "poptop_warehouse_en",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "Menu",
+      "source_en": "Menu",
+      "text": "Menü"
+    },
+    {
+      "key": "poptop_warehouse_jp",
+      "read_index": "67",
+      "tag_source": "source_jp",
+      "source_jp": "メニュー",
+      "source_en": " ",
+      "text": "Menü"
+    },
+    {
+      "key": "poptop_weekly_mission",
+      "read_index": "103",
+      "tag_source": "source_en",
+      "source_jp": "特別報酬",
+      "source_en": "Special Reward",
+      "text": "Besondere Belohnung"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

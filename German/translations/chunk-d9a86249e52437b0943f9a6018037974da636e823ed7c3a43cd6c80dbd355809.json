@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\pop_profile_res.gmd",
+  "arc_path": "\\ui\\uGUIPopProfile.arc",
+  "entries": [
+    {
+      "key": "popp_maching_profile_en",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "Matching Profile",
+      "source_en": "Matching Profile",
+      "text": "Gruppenprofil"
+    },
+    {
+      "key": "popp_maching_profile_jp",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "マッチングプロフィール",
+      "source_en": " ",
+      "text": "Gruppenprofil"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

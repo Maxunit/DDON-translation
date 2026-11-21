@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\PlatformWord_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "PlatformWord_Controller",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "コントローラー",
+      "source_en": "Controller",
+      "text": "Controller"
+    },
+    {
+      "key": "PlatformWord_PlatformName",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "PC",
+      "source_en": "PC",
+      "text": "PC"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

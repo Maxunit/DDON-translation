@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\character_edit.gmd",
+  "arc_path": "\\ui\\uGUICharacterEdit.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_EX",
+      "read_index": "133",
+      "tag_source": "source_en",
+      "source_jp": "EX",
+      "source_en": "EX",
+      "text": "EX"
+    },
+    {
+      "key": "EDIT_MSG_TITLE_BBI_PL_EDIT",
+      "read_index": "135",
+      "tag_source": "source_en",
+      "source_jp": "Bitterblack Maze Player Edit",
+      "source_en": "Bitterblack Maze Player Edit",
+      "text": "Charakter im Finstergram-Labyrinth bearbeiten"
+    },
+    {
+      "key": "EDIT_MSG_TITLE_BEAUTYSALON",
+      "read_index": "131",
+      "tag_source": "source_en",
+      "source_jp": "Beauty Salon",
+      "source_en": "Beauty Salon",
+      "text": "Schönheitssalon"
+    },
+    {
+      "key": "EDIT_MSG_TITLE_PAWNREEDIT",
+      "read_index": "134",
+      "tag_source": "source_en",
+      "source_jp": "Pawn Reincarnation",
+      "source_en": "Pawn Reincarnation",
+      "text": "Vasall wiedererschaffen"
+    },
+    {
+      "key": "EDIT_MSG_TITLE_PLAYERREEDIT",
+      "read_index": "136",
+      "tag_source": "source_en",
+      "source_jp": "Player Reincarnation",
+      "source_en": "Player Reincarnation",
+      "text": "Charakter wiedererschaffen"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_PERSONAL_NORMAL",
+      "read_index": "97",
+      "tag_source": "source_en",
+      "source_jp": "ノーマル",
+      "source_en": "Normal",
+      "text": "Standard"
+    },
+    {
+      "key": "EDIT_MSG_TYPE_PERSONAL_WILD",
+      "read_index": "103",
+      "tag_source": "source_en",
+      "source_jp": "ワイルド",
+      "source_en": "Wild",
+      "text": "Wild"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

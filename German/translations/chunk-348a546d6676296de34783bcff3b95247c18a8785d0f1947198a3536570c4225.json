@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\title_menu_win.gmd",
+  "arc_path": "\\ui\\uGUITitle.arc",
+  "entries": [
+    {
+      "key": "titile_version",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "Version：",
+      "source_en": "Version: ",
+      "text": "Version: "
+    },
+    {
+      "key": "title_alert_index",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "注意",
+      "source_en": "Attention",
+      "text": "Achtung"
+    },
+    {
+      "key": "title_copyright",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "#CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.",
+      "source_en": "#CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.",
+      "text": "#CAPCOM CO., LTD. 2015 ALLE RECHTE RESERVED."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

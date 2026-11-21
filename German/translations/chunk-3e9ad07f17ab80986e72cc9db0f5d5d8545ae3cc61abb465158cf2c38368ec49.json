@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\achievement_list.gmd",
+  "arc_path": "\\ui\\uGUIAchievement.arc",
+  "entries": [
+    {
+      "key": "ACHIEVEMENT_MSG_ACCOMPLISHMENT",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "％",
+      "source_en": "%",
+      "text": "%"
+    },
+    {
+      "key": "ACHIEVEMENT_MSG_PROGRESS",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>/<VAL>",
+      "source_en": "<VAL>/<VAL>",
+      "text": "<VAL>/<VAL>"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

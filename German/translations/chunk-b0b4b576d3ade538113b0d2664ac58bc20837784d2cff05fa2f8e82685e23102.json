@@ -1,0 +1,304 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\pop_cmd_res.gmd",
+  "arc_path": "\\ui\\uGUIPopCmd01.arc",
+  "entries": [
+    {
+      "key": "pop_cmd_blacklist_add",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "ブラックリスト追加",
+      "source_en": "Add to the Blacklist",
+      "text": "Zur Blacklist hinzufügen"
+    },
+    {
+      "key": "pop_cmd_blacklist_delete",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "ブラックリスト削除",
+      "source_en": "Delete from Blacklist",
+      "text": "Löschen von Blacklist"
+    },
+    {
+      "key": "pop_cmd_card_pl",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "覚者プロフィール",
+      "source_en": "Arisen Profile",
+      "text": "Profil erhalten"
+    },
+    {
+      "key": "pop_cmd_clan_solicitation",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "クランに勧誘する",
+      "source_en": "Invite to the Clan",
+      "text": "Einladung zum Clan"
+    },
+    {
+      "key": "pop_cmd_clan_solicitation_cancel",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "クラン勧誘取り消し",
+      "source_en": "Cancel Clan Recruitment",
+      "text": "Clan-Rekrutierung abbrechen"
+    },
+    {
+      "key": "pop_cmd_clan_solicitation_denial",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "クラン勧誘を拒否する",
+      "source_en": "Refuse Clan invitation",
+      "text": "Ablehnung der Clan-Einladung"
+    },
+    {
+      "key": "pop_cmd_clan_solicitation_receive",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "クラン勧誘を受ける",
+      "source_en": "Accept Clan invitation",
+      "text": "Akzeptiere die Einladung des Clans"
+    },
+    {
+      "key": "pop_cmd_clan_status",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "クラン詳細情報",
+      "source_en": "Clans Detailed Information",
+      "text": "Clans Detaillierte Informationen"
+    },
+    {
+      "key": "pop_cmd_close",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "閉じる",
+      "source_en": "Close",
+      "text": "Schließen"
+    },
+    {
+      "key": "pop_cmd_favorites_friend",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "お気に入りフレンド設定/解除",
+      "source_en": "Set/Unset favorite friends",
+      "text": "Set/Unset Lieblingsfreunde"
+    },
+    {
+      "key": "pop_cmd_favorites_register",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "お気に入り登録",
+      "source_en": "Add a favorite",
+      "text": "Hinzufügen eines Favoriten"
+    },
+    {
+      "key": "pop_cmd_favorites_release",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "お気に入り解除",
+      "source_en": "Remove Favorite",
+      "text": "Favorit entfernen"
+    },
+    {
+      "key": "pop_cmd_friend_release",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "フレンド解除",
+      "source_en": "Unfriending",
+      "text": "Unbefreundet"
+    },
+    {
+      "key": "pop_cmd_friend_request",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "フレンド申請",
+      "source_en": "Friend Request",
+      "text": "Freundschaftsanfrage"
+    },
+    {
+      "key": "pop_cmd_friend_request_cancel",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "フレンド申請キャンセル",
+      "source_en": "Cancel friend request",
+      "text": "Freundschaftsanfrage stornieren"
+    },
+    {
+      "key": "pop_cmd_friend_request_denial",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "フレンド申請拒否",
+      "source_en": "Friend Request Rejected",
+      "text": "Friend Request abgelehnt"
+    },
+    {
+      "key": "pop_cmd_friend_request_permit",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "フレンド申請許可",
+      "source_en": "Friend Request Accepted.",
+      "text": "Freundschaftsanfrage akzeptiert."
+    },
+    {
+      "key": "pop_cmd_group_chat_invite",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "グループチャットに誘う",
+      "source_en": "Invite to join Group Chat",
+      "text": "Laden sie ein, dem gruppenchat beizutreten."
+    },
+    {
+      "key": "pop_cmd_group_chat_kick",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "グループチャットから外す",
+      "source_en": "Removed from the group chat",
+      "text": "Aus dem Gruppen-Chat entfernt"
+    },
+    {
+      "key": "pop_cmd_join_denial",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "加入拒否",
+      "source_en": "Refusal to join",
+      "text": "Beitrittsverweigerung"
+    },
+    {
+      "key": "pop_cmd_join_permit",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "加入許可",
+      "source_en": "Permission to join",
+      "text": "Erlaubnis zum Beitritt"
+    },
+    {
+      "key": "pop_cmd_participation",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "参加する",
+      "source_en": "Join",
+      "text": "Einsteigen"
+    },
+    {
+      "key": "pop_cmd_party_kick",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "パーティーから外す",
+      "source_en": "Remove from the party",
+      "text": "Von der Partei entfernen"
+    },
+    {
+      "key": "pop_cmd_party_reader",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "パーティーリーダーに設定",
+      "source_en": "You are now party leader.",
+      "text": "Du leitest jetzt die Gruppe."
+    },
+    {
+      "key": "pop_cmd_party_request_cancel",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "要請取り消し",
+      "source_en": "Cancel request",
+      "text": "Stornierungsantrag"
+    },
+    {
+      "key": "pop_cmd_party_status",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "パーティー詳細表示",
+      "source_en": "Party List",
+      "text": "Parteienliste"
+    },
+    {
+      "key": "pop_cmd_pawn_delete",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "ポーンの削除",
+      "source_en": "Delete pawns",
+      "text": "Vasallen löschen"
+    },
+    {
+      "key": "pop_cmd_pawn_dismissal",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "ポーンの返却",
+      "source_en": "Return of pawns",
+      "text": "Rückgabe von Vasallen"
+    },
+    {
+      "key": "pop_cmd_pawn_employment",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "ポーンの雇用",
+      "source_en": "Hiring and Organizing Pawns",
+      "text": "Einstellung und Organisation von Vasallen"
+    },
+    {
+      "key": "pop_cmd_pawn_rental_history",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "レンタル履歴",
+      "source_en": "Rental History",
+      "text": "Mietgeschichte"
+    },
+    {
+      "key": "pop_cmd_pawn_visibility",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "ポーンの公開設定",
+      "source_en": "Pawn's Privacy Settings.",
+      "text": "Vasall's Privacy Settings."
+    },
+    {
+      "key": "pop_cmd_profile",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "プロフィール表示",
+      "source_en": "Display Profile",
+      "text": "Anzeigeprofil"
+    },
+    {
+      "key": "pop_cmd_refuse",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "断る",
+      "source_en": "Decline",
+      "text": "Rückgang"
+    },
+    {
+      "key": "pop_cmd_status",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ステータス表示",
+      "source_en": "Status display",
+      "text": "Statusanzeige"
+    },
+    {
+      "key": "pop_cmd_subscription_application",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "加入申請",
+      "source_en": "Joining Application",
+      "text": "Beitrittsgesuch"
+    },
+    {
+      "key": "pop_cmd_subscription_application_cancel",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "加入申請取り消し",
+      "source_en": "Cancel request",
+      "text": "Stornierungsantrag"
+    },
+    {
+      "key": "pop_cmd_talk",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "話しかける",
+      "source_en": "Talk",
+      "text": "Sprechen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

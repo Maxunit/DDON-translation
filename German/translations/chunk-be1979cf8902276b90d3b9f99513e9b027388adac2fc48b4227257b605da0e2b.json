@@ -1,0 +1,248 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\clan_kyoten.gmd",
+  "arc_path": "\\ui\\uGUIClanShop.arc",
+  "entries": [
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_ACTIVE",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "発動中",
+      "source_en": "Active",
+      "text": "Aktiv"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_APPLY",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "設定中",
+      "source_en": "Current",
+      "text": "Aktuell"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_BOUGHT",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "購入済み",
+      "source_en": "Bought",
+      "text": "Gekauft"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_BOUGHT_BUFF_NOTICE",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>を発動しました\r\n本日のポーン遠征隊の派遣に反映されます",
+      "source_en": "Activated <VAL>\r\nIt will be visible in the dispatch of today's\r\nPawn Expedition Corps.",
+      "text": "Aktiviert <VAL>\r\nEs wird im Versand des heutigen\r\nVasall Expedition Corps sichtbar sein."
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_BOUGHT_CONCIERGE_NOTICE",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "クラン執務官を<VAL>に変更しました",
+      "source_en": "Changed Clan Officer to <VAL>",
+      "text": "Der Clanoffizier wurde zu <VAL> gewechselt"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_BOUGHT_FUNC_NOTICE",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>を購入しました\r\n次回、クラン拠点へ訪れた時に反映されます",
+      "source_en": "Purchased <VAL>\r\nIt'll be visible next time you visit the Clan\r\nHall.",
+      "text": "Gekauft: <VAL>\r\nBeim nächsten Besuch im Clan-Stützpunkt\r\nist die Änderung sichtbar."
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_BOUGHT_PAWN_EXPEDITION",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ポーン遠征隊を解放しました",
+      "source_en": "Purchased Pawn Expedition Corps",
+      "text": "Vasall Expedition Corps gekauft"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_BUFF_EFFECT",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "支援効果",
+      "source_en": "Support Effect",
+      "text": "Unterstützungseffekt"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_BUY_BUFF_CONFIRM",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "以下を購入します。よろしいですか？\r\n　支援効果：<VAL>\r\n　購入価格：<VAL CP>",
+      "source_en": "Are you sure you want to purchase the following?\r\nSupport Effect: <VAL>\r\nCost: <VAL CP>",
+      "text": "Möchtest du Folgendes kaufen?\r\nUnterstützungseffekt: <VAL>\r\nKosten: <VAL CP>"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_BUY_CONCIERGE_CONFIRM",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "クラン執務官を変更します。よろしいですか？\r\n　スタッフ：<VAL>\r\n　購入価格：<VAL CP>",
+      "source_en": "Are you sure you want to change the Clan Officer?\r\nStaff: <VAL>\r\nCost: <VAL CP>",
+      "text": "Bist du sicher, dass du den Clanoffizier wechseln willst?\r\nPersonal: <VAL>\r\nKosten: <VAL CP>"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_BUY_FUNC_CONFIRM",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "以下を購入します。よろしいですか？\r\n　拡張項目：<VAL>\r\n　購入価格：<VAL CP>",
+      "source_en": "Are you sure you want to purchase the following?\r\nExtension Item: <VAL>\r\nCost: <VAL CP>",
+      "text": "Bist du sicher, dass du folgendes kaufen möchtest?\r\nErweiterungsartikel: <VAL>\r\nKosten: <VAL CP>"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_CATEGORY_BUFF",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "ポーン遠征隊支援",
+      "source_en": "Pawn Expedition Corps Support",
+      "text": "Vasall Expedition Corps Unterstützung"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_CATEGORY_EXT",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "クラン拠点拡張",
+      "source_en": "Clan Hall Extension",
+      "text": "Clan Hall Erweiterung"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_CATEGORY_PAWN_EXP",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "ポーン遠征隊拡張",
+      "source_en": "Pawn Expedition Extension",
+      "text": "Vasall Expedition Erweiterung"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_CONCIERGE",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "スタッフ",
+      "source_en": "Staff",
+      "text": "Personal"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_CONDITION",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "購入条件",
+      "source_en": "Purchase Requirements",
+      "text": "Anforderungen an den Kauf"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_DETAIL",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "Details",
+      "source_en": "Details",
+      "text": "Details"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_ERR_ALREADY_ACTIVE",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "すでに発動中の効果です",
+      "source_en": "Already activated.",
+      "text": "Bereits aktiviert."
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_ERR_ALREADY_BOUGHT",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "すでに購入済みです",
+      "source_en": "Already purchased",
+      "text": "Bereits gekauft"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_ERR_ALREADY_SET",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "すでに設定されています",
+      "source_en": "Already set.",
+      "text": "Schon gesetzt."
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_ERR_NOT_CHANGE_AUTHORITY",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "変更する権限がありません",
+      "source_en": "You do not have permission to change it.",
+      "text": "Du hast keine Erlaubnis, es zu ändern."
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_ERR_NOT_ENOUGH_CONDITION",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "購入条件が満たされていません",
+      "source_en": "Purchase requirements have not been met.",
+      "text": "Die Kaufvoraussetzungen wurden nicht erfüllt."
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_ERR_NOT_ENOUGH_CP",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "クランポイントが足りません",
+      "source_en": "Insufficient Clan Points",
+      "text": "Unzureichende Clan-Punkte"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_ERR_NO_AUTHORITY",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "クランポイントを使用する権限が与えられていません",
+      "source_en": "You are not authorized to spend Clan Points.",
+      "text": "Du bist nicht berechtigt, Clan-Punkte auszugeben."
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_ITEM",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "拡張項目",
+      "source_en": "Expansion Item",
+      "text": "Erweiterungsposten"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_NEED_ITEM",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>の解放",
+      "source_en": "Purchased <VAL>",
+      "text": "Gekauft <VAL>"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_NEED_LV",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "クラン<VAL LV>以上",
+      "source_en": "Clan <VAL LV> or more",
+      "text": "Clan <VAL LV> oder mehr"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_PRICE",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "価格",
+      "source_en": "Price",
+      "text": "Preis"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_SUB_TITLE",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "拠点拡張",
+      "source_en": "Hall Expansion",
+      "text": "Hallenerweiterung"
+    },
+    {
+      "key": "CLAN_KYOTEN_MSG_EXT_TITLE",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "Base Extention",
+      "source_en": "Hall Expansion",
+      "text": "Hallenerweiterung"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

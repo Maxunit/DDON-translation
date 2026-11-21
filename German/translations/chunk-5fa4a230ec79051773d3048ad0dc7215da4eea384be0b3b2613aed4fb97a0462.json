@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\clan_emblem_edit.gmd",
+  "arc_path": "\\ui\\uGUIEmblemEdit.arc",
+  "entries": [
+    {
+      "key": "CLAN_EME_TEXT_BASE",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ベース",
+      "source_en": "Base",
+      "text": "Grundlage"
+    },
+    {
+      "key": "CLAN_EME_TEXT_CANCEL",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "CLAN_EME_TEXT_COL_M",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ベースカラー(白地)",
+      "source_en": "Base Color (White Background)",
+      "text": "Grundfarbe (weißer Hintergrund)"
+    },
+    {
+      "key": "CLAN_EME_TEXT_COL_S",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ベースカラー(灰地)",
+      "source_en": "Base Color (Gray Background)",
+      "text": "Grundfarbe (grauer Hintergrund)"
+    },
+    {
+      "key": "CLAN_EME_TEXT_DECIDE",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "CLAN_EME_TEXT_MARK",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "マーク",
+      "source_en": "Mark",
+      "text": "Symbol"
+    },
+    {
+      "key": "CLAN_EME_TEXT_PREV",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "Preview",
+      "source_en": "Preview",
+      "text": "Vorschau"
+    },
+    {
+      "key": "CLAN_EME_TEXT_TITLE_EN",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "Emblem Edit",
+      "source_en": "Emblem Edit",
+      "text": "Emblem bearbeiten"
+    },
+    {
+      "key": "CLAN_EME_TEXT_TITLE_JP",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "エンブレム編集",
+      "source_en": " ",
+      "text": "Emblem bearbeiten"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

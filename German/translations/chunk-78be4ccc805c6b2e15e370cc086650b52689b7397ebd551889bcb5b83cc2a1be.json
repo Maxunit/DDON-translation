@@ -1,0 +1,456 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\play_style_item.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "PLAY_PURPOSE_AREA_001",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "冒険エリア＜ハイデル平原＞",
+      "source_en": "Adventure in \"Hidell Plains\"",
+      "text": "Abenteuer in \"Hidell Plains\""
+    },
+    {
+      "key": "PLAY_PURPOSE_AREA_002",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "冒険エリア＜ブリア海岸＞",
+      "source_en": "Adventure in \"Breya Coast\"",
+      "text": "Abenteuer in \"Breya Coast\""
+    },
+    {
+      "key": "PLAY_PURPOSE_AREA_003",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "冒険エリア＜ミスリウ森林＞",
+      "source_en": "Adventure in \"Mysree Forest\"",
+      "text": "Abenteuer im \"Mysree Forest\""
+    },
+    {
+      "key": "PLAY_PURPOSE_AREA_004",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "冒険エリア＜ミスリウ森林深部＞",
+      "source_en": "Adventure in \"Mysree Grove\"",
+      "text": "Abenteuer in \"Mysree Grove\""
+    },
+    {
+      "key": "PLAY_PURPOSE_AREA_005",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "冒険エリア＜ダウ渓谷＞",
+      "source_en": "Adventure in \"Dowe Valley\"",
+      "text": "Abenteuer im \"Dowe Valley\""
+    },
+    {
+      "key": "PLAY_PURPOSE_AREA_006",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "冒険エリア＜ボルド鉱山＞",
+      "source_en": "Adventure in \"Volden Mines\"",
+      "text": "Abenteuer in \"Volden Mines\""
+    },
+    {
+      "key": "PLAY_PURPOSE_AREA_007",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "冒険エリア＜バートランド平原＞",
+      "source_en": "Adventure in \"Betland Plains\"",
+      "text": "Abenteuer in \"Betland Plains\""
+    },
+    {
+      "key": "PLAY_PURPOSE_AREA_008",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "冒険エリア＜バートランド平原北部＞",
+      "source_en": "Adventure in \"Northern Betland Plains\"",
+      "text": "Abenteuer in \"Northern Betland Plains\""
+    },
+    {
+      "key": "PLAY_PURPOSE_AREA_009",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "冒険エリア＜ディナン深層林＞",
+      "source_en": "Adventure in \"Deenan Woods\"",
+      "text": "Abenteuer in \"Deenan Woods\""
+    },
+    {
+      "key": "PLAY_PURPOSE_AREA_010",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "冒険エリア＜ザンドラ東部＞",
+      "source_en": "Adventure in \"Eastern Zandora\"",
+      "text": "Abenteuer in \"Eastern Zandora\""
+    },
+    {
+      "key": "PLAY_PURPOSE_AREA_011",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "冒険エリア＜ザンドラ禁域＞",
+      "source_en": "Adventure in \"Zandora Wastelands\"",
+      "text": "Abenteuer in \"Zandora Wastelands\""
+    },
+    {
+      "key": "PLAY_PURPOSE_AREA_012",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "冒険エリア＜亡都メルゴダ＞",
+      "source_en": "Adventure in \"Mergoda Ruins\"",
+      "text": "Abenteuer in \"Mergoda Ruinen\""
+    },
+    {
+      "key": "PLAY_PURPOSE_MAIN_001",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "とくになし",
+      "source_en": "Any",
+      "text": "alle"
+    },
+    {
+      "key": "PLAY_PURPOSE_MAIN_002",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "レベルあげ",
+      "source_en": "Level up",
+      "text": "Stufenaufstieg"
+    },
+    {
+      "key": "PLAY_PURPOSE_MAIN_003",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "お金を稼ぐ",
+      "source_en": "Make money",
+      "text": "Geld verdienen"
+    },
+    {
+      "key": "PLAY_PURPOSE_MAIN_004",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "素材集め",
+      "source_en": "Gather materials",
+      "text": "Sammelmaterialien"
+    },
+    {
+      "key": "PLAY_PURPOSE_MAIN_005",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "オーブエネミーを倒す",
+      "source_en": "Defeat Blood Orb enemies",
+      "text": "Besiege Blood Orb Feinde"
+    },
+    {
+      "key": "PLAY_PURPOSE_MAIN_006",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "イベントで遊ぶ",
+      "source_en": "Play events",
+      "text": "Spieleventure"
+    },
+    {
+      "key": "PLAY_PURPOSE_MAIN_007",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "大目的予備",
+      "source_en": "general purpose reserve",
+      "text": "Zweckgebundene Reserve"
+    },
+    {
+      "key": "PLAY_PURPOSE_MAIN_008",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "大目的予備",
+      "source_en": "general purpose reserve",
+      "text": "Zweckgebundene Reserve"
+    },
+    {
+      "key": "PLAY_PURPOSE_MAIN_009",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "大目的予備",
+      "source_en": "general purpose reserve",
+      "text": "Zweckgebundene Reserve"
+    },
+    {
+      "key": "PLAY_PURPOSE_MAIN_010",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "大目的予備",
+      "source_en": "general purpose reserve",
+      "text": "Zweckgebundene Reserve"
+    },
+    {
+      "key": "PLAY_PURPOSE_MAIN_011",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "大目的予備",
+      "source_en": "general purpose reserve",
+      "text": "Zweckgebundene Reserve"
+    },
+    {
+      "key": "PLAY_STYLE_001",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "指定なし",
+      "source_en": "Any",
+      "text": "alle"
+    },
+    {
+      "key": "PLAY_STYLE_002",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "まったりあそぼう",
+      "source_en": "Laid-back play",
+      "text": "Zurückgelegtes Spiel"
+    },
+    {
+      "key": "PLAY_STYLE_003",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "戦闘大好き",
+      "source_en": "Love combat",
+      "text": "Liebeskampf"
+    },
+    {
+      "key": "PLAY_STYLE_004",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "お金大好き",
+      "source_en": "Love money",
+      "text": "Liebesgeld"
+    },
+    {
+      "key": "PLAY_STYLE_005",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "クエスト攻略大好き",
+      "source_en": "Love completing quests",
+      "text": "Liebe das Abschließen von Quests"
+    },
+    {
+      "key": "PLAY_STYLE_006",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "ミッション攻略大好き",
+      "source_en": "Love completing missions",
+      "text": "Liebe, Missionen zu erfüllen"
+    },
+    {
+      "key": "PLAY_STYLE_007",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "限定イベント大好き",
+      "source_en": "Love limited events",
+      "text": "Liebe begrenzte Ereignisse"
+    },
+    {
+      "key": "PLAY_STYLE_008",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "シナリオ大好き",
+      "source_en": "Love scenarios",
+      "text": "Liebesszenarien"
+    },
+    {
+      "key": "PLAY_STYLE_009",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "クラフト大好き",
+      "source_en": "Love crafting",
+      "text": "Love Crafting"
+    },
+    {
+      "key": "PLAY_STYLE_010",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "ランキング大好き",
+      "source_en": "Love ranking",
+      "text": "Love Ranking"
+    },
+    {
+      "key": "PLAY_STYLE_011",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "アタッカーでプレイしています！",
+      "source_en": "Have to play attacker!",
+      "text": "Müssen Angreifer spielen!"
+    },
+    {
+      "key": "PLAY_STYLE_012",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "タンクでプレイしています！",
+      "source_en": "Have to play tank!",
+      "text": "Muss Tank spielen!"
+    },
+    {
+      "key": "PLAY_STYLE_013",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "ヒーラーでプレイしています！",
+      "source_en": "Have to play healer!",
+      "text": "Müssen Heiler spielen!"
+    },
+    {
+      "key": "PLAY_STYLE_014",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "複数のジョブでプレイしています！",
+      "source_en": "Have to play multiple jobs!",
+      "text": "Müssen mehrere Jobs spielen!"
+    },
+    {
+      "key": "PLAY_STYLE_015",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "ポーンを混ぜてパーティーを組もう",
+      "source_en": "Enjoy Player/Pawn mixed party",
+      "text": "Genieße Player/Vasall Mixed Gruppe"
+    },
+    {
+      "key": "PLAY_STYLE_016",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "朝方中心プレイ",
+      "source_en": "Play in the morning",
+      "text": "Spiele morgens"
+    },
+    {
+      "key": "PLAY_STYLE_017",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "昼型中心プレイ",
+      "source_en": "Play in the noon",
+      "text": "Spielen am Mittag"
+    },
+    {
+      "key": "PLAY_STYLE_018",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "夜型中心プレイ",
+      "source_en": "Play in the evening",
+      "text": "Spielen am Abend"
+    },
+    {
+      "key": "PLAY_STYLE_019",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "いつでもプレイ",
+      "source_en": "Play at any time",
+      "text": "jederzeit spielen"
+    },
+    {
+      "key": "PLAY_STYLE_020",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "平日中心プレイ",
+      "source_en": "Play on weekdays",
+      "text": "Spiel an Wochentagen"
+    },
+    {
+      "key": "PLAY_STYLE_021",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "週末中心プレイ",
+      "source_en": "Play on weekends",
+      "text": "Spielen am Wochenende"
+    },
+    {
+      "key": "PLAY_STYLE_022",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "休日中心プレイ",
+      "source_en": "Play on holidays",
+      "text": "Spielen im Urlaub"
+    },
+    {
+      "key": "PLAY_STYLE_023",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "毎日プレイ",
+      "source_en": "Play every day",
+      "text": "Spielen du jedest Tag"
+    },
+    {
+      "key": "PLAY_STYLE_024",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "不定期にコツコツプレイ",
+      "source_en": "Play occasionally",
+      "text": "Gelegentlich spielen"
+    },
+    {
+      "key": "PLAY_STYLE_025",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "フレンド募集中",
+      "source_en": "Want friends",
+      "text": "Wollen Freunde"
+    },
+    {
+      "key": "PLAY_STYLE_026",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "クランに入りたい",
+      "source_en": "Want a clan",
+      "text": "Willst du einen Clan"
+    },
+    {
+      "key": "PLAY_STYLE_027",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "クランメンバー募集中",
+      "source_en": "Want clan members",
+      "text": "Wollen Clanmitglieder"
+    },
+    {
+      "key": "PLAY_STYLE_028",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "グループチャットに入りたい",
+      "source_en": "Want to join group chat",
+      "text": "Möchtest du dem Gruppenchat beitreten"
+    },
+    {
+      "key": "PLAY_STYLE_029",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "スタイル予備",
+      "source_en": "style reserve",
+      "text": "Stilreserve"
+    },
+    {
+      "key": "PLAY_STYLE_030",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "スタイル予備",
+      "source_en": "style reserve",
+      "text": "Stilreserve"
+    },
+    {
+      "key": "PLAY_STYLE_031",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "スタイル予備",
+      "source_en": "style reserve",
+      "text": "Stilreserve"
+    },
+    {
+      "key": "PLAY_STYLE_032",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "スタイル予備",
+      "source_en": "style reserve",
+      "text": "Stilreserve"
+    },
+    {
+      "key": "PLAY_STYLE_033",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "スタイル予備",
+      "source_en": "style reserve",
+      "text": "Stilreserve"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

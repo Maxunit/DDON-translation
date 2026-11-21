@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\ClanDungeonClue.gmd",
+  "arc_path": "\\ui\\uGUIClanDungeonClue.arc",
+  "entries": [
+    {
+      "key": "about_clue",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "探検の書棚について",
+      "source_en": "About the Expedition bookshelf",
+      "text": "Zum Expeditionsregal"
+    },
+    {
+      "key": "about_clue_detail",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "発見した探検家の軌跡は\r\n書棚にしまっておくように致します\r\nこの棚に古い書物が戻る度\r\n宝殿への道が拓かれることでしょう　",
+      "source_en": "We will keep track of clues discovered while on\r\nan expedition, inside of the bookshelf.\r\nWhen all of the ancient books are returned to\r\nthis shelf, the path to the treasure hoard will\r\nbe opened.",
+      "text": "Die gefundenen Spuren der Entdecker\r\nwerden in diesem Regal aufbewahrt.\r\nMit jedem alten Buch, das hierher zurückkehrt,\r\nkönnte sich ein Weg zur Schatzkammer\r\nöffnen."
+    },
+    {
+      "key": "clue_list",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "手がかり一覧",
+      "source_en": "Clue List",
+      "text": "Hinweise"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

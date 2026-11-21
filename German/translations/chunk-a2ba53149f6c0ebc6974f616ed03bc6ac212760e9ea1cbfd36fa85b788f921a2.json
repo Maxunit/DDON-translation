@@ -1,0 +1,248 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\ranking_bord.gmd",
+  "arc_path": "\\ui\\uGUIRankingBoard.arc",
+  "entries": [
+    {
+      "key": "RANKING_MSG_ALL",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "全て",
+      "source_en": "All",
+      "text": "Alle"
+    },
+    {
+      "key": "RANKING_MSG_ANNOUNCE_STARTED",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ランキング集計を開始しました。\r\n※途中経過は新聞にて告知されます。",
+      "source_en": "The ranking tally has started.\r\n*Progress will be announced in the newspaper.",
+      "text": "Die Auswertung hat begonnen.\r\nZwischenstände stehen in den Lestania-Nachrichten."
+    },
+    {
+      "key": "RANKING_MSG_BUTTON_BACK",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "通常ランキングに戻る",
+      "source_en": "Normal Rankings",
+      "text": "Zur regulären Rangliste"
+    },
+    {
+      "key": "RANKING_MSG_BUTTON_SHOW_MYSELF",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "自分の順位を表示",
+      "source_en": "Your Ranking",
+      "text": "Eigenen Rang anzeigen"
+    },
+    {
+      "key": "RANKING_MSG_CLAN",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "クラン",
+      "source_en": "Clan",
+      "text": "Clan"
+    },
+    {
+      "key": "RANKING_MSG_CLAN_JP",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "クラン",
+      "source_en": "Clan",
+      "text": "Clan"
+    },
+    {
+      "key": "RANKING_MSG_DATE_PERIOD",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "<DATE> ～ <DATE>",
+      "source_en": "<DATE> ～ <DATE>",
+      "text": "<DATE> ～ <DATE>"
+    },
+    {
+      "key": "RANKING_MSG_DIAROG_NONE",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "集計していません",
+      "source_en": "No tally",
+      "text": "Keine Auswertung"
+    },
+    {
+      "key": "RANKING_MSG_DP_NAME_ACC",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "ウォーミッション累積<UNIT PT>",
+      "source_en": "Cumulative War Mission <UNIT PT>",
+      "text": "Kriegsmission gesamt: <UNIT PT>"
+    },
+    {
+      "key": "RANKING_MSG_END",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "終了",
+      "source_en": "Close",
+      "text": "Schließen"
+    },
+    {
+      "key": "RANKING_MSG_HOLDING",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "開催中",
+      "source_en": "Running",
+      "text": "Läuft"
+    },
+    {
+      "key": "RANKING_MSG_JOINING",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "参加中",
+      "source_en": "Participating",
+      "text": "Teilnahme läuft"
+    },
+    {
+      "key": "RANKING_MSG_NAME",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "RANKING_MSG_NOCONTENTS",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "現在表示可能なコンテンツはありません。",
+      "source_en": "No content currently available for display.",
+      "text": "Derzeit keine Inhalte verfügbar."
+    },
+    {
+      "key": "RANKING_MSG_NOENTRY",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "このコンテンツには未参加です。",
+      "source_en": "This content has not been participated in.",
+      "text": "Keine Teilnahme an dieser Mission."
+    },
+    {
+      "key": "RANKING_MSG_NORANKING",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "現在表示可能なランキングはありません。",
+      "source_en": "There are currently no rankings available for\r\ndisplay.",
+      "text": "Derzeit gibt es keine Rangliste\r\nfür diese Mission."
+    },
+    {
+      "key": "RANKING_MSG_PERIOD",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "開催期間：<DATE> ～ <DATE>",
+      "source_en": "Held: <DATE> ～ <DATE>",
+      "text": "Zeitraum: <DATE> bis <DATE>"
+    },
+    {
+      "key": "RANKING_MSG_POINT",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "スコア",
+      "source_en": "Score",
+      "text": "Punkte"
+    },
+    {
+      "key": "RANKING_MSG_RANK",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "位",
+      "source_en": "Rank",
+      "text": "Rang"
+    },
+    {
+      "key": "RANKING_MSG_RANKS",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>位",
+      "source_en": "Rank <VAL>",
+      "text": "Rang <VAL>"
+    },
+    {
+      "key": "RANKING_MSG_STATE_NOPARTIN",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "開催中",
+      "source_en": "Running",
+      "text": "Läuft"
+    },
+    {
+      "key": "RANKING_MSG_STATE_PREPARATION",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "開戦準備中",
+      "source_en": "Preparing",
+      "text": "Kampfvorbereitung"
+    },
+    {
+      "key": "RANKING_MSG_STATE_RANKING",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "戦果分析中",
+      "source_en": "Veteran Analysis",
+      "text": "Ergebnisse werden ausgewertet"
+    },
+    {
+      "key": "RANKING_MSG_STATE_RECEIVING",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "報酬配分中",
+      "source_en": "Reward Claim",
+      "text": "Belohnungen werden verteilt"
+    },
+    {
+      "key": "RANKING_MSG_STATE_RECEIVING_WM",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "ランキング確定",
+      "source_en": "Fixed ranking",
+      "text": "Rangliste steht fest"
+    },
+    {
+      "key": "RANKING_MSG_TITLE2_EN",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "Ranking",
+      "source_en": "Ranking",
+      "text": "Rangliste"
+    },
+    {
+      "key": "RANKING_MSG_TITLE2_JP",
+      "read_index": "16",
+      "tag_source": "source_jp",
+      "source_jp": "ランキング",
+      "source_en": " ",
+      "text": "Rangliste"
+    },
+    {
+      "key": "RANKING_MSG_TITLE_EN",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Ranking Board",
+      "source_en": "Ranking Board",
+      "text": "Ranglistenbrett"
+    },
+    {
+      "key": "RANKING_MSG_TITLE_JP",
+      "read_index": "15",
+      "tag_source": "source_jp",
+      "source_jp": "ランキングボード",
+      "source_en": " ",
+      "text": "Ranglistenbrett"
+    },
+    {
+      "key": "RANKING_MSG_UPDATE",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "集計日：<DATE>",
+      "source_en": "Tallied: <DATE>",
+      "text": "Ausgewertet am: <DATE>"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

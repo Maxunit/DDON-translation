@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\entry_board.gmd",
+  "arc_path": "\\ui\\uGUIEntryBoard.arc",
+  "entries": [
+    {
+      "key": "entry_board_wm_rank_d",
+      "read_index": "117",
+      "tag_source": "source_en",
+      "source_jp": "Ｄランク ： <VAL DP>",
+      "source_en": "D Rank: <VAL DP>",
+      "text": "D Rang: <VAL DP>"
+    },
+    {
+      "key": "entry_board_wm_rank_info",
+      "read_index": "112",
+      "tag_source": "source_en",
+      "source_jp": "ランク詳細（指定<UNIT DP>以上）",
+      "source_en": "Rank Details (Specified <UNIT DP> or more)",
+      "text": "Rangangaben (Angaben mindestens <UNIT DP>)"
+    },
+    {
+      "key": "entry_board_wm_rank_s",
+      "read_index": "113",
+      "tag_source": "source_en",
+      "source_jp": "Ｓランク ： <VAL DP>",
+      "source_en": "S Rank: <VAL DP>",
+      "text": "S Rang: <VAL DP>"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

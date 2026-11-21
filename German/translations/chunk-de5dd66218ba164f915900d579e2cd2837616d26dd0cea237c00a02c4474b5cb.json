@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\BrowserBG_res.gmd",
+  "arc_path": "\\ui\\uGUIBrowserBG.arc",
+  "entries": [
+    {
+      "key": "NFB_MSG_ADVANCE",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "進む",
+      "source_en": "Forward",
+      "text": "Vor"
+    },
+    {
+      "key": "NFB_MSG_BACK",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "操作を戻す",
+      "source_en": "Return",
+      "text": "Zurück"
+    },
+    {
+      "key": "NFB_MSG_RELOAD",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "更新",
+      "source_en": "Update",
+      "text": "Aktualisieren"
+    },
+    {
+      "key": "NFB_MSG_RETURN",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "戻る",
+      "source_en": "Return",
+      "text": "Zurück"
+    },
+    {
+      "key": "NFB_MSG_TITLE_E",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Web Browser",
+      "source_en": "Web Browser",
+      "text": "Webbrowser"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

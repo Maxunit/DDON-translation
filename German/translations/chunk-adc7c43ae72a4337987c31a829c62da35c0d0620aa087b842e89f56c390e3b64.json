@@ -1,0 +1,200 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\simple_text.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "simple_text_9115",
+      "read_index": "156",
+      "tag_source": "source_en",
+      "source_jp": "やりましょう！",
+      "source_en": "Let's do it!",
+      "text": "Lasst es uns tun!"
+    },
+    {
+      "key": "simple_text_9116",
+      "read_index": "157",
+      "tag_source": "source_en",
+      "source_jp": "いきましょう！",
+      "source_en": "Let's go!",
+      "text": "Lasst uns gehen!"
+    },
+    {
+      "key": "simple_text_9117",
+      "read_index": "158",
+      "tag_source": "source_en",
+      "source_jp": "楽しかった！",
+      "source_en": "That was fun!",
+      "text": "Das hat Spaß gemacht!"
+    },
+    {
+      "key": "simple_text_9118",
+      "read_index": "159",
+      "tag_source": "source_en",
+      "source_jp": "すごい！",
+      "source_en": "Amazing!",
+      "text": "Erstaunlich!"
+    },
+    {
+      "key": "simple_text_9119",
+      "read_index": "160",
+      "tag_source": "source_en",
+      "source_jp": "すばらしい！",
+      "source_en": "Wonderful!",
+      "text": "Wunderbar!"
+    },
+    {
+      "key": "simple_text_9120",
+      "read_index": "161",
+      "tag_source": "source_en",
+      "source_jp": "グッジョブ！",
+      "source_en": "Good job!",
+      "text": "Gute Arbeit!"
+    },
+    {
+      "key": "simple_text_9121",
+      "read_index": "162",
+      "tag_source": "source_en",
+      "source_jp": "さすが！",
+      "source_en": "As expected!",
+      "text": "Wie erwartet!"
+    },
+    {
+      "key": "simple_text_9122",
+      "read_index": "163",
+      "tag_source": "source_en",
+      "source_jp": "ナイスです！",
+      "source_en": "Nice!",
+      "text": " Nizza!"
+    },
+    {
+      "key": "simple_text_9123",
+      "read_index": "164",
+      "tag_source": "source_en",
+      "source_jp": "気にしないで！",
+      "source_en": "Don't worry about it!",
+      "text": "Mach dir keine Sorgen darüber!"
+    },
+    {
+      "key": "simple_text_9124",
+      "read_index": "165",
+      "tag_source": "source_en",
+      "source_jp": "お気になさらず",
+      "source_en": "No problem at all",
+      "text": "Kein Problem überhaupt"
+    },
+    {
+      "key": "simple_text_9125",
+      "read_index": "166",
+      "tag_source": "source_en",
+      "source_jp": "それではまた！",
+      "source_en": "Well, see you!",
+      "text": "Nun, wir sehen uns!"
+    },
+    {
+      "key": "simple_text_9126",
+      "read_index": "167",
+      "tag_source": "source_en",
+      "source_jp": "次こそは！",
+      "source_en": "Next time!",
+      "text": "Nächstes Mal!"
+    },
+    {
+      "key": "simple_text_9127",
+      "read_index": "168",
+      "tag_source": "source_en",
+      "source_jp": "ザコは無視しますか？",
+      "source_en": "Ignore the weaklings?",
+      "text": "Ignoriere die Schwächlinge?"
+    },
+    {
+      "key": "simple_text_9128",
+      "read_index": "169",
+      "tag_source": "source_en",
+      "source_jp": "いいですね！",
+      "source_en": "That's excellent!",
+      "text": "Das ist ausgezeichnet!"
+    },
+    {
+      "key": "simple_text_9129",
+      "read_index": "170",
+      "tag_source": "source_en",
+      "source_jp": "了解！",
+      "source_en": "Understood!",
+      "text": "Verstanden!"
+    },
+    {
+      "key": "simple_text_9130",
+      "read_index": "171",
+      "tag_source": "source_en",
+      "source_jp": "無理です！",
+      "source_en": "That's unreasonable!",
+      "text": "Das ist unvernünftig!"
+    },
+    {
+      "key": "simple_text_9131",
+      "read_index": "172",
+      "tag_source": "source_en",
+      "source_jp": "マーカーを目指しましょう",
+      "source_en": "Let's head for the marker",
+      "text": "Lasst uns zum Marker gehen"
+    },
+    {
+      "key": "simple_text_9132",
+      "read_index": "173",
+      "tag_source": "source_en",
+      "source_jp": "帰還しましょう",
+      "source_en": "Let's return",
+      "text": "Kommen wir zurück"
+    },
+    {
+      "key": "simple_text_9133",
+      "read_index": "174",
+      "tag_source": "source_en",
+      "source_jp": "拠点に行きましょう",
+      "source_en": "Let's head towards the base",
+      "text": "Lasst uns zur Basis gehen"
+    },
+    {
+      "key": "simple_text_9134",
+      "read_index": "175",
+      "tag_source": "source_en",
+      "source_jp": "リム転移します",
+      "source_en": "Transferring at the Riftstone",
+      "text": "Transfer im Riftstein"
+    },
+    {
+      "key": "simple_text_9135",
+      "read_index": "176",
+      "tag_source": "source_en",
+      "source_jp": "装備を変えます",
+      "source_en": "Changing equipment",
+      "text": "Ändern der Ausrüstung"
+    },
+    {
+      "key": "simple_text_9136",
+      "read_index": "177",
+      "tag_source": "source_en",
+      "source_jp": "ジョブを変えます",
+      "source_en": "Switching Vocation",
+      "text": "Beruf wechseln"
+    },
+    {
+      "key": "simple_text_9137",
+      "read_index": "178",
+      "tag_source": "source_en",
+      "source_jp": "アイテムを補充します",
+      "source_en": "Replenishing items",
+      "text": "Replenishing-Artikel"
+    },
+    {
+      "key": "simple_text_9138",
+      "read_index": "179",
+      "tag_source": "source_en",
+      "source_jp": "アイテムを取ります！",
+      "source_en": "Grabbing items!",
+      "text": "Wrabbing-Artikel!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

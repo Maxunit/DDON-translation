@@ -1,0 +1,160 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\character_edit_dialog_win.gmd",
+  "arc_path": "\\ui\\uGUISaveListComment.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_DIALOG_EDIT_CANCEL",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "エディットを終了して\r\n前の画面に戻りますか？",
+      "source_en": "Do you want to exit the editor and return to the\r\nprevious screen?",
+      "text": "Editor verlassen und zum\r\nvorherigen Bildschirm zurückkehren?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_EDIT_FIX",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "エディットを決定します\r\nこれでよろしいですか？",
+      "source_en": "Are you sure you want these edits?",
+      "text": "Diese Änderungen übernehmen?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_EDIT_RETURN_LAUNCHER",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "ゲームを終了してランチャーに戻ります\r\nよろしいですか？\r\n(エディット情報のセーブは済ませましたか？)",
+      "source_en": "Exit the game and go back to the launcher\r\nOK?\r\n(Have you saved the edit information?)",
+      "text": "Verlasse das Spiel und gehst du zurück zum Launcher\r\nOK?\r\n(Hast du die Bearbeitungsinformationen gespeichert?)"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_EDIT_RETURN_TITLE",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "タイトル画面に戻ります\r\nよろしいですか？\r\n(エディット情報のセーブは済ませましたか？)",
+      "source_en": "Return to the title screen.\r\nDo you wish to proceed?\r\n(Have you saved the edit information?)",
+      "text": "Kehre zum Titelbildschirm zurück.\r\nWillst du fortfahren?\r\n(Hast du die Bearbeitungsinformationen gespeichert?)"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_ERROR_NAME_EMPTY",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "名前が決定していません\r\n名前を使用可能の状態にしてください",
+      "source_en": "Please enter a name",
+      "text": "Bitte einen Namen eingeben."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_ERROR_NAME_USED1",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "<NAME>は\r\nすでに使用されている名前です\r\n違う名前に変更してください",
+      "source_en": "<NAME> is already in use.\r\nPlease try a different name.",
+      "text": "<NAME> ist bereits vergeben.\r\nBitte einen anderen Namen eingeben."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_ERROR_SPPARTS_NG",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "選択した声は未購入のポーンボイスです\r\nポーンボイスはオンラインショップで購入できます",
+      "source_en": "The voice you selected is an unpurchased pawn\r\nvoice\r\nPawn voices are available for purchase in the\r\nonline store",
+      "text": "Diese Vasallenstimme wurde noch\r\nnicht gekauft.\r\nVasallenstimmen sind im\r\nOnline-Shop erhältlich."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_FIRST_PUSH_DEFAULT",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "【<COL FFFFFF><KC UI_X></COL>】はデフォルトに戻す機能です\r\n（次回の操作から、この確認は表示されません）",
+      "source_en": "[<COL FFFFFF><KC UI_X></COL>] is the function to\r\nrestore the default\r\n(From the next use, this confirmation will not\r\nappear.)",
+      "text": "[<COL FFFFFF><KC UI_X></COL>] ist die Funktion zum\r\nWiederherstellen des Standard\r\n(Von der nächsten Verwendung wird diese Bestätigung nicht\r\n erscheinen.)"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_REPLY_ONLINESHOP",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "オンラインショップで購入する",
+      "source_en": "Buy from Online Shop",
+      "text": "Kaufe im Online Shop"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_2_CANCEL",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "転生をキャンセルします\r\nよろしいですか？",
+      "source_en": "Canceling reincarnation\r\nDo you wish to proceed??",
+      "text": "Reinkarnation abbrechen\r\nWillst du weitermachen?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_2_ERR_01",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "名前、もしくは性別が変更されていません\r\n容姿だけを変更する場合は、美容院をご利用ください",
+      "source_en": "Name or gender has not been changed\r\nIf you only want to change your appearance,\r\nplease use a beauty salon",
+      "text": "Name und Geschlecht wurden nicht geändert.\r\nMöchtest du nur das Aussehen ändern,\r\nbesuche den Schönheitssalon."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_2_ERR_02",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "性別が変更されていません\r\n容姿だけを変更する場合は、美容院をご利用ください",
+      "source_en": "Gender has not been changed\r\nIf you only want to change your appearance,\r\nplease use a beauty salon",
+      "text": "Das Geschlecht wurde nicht geändert\r\nWenn du nur dein Aussehen ändern willst,\r\nbitte einen Schönheitssalon benutzen"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_CANCEL",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "美容院をキャンセルします\r\nよろしいですか？",
+      "source_en": "Canceling changes\r\nDo you wish to proceed??",
+      "text": "Änderungen abbrechen\r\nWillst du weitermachen?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_CHOICE_PAY",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "支払い方法を選んでください",
+      "source_en": "Please select a payment method",
+      "text": "Wähle eine Zahlungsmethode"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_FIX",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>を使用して\r\nエディットを変更します\r\nよろしいですか？",
+      "source_en": "Use <VAL>\r\nto complete changes\r\nOK?",
+      "text": "Verwende <VAL>\r\n, um Änderungen abzuschließen\r\nOK?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_NOTGP",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>が足りません",
+      "source_en": "<VAL>GP is not enough",
+      "text": "<VAL>GP ist nicht genug"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_TUTORIAL_PRESET",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "《デザイナープリセットとは》\r\n予め用意されたサンプルモデルです\r\nエディットが苦手な方にオススメです\r\nより高度なエディットをしたい方は\r\n顔の輪郭や目、眉などで詳細な設定ができます",
+      "source_en": "[What is a Designer Preset]?\r\nA sample model prepared in advance\r\nRecommended for those who are not good at editing\r\nFor those who want to do more advanced editing\r\nYou can make detailed settings with facial\r\ncontours, eyes, eyebrows, etc.",
+      "text": "[Was sind Vorlagen?]\r\nVorlagen sind vorgefertigte Charaktermodelle.\r\nSie erleichtern den Einstieg.\r\nWer mehr anpassen möchte, kann danach\r\nGesichtsform, Augen, Augenbrauen\r\nund weitere Details einstellen."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_TUTORIAL_RANDOM",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "《ワンポイントアドバイス》\r\nランダムを選ぶと、髪の毛や目、眉などの\r\n各種パーツをランダム設定します\r\n元に戻る/やり直すの履歴機能を使ったり\r\nこまめにセーブ/ロードをおこなって\r\n理想のキャラクターモデルに近づけていきましょう",
+      "source_en": "[Tip]\r\nIf you select \"Random\", you can set various parts\r\nsuch as hair, eyes, eyebrows, etc.\r\nUse the undo/redo history function or save/load\r\nfrequently\r\nto get closer to your ideal character model",
+      "text": "[Tipp]\r\nMit „Zufällig“ kannst du Details wie Haare,\r\nAugen und Augenbrauen variieren.\r\nNutze Rückgängig und Wiederholen oder\r\nspeichere und lade Zwischenstände,\r\nbis dir dein Charakter gefällt."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_TUTORIAL_SEX",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "《便利な機能を紹介》\r\n【<COL FFFFFF><KC UI_START></COL>】\r\nエディット情報のセーブ/ロードがおこなえます\r\n【<COL FFFFFF><KC UI_LB></COL> / <COL FFFFFF><KC UI_RB></COL>】\r\n一つ前の設定に戻したり、やり直したりできます\r\n（性別を変更すると履歴はリセットされます）\r\nその他の機能は、画面下のガイドをご覧ください",
+      "source_en": "[Introducing useful functions]\r\n[<COL FFFFFF><KC UI_START></COL>]\r\nSave and load edit information\r\n[<COL FFFFFF><KC UI_LB></COL> / <COL FFFFFF><KC UI_RB></COL>]\r\nRevert to previous settings and start over\r\n(history will be reset if you change gender)\r\nSee the guide at the bottom of the screen for\r\nadditional features.",
+      "text": "[Praktische Funktionen]\r\n[<COL FFFFFF><KC UI_START></COL>]\r\nBearbeitungsstand speichern und laden\r\n[<COL FFFFFF><KC UI_LB></COL> / <COL FFFFFF><KC UI_RB></COL>]\r\nÄnderungen rückgängig machen und erneut anwenden\r\n(Ein Geschlechtswechsel setzt den Verlauf zurück.)\r\nWeitere Funktionen findest du in der\r\nTastenleiste am unteren Bildschirmrand."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

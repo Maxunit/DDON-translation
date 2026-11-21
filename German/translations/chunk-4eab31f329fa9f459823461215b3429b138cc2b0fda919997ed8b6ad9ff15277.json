@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\ArisenCard_pop.gmd",
+  "arc_path": "\\ui\\uGUIArisenCardPop.arc",
+  "entries": [
+    {
+      "key": "arisenpop_category01",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "Category",
+      "source_en": "Category",
+      "text": "Kategorie"
+    },
+    {
+      "key": "arisenpop_category02",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "Category",
+      "source_en": "Category",
+      "text": "Kategorie"
+    },
+    {
+      "key": "arisenpop_pose",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "Emotion",
+      "source_en": "Emotion",
+      "text": "Emote"
+    },
+    {
+      "key": "arisenpop_title",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "Title",
+      "source_en": "Title",
+      "text": "Titel"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

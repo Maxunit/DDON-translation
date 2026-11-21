@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "643",
+      "tag_source": "source_en",
+      "source_jp": "魔女のグリモア",
+      "source_en": "Witch's Grimoire",
+      "text": "Hexenzauberbuch"
+    },
+    {
+      "key": "",
+      "read_index": "644",
+      "tag_source": "source_en",
+      "source_jp": "巨人の毛髪",
+      "source_en": "Giant Fur",
+      "text": "Riesenhaar"
+    },
+    {
+      "key": "",
+      "read_index": "645",
+      "tag_source": "source_en",
+      "source_jp": "スフィンクスの髪",
+      "source_en": "Sphinx Hair",
+      "text": "Sphinxhaar"
+    },
+    {
+      "key": "",
+      "read_index": "647",
+      "tag_source": "source_en",
+      "source_jp": "虫の透明羽",
+      "source_en": "Clear Insect Wing",
+      "text": "Durchsichtiger Insektenflügel"
+    },
+    {
+      "key": "",
+      "read_index": "648",
+      "tag_source": "source_en",
+      "source_jp": "ハーピーの羽根",
+      "source_en": "Harpy Pinion",
+      "text": "Harpienfeder"
+    },
+    {
+      "key": "",
+      "read_index": "649",
+      "tag_source": "source_en",
+      "source_jp": "グリフィンの羽根",
+      "source_en": "Griffin Feather",
+      "text": "Greifenfeder"
+    },
+    {
+      "key": "",
+      "read_index": "650",
+      "tag_source": "source_en",
+      "source_jp": "スフィンクスの瑠璃羽根",
+      "source_en": "Sphinx Azure Pinion",
+      "text": "Blaue Sphinxfeder"
+    },
+    {
+      "key": "",
+      "read_index": "651",
+      "tag_source": "source_en",
+      "source_jp": "コカトリスの鳥羽根",
+      "source_en": "Black Cockatrice Feather",
+      "text": "Kokatrixfeder"
+    },
+    {
+      "key": "",
+      "read_index": "652",
+      "tag_source": "source_en",
+      "source_jp": "濡れ黒羽根",
+      "source_en": "Glossy Black Feather",
+      "text": "Glänzende schwarze Feder"
+    },
+    {
+      "key": "",
+      "read_index": "653",
+      "tag_source": "source_en",
+      "source_jp": "魔鳥の羽根",
+      "source_en": "Demonic Fowl Feather",
+      "text": "Dämonenvogelfeder"
+    },
+    {
+      "key": "",
+      "read_index": "654",
+      "tag_source": "source_en",
+      "source_jp": "リンドブルムフィン",
+      "source_en": "Lindwurm Fin",
+      "text": "Lindwurmflosse"
+    },
+    {
+      "key": "",
+      "read_index": "655",
+      "tag_source": "source_en",
+      "source_jp": "異質な金羽根",
+      "source_en": "Transmuted Gold Feather",
+      "text": "Veränderte Goldfeder"
+    },
+    {
+      "key": "",
+      "read_index": "656",
+      "tag_source": "source_en",
+      "source_jp": "煌めく黄金羽根",
+      "source_en": "Bright Gold Feather",
+      "text": "Schimmernde Goldfeder"
+    },
+    {
+      "key": "",
+      "read_index": "658",
+      "tag_source": "source_en",
+      "source_jp": "澄んだ清水",
+      "source_en": "Clear Spring Water",
+      "text": "Klares Quellwasser"
+    },
+    {
+      "key": "",
+      "read_index": "659",
+      "tag_source": "source_en",
+      "source_jp": "淀み水",
+      "source_en": "Stagnant Water",
+      "text": "Fauliges Wasser"
+    },
+    {
+      "key": "",
+      "read_index": "660",
+      "tag_source": "source_en",
+      "source_jp": "赤い酒元液",
+      "source_en": "Red Liquor",
+      "text": "Roter Gäransatz"
+    },
+    {
+      "key": "",
+      "read_index": "661",
+      "tag_source": "source_en",
+      "source_jp": "白い酒元液",
+      "source_en": "White Liquor",
+      "text": "Weißer Gäransatz"
+    },
+    {
+      "key": "",
+      "read_index": "662",
+      "tag_source": "source_en",
+      "source_jp": "癒しの雫",
+      "source_en": "Healing Drop",
+      "text": "Heiltropfen"
+    },
+    {
+      "key": "",
+      "read_index": "663",
+      "tag_source": "source_en",
+      "source_jp": "エナジーリキッド",
+      "source_en": "Energy Liquid",
+      "text": "Energieflüssigkeit"
+    },
+    {
+      "key": "",
+      "read_index": "664",
+      "tag_source": "source_en",
+      "source_jp": "祝福の雫",
+      "source_en": "Blessed Drop",
+      "text": "Segenstropfen"
+    },
+    {
+      "key": "",
+      "read_index": "665",
+      "tag_source": "source_en",
+      "source_jp": "魔の水薬",
+      "source_en": "Magickal Potion",
+      "text": "Zaubertrank"
+    },
+    {
+      "key": "",
+      "read_index": "666",
+      "tag_source": "source_en",
+      "source_jp": "万物融解液",
+      "source_en": "Alkahest",
+      "text": "Alkahest"
+    },
+    {
+      "key": "",
+      "read_index": "667",
+      "tag_source": "source_en",
+      "source_jp": "スライムリキッド",
+      "source_en": "Slime Liquid",
+      "text": "Schleimflüssigkeit"
+    },
+    {
+      "key": "",
+      "read_index": "669",
+      "tag_source": "source_en",
+      "source_jp": "強酸性スライム片",
+      "source_en": "Strong Acid Slime Piece",
+      "text": "Stark säurehaltiges Schleimstück"
+    },
+    {
+      "key": "",
+      "read_index": "670",
+      "tag_source": "source_en",
+      "source_jp": "亡者エキス",
+      "source_en": "Undead Extract",
+      "text": "Untotenextrakt"
+    },
+    {
+      "key": "",
+      "read_index": "671",
+      "tag_source": "source_en",
+      "source_jp": "鬼どぶろく",
+      "source_en": "Unrefined Demon Wine",
+      "text": "Ungefilterter Ogerwein"
+    },
+    {
+      "key": "",
+      "read_index": "672",
+      "tag_source": "source_en",
+      "source_jp": "強着粘液",
+      "source_en": "Strong Viscous Liquid",
+      "text": "Stark haftender Schleim"
+    },
+    {
+      "key": "",
+      "read_index": "673",
+      "tag_source": "source_en",
+      "source_jp": "ブラックタール",
+      "source_en": "Black Tar",
+      "text": "Schwarzer Teer"
+    },
+    {
+      "key": "",
+      "read_index": "674",
+      "tag_source": "source_en",
+      "source_jp": "コカトリスの羊水",
+      "source_en": "Cockatrice Liquor",
+      "text": "Kokatrix-Fruchtwasser"
+    },
+    {
+      "key": "",
+      "read_index": "676",
+      "tag_source": "source_en",
+      "source_jp": "磨き砂",
+      "source_en": "Polishing Sand",
+      "text": "Poliersand"
+    },
+    {
+      "key": "",
+      "read_index": "677",
+      "tag_source": "source_en",
+      "source_jp": "絹砂",
+      "source_en": "Silken Sand",
+      "text": "Seidensand"
+    },
+    {
+      "key": "",
+      "read_index": "678",
+      "tag_source": "source_en",
+      "source_jp": "森の黒土",
+      "source_en": "Forest Chernozem",
+      "text": "Schwarze Walderde"
+    },
+    {
+      "key": "",
+      "read_index": "679",
+      "tag_source": "source_en",
+      "source_jp": "赤鉄砂",
+      "source_en": "Hematite Sand",
+      "text": "Hämatitsand"
+    },
+    {
+      "key": "",
+      "read_index": "680",
+      "tag_source": "source_en",
+      "source_jp": "青砂金",
+      "source_en": "Blue Alluvial Gold",
+      "text": "Blaues Seifengold"
+    },
+    {
+      "key": "",
+      "read_index": "681",
+      "tag_source": "source_en",
+      "source_jp": "魔泥砂",
+      "source_en": "Magick Silt",
+      "text": "Magieschlick"
+    },
+    {
+      "key": "",
+      "read_index": "682",
+      "tag_source": "source_en",
+      "source_jp": "骨片砂",
+      "source_en": "Bone Meal",
+      "text": "Knochenmehl"
+    },
+    {
+      "key": "",
+      "read_index": "683",
+      "tag_source": "source_en",
+      "source_jp": "白輝砂",
+      "source_en": "White Shining Sand",
+      "text": "Weißschimmersand"
+    },
+    {
+      "key": "",
+      "read_index": "684",
+      "tag_source": "source_en",
+      "source_jp": "サンドクリスタル",
+      "source_en": "Sandcrystal",
+      "text": "Sandkristall"
+    },
+    {
+      "key": "",
+      "read_index": "685",
+      "tag_source": "source_en",
+      "source_jp": "鉄鉱石の欠片",
+      "source_en": "Iron Ore Fragment",
+      "text": "Eisenerzsplitter"
+    },
+    {
+      "key": "",
+      "read_index": "686",
+      "tag_source": "source_en",
+      "source_jp": "銅鉱石",
+      "source_en": "Copper Ore",
+      "text": "Kupfererz"
+    },
+    {
+      "key": "",
+      "read_index": "687",
+      "tag_source": "source_en",
+      "source_jp": "鉄鉱石",
+      "source_en": "Iron Ore",
+      "text": "Eisenerz"
+    },
+    {
+      "key": "",
+      "read_index": "688",
+      "tag_source": "source_en",
+      "source_jp": "マーブルストーン",
+      "source_en": "Marble",
+      "text": "Marmor"
+    },
+    {
+      "key": "",
+      "read_index": "689",
+      "tag_source": "source_en",
+      "source_jp": "銀鉱石",
+      "source_en": "Silver Ore",
+      "text": "Silbererz"
+    },
+    {
+      "key": "",
+      "read_index": "691",
+      "tag_source": "source_en",
+      "source_jp": "金鉱石",
+      "source_en": "Gold Ore",
+      "text": "Golderz"
+    },
+    {
+      "key": "",
+      "read_index": "692",
+      "tag_source": "source_en",
+      "source_jp": "黒鉱石",
+      "source_en": "Black Ore",
+      "text": "Schwarzerz"
+    },
+    {
+      "key": "",
+      "read_index": "693",
+      "tag_source": "source_en",
+      "source_jp": "赤鋼石",
+      "source_en": "Hematite",
+      "text": "Hämatit"
+    },
+    {
+      "key": "",
+      "read_index": "694",
+      "tag_source": "source_en",
+      "source_jp": "ミスリル鉱",
+      "source_en": "Mithril Ore",
+      "text": "Mithrilerz"
+    },
+    {
+      "key": "",
+      "read_index": "695",
+      "tag_source": "source_en",
+      "source_jp": "錬成鉱石",
+      "source_en": "Drilled Ore",
+      "text": "Veredeltes Erz"
+    },
+    {
+      "key": "",
+      "read_index": "696",
+      "tag_source": "source_en",
+      "source_jp": "ウロコ岩",
+      "source_en": "Rock Scale",
+      "text": "Schuppenfels"
+    },
+    {
+      "key": "",
+      "read_index": "697",
+      "tag_source": "source_en",
+      "source_jp": "魔物の胆石",
+      "source_en": "Monster Gallstone",
+      "text": "Monstergallenstein"
+    },
+    {
+      "key": "",
+      "read_index": "698",
+      "tag_source": "source_en",
+      "source_jp": "ゴーレム魔岩",
+      "source_en": "Golem Magickal Rock",
+      "text": "Golem-Magiegestein"
+    },
+    {
+      "key": "",
+      "read_index": "699",
+      "tag_source": "source_en",
+      "source_jp": "魔鉱メダル",
+      "source_en": "Magick Medal",
+      "text": "Magieerzmedaille"
+    },
+    {
+      "key": "",
+      "read_index": "700",
+      "tag_source": "source_en",
+      "source_jp": "幽幻石",
+      "source_en": "Phantom Ore",
+      "text": "Phantomerz"
+    },
+    {
+      "key": "",
+      "read_index": "701",
+      "tag_source": "source_en",
+      "source_jp": "灼溶岩",
+      "source_en": "Lava Rock",
+      "text": "Glühendes Lavagestein"
+    },
+    {
+      "key": "",
+      "read_index": "702",
+      "tag_source": "source_en",
+      "source_jp": "高純度魔鉱メダル",
+      "source_en": "High Quality Magick Medal",
+      "text": "Reine Magieerzmedaille"
+    },
+    {
+      "key": "",
+      "read_index": "703",
+      "tag_source": "source_en",
+      "source_jp": "アルケマイト",
+      "source_en": "Alchemite",
+      "text": "Alchemit"
+    },
+    {
+      "key": "",
+      "read_index": "704",
+      "tag_source": "source_en",
+      "source_jp": "鈍鉄のインゴット",
+      "source_en": "Dull Iron Ingot",
+      "text": "Matteisenbarren"
+    },
+    {
+      "key": "",
+      "read_index": "705",
+      "tag_source": "source_en",
+      "source_jp": "銅のインゴット",
+      "source_en": "Copper Ingot",
+      "text": "Kupferbarren"
+    },
+    {
+      "key": "",
+      "read_index": "706",
+      "tag_source": "source_en",
+      "source_jp": "鉄のインゴット",
+      "source_en": "Iron Ingot",
+      "text": "Eisenbarren"
+    },
+    {
+      "key": "",
+      "read_index": "707",
+      "tag_source": "source_en",
+      "source_jp": "銀のインゴット",
+      "source_en": "Silver Ingot",
+      "text": "Silberbarren"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

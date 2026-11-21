@@ -1,0 +1,328 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\DailyMission.gmd",
+  "arc_path": "\\ui\\uGUIDailyMission.arc",
+  "entries": [
+    {
+      "key": "daily_mission_get_reward_bag",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "アイテムバッグに受け取る",
+      "source_en": "Receive in item bag",
+      "text": "In der Tasche entgegennehmen"
+    },
+    {
+      "key": "daily_mission_get_reward_btn",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "報酬を受け取る",
+      "source_en": "Receive Rewards",
+      "text": "Belohnungen abholen"
+    },
+    {
+      "key": "daily_mission_get_reward_error_non",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "受取可能なアイテムがありません",
+      "source_en": "There are no items available.",
+      "text": "Keine Gegenstände zum Abholen."
+    },
+    {
+      "key": "daily_mission_get_reward_post",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "ポストに受け取る",
+      "source_en": "Receive in Post",
+      "text": "An die Gegenstandspost senden"
+    },
+    {
+      "key": "daily_mission_get_reward_storage",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "保管ボックスに受け取る",
+      "source_en": "Send to storage",
+      "text": "Ins Lager"
+    },
+    {
+      "key": "daily_mission_get_reward_success",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "アイテムを受け取りました",
+      "source_en": "You received an item",
+      "text": "Gegenstand erhalten."
+    },
+    {
+      "key": "daily_mission_get_reward_time_event",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "期間イベントの報酬はメールで配信されます",
+      "source_en": "Rewards for the Time Event will be delivered by\r\nMail.",
+      "text": "Belohnungen für zeitlich begrenzte Events\r\nwerden per Post verschickt."
+    },
+    {
+      "key": "daily_mission_get_reward_title",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "報酬アイテムをすべて受け取ります\r\n受取先を選択してください",
+      "source_en": "Please select a destination to receive all reward\r\nitems.",
+      "text": "Wohin sollen alle Belohnungsgegenstände\r\ngesendet werden?"
+    },
+    {
+      "key": "daily_mission_get_reward_wallet_title",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "報酬をすべて受け取りますか？",
+      "source_en": "Do you want to receive all rewards?",
+      "text": "Alle Belohnungen abholen?"
+    },
+    {
+      "key": "daily_mission_limit_finish",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "終了",
+      "source_en": "Close",
+      "text": "Schließen"
+    },
+    {
+      "key": "daily_mission_limit_until_end",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "終了まで",
+      "source_en": "Ends in",
+      "text": "Endet in"
+    },
+    {
+      "key": "daily_mission_limit_until_start",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "開始まで",
+      "source_en": "Starts in",
+      "text": "Beginnt in"
+    },
+    {
+      "key": "daily_mission_list_limit_title",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "期限：",
+      "source_en": "Time Limit:",
+      "text": "Frist:"
+    },
+    {
+      "key": "daily_mission_list_progress_ng",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "%d/%d 未達成",
+      "source_en": "%d/%d ☒",
+      "text": "%d/%d nicht abgeschlossen"
+    },
+    {
+      "key": "daily_mission_list_progress_ok",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>%d/%d 達成</COL>",
+      "source_en": "<COL ffdc78>%d/%d ☑</COL>",
+      "text": "<COL ffdc78>%d/%d abgeschlossen</COL>"
+    },
+    {
+      "key": "daily_mission_list_progress_title",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "進捗：",
+      "source_en": "Progress:",
+      "text": "Fortschritt:"
+    },
+    {
+      "key": "daily_mission_list_reward_get",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "受取済",
+      "source_en": "Received",
+      "text": "Abgeholt"
+    },
+    {
+      "key": "daily_mission_list_reward_get_enable",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>受取可能</COL>",
+      "source_en": "<COL ffdc78>Receivable</COL>",
+      "text": "<COL ffdc78>Abholbereit</COL>"
+    },
+    {
+      "key": "daily_mission_list_reward_send",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "メール配信済",
+      "source_en": "Mail has been sent.",
+      "text": "Per Post verschickt"
+    },
+    {
+      "key": "daily_mission_list_reward_still",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "ー",
+      "source_en": "ー",
+      "text": "—"
+    },
+    {
+      "key": "daily_mission_list_reward_title",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "報酬：",
+      "source_en": "Reward:",
+      "text": "Belohnung:"
+    },
+    {
+      "key": "daily_mission_no_reward",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "受取可能な報酬がありません",
+      "source_en": "No Rewards available for pick up.",
+      "text": "Keine Belohnungen zum Abholen."
+    },
+    {
+      "key": "daily_mission_no_time_event",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "配信されている期間イベントがありません",
+      "source_en": "There are no currently ongoing scheduled events.",
+      "text": "Derzeit läuft kein zeitlich begrenztes Event."
+    },
+    {
+      "key": "daily_mission_reward_state",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>達成</COL>",
+      "source_en": "<COL ffdc78>Achieved</COL>",
+      "text": "<COL ffdc78>Abgeschlossen</COL>"
+    },
+    {
+      "key": "daily_mission_reward_title",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "報酬アイテム",
+      "source_en": "Reward Item",
+      "text": "Belohnungsgegenstand"
+    },
+    {
+      "key": "daily_mission_summary_limit_info",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "ミッション終了期限",
+      "source_en": "Mission End Time Limit",
+      "text": "Missionsende"
+    },
+    {
+      "key": "daily_mission_summary_limit_title",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "期限",
+      "source_en": "Period",
+      "text": "Frist"
+    },
+    {
+      "key": "daily_mission_summary_target_title",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "目的",
+      "source_en": "Goal",
+      "text": "Ziel"
+    },
+    {
+      "key": "daily_mission_tab_reward_list",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "報酬リスト",
+      "source_en": "Reward List",
+      "text": "Belohnungen"
+    },
+    {
+      "key": "daily_mission_tab_summary",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ミッション概要",
+      "source_en": "Mission Summary",
+      "text": "Missionsübersicht"
+    },
+    {
+      "key": "daily_mission_tab_target_list",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "目的対象",
+      "source_en": "Objective Target",
+      "text": "Zielobjekt"
+    },
+    {
+      "key": "daily_mission_target_title",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "目的対象",
+      "source_en": "Objective Target",
+      "text": "Zielobjekt"
+    },
+    {
+      "key": "daily_mission_title",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "RewardMission",
+      "source_en": "Reward Mission",
+      "text": "Belohnungsmissionen"
+    },
+    {
+      "key": "daily_mission_title_mission_list",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "MissionList",
+      "source_en": "Mission List",
+      "text": "Missionsliste"
+    },
+    {
+      "key": "daily_mission_title_special_reward",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "SpecialReward",
+      "source_en": "Special Reward",
+      "text": "Sonderbelohnung"
+    },
+    {
+      "key": "daily_mission_title_sub",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "リワードミッション",
+      "source_en": " ",
+      "text": "Belohnungsmissionen"
+    },
+    {
+      "key": "daily_mission_title_sub_mission_list",
+      "read_index": "35",
+      "tag_source": "source_jp",
+      "source_jp": "ミッションリスト",
+      "source_en": " ",
+      "text": "Missionsliste"
+    },
+    {
+      "key": "daily_mission_title_sub_special_reward",
+      "read_index": "37",
+      "tag_source": "source_jp",
+      "source_jp": "特別報酬",
+      "source_en": " ",
+      "text": "Sonderbelohnung"
+    },
+    {
+      "key": "daily_mission_title_sub_time_event",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "期間イベント",
+      "source_en": "Time Event",
+      "text": "Zeitlich begrenztes Event"
+    },
+    {
+      "key": "daily_mission_title_time_event",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "TimeEvent",
+      "source_en": "Time Event",
+      "text": "Zeitlich begrenztes Event"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

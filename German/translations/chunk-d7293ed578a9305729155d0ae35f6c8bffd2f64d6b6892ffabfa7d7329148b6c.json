@@ -1,0 +1,128 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_solve_crowded",
+      "read_index": "355",
+      "tag_source": "source_en",
+      "source_jp": "ゲーム開始可能になりました",
+      "source_en": "The game can now start.",
+      "text": "Das Spiel kann jetzt beginnen."
+    },
+    {
+      "key": "ana_storage_num_increase",
+      "read_index": "442",
+      "tag_source": "source_en",
+      "source_jp": "保管ボックスのアイテム枠数が増加しました",
+      "source_en": "Storage Box's Item slots have increased",
+      "text": "Storage Box Item Slots haben zugenommen"
+    },
+    {
+      "key": "ana_storageextension_dec",
+      "read_index": "439",
+      "tag_source": "source_en",
+      "source_jp": "ストレージが拡張されました\r\n該当する画面を確認してください",
+      "source_en": "The storage has been expanded.\r\nPlease check the corresponding screen.",
+      "text": "Das Lager wurde erweitert.\r\nDetails findest du im Lagermenü."
+    },
+    {
+      "key": "ana_totalscore_ability_reward",
+      "read_index": "410",
+      "tag_source": "source_en",
+      "source_jp": "累計スコア報酬で\r\nシークレットアビリティを獲得！",
+      "source_en": "Earned Secret Augment in the\r\ntotal score reward!",
+      "text": "Earned Secret Augment in der\r\nTotal Score Belohnung!"
+    },
+    {
+      "key": "ana_totalscore_reward",
+      "read_index": "409",
+      "tag_source": "source_en",
+      "source_jp": "累計スコア報酬を獲得！",
+      "source_en": "Earned Total Score Rewards!",
+      "text": "Belohnung für Gesamtpunktzahl erhalten!"
+    },
+    {
+      "key": "ana_transport_error",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "礎を解放する条件をみたしていません",
+      "source_en": "You do not meet the conditions to go to the\r\nPortcrystal.",
+      "text": "Du erfüllst nicht die Bedingungen, um zum\r\nPortkristall zu gehen."
+    },
+    {
+      "key": "ana_unauthorized_cannotuse",
+      "read_index": "464",
+      "tag_source": "source_en",
+      "source_jp": "権限がないため使用できません",
+      "source_en": "Unavailable due to lack of authorization",
+      "text": "Nicht verfügbar wegen fehlender Autorisierung"
+    },
+    {
+      "key": "ana_unlock_contents",
+      "read_index": "225",
+      "tag_source": "source_en",
+      "source_jp": "<TEXT>が解放されました",
+      "source_en": "<TEXT> has been unlocked.",
+      "text": "<TEXT> wurde freigeschaltet."
+    },
+    {
+      "key": "ana_version_error",
+      "read_index": "274",
+      "tag_source": "source_en",
+      "source_jp": "このバージョンでは使用できません",
+      "source_en": "This cannot be used in this version.",
+      "text": "Dies kann in dieser Version nicht verwendet werden."
+    },
+    {
+      "key": "ana_warning_barricade_out",
+      "read_index": "445",
+      "tag_source": "source_en",
+      "source_jp": "戦闘エリアから離れています",
+      "source_en": "You are currently away from the combat area.",
+      "text": "Du bist derzeit weg von der Kampfzone."
+    },
+    {
+      "key": "ana_warp_barricade_out",
+      "read_index": "446",
+      "tag_source": "source_en",
+      "source_jp": "戦闘エリアを出たためワープします",
+      "source_en": "You have left the combat area. Initiating warp.",
+      "text": "Du hast das Kampfgebiet verlassen. Warp einleiten."
+    },
+    {
+      "key": "ana_wm_limited_condition_open",
+      "read_index": "522",
+      "tag_source": "source_en",
+      "source_jp": "新たな戦況が期間限定で開催決定！",
+      "source_en": "New War Situation will be held for a limited time!",
+      "text": "Neue Kriegssituation wird für eine begrenzte Zeit stattfinden!"
+    },
+    {
+      "key": "ana_you_die",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "戦闘不能になりました",
+      "source_en": "You have died.",
+      "text": "Du bist gestorben."
+    },
+    {
+      "key": "title_ordeal_rewards",
+      "read_index": "588",
+      "tag_source": "source_en",
+      "source_jp": "Ordeals Rewards",
+      "source_en": "Ordeals Rewards",
+      "text": "Ordeals Belohnungen"
+    },
+    {
+      "key": "title_sub_ordeal_rewards",
+      "read_index": "589",
+      "tag_source": "source_en",
+      "source_jp": "試練で得られる可能性のある報酬の一覧",
+      "source_en": "List of rewards that may be obtained in the Trial",
+      "text": "Liste der Belohnungen, die in der Studie erhalten werden können"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

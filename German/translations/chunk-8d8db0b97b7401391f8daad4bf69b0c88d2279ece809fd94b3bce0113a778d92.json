@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\exchange_money.gmd",
+  "arc_path": "\\ui\\uGUIPopExchangeMoney.arc",
+  "entries": [
+    {
+      "key": "exc_confirm",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>を\r\n<COL ffdc78><VAL>に変換します</COL>\r\nよろしいですか？",
+      "source_en": "Are you sure you want <VAL>\r\n<COL ffdc78>converted to <VAL></COL>?",
+      "text": "Bist du sicher, dass du <VAL>\r\n<COL ffdc78>konvertiert in <VAL></COL> willst?"
+    },
+    {
+      "key": "exc_have_money_name",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "所持<VAL>",
+      "source_en": "<VAL> Held",
+      "text": "<VAL> statt"
+    },
+    {
+      "key": "exc_notice",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "変換しました",
+      "source_en": "Converted",
+      "text": "Umgerechnet"
+    },
+    {
+      "key": "exc_rate",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "※変換レート：<VAL><VAL> = <VAL><VAL>",
+      "source_en": "※ Conversion Rate: <VAL><VAL> = <VAL><VAL>",
+      "text": "Conversion Rate: <VAL><VAL> = <VAL><VAL>"
+    },
+    {
+      "key": "exc_title",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>に変換",
+      "source_en": "<VAL> Conversion",
+      "text": "<VAL> Umwandlung"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

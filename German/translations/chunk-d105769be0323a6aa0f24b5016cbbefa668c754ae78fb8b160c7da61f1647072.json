@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\clan_list.gmd",
+  "arc_path": "\\ui\\uGUIClanList.arc",
+  "entries": [
+    {
+      "key": "GMD_CLAN_LIST_COLUMN_CLAN",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "クラン",
+      "source_en": "Clan",
+      "text": "Clan"
+    },
+    {
+      "key": "GMD_CLAN_LIST_COLUMN_NAME",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "GMD_CLAN_LIST_TOP_EN",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "Clan List",
+      "source_en": "Clan List",
+      "text": "Clanliste"
+    },
+    {
+      "key": "GMD_CLAN_LIST_TOP_JP",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "クランリスト",
+      "source_en": " ",
+      "text": "Clanliste"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

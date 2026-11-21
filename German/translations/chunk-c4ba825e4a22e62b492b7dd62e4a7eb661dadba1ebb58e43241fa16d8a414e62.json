@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\StampBonus.gmd",
+  "arc_path": "\\ui\\uGUILoginBonus.arc",
+  "entries": [
+    {
+      "key": "sb_ana_day_count",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "日目",
+      "source_en": "Day",
+      "text": "Tag"
+    },
+    {
+      "key": "sb_ana_get_item",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "を獲得しました",
+      "source_en": " obtained.",
+      "text": " erhalten."
+    },
+    {
+      "key": "sb_ana_get_rim",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "枚",
+      "source_en": "Pieces",
+      "text": "Stück"
+    },
+    {
+      "key": "sb_ana_sbonus_continuity",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "《連続スタンプボーナス<VAL>日目》",
+      "source_en": "\"Consecutive Stamp Bonus on Day <VAL>\"",
+      "text": "Stempelbonus in Folge: Tag <VAL>"
+    },
+    {
+      "key": "sb_ana_sbonus_cumulative_total",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "《累計スタンプボーナス<VAL>日目》",
+      "source_en": "[Cumulative Stamp Bonus on day <VAL>]",
+      "text": "Gesamtstempelbonus: Tag <VAL>"
+    },
+    {
+      "key": "sb_title_sbonus_en",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "Stamp Bonus",
+      "source_en": "Stamp Bonus",
+      "text": "Stempelbonus"
+    },
+    {
+      "key": "sb_title_sbonus_jp",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "スタンプ手帳",
+      "source_en": " ",
+      "text": "Stempelheft"
+    },
+    {
+      "key": "sb_tub_sbonus_continuity",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "連続スタンプボーナス",
+      "source_en": "Consecutive Stamp Bonus",
+      "text": "Stempel in Folge"
+    },
+    {
+      "key": "sb_tub_sbonus_cumulative_total",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "累計スタンプボーナス",
+      "source_en": "Cumulative Stamp Bonus",
+      "text": "Stempel insgesamt"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

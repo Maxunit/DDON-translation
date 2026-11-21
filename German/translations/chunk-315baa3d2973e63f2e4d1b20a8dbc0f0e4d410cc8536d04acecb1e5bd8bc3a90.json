@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\CommunityList_res.gmd",
+  "arc_path": "\\ui\\uGUICommunityList.arc",
+  "entries": [
+    {
+      "key": "COMLIST_MSG_ACTIVE_LIST",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "オンラインメンバー",
+      "source_en": "Online",
+      "text": "Online-Mitglieder"
+    },
+    {
+      "key": "COMLIST_MSG_CLAN",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "クラン",
+      "source_en": "Clan",
+      "text": "Clan"
+    },
+    {
+      "key": "COMLIST_MSG_COMM_LIST_JP",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "コミュニティリスト",
+      "source_en": " ",
+      "text": "Kontaktliste"
+    },
+    {
+      "key": "COMLIST_MSG_PLAYER_NAME",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\simple_text.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "simple_text_9229",
+      "read_index": "240",
+      "tag_source": "source_en",
+      "source_jp": "起きて！",
+      "source_en": "Stand up!",
+      "text": "Steh auf!"
+    },
+    {
+      "key": "simple_text_9230",
+      "read_index": "241",
+      "tag_source": "source_en",
+      "source_jp": "トドメだ！",
+      "source_en": "Finish it off!",
+      "text": "Beendet es!"
+    },
+    {
+      "key": "simple_text_9231",
+      "read_index": "242",
+      "tag_source": "source_en",
+      "source_jp": "仕切り直そう！",
+      "source_en": "We'll redo that!",
+      "text": "Wir werden das wiederholen!"
+    },
+    {
+      "key": "simple_text_9232",
+      "read_index": "243",
+      "tag_source": "source_en",
+      "source_jp": "仕切り直しましょう！",
+      "source_en": "Let's go back and start again!",
+      "text": "Lasst uns zurückgehen und wieder anfangen!"
+    },
+    {
+      "key": "simple_text_9233",
+      "read_index": "244",
+      "tag_source": "source_en",
+      "source_jp": "こいつは危険です！",
+      "source_en": "That guy's dangerous!",
+      "text": "Der Typ ist gefährlich!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

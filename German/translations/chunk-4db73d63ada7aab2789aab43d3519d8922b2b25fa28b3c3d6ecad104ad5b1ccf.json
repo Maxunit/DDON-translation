@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\job_select.gmd",
+  "arc_path": "\\ui\\uGUIJobSelectCommon.arc",
+  "entries": [
+    {
+      "key": "job_orb_tree_complete_percentage",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> %",
+      "source_en": "<VAL> %",
+      "text": "<VAL> %"
+    },
+    {
+      "key": "job_orb_tree_err_not_release",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "まだ解放されていません",
+      "source_en": "Not unlocked yet.",
+      "text": "Noch nicht freigeschaltet."
+    },
+    {
+      "key": "job_select_title",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Job Select",
+      "source_en": "Vocation Select",
+      "text": "Klasse wählen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

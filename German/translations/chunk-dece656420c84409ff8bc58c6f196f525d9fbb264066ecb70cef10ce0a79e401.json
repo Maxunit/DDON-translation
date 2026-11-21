@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\GPShopDialog_res.gmd",
+  "arc_path": "\\ui\\uGUIGPShopDialog.arc",
+  "entries": [
+    {
+      "key": "OSD_eventcode_index_en",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "Event Code",
+      "source_en": "Event Code",
+      "text": "Eventcode"
+    },
+    {
+      "key": "OSD_eventcode_index_jp",
+      "read_index": "16",
+      "tag_source": "source_jp",
+      "source_jp": "イベントコードの入力",
+      "source_en": " ",
+      "text": "Eventcode eingeben"
+    },
+    {
+      "key": "OSD_index_en",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Status",
+      "source_en": "Status",
+      "text": "Status"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

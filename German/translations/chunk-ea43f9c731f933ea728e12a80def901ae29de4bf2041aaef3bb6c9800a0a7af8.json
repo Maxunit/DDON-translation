@@ -1,0 +1,128 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\common_message.gmd",
+  "arc_path": "\\systemFlow.arc",
+  "entries": [
+    {
+      "key": "common_unit_rp",
+      "read_index": "102",
+      "tag_source": "source_en",
+      "source_jp": "RP",
+      "source_en": "RP",
+      "text": "RP"
+    },
+    {
+      "key": "common_unit_silverticket",
+      "read_index": "146",
+      "tag_source": "source_en",
+      "source_jp": "枚",
+      "source_en": "x",
+      "text": "x"
+    },
+    {
+      "key": "common_unit_tp",
+      "read_index": "132",
+      "tag_source": "source_en",
+      "source_jp": "BP",
+      "source_en": "BP",
+      "text": "BP"
+    },
+    {
+      "key": "common_unit_turn",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "回",
+      "source_en": "Time",
+      "text": "Uhrzeit"
+    },
+    {
+      "key": "common_unit_xp",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "XP",
+      "source_en": "XP",
+      "text": "XP"
+    },
+    {
+      "key": "common_unitname_bo",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "ブラッドオーブ",
+      "source_en": "Blood Orb",
+      "text": "Blutkugel"
+    },
+    {
+      "key": "common_unitname_craftskillreset",
+      "read_index": "114",
+      "tag_source": "source_en",
+      "source_jp": "クラフトスキルリセット",
+      "source_en": "Reset Craft Skills",
+      "text": "Zurücksetzen von Craft Skills"
+    },
+    {
+      "key": "common_unitname_evoticket",
+      "read_index": "147",
+      "tag_source": "source_en",
+      "source_jp": "カスタムメイドサービス券",
+      "source_en": "Limit Break Service Ticket",
+      "text": "Gutschein für Ausrüstungsveredelung"
+    },
+    {
+      "key": "common_unitname_g",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "ゴールド",
+      "source_en": "Gold",
+      "text": "Gold"
+    },
+    {
+      "key": "common_unitname_gs",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "黄金石",
+      "source_en": "Golden Gemstone",
+      "text": "Goldstein"
+    },
+    {
+      "key": "common_unitname_jp",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "ジョブポイント",
+      "source_en": "Job Point",
+      "text": "Klassenpunkt"
+    },
+    {
+      "key": "common_unitname_r",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "リム",
+      "source_en": "Rift Crystal",
+      "text": "Riftkristall"
+    },
+    {
+      "key": "common_unitname_rp",
+      "read_index": "101",
+      "tag_source": "source_en",
+      "source_jp": "レンタルポイント",
+      "source_en": "Rental Point",
+      "text": "Mietpunkt"
+    },
+    {
+      "key": "common_unitname_tp",
+      "read_index": "141",
+      "tag_source": "source_en",
+      "source_jp": "冒パスポイント",
+      "source_en": "Adventure Pass Point",
+      "text": "Abenteuerpass-Punkt"
+    },
+    {
+      "key": "common_up",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "UP",
+      "source_en": "UP",
+      "text": "UP"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

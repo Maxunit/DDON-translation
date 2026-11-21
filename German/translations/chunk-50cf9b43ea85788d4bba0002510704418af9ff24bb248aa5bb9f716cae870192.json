@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\parameter.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "item_faint",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "気絶攻力",
+      "source_en": "Stun Power",
+      "text": "Blindleistung"
+    },
+    {
+      "key": "item_grade",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "グレード",
+      "source_en": "Grade",
+      "text": "Grad"
+    },
+    {
+      "key": "item_levelcap",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "装備制限ジョブレベル",
+      "source_en": "Equipment restriction by job level",
+      "text": "Beschränkung der Ausrüstung auf Job-Ebene"
+    },
+    {
+      "key": "item_magic_property",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "魔法属性",
+      "source_en": "Magick Attribute",
+      "text": "Magick Attribut"
+    },
+    {
+      "key": "item_material",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "素材分類",
+      "source_en": "Material Classification",
+      "text": "Materialklassifizierung"
+    },
+    {
+      "key": "item_max_equip",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "最大装着数",
+      "source_en": "Max. number of fittings",
+      "text": "Maximale Anzahl der Beschläge"
+    },
+    {
+      "key": "item_max_possess",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "所持最大数",
+      "source_en": "Stack Size",
+      "text": "Größe des Stapels"
+    },
+    {
+      "key": "item_max_price",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "バザー取引最高額",
+      "source_en": "Maximum Bazaar Price",
+      "text": "Höchstpreis für den Basar"
+    },
+    {
+      "key": "item_minimum_price",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "バザー取引最低額",
+      "source_en": "Minimum Bazaar Price",
+      "text": "Mindestpreis für den Basar"
+    },
+    {
+      "key": "item_name",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "名称",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "item_num_of_load",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "矢装填数",
+      "source_en": "Max Loaded Arrows",
+      "text": "Max geladene Pfeile"
+    },
+    {
+      "key": "item_phisical_property",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "物理属性",
+      "source_en": "Physical Attribute",
+      "text": "Physikalische Attribute"
+    },
+    {
+      "key": "item_purchase_price",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "購入額",
+      "source_en": "Purchase Price",
+      "text": "Kaufpreis"
+    },
+    {
+      "key": "item_rank",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "アイテムランク",
+      "source_en": "Item Rank",
+      "text": "Positionsrang"
+    },
+    {
+      "key": "item_sell_ok",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "売却OK",
+      "source_en": "Sale OK",
+      "text": "Verkauf ok"
+    },
+    {
+      "key": "item_sell_price",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "売却額",
+      "source_en": "Sell",
+      "text": "Verkaufen"
+    },
+    {
+      "key": "item_shield_stamina_resist",
+      "read_index": "193",
+      "tag_source": "source_en",
+      "source_jp": "盾スタミナ軽減値",
+      "source_en": "Blocking Stamina Reduction",
+      "text": "Blockierende Ausdauerreduktion"
+    },
+    {
+      "key": "item_stagger",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "盾ガード値",
+      "source_en": "Guard Power",
+      "text": "Wächterkraft"
+    },
+    {
+      "key": "item_tower_shield_collect_point",
+      "read_index": "153",
+      "tag_source": "source_en",
+      "source_jp": "フォースストック数",
+      "source_en": "Max Force Stock",
+      "text": "Max. Kraftspeicher"
+    },
+    {
+      "key": "item_use_limit",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "使用制限",
+      "source_en": "Use Limit",
+      "text": "Verwendungsgrenzwert"
+    },
+    {
+      "key": "item_weapon_type",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "武器タイプ",
+      "source_en": "Weapon Type",
+      "text": "Waffentyp"
+    },
+    {
+      "key": "magic_attack",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "魔法攻撃力",
+      "source_en": "Magick Atk",
+      "text": "Mag. Angriff"
+    },
+    {
+      "key": "magic_difence",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "魔法防御力",
+      "source_en": "Magick Def",
+      "text": "Mag. Verteidigung"
+    },
+    {
+      "key": "material_cateforyname_alchemy",
+      "read_index": "129",
+      "tag_source": "source_en",
+      "source_jp": "錬金材",
+      "source_en": "Alchemy Material",
+      "text": "Alchemiematerial"
+    },
+    {
+      "key": "material_cateforyname_all",
+      "read_index": "221",
+      "tag_source": "source_en",
+      "source_jp": "すべて",
+      "source_en": "All",
+      "text": "Alle"
+    },
+    {
+      "key": "material_cateforyname_bone",
+      "read_index": "116",
+      "tag_source": "source_en",
+      "source_jp": "骨",
+      "source_en": "Bone",
+      "text": "Knochen"
+    },
+    {
+      "key": "material_cateforyname_cloth",
+      "read_index": "112",
+      "tag_source": "source_en",
+      "source_jp": "布",
+      "source_en": "Cloth",
+      "text": "Tuch"
+    },
+    {
+      "key": "material_cateforyname_etc",
+      "read_index": "131",
+      "tag_source": "source_en",
+      "source_jp": "その他",
+      "source_en": "Other",
+      "text": "andere"
+    },
+    {
+      "key": "material_cateforyname_fang",
+      "read_index": "117",
+      "tag_source": "source_en",
+      "source_jp": "牙",
+      "source_en": "Fang",
+      "text": "Fang"
+    },
+    {
+      "key": "material_cateforyname_feather",
+      "read_index": "120",
+      "tag_source": "source_en",
+      "source_jp": "羽",
+      "source_en": "Feather",
+      "text": "Feder"
+    },
+    {
+      "key": "material_cateforyname_flower",
+      "read_index": "123",
+      "tag_source": "source_en",
+      "source_jp": "花",
+      "source_en": "Flower",
+      "text": "Blüte"
+    },
+    {
+      "key": "material_cateforyname_for_g",
+      "read_index": "135",
+      "tag_source": "source_en",
+      "source_jp": "防具用",
+      "source_en": "For Armor",
+      "text": "für Rüstung"
+    },
+    {
+      "key": "material_cateforyname_for_w",
+      "read_index": "134",
+      "tag_source": "source_en",
+      "source_jp": "武器用",
+      "source_en": "For Weapon",
+      "text": "für Waffen"
+    },
+    {
+      "key": "material_cateforyname_fur",
+      "read_index": "114",
+      "tag_source": "source_en",
+      "source_jp": "毛",
+      "source_en": "Fur",
+      "text": "Pelz"
+    },
+    {
+      "key": "material_cateforyname_grass",
+      "read_index": "122",
+      "tag_source": "source_en",
+      "source_jp": "草",
+      "source_en": "Grass",
+      "text": "Gras"
+    },
+    {
+      "key": "material_cateforyname_horn",
+      "read_index": "118",
+      "tag_source": "source_en",
+      "source_jp": "角",
+      "source_en": "Horn",
+      "text": "Horn"
+    },
+    {
+      "key": "material_cateforyname_jewel",
+      "read_index": "121",
+      "tag_source": "source_en",
+      "source_jp": "宝石",
+      "source_en": "Gem",
+      "text": "Gemse"
+    },
+    {
+      "key": "material_cateforyname_liquid",
+      "read_index": "127",
+      "tag_source": "source_en",
+      "source_jp": "液体",
+      "source_en": "Liquid",
+      "text": "Flüssig"
+    },
+    {
+      "key": "material_cateforyname_meat",
+      "read_index": "130",
+      "tag_source": "source_en",
+      "source_jp": "肉",
+      "source_en": "Meat",
+      "text": "Fleisch"
+    },
+    {
+      "key": "material_cateforyname_metal",
+      "read_index": "109",
+      "tag_source": "source_en",
+      "source_jp": "金属",
+      "source_en": "Metal",
+      "text": "Metall"
+    },
+    {
+      "key": "material_cateforyname_mineral",
+      "read_index": "110",
+      "tag_source": "source_en",
+      "source_jp": "鉱石",
+      "source_en": "Ore",
+      "text": "Erz"
+    },
+    {
+      "key": "material_cateforyname_mushroom",
+      "read_index": "125",
+      "tag_source": "source_en",
+      "source_jp": "キノコ",
+      "source_en": "Mushroom",
+      "text": "Pilze"
+    },
+    {
+      "key": "material_cateforyname_pelt",
+      "read_index": "115",
+      "tag_source": "source_en",
+      "source_jp": "皮",
+      "source_en": "Skin",
+      "text": "Haut"
+    },
+    {
+      "key": "material_cateforyname_pspskill",
+      "read_index": "226",
+      "tag_source": "source_en",
+      "source_jp": "ポーンの閃き",
+      "source_en": "Pawn Inspiration",
+      "text": "Vasall Inspiration"
+    },
+    {
+      "key": "material_cateforyname_sand",
+      "read_index": "111",
+      "tag_source": "source_en",
+      "source_jp": "砂材",
+      "source_en": "Sand",
+      "text": "Sand"
+    },
+    {
+      "key": "material_cateforyname_scroll",
+      "read_index": "128",
+      "tag_source": "source_en",
+      "source_jp": "巻物",
+      "source_en": "Scroll",
+      "text": "Schriftrolle"
+    },
+    {
+      "key": "material_cateforyname_seed",
+      "read_index": "124",
+      "tag_source": "source_en",
+      "source_jp": "実",
+      "source_en": "Seed",
+      "text": "Samen"
+    },
+    {
+      "key": "material_cateforyname_shell",
+      "read_index": "119",
+      "tag_source": "source_en",
+      "source_jp": "貝",
+      "source_en": "Shell",
+      "text": "Schale"
+    },
+    {
+      "key": "material_cateforyname_string",
+      "read_index": "113",
+      "tag_source": "source_en",
+      "source_jp": "糸",
+      "source_en": "String",
+      "text": "Faden"
+    },
+    {
+      "key": "material_cateforyname_wood",
+      "read_index": "126",
+      "tag_source": "source_en",
+      "source_jp": "木材",
+      "source_en": "Lumber",
+      "text": "Holz"
+    },
+    {
+      "key": "material_large_cateforyname_animal",
+      "read_index": "139",
+      "tag_source": "source_en",
+      "source_jp": "動物",
+      "source_en": "Animal",
+      "text": "Tier"
+    },
+    {
+      "key": "material_large_cateforyname_artifac",
+      "read_index": "141",
+      "tag_source": "source_en",
+      "source_jp": "特殊",
+      "source_en": "Special",
+      "text": "Besonderes"
+    },
+    {
+      "key": "material_large_cateforyname_inorgan",
+      "read_index": "137",
+      "tag_source": "source_en",
+      "source_jp": "無機物",
+      "source_en": "Inorganic",
+      "text": "Anorganisch"
+    },
+    {
+      "key": "material_large_cateforyname_judgment",
+      "read_index": "219",
+      "tag_source": "source_en",
+      "source_jp": "鑑定アイテム",
+      "source_en": "Appraised Item",
+      "text": "Geschätzter Posten"
+    },
+    {
+      "key": "material_large_cateforyname_material_area",
+      "read_index": "220",
+      "tag_source": "source_en",
+      "source_jp": "地域素材",
+      "source_en": "Regional Material",
+      "text": "Regionales Material"
+    },
+    {
+      "key": "material_large_cateforyname_plant",
+      "read_index": "138",
+      "tag_source": "source_en",
+      "source_jp": "植物",
+      "source_en": "Plant",
+      "text": "Pflanzen"
+    },
+    {
+      "key": "material_large_cateforyname_sewing",
+      "read_index": "140",
+      "tag_source": "source_en",
+      "source_jp": "裁縫",
+      "source_en": "Sewing",
+      "text": "Nähen"
+    },
+    {
+      "key": "max_health",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "最大体力",
+      "source_en": "Max Health",
+      "text": "Max Gesundheit"
+    },
+    {
+      "key": "max_stamina",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "最大スタミナ",
+      "source_en": "Max Stamina",
+      "text": "Maximale Ausdauer"
+    },
+    {
+      "key": "param_msg_accumulation",
+      "read_index": "198",
+      "tag_source": "source_en",
+      "source_jp": "蓄積",
+      "source_en": "Inflict",
+      "text": "Schuld"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

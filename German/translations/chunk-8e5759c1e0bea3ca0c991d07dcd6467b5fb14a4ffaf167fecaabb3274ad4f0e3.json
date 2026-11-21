@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_itembox_submenu_tooltip_senditempost",
+      "read_index": "489",
+      "tag_source": "source_en",
+      "source_jp": "アイテムポストには送れません",
+      "source_en": "You cannot send it to Item Post.",
+      "text": "Du kannst es nicht an Item Post senden."
+    },
+    {
+      "key": "ana_itembox_submenu_tooltip_sendspbox_nonsp",
+      "read_index": "271",
+      "tag_source": "source_en",
+      "source_jp": "＜<OPCS>＞の発動中に使用可能となります",
+      "source_en": "This is available with the effect of \"<OPCS>\".",
+      "text": "Dies ist mit dem Effekt von \"<OPCS>\" verfügbar."
+    },
+    {
+      "key": "ana_itembox_submenu_tooltip_sendspbox_nonsp1",
+      "read_index": "508",
+      "tag_source": "source_en",
+      "source_jp": "格納チェスト引出し<VAL>は＜<OPCS>＞の発動中に使用可能となります",
+      "source_en": "The Storage Chest drawer <VAL> can be used while\r\n<OPCS> is active.",
+      "text": "Die Storage Chest Schublade <VAL> kann verwendet werden, während\r\n<OPCS> aktiv ist."
+    },
+    {
+      "key": "ana_job_release_order_start",
+      "read_index": "348",
+      "tag_source": "source_en",
+      "source_jp": "新ジョブ「<VAL>」の習得試練を開始しました",
+      "source_en": "Job order 「<VAL>」 is now available.",
+      "text": "Job order 「<VAL>ə ist jetzt verfügbar."
+    },
+    {
+      "key": "ana_jobmaster_order_report",
+      "read_index": "583",
+      "tag_source": "source_en",
+      "source_jp": "達成済みのジョブ修練をジョブマスターに報告しました",
+      "source_en": "Accomplished Job Training has been reported to\r\nthe Job Master.",
+      "text": "Accomplished Job Training wurde berichtet\r\nDer Klassenmeister."
+    },
+    {
+      "key": "ana_join_disable_discondition",
+      "read_index": "351",
+      "tag_source": "source_en",
+      "source_jp": "募集条件を満たしていません",
+      "source_en": "You do not meet the recruitment conditions",
+      "text": "Du erfüllst die Rekrutierungsbedingungen nicht"
+    },
+    {
+      "key": "ana_join_lobby",
+      "read_index": "333",
+      "tag_source": "source_en",
+      "source_jp": "パーティーに合流します",
+      "source_en": "Join party?",
+      "text": "Mitmachen Gruppe?"
+    },
+    {
+      "key": "ana_keyconfig_announce_auto_key_change",
+      "read_index": "494",
+      "tag_source": "source_en",
+      "source_jp": "キーコンフィグを「%s」に変更しました",
+      "source_en": "Key config changed to \"%s\".",
+      "text": "Key Config wurde in \"%s\" geändert."
+    },
+    {
+      "key": "ana_keyconfig_announce_err_01",
+      "read_index": "482",
+      "tag_source": "source_en",
+      "source_jp": "このキーはブランクキーにできません",
+      "source_en": "This key cannot be made into a blank key.",
+      "text": "Dieser Schlüssel kann nicht zu einem leeren Schlüssel gemacht werden."
+    },
+    {
+      "key": "ana_keyconfig_dialog_all_blank",
+      "read_index": "498",
+      "tag_source": "source_en",
+      "source_jp": "すべてのキーをブランクキーにします\r\nよろしいですか？\r\n（一部のキーはブランクキーにできません）",
+      "source_en": "Change all keys to blank keys.\r\nOK?\r\n(Some keys cannot be changed to blank keys)",
+      "text": "Änder alle Tasten in leere Tasten.\r\nOK?\r\n(Einige Tasten können nicht in leere Tasten geändert werden)"
+    },
+    {
+      "key": "ana_keyconfig_dialog_category_initialization_",
+      "read_index": "488",
+      "tag_source": "source_en",
+      "source_jp": "すべてのキーを初期設定に戻します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to reset all keys to their\r\ndefault settings?",
+      "text": "Möchtest du alle Tasten auf die\r\nStandardbelegung zurücksetzen?"
+    },
+    {
+      "key": "ana_keyconfig_dialog_copy_conf",
+      "read_index": "485",
+      "tag_source": "source_en",
+      "source_jp": "キーコンフィグ内容をコピーします\r\nよろしいですか？\r\n　コピー元：%s\r\n　コピー先：%s",
+      "source_en": "Do you want to copy the key config?\r\nCopy from: %s\r\nCopy to: %s",
+      "text": "Möchtest du die Schlüsselkonfiguration kopieren?\r\nCopy from: %s\r\nCopy to: %s"
+    },
+    {
+      "key": "ana_keyconfig_dialog_copy_select",
+      "read_index": "484",
+      "tag_source": "source_en",
+      "source_jp": "どれにコピーしますか？",
+      "source_en": "Which one would you like to copy?",
+      "text": "Welches würdest du gerne kopieren?"
+    },
+    {
+      "key": "ana_keyconfig_dialog_link_job_key_alteration",
+      "read_index": "496",
+      "tag_source": "source_en",
+      "source_jp": "ジョブとキーコンフィグの関連付けの\r\n変更はまだ保存されていません\r\nデバイス設定の適用ボタンを押してください",
+      "source_en": "The changes to job and key configuration\r\nassociations have not been saved yet.\r\nPlease press the Apply button in the device\r\nsettings.",
+      "text": "Die Änderungen an der Job- und Tastenkonfiguration\r\nAssoziationen wurden noch nicht gespeichert.\r\nBitte drücke die Schaltfläche Anwenden im Gerät\r\nEinstellungen."
+    },
+    {
+      "key": "ana_keyconfig_dialog_not_yet_saved_attention",
+      "read_index": "495",
+      "tag_source": "source_en",
+      "source_jp": "キーコンフィグの変更はまだ保存されていません\r\nデバイス設定の適用ボタンを押してください\r\n<COL AA1414>キーコンフィグによる設定キーの変更は\r\nゲームが正しく動作しない可能性があります\r\nご注意ください</COL>",
+      "source_en": "Changes to key configurations have not yet been\r\nsaved.\r\nPlease press the Apply Device Configuration\r\nbutton.\r\n<COL AA1414>Please note! Changes to configuration\r\nkeys via key configurations may cause the game to\r\nnot run properly.</COL>",
+      "text": "Änderungen an Schlüsselkonfigurationen wurden noch nicht vorgenommen\r\ngerettet.\r\nBitte drücke die Apply Device Configuration\r\nKnopf.\r\n<COL AA1414>Bitte beachte! Änderungen an der Konfiguration\r\nTasten über Schlüsselkonfigurationen können dazu führen, dass das Spiel\r\nnicht richtig laufen.</COL>"
+    },
+    {
+      "key": "ana_keyconfig_dialog_overlap",
+      "read_index": "480",
+      "tag_source": "source_en",
+      "source_jp": "重複しているキーがあるため\r\n閉じることができません",
+      "source_en": "Cannot close due to duplicate key.",
+      "text": "Kann aufgrund des doppelten Schlüssels nicht geschlossen werden."
+    },
+    {
+      "key": "ana_keyconfig_dialog_overlap_item_1",
+      "read_index": "481",
+      "tag_source": "source_en",
+      "source_jp": "重複しているキーを変更前に戻して閉じる",
+      "source_en": "Revert the duplicate key back to its previous\r\nstate and close.",
+      "text": "Zurücksetzen des doppelten Schlüssels zurück zu seinem vorherigen\r\nState und Close."
+    },
+    {
+      "key": "ana_keyconfig_edit_name_title",
+      "read_index": "483",
+      "tag_source": "source_en",
+      "source_jp": "名前の編集",
+      "source_en": "Edit name",
+      "text": "Name bearbeiten"
+    },
+    {
+      "key": "ana_keyconfig_ng_can_not_be_changed",
+      "read_index": "499",
+      "tag_source": "source_en",
+      "source_jp": "このキーは変更できません",
+      "source_en": "This key can't be changed",
+      "text": "Dieser Schlüssel kann nicht geändert werden"
+    },
+    {
+      "key": "ana_lde_no_items",
+      "read_index": "553",
+      "tag_source": "source_en",
+      "source_jp": "開催しているイベントがありません",
+      "source_en": "There are no events being held.",
+      "text": "Es finden keine Veranstaltungen statt."
+    },
+    {
+      "key": "ana_leader_join_ready_info",
+      "read_index": "103",
+      "tag_source": "source_en",
+      "source_jp": "リーダーがパーティー要請を受諾しました。一定時間内に準備完了してください",
+      "source_en": "The leader has accepted the party request. Please\r\nselect ready within a period of time.",
+      "text": "Der Führer hat den Antrag der Partei angenommen.\r\nWähle bereit innerhalb eines Zeitraums."
+    },
+    {
+      "key": "ana_lostpawn_rescue",
+      "read_index": "391",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>を復活させました",
+      "source_en": "<NAME PAWN> has been rescued.",
+      "text": "<NAME PAWN> wurde gerettet."
+    },
+    {
+      "key": "ana_lostpawn_rescue_q",
+      "read_index": "389",
+      "tag_source": "source_en",
+      "source_jp": "<VAL RIM>を消費して\r\n<NAME PAWN>を救出します\r\nよろしいですか？",
+      "source_en": "By consuming <VAL RIM>, \r\n<NAME PAWN> will be rescued.\r\nAre you sure?",
+      "text": "Durch den Konsum <VAL RIM> wird\r\n<NAME PAWN> gerettet.\r\nBist du sicher?"
+    },
+    {
+      "key": "ana_lostpawn_resque_rim_err",
+      "read_index": "390",
+      "tag_source": "source_en",
+      "source_jp": "リムが足りないためできません",
+      "source_en": "You do not have enough Rift Crystals.",
+      "text": "Du hast nicht genug Riftkristalle."
+    },
+    {
+      "key": "ana_lostpawn_resque_userim_err",
+      "read_index": "393",
+      "tag_source": "source_en",
+      "source_jp": "リムが足りないためできません\r\n<VAL RIM>必要です",
+      "source_en": "You cannot do this because you do not have enough\r\nRift Crystals.\r\n<VAL RIM> is required.",
+      "text": "Du kannst dies nicht tun, weil du nicht genug\r\nRiftkristalle hast.\r\n<VAL RIM> ist erforderlich."
+    },
+    {
+      "key": "ana_lot_err_goldstone_short",
+      "read_index": "293",
+      "tag_source": "source_en",
+      "source_jp": "黄金石が不足しています",
+      "source_en": "You do not have enough Golden Gemstones.",
+      "text": "Du hast nicht genug Goldsteine."
+    },
+    {
+      "key": "ana_lot_err_itempost_full",
+      "read_index": "295",
+      "tag_source": "source_en",
+      "source_jp": "アイテムポストの空きが足りないためロットできません",
+      "source_en": "There is not enough space in the Item Post to lot.",
+      "text": "Es gibt nicht genug Platz in der Artikel-Post zu viel."
+    },
+    {
+      "key": "ana_lot_err_silverticket_short",
+      "read_index": "294",
+      "tag_source": "source_en",
+      "source_jp": "シルバーチケットが不足しています",
+      "source_en": "You do not have enough Silver Tickets.",
+      "text": "Du hast nicht genug Silbertickets."
+    },
+    {
+      "key": "ana_mail_ana_0_itemmail",
+      "read_index": "264",
+      "tag_source": "source_en",
+      "source_jp": "添付アイテムはありません",
+      "source_en": "There are no items in the mail.",
+      "text": "Es gibt keine Artikel in der Mail."
+    },
+    {
+      "key": "ana_mail_ana_0_newmail",
+      "read_index": "263",
+      "tag_source": "source_en",
+      "source_jp": "新着メールはありません",
+      "source_en": "There is no new mail.",
+      "text": "Es gibt keine neue Mail."
+    },
+    {
+      "key": "ana_mail_ana_notificationmail_full_near",
+      "read_index": "262",
+      "tag_source": "source_en",
+      "source_jp": "運営メールボックスの容量が少なくなってます",
+      "source_en": "Your mailbox is almost full",
+      "text": "Deine Mailbox ist fast voll"
+    },
+    {
+      "key": "ana_mail_ana_notinput_text",
+      "read_index": "266",
+      "tag_source": "source_en",
+      "source_jp": "本文が入力されていません",
+      "source_en": "No text has been written",
+      "text": "Es wurde kein Text geschrieben"
+    },
+    {
+      "key": "ana_mail_ana_notset_address",
+      "read_index": "265",
+      "tag_source": "source_en",
+      "source_jp": "宛先が設定されていません",
+      "source_en": "Destination has not been set",
+      "text": "Destination wurde nicht festgelegt"
+    },
+    {
+      "key": "ana_mail_ana_receivedmail_full_near",
+      "read_index": "260",
+      "tag_source": "source_en",
+      "source_jp": "知り合いメールボックスの容量が少なくなってます",
+      "source_en": "That character's mailbox is almost full",
+      "text": "Die Mailbox dieses Charakters ist fast voll"
+    },
+    {
+      "key": "ana_mail_delete_all_read_mail_0",
+      "read_index": "427",
+      "tag_source": "source_en",
+      "source_jp": "既読メールはありません",
+      "source_en": "There is no read mail",
+      "text": "Es gibt keine gelesene Mail"
+    },
+    {
+      "key": "ana_mail_delete_all_read_mail_q",
+      "read_index": "425",
+      "tag_source": "source_en",
+      "source_jp": "未読／未取得以外のメール<VAL>件を\r\nすべて削除します。よろしいですか？",
+      "source_en": "Do you want to delete all <VAL> mails\r\nthat are not marked as unread/unclaimed?",
+      "text": "Möchtest du alle <VAL> Mails\r\n löschen, die nicht als ungelesen/nicht beansprucht gekennzeichnet sind?"
+    },
+    {
+      "key": "ana_mail_delete_q",
+      "read_index": "74",
+      "tag_source": "source_en",
+      "source_jp": "メールを削除します。よろしいですか？",
+      "source_en": "You will delete the mail. Are you sure?",
+      "text": "Du wirst die Post löschen. Bist du sicher?"
+    },
+    {
+      "key": "ana_mail_deleted",
+      "read_index": "426",
+      "tag_source": "source_en",
+      "source_jp": "削除しました",
+      "source_en": "Deleted successfully",
+      "text": "Erfolgreich gelöscht"
+    },
+    {
+      "key": "ana_mail_err_not_receive_item",
+      "read_index": "497",
+      "tag_source": "source_en",
+      "source_jp": "添付アイテムを受け取っていないため削除できません",
+      "source_en": "Cannot delete as the attached item\r\nhas not been received.",
+      "text": "Kann nicht gelöscht werden, da der angehängte Artikel\r\n nicht erhalten wurde."
+    },
+    {
+      "key": "ana_mail_present_get",
+      "read_index": "101",
+      "tag_source": "source_en",
+      "source_jp": "メール添付アイテムを取得しました",
+      "source_en": "You have received items from the mail.",
+      "text": "Erhalten: Artikel aus der Post."
+    },
+    {
+      "key": "ana_mail_receive_box",
+      "read_index": "503",
+      "tag_source": "source_en",
+      "source_jp": "保管ボックスに受け取る",
+      "source_en": "Send to storage",
+      "text": "Versenden an Storage"
+    },
+    {
+      "key": "ana_mail_receive_post",
+      "read_index": "504",
+      "tag_source": "source_en",
+      "source_jp": "ポストに受け取る",
+      "source_en": "Receive in Post",
+      "text": "Empfange auf Post"
+    },
+    {
+      "key": "ana_mail_send",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "メールを送信しました",
+      "source_en": "You've sent mail",
+      "text": "Du hast Mails verschickt"
+    },
+    {
+      "key": "ana_member_less_party_q",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "規定人数に足りていませんがパーティーを組みます\r\nよろしいですか？",
+      "source_en": "There are not enough members,\r\nbut the party will be formed. Are you sure?",
+      "text": "Es gibt nicht genug Mitglieder\r\n, aber die Partei wird gebildet werden."
+    },
+    {
+      "key": "ana_member_ready_timeup",
+      "read_index": "99",
+      "tag_source": "source_en",
+      "source_jp": "全員が準備完了しませんでした。エントリー状態を解除します",
+      "source_en": "All members did not ready. Ending entry.",
+      "text": "Alle Mitglieder waren nicht bereit."
+    },
+    {
+      "key": "ana_member_remove_q",
+      "read_index": "546",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nメンバーから外します。よろしいですか？",
+      "source_en": "Are you sure you want to remove\r\n<NAME TARGET> from the members?",
+      "text": "Bist du sicher, dass du\r\n<NAME TARGET> von den Mitgliedern entfernen möchtest?"
+    },
+    {
+      "key": "ana_mission_order_err_condition",
+      "read_index": "462",
+      "tag_source": "source_en",
+      "source_jp": "受注条件を満たしていません",
+      "source_en": "You do not meet the entry conditions.",
+      "text": "Du erfüllst die Einreisebedingungen nicht."
+    },
+    {
+      "key": "ana_mitem_all_get_q",
+      "read_index": "204",
+      "tag_source": "source_en",
+      "source_jp": "アイテム付きメール<VAL>件のアイテムを\r\nすべて受け取りますか？",
+      "source_en": "There are <VAL> mails with items.\r\nReceive all of them?",
+      "text": "Es gibt <VAL> Mails mit Items.\r\nEmpfinde sie alle?"
+    },
+    {
+      "key": "ana_mitem_get",
+      "read_index": "203",
+      "tag_source": "source_en",
+      "source_jp": "メール添付アイテムを受け取りました",
+      "source_en": "You have received the attached items.",
+      "text": "Erhalten: die angehängten Artikel."
+    },
+    {
+      "key": "ana_mitem_get_con",
+      "read_index": "202",
+      "tag_source": "source_en",
+      "source_jp": "メール添付アイテムを受け取りますか？",
+      "source_en": "Receive the items attached to the mail?",
+      "text": "Erhältst du die Artikel, die an der Post angebracht sind?"
+    },
+    {
+      "key": "ana_mitem_get_err_gameitem",
+      "read_index": "218",
+      "tag_source": "source_en",
+      "source_jp": "アイテム x <VAL> を受け取れませんでした",
+      "source_en": "Could not receive Item x <VAL>",
+      "text": "Item x <VAL> konnte nicht empfangen werden"
+    },
+    {
+      "key": "ana_mitem_get_err_opt_course",
+      "read_index": "219",
+      "tag_source": "source_en",
+      "source_jp": "<OPCS> x <VAL> を受け取れませんでした",
+      "source_en": "Could not receive <OPCS> x <VAL>",
+      "text": "Konnte nicht <OPCS> x <VAL> erhalten"
+    },
+    {
+      "key": "ana_mitem_get_err_opt_cticket",
+      "read_index": "221",
+      "tag_source": "source_en",
+      "source_jp": "通貨系アイテム x <VAL> を受け取れませんでした",
+      "source_en": "Couldn't receive Currency Item x <VAL>",
+      "text": "Konnte keine Währungsposition x <VAL> erhalten"
+    },
+    {
+      "key": "ana_mitem_get_err_opt_goldstone",
+      "read_index": "220",
+      "tag_source": "source_en",
+      "source_jp": "メール <VAL>件分の黄金石 を受け取れませんでした",
+      "source_en": "Unable to receive <VAL> golden gemstones from the\r\nmail",
+      "text": "Unfähig, <VAL> Goldsteine von der\r\n Mail zu erhalten"
+    },
+    {
+      "key": "ana_mitem_get_err_opt_lpawnticket",
+      "read_index": "222",
+      "tag_source": "source_en",
+      "source_jp": "クラフトマスターポーン利用券 x <VAL> を受け取れませんでした",
+      "source_en": "Craft Master Pawn Voucher x<VAL> could not be\r\nreceived.",
+      "text": "Craft Master Vasall Voucher x<VAL> konnte nicht empfangen werden\r\n."
+    },
+    {
+      "key": "ana_mitem_get_gameitem",
+      "read_index": "213",
+      "tag_source": "source_en",
+      "source_jp": "アイテム x <VAL> 入手",
+      "source_en": "Item x<VAL> obtained.",
+      "text": "Item x<VAL> erhalten."
+    },
+    {
+      "key": "ana_mitem_get_msg_index",
+      "read_index": "212",
+      "tag_source": "source_en",
+      "source_jp": "アイテム付きのメール<VAL>件を受け取りました",
+      "source_en": "You have received <VAL> items from mail.",
+      "text": "Erhalten: <VAL> Artikel von der Post."
+    },
+    {
+      "key": "ana_mitem_get_num",
+      "read_index": "206",
+      "tag_source": "source_en",
+      "source_jp": "アイテム付きメール<VAL>件のアイテムを受け取りました",
+      "source_en": "You have received items from <VAL> mails.",
+      "text": "Erhalten: Artikel von <VAL> E-Mails."
+    },
+    {
+      "key": "ana_mitem_get_num_all_opcsitem",
+      "read_index": "422",
+      "tag_source": "source_en",
+      "source_jp": "受け取れるアイテムがありませんでした",
+      "source_en": "There were no items to receive.",
+      "text": "Es gab keine Artikel zu erhalten."
+    },
+    {
+      "key": "ana_mitem_get_opt_course",
+      "read_index": "214",
+      "tag_source": "source_en",
+      "source_jp": "<OPCS> x <VAL> 発動",
+      "source_en": "<OPCS> x<VAL> activated.",
+      "text": "<OPCS> x<VAL> aktiviert."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

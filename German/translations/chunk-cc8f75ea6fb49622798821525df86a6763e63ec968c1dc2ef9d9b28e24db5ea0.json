@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "1434",
+      "tag_source": "source_en",
+      "source_jp": "ヘンルーダ",
+      "source_en": "Wijnruit",
+      "text": "Weinraute"
+    },
+    {
+      "key": "",
+      "read_index": "1435",
+      "tag_source": "source_en",
+      "source_jp": "振鳴石",
+      "source_en": "Ringing Ore",
+      "text": "Klingerz"
+    },
+    {
+      "key": "",
+      "read_index": "1436",
+      "tag_source": "source_en",
+      "source_jp": "渓谷の湧き水",
+      "source_en": "Valley Spring Water",
+      "text": "Quellwasser aus dem Tal"
+    },
+    {
+      "key": "",
+      "read_index": "1437",
+      "tag_source": "source_en",
+      "source_jp": "キンガライト",
+      "source_en": "Kingalite",
+      "text": "Kingalit"
+    },
+    {
+      "key": "",
+      "read_index": "1438",
+      "tag_source": "source_en",
+      "source_jp": "ブライトチタン",
+      "source_en": "Bright Titanium",
+      "text": "Glanz-Titan"
+    },
+    {
+      "key": "",
+      "read_index": "1439",
+      "tag_source": "source_en",
+      "source_jp": "スパイダーメッシュ",
+      "source_en": "Spider Mesh",
+      "text": "Spinnengewebe"
+    },
+    {
+      "key": "",
+      "read_index": "1440",
+      "tag_source": "source_en",
+      "source_jp": "夢現のスクロール",
+      "source_en": "Scroll of Dream and Reality",
+      "text": "Schriftrolle von Traum und Wirklichkeit"
+    },
+    {
+      "key": "",
+      "read_index": "1441",
+      "tag_source": "source_en",
+      "source_jp": "小妖精の擬翼",
+      "source_en": "Pixie Mock Wing",
+      "text": "Feen-Scheinflügel"
+    },
+    {
+      "key": "",
+      "read_index": "1442",
+      "tag_source": "source_en",
+      "source_jp": "魔狼のすじ肉",
+      "source_en": "Demon Wolf's Sinewy Meat",
+      "text": "Sehniges Dämonenwolffleisch"
+    },
+    {
+      "key": "",
+      "read_index": "1443",
+      "tag_source": "source_en",
+      "source_jp": "ごわついた鰐皮",
+      "source_en": "Stiff Crocodile Skin",
+      "text": "Steifes Krokodilleder"
+    },
+    {
+      "key": "",
+      "read_index": "1444",
+      "tag_source": "source_en",
+      "source_jp": "青銅の尾羽",
+      "source_en": "Bronze Tail Feather",
+      "text": "Bronzene Schwanzfeder"
+    },
+    {
+      "key": "",
+      "read_index": "1445",
+      "tag_source": "source_en",
+      "source_jp": "血なまぐさい巨大牙",
+      "source_en": "Bloodied Giant Tusk",
+      "text": "Blutiger Riesenhauer"
+    },
+    {
+      "key": "",
+      "read_index": "1446",
+      "tag_source": "source_en",
+      "source_jp": "複合器官",
+      "source_en": "Composite Organ",
+      "text": "Verbundorgan"
+    },
+    {
+      "key": "",
+      "read_index": "1447",
+      "tag_source": "source_en",
+      "source_jp": "まばゆい銀羽根",
+      "source_en": "Dazzling Silver Plume",
+      "text": "Strahlende Silberfeder"
+    },
+    {
+      "key": "",
+      "read_index": "1448",
+      "tag_source": "source_en",
+      "source_jp": "するどい背とげ",
+      "source_en": "Sharp Back Spine",
+      "text": "Scharfer Rückendorn"
+    },
+    {
+      "key": "",
+      "read_index": "1449",
+      "tag_source": "source_en",
+      "source_jp": "濁った竜牙",
+      "source_en": "Murky Dragon Fang",
+      "text": "Trüber Drachenzahn"
+    },
+    {
+      "key": "",
+      "read_index": "1450",
+      "tag_source": "source_en",
+      "source_jp": "使者の魔角",
+      "source_en": "Demon Envoy's Horn",
+      "text": "Horn des Dämonengesandten"
+    },
+    {
+      "key": "",
+      "read_index": "1451",
+      "tag_source": "source_en",
+      "source_jp": "使者の忌み尾",
+      "source_en": "Envoy's Loathsome Tail",
+      "text": "Abscheulicher Schweif des Gesandten"
+    },
+    {
+      "key": "",
+      "read_index": "1452",
+      "tag_source": "source_en",
+      "source_jp": "厚い貝殻",
+      "source_en": "Thick Shell",
+      "text": "Dicke Muschelschale"
+    },
+    {
+      "key": "",
+      "read_index": "1453",
+      "tag_source": "source_en",
+      "source_jp": "巨大な貝化石",
+      "source_en": "Giant Fossil Shell",
+      "text": "Riesiges Muschelfossil"
+    },
+    {
+      "key": "",
+      "read_index": "1454",
+      "tag_source": "source_en",
+      "source_jp": "瘤だらけの枝",
+      "source_en": "Gnarled Branch",
+      "text": "Knorriger Zweig"
+    },
+    {
+      "key": "",
+      "read_index": "1455",
+      "tag_source": "source_en",
+      "source_jp": "病み枝のリース",
+      "source_en": "Diseased Wreath",
+      "text": "Kranz aus welken Zweigen"
+    },
+    {
+      "key": "",
+      "read_index": "1456",
+      "tag_source": "source_en",
+      "source_jp": "図入りの古布",
+      "source_en": "Illustrated Old Cloth",
+      "text": "Altes bebildertes Tuch"
+    },
+    {
+      "key": "",
+      "read_index": "1457",
+      "tag_source": "source_en",
+      "source_jp": "スピリッツタペストリー",
+      "source_en": "Spirit's Tapestry",
+      "text": "Geisterwandteppich"
+    },
+    {
+      "key": "",
+      "read_index": "1458",
+      "tag_source": "source_en",
+      "source_jp": "古代ソテツ",
+      "source_en": "Ancient Sago Palm",
+      "text": "Uralter Palmfarn"
+    },
+    {
+      "key": "",
+      "read_index": "1459",
+      "tag_source": "source_en",
+      "source_jp": "最古の緑葉",
+      "source_en": "Aged Green Leaves",
+      "text": "Uralte grüne Blätter"
+    },
+    {
+      "key": "",
+      "read_index": "1460",
+      "tag_source": "source_en",
+      "source_jp": "透明な粗砂",
+      "source_en": "Transparent Coarse Sand",
+      "text": "Durchsichtiger Grobsand"
+    },
+    {
+      "key": "",
+      "read_index": "1461",
+      "tag_source": "source_en",
+      "source_jp": "透き通る水砂",
+      "source_en": "Clear Fine Sand",
+      "text": "Klarer Feinsand"
+    },
+    {
+      "key": "",
+      "read_index": "1462",
+      "tag_source": "source_en",
+      "source_jp": "いびつな木の実",
+      "source_en": "Malformed Nut",
+      "text": "Missgestaltete Nuss"
+    },
+    {
+      "key": "",
+      "read_index": "1463",
+      "tag_source": "source_en",
+      "source_jp": "奇妙な新芽",
+      "source_en": "Strange Sprout",
+      "text": "Seltsamer Spross"
+    },
+    {
+      "key": "",
+      "read_index": "1464",
+      "tag_source": "source_en",
+      "source_jp": "漆黒の獣毛",
+      "source_en": "Jet Black Fur",
+      "text": "Pechschwarzes Tierhaar"
+    },
+    {
+      "key": "",
+      "read_index": "1465",
+      "tag_source": "source_en",
+      "source_jp": "侵食魔の骨片",
+      "source_en": "Infected Demon Bone Fragment",
+      "text": "Knochensplitter eines infizierten Dämons"
+    },
+    {
+      "key": "",
+      "read_index": "1466",
+      "tag_source": "source_en",
+      "source_jp": "小妖精の宝冠",
+      "source_en": "Pixie Crown",
+      "text": "Feenkrone"
+    },
+    {
+      "key": "",
+      "read_index": "1467",
+      "tag_source": "source_en",
+      "source_jp": "サンクトサップ",
+      "source_en": "Sancto Sap",
+      "text": "Sancto-Saft"
+    },
+    {
+      "key": "",
+      "read_index": "1468",
+      "tag_source": "source_en",
+      "source_jp": "怪しげな獣皮",
+      "source_en": "Dubious Animal Pelt",
+      "text": "Verdächtiges Tierfell"
+    },
+    {
+      "key": "",
+      "read_index": "1469",
+      "tag_source": "source_en",
+      "source_jp": "肉が抜けた獣皮",
+      "source_en": "Fleshed Animal Pelt",
+      "text": "Entfleischte Tierhaut"
+    },
+    {
+      "key": "",
+      "read_index": "1470",
+      "tag_source": "source_en",
+      "source_jp": "結晶化した樹液",
+      "source_en": "Crystallized Sap",
+      "text": "Kristallisierter Baumsaft"
+    },
+    {
+      "key": "",
+      "read_index": "1471",
+      "tag_source": "source_en",
+      "source_jp": "穢れの小羽根",
+      "source_en": "Corrupted Small Feathers",
+      "text": "Verderbte kleine Federn"
+    },
+    {
+      "key": "",
+      "read_index": "1472",
+      "tag_source": "source_en",
+      "source_jp": "グリフィンスピネル",
+      "source_en": "Griffin Spinel",
+      "text": "Greifenspinell"
+    },
+    {
+      "key": "",
+      "read_index": "1473",
+      "tag_source": "source_en",
+      "source_jp": "災厄を招く黒爪",
+      "source_en": "Black Claw of Misfortune",
+      "text": "Schwarze Unheilsklaue"
+    },
+    {
+      "key": "",
+      "read_index": "1474",
+      "tag_source": "source_en",
+      "source_jp": "大海の希晶",
+      "source_en": "Ocean Crystal",
+      "text": "Meereskristall"
+    },
+    {
+      "key": "",
+      "read_index": "1475",
+      "tag_source": "source_en",
+      "source_jp": "ブルーオパール",
+      "source_en": "Blue Opal",
+      "text": "Blauer Opal"
+    },
+    {
+      "key": "",
+      "read_index": "1476",
+      "tag_source": "source_en",
+      "source_jp": "蒼空のブルーオパール",
+      "source_en": "Blue Skies Blue Opal",
+      "text": "Himmelsblauer Opal"
+    },
+    {
+      "key": "",
+      "read_index": "1477",
+      "tag_source": "source_en",
+      "source_jp": "竜空のブルーオパール",
+      "source_en": "Sky Dragon's Blue Opal",
+      "text": "Blauer Opal des Himmelsdrachen"
+    },
+    {
+      "key": "",
+      "read_index": "1478",
+      "tag_source": "source_en",
+      "source_jp": "灰花岩",
+      "source_en": "Ashen Flower Rock",
+      "text": "Aschenblütenfels"
+    },
+    {
+      "key": "",
+      "read_index": "1479",
+      "tag_source": "source_en",
+      "source_jp": "滑らかな白泥",
+      "source_en": "Smooth White Mud",
+      "text": "Glatter weißer Schlamm"
+    },
+    {
+      "key": "",
+      "read_index": "1480",
+      "tag_source": "source_en",
+      "source_jp": "モローラワン材",
+      "source_en": "Morrow Lauan Wood",
+      "text": "Morrow-Lauanholz"
+    },
+    {
+      "key": "",
+      "read_index": "1481",
+      "tag_source": "source_en",
+      "source_jp": "アダマス鉱",
+      "source_en": "Adamas Ore",
+      "text": "Adamaserz"
+    },
+    {
+      "key": "",
+      "read_index": "1482",
+      "tag_source": "source_en",
+      "source_jp": "銀雪鋼のインゴット",
+      "source_en": "Silvery Snow Steel Ingot",
+      "text": "Silberschneestahlbarren"
+    },
+    {
+      "key": "",
+      "read_index": "1483",
+      "tag_source": "source_en",
+      "source_jp": "エレメンタルレース",
+      "source_en": "Elemental Lace",
+      "text": "Elementarspitze"
+    },
+    {
+      "key": "",
+      "read_index": "1484",
+      "tag_source": "source_en",
+      "source_jp": "実影のスクロール",
+      "source_en": "Scroll of True Shadow",
+      "text": "Schriftrolle des wahren Schattens"
+    },
+    {
+      "key": "",
+      "read_index": "1485",
+      "tag_source": "source_en",
+      "source_jp": "か細い大腿骨",
+      "source_en": "Fine Femur",
+      "text": "Zierlicher Oberschenkelknochen"
+    },
+    {
+      "key": "",
+      "read_index": "1486",
+      "tag_source": "source_en",
+      "source_jp": "護獣の緑毛",
+      "source_en": "Protected Beast's Green Fur",
+      "text": "Grünes Wächterbestienfell"
+    },
+    {
+      "key": "",
+      "read_index": "1487",
+      "tag_source": "source_en",
+      "source_jp": "脈打つ心臓",
+      "source_en": "Still-Beating Heart",
+      "text": "Schlagendes Herz"
+    },
+    {
+      "key": "",
+      "read_index": "1488",
+      "tag_source": "source_en",
+      "source_jp": "海妖鳥の鳴管",
+      "source_en": "Seabird Syrinx",
+      "text": "Stimmorgan eines Seevogels"
+    },
+    {
+      "key": "",
+      "read_index": "1489",
+      "tag_source": "source_en",
+      "source_jp": "千年苔",
+      "source_en": "Thousand-Year Moss",
+      "text": "Tausendjahrmoos"
+    },
+    {
+      "key": "",
+      "read_index": "1490",
+      "tag_source": "source_en",
+      "source_jp": "災厄の歪み角",
+      "source_en": "Deformed Horn of Misfortune",
+      "text": "Verformtes Unheilshorn"
+    },
+    {
+      "key": "",
+      "read_index": "1491",
+      "tag_source": "source_en",
+      "source_jp": "滅びの鷲爪",
+      "source_en": "Eagle's Damaged Talon",
+      "text": "Beschädigte Adlerklaue"
+    },
+    {
+      "key": "",
+      "read_index": "1492",
+      "tag_source": "source_en",
+      "source_jp": "戦徒の忠心",
+      "source_en": "Soldier's Loyalty",
+      "text": "Treue des Gefolgsmanns"
+    },
+    {
+      "key": "",
+      "read_index": "1493",
+      "tag_source": "source_en",
+      "source_jp": "研磨剤",
+      "source_en": "Abrasive",
+      "text": "Schleifmittel"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

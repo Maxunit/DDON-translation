@@ -1,0 +1,416 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\pawn_cultivation.gmd",
+  "arc_path": "\\ui\\uGUIArisenCard.arc",
+  "entries": [
+    {
+      "key": "pawn_growtalk_choice_034",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "支援の頻度を上げる",
+      "source_en": "Increase support frequency",
+      "text": "Erhöhung der Unterstützungsfrequenz"
+    },
+    {
+      "key": "pawn_growtalk_choice_035",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "敵との間合いをより取る",
+      "source_en": "Keep distance from enemies",
+      "text": "Abstand von Feinden halten"
+    },
+    {
+      "key": "pawn_growtalk_choice_036",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "敵との間合いをより詰める",
+      "source_en": "Stay close to enemies",
+      "text": "Bleib in der Nähe von Feinden"
+    },
+    {
+      "key": "pawn_growtalk_choice_037",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "そのとおり",
+      "source_en": "I agree",
+      "text": "Ich stimme zu"
+    },
+    {
+      "key": "pawn_growtalk_choice_038",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "やっぱり前のままでいい",
+      "source_en": "Fine as it was after all",
+      "text": "Gut, wie es doch war"
+    },
+    {
+      "key": "pawn_growtalk_choice_039",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "助言がある",
+      "source_en": "I have advice",
+      "text": "Ich habe Ratschläge"
+    },
+    {
+      "key": "pawn_growtalk_choice_040",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "今のままでいい",
+      "source_en": "Fine as it is now",
+      "text": "Gut, wie es jetzt ist"
+    },
+    {
+      "key": "pawn_growtalk_choice_041",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "行動の優先度を上げる",
+      "source_en": "Increase priority of action",
+      "text": "Erhöhung der Priorität von Maßnahmen"
+    },
+    {
+      "key": "pawn_growtalk_choice_042",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "行動の優先度を下げる",
+      "source_en": "Decrease priority of action",
+      "text": "Verringerung der Priorität von Maßnahmen"
+    },
+    {
+      "key": "pawn_growtalk_choice_043",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "はい",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "pawn_growtalk_choice_044",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "pawn_growtalk_choice_045",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "優先する確率を上げる",
+      "source_en": "Increase",
+      "text": "Erhöhung"
+    },
+    {
+      "key": "pawn_growtalk_choice_046",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "優先する確率を下げる",
+      "source_en": "Decrease",
+      "text": "Abnahme"
+    },
+    {
+      "key": "pawn_growtalk_choice_047",
+      "read_index": "88",
+      "tag_source": "source_en",
+      "source_jp": "続けて、助言がある",
+      "source_en": "Continue, I have advice",
+      "text": "Weiter, ich habe Ratschläge"
+    },
+    {
+      "key": "pawn_growtalk_choice_048",
+      "read_index": "87",
+      "tag_source": "source_en",
+      "source_jp": "別の項目について助言がある",
+      "source_en": "I have advice about something else",
+      "text": "Ich habe Ratschläge zu etwas anderem"
+    },
+    {
+      "key": "pawn_growtalk_choice_049",
+      "read_index": "89",
+      "tag_source": "source_en",
+      "source_jp": "上げる",
+      "source_en": "Increase",
+      "text": "Erhöhung"
+    },
+    {
+      "key": "pawn_growtalk_choice_050",
+      "read_index": "90",
+      "tag_source": "source_en",
+      "source_jp": "下げる",
+      "source_en": "Decrease",
+      "text": "Abnahme"
+    },
+    {
+      "key": "pawn_growtalk_choice_051",
+      "read_index": "95",
+      "tag_source": "source_en",
+      "source_jp": "育成状態の確認",
+      "source_en": "Check training status",
+      "text": "Überprüfung des Ausbildungsstatus"
+    },
+    {
+      "key": "pawn_growtalk_err_001",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "これ以上、上げることはできません",
+      "source_en": "Cannot be increased further.",
+      "text": "Kann nicht weiter erhöht werden."
+    },
+    {
+      "key": "pawn_growtalk_err_002",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "これ以上、下げることはできません",
+      "source_en": "Cannot be decreased further.",
+      "text": "Kann nicht weiter verringert werden."
+    },
+    {
+      "key": "pawn_growtalk_err_003",
+      "read_index": "64",
+      "tag_source": "source_en",
+      "source_jp": "対話回数が足りません",
+      "source_en": "Insufficient dialogue count.",
+      "text": "Unzureichender Dialog zählt."
+    },
+    {
+      "key": "pawn_growtalk_err_004",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "選択中なので他を選んでください",
+      "source_en": "Please select another as it is currently selected.",
+      "text": "Wähle einen anderen aus, da er gerade ausgewählt ist."
+    },
+    {
+      "key": "pawn_growtalk_err_005",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "スキルを持っていないので選択できません",
+      "source_en": "Cannot select because this pawn does not possess\r\nthe skill.",
+      "text": "Kann nicht auswählen, weil dieser Vasall nicht besitzt\r\ndie Fertigkeit."
+    },
+    {
+      "key": "pawn_growtalk_title_001",
+      "read_index": "67",
+      "tag_source": "source_en",
+      "source_jp": "育成するポーンを選んでください",
+      "source_en": "Please select a pawn to train",
+      "text": "Wähle einen Vasall zum Trainieren"
+    },
+    {
+      "key": "pawn_growtalk_title_002",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "助言がありますか？",
+      "source_en": "Do you have any advice?",
+      "text": "Hast du einen Rat?"
+    },
+    {
+      "key": "pawn_growtalk_title_003",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "助言を選択してください",
+      "source_en": "Please choose your advice",
+      "text": "Wähle deinen Rat"
+    },
+    {
+      "key": "pawn_growtalk_title_004",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "優先して狙う敵は？",
+      "source_en": "Prioritize what enemy target?",
+      "text": "Priorisiere welches feindliche Ziel?"
+    },
+    {
+      "key": "pawn_growtalk_title_005",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "優先して狙う敵の最終確認",
+      "source_en": "Final confirmation of enemy target priority",
+      "text": "Endgültige Bestätigung der feindlichen Zielpriorität"
+    },
+    {
+      "key": "pawn_growtalk_title_006",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "敵の大きさは？",
+      "source_en": "How big is the enemy?",
+      "text": "Wie groß ist der Feind?"
+    },
+    {
+      "key": "pawn_growtalk_title_007",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "使う技は？",
+      "source_en": "Use which skill?",
+      "text": "Verwende welche Fertigkeit?"
+    },
+    {
+      "key": "pawn_growtalk_title_008",
+      "read_index": "74",
+      "tag_source": "source_en",
+      "source_jp": "敵の大きさで使う技の最終確認",
+      "source_en": "Final confirmation of skill use\r\naccording to enemy size",
+      "text": "Endgültige Bestätigung des Einsatzes von Fähigkeiten\r\nnach feindlicher Größe"
+    },
+    {
+      "key": "pawn_growtalk_title_009",
+      "read_index": "75",
+      "tag_source": "source_en",
+      "source_jp": "敵の状態は？",
+      "source_en": "What is the enemy's condition?",
+      "text": "Wie ist der Zustand des Feindes?"
+    },
+    {
+      "key": "pawn_growtalk_title_010",
+      "read_index": "76",
+      "tag_source": "source_en",
+      "source_jp": "敵の状態で使う技の最終確認",
+      "source_en": "Final confirmation of skill use\r\naccording to enemy condition",
+      "text": "Endgültige Bestätigung des Einsatzes von Fähigkeiten\r\ngemäß dem feindlichen Zustand"
+    },
+    {
+      "key": "pawn_growtalk_title_011",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "行動の優先を変えたい項目を選択してください",
+      "source_en": "Please select the item you want to change priority",
+      "text": "Wähle den Punkt aus, de die Priorität ändern möchten"
+    },
+    {
+      "key": "pawn_growtalk_title_012",
+      "read_index": "78",
+      "tag_source": "source_en",
+      "source_jp": "優先度をどうしますか？",
+      "source_en": "How will you prioritize actions?",
+      "text": "Wie wirst du Maßnahmen priorisieren?"
+    },
+    {
+      "key": "pawn_growtalk_title_013",
+      "read_index": "79",
+      "tag_source": "source_en",
+      "source_jp": "行動の優先の最終確認",
+      "source_en": "Final confirmation of priority of actions",
+      "text": "Endgültige Bestätigung der Priorität von Maßnahmen"
+    },
+    {
+      "key": "pawn_growtalk_title_014",
+      "read_index": "80",
+      "tag_source": "source_en",
+      "source_jp": "おまかせでいいですか？",
+      "source_en": "Is this okay with you?",
+      "text": "Ist das in Ordnung mit dir?"
+    },
+    {
+      "key": "pawn_growtalk_title_015",
+      "read_index": "81",
+      "tag_source": "source_en",
+      "source_jp": "攻撃・支援の割合は？",
+      "source_en": "What is the attack/support ratio?",
+      "text": "Wie hoch ist das Angriffs-/Unterstützungsverhältnis?"
+    },
+    {
+      "key": "pawn_growtalk_title_016",
+      "read_index": "82",
+      "tag_source": "source_en",
+      "source_jp": "攻撃・支援の割合の最終確認",
+      "source_en": "Final confirmation of attack/support ratio",
+      "text": "Endgültige Bestätigung des Angriffs/Unterstützungsverhältnisses"
+    },
+    {
+      "key": "pawn_growtalk_title_017",
+      "read_index": "83",
+      "tag_source": "source_en",
+      "source_jp": "他に助言はありますか？",
+      "source_en": "Do you have more advice?",
+      "text": "Hast du weitere Ratschläge?"
+    },
+    {
+      "key": "pawn_growtalk_title_018",
+      "read_index": "84",
+      "tag_source": "source_en",
+      "source_jp": "敵との間合いは？",
+      "source_en": "Distance to enemies",
+      "text": "Entfernung zu Feinden"
+    },
+    {
+      "key": "pawn_growtalk_title_019",
+      "read_index": "85",
+      "tag_source": "source_en",
+      "source_jp": "敵との間合いの最終確認",
+      "source_en": "Confirmation of distance to enemies",
+      "text": "Bestätigung der Distanz zu Feinden"
+    },
+    {
+      "key": "pawn_growtalk_title_020",
+      "read_index": "86",
+      "tag_source": "source_en",
+      "source_jp": "確率をどうしますか？",
+      "source_en": "Do what with the probablity?",
+      "text": "Was ist mit der Wahrscheinlichkeit?"
+    },
+    {
+      "key": "pawn_growtalk_title_022",
+      "read_index": "103",
+      "tag_source": "source_en",
+      "source_jp": "育成するジョブを選んでください",
+      "source_en": "Please select a vocation to train",
+      "text": "Wähle eine Berufung zur Ausbildung"
+    },
+    {
+      "key": "pawn_growtalk_title_023",
+      "read_index": "104",
+      "tag_source": "source_en",
+      "source_jp": "敵の種類は？",
+      "source_en": "Enemy type?",
+      "text": "Feindlicher Typ?"
+    },
+    {
+      "key": "pawn_growtalk_title_024",
+      "read_index": "105",
+      "tag_source": "source_en",
+      "source_jp": "敵の種類で使う技の最終確認",
+      "source_en": "Final confirmation of the skills to use based on\r\nthe type of enemy",
+      "text": "Endgültige Bestätigung der zu verwendenden Fähigkeiten basierend auf\r\nder Art des Feindes"
+    },
+    {
+      "key": "pawn_growtalk_word_001",
+      "read_index": "91",
+      "tag_source": "source_en",
+      "source_jp": "の育成項目が増えました",
+      "source_en": "has been added.",
+      "text": "wurde hinzugefügt."
+    },
+    {
+      "key": "pawn_growtalk_word_002",
+      "read_index": "92",
+      "tag_source": "source_en",
+      "source_jp": "に、",
+      "source_en": ", training entry",
+      "text": ", Ausbildungseintrag"
+    },
+    {
+      "key": "pawn_growtalk_word_003",
+      "read_index": "93",
+      "tag_source": "source_en",
+      "source_jp": "（残り回数",
+      "source_en": "(have",
+      "text": "(müssen)"
+    },
+    {
+      "key": "pawn_growtalk_word_004",
+      "read_index": "94",
+      "tag_source": "source_en",
+      "source_jp": "回）",
+      "source_en": "remaining)",
+      "text": "verbleibend"
+    },
+    {
+      "key": "pawn_real_job_no_select",
+      "read_index": "110",
+      "tag_source": "source_en",
+      "source_jp": "育成するジョブとジョブチェンジしているジョブが同じではないため選択できません。",
+      "source_en": "You cannot select it because the job you are\r\ndeveloping and the job you are trying to change to\r\nare not the same.",
+      "text": "Du kannst es nicht auswählen, weil der Job, den du entwickelst\r\n und der Job, in den du wechselst möchten\r\nnicht gleich sind."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

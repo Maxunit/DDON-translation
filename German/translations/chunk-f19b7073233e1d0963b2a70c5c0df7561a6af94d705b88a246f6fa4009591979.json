@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\system_log.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "syslog_achieve_open",
+      "read_index": "118",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ACHIEVE>を解放しました",
+      "source_en": "<NAME ACHIEVE> is now available.",
+      "text": "<NAME ACHIEVE> ist jetzt verfügbar."
+    },
+    {
+      "key": "syslog_achieve_unlock",
+      "read_index": "119",
+      "tag_source": "source_en",
+      "source_jp": "アチーブメント報酬を獲得しました！",
+      "source_en": "Obtained an achievement reward!",
+      "text": "Eine Achievement-Belohnung!"
+    },
+    {
+      "key": "syslog_action_alldestroy_rest_num",
+      "read_index": "299",
+      "tag_source": "source_en",
+      "source_jp": "殲滅まで残り<VAL>体",
+      "source_en": "<VAL> Remaining until extermination",
+      "text": "<VAL> Verbleiben bis zur Ausrottung"
+    },
+    {
+      "key": "syslog_action_em_escape",
+      "read_index": "339",
+      "tag_source": "source_en",
+      "source_jp": "周囲から <NAME TARGET> の気配が消えた",
+      "source_en": "The signs of <NAME TARGET> \r\nhave disappeared from the surroundings.",
+      "text": "Die Zeichen von <NAME TARGET>\r\n sind aus der Umgebung verschwunden."
+    },
+    {
+      "key": "syslog_action_ensa",
+      "read_index": "310",
+      "tag_source": "source_en",
+      "source_jp": "怨嗟の声が渦巻いている――",
+      "source_en": "Voice of Resentment is whirling",
+      "text": "Stimme des Grolls wirbelt"
+    },
+    {
+      "key": "syslog_action_ensa_clear",
+      "read_index": "313",
+      "tag_source": "source_en",
+      "source_jp": "\"怨塊\"を失い、<NAME TARGET> の力が弱まっていく――",
+      "source_en": "Grudge Pillars have been destroyed, <NAME TARGET>\r\nis weakening",
+      "text": "Groll Säulen wurden zerstört, <NAME TARGET>\r\nabschwächt"
+    },
+    {
+      "key": "syslog_action_ensa_target_i",
+      "read_index": "311",
+      "tag_source": "source_en",
+      "source_jp": "邪悪な怨念に憑りつかれた\r\n祓うには、\"怨塊\"を破壊せよ――",
+      "source_en": "You have been possessed by evil spirits\r\nDestroy your Grudge Pillar to purify",
+      "text": "Du bist von bösen Geistern besessen worden\r\nZerstöre deine Grollsäule, um dich zu reinigen."
+    },
+    {
+      "key": "syslog_action_ensa_target_p",
+      "read_index": "312",
+      "tag_source": "source_en",
+      "source_jp": "仲間が怨念に憑りつかれた\r\n祓うには、\"怨塊\"を破壊せよ――",
+      "source_en": "Comrades have been possessed\r\nDestroy Grudge Pillars to purify them",
+      "text": "Genossen wurden besessen\r\nZerstöre Grollsäulen, um sie zu reinigen"
+    },
+    {
+      "key": "syslog_action_evildra_01",
+      "read_index": "348",
+      "tag_source": "source_en",
+      "source_jp": "マグマから炎の力を吸収しようとしている――",
+      "source_en": "Trying to absorb the power of flames from magma.",
+      "text": "Versuchen, die Kraft der Flammen aus Magma zu absorbieren."
+    },
+    {
+      "key": "syslog_action_evildra_02",
+      "read_index": "349",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜は\"火焔の竜晶\"を召喚しようとしている――",
+      "source_en": "The Evil Dragon is about to summon a\r\n\"Dragon Crystal of Flame\".",
+      "text": "Der böse Drache ist dabei, eine\r\n\"Drachenkristall der Flamme\"."
+    },
+    {
+      "key": "syslog_action_evildra_03",
+      "read_index": "350",
+      "tag_source": "source_en",
+      "source_jp": "\"火焔の竜晶\"の出現により\r\nマグマが溜まっていく――",
+      "source_en": "Magma is rising because of the \"Dragon Crystal of\r\nFlame\".",
+      "text": "Magma steigt wegen des \"Drachenkristalls\"\r\nFlamme."
+    },
+    {
+      "key": "syslog_action_evildra_04",
+      "read_index": "351",
+      "tag_source": "source_en",
+      "source_jp": "大量のマグマが溜まってきている\r\n悪しき竜が炎の力を吸収する時が近付く――",
+      "source_en": "There is a large amount of magma built up, the\r\ntime\r\nthe Evil Dragon absorbs the flames power draws\r\nnear.",
+      "text": "Es gibt eine große Menge an Magma aufgebaut, die\r\nUhrzeit\r\nDer Böse Drache absorbiert die Flammen Kraft zieht\r\nin der Nähe"
+    },
+    {
+      "key": "syslog_action_evildra_05",
+      "read_index": "352",
+      "tag_source": "source_en",
+      "source_jp": "死力を尽くした咆哮に、火垂れ山が揺れている――",
+      "source_en": "The fire dripping mountain is shaken by the\r\nfrantic roar.",
+      "text": "Der brennende Berg wird von der\r\nHektisches Brüllen."
+    },
+    {
+      "key": "syslog_action_evildra_06",
+      "read_index": "353",
+      "tag_source": "source_en",
+      "source_jp": "マグマが上昇し始めた――",
+      "source_en": "Magma has begun to rise.",
+      "text": "Magma hat begonnen, sich zu erheben."
+    },
+    {
+      "key": "syslog_action_evildra_07",
+      "read_index": "354",
+      "tag_source": "source_en",
+      "source_jp": "ここから、山頂へ脱出せよ――",
+      "source_en": "From here, escape to the summit.",
+      "text": "Von hier aus flüchte zum Gipfel."
+    },
+    {
+      "key": "syslog_action_evildra_08",
+      "read_index": "355",
+      "tag_source": "source_en",
+      "source_jp": "\"火焔の竜晶\"の出現により\r\nマグマの滝が流れ出した――",
+      "source_en": "Magma is flowing out from the waterfall because\r\nof the\r\n\"Dragon Crystal of Flame\".",
+      "text": "Magma fließt aus dem Wasserfall, weil\r\ndes\r\n \"Dragon Kristall der Flamme\"."
+    },
+    {
+      "key": "syslog_action_evildra_09",
+      "read_index": "356",
+      "tag_source": "source_en",
+      "source_jp": "火口内にある\"火焔の竜晶\"を破壊したことで\r\nマグマの量が減り、戦闘エリアが広がった――",
+      "source_en": "Destroying the \"Dragon Crystals of Flame\" in the\r\ncrater\r\nreduces the amount of magma, expanding your\r\nfoothold.",
+      "text": "Zerstörung der \"Drachenkristalle der Flamme\" in der\r\nKrater\r\nReduziert die Menge an Magma, erweitert deine\r\nFußstütze."
+    },
+    {
+      "key": "syslog_action_evildra_10",
+      "read_index": "357",
+      "tag_source": "source_en",
+      "source_jp": "火口内にある\"火焔の竜晶\"をすべて破壊したことで\r\nマグマの量が減り、戦闘エリアが大きく広がった――",
+      "source_en": "Destroying all \"Dragon Crystals of Flame\" in the\r\ncrater has\r\nreduced the amount of magma, greatly expanding\r\nthe battle area.",
+      "text": "Zerstörung aller \"Drachenkristalle der Flamme\" in der\r\nKrater hat\r\nreduziert die Menge an Magma, stark expandierend\r\nDas Schlachtfeld."
+    },
+    {
+      "key": "syslog_action_evildra_11",
+      "read_index": "358",
+      "tag_source": "source_en",
+      "source_jp": "\"魔炎の竜晶\"の出現により\r\n地表からマグマが噴き上がる――",
+      "source_en": "Magma is flowing out from the surface because of\r\nthe\r\n\"Dragon Crystal of Flame\".",
+      "text": "Magma fließt aus der Oberfläche, weil\r\ndas\r\n\"Drachenkristall der Flamme\"."
+    },
+    {
+      "key": "syslog_action_evildra_12",
+      "read_index": "359",
+      "tag_source": "source_en",
+      "source_jp": "\"魔岩の竜晶\"の出現により\r\n空から火山弾が降り注ぐ――",
+      "source_en": "Meteors are falling down because of the\r\n\"Dragon Crystal of Flame\".",
+      "text": "Meteore fallen wegen der\r\n\"Drachenkristall der Flamme\"."
+    },
+    {
+      "key": "syslog_action_evildra_13",
+      "read_index": "360",
+      "tag_source": "source_en",
+      "source_jp": "\"魔風の竜晶\"の出現により\r\n熱風が吹き荒れている――",
+      "source_en": "Hot steam of airs is blowing out because of the\r\n\"Dragon Crystal of Flame\".",
+      "text": "Heißer Dampf der Luft bläst aus, weil die\r\n\"Drachenkristall der Flamme\"."
+    },
+    {
+      "key": "syslog_action_evildra_14",
+      "read_index": "361",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜が最後の命を燃やそうとしている――",
+      "source_en": "The Evil Dragon is trying to burn its last\r\nfragment of life.",
+      "text": "Der Böse Drache versucht, seinen letzten\r\n Bruch des Lebens zu verbrennen."
+    },
+    {
+      "key": "syslog_action_fog_clear",
+      "read_index": "302",
+      "tag_source": "source_en",
+      "source_jp": "殲滅に成功　異界の霧が晴れてゆく――",
+      "source_en": "Successfully destroyed. The otherworldly fog is\r\nclearing up",
+      "text": "Erfolgreich zerstört. Der jenseitige Nebel ist\r\nAufräumarbeiten"
+    },
+    {
+      "key": "syslog_action_fog_sign",
+      "read_index": "298",
+      "tag_source": "source_en",
+      "source_jp": "異界の霧が吐き零されていく――",
+      "source_en": "Otherworldly fog is spreading out...",
+      "text": "Andersweltlicher Nebel breitet sich aus..."
+    },
+    {
+      "key": "syslog_action_humanhateup_target",
+      "read_index": "295",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET> が周囲の敵の標的になった",
+      "source_en": "<NAME TARGET> \r\nhas become the target of the surrounding enemies.",
+      "text": "<NAME TARGET>\r\n ist zum Ziel der umgebenden Feinde geworden."
+    },
+    {
+      "key": "syslog_action_ikai_01",
+      "read_index": "315",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET> が異界に飛ばされた――",
+      "source_en": "<NAME TARGET> \r\nwas teleported to a different world",
+      "text": "<NAME TARGET>\r\n wurde in eine andere Welt teleportiert"
+    },
+    {
+      "key": "syslog_action_ikai_02",
+      "read_index": "316",
+      "tag_source": "source_en",
+      "source_jp": "\"魔物\"を倒し、魂を集めて異界の扉を開け――",
+      "source_en": "Defeat monsters and collect their souls to open\r\nDoor to the Other World",
+      "text": "Besiege Monster und sammle ihre Seelen, um sich zu öffnen\r\nTür zur anderen Welt"
+    },
+    {
+      "key": "syslog_action_ikai_03",
+      "read_index": "317",
+      "tag_source": "source_en",
+      "source_jp": "異界から救い出すには、\"怨塊\"を破壊せよ――",
+      "source_en": "Destroy Grudge Pillars to rescue comrade from the\r\nother world",
+      "text": "Zerstöre Grudge-Säulen, um Kameraden aus dem Land zu retten\r\nandere Welt"
+    },
+    {
+      "key": "syslog_action_ikai_04",
+      "read_index": "318",
+      "tag_source": "source_en",
+      "source_jp": "異界の扉が開かれた――",
+      "source_en": "Door to the Other World has opened",
+      "text": "Die Tür zur anderen Welt hat sich geöffnet"
+    },
+    {
+      "key": "syslog_action_ikai_05",
+      "read_index": "319",
+      "tag_source": "source_en",
+      "source_jp": "仲間によって\"怨塊\"が破壊されたことで\r\n異界の扉が開かれた――",
+      "source_en": "Your comrades have destroyed the Grudge Pillars\r\nand Door to the Other World has opened",
+      "text": "Eure Kameraden haben die Grollsäulen zerstört\r\n und die Tür zur anderen Welt hat sich geöffnet"
+    },
+    {
+      "key": "syslog_action_ikai_06",
+      "read_index": "331",
+      "tag_source": "source_en",
+      "source_jp": "異界の扉が、より多くの魂を求めている――",
+      "source_en": "Door to the Other World desires more souls",
+      "text": "Tür zur anderen Welt wünscht sich mehr Seelen"
+    },
+    {
+      "key": "syslog_action_ikai_07",
+      "read_index": "332",
+      "tag_source": "source_en",
+      "source_jp": "残り半分の魂を捧げれば、扉は開かれる――",
+      "source_en": "The door will open after you offer some more souls",
+      "text": "Die Tür wird sich öffnen, nachdem du noch mehr Seelen angeboten hast"
+    },
+    {
+      "key": "syslog_action_ikai_08",
+      "read_index": "333",
+      "tag_source": "source_en",
+      "source_jp": "残りわずかな魂で、異界の扉が開く――",
+      "source_en": "The door will open after just a few more souls",
+      "text": "Die Tür wird sich nach nur ein paar weiteren Seelen öffnen"
+    },
+    {
+      "key": "syslog_action_ikai_09",
+      "read_index": "338",
+      "tag_source": "source_en",
+      "source_jp": "異界に飛ばされた――",
+      "source_en": "Teleported to a different world",
+      "text": "Teleportiert in eine andere Welt"
+    },
+    {
+      "key": "syslog_action_ikai_10",
+      "read_index": "340",
+      "tag_source": "source_en",
+      "source_jp": "残っている\"怨塊\"を、すべて破壊せよ――",
+      "source_en": "Destroy all of the remaining \"Grudge Pillars\"",
+      "text": "Zerstöre alle verbleibenden \"Grudge Pillars\""
+    },
+    {
+      "key": "syslog_action_ikai_11",
+      "read_index": "344",
+      "tag_source": "source_en",
+      "source_jp": "怨塊 残り\"<VAL>個\"――",
+      "source_en": "\"<VAL>\" Grudge Pillars left",
+      "text": "<VAL> Grudge Pillars links"
+    },
+    {
+      "key": "syslog_action_ikai_12",
+      "read_index": "345",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET> が凶骨の祭壇へ運ばれた\r\n助けなければ、全員に厄災が降りかかる――",
+      "source_en": "<NAME TARGET> \r\nwas taken to the Bone Altar.\r\nIf you don't rescue them, everyone will meet with\r\ndisaster",
+      "text": "<NAME TARGET>\r\n wurde zum Knochenaltar gebracht.\r\n Wenn du sie nicht rettest, werden sich alle mit einer Katastrophe treffen\r\n"
+    },
+    {
+      "key": "syslog_action_ikai_13",
+      "read_index": "346",
+      "tag_source": "source_en",
+      "source_jp": "生贄として、<NAME TARGET> が祭壇に捧げられ\r\n全員に厄災が降りかかった――",
+      "source_en": "<NAME TARGET> was sacrificed at the Altar.\r\nEveryone has met with disaster",
+      "text": "<NAME TARGET> wurde am Altar geopfert.\r\nJeder hat eine Katastrophe erlebt."
+    },
+    {
+      "key": "syslog_action_safety_dome",
+      "read_index": "322",
+      "tag_source": "source_en",
+      "source_jp": "杖から\"護身の結界\"が展開された",
+      "source_en": "A \"protective barrier\" was deployed from the\r\nstaff.",
+      "text": "Eine \"Schutzbarriere\" wurde von der\r\nPersonal."
+    },
+    {
+      "key": "syslog_action_staff_of_wise",
+      "read_index": "321",
+      "tag_source": "source_en",
+      "source_jp": "\"竜角の杖\"の殲滅まで残り<VAL>本",
+      "source_en": "The number of remaining \"Dragon Horn Staffs\"\r\nuntil extermination: <VAL>.",
+      "text": "Die Zahl der verbleibenden \"Dragon Horn Staffs\"\r\nbis zur Vernichtung: <VAL>."
+    },
+    {
+      "key": "syslog_action_staff_of_wise_break",
+      "read_index": "343",
+      "tag_source": "source_en",
+      "source_jp": "\"竜角の杖\"を破壊せよ――",
+      "source_en": "Destroy the \"Dragon Horn Staff.\"",
+      "text": "Zerstöre den Drachenhornstab."
+    },
+    {
+      "key": "syslog_action_summon_enemy01",
+      "read_index": "308",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET> が魔物を呼び寄せている――",
+      "source_en": "<NAME TARGET> \r\nis calling monsters",
+      "text": "<NAME TARGET>\r\n ruft Monster an"
+    },
+    {
+      "key": "syslog_action_summon_enemy02",
+      "read_index": "314",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET> が魔物を召喚しようとしている――",
+      "source_en": "<NAME TARGET> \r\nis summoning monsters",
+      "text": "<NAME TARGET>\r\nbeschwört Monster"
+    },
+    {
+      "key": "syslog_action_summon_enemy_clear",
+      "read_index": "309",
+      "tag_source": "source_en",
+      "source_jp": "召喚された魔物を一掃した――",
+      "source_en": "Summoned monsters have been eliminated.",
+      "text": "Beschworene Monster wurden eliminiert."
+    },
+    {
+      "key": "syslog_action_tornado_sign",
+      "read_index": "294",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET> が竜巻を起こそうとしている",
+      "source_en": "<NAME TARGET> \r\nis about to create a tornado.",
+      "text": "<NAME TARGET>\r\n ist dabei, einen Tornado zu schaffen."
+    },
+    {
+      "key": "syslog_action_tornado_target",
+      "read_index": "293",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET> が竜巻に狙われている",
+      "source_en": "<NAME TARGET> \r\nhas become the target of the tornado.",
+      "text": "<NAME TARGET>\r\nist zum Ziel des Tornados geworden."
+    },
+    {
+      "key": "syslog_archieve_get",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "アチーブメント「<NAME ACHIEVE>」を獲得しました",
+      "source_en": "Earned achievement\r\n\"<NAME ACHIEVE>\".",
+      "text": "Verdiente Leistung\r\n\"<NAME ACHIEVE>\"."
+    },
+    {
+      "key": "syslog_areamaster_ap_get",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のエリアポイント\r\n<VAL AP>を獲得しました",
+      "source_en": "<NAME AREA>: +<VAL AP>",
+      "text": "<NAME AREA>: +<VAL AP>"
+    },
+    {
+      "key": "syslog_auto_cancel_navigate",
+      "read_index": "347",
+      "tag_source": "source_en",
+      "source_jp": "冒険ガイドにクエストが存在しないため\r\n現在のナビゲート設定を解除しました",
+      "source_en": "Because there is no quest in the Adventure Guide,\r\nI have now canceled the current navigation\r\nsettings.",
+      "text": "Da es im Adventure Guide keine Quest gibt,\r\n habe ich nun die aktuellen Navigationseinstellungen\r\n abgesagt."
+    },
+    {
+      "key": "syslog_battle_danger",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> 秒で最後に立ち寄った拠点から再開されます",
+      "source_en": "You will be returned home in\r\n<VAL> seconds.",
+      "text": "Du wirst in\r\n <VAL> Sekunden nach Hause zurückkehren."
+    },
+    {
+      "key": "syslog_battle_danger_tg",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>が行動不能になりました",
+      "source_en": "<NAME TARGET> \r\nhas been incapacitated.",
+      "text": "<NAME TARGET>\r\nwurde handlungsunfähig."
+    },
+    {
+      "key": "syslog_battle_die",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "あと<VAL>秒で最後に立ち寄った拠点から再開されます",
+      "source_en": "After <VAL> seconds, you will be returned home.",
+      "text": "Nach <VAL> Sekunden wirst du nach Hause zurückkehren."
+    },
+    {
+      "key": "syslog_bazaar_cancel",
+      "read_index": "136",
+      "tag_source": "source_en",
+      "source_jp": "バザーに出品中の<NAME ITEM>を取り消しました",
+      "source_en": "<NAME ITEM> has been withdrawn from the bazaar.",
+      "text": "<NAME ITEM> wurde aus dem Basar zurückgezogen."
+    },
+    {
+      "key": "syslog_bazaar_put",
+      "read_index": "134",
+      "tag_source": "source_en",
+      "source_jp": "バザーに<NAME ITEM>を出品しました",
+      "source_en": "<NAME ITEM> has been exhibited in the bazaar.",
+      "text": "<NAME ITEM> wurde auf dem Basar ausgestellt."
+    },
+    {
+      "key": "syslog_bazaar_reput",
+      "read_index": "135",
+      "tag_source": "source_en",
+      "source_jp": "バザーに<NAME ITEM>を再出品しました",
+      "source_en": "<NAME ITEM> has been re-exhibited in the bazaar.",
+      "text": "<NAME ITEM> wurde im Basar wieder ausgestellt."
+    },
+    {
+      "key": "syslog_bazaar_sell",
+      "read_index": "137",
+      "tag_source": "source_en",
+      "source_jp": "バザーに出品中の<NAME ITEM>が取引成立しました",
+      "source_en": "<NAME ITEM> has sold on the bazaar.",
+      "text": "<NAME ITEM> hat auf dem Basar verkauft."
+    },
+    {
+      "key": "syslog_bbi_item_embody",
+      "read_index": "334",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>に<NAME ITEM>を<VAL>個、持ち帰りました",
+      "source_en": "Brought back into <VAL> is <NAME ITEM> x<VAL>.",
+      "text": "Zurückgebracht in <VAL> ist <NAME ITEM> x <VAL>."
+    },
+    {
+      "key": "syslog_bless_get",
+      "read_index": "131",
+      "tag_source": "source_en",
+      "source_jp": "復活力 が回復しました",
+      "source_en": "Revival power recovered.",
+      "text": "Wiederbelebungsleistung zurückgewonnen."
+    },
+    {
+      "key": "syslog_bo_get",
+      "read_index": "130",
+      "tag_source": "source_en",
+      "source_jp": "<VAL BO>を入手しました",
+      "source_en": "<VAL BO> obtained.",
+      "text": "<VAL BO> erhalten."
+    },
+    {
+      "key": "syslog_bo_get_ex",
+      "read_index": "303",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> (+<VAL>) <UNIT BO>を入手しました",
+      "source_en": "<VAL> (+<VAL>) <UNIT BO> obtained.",
+      "text": "<VAL> (+<VAL>) <UNIT BO> erhalten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

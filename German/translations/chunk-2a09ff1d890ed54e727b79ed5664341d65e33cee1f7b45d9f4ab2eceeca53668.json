@@ -1,0 +1,296 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\MissionResult_res.gmd",
+  "arc_path": "\\ui\\uGUIMissionResult.arc",
+  "entries": [
+    {
+      "key": "mr_msg_contents_failed_break",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "コンテンツ中断/失敗",
+      "source_en": "Exit Content/Failed",
+      "text": "Abgebrochen oder fehlgeschlagen"
+    },
+    {
+      "key": "mr_msg_deathpenalty",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "死亡ペナルティ",
+      "source_en": "Death penalty",
+      "text": "Strafe bei Tod"
+    },
+    {
+      "key": "mr_msg_element",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "項目",
+      "source_en": "Item",
+      "text": "Eintrag"
+    },
+    {
+      "key": "mr_msg_finish",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "完了",
+      "source_en": "Finish",
+      "text": "Fertig"
+    },
+    {
+      "key": "mr_msg_get",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "を獲得！",
+      "source_en": "acquired!",
+      "text": " erhalten!"
+    },
+    {
+      "key": "mr_msg_head_reward_normal",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "基本報酬",
+      "source_en": "Basic Reward",
+      "text": "Grundbelohnung"
+    },
+    {
+      "key": "mr_msg_head_reward_opcs",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "<OPCS>報酬",
+      "source_en": "<OPCS> Reward",
+      "text": "<OPCS>-Belohnung"
+    },
+    {
+      "key": "mr_msg_head_reward_parts",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "部位破壊報酬",
+      "source_en": "Part Break Rewards",
+      "text": "Belohnung für zerstörte Körperteile"
+    },
+    {
+      "key": "mr_msg_head_timebonus",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "残タイムスコア",
+      "source_en": "Remaining Time Score",
+      "text": "Punkte für Restzeit"
+    },
+    {
+      "key": "mr_msg_head_timebonus_powered",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "タイムボーナス",
+      "source_en": "Time Bonus",
+      "text": "Zeitbonus"
+    },
+    {
+      "key": "mr_msg_lobby",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "秒後にロビーに戻ります",
+      "source_en": "seconds left until you return",
+      "text": " Sek. bis zur Rückkehr in die Lobby"
+    },
+    {
+      "key": "mr_msg_no_element",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "項目はありません",
+      "source_en": "No items",
+      "text": "Keine Einträge"
+    },
+    {
+      "key": "mr_msg_no_reward",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "報酬はありません",
+      "source_en": "There are currently no rewards.",
+      "text": "Derzeit keine Belohnungen verfügbar."
+    },
+    {
+      "key": "mr_msg_parts_break",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "部位破壊",
+      "source_en": "Part Break",
+      "text": "Zerstörte Körperteile"
+    },
+    {
+      "key": "mr_msg_point_doubling_001",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "コンテンツを中断したため、使用できません",
+      "source_en": "Not available because the content has been\r\ncanceled.",
+      "text": "Nicht verfügbar. Die Mission wurde\r\nabgebrochen."
+    },
+    {
+      "key": "mr_msg_point_doubling_002",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "Scoreが 0 DPのため、使用できません",
+      "source_en": "Not available because the Score is 0 DP",
+      "text": "Bei 0 DP nicht verfügbar."
+    },
+    {
+      "key": "mr_msg_point_doubling_003",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "上限に達したため、再抽選できません",
+      "source_en": "Can't perform a redraw because the limit has been\r\nreached.",
+      "text": "Das Limit ist erreicht.\r\nEine neue Ziehung ist nicht möglich."
+    },
+    {
+      "key": "mr_msg_point_doubling_004",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>黄金石 <VAL> 個</COL>を消費して\r\nポイント倍加抽選をおこないますか？\r\nポイント倍加抽選は以下のいずれかが抽選されます\r\n再抽選の場合、<COL ffdc78>元の結果より高い倍加を抽選</COL>します",
+      "source_en": "Do you want to consume <COL ffdc78>Golden\r\nGemstone x <VAL></COL> to participate in the Point\r\nDoubler Lottery?\r\nThe Point Doubler Lottery will draw one of the\r\nfollowing results:\r\nIf a re-draw occurs, <COL ffdc78>t will draw a\r\nhigher multiplier than the original result.</COL>",
+      "text": "Möchtest du konsumieren <COL ffdc78>Gold\r\nEdelstein x <VAL></COL> um am Point teilzunehmen\r\nVerdoppelte Lotterie?\r\nDie Point Doubler Lotterie wird eine der\r\nfolgende Ergebnisse:\r\nWenn ein Re-Draw stattfindet, <COL ffdc78>t wird a zeichnen\r\nhöherer Multiplikator als das ursprüngliche Ergebnis.</COL>"
+    },
+    {
+      "key": "mr_msg_point_doubling_005",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "合計ポイント",
+      "source_en": "Total Points",
+      "text": "Gesamtpunkte"
+    },
+    {
+      "key": "mr_msg_point_doubling_006",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "おめでとうございます！\r\n＜合計ポイント<VAL>倍＞を獲得しました",
+      "source_en": "Congratulations! You have earned <VAL> times the\r\ntotal points.",
+      "text": "Glückwunsch! Du erhältst das <VAL>-Fache\r\nder Gesamtpunkte."
+    },
+    {
+      "key": "mr_msg_point_doubling_007",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "倍加ボーナス",
+      "source_en": "Double Bonus",
+      "text": "Multiplikatorbonus"
+    },
+    {
+      "key": "mr_msg_point_doubling_008",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "リザルト終了まで、残り<VAL>秒",
+      "source_en": "Only <VAL> seconds left until the end of the\r\nresults.",
+      "text": "Die Ergebnisanzeige schließt in<VAL> Sekunden.\r\n"
+    },
+    {
+      "key": "mr_msg_result_reward",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "リザルト報酬を獲得！",
+      "source_en": "Resulting rewards!",
+      "text": "Abschlussbelohnungen erhalten!"
+    },
+    {
+      "key": "mr_msg_score",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Total Score",
+      "source_en": "Total Score",
+      "text": "Gesamtpunkte"
+    },
+    {
+      "key": "mr_msg_sum",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "小計",
+      "source_en": "Subtotal",
+      "text": "Zwischensumme"
+    },
+    {
+      "key": "mr_msg_tab_reward",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "報酬",
+      "source_en": "Reward",
+      "text": "Belohnung"
+    },
+    {
+      "key": "mr_msg_tab_score",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "スコア詳細",
+      "source_en": "Score Details",
+      "text": "Punktedetails"
+    },
+    {
+      "key": "mr_msg_tec_score",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "Technical Score",
+      "source_en": "Technical Score",
+      "text": "Technikpunkte"
+    },
+    {
+      "key": "mr_msg_tec_score_best",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "Best Technical Score",
+      "source_en": "Best Technical Score",
+      "text": "Beste Technikpunktzahl"
+    },
+    {
+      "key": "mr_msg_times",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "回数",
+      "source_en": "Count",
+      "text": "Anzahl"
+    },
+    {
+      "key": "mr_msg_title_en",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "Mission Result",
+      "source_en": "Mission Result",
+      "text": "Missionsergebnis"
+    },
+    {
+      "key": "mr_msg_title_jp",
+      "read_index": "21",
+      "tag_source": "source_jp",
+      "source_jp": "ミッションリザルト",
+      "source_en": " ",
+      "text": "Missionsergebnis"
+    },
+    {
+      "key": "mr_msg_total",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "Grand Total Score",
+      "source_en": " ",
+      "text": "Gesamtpunktzahl"
+    },
+    {
+      "key": "mr_msg_wm_bonus_1",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "戦況ボーナス",
+      "source_en": "War Situation Bonus",
+      "text": "Gefechtsbonus"
+    },
+    {
+      "key": "mr_msg_wm_dp_name_acc",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "ウォーミッション累積ポイント",
+      "source_en": "War Mission Accumulated Points",
+      "text": "Gesamtpunkte der Kriegsmission"
+    },
+    {
+      "key": "mr_msg_wm_score",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "Score",
+      "source_en": "Score",
+      "text": "Punkte"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

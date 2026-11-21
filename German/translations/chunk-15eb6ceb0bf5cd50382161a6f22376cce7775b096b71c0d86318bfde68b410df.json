@@ -1,0 +1,200 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\hud.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "hud_disp_infinity",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "∞",
+      "source_en": "∞",
+      "text": "∞"
+    },
+    {
+      "key": "hud_disp_level",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "LV.",
+      "source_en": "LV.",
+      "text": "St."
+    },
+    {
+      "key": "hud_enemy_nodamage",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "Invulnerable",
+      "source_en": "Invulnerable",
+      "text": "Unverwundbar"
+    },
+    {
+      "key": "hud_gauge_sorcery_bonus",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "× <VAL>",
+      "source_en": "× <VAL>",
+      "text": "× <VAL>"
+    },
+    {
+      "key": "hud_gauge_xp_next",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "Next",
+      "source_en": "Next",
+      "text": "Nächste Stufe"
+    },
+    {
+      "key": "hud_get_announce_gdm",
+      "read_index": "85",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> $#",
+      "source_en": "<VAL> $#",
+      "text": "<VAL> $#"
+    },
+    {
+      "key": "hud_get_announce_gdm_ex",
+      "read_index": "93",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> <VAL> $#",
+      "source_en": "<VAL> <VAL> $#",
+      "text": "<VAL> <VAL> $#"
+    },
+    {
+      "key": "hud_get_announce_goldstone",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> @",
+      "source_en": "<VAL> @",
+      "text": "<VAL> @"
+    },
+    {
+      "key": "hud_get_announce_ms",
+      "read_index": "83",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> =*",
+      "source_en": "<VAL> =*",
+      "text": "<VAL> =*"
+    },
+    {
+      "key": "hud_get_announce_rdm",
+      "read_index": "87",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> }#",
+      "source_en": "<VAL> }#",
+      "text": "<VAL> }#"
+    },
+    {
+      "key": "hud_get_announce_rdm_ex",
+      "read_index": "95",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> <VAL> }#",
+      "source_en": "<VAL> <VAL> }#",
+      "text": "<VAL> <VAL> }#"
+    },
+    {
+      "key": "hud_get_announce_sdm",
+      "read_index": "86",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> {#",
+      "source_en": "<VAL> {#",
+      "text": "<VAL> {#"
+    },
+    {
+      "key": "hud_get_announce_sdm_ex",
+      "read_index": "94",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> <VAL> {#",
+      "source_en": "<VAL> <VAL> {#",
+      "text": "<VAL> <VAL> {#"
+    },
+    {
+      "key": "hud_get_announce_silvertickets",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> _|",
+      "source_en": "<VAL> _|",
+      "text": "<VAL> _|"
+    },
+    {
+      "key": "hud_job_unequipped",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "None",
+      "source_en": "None",
+      "text": "Nicht ausgerüstet"
+    },
+    {
+      "key": "hud_quest_em",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "Extreme Mission",
+      "source_en": "Extreme Mission",
+      "text": "Extremmission"
+    },
+    {
+      "key": "hud_quest_gm",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "Grand Mission",
+      "source_en": "Grand Mission",
+      "text": "Großmission"
+    },
+    {
+      "key": "hud_quest_qg_chain",
+      "read_index": "96",
+      "tag_source": "source_en",
+      "source_jp": "Chain",
+      "source_en": "Chain",
+      "text": "Serie"
+    },
+    {
+      "key": "hud_quest_qg_point",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "Score",
+      "source_en": "Score",
+      "text": "Punkte"
+    },
+    {
+      "key": "hud_quest_qg_pt",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "pt",
+      "source_en": "pt",
+      "text": "pt"
+    },
+    {
+      "key": "hud_quest_qg_sec",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "sec",
+      "source_en": "sec",
+      "text": "Sek."
+    },
+    {
+      "key": "hud_quest_qg_time",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "Time",
+      "source_en": "Time",
+      "text": "Zeit"
+    },
+    {
+      "key": "hud_quest_qo",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "Quest Owner",
+      "source_en": "Quest Owner",
+      "text": "Questleitung"
+    },
+    {
+      "key": "hud_recommend_level",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "LV.%d",
+      "source_en": "LV.%d",
+      "text": "St.%d"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

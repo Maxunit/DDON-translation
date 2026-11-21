@@ -1,0 +1,184 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\menu_common.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "menu_cmn_filter",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "フィルタ",
+      "source_en": "Filter",
+      "text": "Filter"
+    },
+    {
+      "key": "menu_cmn_filter_off",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "フィルタを解除",
+      "source_en": "Unfiltered",
+      "text": "Filter zurücksetzen"
+    },
+    {
+      "key": "menu_cmn_filter_select",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "適用するフィルタを選んでください",
+      "source_en": "Please select the filter to apply",
+      "text": "Filter auswählen"
+    },
+    {
+      "key": "menu_cmn_header_item",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "Item",
+      "source_en": "Item",
+      "text": "Gegenstand"
+    },
+    {
+      "key": "menu_cmn_header_storage",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "Storage",
+      "source_en": "Storage",
+      "text": "Lager"
+    },
+    {
+      "key": "menu_cmn_hp",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "HP",
+      "source_en": "HP",
+      "text": "LP"
+    },
+    {
+      "key": "menu_cmn_item",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "アイテム",
+      "source_en": "Item",
+      "text": "Gegenstand"
+    },
+    {
+      "key": "menu_cmn_job",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "Job",
+      "source_en": "Vocation",
+      "text": "Klasse"
+    },
+    {
+      "key": "menu_cmn_max",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "MAX",
+      "source_en": "MAX",
+      "text": "MAX"
+    },
+    {
+      "key": "menu_cmn_next",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "Next",
+      "source_en": "Next",
+      "text": "Weiter"
+    },
+    {
+      "key": "menu_cmn_open_online_shop",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "オンラインショップを開く",
+      "source_en": "Open online shop",
+      "text": "Online-Shop öffnen"
+    },
+    {
+      "key": "menu_cmn_receive_bag",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "アイテムバッグに受け取る",
+      "source_en": "Receive in item bag",
+      "text": "In der Tasche entgegennehmen"
+    },
+    {
+      "key": "menu_cmn_receive_box",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "保管ボックスに受け取る",
+      "source_en": "Send to storage",
+      "text": "Ins Lager"
+    },
+    {
+      "key": "menu_cmn_shortage_gs",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN GS>が不足しています\r\n（所持数：<HAVE GS>）",
+      "source_en": "<UNTN GS> is missing. (Number in possession:\r\n<have GS>)",
+      "text": "Nicht genug <UNTN GS>. (Im Besitz:\r\n<have GS>)"
+    },
+    {
+      "key": "menu_cmn_si_height",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> cm",
+      "source_en": "<VAL> cm",
+      "text": "<VAL> cm"
+    },
+    {
+      "key": "menu_cmn_skill_air",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "空中",
+      "source_en": "Air",
+      "text": "In der Luft"
+    },
+    {
+      "key": "menu_cmn_skill_climb",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "しがみつき",
+      "source_en": "Climb",
+      "text": "Beim Festhalten"
+    },
+    {
+      "key": "menu_cmn_skill_grand",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "地上",
+      "source_en": "Ground",
+      "text": "Am Boden"
+    },
+    {
+      "key": "menu_cmn_slash",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "/",
+      "source_en": "/",
+      "text": "/"
+    },
+    {
+      "key": "menu_cmn_slash_val",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "/<VAL>",
+      "source_en": "/<VAL>",
+      "text": "/<VAL>"
+    },
+    {
+      "key": "menu_cmn_stamina",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "ST",
+      "source_en": "ST",
+      "text": "ST"
+    },
+    {
+      "key": "menu_cmn_val_slash_val",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>/<VAL>",
+      "source_en": "<VAL>/<VAL>",
+      "text": "<VAL>/<VAL>"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

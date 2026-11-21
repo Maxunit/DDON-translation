@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\Quest_res.gmd",
+  "arc_path": "\\ui\\uGUIPopRmcQuestInfo.arc",
+  "entries": [
+    {
+      "key": "QUEST_MSG_CLAN_QUEST_TITLE_JP",
+      "read_index": "108",
+      "tag_source": "source_jp",
+      "source_jp": "クランクエスト",
+      "source_en": " ",
+      "text": "Clanquests"
+    },
+    {
+      "key": "QUEST_MSG_HARD_QUEST_TITLE_JP",
+      "read_index": "123",
+      "tag_source": "source_jp",
+      "source_jp": "スペシャルクエストボード",
+      "source_en": " ",
+      "text": "Besonderes Questboard"
+    },
+    {
+      "key": "QUEST_MSG_LB_BONUS",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "ボーナス",
+      "source_en": "Bonus",
+      "text": "Bonus"
+    },
+    {
+      "key": "QUEST_MSG_LB_G",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ゴールド",
+      "source_en": "Gold",
+      "text": "Gold"
+    },
+    {
+      "key": "QUEST_MSG_MASK",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "？？？？？",
+      "source_en": "？？？？？",
+      "text": "？？？？？"
+    },
+    {
+      "key": "QUEST_MSG_MOB_HUNT_TITLE_JP",
+      "read_index": "154",
+      "tag_source": "source_jp",
+      "source_jp": "ワイルドハント",
+      "source_en": " ",
+      "text": "Monsterjagd"
+    },
+    {
+      "key": "QUEST_MSG_NOTHING_0",
+      "read_index": "92",
+      "tag_source": "source_en",
+      "source_jp": "---",
+      "source_en": "—",
+      "text": "—"
+    },
+    {
+      "key": "QUEST_MSG_UN_AP",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "AP",
+      "source_en": "AP",
+      "text": "AP"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

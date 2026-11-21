@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\item_select_common.gmd",
+  "arc_path": "\\ui\\uGUIItemSelectCommon.arc",
+  "entries": [
+    {
+      "key": "item_sel_infdelivery_title_jp",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "納品するアイテムを選択してください",
+      "source_en": " ",
+      "text": "Gegenstand zur Abgabe auswählen"
+    },
+    {
+      "key": "item_sel_mandra_title_sub",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "マンドラゴラを育てる",
+      "source_en": " ",
+      "text": "Mandragora züchten"
+    },
+    {
+      "key": "item_sel_sameitem_title_jp",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "所持している同じアイテム一覧",
+      "source_en": " ",
+      "text": "Gleiche Gegenstände im Besitz"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\ShopTitleCharges_res.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "msg_ShopTitle_Charges18",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "%s",
+      "source_en": "%s",
+      "text": "%s"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\time_event.gmd",
+  "arc_path": "\\ui\\uGUITimeEvent.arc",
+  "entries": [
+    {
+      "key": "time_event_backup_title_en",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Time Event",
+      "source_en": "Time Event",
+      "text": "Zeitlich begrenztes Event"
+    },
+    {
+      "key": "time_event_backup_title_jp",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "期間イベント",
+      "source_en": " ",
+      "text": "Zeitlich begrenztes Event"
+    },
+    {
+      "key": "time_event_msg_01",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "項目はありません",
+      "source_en": "No items",
+      "text": "Keine Einträge"
+    },
+    {
+      "key": "time_event_msg_02",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "条件",
+      "source_en": "Conditions",
+      "text": "Bedingungen"
+    },
+    {
+      "key": "time_event_msg_03",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "達成度",
+      "source_en": "Achievement progress",
+      "text": "Fortschritt"
+    },
+    {
+      "key": "time_event_msg_04",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "報酬",
+      "source_en": "Reward",
+      "text": "Belohnung"
+    },
+    {
+      "key": "time_event_msg_05",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "無制限",
+      "source_en": "Indefinite",
+      "text": "Unbegrenzt"
+    },
+    {
+      "key": "time_event_msg_06",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "開始まで",
+      "source_en": "Starts in",
+      "text": "Beginnt in"
+    },
+    {
+      "key": "time_event_msg_07",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "終了しました",
+      "source_en": "Ended",
+      "text": "Beendet"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

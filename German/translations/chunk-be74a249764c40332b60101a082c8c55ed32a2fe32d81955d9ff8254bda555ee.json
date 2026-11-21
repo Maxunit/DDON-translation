@@ -1,0 +1,320 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\rim_stone.gmd",
+  "arc_path": "\\ui\\uGUIRimStone.arc",
+  "entries": [
+    {
+      "key": "RIM_INST_MSG_BTN00",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "検索条件設定",
+      "source_en": "Set Search Criteria",
+      "text": "Suchkriterien festlegen"
+    },
+    {
+      "key": "RIM_MSG_CHOICE_CATEGORY",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "左のカテゴリを選んでください",
+      "source_en": "Please select the category on the left.",
+      "text": "Wähle die Kategorie auf der linken Seite."
+    },
+    {
+      "key": "RIM_MSG_COST_FORMAT",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> <COL 5f5fffff>R</COL>",
+      "source_en": "<VAL> <COL 5f5fffff>R</COL>",
+      "text": "<VAL> <COL 5f5fffff>R</COL>"
+    },
+    {
+      "key": "RIM_MSG_LEVEL_RANGE",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "Lv <VAL>～<VAL>",
+      "source_en": "Lv <VAL>～<VAL>",
+      "text": "Lv <VAL>≤<VAL>"
+    },
+    {
+      "key": "RIM_MSG_LOST_PAWN_NOT_FOUND",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "ロストしているポーンがいません",
+      "source_en": "There are no lost Pawns.",
+      "text": "Es gibt keine verlorenen Vasallen."
+    },
+    {
+      "key": "RIM_MSG_MAIN_PAWN_COUNT",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "契約状況：",
+      "source_en": "Contracts:",
+      "text": "Verträge:"
+    },
+    {
+      "key": "RIM_MSG_MAIN_PAWN_NOT_FOUND",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "ポーンと契約していません",
+      "source_en": "You have not made a contract with any pawns",
+      "text": "Du hast keinen Vertrag mit irgendwelchen Vasallen gemacht"
+    },
+    {
+      "key": "RIM_MSG_NO_COST",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "Free",
+      "source_en": "Free",
+      "text": "frei"
+    },
+    {
+      "key": "RIM_MSG_PAWN_STATE_CRAFT",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "クラフト中",
+      "source_en": "Crafting",
+      "text": "Stellt Gegenstände her"
+    },
+    {
+      "key": "RIM_MSG_PAWN_STATE_LOST",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "ロスト状態",
+      "source_en": "Lost State",
+      "text": "Verloren"
+    },
+    {
+      "key": "RIM_MSG_PAWN_STATE_NONE",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "待機状態",
+      "source_en": "Standby State",
+      "text": "Bereitschaftszustand"
+    },
+    {
+      "key": "RIM_MSG_PAWN_STATE_PARTY",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "パーティーメンバー",
+      "source_en": "Party Members",
+      "text": "Parteimitglieder"
+    },
+    {
+      "key": "RIM_MSG_RANKLIST_M_COMMU",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "Community",
+      "source_en": "Community",
+      "text": "Gemeinschaft"
+    },
+    {
+      "key": "RIM_MSG_RANKLIST_M_PAWN02",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "クラフトマスターポーン",
+      "source_en": "Craft Master Pawn",
+      "text": "Kapitän Vasall"
+    },
+    {
+      "key": "RIM_MSG_RANKLIST_M_PAWN03",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "公式ポーン",
+      "source_en": "Official Pawn",
+      "text": "Offizielle Vasall"
+    },
+    {
+      "key": "RIM_MSG_RANKLIST_M_PAWN04",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "フレンドポーン",
+      "source_en": "Friend Pawn",
+      "text": "Freund Vasall"
+    },
+    {
+      "key": "RIM_MSG_RANKLIST_M_PAWN05",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "クランポーン",
+      "source_en": "Clan Pawn",
+      "text": "Clan Vasall"
+    },
+    {
+      "key": "RIM_MSG_RANKLIST_M_PAWN06",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "お気に入り",
+      "source_en": "Favorite",
+      "text": "Favorit"
+    },
+    {
+      "key": "RIM_MSG_RANKLIST_M_PAWN_SEARCH",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ポーン検索",
+      "source_en": "Pawn Search",
+      "text": "Vasall Search"
+    },
+    {
+      "key": "RIM_MSG_RANKLIST_M_SERACH",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "Search",
+      "source_en": "Search",
+      "text": "Suchen"
+    },
+    {
+      "key": "RIM_MSG_RANKLIST_M_SPECIAL",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "Special",
+      "source_en": "Special",
+      "text": "Besonderes"
+    },
+    {
+      "key": "RIM_MSG_SEARCH_PAWN_NOT_FOUND",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "ポーンが見つかりませんでした",
+      "source_en": "No Pawn found.",
+      "text": "Keine Vasall gefunden."
+    },
+    {
+      "key": "RIM_MSG_SELECT_M_SECTION00",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "RIM_MSG_SELECT_M_SECTION01",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ジョブ／クラフトレベル",
+      "source_en": "Vocation / Craft Level",
+      "text": "Beruf / Handwerksstufe"
+    },
+    {
+      "key": "RIM_MSG_SELECT_M_SECTION02",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "公開範囲",
+      "source_en": "Visibility",
+      "text": "Sichtbarkeit"
+    },
+    {
+      "key": "RIM_MSG_SELECT_M_SECTION03",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "状態",
+      "source_en": "Status",
+      "text": "Status"
+    },
+    {
+      "key": "RIM_MSG_SELECT_M_SECTION04",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "評価",
+      "source_en": "Rating",
+      "text": "Bewertung"
+    },
+    {
+      "key": "RIM_MSG_SELECT_M_SECTION05",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "冒険／クラフト残り回数",
+      "source_en": "Adventure / Craft Left",
+      "text": "Abenteuer / Craft Left"
+    },
+    {
+      "key": "RIM_MSG_SELECT_M_SECTION06",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "レンタルコスト",
+      "source_en": "Rental Cost",
+      "text": "Mietkosten"
+    },
+    {
+      "key": "RIM_MSG_SELECT_M_SECTION07",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "履歴",
+      "source_en": "History",
+      "text": "Geschichte"
+    },
+    {
+      "key": "RIM_MSG_SELECT_M_SECTION08",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "救済コスト",
+      "source_en": "Cost of Salvation",
+      "text": "Kosten der Erlösung"
+    },
+    {
+      "key": "RIM_MSG_SUPPORT_PAWN_COUNT",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "雇用状況：",
+      "source_en": "Contracts:",
+      "text": "Verträge:"
+    },
+    {
+      "key": "RIM_MSG_SUPPORT_PAWN_NOT_FOUND",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "ポーンを雇用していません",
+      "source_en": "You have not hired any pawns",
+      "text": "Du hast keine Vasallen eingestellt"
+    },
+    {
+      "key": "RIM_MSG_TAB_LOST",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "ロストポーン",
+      "source_en": "Lost Pawn",
+      "text": "Lost Vasall"
+    },
+    {
+      "key": "RIM_MSG_TAB_MAIN",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "メインポーン",
+      "source_en": "Main Pawns",
+      "text": "Hauptvasallen"
+    },
+    {
+      "key": "RIM_MSG_TAB_SEARCH",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "ポーン検索",
+      "source_en": "Pawn Search",
+      "text": "Vasall Search"
+    },
+    {
+      "key": "RIM_MSG_TAB_SUPPORT",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "サポートポーン",
+      "source_en": "Support Pawns",
+      "text": "Hilfsvasallen"
+    },
+    {
+      "key": "RIM_MSG_TITLE_M_TITLE00",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Rim Stone",
+      "source_en": "Riftstone Menu",
+      "text": "Riftstein-Menü"
+    },
+    {
+      "key": "RIM_MSG_TITLE_M_TITLE01",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "リムストーンメニュー",
+      "source_en": " ",
+      "text": "Riftstein-Menü"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

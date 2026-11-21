@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "769",
+      "tag_source": "source_en",
+      "source_jp": "耐撃強化布",
+      "source_en": "Blow-Resistant Cloth",
+      "text": "Stoßfestes Gewebe"
+    },
+    {
+      "key": "",
+      "read_index": "770",
+      "tag_source": "source_en",
+      "source_jp": "祝福された聖布",
+      "source_en": "Sacred Blessed Cloth",
+      "text": "Gesegnetes heiliges Tuch"
+    },
+    {
+      "key": "",
+      "read_index": "771",
+      "tag_source": "source_en",
+      "source_jp": "亡者の衣",
+      "source_en": "Burial Shroud",
+      "text": "Leichentuch"
+    },
+    {
+      "key": "",
+      "read_index": "772",
+      "tag_source": "source_en",
+      "source_jp": "オーククロス",
+      "source_en": "Orcish Cloth",
+      "text": "Orktuch"
+    },
+    {
+      "key": "",
+      "read_index": "773",
+      "tag_source": "source_en",
+      "source_jp": "血染めの赤布",
+      "source_en": "Bloodstained Red Cloth",
+      "text": "Blutgetränktes rotes Tuch"
+    },
+    {
+      "key": "",
+      "read_index": "774",
+      "tag_source": "source_en",
+      "source_jp": "不吉の黒布",
+      "source_en": "Sinister Black Cloth",
+      "text": "Unheilvolles schwarzes Tuch"
+    },
+    {
+      "key": "",
+      "read_index": "775",
+      "tag_source": "source_en",
+      "source_jp": "カースドクロス",
+      "source_en": "Cursed Cloth",
+      "text": "Verfluchtes Tuch"
+    },
+    {
+      "key": "",
+      "read_index": "776",
+      "tag_source": "source_en",
+      "source_jp": "魔女のベルベット",
+      "source_en": "Witch's Velvet",
+      "text": "Hexensamt"
+    },
+    {
+      "key": "",
+      "read_index": "777",
+      "tag_source": "source_en",
+      "source_jp": "メルガンクロス",
+      "source_en": "Mergan Cloth",
+      "text": "Mergan-Stoff"
+    },
+    {
+      "key": "",
+      "read_index": "778",
+      "tag_source": "source_en",
+      "source_jp": "細糸",
+      "source_en": "Filament",
+      "text": "Feiner Faden"
+    },
+    {
+      "key": "",
+      "read_index": "779",
+      "tag_source": "source_en",
+      "source_jp": "粗紐",
+      "source_en": "Rough Thread",
+      "text": "Grober Faden"
+    },
+    {
+      "key": "",
+      "read_index": "780",
+      "tag_source": "source_en",
+      "source_jp": "革紐",
+      "source_en": "Leather Cord",
+      "text": "Lederschnur"
+    },
+    {
+      "key": "",
+      "read_index": "781",
+      "tag_source": "source_en",
+      "source_jp": "紡ぎ糸",
+      "source_en": "Spun Yarn",
+      "text": "Gesponnenes Garn"
+    },
+    {
+      "key": "",
+      "read_index": "782",
+      "tag_source": "source_en",
+      "source_jp": "鉄合糸",
+      "source_en": "Iron Thread",
+      "text": "Eisenfaden"
+    },
+    {
+      "key": "",
+      "read_index": "783",
+      "tag_source": "source_en",
+      "source_jp": "強練糸",
+      "source_en": "Strong Thread",
+      "text": "Reißfester Faden"
+    },
+    {
+      "key": "",
+      "read_index": "784",
+      "tag_source": "source_en",
+      "source_jp": "魔封糸",
+      "source_en": "Demon Thread",
+      "text": "Bannfaden"
+    },
+    {
+      "key": "",
+      "read_index": "785",
+      "tag_source": "source_en",
+      "source_jp": "ドローミ",
+      "source_en": "Drómi",
+      "text": "Drómi"
+    },
+    {
+      "key": "",
+      "read_index": "786",
+      "tag_source": "source_en",
+      "source_jp": "グレイプニル",
+      "source_en": "Gleipnir",
+      "text": "Gleipnir"
+    },
+    {
+      "key": "",
+      "read_index": "787",
+      "tag_source": "source_en",
+      "source_jp": "クモ糸",
+      "source_en": "Spider Thread",
+      "text": "Spinnenfaden"
+    },
+    {
+      "key": "",
+      "read_index": "789",
+      "tag_source": "source_en",
+      "source_jp": "ブランウッド",
+      "source_en": "Brown Wood",
+      "text": "Braunholz"
+    },
+    {
+      "key": "",
+      "read_index": "790",
+      "tag_source": "source_en",
+      "source_jp": "硬質木材",
+      "source_en": "Hard Wood",
+      "text": "Hartholz"
+    },
+    {
+      "key": "",
+      "read_index": "791",
+      "tag_source": "source_en",
+      "source_jp": "ホワイトウッド",
+      "source_en": "White Wood",
+      "text": "Weißholz"
+    },
+    {
+      "key": "",
+      "read_index": "792",
+      "tag_source": "source_en",
+      "source_jp": "レッドランバー",
+      "source_en": "Red Lumber",
+      "text": "Rotholz"
+    },
+    {
+      "key": "",
+      "read_index": "793",
+      "tag_source": "source_en",
+      "source_jp": "紫檀材",
+      "source_en": "Rosewood",
+      "text": "Rosenholz"
+    },
+    {
+      "key": "",
+      "read_index": "794",
+      "tag_source": "source_en",
+      "source_jp": "シダー材",
+      "source_en": "Cedar Wood",
+      "text": "Zedernholz"
+    },
+    {
+      "key": "",
+      "read_index": "795",
+      "tag_source": "source_en",
+      "source_jp": "パインランバー",
+      "source_en": "Pine Lumber",
+      "text": "Kiefernholz"
+    },
+    {
+      "key": "",
+      "read_index": "796",
+      "tag_source": "source_en",
+      "source_jp": "セコイア材",
+      "source_en": "Sequoia Wood",
+      "text": "Mammutbaumholz"
+    },
+    {
+      "key": "",
+      "read_index": "797",
+      "tag_source": "source_en",
+      "source_jp": "ブラックウッド",
+      "source_en": "Black Wood",
+      "text": "Schwarzholz"
+    },
+    {
+      "key": "",
+      "read_index": "798",
+      "tag_source": "source_en",
+      "source_jp": "エントの枝",
+      "source_en": "Ent Branch",
+      "text": "Entast"
+    },
+    {
+      "key": "",
+      "read_index": "799",
+      "tag_source": "source_en",
+      "source_jp": "良質加工木材",
+      "source_en": "High Quality Wood",
+      "text": "Feines Nutzholz"
+    },
+    {
+      "key": "",
+      "read_index": "801",
+      "tag_source": "source_en",
+      "source_jp": "ワイルドハーブ",
+      "source_en": "Wild Herb",
+      "text": "Wildkraut"
+    },
+    {
+      "key": "",
+      "read_index": "803",
+      "tag_source": "source_en",
+      "source_jp": "イエロータイム",
+      "source_en": "Yellow Thyme",
+      "text": "Gelber Thymian"
+    },
+    {
+      "key": "",
+      "read_index": "804",
+      "tag_source": "source_en",
+      "source_jp": "レッドセージ",
+      "source_en": "Red Sage",
+      "text": "Roter Salbei"
+    },
+    {
+      "key": "",
+      "read_index": "805",
+      "tag_source": "source_en",
+      "source_jp": "ブルーフラワー",
+      "source_en": "Blue Flower",
+      "text": "Blaue Blume"
+    },
+    {
+      "key": "",
+      "read_index": "806",
+      "tag_source": "source_en",
+      "source_jp": "紫アニス",
+      "source_en": "Purple Anise",
+      "text": "Violetter Anis"
+    },
+    {
+      "key": "",
+      "read_index": "807",
+      "tag_source": "source_en",
+      "source_jp": "月光花",
+      "source_en": "Moonglow",
+      "text": "Mondlichtblüte"
+    },
+    {
+      "key": "",
+      "read_index": "808",
+      "tag_source": "source_en",
+      "source_jp": "アンゼリカ",
+      "source_en": "Angelica",
+      "text": "Engelwurz"
+    },
+    {
+      "key": "",
+      "read_index": "809",
+      "tag_source": "source_en",
+      "source_jp": "キングローリエ",
+      "source_en": "King Bay Leaf",
+      "text": "Königslorbeer"
+    },
+    {
+      "key": "",
+      "read_index": "810",
+      "tag_source": "source_en",
+      "source_jp": "ディナンヒソップ",
+      "source_en": "Deenan Hyssop",
+      "text": "Deenan-Ysop"
+    },
+    {
+      "key": "",
+      "read_index": "811",
+      "tag_source": "source_en",
+      "source_jp": "ゴブリンズリーフ",
+      "source_en": "Goblin's Leaf",
+      "text": "Goblinblatt"
+    },
+    {
+      "key": "",
+      "read_index": "812",
+      "tag_source": "source_en",
+      "source_jp": "ゴブリンズフラワー",
+      "source_en": "Goblin's Flower",
+      "text": "Goblinblüte"
+    },
+    {
+      "key": "",
+      "read_index": "813",
+      "tag_source": "source_en",
+      "source_jp": "エントの葉",
+      "source_en": "Ent Leaf",
+      "text": "Entblatt"
+    },
+    {
+      "key": "",
+      "read_index": "814",
+      "tag_source": "source_en",
+      "source_jp": "小さな木の実",
+      "source_en": "Small Nut",
+      "text": "Kleine Nuss"
+    },
+    {
+      "key": "",
+      "read_index": "815",
+      "tag_source": "source_en",
+      "source_jp": "ブルーカラント",
+      "source_en": "Bluecurrant",
+      "text": "Blaue Johannisbeere"
+    },
+    {
+      "key": "",
+      "read_index": "816",
+      "tag_source": "source_en",
+      "source_jp": "グリーンシード",
+      "source_en": "Green Seed",
+      "text": "Grüner Samen"
+    },
+    {
+      "key": "",
+      "read_index": "817",
+      "tag_source": "source_en",
+      "source_jp": "エントの種子",
+      "source_en": "Ent Seed",
+      "text": "Entsamen"
+    },
+    {
+      "key": "",
+      "read_index": "820",
+      "tag_source": "source_en",
+      "source_jp": "特上ガラキノコ",
+      "source_en": "High Quality Gala Mushroom",
+      "text": "Erstklassiger Gala-Pilz"
+    },
+    {
+      "key": "",
+      "read_index": "821",
+      "tag_source": "source_en",
+      "source_jp": "ヨドミタケ",
+      "source_en": "Stagnant Shroom",
+      "text": "Stauwasserpilz"
+    },
+    {
+      "key": "",
+      "read_index": "822",
+      "tag_source": "source_en",
+      "source_jp": "マモノノコシカケ",
+      "source_en": "Fiend's Perch",
+      "text": "Dämonensitzpilz"
+    },
+    {
+      "key": "",
+      "read_index": "823",
+      "tag_source": "source_en",
+      "source_jp": "ツキヨタケ",
+      "source_en": "Moonlight Mushroom",
+      "text": "Mondlichtpilz"
+    },
+    {
+      "key": "",
+      "read_index": "824",
+      "tag_source": "source_en",
+      "source_jp": "パールマッシュルーム",
+      "source_en": "Pearl Mushroom",
+      "text": "Perlenpilz"
+    },
+    {
+      "key": "",
+      "read_index": "825",
+      "tag_source": "source_en",
+      "source_jp": "トロールの毒苔",
+      "source_en": "Troll's Poisonous Moss",
+      "text": "Trollgiftmoos"
+    },
+    {
+      "key": "",
+      "read_index": "826",
+      "tag_source": "source_en",
+      "source_jp": "トロールの青毒苔",
+      "source_en": "Troll's Blue Poisonous Moss",
+      "text": "Blaues Trollgiftmoos"
+    },
+    {
+      "key": "",
+      "read_index": "827",
+      "tag_source": "source_en",
+      "source_jp": "白紙のスクロール",
+      "source_en": "Blank Scroll",
+      "text": "Leere Schriftrolle"
+    },
+    {
+      "key": "",
+      "read_index": "828",
+      "tag_source": "source_en",
+      "source_jp": "力のスクロール",
+      "source_en": "Scroll of Power",
+      "text": "Schriftrolle der Kraft"
+    },
+    {
+      "key": "",
+      "read_index": "829",
+      "tag_source": "source_en",
+      "source_jp": "護のスクロール",
+      "source_en": "Scroll of Protection",
+      "text": "Schriftrolle des Schutzes"
+    },
+    {
+      "key": "",
+      "read_index": "830",
+      "tag_source": "source_en",
+      "source_jp": "魔力のスクロール",
+      "source_en": "Scroll of Sorcery",
+      "text": "Schriftrolle der Magie"
+    },
+    {
+      "key": "",
+      "read_index": "831",
+      "tag_source": "source_en",
+      "source_jp": "魔護のスクロール",
+      "source_en": "Scroll of Magickal Protection",
+      "text": "Schriftrolle des Magieschutzes"
+    },
+    {
+      "key": "",
+      "read_index": "832",
+      "tag_source": "source_en",
+      "source_jp": "剛力のスクロール",
+      "source_en": "Scroll of Great Strength",
+      "text": "Schriftrolle der Stärke"
+    },
+    {
+      "key": "",
+      "read_index": "833",
+      "tag_source": "source_en",
+      "source_jp": "守護のスクロール",
+      "source_en": "Scroll of Defense",
+      "text": "Schriftrolle der Abwehr"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

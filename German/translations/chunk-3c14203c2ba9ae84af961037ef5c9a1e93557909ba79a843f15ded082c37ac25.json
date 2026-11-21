@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "1368",
+      "tag_source": "source_en",
+      "source_jp": "怪盗カード",
+      "source_en": "Thief Card",
+      "text": "Meisterdiebkarte"
+    },
+    {
+      "key": "",
+      "read_index": "1369",
+      "tag_source": "source_en",
+      "source_jp": "レリーフコイン【雪白】",
+      "source_en": "Relief Coin (Pure White)",
+      "text": "Reliefmünze (Schneeweiß)"
+    },
+    {
+      "key": "",
+      "read_index": "1370",
+      "tag_source": "source_en",
+      "source_jp": "レリーフコイン【真紅】",
+      "source_en": "Relief Coin (Crimson)",
+      "text": "Reliefmünze (Purpurrot)"
+    },
+    {
+      "key": "",
+      "read_index": "1371",
+      "tag_source": "source_en",
+      "source_jp": "レリーフコイン【紫光】",
+      "source_en": "Relief Coin (Purple Light)",
+      "text": "Reliefmünze (Violettglanz)"
+    },
+    {
+      "key": "",
+      "read_index": "1372",
+      "tag_source": "source_en",
+      "source_jp": "レリーフコイン【蒼空】",
+      "source_en": "Relief Coin (Blue Sky)",
+      "text": "Reliefmünze (Himmelblau)"
+    },
+    {
+      "key": "",
+      "read_index": "1373",
+      "tag_source": "source_en",
+      "source_jp": "レリーフコイン【鋼黒】",
+      "source_en": "Relief Coin (Steel Black)",
+      "text": "Reliefmünze (Stahlschwarz)"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

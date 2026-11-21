@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\entry_board.gmd",
+  "arc_path": "\\ui\\uGUIEntryBoard.arc",
+  "entries": [
+    {
+      "key": "entry_board_pass_limit1",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "パスワード：",
+      "source_en": "Password:  ",
+      "text": "Kennwort:  "
+    },
+    {
+      "key": "entry_board_pass_limit2",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "パスワード設定",
+      "source_en": "Set Password",
+      "text": "Passwort festlegen"
+    },
+    {
+      "key": "entry_board_playable_time_header",
+      "read_index": "119",
+      "tag_source": "source_en",
+      "source_jp": "出撃可能時間",
+      "source_en": "Sortie Time",
+      "text": "Sortiezeit"
+    },
+    {
+      "key": "entry_board_playable_time_info",
+      "read_index": "120",
+      "tag_source": "source_en",
+      "source_jp": "<DATE> - <DATE>",
+      "source_en": "<DATE> - <DATE>",
+      "text": "<DATE> - <DATE>"
+    },
+    {
+      "key": "entry_board_pop_event_info_dp_acc",
+      "read_index": "111",
+      "tag_source": "source_en",
+      "source_jp": "ウォーミッション累積ポイント",
+      "source_en": "War Mission Accumulated Points",
+      "text": "War Mission Akkumulierte Punkte"
+    },
+    {
+      "key": "entry_board_pop_event_info_ranking",
+      "read_index": "80",
+      "tag_source": "source_en",
+      "source_jp": "ランキング順位",
+      "source_en": "Ranking",
+      "text": "Rangfolge"
+    },
+    {
+      "key": "entry_board_pop_event_info_ranking_unit",
+      "read_index": "83",
+      "tag_source": "source_en",
+      "source_jp": "位",
+      "source_en": "Rank",
+      "text": "Rang"
+    },
+    {
+      "key": "entry_board_pop_event_info_score_technical",
+      "read_index": "81",
+      "tag_source": "source_en",
+      "source_jp": "テクニカルスコア",
+      "source_en": "Technical Score",
+      "text": "Technischer Score"
+    },
+    {
+      "key": "entry_board_pop_event_info_score_total",
+      "read_index": "82",
+      "tag_source": "source_en",
+      "source_jp": "トータルスコア",
+      "source_en": "Total Score",
+      "text": "Gesamtwertung"
+    },
+    {
+      "key": "entry_board_pop_event_top_entry",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "参加中",
+      "source_en": "Participating",
+      "text": "Teilnehmende"
+    },
+    {
+      "key": "entry_board_pop_reqruit_all",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "全て",
+      "source_en": "All",
+      "text": "Alle"
+    },
+    {
+      "key": "entry_board_pop_reqruit_cancel",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "entry_board_pop_reqruit_reqruit",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "募集する",
+      "source_en": "Recruit",
+      "text": "Rekrut"
+    },
+    {
+      "key": "entry_board_recruit",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新規募集",
+      "source_en": "Recruit Members",
+      "text": "Rekrutiere Mitglieder"
+    },
+    {
+      "key": "entry_board_reqruit_cancel",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "entry_board_reqruit_comment",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "Comment",
+      "source_en": "Comment",
+      "text": "Anmerkungen"
+    },
+    {
+      "key": "entry_board_reqruit_entry",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "エントリーを指定してください",
+      "source_en": "Please setup your entry",
+      "text": "Bitte richte deinen Eintrag ein"
+    },
+    {
+      "key": "entry_board_reqruit_ir",
+      "read_index": "87",
+      "tag_source": "source_en",
+      "source_jp": "IR制限",
+      "source_en": "IR Limit",
+      "text": "IR-Grenzwert"
+    },
+    {
+      "key": "entry_board_reqruit_ir_jobrole",
+      "read_index": "90",
+      "tag_source": "source_en",
+      "source_jp": "IR制限の対象ジョブロール",
+      "source_en": "Target Job Roles for IR Limit",
+      "text": "Target Job Rollen für IR Limit"
+    },
+    {
+      "key": "entry_board_reqruit_ir_jobrole_tank",
+      "read_index": "93",
+      "tag_source": "source_en",
+      "source_jp": "タンク",
+      "source_en": "Tank",
+      "text": "Tank"
+    },
+    {
+      "key": "entry_board_reqruit_ir_mainwp",
+      "read_index": "89",
+      "tag_source": "source_en",
+      "source_jp": "メイン武器のみ",
+      "source_en": "Main Weapon Only",
+      "text": "Nur Hauptwaffe"
+    },
+    {
+      "key": "entry_board_reqruit_ir_normal",
+      "read_index": "88",
+      "tag_source": "source_en",
+      "source_jp": "装備品の平均",
+      "source_en": "Equipment Average",
+      "text": "Ausrüstungsdurchschnitt"
+    },
+    {
+      "key": "entry_board_reqruit_job",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "ジョブ制限",
+      "source_en": "Job Restriction",
+      "text": "Arbeitsplatzbeschränkung"
+    },
+    {
+      "key": "entry_board_reqruit_level",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "レベル制限",
+      "source_en": "Level Restriction",
+      "text": "Niveaubeschränkung"
+    },
+    {
+      "key": "entry_board_reqruit_osusume",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "オススメ",
+      "source_en": "Rec. Settings",
+      "text": "Rec. Einstellungen"
+    },
+    {
+      "key": "entry_board_reqruit_password",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "パスワード設定",
+      "source_en": "Set Password",
+      "text": "Passwort festlegen"
+    },
+    {
+      "key": "entry_board_reqruit_reqruit",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "募集する",
+      "source_en": "Recruit",
+      "text": "Rekrut"
+    },
+    {
+      "key": "entry_board_reqruit_word1",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>.",
+      "source_en": "<VAL>.",
+      "text": "<VAL>."
+    },
+    {
+      "key": "entry_board_reqruit_word2",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "～",
+      "source_en": "～",
+      "text": "～"
+    },
+    {
+      "key": "entry_board_search",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "検索",
+      "source_en": "Search",
+      "text": "Suchen"
+    },
+    {
+      "key": "entry_board_search_all",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "全て",
+      "source_en": "All",
+      "text": "Alle"
+    },
+    {
+      "key": "entry_board_search_cancel",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "キャンセルする",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "entry_board_search_designate_ir",
+      "read_index": "103",
+      "tag_source": "source_en",
+      "source_jp": "IRを指定する",
+      "source_en": "Specify IR",
+      "text": "IR angeben"
+    },
+    {
+      "key": "entry_board_search_designate_lv",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "レベルを指定する",
+      "source_en": "Specify Level",
+      "text": "Angabe des Niveaus"
+    },
+    {
+      "key": "entry_board_search_exec_search",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "検索する",
+      "source_en": "Search",
+      "text": "Suchen"
+    },
+    {
+      "key": "entry_board_search_init",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "指定を初期化",
+      "source_en": "Reset Search",
+      "text": "Suche zurücksetzen"
+    },
+    {
+      "key": "entry_board_search_search",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "検索条件の設定",
+      "source_en": "Set Search Conditions",
+      "text": "Suchbegriffe festlegen"
+    },
+    {
+      "key": "entry_board_search_search_clanmember",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "クラン",
+      "source_en": "Clan",
+      "text": "Clan"
+    },
+    {
+      "key": "entry_board_search_search_friend",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "フレンド",
+      "source_en": "Friends",
+      "text": "Freunde"
+    },
+    {
+      "key": "entry_board_search_search_friend_friend",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "知り合いが参加しているエントリーで探す",
+      "source_en": "Look for entries where friends are participating",
+      "text": "Suche nach Einträgen, an denen Freunde teilnehmen"
+    },
+    {
+      "key": "entry_board_search_search_groupchat",
+      "read_index": "78",
+      "tag_source": "source_en",
+      "source_jp": "グループチャット",
+      "source_en": "Group Chat",
+      "text": "Gruppen-Chat"
+    },
+    {
+      "key": "entry_board_search_search_job",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ジョブを指定して探す",
+      "source_en": "Search Jobs Allowed",
+      "text": "Search Jobs erlaubt"
+    },
+    {
+      "key": "entry_board_search_search_name",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "名前を指定して探す",
+      "source_en": "Search by Name",
+      "text": "Suche nach Name"
+    },
+    {
+      "key": "entry_board_search_search_party",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "パーティーメンバー",
+      "source_en": "Party Members",
+      "text": "Parteimitglieder"
+    },
+    {
+      "key": "entry_board_search_search_password",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "パスワード設定なし",
+      "source_en": "No Password Set",
+      "text": "Kein Password Set"
+    },
+    {
+      "key": "entry_board_search_serach_ir",
+      "read_index": "102",
+      "tag_source": "source_en",
+      "source_jp": "IRを指定して探す",
+      "source_en": "Search by IR",
+      "text": "Suche nach IR"
+    },
+    {
+      "key": "entry_board_search_serach_level",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "レベルを指定して探す",
+      "source_en": "Search by Level",
+      "text": "Suche nach Level"
+    },
+    {
+      "key": "entry_board_search_tab_acquaintance",
+      "read_index": "100",
+      "tag_source": "source_en",
+      "source_jp": "知り合い検索",
+      "source_en": "Acquaintance Search",
+      "text": "Bekanntschaftssuche"
+    },
+    {
+      "key": "entry_board_search_tab_status",
+      "read_index": "101",
+      "tag_source": "source_en",
+      "source_jp": "詳細検索",
+      "source_en": "Advanced Search",
+      "text": "Erweiterte Suche"
+    },
+    {
+      "key": "entry_board_search_word1",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "～",
+      "source_en": "～",
+      "text": "～"
+    },
+    {
+      "key": "entry_board_set",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "あり",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "entry_board_set_ir_mainwp",
+      "read_index": "98",
+      "tag_source": "source_en",
+      "source_jp": "あり(メイン武器のみ)",
+      "source_en": "Yes (Main Weap Only)",
+      "text": "Ja (nur Hauptwaffen)"
+    },
+    {
+      "key": "entry_board_set_ir_normal",
+      "read_index": "97",
+      "tag_source": "source_en",
+      "source_jp": "あり(装備品の平均)",
+      "source_en": "Yes (Equip Avg)",
+      "text": "Ja (Equip Avg)"
+    },
+    {
+      "key": "entry_board_time_gather",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "募集時間：",
+      "source_en": "Time:",
+      "text": "Uhrzeit:"
+    },
+    {
+      "key": "entry_board_title_jp",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "エントリーボード",
+      "source_en": " ",
+      "text": "Anmeldebrett"
+    },
+    {
+      "key": "entry_board_unsatisfied",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "募集条件を満たしていません",
+      "source_en": "You do not meet the recruitment conditions",
+      "text": "Du erfüllst die Rekrutierungsbedingungen nicht"
+    },
+    {
+      "key": "entry_board_unset",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "なし",
+      "source_en": "  None",
+      "text": "  Keine"
+    },
+    {
+      "key": "entry_board_wm_rank_a",
+      "read_index": "114",
+      "tag_source": "source_en",
+      "source_jp": "Ａランク ： <VAL DP>",
+      "source_en": "A Rank: <VAL DP>",
+      "text": "Ein Rang: <VAL DP>"
+    },
+    {
+      "key": "entry_board_wm_rank_b",
+      "read_index": "115",
+      "tag_source": "source_en",
+      "source_jp": "Ｂランク ： <VAL DP>",
+      "source_en": "B Rank: <VAL DP>",
+      "text": "B Rang: <VAL DP>"
+    },
+    {
+      "key": "entry_board_wm_rank_c",
+      "read_index": "116",
+      "tag_source": "source_en",
+      "source_jp": "Ｃランク ： <VAL DP>",
+      "source_en": "C Rank: <VAL DP>",
+      "text": "C Rang: <VAL DP>"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\general_handover.gmd",
+  "arc_path": "\\ui\\uGUIGiveAndTake.arc",
+  "entries": [
+    {
+      "key": "HANDOVER_MSG_ANNOUCE_00",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "送り先がいっぱいのため、受け取ることができません",
+      "source_en": "You cannot receive it because the destination is\r\nfull",
+      "text": "Du kannst es nicht erhalten, weil das Ziel\r\n voll ist."
+    },
+    {
+      "key": "HANDOVER_MSG_ANNOUCE_01",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "アイテムを受け取りました",
+      "source_en": "You received an item",
+      "text": "Gegenstand erhalten."
+    },
+    {
+      "key": "HANDOVER_MSG_BTN_ALL",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "すべて受け取る",
+      "source_en": "Take All",
+      "text": "Alles entgegennehmen"
+    },
+    {
+      "key": "HANDOVER_MSG_BTN_NONE",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "すべて破棄",
+      "source_en": "Destroy All",
+      "text": "Alles verwerfen"
+    },
+    {
+      "key": "HANDOVER_MSG_DIALOG_00",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "アイテムを受け取らずに戻りますか？\r\n受け取ったアイテムは戻されます",
+      "source_en": "Do you want to return without receiving items?\r\nItems received will be returned.",
+      "text": "Möchtest du zurückkehren, ohne Artikel zu erhalten?\r\n Erhaltene Artikel werden zurückgegeben."
+    },
+    {
+      "key": "HANDOVER_MSG_DIALOG_00_MANDRA",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "アイテムの受け取りを中止しますか？\r\n(未受け取りのままだと再び育てることができません)",
+      "source_en": "Do you want to cancel receiving the item? (If you\r\ndon't receive it, you won't be able to raise it\r\nagain)",
+      "text": "Möchtest du die Annahme abbrechen?\r\nOhne Annahme kannst du diesen Gegenstand\r\nnicht erneut aufziehen."
+    },
+    {
+      "key": "HANDOVER_MSG_DIALOG_01",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "アイテムを受け取らずすべて捨てます\r\nよろしいですか？",
+      "source_en": "Are you sure you want to discard all items\r\nwithout receiving them?",
+      "text": "Bist du sicher, dass du alle Gegenstände\r\n wegwerfen willst, ohne sie zu erhalten?"
+    },
+    {
+      "key": "HANDOVER_MSG_TITLE_M_TITLE00",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Receive",
+      "source_en": "Take",
+      "text": "Entgegennehmen"
+    },
+    {
+      "key": "HANDOVER_MSG_TITLE_M_TITLE01",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "受け取り",
+      "source_en": "Take",
+      "text": "Entgegennehmen"
+    },
+    {
+      "key": "HANDOVER_MSG_TITLE_M_TITLE02",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "Present",
+      "source_en": "Present",
+      "text": "Geschenk"
+    },
+    {
+      "key": "HANDOVER_MSG_TITLE_M_TITLE03",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "プレゼント",
+      "source_en": "Present",
+      "text": "Geschenk"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

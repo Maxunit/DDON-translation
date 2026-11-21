@@ -1,0 +1,128 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\pawn_reaction.gmd",
+  "arc_path": "\\ui\\uGUIPopPawnList.arc",
+  "entries": [
+    {
+      "key": "PAWNREACTION_MSG_BUTTON_CANCEL",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "PAWNREACTION_MSG_BUTTON_DECIDE",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "PAWNREACTION_MSG_CAPTION_CHARACTAR",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "口調：",
+      "source_en": "Pers.:",
+      "text": "Pers:"
+    },
+    {
+      "key": "PAWNREACTION_MSG_IF_ADEATH",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "プレイヤー死亡時",
+      "source_en": "Player Death",
+      "text": "Spieler Tod"
+    },
+    {
+      "key": "PAWNREACTION_MSG_IF_ENDBATTLE",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "戦闘終了時",
+      "source_en": "End of Combat",
+      "text": "Ende des Kampfes"
+    },
+    {
+      "key": "PAWNREACTION_MSG_IF_LVUP",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "レベルアップ時",
+      "source_en": "Level Up",
+      "text": "Stufenaufstieg"
+    },
+    {
+      "key": "PAWNREACTION_MSG_IF_PARTY",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "パーティメンバーと出会った時",
+      "source_en": "Met Party Members",
+      "text": "Mitglieder der Met Gruppe"
+    },
+    {
+      "key": "PAWNREACTION_MSG_IF_QCLEAR",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "クエスト成功時",
+      "source_en": "Quest Clear",
+      "text": "Quest abgeschlossen"
+    },
+    {
+      "key": "PAWNREACTION_MSG_IF_WAIT_FIELD",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "冒険待機時",
+      "source_en": "Waiting on Adventure",
+      "text": "Warten auf Abenteuer"
+    },
+    {
+      "key": "PAWNREACTION_MSG_IF_WAIT_LAB",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "クラフトルーム待機時",
+      "source_en": "Waiting on Craft",
+      "text": "Warten auf Craft"
+    },
+    {
+      "key": "PAWNREACTION_MSG_IF_WAIT_LOBBY",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ロビー待機時",
+      "source_en": "Waiting on Lobby",
+      "text": "Warten in der Lobby"
+    },
+    {
+      "key": "PAWNREACTION_MSG_NONE",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "なし",
+      "source_en": "None",
+      "text": "Keine"
+    },
+    {
+      "key": "PAWNREACTION_MSG_PSPSKILL01",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "特技閃き時",
+      "source_en": "Special Skill Inspiration Moment",
+      "text": "Spezialfertigkeit entdeckt"
+    },
+    {
+      "key": "PAWNREACTION_MSG_PSPSKILL02",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "特技使用時",
+      "source_en": "Special Skill Use",
+      "text": "Spezialisierte Fähigkeiten"
+    },
+    {
+      "key": "PAWNREACTION_MSG_TITLE",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ポーンリアクションを設定して下さい",
+      "source_en": "Customize Pawn Reactions",
+      "text": "Passe Vasall Reactions an"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

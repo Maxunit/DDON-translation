@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\PawnSpSkill_res.gmd",
+  "arc_path": "\\ui\\menu_pawn_special_skill.arc",
+  "entries": [
+    {
+      "key": "pspskill_msg_001",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "スタック中の特技",
+      "source_en": "Special skills in stack",
+      "text": "Vorrätige Spezialfertigkeiten"
+    },
+    {
+      "key": "pspskill_msg_002",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "セット中の特技",
+      "source_en": "Special skills in set",
+      "text": "Ausgerüstete Spezialfertigkeiten"
+    },
+    {
+      "key": "pspskill_msg_003",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "Details",
+      "source_en": "Details",
+      "text": "Details"
+    },
+    {
+      "key": "pspskill_msg_004",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "スタック中の特技に移動",
+      "source_en": "Switch to special skills in stack",
+      "text": "Zu den vorrätigen Spezialfertigkeiten wechseln"
+    },
+    {
+      "key": "pspskill_msg_005",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "セット中の特技に移動",
+      "source_en": "Switch to special skills in set",
+      "text": "Zu den ausgerüsteten Spezialfertigkeiten wechseln"
+    },
+    {
+      "key": "pspskill_msg_006",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "セット中の特技を上書きします\r\nよろしいですか？",
+      "source_en": "Do you want to overwrite the special skill in the\r\nset?",
+      "text": "Die ausgerüstete Spezialfertigkeit\r\nüberschreiben?"
+    },
+    {
+      "key": "pspskill_msg_007",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>\r\nの特技をセットしました",
+      "source_en": "Set <VAL>'s Special Skill.",
+      "text": "Spezialfertigkeit von <VAL> festlegen."
+    },
+    {
+      "key": "pspskill_msg_008",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>\r\nの特技を破棄します。よろしいですか？",
+      "source_en": "Are you sure you want to discard the Special\r\nSkill of <VAL>?",
+      "text": "Möchtest du die Spezialfertigkeit\r\nvon <VAL> verwerfen?"
+    },
+    {
+      "key": "pspskill_msg_009",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>\r\nの特技を破棄しました",
+      "source_en": "I canceled <VAL>'s Special Skill.",
+      "text": "Die Spezialfertigkeit von <VAL> wurde verworfen."
+    },
+    {
+      "key": "pspskill_msg_010",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "アイテムを選択してください",
+      "source_en": "Please select an item.",
+      "text": "Wähle einen Gegenstand aus."
+    },
+    {
+      "key": "pspskill_msg_011",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>\r\nを使用して特技を閃きます。よろしいですか？",
+      "source_en": "Are you sure you want to come up with a Special\r\nSkill using <VAL>?",
+      "text": "Möchtest du eine Spezialfertigkeit\r\nmit <VAL> entwickeln?"
+    },
+    {
+      "key": "pspskill_msg_012",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>\r\nの特技を閃きました",
+      "source_en": "I came up with the Special Skill of <VAL>.",
+      "text": "Für <VAL> wurde eine Spezialfertigkeit entdeckt."
+    },
+    {
+      "key": "pspskill_msg_013",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "空き",
+      "source_en": "Empty",
+      "text": "Leer"
+    },
+    {
+      "key": "pspskill_msg_014",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "同じタイプの特技はセットできません",
+      "source_en": "You cannot set the same type of special skills.",
+      "text": "Du kannst Spezialfertigkeiten desselben Typs nur einmal ausrüsten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\item_strage_box.gmd",
+  "arc_path": "\\ui\\uGUIItem01.arc",
+  "entries": [
+    {
+      "key": "item_title_depositbox_jp",
+      "read_index": "43",
+      "tag_source": "source_jp",
+      "source_jp": "格納チェスト",
+      "source_en": " ",
+      "text": "Lagerkiste"
+    },
+    {
+      "key": "item_title_keyitem_en",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "Key Item",
+      "source_en": "Key Item",
+      "text": "Schlüsselgegenstand"
+    },
+    {
+      "key": "itempost_title_itempost_jp",
+      "read_index": "22",
+      "tag_source": "source_jp",
+      "source_jp": "アイテムポスト",
+      "source_en": " ",
+      "text": "Gegenstandspost"
+    },
+    {
+      "key": "title_fertilizer_e",
+      "read_index": "80",
+      "tag_source": "source_en",
+      "source_jp": "Fertilizer",
+      "source_en": "Fertilizer",
+      "text": "Dünger"
+    },
+    {
+      "key": "title_leftbox_e",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "Left Box",
+      "source_en": "Left Box",
+      "text": "Linke Box"
+    },
+    {
+      "key": "title_leftbox_j",
+      "read_index": "51",
+      "tag_source": "source_jp",
+      "source_jp": "左のボックス",
+      "source_en": " ",
+      "text": "Linke Box"
+    },
+    {
+      "key": "title_rightbox_e",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "Right Box",
+      "source_en": "Right Box",
+      "text": "Rechte Box"
+    },
+    {
+      "key": "title_rightbox_j",
+      "read_index": "53",
+      "tag_source": "source_jp",
+      "source_jp": "右のボックス",
+      "source_en": " ",
+      "text": "Rechte Box"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

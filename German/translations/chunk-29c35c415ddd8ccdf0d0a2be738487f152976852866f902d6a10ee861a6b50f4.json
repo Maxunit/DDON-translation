@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\FreeGroupChat.gmd",
+  "arc_path": "\\ui\\uGUIFreeGroupChat.arc",
+  "entries": [
+    {
+      "key": "fgc_cate_name",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "fgc_cate_union",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "クラン",
+      "source_en": "Clan",
+      "text": "Clan"
+    },
+    {
+      "key": "fgc_title_en",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Group Chat",
+      "source_en": "Group Chat",
+      "text": "Gruppenchat"
+    },
+    {
+      "key": "fgc_title_jp",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "グループチャット",
+      "source_en": " ",
+      "text": "Gruppenchat"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

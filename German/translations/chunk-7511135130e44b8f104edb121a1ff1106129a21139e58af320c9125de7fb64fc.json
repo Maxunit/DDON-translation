@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\dark_dungeon_announce.gmd",
+  "arc_path": "\\ui\\uGUIQueueAnnounceDarkDungeon.arc",
+  "entries": [
+    {
+      "key": "dark_dun_ann_001",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ミッションをクリアした",
+      "source_en": "Mission cleared.",
+      "text": "Mission gelöscht."
+    },
+    {
+      "key": "dark_dun_ann_002",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "宝箱の報酬が増えた",
+      "source_en": "Treasure chest rewards increased.",
+      "text": "Treasure chest Belohnungen erhöht."
+    },
+    {
+      "key": "dark_dun_ann_003",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ミッションに失敗したため、チェイン数が減少した",
+      "source_en": "Chain count decreased due to failed mission.",
+      "text": "Die Anzahl der Ketten nahm aufgrund einer fehlgeschlagenen Mission ab."
+    },
+    {
+      "key": "dark_dun_ann_004",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "パーティーメンバーが死亡したため、チェイン数が減少した",
+      "source_en": "Chain count decreased due to death of a party\r\nmember.",
+      "text": "Kettenzahl verringerte sich wegen des Todes einer Partei\r\n Mitglied."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

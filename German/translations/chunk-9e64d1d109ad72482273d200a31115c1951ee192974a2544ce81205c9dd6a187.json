@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\QuestReward_res.gmd",
+  "arc_path": "\\ui\\uGUIQuestReward.arc",
+  "entries": [
+    {
+      "key": "REWARD_MSG_LB_STUFF",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>/100",
+      "source_en": "<VAL>/100",
+      "text": "<VAL>/100"
+    },
+    {
+      "key": "REWARD_MSG_TITLE_SUB",
+      "read_index": "35",
+      "tag_source": "source_jp",
+      "source_jp": "報酬受け取り",
+      "source_en": " ",
+      "text": "Questbelohnungen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,336 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\key_name_win.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "keyname_Alt",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "Alt",
+      "source_en": "Alt",
+      "text": "Alt"
+    },
+    {
+      "key": "keyname_Backspace",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "Backspace",
+      "source_en": "Backspace",
+      "text": "Rücktaste"
+    },
+    {
+      "key": "keyname_Blank",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "Blank",
+      "source_en": "Blank",
+      "text": "Unbelegt"
+    },
+    {
+      "key": "keyname_Ctrl",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "Ctrl",
+      "source_en": "Ctrl",
+      "text": "Strg"
+    },
+    {
+      "key": "keyname_Delete",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "Delete",
+      "source_en": "Delete",
+      "text": "Entf"
+    },
+    {
+      "key": "keyname_End",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "End",
+      "source_en": "End",
+      "text": "Ende"
+    },
+    {
+      "key": "keyname_Enter",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "Enter",
+      "source_en": "Enter",
+      "text": "Eingabe"
+    },
+    {
+      "key": "keyname_Esc",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "Esc",
+      "source_en": "Esc",
+      "text": "Esc"
+    },
+    {
+      "key": "keyname_F1",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "F1",
+      "source_en": "F1",
+      "text": "F1"
+    },
+    {
+      "key": "keyname_F2",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "F2",
+      "source_en": "F2",
+      "text": "F2"
+    },
+    {
+      "key": "keyname_F3",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "F3",
+      "source_en": "F3",
+      "text": "F3"
+    },
+    {
+      "key": "keyname_F4",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "F4",
+      "source_en": "F4",
+      "text": "F4"
+    },
+    {
+      "key": "keyname_F5",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "F5",
+      "source_en": "F5",
+      "text": "F5"
+    },
+    {
+      "key": "keyname_F6",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "F6",
+      "source_en": "F6",
+      "text": "F6"
+    },
+    {
+      "key": "keyname_F7",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "F7",
+      "source_en": "F7",
+      "text": "F7"
+    },
+    {
+      "key": "keyname_F8",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "F8",
+      "source_en": "F8",
+      "text": "F8"
+    },
+    {
+      "key": "keyname_F9",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "F9",
+      "source_en": "F9",
+      "text": "F9"
+    },
+    {
+      "key": "keyname_F10",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "F10",
+      "source_en": "F10",
+      "text": "F10"
+    },
+    {
+      "key": "keyname_F11",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "F11",
+      "source_en": "F11",
+      "text": "F11"
+    },
+    {
+      "key": "keyname_F12",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "F12",
+      "source_en": "F12",
+      "text": "F12"
+    },
+    {
+      "key": "keyname_Home",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "Home",
+      "source_en": "Home",
+      "text": "Pos1"
+    },
+    {
+      "key": "keyname_Insert",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "Insert",
+      "source_en": "Insert",
+      "text": "Einfg"
+    },
+    {
+      "key": "keyname_Num0",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "Num0",
+      "source_en": "Num0",
+      "text": "Num0"
+    },
+    {
+      "key": "keyname_Num1",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "Num1",
+      "source_en": "Num1",
+      "text": "Num1"
+    },
+    {
+      "key": "keyname_Num2",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "Num2",
+      "source_en": "Num2",
+      "text": "Num2"
+    },
+    {
+      "key": "keyname_Num3",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "Num3",
+      "source_en": "Num3",
+      "text": "Num3"
+    },
+    {
+      "key": "keyname_Num4",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "Num4",
+      "source_en": "Num4",
+      "text": "Num4"
+    },
+    {
+      "key": "keyname_Num5",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "Num5",
+      "source_en": "Num5",
+      "text": "Nummer 5"
+    },
+    {
+      "key": "keyname_Num6",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "Num6",
+      "source_en": "Num6",
+      "text": "Num6"
+    },
+    {
+      "key": "keyname_Num7",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "Num7",
+      "source_en": "Num7",
+      "text": "Num7"
+    },
+    {
+      "key": "keyname_Num8",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "Num8",
+      "source_en": "Num8",
+      "text": "Num8"
+    },
+    {
+      "key": "keyname_Num9",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "Num9",
+      "source_en": "Num9",
+      "text": "Num9"
+    },
+    {
+      "key": "keyname_PageDown",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "PageDown",
+      "source_en": "PageDown",
+      "text": "Bild ab"
+    },
+    {
+      "key": "keyname_PageUp",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "PageUp",
+      "source_en": "PageUp",
+      "text": "Bild auf"
+    },
+    {
+      "key": "keyname_Shift",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "Shift",
+      "source_en": "Shift",
+      "text": "Umschalt"
+    },
+    {
+      "key": "keyname_Space",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "Space",
+      "source_en": "Space",
+      "text": "Leertaste"
+    },
+    {
+      "key": "keyname_Tab",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "Tab",
+      "source_en": "Tab",
+      "text": "Tab."
+    },
+    {
+      "key": "keyname_arrowDOWN",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "↓",
+      "source_en": "1",
+      "text": "1"
+    },
+    {
+      "key": "keyname_arrowLEFT",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "←",
+      "source_en": "1",
+      "text": "1"
+    },
+    {
+      "key": "keyname_arrowRIGHT",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "→",
+      "source_en": "1",
+      "text": "1"
+    },
+    {
+      "key": "keyname_arrowUP",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "↑",
+      "source_en": "↑",
+      "text": "↑"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

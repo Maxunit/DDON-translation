@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\evidencelist_res.gmd",
+  "arc_path": "\\ui\\menu_evidence_list.arc",
+  "entries": [
+    {
+      "key": "evidence_msg_001",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "証拠品リスト",
+      "source_en": "Evidence List",
+      "text": "Nachweisliste"
+    },
+    {
+      "key": "evidence_msg_002",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "項目がありません",
+      "source_en": "No items available",
+      "text": "Keine Artikel verfügbar"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

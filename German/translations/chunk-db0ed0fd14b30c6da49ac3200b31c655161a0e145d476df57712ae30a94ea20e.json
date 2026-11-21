@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\common_message.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "common_above",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "～",
+      "source_en": "～",
+      "text": "～"
+    },
+    {
+      "key": "common_clan_s_begin",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "≪",
+      "source_en": "≪",
+      "text": "≪"
+    },
+    {
+      "key": "common_clan_s_end",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "≫",
+      "source_en": "≫",
+      "text": "≫"
+    },
+    {
+      "key": "common_clan_search_off",
+      "read_index": "96",
+      "tag_source": "source_en",
+      "source_jp": "クラン情報非公開",
+      "source_en": "Clan info private",
+      "text": "Clan-Info privat"
+    },
+    {
+      "key": "common_clan_search_on",
+      "read_index": "95",
+      "tag_source": "source_en",
+      "source_jp": "クラン情報公開",
+      "source_en": "Clan info public",
+      "text": "Clan-Informationen öffentlich"
+    },
+    {
+      "key": "common_close_bracket",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": ")",
+      "source_en": ")",
+      "text": ")"
+    },
+    {
+      "key": "common_colon",
+      "read_index": "116",
+      "tag_source": "source_en",
+      "source_jp": "：",
+      "source_en": ":",
+      "text": ":"
+    },
+    {
+      "key": "common_date",
+      "read_index": "120",
+      "tag_source": "source_en",
+      "source_jp": "日付",
+      "source_en": "Date",
+      "text": "Datum"
+    },
+    {
+      "key": "common_date_format",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "%Y/%m/%d",
+      "source_en": "%Y/%m/%d",
+      "text": "%Y/%m/%d"
+    },
+    {
+      "key": "common_double",
+      "read_index": "150",
+      "tag_source": "source_en",
+      "source_jp": "倍",
+      "source_en": "Double",
+      "text": "Doppelt"
+    },
+    {
+      "key": "common_down",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "DOWN",
+      "source_en": "DOWN",
+      "text": "NEBEN"
+    },
+    {
+      "key": "common_edit",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "編集",
+      "source_en": "Edit",
+      "text": "Bearbeiten"
+    },
+    {
+      "key": "common_edit_savedata",
+      "read_index": "86",
+      "tag_source": "source_en",
+      "source_jp": "エディットデータ",
+      "source_en": "Edit Data",
+      "text": "Bearbeiten von Daten"
+    },
+    {
+      "key": "common_edit_savedata_author",
+      "read_index": "88",
+      "tag_source": "source_en",
+      "source_jp": "作成者：",
+      "source_en": "Author:",
+      "text": "Autor:"
+    },
+    {
+      "key": "common_edit_savedata_comment",
+      "read_index": "90",
+      "tag_source": "source_en",
+      "source_jp": "コメント：",
+      "source_en": "Comment:",
+      "text": "Anmerkung:"
+    },
+    {
+      "key": "common_edit_savedata_sex",
+      "read_index": "89",
+      "tag_source": "source_en",
+      "source_jp": "性別：",
+      "source_en": "Gender:",
+      "text": "Geschlecht:"
+    },
+    {
+      "key": "common_end",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "終了",
+      "source_en": "Exit",
+      "text": "Verlassen"
+    },
+    {
+      "key": "common_enemy",
+      "read_index": "122",
+      "tag_source": "source_en",
+      "source_jp": "魔物",
+      "source_en": "Enemy",
+      "text": "Feind"
+    },
+    {
+      "key": "common_enemy_transform_armed_01",
+      "read_index": "138",
+      "tag_source": "source_en",
+      "source_jp": "・軽装",
+      "source_en": " (Light Armor) ",
+      "text": " (Leichte Rüstung) "
+    },
+    {
+      "key": "common_enemy_transform_armed_02",
+      "read_index": "139",
+      "tag_source": "source_en",
+      "source_jp": "・重装",
+      "source_en": " (Heavy Armor) ",
+      "text": " (Schwere Rüstung) "
+    },
+    {
+      "key": "common_enemy_transform_armed_03",
+      "read_index": "140",
+      "tag_source": "source_en",
+      "source_jp": "・神装",
+      "source_en": "(Supreme Armor) ",
+      "text": "(Oberste Rüstung) "
+    },
+    {
+      "key": "common_enemy_transform_division_01",
+      "read_index": "193",
+      "tag_source": "source_en",
+      "source_jp": "・分身体",
+      "source_en": " (Clone) ",
+      "text": " (Klon) "
+    },
+    {
+      "key": "common_enemy_transform_division_02",
+      "read_index": "194",
+      "tag_source": "source_en",
+      "source_jp": "・分身体Ⅰ",
+      "source_en": " (Clone 1) ",
+      "text": " (Klon 1) "
+    },
+    {
+      "key": "common_enemy_transform_division_03",
+      "read_index": "195",
+      "tag_source": "source_en",
+      "source_jp": "・分身体Ⅱ",
+      "source_en": " (Clone 2) ",
+      "text": " (Klon 2) "
+    },
+    {
+      "key": "common_enemy_transform_erosion_01",
+      "read_index": "105",
+      "tag_source": "source_en",
+      "source_jp": "・軽度",
+      "source_en": " (Slight) ",
+      "text": " (leicht) "
+    },
+    {
+      "key": "common_enemy_transform_erosion_02",
+      "read_index": "106",
+      "tag_source": "source_en",
+      "source_jp": "・重度",
+      "source_en": " (Severe) ",
+      "text": " (Schwere) "
+    },
+    {
+      "key": "common_enemy_transform_erosion_03",
+      "read_index": "107",
+      "tag_source": "source_en",
+      "source_jp": "・危険",
+      "source_en": " (Critical) ",
+      "text": " (Kritisch) "
+    },
+    {
+      "key": "common_enemy_transform_erosion_04",
+      "read_index": "123",
+      "tag_source": "source_en",
+      "source_jp": "・崩化",
+      "source_en": " (Ruin) ",
+      "text": " (Ruine) "
+    },
+    {
+      "key": "common_entry",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "登録",
+      "source_en": "Register",
+      "text": "Anmelden"
+    },
+    {
+      "key": "common_entry_pawn_no_adv",
+      "read_index": "173",
+      "tag_source": "source_en",
+      "source_jp": "冒険回数0",
+      "source_en": "Number of adventures 0",
+      "text": "Anzahl der Abenteuer 0"
+    },
+    {
+      "key": "common_equal",
+      "read_index": "134",
+      "tag_source": "source_en",
+      "source_jp": "=",
+      "source_en": "=",
+      "text": "="
+    },
+    {
+      "key": "common_equip_ir",
+      "read_index": "113",
+      "tag_source": "source_en",
+      "source_jp": "IR.",
+      "source_en": "IR.",
+      "text": "GR"
+    },
+    {
+      "key": "common_grade",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "★",
+      "source_en": "★",
+      "text": "★"
+    },
+    {
+      "key": "common_hyphen",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "-",
+      "source_en": "-",
+      "text": "-"
+    },
+    {
+      "key": "common_hyphen_big",
+      "read_index": "137",
+      "tag_source": "source_en",
+      "source_jp": "－",
+      "source_en": "－",
+      "text": "－"
+    },
+    {
+      "key": "common_indicator_lestania",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "GT",
+      "source_en": "GT",
+      "text": "BG"
+    },
+    {
+      "key": "common_indicator_lobby",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "World",
+      "source_en": "Channel",
+      "text": "Kanal"
+    },
+    {
+      "key": "common_indicator_local",
+      "read_index": "64",
+      "tag_source": "source_en",
+      "source_jp": "LT",
+      "source_en": "LT",
+      "text": "LT"
+    },
+    {
+      "key": "common_indicator_saving",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "セーブ中",
+      "source_en": "Saving",
+      "text": "Sparen"
+    },
+    {
+      "key": "common_indicator_server",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "ST",
+      "source_en": "ST",
+      "text": "ST"
+    },
+    {
+      "key": "common_inequality_left",
+      "read_index": "125",
+      "tag_source": "source_en",
+      "source_jp": "＜",
+      "source_en": "<",
+      "text": "<"
+    },
+    {
+      "key": "common_inequality_right",
+      "read_index": "126",
+      "tag_source": "source_en",
+      "source_jp": "＞",
+      "source_en": ">",
+      "text": ">"
+    },
+    {
+      "key": "common_jp_kuten",
+      "read_index": "151",
+      "tag_source": "source_en",
+      "source_jp": "。",
+      "source_en": "。",
+      "text": "。"
+    },
+    {
+      "key": "common_jp_touten",
+      "read_index": "152",
+      "tag_source": "source_en",
+      "source_jp": "、",
+      "source_en": "、",
+      "text": "、"
+    },
+    {
+      "key": "common_key_alt",
+      "read_index": "67",
+      "tag_source": "source_en",
+      "source_jp": "Alt",
+      "source_en": "Alt",
+      "text": "Alt"
+    },
+    {
+      "key": "common_language_ng",
+      "read_index": "167",
+      "tag_source": "source_en",
+      "source_jp": "NG",
+      "source_en": "NO",
+      "text": "Nein"
+    },
+    {
+      "key": "common_max",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "MAX",
+      "source_en": "MAX",
+      "text": "MAX"
+    },
+    {
+      "key": "common_msg_attribute_A1",
+      "read_index": "175",
+      "tag_source": "source_en",
+      "source_jp": "斬",
+      "source_en": "Slash",
+      "text": "Schrägstrich"
+    },
+    {
+      "key": "common_msg_attribute_A2",
+      "read_index": "176",
+      "tag_source": "source_en",
+      "source_jp": "打",
+      "source_en": "Impact",
+      "text": "Auswirkungen"
+    },
+    {
+      "key": "common_msg_attribute_A3",
+      "read_index": "177",
+      "tag_source": "source_en",
+      "source_jp": "射",
+      "source_en": "Pierce",
+      "text": "Stich"
+    },
+    {
+      "key": "common_msg_attribute_B1",
+      "read_index": "178",
+      "tag_source": "source_en",
+      "source_jp": "無",
+      "source_en": "Null",
+      "text": "Neutral"
+    },
+    {
+      "key": "common_msg_attribute_B2",
+      "read_index": "179",
+      "tag_source": "source_en",
+      "source_jp": "炎",
+      "source_en": "Fire",
+      "text": "Feuer"
+    },
+    {
+      "key": "common_msg_attribute_B3",
+      "read_index": "180",
+      "tag_source": "source_en",
+      "source_jp": "氷",
+      "source_en": "Ice",
+      "text": "Eis"
+    },
+    {
+      "key": "common_msg_attribute_B4",
+      "read_index": "181",
+      "tag_source": "source_en",
+      "source_jp": "雷",
+      "source_en": "Lightning",
+      "text": "Blitze"
+    },
+    {
+      "key": "common_msg_attribute_B5",
+      "read_index": "182",
+      "tag_source": "source_en",
+      "source_jp": "聖",
+      "source_en": "Holy",
+      "text": "Heilig"
+    },
+    {
+      "key": "common_msg_attribute_B6",
+      "read_index": "183",
+      "tag_source": "source_en",
+      "source_jp": "闇",
+      "source_en": "Dark",
+      "text": "Dunkel"
+    },
+    {
+      "key": "common_msg_details",
+      "read_index": "153",
+      "tag_source": "source_en",
+      "source_jp": "Details",
+      "source_en": "Details",
+      "text": "Details"
+    },
+    {
+      "key": "common_msg_en_parameter",
+      "read_index": "186",
+      "tag_source": "source_en",
+      "source_jp": "Parameter",
+      "source_en": "Parameter",
+      "text": "Parameter"
+    },
+    {
+      "key": "common_msg_gs_lack",
+      "read_index": "159",
+      "tag_source": "source_en",
+      "source_jp": "黄金石が不足しています\r\n（所持数：<VAL>）",
+      "source_en": "You are running out of Golden Gemstones\r\n(number in possession: <VAL>)",
+      "text": "Dir gehen die Goldsteine aus\r\n(Nummer im Besitz): <VAL>)"
+    },
+    {
+      "key": "common_msg_jp_assignment",
+      "read_index": "192",
+      "tag_source": "source_en",
+      "source_jp": "指定",
+      "source_en": "Assign",
+      "text": "Zuweisung"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

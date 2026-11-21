@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\parameter.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "character_height",
+      "read_index": "157",
+      "tag_source": "source_en",
+      "source_jp": "身長",
+      "source_en": "Height",
+      "text": "Höhe"
+    },
+    {
+      "key": "character_hp",
+      "read_index": "158",
+      "tag_source": "source_en",
+      "source_jp": "体力",
+      "source_en": "Health Points",
+      "text": "Gesundheitspunkte"
+    },
+    {
+      "key": "character_job_level",
+      "read_index": "179",
+      "tag_source": "source_en",
+      "source_jp": "ジョブレベル",
+      "source_en": "Vocation LV.",
+      "text": "Beruf LV."
+    },
+    {
+      "key": "character_job_xp",
+      "read_index": "180",
+      "tag_source": "source_en",
+      "source_jp": "ジョブ経験値",
+      "source_en": "Job Experience",
+      "text": "Berufserfahrung"
+    },
+    {
+      "key": "character_jp",
+      "read_index": "182",
+      "tag_source": "source_en",
+      "source_jp": "ジョブポイント",
+      "source_en": "Job Point",
+      "text": "Klassenpunkt"
+    },
+    {
+      "key": "character_name",
+      "read_index": "155",
+      "tag_source": "source_en",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "character_number_of_ability_set",
+      "read_index": "160",
+      "tag_source": "source_en",
+      "source_jp": "アビリティセット枠",
+      "source_en": "Ability Set Slot",
+      "text": "Begabungsplatz"
+    },
+    {
+      "key": "character_number_of_key_item",
+      "read_index": "164",
+      "tag_source": "source_en",
+      "source_jp": "キーアイテム",
+      "source_en": "Key Items",
+      "text": "Schlüsselpositionen"
+    },
+    {
+      "key": "character_number_of_material",
+      "read_index": "162",
+      "tag_source": "source_en",
+      "source_jp": "素材アイテム枠",
+      "source_en": "Material Bag Slot",
+      "text": "Materialbeutelschlitz"
+    },
+    {
+      "key": "character_number_of_special_item",
+      "read_index": "165",
+      "tag_source": "source_en",
+      "source_jp": "ジョブ専用アイテム枠",
+      "source_en": "Job Item Bag Slot",
+      "text": "Job Gegenstandstasche Slot"
+    },
+    {
+      "key": "character_number_of_use_item",
+      "read_index": "161",
+      "tag_source": "source_en",
+      "source_jp": "消費アイテム枠",
+      "source_en": "Usable Bag Slot",
+      "text": "Plätze in der Gegenstandstasche"
+    },
+    {
+      "key": "character_number_of_weapon",
+      "read_index": "163",
+      "tag_source": "source_en",
+      "source_jp": "装備品アイテム枠",
+      "source_en": "Equipment Bag Slot",
+      "text": "Ausrüstungstaschenschlitz"
+    },
+    {
+      "key": "character_sex",
+      "read_index": "156",
+      "tag_source": "source_en",
+      "source_jp": "性別",
+      "source_en": "Gender",
+      "text": "Geschlecht"
+    },
+    {
+      "key": "character_st",
+      "read_index": "159",
+      "tag_source": "source_en",
+      "source_jp": "スタミナ",
+      "source_en": "Stamina",
+      "text": "Ausdauer"
+    },
+    {
+      "key": "character_total_bo",
+      "read_index": "166",
+      "tag_source": "source_en",
+      "source_jp": "ブラッドオーブ総献上量",
+      "source_en": "Blood Orb Total",
+      "text": "Blutkugeln insgesamt"
+    },
+    {
+      "key": "dye_color_all",
+      "read_index": "186",
+      "tag_source": "source_en",
+      "source_jp": "オールマイティ",
+      "source_en": "Almighty",
+      "text": "Allmächtig"
+    },
+    {
+      "key": "dye_color_black",
+      "read_index": "185",
+      "tag_source": "source_en",
+      "source_jp": "黒",
+      "source_en": "Black",
+      "text": "Schwarz"
+    },
+    {
+      "key": "dye_color_blue",
+      "read_index": "190",
+      "tag_source": "source_en",
+      "source_jp": "青",
+      "source_en": "Blue",
+      "text": "Blau"
+    },
+    {
+      "key": "dye_color_default",
+      "read_index": "187",
+      "tag_source": "source_en",
+      "source_jp": "デフォルト",
+      "source_en": "Default",
+      "text": "Standard"
+    },
+    {
+      "key": "dye_color_green",
+      "read_index": "189",
+      "tag_source": "source_en",
+      "source_jp": "緑",
+      "source_en": "Green",
+      "text": "Grüngrün"
+    },
+    {
+      "key": "dye_color_pink",
+      "read_index": "192",
+      "tag_source": "source_en",
+      "source_jp": "桃",
+      "source_en": "Pink",
+      "text": "Rosarot"
+    },
+    {
+      "key": "dye_color_red",
+      "read_index": "188",
+      "tag_source": "source_en",
+      "source_jp": "赤",
+      "source_en": "Red",
+      "text": "rot"
+    },
+    {
+      "key": "dye_color_yellow",
+      "read_index": "191",
+      "tag_source": "source_en",
+      "source_jp": "黄",
+      "source_en": "Yellow",
+      "text": "Gelb"
+    },
+    {
+      "key": "endurance",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "耐久力",
+      "source_en": "Endurance",
+      "text": "Ausdauer"
+    },
+    {
+      "key": "give_cought_fire",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "与【延焼】蓄積値",
+      "source_en": "Inflict Burning",
+      "text": "Verursacht Brand"
+    },
+    {
+      "key": "give_dark_resist_down",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "与【闇防低下】蓄積値",
+      "source_en": "Inflict Dark Resist Down",
+      "text": "Senkt Dunkelresistenz"
+    },
+    {
+      "key": "give_darkness_mist",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "与【闇霧】蓄積値",
+      "source_en": "Inflict Blinded",
+      "text": "Verblindet"
+    },
+    {
+      "key": "give_drenching",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "与【水濡れ】蓄積値",
+      "source_en": "Inflict Drenching",
+      "text": "Infiziertes Drenching"
+    },
+    {
+      "key": "give_fire_resist_down",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "与【炎防低下】蓄積値",
+      "source_en": "Inflict Fire Resist Down",
+      "text": "Senkt Feuerresistenz"
+    },
+    {
+      "key": "give_Frozen",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "与【凍結】蓄積値",
+      "source_en": "Inflict Frozen",
+      "text": "Gefrorene Schuld"
+    },
+    {
+      "key": "give_gold",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "与【黄金化】蓄積値",
+      "source_en": "Inflict Gilded",
+      "text": "Verursacht Vergoldung"
+    },
+    {
+      "key": "give_holy_drain",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "与【聖吸】蓄積値",
+      "source_en": "Inflict Holy Drain",
+      "text": "Verursacht Heiligentzug"
+    },
+    {
+      "key": "give_holy_resist_down",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "与【聖防低下】蓄積値",
+      "source_en": "Inflict Holy Resist Down",
+      "text": "Senkt Heiligresistenz"
+    },
+    {
+      "key": "give_ice_resist_down",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "与【氷防低下】蓄積値",
+      "source_en": "Inflict Ice Resist Down",
+      "text": "Senkt Eisresistenz"
+    },
+    {
+      "key": "give_magic_attack_down",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "与【魔攻低下】蓄積値",
+      "source_en": "Inflict Magick Atk. Down",
+      "text": "Senkt magischen Angriff"
+    },
+    {
+      "key": "give_magic_difense_down",
+      "read_index": "67",
+      "tag_source": "source_en",
+      "source_jp": "与【魔防低下】蓄積値",
+      "source_en": "Inflict Magick Def. Down",
+      "text": "Inflict Magick Def."
+    },
+    {
+      "key": "give_petrify",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "与【石化】蓄積値",
+      "source_en": "Inflict Petrification",
+      "text": "Zufällige Versteinerung"
+    },
+    {
+      "key": "give_physical_attack_down",
+      "read_index": "64",
+      "tag_source": "source_en",
+      "source_jp": "与【物攻低下】蓄積値",
+      "source_en": "Inflict Physical Atk. Down",
+      "text": "Senkt physischen Angriff"
+    },
+    {
+      "key": "give_physical_difense_down",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "与【物防低下】蓄積値",
+      "source_en": "Inflict Physical Def. Down",
+      "text": "Senkt physische Verteidigung"
+    },
+    {
+      "key": "give_poison",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "与【毒】蓄積値",
+      "source_en": "Inflict Poison",
+      "text": "Gift anstecken"
+    },
+    {
+      "key": "give_sleep",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "与【睡眠】蓄積値",
+      "source_en": "Inflict Sleep",
+      "text": "Infizierter Schlaf"
+    },
+    {
+      "key": "give_softener",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "与【軟化】蓄積値",
+      "source_en": "Inflict Frail",
+      "text": "Verursacht Erweichung"
+    },
+    {
+      "key": "give_stifling",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "与【スキル封印】蓄積値",
+      "source_en": "Inflict Skill Stifling",
+      "text": "Inflict Skill Stifting"
+    },
+    {
+      "key": "give_tarring",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "与【油濡れ】蓄積値",
+      "source_en": "Inflict Tarring",
+      "text": "Verursacht Ölung"
+    },
+    {
+      "key": "give_thunder_resist_down",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "与【雷防低下】蓄積値",
+      "source_en": "Inflict Lightning Resist Down",
+      "text": "Senkt Blitzresistenz"
+    },
+    {
+      "key": "give_thunderShocked",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "与【感電】蓄積値",
+      "source_en": "Inflict Shocked",
+      "text": "Inflict Schocked"
+    },
+    {
+      "key": "give_torpor",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "与【遅延】蓄積値",
+      "source_en": "Inflict Torpor",
+      "text": "Verschuldete Torpor"
+    },
+    {
+      "key": "healing",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "生命治癒力",
+      "source_en": "Recovery Limit",
+      "text": "Wiedereinziehungsgrenze"
+    },
+    {
+      "key": "iitem_con",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アイコン",
+      "source_en": "Icon",
+      "text": "Symbol"
+    },
+    {
+      "key": "item_bazaar_ok",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "バザー出品OK",
+      "source_en": "Bazaar Exhibit OK",
+      "text": "Bazaar Ausstellung OK"
+    },
+    {
+      "key": "item_caption",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "説明",
+      "source_en": "Description",
+      "text": "Beschreibung"
+    },
+    {
+      "key": "item_category",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "カテゴリ",
+      "source_en": "Category",
+      "text": "Kategorie"
+    },
+    {
+      "key": "item_categoryname_key",
+      "read_index": "107",
+      "tag_source": "source_en",
+      "source_jp": "キーアイテム",
+      "source_en": "Key Items",
+      "text": "Schlüsselpositionen"
+    },
+    {
+      "key": "item_categoryname_material",
+      "read_index": "105",
+      "tag_source": "source_en",
+      "source_jp": "素材",
+      "source_en": "Raw Material",
+      "text": "Rohmaterial"
+    },
+    {
+      "key": "item_categoryname_special",
+      "read_index": "108",
+      "tag_source": "source_en",
+      "source_jp": "ジョブ専用",
+      "source_en": "Voc. Exclusive",
+      "text": "Voc. Exklusiv"
+    },
+    {
+      "key": "item_categoryname_use",
+      "read_index": "104",
+      "tag_source": "source_en",
+      "source_jp": "消費",
+      "source_en": "Consumable",
+      "text": "Verbrauchsmaterial"
+    },
+    {
+      "key": "item_categoryname_weapon",
+      "read_index": "106",
+      "tag_source": "source_en",
+      "source_jp": "装備品",
+      "source_en": "Equip",
+      "text": "Geräte"
+    },
+    {
+      "key": "item_craft_gained_exp",
+      "read_index": "154",
+      "tag_source": "source_en",
+      "source_jp": "装備強化ポイント",
+      "source_en": "Enhancement",
+      "text": "Verbesserung"
+    },
+    {
+      "key": "item_effect",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "効能",
+      "source_en": "Effect",
+      "text": "Wirkung"
+    },
+    {
+      "key": "item_equip_clast",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "装着中クレスト",
+      "source_en": "Crest Mounting",
+      "text": "Kammbefestigung"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

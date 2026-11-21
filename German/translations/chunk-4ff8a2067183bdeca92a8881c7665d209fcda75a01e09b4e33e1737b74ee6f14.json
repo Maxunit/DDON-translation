@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "1310",
+      "tag_source": "source_en",
+      "source_jp": "宝珠認証【レウス】",
+      "source_en": "Authentication Orb (Rathalos)",
+      "text": "Nachweiskugel (Rathalos)"
+    },
+    {
+      "key": "",
+      "read_index": "1311",
+      "tag_source": "source_en",
+      "source_jp": "宝珠認証【レイア】",
+      "source_en": "Authentication Orb (Rathian)",
+      "text": "Nachweiskugel (Rathian)"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\GPShop_res.gmd",
+  "arc_path": "\\ui\\uGUIGPShop.arc",
+  "entries": [
+    {
+      "key": "OS_cap",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "CAP",
+      "source_en": "CAP",
+      "text": "GAP"
+    },
+    {
+      "key": "OS_cogid",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "COG ID",
+      "source_en": "COG ID",
+      "text": "COG-ID"
+    },
+    {
+      "key": "OS_index_caption",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "Details",
+      "source_en": "Details",
+      "text": "Beschreibung"
+    },
+    {
+      "key": "OS_index_category",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "Category",
+      "source_en": "Category",
+      "text": "Kategorie"
+    },
+    {
+      "key": "OS_index_en",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "Online Shop",
+      "source_en": "Online Shop",
+      "text": "Online-Shop"
+    },
+    {
+      "key": "OS_index_jp",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "オンラインショップ",
+      "source_en": " ",
+      "text": "Online-Shop"
+    },
+    {
+      "key": "OS_index_status_jp",
+      "read_index": "48",
+      "tag_source": "source_jp",
+      "source_jp": "オンラインステーション",
+      "source_en": " ",
+      "text": "Online-Station"
+    },
+    {
+      "key": "OS_index_yen",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "円",
+      "source_en": "Yen",
+      "text": "Yen"
+    },
+    {
+      "key": "OS_status",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "ステータス",
+      "source_en": "Status",
+      "text": "Status"
+    },
+    {
+      "key": "OS_status_ticket",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "Ticket",
+      "source_en": "Ticket",
+      "text": "Fahrkarten"
+    },
+    {
+      "key": "OS_status_time",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "時間",
+      "source_en": "h",
+      "text": "h"
+    },
+    {
+      "key": "OS_status_time_remaining_day",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "日",
+      "source_en": "d",
+      "text": "T"
+    },
+    {
+      "key": "OS_status_usecourse",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "Used Passport and Course",
+      "source_en": "Used Passport and Course",
+      "text": "Aktive Pässe"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

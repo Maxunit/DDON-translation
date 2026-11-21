@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\item_restore.gmd",
+  "arc_path": "\\ui\\uGUIItemReStore.arc",
+  "entries": [
+    {
+      "key": "item_restore_dialog_01_02",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "---",
+      "source_en": "—",
+      "text": "—"
+    },
+    {
+      "key": "item_restore_title",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Item Restoration",
+      "source_en": "Item Restoration",
+      "text": "Gegenstände wiederherstellen"
+    },
+    {
+      "key": "item_restore_title_sub",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "アイテム復元",
+      "source_en": " ",
+      "text": "Gegenstände wiederherstellen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

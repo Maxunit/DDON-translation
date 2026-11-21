@@ -1,0 +1,200 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\Calibration_res_win.gmd",
+  "arc_path": "\\ui\\uGUICalibration.arc",
+  "entries": [
+    {
+      "key": "CALI_MSG_BUTTONGUID_END",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "設定中止",
+      "source_en": "Cancel Setting",
+      "text": "Einrichtung abbrechen"
+    },
+    {
+      "key": "CALI_MSG_BUTTON_EDIT",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "配置変更",
+      "source_en": "Calibrate",
+      "text": "Tastenbelegung ändern"
+    },
+    {
+      "key": "CALI_MSG_BUTTON_END",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "終了",
+      "source_en": "Close",
+      "text": "Schließen"
+    },
+    {
+      "key": "CALI_MSG_BUTTON_RETRY",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "やり直す",
+      "source_en": "Redo",
+      "text": "Wiederholen"
+    },
+    {
+      "key": "CALI_MSG_CAPTION",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "<PFWD 0>のボタン配置設定",
+      "source_en": "<PFWD 0> Calibration",
+      "text": "Tastenbelegung für <PFWD 0>"
+    },
+    {
+      "key": "CALI_MSG_DETECTED_PAD",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "認証<PFWD 0>",
+      "source_en": "Detected <PFWD 0>",
+      "text": "Erkannt: <PFWD 0>"
+    },
+    {
+      "key": "CALI_MSG_DIALOG_END",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "設定が完了しました",
+      "source_en": "Calibration is complete.",
+      "text": "Die Tastenbelegung wurde eingerichtet."
+    },
+    {
+      "key": "CALI_MSG_DIALOG_NOSAVE",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "設定を保存せず終了します",
+      "source_en": "Are you sure you want to exit without saving?",
+      "text": "Ohne Speichern schließen?"
+    },
+    {
+      "key": "CALI_MSG_DIALOG_XINPUT",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "ご使用の<PFWD 0>は設定を変更できません",
+      "source_en": "You cannot change the layout of your <PFWD 0>",
+      "text": "Die Tastenbelegung für <PFWD 0> lässt sich nicht ändern."
+    },
+    {
+      "key": "CALI_MSG_GUID_CHECK",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ボタン配置を確認してください",
+      "source_en": "Check Buttons",
+      "text": "Tastenbelegung prüfen"
+    },
+    {
+      "key": "CALI_MSG_GUID_END",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "確認終了",
+      "source_en": "Confirm Exit",
+      "text": "Prüfung beenden"
+    },
+    {
+      "key": "CALI_MSG_GUID_INPUT",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "を入力してください",
+      "source_en": "Input (press button)",
+      "text": "Taste drücken"
+    },
+    {
+      "key": "CALI_MSG_GUID_KUGIRI",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "/24",
+      "source_en": "/24",
+      "text": "/24"
+    },
+    {
+      "key": "CALI_MSG_GUID_LD",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "Lスティックの下",
+      "source_en": "Left Stick Down",
+      "text": "Linker Stick nach unten"
+    },
+    {
+      "key": "CALI_MSG_GUID_LL",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "Lスティックの左",
+      "source_en": "Left Stick Left",
+      "text": "Linker Stick nach links"
+    },
+    {
+      "key": "CALI_MSG_GUID_LR",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "Lスティックの右",
+      "source_en": "Left Stick Right",
+      "text": "Linker Stick nach rechts"
+    },
+    {
+      "key": "CALI_MSG_GUID_LU",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "Lスティックの上",
+      "source_en": "Left Stick Up",
+      "text": "Linker Stick nach oben"
+    },
+    {
+      "key": "CALI_MSG_GUID_RD",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "Rスティックの下",
+      "source_en": "Right Stick Down",
+      "text": "Rechter Stick nach unten"
+    },
+    {
+      "key": "CALI_MSG_GUID_RL",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "Rスティックの左",
+      "source_en": "Right Stick Left",
+      "text": "Rechter Stick nach links"
+    },
+    {
+      "key": "CALI_MSG_GUID_RR",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "Rスティックの右",
+      "source_en": "Right Stick Right",
+      "text": "Rechter Stick nach rechts"
+    },
+    {
+      "key": "CALI_MSG_GUID_RU",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "Rスティックの上",
+      "source_en": "Right Stick Up",
+      "text": "Rechter Stick nach oben"
+    },
+    {
+      "key": "CALI_MSG_GUID_STEP",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "Step.",
+      "source_en": "Step",
+      "text": "Schritt"
+    },
+    {
+      "key": "CALI_MSG_TITLE_E",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "Button Calibration",
+      "source_en": "Button Calibration",
+      "text": "Tastenbelegung"
+    },
+    {
+      "key": "CALI_MSG_TITLE_J",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "ボタンキャリブレーション",
+      "source_en": "Button Calibration",
+      "text": "Tastenbelegung"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

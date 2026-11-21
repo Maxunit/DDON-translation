@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_craftskillreset_ng_party",
+      "read_index": "436",
+      "tag_source": "source_en",
+      "source_jp": "パーティー中なので使用できません",
+      "source_en": "You can't use it because you are in a party.",
+      "text": "Du kannst es nicht benutzen, weil sie in einer Gruppe sind."
+    },
+    {
+      "key": "ana_craftskillreset_ng_ticket",
+      "read_index": "434",
+      "tag_source": "source_en",
+      "source_jp": "クラフトスキルリセット権がありません",
+      "source_en": "You don't have access to \"Reset Craft Skills\".",
+      "text": "Du hast keinen Zugriff auf \"Reset Craft Skills\"."
+    },
+    {
+      "key": "ana_create_character_max",
+      "read_index": "291",
+      "tag_source": "source_en",
+      "source_jp": "これ以上新規キャラクターを作成できません",
+      "source_en": "You cannot create any more new characters.",
+      "text": "Du kannst keine neuen Charaktere mehr erstellen."
+    },
+    {
+      "key": "ana_creating_second_pawn",
+      "read_index": "242",
+      "tag_source": "source_en",
+      "source_jp": "新しいメインポーンと契約しました。パーティー管理から呼び出せます",
+      "source_en": "You have made a contract with a new main pawn. It\r\ncan be called through Party Management.",
+      "text": "Du hast einen Vertrag mit einem neuen Hauptvasallen geschlossen.\r\nkann über Gruppe Management aufgerufen werden."
+    },
+    {
+      "key": "ana_crowded_cancel",
+      "read_index": "372",
+      "tag_source": "source_en",
+      "source_jp": "順番待ちを中止しますか？",
+      "source_en": "Are you sure you want to leave the queue?",
+      "text": "Bist du sicher, dass du die Schlange verlassen willst?"
+    },
+    {
+      "key": "ana_dark_dungeon_006",
+      "read_index": "601",
+      "tag_source": "source_en",
+      "source_jp": "大地の宝箱A開始",
+      "source_en": "Earth's Treasure Chest A, start",
+      "text": "Schatztruhe der Erde A, Start"
+    },
+    {
+      "key": "ana_dark_dungeon_007",
+      "read_index": "602",
+      "tag_source": "source_en",
+      "source_jp": "大地の宝箱B開始",
+      "source_en": "Earth's Treasure Chest B, start",
+      "text": "Treasure Chest B der Erde, Start"
+    },
+    {
+      "key": "ana_dark_dungeon_008",
+      "read_index": "603",
+      "tag_source": "source_en",
+      "source_jp": "残りの探索ポイント <VAL>/<VAL>",
+      "source_en": "Remaining Reward Points <VAL>/<VAL>",
+      "text": "Verbleibende Prämienpunkte <VAL>/<VAL>"
+    },
+    {
+      "key": "ana_dark_dungeon_009",
+      "read_index": "604",
+      "tag_source": "source_en",
+      "source_jp": "残り闇の欠片 <VAL>/<VAL>",
+      "source_en": "Remaining pieces of darkness <VAL>/<VAL>",
+      "text": "Verbleibende Teile der Dunkelheit <VAL>/<VAL>"
+    },
+    {
+      "key": "ana_dark_dungeon_014",
+      "read_index": "610",
+      "tag_source": "source_en",
+      "source_jp": "闇の力が少し弱まった",
+      "source_en": "The power of darkness has weakened a little",
+      "text": "Die Macht der Dunkelheit hat ein wenig geschwächt"
+    },
+    {
+      "key": "ana_dark_dungeon_019",
+      "read_index": "617",
+      "tag_source": "source_en",
+      "source_jp": "追加報酬が増えた",
+      "source_en": "Additional rewards increased.",
+      "text": "Zusätzliche Belohnungen erhöht."
+    },
+    {
+      "key": "ana_dark_dungeon_020",
+      "read_index": "618",
+      "tag_source": "source_en",
+      "source_jp": "追加報酬が最大になった",
+      "source_en": "Additional rewards have reached their maximum",
+      "text": "Zusätzliche Belohnungen haben ihr Maximum erreicht"
+    },
+    {
+      "key": "ana_delete_character_zero",
+      "read_index": "292",
+      "tag_source": "source_en",
+      "source_jp": "キャラクターが作成されていません",
+      "source_en": "There is no created characters.",
+      "text": "Es gibt keine geschaffenen Charaktere."
+    },
+    {
+      "key": "ana_denial_friend",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>のフレンド申請を拒否しました",
+      "source_en": "\"Declined the friend request from \r\n<NAME TARGET>\".",
+      "text": "\"Abgelehnt die Freundschaftsanfrage von\r\n<NAME TARGET>\"."
+    },
+    {
+      "key": "ana_denial_friend_error",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>のフレンド申請を拒否できませんでした",
+      "source_en": "Could not decline the friend request from \r\n<NAME TARGET>.",
+      "text": "Konnte die Freundschaftsanfrage von\r\n<NAME TARGET> nicht ablehnen."
+    },
+    {
+      "key": "ana_denial_friend_q",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>の\r\nフレンド申請を拒否します。よろしいですか？",
+      "source_en": "Are you sure you want to decline\r\nthe friend request from \r\n<NAME TARGET>?",
+      "text": "Bist du sicher, dass du abnehmen willst?\r\nDie Freundschaftsanfrage von\r\n<NAME TARGET>?"
+    },
+    {
+      "key": "ana_dialog_areatest",
+      "read_index": "310",
+      "tag_source": "source_en",
+      "source_jp": "ランクアップにはエリア試練クエストのクリアが必要です",
+      "source_en": "To rank up you need to complete the area quest.",
+      "text": "Um zu ranken, musst du die Area Quest abschließen."
+    },
+    {
+      "key": "ana_dialog_currency_leak_warning_01",
+      "read_index": "593",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>※注意※\r\nこのまま受け取ると、所持上限値を超えてしまう\r\n通貨系アイテムが含まれています\r\n満額受け取ることができませんのでご注意ください</COL>",
+      "source_en": "<COL ffdc78>※Attention※\r\nIf you receive this as it is, it will exceed the\r\nmaximum limit value.\r\nIt contains currency items.\r\nPlease be aware that you cannot receive the full\r\namount</COL>.",
+      "text": "<COL ffdc78>Achtung\r\nBeim Entgegennehmen würdest du\r\ndie Höchstmenge überschreiten.\r\nDie Lieferung enthält Währung.\r\nDu kannst den\r\nvollen Betrag</COL> nicht erhalten."
+    },
+    {
+      "key": "ana_dialog_currency_leak_warning_02",
+      "read_index": "594",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>※注意※\r\nこのまま受け取ると、所持上限値を超えてしまう\r\n通貨系アイテムが含まれている場合があります\r\n満額受け取ることができませんのでご注意ください</COL>",
+      "source_en": "<COL ffdc78>*Note*\r\nIf you receive the item as is, it will exceed\r\nyour possession limit.\r\nIt may contain currency items.\r\nPlease note that you will not receive the full\r\namount</COL>.",
+      "text": "<COL ffdc78>Hinweis\r\nBeim Entgegennehmen würdest du\r\ndeine Höchstmenge überschreiten.\r\nDie Lieferung kann Währung enthalten.\r\nDu erhältst nicht den\r\nvollen Betrag</COL>."
+    },
+    {
+      "key": "ana_dialog_currency_leak_warning_03",
+      "read_index": "619",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>※注意※\r\nこのまま受け取ると、所持上限値を超えてしまいます\r\n満額受け取ることができませんのでご注意ください</COL>",
+      "source_en": "<COL ffdc78>*Attention*\r\nIf you receive this as it is, it will exceed the\r\nmaximum limit value.\r\nIt contains currency items.\r\nPlease be aware that you cannot receive the full\r\namount</COL>",
+      "text": "<COL ffdc78>Achtung\r\nBeim Entgegennehmen würdest du\r\ndie Höchstmenge überschreiten.\r\nDie Lieferung enthält Währung.\r\nDu kannst den\r\nvollen Betrag</COL> nicht erhalten."
+    },
+    {
+      "key": "ana_dialog_entryb_join_q",
+      "read_index": "115",
+      "tag_source": "source_en",
+      "source_jp": "エントリーボードに参加します。\r\nよろしいですか？",
+      "source_en": "You will sign up for the entryboard.\r\nAre you sure?",
+      "text": "Du wirst dich für das Enterboard anmelden.\r\nBist du dir sicher?"
+    },
+    {
+      "key": "ana_dialog_gchat_invite_tg",
+      "read_index": "117",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>をグループチャットに誘いました",
+      "source_en": "<NAME TARGET> \r\nhas been invited to the group chat.",
+      "text": "<NAME TARGET>\r\nwurde zum Gruppenchat eingeladen."
+    },
+    {
+      "key": "ana_dialog_gchat_invite_tg_q",
+      "read_index": "116",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nグループチャットに誘います。よろしいですか？",
+      "source_en": "Inviting <NAME TARGET>\r\nto the group chat. Are you sure?",
+      "text": "Einladung <NAME TARGET>\r\n zum Gruppenchat. Bist du sicher?"
+    },
+    {
+      "key": "ana_dialog_gchat_kick",
+      "read_index": "121",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>をグループチャットから外しました",
+      "source_en": "<NAME TARGET> \r\nhas been kicked from the group chat.",
+      "text": "<NAME TARGET>\r\nwurde aus dem Gruppenchat getreten."
+    },
+    {
+      "key": "ana_dialog_gchat_kick_q",
+      "read_index": "120",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nグループチャットから外します。よろしいですか？",
+      "source_en": "Remove <NAME TARGET>\r\nfrom the group chat?",
+      "text": "<NAME TARGET>\r\naus dem Gruppenchat entfernen?"
+    },
+    {
+      "key": "ana_dialog_gchat_leave",
+      "read_index": "119",
+      "tag_source": "source_en",
+      "source_jp": "グループチャットから抜けました",
+      "source_en": "You have left the group chat.",
+      "text": "Du hast den Gruppenchat verlassen."
+    },
+    {
+      "key": "ana_dialog_gchat_leave_q",
+      "read_index": "118",
+      "tag_source": "source_en",
+      "source_jp": "グループチャットから抜けます。\r\nよろしいですか？",
+      "source_en": "Leaving the group chat.\r\nAre you sure?",
+      "text": "Den Gruppenchat verlassen.\r\nBist du dir sicher?"
+    },
+    {
+      "key": "ana_dialog_item_get",
+      "read_index": "134",
+      "tag_source": "source_en",
+      "source_jp": "<ITEM n>を入手した",
+      "source_en": "<ITEM n> was obtained.",
+      "text": "<ITEM n> erhalten wurde."
+    },
+    {
+      "key": "ana_dialog_party_leave_q",
+      "read_index": "283",
+      "tag_source": "source_en",
+      "source_jp": "パーティーから抜けます\r\nよろしいですか？",
+      "source_en": "Are you sure you want to leave the party?",
+      "text": "Bist du sicher, dass du die Gruppe verlassen willst?"
+    },
+    {
+      "key": "ana_dialog_retire_agree",
+      "read_index": "128",
+      "tag_source": "source_en",
+      "source_jp": "賛成",
+      "source_en": "Agree",
+      "text": "Einvernehmen"
+    },
+    {
+      "key": "ana_dialog_retire_disagree",
+      "read_index": "131",
+      "tag_source": "source_en",
+      "source_jp": "反対",
+      "source_en": "Disagree",
+      "text": "Uneinigkeit"
+    },
+    {
+      "key": "ana_dialog_retire_inform",
+      "read_index": "133",
+      "tag_source": "source_en",
+      "source_jp": "コンテンツ途中離脱の提案がありました",
+      "source_en": "You have received a request to end the mission.",
+      "text": "Du hast eine Bitte erhalten, die Mission zu beenden."
+    },
+    {
+      "key": "ana_dialog_retire_isanswer",
+      "read_index": "126",
+      "tag_source": "source_en",
+      "source_jp": "コンテンツを途中離脱しますか？",
+      "source_en": "Do you want to withdraw from the content?",
+      "text": "Möchtest du sich vom Inhalt zurückziehen?"
+    },
+    {
+      "key": "ana_dialog_retire_ispropose",
+      "read_index": "127",
+      "tag_source": "source_en",
+      "source_jp": "コンテンツ途中離脱の提案をしますか？",
+      "source_en": "Do you want to propose to withdraw\r\nfrom the content?",
+      "text": "Möchtest du vorschlagen,\r\n vom Inhalt zurückzuziehen?"
+    },
+    {
+      "key": "ana_dialog_retire_lose",
+      "read_index": "125",
+      "tag_source": "source_en",
+      "source_jp": "コンテンツ途中離脱が拒否されました",
+      "source_en": "Mission did not end because the request was\r\nrejected.",
+      "text": "Die Mission endete nicht, weil die Anfrage\r\nabgelehnt."
+    },
+    {
+      "key": "ana_dialog_retire_noreply",
+      "read_index": "132",
+      "tag_source": "source_en",
+      "source_jp": "返答せず閉じる",
+      "source_en": "Close with no reply",
+      "text": "Schließ ohne Antwort"
+    },
+    {
+      "key": "ana_dialog_retire_proposed",
+      "read_index": "122",
+      "tag_source": "source_en",
+      "source_jp": "コンテンツ途中離脱の提案を行いました",
+      "source_en": "A request has been made to end the mission.",
+      "text": "Es wurde beantragt, die Mission zu beenden."
+    },
+    {
+      "key": "ana_dialog_retire_proposed_tg",
+      "read_index": "123",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>さんから途中離脱の提案がありました",
+      "source_en": "<NAME TARGET> \r\nhas proposed withdrawing from the content.",
+      "text": "<NAME TARGET>\r\nhat vorgeschlagen, sich vom Inhalt zurückzuziehen."
+    },
+    {
+      "key": "ana_dialog_retire_re_agree",
+      "read_index": "129",
+      "tag_source": "source_en",
+      "source_jp": "「賛成」で返答しました",
+      "source_en": "You replied \"agree.\"",
+      "text": "Du hast geantwortet \"zustimmen\"."
+    },
+    {
+      "key": "ana_dialog_retire_re_disagree",
+      "read_index": "130",
+      "tag_source": "source_en",
+      "source_jp": "「反対」で返答しました",
+      "source_en": "You replied \"disagree.\"",
+      "text": "Du hast geantwortet: \"Nicht einverstanden.\""
+    },
+    {
+      "key": "ana_dialog_retire_win",
+      "read_index": "124",
+      "tag_source": "source_en",
+      "source_jp": "コンテンツ途中離脱が決定されました",
+      "source_en": "The request to end the mission was successful.",
+      "text": "Die Bitte, die Mission zu beenden, war erfolgreich."
+    },
+    {
+      "key": "ana_dialog_shortage_gold",
+      "read_index": "135",
+      "tag_source": "source_en",
+      "source_jp": "所持金が不足しています",
+      "source_en": "You do not have enough gold.",
+      "text": "Du hast nicht genug Gold."
+    },
+    {
+      "key": "ana_disable_join_pt",
+      "read_index": "375",
+      "tag_source": "source_en",
+      "source_jp": "パーティー参加中のため選べません",
+      "source_en": "You can't do that while in a party.",
+      "text": "Das kannst du nicht machen, während du auf einer Gruppe bist."
+    },
+    {
+      "key": "ana_disable_make_pt",
+      "read_index": "374",
+      "tag_source": "source_en",
+      "source_jp": "パーティー要請中のため選べません",
+      "source_en": "You cannot choose this option while there is a\r\nparty request.",
+      "text": "Du kannst diese Option nicht auswählen, während eine\r\nParteianfrage vorliegt."
+    },
+    {
+      "key": "ana_disable_not_leader_common_err",
+      "read_index": "378",
+      "tag_source": "source_en",
+      "source_jp": "リーダーではないため選べません",
+      "source_en": "You cannot choose this option because you are not\r\nthe leader.",
+      "text": "Du kannst diese Option nicht wählen, weil du nicht\r\nder Anführer bist."
+    },
+    {
+      "key": "ana_disable_qpt_fullmenber",
+      "read_index": "379",
+      "tag_source": "source_en",
+      "source_jp": "パーティーメンバーが揃っているため選べません",
+      "source_en": "Cannot select this option because your party is\r\nfull.",
+      "text": "Kann diese Option nicht auswählen, weil deine Gruppe voll\r\n ist."
+    },
+    {
+      "key": "ana_disable_quickp",
+      "read_index": "373",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティー中のため選べません",
+      "source_en": "You cannot choose this option while in a quick\r\nparty.",
+      "text": "Diese Option steht während der Schnellsuche\r\nnicht zur Verfügung."
+    },
+    {
+      "key": "ana_dismissal",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>を返却しました",
+      "source_en": "<NAME PAWN> has been returned.",
+      "text": "<NAME PAWN> wurde zurückgegeben."
+    },
+    {
+      "key": "ana_dismissal_error",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>を返却できませんでした",
+      "source_en": "<NAME PAWN> \r\ncould not be returned.",
+      "text": "<NAME PAWN>\r\n konnte nicht zurückgegeben werden."
+    },
+    {
+      "key": "ana_dismissal_q",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>を\r\n返却します。よろしいですか？",
+      "source_en": "Are you sure you want to return \r\n<NAME PAWN>?",
+      "text": "Bist du sicher, dass du zurückkehren willst\r\n<NAME PAWN>?"
+    },
+    {
+      "key": "ana_disp_cleartime",
+      "read_index": "467",
+      "tag_source": "source_en",
+      "source_jp": "クリアタイム",
+      "source_en": "Clear time",
+      "text": "Klare Zeit"
+    },
+    {
+      "key": "ana_disparty_in_battle",
+      "read_index": "350",
+      "tag_source": "source_en",
+      "source_jp": "戦闘中なのでパーティー解散できません",
+      "source_en": "The party cannot be disbanded during combat.",
+      "text": "Die Partei kann während des Kampfes nicht aufgelöst werden."
+    },
+    {
+      "key": "ana_employ",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>を雇用しました",
+      "source_en": "<NAME PAWN> \r\nhas been hired.",
+      "text": "<NAME PAWN>\r\nwurde eingestellt."
+    },
+    {
+      "key": "ana_employ_error",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>を雇用できませんでした",
+      "source_en": "Could not hire \r\n<NAME PAWN>.",
+      "text": "Konnte nicht mieten\r\n<NAME PAWN>."
+    },
+    {
+      "key": "ana_employ_q",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>を雇用しますか？",
+      "source_en": "Are you sure you want to hire \r\n<NAME PAWN>?",
+      "text": "Möchtest du\r\n<NAME PAWN> anheuern?"
+    },
+    {
+      "key": "ana_entry_board_name_taken_clan",
+      "read_index": "258",
+      "tag_source": "source_en",
+      "source_jp": "クランリストから",
+      "source_en": "From Clan",
+      "text": "Aus dem Clan"
+    },
+    {
+      "key": "ana_entry_board_name_taken_friend",
+      "read_index": "257",
+      "tag_source": "source_en",
+      "source_jp": "フレンドリストから",
+      "source_en": "From Friends",
+      "text": "Von Freunden"
+    },
+    {
+      "key": "ana_entry_chat_recruit_01",
+      "read_index": "547",
+      "tag_source": "source_en",
+      "source_jp": "チャットにエントリーボード募集を配信します\r\n宛先を選択してください",
+      "source_en": "Sending recruitment for entry boards to the chat.\r\nPlease select the addressee",
+      "text": "Aufruf zur Teilnahme im Chat senden.\r\nWähle den Empfänger."
+    },
+    {
+      "key": "ana_entry_chat_recruit_02",
+      "read_index": "548",
+      "tag_source": "source_en",
+      "source_jp": "発言したいテキストを入力してください",
+      "source_en": "Please input the text you want to send.",
+      "text": "Gib den Text ein, den du senden möchtest."
+    },
+    {
+      "key": "ana_entry_chat_recruit_03",
+      "read_index": "549",
+      "tag_source": "source_en",
+      "source_jp": "エントリー募集中！",
+      "source_en": "Entry wanted!",
+      "text": "Eintritt gewünscht!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

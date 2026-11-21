@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\ex_hint.gmd",
+  "arc_path": "\\ui\\uGUIExHint.arc",
+  "entries": [
+    {
+      "key": "ex_hint_001",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "<KC TOUCH>長押しで耐えろ！",
+      "source_en": "<KC TOUCH>Hold to resist!",
+      "text": "<KC TOUCH> Halte Widerstand!"
+    },
+    {
+      "key": "ex_hint_002",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "耐えるのに失敗した！",
+      "source_en": "I failed to resist!",
+      "text": "Ich habe nicht widerstehen können!"
+    },
+    {
+      "key": "ex_hint_003",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<KC JUMP>で敵から離れろ！",
+      "source_en": "<KC JUMP>Get away from the enemy!",
+      "text": "<KC JUMP> Entfernt euch vom Feind!"
+    },
+    {
+      "key": "ex_hint_004",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<KC CLIMB_JOLT>連打で揺さぶれ！",
+      "source_en": "<KC CLIMB_JOLT>Shake repeatedly!",
+      "text": "<KC CLIMB_JOLT> Schüttle wiederholt!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

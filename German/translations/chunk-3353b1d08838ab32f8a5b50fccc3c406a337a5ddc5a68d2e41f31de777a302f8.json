@@ -1,0 +1,128 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\photo.gmd",
+  "arc_path": "\\ui\\uGUIPhoto.arc",
+  "entries": [
+    {
+      "key": "photo_frame_title_en",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "フレーム選択",
+      "source_en": "Select Frame",
+      "text": "Rahmen auswählen"
+    },
+    {
+      "key": "photo_frame_title_jp",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "Photo Frame",
+      "source_en": "Photo Frame",
+      "text": "Fotorahmen"
+    },
+    {
+      "key": "photo_guide_album_num",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "アルバム保存枚数",
+      "source_en": "No. of albums saved",
+      "text": "Anzahl der gespeicherten Alben"
+    },
+    {
+      "key": "photo_guide_cam_move",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "カメラ移動",
+      "source_en": "Move",
+      "text": "Bewegung"
+    },
+    {
+      "key": "photo_guide_cam_roll",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "カメラ回転",
+      "source_en": "Rotate",
+      "text": "Rotation"
+    },
+    {
+      "key": "photo_guide_comm_sc",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "コミュニケーションショートカット",
+      "source_en": "Communication Shortcuts",
+      "text": "Kommunikationsabkürzungen"
+    },
+    {
+      "key": "photo_guide_copy_right",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "©CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.",
+      "source_en": "©CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.",
+      "text": "©CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED."
+    },
+    {
+      "key": "photo_guide_ploff",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "プレイヤーを非表示",
+      "source_en": "Hide Player",
+      "text": "Hideplayer"
+    },
+    {
+      "key": "photo_guide_print",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "撮影",
+      "source_en": "Take Photo",
+      "text": "Nimm Foto"
+    },
+    {
+      "key": "photo_guide_title",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "Dragon's Dogma Online_",
+      "source_en": "Dragon's Dogma Online_",
+      "text": "Dragon's Dogma Online"
+    },
+    {
+      "key": "photo_guide_zoomin",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ズームイン",
+      "source_en": "Zoom In",
+      "text": "Zoom in"
+    },
+    {
+      "key": "photo_guide_zoomout",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ズームアウト",
+      "source_en": "Zoom Out",
+      "text": "Zoom out"
+    },
+    {
+      "key": "photo_savedata_picture_album",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "Dragon's Dogma Online",
+      "source_en": "Dragon's Dogma Online",
+      "text": "Dragon's Dogma Online"
+    },
+    {
+      "key": "photo_savedata_picture_info",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "Dragon's Dogma Online で撮影したスクリーンショットです",
+      "source_en": "Screenshot taken by Dragon's Dogma Online",
+      "text": "Screenshot von Dragon's Dogma Online"
+    },
+    {
+      "key": "photo_savedata_picture_name",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "Dragon's Dogma Online Screen Shot",
+      "source_en": "Dragon's Dogma Online Screen Shot",
+      "text": "Dragon’s Dogma Online – Screenshot"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

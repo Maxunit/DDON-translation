@@ -1,0 +1,152 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\gacha_res.gmd",
+  "arc_path": "\\ui\\uGUIBoxGachaInfo.arc",
+  "entries": [
+    {
+      "key": "lde_msg_text_008",
+      "read_index": "120",
+      "tag_source": "source_en",
+      "source_jp": "対象アイテム",
+      "source_en": "Target Item",
+      "text": "Zielposition"
+    },
+    {
+      "key": "lde_msg_text_009",
+      "read_index": "121",
+      "tag_source": "source_en",
+      "source_jp": "獲得pt",
+      "source_en": "Acquired pt",
+      "text": "Erworbene pt"
+    },
+    {
+      "key": "lde_msg_text_010",
+      "read_index": "122",
+      "tag_source": "source_en",
+      "source_jp": "ボーダー報酬",
+      "source_en": "Border Rewards",
+      "text": "Grenzbelohnungen"
+    },
+    {
+      "key": "lde_msg_text_011",
+      "read_index": "123",
+      "tag_source": "source_en",
+      "source_jp": "ランキング報酬",
+      "source_en": "Ranking Reward",
+      "text": "Ranking Belohnung"
+    },
+    {
+      "key": "lde_msg_text_012",
+      "read_index": "124",
+      "tag_source": "source_en",
+      "source_jp": "全体ボーダー報酬",
+      "source_en": "All Border Rewards",
+      "text": "Alle Border Rewards"
+    },
+    {
+      "key": "lde_msg_text_013",
+      "read_index": "125",
+      "tag_source": "source_en",
+      "source_jp": "達成",
+      "source_en": "Achieved",
+      "text": "Erreicht"
+    },
+    {
+      "key": "lde_msg_text_014",
+      "read_index": "126",
+      "tag_source": "source_en",
+      "source_jp": "未達成",
+      "source_en": "Not Achieved",
+      "text": "Nicht erreicht"
+    },
+    {
+      "key": "lde_msg_text_015",
+      "read_index": "127",
+      "tag_source": "source_en",
+      "source_jp": "-",
+      "source_en": "-",
+      "text": "-"
+    },
+    {
+      "key": "lde_msg_text_016",
+      "read_index": "128",
+      "tag_source": "source_en",
+      "source_jp": "受取可能",
+      "source_en": "Receivable",
+      "text": "Forderungen"
+    },
+    {
+      "key": "lde_msg_text_017",
+      "read_index": "129",
+      "tag_source": "source_en",
+      "source_jp": "受取済",
+      "source_en": "Received",
+      "text": "Empfangen"
+    },
+    {
+      "key": "lde_msg_text_018",
+      "read_index": "130",
+      "tag_source": "source_en",
+      "source_jp": "集計中",
+      "source_en": "Tallying",
+      "text": "Zählung"
+    },
+    {
+      "key": "lde_msg_text_019",
+      "read_index": "131",
+      "tag_source": "source_en",
+      "source_jp": "集計確定",
+      "source_en": "Tallied",
+      "text": "Tayed"
+    },
+    {
+      "key": "lde_msg_text_020",
+      "read_index": "132",
+      "tag_source": "source_en",
+      "source_jp": "報酬アイテムをすべて受け取ります\r\n受け取り先を選択してください",
+      "source_en": "Please select a destination\r\nto receive all reward items.",
+      "text": "Wähle ein Ziel\r\n aus, um alle Belohnungsgegenstände zu erhalten."
+    },
+    {
+      "key": "lde_msg_text_021",
+      "read_index": "133",
+      "tag_source": "source_en",
+      "source_jp": "に受け取りました",
+      "source_en": "Received",
+      "text": "Empfangen"
+    },
+    {
+      "key": "lde_msg_text_022",
+      "read_index": "139",
+      "tag_source": "source_en",
+      "source_jp": "位",
+      "source_en": "Rank",
+      "text": "Rang"
+    },
+    {
+      "key": "lde_msg_text_023",
+      "read_index": "140",
+      "tag_source": "source_en",
+      "source_jp": "時点",
+      "source_en": "as of now",
+      "text": "ab sofort"
+    },
+    {
+      "key": "lde_msg_title_e",
+      "read_index": "104",
+      "tag_source": "source_en",
+      "source_jp": "Large Delivery Event",
+      "source_en": "Large Delivery Event",
+      "text": "Großes Lieferereignis"
+    },
+    {
+      "key": "lde_msg_title_j",
+      "read_index": "105",
+      "tag_source": "source_en",
+      "source_jp": "大口納品イベント",
+      "source_en": "Large Delivery Event",
+      "text": "Großes Lieferereignis"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

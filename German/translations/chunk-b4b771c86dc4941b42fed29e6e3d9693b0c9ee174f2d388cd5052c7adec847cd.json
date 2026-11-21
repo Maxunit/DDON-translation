@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\weather_forecast.gmd",
+  "arc_path": "\\MyRoom.arc",
+  "entries": [
+    {
+      "key": "game_time_format",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "レスタニア（ＧＴ）　%02d:%02d",
+      "source_en": "Lestania (GT) %02d:%02d",
+      "text": "Lestania (GT) %02d:%02d"
+    },
+    {
+      "key": "local_time_format",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ローカル　（ＬＴ）　%02d:%02d",
+      "source_en": "Local (LT) %02d:%02d",
+      "text": "Ortszeit (LT) %02d:%02d"
+    },
+    {
+      "key": "weather_cloudy",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<COL acdfcf>＜曇り＞</COL>",
+      "source_en": "<COL acdfcf>Cloudy</COL>",
+      "text": "<COL acdfcf>Bewölkt</COL>"
+    },
+    {
+      "key": "weather_fine",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<COL fff300>＜晴れ＞</COL>",
+      "source_en": "<COL fff300>Fine</COL>",
+      "text": "<COL fff300>Heiter</COL>"
+    },
+    {
+      "key": "weather_forecast_title",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>≪今後６時間ごとの天気≫</COL>",
+      "source_en": "<COL ffdc78>6-Hourly Weather Forecast</COL>",
+      "text": "<COL ffdc78>Wetter im 6-Stunden-Takt</COL>"
+    },
+    {
+      "key": "weather_rainy",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<COL 8ff4ff>＜雨＞</COL>",
+      "source_en": "<COL 8ff4ff>Rainy</COL>",
+      "text": "<COL 8ff4ff>Regen</COL>"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

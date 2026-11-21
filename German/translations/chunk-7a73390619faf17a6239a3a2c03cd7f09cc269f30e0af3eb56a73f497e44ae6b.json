@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "1795",
+      "tag_source": "source_en",
+      "source_jp": "百戦の印",
+      "source_en": "Mark of A Hundred Battles",
+      "text": "Mal der hundert Schlachten"
+    },
+    {
+      "key": "",
+      "read_index": "1796",
+      "tag_source": "source_en",
+      "source_jp": "黒刃の破片",
+      "source_en": "Black Blade Fragment",
+      "text": "Schwarzklingensplitter"
+    },
+    {
+      "key": "",
+      "read_index": "1797",
+      "tag_source": "source_en",
+      "source_jp": "邪眼の水晶体",
+      "source_en": "Evil Eye Lens",
+      "text": "Linse des Bösen Auges"
+    },
+    {
+      "key": "",
+      "read_index": "1798",
+      "tag_source": "source_en",
+      "source_jp": "魔力のこもった巨骨",
+      "source_en": "Magickal Giant Bones",
+      "text": "Magiedurchtränkter Riesenknochen"
+    },
+    {
+      "key": "",
+      "read_index": "1799",
+      "tag_source": "source_en",
+      "source_jp": "鬼人の角",
+      "source_en": "Ogre's Horn",
+      "text": "Ogerhorn"
+    },
+    {
+      "key": "",
+      "read_index": "1800",
+      "tag_source": "source_en",
+      "source_jp": "マンティコアの粗皮",
+      "source_en": "Manticore Raw Pelt",
+      "text": "Rohe Mantikorhaut"
+    },
+    {
+      "key": "",
+      "read_index": "1801",
+      "tag_source": "source_en",
+      "source_jp": "小鬼の術杖",
+      "source_en": "Goblin's Spellstaff",
+      "text": "Goblin-Zauberstab"
+    },
+    {
+      "key": "",
+      "read_index": "1802",
+      "tag_source": "source_en",
+      "source_jp": "血飲壺",
+      "source_en": "Blood Drinking Vessel",
+      "text": "Bluttrinkgefäß"
+    },
+    {
+      "key": "",
+      "read_index": "1803",
+      "tag_source": "source_en",
+      "source_jp": "骸狼の牙",
+      "source_en": "Undead Wolf's Fang",
+      "text": "Fangzahn des untoten Wolfs"
+    },
+    {
+      "key": "",
+      "read_index": "1804",
+      "tag_source": "source_en",
+      "source_jp": "ロックレザー",
+      "source_en": "Rock Leather",
+      "text": "Felsleder"
+    },
+    {
+      "key": "",
+      "read_index": "1805",
+      "tag_source": "source_en",
+      "source_jp": "ロックカッター",
+      "source_en": "Rock-Cutter",
+      "text": "Felsschneider"
+    },
+    {
+      "key": "",
+      "read_index": "1806",
+      "tag_source": "source_en",
+      "source_jp": "大きな魚眼石",
+      "source_en": "Giant Apophyllite",
+      "text": "Riesen-Apophyllit"
+    },
+    {
+      "key": "",
+      "read_index": "1807",
+      "tag_source": "source_en",
+      "source_jp": "亡者の削れた爪",
+      "source_en": "Undead Nail Shaving",
+      "text": "Abgeriebener Untotennagel"
+    },
+    {
+      "key": "",
+      "read_index": "1808",
+      "tag_source": "source_en",
+      "source_jp": "竜族討ちの特質錬石",
+      "source_en": "Dragon Slayer's Stone",
+      "text": "Stein des Drachentöters"
+    },
+    {
+      "key": "",
+      "read_index": "1809",
+      "tag_source": "source_en",
+      "source_jp": "戦甲の残片",
+      "source_en": "Battle Armor Fragment",
+      "text": "Kampfrüstungsfragment"
+    },
+    {
+      "key": "",
+      "read_index": "1810",
+      "tag_source": "source_en",
+      "source_jp": "竜族討ちの特質錬石の欠片",
+      "source_en": "Dragon Slayer's Stone Shard",
+      "text": "Splitter des Drachentötersteins"
+    },
+    {
+      "key": "",
+      "read_index": "1811",
+      "tag_source": "source_en",
+      "source_jp": "呪詛の手紙",
+      "source_en": "Cursed Letter",
+      "text": "Verfluchter Brief"
+    },
+    {
+      "key": "",
+      "read_index": "1812",
+      "tag_source": "source_en",
+      "source_jp": "竜の逆鱗",
+      "source_en": "Dragon's Inverse Scale",
+      "text": "Umgekehrte Drachenschuppe"
+    },
+    {
+      "key": "",
+      "read_index": "1813",
+      "tag_source": "source_en",
+      "source_jp": "高粘度スライムリキッド",
+      "source_en": "Highly Viscous Slime Liquid",
+      "text": "Dickflüssiger Schleim"
+    },
+    {
+      "key": "",
+      "read_index": "1814",
+      "tag_source": "source_en",
+      "source_jp": "ボーンパール",
+      "source_en": "Bone Pearl",
+      "text": "Knochenperle"
+    },
+    {
+      "key": "",
+      "read_index": "1815",
+      "tag_source": "source_en",
+      "source_jp": "もろい砂岩石",
+      "source_en": "Brittle Sandstone",
+      "text": "Brüchiger Sandstein"
+    },
+    {
+      "key": "",
+      "read_index": "1816",
+      "tag_source": "source_en",
+      "source_jp": "火山噴出岩",
+      "source_en": "Pyroclastic Rock",
+      "text": "Vulkanisches Auswurfgestein"
+    },
+    {
+      "key": "",
+      "read_index": "1817",
+      "tag_source": "source_en",
+      "source_jp": "灰かぶり草",
+      "source_en": "Ashen Grass",
+      "text": "Aschenkraut"
+    },
+    {
+      "key": "",
+      "read_index": "1818",
+      "tag_source": "source_en",
+      "source_jp": "火炎草",
+      "source_en": "Blaze Grass",
+      "text": "Flammenkraut"
+    },
+    {
+      "key": "",
+      "read_index": "1819",
+      "tag_source": "source_en",
+      "source_jp": "プランクトン液",
+      "source_en": "Plankton Liquid",
+      "text": "Planktonflüssigkeit"
+    },
+    {
+      "key": "",
+      "read_index": "1820",
+      "tag_source": "source_en",
+      "source_jp": "竜頭のタイル片",
+      "source_en": "Dragon Head Tile Fragment",
+      "text": "Drachenkopf-Fliesenstück"
+    },
+    {
+      "key": "",
+      "read_index": "1821",
+      "tag_source": "source_en",
+      "source_jp": "竜尾のタイル片",
+      "source_en": "Dragon Tail Tile Fragment",
+      "text": "Drachenschwanz-Fliesenstück"
+    },
+    {
+      "key": "",
+      "read_index": "1822",
+      "tag_source": "source_en",
+      "source_jp": "豊穣のリボン",
+      "source_en": "Ribbon of Rich Bounty",
+      "text": "Band der Fülle"
+    },
+    {
+      "key": "",
+      "read_index": "1823",
+      "tag_source": "source_en",
+      "source_jp": "コバルト合金のインゴット",
+      "source_en": "Cobalt Alloy Ingot",
+      "text": "Kobaltlegierungsbarren"
+    },
+    {
+      "key": "",
+      "read_index": "1824",
+      "tag_source": "source_en",
+      "source_jp": "星空のスクロール",
+      "source_en": "Scroll of the Starry Sky",
+      "text": "Schriftrolle des Sternenhimmels"
+    },
+    {
+      "key": "",
+      "read_index": "1825",
+      "tag_source": "source_en",
+      "source_jp": "紫輝鋼のインゴット",
+      "source_en": "Bright Purple Steel Ingot",
+      "text": "Purpurglanzstahlbarren"
+    },
+    {
+      "key": "",
+      "read_index": "1826",
+      "tag_source": "source_en",
+      "source_jp": "突風の特質錬石",
+      "source_en": "Gusty Winds Stone",
+      "text": "Stein der Windböe"
+    },
+    {
+      "key": "",
+      "read_index": "1827",
+      "tag_source": "source_en",
+      "source_jp": "勝機の特質錬石",
+      "source_en": "Victorious Chance Stone",
+      "text": "Stein der Siegchance"
+    },
+    {
+      "key": "",
+      "read_index": "1828",
+      "tag_source": "source_en",
+      "source_jp": "卒倒の特質錬石",
+      "source_en": "Fallen Soldier Stone",
+      "text": "Stein des Umsturzes"
+    },
+    {
+      "key": "",
+      "read_index": "1829",
+      "tag_source": "source_en",
+      "source_jp": "獣狩りの特質錬石",
+      "source_en": "Animal Hunter Stone",
+      "text": "Stein der Bestienjagd"
+    },
+    {
+      "key": "",
+      "read_index": "1830",
+      "tag_source": "source_en",
+      "source_jp": "亜人斬りの特質錬石",
+      "source_en": "Demihuman Cutter Stone",
+      "text": "Stein des Halbmenschenschlächters"
+    },
+    {
+      "key": "",
+      "read_index": "1831",
+      "tag_source": "source_en",
+      "source_jp": "鬼人裂きの特質錬石",
+      "source_en": "Ogrekin Slasher Stone",
+      "text": "Stein des Ogerschlächters"
+    },
+    {
+      "key": "",
+      "read_index": "1832",
+      "tag_source": "source_en",
+      "source_jp": "骸骨砕きの特質錬石",
+      "source_en": "Skeleton Smasher Stone",
+      "text": "Stein des Knochenbrechers"
+    },
+    {
+      "key": "",
+      "read_index": "1833",
+      "tag_source": "source_en",
+      "source_jp": "腐死滅ぼしの特質錬石",
+      "source_en": "Undead Destroyer Stone",
+      "text": "Stein des Untotenvernichters"
+    },
+    {
+      "key": "",
+      "read_index": "1834",
+      "tag_source": "source_en",
+      "source_jp": "巨人殺しの特質錬石",
+      "source_en": "Giant Killer Stone",
+      "text": "Stein des Riesentöters"
+    },
+    {
+      "key": "",
+      "read_index": "1835",
+      "tag_source": "source_en",
+      "source_jp": "乾いた実験試料",
+      "source_en": "Dried Test Sample",
+      "text": "Getrocknete Laborprobe"
+    },
+    {
+      "key": "",
+      "read_index": "1836",
+      "tag_source": "source_en",
+      "source_jp": "魔物の生体試料",
+      "source_en": "Monster Tissue Sample",
+      "text": "Monstergewebeprobe"
+    },
+    {
+      "key": "",
+      "read_index": "1837",
+      "tag_source": "source_en",
+      "source_jp": "肉喰い巻貝",
+      "source_en": "Flesh-Eating Snail",
+      "text": "Fleischfressende Schnecke"
+    },
+    {
+      "key": "",
+      "read_index": "1838",
+      "tag_source": "source_en",
+      "source_jp": "血色の螺旋貝",
+      "source_en": "Blood-Colored Spiral Shell",
+      "text": "Blutrote Spiralmuschel"
+    },
+    {
+      "key": "",
+      "read_index": "1839",
+      "tag_source": "source_en",
+      "source_jp": "精緻なインタリオ",
+      "source_en": "Delicate Intaglio",
+      "text": "Feiner Schnittstein"
+    },
+    {
+      "key": "",
+      "read_index": "1840",
+      "tag_source": "source_en",
+      "source_jp": "アッカー王家のインタリオ",
+      "source_en": "Acre Royal Family Intaglio",
+      "text": "Schnittstein des Königshauses Acre"
+    },
+    {
+      "key": "",
+      "read_index": "1841",
+      "tag_source": "source_en",
+      "source_jp": "黄泉の雫",
+      "source_en": "Underworld Drop",
+      "text": "Tropfen der Unterwelt"
+    },
+    {
+      "key": "",
+      "read_index": "1842",
+      "tag_source": "source_en",
+      "source_jp": "迷わせ小枝",
+      "source_en": "Misleading Twig",
+      "text": "Trugzweig"
+    },
+    {
+      "key": "",
+      "read_index": "1843",
+      "tag_source": "source_en",
+      "source_jp": "フェルヤナカンミタケ",
+      "source_en": "Feryana Sweet Mushroom",
+      "text": "Süßer Feryana-Pilz"
+    },
+    {
+      "key": "",
+      "read_index": "1844",
+      "tag_source": "source_en",
+      "source_jp": "ゴアマンティコアの白髭",
+      "source_en": "Goremanticore's White Beard",
+      "text": "Weißbart der Gore-Mantikor"
+    },
+    {
+      "key": "",
+      "read_index": "1845",
+      "tag_source": "source_en",
+      "source_jp": "ハーピーの胸肉",
+      "source_en": "Harpy Breast Meat",
+      "text": "Harpienbrust"
+    },
+    {
+      "key": "",
+      "read_index": "1846",
+      "tag_source": "source_en",
+      "source_jp": "たゆたうおぼろ布",
+      "source_en": "Fluttering Rags",
+      "text": "Flatternde Stofffetzen"
+    },
+    {
+      "key": "",
+      "read_index": "1847",
+      "tag_source": "source_en",
+      "source_jp": "有翼種の心臓",
+      "source_en": "Winged Beast's Heart",
+      "text": "Herz einer Flügelbestie"
+    },
+    {
+      "key": "",
+      "read_index": "1848",
+      "tag_source": "source_en",
+      "source_jp": "ふかふかの土",
+      "source_en": "Soft Soil",
+      "text": "Lockere Erde"
+    },
+    {
+      "key": "",
+      "read_index": "1849",
+      "tag_source": "source_en",
+      "source_jp": "あたたかい泥湯",
+      "source_en": "Warm Mud",
+      "text": "Warmer Schlamm"
+    },
+    {
+      "key": "",
+      "read_index": "1850",
+      "tag_source": "source_en",
+      "source_jp": "ほむら石",
+      "source_en": "Blazing Ore",
+      "text": "Flammenerz"
+    },
+    {
+      "key": "",
+      "read_index": "1851",
+      "tag_source": "source_en",
+      "source_jp": "ラスニテ産ハードウッド",
+      "source_en": "Rathnite Local Hardwood",
+      "text": "Rathnite-Hartholz"
+    },
+    {
+      "key": "",
+      "read_index": "1852",
+      "tag_source": "source_en",
+      "source_jp": "自然木炭",
+      "source_en": "Natural Charcoal",
+      "text": "Natürliche Holzkohle"
+    },
+    {
+      "key": "",
+      "read_index": "1853",
+      "tag_source": "source_en",
+      "source_jp": "戦功勲章【孔雀】",
+      "source_en": "Merit Medal (Peafowl)",
+      "text": "Verdienstorden (Pfau)"
+    },
+    {
+      "key": "",
+      "read_index": "1854",
+      "tag_source": "source_en",
+      "source_jp": "戦功勲章【大熊】",
+      "source_en": "Merit Medal (Large Bear)",
+      "text": "Verdienstorden (Großbär)"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_mitem_get_opt_course_notget",
+      "read_index": "423",
+      "tag_source": "source_en",
+      "source_jp": "※<OPCS>は個別に受け取ってください",
+      "source_en": "※Please receive <OPCS> separately.",
+      "text": "Bitte erhalte <OPCS> separat."
+    },
+    {
+      "key": "ana_mitem_get_opt_cticket",
+      "read_index": "216",
+      "tag_source": "source_en",
+      "source_jp": "通貨系アイテム x <VAL> 直接入手",
+      "source_en": "Currency item x<VAL> directly obtained.",
+      "text": "Währungsposition x<VAL> direkt erhalten."
+    },
+    {
+      "key": "ana_mitem_get_opt_goldstone",
+      "read_index": "215",
+      "tag_source": "source_en",
+      "source_jp": "メール <VAL>件分の黄金石 直接入手",
+      "source_en": "<VAL> Golden Gemstones directly obtained.",
+      "text": "<VAL> Goldsteine direkt erhalten."
+    },
+    {
+      "key": "ana_mitem_get_opt_lpawnticket",
+      "read_index": "217",
+      "tag_source": "source_en",
+      "source_jp": "クラフトマスターポーン利用券 x <VAL> 入手",
+      "source_en": "Craft Master Pawn ticket x<VAL> received.",
+      "text": "Craft Master Vasall Ticket x<VAL> erhalten."
+    },
+    {
+      "key": "ana_mitem_opt_alert",
+      "read_index": "205",
+      "tag_source": "source_en",
+      "source_jp": "※<OPCS>のアイテムは\r\n　個別に受け取ってください",
+      "source_en": "※There is a <OPCS> in the mail.\r\nPlease receive it separately.",
+      "text": "※ Es gibt eine <OPCS> in der Post.\r\nBitte erhalte sie separat."
+    },
+    {
+      "key": "ana_mitem_opt_alert_one",
+      "read_index": "424",
+      "tag_source": "source_en",
+      "source_jp": "【ご注意】アイテムの中に<OPCS>が含まれています\r\n※<OPCS>は受け取ると発動します",
+      "source_en": "[Warning] <OPCS> is attached.\r\n※<OPCS> will be received\r\nand activated.",
+      "text": "[Warnung] <OPCS> ist angehängt.\r\n※<OPCS> wird empfangen\r\n und aktiviert."
+    },
+    {
+      "key": "ana_mprofile_off",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "パーティーへの参加希望をOFFにします。よろしいですか？\r\n受け取ったパーティーへの誘いは取り消されます",
+      "source_en": "Turn off the participation request for the party.\r\nIs that okay?\r\nThe received invitation to the party will be\r\ncanceled.",
+      "text": "Aufruf zur Gruppenteilnahme beenden?\r\nFortfahren?\r\nDie erhaltene Gruppeneinladung\r\nwird dadurch ungültig."
+    },
+    {
+      "key": "ana_mq_ng_different_progression_usenot_keyite",
+      "read_index": "433",
+      "tag_source": "source_en",
+      "source_jp": "リーダーと進行状況が異なるため\r\nキーアイテムは使用できません",
+      "source_en": "Due to the difference in progress from the\r\nleader, you can't use the key items.",
+      "text": "Aufgrund des Unterschieds im Fortschritt gegenüber dem\r\nLeader kannst du die Schlüsselelemente nicht verwenden."
+    },
+    {
+      "key": "ana_new_leader_re_entry",
+      "read_index": "275",
+      "tag_source": "source_en",
+      "source_jp": "新たなリーダーに任命されました。出撃確認画面に入り直して下さい",
+      "source_en": "The party has a new leader. Please re-enter with\r\nthe party confirmation screen.",
+      "text": "Die Partei hat einen neuen Führer.\r\nden Bestätigungsbildschirm der Partei."
+    },
+    {
+      "key": "ana_no_contents_party_dissolution",
+      "read_index": "386",
+      "tag_source": "source_en",
+      "source_jp": "現在のパーティーで参加できるコンテンツがありません\r\nパーティー解散をしてください",
+      "source_en": "There is no content available to participate in\r\nthe current party.\r\nPlease disband the party.",
+      "text": "Es stehen keine Inhalte zur Verfügung, an denen man teilnehmen kann\r\nDie aktuelle Partei.\r\nBitte löse die Partei auf."
+    },
+    {
+      "key": "ana_nomore_choice",
+      "read_index": "358",
+      "tag_source": "source_en",
+      "source_jp": "これ以上選択できません",
+      "source_en": "You cannot select any more.",
+      "text": "Du kannst nicht mehr auswählen."
+    },
+    {
+      "key": "ana_not_login_cogid_ng_caplink",
+      "read_index": "470",
+      "tag_source": "source_en",
+      "source_jp": "「カプリンク」を使用するには\r\nカプコンオンラインゲームズ(COG)のIDでログインする必要があります",
+      "source_en": "To use \"Caplink\", you need to log in with your\r\nCapcom Online Games (COG) ID.",
+      "text": "Um \"Caplink\" zu verwenden, musst du sich mit deiner\r\nCapcom Online Games (COG) ID anmelden."
+    },
+    {
+      "key": "ana_not_login_cogid_ng_support",
+      "read_index": "471",
+      "tag_source": "source_en",
+      "source_jp": "「サポート・報告」を使用するには\r\nカプコンオンラインゲームズ(COG)のIDでログインする必要があります\r\nお問い合わせについては公式サイトをご覧ください",
+      "source_en": "To use \"Support / Report\", you need to log in\r\nwith your Capcom Online Games (COG) ID.\r\nPlease visit the official website for inquiries.",
+      "text": "Um \"Support / Report\" zu verwenden, musst du sich anmelden\r\nmit deiner Capcom Online Games (COG) ID.\r\nBitte besuche die offizielle Website für Anfragen."
+    },
+    {
+      "key": "ana_notion_exbox_without_charge",
+      "read_index": "309",
+      "tag_source": "source_en",
+      "source_jp": "本ボックスは＜<OPCS>＞の発動中に使用可能となります",
+      "source_en": "This box is available with the effects of\r\n\"<OPCS>\".",
+      "text": "Diese Box ist mit den Effekten von\r\n\"<OPCS> verfügbar\"."
+    },
+    {
+      "key": "ana_om_cannotstart_battle",
+      "read_index": "269",
+      "tag_source": "source_en",
+      "source_jp": "戦闘中は起動できません",
+      "source_en": "Cannot be activated while in combat.",
+      "text": "Kann im Kampf nicht aktiviert werden."
+    },
+    {
+      "key": "ana_om_chest_close_by_enemy",
+      "read_index": "557",
+      "tag_source": "source_en",
+      "source_jp": "何かの強い力で、固く閉ざされているようだ――",
+      "source_en": "A strong force, appears to be firmly shut...",
+      "text": "Eine starke Kraft, scheint fest verschlossen zu sein ..."
+    },
+    {
+      "key": "ana_om_chest_open_by_enemy",
+      "read_index": "556",
+      "tag_source": "source_en",
+      "source_jp": "閉ざされていた宝箱が開いた",
+      "source_en": "The closed treasure chest has opened.",
+      "text": "Die geschlossene Schatztruhe hat sich geöffnet."
+    },
+    {
+      "key": "ana_om_door_open_by_enemy",
+      "read_index": "453",
+      "tag_source": "source_en",
+      "source_jp": "閉ざされていた道が開けた",
+      "source_en": "A path has opened",
+      "text": "Ein Weg hat sich geöffnet"
+    },
+    {
+      "key": "ana_om_warp_001",
+      "read_index": "615",
+      "tag_source": "source_en",
+      "source_jp": "（残り：%d人）",
+      "source_en": "(Remaining: %d people)",
+      "text": "(Verbleibend: %d Personen)"
+    },
+    {
+      "key": "ana_om_warp_002",
+      "read_index": "616",
+      "tag_source": "source_en",
+      "source_jp": "今は移動できない",
+      "source_en": "Can't move now.",
+      "text": "Ich kann mich jetzt nicht bewegen."
+    },
+    {
+      "key": "ana_om_warp_nazo_warp",
+      "read_index": "513",
+      "tag_source": "source_en",
+      "source_jp": "今は転移の力を失っているようだ――",
+      "source_en": "It seems to have lost the power to teleport...",
+      "text": "Es scheint die Macht verloren zu haben, sich zu teleportieren ..."
+    },
+    {
+      "key": "ana_om_warp_single_seater_used",
+      "read_index": "472",
+      "tag_source": "source_en",
+      "source_jp": "すでに転移の力を失っている",
+      "source_en": "It has already lost its power of transference.",
+      "text": "Die Übertragungskraft ist bereits erloschen."
+    },
+    {
+      "key": "ana_ordeal_conf_start",
+      "read_index": "590",
+      "tag_source": "source_en",
+      "source_jp": "試練に挑む準備はよろしいですか？",
+      "source_en": "Are you ready to take on the Trial?",
+      "text": "Bist du bereit, den Prozess aufzunehmen?"
+    },
+    {
+      "key": "ana_pack_seq_empty",
+      "read_index": "544",
+      "tag_source": "source_en",
+      "source_jp": "使命：＜<NAME QUEST>＞\r\n本日のミッションは達成しています",
+      "source_en": "Mission: \"<NAME QUEST>\"\r\nToday's mission has been achieved.",
+      "text": "Mission: \"<NAME QUEST>\"\r\nDie heutige Mission wurde erfüllt."
+    },
+    {
+      "key": "ana_partner_pawn_lpup",
+      "read_index": "460",
+      "tag_source": "source_en",
+      "source_jp": "パートナーポーンとの絆が深まった",
+      "source_en": "You have deepened bonds with the Partner Pawn.",
+      "text": "Du hast die Bindungen mit dem Partnervasall vertieft."
+    },
+    {
+      "key": "ana_partner_pawn_rim_day",
+      "read_index": "454",
+      "tag_source": "source_en",
+      "source_jp": "1日1回しか渡すことができません",
+      "source_en": "You can only give once a day.",
+      "text": "Du kannst nur einmal am Tag geben."
+    },
+    {
+      "key": "ana_partner_pawn_rim_max",
+      "read_index": "455",
+      "tag_source": "source_en",
+      "source_jp": "これ以上渡すことができません",
+      "source_en": "You cannot give anymore.",
+      "text": "Du kannst nicht mehr geben."
+    },
+    {
+      "key": "ana_partner_pawn_rwmsg_ability",
+      "read_index": "457",
+      "tag_source": "source_en",
+      "source_jp": "ポーンに戦技の提案を受け\r\nシークレットアビリティを獲得！",
+      "source_en": "You received a proposal for an\r\naugment from your pawn.\r\nGained Secret Augment!",
+      "text": "Du hast einen Vorschlag für eine\r\nVergrößerung von deinem Vasallen erhalten.\r\nGewinnte geheime Erweiterung!"
+    },
+    {
+      "key": "ana_partner_pawn_rwmsg_edit",
+      "read_index": "456",
+      "tag_source": "source_en",
+      "source_jp": "ポーンに新しい髪型の提案を受け\r\nエディットパーツが増えました！",
+      "source_en": "You received a proposal for a new\r\nhairstyle from your pawn.\r\nThe number of edit parts has increased!",
+      "text": "Du hast einen Vorschlag für eine neue\r\n Frisur von deinem Vasallen erhalten.\r\nDie Anzahl der Bearbeitungsteile ist gestiegen!"
+    },
+    {
+      "key": "ana_partner_pawn_rwmsg_emo",
+      "read_index": "458",
+      "tag_source": "source_en",
+      "source_jp": "ポーンに新しいエモートを教えてもらった！",
+      "source_en": "You have learned a new emote from \r\nyour pawn!",
+      "text": "Du hast ein neues Emote von\r\n deinem Vasallen gelernt!"
+    },
+    {
+      "key": "ana_partner_pawn_rwmsg_talk",
+      "read_index": "459",
+      "tag_source": "source_en",
+      "source_jp": "ポーンの会話が増えました！",
+      "source_en": "Pawn's conversation has increased!",
+      "text": "Vasallen Gespräch hat zugenommen!"
+    },
+    {
+      "key": "ana_party_dissolution",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "パーティーが解散されました",
+      "source_en": "The party has been disbanded.",
+      "text": "Die Partei wurde aufgelöst."
+    },
+    {
+      "key": "ana_party_dissolution_error",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "パーティーを解散できませんでした",
+      "source_en": "Could not disband the party.",
+      "text": "Konnte die Partei nicht auflösen."
+    },
+    {
+      "key": "ana_party_dissolution_leader",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "パーティーを解散しました",
+      "source_en": "You have disbanded the party.",
+      "text": "Du hast die Partei aufgelöst."
+    },
+    {
+      "key": "ana_party_dissolution_q",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "パーティーを解散します。よろしいですか？",
+      "source_en": "Are you sure you want to disband the party?",
+      "text": "Bist du sicher, dass du die Partei auflösen willst?"
+    },
+    {
+      "key": "ana_party_full",
+      "read_index": "349",
+      "tag_source": "source_en",
+      "source_jp": "メンバーの上限を越えるため誘えません",
+      "source_en": "The party is full.",
+      "text": "Die Gruppe ist voll."
+    },
+    {
+      "key": "ana_party_invite",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>をパーティーに誘いました",
+      "source_en": "<NAME TARGET> was invited to the party.",
+      "text": "<NAME TARGET> wurde zur Partei eingeladen."
+    },
+    {
+      "key": "ana_party_invite_cancel",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>へのパーティーの誘いを取り消しました",
+      "source_en": "Canceled party invite for \r\n<NAME TARGET>.",
+      "text": "Abgesagte Partei lädt für\r\n<NAME TARGET>."
+    },
+    {
+      "key": "ana_party_invite_cancel_error",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>へのパーティーの誘いを取り消せませんでした",
+      "source_en": "Could not cancel the party invite for \r\n<NAME TARGET>.",
+      "text": "Konnte die Partei nicht für\r\n<NAME TARGET> einladen."
+    },
+    {
+      "key": "ana_party_invite_cancel_q",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>への\r\nパーティーの誘いを取り消します。よろしいですか？",
+      "source_en": "Are you sure you want to cancel the\r\nparty invite for <NAME TARGET>?",
+      "text": "Bist du sicher, dass du die\r\nGruppe-Einladung für <NAME TARGET>?"
+    },
+    {
+      "key": "ana_party_invite_error",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>をパーティーに誘えませんでした",
+      "source_en": "Could not invite \r\n<NAME TARGET> to the party.",
+      "text": "Konnte\r\n<NAME TARGET> nicht zur Partei einladen."
+    },
+    {
+      "key": "ana_party_invite_q",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>をパーティーに誘いますか？",
+      "source_en": "Are you sure you want to invite\r\n<NAME TARGET> to the party?",
+      "text": "Bist du sicher, dass du zur Gruppe einladen willst\r\n<NAME TARGET>?"
+    },
+    {
+      "key": "ana_party_join_error",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>のパーティーに参加できませんでした",
+      "source_en": "<NAME TARGET> \r\ncould not join the party.",
+      "text": "<NAME TARGET>\r\n konnte der Partei nicht beitreten."
+    },
+    {
+      "key": "ana_party_join_in",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>のパーティーに参加しました",
+      "source_en": "You have joined the party of \r\n<NAME TARGET>.",
+      "text": "Du bist der Gruppe von\r\n<NAME TARGET> beigetreten."
+    },
+    {
+      "key": "ana_party_join_leader_name_info",
+      "read_index": "418",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティーで合流しました\r\n目的を共有しあい、冒険を楽しみましょう\r\nリーダーは <NAME TARGET> です",
+      "source_en": "Quick party joined.\r\nEveryone shares the same goal, so let's enjoy the\r\nadventure.\r\nThe party leader is \r\n<NAME TARGET>.",
+      "text": "Schnellsuche ist beigetreten.\r\nAlle teilen das gleiche Ziel, also lasst uns die\r\nAbenteuer.\r\nDer Parteivorsitzende ist\r\n<NAME TARGET>."
+    },
+    {
+      "key": "ana_party_join_q",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>の\r\nパーティーに参加します。よろしいですか？ ",
+      "source_en": "Are you sure you want to join\r\nthe party of <NAME TARGET>?",
+      "text": "Bist du sicher, dass du beitreten willst?\r\ndie Partei des <NAME TARGET>?"
+    },
+    {
+      "key": "ana_party_join_tg",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>がパーティーに参加しました",
+      "source_en": "<NAME TARGET> has joined the party.",
+      "text": "<NAME TARGET> ist der Partei beigetreten."
+    },
+    {
+      "key": "ana_party_leader",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "パーティーリーダーになりました",
+      "source_en": "You are now party leader.",
+      "text": "Du leitest jetzt die Gruppe."
+    },
+    {
+      "key": "ana_party_leader_error",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "パーティーリーダーになれませんでした",
+      "source_en": "Could not promote you to party leader.",
+      "text": "Konnte dich nicht zum Parteivorsitzenden befördern."
+    },
+    {
+      "key": "ana_party_leader_error_tg",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>をリーダーにできませんでした",
+      "source_en": "Could not promote \r\n<NAME TARGET> to party leader.",
+      "text": "Konnte\r\n<NAME TARGET> nicht zum Parteiführer befördern."
+    },
+    {
+      "key": "ana_party_leader_q",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nリーダーにします。よろしいですか？",
+      "source_en": "Are you sure you want to promote\r\n<NAME TARGET> the party leader?",
+      "text": "Möchtest du die Gruppenleitung\r\nan <NAME TARGET> übertragen?"
+    },
+    {
+      "key": "ana_party_leader_tg",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>がリーダーになりました",
+      "source_en": "<NAME TARGET> is now party leader.",
+      "text": "<NAME TARGET> ist jetzt Parteiführer."
+    },
+    {
+      "key": "ana_party_leave_err_battle",
+      "read_index": "296",
+      "tag_source": "source_en",
+      "source_jp": "戦闘中はパーティーからぬけられません",
+      "source_en": "You cannot leave party during combat.",
+      "text": "Du kannst die Partei während des Kampfes nicht verlassen."
+    },
+    {
+      "key": "ana_party_leave_err_solo",
+      "read_index": "297",
+      "tag_source": "source_en",
+      "source_jp": "一人の時はパーティーからぬけられません",
+      "source_en": "You cannot leave party while solo.",
+      "text": "Du kannst die Gruppe nicht verlassen, während du alleine bist."
+    },
+    {
+      "key": "ana_party_member_conflict",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "すでに同じメンバーがパーティーにいます",
+      "source_en": "There are already members in the party.",
+      "text": "Es gibt bereits Mitglieder in der Partei."
+    },
+    {
+      "key": "ana_party_no_mainpawn",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "メインポーンがいない状態ではサポートポーンはパーティーに入れられません",
+      "source_en": "You cannot have a support pawn in the party with\r\nno main pawns.",
+      "text": "Du kannst keinen Hilfsvasallen in der Partei mit\r\nkeinen Hauptvasallen haben."
+    },
+    {
+      "key": "ana_party_pawn_invite",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>をパーティーに入れました",
+      "source_en": "You have put \r\n<NAME PAWN> into the party.",
+      "text": "Du hast\r\n<NAME PAWN> in die Gruppe aufgenommen."
+    },
+    {
+      "key": "ana_party_pawn_invite_error",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>をパーティーに入れられませんでした",
+      "source_en": "Could not put \r\n<NAME PAWN> into the party.",
+      "text": "Konnte\r\n<NAME PAWN> nicht in die Partei setzen."
+    },
+    {
+      "key": "ana_party_pawn_invite_q",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>をパーティーに入れますか？",
+      "source_en": "Are you sure you want to put\r\n<NAME PAWN> into the party?",
+      "text": "Bist du sicher, dass du\r\n<NAME PAWN> in die Partei stecken willst?"
+    },
+    {
+      "key": "ana_party_pawn_remove",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>をパーティーから外しました",
+      "source_en": "Removed \r\n<NAME PAWN> from the party.",
+      "text": "Entfernt\r\n<NAME PAWN> von der Partei."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

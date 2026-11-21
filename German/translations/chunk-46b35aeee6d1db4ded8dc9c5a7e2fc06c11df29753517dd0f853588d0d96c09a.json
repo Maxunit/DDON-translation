@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\common_message.gmd",
+  "arc_path": "\\systemFlow.arc",
+  "entries": [
+    {
+      "key": "common_msg_jp_attribute",
+      "read_index": "184",
+      "tag_source": "source_en",
+      "source_jp": "属性",
+      "source_en": " Attribute",
+      "text": "Attribut"
+    },
+    {
+      "key": "common_msg_jp_damage",
+      "read_index": "185",
+      "tag_source": "source_en",
+      "source_jp": "ダメージ",
+      "source_en": " Damage",
+      "text": " Schäden"
+    },
+    {
+      "key": "common_msg_jp_of",
+      "read_index": "174",
+      "tag_source": "source_en",
+      "source_jp": "の",
+      "source_en": "'s ",
+      "text": "'s "
+    },
+    {
+      "key": "common_msg_not_received",
+      "read_index": "163",
+      "tag_source": "source_en",
+      "source_jp": "階層ごとの報酬が入手可能",
+      "source_en": "Level Reward Available",
+      "text": "Level Reward verfügbar"
+    },
+    {
+      "key": "common_msg_not_received_EX",
+      "read_index": "190",
+      "tag_source": "source_en",
+      "source_jp": "階層ごとの報酬が入手可能<COL ffdc78>（報酬UP）</COL>",
+      "source_en": "Rewards are available for each tier.<COL ffdc78>\r\n(Rewards UP)</COL>",
+      "text": "Belohnungen sind für jede Stufe verfügbar.<COL ffdc78>\r\n(Rewards UP)</COL>"
+    },
+    {
+      "key": "common_msg_pawnthink_totalnum",
+      "read_index": "166",
+      "tag_source": "source_en",
+      "source_jp": "育成LV",
+      "source_en": "Training LV",
+      "text": "Ausbildung LV"
+    },
+    {
+      "key": "common_msg_received",
+      "read_index": "162",
+      "tag_source": "source_en",
+      "source_jp": "クリア報酬が発生しません",
+      "source_en": "Clear Reward Unavailable",
+      "text": "Klare Belohnung nicht verfügbar"
+    },
+    {
+      "key": "common_msg_reward",
+      "read_index": "161",
+      "tag_source": "source_en",
+      "source_jp": "探索",
+      "source_en": "Reward",
+      "text": "Belohnung"
+    },
+    {
+      "key": "common_msg_state_progress",
+      "read_index": "160",
+      "tag_source": "source_en",
+      "source_jp": "進行状況",
+      "source_en": "Progression",
+      "text": "Fortschritt"
+    },
+    {
+      "key": "common_msg_visit_off",
+      "read_index": "165",
+      "tag_source": "source_en",
+      "source_jp": "訪問を許可しない",
+      "source_en": "Visit Denied",
+      "text": "Besuch verweigert"
+    },
+    {
+      "key": "common_msg_visit_on",
+      "read_index": "164",
+      "tag_source": "source_en",
+      "source_jp": "訪問を許可する",
+      "source_en": "Visit Allowed",
+      "text": "Besuch erlaubt"
+    },
+    {
+      "key": "common_mymsg",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "マイ定型文セット",
+      "source_en": "My Phrase",
+      "text": "Meine Phrase"
+    },
+    {
+      "key": "common_nakaten",
+      "read_index": "117",
+      "tag_source": "source_jp",
+      "source_jp": "・",
+      "source_en": "",
+      "text": "·"
+    },
+    {
+      "key": "common_name",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "common_new_edit_savedata",
+      "read_index": "87",
+      "tag_source": "source_en",
+      "source_jp": "新しいエディットデータ",
+      "source_en": "New edit data",
+      "text": "Neue Edit-Daten"
+    },
+    {
+      "key": "common_next_en",
+      "read_index": "119",
+      "tag_source": "source_en",
+      "source_jp": "Next",
+      "source_en": "Next",
+      "text": "Weiter"
+    },
+    {
+      "key": "common_numbox",
+      "read_index": "81",
+      "tag_source": "source_en",
+      "source_jp": "直接入力",
+      "source_en": "Direct Input",
+      "text": "Direkteingabe"
+    },
+    {
+      "key": "common_off",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "OFF",
+      "source_en": "OFF",
+      "text": "Aus"
+    },
+    {
+      "key": "common_on",
+      "read_index": "191",
+      "tag_source": "source_en",
+      "source_jp": "ON",
+      "source_en": "ON",
+      "text": "An"
+    },
+    {
+      "key": "common_open_bracket",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "(",
+      "source_en": "(",
+      "text": "("
+    },
+    {
+      "key": "common_open_onlineshop",
+      "read_index": "158",
+      "tag_source": "source_en",
+      "source_jp": "オンラインショップを開く",
+      "source_en": "Open Online Shop",
+      "text": "Offener Online Shop"
+    },
+    {
+      "key": "common_percent",
+      "read_index": "104",
+      "tag_source": "source_en",
+      "source_jp": "%",
+      "source_en": "%",
+      "text": "%"
+    },
+    {
+      "key": "common_percent_big",
+      "read_index": "135",
+      "tag_source": "source_en",
+      "source_jp": "％",
+      "source_en": "%",
+      "text": "%"
+    },
+    {
+      "key": "common_plus",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "+",
+      "source_en": "+",
+      "text": "+"
+    },
+    {
+      "key": "common_plus_big",
+      "read_index": "136",
+      "tag_source": "source_en",
+      "source_jp": "＋",
+      "source_en": "+",
+      "text": "+"
+    },
+    {
+      "key": "common_possession",
+      "read_index": "149",
+      "tag_source": "source_en",
+      "source_jp": "獲得",
+      "source_en": "Acquisition",
+      "text": "Übernahme"
+    },
+    {
+      "key": "common_quest_unpublished",
+      "read_index": "110",
+      "tag_source": "source_en",
+      "source_jp": "？？？？？？",
+      "source_en": "??????",
+      "text": "??????"
+    },
+    {
+      "key": "common_question",
+      "read_index": "124",
+      "tag_source": "source_en",
+      "source_jp": "?",
+      "source_en": "?",
+      "text": "?"
+    },
+    {
+      "key": "common_rest_day",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "日",
+      "source_en": "d",
+      "text": "d"
+    },
+    {
+      "key": "common_rest_minute",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "分",
+      "source_en": "m",
+      "text": "m"
+    },
+    {
+      "key": "common_rest_time",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "時間",
+      "source_en": "h",
+      "text": "h"
+    },
+    {
+      "key": "common_serch",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "検索",
+      "source_en": "Search",
+      "text": "Suchen"
+    },
+    {
+      "key": "common_slash",
+      "read_index": "145",
+      "tag_source": "source_en",
+      "source_jp": "/",
+      "source_en": "/",
+      "text": "/"
+    },
+    {
+      "key": "common_switch_deposit",
+      "read_index": "108",
+      "tag_source": "source_en",
+      "source_jp": "通常枠",
+      "source_en": "Normal",
+      "text": "Standard"
+    },
+    {
+      "key": "common_switch_deposit_ex01",
+      "read_index": "115",
+      "tag_source": "source_en",
+      "source_jp": "拡張枠",
+      "source_en": "Expansion",
+      "text": "Erweiterung"
+    },
+    {
+      "key": "common_switch_expand",
+      "read_index": "79",
+      "tag_source": "source_en",
+      "source_jp": "拡張枠",
+      "source_en": "Expansion",
+      "text": "Erweiterung"
+    },
+    {
+      "key": "common_switch_strage",
+      "read_index": "80",
+      "tag_source": "source_en",
+      "source_jp": "通常枠",
+      "source_en": "Normal",
+      "text": "Standard"
+    },
+    {
+      "key": "common_system_savedata",
+      "read_index": "85",
+      "tag_source": "source_en",
+      "source_jp": "システムセーブデータ",
+      "source_en": "System Save Data",
+      "text": "Systemspeicherdaten"
+    },
+    {
+      "key": "common_time_after",
+      "read_index": "75",
+      "tag_source": "source_en",
+      "source_jp": "後",
+      "source_en": "After",
+      "text": "Nach"
+    },
+    {
+      "key": "common_time_before",
+      "read_index": "76",
+      "tag_source": "source_en",
+      "source_jp": "前",
+      "source_en": "ago",
+      "text": "Vor vor"
+    },
+    {
+      "key": "common_titlename_jp",
+      "read_index": "94",
+      "tag_source": "source_en",
+      "source_jp": "ドラゴンズドグマ オンライン",
+      "source_en": "Dragon's Dogma Online",
+      "text": "Dragon's Dogma Online"
+    },
+    {
+      "key": "common_unit_ap",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "AP",
+      "source_en": "AP",
+      "text": "AP"
+    },
+    {
+      "key": "common_unit_bo",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "BO",
+      "source_en": "BO",
+      "text": "B."
+    },
+    {
+      "key": "common_unit_body",
+      "read_index": "78",
+      "tag_source": "source_en",
+      "source_jp": "体",
+      "source_en": "x",
+      "text": "x"
+    },
+    {
+      "key": "common_unit_cap",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "CAP",
+      "source_en": "CAP",
+      "text": "GAP"
+    },
+    {
+      "key": "common_unit_cp",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "CP",
+      "source_en": "CP",
+      "text": "CP"
+    },
+    {
+      "key": "common_unit_cr",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "CR",
+      "source_en": "CR",
+      "text": "CR"
+    },
+    {
+      "key": "common_unit_dp",
+      "read_index": "127",
+      "tag_source": "source_en",
+      "source_jp": "DP",
+      "source_en": "DP",
+      "text": "DP"
+    },
+    {
+      "key": "common_unit_ep",
+      "read_index": "133",
+      "tag_source": "source_en",
+      "source_jp": "EP",
+      "source_en": "EP",
+      "text": "EP"
+    },
+    {
+      "key": "common_unit_evoticket",
+      "read_index": "148",
+      "tag_source": "source_en",
+      "source_jp": "枚",
+      "source_en": "x",
+      "text": "x"
+    },
+    {
+      "key": "common_unit_g",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "G",
+      "source_en": "G",
+      "text": "G"
+    },
+    {
+      "key": "common_unit_gp",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "GP",
+      "source_en": "GP",
+      "text": "GP"
+    },
+    {
+      "key": "common_unit_gs",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "個",
+      "source_en": "x",
+      "text": "x"
+    },
+    {
+      "key": "common_unit_hb",
+      "read_index": "128",
+      "tag_source": "source_en",
+      "source_jp": "HO",
+      "source_en": "HO",
+      "text": "HOH"
+    },
+    {
+      "key": "common_unit_jp",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "JP",
+      "source_en": "JP",
+      "text": "KP"
+    },
+    {
+      "key": "common_unit_lv",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "LV.",
+      "source_en": "LV.",
+      "text": "St."
+    },
+    {
+      "key": "common_unit_multiplication",
+      "read_index": "109",
+      "tag_source": "source_en",
+      "source_jp": "×",
+      "source_en": "×",
+      "text": "×"
+    },
+    {
+      "key": "common_unit_pp",
+      "read_index": "118",
+      "tag_source": "source_en",
+      "source_jp": "PP",
+      "source_en": "PP",
+      "text": "PP"
+    },
+    {
+      "key": "common_unit_pt",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "pt",
+      "source_en": "pt",
+      "text": "pt"
+    },
+    {
+      "key": "common_unit_r",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "R",
+      "source_en": "R",
+      "text": "R"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

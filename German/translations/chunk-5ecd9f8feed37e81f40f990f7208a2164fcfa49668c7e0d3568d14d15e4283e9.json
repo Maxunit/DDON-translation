@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\infomation_res.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "info_tutorial_list",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "チュートリアル：<NAME TUTORIAL>",
+      "source_en": "Tutorial: <NAME TUTORIAL>",
+      "text": "Tutorial: <NAME TUTORIAL>"
+    },
+    {
+      "key": "info_wait_quest",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "受注待ちのクエストがあります",
+      "source_en": "There are quest orders waiting",
+      "text": "Quests können angenommen werden."
+    },
+    {
+      "key": "info_wait_quest_list",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "受注待ちのクエストが<VAL>件あります",
+      "source_en": "There are quest orders waiting for quest <VAL>",
+      "text": "Quests zur Annahme: <VAL>"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\poptop_sel_res.gmd",
+  "arc_path": "\\ui\\uGUIBazaar.arc",
+  "entries": [
+    {
+      "key": "poptop_ability",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "アビリティ",
+      "source_en": "Augments",
+      "text": "Begabungen"
+    },
+    {
+      "key": "poptop_areamaster_en",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "Area Master",
+      "source_en": "Area Master",
+      "text": "Gebietsmeister"
+    },
+    {
+      "key": "poptop_areamaster_jp",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "エリアマスター",
+      "source_en": " ",
+      "text": "Gebietsmeister"
+    },
+    {
+      "key": "poptop_battle_assist_en",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "Battle Assist",
+      "source_en": "Battle Assist",
+      "text": "Kampfassistent"
+    },
+    {
+      "key": "poptop_bazaar_buy",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "購入",
+      "source_en": "Buy",
+      "text": "Kaufen"
+    },
+    {
+      "key": "poptop_bazaar_disp_exhibit",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "出品",
+      "source_en": "Sell",
+      "text": "Verkaufen"
+    },
+    {
+      "key": "poptop_bazaar_disp_exhibit_item",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アイテムバッグから出品",
+      "source_en": "Sell from Item Bag",
+      "text": "Verkaufen von Gegenstandstasche"
+    },
+    {
+      "key": "poptop_bazaar_disp_exhibit_warehouse",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "保管ボックスから出品",
+      "source_en": "Sell from Storage Box",
+      "text": "Verkaufen von Storage Box"
+    },
+    {
+      "key": "poptop_bazaar_disp_posnum",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "出品可能数：",
+      "source_en": "Exhibits:",
+      "text": "Exponate:"
+    },
+    {
+      "key": "poptop_bazaar_en",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "Menu",
+      "source_en": "Menu",
+      "text": "Menü"
+    },
+    {
+      "key": "poptop_bazaar_exhibit",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "出品",
+      "source_en": "Sell",
+      "text": "Verkaufen"
+    },
+    {
+      "key": "poptop_bazaar_exhibit_en",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "Sell",
+      "source_en": "Sell",
+      "text": "Verkaufen"
+    },
+    {
+      "key": "poptop_bazaar_jp",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "メニュー",
+      "source_en": " ",
+      "text": "Menü"
+    },
+    {
+      "key": "poptop_bazaar_situation",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "出品状況",
+      "source_en": "Exhibits",
+      "text": "Exponate"
+    },
+    {
+      "key": "poptop_btn_dra_skill",
+      "read_index": "108",
+      "tag_source": "source_en",
+      "source_jp": "ドラゴンアビリティ情報",
+      "source_en": "Dragon Ability Information",
+      "text": "Dragon Ability Informationen"
+    },
+    {
+      "key": "poptop_clan_create",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "クラン設立",
+      "source_en": "Found Clan",
+      "text": "Gefundener Clan"
+    },
+    {
+      "key": "poptop_clan_en",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "Clan",
+      "source_en": "Clan only",
+      "text": "Nur Clans"
+    },
+    {
+      "key": "poptop_clan_entry_cancel",
+      "read_index": "64",
+      "tag_source": "source_en",
+      "source_jp": "スカウトエントリー中止",
+      "source_en": "Stop Scouting",
+      "text": "Scouting stoppen"
+    },
+    {
+      "key": "poptop_clan_entry_check",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "スカウトエントリー確認",
+      "source_en": "View Recruits",
+      "text": "Rekruten ansehen"
+    },
+    {
+      "key": "poptop_clan_entry_now",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "スカウトエントリー中",
+      "source_en": "Scout Entry in Progress",
+      "text": "Scout-Einstieg in Progress"
+    },
+    {
+      "key": "poptop_clan_interval_now",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "インターバル期間中",
+      "source_en": "Interval Duration",
+      "text": "Intervalldauer"
+    },
+    {
+      "key": "poptop_clan_invite",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "スカウトエントリー招待",
+      "source_en": "View Invites",
+      "text": "Ansicht Einladungen"
+    },
+    {
+      "key": "poptop_clan_invite_direct",
+      "read_index": "82",
+      "tag_source": "source_en",
+      "source_jp": "直接招待",
+      "source_en": "Direct Invite",
+      "text": "Direkteinladung"
+    },
+    {
+      "key": "poptop_clan_invite_list",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "招待リスト",
+      "source_en": "View Invites",
+      "text": "Ansicht Einladungen"
+    },
+    {
+      "key": "poptop_clan_join",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "加入申請中クラン",
+      "source_en": "View Applications",
+      "text": "Anwendungen anzeigen"
+    },
+    {
+      "key": "poptop_clan_join_list",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "加入希望者リスト",
+      "source_en": "View Applications",
+      "text": "Anwendungen anzeigen"
+    },
+    {
+      "key": "poptop_clan_jp",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "クラン",
+      "source_en": "Clan",
+      "text": "Clan"
+    },
+    {
+      "key": "poptop_clan_kyoten_1",
+      "read_index": "89",
+      "tag_source": "source_en",
+      "source_jp": "拠点拡張",
+      "source_en": "Hall Expansion",
+      "text": "Hallenerweiterung"
+    },
+    {
+      "key": "poptop_clan_kyoten_2",
+      "read_index": "90",
+      "tag_source": "source_en",
+      "source_jp": "ポーン遠征隊支援",
+      "source_en": "Pawn Expedition Corps Support",
+      "text": "Vasall Expedition Corps Unterstützung"
+    },
+    {
+      "key": "poptop_clan_kyoten_3",
+      "read_index": "91",
+      "tag_source": "source_en",
+      "source_jp": "クラン執務官の変更",
+      "source_en": "Change Clan Officers",
+      "text": "Clan-Offiziere wechseln"
+    },
+    {
+      "key": "poptop_clan_kyoten_4",
+      "read_index": "88",
+      "tag_source": "source_en",
+      "source_jp": "ポーン遠征隊の状況確認",
+      "source_en": "Pawn Expedition Corps Status",
+      "text": "Status des Vasall Expedition Corps"
+    },
+    {
+      "key": "poptop_clan_kyoten_5",
+      "read_index": "92",
+      "tag_source": "source_en",
+      "source_jp": "拠点のレイアウト",
+      "source_en": "Hall Layout",
+      "text": "Hallenlayout"
+    },
+    {
+      "key": "poptop_clan_management",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "クランステータス",
+      "source_en": "Clan Status",
+      "text": "Clanstatus"
+    },
+    {
+      "key": "poptop_clan_member_num",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "メンバー<VAL>名",
+      "source_en": "<VAL> members",
+      "text": "<VAL> Mitglieder"
+    },
+    {
+      "key": "poptop_clan_not_join",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "未加入",
+      "source_en": "Any",
+      "text": "alle"
+    },
+    {
+      "key": "poptop_clan_reave",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "クラン脱退",
+      "source_en": "Leave",
+      "text": "Urlaub"
+    },
+    {
+      "key": "poptop_clan_scout_entry",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "スカウトエントリー",
+      "source_en": "Scout",
+      "text": "Clanrekrutierung"
+    },
+    {
+      "key": "poptop_clan_search",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "クラン検索",
+      "source_en": "Clan Search",
+      "text": "Clansuche"
+    },
+    {
+      "key": "poptop_craft_change_quality",
+      "read_index": "100",
+      "tag_source": "source_en",
+      "source_jp": "装備の品質変更",
+      "source_en": "Change Quality",
+      "text": "Änderungsqualität"
+    },
+    {
+      "key": "poptop_craft_en",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "Menu",
+      "source_en": "Menu",
+      "text": "Menü"
+    },
+    {
+      "key": "poptop_craft_jp",
+      "read_index": "37",
+      "tag_source": "source_jp",
+      "source_jp": "メニュー",
+      "source_en": " ",
+      "text": "Menü"
+    },
+    {
+      "key": "poptop_daily_mission",
+      "read_index": "102",
+      "tag_source": "source_en",
+      "source_jp": "ミッションリスト",
+      "source_en": "Mission List",
+      "text": "Missionsliste"
+    },
+    {
+      "key": "poptop_daily_mission_title_en",
+      "read_index": "105",
+      "tag_source": "source_en",
+      "source_jp": "Menu",
+      "source_en": "Menu",
+      "text": "Menü"
+    },
+    {
+      "key": "poptop_daily_mission_title_jp",
+      "read_index": "106",
+      "tag_source": "source_jp",
+      "source_jp": "メニュー",
+      "source_en": " ",
+      "text": "Menü"
+    },
+    {
+      "key": "poptop_deli_box",
+      "read_index": "87",
+      "tag_source": "source_en",
+      "source_jp": "アイテムポスト",
+      "source_en": "Item Post",
+      "text": "Gegenstandspost"
+    },
+    {
+      "key": "poptop_depositbox_menu_01",
+      "read_index": "81",
+      "tag_source": "source_en",
+      "source_jp": "引き出す / 預ける",
+      "source_en": "Withdraw / Deposit",
+      "text": "Abhebung/Einlage"
+    },
+    {
+      "key": "poptop_depositbox_menu_02_restore",
+      "read_index": "99",
+      "tag_source": "source_en",
+      "source_jp": "アイテム復元",
+      "source_en": "Item Restoration",
+      "text": "Restaurierung von Objekten"
+    },
+    {
+      "key": "poptop_depositbox_menu_ex01",
+      "read_index": "83",
+      "tag_source": "source_en",
+      "source_jp": "拡張枠",
+      "source_en": "Expansion",
+      "text": "Erweiterung"
+    },
+    {
+      "key": "poptop_depositbox_menutop_en",
+      "read_index": "79",
+      "tag_source": "source_en",
+      "source_jp": "Menu",
+      "source_en": "Menu",
+      "text": "Menü"
+    },
+    {
+      "key": "poptop_depositbox_menutop_jp",
+      "read_index": "80",
+      "tag_source": "source_jp",
+      "source_jp": "メニュー",
+      "source_en": " ",
+      "text": "Menü"
+    },
+    {
+      "key": "poptop_entryboard_cancel_entry",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "エントリー中止",
+      "source_en": "Cancel Entry",
+      "text": "Einreise stornieren"
+    },
+    {
+      "key": "poptop_entryboard_chat_recruit",
+      "read_index": "101",
+      "tag_source": "source_en",
+      "source_jp": "チャット募集",
+      "source_en": "Chat Recruitment",
+      "text": "Chat-Rekrutierung"
+    },
+    {
+      "key": "poptop_entryboard_comment_input",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "コメント再編集",
+      "source_en": "Edit Comment",
+      "text": "Edit Kommentar"
+    },
+    {
+      "key": "poptop_entryboard_entry",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "エントリー中",
+      "source_en": "Entry in progress",
+      "text": "Aufnahme in Arbeit"
+    },
+    {
+      "key": "poptop_entryboard_entry_invitation_pt",
+      "read_index": "75",
+      "tag_source": "source_en",
+      "source_jp": "パーティー招待",
+      "source_en": "Party Invite",
+      "text": "Einladung der Partei"
+    },
+    {
+      "key": "poptop_entryboard_extend",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "募集時間延長",
+      "source_en": "Extend Time",
+      "text": "Verlängern der Zeit"
+    },
+    {
+      "key": "poptop_entryboard_less_member_go",
+      "read_index": "78",
+      "tag_source": "source_en",
+      "source_jp": "少人数でパーティーを組む",
+      "source_en": "Form Small Party",
+      "text": "Gründung einer kleinen Partei"
+    },
+    {
+      "key": "poptop_entryboard_member_check",
+      "read_index": "74",
+      "tag_source": "source_en",
+      "source_jp": "メンバー確認",
+      "source_en": "Check Members",
+      "text": "Kontrollmitglieder"
+    },
+    {
+      "key": "poptop_entryboard_menu",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "メニュー",
+      "source_en": "Menu",
+      "text": "Menü"
+    },
+    {
+      "key": "poptop_entryboard_newspaper",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "イベント確認",
+      "source_en": "Check Event",
+      "text": "Kontrollereignis"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

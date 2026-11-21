@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\shop.gmd",
+  "arc_path": "\\ui\\uGUIShopBuy.arc",
+  "entries": [
+    {
+      "key": "SHOP_TEXT_PREVIEW",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "試着",
+      "source_en": "Outfit",
+      "text": "Ausstattung"
+    },
+    {
+      "key": "SHOP_TEXT_X",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "×",
+      "source_en": "×",
+      "text": "×"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

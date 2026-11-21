@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\MandraBook.gmd",
+  "arc_path": "\\ui\\uGUIEncyclopedia.arc",
+  "entries": [
+    {
+      "key": "MandraBook_msg003",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "Category",
+      "source_en": "Category",
+      "text": "Kategorie"
+    },
+    {
+      "key": "MandraBook_msg004",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "リスト",
+      "source_en": "List",
+      "text": "Liste"
+    },
+    {
+      "key": "MandraBook_msg005",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "No.",
+      "source_en": "No.",
+      "text": "Nr."
+    },
+    {
+      "key": "MandraBook_msg006",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "NEW",
+      "source_en": "NEW",
+      "text": "NEU"
+    },
+    {
+      "key": "MandraBook_msg007",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "項目はありません",
+      "source_en": "No items",
+      "text": "Keine Einträge"
+    },
+    {
+      "key": "MandraBook_msg008",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "Rarity",
+      "source_en": "Rarity",
+      "text": "Seltenheit"
+    },
+    {
+      "key": "MandraBook_msg009",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "Details",
+      "source_en": "Details",
+      "text": "Details"
+    },
+    {
+      "key": "MandraBook_msg010",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "First Discovery",
+      "source_en": "First Discovery",
+      "text": "Erste Entdeckung"
+    },
+    {
+      "key": "MandraBook_msg011",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "見た目を変更する",
+      "source_en": "Change Appearance",
+      "text": "Aussehen ändern"
+    },
+    {
+      "key": "MandraBook_msg012",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>に\r\n見た目を変更しますか？",
+      "source_en": "Change the appearance of\r\n<VAL>?",
+      "text": "Möchtest du das Aussehen\r\nzu <VAL> ändern?"
+    },
+    {
+      "key": "MandraBook_msg013",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>の見た目を変更しました",
+      "source_en": "The appearance of <VAL> has been changed",
+      "text": "Das Aussehen von <VAL> wurde geändert."
+    },
+    {
+      "key": "MandraBook_msg014",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "生態を確認する",
+      "source_en": "Review Observation",
+      "text": "Lebensweise ansehen"
+    },
+    {
+      "key": "MandraBook_msg015",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "設定中",
+      "source_en": "Current",
+      "text": "Aktuell ausgewählt"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\system_log.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "syslog_craft_sophistcate",
+      "read_index": "102",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ITEM>がグレードアップしました",
+      "source_en": "<NAME ITEM> has been enhanced.",
+      "text": "<NAME ITEM> wurde verbessert."
+    },
+    {
+      "key": "syslog_craft_start",
+      "read_index": "99",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>が<NAME ITEM>の生産を開始しました",
+      "source_en": "<NAME PAWN> has begun crafting \r\n<NAME ITEM>.",
+      "text": "<NAME PAWN> hat mit der Herstellung begonnen\r\n<NAME ITEM>."
+    },
+    {
+      "key": "syslog_darkgauge_rise",
+      "read_index": "379",
+      "tag_source": "source_en",
+      "source_jp": "\"破滅の力\"の高まりを感じる――\r\nゲージが十分に溜まるとすべてが滅びる！",
+      "source_en": "The Power of Destruction is growing...\r\nWhen it reaches maximum power, all life will\r\nperish!",
+      "text": "Die Macht der Zerstörung wächst....\r\n Wenn sie die maximale Kraft erreicht, wird alles Leben zugrunde gehen\r\n!"
+    },
+    {
+      "key": "syslog_darkgauge_spdown",
+      "read_index": "381",
+      "tag_source": "source_en",
+      "source_jp": "\"黄金竜の一撃\"によって\"破滅の力\"のゲージが減少した！",
+      "source_en": "The attack of Golden Dragon has reduced the Power\r\nof Destruction!",
+      "text": "Der Angriff des Goldenen Drachen hat die Macht reduziert\r\nder Zerstörung!"
+    },
+    {
+      "key": "syslog_dp_get",
+      "read_index": "265",
+      "tag_source": "source_en",
+      "source_jp": "<VAL DP>を入手しました",
+      "source_en": "<VAL DP> obtained.",
+      "text": "<VAL DP> erhalten."
+    },
+    {
+      "key": "syslog_dp_get_ex",
+      "read_index": "266",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> (+<VAL>) <UNIT DP>を入手しました",
+      "source_en": "<VAL> (+<VAL>) <UNIT DP> obtained.",
+      "text": "<VAL> (+<VAL>) <UNIT DP> erhalten."
+    },
+    {
+      "key": "syslog_dp_lost",
+      "read_index": "267",
+      "tag_source": "source_en",
+      "source_jp": "<VAL DP>を消費しました",
+      "source_en": "<VAL DP> spent.",
+      "text": "<VAL DP> ausgegeben."
+    },
+    {
+      "key": "syslog_ds_info_enemy_01",
+      "read_index": "365",
+      "tag_source": "source_en",
+      "source_jp": "敵が闇の炎をまとった！",
+      "source_en": "The enemy is shrouded in dark flame!",
+      "text": "Der Feind ist in dunkle Flammen gehüllt!"
+    },
+    {
+      "key": "syslog_ds_info_enemy_02",
+      "read_index": "366",
+      "tag_source": "source_en",
+      "source_jp": "敵の魔法攻撃力が上昇した！",
+      "source_en": "Magick attack of the enemy has increased!",
+      "text": "Magick Angriff des Feindes hat zugenommen!"
+    },
+    {
+      "key": "syslog_ds_info_enemy_03",
+      "read_index": "367",
+      "tag_source": "source_en",
+      "source_jp": "敵の物理攻撃力が上昇した！",
+      "source_en": "Physical attack of the enemy has increased!",
+      "text": "Der physische Angriff des Feindes hat zugenommen!"
+    },
+    {
+      "key": "syslog_ds_info_enemy_04",
+      "read_index": "368",
+      "tag_source": "source_en",
+      "source_jp": "敵の鎧が硬化した！",
+      "source_en": "The armor of enemy has hardened!",
+      "text": "Die Rüstung des Feindes ist verhärtet!"
+    },
+    {
+      "key": "syslog_ds_support_ana_01",
+      "read_index": "369",
+      "tag_source": "source_en",
+      "source_jp": "竜の祝福により報酬が強化された",
+      "source_en": "Blessing of the Dragons have improved the reward.",
+      "text": "Der Segen der Drachen hat die Belohnung verbessert."
+    },
+    {
+      "key": "syslog_ds_support_ana_02",
+      "read_index": "370",
+      "tag_source": "source_en",
+      "source_jp": "敵の部位を破壊しやすくなった",
+      "source_en": "It is now easier to break destructible parts.",
+      "text": "Es ist jetzt einfacher, zerstörbare Teile zu brechen."
+    },
+    {
+      "key": "syslog_ds_support_ana_03",
+      "read_index": "371",
+      "tag_source": "source_en",
+      "source_jp": "敵の防御を破り、プレイヤーの攻撃力が強化された",
+      "source_en": "Break through their defense to enhance your\r\noffensive power.",
+      "text": "Breche durch ihre Verteidigung, um deine\r\noffensive Macht zu verbessern."
+    },
+    {
+      "key": "syslog_entryboard_cancel",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>のエントリーを取り消しました",
+      "source_en": "<NAME QUEST> entry\r\nhas been canceled.",
+      "text": "<NAME QUEST> Eintrag\r\nwurde abgebrochen."
+    },
+    {
+      "key": "syslog_entryboard_creat",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>のエントリーボードを作成しました",
+      "source_en": "<NAME QUEST> entry\r\nboard has been created.",
+      "text": "<NAME QUEST> entry\r\nboard wurde erstellt."
+    },
+    {
+      "key": "syslog_entryboard_entry",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>にエントリーしました",
+      "source_en": "<NAME QUEST> has been\r\napplied for entry.",
+      "text": "<NAME QUEST> wurde\r\n für die Einreise beantragt."
+    },
+    {
+      "key": "syslog_error_clan",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "クランに加入していません",
+      "source_en": "Not currently in the clan.",
+      "text": "Derzeit nicht im Clan."
+    },
+    {
+      "key": "syslog_error_entryb",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "エントリーボードに登録していません",
+      "source_en": "You are not registered at the entry board.",
+      "text": "Du bist nicht am Entry Board registriert."
+    },
+    {
+      "key": "syslog_error_party_member_0",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "パーティーメンバーがいません",
+      "source_en": "You have no party members.",
+      "text": "Du hast keine Parteimitglieder."
+    },
+    {
+      "key": "syslog_error_tell",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>にメッセージが送れませんでした",
+      "source_en": "Could not send message to <NAME TARGET>.",
+      "text": "Konnte keine Nachricht an <NAME TARGET> senden."
+    },
+    {
+      "key": "syslog_evoticket_get",
+      "read_index": "291",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN MS>を<VAL><UNIT MS>、入手しました",
+      "source_en": "<VAL> <UNIT MS> of <UNTN MS> obtained.",
+      "text": "<VAL> <UNIT MS> von <UNTN MS> erhalten."
+    },
+    {
+      "key": "syslog_evoticket_lost",
+      "read_index": "292",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN MS>を<VAL><UNIT MS>、消費しました",
+      "source_en": "<VAL> <UNIT MS> of <UNTN MS> spent.",
+      "text": "<VAL> <UNIT MS> von <UNTN MS> ausgegeben."
+    },
+    {
+      "key": "syslog_exm_divide_player",
+      "read_index": "241",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>が強制転移させられた",
+      "source_en": "<VAL> was forcibly teleported",
+      "text": "<VAL> wurde gewaltsam teleportiert"
+    },
+    {
+      "key": "syslog_exm_return_player",
+      "read_index": "242",
+      "tag_source": "source_en",
+      "source_jp": "パーティーメンバーが転移先から復帰した！",
+      "source_en": "A party member has returned from their\r\nteleportation!",
+      "text": "Ein Parteimitglied ist von seiner\r\nTeleportation zurückgekehrt!"
+    },
+    {
+      "key": "syslog_favorite_login",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>がログインしました",
+      "source_en": "<NAME TARGET> has logged in.",
+      "text": "<NAME TARGET> hat sich angemeldet."
+    },
+    {
+      "key": "syslog_friend_cancel_by_decline",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>のフレンド申請を断りました",
+      "source_en": "The friend request from \r\n<NAME TARGET> was declined.",
+      "text": "Die Freundschaftsanfrage von\r\n<NAME TARGET> wurde abgelehnt."
+    },
+    {
+      "key": "syslog_friend_ok",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>とフレンドになりました",
+      "source_en": "<NAME TARGET> is now your friend.",
+      "text": "<NAME TARGET> ist jetzt dein Freund."
+    },
+    {
+      "key": "syslog_friend_request",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>にフレンド申請をしました",
+      "source_en": "You sent \r\n<NAME TARGET> a friend request.",
+      "text": "Du hast\r\n<NAME TARGET> eine Freundschaftsanfrage gesendet."
+    },
+    {
+      "key": "syslog_friend_requested",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>からフレンド申請されました",
+      "source_en": "<NAME TARGET> \r\nhas sent you a friend request.",
+      "text": "<NAME TARGET>\r\n hat dir eine Freundschaftsanfrage geschickt."
+    },
+    {
+      "key": "syslog_g_possession_max",
+      "read_index": "373",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN G>が最大に達したため、これ以上獲得できません",
+      "source_en": "You have reached the maximum \r\namount of <UNTN G>\r\nand cannot earn any more.",
+      "text": "Du hast den maximalen\r\n Betrag von <UNTN G>\r\n erreicht und können nicht mehr verdienen."
+    },
+    {
+      "key": "syslog_gacha_msg_drawn_by_a_free",
+      "read_index": "258",
+      "tag_source": "source_en",
+      "source_jp": "無料で、ロットを1回まわしました",
+      "source_en": "For free, you drew 1 lot.",
+      "text": "Umsonst hast du 1 Lot gezeichnet."
+    },
+    {
+      "key": "syslog_gacha_msg_drawn_by_a_stone",
+      "read_index": "219",
+      "tag_source": "source_en",
+      "source_jp": "黄金石<VAL>個を消費して、ロットを1回まわしました",
+      "source_en": "Spending <VAL> Golden Gemstones, you drew 1 lot.",
+      "text": "Ausgeben <VAL> Goldsteine, zoge 1 Los."
+    },
+    {
+      "key": "syslog_gacha_msg_drawn_by_a_ticket",
+      "read_index": "221",
+      "tag_source": "source_en",
+      "source_jp": "チケット<VAL>枚を消費して、ロットを1回まわしました",
+      "source_en": "Spending <VAL> Tickets, you drew 1 lot.",
+      "text": "Ausgeben <VAL> Tickets, hast du 1 Los gezogen."
+    },
+    {
+      "key": "syslog_gacha_msg_drawn_by_a_tickets",
+      "read_index": "222",
+      "tag_source": "source_en",
+      "source_jp": "チケット<VAL>枚を消費して、ロットを<VAL>連続でまわしました",
+      "source_en": "Spending <VAL> Tickets, you\r\ndrew <VAL> lots in succession.",
+      "text": "Für <VAL> Tickets hast du\r\n<VAL> Lose in Folge gezogen."
+    },
+    {
+      "key": "syslog_gacha_msg_drawn_by_free",
+      "read_index": "259",
+      "tag_source": "source_en",
+      "source_jp": "無料で、ロットを<VAL>連続でまわしました",
+      "source_en": "For free, you drew <VAL> lots in succession.",
+      "text": "Umsonst hast du <VAL> Lose nacheinander gezogen."
+    },
+    {
+      "key": "syslog_gacha_msg_drawn_by_stones",
+      "read_index": "220",
+      "tag_source": "source_en",
+      "source_jp": "黄金石<VAL>個を消費して、ロットを<VAL>連続でまわしました",
+      "source_en": "Spending <VAL> Golden Gemstones, you\r\ndrew <VAL> lots in succession.",
+      "text": "Ausgaben <VAL> Goldsteine, du\r\ngezogen <VAL> Lose in der Folge."
+    },
+    {
+      "key": "syslog_gdm_get",
+      "read_index": "323",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN GDM>を<VAL><UNIT GDM>、入手しました",
+      "source_en": "<VAL> <UNIT GDM> of <UNTN GDM>s obtained.",
+      "text": "<VAL> <UNIT GDM> von <UNTN GDM> s erhalten."
+    },
+    {
+      "key": "syslog_gdm_get_ex",
+      "read_index": "362",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN GDM>を<VAL>(+<VAL>)<UNIT GDM>、入手しました",
+      "source_en": "Obtained <VAL> (+<VAL>) <UNIT GDM> of <UNTN GDM>.",
+      "text": "Erhalten <VAL> (+<VAL>) <UNIT GDM> von <UNTN GDM>."
+    },
+    {
+      "key": "syslog_gdm_lost",
+      "read_index": "326",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN GDM>を<VAL><UNIT GDM>、消費しました",
+      "source_en": "<VAL> <UNIT GDM> of <UNTN GDM>s spent.",
+      "text": "<VAL> <UNIT GDM> von <UNTN GDM> ausgegeben."
+    },
+    {
+      "key": "syslog_goldstone_get",
+      "read_index": "189",
+      "tag_source": "source_en",
+      "source_jp": "黄金石を<VAL>個、入手しました（所持数：<VAL>）",
+      "source_en": "Golden Gemstones x<VAL> obtained (have: <VAL>).",
+      "text": "Goldsteine x<VAL> erhalten (haben: <VAL>)."
+    },
+    {
+      "key": "syslog_goldstone_lost",
+      "read_index": "198",
+      "tag_source": "source_en",
+      "source_jp": "黄金石を<VAL>個、消費しました（所持数：<VAL>）",
+      "source_en": "Golden Gemstones x<VAL> spent (have: <VAL>).",
+      "text": "Goldsteine x<VAL> ausgegeben (haben: <VAL>)."
+    },
+    {
+      "key": "syslog_hb_get",
+      "read_index": "268",
+      "tag_source": "source_en",
+      "source_jp": "<VAL HB>を入手しました",
+      "source_en": "<VAL HB> obtained.",
+      "text": "<VAL HB> erhalten."
+    },
+    {
+      "key": "syslog_hb_get_ex",
+      "read_index": "269",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> (+<VAL>) <UNIT HB>を入手しました",
+      "source_en": "<VAL> (+<VAL>) <UNIT HB> obtained.",
+      "text": "<VAL> (+<VAL>) <UNIT HB> erhalten."
+    },
+    {
+      "key": "syslog_hb_lost",
+      "read_index": "270",
+      "tag_source": "source_en",
+      "source_jp": "<VAL HB>を消費しました",
+      "source_en": "<VAL HB> spent.",
+      "text": "<VAL HB> ausgegeben."
+    },
+    {
+      "key": "syslog_ho_possession_max",
+      "read_index": "376",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN HB>が最大に達したため、これ以上獲得できません",
+      "source_en": "You have reached the maximum \r\namount of <UNTN HB>\r\nand cannot earn any more.",
+      "text": "Du hast den maximalen\r\n Betrag von <UNTN HB>\r\n erreicht und können nicht mehr verdienen."
+    },
+    {
+      "key": "syslog_item_consume",
+      "read_index": "132",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ITEM>を<VAL>個、使用しました",
+      "source_en": "<NAME ITEM> x<VAL> used.",
+      "text": "<NAME ITEM> x<VAL> verwendet."
+    },
+    {
+      "key": "syslog_item_deliver",
+      "read_index": "176",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ITEM>を<VAL>個、納品しました",
+      "source_en": "<NAME ITEM> x<VAL> has been delivered.",
+      "text": "<NAME ITEM> x<VAL> wurde geliefert."
+    },
+    {
+      "key": "syslog_item_error",
+      "read_index": "142",
+      "tag_source": "source_en",
+      "source_jp": "アイテムの処理に失敗しました",
+      "source_en": "Item failed to process.",
+      "text": "Item konnte nicht verarbeitet werden."
+    },
+    {
+      "key": "syslog_item_fortify",
+      "read_index": "139",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ITEM>を強化しました",
+      "source_en": "<NAME ITEM> has been enhanced.",
+      "text": "<NAME ITEM> wurde verbessert."
+    },
+    {
+      "key": "syslog_item_get_send_itempost",
+      "read_index": "255",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ITEM>を<VAL>個、アイテムポストに送りました",
+      "source_en": "<NAME ITEM> x<VAL> sent to Item Post.",
+      "text": "<NAME ITEM> x<VAL> an Item Post gesendet."
+    },
+    {
+      "key": "syslog_item_lockset",
+      "read_index": "341",
+      "tag_source": "source_en",
+      "source_jp": "アイテムをセーフティ設定しました",
+      "source_en": "Item safety setting enabled.",
+      "text": "Artikelsicherheitseinstellung aktiviert."
+    },
+    {
+      "key": "syslog_item_lockset_off",
+      "read_index": "342",
+      "tag_source": "source_en",
+      "source_jp": "アイテムのセーフティ設定を解除しました",
+      "source_en": "Item safety setting disabled.",
+      "text": "Artikel-Sicherheitseinstellung deaktiviert."
+    },
+    {
+      "key": "syslog_item_lost",
+      "read_index": "138",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ITEM>を<VAL>個、失いました",
+      "source_en": "<NAME ITEM> x<VAL> was lost.",
+      "text": "<NAME ITEM> x<VAL> war verloren."
+    },
+    {
+      "key": "syslog_item_sold",
+      "read_index": "140",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ITEM>を<VAL>個、売却しました",
+      "source_en": "<NAME ITEM> x<VAL> was sold.",
+      "text": "<NAME ITEM> x<VAL> wurde verkauft."
+    },
+    {
+      "key": "syslog_jobmaster_job_get",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "新ジョブ「<NAME JOB>」への転職が可能になりました",
+      "source_en": "Job \"<NAME JOB>\" has been unlocked.",
+      "text": "Job \"<NAME JOB>\" wurde freigeschaltet."
+    },
+    {
+      "key": "syslog_jobmaster_order_clear",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "ジョブ修練ログ「<VAL>」の課題を達成しました\r\nジョブマスターに報告するか、ジョブ修練ログを開いてください",
+      "source_en": "Job Training Log challenge \"<VAL>\" achieved.\r\nReport to the Job Master or open\r\nthe Job Training Log.",
+      "text": "Job Training Log Challenge<VAL>\" erreicht.\r\nMelde sich beim Klassenmeister oder öffnen\r\ndas Job Training Log."
+    },
+    {
+      "key": "syslog_jobmaster_skill_get",
+      "read_index": "67",
+      "tag_source": "source_en",
+      "source_jp": "「<NAME SKILL> <VAL LV>」へのレベルアップが可能になりました",
+      "source_en": "\"<NAME SKILL> <VAL LV>\" can now be learned.",
+      "text": "\"<NAME SKILL> <VAL LV>\" kann jetzt gelernt werden."
+    },
+    {
+      "key": "syslog_jp_possession_max",
+      "read_index": "226",
+      "tag_source": "source_en",
+      "source_jp": "ジョブポイントが最大に達したため、これ以上獲得できません",
+      "source_en": "You have reached the maximum \r\namount of Job Points\r\nand cannot earn any more.",
+      "text": "Du hast die maximale\r\nAnzahl von Job Points\r\n erreicht und können nicht mehr verdienen."
+    },
+    {
+      "key": "syslog_jp_possession_max_notice",
+      "read_index": "225",
+      "tag_source": "source_en",
+      "source_jp": "ジョブポイントの所持量が最大に近づいています\r\n( <VAL> / <VAL JP> )",
+      "source_en": "You are almost maxed out on Job Points.\r\n(<VAL>/<VAL JP>)",
+      "text": "Du bist bei Job Points fast ausgereizt.\r\n(<VAL>/<VAL JP>)"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

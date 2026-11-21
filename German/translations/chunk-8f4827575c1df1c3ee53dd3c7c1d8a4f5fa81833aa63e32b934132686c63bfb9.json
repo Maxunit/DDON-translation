@@ -1,0 +1,288 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\job_skill_manager.gmd",
+  "arc_path": "\\ui\\uGUIJobSelect.arc",
+  "entries": [
+    {
+      "key": "ability_search_check_all",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "全て",
+      "source_en": "All",
+      "text": "Alle"
+    },
+    {
+      "key": "ability_search_cost_over",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "以上",
+      "source_en": "or more",
+      "text": "oder mehr"
+    },
+    {
+      "key": "ability_search_cost_under",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "以下",
+      "source_en": "or less",
+      "text": "oder weniger"
+    },
+    {
+      "key": "ability_search_header_cost",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "コスト",
+      "source_en": "Cost",
+      "text": "Kosten"
+    },
+    {
+      "key": "ability_search_learn_check",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "習得済み",
+      "source_en": "Learned",
+      "text": "Erlernt"
+    },
+    {
+      "key": "ability_search_not_learn_check",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "未修得",
+      "source_en": "Not Learned",
+      "text": "Offen"
+    },
+    {
+      "key": "ability_type_secret",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "シークレットアビリティ",
+      "source_en": "Secret Augment",
+      "text": "Geheime Begabung"
+    },
+    {
+      "key": "announce_ability_search_result",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>件見つかりました",
+      "source_en": "Found <VAL> results.",
+      "text": "<VAL> Treffer gefunden."
+    },
+    {
+      "key": "btn_guide_change_pp_mode",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "<UNIT XP>/<UNIT PP> 切り替え",
+      "source_en": "Switch <UNIT XP>/<UNIT PP>",
+      "text": "<UNIT XP>/<UNIT PP> wechseln"
+    },
+    {
+      "key": "dialog_ability_learn",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>の\r\n<VAL JP>を消費して習得します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to spend\r\n<VAL>'s <VAL JP> to learn this?",
+      "text": "Bist du sicher, dass du\r\n<VAL>'s <VAL JP> ausgeben willst, um dies zu lernen?"
+    },
+    {
+      "key": "dialog_ability_lvup",
+      "read_index": "67",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>の\r\n<VAL JP>を消費してレベルアップします\r\nよろしいですか？",
+      "source_en": "Are you sure you want to spend\r\n<VAL>'s <VAL JP> to level up this?",
+      "text": "Bist du sicher, dass du\r\n<VAL>'s <VAL JP> ausgeben willst, um dies zu verbessern?"
+    },
+    {
+      "key": "dropdown_ability_search",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "検索結果",
+      "source_en": "Search Results",
+      "text": "Suchergebnisse"
+    },
+    {
+      "key": "error_both",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "ジョブレベル・所持<UNIT JP>が不足しています",
+      "source_en": "Your job level and <UNIT JP> are insufficient.",
+      "text": "Klassenstufe und <UNIT JP> reichen nicht aus."
+    },
+    {
+      "key": "error_cost_over",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "コストオーバーでセットできません",
+      "source_en": "You have reached maximum augment cost.",
+      "text": "Das Kostenlimit ist erreicht."
+    },
+    {
+      "key": "error_not_reach_condition",
+      "read_index": "75",
+      "tag_source": "source_en",
+      "source_jp": "使用条件を満たしていません",
+      "source_en": "You do not meet the requirements.",
+      "text": "Die Voraussetzungen fehlen."
+    },
+    {
+      "key": "error_server_request_fail",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "通信リクエストに失敗しました",
+      "source_en": "Communication request failed.",
+      "text": "Anfrage fehlgeschlagen."
+    },
+    {
+      "key": "error_set_already",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "既にセット済みです",
+      "source_en": "That augment is already set.",
+      "text": "Die Begabung ist bereits angelegt."
+    },
+    {
+      "key": "guide_change_ex_custom_skill",
+      "read_index": "76",
+      "tag_source": "source_en",
+      "source_jp": "EXスキル切り替え",
+      "source_en": "EX Skill Switch",
+      "text": "EX-Fertigkeit wechseln"
+    },
+    {
+      "key": "job_cahnge_no_ability_notice",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "アビリティがセットされていません",
+      "source_en": "Your augments have been reset.",
+      "text": "Es sind keine Begabungen angelegt."
+    },
+    {
+      "key": "job_change_error_capacity_over",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "保管ボックスの空きが足りません",
+      "source_en": "Your Storage Box is full.",
+      "text": "Das Lager ist voll."
+    },
+    {
+      "key": "job_change_error_certain_reason",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "転職に失敗しました",
+      "source_en": "Failed to change vocation.",
+      "text": "Klassenwechsel fehlgeschlagen."
+    },
+    {
+      "key": "job_change_error_no_weapon",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "装備できる武器がありません",
+      "source_en": "There is no available weapon.",
+      "text": "Keine passende Waffe verfügbar."
+    },
+    {
+      "key": "job_msg_total_job_level",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "Total <VAL LV>",
+      "source_en": "Total <VAL LV>",
+      "text": "Gesamt <VAL LV>"
+    },
+    {
+      "key": "need_splimit_to_get",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "特殊条件",
+      "source_en": "Trial",
+      "text": "Sonderbedingung"
+    },
+    {
+      "key": "need_splimit_to_get_skill_info",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "特殊条件により解放",
+      "source_en": "Unlocked by clearing special conditions.",
+      "text": "Wird durch eine Sonderbedingung freigeschaltet."
+    },
+    {
+      "key": "option_apply",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "プリセットの装備",
+      "source_en": "Equip Preset",
+      "text": "Vorlage anlegen"
+    },
+    {
+      "key": "option_filter",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "フィルタ",
+      "source_en": "Filter",
+      "text": "Filter"
+    },
+    {
+      "key": "option_overwrite",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "装備中のアビリティを登録",
+      "source_en": "Register Equipped Augments",
+      "text": "Angelegte Begabungen speichern"
+    },
+    {
+      "key": "option_preset",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "プリセットリスト",
+      "source_en": "Preset List",
+      "text": "Vorlagen"
+    },
+    {
+      "key": "option_rename",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "プリセット名の編集",
+      "source_en": "Rename Preset",
+      "text": "Vorlage umbenennen"
+    },
+    {
+      "key": "preset_default_name",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "プリセット",
+      "source_en": "Preset",
+      "text": "Vorlage"
+    },
+    {
+      "key": "preset_unregist",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "未登録",
+      "source_en": "Unregistered",
+      "text": "Leer"
+    },
+    {
+      "key": "release_condition_master_subject",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "ジョブマスターの課題をクリアする",
+      "source_en": "Clear the Job Master challenge.",
+      "text": "Bestehe die Prüfung des Klassenmeisters."
+    },
+    {
+      "key": "set_enable_condition",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "セット可能条件",
+      "source_en": "Set Enable Conditions",
+      "text": "Voraussetzungen zum Anlegen"
+    },
+    {
+      "key": "title_preset_ability",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "Ability Set",
+      "source_en": "Augment Set",
+      "text": "Begabungsvorlage"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

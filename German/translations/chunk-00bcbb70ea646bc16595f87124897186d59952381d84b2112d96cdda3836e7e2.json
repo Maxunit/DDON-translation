@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\clan_status.gmd",
+  "arc_path": "\\ui\\uGUIClanStatus.arc",
+  "entries": [
+    {
+      "key": "CLAN_STATUS_MEMBER_NUM",
+      "read_index": "20",
+      "tag_source": "source_jp",
+      "source_jp": "<VAL>名",
+      "source_en": "<VAL>",
+      "text": "<VAL> Mitglieder"
+    },
+    {
+      "key": "CLAN_STATUS_MOTTO",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "モットー",
+      "source_en": "Motto",
+      "text": "Motto"
+    },
+    {
+      "key": "CLAN_STATUS_MSG_MONEY_CP",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "通貨CP",
+      "source_en": "CP",
+      "text": "CP"
+    },
+    {
+      "key": "CLAN_STATUS_MSG_NAME",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "CLAN_STATUS_MSG_STATUS",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ステータス",
+      "source_en": "Status",
+      "text": "Status"
+    },
+    {
+      "key": "CLAN_STATUS_MSG_TOP_EN",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "Clan Status",
+      "source_en": "Clan Status",
+      "text": "Clan-Status"
+    },
+    {
+      "key": "CLAN_STATUS_MSG_TOP_JP",
+      "read_index": "18",
+      "tag_source": "source_jp",
+      "source_jp": "クランステータス",
+      "source_en": " ",
+      "text": "Clan-Status"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

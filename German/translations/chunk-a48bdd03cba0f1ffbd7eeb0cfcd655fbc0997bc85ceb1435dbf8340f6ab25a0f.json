@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_clan_chg_leader_q",
+      "read_index": "190",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nサブマスターにします。よろしいですか？",
+      "source_en": "<NAME TARGET> \r\nwill become a Clan Officer.\r\nAre you sure?",
+      "text": "<NAME TARGET>\r\nwird ein Clan-Offizier werden.\r\nBist du sicher?"
+    },
+    {
+      "key": "ana_clan_chg_master",
+      "read_index": "189",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>をクランマスターにしました",
+      "source_en": "<NAME TARGET> \r\nhas become the Clan Master.",
+      "text": "<NAME TARGET>\r\n ist zum Clan-Meister geworden."
+    },
+    {
+      "key": "ana_clan_chg_master_q",
+      "read_index": "188",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nクランマスターにします。よろしいですか？",
+      "source_en": "<NAME TARGET> \r\nwill become the Clan Master.\r\nAre you sure?",
+      "text": "<NAME TARGET>\r\nwird zum Clan-Meister werden.\r\nBist du dir sicher?"
+    },
+    {
+      "key": "ana_clan_chg_member",
+      "read_index": "192",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を通常メンバーにしました",
+      "source_en": "<NAME TARGET> \r\nhas become a clan member.",
+      "text": "<NAME TARGET>\r\n ist ein Clanmitglied geworden."
+    },
+    {
+      "key": "ana_clan_chg_member_q",
+      "read_index": "191",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\n通常メンバーにします。よろしいですか？",
+      "source_en": "<NAME TARGET> \r\nwill become a clan member.\r\nAre you sure?",
+      "text": "<NAME TARGET>\r\nwird ein Clanmitglied werden.\r\nBist du dir sicher?"
+    },
+    {
+      "key": "ana_clan_create",
+      "read_index": "185",
+      "tag_source": "source_en",
+      "source_jp": "クランを作成しました",
+      "source_en": "The clan has been created.",
+      "text": "Der Clan wurde geschaffen."
+    },
+    {
+      "key": "ana_clan_create_err_joinreq",
+      "read_index": "382",
+      "tag_source": "source_en",
+      "source_jp": "クランに加入申請中のため作成できません",
+      "source_en": "You cannot create because you currently have an\r\napplication to a clan.",
+      "text": "Du hast dich bereits bei einem Clan beworben.\r\nSolange die Bewerbung läuft, kannst du keinen Clan gründen."
+    },
+    {
+      "key": "ana_clan_create_err_scoutentry",
+      "read_index": "381",
+      "tag_source": "source_en",
+      "source_jp": "スカウトエントリー中のため作成できません",
+      "source_en": "You cannot create because you are currently in\r\nscout entry.",
+      "text": "Du bist für die Clanrekrutierung gemeldet.\r\nSolange die Meldung aktiv ist, kannst du keinen Clan gründen."
+    },
+    {
+      "key": "ana_clan_err_applying",
+      "read_index": "492",
+      "tag_source": "source_en",
+      "source_jp": "すでに申請中のため選べません",
+      "source_en": "Cannot choose this option because it is already\r\npending",
+      "text": "Kann diese Option nicht wählen, weil sie bereits\r\n aussteht"
+    },
+    {
+      "key": "ana_clan_expulsion",
+      "read_index": "187",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を除名しました",
+      "source_en": "<NAME TARGET> \r\nhas been expelled.",
+      "text": "<NAME TARGET>\r\n wurde vertrieben."
+    },
+    {
+      "key": "ana_clan_expulsion_q",
+      "read_index": "186",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nクランから除名します。よろしいですか？",
+      "source_en": "Are you sure you want to expel \r\n<NAME TARGET>\r\nfrom the clan?",
+      "text": "Bist du sicher, dass du\r\n<NAME TARGET>\r\n aus dem Clan vertreiben willst?"
+    },
+    {
+      "key": "ana_clan_info_reload",
+      "read_index": "313",
+      "tag_source": "source_en",
+      "source_jp": "クランの情報が更新されました",
+      "source_en": "Clan information has been updated.",
+      "text": "Clan-Informationen wurden aktualisiert."
+    },
+    {
+      "key": "ana_clan_info_update",
+      "read_index": "75",
+      "tag_source": "source_en",
+      "source_jp": "クラン情報を更新しました",
+      "source_en": "Clan information has been updated.",
+      "text": "Clan-Informationen wurden aktualisiert."
+    },
+    {
+      "key": "ana_clan_invite",
+      "read_index": "88",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>をクランに誘いました",
+      "source_en": "<NAME TARGET> \r\nhas been invited to the clan.",
+      "text": "<NAME TARGET>\r\nwurde zum Clan eingeladen."
+    },
+    {
+      "key": "ana_clan_invite_direct",
+      "read_index": "466",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nクランに直接招待しました",
+      "source_en": "Directly invited \r\n<NAME TARGET> \r\nto the Clan.",
+      "text": "Direkt eingeladen\r\n<NAME TARGET>\r\n zum Clan."
+    },
+    {
+      "key": "ana_clan_invite_ng",
+      "read_index": "94",
+      "tag_source": "source_en",
+      "source_jp": "<NAME CLAN>の勧誘を拒否しました",
+      "source_en": "You declined the invitation to \r\n<NAME CLAN>.",
+      "text": "Du hast die Einladung zu\r\n<NAME CLAN> abgelehnt."
+    },
+    {
+      "key": "ana_clan_invite_ng_q",
+      "read_index": "93",
+      "tag_source": "source_en",
+      "source_jp": "<NAME CLAN>の\r\n勧誘を拒否します。よろしいですか？",
+      "source_en": "Declining the invitation to \r\n<NAME CLAN>.\r\nAre you sure?",
+      "text": "Ablehnend die Einladung zu\r\n<NAME CLAN>.\r\nBist du sicher?"
+    },
+    {
+      "key": "ana_clan_invite_ok_q",
+      "read_index": "91",
+      "tag_source": "source_en",
+      "source_jp": "<NAME CLAN>の\r\n勧誘を承認します。よろしいですか？",
+      "source_en": "Accepting the invitation to \r\n<NAME CLAN>.\r\nAre you sure?",
+      "text": "Nehmt die Einladung an\r\n<NAME CLAN>.\r\nBist du sicher?"
+    },
+    {
+      "key": "ana_clan_invite_q",
+      "read_index": "87",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nクランに勧誘します。よろしいですか？\r\n（一定期間承認されない場合、申請はキャンセルされます）",
+      "source_en": "<NAME TARGET> \r\nwill be invited to the clan.\r\nAre you sure?\r\n(If it is not accepted within a period of time,\r\nthe invite will be canceled)",
+      "text": "<NAME TARGET>\r\nwird zum Clan eingeladen.\r\nBist du dir sicher?\r\n(Wenn es nicht innerhalb eines Zeitraums angenommen wird,\r\nwird die Einladung abgesagt)"
+    },
+    {
+      "key": "ana_clan_invite_q_direct",
+      "read_index": "465",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nクランに直接招待します。よろしいですか？",
+      "source_en": "Are you sure you want to directly invite \r\n<NAME TARGET>\r\nto the Clan?",
+      "text": "Bist du sicher, dass du\r\n<NAME TARGET>\r\n direkt zum Clan einladen möchtest?"
+    },
+    {
+      "key": "ana_clan_join",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "<NAME CLAN>に加入申請しました",
+      "source_en": "You have submitted an application to join \r\n<NAME CLAN>.",
+      "text": "Du hast einen Antrag auf Beitritt eingereicht\r\n<NAME CLAN>."
+    },
+    {
+      "key": "ana_clan_join_cancel",
+      "read_index": "79",
+      "tag_source": "source_en",
+      "source_jp": "加入申請をキャンセルしました",
+      "source_en": "You have canceled your application to join the\r\nclan.",
+      "text": "Du hast deine Bewerbung für den\r\nclan abgesagt."
+    },
+    {
+      "key": "ana_clan_join_cancel_q",
+      "read_index": "78",
+      "tag_source": "source_en",
+      "source_jp": "クランの加入申請をキャンセルします。\r\nよろしいですか？",
+      "source_en": "You will cancel your application to join the clan.\r\nAre you sure?",
+      "text": "Du stornierst deinen Antrag, dem Clan beizutreten.\r\nBist du dir sicher?"
+    },
+    {
+      "key": "ana_clan_join_ng",
+      "read_index": "83",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>の加入を拒否しました",
+      "source_en": "The clan application of \r\n<NAME TARGET> \r\nhas been refused.",
+      "text": "Der Clan-Antrag von\r\n<NAME TARGET>\r\n wurde abgelehnt."
+    },
+    {
+      "key": "ana_clan_join_ng_q",
+      "read_index": "82",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>の\r\n加入を拒否します。よろしいですか？",
+      "source_en": "The clan application of \r\n<NAME TARGET> \r\nwill be refused.\r\nAre you sure?",
+      "text": "Der Clan-Antrag von\r\n<NAME TARGET>\r\n wird abgelehnt.\r\nBist du sicher?"
+    },
+    {
+      "key": "ana_clan_join_permit",
+      "read_index": "81",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>の加入を許可しました",
+      "source_en": "<NAME TARGET> \r\nhas been permitted to join the clan.",
+      "text": "<NAME TARGET>\r\n wurde erlaubt, dem Clan beizutreten."
+    },
+    {
+      "key": "ana_clan_join_permit_q",
+      "read_index": "80",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>の\r\n加入を許可します。よろしいですか？",
+      "source_en": "<NAME TARGET> \r\nwill be permitted to join the clan. \r\nAre you sure?",
+      "text": "<NAME TARGET>\r\n wird erlaubt sein, dem Clan beizutreten.\r\n Bist du sicher?"
+    },
+    {
+      "key": "ana_clan_join_q",
+      "read_index": "76",
+      "tag_source": "source_en",
+      "source_jp": "<NAME CLAN>に\r\n加入申請をします。よろしいですか？\r\n（一定期間承認されない場合、申請はキャンセルされます）",
+      "source_en": "You will submit an application to\r\njoin \r\n<NAME CLAN>.\r\nAre you sure?\r\n(If it is not accepted within a period of time,\r\nthe invite will be canceled)",
+      "text": "Du wirst eine Bewerbung einreichen an\r\njoin\r\n<NAME CLAN>.\r\nBist du sicher?\r\n(Wenn sie nicht innerhalb eines bestimmten Zeitraums angenommen wird,\r\nwird die Einladung storniert.)"
+    },
+    {
+      "key": "ana_clan_join_result",
+      "read_index": "92",
+      "tag_source": "source_en",
+      "source_jp": "<NAME CLAN>に加入しました",
+      "source_en": "You have joined <NAME CLAN>.",
+      "text": "Du bist <NAME CLAN> beigetreten."
+    },
+    {
+      "key": "ana_clan_kyoten_ng_pass_door",
+      "read_index": "478",
+      "tag_source": "source_en",
+      "source_jp": "この扉は解放されていません",
+      "source_en": "This door has not been unlocked.",
+      "text": "Diese Tür ist nicht entriegelt worden."
+    },
+    {
+      "key": "ana_clan_kyoten_ng_pass_stage",
+      "read_index": "477",
+      "tag_source": "source_en",
+      "source_jp": "<STG 210>は解放されていません",
+      "source_en": "<STG 210> has not been unlocked.",
+      "text": "<STG 210> wurde nicht freigeschaltet."
+    },
+    {
+      "key": "ana_clan_kyoten_no_authority_layout",
+      "read_index": "545",
+      "tag_source": "source_en",
+      "source_jp": "拠点のレイアウトを使用する権限が与えられていません",
+      "source_en": "Cannot use Hall Layout.",
+      "text": "Hall Layout kann nicht verwendet werden."
+    },
+    {
+      "key": "ana_clan_leave",
+      "read_index": "85",
+      "tag_source": "source_en",
+      "source_jp": "クランを脱退しました",
+      "source_en": "You have left the clan.",
+      "text": "Du hast den Clan verlassen."
+    },
+    {
+      "key": "ana_clan_leave_q",
+      "read_index": "84",
+      "tag_source": "source_en",
+      "source_jp": "クランを脱退します。よろしいですか？",
+      "source_en": "You will leave the clan. Are you sure?",
+      "text": "Du wirst den Clan verlassen. Bist du sicher?"
+    },
+    {
+      "key": "ana_clan_scout_cancel",
+      "read_index": "90",
+      "tag_source": "source_en",
+      "source_jp": "勧誘をキャンセルしました",
+      "source_en": "The clan scouting has been canceled.",
+      "text": "Das Clan-Scouting wurde abgesagt."
+    },
+    {
+      "key": "ana_clan_scout_cancel_q",
+      "read_index": "89",
+      "tag_source": "source_en",
+      "source_jp": "クランへのスカウトをキャンセルします\r\nよろしいですか？",
+      "source_en": "The clan scouting will be canceled.\r\nAre you sure?",
+      "text": "Das Clan-Scouting wird abgesagt.\r\nBist du dir sicher?"
+    },
+    {
+      "key": "ana_clan_scout_entry",
+      "read_index": "86",
+      "tag_source": "source_en",
+      "source_jp": "スカウトリストにエントリーしました\r\nクランから招待が届くようになります",
+      "source_en": "You have been entered into the Scout List.\r\nYou will start receiving invitations from Clans.",
+      "text": "Du bist in die Pfadfinderliste aufgenommen worden.\r\nDu wirst anfangen, Einladungen von Clans zu erhalten."
+    },
+    {
+      "key": "ana_clan_search_setting_dialog",
+      "read_index": "380",
+      "tag_source": "source_en",
+      "source_jp": "クランの情報を公開してメンバーを募集しますか？\r\n（クラン編集から設定変更できます）",
+      "source_en": "Are you sure you want to recruit members using the public information of the clan?\r\n(You can change these settings in Edit Clan)",
+      "text": "Bist du sicher, dass du Mitglieder rekrutieren möchtest, indem du die öffentlichen Informationen des Clans verwendest?\r\n(du kannst diese Einstellungen in Edit Clan ändern)"
+    },
+    {
+      "key": "ana_cmd_error",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "そのコマンドは実行できません",
+      "source_en": "Command failed to execute.",
+      "text": "Das Kommando konnte nicht ausgeführt werden."
+    },
+    {
+      "key": "ana_common_cancel",
+      "read_index": "322",
+      "tag_source": "source_en",
+      "source_jp": "やめる",
+      "source_en": "Quit",
+      "text": "Quittung"
+    },
+    {
+      "key": "ana_common_item_get",
+      "read_index": "584",
+      "tag_source": "source_en",
+      "source_jp": "アイテムを受け取りました",
+      "source_en": "You received an item",
+      "text": "Erhalten: einen Artikel"
+    },
+    {
+      "key": "ana_common_msg_usage_prohibited",
+      "read_index": "554",
+      "tag_source": "source_en",
+      "source_jp": "使用できません",
+      "source_en": "Cannot be used.",
+      "text": "Kann nicht verwendet werden."
+    },
+    {
+      "key": "ana_common_ready",
+      "read_index": "317",
+      "tag_source": "source_en",
+      "source_jp": "準備完了",
+      "source_en": "Ready",
+      "text": "Fertig"
+    },
+    {
+      "key": "ana_common_refuse",
+      "read_index": "318",
+      "tag_source": "source_en",
+      "source_jp": "拒否",
+      "source_en": "Decline",
+      "text": "Rückgang"
+    },
+    {
+      "key": "ana_conf_end_of_eventviewer",
+      "read_index": "623",
+      "tag_source": "source_en",
+      "source_jp": "イベントビューアーを終了して\r\n前の画面に戻りますか？",
+      "source_en": "Would you like to exit the Event Viewer and\r\nreturn to the\r\nprevious screen?",
+      "text": "Möchtest du den Event Viewer verlassen und\r\nzurück zum\r\nvorigen Bildschirm?"
+    },
+    {
+      "key": "ana_conf_start_of_device",
+      "read_index": "620",
+      "tag_source": "source_en",
+      "source_jp": "思い出を見ますか？",
+      "source_en": "Would you like to see memories?",
+      "text": "Möchtest du Erinnerungen sehen?"
+    },
+    {
+      "key": "ana_content_party_standby",
+      "read_index": "241",
+      "tag_source": "source_en",
+      "source_jp": "パーティーの準備ができたので移動しますか？",
+      "source_en": "Do you want to move now that your party is ready?",
+      "text": "Möchtest du jetzt umziehen, wenn deine Partei bereit ist?"
+    },
+    {
+      "key": "ana_content_starting_cancel",
+      "read_index": "240",
+      "tag_source": "source_en",
+      "source_jp": "出発スタンバイをキャンセルしますか？",
+      "source_en": "Do you want to cancel standing by?",
+      "text": "Möchtest du Standing By absagen?"
+    },
+    {
+      "key": "ana_content_starting_standby",
+      "read_index": "239",
+      "tag_source": "source_en",
+      "source_jp": "出発スタンバイをしますか？",
+      "source_en": "Do you want to begin standing by?",
+      "text": "Willst du anfangen, dabei zu stehen?"
+    },
+    {
+      "key": "ana_contents_leave_ng",
+      "read_index": "281",
+      "tag_source": "source_en",
+      "source_jp": "コンテンツ中はパーティーから抜けられません",
+      "source_en": "You cannot leave party while searching for\r\ncontent.",
+      "text": "Du kannst die Gruppe nicht verlassen, während du nach\r\n Inhalt suchst."
+    },
+    {
+      "key": "ana_countdown_die",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "カウントがなくなると死亡状態になります",
+      "source_en": "You will die when the count reaches 0.",
+      "text": "Du wirst sterben, wenn die Zählung 0 erreicht."
+    },
+    {
+      "key": "ana_cpOmJukeBox",
+      "read_index": "475",
+      "tag_source": "source_en",
+      "source_jp": "再生する項目を選択してください",
+      "source_en": "Please select item to play",
+      "text": "Wähle das Element zum Spielen"
+    },
+    {
+      "key": "ana_cpOmJukeBox_stop",
+      "read_index": "476",
+      "tag_source": "source_en",
+      "source_jp": "曲を止める",
+      "source_en": "Stop the song",
+      "text": "Stoppt den Song"
+    },
+    {
+      "key": "ana_cpOmOneWay",
+      "read_index": "474",
+      "tag_source": "source_en",
+      "source_jp": "壁の向こう側へ移動しますか？",
+      "source_en": "Move to the other side of the barrier?",
+      "text": "Bewege sich auf die andere Seite der Barriere?"
+    },
+    {
+      "key": "ana_craft_noxp_rankup",
+      "read_index": "376",
+      "tag_source": "source_en",
+      "source_jp": "選択中のポーンは昇格試験クリアまで\r\nクラフト経験値を獲得できません",
+      "source_en": "Your pawn cannot receive craft experience\r\nuntil the promotion test is cleared.",
+      "text": "Dein Vasall kann keine handwerkliche Erfahrung erhalten\r\n, bis der Beförderungstest abgeschlossen ist."
+    },
+    {
+      "key": "ana_craftskillreset_conf",
+      "read_index": "437",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>の\r\nクラフトスキルをリセットしますか？\r\n※クラフトスキルリセット権が消費されます",
+      "source_en": "Do you want to reset \r\n<NAME PAWN>'s Crafting skills?\r\n※Consumes a Reset Craft Skills consumable",
+      "text": "Möchtest du die Crafting-Fähigkeiten von\r\n<NAME PAWN> zurücksetzen?\r\n※Konsumiert ein Reset Craft Skills Verbrauchsmaterial"
+    },
+    {
+      "key": "ana_craftskillreset_dec",
+      "read_index": "438",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>の\r\nクラフトスキルをリセットしました",
+      "source_en": "I have reset \r\n<NAME PAWN>'s Crafting Skills.",
+      "text": "Ich habe die Crafting Skills\r\n<NAME PAWN> zurückgesetzt."
+    },
+    {
+      "key": "ana_craftskillreset_dec_guide",
+      "read_index": "440",
+      "tag_source": "source_en",
+      "source_jp": "クラフトスキルリセットのご利用は\r\nリムストーンでおこなえます",
+      "source_en": "Crafting Skill Reset can be performed using Rift\r\nCrystals.",
+      "text": "Crafting Skill Reset kann mit Rift\r\nCrystals durchgeführt werden."
+    },
+    {
+      "key": "ana_craftskillreset_ng_0point",
+      "read_index": "469",
+      "tag_source": "source_en",
+      "source_jp": "ポイントが割り振られていないため使用できません",
+      "source_en": "You can't use it because the points have not been\r\nallocated.",
+      "text": "Du kannst es nicht verwenden, weil die Punkte nicht\r\n zugewiesen wurden."
+    },
+    {
+      "key": "ana_craftskillreset_ng_craft",
+      "read_index": "435",
+      "tag_source": "source_en",
+      "source_jp": "クラフト中なので使用できません",
+      "source_en": "Not available as it is being crafted.",
+      "text": "Nicht verfügbar, da es hergestellt wird."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

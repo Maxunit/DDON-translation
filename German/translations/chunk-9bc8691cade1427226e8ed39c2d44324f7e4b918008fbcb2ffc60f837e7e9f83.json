@@ -1,0 +1,144 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\system_log.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "syslog_status_die_someone",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>が死亡状態になりました",
+      "source_en": "<NAME TARGET> has died.",
+      "text": "<NAME TARGET> ist gestorben."
+    },
+    {
+      "key": "syslog_status_down_me",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PLAYER>が行動不能になりました",
+      "source_en": "<NAME PLAYER>\r\nhas been incapacitated.",
+      "text": "<NAME PLAYER>\r\nwurde handlungsunfähig."
+    },
+    {
+      "key": "syslog_status_down_pawn",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>が行動不能になりました",
+      "source_en": "<NAME PAWN> has been incapacitated.",
+      "text": "<NAME PAWN> ist handlungsunfähig geworden."
+    },
+    {
+      "key": "syslog_status_down_someone",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>が行動不能になりました",
+      "source_en": "<NAME TARGET>\r\nhas been incapacitated.",
+      "text": "<NAME TARGET>\r\nwurde handlungsunfähig."
+    },
+    {
+      "key": "syslog_status_resurrection_me",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PLAYER>が復活しました",
+      "source_en": "<NAME PLAYER>\r\nhas been resurrected.",
+      "text": "<NAME PLAYER>\r\n ist auferstanden."
+    },
+    {
+      "key": "syslog_status_resurrection_pawn",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>が復活しました",
+      "source_en": "<NAME PAWN> has been resurrected.",
+      "text": "<NAME PAWN> ist auferstanden."
+    },
+    {
+      "key": "syslog_status_resurrection_someone",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>が復活しました",
+      "source_en": "<NAME TARGET>\r\nhas been resurrected.",
+      "text": "<NAME TARGET>\r\n ist auferstanden."
+    },
+    {
+      "key": "syslog_success_input_eventcode",
+      "read_index": "191",
+      "tag_source": "source_en",
+      "source_jp": "イベントコードの入力に成功しました",
+      "source_en": "Event code input was successful.",
+      "text": "Die Eingabe des Ereigniscodes war erfolgreich."
+    },
+    {
+      "key": "syslog_tail_off",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "追従オートランが解除されました",
+      "source_en": "Autorun has been canceled.",
+      "text": "Autorun wurde abgesagt."
+    },
+    {
+      "key": "syslog_tail_on",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>に追従オートランしました",
+      "source_en": "You began following \r\n<NAME TARGET> with autorun.",
+      "text": "Du hast angefangen,\r\n<NAME TARGET> mit Autorun zu folgen."
+    },
+    {
+      "key": "syslog_tp_get",
+      "read_index": "287",
+      "tag_source": "source_en",
+      "source_jp": "<VAL TP>を入手しました",
+      "source_en": "<VAL TP> obtained.",
+      "text": "<VAL TP> erhalten."
+    },
+    {
+      "key": "syslog_tp_lost",
+      "read_index": "288",
+      "tag_source": "source_en",
+      "source_jp": "<VAL TP>を消費しました",
+      "source_en": "<VAL TP> spent.",
+      "text": "<VAL TP> ausgegeben."
+    },
+    {
+      "key": "syslog_tp_possession_max",
+      "read_index": "290",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN TP>が最大に達したため、これ以上獲得できません",
+      "source_en": "You have reached the maximum \r\namount of <UNTN TP>s\r\nand cannot earn any more.",
+      "text": "Du hast den maximalen\r\n Betrag von <UNTN TP>s\r\n erreicht und können nicht mehr verdienen."
+    },
+    {
+      "key": "syslog_tp_possession_max_notice",
+      "read_index": "289",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN TP>の所持量が最大に近づいています\r\n( <VAL> / <VAL TP> )",
+      "source_en": "You are almost maxed out on\r\n<UNTN TP>s. (<VAL>/<VAL TP>)",
+      "text": "Du bist fast ausgereizt auf\r\n<UNTN TP>s. (<VAL>/<VAL TP>)"
+    },
+    {
+      "key": "syslog_wm_limited_condition_open",
+      "read_index": "297",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>が期間限定で開催決定！\r\n詳しくは、レスタニアニュースをご覧ください",
+      "source_en": "<VAL> will be held for a limited time!\r\nFor details, please see the Lestania News",
+      "text": "<VAL> wird für eine begrenzte Zeit stattfinden!\r\nFür Details siehe Lestania-Nachrichten"
+    },
+    {
+      "key": "syslog_wm_statement_gauge_0_defeat",
+      "read_index": "283",
+      "tag_source": "source_en",
+      "source_jp": "戦況が最悪化し、敗戦状態となりました",
+      "source_en": "The war situation has deteriorated, and we are in\r\na state of defeat.",
+      "text": "Die Kriegssituation hat sich verschlechtert, und wir sind in\r\nEin Zustand der Niederlage."
+    },
+    {
+      "key": "system_chat_renzoku",
+      "read_index": "141",
+      "tag_source": "source_en",
+      "source_jp": "同一のテキストは連続して発言できません",
+      "source_en": "Please wait a moment before speaking again.",
+      "text": "Warte einen Moment, bevor du erneut sprichst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

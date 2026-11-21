@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\pick_res.gmd",
+  "arc_path": "\\ui\\uGUIPick01.arc",
+  "entries": [
+    {
+      "key": "pick_item_allget",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "すべて受け取る",
+      "source_en": "Take All",
+      "text": "Alles entgegennehmen"
+    },
+    {
+      "key": "pick_item_btn_000",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "受け取る",
+      "source_en": "Take",
+      "text": "Entgegennehmen"
+    },
+    {
+      "key": "pick_item_btn_001",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "直接装備する",
+      "source_en": "Equip Immediately",
+      "text": "Sofort anlegen"
+    },
+    {
+      "key": "pick_item_err_000",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "装備できません",
+      "source_en": "Cannot be equipped.",
+      "text": "Kann nicht angelegt werden."
+    },
+    {
+      "key": "pick_item_err_001",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "このアイテムは個別に受け取ることができません\r\n【すべて受け取る】を押してください",
+      "source_en": "Cannot receive items individually\r\nPlease select \"Take All\"",
+      "text": "Diese Gegenstände können nur gemeinsam\r\nentgegengenommen werden. Wähle „Alles entgegennehmen“."
+    },
+    {
+      "key": "pick_item_err_002",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "必要アイテム（<NAME ITEM>×<VAL>）を\r\nアイテムバッグに所持していないため、受け取れません",
+      "source_en": "You cannot receive this item because\r\ndo not have the required item in your inventory.\r\nNeeds (<NAME ITEM>×<VAL>)",
+      "text": "Der benötigte Gegenstand fehlt\r\nin deiner Gegenstandstasche.\r\nBenötigt: <NAME ITEM> × <VAL>"
+    },
+    {
+      "key": "pick_item_get",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "受け取る",
+      "source_en": "Take",
+      "text": "Entgegennehmen"
+    },
+    {
+      "key": "pick_item_limit",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "所持数が上限に達しました",
+      "source_en": "You cannot hold more of this item.",
+      "text": "Du hast die Höchstmenge erreicht."
+    },
+    {
+      "key": "pick_item_limit_max",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "アイテムバッグがいっぱいのため、受け取ることができません",
+      "source_en": "Your item bag is full.",
+      "text": "Die Gegenstandstasche ist voll."
+    },
+    {
+      "key": "pick_item_noselect",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "使用しない",
+      "source_en": "Nothing",
+      "text": "Nicht verwenden"
+    },
+    {
+      "key": "pick_item_not_get",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "アイテムバッグがいっぱいのため、すべてを受け取ることができません",
+      "source_en": "Your item bag is full and you cannot receive all\r\nthe items.",
+      "text": "Die Gegenstandstasche ist voll.\r\nDu kannst nicht alles entgegennehmen."
+    },
+    {
+      "key": "pick_item_select",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "使用するアイテムを選択",
+      "source_en": "Select which item to use",
+      "text": "Gegenstand auswählen"
+    },
+    {
+      "key": "pick_recieve_en",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Receive",
+      "source_en": "Take",
+      "text": "Entgegennehmen"
+    },
+    {
+      "key": "pick_recive_jp",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "受け取り",
+      "source_en": " ",
+      "text": "Entgegennehmen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\retry.gmd",
+  "arc_path": "\\ui\\uGUIRetry.arc",
+  "entries": [
+    {
+      "key": "RETRY_MSG_DIALOG_GOLD_STONE",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<COL FFFF00>黄金石</COL>を<VAL>個使用して復活します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to resurrect with\r\n<VAL> <COL FFFF00>Golden Gemstone</COL>?",
+      "text": "Mit\r\n<VAL> <COL FFFF00>Goldsteinen</COL> wiederbeleben?"
+    },
+    {
+      "key": "RETRY_MSG_DIALOG_GPSHOP_OPEN",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "黄金石が不足しているのでショップ画面を開きます",
+      "source_en": "The shop screen will open because you are \r\nmissing Golden Gemstones.",
+      "text": "Der Laden wird geöffnet, weil\r\nGoldsteine fehlen."
+    },
+    {
+      "key": "RETRY_MSG_DIALOG_PENALTY",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "から再開します\r\nよろしいですか？\r\n<COL AA1414>状態異常【弱化】が発生します</COL>",
+      "source_en": " Are you sure you want to \r\nrevive at the last camp?\r\n<COL AA1414>You will be afflicted with the \r\nWeakness debilitation.</COL>",
+      "text": "Am letzten Stützpunkt\r\nwiederbeleben?\r\n<COL AA1414>Du erleidest den Zustand\r\n„Schwäche“.</COL>"
+    },
+    {
+      "key": "RETRY_MSG_DIALOG_PENALTY_BBI",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "に戻りますか？\r\n状態異常【弱化】が発生しませんが\r\n<COL AA1414>アイテムバッグの中身がすべて消失します</COL>",
+      "source_en": "\r\nDo you wish to return there?\r\nThe [Weakness] condition will not occur,\r\nbut <COL AA1414>all contents of the item bag will be lost</COL>.",
+      "text": "\r\nDorthin zurückkehren?\r\nDu erleidest keine Schwäche,\r\naber <COL AA1414>deine Gegenstandstasche wird geleert</COL>."
+    },
+    {
+      "key": "RETRY_MSG_DIALOG_RIM",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "<COL FFFF00>リム</COL>を<VAL RIM>消費して救出します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to resurrect by using\r\n<VAL RIM> <COL FFFF00>Rift Crystals</COL>?",
+      "text": "Wiederbeleben mit\r\n<VAL RIM> <COL FFFF00>Riftkristallen</COL>?"
+    },
+    {
+      "key": "RETRY_MSG_DIALOG_STOCK",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<COL FFFF00>復活力</COL>を使用して復活します\r\nよろしいですか？",
+      "source_en": "Are you sure you want to resurrect using\r\na <COL FFFF00>Revive?</COL>",
+      "text": "Wiederbeleben mit\r\n<COL FFFF00>Wiederbelebungskraft</COL>?"
+    },
+    {
+      "key": "RETRY_MSG_GOLD_STONE_EXP",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "黄金石を<VAL>個使用することで、体力を全快し\r\n付与効果【強化】を得て復活します\r\n(黄金石が足りない場合はショップ画面を開きます)",
+      "source_en": "Use <VAL> Golden Gemstone and completely recover\r\nyour strength.\r\nYou will also receive an Invulnerability effect.\r\n(You can open the shop screen if you do not have\r\nenough Golden Gemstones)",
+      "text": "Für <VAL> Goldsteine kehrst du mit voller\r\nLebenskraft zurück.\r\nZusätzlich erhältst du „Verstärkung“.\r\n(Fehlen Goldsteine, kannst du\r\nden Laden öffnen.)"
+    },
+    {
+      "key": "RETRY_MSG_NEAR_OUTPOST",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "直前の拠点",
+      "source_en": "Last Camp",
+      "text": "Letzter Stützpunkt"
+    },
+    {
+      "key": "RETRY_MSG_PENALTY_EXP",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "最後に立ち寄った拠点から再開します\r\n<COL AA1414>状態異常【弱化】が発生します</COL>",
+      "source_en": " Revive at the last camp.\r\n<COL AA1414>You will be afflicted with the\r\nWeakness debilitation.</COL>",
+      "text": "Du kehrst zum letzten Stützpunkt zurück.\r\n<COL AA1414>Du erleidest den Zustand\r\n„Schwäche“.</COL>"
+    },
+    {
+      "key": "RETRY_MSG_PENALTY_EXP_BBI",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "状態異常【弱化】が発生しませんが\r\n<COL AA1414>アイテムバッグの中身がすべて消失します</COL>",
+      "source_en": "The [Weakness] condition will not occur,\r\nbut <COL AA1414>all contents of the item bag will be lost</COL>.",
+      "text": "Du erleidest keine Schwäche,\r\naber <COL AA1414>deine Gegenstandstasche wird geleert</COL>."
+    },
+    {
+      "key": "RETRY_MSG_REVIVE_MENU_RIM",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "リムを使用して復活",
+      "source_en": "Revive with Rift Crystals",
+      "text": "Mit Riftkristallen wiederbeleben"
+    },
+    {
+      "key": "RETRY_MSG_REVIVE_MENU_TICKET",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "黄金石を<VAL>個使用して復活",
+      "source_en": "Resurrect using <VAL> Golden Gemstone",
+      "text": "Mit <VAL> Goldsteinen wiederbeleben"
+    },
+    {
+      "key": "RETRY_MSG_SELECT_ANNOUNCE",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "復活方法を選択してください",
+      "source_en": "Please select a revival method.",
+      "text": "Wiederbelebungsart auswählen"
+    },
+    {
+      "key": "RETRY_MSG_STOCK_EXP",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "復活力を使用することで、体力を全快して復活します",
+      "source_en": "Use a Revive and recover full health.",
+      "text": "Mit Wiederbelebungskraft kehrst du mit voller Lebenskraft zurück."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

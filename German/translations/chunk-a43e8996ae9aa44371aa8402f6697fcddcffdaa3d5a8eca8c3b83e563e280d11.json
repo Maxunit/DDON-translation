@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "578",
+      "tag_source": "source_en",
+      "source_jp": "眼輝石",
+      "source_en": "Eye Gem",
+      "text": "Augenjuwel"
+    },
+    {
+      "key": "",
+      "read_index": "579",
+      "tag_source": "source_en",
+      "source_jp": "虹色眼輝石",
+      "source_en": "Rainbow Eye Gem",
+      "text": "Regenbogen-Augenjuwel"
+    },
+    {
+      "key": "",
+      "read_index": "580",
+      "tag_source": "source_en",
+      "source_jp": "エイプの皮",
+      "source_en": "Ape Pelt",
+      "text": "Affenhaut"
+    },
+    {
+      "key": "",
+      "read_index": "581",
+      "tag_source": "source_en",
+      "source_jp": "大猿の厚皮",
+      "source_en": "Large Simian Thick Pelt",
+      "text": "Dicke Riesenaffenhaut"
+    },
+    {
+      "key": "",
+      "read_index": "582",
+      "tag_source": "source_en",
+      "source_jp": "ブロブの溶肉",
+      "source_en": "Blob Flesh",
+      "text": "Zerflossenes Blobfleisch"
+    },
+    {
+      "key": "",
+      "read_index": "584",
+      "tag_source": "source_en",
+      "source_jp": "リザードの尾",
+      "source_en": "Saurian Tail",
+      "text": "Saurierschwanz"
+    },
+    {
+      "key": "",
+      "read_index": "585",
+      "tag_source": "source_en",
+      "source_jp": "リザードの毒腺",
+      "source_en": "Saurian Gland",
+      "text": "Sauriergiftdrüse"
+    },
+    {
+      "key": "",
+      "read_index": "586",
+      "tag_source": "source_en",
+      "source_jp": "リザードの上質な尾",
+      "source_en": "Superior Saurian Tail",
+      "text": "Feiner Saurierschwanz"
+    },
+    {
+      "key": "",
+      "read_index": "587",
+      "tag_source": "source_en",
+      "source_jp": "白獅子の毛皮",
+      "source_en": "White Lion Pelt",
+      "text": "Weißlöwenfell"
+    },
+    {
+      "key": "",
+      "read_index": "588",
+      "tag_source": "source_en",
+      "source_jp": "巨大な眼球",
+      "source_en": "Giant Eyeball",
+      "text": "Riesiger Augapfel"
+    },
+    {
+      "key": "",
+      "read_index": "589",
+      "tag_source": "source_en",
+      "source_jp": "不吉な死肉",
+      "source_en": "Sinister Carrion",
+      "text": "Unheilvolles Aas"
+    },
+    {
+      "key": "",
+      "read_index": "590",
+      "tag_source": "source_en",
+      "source_jp": "黒鷲の濡れ皮",
+      "source_en": "Moist Black Leather",
+      "text": "Feuchte Schwarzadlerhaut"
+    },
+    {
+      "key": "",
+      "read_index": "591",
+      "tag_source": "source_en",
+      "source_jp": "混成金糸",
+      "source_en": "Gold Thread",
+      "text": "Goldzwirn"
+    },
+    {
+      "key": "",
+      "read_index": "592",
+      "tag_source": "source_en",
+      "source_jp": "謎の臓器",
+      "source_en": "Mystery Organs",
+      "text": "Rätselhafte Organe"
+    },
+    {
+      "key": "",
+      "read_index": "593",
+      "tag_source": "source_en",
+      "source_jp": "コカトリスの毒腺",
+      "source_en": "Cockatrice Poison Gland",
+      "text": "Kokatrix-Giftdrüse"
+    },
+    {
+      "key": "",
+      "read_index": "594",
+      "tag_source": "source_en",
+      "source_jp": "ナイトメアの声帯",
+      "source_en": "Nightmare's Vocal Cords",
+      "text": "Albtraum-Stimmbänder"
+    },
+    {
+      "key": "",
+      "read_index": "595",
+      "tag_source": "source_en",
+      "source_jp": "スフィンクスの爪",
+      "source_en": "Sphinx Claw",
+      "text": "Sphinxklaue"
+    },
+    {
+      "key": "",
+      "read_index": "596",
+      "tag_source": "source_en",
+      "source_jp": "禍々しい角",
+      "source_en": "Sinister Horn",
+      "text": "Unheilvolles Horn"
+    },
+    {
+      "key": "",
+      "read_index": "597",
+      "tag_source": "source_en",
+      "source_jp": "コロッサスの角",
+      "source_en": "Colossus Horn",
+      "text": "Kolossushorn"
+    },
+    {
+      "key": "",
+      "read_index": "598",
+      "tag_source": "source_en",
+      "source_jp": "小さな角",
+      "source_en": "Small Horn",
+      "text": "Kleines Horn"
+    },
+    {
+      "key": "",
+      "read_index": "599",
+      "tag_source": "source_en",
+      "source_jp": "屍食鬼の角",
+      "source_en": "Corpse-Eater's Horn",
+      "text": "Leichenfresserhorn"
+    },
+    {
+      "key": "",
+      "read_index": "600",
+      "tag_source": "source_en",
+      "source_jp": "ゴブリンの角",
+      "source_en": "Goblin Horn",
+      "text": "Goblinhorn"
+    },
+    {
+      "key": "",
+      "read_index": "601",
+      "tag_source": "source_en",
+      "source_jp": "ひび割れた黒い角",
+      "source_en": "Cracked Black Horn",
+      "text": "Rissiges schwarzes Horn"
+    },
+    {
+      "key": "",
+      "read_index": "602",
+      "tag_source": "source_en",
+      "source_jp": "竜角",
+      "source_en": "Dragon Horn",
+      "text": "Drachenhorn"
+    },
+    {
+      "key": "",
+      "read_index": "603",
+      "tag_source": "source_en",
+      "source_jp": "アングルスホーン",
+      "source_en": "Angules Horn",
+      "text": "Angules-Horn"
+    },
+    {
+      "key": "",
+      "read_index": "604",
+      "tag_source": "source_en",
+      "source_jp": "グリフィンのクチバシ",
+      "source_en": "Griffin Beak",
+      "text": "Greifenschnabel"
+    },
+    {
+      "key": "",
+      "read_index": "605",
+      "tag_source": "source_en",
+      "source_jp": "尖った爪",
+      "source_en": "Sharp Claw",
+      "text": "Scharfe Klaue"
+    },
+    {
+      "key": "",
+      "read_index": "606",
+      "tag_source": "source_en",
+      "source_jp": "オークの牙",
+      "source_en": "Orc Tusk",
+      "text": "Orkzahn"
+    },
+    {
+      "key": "",
+      "read_index": "608",
+      "tag_source": "source_en",
+      "source_jp": "サイクロプスの牙",
+      "source_en": "Cyclops Tusk",
+      "text": "Zyklopenhauer"
+    },
+    {
+      "key": "",
+      "read_index": "609",
+      "tag_source": "source_en",
+      "source_jp": "竜牙",
+      "source_en": "Dragon Fang",
+      "text": "Drachenzahn"
+    },
+    {
+      "key": "",
+      "read_index": "610",
+      "tag_source": "source_en",
+      "source_jp": "古びたグリモア",
+      "source_en": "Ancient Grimoire",
+      "text": "Altes Zauberbuch"
+    },
+    {
+      "key": "",
+      "read_index": "611",
+      "tag_source": "source_en",
+      "source_jp": "水竜の鋭い牙",
+      "source_en": "Water Dragon Fang",
+      "text": "Scharfer Wasserdrachenzahn"
+    },
+    {
+      "key": "",
+      "read_index": "612",
+      "tag_source": "source_en",
+      "source_jp": "鬼人の爪",
+      "source_en": "Ogre Claw",
+      "text": "Ogerklaue"
+    },
+    {
+      "key": "",
+      "read_index": "615",
+      "tag_source": "source_en",
+      "source_jp": "黒ドクロ",
+      "source_en": "Black Skull",
+      "text": "Schwarzer Schädel"
+    },
+    {
+      "key": "",
+      "read_index": "616",
+      "tag_source": "source_en",
+      "source_jp": "太い硬骨",
+      "source_en": "Thick Bone",
+      "text": "Dicker Knochen"
+    },
+    {
+      "key": "",
+      "read_index": "617",
+      "tag_source": "source_en",
+      "source_jp": "巨大な硬骨",
+      "source_en": "Giant Bone",
+      "text": "Riesenknochen"
+    },
+    {
+      "key": "",
+      "read_index": "618",
+      "tag_source": "source_en",
+      "source_jp": "カースドスカル",
+      "source_en": "Cursed Skull",
+      "text": "Verfluchter Schädel"
+    },
+    {
+      "key": "",
+      "read_index": "620",
+      "tag_source": "source_en",
+      "source_jp": "しなやかな獣毛",
+      "source_en": "Supple Fur",
+      "text": "Geschmeidiges Tierfell"
+    },
+    {
+      "key": "",
+      "read_index": "621",
+      "tag_source": "source_en",
+      "source_jp": "エイプの毛",
+      "source_en": "Ape Fur",
+      "text": "Affenfell"
+    },
+    {
+      "key": "",
+      "read_index": "622",
+      "tag_source": "source_en",
+      "source_jp": "鬼人の毛",
+      "source_en": "Ogre Fur",
+      "text": "Ogerhaar"
+    },
+    {
+      "key": "",
+      "read_index": "623",
+      "tag_source": "source_en",
+      "source_jp": "鬼人の剛毛",
+      "source_en": "Necrophagous Bristle",
+      "text": "Leichenfresserborste"
+    },
+    {
+      "key": "",
+      "read_index": "624",
+      "tag_source": "source_en",
+      "source_jp": "魔獣の毛",
+      "source_en": "Beast Fur",
+      "text": "Bestienfell"
+    },
+    {
+      "key": "",
+      "read_index": "625",
+      "tag_source": "source_en",
+      "source_jp": "魔獣のタテガミ",
+      "source_en": "Beast's Mane",
+      "text": "Bestienmähne"
+    },
+    {
+      "key": "",
+      "read_index": "626",
+      "tag_source": "source_en",
+      "source_jp": "純白のタテガミ",
+      "source_en": "Pure White Mane",
+      "text": "Reinweiße Mähne"
+    },
+    {
+      "key": "",
+      "read_index": "627",
+      "tag_source": "source_en",
+      "source_jp": "変質した獣毛",
+      "source_en": "Transmuted Fur",
+      "text": "Verändertes Tierfell"
+    },
+    {
+      "key": "",
+      "read_index": "628",
+      "tag_source": "source_en",
+      "source_jp": "銀色の剛毛",
+      "source_en": "Silver Bristle",
+      "text": "Silberborste"
+    },
+    {
+      "key": "",
+      "read_index": "629",
+      "tag_source": "source_en",
+      "source_jp": "ハーピーの風切り羽根",
+      "source_en": "Harpy Flight Feather",
+      "text": "Harpien-Schwungfeder"
+    },
+    {
+      "key": "",
+      "read_index": "630",
+      "tag_source": "source_en",
+      "source_jp": "巨人のイボ角",
+      "source_en": "Giant's Horn",
+      "text": "Warziges Riesenhorn"
+    },
+    {
+      "key": "",
+      "read_index": "631",
+      "tag_source": "source_en",
+      "source_jp": "キメラのヤギ角",
+      "source_en": "Goat Horn",
+      "text": "Chimären-Ziegenhorn"
+    },
+    {
+      "key": "",
+      "read_index": "632",
+      "tag_source": "source_en",
+      "source_jp": "大きな牙",
+      "source_en": "Large Fang",
+      "text": "Großer Fangzahn"
+    },
+    {
+      "key": "",
+      "read_index": "633",
+      "tag_source": "source_en",
+      "source_jp": "いびつな牙",
+      "source_en": "Crooked Fang",
+      "text": "Krummer Fangzahn"
+    },
+    {
+      "key": "",
+      "read_index": "634",
+      "tag_source": "source_en",
+      "source_jp": "小さな牙",
+      "source_en": "Small Fang",
+      "text": "Kleiner Fangzahn"
+    },
+    {
+      "key": "",
+      "read_index": "635",
+      "tag_source": "source_en",
+      "source_jp": "ベヘモットファング",
+      "source_en": "Behemoth Fang",
+      "text": "Behemothzahn"
+    },
+    {
+      "key": "",
+      "read_index": "636",
+      "tag_source": "source_en",
+      "source_jp": "影まといの爪",
+      "source_en": "Shadowy Claw",
+      "text": "Schattenklaue"
+    },
+    {
+      "key": "",
+      "read_index": "637",
+      "tag_source": "source_en",
+      "source_jp": "魔獣の爪",
+      "source_en": "Beast Claw",
+      "text": "Bestienklaue"
+    },
+    {
+      "key": "",
+      "read_index": "638",
+      "tag_source": "source_en",
+      "source_jp": "霊竜の爪",
+      "source_en": "Spectral Dragon Claw",
+      "text": "Geisterdrachenklaue"
+    },
+    {
+      "key": "",
+      "read_index": "639",
+      "tag_source": "source_en",
+      "source_jp": "上質の白骨",
+      "source_en": "Fine Bleached Bone",
+      "text": "Feiner gebleichter Knochen"
+    },
+    {
+      "key": "",
+      "read_index": "640",
+      "tag_source": "source_en",
+      "source_jp": "魔力を帯びた骨",
+      "source_en": "Magick-Tinged Bone",
+      "text": "Magiedurchtränkter Knochen"
+    },
+    {
+      "key": "",
+      "read_index": "641",
+      "tag_source": "source_en",
+      "source_jp": "竜の大骨塊",
+      "source_en": "Huge Dragon Bone Lump",
+      "text": "Massiver Drachenknochen"
+    },
+    {
+      "key": "",
+      "read_index": "642",
+      "tag_source": "source_en",
+      "source_jp": "変異した獣骨塊",
+      "source_en": "Mutated Bone Lump",
+      "text": "Mutierter Knochenklumpen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

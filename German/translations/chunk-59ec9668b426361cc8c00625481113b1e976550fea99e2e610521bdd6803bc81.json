@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "CRAFT_NG_CRAFTRANK",
+      "read_index": "325",
+      "tag_source": "source_en",
+      "source_jp": "クラフトレベルを満たしていません",
+      "source_en": "That pawn's craft level is not high enough.",
+      "text": "Das Handwerksniveau dieses Vasallen ist nicht hoch genug."
+    },
+    {
+      "key": "CRAFT_NG_NON_CRAFTRANK_PAWN",
+      "read_index": "328",
+      "tag_source": "source_en",
+      "source_jp": "クラフトレベルを満たしているポーンがいません",
+      "source_en": "There are no pawns that have a high enough craft\r\nlevel.",
+      "text": "Es gibt keine Vasallen, die ein ausreichend hohes Handwerk haben\r\nHöhe."
+    },
+    {
+      "key": "CRAFT_NG_NON_MONEY",
+      "read_index": "329",
+      "tag_source": "source_en",
+      "source_jp": "所持金が足りません",
+      "source_en": "You do not have enough gold.",
+      "text": "Du hast nicht genug Gold."
+    },
+    {
+      "key": "CRAFT_NG_NON_NEED_ITEM",
+      "read_index": "327",
+      "tag_source": "source_en",
+      "source_jp": "素材が足りません",
+      "source_en": "Insufficient materials",
+      "text": "Unzureichende Materialien"
+    },
+    {
+      "key": "CRAFT_NG_NON_POSSIBLE_PAWN",
+      "read_index": "326",
+      "tag_source": "source_en",
+      "source_jp": "クラフト可能なポーンがいません",
+      "source_en": "There are no pawns currently available to craft.",
+      "text": "Es gibt derzeit keine Vasallen, die zum Basteln zur Verfügung stehen."
+    },
+    {
+      "key": "CRAFT_NG_SELECTED_PAWN",
+      "read_index": "324",
+      "tag_source": "source_en",
+      "source_jp": "クラフト選択済のポーンです",
+      "source_en": "That pawn has already been selected.",
+      "text": "Dieser Vasall wurde bereits ausgewählt."
+    },
+    {
+      "key": "CRAFT_NG_USED_PAWN",
+      "read_index": "323",
+      "tag_source": "source_en",
+      "source_jp": "クラフト中のポーンです",
+      "source_en": "That pawn is currently crafting.",
+      "text": "Dieser Vasall arbeitet derzeit."
+    },
+    {
+      "key": "OS_annnounce_for_available_immediately",
+      "read_index": "515",
+      "tag_source": "source_en",
+      "source_jp": "購入した商品が利用可能になりました",
+      "source_en": "The purchased item is now available for use",
+      "text": "Der gekaufte Artikel ist jetzt zur Verwendung verfügbar"
+    },
+    {
+      "key": "OS_annnounce_for_beautyshop",
+      "read_index": "417",
+      "tag_source": "source_en",
+      "source_jp": "ポーンボイスの設定は美容院で行えます",
+      "source_en": "You can set up the Pawn Voices at the Beauty\r\nSalon.",
+      "text": "Du kannst die Vasall Voices im Beauty\r\nSalon einrichten."
+    },
+    {
+      "key": "OS_annnounce_for_fixed_phrase",
+      "read_index": "507",
+      "tag_source": "source_en",
+      "source_jp": "対象のボイス定型文が使用可能になりました",
+      "source_en": "Available phrases of the target voice have been\r\nenabled",
+      "text": "Verfügbare Phrasen der Zielstimme wurden\r\n aktiviert"
+    },
+    {
+      "key": "OS_annnounce_for_itempost",
+      "read_index": "415",
+      "tag_source": "source_en",
+      "source_jp": "商品の受け取りは\r\nメールをご確認ください",
+      "source_en": "Please check your mail to receive your goods!",
+      "text": "Bitte überprüfe deine Post, um deine Waren zu erhalten!"
+    },
+    {
+      "key": "OS_annnounce_for_rimstone",
+      "read_index": "416",
+      "tag_source": "source_en",
+      "source_jp": "クラフトマスターポーンのご利用は\r\nリムストーンで行えます",
+      "source_en": "Craft Master Pawns are available for Rift\r\nCrystals.",
+      "text": "Craft Master Vasallen sind für Rift\r\nCrystals verfügbar."
+    },
+    {
+      "key": "OS_announce_buy_item",
+      "read_index": "413",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ETC> を購入しました",
+      "source_en": "Purchased \r\n\r\n<NAME ETC>.",
+      "text": "Gekauft\r\n\r\n<NAME ETC>."
+    },
+    {
+      "key": "OS_announce_buygs",
+      "read_index": "414",
+      "tag_source": "source_en",
+      "source_jp": "黄金石 <VAL> 個を購入しました",
+      "source_en": "Purchased <VAL> Golden Gemstones.",
+      "text": "Gekauft <VAL> Goldsteine."
+    },
+    {
+      "key": "ana_APPLY_CLAN_ERR_ALREADY_JOIN",
+      "read_index": "255",
+      "tag_source": "source_en",
+      "source_jp": "すでにクランに所属しています",
+      "source_en": "Arisen is already in a Clan.",
+      "text": "Arisen ist bereits in einem Clan."
+    },
+    {
+      "key": "ana_AUTORUN_ERR_MYSELF",
+      "read_index": "181",
+      "tag_source": "source_en",
+      "source_jp": "自分を対象に追従オートランできません",
+      "source_en": "Cannot use autorun on yourself.",
+      "text": "Kann autorun nicht selbst verwenden."
+    },
+    {
+      "key": "ana_AUTORUN_ERR_NO_PARTY",
+      "read_index": "182",
+      "tag_source": "source_en",
+      "source_jp": "パーティーメンバー以外に追従オートランできません",
+      "source_en": "Cannot use autorun on non-party members.",
+      "text": "Kann autorun nicht für mitglieder von nicht-parteien verwenden."
+    },
+    {
+      "key": "ana_AUTORUN_ERR_NO_UNIT",
+      "read_index": "183",
+      "tag_source": "source_en",
+      "source_jp": "追従オートラン対象が同エリアにいません",
+      "source_en": "Target is not in the same area for autorun.",
+      "text": "Das Ziel liegt nicht im gleichen Bereich für Autorun."
+    },
+    {
+      "key": "ana_AUTORUN_ERR_PAWN",
+      "read_index": "180",
+      "tag_source": "source_en",
+      "source_jp": "ポーンを対象に追従オートランできません",
+      "source_en": "Cannot use autorun on a pawn.",
+      "text": "Kann Autorun auf einem Vasallen nicht verwenden."
+    },
+    {
+      "key": "ana_CARD_ERR_NOT_ONLINE",
+      "read_index": "254",
+      "tag_source": "source_en",
+      "source_jp": "オフラインです",
+      "source_en": "Offline.",
+      "text": "Offline."
+    },
+    {
+      "key": "ana_CHANGE_CLAN_MASTER_ERR_MYSELF",
+      "read_index": "176",
+      "tag_source": "source_en",
+      "source_jp": "クランマスターに変更できません",
+      "source_en": "Cannot change the Clan Master.",
+      "text": "Kann den Clan-Meister nicht ändern."
+    },
+    {
+      "key": "ana_CHANGE_LEADER_ERR_ALREADY",
+      "read_index": "154",
+      "tag_source": "source_en",
+      "source_jp": "現在のリーダーです",
+      "source_en": "They are already the party leader.",
+      "text": "Das Mitglied leitet die Gruppe bereits."
+    },
+    {
+      "key": "ana_CHANGE_LEADER_ERR_AREA",
+      "read_index": "152",
+      "tag_source": "source_en",
+      "source_jp": "リーダー変更可能エリアに全員が集まっていません",
+      "source_en": "Party leader cannot be changed because all\r\nmembers are not gathered in a valid area.",
+      "text": "Die Gruppenleitung kann erst wechseln, wenn\r\nalle Mitglieder in einem zulässigen Gebiet sind."
+    },
+    {
+      "key": "ana_CHANGE_LEADER_ERR_NOT_PARTY",
+      "read_index": "151",
+      "tag_source": "source_en",
+      "source_jp": "パーティーが組まれていません",
+      "source_en": "You cannot change leader because there is no\r\nparty.",
+      "text": "Du bist in keiner Gruppe.\r\nDie Gruppenleitung kann nicht wechseln."
+    },
+    {
+      "key": "ana_CHANGE_LEADER_ERR_NOT_PL",
+      "read_index": "150",
+      "tag_source": "source_en",
+      "source_jp": "プレイヤーキャラクターではありません",
+      "source_en": "Party leader cannot be changed to a non-player.",
+      "text": "Parteiführer kann nicht zu einem Nicht-Spieler geändert werden."
+    },
+    {
+      "key": "ana_CHANGE_LEADER_ERR_PERMISSION",
+      "read_index": "153",
+      "tag_source": "source_en",
+      "source_jp": "リーダーかリーダー不在でなければ選べません",
+      "source_en": "You do not have permission to change the party\r\nleader.",
+      "text": "Du hast keine Erlaubnis, die Gruppe zu wechseln\r\nFührer."
+    },
+    {
+      "key": "ana_CLAN_ERR_INTERVAL",
+      "read_index": "443",
+      "tag_source": "source_en",
+      "source_jp": "クランインターバル期間中のためできません",
+      "source_en": "You cannot in the duration of the Clan Interval.",
+      "text": "Du kannst nicht in der Dauer des Clan-Intervalls."
+    },
+    {
+      "key": "ana_CLAN_SCOUT_DIALOG_SCOUT_CANCEL_END",
+      "read_index": "268",
+      "tag_source": "source_en",
+      "source_jp": "スカウトエントリーをキャンセルしました",
+      "source_en": "You have canceled scout entry.",
+      "text": "Du hast den Scout-Eintrag abgesagt."
+    },
+    {
+      "key": "ana_CLAN_SCOUT_DIALOG_SCOUT_CANCEL_READY",
+      "read_index": "267",
+      "tag_source": "source_en",
+      "source_jp": "スカウトエントリーをキャンセルします。\r\nよろしいですか？",
+      "source_en": "You will cancel the scout entry.\r\nAre you sure?",
+      "text": "Du wirst den Pfadfinder-Eintrag abbrechen.\r\nBist du dir sicher?"
+    },
+    {
+      "key": "ana_COMMON_ERR_PAWN",
+      "read_index": "347",
+      "tag_source": "source_en",
+      "source_jp": "ポーンにはできません",
+      "source_en": "You cannot do this to Pawns.",
+      "text": "Das kannst du nicht mit Vasallen machen."
+    },
+    {
+      "key": "ana_DEACTIVATE_ERR_CONTENTS",
+      "read_index": "289",
+      "tag_source": "source_en",
+      "source_jp": "特定のコンテンツ中は解散できません",
+      "source_en": "You cannot disband the party while searching for\r\ncontent.",
+      "text": "Während der Missionssuche kannst du die Gruppe\r\nnicht auflösen."
+    },
+    {
+      "key": "ana_DEACTIVATE_ERR_QUICK_PT",
+      "read_index": "288",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティー中は解散できません",
+      "source_en": "You cannot disband the party while searching for\r\na quick party.",
+      "text": "Während der Schnellsuche kannst du die Gruppe\r\nnicht auflösen."
+    },
+    {
+      "key": "ana_ERR_UNKNOWN",
+      "read_index": "184",
+      "tag_source": "source_en",
+      "source_jp": "不明なエラーが発生しました",
+      "source_en": "An unknown error has occurred.",
+      "text": "Es ist ein unbekannter Fehler aufgetreten."
+    },
+    {
+      "key": "ana_EXPEL_CLAN_ERR_MYSELF",
+      "read_index": "175",
+      "tag_source": "source_en",
+      "source_jp": "自分を除名することはできません",
+      "source_en": "Cannot expel yourself from a clan.",
+      "text": "Du kannst dich nicht aus einem Clan vertreiben."
+    },
+    {
+      "key": "ana_FRIEND_ERR_MYSELF",
+      "read_index": "178",
+      "tag_source": "source_en",
+      "source_jp": "自分にフレンド申請はだせません",
+      "source_en": "Cannot send a friend request to yourself.",
+      "text": "Kann keine freundschaftsanfrage an sich selbst senden."
+    },
+    {
+      "key": "ana_GROUP_CHAT_ERR_ALREDY_MEMBER",
+      "read_index": "172",
+      "tag_source": "source_en",
+      "source_jp": "すでにグループチャットのメンバーです",
+      "source_en": "Already a member of the group chat.",
+      "text": "Bereits ein mitglied des gruppenchats."
+    },
+    {
+      "key": "ana_GROUP_CHAT_ERR_NOT_PLAYER",
+      "read_index": "173",
+      "tag_source": "source_en",
+      "source_jp": "グループチャットに誘える相手ではありません",
+      "source_en": "Cannot invite to group chat because they are not\r\na player.",
+      "text": "Kann nicht zum Gruppenchat einladen, weil sie kein Spieler\r\n sind."
+    },
+    {
+      "key": "ana_GROUP_CHAT_KICK_ERR_MYSELF",
+      "read_index": "174",
+      "tag_source": "source_en",
+      "source_jp": "自分をキックすることはできません",
+      "source_en": "Cannot kick yourself from a group chat.",
+      "text": "Kann dich nicht aus einem gruppenchat werfen."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_ADVENTURE_NUM",
+      "read_index": "158",
+      "tag_source": "source_en",
+      "source_jp": "冒険回数が0です",
+      "source_en": "Adventure count is 0.",
+      "text": "Adventure Count ist 0."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_ALREADY_PAWN",
+      "read_index": "156",
+      "tag_source": "source_en",
+      "source_jp": "すでにパーティーメンバーです",
+      "source_en": "Already a party member.",
+      "text": "Schon ein Parteimitglied."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_ALREADY_PL",
+      "read_index": "162",
+      "tag_source": "source_en",
+      "source_jp": "現在パーティーにいるメンバーです",
+      "source_en": "That player is currently in your party.",
+      "text": "Dieser Spieler ist derzeit in deiner Partei."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_CONTENTS",
+      "read_index": "287",
+      "tag_source": "source_en",
+      "source_jp": "特定のコンテンツ中はパーティーに誘えません",
+      "source_en": "You cannot invite while searching for content.",
+      "text": "Während der Missionssuche kannst du niemanden einladen."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_CRAFT_PAWN",
+      "read_index": "157",
+      "tag_source": "source_en",
+      "source_jp": "クラフト中のポーンです",
+      "source_en": "That pawn is currently crafting.",
+      "text": "Dieser Vasall arbeitet derzeit."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_INVITED",
+      "read_index": "163",
+      "tag_source": "source_en",
+      "source_jp": "要請を受けています",
+      "source_en": "That player has already been invited to party.",
+      "text": "Dieser Spieler wurde bereits zur Gruppe eingeladen."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_LOST_PAWN",
+      "read_index": "155",
+      "tag_source": "source_en",
+      "source_jp": "ロスト中のポーンは呼び出せません",
+      "source_en": "Pawn cannot be summoned because they are lost.",
+      "text": "Vasall kann nicht gerufen werden, weil sie verloren sind."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_MYSELF",
+      "read_index": "164",
+      "tag_source": "source_en",
+      "source_jp": "自分をパーティーに誘うことはできません",
+      "source_en": "You cannot invite yourself to party.",
+      "text": "Du kannst dich nicht zum Feiern einladen."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_NOT_LEADER",
+      "read_index": "160",
+      "tag_source": "source_en",
+      "source_jp": "リーダー以外は誘えません",
+      "source_en": "Only the party leader can invite members.",
+      "text": "Nur der Parteivorsitzende kann Mitglieder einladen."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_NO_MAIN_PAWN",
+      "read_index": "159",
+      "tag_source": "source_en",
+      "source_jp": "先にメインポーンを雇う必要があります",
+      "source_en": "A main pawn must be hired first.",
+      "text": "Ein Hauptvasall muss zuerst gemietet werden."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_PAWN_EXPEDITION",
+      "read_index": "490",
+      "tag_source": "source_en",
+      "source_jp": "遠征中は呼び出せません",
+      "source_en": "Cannot be summoned during Expedition.",
+      "text": "Kann während der Expedition nicht vorgeladen werden."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_PLACE",
+      "read_index": "161",
+      "tag_source": "source_en",
+      "source_jp": "パーティー要請が不可能なエリアです",
+      "source_en": "Party invites are not possible in this area.",
+      "text": "Partyeinladungen sind in diesem Bereich nicht möglich."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_PROGRESS_PAWN",
+      "read_index": "253",
+      "tag_source": "source_en",
+      "source_jp": "まだポーンをパーティーに参加させることができません",
+      "source_en": "You cannot invite a pawn to party yet.",
+      "text": "Du kannst noch keinen Vasallen zur Gruppe einladen."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_PROGRESS_PL",
+      "read_index": "252",
+      "tag_source": "source_en",
+      "source_jp": "まだプレイヤーをパーティーに誘うことができません",
+      "source_en": "You cannot invite players to a party yet.",
+      "text": "Du kannst die Spieler noch nicht zu einer Gruppe einladen."
+    },
+    {
+      "key": "ana_INVITE_PARTY_ERR_QUICK_PT",
+      "read_index": "286",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティー中はパーティーに誘えません",
+      "source_en": "You cannot invite while searching for a quick\r\nparty.",
+      "text": "Du kannst nicht einladen, während du nach einer schnellen\r\n Gruppe suchst."
+    },
+    {
+      "key": "ana_JOIN_PARTY_ERR_UNABLE_READY",
+      "read_index": "165",
+      "tag_source": "source_en",
+      "source_jp": "パーティー準備を完了できません",
+      "source_en": "Party preparation could not be completed.",
+      "text": "Die Parteivorbereitung konnte nicht abgeschlossen werden."
+    },
+    {
+      "key": "ana_KICK_ERR_CONTENTS",
+      "read_index": "285",
+      "tag_source": "source_en",
+      "source_jp": "特定のコンテンツ中はキックできません",
+      "source_en": "You cannot kick in this particular content.",
+      "text": "Du kannst diesen speziellen inhalt nicht betreten."
+    },
+    {
+      "key": "ana_KICK_ERR_EXIST_SUPPORT_PAWN",
+      "read_index": "149",
+      "tag_source": "source_en",
+      "source_jp": "サポートポーンがパーティにいるためできません",
+      "source_en": "You cannot kick because there is a support pawn.",
+      "text": "Du kannst nicht treten, weil es eine Unterstützung Vasall."
+    },
+    {
+      "key": "ana_KICK_ERR_MYSELF",
+      "read_index": "148",
+      "tag_source": "source_en",
+      "source_jp": "自分をキックすることはできません",
+      "source_en": "Cannot kick yourself from a group chat.",
+      "text": "Kann dich nicht aus einem gruppenchat werfen."
+    },
+    {
+      "key": "ana_KICK_ERR_NOT_LEADER",
+      "read_index": "147",
+      "tag_source": "source_en",
+      "source_jp": "リーダー時のみ選択できます",
+      "source_en": "Only the party leader can kick.",
+      "text": "Nur die Gruppenleitung kann Mitglieder entfernen."
+    },
+    {
+      "key": "ana_KICK_ERR_NOT_OWNER_PAWN",
+      "read_index": "145",
+      "tag_source": "source_en",
+      "source_jp": "自分のメインポーンのみキックできます",
+      "source_en": "You can only kick your own main pawn.",
+      "text": "Du kannst nur deinen eigenen Hauptvasallen treten."
+    },
+    {
+      "key": "ana_KICK_ERR_NOT_PARTY",
+      "read_index": "146",
+      "tag_source": "source_en",
+      "source_jp": "パーティーメンバーではありません",
+      "source_en": "That person is not a party member and cannot be\r\nkicked.",
+      "text": "Diese Person ist kein Parteimitglied und kann nicht\r\ngekickt."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

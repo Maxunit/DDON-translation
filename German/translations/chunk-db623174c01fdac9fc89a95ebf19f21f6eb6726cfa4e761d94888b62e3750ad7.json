@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\common_pop_filter.gmd",
+  "arc_path": "\\ui\\uGUIPopFilter.arc",
+  "entries": [
+    {
+      "key": "cpf_bt_cancel",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "キャンセル",
+      "source_en": "Cancel",
+      "text": "Abbrechen"
+    },
+    {
+      "key": "cpf_bt_change",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "変更",
+      "source_en": "Change",
+      "text": "Änderung"
+    },
+    {
+      "key": "cpf_bt_close",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "閉じる",
+      "source_en": "Close",
+      "text": "Schließen"
+    },
+    {
+      "key": "cpf_bt_decision",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "cpf_clan_authority_setting_cap01",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "メンバー加入の権限付与",
+      "source_en": "Inviting",
+      "text": "Einladung"
+    },
+    {
+      "key": "cpf_clan_authority_setting_cap01_01",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "勧誘する権限",
+      "source_en": "Authority to Invite",
+      "text": "Ermächtigung zum Einladen"
+    },
+    {
+      "key": "cpf_clan_authority_setting_cap01_02",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "加入を許可する権限",
+      "source_en": "Authority to Review Applications",
+      "text": "Prüfungsbefugnis für Anträge"
+    },
+    {
+      "key": "cpf_clan_authority_setting_cap01_03",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "直接招待する権限",
+      "source_en": "Authority to Direct Invite",
+      "text": "Behörde zur Direkteinladung"
+    },
+    {
+      "key": "cpf_clan_authority_setting_cap02",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "その他",
+      "source_en": "Other",
+      "text": "andere"
+    },
+    {
+      "key": "cpf_clan_authority_setting_cap02_01",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "クランポイントを使用する権限",
+      "source_en": "Authority to use Clan Points",
+      "text": "Berechtigung zur Nutzung von Clan Points"
+    },
+    {
+      "key": "cpf_clan_authority_setting_cap02_02",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "拠点のレイアウトを使用する権限",
+      "source_en": "Authority to use Hall Layout",
+      "text": "Berechtigung zur Verwendung von Hall Layout"
+    },
+    {
+      "key": "cpf_clan_authority_setting_cap03",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "役職",
+      "source_en": "Position",
+      "text": "Position"
+    },
+    {
+      "key": "cpf_clan_authority_setting_cap03_01",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "サブマスターに任命",
+      "source_en": "Appoint as Clan Officer",
+      "text": "Ernennt als Clan Officer"
+    },
+    {
+      "key": "cpf_clan_authority_setting_comp",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>の権限設定を変更しました",
+      "source_en": "The permission settings for \r\n<NAME TARGET> \r\nhave been changed.",
+      "text": "Die Berechtigungseinstellungen für\r\n<NAME TARGET>\r\n wurden geändert."
+    },
+    {
+      "key": "cpf_clan_authority_setting_err_01",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "変更する権限がありません",
+      "source_en": "You do not have permission to change it.",
+      "text": "Du hast keine Erlaubnis, es zu ändern."
+    },
+    {
+      "key": "cpf_clan_authority_setting_err_02",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "インターバル期間中のため変更できません",
+      "source_en": "Cannot change it because it is during the\r\nInterval Duration.",
+      "text": "Kann es nicht ändern, weil es während der\r\n Intervalldauer ist."
+    },
+    {
+      "key": "cpf_clan_authority_setting_title",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "クランの権限設定",
+      "source_en": "Clan permission settings",
+      "text": "Einstellungen für Clan-Berechtigungen"
+    },
+    {
+      "key": "cpf_craft_filter_cap01",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "ジョブ",
+      "source_en": "Vocation",
+      "text": "Klasse"
+    },
+    {
+      "key": "cpf_craft_filter_cap01_01",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "全て",
+      "source_en": "All",
+      "text": "Alle"
+    },
+    {
+      "key": "cpf_craft_filter_cap02",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "アイテムランク",
+      "source_en": "Item Rank",
+      "text": "Positionsrang"
+    },
+    {
+      "key": "cpf_craft_filter_cap02_01",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "アイテムランクを絞り込む",
+      "source_en": "Filter Item Rank",
+      "text": "Filter Item Rang"
+    },
+    {
+      "key": "cpf_craft_filter_cap03",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "装備レベル",
+      "source_en": "Equipment Level",
+      "text": "Ausrüstungsstand"
+    },
+    {
+      "key": "cpf_craft_filter_cap03_01",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "装備可能レベルを絞り込む",
+      "source_en": "Filter equipment level",
+      "text": "Füllstand des Filters"
+    },
+    {
+      "key": "cpf_craft_filter_cap04",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "性別",
+      "source_en": "Gender",
+      "text": "Geschlecht"
+    },
+    {
+      "key": "cpf_craft_filter_cap04_01",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "指定なし",
+      "source_en": "All",
+      "text": "Alle"
+    },
+    {
+      "key": "cpf_craft_filter_cap04_02",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "男性",
+      "source_en": "M",
+      "text": "M"
+    },
+    {
+      "key": "cpf_craft_filter_cap04_03",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "女性",
+      "source_en": "F",
+      "text": "F"
+    },
+    {
+      "key": "cpf_craft_filter_title",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "フィルタの設定",
+      "source_en": "Filter settings",
+      "text": "Filtereinstellungen"
+    },
+    {
+      "key": "cpf_entry_dra_skill_001",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "ドラゴンアビリティ指定",
+      "source_en": "Dragon Ability Designation",
+      "text": "Dragon Ability-Bezeichnung"
+    },
+    {
+      "key": "cpf_entry_dra_skill_002",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "ドラゴンアビリティを指定する",
+      "source_en": "Specify Dragon Abilities",
+      "text": "Drachenfähigkeiten angeben"
+    },
+    {
+      "key": "cpf_entry_dra_skill_003",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "現在の指定でシミュレート",
+      "source_en": "Simulate according to the current specifications.",
+      "text": "Simuliere nach den aktuellen Spezifikationen."
+    },
+    {
+      "key": "cpf_entry_dra_skill_004",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "プレビュー",
+      "source_en": "Preview",
+      "text": "Vorschau"
+    },
+    {
+      "key": "cpf_entry_dra_skill_005",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "オススメ設定",
+      "source_en": "Recommended Settings",
+      "text": "Empfohlene Einstellungen"
+    },
+    {
+      "key": "cpf_entry_error_no_main_pawn",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "サポートポーンのみで連れて行くことはできません\r\nメインポーンを１人以上、選択してください",
+      "source_en": "You cannot bring only Support Pawns.\r\nPlease select one or more Main Pawns.",
+      "text": "Du kannst nicht nur Support Vasallen mitbringen.\r\nBitte wähle einen oder mehrere Main Vasallen aus."
+    },
+    {
+      "key": "cpf_entry_member_001",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "メンバー1",
+      "source_en": "Member 1",
+      "text": "Mitglied 1"
+    },
+    {
+      "key": "cpf_entry_member_002",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "メンバー2",
+      "source_en": "Member 2",
+      "text": "Mitglied 2"
+    },
+    {
+      "key": "cpf_entry_member_003",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "メンバー3",
+      "source_en": "Member 3",
+      "text": "Mitglied 3"
+    },
+    {
+      "key": "cpf_entry_member_004",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "メンバー4",
+      "source_en": "Member 4",
+      "text": "Mitglied 4"
+    },
+    {
+      "key": "cpf_entry_member_005",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "メンバー5",
+      "source_en": "Member 5",
+      "text": "Mitglied 5"
+    },
+    {
+      "key": "cpf_entry_member_006",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "メンバー6",
+      "source_en": "Member 6",
+      "text": "Mitglied 6"
+    },
+    {
+      "key": "cpf_entry_member_007",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "メンバー7",
+      "source_en": "Member 7",
+      "text": "Mitglied 7"
+    },
+    {
+      "key": "cpf_entry_pawn_status_no_adv",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "冒険回数0",
+      "source_en": "Number of adventures 0",
+      "text": "Anzahl der Abenteuer 0"
+    },
+    {
+      "key": "cpf_entry_solo_attention",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "<COL 787878>メインポーンとサポートポーンを最大<VAL>人まで同行可能です</COL>",
+      "source_en": "<COL 787878>You can be accompanied up by up to a maximum of <VAL> \r\nMain Pawns and Support Pawns.</COL>",
+      "text": "<COL 787878>Du kannst bis zu einem Maximum von <VAL>\r\nHaupt- und Unterstützungs-Vasallen begleitet werden.</COL>"
+    },
+    {
+      "key": "cpf_entry_solo_pawn_01",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "連れていくポーンを選択してください",
+      "source_en": "Please select the Pawn to bring with you",
+      "text": "Wähle die Vasall mitbringen"
+    },
+    {
+      "key": "cpf_entry_solo_pawn_02",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "最大<VAL>人まで同行可能",
+      "source_en": "Up to <VAL> can accompany up to",
+      "text": "Bis zu <VAL> können bis zu"
+    },
+    {
+      "key": "cpf_entry_solo_pawn_03",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "最低<VAL>人同行する必要があります",
+      "source_en": "A minimum of <VAL> people are required to\r\naccompany.",
+      "text": "Ein Minimum von <VAL> Personen sind erforderlich, um\r\n Begleitung."
+    },
+    {
+      "key": "cpf_entry_solo_pawn_04",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "同行条件を満たしていません",
+      "source_en": "You do not meet the qualifications for travel\r\ncompanions.",
+      "text": "Du erfüllst nicht die Qualifikationen für Reisen\r\nBegleiter."
+    },
+    {
+      "key": "cpf_entry_solo_title",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "連れて行くポーンを選択してください",
+      "source_en": "Please select the Pawn to bring with you.",
+      "text": "Wähle die Vasall mit dir zu bringen."
+    },
+    {
+      "key": "cpf_entry_sub_title_main_pawn",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "メインポーン",
+      "source_en": "Main Pawns",
+      "text": "Hauptvasallen"
+    },
+    {
+      "key": "cpf_entry_sub_title_support_pawn",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "サポートポーン",
+      "source_en": "Support Pawns",
+      "text": "Hilfsvasallen"
+    },
+    {
+      "key": "cpf_initialization",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "設定を初期化",
+      "source_en": "Reset Settings",
+      "text": "Einstellungen zurücksetzen"
+    },
+    {
+      "key": "cpf_job_emblem_cap01",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "護錬石を使用することで成功率をあげることができます\r\n1口につき＋1％、最大＋<VAL>％まで上昇できます\r\n（1口あたりの必要数は種類により異なります）",
+      "source_en": "Using certain items boosts success rate.\r\nEach piece gives a certain percentage, \r\nup to +<VAL>% maximum.\r\n(Quantity required depends on type.)",
+      "text": "Die Verwendung bestimmter Artikel erhöht die Erfolgsrate.\r\nJedes Stück gibt einen bestimmten Prozentsatz an,\r\nbis zu +<VAL>% maximal.\r\n(Die erforderliche Menge hängt vom Typ ab.)"
+    },
+    {
+      "key": "cpf_job_emblem_cap02",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "継承成功率：<VAL>％<COL ffdc78>＋<VAL>％</COL>",
+      "source_en": "Augmentation success rate: <VAL>%<COL ffdc78>\r\n+<VAL>%</COL>",
+      "text": "Steigerungserfolgsrate: <VAL>%<COL ffdc78>\r\n+<VAL>%</COL>"
+    },
+    {
+      "key": "cpf_job_emblem_cap03",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "ジュエリー：",
+      "source_en": "Jewelry:",
+      "text": "Schmuck:"
+    },
+    {
+      "key": "cpf_job_emblem_cap04",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>（1口＝<VAL>）",
+      "source_en": "<VAL> (1 unit =<VAL>)",
+      "text": "<VAL> (1 Einheit =<VAL>)"
+    },
+    {
+      "key": "cpf_job_emblem_cap05",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "口",
+      "source_en": "pcs.",
+      "text": "PCS."
+    },
+    {
+      "key": "cpf_job_emblem_cap06",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "使用数：<COL ffdc78><VAL></COL>",
+      "source_en": "Number used: <COL ffdc78> <VAL></COL>",
+      "text": "Verwendete Nummer: <COL ffdc78> <VAL></COL>"
+    },
+    {
+      "key": "cpf_job_emblem_cap07",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "所持数：",
+      "source_en": "Amount: ",
+      "text": "Betrag: "
+    },
+    {
+      "key": "cpf_job_emblem_title",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "継承の設定",
+      "source_en": "Setup augmentation",
+      "text": "Einrichtungserweiterung"
+    },
+    {
+      "key": "cpf_num_and_less",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "以下",
+      "source_en": "or less",
+      "text": "oder weniger"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\clan_edit.gmd",
+  "arc_path": "\\ui\\uGUIClanEdit.arc",
+  "entries": [
+    {
+      "key": "CLAN_EDHIT_MSG_MISSION",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "ミッション",
+      "source_en": "Mission",
+      "text": "Mission"
+    },
+    {
+      "key": "CLAN_EDHIT_MSG_MOTTO",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "モットー",
+      "source_en": "Motto",
+      "text": "Motto"
+    },
+    {
+      "key": "CLAN_EDHIT_MSG_STATUS",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ステータス",
+      "source_en": "Status",
+      "text": "Status"
+    },
+    {
+      "key": "CLAN_EDIT_INDEX_EN",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "Clan Edit",
+      "source_en": "Clan Edit",
+      "text": "Clan bearbeiten"
+    },
+    {
+      "key": "CLAN_EDIT_INDEX_JP",
+      "read_index": "22",
+      "tag_source": "source_jp",
+      "source_jp": "クラン編集",
+      "source_en": " ",
+      "text": "Clan bearbeiten"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

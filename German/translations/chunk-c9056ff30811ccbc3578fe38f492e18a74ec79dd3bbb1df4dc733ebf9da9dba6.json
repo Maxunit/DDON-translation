@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\jmaster_hb.gmd",
+  "arc_path": "\\ui\\uGUIJobMaster.arc",
+  "entries": [
+    {
+      "key": "JMMH_MSG_BEAT_STR",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "<VAL LV>以上の<NAME ENEMY>を倒せ！",
+      "source_en": "Defeat <VAL LV>+ <NAME ENEMY>!",
+      "text": "Besiege <VAL LV>+ <NAME ENEMY>!"
+    },
+    {
+      "key": "JMMH_MSG_ENEMY_LEVEL_STR",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "以上のオーブエネミーを倒せ！",
+      "source_en": "Defeat blood orb enemies!",
+      "text": " oder höher: Blutkugel-Gegner besiegen!"
+    },
+    {
+      "key": "JMMH_MSG_EQUIP_STR",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "を装備しろ！",
+      "source_en": "Equip it!",
+      "text": " anlegen!"
+    },
+    {
+      "key": "JMMH_MSG_JOB_MASTER_STR_JP",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "ジョブマスター",
+      "source_en": " ",
+      "text": "Klassenmeister"
+    },
+    {
+      "key": "JMMH_MSG_LV_STR",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "LV.",
+      "source_en": "LV.",
+      "text": "St."
+    },
+    {
+      "key": "JMMH_MSG_LV_STR_2",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "Level",
+      "source_en": "Level",
+      "text": "Stufe"
+    },
+    {
+      "key": "JMMH_MSG_MASTER_HB_STR_JP",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "ジョブ修練ログ",
+      "source_en": " ",
+      "text": "Trainingsbuch"
+    },
+    {
+      "key": "JMMH_MSG_MAX_STR",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "MAX",
+      "source_en": "MAX",
+      "text": "MAX"
+    },
+    {
+      "key": "JMMH_MSG_NEXT_STR",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "Next",
+      "source_en": "Next",
+      "text": "Weiter"
+    },
+    {
+      "key": "JMMH_MSG_SLASH_STR",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "/",
+      "source_en": "/",
+      "text": "/"
+    },
+    {
+      "key": "JOBEXAM_MSG_ABILITYGET_STR",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ABILITY>の習得を認められた",
+      "source_en": "<NAME ABILITY> is ready to learn",
+      "text": "<NAME ABILITY> kann erlernt werden"
+    },
+    {
+      "key": "JOBEXAM_MSG_DECIDE_STR",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "OK",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "JOBEXAM_MSG_SKILLGET_STR",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "<NAME SKILL>の習得を認められた",
+      "source_en": "<NAME SKILL> is ready to learn",
+      "text": "<NAME SKILL> kann erlernt werden"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

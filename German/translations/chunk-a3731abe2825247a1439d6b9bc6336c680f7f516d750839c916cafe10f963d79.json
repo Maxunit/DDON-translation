@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\online_status.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "ONLINE_STATUS_AFK",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "離席中",
+      "source_en": "AFK",
+      "text": "Abwesend"
+    },
+    {
+      "key": "ONLINE_STATUS_BUSY",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "取り込み中",
+      "source_en": "Busy",
+      "text": "Beschäftigt"
+    },
+    {
+      "key": "ONLINE_STATUS_CONTENTS",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "コンテンツ中",
+      "source_en": "In Content",
+      "text": "In einer Mission"
+    },
+    {
+      "key": "ONLINE_STATUS_ENTRYBOARD",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "エントリーボード登録中",
+      "source_en": "Entry board registration in progress",
+      "text": "Meldet sich am Anmeldebrett an"
+    },
+    {
+      "key": "ONLINE_STATUS_EVENT",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "イベント中",
+      "source_en": "In an Event",
+      "text": "In einem Event"
+    },
+    {
+      "key": "ONLINE_STATUS_OFFLINE",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "オフライン",
+      "source_en": "Offline",
+      "text": "Offline"
+    },
+    {
+      "key": "ONLINE_STATUS_ONLINE",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "オンライン",
+      "source_en": "Online",
+      "text": "Online"
+    },
+    {
+      "key": "ONLINE_STATUS_PTL",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "パーティー参加中（リーダー）",
+      "source_en": "Party (Leader)",
+      "text": "Gruppenleitung"
+    },
+    {
+      "key": "ONLINE_STATUS_PTM",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "パーティー参加中（メンバー）",
+      "source_en": "Party (Member)",
+      "text": "Gruppenmitglied"
+    },
+    {
+      "key": "ONLINE_STATUS_QUICKMATCH",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "クイックマッチ待機中",
+      "source_en": "Waiting for Quick Match",
+      "text": "Wartet auf Schnellsuche"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

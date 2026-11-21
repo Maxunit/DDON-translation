@@ -1,0 +1,432 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\option_res_win.gmd",
+  "arc_path": "\\ui\\uGUIOption.arc",
+  "entries": [
+    {
+      "key": "OPTION_MSG_CAPTION_CLAN",
+      "read_index": "327",
+      "tag_source": "source_en",
+      "source_jp": "クラン",
+      "source_en": "Clan",
+      "text": "Clan"
+    },
+    {
+      "key": "OPTION_MSG_CAPTION_NPC_DISP",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "NPC",
+      "source_en": "NPC",
+      "text": "NPC"
+    },
+    {
+      "key": "OPTION_MSG_CATEGORY_CHAT",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "チャット",
+      "source_en": "Chat",
+      "text": "Chat"
+    },
+    {
+      "key": "OPTION_MSG_CATEGORY_HUD",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "HUD",
+      "source_en": "HUD",
+      "text": "HUD"
+    },
+    {
+      "key": "OPTION_MSG_CHATFILTER_COL",
+      "read_index": "182",
+      "tag_source": "source_en",
+      "source_jp": "色を設定するフィルター",
+      "source_en": "Filter",
+      "text": "Chatfilter für die Farbe"
+    },
+    {
+      "key": "OPTION_MSG_CHATFILTER_SE",
+      "read_index": "184",
+      "tag_source": "source_en",
+      "source_jp": "着信音を設定するフィルター",
+      "source_en": "Filter",
+      "text": "Chatfilter für den Hinweiston"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_RESTANIA",
+      "read_index": "153",
+      "tag_source": "source_en",
+      "source_jp": "レスタニア(GT)",
+      "source_en": "Lestania (GT)",
+      "text": "Lestania (GT)"
+    },
+    {
+      "key": "OPTION_MSG_CHOICE_SERVER",
+      "read_index": "154",
+      "tag_source": "source_en",
+      "source_jp": "サーバー(ST)",
+      "source_en": "Server (ST)",
+      "text": "Server (ST)"
+    },
+    {
+      "key": "OPTION_MSG_CTGR",
+      "read_index": "200",
+      "tag_source": "source_en",
+      "source_jp": "Category",
+      "source_en": "Category",
+      "text": "Kategorie"
+    },
+    {
+      "key": "OPTION_MSG_DFORMAT_JPEG",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "JPEG",
+      "source_en": "JPEG",
+      "text": "JPEG"
+    },
+    {
+      "key": "OPTION_MSG_E_E_REGULAR",
+      "read_index": "308",
+      "tag_source": "source_en",
+      "source_jp": "通常",
+      "source_en": "Normal",
+      "text": "Standard"
+    },
+    {
+      "key": "OPTION_MSG_FRAMERATE_30",
+      "read_index": "225",
+      "tag_source": "source_en",
+      "source_jp": "30fps",
+      "source_en": "30fps",
+      "text": "30 fps"
+    },
+    {
+      "key": "OPTION_MSG_FRAMERATE_60",
+      "read_index": "226",
+      "tag_source": "source_en",
+      "source_jp": "60fps",
+      "source_en": "60fps",
+      "text": "60 fps"
+    },
+    {
+      "key": "OPTION_MSG_G_E_REGULAR",
+      "read_index": "276",
+      "tag_source": "source_en",
+      "source_jp": "通常",
+      "source_en": "×1",
+      "text": "×1"
+    },
+    {
+      "key": "OPTION_MSG_G_E_X2",
+      "read_index": "277",
+      "tag_source": "source_en",
+      "source_jp": "×2",
+      "source_en": "×2",
+      "text": "×2"
+    },
+    {
+      "key": "OPTION_MSG_G_E_X5",
+      "read_index": "278",
+      "tag_source": "source_en",
+      "source_jp": "×5",
+      "source_en": "×5",
+      "text": "×5"
+    },
+    {
+      "key": "OPTION_MSG_G_Q_REGULAR",
+      "read_index": "273",
+      "tag_source": "source_en",
+      "source_jp": "通常",
+      "source_en": "Normal",
+      "text": "Standard"
+    },
+    {
+      "key": "OPTION_MSG_H_E_30M",
+      "read_index": "302",
+      "tag_source": "source_en",
+      "source_jp": "30m",
+      "source_en": "30m",
+      "text": "30 m"
+    },
+    {
+      "key": "OPTION_MSG_H_E_60M",
+      "read_index": "303",
+      "tag_source": "source_en",
+      "source_jp": "60m",
+      "source_en": "60m",
+      "text": "60 m"
+    },
+    {
+      "key": "OPTION_MSG_H_E_100",
+      "read_index": "304",
+      "tag_source": "source_en",
+      "source_jp": "100m",
+      "source_en": "100m",
+      "text": "100 m"
+    },
+    {
+      "key": "OPTION_MSG_H_L_10",
+      "read_index": "297",
+      "tag_source": "source_en",
+      "source_jp": "10人",
+      "source_en": "10",
+      "text": "10"
+    },
+    {
+      "key": "OPTION_MSG_H_L_20",
+      "read_index": "298",
+      "tag_source": "source_en",
+      "source_jp": "20人",
+      "source_en": "20",
+      "text": "20"
+    },
+    {
+      "key": "OPTION_MSG_H_L_40",
+      "read_index": "299",
+      "tag_source": "source_en",
+      "source_jp": "40人",
+      "source_en": "40",
+      "text": "40"
+    },
+    {
+      "key": "OPTION_MSG_H_L_80",
+      "read_index": "300",
+      "tag_source": "source_en",
+      "source_jp": "80人",
+      "source_en": "80",
+      "text": "80"
+    },
+    {
+      "key": "OPTION_MSG_LIGHT_SOURCE_NUM_NORMAL",
+      "read_index": "335",
+      "tag_source": "source_en",
+      "source_jp": "通常",
+      "source_en": "Normal",
+      "text": "Standard"
+    },
+    {
+      "key": "OPTION_MSG_LOD_REGULAR",
+      "read_index": "292",
+      "tag_source": "source_en",
+      "source_jp": "通常",
+      "source_en": "×1",
+      "text": "×1"
+    },
+    {
+      "key": "OPTION_MSG_LOD_X2",
+      "read_index": "293",
+      "tag_source": "source_en",
+      "source_jp": "×2",
+      "source_en": "×2",
+      "text": "×2"
+    },
+    {
+      "key": "OPTION_MSG_LOD_X5",
+      "read_index": "294",
+      "tag_source": "source_en",
+      "source_jp": "×5",
+      "source_en": "×5",
+      "text": "×5"
+    },
+    {
+      "key": "OPTION_MSG_MIDDLE",
+      "read_index": "316",
+      "tag_source": "source_en",
+      "source_jp": "通常",
+      "source_en": "Normal",
+      "text": "Standard"
+    },
+    {
+      "key": "OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_NORMAL",
+      "read_index": "330",
+      "tag_source": "source_en",
+      "source_jp": "通常",
+      "source_en": "Normal",
+      "text": "Standard"
+    },
+    {
+      "key": "OPTION_MSG_O_B_REGULAR",
+      "read_index": "283",
+      "tag_source": "source_en",
+      "source_jp": "通常",
+      "source_en": "Normal",
+      "text": "Standard"
+    },
+    {
+      "key": "OPTION_MSG_O_E_REGULAR",
+      "read_index": "288",
+      "tag_source": "source_en",
+      "source_jp": "通常",
+      "source_en": "×1",
+      "text": "×1"
+    },
+    {
+      "key": "OPTION_MSG_O_E_X2",
+      "read_index": "289",
+      "tag_source": "source_en",
+      "source_jp": "×2",
+      "source_en": "×2",
+      "text": "×2"
+    },
+    {
+      "key": "OPTION_MSG_O_E_X5",
+      "read_index": "290",
+      "tag_source": "source_en",
+      "source_jp": "×5",
+      "source_en": "×5",
+      "text": "×5"
+    },
+    {
+      "key": "OPTION_MSG_RESOLUTION_1280_720",
+      "read_index": "218",
+      "tag_source": "source_en",
+      "source_jp": "1280×720",
+      "source_en": "1280×720",
+      "text": "1280×720"
+    },
+    {
+      "key": "OPTION_MSG_RESOLUTION_1280_1024",
+      "read_index": "219",
+      "tag_source": "source_en",
+      "source_jp": "1280×1024",
+      "source_en": "1280×1024",
+      "text": "1280×1024"
+    },
+    {
+      "key": "OPTION_MSG_RESOLUTION_1440_900",
+      "read_index": "220",
+      "tag_source": "source_en",
+      "source_jp": "1440×900",
+      "source_en": "1440×900",
+      "text": "1440×900"
+    },
+    {
+      "key": "OPTION_MSG_RESOLUTION_1600_1050",
+      "read_index": "221",
+      "tag_source": "source_en",
+      "source_jp": "1600×1050",
+      "source_en": "1600×1050",
+      "text": "1600×1050"
+    },
+    {
+      "key": "OPTION_MSG_RESOLUTION_1920_1080",
+      "read_index": "222",
+      "tag_source": "source_en",
+      "source_jp": "1920×1080",
+      "source_en": "1920×1080",
+      "text": "1920×1080"
+    },
+    {
+      "key": "OPTION_MSG_RESOLUTION_1920_1200",
+      "read_index": "223",
+      "tag_source": "source_en",
+      "source_jp": "1920×1200",
+      "source_en": "1920×1200",
+      "text": "1920×1200"
+    },
+    {
+      "key": "OPTION_MSG_S_P_REGULAR",
+      "read_index": "241",
+      "tag_source": "source_en",
+      "source_jp": "通常",
+      "source_en": "Normal",
+      "text": "Standard"
+    },
+    {
+      "key": "OPTION_MSG_S_R_REGULAR",
+      "read_index": "248",
+      "tag_source": "source_en",
+      "source_jp": "通常",
+      "source_en": "Normal",
+      "text": "Standard"
+    },
+    {
+      "key": "OPTION_MSG_TAB_BGM",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "BGM",
+      "source_en": "BGM",
+      "text": "Musik"
+    },
+    {
+      "key": "OPTION_MSG_TAB_NPC",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "NPC",
+      "source_en": "NPC",
+      "text": "NPC"
+    },
+    {
+      "key": "OPTION_MSG_TAB_SE_SYSTEM",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "システム音",
+      "source_en": "System",
+      "text": "Systemtöne"
+    },
+    {
+      "key": "OPTION_MSG_TITLE_M_TITLE02",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "Game Config",
+      "source_en": "Game Config",
+      "text": "Spieleinstellungen"
+    },
+    {
+      "key": "OPTION_MSG_VERYICALSYNC_OFF",
+      "read_index": "321",
+      "tag_source": "source_en",
+      "source_jp": "OFF",
+      "source_en": "OFF",
+      "text": "AUS"
+    },
+    {
+      "key": "OPTION_MSG_VERYICALSYNC_ON",
+      "read_index": "320",
+      "tag_source": "source_en",
+      "source_jp": "ON",
+      "source_en": "ON",
+      "text": "AN"
+    },
+    {
+      "key": "OPTION_MSG_WHINDOW_SIZE_60",
+      "read_index": "194",
+      "tag_source": "source_en",
+      "source_jp": "60%",
+      "source_en": "60%",
+      "text": "60 %"
+    },
+    {
+      "key": "OPTION_MSG_WHINDOW_SIZE_80",
+      "read_index": "195",
+      "tag_source": "source_en",
+      "source_jp": "80%",
+      "source_en": "80%",
+      "text": "80 %"
+    },
+    {
+      "key": "OPTION_MSG_WHINDOW_SIZE_100",
+      "read_index": "196",
+      "tag_source": "source_en",
+      "source_jp": "100%",
+      "source_en": "100%",
+      "text": "100 %"
+    },
+    {
+      "key": "OPTION_MSG_WHINDOW_SIZE_120",
+      "read_index": "197",
+      "tag_source": "source_en",
+      "source_jp": "120%",
+      "source_en": "120%",
+      "text": "120 %"
+    },
+    {
+      "key": "OPTION_MSG_WHINDOW_SIZE_140",
+      "read_index": "198",
+      "tag_source": "source_en",
+      "source_jp": "140％",
+      "source_en": "140％",
+      "text": "140 %"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

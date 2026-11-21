@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\infomation_res.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "info_achieve",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "アチーブメントを獲得しました",
+      "source_en": "You have earned an achievement",
+      "text": "Du hast einen Erfolg erzielt."
+    },
+    {
+      "key": "info_achieve_list",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ACHIEVE>を獲得しました",
+      "source_en": "<NAME ACHIEVE> has been earned",
+      "text": "Erhalten: <NAME ACHIEVE>"
+    },
+    {
+      "key": "info_achieve_unlock",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "新たなアチーブメントが解放されました",
+      "source_en": "A new achievement has been unlocked",
+      "text": "Ein neuer Erfolg wurde freigeschaltet"
+    },
+    {
+      "key": "info_achieve_unlock_list",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "新たなアチーブメントを解放しました",
+      "source_en": "A new achievement has been unlocked",
+      "text": "Ein neuer Erfolg wurde freigeschaltet"
+    },
+    {
+      "key": "info_adv_guide_new_info",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "冒険ガイドに新たなクエストの紹介があります",
+      "source_en": "There is a new quest listed in the Adventure Guide",
+      "text": "Im Abenteuerleitfaden ist eine neue Quest verfügbar."
+    },
+    {
+      "key": "info_bazzar_dealed",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "バザーに出品中の<NAME ITEM>が取引成立しました",
+      "source_en": "<NAME ITEM> has sold on the bazaar.",
+      "text": "<NAME ITEM> wurde auf dem Basar verkauft."
+    },
+    {
+      "key": "info_caplink_chat",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "カプリンク：新着チャットがあります",
+      "source_en": "Caplink: There is a new chat",
+      "text": "Caplink: Neuer Chat"
+    },
+    {
+      "key": "info_caplink_friend_consent",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "カプリンク：カプトモが増えました",
+      "source_en": "Caplink: Capto has increased.",
+      "text": "Caplink: Du hast neue Capto erhalten."
+    },
+    {
+      "key": "info_caplink_friend_content_detail",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "カプリンク：%sとカプトモになりました",
+      "source_en": "Caplink became friends with CaptoMo:%s",
+      "text": "Caplink: Neuer CaptoMo-Freund: %s"
+    },
+    {
+      "key": "info_caplink_friend_modify",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "カプリンク：カプトモがプロフィールを変更しました",
+      "source_en": "Caplink: CaptoMo changed the profile",
+      "text": "Caplink: CaptoMo hat das Profil geändert"
+    },
+    {
+      "key": "info_caplink_friend_online",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "カプリンク：カプトモがオンラインになりました",
+      "source_en": "Caplink: A friend has come online",
+      "text": "Caplink: Ein Freund ist jetzt online."
+    },
+    {
+      "key": "info_caplink_friend_online_detail",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "カプリンク：%sがオンラインになりました",
+      "source_en": "Caplink: %s is now online!",
+      "text": "Caplink: %s ist jetzt online!"
+    },
+    {
+      "key": "info_caplink_friend_request",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "カプリンク：カプトモ申請が届いています",
+      "source_en": "Caplink: A friend request has arrived",
+      "text": "Caplink: Neue Freundschaftsanfrage"
+    },
+    {
+      "key": "info_caplink_invite",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "カプリンク：ゲーム招待メッセージが届いています",
+      "source_en": "Caplink: You have received a game invite message!",
+      "text": "Caplink: Du hast eine Spieleinladung erhalten!"
+    },
+    {
+      "key": "info_caplink_invite_detail",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "カプリンク：%sからゲーム招待メッセージが届いています",
+      "source_en": "You have received a game invite message from\r\nCaplink: %s",
+      "text": "Du hast eine Spieleinladung über\r\nCaplink erhalten: %s"
+    },
+    {
+      "key": "info_caplink_maintenance",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "カプリンクが<VAL>からメンテナンスに入ります",
+      "source_en": "Caplink will enter maintenance at <VAL>",
+      "text": "Caplink-Wartung ab <VAL>"
+    },
+    {
+      "key": "info_caplink_message",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "カプリンク：メッセージが届いています",
+      "source_en": "Caplink: Message received!",
+      "text": "Caplink: Neue Nachricht!"
+    },
+    {
+      "key": "info_clan_chg_leader",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>がクランリーダーになりました",
+      "source_en": "<NAME TARGET> \r\nis now a Clan Officer.",
+      "text": "<NAME TARGET>\r\n ist jetzt Clanoffizier."
+    },
+    {
+      "key": "info_clan_chg_master",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>がクランマスターになりました",
+      "source_en": "<NAME TARGET> \r\nis now the Clan Master.",
+      "text": "<NAME TARGET>\r\n leitet jetzt den Clan."
+    },
+    {
+      "key": "info_clan_invite",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>からクランへの招待があります",
+      "source_en": "<NAME TARGET> has been invited to the clan.",
+      "text": "<NAME TARGET> wurde zum Clan eingeladen."
+    },
+    {
+      "key": "info_clan_invite_direct",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>からクランへの直接招待があります",
+      "source_en": "You have received a direct invitation to join\r\n<NAME TARGET>'s Clan.",
+      "text": "Du hast eine direkte Einladung in den Clan erhalten:\r\n<NAME TARGET>."
+    },
+    {
+      "key": "info_clan_invite_list",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "クランから誘いがあります",
+      "source_en": "There is a clan invitation",
+      "text": "Neue Claneinladung"
+    },
+    {
+      "key": "info_clan_invite_list_direct",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "クランから直接招待があります",
+      "source_en": "There is a clan invitation.",
+      "text": "Neue Claneinladung"
+    },
+    {
+      "key": "info_clan_join",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>がクランに加入しました",
+      "source_en": "<NAME TARGET> has joined the clan.",
+      "text": "<NAME TARGET> ist dem Clan beigetreten."
+    },
+    {
+      "key": "info_clan_join_other",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>がクランに加入しました",
+      "source_en": "<NAME TARGET> has joined the clan.",
+      "text": "<NAME TARGET> ist dem Clan beigetreten."
+    },
+    {
+      "key": "info_clan_levelup",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "クランレベルが<VAL>になった！",
+      "source_en": "The clan level has reached <VAL>!",
+      "text": "Der Clan hat Stufe <VAL> erreicht!"
+    },
+    {
+      "key": "info_clan_levelup_list",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "クランの歴史が更新されました",
+      "source_en": "The clan history has been updated",
+      "text": "Die Clanchronik wurde aktualisiert."
+    },
+    {
+      "key": "info_clan_mission",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<NAME CLANMISSION> を達成した！",
+      "source_en": "<NAME CLANMISSION> was achieved!",
+      "text": "<NAME CLANMISSION> wurde erreicht!"
+    },
+    {
+      "key": "info_clan_mission_list",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<NAME CLANMISSION> を達成した！",
+      "source_en": "<NAME CLANMISSION> was achieved!",
+      "text": "<NAME CLANMISSION> wurde erreicht!"
+    },
+    {
+      "key": "info_clan_req",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>からクラン加入申請がありました",
+      "source_en": "<NAME TARGET> \r\nhas requested to join the clan.",
+      "text": "<NAME TARGET>\r\n hat sich beim Clan beworben."
+    },
+    {
+      "key": "info_clan_req_info",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "クランへの加入申請があります",
+      "source_en": "There is an application to join the clan",
+      "text": "Neue Clanbewerbung"
+    },
+    {
+      "key": "info_craft_finish",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "クラフトが完成しました",
+      "source_en": "Crafting has completed.",
+      "text": "Die Herstellung ist abgeschlossen."
+    },
+    {
+      "key": "info_daily_mission_complete_info",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "リワードミッションで受け取れるアイテムがあります",
+      "source_en": "There are items that can be received in Reward\r\nMissions",
+      "text": "Für Belohnungsmissionen kannst du\r\nGegenstände abholen."
+    },
+    {
+      "key": "info_dlc_station_not_receive",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "DLC Stationに未受け取りのダウンロードコンテンツがあります",
+      "source_en": "There is uncollected downloadable content at DLC\r\nStation",
+      "text": "An der DLC-Station stehen noch Inhalte\r\nzur Abholung bereit."
+    },
+    {
+      "key": "info_entry_board_ready_wait_list",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "エントリーメンバーの準備完了を受付中",
+      "source_en": "The entryboard is ready",
+      "text": "Das Anmeldebrett ist bereit."
+    },
+    {
+      "key": "info_entry_board_time_extension_list",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "エントリーボードの募集時間を延長できます",
+      "source_en": "Entryboard recruitment time can be extended",
+      "text": "Die Anmeldefrist kann verlängert werden."
+    },
+    {
+      "key": "info_entry_invitation",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>からエントリーボードに招待されました",
+      "source_en": "Invited to the entry board by \r\n<NAME TARGET>",
+      "text": "Einladung zum Anmeldebrett von\r\n<NAME TARGET>"
+    },
+    {
+      "key": "info_entry_invitation_list",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>からエントリーボードへの招待があります",
+      "source_en": "You have been invited to the Entry Board by \r\n<NAME TARGET>",
+      "text": "Einladung zum Anmeldebrett von\r\n<NAME TARGET>"
+    },
+    {
+      "key": "info_friend_req",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET> からフレンド申請があります",
+      "source_en": "<NAME TARGET> \r\nhas sent you a friend request",
+      "text": "<NAME TARGET>\r\n hat dir eine Freundschaftsanfrage geschickt."
+    },
+    {
+      "key": "info_friend_req_list",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "フレンド申請があります",
+      "source_en": "There is a friend request",
+      "text": "Neue Freundschaftsanfrage"
+    },
+    {
+      "key": "info_full_member",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "エントリーメンバーが揃いました",
+      "source_en": "Entry members is now full",
+      "text": "Alle Plätze sind belegt."
+    },
+    {
+      "key": "info_full_member_list",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "エントリーメンバーが揃いました",
+      "source_en": "Entry members is now full",
+      "text": "Alle Plätze sind belegt."
+    },
+    {
+      "key": "info_group_invite",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET> からグループチャットへの招待があります",
+      "source_en": "<NAME TARGET> \r\nhas invited you to a group chat",
+      "text": "<NAME TARGET>\r\n hat dich zu einem Gruppenchat eingeladen."
+    },
+    {
+      "key": "info_group_invite_list",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET> からグループチャットへの招待があります",
+      "source_en": "<NAME TARGET> has invited you to a group chat",
+      "text": "<NAME TARGET> hat dich zu einem Gruppenchat eingeladen"
+    },
+    {
+      "key": "info_mail",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "新着メールが届きました",
+      "source_en": "New mail has arrived",
+      "text": "Neue Post"
+    },
+    {
+      "key": "info_mail_list",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "未読／未取得メールがあります",
+      "source_en": "There is unread / unclaimed mail",
+      "text": "Du hast ungelesene Post oder noch etwas abzuholen."
+    },
+    {
+      "key": "info_news",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアニュースが更新されました",
+      "source_en": "Lestania News has been updated",
+      "text": "Die Lestania-Nachrichten wurden aktualisiert."
+    },
+    {
+      "key": "info_news_list",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアニュースが更新されました",
+      "source_en": "Lestania News has been updated",
+      "text": "Die Lestania-Nachrichten wurden aktualisiert."
+    },
+    {
+      "key": "info_party_entry_accepted_list",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "リーダーがパーティー要請を受諾しました",
+      "source_en": "The leader has accepted the party request",
+      "text": "Die Gruppenleitung hat die Anfrage angenommen."
+    },
+    {
+      "key": "info_party_invite",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET> からパーティーへの招待があります",
+      "source_en": "<NAME TARGET> \r\nhas invited you to join a party",
+      "text": "<NAME TARGET>\r\n hat dich in eine Gruppe eingeladen."
+    },
+    {
+      "key": "info_party_invite_list",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET> からパーティーへの招待があります",
+      "source_en": "<NAME TARGET> \r\nhas invited you to join a party",
+      "text": "<NAME TARGET>\r\n hat dich in eine Gruppe eingeladen."
+    },
+    {
+      "key": "info_party_invite_pop",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "パーティーへの招待があります",
+      "source_en": "There are party invitations",
+      "text": "Neue Gruppeneinladungen"
+    },
+    {
+      "key": "info_propose_quit_contents",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "コンテンツ途中離脱の提案がありました",
+      "source_en": "You have received a request to end the mission.",
+      "text": "Du hast eine Bitte erhalten, die Mission zu beenden."
+    },
+    {
+      "key": "info_propose_quit_contents_list",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "コンテンツ途中離脱の提案が届いています",
+      "source_en": "A proposal to withdraw from the content has\r\narrived",
+      "text": "Neuer Vorschlag, die laufende Mission\r\nabzubrechen."
+    },
+    {
+      "key": "info_pt_leader_leave",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "リーダーが不在です\r\n白竜神殿かリムストーンのある拠点施設でリーダーを設定してください",
+      "source_en": "The party leader is missing.\r\nPlease set the party leader in an inn, at the\r\nWhite Dragon Temple, or at a Riftstone.",
+      "text": "Die Gruppenleitung fehlt.\r\nBestimme eine neue Gruppenleitung in einer Herberge,\r\nim Tempel des Weißen Drachen oder an einem Riftstein."
+    },
+    {
+      "key": "info_pt_leader_leave_list",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "リーダーが不在です",
+      "source_en": "The party leader is missing",
+      "text": "Die Gruppenleitung fehlt."
+    },
+    {
+      "key": "info_quest_end",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "配信期間が終了したクエストを破棄しました",
+      "source_en": "A quest has been canceled because the\r\ndelivery time period has ended",
+      "text": "Eine Quest wurde abgebrochen, weil\r\ndie Abgabefrist abgelaufen ist."
+    },
+    {
+      "key": "info_quest_end_list",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "配信期間が終了したクエストを破棄しました",
+      "source_en": "A quest has been canceled because the\r\ndelivery time period has ended",
+      "text": "Eine Quest wurde abgebrochen, weil\r\ndie Abgabefrist abgelaufen ist."
+    },
+    {
+      "key": "info_quick_ready_wait_list",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティーの準備完了を受付中",
+      "source_en": "The quick party is ready",
+      "text": "Die Schnellsuche hat eine Gruppe gefunden."
+    },
+    {
+      "key": "info_tutorial",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "チュートリアル：<NAME TUTORIAL>",
+      "source_en": "Tutorial: <NAME TUTORIAL>",
+      "text": "Tutorial: <NAME TUTORIAL>"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

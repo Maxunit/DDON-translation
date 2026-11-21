@@ -1,0 +1,256 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\shop_title.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "shop_title_area_master_sub",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "エリアマスター",
+      "source_en": " ",
+      "text": "Gebietsmeister"
+    },
+    {
+      "key": "shop_title_arts_support_sub",
+      "read_index": "22",
+      "tag_source": "source_jp",
+      "source_jp": "戦技補佐",
+      "source_en": " ",
+      "text": "Kampftechniken"
+    },
+    {
+      "key": "shop_title_bazaar_sub",
+      "read_index": "14",
+      "tag_source": "source_jp",
+      "source_jp": "バザー",
+      "source_en": " ",
+      "text": "Basar"
+    },
+    {
+      "key": "shop_title_beauty_parlor_sub",
+      "read_index": "26",
+      "tag_source": "source_jp",
+      "source_jp": "美容院",
+      "source_en": " ",
+      "text": "Schönheitssalon"
+    },
+    {
+      "key": "shop_title_boxgacha_sub",
+      "read_index": "43",
+      "tag_source": "source_jp",
+      "source_jp": "ボックストレジャーズロット",
+      "source_en": " ",
+      "text": "Kistenlotterie"
+    },
+    {
+      "key": "shop_title_clan",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "Clan",
+      "source_en": "Clan only",
+      "text": "Nur Clan"
+    },
+    {
+      "key": "shop_title_clan_quest_sub",
+      "read_index": "48",
+      "tag_source": "source_jp",
+      "source_jp": "クランクエスト",
+      "source_en": " ",
+      "text": "Clanquests"
+    },
+    {
+      "key": "shop_title_clan_sub",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "クラン",
+      "source_en": " ",
+      "text": "Clan"
+    },
+    {
+      "key": "shop_title_craft_sub",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "クラフト",
+      "source_en": " ",
+      "text": "Herstellung"
+    },
+    {
+      "key": "shop_title_cycle_contents",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "Grand Mission",
+      "source_en": "Grand Mission",
+      "text": "Großmissionen"
+    },
+    {
+      "key": "shop_title_cycle_contents_sub",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "グランドミッション",
+      "source_en": " ",
+      "text": "Großmissionen"
+    },
+    {
+      "key": "shop_title_delivery",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "Delivery",
+      "source_en": "Delivery",
+      "text": "Abgabe"
+    },
+    {
+      "key": "shop_title_delivery_sub",
+      "read_index": "30",
+      "tag_source": "source_jp",
+      "source_jp": "納品",
+      "source_en": " ",
+      "text": "Abgabe"
+    },
+    {
+      "key": "shop_title_depositbox",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "Storage Chest",
+      "source_en": "Storage Chest",
+      "text": "Lagerkiste"
+    },
+    {
+      "key": "shop_title_depositbox_sub",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "格納チェスト",
+      "source_en": "Storage Chest",
+      "text": "Lagerkiste"
+    },
+    {
+      "key": "shop_title_end_contents_sub",
+      "read_index": "37",
+      "tag_source": "source_jp",
+      "source_jp": "エクストリームミッション",
+      "source_en": " ",
+      "text": "Extremmissionen"
+    },
+    {
+      "key": "shop_title_equip_recycle",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "武具の資源分解",
+      "source_en": "Equipment Disassembly",
+      "text": "Ausrüstung zerlegen"
+    },
+    {
+      "key": "shop_title_gacha_sub",
+      "read_index": "33",
+      "tag_source": "source_jp",
+      "source_jp": "トレジャーズロット",
+      "source_en": " ",
+      "text": "Schatzlotterie"
+    },
+    {
+      "key": "shop_title_hard_Quest",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "スペシャルクエストボード",
+      "source_en": "Special Quest Board",
+      "text": "Besonderes Questboard"
+    },
+    {
+      "key": "shop_title_infdelivery_event",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "大口納品イベント",
+      "source_en": "Large Delivery Event",
+      "text": "Großlieferung"
+    },
+    {
+      "key": "shop_title_inn_sub",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "宿屋",
+      "source_en": " ",
+      "text": "Herberge"
+    },
+    {
+      "key": "shop_title_job_master_sub",
+      "read_index": "24",
+      "tag_source": "source_jp",
+      "source_jp": "ジョブマスター",
+      "source_en": " ",
+      "text": "Klassenmeister"
+    },
+    {
+      "key": "shop_title_orb_shop_sub",
+      "read_index": "20",
+      "tag_source": "source_jp",
+      "source_jp": "ショップ",
+      "source_en": " ",
+      "text": "Laden"
+    },
+    {
+      "key": "shop_title_party_support",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "Party Support",
+      "source_en": "Party Support",
+      "text": "Gruppenunterstützung"
+    },
+    {
+      "key": "shop_title_pp_shop",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "Play Point Shop",
+      "source_en": "Play Point Shop",
+      "text": "Spielpunkte-Shop"
+    },
+    {
+      "key": "shop_title_pp_shop_sub",
+      "read_index": "45",
+      "tag_source": "source_jp",
+      "source_jp": "プレイポイントショップ",
+      "source_en": " ",
+      "text": "Spielpunkte-Shop"
+    },
+    {
+      "key": "shop_title_quest_board_sub",
+      "read_index": "35",
+      "tag_source": "source_jp",
+      "source_jp": "クエストボード",
+      "source_en": " ",
+      "text": "Questboard"
+    },
+    {
+      "key": "shop_title_revival_recover_sub",
+      "read_index": "28",
+      "tag_source": "source_jp",
+      "source_jp": "復活力の回復",
+      "source_en": " ",
+      "text": "Wiederbelebungskraft auffüllen"
+    },
+    {
+      "key": "shop_title_rim_stone_sub",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "リムストーン",
+      "source_en": " ",
+      "text": "Riftstein"
+    },
+    {
+      "key": "shop_title_shop_sub",
+      "read_index": "18",
+      "tag_source": "source_jp",
+      "source_jp": "ショップ",
+      "source_en": " ",
+      "text": "Laden"
+    },
+    {
+      "key": "shop_title_warehouse",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "Warehouse",
+      "source_en": "Warehouse",
+      "text": "Lager"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

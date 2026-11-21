@@ -1,0 +1,304 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\parameter.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "resist_holy_resist_down",
+      "read_index": "98",
+      "tag_source": "source_en",
+      "source_jp": "聖防低下耐性",
+      "source_en": "Resist Holy Resist Down",
+      "text": "Heiliger Widerstand nach unten"
+    },
+    {
+      "key": "resist_ice",
+      "read_index": "75",
+      "tag_source": "source_en",
+      "source_jp": "氷耐性",
+      "source_en": "Ice Resist",
+      "text": "Eisresistenz"
+    },
+    {
+      "key": "resist_ice_resist_down",
+      "read_index": "96",
+      "tag_source": "source_en",
+      "source_jp": "氷防低下耐性",
+      "source_en": "Resist Ice Resist Down",
+      "text": "Schutz vor gesenkter Eisresistenz"
+    },
+    {
+      "key": "resist_item_sealed",
+      "read_index": "218",
+      "tag_source": "source_en",
+      "source_jp": "アイテム封印耐性",
+      "source_en": "Resist Item Seal",
+      "text": "Schutz vor Gegenstandssiegeln"
+    },
+    {
+      "key": "resist_magic_attack_down",
+      "read_index": "102",
+      "tag_source": "source_en",
+      "source_jp": "魔攻低下耐性",
+      "source_en": "Resist Magick Atk. Down",
+      "text": "Widerstehen Magick Atk. Down"
+    },
+    {
+      "key": "resist_magic_difense_down",
+      "read_index": "103",
+      "tag_source": "source_en",
+      "source_jp": "魔防低下耐性",
+      "source_en": "Resist Magick Def. Down",
+      "text": "Schutz vor gesenkter magischer Verteidigung"
+    },
+    {
+      "key": "resist_magma",
+      "read_index": "225",
+      "tag_source": "source_en",
+      "source_jp": "マグマ耐性",
+      "source_en": "Magma Resist",
+      "text": "Magmaresistenz"
+    },
+    {
+      "key": "resist_petrify",
+      "read_index": "93",
+      "tag_source": "source_en",
+      "source_jp": "石化耐性",
+      "source_en": "Resist Petrification",
+      "text": "Resist Versteinerung"
+    },
+    {
+      "key": "resist_physical_attack_down",
+      "read_index": "100",
+      "tag_source": "source_en",
+      "source_jp": "物攻低下耐性",
+      "source_en": "Resist Physical Atk. Down",
+      "text": "Widerstand gegen Physical Atk. Down"
+    },
+    {
+      "key": "resist_physical_difense_down",
+      "read_index": "101",
+      "tag_source": "source_en",
+      "source_jp": "物防低下耐性",
+      "source_en": "Resist Physical Def. Down",
+      "text": "Widerstand gegen physische Def. Down"
+    },
+    {
+      "key": "resist_poison",
+      "read_index": "84",
+      "tag_source": "source_en",
+      "source_jp": "毒耐性",
+      "source_en": "Resist Poison",
+      "text": "Resistenzgift"
+    },
+    {
+      "key": "resist_sleep",
+      "read_index": "86",
+      "tag_source": "source_en",
+      "source_jp": "睡眠耐性",
+      "source_en": "Resist Sleep",
+      "text": "Widerstandsschlaf"
+    },
+    {
+      "key": "resist_softener",
+      "read_index": "92",
+      "tag_source": "source_en",
+      "source_jp": "軟化耐性",
+      "source_en": "Resist Frail",
+      "text": "Gebrechliche Widerstandsfähigkeit"
+    },
+    {
+      "key": "resist_stifling",
+      "read_index": "90",
+      "tag_source": "source_en",
+      "source_jp": "スキル封印耐性",
+      "source_en": "Resist Skill Stifling",
+      "text": "Resist Skill Stifting"
+    },
+    {
+      "key": "resist_tarring",
+      "read_index": "89",
+      "tag_source": "source_en",
+      "source_jp": "油濡れ耐性",
+      "source_en": "Resist Tarring",
+      "text": "Widerstandsverbrennung"
+    },
+    {
+      "key": "resist_thunder",
+      "read_index": "76",
+      "tag_source": "source_en",
+      "source_jp": "雷耐性",
+      "source_en": "Lightning Resist",
+      "text": "Blitzschutz"
+    },
+    {
+      "key": "resist_thunder_resist_down",
+      "read_index": "97",
+      "tag_source": "source_en",
+      "source_jp": "雷防低下耐性",
+      "source_en": "Resist Lightning Resist Down",
+      "text": "Lightning Resist Down"
+    },
+    {
+      "key": "resist_thunderShocked",
+      "read_index": "81",
+      "tag_source": "source_en",
+      "source_jp": "感電耐性",
+      "source_en": "Resist Shocked",
+      "text": "Resist Schockiert"
+    },
+    {
+      "key": "resist_torpor",
+      "read_index": "85",
+      "tag_source": "source_en",
+      "source_jp": "遅延耐性",
+      "source_en": "Resist Torpor",
+      "text": "Widerstandstorsion"
+    },
+    {
+      "key": "weakness_attack_alchemy",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【錬金】",
+      "source_en": "Alchemy Slayer",
+      "text": "Schaden gegen alchemistische Gegner"
+    },
+    {
+      "key": "weakness_attack_armed",
+      "read_index": "223",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【戦甲】",
+      "source_en": "War-Ready Slayer",
+      "text": "Schaden gegen Kampfrüstungen"
+    },
+    {
+      "key": "weakness_attack_beast",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【獣】",
+      "source_en": "Beast Slayer",
+      "text": "Tiertöter"
+    },
+    {
+      "key": "weakness_attack_curse",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【呪詛】",
+      "source_en": "Cursed Slayer",
+      "text": "Verfluchte Slayer"
+    },
+    {
+      "key": "weakness_attack_demonic",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【魔族】",
+      "source_en": "Fiend Slayer",
+      "text": "Schaden gegen Dämonen"
+    },
+    {
+      "key": "weakness_attack_dragon",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【竜族】",
+      "source_en": "Dragonkin Slayer",
+      "text": "Dragonkin-Schläger"
+    },
+    {
+      "key": "weakness_attack_erosion",
+      "read_index": "215",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【侵食】",
+      "source_en": "Corrupted Slayer",
+      "text": "Korrupter Slayer"
+    },
+    {
+      "key": "weakness_attack_giant",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【巨人】",
+      "source_en": "Giant Slayer",
+      "text": "Riesentöter"
+    },
+    {
+      "key": "weakness_attack_golem",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【造魔】",
+      "source_en": "Magickal Constructs Slayer",
+      "text": "Magickal konstruiert Slayer"
+    },
+    {
+      "key": "weakness_attack_human",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【人間】",
+      "source_en": "Human Slayer",
+      "text": "Menschlicher Killer"
+    },
+    {
+      "key": "weakness_attack_ogre",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【鬼人】",
+      "source_en": "Ogrekin Slayer",
+      "text": "Ogrekin-Schläger"
+    },
+    {
+      "key": "weakness_attack_skeleton",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【骸骨】",
+      "source_en": "Skeleton Slayer",
+      "text": "Skelettjäger"
+    },
+    {
+      "key": "weakness_attack_softbody",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【軟体】",
+      "source_en": "Formless Slayer",
+      "text": "Formloser Layer"
+    },
+    {
+      "key": "weakness_attack_soul",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【霊体】",
+      "source_en": "Spirit Slayer",
+      "text": "Spirituosenjäger"
+    },
+    {
+      "key": "weakness_attack_subhuman",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【亜人】",
+      "source_en": "Demihuman Slayer",
+      "text": "Demihumaner Killer"
+    },
+    {
+      "key": "weakness_attack_undead",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【腐死】",
+      "source_en": "Undead Slayer",
+      "text": "Untoter Killer"
+    },
+    {
+      "key": "weakness_attack_winged",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "対敵特効【有翼】",
+      "source_en": "Winged Slayer",
+      "text": "Flügeltöter"
+    },
+    {
+      "key": "weight",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "重量",
+      "source_en": "Weight",
+      "text": "Gewicht"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

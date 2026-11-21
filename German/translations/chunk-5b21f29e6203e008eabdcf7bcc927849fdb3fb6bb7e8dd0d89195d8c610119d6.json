@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\job_skill_manager.gmd",
+  "arc_path": "\\ui\\uGUIPopSkillInfo.arc",
+  "entries": [
+    {
+      "key": "option_filter",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "フィルタ",
+      "source_en": "Filter",
+      "text": "Filter"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

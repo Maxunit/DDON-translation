@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\EfcSealed_res.gmd",
+  "arc_path": "\\ui\\uGUIEffectSealed.arc",
+  "entries": [
+    {
+      "key": "EFC_SEALED_DECIDE_BTN",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "決定",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "EFC_SEALED_ERROR_DECIDE_NO_SELECT",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "何も選択していない為、封印することができません",
+      "source_en": "You can't seal anything because nothing is\r\nselected",
+      "text": "Wähle zuerst einen Effekt aus,\r\nden du versiegeln möchtest."
+    },
+    {
+      "key": "EFC_SEALED_ERROR_NOT_ENOUGH_COST",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "費用が足りません",
+      "source_en": "Insufficient funds",
+      "text": "Nicht genug Guthaben"
+    },
+    {
+      "key": "EFC_SEALED_ERROR_OVER_SEALED_NUM",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "これ以上封印できません",
+      "source_en": "You can't seal any more",
+      "text": "Du kannst keine weiteren Effekte versiegeln."
+    },
+    {
+      "key": "EFC_SEALED_ERROR_RESET_NO_SEALED",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "何も封印されていない為、解除することができません",
+      "source_en": "You can't unlock anything because nothing is\r\nsealed",
+      "text": "Es gibt keine versiegelten Effekte,\r\ndie du freigeben könntest."
+    },
+    {
+      "key": "EFC_SEALED_INFO_TITLE_DETAIL",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "Details",
+      "source_en": "Details",
+      "text": "Details"
+    },
+    {
+      "key": "EFC_SEALED_MSG_END_CONFIRM",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "黒呪装具の効果封印を終了しますか？",
+      "source_en": "Do you want to end the effect sealing of Black\r\nCurse equipment?",
+      "text": "Möchtest du die Effektversiegelung für\r\nSchwarzfluch-Ausrüstung beenden?"
+    },
+    {
+      "key": "EFC_SEALED_MSG_RESET",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "<COL FFDC78><UNTN RDM> <VAL RDM></COL>を使用して封印を解除しますか？\r\nこれまでに使用した<COL FFDC78><UNTN RDM> <VAL RDM></COL>が手元に戻ります",
+      "source_en": "Do you want to unlock using <COL FFDC78><UNTN RDM>\r\n <VAL RDM></COL>? You will get back the <COL FFDC78>\r\n<UNTN RDM> <VAL RDM></COL> you've used so\r\nfar",
+      "text": "Freischalten mit <COL FFDC78><UNTN RDM>\r\n <VAL RDM></COL>? Du erhältst <COL FFDC78>\r\n<UNTN RDM> <VAL RDM></COL> zurück,\r\ndie du bisher eingesetzt hast."
+    },
+    {
+      "key": "EFC_SEALED_MSG_RESET_SUCCESS",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "封印の全解除に成功しました",
+      "source_en": "Unsealing of all effects was successful",
+      "text": "Alle Siegel wurden aufgehoben."
+    },
+    {
+      "key": "EFC_SEALED_MSG_SEALED",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "<COL FFDC78><UNTN RDM> <VAL RDM></COL>を使用して封印を設定しますか？",
+      "source_en": "Do you want to set a seal using <COL FFDC78><UNTN RDM>\r\n <VAL RDM></COL>?",
+      "text": "Möchtest du ein Siegel mit <COL FFDC78><UNTN RDM>\r\n <VAL RDM></COL> setzen?"
+    },
+    {
+      "key": "EFC_SEALED_MSG_SEALED_SUCCESS",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "効果の封印に成功しました",
+      "source_en": "Sealing of effects was successful",
+      "text": "Die Effekte wurden versiegelt."
+    },
+    {
+      "key": "EFC_SEALED_MSG_TITLE_INFO",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "Information",
+      "source_en": "Information",
+      "text": "Informationen"
+    },
+    {
+      "key": "EFC_SEALED_RESET_BTN",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "封印の全解除",
+      "source_en": "Reset All Seals",
+      "text": "Alle Siegel aufheben"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

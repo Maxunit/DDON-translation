@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\simple_text.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "simple_text_9139",
+      "read_index": "180",
+      "tag_source": "source_en",
+      "source_jp": "アイテムがいっぱいになりました",
+      "source_en": "Items fully restocked",
+      "text": "Artikel vollständig aufgefüllt"
+    },
+    {
+      "key": "simple_text_9140",
+      "read_index": "181",
+      "tag_source": "source_en",
+      "source_jp": "もう一度行きませんか？",
+      "source_en": "Shall we go again?",
+      "text": "Sollen wir wieder gehen?"
+    },
+    {
+      "key": "simple_text_9141",
+      "read_index": "182",
+      "tag_source": "source_en",
+      "source_jp": "離脱します！",
+      "source_en": "Withdrawing!",
+      "text": "Zurückziehen!"
+    },
+    {
+      "key": "simple_text_9142",
+      "read_index": "183",
+      "tag_source": "source_en",
+      "source_jp": "リーダーを変更します",
+      "source_en": "Changing leader",
+      "text": "Führer wechseln"
+    },
+    {
+      "key": "simple_text_9143",
+      "read_index": "184",
+      "tag_source": "source_en",
+      "source_jp": "どんまい！",
+      "source_en": "Fret not!",
+      "text": "Freut euch nicht!"
+    },
+    {
+      "key": "simple_text_9144",
+      "read_index": "185",
+      "tag_source": "source_en",
+      "source_jp": "気にするな！",
+      "source_en": "Don't sweat it!",
+      "text": "Schwitze nicht!"
+    },
+    {
+      "key": "simple_text_9145",
+      "read_index": "186",
+      "tag_source": "source_en",
+      "source_jp": "気にしないで！",
+      "source_en": "Don't worry about it!",
+      "text": "Mach dir keine Sorgen darüber!"
+    },
+    {
+      "key": "simple_text_9146",
+      "read_index": "187",
+      "tag_source": "source_en",
+      "source_jp": "大丈夫です！",
+      "source_en": "It's okay!",
+      "text": "Es ist okay!"
+    },
+    {
+      "key": "simple_text_9147",
+      "read_index": "188",
+      "tag_source": "source_en",
+      "source_jp": "申し訳ない！",
+      "source_en": "Sorry for the trouble!",
+      "text": "Tut mir leid für die Mühe!"
+    },
+    {
+      "key": "simple_text_9148",
+      "read_index": "189",
+      "tag_source": "source_en",
+      "source_jp": "すみません！",
+      "source_en": "Sorry!",
+      "text": "Tut mir leid!"
+    },
+    {
+      "key": "simple_text_9149",
+      "read_index": "190",
+      "tag_source": "source_en",
+      "source_jp": "俺が！",
+      "source_en": "I'll...!",
+      "text": "Ich werde...!"
+    },
+    {
+      "key": "simple_text_9150",
+      "read_index": "191",
+      "tag_source": "source_en",
+      "source_jp": "私が！",
+      "source_en": "I'll...!",
+      "text": "Ich werde...!"
+    },
+    {
+      "key": "simple_text_9151",
+      "read_index": "192",
+      "tag_source": "source_en",
+      "source_jp": "状態異常に気を付けましょう！",
+      "source_en": "Watch for debilitations!",
+      "text": "Achte auf Schwächungen!"
+    },
+    {
+      "key": "simple_text_9152",
+      "read_index": "193",
+      "tag_source": "source_en",
+      "source_jp": "エンチャントを頼む！",
+      "source_en": "Requesting an enchantment!",
+      "text": "Eine Verzauberung erbitten!"
+    },
+    {
+      "key": "simple_text_9153",
+      "read_index": "194",
+      "tag_source": "source_en",
+      "source_jp": "エンチャントをお願い！",
+      "source_en": "Please enchant!",
+      "text": "Bitte verzauber sich!"
+    },
+    {
+      "key": "simple_text_9154",
+      "read_index": "195",
+      "tag_source": "source_en",
+      "source_jp": "ザコは無視しよう！",
+      "source_en": "Ignore the weaklings!",
+      "text": "Ignoriere die Schwächlinge!"
+    },
+    {
+      "key": "simple_text_9155",
+      "read_index": "196",
+      "tag_source": "source_en",
+      "source_jp": "ザコは無視しましょう！",
+      "source_en": "Let's ignore the weaklings!",
+      "text": "Lasst uns die Schwächlinge ignorieren!"
+    },
+    {
+      "key": "simple_text_9156",
+      "read_index": "197",
+      "tag_source": "source_en",
+      "source_jp": "この敵は倒そう！",
+      "source_en": "Kill this enemy!",
+      "text": "Tötet diesen Feind!"
+    },
+    {
+      "key": "simple_text_9157",
+      "read_index": "198",
+      "tag_source": "source_en",
+      "source_jp": "この敵は倒しましょう！",
+      "source_en": "Let's kill this enemy!",
+      "text": "Lasst uns diesen Feind töten!"
+    },
+    {
+      "key": "simple_text_9158",
+      "read_index": "199",
+      "tag_source": "source_en",
+      "source_jp": "先に行ってください",
+      "source_en": "Go ahead, don't wait up",
+      "text": "Mach weiter, warte nicht auf"
+    },
+    {
+      "key": "simple_text_9189",
+      "read_index": "200",
+      "tag_source": "source_en",
+      "source_jp": "急ごう！",
+      "source_en": "Hurry!",
+      "text": "Beeile sich!"
+    },
+    {
+      "key": "simple_text_9190",
+      "read_index": "201",
+      "tag_source": "source_en",
+      "source_jp": "急ぎましょう！",
+      "source_en": "Let's hurry!",
+      "text": "Beeilen wir uns!"
+    },
+    {
+      "key": "simple_text_9191",
+      "read_index": "202",
+      "tag_source": "source_en",
+      "source_jp": "焦らずに",
+      "source_en": "Stay calm",
+      "text": "Bleib ruhig"
+    },
+    {
+      "key": "simple_text_9192",
+      "read_index": "203",
+      "tag_source": "source_en",
+      "source_jp": "助かりました！",
+      "source_en": "I've been saved! Thanks!",
+      "text": "Ich bin gerettet worden! Danke!"
+    },
+    {
+      "key": "simple_text_9193",
+      "read_index": "204",
+      "tag_source": "source_en",
+      "source_jp": "う、動けない！",
+      "source_en": "I... I can't move!",
+      "text": "Ich... ich kann mich nicht bewegen!"
+    },
+    {
+      "key": "simple_text_9194",
+      "read_index": "205",
+      "tag_source": "source_en",
+      "source_jp": "少し準備します",
+      "source_en": "Getting ready",
+      "text": "Bereit sein"
+    },
+    {
+      "key": "simple_text_9195",
+      "read_index": "206",
+      "tag_source": "source_en",
+      "source_jp": "手を出すな",
+      "source_en": "Don't get involved",
+      "text": "Beteilige dich nicht"
+    },
+    {
+      "key": "simple_text_9196",
+      "read_index": "207",
+      "tag_source": "source_en",
+      "source_jp": "手を出さないで",
+      "source_en": "Please don't get involved",
+      "text": "Bitte engagiere sich nicht"
+    },
+    {
+      "key": "simple_text_9197",
+      "read_index": "208",
+      "tag_source": "source_en",
+      "source_jp": "敵を引きつける",
+      "source_en": "Attract the enemy",
+      "text": "Zieht den Feind an"
+    },
+    {
+      "key": "simple_text_9198",
+      "read_index": "209",
+      "tag_source": "source_en",
+      "source_jp": "敵を引きつけます",
+      "source_en": "Drawing the enemy over",
+      "text": "Den Feind über sich ziehen"
+    },
+    {
+      "key": "simple_text_9199",
+      "read_index": "210",
+      "tag_source": "source_en",
+      "source_jp": "俺に任せろ！",
+      "source_en": "Leave it to me!",
+      "text": "Überlasse es mir!"
+    },
+    {
+      "key": "simple_text_9200",
+      "read_index": "211",
+      "tag_source": "source_en",
+      "source_jp": "私に任せて！",
+      "source_en": "Entrust it to me!",
+      "text": "Vertraut es mir an!"
+    },
+    {
+      "key": "simple_text_9201",
+      "read_index": "212",
+      "tag_source": "source_en",
+      "source_jp": "俺の背中に隠れて！",
+      "source_en": "I'll hide on its back!",
+      "text": "Ich werde mich auf dem Rücken verstecken!"
+    },
+    {
+      "key": "simple_text_9202",
+      "read_index": "213",
+      "tag_source": "source_en",
+      "source_jp": "私の背中に隠れて！",
+      "source_en": "I'll hide on its back!",
+      "text": "Ich werde mich auf dem Rücken verstecken!"
+    },
+    {
+      "key": "simple_text_9203",
+      "read_index": "214",
+      "tag_source": "source_en",
+      "source_jp": "凍らせる！",
+      "source_en": "Freeze!",
+      "text": "Einfrieren!"
+    },
+    {
+      "key": "simple_text_9204",
+      "read_index": "215",
+      "tag_source": "source_en",
+      "source_jp": "凍らせます！",
+      "source_en": "Freezing it!",
+      "text": "Einfrieren!"
+    },
+    {
+      "key": "simple_text_9205",
+      "read_index": "216",
+      "tag_source": "source_en",
+      "source_jp": "スローにする！",
+      "source_en": "Slow it down!",
+      "text": "Verlangsame es!"
+    },
+    {
+      "key": "simple_text_9206",
+      "read_index": "217",
+      "tag_source": "source_en",
+      "source_jp": "スローにします！",
+      "source_en": "I'll slow it!",
+      "text": "Ich werde es verlangsamen!"
+    },
+    {
+      "key": "simple_text_9207",
+      "read_index": "218",
+      "tag_source": "source_en",
+      "source_jp": "眠らせる！",
+      "source_en": "Put it to sleep!",
+      "text": "Lege es in den Schlaf!"
+    },
+    {
+      "key": "simple_text_9208",
+      "read_index": "219",
+      "tag_source": "source_en",
+      "source_jp": "眠らせます！",
+      "source_en": "Putting it to sleep!",
+      "text": "Lege es in den Schlaf!"
+    },
+    {
+      "key": "simple_text_9209",
+      "read_index": "220",
+      "tag_source": "source_en",
+      "source_jp": "状態異常を狙う！",
+      "source_en": "Target status ailments!",
+      "text": "Ziel Status Beschwerden!"
+    },
+    {
+      "key": "simple_text_9210",
+      "read_index": "221",
+      "tag_source": "source_en",
+      "source_jp": "状態異常を狙います！",
+      "source_en": "I will target status effects!",
+      "text": "Ich werde Statuseffekte anvisieren!"
+    },
+    {
+      "key": "simple_text_9211",
+      "read_index": "222",
+      "tag_source": "source_en",
+      "source_jp": "状態異常にする！",
+      "source_en": "Inflict a status ailment!",
+      "text": "Verursacht eine Statuskrankheit!"
+    },
+    {
+      "key": "simple_text_9212",
+      "read_index": "223",
+      "tag_source": "source_en",
+      "source_jp": "状態異常にします！",
+      "source_en": "I'll inflict a status effect!",
+      "text": "Ich werde einen Statuseffekt verursachen!"
+    },
+    {
+      "key": "simple_text_9213",
+      "read_index": "224",
+      "tag_source": "source_en",
+      "source_jp": "弱点を攻撃してくれ！",
+      "source_en": "Attack the weak point!",
+      "text": "Angriff auf den Schwachpunkt!"
+    },
+    {
+      "key": "simple_text_9214",
+      "read_index": "225",
+      "tag_source": "source_en",
+      "source_jp": "弱点を攻撃して！",
+      "source_en": "Strike the weak point!",
+      "text": "Greif die Schwachstelle an!"
+    },
+    {
+      "key": "simple_text_9215",
+      "read_index": "226",
+      "tag_source": "source_en",
+      "source_jp": "別れて戦おう！",
+      "source_en": "Spread out and attack!",
+      "text": "Verbreiten und angreifen!"
+    },
+    {
+      "key": "simple_text_9216",
+      "read_index": "227",
+      "tag_source": "source_en",
+      "source_jp": "別れて戦いましょう！",
+      "source_en": "Let's split up and attack!",
+      "text": "Lasst uns aufteilen und angreifen!"
+    },
+    {
+      "key": "simple_text_9217",
+      "read_index": "228",
+      "tag_source": "source_en",
+      "source_jp": "集まってください！",
+      "source_en": "Gather 'round!",
+      "text": "'Gather' Round!"
+    },
+    {
+      "key": "simple_text_9218",
+      "read_index": "229",
+      "tag_source": "source_en",
+      "source_jp": "散らばってください！",
+      "source_en": "Spread out please!",
+      "text": "Verbreite bitte!"
+    },
+    {
+      "key": "simple_text_9219",
+      "read_index": "230",
+      "tag_source": "source_en",
+      "source_jp": "弱点を出そう！",
+      "source_en": "Reveal its weak spot!",
+      "text": "Zeige seine Schwachstelle!"
+    },
+    {
+      "key": "simple_text_9220",
+      "read_index": "231",
+      "tag_source": "source_en",
+      "source_jp": "弱点を狙おう！",
+      "source_en": "Aim for its weak spot!",
+      "text": "Zielt auf seine Schwachstelle!"
+    },
+    {
+      "key": "simple_text_9221",
+      "read_index": "232",
+      "tag_source": "source_en",
+      "source_jp": "弱点を攻撃しよう！",
+      "source_en": "Attack its weakspot!",
+      "text": "Greif seine Schwachstelle an!"
+    },
+    {
+      "key": "simple_text_9222",
+      "read_index": "233",
+      "tag_source": "source_en",
+      "source_jp": "スタミナを減らそう！",
+      "source_en": "Decrease its stamina!",
+      "text": "Verringer deine Ausdauer!"
+    },
+    {
+      "key": "simple_text_9223",
+      "read_index": "234",
+      "tag_source": "source_en",
+      "source_jp": "一気に揺さぶろう！",
+      "source_en": "Shake it without stopping!",
+      "text": "Schüttle es, ohne zu stoppen!"
+    },
+    {
+      "key": "simple_text_9224",
+      "read_index": "235",
+      "tag_source": "source_en",
+      "source_jp": "今助ける！",
+      "source_en": "I'll aid you at once!",
+      "text": "Ich helfe dir sofort!"
+    },
+    {
+      "key": "simple_text_9225",
+      "read_index": "236",
+      "tag_source": "source_en",
+      "source_jp": "今助けます！",
+      "source_en": "I'll help you now!",
+      "text": "Ich helfe dir jetzt!"
+    },
+    {
+      "key": "simple_text_9226",
+      "read_index": "237",
+      "tag_source": "source_en",
+      "source_jp": "こっちだ、跳ね上げる！",
+      "source_en": "Over here, jump!",
+      "text": "Hier drüben, spring!"
+    },
+    {
+      "key": "simple_text_9227",
+      "read_index": "238",
+      "tag_source": "source_en",
+      "source_jp": "こっちです、跳ね上げます！",
+      "source_en": "This way, now jump!",
+      "text": "Auf diese Weise, jetzt springen!"
+    },
+    {
+      "key": "simple_text_9228",
+      "read_index": "239",
+      "tag_source": "source_en",
+      "source_jp": "おきろ！",
+      "source_en": "Get up!",
+      "text": "Steh auf!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

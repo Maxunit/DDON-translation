@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\character_edit_dialog_win.gmd",
+  "arc_path": "\\ui\\uGUICharacterEditDialog.arc",
+  "entries": [
+    {
+      "key": "EDIT_MSG_DIALOG_EDIT_RETURN_LAUNCHER",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "ゲームを終了してランチャーに戻ります\r\nよろしいですか？\r\n(エディット情報のセーブは済ませましたか？)",
+      "source_en": "Exit the game and go back to the launcher\r\nOK?\r\n(Have you saved the edit information?)",
+      "text": "Verlasse das Spiel und gehst du zurück zum Launcher\r\nOK?\r\n(Hast du die Bearbeitungsinformationen gespeichert?)"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_EDIT_RETURN_TITLE",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "タイトル画面に戻ります\r\nよろしいですか？\r\n(エディット情報のセーブは済ませましたか？)",
+      "source_en": "Return to the title screen.\r\nDo you wish to proceed?\r\n(Have you saved the edit information?)",
+      "text": "Kehre zum Titelbildschirm zurück.\r\nWillst du fortfahren?\r\n(Hast du die Bearbeitungsinformationen gespeichert?)"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_ERROR_SPPARTS_NG",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "選択した声は未購入のポーンボイスです\r\nポーンボイスはオンラインショップで購入できます",
+      "source_en": "The voice you selected is an unpurchased pawn\r\nvoice\r\nPawn voices are available for purchase in the\r\nonline store",
+      "text": "Diese Vasallenstimme wurde noch\r\nnicht gekauft.\r\nVasallenstimmen sind im\r\nOnline-Shop erhältlich."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_REPLY_ONLINESHOP",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "オンラインショップで購入する",
+      "source_en": "Buy from Online Shop",
+      "text": "Kaufe im Online Shop"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_2_CANCEL",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "転生をキャンセルします\r\nよろしいですか？",
+      "source_en": "Canceling reincarnation\r\nDo you wish to proceed??",
+      "text": "Reinkarnation abbrechen\r\nWillst du weitermachen?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_2_ERR_01",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "名前、もしくは性別が変更されていません\r\n容姿だけを変更する場合は、美容院をご利用ください",
+      "source_en": "Name or gender has not been changed\r\nIf you only want to change your appearance,\r\nplease use a beauty salon",
+      "text": "Name und Geschlecht wurden nicht geändert.\r\nMöchtest du nur das Aussehen ändern,\r\nbesuche den Schönheitssalon."
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_2_ERR_02",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "性別が変更されていません\r\n容姿だけを変更する場合は、美容院をご利用ください",
+      "source_en": "Gender has not been changed\r\nIf you only want to change your appearance,\r\nplease use a beauty salon",
+      "text": "Das Geschlecht wurde nicht geändert\r\nWenn du nur dein Aussehen ändern willst,\r\nbitte einen Schönheitssalon benutzen"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_CANCEL",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "美容院をキャンセルします\r\nよろしいですか？",
+      "source_en": "Canceling changes\r\nDo you wish to proceed??",
+      "text": "Änderungen abbrechen\r\nWillst du weitermachen?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_CHOICE_PAY",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "支払い方法を選んでください",
+      "source_en": "Please select a payment method",
+      "text": "Wähle eine Zahlungsmethode"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_FIX",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>を使用して\r\nエディットを変更します\r\nよろしいですか？",
+      "source_en": "Use <VAL>\r\nto complete changes\r\nOK?",
+      "text": "Verwende <VAL>\r\n, um Änderungen abzuschließen\r\nOK?"
+    },
+    {
+      "key": "EDIT_MSG_DIALOG_SALON_NOTGP",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>が足りません",
+      "source_en": "<VAL>GP is not enough",
+      "text": "<VAL>GP ist nicht genug"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,144 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\ArisenCard.gmd",
+  "arc_path": "\\ui\\uGUIArisenCardPop.arc",
+  "entries": [
+    {
+      "key": "ARISEN_CARD_TEXT_CHARACTER",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "性格：",
+      "source_en": "Pers.:",
+      "text": "Persönlichkeit:"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_CM",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> cm",
+      "source_en": "<VAL> cm",
+      "text": "<VAL> cm"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_ELEMENT",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "Element",
+      "source_en": "Element",
+      "text": "Element"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_HISTORY",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "History",
+      "source_en": "History",
+      "text": "Chronik"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_HP",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "HP",
+      "source_en": "HP",
+      "text": "LP"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_JOBLV",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "Job LV",
+      "source_en": "Job LV",
+      "text": "Klassenstufe"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_LV",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "LV.",
+      "source_en": "LV.",
+      "text": "St."
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_OFFENCE",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "Offence",
+      "source_en": "Offence",
+      "text": "Angriff"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_ORBTITLE",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "- Dedication Orb -",
+      "source_en": "- Dedication Orb -",
+      "text": "– Blutkugel-Opfergabe –"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PARCENT",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> %",
+      "source_en": "<VAL> %",
+      "text": "<VAL> %"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_PROFILE",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "Profile",
+      "source_en": "Profile",
+      "text": "Profil"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_RANK",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "RANK.",
+      "source_en": "RANK.",
+      "text": "Rang"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_RENTAL",
+      "read_index": "81",
+      "tag_source": "source_en",
+      "source_jp": "Rental",
+      "source_en": "Rental",
+      "text": "Ausleihe"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_SLASH",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "/ <VAL>",
+      "source_en": "/ <VAL>",
+      "text": "/ <VAL>"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_ST",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "ST",
+      "source_en": "ST",
+      "text": "ST"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_STATUS",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "Status",
+      "source_en": "Status",
+      "text": "Status"
+    },
+    {
+      "key": "ARISEN_CARD_TEXT_TABSTATUS",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "ステータス",
+      "source_en": "Status",
+      "text": "Status"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

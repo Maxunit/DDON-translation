@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\pawn_personality.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "pawn_personality_1",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ノーマル",
+      "source_en": "Normal",
+      "text": "Standard"
+    },
+    {
+      "key": "pawn_personality_7",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ワイルド",
+      "source_en": "Wild",
+      "text": "Wild"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

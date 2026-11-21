@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\map.gmd",
+  "arc_path": "\\ui\\uGUIMap.arc",
+  "entries": [
+    {
+      "key": "map_menumap_guide_chat",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "チャット",
+      "source_en": "Chat",
+      "text": "Chat"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

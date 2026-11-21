@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\system_log.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "syslog_bo_lost",
+      "read_index": "199",
+      "tag_source": "source_en",
+      "source_jp": "<VAL BO>を消費しました",
+      "source_en": "<VAL BO> spent.",
+      "text": "<VAL BO> ausgegeben."
+    },
+    {
+      "key": "syslog_bo_possession_max",
+      "read_index": "375",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN BO>が最大に達したため、これ以上獲得できません",
+      "source_en": "You have reached the maximum \r\namount of <UNTN BO>\r\nand cannot earn any more.",
+      "text": "Du hast den maximalen\r\n Betrag von <UNTN BO>\r\n erreicht und können nicht mehr verdienen."
+    },
+    {
+      "key": "syslog_break_region_lose_raid_boss",
+      "read_index": "234",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>の部位が壊れた！",
+      "source_en": "Part of <VAL> has broken!",
+      "text": "Ein Teil von <VAL> ist zerbrochen!"
+    },
+    {
+      "key": "syslog_break_region_raid_boss",
+      "read_index": "232",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>の部位破壊に成功！\r\n討伐成功時にボーナス追加！",
+      "source_en": "Successfully broke part of <VAL>!\r\nAdditional bonus on clear!",
+      "text": "Erfolgreich gebrochen Teil von <VAL>!\r\nZusätzlicher Bonus auf klar!"
+    },
+    {
+      "key": "syslog_captrophy_complete",
+      "read_index": "240",
+      "tag_source": "source_en",
+      "source_jp": "カプトロフィーの条件を達成しました",
+      "source_en": "Achieved the conditions of a Cap Trophy.",
+      "text": "Erreicht die Bedingungen einer Cap Trophy."
+    },
+    {
+      "key": "syslog_change_xp_mode",
+      "read_index": "251",
+      "tag_source": "source_en",
+      "source_jp": "%sの入手ポイントを%sに切り替えました",
+      "source_en": "Switched %s to %s-earning mode.",
+      "text": "Umgeschaltet %s in den %s-Verdienstmodus."
+    },
+    {
+      "key": "syslog_charge_course_end",
+      "read_index": "158",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ETC> が切れました",
+      "source_en": "<NAME ETC> \r\nhas expired.",
+      "text": "<NAME ETC>\r\n ist abgelaufen."
+    },
+    {
+      "key": "syslog_charge_course_limit_1h",
+      "read_index": "156",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ETC> の効果が、残り1時間をきりました",
+      "source_en": "<NAME ETC> \r\nhas under one hour remaining.",
+      "text": "<NAME ETC>\r\nhat weniger als eine Stunde übrig."
+    },
+    {
+      "key": "syslog_charge_course_limit_24h",
+      "read_index": "157",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ETC> の効果が、残り24時間をきりました",
+      "source_en": "<NAME ETC> \r\nhas under 24 hours remaining.",
+      "text": "<NAME ETC>\r\nhat weniger als 24 Stunden übrig."
+    },
+    {
+      "key": "syslog_charge_course_start",
+      "read_index": "155",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ETC> が発動しました",
+      "source_en": "<NAME ETC> \r\nhas been activated.",
+      "text": "<NAME ETC>\r\n wurde aktiviert."
+    },
+    {
+      "key": "syslog_chatmacro_error",
+      "read_index": "143",
+      "tag_source": "source_en",
+      "source_jp": "そのコマンドは実行できません",
+      "source_en": "Command failed to execute.",
+      "text": "Das Kommando konnte nicht ausgeführt werden."
+    },
+    {
+      "key": "syslog_clan_base_release_possible",
+      "read_index": "257",
+      "tag_source": "source_en",
+      "source_jp": "<STG 210>が解放可能になりました\r\nクラン酒場にいるキビザを訪ねてください",
+      "source_en": "<STG 210> is now available for unlocking.\r\nPlease visit Kibiza at the Clan Tavern.",
+      "text": "<STG 210> steht jetzt zum Freischalten zur Verfügung.\r\nBitte besuche Kibiza in der Clan Taverne."
+    },
+    {
+      "key": "syslog_clan_base_released",
+      "read_index": "249",
+      "tag_source": "source_en",
+      "source_jp": "<STG 210>を解放しました",
+      "source_en": "<STG 210> is now available.",
+      "text": "<STG 210> ist jetzt verfügbar."
+    },
+    {
+      "key": "syslog_clan_chg_leader",
+      "read_index": "150",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>がクランリーダーになりました",
+      "source_en": "<NAME TARGET> \r\nis now a Clan Officer.",
+      "text": "<NAME TARGET>\r\nist jetzt ein Clan Officer."
+    },
+    {
+      "key": "syslog_clan_chg_master",
+      "read_index": "149",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>がクランマスターになりました",
+      "source_en": "<NAME TARGET> \r\nis now the Clan Master.",
+      "text": "<NAME TARGET>\r\nist jetzt der Clan-Meister."
+    },
+    {
+      "key": "syslog_clan_clue_discover",
+      "read_index": "262",
+      "tag_source": "source_en",
+      "source_jp": "%s が %s を発見しました",
+      "source_en": "%s has discovered %s",
+      "text": "%s hat entdeckt %s"
+    },
+    {
+      "key": "syslog_clan_common_unlock",
+      "read_index": "264",
+      "tag_source": "source_en",
+      "source_jp": "%s が解放されました",
+      "source_en": "%s unlocked.",
+      "text": "%s freigeschaltet."
+    },
+    {
+      "key": "syslog_clan_create",
+      "read_index": "144",
+      "tag_source": "source_en",
+      "source_jp": "クランを作成しました",
+      "source_en": "The clan has been created.",
+      "text": "Der Clan wurde geschaffen."
+    },
+    {
+      "key": "syslog_clan_dungeon_unlock",
+      "read_index": "263",
+      "tag_source": "source_en",
+      "source_jp": "クランダンジョン %s が解放されました",
+      "source_en": "The clan dungeon %s is now open!",
+      "text": "Der Clan-Dungeon %s ist jetzt geöffnet!"
+    },
+    {
+      "key": "syslog_clan_invite",
+      "read_index": "145",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>からクランへの招待があります",
+      "source_en": "<NAME TARGET> \r\nhas been invited to the clan.",
+      "text": "<NAME TARGET>\r\nwurde zum Clan eingeladen."
+    },
+    {
+      "key": "syslog_clan_join",
+      "read_index": "148",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>がクランに加入しました",
+      "source_en": "<NAME TARGET> \r\nhas joined the clan.",
+      "text": "<NAME TARGET>\r\n hat sich dem Clan angeschlossen."
+    },
+    {
+      "key": "syslog_clan_join_other",
+      "read_index": "147",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>がクランに加入しました",
+      "source_en": "<NAME TARGET> has joined the clan.",
+      "text": "<NAME TARGET> hat sich dem Clan angeschlossen."
+    },
+    {
+      "key": "syslog_clan_member_getachievement",
+      "read_index": "236",
+      "tag_source": "source_en",
+      "source_jp": "%sがアチーブメント「%s」を獲得しました",
+      "source_en": "%s earned achievement \"%s\".",
+      "text": "%s verdiente Leistung \"%s\"."
+    },
+    {
+      "key": "syslog_clan_member_login",
+      "read_index": "235",
+      "tag_source": "source_en",
+      "source_jp": "%sがログインしました",
+      "source_en": "%s has logged in.",
+      "text": "%s hat sich angemeldet."
+    },
+    {
+      "key": "syslog_clan_point_use",
+      "read_index": "250",
+      "tag_source": "source_en",
+      "source_jp": "%s %sが、%sを購入しました（-%d <UNIT CP>）",
+      "source_en": "%s %s purchased %s (-%d <UNIT CP>)",
+      "text": "%s %s gekauft %s (-%d <UNIT CP>)"
+    },
+    {
+      "key": "syslog_clan_req",
+      "read_index": "146",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>からクラン加入申請がありました",
+      "source_en": "<NAME TARGET> has requested to join the clan.",
+      "text": "<NAME TARGET> hat darum gebeten, dem Clan beizutreten."
+    },
+    {
+      "key": "syslog_clanlevelup",
+      "read_index": "254",
+      "tag_source": "source_en",
+      "source_jp": "クランレベルが<VAL>になりました",
+      "source_en": "Clan level is now <VAL>.",
+      "text": "Clan-Level ist jetzt <VAL>."
+    },
+    {
+      "key": "syslog_content_anounce_calcurate",
+      "read_index": "89",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>が集計期間中です",
+      "source_en": "<NAME QUEST> is\r\ncurrently in progress.",
+      "text": "<NAME QUEST> ist\r\nderzeit in Arbeit."
+    },
+    {
+      "key": "syslog_content_anounce_hold",
+      "read_index": "88",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>が開催期間中です",
+      "source_en": "<NAME QUEST> is\r\ncurrently in progress.",
+      "text": "<NAME QUEST> ist\r\nderzeit in Arbeit."
+    },
+    {
+      "key": "syslog_content_anounce_prepare",
+      "read_index": "87",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>が準備期間中です",
+      "source_en": "<NAME QUEST> is currently\r\nin the preparation period.",
+      "text": "<NAME QUEST> ist derzeit\r\nin der Vorbereitungszeit."
+    },
+    {
+      "key": "syslog_content_anounce_reward",
+      "read_index": "90",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>が報酬受取期間中です",
+      "source_en": "<NAME QUEST> has a reward\r\navailable to claim.",
+      "text": "<NAME QUEST> hat eine Belohnung\r\n zur Verfügung, um zu behaupten."
+    },
+    {
+      "key": "syslog_content_boss_beat",
+      "read_index": "81",
+      "tag_source": "source_en",
+      "source_jp": "<EMNM n>を退けました",
+      "source_en": "<EMNM n> has been repelled.",
+      "text": "<EMNM n> wurde abgestoßen."
+    },
+    {
+      "key": "syslog_content_boss_defeat",
+      "read_index": "82",
+      "tag_source": "source_en",
+      "source_jp": "<EMNM n>を討伐しました",
+      "source_en": "<EMNM n> was defeated.",
+      "text": "<EMNM n> wurde besiegt."
+    },
+    {
+      "key": "syslog_content_buff_get",
+      "read_index": "336",
+      "tag_source": "source_en",
+      "source_jp": "\"<VAL>\"の効果が付与されました",
+      "source_en": "\"<VAL>\" effect has been applied.",
+      "text": "\"<VAL>\" Effekt wurde angewendet."
+    },
+    {
+      "key": "syslog_content_buff_lost",
+      "read_index": "337",
+      "tag_source": "source_en",
+      "source_jp": "\"<VAL>\"の効果が解除されました",
+      "source_en": "\"<VAL>\" effect has been removed.",
+      "text": "\"<VAL>\" Effekt wurde entfernt."
+    },
+    {
+      "key": "syslog_content_convoy_hp_half",
+      "read_index": "75",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>のHPが50％をきりました",
+      "source_en": "<NAME TARGET>'s HP has dropped below 50%.",
+      "text": "Die LP von <NAME TARGET> sind unter 50%."
+    },
+    {
+      "key": "syslog_content_convoy_hp_little",
+      "read_index": "76",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>のHPが瀕死状態です",
+      "source_en": "<NAME TARGET>'s \r\nHP is in critical condition",
+      "text": "<NAME TARGET>'s\r\nHP ist in kritischem Zustand"
+    },
+    {
+      "key": "syslog_content_convoy_hp_zero",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>が倒れました",
+      "source_en": "<NAME TARGET> has been defeated.",
+      "text": "<NAME TARGET> wurde besiegt."
+    },
+    {
+      "key": "syslog_content_end_by_escape",
+      "read_index": "84",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>を離脱により終了します",
+      "source_en": "<NAME QUEST>\r\nended by leaving.",
+      "text": "<NAME QUEST>\r\n durch das Verlassen beendet."
+    },
+    {
+      "key": "syslog_content_end_by_friends_down",
+      "read_index": "85",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>を<NAME TARGET>が倒れたため、終了します",
+      "source_en": "The quest\r\n<NAME QUEST> will end as\r\n<NAME TARGET> has fallen.",
+      "text": "Die Suche\r\n<NAME QUEST> wird enden, da\r\n<NAME TARGET> gefallen ist."
+    },
+    {
+      "key": "syslog_content_end_by_timeup",
+      "read_index": "86",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>をタイムアップにより終了します",
+      "source_en": "<NAME QUEST> ended due\r\nto the time limit.",
+      "text": "<NAME QUEST> endete fällig\r\nbis zum Zeitlimit."
+    },
+    {
+      "key": "syslog_content_enemy_engage",
+      "read_index": "74",
+      "tag_source": "source_en",
+      "source_jp": "<EMNM n>が乱入しました",
+      "source_en": "<EMNM n> has intruded.",
+      "text": "<EMNM n> ist eingedrungen."
+    },
+    {
+      "key": "syslog_content_entry",
+      "read_index": "159",
+      "tag_source": "source_en",
+      "source_jp": "エクストリームミッションにエントリーしました",
+      "source_en": "You have applied for the Extreme Mission.",
+      "text": "Du hast sich für die Extremmission beworben."
+    },
+    {
+      "key": "syslog_content_pawn_add_reward",
+      "read_index": "79",
+      "tag_source": "source_en",
+      "source_jp": "セカンドポーンの恩恵により<NAME QUEST>に報酬が追加されました",
+      "source_en": "With the benefit of the Second Pawn,\r\nrewards have been added to\r\n<NAME QUEST>.",
+      "text": "Mit dem Vorteil der zweiten Vasall,\r\nBelohnungen wurden hinzugefügt\r\n<NAME QUEST>."
+    },
+    {
+      "key": "syslog_content_pawn_get_pawn",
+      "read_index": "80",
+      "tag_source": "source_en",
+      "source_jp": "セカンドポーンが仲間に加わりました",
+      "source_en": "A second pawn has joined the group.",
+      "text": "Ein zweiter Vasall ist der Gruppe beigetreten."
+    },
+    {
+      "key": "syslog_content_pawn_rescure_success",
+      "read_index": "78",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>(共闘ポーン名)の援護に成功しました",
+      "source_en": "<NAME TARGET> \r\nhas been rescued!",
+      "text": "<NAME TARGET>\r\nwurde gerettet!"
+    },
+    {
+      "key": "syslog_content_reward_get_boarder",
+      "read_index": "91",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>の累計スコア報酬が保管ボックスに入りました",
+      "source_en": "<NAME QUEST> total score\r\nreward has been placed\r\ninto the storage box.",
+      "text": "<NAME QUEST> Gesamtpunktzahl\r\nBelohnung wurde in die Speicherbox gelegt\r\n."
+    },
+    {
+      "key": "syslog_content_reward_get_ranked",
+      "read_index": "92",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>のランキング報酬が保管ボックスに入りました",
+      "source_en": "<NAME QUEST> ranking\r\nreward has been placed\r\ninto the storage box.",
+      "text": "<NAME QUEST> Rangfolge\r\nDie Belohnung wurde vergeben\r\nin die Aufbewahrungsbox."
+    },
+    {
+      "key": "syslog_content_start",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>を開始しました",
+      "source_en": "<NAME QUEST> has begun.",
+      "text": "<NAME QUEST> hat begonnen."
+    },
+    {
+      "key": "syslog_content_update",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "<NAME QUEST>：≪小目的テキスト≫",
+      "source_en": "<NAME QUEST>: <<Text for Sub-objective>>",
+      "text": "<NAME QUEST>: <<Text for Sub-objective>>"
+    },
+    {
+      "key": "syslog_cp_get",
+      "read_index": "252",
+      "tag_source": "source_en",
+      "source_jp": "<VAL CP>を入手しました",
+      "source_en": "<VAL CP> obtained.",
+      "text": "<VAL CP> erhalten."
+    },
+    {
+      "key": "syslog_craft_complete",
+      "read_index": "105",
+      "tag_source": "source_en",
+      "source_jp": "クラフトが完成しました",
+      "source_en": "Crafting has completed.",
+      "text": "Crafting ist abgeschlossen."
+    },
+    {
+      "key": "syslog_craft_consume_gold",
+      "read_index": "98",
+      "tag_source": "source_en",
+      "source_jp": "<VAL GOLD>を消費しました",
+      "source_en": "<VAL GOLD> spent.",
+      "text": "<VAL GOLD> ausgegeben."
+    },
+    {
+      "key": "syslog_craft_consume_item",
+      "read_index": "97",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ITEM>を<VAL>個、消費しました",
+      "source_en": "<NAME ITEM> x<VAL> consumed.",
+      "text": "<NAME ITEM> x<VAL> verbraucht."
+    },
+    {
+      "key": "syslog_craft_crest_break",
+      "read_index": "103",
+      "tag_source": "source_en",
+      "source_jp": "クレストを破壊しました",
+      "source_en": "The crest has been broken.",
+      "text": "Der Kamm ist zerbrochen."
+    },
+    {
+      "key": "syslog_craft_exp_get",
+      "read_index": "101",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>がクラフト経験値<VAL XP>を取得しました",
+      "source_en": "<NAME PAWN> \r\nhas gained <VAL XP> for crafting.",
+      "text": "<NAME PAWN>\r\n hat <VAL XP> für die Herstellung gewonnen."
+    },
+    {
+      "key": "syslog_craft_exp_get_ex",
+      "read_index": "277",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>がクラフト経験値<VAL> (+<VAL>) <UNIT XP>を取得しました",
+      "source_en": "<NAME PAWN> \r\nhas gained <VAL> (+<VAL>) <UNIT XP> for crafting.",
+      "text": "<NAME PAWN>\r\n hat gewonnen <VAL> (+<VAL>) <UNIT XP> für Handwerk."
+    },
+    {
+      "key": "syslog_craft_levelup",
+      "read_index": "104",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>のクラフトレベルが<VAL>になりました",
+      "source_en": "<NAME PAWN> \r\nhas reached craft level <VAL>.",
+      "text": "<NAME PAWN>\r\n hat die Ebene des Handwerks erreicht <VAL>."
+    },
+    {
+      "key": "syslog_craft_recieve",
+      "read_index": "100",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ITEM>を受け取りました",
+      "source_en": "<NAME ITEM> has been received from crafting.",
+      "text": "<NAME ITEM> wurde vom Handwerk erhalten."
+    },
+    {
+      "key": "syslog_craft_recieve2",
+      "read_index": "196",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ITEM>を<VAL>個、受け取りました",
+      "source_en": "<NAME ITEM> x<VAL> obtained.",
+      "text": "<NAME ITEM> x<VAL> erhalten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

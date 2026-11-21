@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\tutorial.gmd",
+  "arc_path": "\\ui\\uGUIMenuTutorial.arc",
+  "entries": [
+    {
+      "key": "TUTORIAL_MSG_POPTITLE",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Tutorial",
+      "source_en": "Tutorial",
+      "text": "Tutorial"
+    },
+    {
+      "key": "TUTORIAL_MSG_TITLE_01",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "Tutorial",
+      "source_en": "Tutorial",
+      "text": "Tutorial"
+    },
+    {
+      "key": "TUTORIAL_MSG_TITLE_02",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "チュートリアル",
+      "source_en": "Tutorial",
+      "text": "Tutorial"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

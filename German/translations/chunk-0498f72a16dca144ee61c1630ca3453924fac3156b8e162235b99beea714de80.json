@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\item_work.gmd",
+  "arc_path": "\\ui\\uGUIPopDetail01.arc",
+  "entries": [
+    {
+      "key": "ITEM_WORK_1",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "体力回復",
+      "source_en": "Heal",
+      "text": "LP wiederherstellen"
+    },
+    {
+      "key": "ITEM_WORK_2",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "スタミナ回復",
+      "source_en": "Stamina",
+      "text": "Ausdauer wiederherstellen"
+    },
+    {
+      "key": "ITEM_WORK_3",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "「毒」解消",
+      "source_en": "Cure Poison",
+      "text": "Gift heilen"
+    },
+    {
+      "key": "ITEM_WORK_4",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "「遅延」解消",
+      "source_en": "Cure Torpor",
+      "text": "Verlangsamung aufheben"
+    },
+    {
+      "key": "ITEM_WORK_5",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "「睡眠」解消",
+      "source_en": "Cure Sleep",
+      "text": "Schlaf aufheben"
+    },
+    {
+      "key": "ITEM_WORK_6",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "「気絶」解消",
+      "source_en": "Cure Stun",
+      "text": "Betäubung aufheben"
+    },
+    {
+      "key": "ITEM_WORK_7",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "「水濡れ」解消",
+      "source_en": "Cure Drench",
+      "text": "Nässe entfernen"
+    },
+    {
+      "key": "ITEM_WORK_8",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "「油濡れ」解消",
+      "source_en": "Cure Tar",
+      "text": "Öl entfernen"
+    },
+    {
+      "key": "ITEM_WORK_9",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "「スキル封印」解消",
+      "source_en": "Cure Skill Stifling",
+      "text": "Fertigkeitssiegel aufheben"
+    },
+    {
+      "key": "ITEM_WORK_10",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "「軟化」解消",
+      "source_en": "Cure Frail",
+      "text": "Erweichung aufheben"
+    },
+    {
+      "key": "ITEM_WORK_11",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "「石化」解消",
+      "source_en": "Cure Petrification",
+      "text": "Versteinerung aufheben"
+    },
+    {
+      "key": "ITEM_WORK_12",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "「黄金化」解消",
+      "source_en": "Cure Gilded",
+      "text": "Vergoldung aufheben"
+    },
+    {
+      "key": "ITEM_WORK_13",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "「延焼」解消",
+      "source_en": "Cure Burning",
+      "text": "Brand löschen"
+    },
+    {
+      "key": "ITEM_WORK_14",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "「凍結」解消",
+      "source_en": "Cure Frozen",
+      "text": "Einfrieren aufheben"
+    },
+    {
+      "key": "ITEM_WORK_15",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "「炎防低下」解消",
+      "source_en": "Cure Fire Res. Down",
+      "text": "Feuerresistenz wiederherstellen"
+    },
+    {
+      "key": "ITEM_WORK_16",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "「氷防低下」解消",
+      "source_en": "Cure Ice Res. Down",
+      "text": "Eisresistenz wiederherstellen"
+    },
+    {
+      "key": "ITEM_WORK_17",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "「雷防低下」解消",
+      "source_en": "Cure Lightning Res. Down",
+      "text": "Blitzresistenz wiederherstellen"
+    },
+    {
+      "key": "ITEM_WORK_18",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "「聖防低下」解消",
+      "source_en": "Cure Holy Res. Down",
+      "text": "Heiligresistenz wiederherstellen"
+    },
+    {
+      "key": "ITEM_WORK_19",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "「闇防低下」解消",
+      "source_en": "Cure Dark Res. Down",
+      "text": "Dunkelresistenz wiederherstellen"
+    },
+    {
+      "key": "ITEM_WORK_20",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "「物攻低下」解消",
+      "source_en": "Cure Phys. Atk. Down",
+      "text": "Physischen Angriff wiederherstellen"
+    },
+    {
+      "key": "ITEM_WORK_21",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "「物防低下」解消",
+      "source_en": "Cure Phys. Def. Down",
+      "text": "Physische Abwehr wiederherstellen"
+    },
+    {
+      "key": "ITEM_WORK_22",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "「魔攻低下」解消",
+      "source_en": "Cure Mag. Atk. Down",
+      "text": "Magischen Angriff wiederherstellen"
+    },
+    {
+      "key": "ITEM_WORK_23",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "「魔防低下」解消",
+      "source_en": "Cure Mag. Def. Down",
+      "text": "Magische Abwehr wiederherstellen"
+    },
+    {
+      "key": "ITEM_WORK_24",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "「物攻上昇」付加",
+      "source_en": "Phys. Attack Up",
+      "text": "Physischen Angriff erhöhen"
+    },
+    {
+      "key": "ITEM_WORK_25",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "「物防上昇」付加",
+      "source_en": "Phys. Defense Up",
+      "text": "Physische Abwehr erhöhen"
+    },
+    {
+      "key": "ITEM_WORK_26",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "「魔攻上昇」付加",
+      "source_en": "Mag. Attack Up",
+      "text": "Magischen Angriff erhöhen"
+    },
+    {
+      "key": "ITEM_WORK_27",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "「魔防上昇」付加",
+      "source_en": "Mag. Defense Up",
+      "text": "Magische Abwehr erhöhen"
+    },
+    {
+      "key": "ITEM_WORK_28",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "「吹き飛ばし力上昇」付加",
+      "source_en": "Knockdown Power Up",
+      "text": "Niederschlagskraft erhöhen"
+    },
+    {
+      "key": "ITEM_WORK_29",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "「耐久力上昇」付加",
+      "source_en": "Endurance Up",
+      "text": "Standfestigkeit erhöhen"
+    },
+    {
+      "key": "ITEM_WORK_30",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "「生命治癒力上昇」付加",
+      "source_en": "Recovery Limit Up",
+      "text": "Heilungsgrenze erhöhen"
+    },
+    {
+      "key": "ITEM_WORK_31",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "「体力上昇」付加",
+      "source_en": "Max Health Up",
+      "text": "Maximale LP erhöhen"
+    },
+    {
+      "key": "ITEM_WORK_32",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "「スタミナ上昇」付加",
+      "source_en": "Max Stamina Up",
+      "text": "Maximale Ausdauer erhöhen"
+    },
+    {
+      "key": "ITEM_WORK_33",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "「闇霧」解消",
+      "source_en": "Cure Blinding",
+      "text": "Blindheit heilen"
+    },
+    {
+      "key": "ITEM_WORK_34",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "復活（単体）",
+      "source_en": "Revival (individual)",
+      "text": "Wiederbelebung (einzeln)"
+    },
+    {
+      "key": "ITEM_WORK_35",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "復活（３個単位）",
+      "source_en": "Revival (x3)",
+      "text": "Wiederbelebung (3 Stück)"
+    },
+    {
+      "key": "ITEM_WORK_36",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "ランタン点灯",
+      "source_en": "Light Lantern",
+      "text": "Laterne anzünden"
+    },
+    {
+      "key": "ITEM_WORK_110",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "ゴールド入手",
+      "source_en": "Gold Available",
+      "text": "Gold erhalten"
+    },
+    {
+      "key": "ITEM_WORK_111",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "リム入手",
+      "source_en": "Rift Crystals Available",
+      "text": "Riftkristalle erhalten"
+    },
+    {
+      "key": "ITEM_WORK_112",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "オーブ入手",
+      "source_en": "Orbs Available",
+      "text": "Sphären erhalten"
+    },
+    {
+      "key": "ITEM_WORK_113",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "エリクシル・毒",
+      "source_en": "Poison Elixir",
+      "text": "Giftelixier"
+    },
+    {
+      "key": "ITEM_WORK_114",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "エリクシル・睡眠",
+      "source_en": "Sleep Elixir",
+      "text": "Schlafelixier"
+    },
+    {
+      "key": "ITEM_WORK_115",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "エリクシル・気絶",
+      "source_en": "Stun Elixir",
+      "text": "Betäubungselixier"
+    },
+    {
+      "key": "ITEM_WORK_116",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "エリクシル・炎防低下",
+      "source_en": "Fire Resist Down Elixir",
+      "text": "Elixier gegen Feuerresistenz"
+    },
+    {
+      "key": "ITEM_WORK_117",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "エリクシル・氷防低下",
+      "source_en": "Ice Resist Down Elixir",
+      "text": "Elixier gegen Eisresistenz"
+    },
+    {
+      "key": "ITEM_WORK_118",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "エリクシル・雷防低下",
+      "source_en": "Lightning Resist Down Elixir",
+      "text": "Elixier gegen Blitzresistenz"
+    },
+    {
+      "key": "ITEM_WORK_119",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "エリクシル・聖防低下",
+      "source_en": "Holy Resist Down Elixir",
+      "text": "Elixier gegen Heiligresistenz"
+    },
+    {
+      "key": "ITEM_WORK_120",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "エリクシル・闇防低下",
+      "source_en": "Dark Resist Down Elixir",
+      "text": "Elixier gegen Dunkelresistenz"
+    },
+    {
+      "key": "ITEM_WORK_121",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "エリクシル・封印",
+      "source_en": "Skill Seal Elixir",
+      "text": "Elixier der Fertigkeitsversiegelung"
+    },
+    {
+      "key": "ITEM_WORK_122",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "エリクシル・石化",
+      "source_en": "Petrification Elixir",
+      "text": "Versteinerungselixier"
+    },
+    {
+      "key": "ITEM_WORK_123",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "エリクシル・黄金化",
+      "source_en": "Gilded Elixir",
+      "text": "Vergoldungselixier"
+    },
+    {
+      "key": "ITEM_WORK_124",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "通貨入手",
+      "source_en": "Currency Available",
+      "text": "Währung erhalten"
+    },
+    {
+      "key": "ITEM_WORK_125",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "「感電」解消",
+      "source_en": "Cure Shocked",
+      "text": "Stromschlag aufheben"
+    },
+    {
+      "key": "ITEM_WORK_126",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "「侵食」解消",
+      "source_en": "Cure Corruption",
+      "text": "Verderbnis heilen"
+    },
+    {
+      "key": "ITEM_WORK_127",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "「侵食耐性」付加",
+      "source_en": "Grant Corruption Resist Up",
+      "text": "Verderbnisresistenz erhöhen"
+    },
+    {
+      "key": "ITEM_WORK_128",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "ジョブポイント入手",
+      "source_en": "Job Points Acquisition",
+      "text": "Klassenpunkte erhalten"
+    },
+    {
+      "key": "ITEM_WORK_129",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "エリアポイント入手",
+      "source_en": "Area Points Acquisition",
+      "text": "Gebietspunkte erhalten"
+    },
+    {
+      "key": "ITEM_WORK_130",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "スキル習得",
+      "source_en": "Skill Acquisition",
+      "text": "Fertigkeit erlernen"
+    },
+    {
+      "key": "ITEM_WORK_131",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "アビリティ習得",
+      "source_en": "Augment Acquisition",
+      "text": "Begabung erlernen"
+    },
+    {
+      "key": "ITEM_WORK_132",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "経験値入手",
+      "source_en": "Experience points acquisition",
+      "text": "Erfahrungspunkte erhalten"
+    },
+    {
+      "key": "ITEM_WORK_133",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "家具入手【家具アイテム専用】",
+      "source_en": "Furniture Acquisition [For Furniture Items Only]",
+      "text": "Möbel erhalten (nur Möbelgegenstände)"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

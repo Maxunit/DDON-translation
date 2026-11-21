@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\clan_scout.gmd",
+  "arc_path": "\\ui\\uGUIClanScout.arc",
+  "entries": [
+    {
+      "key": "CLAN_SCOUT_COMMENT_JP",
+      "read_index": "24",
+      "tag_source": "source_jp",
+      "source_jp": "Comment",
+      "source_en": " ",
+      "text": "Kommentar"
+    },
+    {
+      "key": "CLAN_SCOUT_INDEX_JP",
+      "read_index": "22",
+      "tag_source": "source_jp",
+      "source_jp": "スカウトエントリー",
+      "source_en": " ",
+      "text": "Für Clanrekrutierung melden"
+    },
+    {
+      "key": "CLAN_SCOUT_MEMBER_NUM",
+      "read_index": "20",
+      "tag_source": "source_jp",
+      "source_jp": "<VAL>名",
+      "source_en": "<VAL>",
+      "text": "<VAL> Mitglieder"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_COMMENT_E",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "Comment",
+      "source_en": "Comment",
+      "text": "Kommentar"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_MOTTO",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "モットー",
+      "source_en": "Motto",
+      "text": "Motto"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_NAME",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "CLAN_SCOUT_MSG_VAL_MD",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>/<VAL MAX>",
+      "source_en": "<VAL>/<VAL MAX>",
+      "text": "<VAL>/<VAL MAX>"
+    },
+    {
+      "key": "CLAN_SCOUT_NAME",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_KICK_ERR_QUICK_PT",
+      "read_index": "284",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティー中はキックできません",
+      "source_en": "You cannot kick in a quick party.",
+      "text": "Du kannst nicht in eine schnelle Gruppe treten."
+    },
+    {
+      "key": "ana_PARTNERPAWN_SET_conf",
+      "read_index": "451",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>を\r\nパートナーポーンに設定しますか？",
+      "source_en": "<NAME PAWN> \r\nwill be set as Partner Pawn. \r\nDo you want to proceed?",
+      "text": "<NAME PAWN>\r\nwird als Partnervasall gesetzt.\r\nWollen du fortfahrst?"
+    },
+    {
+      "key": "ana_PARTNERPAWN_SET_ng_configured",
+      "read_index": "447",
+      "tag_source": "source_en",
+      "source_jp": "すでに設定済みです",
+      "source_en": "The setting has already been configured.",
+      "text": "Die Einstellung ist bereits konfiguriert."
+    },
+    {
+      "key": "ana_PARTNERPAWN_SET_ng_myroom_only",
+      "read_index": "448",
+      "tag_source": "source_en",
+      "source_jp": "自室のリムストーンでのみ設定できます",
+      "source_en": "Setting can only be done with Riftstone in Your\r\nRoom",
+      "text": "Die Einstellung kann nur mit Riftstein in Your\r\nRoom erfolgen"
+    },
+    {
+      "key": "ana_PARTNERPAWN_SET_ng_pawn_expedition",
+      "read_index": "491",
+      "tag_source": "source_en",
+      "source_jp": "遠征中は変更できません",
+      "source_en": "Cannot be changed during the expedition",
+      "text": "Kann während der Expedition nicht geändert werden"
+    },
+    {
+      "key": "ana_PARTNERPAWN_SET_ng_quest_order",
+      "read_index": "479",
+      "tag_source": "source_en",
+      "source_jp": "ポーンクエスト受注中のときは変更できません",
+      "source_en": "Can't change it while there is an ongoing Pawn\r\nQuest",
+      "text": "Kann es nicht ändern, während es eine laufende Vasall\r\nQuest gibt"
+    },
+    {
+      "key": "ana_PARTNERPAWN_SET_ng_reward_unacquired",
+      "read_index": "449",
+      "tag_source": "source_en",
+      "source_jp": "リワードがあるときは変更できません",
+      "source_en": "Cannot change while there is a reward",
+      "text": "Kann sich nicht ändern, während es eine Belohnung gibt"
+    },
+    {
+      "key": "ana_PARTNERPAWN_SET_ok_decision",
+      "read_index": "450",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>をパートナーポーンに設定しました",
+      "source_en": "<NAME PAWN> \r\nhas been set as Partner Pawn.",
+      "text": "<NAME PAWN>\r\nwurde als Partnervasall festgelegt."
+    },
+    {
+      "key": "ana_PAWN_DELETE_ERR_CRAFT",
+      "read_index": "169",
+      "tag_source": "source_en",
+      "source_jp": "クラフト中のポーンです",
+      "source_en": "That pawn is currently crafting.",
+      "text": "Dieser Vasall arbeitet derzeit."
+    },
+    {
+      "key": "ana_PAWN_DELETE_ERR_LAST",
+      "read_index": "211",
+      "tag_source": "source_en",
+      "source_jp": "残り1体なので削除できません",
+      "source_en": "Since it is your last pawn, it cannot be deleted.",
+      "text": "Da es dein letzter Vasall ist, kann er nicht gelöscht werden."
+    },
+    {
+      "key": "ana_PAWN_DELETE_ERR_PARTNER",
+      "read_index": "468",
+      "tag_source": "source_en",
+      "source_jp": "パートナーポーンは削除できません",
+      "source_en": "Cannot delete the Partner Pawn.",
+      "text": "Kann den Partnervasall nicht löschen."
+    },
+    {
+      "key": "ana_PAWN_DELETE_ERR_PARTY",
+      "read_index": "168",
+      "tag_source": "source_en",
+      "source_jp": "パーティーにいるポーンは削除できません",
+      "source_en": "Cannot delete pawn while they are in your party.",
+      "text": "Kann Vasallen nicht löschen, während sie in ihrer Gruppe sind."
+    },
+    {
+      "key": "ana_PAWN_RENTAL_ERR_NO_SPACE",
+      "read_index": "167",
+      "tag_source": "source_en",
+      "source_jp": "空き枠がありません",
+      "source_en": "There is no free space.",
+      "text": "Es gibt keinen freien Raum."
+    },
+    {
+      "key": "ana_PAWN_RENTAL_ERR_RIM",
+      "read_index": "166",
+      "tag_source": "source_en",
+      "source_jp": "リムが足りません",
+      "source_en": "Insufficient Rift Crystals.",
+      "text": "Unzureichende Riftkristalle."
+    },
+    {
+      "key": "ana_PAWN_RETURN_ERR_CRAFT",
+      "read_index": "171",
+      "tag_source": "source_en",
+      "source_jp": "クラフト中のポーンです",
+      "source_en": "That pawn is currently crafting.",
+      "text": "Dieser Vasall arbeitet derzeit."
+    },
+    {
+      "key": "ana_PAWN_RETURN_ERR_PARTY",
+      "read_index": "170",
+      "tag_source": "source_en",
+      "source_jp": "パーティーにいるポーンは返却できません",
+      "source_en": "Cannot return pawn while they are in your party.",
+      "text": "Kann keine Vasallen zurückgeben, während sie in deiner gruppe sind."
+    },
+    {
+      "key": "ana_SET_CLAN_MEMBER_RANK_ERR_MYSELF",
+      "read_index": "177",
+      "tag_source": "source_en",
+      "source_jp": "自分にはクランランクを設定できません",
+      "source_en": "Cannot change your own clan rank.",
+      "text": "Du kannst deinen eigenen Clan-Rang nicht ändern."
+    },
+    {
+      "key": "ana_TELL_ERR_MYSELF",
+      "read_index": "179",
+      "tag_source": "source_en",
+      "source_jp": "Tellは自分にできません",
+      "source_en": "Cannot send a Tell to yourself.",
+      "text": "Ich kann dir keinen Tell schicken."
+    },
+    {
+      "key": "ana_TELL_ERR_PAWN",
+      "read_index": "346",
+      "tag_source": "source_en",
+      "source_jp": "Tellはポーンにできません",
+      "source_en": "You cannot send a tell to Pawns.",
+      "text": "Du kannst Vasallen keinen Tell schicken."
+    },
+    {
+      "key": "ana_TreasurePoint_Discovery",
+      "read_index": "493",
+      "tag_source": "source_en",
+      "source_jp": "小さくきらめく何かを発見した！",
+      "source_en": "You discovered something glittering!",
+      "text": "Du hast etwas Glitzerndes entdeckt!"
+    },
+    {
+      "key": "ana_already_received_supplies",
+      "read_index": "444",
+      "tag_source": "source_en",
+      "source_jp": "すでに支援品を受け取っています",
+      "source_en": "You have already received support items.",
+      "text": "Erhalten: bereits Support-Items."
+    },
+    {
+      "key": "ana_autologout_avoidance",
+      "read_index": "385",
+      "tag_source": "source_en",
+      "source_jp": "長時間の未操作状態から復帰しました",
+      "source_en": "You have returned from the long period of no\r\nactions.",
+      "text": "Du bist nach längerer Inaktivität\r\nzurückgekehrt."
+    },
+    {
+      "key": "ana_autologout_notice",
+      "read_index": "377",
+      "tag_source": "source_en",
+      "source_jp": "長時間、操作が行われていません\r\nこの状態があと <VAL>分 続くと、サーバーとの接続が切断されます",
+      "source_en": "There have been no actions for a long\r\ntime. If this continues for <VAL> minutes,\r\nyou will be disconnected.",
+      "text": "Es gab keine Aktionen für eine lange\r\n Zeit, wenn dies für <VAL> Minuten weitergeht,\r\n wirst du getrennt."
+    },
+    {
+      "key": "ana_bazaar_no_sales",
+      "read_index": "302",
+      "tag_source": "source_en",
+      "source_jp": "バザーの売上がありません",
+      "source_en": "There have been no sales on the Bazaar.",
+      "text": "Es gab keine Verkäufe auf dem Basar."
+    },
+    {
+      "key": "ana_bitterblack_job_change_disable",
+      "read_index": "574",
+      "tag_source": "source_en",
+      "source_jp": "黒呪の迷宮に突入している為、ジョブチェンジできません",
+      "source_en": "Cannot change jobs due to having already\r\nentered the Bitterblack Maze.",
+      "text": "Kann den Arbeitsplatz nicht wechseln, weil er bereits\r\nBetritt das Finstergram-Labyrinth."
+    },
+    {
+      "key": "ana_bitterblack_match_001",
+      "read_index": "558",
+      "tag_source": "source_en",
+      "source_jp": "進行をリセットする必要があります",
+      "source_en": "Progression needs to be reset",
+      "text": "Progression muss zurückgesetzt werden"
+    },
+    {
+      "key": "ana_bitterblack_match_002",
+      "read_index": "559",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティ申請中のため使用できません",
+      "source_en": "Not available due to pending quick party\r\napplication",
+      "text": "Nicht verfügbar wegen anhängiger Schnellsuche\r\nBewerbung"
+    },
+    {
+      "key": "ana_bitterblack_match_003",
+      "read_index": "560",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティー申請をキャンセルしますか？",
+      "source_en": "Cancel the Quick Party application?",
+      "text": "Storniere die Schnellsuche Anwendung?"
+    },
+    {
+      "key": "ana_bitterblack_match_004",
+      "read_index": "561",
+      "tag_source": "source_en",
+      "source_jp": "このルートに現在のジョブで突入準備しますか？\r\n<COL AA1414>決定するとリセットするまでジョブは変更できません\r\nまた、\r\n一度でも冥府1をクリアするとルートが固定されます\r\n進行と報酬のリセットをするまで、ルートの変更は\r\nできません</COL>",
+      "source_en": "Proceed with your current Vocation?\r\n<COL AA1414>Your Vocation will be locked until reset.\r\nAdditionally,  once you clear Netherworld 1, \r\nthe route will be permanently fixed.\r\nYou cannot change routes until you reset \r\nprogress and rewards.</COL>",
+      "text": "Mit deiner aktuellen Klasse fortfahren?\r\n<COL AA1414>Die Klasse bleibt bis zum Zurücksetzen gesperrt.\r\nNach Abschluss von Unterwelt 1\r\nbleibt auch die Route festgelegt.\r\nFür einen Routenwechsel musst du\r\nFortschritt und Belohnungen zurücksetzen.</COL>"
+    },
+    {
+      "key": "ana_bitterblack_match_005",
+      "read_index": "562",
+      "tag_source": "source_en",
+      "source_jp": "突入方法を選択してください",
+      "source_en": "Please select embark method",
+      "text": "Wähle die Einschiffungsmethode"
+    },
+    {
+      "key": "ana_bitterblack_match_006",
+      "read_index": "563",
+      "tag_source": "source_en",
+      "source_jp": "現在のパーティーで突入する",
+      "source_en": "Embark with current party",
+      "text": "Begib sich mit der aktuellen Gruppe"
+    },
+    {
+      "key": "ana_bitterblack_match_007",
+      "read_index": "564",
+      "tag_source": "source_en",
+      "source_jp": "他のプレイヤーと突入する",
+      "source_en": "Embark with other players",
+      "text": "Begib sich mit anderen Spielern"
+    },
+    {
+      "key": "ana_bitterblack_match_008",
+      "read_index": "565",
+      "tag_source": "source_en",
+      "source_jp": "ポーンと突入する（ソロ専用）",
+      "source_en": "Embark with pawns (solo only)",
+      "text": "Begib dich mit Vasallen (nur Solo)"
+    },
+    {
+      "key": "ana_bitterblack_match_009",
+      "read_index": "566",
+      "tag_source": "source_en",
+      "source_jp": "即時クリア",
+      "source_en": "Immediate clear",
+      "text": "Sofortige Klarstellung"
+    },
+    {
+      "key": "ana_bitterblack_match_010",
+      "read_index": "567",
+      "tag_source": "source_en",
+      "source_jp": "パーティーに他プレイヤーがいるため選べません",
+      "source_en": "You cannot choose this because there are other\r\nplayers in the party.",
+      "text": "Du kannst das nicht wählen, weil es andere gibt.\r\nSpieler in der Gruppe."
+    },
+    {
+      "key": "ana_bitterblack_match_011",
+      "read_index": "568",
+      "tag_source": "source_en",
+      "source_jp": "パーティーを組んでいるため選べません",
+      "source_en": "You can't do that while in a Party.",
+      "text": "Das kannst du nicht machen, während du auf einer Gruppe bist."
+    },
+    {
+      "key": "ana_bitterblack_match_012",
+      "read_index": "569",
+      "tag_source": "source_en",
+      "source_jp": "黒呪の迷宮をクリアしていないため選べません",
+      "source_en": "Cannot be chosen as Bitterblack Maze has not been\r\ncleared",
+      "text": "Kann nicht gewählt werden, da Bitterschwarzes Labyrinth nicht gelöscht wurde\r\n"
+    },
+    {
+      "key": "ana_bitterblack_match_013",
+      "read_index": "570",
+      "tag_source": "source_en",
+      "source_jp": "リーダーではないため選べません",
+      "source_en": "You cannot choose this option because you are not\r\nthe leader.",
+      "text": "Du kannst diese Option nicht wählen, weil du nicht\r\nder Anführer bist."
+    },
+    {
+      "key": "ana_bitterblack_match_014",
+      "read_index": "571",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>黄金石</COL>を使って即時クリアしますか？\r\n<COL ffdc78>黄金石 <VAL GS></COL>を消費します（所持数：<HAVE GS>）\r\n即時クリア報酬として\r\n以下のアイテムが追加で獲得できます",
+      "source_en": "Do you want to use the <COL ffdc78>Golden\r\nGemstone</COL> for an instant clear?\r\nIt will consume the <COL ffdc78>Golden\r\nGemstone</COL> (current amount: <HAVE GS>).\r\nAs an instant clear reward,\r\nyou can also obtain the following items:",
+      "text": "Möchtest du die <COL ffdc78>Gold\r\nEdelstein</COL> Für einen Augenblick klar?\r\nEs wird die <COL ffdc78>Gold\r\nEdelstein</COL> (derzeitiger Betrag): <HAVE GS>).\r\nAls sofortige klare Belohnung,\r\nDu kannst auch die folgenden Artikel erhalten:"
+    },
+    {
+      "key": "ana_bitterblack_match_015",
+      "read_index": "572",
+      "tag_source": "source_en",
+      "source_jp": "<COL AA1414>現在の探索状態ではクリア報酬が発生しません</COL>\r\n本当に即時クリアしますか？",
+      "source_en": "<COL AA1414>No clear reward is available in the\r\ncurrent search state.</COL>\r\nAre you sure you want to clear immediately?",
+      "text": "<COL AA1414>Keine klare Belohnung ist im aktuellen Suchzustand\r\n verfügbar.</COL>\r\nBist du sicher, dass du sofort löschen willst?"
+    },
+    {
+      "key": "ana_bitterblack_match_016",
+      "read_index": "585",
+      "tag_source": "source_en",
+      "source_jp": "突入を開始しますか？",
+      "source_en": "Embark?",
+      "text": "Einschiffen?"
+    },
+    {
+      "key": "ana_bitterblack_match_017",
+      "read_index": "595",
+      "tag_source": "source_en",
+      "source_jp": "別のルートを進行中のため、突入できません",
+      "source_en": "Cannot enter because another route is in progress.",
+      "text": "Kann nicht betreten, weil eine andere Route im Gange ist."
+    },
+    {
+      "key": "ana_bitterblack_match_018",
+      "read_index": "624",
+      "tag_source": "source_en",
+      "source_jp": "このルートに突入するには、進行と報酬のリセットが必要です",
+      "source_en": "To embark on this route, a reset of rewards and\r\nprogress is required",
+      "text": "Um diese Route zu beschreiten, ein Reset von Belohnungen und\r\nFortschritte sind erforderlich"
+    },
+    {
+      "key": "ana_blist_add",
+      "read_index": "209",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>をブラックリストに追加しました",
+      "source_en": "<NAME TARGET> \r\nhas been added to your blacklist.",
+      "text": "<NAME TARGET>\r\nwurde zu deiner schwarzen Liste hinzugefügt."
+    },
+    {
+      "key": "ana_blist_add_q",
+      "read_index": "207",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nブラックリストに追加します。よろしいですか？",
+      "source_en": "<NAME TARGET> \r\nwill be added to your blacklist.\r\nAre you sure?",
+      "text": "<NAME TARGET>\r\n wird zu deiner schwarzen Liste hinzugefügt.\r\n Bist du sicher?"
+    },
+    {
+      "key": "ana_blist_del",
+      "read_index": "210",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>をブラックリストから削除しました",
+      "source_en": "<NAME TARGET> \r\nhas been removed from your blacklist.",
+      "text": "<NAME TARGET>\r\nwurde von deiner schwarzen Liste entfernt."
+    },
+    {
+      "key": "ana_blist_del_q",
+      "read_index": "208",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nブラックリストから削除します。よろしいですか？",
+      "source_en": "Are you sure you want to remove \r\n<NAME TARGET>\r\nfrom your blacklist?",
+      "text": "Bist du sicher, dass du\r\n<NAME TARGET>\r\n von deiner schwarzen Liste entfernen möchtest?"
+    },
+    {
+      "key": "ana_box_disable",
+      "read_index": "357",
+      "tag_source": "source_en",
+      "source_jp": "拡張枠は使用できません",
+      "source_en": "Storage expansion cannot be used.",
+      "text": "Speichererweiterung kann nicht verwendet werden."
+    },
+    {
+      "key": "ana_box_err_exspace",
+      "read_index": "305",
+      "tag_source": "source_en",
+      "source_jp": "＜<OPCS>＞の発動中に使用可能となります",
+      "source_en": "This is available with the effect of \"<OPCS>\".",
+      "text": "Dies ist mit dem Effekt von \"<OPCS>\" verfügbar."
+    },
+    {
+      "key": "ana_box_err_exspace1",
+      "read_index": "509",
+      "tag_source": "source_en",
+      "source_jp": "格納チェスト引出し<VAL>は＜<OPCS>＞の発動中に使用可能となります",
+      "source_en": "The Storage Chest drawer <VAL> can be used while\r\n<OPCS> is active.",
+      "text": "Die Storage Chest Schublade <VAL> kann verwendet werden, während\r\n<OPCS> aktiv ist."
+    },
+    {
+      "key": "ana_camera_angle_limit",
+      "read_index": "514",
+      "tag_source": "source_en",
+      "source_jp": "装備判定により、撮影アングルが制限されました",
+      "source_en": "Due to Equipment criteria, the shooting angle has\r\nbeen restricted.",
+      "text": "Aufgrund von Ausrüstungskriterien hat der Schießwinkel\r\neingeschränkt wurden."
+    },
+    {
+      "key": "ana_cantchange",
+      "read_index": "236",
+      "tag_source": "source_en",
+      "source_jp": "その項目は変更できません",
+      "source_en": "This cannot be changed.",
+      "text": "Das kann nicht geändert werden."
+    },
+    {
+      "key": "ana_change_cancel",
+      "read_index": "359",
+      "tag_source": "source_en",
+      "source_jp": "変更をキャンセルします\r\nよろしいですか？",
+      "source_en": "Are you sure you want to\r\ncancel the changes?",
+      "text": "Bist du sicher, dass du die Änderungen\r\n abbrechen willst?"
+    },
+    {
+      "key": "ana_charge_course_end",
+      "read_index": "234",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ETC> が切れました",
+      "source_en": "<NAME ETC> \r\nhas expired.",
+      "text": "<NAME ETC>\r\n ist abgelaufen."
+    },
+    {
+      "key": "ana_charge_course_limit_1h",
+      "read_index": "232",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ETC> の期限が、残り1時間をきりました",
+      "source_en": "<NAME ETC> \r\nhas 1 hour remaining.",
+      "text": "<NAME ETC>\r\nhat 1 Stunde übrig."
+    },
+    {
+      "key": "ana_charge_course_limit_24h",
+      "read_index": "233",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ETC> の期限が、残り24時間をきりました",
+      "source_en": "<NAME ETC> \r\nhas 24 hours remaining.",
+      "text": "<NAME ETC>\r\nhat 24 Stunden übrig."
+    },
+    {
+      "key": "ana_charge_course_start",
+      "read_index": "231",
+      "tag_source": "source_en",
+      "source_jp": "<NAME ETC> が発動しました",
+      "source_en": "<NAME ETC> \r\nhas been activated.",
+      "text": "<NAME ETC>\r\n wurde aktiviert."
+    },
+    {
+      "key": "ana_clan_authority_settings_err_01",
+      "read_index": "486",
+      "tag_source": "source_en",
+      "source_jp": "変更する権限がありません",
+      "source_en": "You do not have permission to change it.",
+      "text": "Du hast keine Erlaubnis, es zu ändern."
+    },
+    {
+      "key": "ana_clan_authority_settings_err_02",
+      "read_index": "487",
+      "tag_source": "source_en",
+      "source_jp": "インターバル期間中のため変更できません",
+      "source_en": "Cannot change it because it is during the\r\nInterval Duration.",
+      "text": "Kann es nicht ändern, weil es während der\r\n Intervalldauer ist."
+    },
+    {
+      "key": "ana_clan_chg_leader",
+      "read_index": "193",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>をサブマスターにしました",
+      "source_en": "<NAME TARGET> \r\nhas become a Clan Officer.",
+      "text": "<NAME TARGET>\r\nist ein Clanoffizier geworden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

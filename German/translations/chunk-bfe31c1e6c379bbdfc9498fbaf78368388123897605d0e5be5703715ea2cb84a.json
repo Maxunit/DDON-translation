@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\common_dialog.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ana_party_pawn_remove_error",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>をパーティーから外せませんでした",
+      "source_en": "Could not remove \r\n<NAME PAWN> from the party.",
+      "text": "Konnte\r\n<NAME PAWN> nicht aus der Partei entfernen."
+    },
+    {
+      "key": "ana_party_pawn_remove_q",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>をパーティーから外しますか？",
+      "source_en": "Are you sure you want to remove\r\n<NAME PAWN> from the party?",
+      "text": "Bist du sicher, dass du die Partei entfernen willst\r\n<NAME PAWN>?"
+    },
+    {
+      "key": "ana_party_remove_error_tg",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>をパーティーから外せませんでした",
+      "source_en": "Could not remove <NAME TARGET> from the party.",
+      "text": "Konnte <NAME TARGET> nicht aus der Partei entfernen."
+    },
+    {
+      "key": "ana_party_remove_q",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>を\r\nパーティーから外します。よろしいですか？",
+      "source_en": "Are you sure you want to remove\r\n<NAME TARGET> from the party?",
+      "text": "Bist du sicher, dass du die Partei entfernen willst\r\n<NAME TARGET>?"
+    },
+    {
+      "key": "ana_party_remove_tg",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>がパーティーから外れました",
+      "source_en": "<NAME TARGET> was removed from the party.",
+      "text": "<NAME TARGET> wurde aus der Partei entfernt."
+    },
+    {
+      "key": "ana_party_waiting_for_me",
+      "read_index": "512",
+      "tag_source": "source_en",
+      "source_jp": "パーティーメンバーがあなたの参加を待っています",
+      "source_en": "Party members are waiting for you to join.",
+      "text": "Gruppenmitglieder warten darauf, dass sie beitreten."
+    },
+    {
+      "key": "ana_pawn_adventure_dec",
+      "read_index": "247",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>の冒険回数が減りました",
+      "source_en": "The remaining adventures of \r\n<NAME PAWN> \r\nhave been reduced by 1.",
+      "text": "Die verbleibenden Abenteuer von\r\n<NAME PAWN>\r\n wurden um 1 reduziert."
+    },
+    {
+      "key": "ana_pawn_adventure_zero",
+      "read_index": "248",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>の冒険回数が0になりました\r\nパーティーから外れます",
+      "source_en": "The remaining adventures of \r\n<NAME PAWN> is now 0.\r\nThey will leave the party.",
+      "text": "Die verbleibenden Abenteuer von\r\n<NAME PAWN> sind jetzt 0.\r\nDu wirst die Partei verlassen."
+    },
+    {
+      "key": "ana_pawn_crafter_dec",
+      "read_index": "249",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>のクラフト回数が減りました",
+      "source_en": "The remaining crafts of \r\n<NAME PAWN> \r\nhave been reduced by 1.",
+      "text": "Die übrigen Handwerke von\r\n<NAME PAWN>\r\n wurden um 1 reduziert."
+    },
+    {
+      "key": "ana_pawn_crafter_zero",
+      "read_index": "250",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>のクラフト回数が0になりました",
+      "source_en": "The remaining crafts of \r\n<NAME PAWN> is now 0.",
+      "text": "Die restlichen Handwerke von\r\n<NAME PAWN> ist jetzt 0."
+    },
+    {
+      "key": "ana_pawn_delete",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>を削除しました",
+      "source_en": "<NAME PAWN> has been deleted.",
+      "text": "<NAME PAWN> wurde gelöscht."
+    },
+    {
+      "key": "ana_pawn_delete_q",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>を\r\n削除します。よろしいですか？",
+      "source_en": "Are you sure you want to delete \r\n<NAME PAWN>?",
+      "text": "Möchtest du\r\n<NAME PAWN> löschen?"
+    },
+    {
+      "key": "ana_pawn_delete_q_equip",
+      "read_index": "312",
+      "tag_source": "source_en",
+      "source_jp": "保管ボックスの空きが足りないので装備品が消えますが、<NAME PAWN>を削除してよろしいですか？",
+      "source_en": "There is not enough storage space to hold the\r\nequipment of <NAME PAWN>. \r\nAre you sure you want to delete?",
+      "text": "Es gibt nicht genug Speicherplatz, um die\r\n Ausrüstung von <NAME PAWN> zu halten.\r\nBist du sicher, dass du löschst möchten?"
+    },
+    {
+      "key": "ana_pawn_expedition_report_em_subjugation",
+      "read_index": "519",
+      "tag_source": "source_en",
+      "source_jp": "-討伐結果報告-",
+      "source_en": "-Subjugation Report-",
+      "text": "-Subjugationsbericht-"
+    },
+    {
+      "key": "ana_pawn_lost_escape",
+      "read_index": "235",
+      "tag_source": "source_en",
+      "source_jp": "<NAME PAWN>はロストすることなく、リムストーンに戻りました",
+      "source_en": "<NAME PAWN> has been lost \r\nand sent back to the Riftstone.",
+      "text": "<NAME PAWN> ist verloren gegangen\r\n und zurück in den Riftstein geschickt worden."
+    },
+    {
+      "key": "ana_pawn_public",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "公開設定を変更しました",
+      "source_en": "You have changed your pawn's privacy settings.",
+      "text": "Du hast die datenschutzeinstellungen ihres Vasallen geändert."
+    },
+    {
+      "key": "ana_pawn_review_err",
+      "read_index": "290",
+      "tag_source": "source_en",
+      "source_jp": "すべての評価を行わないと返却できません",
+      "source_en": "You cannot return the pawn until you complete all\r\nof the evaluation.",
+      "text": "Du kannst den Vasallen erst nach Abschluss\r\nder Bewertung zurückgeben."
+    },
+    {
+      "key": "ana_pawn_upset",
+      "read_index": "364",
+      "tag_source": "source_en",
+      "source_jp": "ポーンが参加できる状態ではないためキャンセルされました",
+      "source_en": "The pawn has been canceled because it has entered\r\na state where it can no longer participate.",
+      "text": "Der Vasall wurde storniert, weil er eingetreten ist\r\nEin Staat, an dem sie nicht mehr teilnehmen kann."
+    },
+    {
+      "key": "ana_permit_friend",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>とフレンドになりました",
+      "source_en": "<NAME TARGET> is now your friend.",
+      "text": "<NAME TARGET> ist jetzt dein Freund."
+    },
+    {
+      "key": "ana_permit_friend_error",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>とフレンドになれませんでした",
+      "source_en": "Could not accept friend request from \r\n<NAME TARGET>.",
+      "text": "Konnte keine Freundschaftsanfrage von\r\n<NAME TARGET> annehmen."
+    },
+    {
+      "key": "ana_permit_friend_q",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>の\r\nフレンド申請を許可します。よろしいですか？",
+      "source_en": "Are you sure you want to accept\r\nthe friend request from \r\n<NAME TARGET>?",
+      "text": "Bist du sicher, dass du akzeptieren willst?\r\nDie Freundschaftsanfrage von\r\n<NAME TARGET>?"
+    },
+    {
+      "key": "ana_pl_num_lobby_in",
+      "read_index": "384",
+      "tag_source": "source_en",
+      "source_jp": "ワールド <NAME LOBBY> へ移動しました",
+      "source_en": "You moved to world <NAME LOBBY>.",
+      "text": "Du bist in die Welt gezogen <NAME LOBBY>."
+    },
+    {
+      "key": "ana_pspskill_sub_ng_01",
+      "read_index": "555",
+      "tag_source": "source_en",
+      "source_jp": "空いている状態で使用できます",
+      "source_en": "Can be used when available",
+      "text": "Kann verwendet werden, wenn verfügbar"
+    },
+    {
+      "key": "ana_q_setting_initialize",
+      "read_index": "331",
+      "tag_source": "source_en",
+      "source_jp": "設定を初期化しますか？",
+      "source_en": "Are you sure you want to reset the settings?",
+      "text": "Möchtest du die Einstellungen zurücksetzen?"
+    },
+    {
+      "key": "ana_q_setting_recommended",
+      "read_index": "332",
+      "tag_source": "source_en",
+      "source_jp": "設定をおすすめに戻しますか？",
+      "source_en": "Return to the recommended settings?",
+      "text": "Zurück zu den empfohlenen Einstellungen?"
+    },
+    {
+      "key": "ana_q_use_item",
+      "read_index": "320",
+      "tag_source": "source_en",
+      "source_jp": "＜<NAME ITEM>＞を使いますか？",
+      "source_en": "Use \"<NAME ITEM>\"?",
+      "text": "Verwende \"<NAME ITEM>\"?"
+    },
+    {
+      "key": "ana_q_use_item2",
+      "read_index": "543",
+      "tag_source": "source_en",
+      "source_jp": "ダンジョンへの突入時に以下のアイテムを消費します\r\nよろしいですか？\r\n<NAME ITEM> × <VAL>枚",
+      "source_en": "Are you sure you want to consume the\r\nfollowing items to enter the dungeon?\r\n<NAME ITEM> x<VAL>",
+      "text": "Bist du dir sicher, dass du die\r\nFolgende Gegenstände, um den Dungeon zu betreten?\r\n<NAME ITEM> x<VAL>"
+    },
+    {
+      "key": "ana_qpt_checkbox_sel_err",
+      "read_index": "330",
+      "tag_source": "source_en",
+      "source_jp": "現在のパーティー構成では選択できません",
+      "source_en": "This cannot be selected with the current party\r\nsetup.",
+      "text": "Dies kann nicht mit dem aktuellen Gruppe\r\nsetup ausgewählt werden."
+    },
+    {
+      "key": "ana_quest_party_join",
+      "read_index": "244",
+      "tag_source": "source_en",
+      "source_jp": "%sを\r\nパーティーに入れます。よろしいですか？",
+      "source_en": "%s will join the party.\r\nAre you sure?",
+      "text": "%s wird der Partei beitreten.\r\nBist du dir sicher?"
+    },
+    {
+      "key": "ana_quick_pt_join_ng",
+      "read_index": "277",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティー中のため参加できません",
+      "source_en": "You can no longer participate in a quick party\r\nbecause you are in a party.",
+      "text": "Du kannst nicht mehr an einer schnellen Gruppe teilnehmen\r\n, weil du in einer Gruppe bist."
+    },
+    {
+      "key": "ana_quick_pt_recruiting_ng",
+      "read_index": "276",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティー中のため募集できません",
+      "source_en": "You cannot recruit for quick party while in a\r\nfull party.",
+      "text": "Bei voller Gruppe steht die Schnellsuche\r\nnicht zur Verfügung."
+    },
+    {
+      "key": "ana_quickparty_leave_ng",
+      "read_index": "282",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティー中はパーティーから抜けられません",
+      "source_en": "You cannot leave party while searching for a\r\nquick party.",
+      "text": "Du kannst die Gruppe nicht verlassen, während du nach einer\r\nschnellen Gruppe suchst."
+    },
+    {
+      "key": "ana_quickpt_fail_by_decline",
+      "read_index": "369",
+      "tag_source": "source_en",
+      "source_jp": "準備完了できなかったプレイヤーがいたため\r\n再マッチングを行います",
+      "source_en": "Someone has declined the quick party invite.\r\nYou have begun re-matching.",
+      "text": "Jemand hat die schnelle Gruppe-Einladung abgelehnt.\r\nDu hast mit dem Rematching begonnen."
+    },
+    {
+      "key": "ana_quickpt_fail_by_friend",
+      "read_index": "368",
+      "tag_source": "source_en",
+      "source_jp": "全員が準備完了できなかったため\r\nキャンセルされました",
+      "source_en": "Everyone was not ready, so quick party has been\r\ncanceled.",
+      "text": "Alle waren nicht bereit, so schnell Partei wurde\r\n abgebrochen."
+    },
+    {
+      "key": "ana_quickpt_ng_mq_solo",
+      "read_index": "432",
+      "tag_source": "source_en",
+      "source_jp": "受注条件がパーティープレイ不可のため使用できません",
+      "source_en": "Can't use it because the Accept Requirements do\r\nnot allow party play.",
+      "text": "Kann es nicht verwenden, weil die Accept Requirements tun\r\nkein Partyspiel erlauben."
+    },
+    {
+      "key": "ana_quiq_mach_ready_info",
+      "read_index": "104",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティーで同じ目的のプレイヤーが見つかりました。合流するには一定時間内に準備完了してください",
+      "source_en": "The quick party has been formed. Please select\r\nready within a period of time.",
+      "text": "Die schnelle Partei wurde gebildet. Bitte wähle\r\nready innerhalb eines Zeitraums aus."
+    },
+    {
+      "key": "ana_quiq_mach_ready_info_pop",
+      "read_index": "428",
+      "tag_source": "source_en",
+      "source_jp": "クイックパーティーで同じ目的のプレイヤーが見つかりました\r\n合流するには一定時間内に準備完了してください",
+      "source_en": "The Quick Party has been formed. Please select\r\nready before timer expires.",
+      "text": "Die Schnellsuche wurde gebildet. Bitte wähle\r\nready, bevor der Timer abläuft."
+    },
+    {
+      "key": "ana_ranking_ability_reward",
+      "read_index": "412",
+      "tag_source": "source_en",
+      "source_jp": "ランキング報酬で\r\nシークレットアビリティを獲得！",
+      "source_en": "Earned Secret Augment as a Ranking Reward!",
+      "text": "Earned Secret Augment als Ranking Reward!"
+    },
+    {
+      "key": "ana_ranking_reward",
+      "read_index": "411",
+      "tag_source": "source_en",
+      "source_jp": "ランキング報酬を獲得！",
+      "source_en": "Earned Ranking Rewards!",
+      "text": "Verdient Ranking Rewards!"
+    },
+    {
+      "key": "ana_re_entry",
+      "read_index": "195",
+      "tag_source": "source_en",
+      "source_jp": "パーティーが解散され、エントリーボードに再登録されました",
+      "source_en": "The party has been disbanded and re-registered on\r\nthe entryboard.",
+      "text": "Die Partei wurde aufgelöst und erneut registriert\r\ndas Einstiegsbord."
+    },
+    {
+      "key": "ana_re_entry_q",
+      "read_index": "194",
+      "tag_source": "source_en",
+      "source_jp": "現在のパーティーを解散して\r\nエントリーボードに登録しなおします。\r\nよろしいですか？",
+      "source_en": "The current party will be disbanded.\r\nYou will re-register on the entryboard.\r\nAre you sure?",
+      "text": "Die aktuelle Partei wird aufgelöst.\r\nDu wirst sich wieder im Einstieg registrieren.\r\nBist du sicher?"
+    },
+    {
+      "key": "ana_recv_invite_cancel",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "受け取ったパーティーの誘いは取り消されます",
+      "source_en": "The party invite will be canceled.",
+      "text": "Die Gruppe-Einladung wird abgesagt."
+    },
+    {
+      "key": "ana_release_element",
+      "read_index": "251",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>を解放しました",
+      "source_en": "<VAL> has been unlocked.",
+      "text": "<VAL> wurde freigeschaltet."
+    },
+    {
+      "key": "ana_release_friend",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>のフレンドを解除しました",
+      "source_en": "Removed <NAME TARGET> from friends.",
+      "text": "Entfernt <NAME TARGET> von Freunden."
+    },
+    {
+      "key": "ana_release_friend_error",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>のフレンドを解除できませんでした",
+      "source_en": "Could not remove <NAME TARGET> from friends.",
+      "text": "Konnte <NAME TARGET> nicht von Freunden entfernen."
+    },
+    {
+      "key": "ana_release_friend_q",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>との\r\nフレンドを解除します。よろしいですか？",
+      "source_en": "Are you sure you want to remove\r\n<NAME TARGET> from friends?",
+      "text": "Bist du sicher, dass du\r\n<NAME TARGET> von Freunden entfernen möchtest?"
+    },
+    {
+      "key": "ana_req_friend",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>にフレンド申請しました",
+      "source_en": "Friend request send to <NAME TARGET>.",
+      "text": "Freundschaftsanfrage an <NAME TARGET> senden."
+    },
+    {
+      "key": "ana_req_friend_error",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>にフレンド申請できませんでした",
+      "source_en": "Could not send a friend request to <NAME TARGET>.",
+      "text": "Konnte keine Freundschaftsanfrage an <NAME TARGET> senden."
+    },
+    {
+      "key": "ana_req_friend_q",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "<NAME TARGET>に\r\nフレンド申請をします。よろしいですか？",
+      "source_en": "Are you sure you want to send\r\n<NAME TARGET> a friend request?",
+      "text": "Bist du sicher, dass du eine Freundschaftsanfrage senden möchtest\r\n<NAME TARGET>?"
+    },
+    {
+      "key": "ana_request_entry_invitation",
+      "read_index": "399",
+      "tag_source": "source_en",
+      "source_jp": "エントリーボードに招待されました",
+      "source_en": "Invited to the Entry Board",
+      "text": "Einladung an die Entry Board"
+    },
+    {
+      "key": "ana_revival_and_credits_full",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "黄金石を使用して復活しました",
+      "source_en": "Resurrected using a Golden Gemstone.",
+      "text": "Auferstanden mit einem goldenen Edelstein."
+    },
+    {
+      "key": "ana_revival_and_credits_num",
+      "read_index": "67",
+      "tag_source": "source_en",
+      "source_jp": "復活力を使用して復活しました\r\n残り<VAL>個です",
+      "source_en": "You were resurrected by using a Revive.\r\nYou have <VAL> remaining.",
+      "text": "Du bist auferweckt worden, indem du eine Erweckung benutzt hast.\r\n Du hast <VAL> übrig."
+    },
+    {
+      "key": "ana_revival_and_credits_rim",
+      "read_index": "392",
+      "tag_source": "source_en",
+      "source_jp": "リムを使用して復活しました",
+      "source_en": "Revived using Rift Crystals.",
+      "text": "Wiederbelebt mit Riftkristalle."
+    },
+    {
+      "key": "ana_rimstone_menu_ex_lost_pawn",
+      "read_index": "387",
+      "tag_source": "source_en",
+      "source_jp": "＜<OPCS>＞の発動中に使用可能となります",
+      "source_en": "This is available with the effect of \"<OPCS>\".",
+      "text": "Dies ist mit dem Effekt von \"<OPCS>\" verfügbar."
+    },
+    {
+      "key": "ana_search_result",
+      "read_index": "64",
+      "tag_source": "source_en",
+      "source_jp": "検索結果は<VAL>件でした",
+      "source_en": "There were <VAL> search results.",
+      "text": "Es gab <VAL> Suchergebnisse."
+    },
+    {
+      "key": "ana_select_destination",
+      "read_index": "321",
+      "tag_source": "source_en",
+      "source_jp": "行き先選択",
+      "source_en": "Select Destination",
+      "text": "Auswählen des Bestimmungsorts"
+    },
+    {
+      "key": "ana_server_crowded",
+      "read_index": "353",
+      "tag_source": "source_en",
+      "source_jp": "現在サーバーが混み合っています。\r\n順次ログイン処理を行いますので\r\nしばらくお待ちください。\r\n(現在<VAL>人待ちです)",
+      "source_en": "The server is busy right now.\r\nBecause there is a login queue,\r\nplease be patient.\r\n(Currently <VAL> people waiting)",
+      "text": "Der Server ist gerade beschäftigt.\r\nWeil es eine Login-Warteschlange gibt,\r\nBitte sei geduldig.\r\n(Derzeit warten <VAL> Leute)"
+    },
+    {
+      "key": "ana_simple_req_notfound",
+      "read_index": "396",
+      "tag_source": "source_en",
+      "source_jp": "条件のあうプレイヤーがみつかりませんでした",
+      "source_en": "No players that match those conditions could be\r\nfound.",
+      "text": "Kein Spieler, der diese Bedingungen erfüllt, kann\r\ngefunden."
+    },
+    {
+      "key": "ana_simple_req_retry",
+      "read_index": "397",
+      "tag_source": "source_en",
+      "source_jp": "続けてパーティーへの参加要請を送りますか？",
+      "source_en": "Do you want to send a party participation request?",
+      "text": "Möchtest du eine Parteibeteiligungsanfrage senden?"
+    },
+    {
+      "key": "ana_skill_release_order_start",
+      "read_index": "388",
+      "tag_source": "source_en",
+      "source_jp": "新しいジョブ修練の課題を開始しました",
+      "source_en": "A new job training order has begun.",
+      "text": "Ein neuer Ausbildungsauftrag hat begonnen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

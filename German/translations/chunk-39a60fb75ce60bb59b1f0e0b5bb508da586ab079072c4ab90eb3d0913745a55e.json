@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\AreaMaster_res.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "areamaster_msg_blank",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "-",
+      "source_en": "-",
+      "text": "-"
+    },
+    {
+      "key": "areamaster_msg_bonus",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "Bonus",
+      "source_en": "Bonus",
+      "text": "Bonus"
+    },
+    {
+      "key": "areamaster_msg_equal",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "＝",
+      "source_en": "＝",
+      "text": "＝"
+    },
+    {
+      "key": "areamaster_msg_item_num",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "× <VAL>",
+      "source_en": "× <VAL>",
+      "text": "× <VAL>"
+    },
+    {
+      "key": "areamaster_msg_masking",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "？？？",
+      "source_en": "？？？",
+      "text": "？？？"
+    },
+    {
+      "key": "areamaster_msg_mul",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "×",
+      "source_en": "×",
+      "text": "×"
+    },
+    {
+      "key": "areamaster_msg_point_bet",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> <UNIT AP> ～ <VAL> <UNIT AP>",
+      "source_en": "<VAL> <UNIT AP> ～ <VAL> <UNIT AP>",
+      "text": "<VAL> <UNIT AP> ～ <VAL> <UNIT AP>"
+    },
+    {
+      "key": "areamaster_msg_point_end",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "～ <VAL> <UNIT AP>",
+      "source_en": "～ <VAL> <UNIT AP>",
+      "text": "～ <VAL> <UNIT AP>"
+    },
+    {
+      "key": "areamaster_msg_point_first",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "<VAL> <UNIT AP> ～",
+      "source_en": "<VAL> <UNIT AP> ～",
+      "text": "<VAL> <UNIT AP> ～"
+    },
+    {
+      "key": "areamaster_msg_spotmask",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "？？？？？",
+      "source_en": "?????",
+      "text": "?????"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

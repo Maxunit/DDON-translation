@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\keyconfig_detail.gmd",
+  "arc_path": "\\ui\\uGUIKeyConfig.arc",
+  "entries": [
+    {
+      "key": "kcd_009",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "チャット",
+      "source_en": "Chat",
+      "text": "Chat"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

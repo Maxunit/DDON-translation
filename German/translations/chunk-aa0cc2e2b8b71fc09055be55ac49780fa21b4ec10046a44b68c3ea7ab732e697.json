@@ -1,0 +1,128 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\item_work.gmd",
+  "arc_path": "\\ui\\uGUIPopDetail01.arc",
+  "entries": [
+    {
+      "key": "ITEM_WORK_134",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "プロフ壁紙入手【解放アイテム専用】",
+      "source_en": "Obtain Profile Wallpaper [Exclusive item].",
+      "text": "Profilhintergrund freischalten"
+    },
+    {
+      "key": "ITEM_WORK_135",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "クラフトレシピ入手【解放アイテム専用】",
+      "source_en": "Obtaining Crafting Recipes [Exclusive to\r\nUnlockable Items]",
+      "text": "Herstellungsrezepte freischalten\r\n(nur Freischaltgegenstände)"
+    },
+    {
+      "key": "ITEM_WORK_136",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "エモーション入手【解放アイテム専用】",
+      "source_en": "Obtain Emote [Exclusive item].",
+      "text": "Emote freischalten"
+    },
+    {
+      "key": "ITEM_WORK_137",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "ポーン会話入手【解放アイテム専用】",
+      "source_en": "Obtain Pawn Conversation [Exclusive item]",
+      "text": "Vasallengespräch freischalten"
+    },
+    {
+      "key": "ITEM_WORK_138",
+      "read_index": "64",
+      "tag_source": "source_en",
+      "source_jp": "エディットパーツ入手【解放アイテム専用】",
+      "source_en": "Obtain Customization Parts [Exclusive Item]",
+      "text": "Editor-Optionen freischalten"
+    },
+    {
+      "key": "ITEM_WORK_139",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "定型文【解放アイテム専用】",
+      "source_en": "Phrases [Exclusive Item]",
+      "text": "Textvorlagen freischalten"
+    },
+    {
+      "key": "ITEM_WORK_140",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "レベルアップポーション",
+      "source_en": "Level Up Potion",
+      "text": "Stufenaufstiegstrank"
+    },
+    {
+      "key": "ITEM_WORK_141",
+      "read_index": "67",
+      "tag_source": "source_en",
+      "source_jp": "竜力の継承全開放",
+      "source_en": "Dragon Force Augmentation Full Activation",
+      "text": "Drachenkraft vollständig freischalten"
+    },
+    {
+      "key": "ITEM_WORK_142",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "冒険をしやすくする",
+      "source_en": "Make Adventure Easier",
+      "text": "Erleichtert das Abenteuer"
+    },
+    {
+      "key": "ITEM_WORK_143",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "PP入手",
+      "source_en": "Acquisition of PP",
+      "text": "Spielpunkte erhalten"
+    },
+    {
+      "key": "ITEM_WORK_144",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "AttackStatus",
+      "source_en": "AttackStatus",
+      "text": "Angriffswerte"
+    },
+    {
+      "key": "ITEM_WORK_145",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "「全攻撃能力上昇」付加",
+      "source_en": "Grant Extreme Attack Up",
+      "text": "Alle Angriffswerte erhöhen"
+    },
+    {
+      "key": "ITEM_WORK_146",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "「全防御能力上昇」付加",
+      "source_en": "Grant Extreme Defense Up",
+      "text": "Alle Verteidigungswerte erhöhen"
+    },
+    {
+      "key": "ITEM_WORK_147",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "「闇炎」解消",
+      "source_en": "Cure Dark Flame",
+      "text": "Dunkle Flamme löschen"
+    },
+    {
+      "key": "ITEM_WORK_148",
+      "read_index": "74",
+      "tag_source": "source_en",
+      "source_jp": "「呪い」解消",
+      "source_en": "Dispel Curse",
+      "text": "Fluch bannen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

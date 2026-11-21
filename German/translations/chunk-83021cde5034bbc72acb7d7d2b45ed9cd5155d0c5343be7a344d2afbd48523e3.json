@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "1494",
+      "tag_source": "source_en",
+      "source_jp": "錆びた鉄塊",
+      "source_en": "Rusty Iron Lump",
+      "text": "Rostiger Eisenklumpen"
+    },
+    {
+      "key": "",
+      "read_index": "1495",
+      "tag_source": "source_en",
+      "source_jp": "上級研磨剤",
+      "source_en": "Superior Abrasive",
+      "text": "Feines Schleifmittel"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

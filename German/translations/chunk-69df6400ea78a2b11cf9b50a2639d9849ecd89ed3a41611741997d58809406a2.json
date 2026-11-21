@@ -1,0 +1,488 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\parameter.gmd",
+  "arc_path": "\\ui\\menu_cmn.arc",
+  "entries": [
+    {
+      "key": "param_msg_alljob_equip",
+      "read_index": "203",
+      "tag_source": "source_en",
+      "source_jp": "全ジョブ装備可能",
+      "source_en": "All vocations can equip",
+      "text": "Alle Berufungen können sich ausrüsten"
+    },
+    {
+      "key": "param_msg_anti_em",
+      "read_index": "196",
+      "tag_source": "source_en",
+      "source_jp": "対敵",
+      "source_en": "Slayer",
+      "text": "Tötungsbonus"
+    },
+    {
+      "key": "param_msg_bazaar_ng",
+      "read_index": "202",
+      "tag_source": "source_en",
+      "source_jp": "NG",
+      "source_en": "NO",
+      "text": "Nein"
+    },
+    {
+      "key": "param_msg_bazaar_ok",
+      "read_index": "201",
+      "tag_source": "source_en",
+      "source_jp": "OK",
+      "source_en": "OK",
+      "text": "OK"
+    },
+    {
+      "key": "param_msg_healing",
+      "read_index": "199",
+      "tag_source": "source_en",
+      "source_jp": "体力回復",
+      "source_en": "Heal",
+      "text": "Heilkunde"
+    },
+    {
+      "key": "param_msg_item_furniture",
+      "read_index": "216",
+      "tag_source": "source_en",
+      "source_jp": "家具",
+      "source_en": "Furniture",
+      "text": "Möbel"
+    },
+    {
+      "key": "param_msg_item_money",
+      "read_index": "206",
+      "tag_source": "source_en",
+      "source_jp": "通貨",
+      "source_en": "Currency",
+      "text": "Währung"
+    },
+    {
+      "key": "param_msg_item_point",
+      "read_index": "222",
+      "tag_source": "source_en",
+      "source_jp": "ポイント",
+      "source_en": "Point",
+      "text": "Punkt"
+    },
+    {
+      "key": "param_msg_item_rental",
+      "read_index": "207",
+      "tag_source": "source_en",
+      "source_jp": "レンタルチケット",
+      "source_en": "Rental Ticket",
+      "text": "Mietticket"
+    },
+    {
+      "key": "param_msg_item_sample",
+      "read_index": "208",
+      "tag_source": "source_en",
+      "source_jp": "試供品",
+      "source_en": "Sample",
+      "text": "Probe"
+    },
+    {
+      "key": "param_msg_item_use",
+      "read_index": "194",
+      "tag_source": "source_en",
+      "source_jp": "消費アイテム",
+      "source_en": "Usable Item",
+      "text": "Nutzbarer Gegenstand"
+    },
+    {
+      "key": "param_msg_only_f",
+      "read_index": "205",
+      "tag_source": "source_en",
+      "source_jp": "女性専用",
+      "source_en": "Female Only",
+      "text": "Nur weiblich"
+    },
+    {
+      "key": "param_msg_only_m",
+      "read_index": "204",
+      "tag_source": "source_en",
+      "source_jp": "男性専用",
+      "source_en": "Male Only",
+      "text": "Nur männlich"
+    },
+    {
+      "key": "param_msg_posnum",
+      "read_index": "195",
+      "tag_source": "source_en",
+      "source_jp": "所持数",
+      "source_en": "Amount",
+      "text": "Betrag"
+    },
+    {
+      "key": "param_msg_posnum_bo",
+      "read_index": "212",
+      "tag_source": "source_en",
+      "source_jp": "所持数：<VAL BO>",
+      "source_en": "Amount: <VAL BO>",
+      "text": "Betrag: <VAL BO>"
+    },
+    {
+      "key": "param_msg_posnum_gold",
+      "read_index": "210",
+      "tag_source": "source_en",
+      "source_jp": "所持数：<VAL GOLD>",
+      "source_en": "Amount: <VAL GOLD>",
+      "text": "Betrag: <VAL GOLD>"
+    },
+    {
+      "key": "param_msg_posnum_gs",
+      "read_index": "209",
+      "tag_source": "source_en",
+      "source_jp": "所持数：<VAL GS>",
+      "source_en": "Amount: <VAL GS>",
+      "text": "Betrag: <VAL GS>"
+    },
+    {
+      "key": "param_msg_posnum_rim",
+      "read_index": "211",
+      "tag_source": "source_en",
+      "source_jp": "所持数：<VAL RIM>",
+      "source_en": "Amount: <VAL RIM>",
+      "text": "Betrag: <VAL RIM>"
+    },
+    {
+      "key": "param_msg_posnum_ticket",
+      "read_index": "214",
+      "tag_source": "source_en",
+      "source_jp": "所持数：<VAL>枚",
+      "source_en": "Amount: <VAL>",
+      "text": "Betrag: <VAL>"
+    },
+    {
+      "key": "param_msg_stamina_recovery",
+      "read_index": "200",
+      "tag_source": "source_en",
+      "source_jp": "スタミナ回復",
+      "source_en": "Stamina Recovery",
+      "text": "Ausdauer Erholung"
+    },
+    {
+      "key": "param_msg_tolerance",
+      "read_index": "197",
+      "tag_source": "source_en",
+      "source_jp": "耐性",
+      "source_en": "Resist",
+      "text": "Widerstand"
+    },
+    {
+      "key": "parts_arm_armor",
+      "read_index": "147",
+      "tag_source": "source_en",
+      "source_jp": "腕防具",
+      "source_en": "Arm Armor",
+      "text": "Armrüstung"
+    },
+    {
+      "key": "parts_body_armor",
+      "read_index": "145",
+      "tag_source": "source_en",
+      "source_jp": "胴アーマー",
+      "source_en": "Body Armor",
+      "text": "Körperrüstung"
+    },
+    {
+      "key": "parts_body_wear",
+      "read_index": "146",
+      "tag_source": "source_en",
+      "source_jp": "胴ウェア",
+      "source_en": "Body Clothing",
+      "text": "Körperbekleidung"
+    },
+    {
+      "key": "parts_costume",
+      "read_index": "152",
+      "tag_source": "source_en",
+      "source_jp": "一式装備",
+      "source_en": "Ensemble",
+      "text": "Ensemble"
+    },
+    {
+      "key": "parts_head_armor",
+      "read_index": "144",
+      "tag_source": "source_en",
+      "source_jp": "頭防具",
+      "source_en": "Head Armor",
+      "text": "Kopfpanzerung"
+    },
+    {
+      "key": "parts_jewelry",
+      "read_index": "151",
+      "tag_source": "source_en",
+      "source_jp": "ジュエリー",
+      "source_en": "Jewelry",
+      "text": "Schmuck"
+    },
+    {
+      "key": "parts_lantern",
+      "read_index": "213",
+      "tag_source": "source_en",
+      "source_jp": "ランタン",
+      "source_en": "Lantern",
+      "text": "Laternen"
+    },
+    {
+      "key": "parts_leg_armor",
+      "read_index": "148",
+      "tag_source": "source_en",
+      "source_jp": "脚アーマー",
+      "source_en": "Leg Armor",
+      "text": "Beinpanzer"
+    },
+    {
+      "key": "parts_leg_wear",
+      "read_index": "149",
+      "tag_source": "source_en",
+      "source_jp": "脚ウェア",
+      "source_en": "Legwear",
+      "text": "Beinbekleidung"
+    },
+    {
+      "key": "parts_main_weapon",
+      "read_index": "142",
+      "tag_source": "source_en",
+      "source_jp": "メイン武器",
+      "source_en": "Main Weapon",
+      "text": "Hauptwaffe"
+    },
+    {
+      "key": "parts_overwear",
+      "read_index": "150",
+      "tag_source": "source_en",
+      "source_jp": "オーバーウェア",
+      "source_en": "Overwear",
+      "text": "Überkleidung"
+    },
+    {
+      "key": "parts_sub_weapon",
+      "read_index": "143",
+      "tag_source": "source_en",
+      "source_jp": "サブ武器",
+      "source_en": "Sub Weapon",
+      "text": "Subwaffe"
+    },
+    {
+      "key": "pawn_craft_promote",
+      "read_index": "175",
+      "tag_source": "source_en",
+      "source_jp": "昇格試験の段階",
+      "source_en": "Level of Promotion",
+      "text": "Höhe der Beförderung"
+    },
+    {
+      "key": "pawn_craft_rank",
+      "read_index": "167",
+      "tag_source": "source_en",
+      "source_jp": "クラフトレベル",
+      "source_en": "Craft Level",
+      "text": "Fahrzeugebene"
+    },
+    {
+      "key": "pawn_craft_rank_cap",
+      "read_index": "176",
+      "tag_source": "source_en",
+      "source_jp": "クラフトレベルキャップ",
+      "source_en": "Craft Level Cap",
+      "text": "Max. Herstellungsstufe"
+    },
+    {
+      "key": "pawn_craft_xp",
+      "read_index": "168",
+      "tag_source": "source_en",
+      "source_jp": "クラフト経験値",
+      "source_en": "Craft Experience",
+      "text": "Herstellungserfahrung"
+    },
+    {
+      "key": "pawn_craftskill_cost",
+      "read_index": "174",
+      "tag_source": "source_en",
+      "source_jp": "クラフトスキル：コストパフォーマンス",
+      "source_en": "Craft Skill: Cost Performance",
+      "text": "Craft Skill: Kostenleistung"
+    },
+    {
+      "key": "pawn_craftskill_number",
+      "read_index": "173",
+      "tag_source": "source_en",
+      "source_jp": "クラフトスキル：消耗品の生産数アップ",
+      "source_en": "Craft Skill: Consumable Quantity",
+      "text": "Craft Skill: Verbrauchbare Menge"
+    },
+    {
+      "key": "pawn_craftskill_powerup",
+      "read_index": "171",
+      "tag_source": "source_en",
+      "source_jp": "クラフトスキル：装備の強化技術",
+      "source_en": "Craft Skill: Equipment Enhancement",
+      "text": "Craft Skill: Ausrüstungsverbesserung"
+    },
+    {
+      "key": "pawn_craftskill_quality",
+      "read_index": "172",
+      "tag_source": "source_en",
+      "source_jp": "クラフトスキル：高品質装備の作成力",
+      "source_en": "Craft Skill: Equipment Quality",
+      "text": "Craft Skill: Qualität der Ausrüstung"
+    },
+    {
+      "key": "pawn_craftskill_time",
+      "read_index": "170",
+      "tag_source": "source_en",
+      "source_jp": "クラフトスキル：生産作業スピード",
+      "source_en": "Craft Skill: Production Speed",
+      "text": "Craft Skill: Produktionsgeschwindigkeit"
+    },
+    {
+      "key": "pawn_number_of_adventure",
+      "read_index": "178",
+      "tag_source": "source_en",
+      "source_jp": "冒険回数",
+      "source_en": "Craft Count",
+      "text": "Herstellungen"
+    },
+    {
+      "key": "pawn_number_of_support",
+      "read_index": "177",
+      "tag_source": "source_en",
+      "source_jp": "サポート回数",
+      "source_en": "Battle Count",
+      "text": "Kampfeinsätze"
+    },
+    {
+      "key": "phisical_difence",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "物理防御力",
+      "source_en": "Phys. Def",
+      "text": "Phys. Verteidigung"
+    },
+    {
+      "key": "physical_attack",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "物理攻撃力",
+      "source_en": "Phys. Atk",
+      "text": "Phys. Angriff"
+    },
+    {
+      "key": "resist_cought_fire",
+      "read_index": "79",
+      "tag_source": "source_en",
+      "source_jp": "延焼耐性",
+      "source_en": "Resist Burning",
+      "text": "Widerstandsverbrennung"
+    },
+    {
+      "key": "resist_curse",
+      "read_index": "91",
+      "tag_source": "source_en",
+      "source_jp": "呪い耐性",
+      "source_en": "Resist Curse",
+      "text": "Resist-Fluch"
+    },
+    {
+      "key": "resist_dark",
+      "read_index": "78",
+      "tag_source": "source_en",
+      "source_jp": "闇耐性",
+      "source_en": "Dark Resist",
+      "text": "Dunkler Widerstand"
+    },
+    {
+      "key": "resist_dark_resist_down",
+      "read_index": "99",
+      "tag_source": "source_en",
+      "source_jp": "闇防低下耐性",
+      "source_en": "Resist Dark Resist Down",
+      "text": "Schutz vor gesenkter Dunkelresistenz"
+    },
+    {
+      "key": "resist_darkness_mist",
+      "read_index": "83",
+      "tag_source": "source_en",
+      "source_jp": "闇霧耐性",
+      "source_en": "Resist Blind",
+      "text": "Widerstandsblinde"
+    },
+    {
+      "key": "resist_drenching",
+      "read_index": "88",
+      "tag_source": "source_en",
+      "source_jp": "水濡れ耐性",
+      "source_en": "Resist Drenching",
+      "text": "Widerstand gegen Drenching"
+    },
+    {
+      "key": "resist_erosion",
+      "read_index": "217",
+      "tag_source": "source_en",
+      "source_jp": "侵食耐性",
+      "source_en": "Resist Corruption",
+      "text": "Korruption widerstehen"
+    },
+    {
+      "key": "resist_faint",
+      "read_index": "87",
+      "tag_source": "source_en",
+      "source_jp": "気絶耐性",
+      "source_en": "Resist Stun",
+      "text": "Widerstandsstollen"
+    },
+    {
+      "key": "resist_fire",
+      "read_index": "74",
+      "tag_source": "source_en",
+      "source_jp": "炎耐性",
+      "source_en": "Fire Resist",
+      "text": "Feuerschutz"
+    },
+    {
+      "key": "resist_fire_resist_down",
+      "read_index": "95",
+      "tag_source": "source_en",
+      "source_jp": "炎防低下耐性",
+      "source_en": "Resist Fire Resist Down",
+      "text": "Schutz vor gesenkter Feuerresistenz"
+    },
+    {
+      "key": "resist_Frozen",
+      "read_index": "80",
+      "tag_source": "source_en",
+      "source_jp": "凍結耐性",
+      "source_en": "Resist Frozen",
+      "text": "Resistenzen gefroren"
+    },
+    {
+      "key": "resist_gold",
+      "read_index": "94",
+      "tag_source": "source_en",
+      "source_jp": "黄金化耐性",
+      "source_en": "Resist Gilded",
+      "text": "Resist vergoldet"
+    },
+    {
+      "key": "resist_holy",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "聖耐性",
+      "source_en": "Holy Resist",
+      "text": "Heiliger Widerstand"
+    },
+    {
+      "key": "resist_holy_drain",
+      "read_index": "82",
+      "tag_source": "source_en",
+      "source_jp": "聖吸耐性",
+      "source_en": "Resist Holy Drain",
+      "text": "Widerstehen Heiliger Abfluss"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

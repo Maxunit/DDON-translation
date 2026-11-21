@@ -1,0 +1,136 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\equip_status_win.gmd",
+  "arc_path": "\\ui\\uGUIPresetEquip.arc",
+  "entries": [
+    {
+      "key": "status_equip_jewelry_category_num",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "%s (%d/%d)",
+      "source_en": "%s (%d/%d)",
+      "text": "%s (%d/%d)"
+    },
+    {
+      "key": "status_heading_attack_status",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "Attack",
+      "source_en": "Attack",
+      "text": "Angriff"
+    },
+    {
+      "key": "status_heading_base_status",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "General",
+      "source_en": "General",
+      "text": "Allgemein"
+    },
+    {
+      "key": "status_heading_debilitation_resist",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "Debilitation / Debilitation Resist",
+      "source_en": "Debilitation / Debilitation Resist",
+      "text": "Zustände / Resistenzen"
+    },
+    {
+      "key": "status_heading_difence_status",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "Defense",
+      "source_en": "Defense",
+      "text": "Verteidigung"
+    },
+    {
+      "key": "status_heading_job_status",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "Special",
+      "source_en": "Special",
+      "text": "Spezialwerte"
+    },
+    {
+      "key": "status_heading_money",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "Money",
+      "source_en": "Money",
+      "text": "Geld"
+    },
+    {
+      "key": "status_heading_resist_details",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "Details",
+      "source_en": "Details",
+      "text": "Details"
+    },
+    {
+      "key": "status_heading_resist_status",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "Other Status",
+      "source_en": "Other Status",
+      "text": "Weitere Werte"
+    },
+    {
+      "key": "status_money_title",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "Money",
+      "source_en": "Money",
+      "text": "Geld"
+    },
+    {
+      "key": "status_orb_class",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "Class",
+      "source_en": "Class",
+      "text": "Klasse"
+    },
+    {
+      "key": "status_other_title",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "Other",
+      "source_en": "Other",
+      "text": "Sonstiges"
+    },
+    {
+      "key": "status_pawn_owner",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "Arisen:",
+      "source_en": "Arisen:",
+      "text": "Erweckter:"
+    },
+    {
+      "key": "status_ticket_title",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "Ticket",
+      "source_en": "Ticket",
+      "text": "Ticket"
+    },
+    {
+      "key": "status_title_equip_status_eng",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "Status",
+      "source_en": "Status",
+      "text": "Status"
+    },
+    {
+      "key": "status_total_job_level",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "Total <VAL LV>",
+      "source_en": "Total <VAL LV>",
+      "text": "Gesamt: <VAL LV>"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

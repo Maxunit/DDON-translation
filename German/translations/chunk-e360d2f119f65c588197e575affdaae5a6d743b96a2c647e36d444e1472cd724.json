@@ -1,0 +1,264 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\PopDetail01_res.gmd",
+  "arc_path": "\\ui\\uGUIPopDetail01.arc",
+  "entries": [
+    {
+      "key": "pop_detail_1stack_bag",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "アイテムバッグ1枠スタック数：",
+      "source_en": "Item Bag Stack Maximum: ",
+      "text": "Gegenstandstasche Stack Maximum: "
+    },
+    {
+      "key": "pop_detail_G",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "G",
+      "source_en": "G",
+      "text": "G"
+    },
+    {
+      "key": "pop_detail_LV",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "LV.",
+      "source_en": "LV.",
+      "text": "St."
+    },
+    {
+      "key": "pop_detail_add_status_1",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "Add Status",
+      "source_en": "Add Status",
+      "text": "Status hinzufügen"
+    },
+    {
+      "key": "pop_detail_add_status_2",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "Limit Bonus",
+      "source_en": "Limit Bonus",
+      "text": "Begrenzungsbonus"
+    },
+    {
+      "key": "pop_detail_add_status_5",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "Special Bonus",
+      "source_en": "Special Bonus",
+      "text": "Sonderbonus"
+    },
+    {
+      "key": "pop_detail_add_status_34",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "Fusion Bonus",
+      "source_en": "Fusion Bonus",
+      "text": "Fusionsbonus"
+    },
+    {
+      "key": "pop_detail_bazaar",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "バザー",
+      "source_en": "Bazaar",
+      "text": "Basar"
+    },
+    {
+      "key": "pop_detail_bbi_001",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "Unparsable",
+      "source_en": "Unparsable",
+      "text": "nicht trennbar"
+    },
+    {
+      "key": "pop_detail_bbi_002",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>？？？（入手すると判明します）</COL>",
+      "source_en": "<COL ffdc78>??? (identified when obtained)</COL>",
+      "text": "<COL ffdc78>??? (identifiziert, wenn erhalten)</COL>"
+    },
+    {
+      "key": "pop_detail_caption",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "Details",
+      "source_en": "Details",
+      "text": "Details"
+    },
+    {
+      "key": "pop_detail_comparison_eq",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "比較装備：",
+      "source_en": "Equip Compare: ",
+      "text": "Vergleiche: "
+    },
+    {
+      "key": "pop_detail_craft",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "Craft",
+      "source_en": "Craft Menu",
+      "text": "Herstellungsmenü"
+    },
+    {
+      "key": "pop_detail_eq_crest_slot",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "装着クレスト：スロット",
+      "source_en": "Equipped Crest: Slot ",
+      "text": "Ausgestattet Crest: Slot "
+    },
+    {
+      "key": "pop_detail_item_rank",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Item Rank",
+      "source_en": "Item Rank",
+      "text": "Positionsrang"
+    },
+    {
+      "key": "pop_detail_ok",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "OK",
+      "source_en": "Confirm",
+      "text": "Bestätigen"
+    },
+    {
+      "key": "pop_detail_powerup_point",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "強化ポイント",
+      "source_en": "Enhancement",
+      "text": "Verbesserung"
+    },
+    {
+      "key": "pop_detail_sale",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "売却額",
+      "source_en": "Sell",
+      "text": "Verkaufen"
+    },
+    {
+      "key": "pop_detail_shop_aggregate1",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "集計開始まであと",
+      "source_en": "Tally Starts:",
+      "text": "Auswertung beginnt:"
+    },
+    {
+      "key": "pop_detail_shop_aggregate2",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "集計終了まであと",
+      "source_en": "Tally Ends:",
+      "text": "Auswertung endet:"
+    },
+    {
+      "key": "pop_detail_shop_aggregate3",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "集計終了しました",
+      "source_en": "Tally Ended:",
+      "text": "Auswertung beendet:"
+    },
+    {
+      "key": "pop_detail_shop_conditions",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "購入条件",
+      "source_en": "Purchase Requirements",
+      "text": "Anforderungen an den Kauf"
+    },
+    {
+      "key": "pop_detail_shop_deadline",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "販売終了まであと",
+      "source_en": "Sale Ends:",
+      "text": "Verkaufsende:"
+    },
+    {
+      "key": "pop_detail_shop_deadline_01",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "販売開始まであと",
+      "source_en": "Sale starting soon",
+      "text": "Verkauf beginnt bald"
+    },
+    {
+      "key": "pop_detail_shop_deadline_02",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "販売終了",
+      "source_en": "Sale Ended",
+      "text": "Verkauf beendet"
+    },
+    {
+      "key": "pop_detail_shop_deadline_03",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "販売中",
+      "source_en": "Now on Sale",
+      "text": "Jetzt zum Verkauf"
+    },
+    {
+      "key": "pop_detail_shop_stock",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "ショップ残り在庫数：",
+      "source_en": "Remaining Shop Stock:",
+      "text": "Verbleibender Lagerbestand:"
+    },
+    {
+      "key": "pop_detail_shop_unlock_condition_3_1",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "(まだランキングは確定していません)",
+      "source_en": "(The rankings have not yet been finalised.)",
+      "text": "(Die Rankings sind noch nicht abgeschlossen.)"
+    },
+    {
+      "key": "pop_detail_shop_unlock_condition_3_2",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "(参加者はランキングボードを確認してください)",
+      "source_en": "(Participants should check the ranking board)",
+      "text": "(Die Teilnehmer sollten das Ranking Board überprüfen)"
+    },
+    {
+      "key": "pop_detail_shop_unlock_condition_3_3",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "(最終結果%d位)",
+      "source_en": "(Final result %d Rank)",
+      "text": "(Endergebnis %d Rang)"
+    },
+    {
+      "key": "pop_detail_status",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "Status",
+      "source_en": "Status",
+      "text": "Status"
+    },
+    {
+      "key": "pop_detail_target",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "目玉報酬",
+      "source_en": "Featured Rewards",
+      "text": "Ausgeprägte Belohnungen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

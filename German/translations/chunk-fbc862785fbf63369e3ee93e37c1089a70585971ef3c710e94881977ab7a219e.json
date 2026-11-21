@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\pawn_command_category.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "pawn_command_category_640",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "基本命令",
+      "source_en": "Basic Orders",
+      "text": "Grundbefehle"
+    },
+    {
+      "key": "pawn_command_category_641",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "詳細命令",
+      "source_en": "Advanced Orders",
+      "text": "Fortgeschrittene Aufträge"
+    },
+    {
+      "key": "pawn_command_category_642",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "属性指定命令",
+      "source_en": "Attribute Orders",
+      "text": "Attribut Orders"
+    },
+    {
+      "key": "pawn_command_category_643",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "特殊命令",
+      "source_en": "Special Orders",
+      "text": "Sonderbestellungen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

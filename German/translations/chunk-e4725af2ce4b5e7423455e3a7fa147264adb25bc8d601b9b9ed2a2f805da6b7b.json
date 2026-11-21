@@ -1,0 +1,296 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\Craft_res.gmd",
+  "arc_path": "\\ui\\uGUICharacter.arc",
+  "entries": [
+    {
+      "key": "ANALYZE_UPGRADE",
+      "read_index": "226",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>～<VAL>pt",
+      "source_en": "<VAL>～<VAL>pt",
+      "text": "<VAL>–<VAL> Pkt."
+    },
+    {
+      "key": "CHANGE_COLOR",
+      "read_index": "99",
+      "tag_source": "source_en",
+      "source_jp": "Color Change!",
+      "source_en": "Color Change!",
+      "text": "Farbe geändert!"
+    },
+    {
+      "key": "CRAFT_DETAIL_ITEM_RANK",
+      "read_index": "159",
+      "tag_source": "source_en",
+      "source_jp": "Item Rank",
+      "source_en": "Item Rank",
+      "text": "Gegenstandsrang"
+    },
+    {
+      "key": "CRAFT_DETAIL_XP_VAL",
+      "read_index": "160",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>/<VAL>",
+      "source_en": "<VAL>/<VAL>",
+      "text": "<VAL>/<VAL>"
+    },
+    {
+      "key": "CRAFT_MSG_DS_BONUS_UP",
+      "read_index": "269",
+      "tag_source": "source_en",
+      "source_jp": "Dragon Ability Level",
+      "source_en": "Dragon Ability Level",
+      "text": "Stufe der Drachenfähigkeit"
+    },
+    {
+      "key": "CRAFT_NUM_TO_NUM",
+      "read_index": "182",
+      "tag_source": "source_en",
+      "source_jp": "（<VAL>→<VAL>）",
+      "source_en": "（<VAL>→<VAL>）",
+      "text": "(<VAL> → <VAL>)"
+    },
+    {
+      "key": "CRAFT_TIME_INFINITY",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "∞",
+      "source_en": "∞",
+      "text": "∞"
+    },
+    {
+      "key": "CREST_BREAK",
+      "read_index": "92",
+      "tag_source": "source_en",
+      "source_jp": "Crest Break!",
+      "source_en": "Crest Break!",
+      "text": "Fassung zerbrochen!"
+    },
+    {
+      "key": "EX_CHARGE_UNIT",
+      "read_index": "208",
+      "tag_source": "source_en",
+      "source_jp": "(+<VAL>)",
+      "source_en": "(+<VAL>)",
+      "text": "(+<VAL>)"
+    },
+    {
+      "key": "HEADING_ADD_STATUS2",
+      "read_index": "255",
+      "tag_source": "source_en",
+      "source_jp": "Add Status",
+      "source_en": "Add Status",
+      "text": "Zusatzwerte"
+    },
+    {
+      "key": "HEADING_COLOR_ITEM",
+      "read_index": "149",
+      "tag_source": "source_en",
+      "source_jp": "Color Item",
+      "source_en": "Color Item",
+      "text": "Farbstoff"
+    },
+    {
+      "key": "HEADING_CREST_BREAK",
+      "read_index": "79",
+      "tag_source": "source_en",
+      "source_jp": "Crest Break",
+      "source_en": "Crest Break",
+      "text": "Fassung zerstören"
+    },
+    {
+      "key": "HEADING_MATERIALS_CHANGE",
+      "read_index": "256",
+      "tag_source": "source_en",
+      "source_jp": "Materials Change",
+      "source_en": "Materials Change",
+      "text": "Materialwechsel"
+    },
+    {
+      "key": "ITEM_CREATE_TIMES",
+      "read_index": "239",
+      "tag_source": "source_en",
+      "source_jp": "×<VAL>回",
+      "source_en": "x<VAL>",
+      "text": "×<VAL>"
+    },
+    {
+      "key": "ORDER_HEADER_ADD_ITEM",
+      "read_index": "145",
+      "tag_source": "source_en",
+      "source_jp": "Additional Materials",
+      "source_en": "Additional Materials",
+      "text": "Zusatzmaterialien"
+    },
+    {
+      "key": "ORDER_HEADER_CRAFT_ITEM",
+      "read_index": "143",
+      "tag_source": "source_en",
+      "source_jp": "Craft Item",
+      "source_en": "Craft Item",
+      "text": "Herzustellender Gegenstand"
+    },
+    {
+      "key": "ORDER_HEADER_CRAFT_MEMBER",
+      "read_index": "144",
+      "tag_source": "source_en",
+      "source_jp": "Craft Members",
+      "source_en": "Craft Members",
+      "text": "Beteiligte Vasallen"
+    },
+    {
+      "key": "POPUP_GRADE_UP",
+      "read_index": "78",
+      "tag_source": "source_en",
+      "source_jp": "Grade UP!",
+      "source_en": "Grade UP!",
+      "text": "Qualität erhöht!"
+    },
+    {
+      "key": "REMAINING_MAKE_TIME_MINUTE",
+      "read_index": "132",
+      "tag_source": "source_en",
+      "source_jp": "<VAL>m",
+      "source_en": "<VAL>m",
+      "text": "<VAL> Min."
+    },
+    {
+      "key": "ROW_CRAFT_LV",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "Craft LV.",
+      "source_en": "Craft LV.",
+      "text": "Herstellungsstufe"
+    },
+    {
+      "key": "ROW_HAVE",
+      "read_index": "136",
+      "tag_source": "source_en",
+      "source_jp": "Storage",
+      "source_en": "Storage",
+      "text": "Lager"
+    },
+    {
+      "key": "ROW_LIMIT",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "Limit",
+      "source_en": "Limit",
+      "text": "Limit"
+    },
+    {
+      "key": "ROW_LIST_CATEGORY",
+      "read_index": "163",
+      "tag_source": "source_en",
+      "source_jp": "Category",
+      "source_en": "Category",
+      "text": "Kategorie"
+    },
+    {
+      "key": "ROW_MAKE",
+      "read_index": "177",
+      "tag_source": "source_en",
+      "source_jp": "Made",
+      "source_en": "Made",
+      "text": "Hergestellt"
+    },
+    {
+      "key": "ROW_MAKE_ITEM",
+      "read_index": "151",
+      "tag_source": "source_en",
+      "source_jp": "Item",
+      "source_en": "Item",
+      "text": "Gegenstand"
+    },
+    {
+      "key": "ROW_NAME",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "Name",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "ROW_PAWN_NAME",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "ROW_PAWN_STATUS",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "状態",
+      "source_en": "Status",
+      "text": "Status"
+    },
+    {
+      "key": "ROW_POINT",
+      "read_index": "142",
+      "tag_source": "source_en",
+      "source_jp": "Point",
+      "source_en": "Point",
+      "text": "Punkte"
+    },
+    {
+      "key": "ROW_PROGRESS",
+      "read_index": "150",
+      "tag_source": "source_en",
+      "source_jp": "Progress",
+      "source_en": "Progress",
+      "text": "Fortschritt"
+    },
+    {
+      "key": "ROW_STATUS",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "Status",
+      "source_en": "Status",
+      "text": "Status"
+    },
+    {
+      "key": "SUCCESS",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "Success!",
+      "source_en": "Success!",
+      "text": "Erfolg!"
+    },
+    {
+      "key": "TITLE_DETAIL",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "Details",
+      "source_en": "Details",
+      "text": "Details"
+    },
+    {
+      "key": "TITLE_PAWN_STATUS",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "Pawn",
+      "source_en": "Pawn",
+      "text": "Vasall"
+    },
+    {
+      "key": "TITLE_STATUS",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "Status",
+      "source_en": "Status",
+      "text": "Status"
+    },
+    {
+      "key": "TITLE_TOTAL",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "Performance",
+      "source_en": "Performance",
+      "text": "Leistung"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

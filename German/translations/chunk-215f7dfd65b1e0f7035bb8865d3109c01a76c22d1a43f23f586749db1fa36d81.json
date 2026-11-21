@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\pop_party_list_res.gmd",
+  "arc_path": "\\ui\\uGUIPopPartyList.arc",
+  "entries": [
+    {
+      "key": "pop_prof_comment",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "Comment",
+      "source_en": "Comment",
+      "text": "Kommentar"
+    },
+    {
+      "key": "pop_prof_job_jp",
+      "read_index": "21",
+      "tag_source": "source_jp",
+      "source_jp": "ジョブ",
+      "source_en": " ",
+      "text": "Klasse"
+    },
+    {
+      "key": "pop_prof_level_wavedash",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "～",
+      "source_en": "～",
+      "text": "～"
+    },
+    {
+      "key": "pop_prof_lobby",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "Lobby",
+      "source_en": "Lobby",
+      "text": "Lobby"
+    },
+    {
+      "key": "pop_prof_maching_profile_en",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "Matching Profile",
+      "source_en": "Matching Profile",
+      "text": "Gruppenprofil"
+    },
+    {
+      "key": "pop_prof_maching_profile_jp",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "マッチングプロフィール",
+      "source_en": " ",
+      "text": "Gruppenprofil"
+    },
+    {
+      "key": "pop_prof_name",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "Name",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "pop_prof_profile",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "Profile",
+      "source_en": "Profile",
+      "text": "Profil"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

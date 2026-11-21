@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\BtlContentReset_res.gmd",
+  "arc_path": "\\ui\\BtlContentReset.arc",
+  "entries": [
+    {
+      "key": "BTL_CONTENT_RESET_SUCCESS_PROGRESS_REWARD_EX",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "進行と報酬のリセットが完了しました\r\n黄金石リセットにより以下の効果が発動しました\r\n・初期装備品の性能アップ\r\n<COL d7b450>・レアアイテムの追加</COL>\r\n・探索結果の報告のクリア報酬アップ",
+      "source_en": "Progress and Rewards have been reset.\r\n\r\nPerforming a Golden Gemstone reset\r\nactivates the following effects:\r\n\r\n- Improved performance of starting equipment\r\n<COL d7b450>- Addition of rare items</COL>\r\n- Reporting results give more rewards",
+      "text": "Fortschritt und Belohnungen wurden zurückgesetzt.\r\n\r\nDas Zurücksetzen mit Goldsteinen\r\nbringt folgende Vorteile:\r\n\r\n- Bessere Startausrüstung\r\n<COL d7b450>- Zusätzliche seltene Gegenstände</COL>\r\n- Mehr Belohnungen beim Melden der Ergebnisse"
+    },
+    {
+      "key": "BTL_CONTENT_RESET_CONF_GET_REWARD",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "クリア報酬を受け取りますか？\r\n報酬を受け取ると、\r\n<COL ffdc78>進行のリセット</COL>をするまで再突入できなくなります\r\nまた、<COL ffdc78>進行と報酬のリセット</COL>をするまで\r\nクリア報酬が発生しなくなります",
+      "source_en": "Do you wish to receive Clear Rewards?\r\n\r\nOnce you receive the completion rewards,\r\nyou will not be able to re-enter\r\nuntil you <COL ffdc78>reset your progress</COL>.\r\n\r\nFurthermore, no additional Clear Rewards\r\nwill be granted until you choose to\r\n<COL ffdc78>reset your rewards and progress</COL>.",
+      "text": "Abschlussbelohnungen abholen?\r\n\r\nNach dem Abholen kannst du erst wieder hinein,\r\nwenn du den Fortschritt zurücksetzt.\r\nWähle dafür <COL ffdc78>Fortschritt zurücksetzen</COL>.\r\n\r\nWeitere Abschlussbelohnungen gibt es erst,\r\nwenn du diese Option wählst:\r\n<COL ffdc78>Fortschritt und Belohnungen zurücksetzen</COL>."
+    },
+    {
+      "key": "BTL_CONTENT_RESET_CONF_GP",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN KT>が足りません\r\n代わりに<COL d7b450>黄金石%d個</COL>を使用して\r\n進行と報酬のリセットが行えます\r\n黄金石によるリセットは<COL d7b450>あと%d回</COL>利用できます\r\n<COL d7b450>黄金石%d個</COL>を使用してリセットを行いますか？\r\n（所持数：%d）\r\n黄金石リセットにより以下の効果が発動します\r\n・初期装備品の性能アップ\r\n<COL d7b450>・レアアイテムの追加</COL>\r\n・探索結果の報告のクリア報酬アップ",
+      "source_en": "Not enough <UNTN KT>s.\r\nYou can reset progress and rewards by\r\nusing <COL d7b450>%d Golden Gemstone(s)</COL> instead.\r\nYou have <COL d7b450>%d GG attempts left</COL>.\r\n\r\nWould you like to perform a reset\r\nusing <COL d7b450>%d Golden Gemstone(s)</COL>?\r\n(Number in possession: %d)\r\n\r\nThe following effects will be activated\r\nby the Golden Gemstone reset:\r\n\r\n- Improved performance of starting equipment\r\n<COL d7b450>- Addition of rare items</COL>\r\n- Reporting results give more rewards",
+      "text": "Nicht genug <UNTN KT>.\r\nDu kannst Fortschritt und Belohnungen stattdessen\r\nfür <COL d7b450>%d Goldsteine</COL> zurücksetzen.\r\nVerbleibende Versuche: <COL d7b450>%d</COL>.\r\n\r\nFortschritt und Belohnungen\r\nfür <COL d7b450>%d Goldsteine</COL> zurücksetzen?\r\n(Im Besitz: %d)\r\n\r\nDas Zurücksetzen mit Goldsteinen\r\nbringt folgende Vorteile:\r\n\r\n- Bessere Startausrüstung\r\n<COL d7b450>- Zusätzliche seltene Gegenstände</COL>\r\n- Mehr Belohnungen beim Melden der Ergebnisse"
+    },
+    {
+      "key": "BTL_CONTENT_RESET_CONF_RESET",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN KT> %d<UNIT KT>を使用して\r\n<COL d7b450>進行と報酬のリセット</COL>を行いますか？（残り%d<UNIT KT>）\r\n下記の内容がリセットされます\r\n・覚者、ポーンのレベル\r\n・チェックポイントなどの進行データ (※1)\r\n・<COL d7b450>進行中の宝箱や報酬データ</COL> (※2)\r\n・<COL d7b450>入手したすべてのアイテム</COL> (※3)\r\n※1...固定されているルートが<COL d7b450>変更可能になります</COL>\r\n※2...<COL d7b450>黒呪の迷宮を再周回するために必ず必要です</COL>\r\n※3...<COL d7b450><ITEM 21630></COL>や、<COL d7b450><ITEM 23364></COL>\r\n　　  <COL d7b450><ITEM 21651></COL>等は大変貴重です。ご注意ください",
+      "source_en": "Use %d <UNTN KT>s\r\nto perform a <COL d7b450>progress and reward reset</COL>?\r\n(Have: %d <UNIT KT>)\r\n\r\nThe following will be reset:\r\n\r\n- Arisen and Pawn levels\r\n- Progress data such as checkpoints (※1)\r\n- <COL d7b450>Ongoing treasure chest and reward data</COL> (※2)\r\n- <COL d7b450>All acquired items</COL> (※3)\r\n\r\n※1... Fixed routes <COL d7b450>may be changed</COL>\r\n※2... <COL d7b450>As a requirement to rerun the maze</COL>\r\n※3... Items like the <COL d7b450><ITEM 21630></COL>,\r\n<COL d7b450><ITEM 23364></COL>, <COL d7b450><ITEM 21651></COL>,\r\nand so forth are extremely valuable.\r\nPlease proceed carefully.",
+      "text": "Für %d <UNTN KT>\r\n<COL d7b450>Fortschritt und Belohnungen zurücksetzen</COL>?\r\n(Im Besitz: %d <UNIT KT>)\r\n\r\nFolgendes wird zurückgesetzt:\r\n\r\n- Stufen des Erweckten und der Vasallen\r\n- Fortschrittsdaten wie Kontrollpunkte (※1)\r\n- <COL d7b450>Daten zu Schatztruhen und Belohnungen</COL> (※2)\r\n- <COL d7b450>Alle erworbenen Gegenstände</COL> (※3)\r\n\r\n※1: Festgelegte Routen <COL d7b450>lassen sich wieder ändern</COL>.\r\n※2: <COL d7b450>Nötig für einen weiteren Labyrinthdurchgang</COL>.\r\n※3: Gegenstände wie <COL d7b450><ITEM 21630></COL>,\r\n<COL d7b450><ITEM 23364></COL>, <COL d7b450><ITEM 21651></COL>\r\n sind äußerst wertvoll.\r\nEntscheide mit Bedacht."
+    },
+    {
+      "key": "BTL_CONTENT_RESET_CONF_RESET_NO_COST",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "<COL d7b450>進行のリセット</COL>を行いますか？\r\n下記の項目がリセットされます\r\n・覚者、ポーンのレベル\r\n・チェックポイントなどの進行データ (※1)(※2)\r\n・<COL d7b450>入手したすべてのアイテム</COL> (※3)\r\n※1...<COL d7b450>一度でも冥府1をクリアしている場合</COL>\r\n　　  進行と報酬のリセットをするまで\r\n　　  <COL d7b450>ルートは変更できません</COL>\r\n※2...<COL d7b450>宝箱などの報酬はリセットされません</COL>\r\n　　  友人と最初から遊ぶ場合に活用します\r\n※3...<COL d7b450><ITEM 21630></COL>や、<COL d7b450><ITEM 23364></COL>\r\n　　  <COL d7b450><ITEM 21651></COL>等は大変貴重です。ご注意ください",
+      "source_en": "Do you wish to <COL d7b450>reset your progress</COL>?\r\n\r\nThe following will be reset:\r\n\r\n- Arisen and Pawn levels\r\n- Progress data such as checkpoints (※1)(※2)\r\n- <COL d7b450>All acquired items</COL> (※3)\r\n\r\n※1... If you have cleared Netherworld 1\r\neven once, routes cannot be changed until\r\nyou perform a progress and reward reset.\r\n※2... Treasure chests will not be reset.\r\nUse this when starting over with friends.\r\n※3... Items like the <COL d7b450><ITEM 21630></COL>,\r\n<COL d7b450><ITEM 23364></COL>, <COL d7b450><ITEM 21651></COL>,\r\nand so forth are extremely valuable.\r\nPlease proceed carefully.",
+      "text": "Möchtest du <COL d7b450>den Fortschritt zurücksetzen</COL>?\r\n\r\nFolgendes wird zurückgesetzt:\r\n\r\n- Stufen von Erwecktem und Vasallen\r\n- Fortschrittsdaten wie Kontrollpunkte (※1)(※2)\r\n- <COL d7b450>Alle erworbenen Gegenstände</COL> (※3)\r\n\r\n※1: Hast du Unterwelt 1 bereits abgeschlossen,\r\nbleibt die Route festgelegt, bis du\r\nFortschritt und Belohnungen zurücksetzt.\r\n※2: Schatztruhen werden nicht zurückgesetzt.\r\nSo kannst du mit Freunden von vorn beginnen.\r\n※3: Gegenstände wie <COL d7b450><ITEM 21630></COL>,\r\n<COL d7b450><ITEM 23364></COL>, <COL d7b450><ITEM 21651></COL>\r\n sind äußerst wertvoll.\r\nEntscheide mit Bedacht."
+    },
+    {
+      "key": "BTL_CONTENT_RESET_DISABLE",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<UNTN KT>が足りません\r\n黄金石によるリセットも\r\n利用回数を満たしているため\r\n次回のリセット時間までお待ちください\r\n（リセット時間はプレイマニュアルをご覧ください）",
+      "source_en": "Not enough <UNTN KT>.\r\n\r\nThe number of Golden Gemstone resets\r\nhave been expended at this time.\r\nPlease wait until the next time period.\r\n\r\n(See the Play Manual for reset timing)",
+      "text": "Nicht genug <UNTN KT>.\r\n\r\nDu hast alle Versuche zum Zurücksetzen\r\nmit Goldsteinen aufgebraucht.\r\nWarte bis zum nächsten Termin.\r\n\r\n(Die Zeiten stehen im Spielhandbuch.)"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\ui\\Newspaper_res.gmd",
+  "arc_path": "\\ui\\uGUINewspaper.arc",
+  "entries": [
+    {
+      "key": "np_msg_clan",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "クラン",
+      "source_en": "Clan",
+      "text": "Clan"
+    },
+    {
+      "key": "np_msg_icon_recommended",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ボーナス",
+      "source_en": "Bonus",
+      "text": "Bonus"
+    },
+    {
+      "key": "np_msg_lv",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "LV.",
+      "source_en": "LV.",
+      "text": "St."
+    },
+    {
+      "key": "np_msg_name",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "名前",
+      "source_en": "Name",
+      "text": "Name"
+    },
+    {
+      "key": "np_msg_nothing",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "---",
+      "source_en": "—",
+      "text": "—"
+    },
+    {
+      "key": "np_msg_pt",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "pt",
+      "source_en": "pt",
+      "text": "pt"
+    },
+    {
+      "key": "np_msg_reward_item_num",
+      "read_index": "67",
+      "tag_source": "source_en",
+      "source_jp": "×",
+      "source_en": "×",
+      "text": "×"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}
