@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20990003_00.gmd",
+  "arc_path": "\\quest\\q20990003.arc",
+  "entries": [
+    {
+      "key": "q20990003_00_269",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "受け継がれる想い",
+      "source_en": "Inherited Experience",
+      "text": "Was von ihnen bleibt"
+    },
+    {
+      "key": "q20990003_00_269",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アリアドネの願いを聞き入れ\r\nメルゴダ廃墟に残る遺品を回収する",
+      "source_en": "Fulfill Ariadne's request by retrieving the artifacts\r\nremaining in the ruins of Mergoda.",
+      "text": "Geh auf Ariadnes Bitte ein\r\nund birg die Hinterlassenschaften aus den Ruinen von Mergoda."
+    },
+    {
+      "key": "q20990003_00_269",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "詳細ははっきりしないが、何らかの助けを欲する者が\r\n<NAME AREA>にいるらしい",
+      "source_en": "Though the details are unclear,\r\nit seems that someone in <NAME AREA>\r\nis in need of some kind of assistance.",
+      "text": "Genaueres ist nicht bekannt,\r\ndoch in <NAME AREA> braucht offenbar\r\njemand Hilfe."
+    },
+    {
+      "key": "q20990003_00_269",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダが地上から切り離されてから\r\nこの地はご加護も無く、見放された地となりました\r\nですが、今は廃墟となった地域にも\r\n元は日々の暮らしを営む人々がいたのです\r\nあそこには、亡き住民たちの遺した品が\r\n今もそのままになっているはずなのです――",
+      "source_en": "Since Mergoda was cut off from the surface, \r\nthis land has become forsaken, \r\ndevoid of blessings and abandoned. \r\nHowever, in the ruins, \r\nthere once lived people who went \r\nabout their daily lives. \r\nThe belongings left by these deceased residents \r\nshould still remain there as they were――",
+      "text": "Seit Mergoda von der Oberfläche getrennt wurde,\r\nist dieses Land auf sich gestellt.\r\nKein Segen schützt uns mehr.\r\nDoch wo heute nur noch Ruinen stehen,\r\nlebten einst Menschen.\r\nSie gingen dort ihrem Alltag nach.\r\nIhre Habseligkeiten müssten noch dort liegen,\r\nwo sie sie zurückgelassen haben …"
+    },
+    {
+      "key": "q20990003_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q20990003_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20990003_00_1064",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜メルゴダ民の住居＞で遺品を探す",
+      "source_en": "Search for the relic within the Mergodan Residence",
+      "text": "Suche im Wohnhaus in Mergoda nach den Hinterlassenschaften."
+    },
+    {
+      "key": "q20990003_00_1064",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜メルゴダ民の住居＞で遺品を探す",
+      "source_en": "Search for the relic within the Mergodan Residence",
+      "text": "Suche im Wohnhaus in Mergoda nach den Hinterlassenschaften."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

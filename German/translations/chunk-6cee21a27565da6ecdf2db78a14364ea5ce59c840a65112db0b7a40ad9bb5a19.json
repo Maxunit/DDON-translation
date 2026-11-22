@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q20080000.gmd",
+  "arc_path": "\\quest\\q20080000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "「c」を発見した",
+      "source_en": "\"Broken wine bottle\" found.",
+      "text": "„Zerbrochene Weinflasche“ gefunden."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "「伝説の古酒」を発見した",
+      "source_en": "\"Legendary old wine\" found.",
+      "text": "„Legendärer alter Wein“ gefunden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

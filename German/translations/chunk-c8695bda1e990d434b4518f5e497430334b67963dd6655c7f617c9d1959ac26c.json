@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q20055009.gmd",
+  "arc_path": "\\quest\\q20055009.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "状態異常にかかったため報酬ランクが下がります",
+      "source_en": "",
+      "text": "Wegen einer Statusveränderung sinkt der Belohnungsrang."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "敵の増援が出現！",
+      "source_en": "",
+      "text": "Feindliche Verstärkung ist erschienen!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

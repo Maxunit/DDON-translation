@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area12_spot_info.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "白竜により、かつて大地から切り離された都\r\nレスタニアとは隔てられた異界に漂い、時の流れも\r\n異なっている。現在は地上で見られなくなった\r\n錬金技術が随所にほどこされ、秘術で生み出された\r\n錬魔は今も亡都を守護している",
+      "source_en": "The city once cut off from the earth by The White\r\nDragon.\r\nNow drifts in a different realm, no longer seen\r\nin Lestania.\r\nTime flows differently here.\r\nAlchemized technology, which has disappeared from\r\nthe surface, is still present throughout, and the\r\ncity is protected by guardian spirits created\r\nthrough secret spells.",
+      "text": "Einst trennte der Weiße Drache diese Stadt\r\nvom Erdboden.\r\nSeither treibt sie in einer anderen Welt,\r\nfern von Lestania.\r\nAuch die Zeit vergeht dort anders.\r\nAlchemistische Technik, die an der Oberfläche\r\nlängst verschwunden ist, findet sich hier überall.\r\nUnd die mit geheimer Kunst geschaffenen Alchemiemonster\r\nbewachen die Stadt bis heute."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "300年の昔に地上から失われた都\r\n旧王都として錬金術師により統治され、栄華を\r\n極めた。だが、白竜によりレスタニアから\r\n切り離されて後、異界を漂い続けている\r\n今なお僅かな民が生存している",
+      "source_en": "300 years ago, the ancient capital that\r\ndisappeared from the earth's surface was ruled by\r\nalchemists and flourished.\r\nHowever, after being separated from Lestania by\r\nthe White Dragon, it continues to drift in the\r\notherworld.\r\nEven now, only a few people survive.",
+      "text": "Vor dreihundert Jahren war die Hauptstadt\r\nunter der Herrschaft der Alchemisten aufgeblüht.\r\nDann verschwand sie von der Oberfläche.\r\nDer Weiße Drache hatte die Stadt\r\nvon Lestania getrennt.\r\nSeither treibt sie in einer anderen Welt.\r\nNur wenige Menschen sind dort noch am Leben."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "錬金術師テオドールの工房\r\n錬金術に関する様々な書物や研究資材が並ぶ\r\nディアマンテスに抵抗する者、そして\r\n《アルケミスト》を志す者にとっては重要な\r\n場所である",
+      "source_en": "The workshop of alchemist Theodor.\r\nVarious books and research materials related to\r\nalchemy are lined up.\r\nIt is an important place for those who resist\r\nDiamantes and aspire to be Alchemists.",
+      "text": "Die Werkstatt des Alchemisten Theodor.\r\nHier stehen Bücher und Forschungsunterlagen\r\nüber die Alchemie.\r\nDer Ort ist wichtig für alle, die sich Diamantes widersetzen\r\nund die Alchemie erlernen wollen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ディアマンテスが封じられた元・王の間\r\nレスタニアからメルゴダが切り離されて後も\r\nその影響力は大きく、力までも完全に\r\n封じることはできなかった",
+      "source_en": "The former king's space where Diamantes was\r\nsealed.\r\nEven after Mergoda was separated from Lestania,\r\nits influence remained significant and its power\r\ncould not be completely sealed.",
+      "text": "Eine Kammer des ehemaligen Königs, in der Diamantes\r\nversiegelt wurde.\r\nSelbst nachdem Mergoda von Lestania getrennt worden war,\r\nhatte Diamantes noch großen Einfluss.\r\nSeine Macht ließ sich nie ganz bannen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "未完成状態の素材錬魔が暴走し、研究室に踏み\r\n入った者に攻撃を加えるようになった\r\n完成前とはいえ、監視索敵用に特別開発されるはず\r\nだった魔物のようだ\r\n小型の未完成品と侮ってはいけない",
+      "source_en": "An incomplete material-altering creature has gone\r\nberserk and started attacking anyone who enters\r\nthe laboratory. It was supposed to be specially\r\ndeveloped for surveillance and reconnaissance,\r\neven though it is not yet complete. Do not\r\nunderestimate this small unfinished product.",
+      "text": "Ein unvollendetes Wesen, das seine Gestalt wandeln kann,\r\nist außer Kontrolle geraten und greift jeden an,\r\nder das Labor betritt. Man hat es eigens\r\nzur Überwachung und Aufklärung geschaffen.\r\nEs ist noch nicht fertig. Trotzdem sollte man\r\ndie kleine Kreatur nicht unterschätzen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "護政区の研究者であった錬金術師の家\r\nすでに主は不在だが、研究成果や遺物は\r\n遺されているかもしれない\r\nそれが、どういった内容であるかは不明",
+      "source_en": "The home of an alchemist who was a researcher in\r\nthe Security District.\r\nThe master is already absent, but there may be\r\nalchemized research results and artifacts left\r\nbehind.\r\nIt is unclear what the contents are.",
+      "text": "Das Haus eines Alchemisten, der im Wachtbezirk\r\ngeforscht hat.\r\nDer Bewohner ist fort. Vielleicht sind noch\r\nForschungsergebnisse oder alchemistische Gegenstände\r\nin seinem Haus zurückgeblieben.\r\nWas darin zu finden ist, weiß niemand."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "メルガン技師の研究室\r\n技師の中にも、竜を排すという異端思想に傾倒\r\nした者が少なからずいた。そういった思想の信徒が\r\n使っていた研究室は封鎖、監視対象となっている\r\nここも、何らかの研究のため使われていたようだ",
+      "source_en": "Laboratory of Mergan Engineers.\r\nHere, there were some who were inclined towards\r\nthe heretical idea of rejecting dragons.\r\nThe research facility used by those who believed\r\nin such ideas has been shut down and placed under\r\nsurveillance.\r\nIt seems that this place was also used for some\r\nkind of research.",
+      "text": "Ein Labor der Techniker von Mergan.\r\nEinige von ihnen hingen der ketzerischen Lehre an,\r\ndie Drachen abzulehnen.\r\nIhre Forschungsstätte wurde geschlossen\r\nund unter Bewachung gestellt.\r\nOffenbar haben sie auch hier\r\neine Art Forschung betrieben.\r\nWoran sie arbeiteten, ist unklar."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "宮殿前広場に、ディアマンテス派メルガン技師が\r\n魔道兵器ギガン・マキナを改造し配置している\r\nこの兵器はあまりに危険なため、広場を通る\r\n際は周到な戦闘準備が必要となる",
+      "source_en": "In front of the palace plaza, Diamantes faction\r\nMelgan engineers have modified the magick weapon\r\nGigant Machina.\r\nAs this weapon is extremely dangerous, thorough\r\ncombat preparations are necessary when passing\r\nthrough the plaza.",
+      "text": "Auf dem Palastvorplatz steht die magische Waffe\r\nGigant Machina, die Techniker aus Mergan\r\nim Dienst von Diamantes umgebaut haben.\r\nDie Waffe ist äußerst gefährlich.\r\nWer über den Platz muss,\r\nsollte sich auf einen Kampf vorbereiten."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "亡都メルゴダ　王宮層にある廃墟\r\n元の住民のものと思しき大量の書籍もそのままに\r\n打ち捨てられている。すっかり荒れ果ててはいるが\r\n異端思想に傾倒する者たちが未だに集会所として\r\nいるとの噂がある",
+      "source_en": "Mergoda Ruins, located in the royal palace layer,\r\nis a deserted place where the remnants of the\r\noriginal residents, including a large number of\r\nbooks, remain untouched. Although it is completely\r\nin ruins, there are rumors that people who lean\r\ntowards heretical ideologies still use it as a\r\ngathering place.",
+      "text": "Ruinen auf der Palastebene von Mergoda.\r\nHier sind unzählige Bücher und andere Dinge zurückgeblieben,\r\ndie vermutlich den damaligen Bewohnern gehörten.\r\nDas Viertel ist völlig verfallen.\r\nDoch es heißt, dass die Anhänger einer ketzerischen Lehre\r\nsich hier noch immer heimlich\r\nzu ihren Zusammenkünften treffen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "王宮内研究室、メルガン・アルケミデアで\r\nあのズールと思しき魔物が目撃された\r\nどうやら、錬金術師が複製体の創造\r\nに成功したらしい。複製体が意思を持つ前に\r\nどうにか食い止めなければならない",
+      "source_en": "In the royal research laboratory, Mergan\r\nAlchemdia, the enemy that appears to be Zuhl has\r\nbeen sighted.\r\nIt seems that the alchemists have succeeded in\r\ncreating a duplicate.\r\nWe must somehow stop it before the duplicate\r\ngains consciousness.",
+      "text": "Im Forschungslabor des Königspalasts, dem Mergan-Alchemium,\r\nwurde ein Monster gesichtet,\r\ndas Zuhl zu sein scheint.\r\nOffenbar ist es den Alchemisten gelungen,\r\neinen Klon zu erschaffen.\r\nEr muss aufgehalten werden,\r\nehe er ein eigenes Bewusstsein entwickelt."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "亡都メルゴダの元は市街地であった区画\r\n整理され美しかったであろう街並みの\r\n様子は、遺跡群からも見てとれる\r\n今なおメルゴダの民が暮らす地でもある",
+      "source_en": "The Mergoda Ruins was originally a district in\r\nthe city, which must have been organized and\r\nbeautiful. This can also be seen from the remnants\r\nwhere the people of Mergoda still live.",
+      "text": "Ehemaliges Wohnviertel der untergegangenen Stadt Mergoda.\r\nDie Ruinen lassen noch erkennen,\r\nwie wohlgeordnet und schön die Straßen einst gewesen sein müssen.\r\nBis heute leben hier Bewohner Mergodas."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "亡都メルゴダの王ゴルゴラン、そして政権を握る\r\nディアマンテスら特別な錬金術師たちが集った\r\n壮麗なる王宮\r\n広い研究所や宮殿は現在も巨人兵が護りつづけ\r\nており、支配者の影響力を強く残している",
+      "source_en": "The magnificent palace where Golgorran, the king\r\nof the exiled city of Mergoda, and the special\r\nalchemists led by Diamantes who hold political\r\npower, gathered.\r\nThe large laboratories and palaces are still\r\nguarded by Giant soldiers, preserving the strong\r\ninfluence of the rulers.",
+      "text": "Der prächtige Palast, in dem Golgorran, König der verbannten Stadt Mergoda,\r\nmit den angesehenen Alchemisten zusammentraf,\r\ndie unter Diamantes’ Führung\r\ngroße politische Macht ausübten.\r\nNoch heute bewachen Riesenkrieger\r\ndie großen Laboratorien und den Palast.\r\nDer Einfluss der einstigen Herrscher ist unübersehbar."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【昌石】の扉あり</COL>\r\n女性錬金術師ペトラネアが、自宅の地下に密かに\r\n併設した実験場。秘術によって錬魔や不死者に\r\n特殊なエレメントを付与する研究や、人間を\r\n魔物に変える残酷な実験がここで繰り返し行われた",
+      "source_en": "<COL ffdc78>[Gemstone Door]</COL>\r\nPetranea, a female alchemist, secretly\r\nestablished an experimental facility in the\r\nbasement of her home.\r\nResearch of bestowing special elements to\r\nalchemized monsters and immortals through secret\r\narts, as well as cruel experiments that transform\r\nhumans into monsters, were repeatedly conducted\r\nhere.",
+      "text": "<COL ffdc78>[Edelsteintür vorhanden]</COL>\r\nDie Alchemistin Petranea richtete heimlich\r\nein Versuchslabor\r\nunter ihrem Haus ein.\r\nSie wollte Alchemiemonstern und Untoten\r\nmit geheimen Künsten besondere elementare Kräfte verleihen.\r\nAuch führte sie immer wieder\r\ngrausame Versuche durch,\r\nbei denen sie Menschen in Monster verwandelte."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

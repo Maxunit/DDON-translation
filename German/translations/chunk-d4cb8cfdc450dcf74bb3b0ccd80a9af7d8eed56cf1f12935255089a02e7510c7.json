@@ -27,6 +27,22 @@
       "text": "Das Land des Wasserdrachen"
     },
     {
+      "key": "EVENT_NAME_st3100ev000",
+      "read_index": "338",
+      "tag_source": "source_en",
+      "source_jp": "EX3.4アバドーン開始デモ",
+      "source_en": "EX3.4 Abaddon starting demo",
+      "text": "EX3.4: Abaddon erscheint"
+    },
+    {
+      "key": "EVENT_NAME_st3100ev005",
+      "read_index": "339",
+      "tag_source": "source_en",
+      "source_jp": "EX3.4アバドーン討伐デモ",
+      "source_en": "EX3.4 Abaddon Defeat Demonstration",
+      "text": "EX3.4: Abaddons Niederlage"
+    },
+    {
       "key": "EVENT_NAME_st3111ev000",
       "read_index": "321",
       "tag_source": "source_en",
@@ -51,12 +67,124 @@
       "text": "Der Schwarze Ritter und Leo"
     },
     {
+      "key": "EVENT_NAME_st3200ev000",
+      "read_index": "340",
+      "tag_source": "source_en",
+      "source_jp": "EX3.4バフォメット開始デモ",
+      "source_en": "EX3.4 Baphomet starting demo",
+      "text": "EX3.4: Baphomet erscheint"
+    },
+    {
+      "key": "EVENT_NAME_st3200ev005",
+      "read_index": "341",
+      "tag_source": "source_en",
+      "source_jp": "EX3.4バフォメット討伐デモ",
+      "source_en": "EX3.4 Baphomet Defeat Demo",
+      "text": "EX3.4: Baphomets Niederlage"
+    },
+    {
       "key": "EVENT_NAME_st3212ev000",
       "read_index": "325",
       "tag_source": "source_en",
       "source_jp": "数多の覚者",
       "source_en": "Numerous Arisen",
       "text": "Einer von vielen Erweckten"
+    },
+    {
+      "key": "EVENT_NAME_st3300ev000",
+      "read_index": "326",
+      "tag_source": "source_en",
+      "source_jp": "闇の世界",
+      "source_en": "Underworld",
+      "text": "Das Reich der Finsternis"
+    },
+    {
+      "key": "EVENT_NAME_st3300ev005",
+      "read_index": "327",
+      "tag_source": "source_en",
+      "source_jp": "黒騎士の最期",
+      "source_en": "The Last Days of the Black Knight",
+      "text": "Das Ende des Schwarzen Ritters"
+    },
+    {
+      "key": "EVENT_NAME_st3300ev010",
+      "read_index": "342",
+      "tag_source": "source_en",
+      "source_jp": "EX3.4黒騎士開始デモ",
+      "source_en": "EX3.4 black knight starting demo",
+      "text": "EX3.4: Der Schwarze Ritter erscheint"
+    },
+    {
+      "key": "EVENT_NAME_st3300ev015",
+      "read_index": "343",
+      "tag_source": "source_en",
+      "source_jp": "EX3.4黒騎士討伐デモ",
+      "source_en": "EX3.4 Black Knight Defeat Demo",
+      "text": "EX3.4: Niederlage des Schwarzen Ritters"
+    },
+    {
+      "key": "EVENT_NAME_st3400ev000",
+      "read_index": "331",
+      "tag_source": "source_en",
+      "source_jp": "黒竜の登場",
+      "source_en": "Appearance of the Black Dragon",
+      "text": "Der Schwarze Drache erscheint"
+    },
+    {
+      "key": "EVENT_NAME_st3400ev005",
+      "read_index": "332",
+      "tag_source": "source_en",
+      "source_jp": "黒竜の最期",
+      "source_en": "The Last Days of the Black Dragon",
+      "text": "Das Ende des Schwarzen Drachen"
+    },
+    {
+      "key": "EVENT_NAME_st3400ev010",
+      "read_index": "344",
+      "tag_source": "source_en",
+      "source_jp": "EX3.4黒竜４人開始デモ",
+      "source_en": "EX3.4 Demo of 4 black dragons starting",
+      "text": "EX3.4: Der Schwarze Drache erscheint (4 Spieler)"
+    },
+    {
+      "key": "EVENT_NAME_st3400ev015",
+      "read_index": "345",
+      "tag_source": "source_en",
+      "source_jp": "EX3.4限界域黒竜８人開始デモ",
+      "source_en": "EX3.4 Marginal Area Black Dragon 8-person\r\nstarting demo",
+      "text": "EX3.4: Der Schwarze Drache erscheint\r\nGrenzbereich (8 Spieler)"
+    },
+    {
+      "key": "EVENT_NAME_st3400ev020",
+      "read_index": "346",
+      "tag_source": "source_en",
+      "source_jp": "EX3.4黒竜４人、８人共通討伐デモ",
+      "source_en": "EX3.4 Black Dragon 4- and 8-man common defeat demo",
+      "text": "EX3.4: Niederlage des Schwarzen Drachen (4 und 8 Spieler)"
+    },
+    {
+      "key": "EVENT_NAME_st3411ev000",
+      "read_index": "328",
+      "tag_source": "source_en",
+      "source_jp": "ミシアルの登場",
+      "source_en": "Emergence of Mysial",
+      "text": "Mysial erscheint"
+    },
+    {
+      "key": "EVENT_NAME_st3500ev000",
+      "read_index": "329",
+      "tag_source": "source_en",
+      "source_jp": "レオの覚悟",
+      "source_en": "Leo's Determination",
+      "text": "Leos Entschluss"
+    },
+    {
+      "key": "EVENT_NAME_st3500ev005",
+      "read_index": "330",
+      "tag_source": "source_en",
+      "source_jp": "レオとの別れ",
+      "source_en": "Farewell to Leo",
+      "text": "Abschied von Leo"
     }
   ],
   "schema_version": 1,

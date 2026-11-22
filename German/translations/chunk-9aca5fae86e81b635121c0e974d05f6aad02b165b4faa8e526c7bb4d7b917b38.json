@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20995010_00.gmd",
+  "arc_path": "\\quest\\q20995010.arc",
+  "entries": [
+    {
+      "key": "q20995010_00_281",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "妄執の幽戦士",
+      "source_en": "The Misguided Soldiers",
+      "text": "Getriebene Geisterkrieger"
+    },
+    {
+      "key": "q20995010_00_281",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【 敵出現：夜 】</COL>\r\n遭遇した敵を討伐する",
+      "source_en": "<COL ffdc78>[Enemy appears at night]</COL>\r\nDefeat the enemies encountered",
+      "text": "<COL ffdc78>[Gegner erscheint nachts]</COL>\r\nBesiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20995010_00_281",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>では、夜になると現れる\r\n危険な存在により住民が脅かされているらしい",
+      "source_en": "In the <NAME AREA>, \r\nit seems that the residents are being threatened \r\nby a dangerous presence that appears at night.",
+      "text": "In <NAME AREA>\r\nfürchten sich die Bewohner vor etwas Gefährlichem,\r\ndas sich nur nachts zeigt."
+    },
+    {
+      "key": "q20995010_00_281",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【 敵出現：夜 】</COL>\r\n夜にね、遠くにね\r\nぼんやりと灯りが見えたの\r\nあたしね、こっそりと灯りの場所を覗きにいったんだ\r\nおかしいの\r\n暗闇の中でまるでお祭りしているみたいなの",
+      "source_en": "<COL ffdc78>[Enemy appears during: Night]</COL>\r\nAt night, I saw a faint light in the distance.\r\nI secretly went to check out the light's source.\r\nIt was strange— \r\nit looked like a festival in the darkness.",
+      "text": "<COL ffdc78>[Gegner erscheint nachts]</COL>\r\nNachts hab ich in der Ferne ein schwaches Licht gesehen.\r\nIch hab mich angeschlichen, um nachzusehen, woher es kam.\r\nEs war seltsam.\r\nEs sah aus, als würde jemand mitten im Dunkeln ein Fest feiern."
+    },
+    {
+      "key": "q20995010_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

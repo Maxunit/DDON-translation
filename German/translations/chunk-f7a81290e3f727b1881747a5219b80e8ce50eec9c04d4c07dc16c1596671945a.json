@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20055002_00.gmd",
+  "arc_path": "\\quest\\q20055002.arc",
+  "entries": [
+    {
+      "key": "q20055002_00_130",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ洞の怪",
+      "source_en": "The Mystery of Mysree Limestone Cave",
+      "text": "Das Rätsel der Tropfsteinhöhle von Mysree"
+    },
+    {
+      "key": "q20055002_00_130",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20055002_00_130",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>方面から\r\n原因不明の怪音や震動が続いているとの報せがあった",
+      "source_en": "There have been reports of unexplained noises \r\nand vibrations in the \r\n<NAME AREA> region.",
+      "text": "Berichten zufolge kommt es immer wieder zu seltsamen\r\nGeräuschen und Erschütterungen\r\nin der Gegend um <NAME AREA>."
+    },
+    {
+      "key": "q20055002_00_130",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "今日は戦闘を避けて、道具の手入れや\r\n書物での戦術研究をしようと思っていたのだが\r\n近隣に魔物の影を見かけてしまった\r\n緊急性は低いと思うが、放置してはおけまい\r\nやれやれだ",
+      "source_en": "I intended to avoid fighting today and instead\r\nwork on gear maintenance and study tactics.\r\nBut I've seen signs of monsters nearby.\r\nThe situation doesn't seem critical, \r\nbut it can't be left unattended. \r\nWhat a bother.",
+      "text": "Heute wollte ich Kämpfen aus dem Weg gehen, meine Ausrüstung\r\npflegen und Bücher über Taktik studieren.\r\nDoch ich habe in der Nähe Anzeichen für Monster entdeckt.\r\nDie Lage scheint zwar nicht dringend,\r\naber ich kann das nicht einfach auf sich beruhen lassen.\r\nSo viel zu meinem freien Tag."
+    },
+    {
+      "key": "q20055002_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

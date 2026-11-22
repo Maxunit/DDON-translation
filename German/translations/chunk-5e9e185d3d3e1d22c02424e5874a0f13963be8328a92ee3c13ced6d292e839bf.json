@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50400012_00.gmd",
+  "arc_path": "\\quest\\q50400012.arc",
+  "entries": [
+    {
+      "key": "q50400012_00_105",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【限界域】理を破壊する力",
+      "source_en": "Restricted Stage: That Which Destroys Order",
+      "text": "[Grenzbereich] Die Macht, die die Ordnung zerstört"
+    },
+    {
+      "key": "q50400012_00_105",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n《暗黒の統べる地》に現れた\r\n理を破壊せんとする黒き竜を打ち滅ぼせ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nMake an appearance in the Land of Darkness and\r\nstrike down the Black Dragon seeking to destroy order.",
+      "text": "Ihr kampferprobten Erweckten, Schwingen eures Drachen!\r\nDer Schwarze Drache ist im Land der Finsternis erschienen.\r\nVernichtet ihn, ehe er die Ordnung zerschlägt."
+    },
+    {
+      "key": "q50400012_00_5191",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "黒竜を討伐する",
+      "source_en": "Defeat the Black Dragon",
+      "text": "Besiege den Schwarzen Drachen."
+    },
+    {
+      "key": "q50400012_00_5192",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "報酬を受け取り、進行マーカーへ集合して帰還する",
+      "source_en": "Receive the reward and return to the gathering point",
+      "text": "Nimm die Belohnung entgegen und kehr zum Sammelpunkt zurück."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

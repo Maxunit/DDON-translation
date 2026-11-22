@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20105006_00.gmd",
+  "arc_path": "\\quest\\q20105006.arc",
+  "entries": [
+    {
+      "key": "q20105006_00_168",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "森の老魔女",
+      "source_en": "The Old Witch of the Woods",
+      "text": "Die alte Waldhexe"
+    },
+    {
+      "key": "q20105006_00_168",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【 敵出現：夜 】</COL>\r\n遭遇した敵を討伐する",
+      "source_en": "<COL ffdc78>[Enemy appears at night]</COL>\r\nDefeat the enemies encountered",
+      "text": "<COL ffdc78>[Gegner erscheint nachts]</COL>\r\nBesiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20105006_00_168",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "夜間、<NAME AREA>で発生する問題に対し\r\n助力を求める人物がいるようだ",
+      "source_en": "It seems that there is someone seeking assistance \r\nfor issues occurring at night in the <NAME AREA>.",
+      "text": "Offenbar sucht jemand Hilfe bei nächtlichen Vorfällen\r\nin <NAME AREA>."
+    },
+    {
+      "key": "q20105006_00_168",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【 敵出現：夜 】</COL>\r\nほんとあの時はたまげたね、何がだって！？\r\nあんな奥深い森の廃墟で、夜な夜な艶やかな\r\n女の声が聞こえてくるんだから\r\nえ！？猿か魔物の声だろうって\r\n僕がそんなに酔っぱらって見えるのかい！？",
+      "source_en": "<COL ffdc78>[Enemy appears during: Night]</COL>\r\nI was really taken aback back then. \r\nWhat do you mean by \"what\"? \r\nIn those deep, desolate woods, every night I heard\r\nthe voice of a captivating woman. \r\nWhat!? \r\nYou think it's the sound of monkeys or monsters?\r\nDo I seem that drunk to you!?",
+      "text": "<COL ffdc78>[Gegner erscheint nachts]</COL>\r\nDa hab ich vielleicht gestaunt!\r\nWorüber?\r\nTief im Wald, in diesen verlassenen Ruinen,\r\nhabe ich Nacht für Nacht eine betörende Frauenstimme gehört.\r\nWie bitte?\r\nDu meinst, das waren Affen oder Monster?\r\nSehe ich etwa so betrunken aus?"
+    },
+    {
+      "key": "q20105006_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

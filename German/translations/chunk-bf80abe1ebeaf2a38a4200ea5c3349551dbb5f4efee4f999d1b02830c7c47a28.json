@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60206000_00.gmd",
+  "arc_path": "\\quest\\q60206000.arc",
+  "entries": [
+    {
+      "key": "q60206000_00_110",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ森林深部　試練：忘れられた想い",
+      "source_en": "MG Trial: The Long-Forgotten Memory",
+      "text": "Prüfung im tiefen Mysree-Wald – Eine längst vergessene Erinnerung"
+    },
+    {
+      "key": "q60206000_00_110",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ森林深部の問題解決のため\r\nイニアス湖に現れる人影を発見し\r\n討伐する",
+      "source_en": "To resolve the issue in theMysree Grove,\r\nlocate and eliminate the shadowy figure\r\nthat appears at Lake Inias.",
+      "text": "Hilf den Bewohnern des tiefen Mysree-Walds.\r\nFinde und besiege die unheimliche Gestalt,\r\ndie am Inias-See umhergeht."
+    },
+    {
+      "key": "q60206000_00_1897",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "標の祠のクリスティーヌに報告する",
+      "source_en": "Report to Christine in the shrine",
+      "text": "Erstatte Christine am Schrein Bericht."
+    },
+    {
+      "key": "q60206000_00_1898",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "イニアス湖に現れる人影を調査する",
+      "source_en": "Investigate the figure that appears in Lake Inias",
+      "text": "Geh der Erscheinung am Inias-See nach."
+    },
+    {
+      "key": "q60206000_00_1899",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる魔物を討伐する",
+      "source_en": "Defeat the demon threat",
+      "text": "Besiege das gefährliche Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\common\\release_content.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "RELEASE_CONTENT_89",
+      "read_index": "76",
+      "tag_source": "source_en",
+      "source_jp": "エクストリームミッション「黒界の門番」",
+      "source_en": "Extreme Mission [Gatekeeper of the Dark World]",
+      "text": "Extremmission „Torwächter der finsteren Welt“"
+    },
+    {
+      "key": "RELEASE_CONTENT_90",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "エクストリームミッション「狂宴に舞う蒼影」",
+      "source_en": "Extreme Mission [Blue Shadow Dancing in Revelry]",
+      "text": "Extremmission „Blauer Schatten im wilden Tanz“"
+    },
+    {
+      "key": "RELEASE_CONTENT_91",
+      "read_index": "78",
+      "tag_source": "source_en",
+      "source_jp": "エクストリームミッション「黒き闇の覚者」",
+      "source_en": "Extreme Mission [[Hard] Arisen of the\r\nDeep Darkness]",
+      "text": "Extremmission\r\n„Erweckter der tiefen Finsternis“"
+    },
+    {
+      "key": "RELEASE_CONTENT_92",
+      "read_index": "79",
+      "tag_source": "source_en",
+      "source_jp": "エクストリームミッション「理を破壊する者」",
+      "source_en": "Extreme Mission [He Who Destroys Order]",
+      "text": "Extremmission „Die Macht, die die Ordnung zerstört“"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

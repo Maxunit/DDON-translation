@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20095013_00.gmd",
+  "arc_path": "\\quest\\q20095013.arc",
+  "entries": [
+    {
+      "key": "q20095013_00_212",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "禁域の処刑人",
+      "source_en": "Executioner of the Wasteland",
+      "text": "Der Henker des Sperrgebiets"
+    },
+    {
+      "key": "q20095013_00_212",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20095013_00_212",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "いま<NAME AREA>に近づくなら\r\n魔物の襲撃に備え万全を期した方がよさそうだ",
+      "source_en": "If you're coming near \r\n<NAME AREA> at the moment, \r\nit's best to be fully prepared\r\nfor an enemy assault.",
+      "text": "Wer sich gerade in die Nähe von\r\n<NAME AREA> wagt,\r\nsollte gut vorbereitet sein.\r\nDie Monster können jederzeit angreifen."
+    },
+    {
+      "key": "q20095013_00_212",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "しかし呆れた男もいたもんだよ\r\nいくら恋人に頼まれたからって\r\n物珍しい毛皮を持つ動物を狩りに\r\nあんな場所に行くなんてねぇ\r\nなんでも、そびえたつ黒い魔物に襲われたとか\r\nほんとは怖くなって行かなかったんじゃないのねぇ",
+      "source_en": "You'd have to be crazy, going to that place\r\nto hunt an animal with a unique pelt\r\njust because your lover asked. \r\nThey say he was attacked by a huge black beast, \r\nbut maybe he chickened out and didn't go at all.",
+      "text": "Man muss schon verrückt sein, dort auf die Jagd zu gehen,\r\num ein Tier mit einem besonderen Fell zu erlegen,\r\nbloß weil die Liebste darum gebeten hat.\r\nAngeblich hat ihn eine riesige schwarze Bestie angefallen.\r\nVielleicht hat er aber gekniffen und ist erst gar nicht hingegangen."
+    },
+    {
+      "key": "q20095013_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

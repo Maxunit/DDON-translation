@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20085000_00.gmd",
+  "arc_path": "\\quest\\q20085000.arc",
+  "entries": [
+    {
+      "key": "q20085000_00_190",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "荒れ地の主",
+      "source_en": "The Lord of the Wastes",
+      "text": "Der Herr der Einöde"
+    },
+    {
+      "key": "q20085000_00_190",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund bezwinge den Gegner."
+    },
+    {
+      "key": "q20085000_00_190",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>はいま\r\nなんとも言えない剣呑な雰囲気が漂っているようだ",
+      "source_en": "At present, <NAME AREA>\r\nis filled with an indescribable, menacing tension.",
+      "text": "Über <NAME AREA> liegt zurzeit\r\neine unheimliche Spannung."
+    },
+    {
+      "key": "q20085000_00_190",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "湖底連絡路の封鎖がとかれたって？\r\nあそこは前から不気味な噂があるんだよ\r\n貴婦人と騎士の幽霊が出るとか出ないとか――\r\nただでさえ暗くて入り組んだところだからね\r\n用心するに越したことはないよ",
+      "source_en": "The blockade of the Lakebottom Connecting Passage \r\nhas been lifted? There have been disturbing rumors\r\nabout that place for a while. Something about\r\nghosts of a noble lady and a knight— \r\nIt's already dark and labyrinthine, \r\nso it's best to tread carefully.",
+      "text": "Die Sperre am Verbindungsgang unter dem See ist aufgehoben?\r\nUnheimliche Geschichten über den Ort gibt es schon länger.\r\nMan hört von den Geistern einer Edelfrau\r\nund eines Ritters …\r\nDa unten ist es ohnehin dunkel und verwinkelt.\r\nGeh lieber vorsichtig vor."
+    },
+    {
+      "key": "q20085000_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q20085000_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20085000_00_1135",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜湖底連絡路＞の敵を探す",
+      "source_en": "Seek out the enemy at the Lakebottom Connecting Passage",
+      "text": "Suche den Gegner im Verbindungsgang unter dem See."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

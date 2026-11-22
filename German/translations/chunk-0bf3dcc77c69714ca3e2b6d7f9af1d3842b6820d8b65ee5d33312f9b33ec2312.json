@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20095003_00.gmd",
+  "arc_path": "\\quest\\q20095003.arc",
+  "entries": [
+    {
+      "key": "q20095003_00_202",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "禍々しき獣",
+      "source_en": "The Sinister Beasts",
+      "text": "Unheilvolle Bestien"
+    },
+    {
+      "key": "q20095003_00_202",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20095003_00_202",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "いま<NAME AREA>に近づくなら\r\n魔物の襲撃に備え万全を期した方がよさそうだ",
+      "source_en": "If you're coming near \r\n<NAME AREA> at the moment, \r\nit's best to be fully prepared\r\nfor an enemy assault.",
+      "text": "Wer sich gerade in die Nähe von\r\n<NAME AREA> wagt,\r\nsollte gut vorbereitet sein.\r\nDie Monster können jederzeit angreifen."
+    },
+    {
+      "key": "q20095003_00_202",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "あの辺りを通ると、妙な気配がするんです――\r\nいやに視線を感じることがあるというか――\r\nこちらを虎視眈々と狙っている、そんな感じ\r\n何か邪悪なものが群れなして襲ってくるような\r\n恐ろしい予感が――",
+      "source_en": "When I pass through that area,\r\nI feel a strange presence and an unsettling gaze—\r\nIt feels as though something is watching me,\r\nwith predatory intent. I've had a terrifying\r\npremonition that something evil\r\nis gathering to attack――",
+      "text": "Wenn ich an der Stelle vorbeigehe,\r\nspüre ich immer einen Blick auf mir.\r\nAls würde mir etwas auflauern\r\nund nur darauf warten, dass ich vorbeikomme.\r\nIch habe die schreckliche Ahnung,\r\ndass sich dort etwas zum Angriff sammelt …"
+    },
+    {
+      "key": "q20095003_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

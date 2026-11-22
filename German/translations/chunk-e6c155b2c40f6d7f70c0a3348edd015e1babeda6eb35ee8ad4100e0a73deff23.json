@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "294",
+      "tag_source": "source_en",
+      "source_jp": "昌石の鍵",
+      "source_en": "Key of Gemstones",
+      "text": "Edelsteinschlüssel"
+    },
+    {
+      "key": "",
+      "read_index": "295",
+      "tag_source": "source_en",
+      "source_jp": "財宝の鍵",
+      "source_en": "Key of Treasures",
+      "text": "Schatzschlüssel"
+    },
+    {
+      "key": "",
+      "read_index": "296",
+      "tag_source": "source_en",
+      "source_jp": "宝飾の鍵",
+      "source_en": "Key of Jewelry",
+      "text": "Schmuckschlüssel"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\enemy\\enemy_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ENEMY_NAME_128",
+      "read_index": "128",
+      "tag_source": "source_en",
+      "source_jp": "フォレストゴブリン",
+      "source_en": "Forest Goblin",
+      "text": "Waldgoblin"
+    },
+    {
+      "key": "ENEMY_NAME_129",
+      "read_index": "129",
+      "tag_source": "source_en",
+      "source_jp": "フォレストゴブリンファイター",
+      "source_en": "Forest Goblin Fighter",
+      "text": "Waldgoblin-Kämpfer"
+    },
+    {
+      "key": "ENEMY_NAME_130",
+      "read_index": "130",
+      "tag_source": "source_en",
+      "source_jp": "スリングフォレストゴブリン",
+      "source_en": "Sling Forest Goblin",
+      "text": "Waldgoblin-Schleuderer"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

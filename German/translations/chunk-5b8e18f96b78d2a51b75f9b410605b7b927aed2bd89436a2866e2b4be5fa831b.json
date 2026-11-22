@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60210000_00.gmd",
+  "arc_path": "\\quest\\q60210000.arc",
+  "entries": [
+    {
+      "key": "q60210000_00_116",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ禁域　試練：漆黒のつむじ風",
+      "source_en": "ZW Trial: A Jet-Black Whirlwind",
+      "text": "Prüfung im Zandora-Sperrgebiet – Ein pechschwarzer Wirbelwind"
+    },
+    {
+      "key": "q60210000_00_116",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ禁域の問題解決のため\r\n狂信者の潜伏地を調査し\r\nブラックグリフィンを討伐する",
+      "source_en": "Investigate the Fanatic's Hiding Ground and \r\ndefeat the Black Griffin in order to solve the \r\nproblem in the Zandora Wastelands",
+      "text": "Untersuche das Versteck der Fanatiker\r\nund bezwinge den Schwarzen Greif,\r\nder das Zandora-Sperrgebiet bedroht."
+    },
+    {
+      "key": "q60210000_00_1918",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "標の祠のダイオンに報告する",
+      "source_en": "Report to Dian in the shrine",
+      "text": "Erstatte Dian am Schrein Bericht."
+    },
+    {
+      "key": "q60210000_00_1919",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "狂信者の潜伏地へ向かい黒大鷲を発見する",
+      "source_en": "Head to Fanatic's Hiding Ground and discover the giant black eagle",
+      "text": "Geh zum Versteck der Fanatiker und spüre den gewaltigen schwarzen Vogel auf."
+    },
+    {
+      "key": "q60210000_00_1920",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "発見した魔物を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

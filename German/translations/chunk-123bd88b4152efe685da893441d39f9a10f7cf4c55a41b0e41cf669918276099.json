@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20995002_00.gmd",
+  "arc_path": "\\quest\\q20995002.arc",
+  "entries": [
+    {
+      "key": "q20995002_00_273",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "蒼き竜影",
+      "source_en": "The Blue Dragon's Shadow",
+      "text": "Der Schatten des blauen Drachen"
+    },
+    {
+      "key": "q20995002_00_273",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund bezwinge den Gegner."
+    },
+    {
+      "key": "q20995002_00_273",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>で\r\n魔物のものと思われる徘徊痕跡が見つかった",
+      "source_en": "In <NAME AREA>, \r\ntraces of what seem to be wandering monsters\r\nhave been found.",
+      "text": "In <NAME AREA> hat man Spuren entdeckt.\r\nVermutlich stammen sie von Monstern,\r\ndie dort umherziehen."
+    },
+    {
+      "key": "q20995002_00_273",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "今、あの場所は危険な状態にある\r\n恐ろしい魔物が居座ってしまっているのだ\r\nよほど腕に覚えがある者でない限り\r\n立ち入らないことだ",
+      "source_en": "That place is now in a dangerous state. \r\nTerrifying monsters have taken over. \r\nUnless you are exceptionally skilled, \r\nit's best to avoid entering.",
+      "text": "Der Ort ist gefährlich geworden.\r\nFurchtbare Monster haben sich dort breitgemacht.\r\nNur erfahrene Kämpfer sollten es wagen,\r\ndas Gelände zu betreten."
+    },
+    {
+      "key": "q20995002_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20995002_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20995002_00_1144",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "蒼き竜の正体を暴く",
+      "source_en": "Search for the blue dragon",
+      "text": "Finde heraus, was hinter dem blauen Drachen steckt."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

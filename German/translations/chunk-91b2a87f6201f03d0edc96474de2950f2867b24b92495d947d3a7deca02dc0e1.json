@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20105002_00.gmd",
+  "arc_path": "\\quest\\q20105002.arc",
+  "entries": [
+    {
+      "key": "q20105002_00_154",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ほとばしる業火",
+      "source_en": "A Surge of Hellfire",
+      "text": "Loderndes Höllenfeuer"
+    },
+    {
+      "key": "q20105002_00_154",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20105002_00_154",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>は\r\nここ数日異様な気配に満ちているらしい",
+      "source_en": "<NAME AREA> seems to be filled\r\nwith an unusual atmosphere these past few days.",
+      "text": "Seit einigen Tagen geht von <NAME AREA>\r\netwas Unheimliches aus."
+    },
+    {
+      "key": "q20105002_00_154",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "かの恐ろしい魔物の皮で、わしはかねがね\r\n立派な外套をあしらえたいと思っておったんじゃよ\r\nとうとうその機が訪れた\r\n見事に魔物を倒してくれた者には\r\n十分な謝礼を用意しておるつもりだ",
+      "source_en": "I've always wanted to craft a fine cloak\r\nmade from the hide of that dreadful beast. \r\nMy chance has finally come. \r\nA substantial reward awaits those who defeat\r\nthe monster. That glorious pelt shall be mine.",
+      "text": "Aus der Haut dieser furchtbaren Bestie\r\nwollte ich mir schon immer einen prächtigen Mantel machen.\r\nEndlich ist die Gelegenheit da.\r\nWer das Monster erlegt, auf den wartet\r\neine stattliche Belohnung. Das prächtige Fell soll mir gehören."
+    },
+    {
+      "key": "q20105002_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

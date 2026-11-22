@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20065001_00.gmd",
+  "arc_path": "\\quest\\q20065001.arc",
+  "entries": [
+    {
+      "key": "q20065001_00_140",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "蒼葉の守人",
+      "source_en": "The Guardian of Green Leaves",
+      "text": "Der Wächter der Grünblattterrasse"
+    },
+    {
+      "key": "q20065001_00_140",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20065001_00_140",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "特定地域から、魔物の急激な台頭を危惧する声がある\r\n<NAME AREA>の調査が必要そうだ",
+      "source_en": "There are voices expressing concern about the \r\nsudden rise of enemies from a specific area. \r\nAn investigation in \r\n<NAME AREA> \r\nseems necessary.",
+      "text": "In einem bestimmten Gebiet sind beunruhigend\r\nviele Monster aufgetaucht.\r\nDie Gegend\r\num <NAME AREA>\r\nsollte untersucht werden."
+    },
+    {
+      "key": "q20065001_00_140",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "誰もこの話を信じてくれないんだが\r\n俺は確かにこの目でしっかりと見たんだよ\r\nあんな魔物が、森に出没しているなんて\r\nまったくこの先、どうなってしまうのか心配だ\r\nとにもかくにも、今のうちに\r\n魔物を撃退しておかねばなるまいよ",
+      "source_en": "No one believes this story, \r\nbut I definitely saw it with my own eyes. \r\nSuch a monster, appearing in the forest—\r\nI'm really worried about what might happen next.\r\nWe must drive the monsters away \r\nwhile we still can.",
+      "text": "Keiner glaubt mir die Geschichte.\r\nAber ich hab es mit eigenen Augen gesehen.\r\nWenn so ein Monster im Wald auftaucht,\r\nmöcht ich nicht wissen, was als Nächstes passiert.\r\nWir müssen die Monster vertreiben,\r\nsolange wir noch können."
+    },
+    {
+      "key": "q20065001_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

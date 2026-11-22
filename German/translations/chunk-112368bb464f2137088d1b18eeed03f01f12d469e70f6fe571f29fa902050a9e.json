@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20995007_00.gmd",
+  "arc_path": "\\quest\\q20995007.arc",
+  "entries": [
+    {
+      "key": "q20995007_00_278",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダ資源事情",
+      "source_en": "Mergoda's Resource Issue",
+      "text": "Mergoda braucht Vorräte"
+    },
+    {
+      "key": "q20995007_00_278",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n指定の物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besorg die gesuchten Gegenstände."
+    },
+    {
+      "key": "q20995007_00_278",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>に\r\n覚者に会って相談に乗ってほしい人物がいるという",
+      "source_en": "There is someone in <NAME AREA> \r\nwho wishes to meet an Arisen and seek their advice.",
+      "text": "In <NAME AREA> möchte jemand\r\neinen Erweckten treffen und um Rat bitten."
+    },
+    {
+      "key": "q20995007_00_278",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ここメルゴダは凶悪な魔物が\r\n数多く闊歩しているため、\r\n各地がそれぞれ分断された状態だ\r\nもちろん物流も途絶えて久しく、\r\n我々も資源の確保に躍起になっている\r\nどうか力を貸してもらえないだろうか",
+      "source_en": "In Mergoda, fierce monsters roam \r\nand have caused widespread isolation of areas. \r\nThe supply lines have been severed for some time,\r\nand we are struggling to secure resources. \r\nCan you offer us your help?",
+      "text": "Die wilden Monster in Mergoda\r\nhaben ganze Viertel vom Rest der Stadt abgeschnitten.\r\nDie Versorgungswege sind schon länger unterbrochen,\r\nund es fällt uns schwer, Vorräte zu beschaffen.\r\nKannst du uns helfen?"
+    },
+    {
+      "key": "q20995007_00_1124",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼者に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> ×<SQDI NUM> zum Auftraggeber (noch <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

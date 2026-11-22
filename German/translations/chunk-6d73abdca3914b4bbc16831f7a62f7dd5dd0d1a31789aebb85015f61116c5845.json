@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50400014_00.gmd",
+  "arc_path": "\\quest\\q50400014.arc",
+  "entries": [
+    {
+      "key": "q50400014_00_107",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "黒の殉教者",
+      "source_en": "The Black Martyr",
+      "text": "Der schwarze Märtyrer"
+    },
+    {
+      "key": "q50400014_00_107",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n《白竜神殿》に現れた脅威を退けよ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nDefeat the threat that has appeared\r\nin the White Dragon Temple.",
+      "text": "Ihr kampferprobten Erweckten, Schwingen eures Drachen!\r\nIm Tempel des Weißen Drachen ist eine neue Bedrohung\r\naufgetaucht. Wehrt sie ab!"
+    },
+    {
+      "key": "q50400014_00_5243",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "現れた魔物と対峙する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Stell dich den aufgetauchten Monstern."
+    },
+    {
+      "key": "q50400014_00_5244",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "黒騎士を討伐する",
+      "source_en": "Defeat the Black Knight",
+      "text": "Besiege den Schwarzen Ritter."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

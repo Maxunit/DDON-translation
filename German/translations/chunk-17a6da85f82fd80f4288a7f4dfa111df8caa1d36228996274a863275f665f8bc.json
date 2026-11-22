@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q20095010.gmd",
+  "arc_path": "\\quest\\q20095010.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "もしや、お前は覚者か！\r\n頼む手を貸してくれ！",
+      "source_en": "",
+      "text": "Bist du etwa ein Erweckter?\r\nBitte, hilf mir!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "私はオークどもの残党を追ってきたのだが\r\n隊とはぐれ、この通り手傷を負ってしまった",
+      "source_en": "",
+      "text": "Ich war hinter den versprengten Orks her.\r\nDann habe ich meinen Trupp verloren und wurde verwundet, wie du siehst."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "しかしオークはモゴックの精鋭隊に、大将格だ\r\nこのまま放置して力をつけたなら\r\nいずれグリッテン砦の脅威になるかもしれん\r\nだから頼む、私の代わりにやつらの討伐を――！",
+      "source_en": "",
+      "text": "Es sind Mogoks Elitesoldaten, und sie haben einen Anführer dabei.\r\nWenn wir ihnen Zeit lassen, sich zu sammeln,\r\nkönnten sie eines Tages Festung Gritten bedrohen.\r\nBitte, erledige sie für mich!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "くっ――、オークはどうだ？\r\nお前の力で何とかなりそうか？",
+      "source_en": "",
+      "text": "Ugh … Was ist mit den Orks?\r\nTraust du dir zu, sie aufzuhalten?"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "そうか！\r\nオークの精鋭部隊を倒してくれたのだな！",
+      "source_en": "",
+      "text": "Wirklich?\r\nDu hast die Elitetruppe der Orks bezwungen!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "これで――大きな脅威の芽はひとつ摘めたはず\r\n感謝するぞ",
+      "source_en": "",
+      "text": "Damit ist eine große Gefahr gebannt, ehe sie uns über den Kopf wächst.\r\nIch danke dir."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

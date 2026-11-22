@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20055007_00.gmd",
+  "arc_path": "\\quest\\q20055007.arc",
+  "entries": [
+    {
+      "key": "q20055007_00_532",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【怪盗乱魔】粗暴なる思慕",
+      "source_en": "Phantom Thieves: Wild Yearning",
+      "text": "[Phantomdiebe] Eine wilde Schwärmerei"
+    },
+    {
+      "key": "q20055007_00_532",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n力を貸す",
+      "source_en": "Listen to the requester's wishes\r\nand lend your aid",
+      "text": "Hör dir die Bitte der Auftraggeberin an\r\nund hilf ihr."
+    },
+    {
+      "key": "q20055007_00_532",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "\"怪盗団\"と呼ばれる者たちが今\r\n<NAME AREA>界隈を騒がせているらしい",
+      "source_en": "It seems that individuals called the \r\n\"Phantom Thieves\" are causing a commotion in \r\nthe <NAME AREA> area.",
+      "text": "Die Leute, die sich\r\n»Phantomdiebe« nennen, sorgen offenbar für Aufregung\r\nin der Gegend um <NAME AREA>."
+    },
+    {
+      "key": "q20055007_00_532",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "\"怪盗団\"という得体の知れない者達が\r\n人々の話題を攫っているようだ\r\n彼らを追い求めるのなら\r\nミスリウ森林へ足を運んでみれば\r\n何か得られるかもしれない",
+      "source_en": "A mysterious group known as the \"Phantom Thieves\" \r\nseems to be grabbing people's attention. \r\nIf you're searching for them, \r\nvisiting Mysree Forest could provide some leads.",
+      "text": "Eine geheimnisvolle Gruppe, die sich »Phantomdiebe« nennt,\r\nist offenbar in aller Munde.\r\nWenn du nach ihnen suchst,\r\nfindest du im Mysree-Wald vielleicht eine Spur."
+    },
+    {
+      "key": "q20055007_00_1169",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q20055007_00_1210",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "尋ね人の捜索を続ける",
+      "source_en": "Continue to search for the inquirer",
+      "text": "Setz die Suche nach dem Vermissten fort."
+    },
+    {
+      "key": "q20055007_00_1211",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ向かい尋ね人を捜索する",
+      "source_en": "Go to the designated location and search for the inquirer",
+      "text": "Geh zum angegebenen Ort und such nach dem Vermissten."
+    },
+    {
+      "key": "q20055007_00_1213",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "妨害する敵を排除する",
+      "source_en": "Eliminate the interfering enemies",
+      "text": "Besiege die Feinde, die sich dir in den Weg stellen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

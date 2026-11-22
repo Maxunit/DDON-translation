@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20100002_00.gmd",
+  "arc_path": "\\quest\\q20100002.arc",
+  "entries": [
+    {
+      "key": "q20100002_00_150",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "壮麗なる残滓",
+      "source_en": "The Remains of Splendor",
+      "text": "Spuren vergangener Pracht"
+    },
+    {
+      "key": "q20100002_00_150",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "クリストフの願いを聞き入れ\r\n望む物品を集める",
+      "source_en": "Listen to Christoph's wish\r\nand gather the desired items.",
+      "text": "Geh auf Christophs Bitte ein\r\nund besorg die gesuchten Relikte."
+    },
+    {
+      "key": "q20100002_00_150",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "協力者を求める者がいるとの報告が\r\n<NAME AREA>から届いている",
+      "source_en": "We have received a report from <NAME AREA>\r\nthat someone is looking for a collaborator.",
+      "text": "Aus <NAME AREA> kam die Nachricht,\r\ndass jemand Unterstützung sucht."
+    },
+    {
+      "key": "q20100002_00_150",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ああ、魔術師仲間のクリストフのことなんだが\r\nかなりぶっ飛んでる奴だけど\r\n悪い奴じゃあないんだよ、研究熱心なだけなんだ\r\n今はこの辺りに出向いているんだが\r\n良ければ彼の仕事を手伝ってやってくれないか",
+      "source_en": "Ah, it's about my fellow mage, Christoph. \r\nHe's quite eccentric, but he's not a bad guy, \r\njust deeply passionate about his research. \r\nHe's currently around here, so if you don't mind,\r\ncould you help him out with his work?",
+      "text": "Ach, es geht um Christoph, meinen Magierkollegen.\r\nEr ist ein ziemlicher Sonderling, aber kein schlechter Mensch.\r\nEr geht eben ganz in seiner Forschung auf.\r\nEr hält sich gerade hier in der Gegend auf.\r\nKönntest du ihm bei seiner Arbeit helfen?"
+    },
+    {
+      "key": "q20100002_00_804",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20100002_00_1056",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜エルテ・ディナン＞で遺物を探す（残り５）",
+      "source_en": "Retrieve the relics within Erte Deenan (5 left)",
+      "text": "Suche die Relikte der Elfen in Erte Deenan (noch 5)."
+    },
+    {
+      "key": "q20100002_00_1057",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜エルテ・ディナン＞で遺物を探す（残り４）",
+      "source_en": "Retrieve the relics within Erte Deenan (4 left)",
+      "text": "Suche die Relikte der Elfen in Erte Deenan (noch 4)."
+    },
+    {
+      "key": "q20100002_00_1105",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜エルテ・ディナン＞でエルフの遺物を探す（残り３）",
+      "source_en": "Retrieve the elven relics within Erte Deenan (3 left)",
+      "text": "Suche die Relikte der Elfen in Erte Deenan (noch 3)."
+    },
+    {
+      "key": "q20100002_00_1106",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "＜エルテ・ディナン＞でエルフの遺物を探す（残り２）",
+      "source_en": "Retrieve the relics within Erte Deenan (2 left)",
+      "text": "Suche die Relikte der Elfen in Erte Deenan (noch 2)."
+    },
+    {
+      "key": "q20100002_00_1107",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "＜エルテ・ディナン＞でエルフの遺物を探す（残り１）",
+      "source_en": "Retrieve the relics within Erte Deenan (1 left)",
+      "text": "Suche das letzte Relikt der Elfen in Erte Deenan."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

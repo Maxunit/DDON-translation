@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20995008_00.gmd",
+  "arc_path": "\\quest\\q20995008.arc",
+  "entries": [
+    {
+      "key": "q20995008_00_279",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "狂える竜脈",
+      "source_en": "Mad Dragon's Pulse",
+      "text": "Die rasende Drachenader"
+    },
+    {
+      "key": "q20995008_00_279",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20995008_00_279",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>あたりで\r\n正体不明の襲撃者を警戒する民が増えている",
+      "source_en": "In the <NAME AREA> area, \r\nthere is growing concern among the locals \r\nabout unidentified assailants.",
+      "text": "Rund um <NAME AREA> wächst die Unruhe.\r\nImmer mehr Bewohner fürchten sich\r\nvor unbekannten Angreifern."
+    },
+    {
+      "key": "q20995008_00_279",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "魔物なんていない、魔物なんていないんだよ\r\nいつもならね、あの場所には\r\nだから連れだって出かけたのに\r\n背後に恐ろしい唸り声が聞こえた瞬間\r\nあの人の姿は見えやしない――\r\n後は何も思い出せやしないよ",
+      "source_en": "There are no monsters, none at all. \r\nThat place is usually safe, \r\nso we went there together. But as soon as \r\nI heard a frightening growl from behind, \r\nthe person disappeared—\r\nI can't recall any more details.",
+      "text": "Dort gibt’s keine Monster, wirklich keine.\r\nNormalerweise ist es da sicher.\r\nDeshalb sind wir zusammen hingegangen.\r\nDoch ich hörte hinter mir ein schreckliches Knurren,\r\nund plötzlich war meine Begleitung verschwunden.\r\nAn mehr kann ich mich nicht erinnern."
+    },
+    {
+      "key": "q20995008_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

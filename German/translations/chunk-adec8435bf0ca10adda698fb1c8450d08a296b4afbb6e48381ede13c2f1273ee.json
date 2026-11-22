@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40201016_00.gmd",
+  "arc_path": "\\quest\\q40201016.arc",
+  "entries": [
+    {
+      "key": "q40201016_00_356",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【週期要請】ディナン深層林：物資供給",
+      "source_en": "[Periodic Request] Deenan Woods: Supply Provision",
+      "text": "[Wöchentlicher Auftrag] Deenan-Wald – Nachschub"
+    },
+    {
+      "key": "q40201016_00_356",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エルフ族が使っていた染料の再現を試みているが、\r\nどうやらまとまった数の<LQIM>が必要なんだ\r\n少しずつで構わないから<LQVA>個くらい集めてきてくれ\r\n彼らが身にまとっていた色彩を見てみたくないか？",
+      "source_en": "We're trying to recreate the dye used by the \r\nelves, but we need a substantial amount of \r\n<LQIM>. \r\nPlease gather about <LQVA> of them, \r\neven if it's slowly. \r\nDon't you want to see the colors they wore?",
+      "text": "Wir versuchen, die Farbstoffe nachzumischen,\r\ndie die Elfen einst verwendet haben.\r\nDafür brauchen wir eine größere Menge <LQIM>.\r\nSammle ungefähr <LQVA> Stück.\r\nDu kannst sie auch nach und nach besorgen.\r\nWürdest du nicht gern sehen, welche Farben die Elfen trugen?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

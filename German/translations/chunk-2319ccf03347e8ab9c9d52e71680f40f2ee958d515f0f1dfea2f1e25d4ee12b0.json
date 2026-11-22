@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20080001_00.gmd",
+  "arc_path": "\\quest\\q20080001.arc",
+  "entries": [
+    {
+      "key": "q20080001_00_182",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "囚われの亡霊",
+      "source_en": "The Bound Spirit",
+      "text": "Der gebundene Geist"
+    },
+    {
+      "key": "q20080001_00_182",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n力を貸す",
+      "source_en": "Listen to the requester's wishes\r\nand lend your aid.",
+      "text": "Hör dir an, worum der Auftraggeber dich bittet,\r\nund hilf ihm."
+    },
+    {
+      "key": "q20080001_00_182",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "目撃情報が<NAME AREA>から届いている\r\n不吉な影が、住民や野生動物を怯えさせているようだ",
+      "source_en": "There have been eyewitness reports\r\ncoming from <NAME AREA>.\r\nIt seems that a sinister shadow\r\nis frightening the residents and wildlife.",
+      "text": "Mehrere Augenzeugen haben sich\r\naus <NAME AREA> gemeldet.\r\nEin unheimlicher Schatten versetzt wohl\r\ndie Bewohner und sogar die Tiere in Angst."
+    },
+    {
+      "key": "q20080001_00_182",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "誰もいないはずの祠でさ\r\nこっそり彼と待ち合わせたの\r\nせっかく二人で良いムードだったのに\r\n突然、誰かに呼びかけられて\r\nほんとびっくりしちゃったわ\r\nやっぱり誰もいないもの、気味悪いったらなかったわ",
+      "source_en": "At the shrine, which should have been deserted,\r\nI had a secret rendezvous with someone\r\nand we were having a wonderful time together,\r\nuntil I heard someone call out for me.\r\nIt really startled me! If no one was out there,\r\nwhat an eerie thing to have happened.",
+      "text": "Ich hab mich heimlich mit ihm am Schrein getroffen.\r\nDa hätte eigentlich sonst niemand sein sollen.\r\nWir hatten es gerade so schön zu zweit,\r\nda hat plötzlich jemand nach mir gerufen.\r\nIch hab mich vielleicht erschrocken!\r\nAber da war wirklich keiner. Das war so unheimlich!"
+    },
+    {
+      "key": "q20080001_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20080001_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20080001_00_1035",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜怨嗟の祠＞で古びた装具を探す",
+      "source_en": "Search for old equipment at the Shrine of Resentment",
+      "text": "Suche im Schrein des Grolls nach der alten Ausrüstung."
+    },
+    {
+      "key": "q20080001_00_1036",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "発見した古びた装具を獲得する",
+      "source_en": "Acquire the found old equipment",
+      "text": "Nimm die gefundene alte Ausrüstung an dich."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

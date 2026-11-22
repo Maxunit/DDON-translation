@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\enemy\\enemy_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ENEMY_NAME_22",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "ミストドレイク",
+      "source_en": "Mist Drake",
+      "text": "Nebeldrache"
+    },
+    {
+      "key": "ENEMY_NAME_34",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "ゴーストメイル",
+      "source_en": "Ghost Mail",
+      "text": "Geisterrüstung"
+    },
+    {
+      "key": "ENEMY_NAME_41",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "ブルーニュート",
+      "source_en": "Blue Newt",
+      "text": "Blaumolch"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

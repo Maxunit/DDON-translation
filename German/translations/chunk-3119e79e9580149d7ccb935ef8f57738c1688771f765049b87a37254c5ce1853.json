@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000056_00.gmd",
+  "arc_path": "\\quest\\q60000056.arc",
+  "entries": [
+    {
+      "key": "q60000056_00_43",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "求道の師を訪ねて　エレメントアーチャ―",
+      "source_en": "Seeking the Master: Element Archer",
+      "text": "Auf der Suche nach der Klassenmeisterin – Elementarschütze"
+    },
+    {
+      "key": "q60000056_00_43",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョブマスター・リングディールに\r\nエレメントアーチャ―求道試練の許可を\r\nもらいに行く",
+      "source_en": "Visit Job Master Ringdeel to request \r\napproval for the Element Archer's trial",
+      "text": "Such Klassenmeisterin Ringdeel auf\r\nund bitte sie, dich zur Prüfung der Elementarschützen zuzulassen."
+    },
+    {
+      "key": "q60000056_00_1213",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ディナン深層林のリングディールを訪ねる",
+      "source_en": "Visit Ringdeel in Deenan Woods",
+      "text": "Such Ringdeel im Deenan-Wald auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60110001.gmd",
+  "arc_path": "\\quest\\q60110001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "行ってきてくれるのね、ゴーレム退治",
+      "source_en": "You'll go take care of the golems, then?",
+      "text": "Du wirst dich also um die Golems kümmern?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "場所は《東ザンドラ廃墟群》よ\r\n大きいし燃えてるからすぐ分かると思うわ",
+      "source_en": "The location you seek is the Eastern Zandora\r\nRuins. You'll know it when you see it... big and\r\nburning.",
+      "text": "Du findest sie in den Ruinen von Ost-Zandora.\r\nWenn du sie siehst, weißt du Bescheid.\r\nSie sind groß und stehen in Flammen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "じゃ、お願いね――",
+      "source_en": "Good luck. I'm counting on you...",
+      "text": "Viel Glück. Ich zähle auf dich …"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ゴーレム退治、ご苦労さま",
+      "source_en": "Nice job dealing with those golems!",
+      "text": "Das hast du mit den Golems gut hinbekommen!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "でもまた起動しちゃったみたいだけれど\r\nこちらに来る様子はなくなったそうよ",
+      "source_en": "It seems they have reactivated, but they're no\r\nlonger heading this way.",
+      "text": "Sie sind wohl wieder in Bewegung geraten,\r\naber wenigstens kommen sie nicht mehr hierher."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "貴方の一撃が効いたのかしらね、ふふ――",
+      "source_en": "I take it that your attack did the trick, hehe...",
+      "text": "Damit hat dein Angriff wohl gewirkt. Hehe …"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "\"そうね、そのうちに――\r\n貴方なら《死者の丘》最大の謎、\r\n\"亡霊騎士と呪いの秘宝\"の事も追えるかもね\"",
+      "source_en": "Well, in time... someone like you might be able to\r\nunravel the great mystery of the Hill of the Dead:\r\nThe Spectral Knight and the Cursed Relic.",
+      "text": "Eines Tages könnte jemand wie du\r\ndas große Geheimnis vom Hügel der Toten lüften.\r\nEs geht um einen Geisterritter und ein verfluchtes Relikt."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "もう少し活躍を見させてもらったら\r\nあらためてお願いしようかしら",
+      "source_en": "Perhaps I'll ask again after I've seen a bit more\r\nof your skills.",
+      "text": "Vielleicht bitte ich dich darum,\r\nwenn ich noch ein bisschen mehr von deinem Können gesehen habe."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "《東ザンドラ廃墟群》に現れた\r\nゴーレムの対処、お願いね",
+      "source_en": "Please deal with the Golems appearing in the\r\nEastern Zandora Ruins.",
+      "text": "Bitte kümmere dich um die Golems,\r\ndie in den Ruinen von Ost-Zandora erschienen sind."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "結構燃えてるらしいから、気をつけて",
+      "source_en": "They say it's burning pretty intensely, so be\r\ncareful.",
+      "text": "Sie sollen lichterloh brennen.\r\nPass also gut auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

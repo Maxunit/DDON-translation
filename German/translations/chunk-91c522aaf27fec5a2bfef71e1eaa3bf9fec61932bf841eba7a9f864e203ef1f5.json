@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20080007_00.gmd",
+  "arc_path": "\\quest\\q20080007.arc",
+  "entries": [
+    {
+      "key": "q20080007_00_265",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "忍び寄る悪意",
+      "source_en": "The Evil Draws Near",
+      "text": "Das Unheil naht"
+    },
+    {
+      "key": "q20080007_00_265",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund bezwinge die Gegner."
+    },
+    {
+      "key": "q20080007_00_265",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "詳細ははっきりしないが、何らかの助けを欲する者が\r\n<NAME AREA>にいるらしい",
+      "source_en": "Though the details are unclear,\r\nit seems that someone in <NAME AREA>\r\nis in need of some kind of assistance.",
+      "text": "Genaueres ist nicht bekannt,\r\ndoch in <NAME AREA> braucht offenbar\r\njemand Hilfe."
+    },
+    {
+      "key": "q20080007_00_265",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "なんだかえらく、慌てた男を見かけたけれど\r\nありゃぁなにか一大事かもな\r\n村の近くだったから、声を掛ければ良かったな\r\n誰か代わりに見てきてくれないかな",
+      "source_en": "I saw a man in the throes of an intense panic.\r\nIt might be something major. \r\nSince it was near the village, \r\nI should have called out to him.\r\nCould someone else go check it out?",
+      "text": "Ich hab einen Mann gesehen, der völlig in Panik war.\r\nVielleicht ist etwas Schlimmes passiert.\r\nEr war ganz in der Nähe des Dorfes.\r\nIch hätte ihn ansprechen sollen.\r\nKönnte jemand nach ihm sehen?"
+    },
+    {
+      "key": "q20080007_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20080007_00_1046",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "村近くに集う敵を討伐する",
+      "source_en": "Defeat the enemy gathering near the village",
+      "text": "Besiege die Gegner, die sich in der Nähe des Dorfes sammeln."
+    },
+    {
+      "key": "q20080007_00_1139",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定の場所で魔物の正体を暴く",
+      "source_en": "Search for the enemy at the specified location",
+      "text": "Suche die Gegner am angegebenen Ort."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

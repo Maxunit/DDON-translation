@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20995006_00.gmd",
+  "arc_path": "\\quest\\q20995006.arc",
+  "entries": [
+    {
+      "key": "q20995006_00_277",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "錬成術の要",
+      "source_en": "A Training Requirement",
+      "text": "Unentbehrlich für die Alchemie"
+    },
+    {
+      "key": "q20995006_00_277",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n指定の物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besorg die gesuchten Gegenstände."
+    },
+    {
+      "key": "q20995006_00_277",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "協力者を求める者がいるとの報告が\r\n<NAME AREA>から届いている",
+      "source_en": "We have received a report from <NAME AREA>\r\nthat someone is looking for a collaborator.",
+      "text": "Aus <NAME AREA> kam die Nachricht,\r\ndass jemand Unterstützung sucht."
+    },
+    {
+      "key": "q20995006_00_277",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "\"あれ\"の錬成に必要なあるものが\r\nどうしても手に入らないのです\r\nもちろん相応の対価はお支払いいたします\r\nどなたかお譲りいただけないでしょうか――",
+      "source_en": "There is something essential for the alchemy \r\nof \"that\" of which we simply cannot acquire. \r\nWe will offer appropriate payment in return. \r\nCould someone please consider selling it to us?",
+      "text": "Für die Herstellung von „dem Ding“ brauchen wir etwas,\r\ndas wir einfach nicht auftreiben können.\r\nWir würden natürlich einen angemessenen Preis zahlen.\r\nWäre jemand bereit, es uns zu verkaufen?"
+    },
+    {
+      "key": "q20995006_00_1124",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼者に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> ×<SQDI NUM> zum Auftraggeber (noch <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

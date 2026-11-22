@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20095008_00.gmd",
+  "arc_path": "\\quest\\q20095008.arc",
+  "entries": [
+    {
+      "key": "q20095008_00_207",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "呪縛の廃屋",
+      "source_en": "The Accursed Deserted Home",
+      "text": "Das verfluchte Haus"
+    },
+    {
+      "key": "q20095008_00_207",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20095008_00_207",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "先日から<NAME AREA>で\r\n怪しい影がうごめくのを見たと言う噂が広まっている",
+      "source_en": "Rumors have been spreading lately that shadows\r\nspotted in the dark have been moving suspiciously\r\nin <NAME AREA>.",
+      "text": "Seit Kurzem geht das Gerücht um,\r\nman habe im Dunkeln verdächtige Schatten gesehen.\r\nSie sollen sich in <NAME AREA> regen."
+    },
+    {
+      "key": "q20095008_00_207",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "昔、物好きなヤツが住んでたっていう\r\n地下の廃屋があるんだけどよ\r\n最近中から物音がするんだ\r\n動物か何かが住み付いちまってるのか\r\nそれとも盗賊の根城になってるのか――\r\nとにかく気味が悪くて近寄れねぇよ",
+      "source_en": "There's an old, abandoned house underground \r\nwhere a peculiar person once lived.\r\nLately, strange noises have been coming from it. \r\nIt might be animals living there, \r\nor it could have become a den for thieves— \r\nAnyway, it's so bizarre that I can't approach it.",
+      "text": "Unter der Erde steht ein altes, verlassenes Haus.\r\nFrüher hat da ein seltsamer Mensch gewohnt.\r\nIn letzter Zeit kommen komische Geräusche von dort.\r\nVielleicht sind es Tiere, die sich eingenistet haben,\r\noder Diebe, die dort Unterschlupf suchen.\r\nMir ist das jedenfalls zu unheimlich. Da geh ich nicht hin."
+    },
+    {
+      "key": "q20095008_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

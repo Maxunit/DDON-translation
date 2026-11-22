@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20085003_00.gmd",
+  "arc_path": "\\quest\\q20085003.arc",
+  "entries": [
+    {
+      "key": "q20085003_00_193",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "オーク遠征隊を殲滅せよ！",
+      "source_en": "Eliminate the Orc Expedition!",
+      "text": "Zerschlagt den Orktrupp!"
+    },
+    {
+      "key": "q20085003_00_193",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20085003_00_193",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from <NAME AREA>, \r\nenemy forces have temporarily increased, \r\nand the situation is quite dangerous.",
+      "text": "Aus <NAME AREA> wird gemeldet,\r\ndass die Monster vorübergehend an Stärke gewonnen haben.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q20085003_00_193",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "この土地はね\r\n多くの危険で溢れているんだ\r\n街道にだって、今は魔物がはびこる始末さ\r\nだからといって、負けてられやしやしないよ\r\nさぁ、手を貸して頂戴\r\nまずは街道の掃除からはじめるわよ",
+      "source_en": "This area is full of dangers.\r\nThe roads are currently plagued by monsters.\r\nBut that doesn't mean we can surrender.\r\nSo, lend me a hand, will you?\r\nLet's start by cleaning up the roads.",
+      "text": "Hier lauert die Gefahr überall.\r\nAuf den Straßen wimmelt es gerade von Monstern.\r\nDeshalb geben wir aber nicht auf.\r\nAlso, hilfst du mir?\r\nFangen wir damit an, die Straßen freizumachen."
+    },
+    {
+      "key": "q20085003_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

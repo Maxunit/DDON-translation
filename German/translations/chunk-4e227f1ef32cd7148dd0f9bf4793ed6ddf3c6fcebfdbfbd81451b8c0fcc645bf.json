@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20995011_00.gmd",
+  "arc_path": "\\quest\\q20995011.arc",
+  "entries": [
+    {
+      "key": "q20995011_00_282",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "亡都を歩む影",
+      "source_en": "The Shadow That Roams the Dead City",
+      "text": "Der Schatten in der untergegangenen Stadt"
+    },
+    {
+      "key": "q20995011_00_282",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund bezwinge den Gegner."
+    },
+    {
+      "key": "q20995011_00_282",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>から緊急報告\r\n至急、魔物らしき脅威を排除されたし、とのこと",
+      "source_en": "Urgent report from <NAME AREA>.\r\nIt is imperative to swiftly remove\r\nthe presenting threat of monsters.",
+      "text": "Dringende Meldung aus <NAME AREA>.\r\nEin Monster bedroht die Gegend.\r\nEs muss schnellstmöglich aufgehalten werden."
+    },
+    {
+      "key": "q20995011_00_282",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "最近、王宮層でのっしのっし歩く大きな影を\r\n見たっていう噂が立ってましてね――\r\nそれが実はかなり危ない状況らしくて、\r\n対処できるような腕の立つ人を\r\n探しているらしいんですよ――",
+      "source_en": "Recently, \r\nthere have been rumors of a large shadow \r\nwalking heavily through the Royal Palace— \r\napparently, it's quite a dangerous situation, \r\nand they're looking for someone skilled enough \r\nto handle it.",
+      "text": "In letzter Zeit wird erzählt,\r\nein großer Schatten stapfe\r\ndurch den Königspalast.\r\nDie Lage soll ziemlich gefährlich sein.\r\nEs wird jemand gesucht,\r\nder sich der Sache gewachsen fühlt."
+    },
+    {
+      "key": "q20995011_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20995011_00_828",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した敵を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    },
+    {
+      "key": "q20995011_00_1147",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜メルゴダ王宮層＞へ向かい敵を探す",
+      "source_en": "Search for the enemy near the Mergoda Royal Palace Level",
+      "text": "Begib dich zur Palastebene von Mergoda und suche den Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

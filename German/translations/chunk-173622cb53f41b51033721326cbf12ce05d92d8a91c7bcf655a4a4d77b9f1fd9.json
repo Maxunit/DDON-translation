@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60070001_00.gmd",
+  "arc_path": "\\quest\\q60070001.arc",
+  "entries": [
+    {
+      "key": "q60070001_00_65",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ディナン深層林　試練：遺跡に舞う石鶏",
+      "source_en": "DW Trial: The Stone Fowl in the Ruins",
+      "text": "Prüfung im Deenan-Wald – Der Steinhahn in den Ruinen"
+    },
+    {
+      "key": "q60070001_00_65",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ディナン深層林の問題解決のため\r\n神花のテラスを荒らすコカトリスを\r\n討伐する",
+      "source_en": "To resolve the issue in the Deenan Woods,\r\ndefeat the Cockatrice that is causing a\r\ndisturbance at the Divine Blossom Terrace.",
+      "text": "Geh der Bedrohung im Deenan-Wald nach.\r\nBesiege den Kokatris,\r\nder auf der Terrasse der Götterblüten wütet."
+    },
+    {
+      "key": "q60070001_00_1418",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "神花のテラスにてコカトリスを発見する",
+      "source_en": "Find the Cockatrice in Divine Blossom Terrace",
+      "text": "Suche den Kokatris auf der Terrasse der Götterblüten."
+    },
+    {
+      "key": "q60070001_00_1419",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "遺跡のコカトリスを討伐する",
+      "source_en": "Defeat the Cockatrice at the ruins",
+      "text": "Besiege den Kokatris in den Ruinen."
+    },
+    {
+      "key": "q60070001_00_1420",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "秘弓師の住居のロンドジールに報告する",
+      "source_en": "Report to Rondejeel in the Bowmaster's Secret Lodge",
+      "text": "Erstatte Rondejeel im Versteck des Bogenmeisters Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q20105008.gmd",
+  "arc_path": "\\quest\\q20105008.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "受注会話",
+      "source_en": "",
+      "text": "Gespräch bei Questannahme"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "クリア時会話",
+      "source_en": "",
+      "text": "Gespräch bei Questabschluss"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "繰り返し会話",
+      "source_en": "",
+      "text": "Wiederholtes Gespräch"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

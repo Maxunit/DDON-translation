@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\common\\land_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "LAND_NAME_7",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "闇大陸：レスタニア",
+      "source_en": "Dark Continent: Lestania",
+      "text": "Dunkler Kontinent: Lestania"
+    },
+    {
+      "key": "LAND_NAME_10",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "闇大陸：フィンダム",
+      "source_en": "Dark Continent: Phindym",
+      "text": "Dunkler Kontinent: Phindym"
+    },
+    {
+      "key": "LAND_NAME_11",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "闇大陸：アッカーシエラン",
+      "source_en": "Dark Continent: Acre Selund",
+      "text": "Dunkler Kontinent: Acre Selund"
+    },
+    {
+      "key": "LAND_NAME_12",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "闇大陸：メルゴダ",
+      "source_en": "Dark Continent: Mergoda",
+      "text": "Dunkler Kontinent: Mergoda"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\named\\named_param.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "namedparam_59",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "八騎喰らい",
+      "source_en": " Yakki Gourmet ",
+      "text": " Acht-Ritter-Fresser "
+    },
+    {
+      "key": "namedparam_60",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "百騎喰らい",
+      "source_en": " Hyakki Gourmet ",
+      "text": " Hundert-Ritter-Fresser "
+    },
+    {
+      "key": "namedparam_61",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "万騎喰らい",
+      "source_en": " Knight Eater ",
+      "text": " Zehntausend-Ritter-Fresser "
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

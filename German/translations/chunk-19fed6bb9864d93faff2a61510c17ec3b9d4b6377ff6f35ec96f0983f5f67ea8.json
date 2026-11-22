@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20080006_00.gmd",
+  "arc_path": "\\quest\\q20080006.arc",
+  "entries": [
+    {
+      "key": "q20080006_00_264",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "招かれざる者達",
+      "source_en": "The Uninvited Ones",
+      "text": "Die ungebetenen Gäste"
+    },
+    {
+      "key": "q20080006_00_264",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n村の住人と流れ者の間で起きている揉め事を解決する",
+      "source_en": "Listen to the client's wishes and resolve the dispute\r\nbetween the residents of the village and the drifter",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund schlichte den Streit zwischen den Dorfbewohnern und den Fremden."
+    },
+    {
+      "key": "q20080006_00_264",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>に\r\n覚者に会って相談に乗ってほしい人物がいるという",
+      "source_en": "There is someone in <NAME AREA> \r\nwho wishes to meet an Arisen and seek their advice.",
+      "text": "In <NAME AREA> möchte jemand\r\neinen Erweckten treffen und um Rat bitten."
+    },
+    {
+      "key": "q20080006_00_264",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "最近は、この辺りにも流れ者が住みついて\r\nゾマの村の住人と、揉め事が頻発しているらしい\r\nここらの治安を預かる騎士団も\r\n奴らの扱いには、かなり手を焼いているみたいだぜ",
+      "source_en": "Recently, drifters have taken up residence around here,\r\nand disputes with the villagers of Zoma\r\nare becoming common.\r\nThe knights in charge of local security\r\nseem to be having a hard time dealing with them.",
+      "text": "Vor Kurzem haben sich hier Fremde niedergelassen.\r\nSie geraten immer wieder mit den Leuten aus Zoma\r\naneinander.\r\nDie Ritter, die in der Gegend für Sicherheit sorgen,\r\nwissen wohl nicht recht, was sie mit ihnen anfangen sollen."
+    },
+    {
+      "key": "q20080006_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20080006_00_1044",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "廃墟に住みついた者たちを退去させる",
+      "source_en": "Evict the squatters in the ruins",
+      "text": "Vertreibe die Fremden aus den Ruinen."
+    },
+    {
+      "key": "q20080006_00_1045",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "襲いかかる敵を討伐する",
+      "source_en": "Defeat the attacking enemy",
+      "text": "Besiege die Angreifer."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

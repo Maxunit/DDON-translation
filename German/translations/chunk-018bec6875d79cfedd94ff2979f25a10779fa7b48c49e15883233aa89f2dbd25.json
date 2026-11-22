@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60070002_00.gmd",
+  "arc_path": "\\quest\\q60070002.arc",
+  "entries": [
+    {
+      "key": "q60070002_00_66",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ディナン深層林　試練：白い災厄",
+      "source_en": "DW Trial: The White Scourge",
+      "text": "Prüfung im Deenan-Wald – Das Weiße Unheil"
+    },
+    {
+      "key": "q60070002_00_66",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ディナン深層林の問題解決のため\r\nエルテ・ディナン内レ・カルバス・アーマに\r\n封じられた\"白い災厄\"に調査・対処する",
+      "source_en": "To resolve the Deenan Woods issue,\r\ninvestigate and deal with the \"White Scourge\"\r\nsealed inside Le Karvas Arma in Erte Deenan.",
+      "text": "Geh der Bedrohung im Deenan-Wald nach.\r\nFinde heraus, was das „Weiße Unheil“ ist,\r\ndas in Le Karvas Arma in Erte Deenan versiegelt wurde, und halte es auf."
+    },
+    {
+      "key": "q60070002_00_1421",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "レ・カルバス・アーマで\"白い災厄\"を調査する",
+      "source_en": "Investigate the \"White Scourge\" at Le Karvas Arma",
+      "text": "Untersuche das „Weiße Unheil“ in Le Karvas Arma."
+    },
+    {
+      "key": "q60070002_00_1422",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "\"白い災厄\"を討伐する",
+      "source_en": "Defeat the \"White Scourge\"",
+      "text": "Besiege das „Weiße Unheil“."
+    },
+    {
+      "key": "q60070002_00_1423",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "秘弓師の住居のロンドジールに報告する",
+      "source_en": "Report to Rondejeel in the Bowmaster's Secret Lodge",
+      "text": "Erstatte Rondejeel im Versteck des Bogenmeisters Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

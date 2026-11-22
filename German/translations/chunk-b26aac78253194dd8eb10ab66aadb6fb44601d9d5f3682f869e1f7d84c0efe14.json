@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20050002_00.gmd",
+  "arc_path": "\\quest\\q20050002.arc",
+  "entries": [
+    {
+      "key": "q20050002_00_45",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "洞穴に巣くう危機",
+      "source_en": "Crisis within a Cave",
+      "text": "Gefahr in der Höhle"
+    },
+    {
+      "key": "q20050002_00_45",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund bezwinge den Gegner."
+    },
+    {
+      "key": "q20050002_00_45",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今\r\n覚者の助けを欲する者がいるらしい",
+      "source_en": "It seems that in <NAME AREA>, \r\nthere are people seeking the Arisen's help.",
+      "text": "Offenbar sucht jemand in <NAME AREA>\r\ndie Hilfe eines Erweckten."
+    },
+    {
+      "key": "q20050002_00_45",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "私はミスリウ周辺の\r\n魔物の出現状況を調査している者だ\r\n最近、地下水路や鍾乳洞に\r\n魔物の痕跡が多く見つかっている\r\nできれば覚者には、無用な立ち入りを\r\n控えてもらいたい",
+      "source_en": "I am someone who is investigating \r\nthe appearance of monsters \r\nin the vicinity of Mysree.\r\nLately, many traces of monsters \r\nhave been found in the underground \r\nwaterways and caves.\r\nI would appreciate it if the Arisen \r\ncould refrain from unnecessary \r\nintrusion.",
+      "text": "Ich untersuche seit einiger Zeit,\r\nwo sich in der Umgebung\r\nvon Mysree Monster zeigen.\r\nIn letzter Zeit hat man viele ihrer Spuren\r\nin den unterirdischen Kanälen\r\nund Höhlen gefunden.\r\nIch wäre euch Erweckten dankbar,\r\nwenn ihr euch nur dorthin begebt,\r\nwenn es unbedingt nötig ist."
+    },
+    {
+      "key": "q20050002_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20050002_00_828",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した敵を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    },
+    {
+      "key": "q20050002_00_1003",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜ミスリウ鍾乳洞＞の敵を討伐する",
+      "source_en": "Defeat the enemy in \"Mysree Limestone Cave\"",
+      "text": "Besiege die Gegner in der Tropfsteinhöhle von Mysree."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

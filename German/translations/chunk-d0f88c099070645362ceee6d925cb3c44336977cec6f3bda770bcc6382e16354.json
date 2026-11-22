@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50400013.gmd",
+  "arc_path": "\\quest\\q50400013.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "将がガルドノック最奥へ移動し\r\n覚者を待ち受ける――",
+      "source_en": "The general has moved to the\r\ninnermost depths of Gardnox, \r\nawaiting the Arisen...",
+      "text": "Der General wartet auf die Erweckten\r\ntief im Inneren\r\nder Festung Gardnox …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "将の討伐に成功――\r\nガルドノック最奥にモゴックが出現した！",
+      "source_en": "Successfully defeated the General!\r\nMogok has appeared in the \r\ninnermost depths of Gardnox",
+      "text": "Der General ist besiegt!\r\nMogok ist tief im Inneren\r\nder Festung Gardnox erschienen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ボーナス報酬条件達成！\r\nミッションクリア時の報酬が追加されます",
+      "source_en": "Bonus Reward requirement achieved!\r\nBonus rewards will be added\r\nupon mission completion.",
+      "text": "Voraussetzung für die Bonusbelohnung erfüllt!\r\nDu erhältst sie,\r\nsobald du die Mission abschließt."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ボーナス報酬条件達成！\r\nミッションクリア時の報酬が追加されます",
+      "source_en": "Bonus Reward requirement achieved!\r\nBonus rewards will be added\r\nupon mission completion.",
+      "text": "Voraussetzung für die Bonusbelohnung erfüllt!\r\nDu erhältst sie,\r\nsobald du die Mission abschließt."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20055000_00.gmd",
+  "arc_path": "\\quest\\q20055000.arc",
+  "entries": [
+    {
+      "key": "q20055000_00_127",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "鱗持つ戦士達",
+      "source_en": "Scaled Soldiers",
+      "text": "Krieger im Schuppenkleid"
+    },
+    {
+      "key": "q20055000_00_127",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【 敵出現：夜 】</COL>\r\n遭遇した敵を討伐する",
+      "source_en": "<COL ffdc78>[Enemy appears at night]</COL>\r\nDefeat the enemies encountered",
+      "text": "<COL ffdc78>[Feinde erscheinen nachts]</COL>\r\nBesiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20055000_00_127",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>では、夜になると現れる\r\n危険な存在により住民が脅かされているらしい",
+      "source_en": "In the <NAME AREA>, \r\nit seems that the residents are being threatened \r\nby a dangerous presence that appears at night.",
+      "text": "Die Bewohner der Gegend um <NAME AREA>\r\nwerden offenbar von einem gefährlichen Wesen bedroht,\r\ndas nachts auftaucht."
+    },
+    {
+      "key": "q20055000_00_127",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【 敵出現：夜 】</COL>\r\n南方の親類を訪ねて旅をしているものだが、昨夜は\r\n金がなく道端の廃屋で素泊まりしていたんだ\r\nあれは夜明け前の一番暗い時刻だったと思うが\r\nねばりつくような何者かの気配に、背筋がぞっとして\r\n跳ね起きたんだ――何がいたんだろう",
+      "source_en": "<COL ffdc78>[Enemy appears during: Night]</COL> \r\nI'm traveling to visit relatives in the south,\r\nbut last night I had to stay at an abandoned\r\nhouse by the roadside due to lack of money.\r\nIt was just before dawn, the darkest hour,\r\nwhen I felt a creeping presence that chilled\r\nmy spine and made me jump awake—\r\nwhat could it have been?",
+      "text": "<COL ffdc78>[Feinde erscheinen nachts]</COL>\r\nIch bin auf dem Weg zu Verwandten im Süden.\r\nGestern Nacht musste ich in einem verlassenen Haus\r\nam Wegesrand schlafen, weil mir das Geld fehlte.\r\nKurz vor der Morgendämmerung, als es noch stockfinster war,\r\nspürte ich plötzlich, dass sich etwas anschlich.\r\nMir lief's eiskalt den Rücken hinunter. Ich schreckte hoch.\r\nWas war da draußen?"
+    },
+    {
+      "key": "q20055000_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

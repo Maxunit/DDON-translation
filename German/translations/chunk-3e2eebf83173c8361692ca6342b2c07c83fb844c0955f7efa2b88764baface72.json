@@ -1,0 +1,152 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area3_spot_info.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "レスタニア南部の広大な森林\r\n多くの動植物、人、そして魔物が住み、それを可能\r\nにするだけの恵みに満ちている。また、森のいたる\r\n所に自然洞窟や旧時代の遺跡なども存在するため\r\n探索には事欠かない地域である",
+      "source_en": "A vast forest in southern Lestania.\r\nA rich land with a wide variety of animals,\r\nplants, people, and creatures.\r\nMoreover, the terrain is adorned\r\nwith natural caves and ancient ruins\r\nscattered throughout, making it ideal\r\nfor exploration.",
+      "text": "Ein ausgedehnter Wald im Süden Lestanias.\r\nDie Fülle der Natur bietet Menschen, Tieren,\r\nPflanzen und Monstern ein Auskommen.\r\nÜberall im Wald finden sich\r\nnatürliche Höhlen\r\nund Ruinen aus alter Zeit.\r\nWer auf Erkundung geht, hat hier viel zu entdecken."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ポーンの民が集い、新しき覚者との契約を待つ聖堂\r\n聖堂はレスタニアと異界との接点を守るために\r\n偉大な覚者が大昔建造したと伝えられている\r\n現在は里長アルヴァーが管理者を務めており\r\n《プリースト》の導き手カミュも滞在している",
+      "source_en": "The holy temple where pawns gather,\r\nawaiting a contract with the newly Arisen.\r\nIt is said that the temple was built\r\nby a great Arisen in ancient times to strengthen\r\nthe bonds between Lestania and other realms.\r\nCurrently, it is managed by the village elder,\r\nAlvar, and the Priest, Camus, who resides there.",
+      "text": "In dieser Kathedrale versammeln sich Vasallen\r\nund warten darauf, einen Pakt mit einem neuen Erweckten zu schließen.\r\nEinst soll ein großer Erweckter sie erbaut haben,\r\num die Verbindung zwischen Lestania\r\nund anderen Welten zu bewahren.\r\nHeute wacht der Dorfälteste Alvar über diesen Ort.\r\nAuch Camus, der Lehrmeister der Priester, hält sich dort auf."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ森林中部にある、狩人と木こりの村\r\n獣革や木材、薬草類など森は資源が豊富なため\r\n素材を扱う者にとって重要な村である\r\nただし森には遺跡や自然洞窟も多く、そこをねぐら\r\nとする魔物への警戒は常に必要だ",
+      "source_en": "A village of hunters and woodcutters.\r\nLocated in the centre of Mysree Forest,\r\nthis village is important for those who work\r\nand trade in animal hides, lumber,\r\nand medicinal herbs. However, the forest's ruins \r\nand natural caves serve as lairs for beasts.\r\nLetting down one's guard is a risky proposition.",
+      "text": "Tief im Mysree-Wald liegt dieses Dorf\r\nder Jäger und Holzfäller.\r\nDer Wald liefert Felle, Bauholz, Kräuter\r\nund vieles mehr. Wer mit solchen Waren handelt,\r\nkommt an diesem Dorf kaum vorbei.\r\nDoch in den Ruinen und natürlichen Höhlen\r\nhausen Monster. Im Wald ist stets Vorsicht geboten."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "魔女エメラダが住む森林の家\r\n彼女に教えを請うことで\r\n《ソーサラー》として破壊の魔術の\r\n深淵により近づくことができるだろう",
+      "source_en": "The house in the forest where the Witch\r\nEmerada lives. By seeking her guidance,\r\none can grow nearer the forbidden heart\r\nof destructive magick treasured by Sorcerers.",
+      "text": "In diesem Haus mitten im Wald lebt die Hexe\r\nEmerada. Wer sie um Unterweisung bittet,\r\nkann als Erzmagier tiefer in die Geheimnisse\r\nder Zerstörungsmagie vordringen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ポーン郷からリンウッド方面に繋がる\r\n木造の橋。南ハイデル大橋と同時期の水害で\r\n破損したが、住民の手が回らず復旧が遅れていた\r\n放置された理由は、ポーン郷へ行く覚者の多くが\r\nリム転移を用いるためらしい",
+      "source_en": "A wooden bridge that connects\r\nfrom Pawn Cathedral to Lynwood.\r\nDamaged during the same flood as the South\r\nHidell Bridge, restoration was delayed\r\nas the residents lacked the resources.\r\nThe reason for its abandonment seems to be\r\nbecause many Arisen who go to Pawn Cathedral\r\nopt to use the Rift Teleport.",
+      "text": "Eine Holzbrücke auf dem Weg\r\nvon der Vasallenkathedrale nach Lynwood.\r\nSie wurde beim selben Hochwasser beschädigt wie die Südbrücke\r\nvon Hidell.\r\nDen Anwohnern fehlten die Mittel für die Reparatur.\r\nDie Brücke blieb wohl auch deshalb so lange liegen,\r\nweil die meisten Erweckten ohnehin per Rift\r\nzur Vasallenkathedrale reisen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "森林北部にあるフォレストゴブリンの集落\r\nカボチャの栽培や狩猟だけではなく、ここには\r\n人や家畜を襲って得た物品も集められている\r\n特に長である《緑鬼グリッガ》とその手下達は\r\n好んで人を襲うため、警戒しなければならない",
+      "source_en": "A Forest Goblin settlement in the northern part\r\nof the forest. In addition to pumpkin cultivation\r\nand hunting, they also gather items\r\nwhat they can from travelers and livestock.\r\nIn particular, Gurigga the Green Demon\r\nand his minions, who are especially skilled,\r\nrelish preying upon those unwary,\r\nso we must be cautious.",
+      "text": "Eine Siedlung der Waldgoblins im Norden des Waldes.\r\nSie bauen Kürbisse an und gehen auf die Jagd.\r\nAußerdem horten sie hier,\r\nwas sie Reisenden und Bauern abnehmen.\r\nIhr Anführer Gurigga, der Grüne Dämon,\r\nund seine Gefolgsleute lauern besonders gern\r\nunvorsichtigen Reisenden auf.\r\nWer hier vorbeikommt, sollte auf der Hut sein."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "祭祀場にはさまざまな魔物が出没するが、このほど\r\n特に攻撃性の高いエントの出現が確認された\r\n以前も起こったこの特異なエントの出現は\r\nさらに大きな脅威に繋がる可能性がある\r\n早急な討伐と監視が必要だ",
+      "source_en": "Various monsters have been appearing in the\r\nritual hall, but recently, the emergence of an\r\nespecially aggressive Ent has been confirmed.\r\nThe recurring appearance of this peculiar Ent\r\ncould potentially lead to an even greater threat.\r\nSwift subjugation and surveillance are necessary.",
+      "text": "An der Kultstätte tauchen allerlei Monster auf.\r\nVor Kurzem wurde dort\r\nein besonders angriffslustiger Ent gesichtet.\r\nEin solcher Ent ist schon einmal dort aufgetaucht.\r\nDie Bedrohung könnte sich verschärfen.\r\nDer Ent sollte rasch besiegt und der Ort weiter beobachtet werden."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "リンウッドほど近くにある地下水路\r\n魔物が巣くい使われなくなって久しいが、以前は\r\nこの水路で河川の水位を調整し水害に備えていた\r\nリンウッドが水路を閉鎖した後も魔物は増え、\r\n時に凶暴な大猿が出没することもある",
+      "source_en": "An underground waterway near Lynwood.\r\nAlthough long abandoned, in the past,\r\nthis waterway was used to adjust the water level\r\nof the river to prepare for floods.\r\nAfter Lynwood closed the waterway, the number\r\nof monsters increased, and at times,\r\nferocious apes begin to haunt the area.",
+      "text": "Die unterirdischen Kanäle nahe Lynwood\r\ndienten einst dazu, den Wasserstand\r\ndes Flusses zu regeln und Überschwemmungen vorzubeugen.\r\nSchon lange sind sie außer Betrieb.\r\nSeit die Bewohner die Kanäle geschlossen haben,\r\nsind dort immer mehr Monster eingezogen.\r\nMitunter treiben sich dort auch wilde Riesenaffen herum."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "注意すべきドレッドエイプ、《唸り猿》が\r\n縄張りにしている廃屋\r\n廃屋の周囲は食い散らかされた動物の残骸が\r\n散乱しており、恐ろしい上非常に臭い――",
+      "source_en": "The Dread Ape, known as the \"Howler Ape,\" has\r\ntaken over this abandoned house as its territory.\r\nThe surroundings of the abandoned house\r\nare littered with cast-off remains\r\nof devoured animals, making it both terrifying\r\nand extremely foul-smelling.",
+      "text": "Ein Affendämon, den man »Brüllaffe« nennt,\r\nhat dieses verlassene Haus zu seinem Revier gemacht.\r\nRund um das Gebäude liegen\r\nhalb aufgefressene Tierkadaver.\r\nIhr Anblick ist schaurig,\r\nund der Gestank kaum auszuhalten."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "特に危険なドレッドエイプ、《裂き猿》が\r\n巣くっている廃屋\r\n廃屋の周囲は正体不明の死肉が散乱しており\r\n不気味な様子を醸し出している",
+      "source_en": "In the rundown building where the ferocious\r\nDread Ape, \"Ripper Ape,\" resides, there are\r\nunidentified carcasses and offal scattered about,\r\nan eerie atmosphere to be sure.",
+      "text": "In diesem verfallenen Haus haust\r\nder besonders gefährliche Affendämon, den man »Fleischreißer« nennt.\r\nRund um das Gebäude liegen Überreste von Tieren,\r\ndie kaum noch zu erkennen sind."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "とりわけ獰猛なドレッドエイプ、《豚喰い猿》が\r\nねぐらにしている廃屋\r\n廃屋の周囲は攫われた家畜や野豚が\r\n多数溜めこまれている",
+      "source_en": "The abandoned house that the particularly\r\nferocious Dread Ape, the \"Pig-Eating Ape,\"\r\nhas made its lair. Around the abandoned house \r\nlay the remains of numerous abducted livestock\r\nand wild boars in varying states of decay.",
+      "text": "Dieses verlassene Haus ist der Unterschlupf\r\neines besonders wilden Affendämons,\r\ndes Schweinefressers.\r\nRund um das Haus hat er viele seiner Beutetiere gehortet,\r\ndarunter gestohlenes Vieh und Wildschweine."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ森林の外れに位置する広大な鍾乳洞\r\nそのあまりの深さと、そこをねぐらにする\r\n凶悪な魔獅子の存在から立ち入り禁止になった\r\n奥にはさまざまな魔物や資源があるだろう",
+      "source_en": "Located on the outskirts of Mysree Forest\r\nis a vast limestone cave.\r\nAccess to the cave has been prohibited\r\nas it is incredibly deep and a demonic lion\r\nthat has made it their den.\r\nThere are likely many foes and useful treasures\r\nlaid deep within the winding caves.",
+      "text": "Am Rand des Mysree-Walds\r\nliegt eine gewaltige Tropfsteinhöhle.\r\nSie wurde wegen ihrer gewaltigen Tiefe gesperrt.\r\nAußerdem haust dort\r\nein wilder Dämonenlöwe.\r\nTiefer in den Gängen sind weitere Monster\r\nund wertvolle Rohstoffe zu erwarten."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "リンウッドからミスリウ森林深部へと向かう一本道の\r\n中ほどにある、少し開けた場所。背の高い木々が多く\r\n鬱蒼としている上に靄が出やすく、開けた印象の割に\r\n視界が悪い。そのためか盗賊や魔物が潜みやすく\r\n森を抜ける際の一番の難所と言われる",
+      "source_en": "In the middle of the road leading from\r\nLynwood to Mysree Grove in the Mysree Forest,\r\na clearing can be found. Here, there are many\r\ntall trees shrouded in a dense fog.\r\nVisibility is poor, making it easy for bandits\r\nand enemies to prowl about, hidden in wait.\r\nIt is said to be the most challenging place\r\nto pass through the forest.",
+      "text": "Auf halbem Weg von Lynwood\r\nin den tiefen Mysree-Wald öffnet sich das Gelände.\r\nTrotz der kleinen Lichtung\r\nnehmen hohe Bäume und dichter Nebel die Sicht.\r\nRäuber und Monster\r\nkönnen sich hier gut verbergen.\r\nDer Abschnitt gilt als das gefährlichste Stück\r\nauf dem Weg durch den Wald."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "ポーンの民が渡る、この世ならざる空間\r\n世界の淵辺にあたるとされ、普通の人間には足を\r\n踏み入れるどころか、入口を見ることすらできない\r\n\"異界歩き\"と呼ばれるポーンがなぜ覚者に応え\r\n現れるのか、それを知るのは竜のみである",
+      "source_en": "The space where pawns wander,\r\na realm unlike this world.\r\nBelieved to exist on the edge of the world,\r\nordinary humans cannot see the entrance,\r\nlet alone step inside. Only the dragons know\r\nwhy the pawns, called \"striders of other worlds\"\r\nanswer to the Arisen.",
+      "text": "Die Vasallen durchqueren diesen Ort,\r\nder außerhalb unserer Welt liegt.\r\nEr soll sich am Rand der Welt befinden.\r\nGewöhnliche Menschen können weder eintreten\r\nnoch seinen Eingang sehen.\r\nWarum die Vasallen, die man auch Weltenwanderer nennt,\r\ndem Ruf der Erweckten folgen, wissen allein die Drachen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ森林南西の大洞窟\r\n深部にある巨大空洞には、名の由来でもある\r\n《燐光虫》という虫が棲息し、星空に迷い込んだかの\r\nような美しさであると言われる。しかし、鬼人や\r\nエイプの住処ともなっており危険は大きい",
+      "source_en": "Mysree Forest, located in the southwest,\r\nholds a truly massive cave.\r\nDeep within lies a breathtaking vista\r\nnamed after the \"Glowworms\" that reside there;\r\nlooking upon its heights is reminiscent\r\nof getting lost in the starry sky. However,\r\nit is also known to be a dangerous dwelling\r\nfor monsters and apes.",
+      "text": "Im Südwesten des Mysree-Walds\r\nliegt eine gewaltige Höhle.\r\nIn einer riesigen Kammer tief im Inneren\r\nleuchten unzählige Glühwürmchen,\r\ndenen die Höhle ihren Namen verdankt.\r\nDer Anblick soll an einen klaren Sternenhimmel erinnern.\r\nDoch auch wilde Affen und andere Monster hausen dort.\r\nWer hineingeht, begibt sich in Gefahr."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "森の南部に位置する小洞窟\r\n内部にはそこそこ開けた空間があり\r\n魔獣の類が巣にしているらしい\r\n時おり、外にまで唸り声が聞こえるという",
+      "source_en": "In the southern part of the forest,\r\nthere is a small cave. Inside, there is\r\na fair-sized passage in which magickal beasts\r\nhave made their nests. Occasionally,\r\ntheir growls echo forth from the depths.",
+      "text": "Eine kleine Höhle im Süden des Waldes.\r\nDrinnen öffnet sich eine geräumige Kammer,\r\nin der offenbar\r\nmagische Bestien hausen.\r\nManchmal ist ihr Knurren noch draußen zu hören."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "普通の人間には入口を見ることすらできない\r\n世界の淵辺にあたるとされる空間の深層部\r\nこの空間がどのようにして成り立ち、どこに\r\n続いていくのか未だ知る者はいない",
+      "source_en": "Invisible to ordinary folk,\r\nit connects to a space considered to be\r\nthe edge of the world.\r\nNo one yet knows how this space is formed\r\nor where it leads.",
+      "text": "Gewöhnliche Menschen können den Eingang nicht sehen.\r\nHinter ihm liegen die Tiefen des Rifts,\r\neines Raums am äußersten Rand der Welt.\r\nWie dieser Raum entstanden ist und wohin er führt,\r\nweiß bis heute niemand."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【宝飾】の扉あり</COL>\r\nミスリウ森林から深部へ続く洞穴に埋もれていた古い\r\n地下墓地。夜間、どこからともなく森に現れる不死者\r\n達はこの墳墓から彷徨い出たものらしい。長く封じら\r\nれていたため、あまり見ない魔物が潜む可能性が高い",
+      "source_en": "<COL ffdc78>[Jewelry Door]</COL>\r\nA hidden underground cemetery buried deep\r\nwithin the caves leading from the Mysree Forest.\r\nThe undead that appear in the forest at night\r\nseem to have emerged from this tomb.\r\nIn these rooms having been sealed long ago,\r\nmany adversaries likely await you.",
+      "text": "<COL ffdc78>[Schmucktür vorhanden]</COL>\r\nTief unter den Höhlen, die aus dem Mysree-Wald\r\nins Landesinnere führen, liegt eine alte Grabstätte.\r\nDie Untoten, die nachts im Wald umherstreifen,\r\nsind vermutlich aus diesem Grab entkommen.\r\nDie Kammern waren lange versiegelt.\r\nDort könnten seltene Monster lauern."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

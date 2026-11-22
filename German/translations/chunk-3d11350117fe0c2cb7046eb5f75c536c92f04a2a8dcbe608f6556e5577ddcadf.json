@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q20080004.gmd",
+  "arc_path": "\\quest\\q20080004.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "「ひびわれた壺」を発見した",
+      "source_en": "\"Cracked container\" found.",
+      "text": "„Rissiges Gefäß“ gefunden."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "「落書きのような絵」を発見した",
+      "source_en": "\"Graffiti-like pictures\" found.",
+      "text": "„Wandkritzeleien“ gefunden."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "「首のない神像」を発見した",
+      "source_en": "\"Headless deity statue\" found.",
+      "text": "„Kopflose Götterstatue“ gefunden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

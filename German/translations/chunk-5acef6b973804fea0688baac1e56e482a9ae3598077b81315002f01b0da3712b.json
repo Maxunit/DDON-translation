@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60110002_00.gmd",
+  "arc_path": "\\quest\\q60110002.arc",
+  "entries": [
+    {
+      "key": "q60110002_00_74",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ東部　試練：亡霊騎士と呪いの秘宝",
+      "source_en": "EZ Trial: Knight's Cursed Relic",
+      "text": "Prüfung in Ost-Zandora – Der Geisterritter und das verfluchte Relikt"
+    },
+    {
+      "key": "q60110002_00_74",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ東部の問題解決のため\r\n死王の迷宮の深部に挑み\r\n亡霊騎士と呪われし秘宝の正体を確かめる",
+      "source_en": "Explore the Dead Lord's Labyrinth in Eastern Zandora, \r\nconfront the undead knight and reveal the truth\r\nbehind the cursed relic.",
+      "text": "Erkunde das Labyrinth des Totenkönigs in Ost-Zandora.\r\nStell dich dem untoten Ritter\r\nund lüfte das Geheimnis des verfluchten Relikts."
+    },
+    {
+      "key": "q60110002_00_1445",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "死王の迷宮にて呪われし秘宝を探す",
+      "source_en": "Search for the cursed relic in the Dead Lord's Labyrinth",
+      "text": "Suche im Labyrinth des Totenkönigs nach dem verfluchten Relikt."
+    },
+    {
+      "key": "q60110002_00_1446",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "迷宮の亡霊騎士とその従者を討伐する",
+      "source_en": "Defeat the Spectral Knight and its followers in the labyrinth",
+      "text": "Besiege den Geisterritter und sein Gefolge im Labyrinth."
+    },
+    {
+      "key": "q60110002_00_1447",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ゾマ村のナディアに報告する",
+      "source_en": "Report to Nadia in Zoma village",
+      "text": "Erstatte Nadia in Zoma Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

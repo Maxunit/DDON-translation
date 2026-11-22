@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20095000_00.gmd",
+  "arc_path": "\\quest\\q20095000.arc",
+  "entries": [
+    {
+      "key": "q20095000_00_199",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "炎紅の巨兵",
+      "source_en": "The Fiery Titan",
+      "text": "Der flammende Riese"
+    },
+    {
+      "key": "q20095000_00_199",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund bezwinge den Gegner."
+    },
+    {
+      "key": "q20095000_00_199",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "いま<NAME AREA>では\r\n不安をあおる物音が断続的に響いているらしい",
+      "source_en": "Currently, in the <NAME AREA>, \r\nthere unsettling noises cry out intermittently,\r\ncausing a great deal of anxiety in the area.",
+      "text": "In <NAME AREA> hallen derzeit\r\nimmer wieder unheimliche Geräusche wider.\r\nDie Leute in der Gegend sind beunruhigt."
+    },
+    {
+      "key": "q20095000_00_199",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "遠い昔にかの都は、目も眩まんばかりの\r\n繁栄を築き上げ、人々の生活は潤い\r\nその絶頂は、世界を塗り替えんばかりでした\r\nしかし今は廃墟と化し\r\n護るもの無い、物悲しい番人が\r\nただただ彷徨い歩くと聞いています",
+      "source_en": "In ancient times, that city achieved a prosperity\r\nso blindingly dazzling, and the people's lives\r\nwere rich with abundance. At its peak,\r\nit seemed ready to reshape the world. \r\nHowever, now it has become a ruin,\r\nand the sorrowful guardian, \r\nwith nothing left to protect,\r\nis said to wander aimlessly.",
+      "text": "Einst blühte diese Stadt.\r\nIhre Bewohner führten ein Leben im Überfluss.\r\nAuf dem Höhepunkt ihrer Macht schien es,\r\nals könnte sie die ganze Welt verändern.\r\nHeute liegen nur noch Ruinen dort.\r\nDer Wächter soll noch immer umherirren,\r\nvoller Kummer, weil ihm nichts geblieben ist,\r\nwas er beschützen könnte."
+    },
+    {
+      "key": "q20095000_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20095000_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20095000_00_1140",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜メルゴダ護政区＞へ向かい敵を探す",
+      "source_en": "Search for the enemy near the Mergoda Security District",
+      "text": "Suche den Gegner in der Nähe des Wachtbezirks Mergoda."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

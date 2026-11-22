@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20050004_00.gmd",
+  "arc_path": "\\quest\\q20050004.arc",
+  "entries": [
+    {
+      "key": "q20050004_00_56",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "光浴びる花",
+      "source_en": "Flowers Bathed in Light",
+      "text": "Blüten im Lichterschein"
+    },
+    {
+      "key": "q20050004_00_56",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n指定の物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte der Auftraggeberin an\r\nund besorg die gesuchten Blumen."
+    },
+    {
+      "key": "q20050004_00_56",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "切迫した事情を抱えた人物がいると連絡があった\r\n速やかに<NAME AREA>に向かって欲しい",
+      "source_en": "I received a message that someone with urgent \r\ncircumstances is in need. \r\nPlease proceed immediately to \r\n<NAME AREA>.",
+      "text": "Wir haben eine dringende Nachricht erhalten.\r\nJemand braucht Hilfe.\r\nBegib dich sofort\r\nin die Gegend um <NAME AREA>."
+    },
+    {
+      "key": "q20050004_00_56",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "――聞いてくれます？\r\n僕ね、燐光虫の洞窟に、エキセントリックで\r\nエキゾチック、そのうえエキサイティングな女性が\r\n居るっていうから、期待値最高で行ってみたんです\r\nそしたら、もうアレで――\r\nまあ、あなたも一度訪ねてみてくださいよ",
+      "source_en": "Will you listen?\r\nYou know, I went to the Glowworm Cave,\r\nbecause I heard there was an eccentric,\r\nexotic, and exciting woman there,\r\nso I had high expectations.\r\nBut, well, \r\nyou should go and see for yourself once.",
+      "text": "Hörst du mir kurz zu?\r\nIch war in der Glühwürmchenhöhle,\r\nweil ich gehört hatte, dass dort eine Frau ist.\r\nExzentrisch, exotisch und aufregend sollte sie sein.\r\nEntsprechend hoch waren meine Erwartungen.\r\nUnd dann … na ja.\r\nGeh doch einfach mal selbst hin."
+    },
+    {
+      "key": "q20050004_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q20050004_00_1005",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜燐光虫の洞窟＞で幻の花を探す（残り３）",
+      "source_en": "Retrieve the flowers in the Glowworm Cave (3 left)",
+      "text": "Suche die geheimnisvollen Blumen in der Glühwürmchenhöhle (noch 3)."
+    },
+    {
+      "key": "q20050004_00_1090",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜燐光虫の洞窟＞で幻の花を探す（残り２）",
+      "source_en": "Retrieve the flowers in the Glowworm Cave (2 left)",
+      "text": "Suche die geheimnisvollen Blumen in der Glühwürmchenhöhle (noch 2)."
+    },
+    {
+      "key": "q20050004_00_1091",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜燐光虫の洞窟＞で幻の花を探す（残り１）",
+      "source_en": "Retrieve the flowers in the Glowworm Cave (1 left)",
+      "text": "Suche die letzte geheimnisvolle Blume in der Glühwürmchenhöhle."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

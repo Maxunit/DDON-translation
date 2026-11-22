@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60203000_00.gmd",
+  "arc_path": "\\quest\\q60203000.arc",
+  "entries": [
+    {
+      "key": "q60203000_00_108",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ森林　試練：悪夢の巨影",
+      "source_en": "MC Trial: A Nightmare's Great Shadow",
+      "text": "Prüfung im Mysree-Wald – Der Schatten des Nachtmahrs"
+    },
+    {
+      "key": "q60203000_00_108",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ森林の問題解決のため\r\n行商人の難所に棲みついた\r\nナイトメアを討伐する",
+      "source_en": "Slay the Nightmare that has taken residence \r\nin Peddler's Peril to resolve the issue in the \r\nMysree Forest.",
+      "text": "Ein Nachtmahr hat sich am Engpass der Händler eingenistet.\r\nBesiege ihn, bevor er den Menschen\r\nim Mysree-Wald etwas antut."
+    },
+    {
+      "key": "q60203000_00_1806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "リンウッド村のパトリシアに報告する",
+      "source_en": "Report to Patricia in Lynwood village",
+      "text": "Erstatte Patricia in Lynwood Bericht."
+    },
+    {
+      "key": "q60203000_00_1807",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "行商人の難所へ向かい危険な魔物を捜索する",
+      "source_en": "Head to the Peddler's Peril and search for dangerous monsters",
+      "text": "Geh zum Engpass der Händler und halte nach gefährlichen Monstern Ausschau."
+    },
+    {
+      "key": "q60203000_00_1808",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる魔物を討伐する",
+      "source_en": "Defeat the demon threat",
+      "text": "Besiege das gefährliche Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

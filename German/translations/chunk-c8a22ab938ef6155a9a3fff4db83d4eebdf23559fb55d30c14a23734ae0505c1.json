@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40201010_00.gmd",
+  "arc_path": "\\quest\\q40201010.arc",
+  "entries": [
+    {
+      "key": "q40201010_00_350",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【週期要請】ミスリウ森林深部：物資供給",
+      "source_en": "[Periodic Request] Mysree Grove: Supply Provision",
+      "text": "[Wöchentlicher Auftrag] Tiefer Mysree-Wald – Nachschub"
+    },
+    {
+      "key": "q40201010_00_350",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "標の祠にご滞在中の覚者様\r\nここミスリウ深部にて入手可能な<LQIM>の備蓄を進めております\r\n可能であれば<LQVA>個をこの祠へ納めていただけないでしょうか\r\n急ぎではございません、お時間のある時にご対応いただければ――",
+      "source_en": "To Arisen staying at the Shrine:\r\nWe are working on stockpiling <LQIM> \r\navailable in the depths of Mysree. \r\nIf possible, could you deliver <LQVA> of them to \r\nthis shrine? \r\nThere's no rush; please assist when you have time.",
+      "text": "An alle Erweckten, die sich am Schrein aufhalten.\r\nWir legen einen Vorrat an <LQIM> an.\r\nTief im Mysree-Wald wirst du fündig.\r\nKannst du <LQVA> Stück\r\nzum Schrein bringen?\r\nEs eilt nicht. Bring sie vorbei, wenn du Zeit hast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

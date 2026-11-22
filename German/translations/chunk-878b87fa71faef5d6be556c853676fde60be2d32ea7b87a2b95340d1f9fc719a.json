@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60212001_00.gmd",
+  "arc_path": "\\quest\\q60212001.arc",
+  "entries": [
+    {
+      "key": "q60212001_00_127",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "亡都メルゴダ　試練：凍てつく魂の標榜",
+      "source_en": "MG Trial: The Frost Spirit Champion",
+      "text": "Prüfung in Mergoda – Im Zeichen der eisigen Seele"
+    },
+    {
+      "key": "q60212001_00_127",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "亡都メルゴダの問題解決のため\r\n秘匿の実験場を調査し\r\n脅威となる魔物を討伐する",
+      "source_en": "To resolve the issue in the Mergoda Ruins,\r\ninvestigate the Hidden Observatory\r\nand eliminate the threatening monsters.",
+      "text": "Geh dem Unheil in den Ruinen von Mergoda nach.\r\nUntersuche das Geheime Versuchslabor\r\nund besiege die Monster, die dort ihr Unwesen treiben."
+    },
+    {
+      "key": "q60212001_00_1933",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダ居住区のベアトリクスに報告する",
+      "source_en": "Report to Beatrix in the Mergoda Residential Area",
+      "text": "Erstatte Beatrix im Wohnbezirk Mergoda Bericht."
+    },
+    {
+      "key": "q60212001_00_1934",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "秘匿の実験場へ向かい魔物を調査する",
+      "source_en": "Head to Hidden Observatory and investigate monsters",
+      "text": "Begib dich zum Geheimen Versuchslabor und sieh nach, was es mit den Monstern auf sich hat."
+    },
+    {
+      "key": "q60212001_00_1935",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる魔物を討伐する",
+      "source_en": "Defeat the demon threat",
+      "text": "Besiege das Monster, von dem die Gefahr ausgeht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

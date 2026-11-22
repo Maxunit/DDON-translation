@@ -3,6 +3,38 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "STAGE_NAME_16",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "森の一軒家",
+      "source_en": "Lone House in the Forest",
+      "text": "Einsames Haus im Wald"
+    },
+    {
+      "key": "STAGE_NAME_22",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "イヴァンの山小屋",
+      "source_en": "Ivan's Lodge",
+      "text": "Ivans Jagdhütte"
+    },
+    {
+      "key": "STAGE_NAME_28",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "森の廃墟地下",
+      "source_en": "Forest Ruins Cellar",
+      "text": "Keller der Waldruine"
+    },
+    {
+      "key": "STAGE_NAME_32",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "灯台の地下倉庫",
+      "source_en": "Lighthouse Cellar",
+      "text": "Keller des Leuchtturms"
+    },
+    {
       "key": "STAGE_NAME_49",
       "read_index": "46",
       "tag_source": "source_en",
@@ -17,6 +49,14 @@
       "source_jp": "ドラワン組合宿　眠り狼亭",
       "source_en": "Sleeping Wolf Inn",
       "text": "Gasthaus Zum Schlafenden Wolf"
+    },
+    {
+      "key": "STAGE_NAME_55",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "隠者の家",
+      "source_en": "Hermit's House",
+      "text": "Haus des Einsiedlers"
     },
     {
       "key": "STAGE_NAME_56",

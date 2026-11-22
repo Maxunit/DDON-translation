@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60030002_00.gmd",
+  "arc_path": "\\quest\\q60030002.arc",
+  "entries": [
+    {
+      "key": "q60030002_00_58",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ森林　試練：討伐！　魔獅子シンガ",
+      "source_en": "MC Trial: Demonic Lion Singha",
+      "text": "Prüfung im Mysree-Wald – Dämonenlöwe Singha"
+    },
+    {
+      "key": "q60030002_00_58",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ森林の問題解決のため\r\nミスリウ鍾乳洞へ向かい脅威を排除する",
+      "source_en": "To resolve the issues in the Mysree Forest,\r\nhead to the Mysree Limestone Cave\r\nand eliminate the threat.",
+      "text": "Hilf den Bewohnern des Mysree-Walds.\r\nGeh zur Tropfsteinhöhle von Mysree\r\nund beseitige die Bedrohung."
+    },
+    {
+      "key": "q60030002_00_1397",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ鍾乳洞へ向かい脅威を発見する",
+      "source_en": "Head to the Mysree Limestone Cave and discover the threat",
+      "text": "Geh zur Tropfsteinhöhle von Mysree und sieh nach, woher die Gefahr kommt."
+    },
+    {
+      "key": "q60030002_00_1398",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる敵を掃討する",
+      "source_en": "Wipe out threatening enemies",
+      "text": "Besiege die gefährlichen Feinde."
+    },
+    {
+      "key": "q60030002_00_1399",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "リンウッド村のパトリシアに報告する",
+      "source_en": "Report to Patricia in Lynwood village",
+      "text": "Erstatte Patricia in Lynwood Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -3,12 +3,108 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "SPOT_NAME_631",
+      "read_index": "177",
+      "tag_source": "source_en",
+      "source_jp": "密猟者のキャンプ",
+      "source_en": "Poachers' Camp",
+      "text": "Lager der Wilderer"
+    },
+    {
+      "key": "SPOT_NAME_632",
+      "read_index": "178",
+      "tag_source": "source_en",
+      "source_jp": "イニアス湿地帯",
+      "source_en": "Inias Wetlands",
+      "text": "Inias-Feuchtgebiet"
+    },
+    {
+      "key": "SPOT_NAME_633",
+      "read_index": "179",
+      "tag_source": "source_en",
+      "source_jp": "名もなき廃村",
+      "source_en": "Nameless Deserted Village",
+      "text": "Namenloses verlassenes Dorf"
+    },
+    {
+      "key": "SPOT_NAME_634",
+      "read_index": "180",
+      "tag_source": "source_en",
+      "source_jp": "巨人の寝床",
+      "source_en": "The Giant's Bed",
+      "text": "Lagerstatt des Riesen"
+    },
+    {
+      "key": "SPOT_NAME_636",
+      "read_index": "182",
+      "tag_source": "source_en",
+      "source_jp": "エルネア・スプリング",
+      "source_en": "Elnea Spring",
+      "text": "Elnea-Quelle"
+    },
+    {
+      "key": "SPOT_NAME_644",
+      "read_index": "190",
+      "tag_source": "source_en",
+      "source_jp": "双輪の谷",
+      "source_en": "Twin Wheel Valley",
+      "text": "Tal der Zwillingsräder"
+    },
+    {
+      "key": "SPOT_NAME_645",
+      "read_index": "191",
+      "tag_source": "source_en",
+      "source_jp": "南メルゴダ遺跡群",
+      "source_en": "South Mergoda Ruins",
+      "text": "Südliche Ruinen von Mergoda"
+    },
+    {
+      "key": "SPOT_NAME_646",
+      "read_index": "192",
+      "tag_source": "source_en",
+      "source_jp": "バンデッドホーント",
+      "source_en": "Ironclad Haunt",
+      "text": "Lager der Eisenritter"
+    },
+    {
+      "key": "SPOT_NAME_647",
+      "read_index": "193",
+      "tag_source": "source_en",
+      "source_jp": "オーク残党宿営地",
+      "source_en": "Orc Remnants Camp",
+      "text": "Lager der versprengten Orks"
+    },
+    {
+      "key": "SPOT_NAME_648",
+      "read_index": "194",
+      "tag_source": "source_en",
+      "source_jp": "黒淵谷",
+      "source_en": "Black Abyss Valley",
+      "text": "Tal des schwarzen Abgrunds"
+    },
+    {
+      "key": "SPOT_NAME_649",
+      "read_index": "195",
+      "tag_source": "source_en",
+      "source_jp": "奇岩谷",
+      "source_en": "Odd Rock Valley",
+      "text": "Tal der bizarren Felsen"
+    },
+    {
       "key": "SPOT_NAME_650",
       "read_index": "196",
       "tag_source": "source_en",
       "source_jp": "東ザンドラ廃墟群",
       "source_en": "East Zandora Ruins",
       "text": "Ruinen von Ost-Zandora"
+    },
+    {
+      "key": "SPOT_NAME_651",
+      "read_index": "197",
+      "tag_source": "source_en",
+      "source_jp": "呪詛の庭",
+      "source_en": "Garden of Curses",
+      "text": "Garten der Flüche"
     },
     {
       "key": "SPOT_NAME_653",
@@ -57,6 +153,14 @@
       "source_jp": "テオドール錬金工房",
       "source_en": "Theodor's Alchemy Workshop",
       "text": "Theodors Alchemiewerkstatt"
+    },
+    {
+      "key": "SPOT_NAME_669",
+      "read_index": "215",
+      "tag_source": "source_en",
+      "source_jp": "啼き井戸",
+      "source_en": "Keening Well",
+      "text": "Brunnen der Klagen"
     },
     {
       "key": "SPOT_NAME_670",

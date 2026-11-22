@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60211001_00.gmd",
+  "arc_path": "\\quest\\q60211001.arc",
+  "entries": [
+    {
+      "key": "q60211001_00_125",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ東部　試練：眠らずの始祖たち",
+      "source_en": "EZ Trial: The Restless Ancestors",
+      "text": "Prüfung in Ost-Zandora – Die ruhelosen Vorfahren"
+    },
+    {
+      "key": "q60211001_00_125",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ東部の問題解決のため\r\n幽玄の霊堂の様子を確認し\r\n脅威となる魔物を討伐する",
+      "source_en": "In order to solve the problem in Eastern Zandora, \r\ncheck the state of the Mysterious Mausoleum and\r\ndefeat threatening monsters",
+      "text": "Geh der Bedrohung in Ost-Zandora nach.\r\nUntersuche das Geheimnisvolle Mausoleum\r\nund bezwinge die Monster, die dort ihr Unwesen treiben."
+    },
+    {
+      "key": "q60211001_00_1927",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ゾマ村のナディアに報告する",
+      "source_en": "Report to Nadia in Zoma village",
+      "text": "Erstatte Nadia in Zoma Bericht."
+    },
+    {
+      "key": "q60211001_00_1928",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "幽玄の霊堂へ向かい様子を確認する",
+      "source_en": "Head to the Mysterious Mausoleum to see what's going on",
+      "text": "Geh zum Geheimnisvollen Mausoleum und sieh nach, was dort vor sich geht."
+    },
+    {
+      "key": "q60211001_00_1929",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる魔物を討伐する",
+      "source_en": "Defeat the demon threat",
+      "text": "Besiege das Monster, von dem die Gefahr ausgeht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

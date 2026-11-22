@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20095006_00.gmd",
+  "arc_path": "\\quest\\q20095006.arc",
+  "entries": [
+    {
+      "key": "q20095006_00_205",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "殺戮の魔道鉄騎",
+      "source_en": "The Murderous Magick Cavalry",
+      "text": "Die mörderische Eisenreiterei"
+    },
+    {
+      "key": "q20095006_00_205",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20095006_00_205",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>方面から\r\n原因不明の怪音や震動が続いているとの報せがあった",
+      "source_en": "There have been reports of unexplained noises \r\nand tremors in the regions around\r\n<NAME AREA>",
+      "text": "Es gibt Berichte von rätselhaften Geräuschen\r\nund anhaltenden Erschütterungen\r\nin der Umgebung von <NAME AREA>."
+    },
+    {
+      "key": "q20095006_00_205",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "いや、ほんと不思議な話だよ\r\nあんな大きな地鳴りの音が、辺りの山々にこだまして\r\nこれは山が崩れると、必死で身を伏せていたんだが\r\n地鳴りは移動して去って行っちまったんだ\r\nとにかくあの場所には気をつけることだね",
+      "source_en": "I tell of a truly mysterious tale.\r\nAn enormous rumbling sound echoed off\r\nthe surrounding mountains, and I ducked down,\r\nthinking the mountains would collapse. \r\nBut the ground-shaking tremors changed course\r\nand eventually disappeared...\r\nJust be cautious around that area.",
+      "text": "Ich muss dir etwas Seltsames erzählen.\r\nAuf einmal hallte so ein gewaltiges Grollen\r\nvon den Bergen wider, dass ich mich duckte.\r\nIch dachte, die Berge stürzen gleich ein.\r\nDoch dann wanderte das Beben in eine andere Richtung\r\nund hörte irgendwann auf …\r\nSei bloß vorsichtig in dieser Gegend."
+    },
+    {
+      "key": "q20095006_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

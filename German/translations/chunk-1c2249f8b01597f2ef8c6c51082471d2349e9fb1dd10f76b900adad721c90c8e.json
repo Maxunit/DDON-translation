@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60207001_00.gmd",
+  "arc_path": "\\quest\\q60207001.arc",
+  "entries": [
+    {
+      "key": "q60207001_00_138",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ディナン深層林　試練：絶対零度の咆哮",
+      "source_en": "DW Trial: A Roar of Absolute Zero",
+      "text": "Prüfung im Deenan-Wald – Ein Brüllen am absoluten Nullpunkt"
+    },
+    {
+      "key": "q60207001_00_138",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ディナン深層林の問題解決のため\r\n飛天のテラスを調査し\r\nウィルムを討伐する",
+      "source_en": "Resolve the Deenan Woods problem by\r\nexploring the Soaring Sky Terrace\r\nand defeating the Wyrm",
+      "text": "Geh der Bedrohung im Deenan-Wald nach.\r\nUntersuche die Himmelsterrasse\r\nund besiege den Wyrm."
+    },
+    {
+      "key": "q60207001_00_1965",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "秘弓師の住居のロンドジールに報告する",
+      "source_en": "Report to Rondejeel in the Bowmaster's Secret Lodge",
+      "text": "Erstatte Rondejeel im Versteck des Bogenmeisters Bericht."
+    },
+    {
+      "key": "q60207001_00_1966",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "飛天のテラスへ向かいウィルムを発見する",
+      "source_en": "Head to Soaring Sky Terrace and find the Wyrm",
+      "text": "Geh zur Himmelsterrasse und suche den Wyrm."
+    },
+    {
+      "key": "q60207001_00_1967",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ウィルムを討伐する",
+      "source_en": "Defeat the Wyrm",
+      "text": "Besiege den Wyrm."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

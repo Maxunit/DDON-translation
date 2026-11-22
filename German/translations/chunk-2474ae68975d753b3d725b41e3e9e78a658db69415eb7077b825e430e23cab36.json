@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50400015.gmd",
+  "arc_path": "\\quest\\q50400015.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ボーナス報酬条件達成！\r\nミッションクリア時の報酬が追加されます",
+      "source_en": "Bonus Reward requirement achieved!\r\nBonus rewards will be added\r\nupon mission completion.",
+      "text": "Voraussetzung für die Bonusbelohnung erfüllt!\r\nDu erhältst sie,\r\nsobald du die Mission abschließt."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ボーナス報酬条件達成！\r\nミッションクリア時の報酬が追加されます",
+      "source_en": "Bonus Reward requirement achieved!\r\nBonus rewards will be added\r\nupon mission completion.",
+      "text": "Voraussetzung für die Bonusbelohnung erfüllt!\r\nDu erhältst sie,\r\nsobald du die Mission abschließt."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

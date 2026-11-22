@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q20995006.gmd",
+  "arc_path": "\\quest\\q20995006.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "あの、お願いしているアイテムは\r\nいかがでしょうか？",
+      "source_en": "",
+      "text": "Sagt, habt Ihr den Gegenstand gefunden,\r\num den ich Euch gebeten habe?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "どうしても、\"あれ\"の錬成に必要なのです――！",
+      "source_en": "",
+      "text": "Ich brauche ihn unbedingt, um „das“ herzustellen …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "これはまさに、探していた品！\r\nありがとうございます\r\nこれでようやく\"あれ\"が――ウフフ――！",
+      "source_en": "",
+      "text": "Genau das habe ich gesucht!\r\nVielen Dank.\r\nJetzt kann ich endlich „das“ … Hihi …"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "もし――、見慣れぬ方\r\nあるアイテムを私に譲ってはいただけないでしょうか",
+      "source_en": "",
+      "text": "Verzeiht, ich habe Euch hier noch nie gesehen.\r\nWürdet Ihr mir einen bestimmten Gegenstand überlassen?"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "\"あれ\"の錬成にどうしても必要な\r\n欠かせぬものなのです",
+      "source_en": "",
+      "text": "Ich will etwas herstellen.\r\nOhne diesen Gegenstand geht es einfach nicht."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "どうか――何卒お願いします\r\n相応の対価はお支払いしますので",
+      "source_en": "",
+      "text": "Bitte, ich bin auf Eure Hilfe angewiesen.\r\nIch bezahle Euch auch gut dafür."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

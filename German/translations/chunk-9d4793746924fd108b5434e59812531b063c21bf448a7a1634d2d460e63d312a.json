@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20085001_00.gmd",
+  "arc_path": "\\quest\\q20085001.arc",
+  "entries": [
+    {
+      "key": "q20085001_00_191",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "屈強なる戦鬼達",
+      "source_en": "The Mighty Brutes",
+      "text": "Die gewaltigen Bestien"
+    },
+    {
+      "key": "q20085001_00_191",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20085001_00_191",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>から緊急報告\r\n至急、魔物らしき脅威を排除されたし、とのこと",
+      "source_en": "Urgent report from <NAME AREA>.\r\nIt is imperative to swiftly remove\r\nthe presenting threat of monsters.",
+      "text": "Dringende Meldung aus <NAME AREA>.\r\nEin Monster bedroht die Gegend.\r\nEs muss schnellstmöglich aufgehalten werden."
+    },
+    {
+      "key": "q20085001_00_191",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "危険な魔物が街道に出没し、幾人かの\r\n旅人や冒険者が犠牲になってしまったようだ\r\nかく言う私も寸前のところで\r\n命からがら逃げおおせてきた\r\n一刻も早く、魔物を討伐し街道の安全を回復されたし",
+      "source_en": "Dangerous monsters have been appearing \r\non the roads, causing several travelers\r\nand adventurers to fall victim to their ambushes.\r\nEven I barely escaped with my life.\r\nPlease dispatch a force to eliminate these monsters\r\nand restore safety to the roads as soon as possible.",
+      "text": "Gefährliche Monster tauchen auf den Straßen auf.\r\nSie haben schon mehrere Reisende\r\nund Abenteurer aus dem Hinterhalt angegriffen.\r\nIch bin selbst nur knapp mit dem Leben davongekommen.\r\nSchickt bitte so schnell wie möglich jemanden,\r\nder die Monster besiegt und die Straßen wieder sicher macht."
+    },
+    {
+      "key": "q20085001_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

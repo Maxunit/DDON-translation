@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50400013_00.gmd",
+  "arc_path": "\\quest\\q50400013.arc",
+  "entries": [
+    {
+      "key": "q50400013_00_106",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "砦に轟く戦鬼連合",
+      "source_en": "Demon Forces Thundering Through the Fortress",
+      "text": "Die Orkallianz stürmt die Festung"
+    },
+    {
+      "key": "q50400013_00_106",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n大海を超えて集うオークを打ち滅ぼせ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nUnleash destruction upon the Orcs\r\nthat gather across the oceans!",
+      "text": "Ihr kampferprobten Erweckten, Schwingen eures Drachen!\r\nOrks sind über das Meer gekommen und haben sich verbündet.\r\nZerschlagt ihre Allianz!"
+    },
+    {
+      "key": "q50400013_00_5242",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "オーク連合を壊滅させる",
+      "source_en": "Destroy the Orc alliance",
+      "text": "Zerschlage die Orkallianz."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

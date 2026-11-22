@@ -3,12 +3,44 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "STAGE_NAME_58",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダ民の住居",
+      "source_en": "Mergodan Residence",
+      "text": "Wohnhaus in Mergoda"
+    },
+    {
+      "key": "STAGE_NAME_59",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダ民の住居",
+      "source_en": "Mergodan Residence",
+      "text": "Wohnhaus in Mergoda"
+    },
+    {
+      "key": "STAGE_NAME_62",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "さる錬金術師の家",
+      "source_en": "An Alchemist's Home",
+      "text": "Haus eines Alchemisten"
+    },
+    {
       "key": "STAGE_NAME_63",
       "read_index": "60",
       "tag_source": "source_en",
       "source_jp": "テオドール錬金工房",
       "source_en": "Theodor's Alchemy Workshop",
       "text": "Theodors Alchemiewerkstatt"
+    },
+    {
+      "key": "STAGE_NAME_64",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "エリクシル精製室",
+      "source_en": "Elixir Refining Chamber",
+      "text": "Kammer zur Elixierveredelung"
     },
     {
       "key": "STAGE_NAME_68",
@@ -43,12 +75,84 @@
       "text": "Tempel der Läuterung: Außenpavillon"
     },
     {
+      "key": "STAGE_NAME_92",
+      "read_index": "89",
+      "tag_source": "source_en",
+      "source_jp": "死王の迷宮",
+      "source_en": "Dead Lord's Labyrinth",
+      "text": "Labyrinth des Totenkönigs"
+    },
+    {
+      "key": "STAGE_NAME_93",
+      "read_index": "90",
+      "tag_source": "source_en",
+      "source_jp": "怨嗟の祠",
+      "source_en": "Shrine of Resentment",
+      "text": "Schrein des Grolls"
+    },
+    {
+      "key": "STAGE_NAME_94",
+      "read_index": "91",
+      "tag_source": "source_en",
+      "source_jp": "虚ろの小堂",
+      "source_en": "Empty Chapel",
+      "text": "Verlassene Kapelle"
+    },
+    {
+      "key": "STAGE_NAME_97",
+      "read_index": "94",
+      "tag_source": "source_en",
+      "source_jp": "森民の地下道",
+      "source_en": "Forest People's Tunnel",
+      "text": "Tunnel des Waldvolks"
+    },
+    {
       "key": "STAGE_NAME_105",
       "read_index": "102",
       "tag_source": "source_en",
       "source_jp": "秘弓師の住居",
       "source_en": "Bowmaster's Secret Lodge",
       "text": "Versteck des Bogenmeisters"
+    },
+    {
+      "key": "STAGE_NAME_110",
+      "read_index": "107",
+      "tag_source": "source_en",
+      "source_jp": "深緑のテラス",
+      "source_en": "Dark Green Terrace",
+      "text": "Tiefgrüne Terrasse"
+    },
+    {
+      "key": "STAGE_NAME_111",
+      "read_index": "108",
+      "tag_source": "source_en",
+      "source_jp": "霊泉のテラス",
+      "source_en": "Sacred Spring Terrace",
+      "text": "Terrasse der Heiligen Quelle"
+    },
+    {
+      "key": "STAGE_NAME_112",
+      "read_index": "109",
+      "tag_source": "source_en",
+      "source_jp": "蒼葉のテラス",
+      "source_en": "Greenleaf Terrace",
+      "text": "Grünblattterrasse"
+    },
+    {
+      "key": "STAGE_NAME_113",
+      "read_index": "110",
+      "tag_source": "source_en",
+      "source_jp": "斜陽のテラス",
+      "source_en": "Sunset Terrace",
+      "text": "Terrasse der Abendsonne"
+    },
+    {
+      "key": "STAGE_NAME_114",
+      "read_index": "111",
+      "tag_source": "source_en",
+      "source_jp": "月影のテラス",
+      "source_en": "Moonlight Terrace",
+      "text": "Terrasse im Mondschein"
     }
   ],
   "schema_version": 1,

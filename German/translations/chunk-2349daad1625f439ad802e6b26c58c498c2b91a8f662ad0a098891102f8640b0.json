@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20065003_00.gmd",
+  "arc_path": "\\quest\\q20065003.arc",
+  "entries": [
+    {
+      "key": "q20065003_00_142",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "銀色の悪鬼",
+      "source_en": "The Silver Fiend",
+      "text": "Die silberne Bestie"
+    },
+    {
+      "key": "q20065003_00_142",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20065003_00_142",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>で\r\n魔物のものと思われる徘徊痕跡が見つかった",
+      "source_en": "In <NAME AREA>, \r\ntraces of what seem to be wandering \r\nmonsters have been found.",
+      "text": "In der Gegend um <NAME AREA>\r\nwurden Spuren entdeckt,\r\ndie wohl von umherstreifenden Monstern stammen."
+    },
+    {
+      "key": "q20065003_00_142",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "あの魔物の肉は、強力な毒にも\r\n病気を治す妙薬にもなり得る貴重な物です\r\n多くの病で苦しんでいる、森の子供たちを救える\r\nなくてはならない材料です\r\nどうか、ご討伐願いたい",
+      "source_en": "That monster's flesh is a valuable resource,\r\ncapable of becoming a powerful poison or a\r\nmiraculous cure for diseases.\r\nIt is essential for saving the children of the\r\nforest suffering from many ailments.\r\nPlease, I ask you to defeat it.",
+      "text": "Das Fleisch dieses Monsters ist kostbar.\r\nDaraus lässt sich ein starkes Gift ebenso herstellen\r\nwie ein wirksames Heilmittel.\r\nOhne dieses Mittel haben die Kinder des Waldes,\r\ndie an allerlei Krankheiten leiden, keine Aussicht auf Heilung.\r\nBitte besiege das Monster für uns."
+    },
+    {
+      "key": "q20065003_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

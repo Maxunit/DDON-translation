@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20995000_00.gmd",
+  "arc_path": "\\quest\\q20995000.arc",
+  "entries": [
+    {
+      "key": "q20995000_00_271",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "アルケム・エクストラクトを求めて",
+      "source_en": "Seeking Alchemical Extract",
+      "text": "Auf der Suche nach dem Alchemieextrakt"
+    },
+    {
+      "key": "q20995000_00_271",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund bezwinge den Gegner."
+    },
+    {
+      "key": "q20995000_00_271",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from <NAME AREA>, \r\nenemy forces have temporarily increased, \r\nand the situation is quite dangerous.",
+      "text": "Aus <NAME AREA> wird gemeldet,\r\ndass die Monster vorübergehend an Stärke gewonnen haben.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q20995000_00_271",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "《封じの玄室》――あの場所は、\"かの者\"の影響を\r\nもっとも強く受けた、秘術と関わりの深き場所――\r\n錬魔や黄金竜の力とした命の力を、かの者が\r\nどのように転用するかは我々にも分かりません\r\nただ、想像だにできぬ恐ろしいその企みが成就\r\nする前に、手を打てればいいのですが――",
+      "source_en": "The \"Sealed Sepulcher\"...\r\nThat place is a location deeply entwined\r\nwith ancient magick, heavily influenced\r\nby \"that one\"―― We do not know\r\nhow they will repurpose the power of alchemy\r\nand the Golden Dragon's terrible might. \r\nWe can only hope to act before their unimaginable\r\nand destructive scheme comes to fruition.",
+      "text": "Die Versiegelte Grabkammer …\r\nDort finden sich die Spuren einer alten Magie,\r\ngeprägt von dem, den wir nur zu gut kennen …\r\nWir wissen nicht, was er mit der Alchemie\r\nund der furchtbaren Macht des Goldenen Drachen vorhat.\r\nWir können nur hoffen,\r\ndass wir seinen Plan vereiteln,\r\nehe es zu einer Katastrophe kommt."
+    },
+    {
+      "key": "q20995000_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20995000_00_804",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20995000_00_1149",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜禊の神殿＞で邪悪な気配の源を探る",
+      "source_en": "Investigate the source of the evil presence\r\nin the [Temple of Purification].",
+      "text": "Finde heraus, was die unheilvolle Präsenz\r\nim Tempel der Läuterung verursacht."
+    },
+    {
+      "key": "q20995000_00_1150",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "邪悪な魔物を討伐する",
+      "source_en": "Defeat the foe(s)",
+      "text": "Besiege die Gegner."
+    },
+    {
+      "key": "q20995000_00_1151",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "＜メルゴダ王宮層＞でさらなる邪悪な気配の源を探る",
+      "source_en": "Investigate the source of further evil aura\r\nin the [Mergoda Royal Palace Level].",
+      "text": "Finde heraus, woher die neue unheilvolle Präsenz\r\nauf der Palastebene von Mergoda stammt."
+    },
+    {
+      "key": "q20995000_00_1152",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "邪悪の根源である敵を討伐する",
+      "source_en": "Defeat the enemy that is the source of evil",
+      "text": "Besiege den Gegner, von dem das Unheil ausgeht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

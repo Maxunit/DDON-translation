@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20990002_00.gmd",
+  "arc_path": "\\quest\\q20990002.arc",
+  "entries": [
+    {
+      "key": "q20990002_00_284",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "眠りし叡智",
+      "source_en": "A Deathly Wisdom",
+      "text": "Schlummerndes Wissen"
+    },
+    {
+      "key": "q20990002_00_284",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アクタイオンの願いを聞き入れ\r\nメルゴダ王宮に残る資料を回収する",
+      "source_en": "Fulfill Actaeon's request by collecting the documents\r\nleft in the Mergoda Royal Palace.",
+      "text": "Geh auf Actaeons Bitte ein\r\nund birg die Unterlagen im Königspalast von Mergoda."
+    },
+    {
+      "key": "q20990002_00_284",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "協力者を求める者がいるとの報告が\r\n<NAME AREA>から届いている",
+      "source_en": "We have received a report from <NAME AREA>\r\nthat someone is looking for a collaborator.",
+      "text": "Aus <NAME AREA> kam die Nachricht,\r\ndass jemand Unterstützung sucht."
+    },
+    {
+      "key": "q20990002_00_284",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ここメルゴダの廃墟と化した区画には\r\nメルゴダ最盛期に蓄えられた\r\n知恵と知識が書き記された書物が\r\n今なお多く眠っています\r\nその知識の回収に、手を貸して頂ける方は\r\nアクタイオンを、お尋ねください",
+      "source_en": "In the ruined sections of Mergoda, \r\nmany books filled with the wisdom \r\nand knowledge from Mergoda's \r\ngolden age still lie hidden. \r\nThose willing to assist in \r\nrecovering this knowledge \r\nshould seek out Actaeon.",
+      "text": "In den verfallenen Teilen Mergodas\r\nliegen noch viele Bücher verborgen.\r\nIn ihnen stehen die Erkenntnisse,\r\ndie man zur Blütezeit der Stadt\r\nhier gesammelt hat.\r\nWenn du helfen willst, diese Schriften zu bergen,\r\nwende dich an Actaeon."
+    },
+    {
+      "key": "q20990002_00_804",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20990002_00_1062",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "亡都メルゴダで錬金術士の日誌を探す（残り５）",
+      "source_en": "Find the journals of the Alchemist in Mergoda Ruins (5 left)",
+      "text": "Suche in den Ruinen von Mergoda nach den Tagebüchern des Alchemisten (noch 5)."
+    },
+    {
+      "key": "q20990002_00_1063",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "亡都メルゴダで錬金術士の日誌を探す（残り４）",
+      "source_en": "Find the journals of the Alchemist in Mergoda Ruins (4 left)",
+      "text": "Suche in den Ruinen von Mergoda nach den Tagebüchern des Alchemisten (noch 4)."
+    },
+    {
+      "key": "q20990002_00_1102",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "＜亡都メルゴダ＞で錬金術士の日誌を探す（残り１）",
+      "source_en": "Find the journals of the Alchemist in Mergoda Ruins (1 left)",
+      "text": "Suche in den Ruinen von Mergoda nach dem letzten Tagebuch des Alchemisten."
+    },
+    {
+      "key": "q20990002_00_1103",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "＜亡都メルゴダ＞で錬金術士の日誌を探す（残り２）",
+      "source_en": "Find the journals of the Alchemist in Mergoda Ruins (2 left)",
+      "text": "Suche in den Ruinen von Mergoda nach den Tagebüchern des Alchemisten (noch 2)."
+    },
+    {
+      "key": "q20990002_00_1104",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜亡都メルゴダ＞で錬金術士の日誌を探す（残り３）",
+      "source_en": "Find the journals of the Alchemist in Mergoda Ruins (3 left)",
+      "text": "Suche in den Ruinen von Mergoda nach den Tagebüchern des Alchemisten (noch 3)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

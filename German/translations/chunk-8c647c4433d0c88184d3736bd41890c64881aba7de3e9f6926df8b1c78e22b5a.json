@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60100001_00.gmd",
+  "arc_path": "\\quest\\q60100001.arc",
+  "entries": [
+    {
+      "key": "q60100001_00_71",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ禁域　試練：目覚めし兵器",
+      "source_en": "ZW Trial: To Arms",
+      "text": "Prüfung im Zandora-Sperrgebiet – Die erwachte Waffe"
+    },
+    {
+      "key": "q60100001_00_71",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ禁域の問題解決のため\r\nバンデッドホーントに出現した\r\n巨人兵を破壊する",
+      "source_en": "To solve the issue in the Zandora Wastelands, \r\ndefeat the Giant Warriors \r\nthat have appeared in the Ironclad Haunt.",
+      "text": "Untersuche die Bedrohung im Zandora-Sperrgebiet.\r\nBesiege die Riesenkrieger,\r\ndie im Lager der Eisenritter aufgetaucht sind."
+    },
+    {
+      "key": "q60100001_00_1436",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "バンデッドホーントに向かい巨人兵を発見する",
+      "source_en": "Head to the Ironclad Haunt and discover the Giant Warriors",
+      "text": "Geh zum Lager der Eisenritter und spüre die Riesenkrieger auf."
+    },
+    {
+      "key": "q60100001_00_1437",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる敵を掃討する",
+      "source_en": "Wipe out threatening enemies",
+      "text": "Besiege die gefährlichen Gegner."
+    },
+    {
+      "key": "q60100001_00_1438",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "標の祠のダイオンに報告する",
+      "source_en": "Report to Dian in the shrine",
+      "text": "Erstatte Dian am Schrein Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20990001_00.gmd",
+  "arc_path": "\\quest\\q20990001.arc",
+  "entries": [
+    {
+      "key": "q20990001_00_268",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "乖離と補完",
+      "source_en": "Separation and Completion",
+      "text": "Getrennte Wege, neue Möglichkeiten"
+    },
+    {
+      "key": "q20990001_00_268",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "テオドールの願いを聞き入れ\r\n望む物品を集める",
+      "source_en": "Heed Theodor's wish and gather the desired items.",
+      "text": "Geh auf Theodors Bitte ein und besorg die gesuchten Gegenstände."
+    },
+    {
+      "key": "q20990001_00_268",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>の何処かに\r\n覚者の探索能力を見込み、相談したい者がいるという",
+      "source_en": "There is someone somewhere\r\nin <NAME AREA>\r\nwho seeks the assistance of an Arisen.",
+      "text": "Es heißt, irgendwo\r\nin <NAME AREA> sucht jemand\r\ndie Hilfe eines Erweckten."
+    },
+    {
+      "key": "q20990001_00_268",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "この前に、テオドールさんとお話しした際\r\n急ぎの用向きではなさそうでしたが\r\n何か頼みごとを、依頼できそうな方を\r\nお探しのようでした\r\nなんとなくですが、どんな用向きかは\r\n想像できちゃいますけどね",
+      "source_en": "The other day, when I spoke with Theodor, \r\nit didn't seem like an urgent matter, \r\nbut he was looking for someone \r\nto take on his request. I have a hunch\r\nabout what the matter might be.",
+      "text": "Als ich neulich mit Theodor sprach,\r\nschien es nicht besonders zu eilen.\r\nDoch er suchte jemanden,\r\nder einen Auftrag für ihn übernimmt.\r\nIch ahne schon, worum es gehen könnte."
+    },
+    {
+      "key": "q20990001_00_1060",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、テオドールに渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to Theodor (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> ×<SQDI NUM> zu Theodor (noch <SQDI DNUM>)."
+    },
+    {
+      "key": "q20990001_00_1060",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、テオドールに渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to Theodor (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> ×<SQDI NUM> zu Theodor (noch <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

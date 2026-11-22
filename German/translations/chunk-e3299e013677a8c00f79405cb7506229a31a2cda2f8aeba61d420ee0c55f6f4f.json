@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20085006_00.gmd",
+  "arc_path": "\\quest\\q20085006.arc",
+  "entries": [
+    {
+      "key": "q20085006_00_196",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "襲い来るアギト",
+      "source_en": "The Attacking Bite",
+      "text": "Das zupackende Maul"
+    },
+    {
+      "key": "q20085006_00_196",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund bezwinge den Gegner."
+    },
+    {
+      "key": "q20085006_00_196",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの目撃情報を整理中\r\nおそらく強力な魔物の関与が濃厚とされる",
+      "source_en": "We are currently gathering eyewitness reports\r\nfrom <NAME AREA>.\r\nIt is highly likely that it's due\r\nto powerful enemy involvement.",
+      "text": "Wir sammeln zurzeit Berichte von Augenzeugen\r\naus <NAME AREA>.\r\nVermutlich haben mächtige Gegner\r\ndamit zu tun."
+    },
+    {
+      "key": "q20085006_00_196",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "誰も近付きなさるな、あの場所には\r\n遠き昔に滅びた一族が\r\n暗き闇から呼び込んだ\r\n人では到底、敵わない\r\n恐ろしい墓守がおるのじゃからな",
+      "source_en": "No one should approach that place.\r\nAn ancient clan, long gone,\r\nsummoned from the dark abyss\r\ncreatures no mere human can defeat.\r\nThere are terrifying tomb keepers there.",
+      "text": "Niemand sollte sich diesem Ort nähern.\r\nEinst lebte hier ein Volk, das längst verschwunden ist.\r\nEs rief Wesen aus der tiefsten Finsternis herbei,\r\ndie kein gewöhnlicher Mensch besiegen kann.\r\nSchreckliche Wächter hüten dort die Gräber."
+    },
+    {
+      "key": "q20085006_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20085006_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20085006_00_1139",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定の場所で魔物の正体を暴く",
+      "source_en": "Search for the enemy at the specified location",
+      "text": "Suche den Gegner am angegebenen Ort."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

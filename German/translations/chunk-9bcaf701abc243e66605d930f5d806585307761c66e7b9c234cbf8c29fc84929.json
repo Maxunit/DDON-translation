@@ -3,12 +3,172 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "SPOT_NAME_568",
+      "read_index": "118",
+      "tag_source": "source_en",
+      "source_jp": "旧地下実験所",
+      "source_en": "Old Underground Laboratory",
+      "text": "Altes unterirdisches Labor"
+    },
+    {
+      "key": "SPOT_NAME_571",
+      "read_index": "121",
+      "tag_source": "source_en",
+      "source_jp": "標の祠　ミスリウ森林深部",
+      "source_en": "Mysree Grove Shrine",
+      "text": "Schrein im tiefen Mysree-Wald"
+    },
+    {
+      "key": "SPOT_NAME_573",
+      "read_index": "123",
+      "tag_source": "source_en",
+      "source_jp": "標の祠　ザンドラ禁域",
+      "source_en": "Zandora Wastelands Shrine",
+      "text": "Schrein im Zandora-Sperrgebiet"
+    },
+    {
+      "key": "SPOT_NAME_574",
+      "read_index": "124",
+      "tag_source": "source_en",
+      "source_jp": "森の一軒家",
+      "source_en": "Lone House in the Forest",
+      "text": "Einsames Haus im Wald"
+    },
+    {
+      "key": "SPOT_NAME_575",
+      "read_index": "125",
+      "tag_source": "source_en",
+      "source_jp": "イヴァンの山小屋",
+      "source_en": "Ivan's Lodge",
+      "text": "Ivans Jagdhütte"
+    },
+    {
+      "key": "SPOT_NAME_577",
+      "read_index": "127",
+      "tag_source": "source_en",
+      "source_jp": "隠者の家",
+      "source_en": "Hermit's House",
+      "text": "Haus des Einsiedlers"
+    },
+    {
+      "key": "SPOT_NAME_592",
+      "read_index": "140",
+      "tag_source": "source_en",
+      "source_jp": "森の廃墟地下",
+      "source_en": "Forest Ruins Cellar",
+      "text": "Keller der Waldruine"
+    },
+    {
+      "key": "SPOT_NAME_595",
+      "read_index": "143",
+      "tag_source": "source_en",
+      "source_jp": "蒼水路",
+      "source_en": "Blue Waterway",
+      "text": "Blauer Wasserweg"
+    },
+    {
+      "key": "SPOT_NAME_604",
+      "read_index": "150",
+      "tag_source": "source_en",
+      "source_jp": "術師の地下泉",
+      "source_en": "Arcane Font",
+      "text": "Unterirdische Quelle des Magiers"
+    },
+    {
+      "key": "SPOT_NAME_605",
+      "read_index": "151",
+      "tag_source": "source_en",
+      "source_jp": "灯台の地下倉庫",
+      "source_en": "Lighthouse Cellar",
+      "text": "Keller des Leuchtturms"
+    },
+    {
+      "key": "SPOT_NAME_606",
+      "read_index": "152",
+      "tag_source": "source_en",
+      "source_jp": "西ミスリウ橋",
+      "source_en": "West Mysree Bridge",
+      "text": "Westbrücke von Mysree"
+    },
+    {
+      "key": "SPOT_NAME_608",
+      "read_index": "154",
+      "tag_source": "source_en",
+      "source_jp": "湖底連絡路",
+      "source_en": "Lakebottom Connecting Passage",
+      "text": "Verbindungsgang unter dem See"
+    },
+    {
       "key": "SPOT_NAME_609",
       "read_index": "155",
       "tag_source": "source_en",
       "source_jp": "封じの玄室",
       "source_en": "Sealed Sepulcher",
       "text": "Versiegelte Grabkammer"
+    },
+    {
+      "key": "SPOT_NAME_610",
+      "read_index": "156",
+      "tag_source": "source_en",
+      "source_jp": "錬金研究室",
+      "source_en": "Alchemy Laboratory",
+      "text": "Alchemielabor"
+    },
+    {
+      "key": "SPOT_NAME_611",
+      "read_index": "157",
+      "tag_source": "source_en",
+      "source_jp": "宮殿前広場",
+      "source_en": "Palace Plaza",
+      "text": "Palastvorplatz"
+    },
+    {
+      "key": "SPOT_NAME_612",
+      "read_index": "158",
+      "tag_source": "source_en",
+      "source_jp": "メルガン・アルケミデア",
+      "source_en": "Mergan Alchemium",
+      "text": "Mergan-Alchemium"
+    },
+    {
+      "key": "SPOT_NAME_613",
+      "read_index": "159",
+      "tag_source": "source_en",
+      "source_jp": "聖獣の間",
+      "source_en": "Lair of the Holy Beast",
+      "text": "Halle des Heiligen Tiers"
+    },
+    {
+      "key": "SPOT_NAME_622",
+      "read_index": "168",
+      "tag_source": "source_en",
+      "source_jp": "森小人の集落",
+      "source_en": "Forest Goblins' Village",
+      "text": "Siedlung der Waldgoblins"
+    },
+    {
+      "key": "SPOT_NAME_623",
+      "read_index": "169",
+      "tag_source": "source_en",
+      "source_jp": "唸り猿の縄張り",
+      "source_en": "Roaring Ape's Territory",
+      "text": "Revier des Brüllaffen"
+    },
+    {
+      "key": "SPOT_NAME_624",
+      "read_index": "170",
+      "tag_source": "source_en",
+      "source_jp": "肉裂き館",
+      "source_en": "Flesh-rending Hall",
+      "text": "Halle des Fleischreißers"
+    },
+    {
+      "key": "SPOT_NAME_625",
+      "read_index": "171",
+      "tag_source": "source_en",
+      "source_jp": "豚喰いのねぐら",
+      "source_en": "The Pig-Eater's Den",
+      "text": "Bau des Schweinefressers"
     }
   ],
   "schema_version": 1,

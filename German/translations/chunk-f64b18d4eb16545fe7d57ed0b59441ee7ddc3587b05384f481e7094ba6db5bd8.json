@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20050008_00.gmd",
+  "arc_path": "\\quest\\q20050008.arc",
+  "entries": [
+    {
+      "key": "q20050008_00_253",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "美食家の森林保護",
+      "source_en": "A Gourmand's Forest Protection",
+      "text": "Ein Feinschmecker schützt den Wald"
+    },
+    {
+      "key": "q20050008_00_253",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n指定の物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besorg die gesuchten Gegenstände."
+    },
+    {
+      "key": "q20050008_00_253",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>から\r\n悩みを解決したいという相談の声が届いている",
+      "source_en": "Voices from <NAME AREA>\r\nhave reached us, seeking assistance to solve their problems.",
+      "text": "Aus <NAME AREA> hat uns die Nachricht erreicht,\r\ndass man dort Hilfe bei einem Problem braucht."
+    },
+    {
+      "key": "q20050008_00_253",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "我が主オーギュストの所在をご存じありませんか？\r\nおそらくレスタニア中を巡って\r\n珍しい食材集めに興じておられるのでしょうが\r\nここまで長い不在は初めてのことで――",
+      "source_en": "Do you know the whereabouts of our master August?\r\nHe is likely travelling throughout Lestania in \r\nsearch of rare ingredients \r\nfor his culinary pursuits,\r\nbut this extended absence is unprecedented...",
+      "text": "Weißt du, wo unser Meister August steckt?\r\nVermutlich reist er gerade durch Lestania\r\nund sucht nach seltenen Zutaten\r\nfür seine Gerichte.\r\nAber so lange war er noch nie fort …"
+    },
+    {
+      "key": "q20050008_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20050008_00_1010",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "周辺の大木の様子を調査する（残り３）",
+      "source_en": "Retrieve the items near the large trees (3 left)",
+      "text": "Suche bei den großen Bäumen nach den Gegenständen (noch 3)."
+    },
+    {
+      "key": "q20050008_00_1011",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "周辺の大木の様子を調査する（残り１）",
+      "source_en": "Retrieve the items near the large trees (1 left)",
+      "text": "Suche bei den großen Bäumen nach dem letzten Gegenstand."
+    },
+    {
+      "key": "q20050008_00_1012",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "周辺の大木の様子を調査する（残り２）",
+      "source_en": "Retrieve the items near the large trees (2 left)",
+      "text": "Suche bei den großen Bäumen nach den übrigen Gegenständen (noch 2)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

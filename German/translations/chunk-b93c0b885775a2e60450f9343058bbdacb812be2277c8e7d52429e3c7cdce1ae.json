@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20060002_00.gmd",
+  "arc_path": "\\quest\\q20060002.arc",
+  "entries": [
+    {
+      "key": "q20060002_00_49",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "嘆きの下っぱ冒険者",
+      "source_en": "The Grieving Underling",
+      "text": "Ein Abenteurer in der Klemme"
+    },
+    {
+      "key": "q20060002_00_49",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n指定の物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund sammle die gesuchten Gegenstände."
+    },
+    {
+      "key": "q20060002_00_49",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>から\r\n何者かが助けを請うているらしいと報告があった",
+      "source_en": "From <NAME AREA>,\r\nThere are reports of someone who is begging for\r\nhelp",
+      "text": "Aus der Gegend um <NAME AREA>\r\nwird gemeldet, dass dort jemand offenbar dringend\r\nHilfe braucht."
+    },
+    {
+      "key": "q20060002_00_49",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "さっき森でよ\r\n見るからに頼りなさそうなあんちゃんが\r\n声を掛けてきたんだが――\r\nま、関わらないほうが良さそうだ\r\nどう見たって、そいつ\r\nツキのない面していたからな",
+      "source_en": "Just earlier in the forest, \r\na guy who looked pretty unreliable\r\ncame up and tried to talk to me. \r\nProbably best to avoid him.\r\nHe had the look of someone with bad luck.",
+      "text": "Vorhin im Wald hat mich ein Kerl angesprochen,\r\ndem ich keine fünf Schritte allein zutrauen würde.\r\nEr wollte mir was erzählen …\r\nDa hält man sich besser raus.\r\nMan hat ihm gleich angesehen, dass er das Pech anzieht."
+    },
+    {
+      "key": "q20060002_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20060002_00_1021",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜蒼葉のテラス＞で冒険者の落し物を捜す（残り３）",
+      "source_en": "Search for the items within the Greenleaf Terrace (3 left)",
+      "text": "Such auf der Grünblattterrasse nach den verlorenen Sachen des Abenteurers (noch 3)."
+    },
+    {
+      "key": "q20060002_00_1022",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜蒼葉のテラス＞で冒険者の落し物を捜す（残り２）",
+      "source_en": "Search for the items within the Greenleaf Terrace (2 left)",
+      "text": "Such auf der Grünblattterrasse nach den verlorenen Sachen des Abenteurers (noch 2)."
+    },
+    {
+      "key": "q20060002_00_1109",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜蒼葉のテラス＞で冒険者の落し物を捜す（残り１）",
+      "source_en": "Search for the items within the Greenleaf Terrace (1 left)",
+      "text": "Such auf der Grünblattterrasse nach den verlorenen Sachen des Abenteurers (noch 1)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area10_spot_info.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "レスタニア最北の《禁じられた地》\r\nかつて黄金都市と謳われたメルゴダは大地ごと\r\n消失しており、深く抉れた大穴だけがその痕跡を\r\n示している。錬金技術で造られた歪な半生物は\r\n大地に残され、今なお徘徊し続けているという",
+      "source_en": "North of Lestania lies the Forbidden Land,\r\nMergoda, once hailed as the Golden City.\r\nHowever, it has completely disappeared,\r\nleaving only a deep, infinite hole in its place.\r\nTwisted, semi-living creatures created\r\nthrough alchemy remain on the land,\r\nstill wandering to this day.",
+      "text": "Im äußersten Norden Lestanias liegt das verbotene Land.\r\nMergoda, einst als Goldene Stadt gerühmt,\r\nverschwand mitsamt dem Boden, auf dem es stand.\r\nNur ein tiefer Abgrund zeugt noch von der Stadt.\r\nDie von Alchemisten erschaffenen Kreaturen\r\nblieben zurück. Halb tot, halb lebendig\r\nstreifen sie bis heute durch die Gegend."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "旧時代、各地に祭られた白竜の祭壇の一つ\r\n古いポーン、ダイオンが百年以上に渡り\r\n護り続けている祠。ザンドラ禁域を訪れる\r\n覚者への任務と警鐘を伝えるための場でもある",
+      "source_en": "One of the altars of the White Dragon,\r\nwhich was worshipped in various regions\r\nin ancient times. The old Pawn, Dian,\r\nhas been protecting this shrine\r\nfor over a hundred years.\r\nIt is also a place to convey missions\r\nand warnings to the Arisen\r\nwho visit the Zandora Wastelands.",
+      "text": "Einer der Altäre des Weißen Drachen,\r\nder einst in vielen Gegenden verehrt wurde.\r\nDer alte Vasall Dian wacht\r\nseit über hundert Jahren\r\nüber diesen Schrein.\r\nEr gibt den Erweckten,\r\ndie das Zandora-Sperrgebiet aufsuchen,\r\nAufträge und Warnungen mit auf den Weg."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "古い時代の謎に魅せられ、世俗を捨てた隠者が\r\n一人で住む家。隠者はたびたび依頼の品や\r\n問題について、祠に依頼を寄せているようだ",
+      "source_en": "A hermit who was captivated by the mysteries\r\nof ancient times, and who abandoned\r\nthe secular world, lives alone in a house.\r\nThe hermit often sends requests to the shrine\r\nfor items or issues that need attention.",
+      "text": "Ein Einsiedler lebt allein in diesem Haus.\r\nDie Geheimnisse der alten Zeit fesselten ihn so sehr,\r\ndass er der Welt den Rücken kehrte.\r\nWenn er etwas braucht oder Hilfe sucht,\r\nhinterlässt er seine Bitten häufig am Schrein."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "二つのアーチ状の岩壁に囲まれた谷。そこを\r\nメルゴダを守り続ける錬魔兵団が巡回している\r\n今や、その巡視命令を解ける者はいないため\r\n亡都へ向かうには彼らとの交戦もやむないだろう\r\nまれに、恐るべき女守官が帯同することも",
+      "source_en": "A valley enclosed by two arched rock walls.\r\nThe Mergoda Patrol Corps, dedicated to guarding\r\nMergoda, conducts regular patrols there.\r\nAt present, there is no one capable of revoking\r\ntheir patrol orders, so combat may be inevitable\r\nin order to proceed towards the capital.\r\nOccasionally, a formidable female commander\r\naccompanies them.",
+      "text": "Zwei Felsbögen umschließen das Tal.\r\nEin Trupp, der mit der Bewachung Mergodas betraut ist,\r\nzieht hier regelmäßig seine Runden.\r\nNiemand kann seinen Wachbefehl aufheben.\r\nWer weiter zur Hauptstadt will,\r\nwird sich den Weg womöglich freikämpfen müssen.\r\nGelegentlich werden die Wachen\r\nvon einer gefährlichen Kommandantin angeführt."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラの蛮族が縄張りとする彼らの関所、通称\r\nバンデッドホーントで、鉄の巨人が目撃された\r\n彼らが発掘したものなのか、亡都からやって来た\r\nものかは不明。秘術の流出やバートランドの\r\n新たな脅威となる前に破壊する必要がある",
+      "source_en": "This checkpoint, known as the Ironclad Haunt,\r\nis the territory of Zandora's barbarians.\r\nA giant made of iron was seen there.\r\nIt is unclear whether they discovered it\r\nor if it came from the fallen capital.\r\nIt is necessary to destroy it before it becomes\r\na new threat of leaked secret artes for Betland.",
+      "text": "Das Lager der Eisenritter ist ein Wachposten\r\nim Gebiet der Barbaren von Zandora.\r\nDort wurde ein eiserner Riese gesichtet.\r\nOb die Barbaren ihn ausgegraben haben\r\noder ob er aus der untergegangenen Stadt kam, ist unklar.\r\nEr muss zerstört werden, bevor er Betland bedroht\r\noder die Geheimnisse seiner Erschaffung in falsche Hände geraten."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "禁域南東部の遺跡群には、文化を失い蛮行を\r\n働き生き続けてきた集団が居付いている。彼ら\r\n《ザンドラ・バルバロイ》に交渉や説得は不可能\r\nなため、遭遇時は流血沙汰を覚悟しなければ\r\nならないだろう",
+      "source_en": "In the ruins in the southeastern forbidden area,\r\nthere is a group called the Zandora Barbarians\r\nwho have lost their culture and continue\r\nto engage in savage acts.\r\nNegotiation and persuasion with them\r\nare impossible, so one must be prepared\r\nfor bloodshed if encountered.",
+      "text": "In den Ruinen im Südosten des Sperrgebiets\r\nhaben sich die Barbaren von Zandora niedergelassen.\r\nSie haben ihre einstige Kultur verloren\r\nund leben seit Langem von Überfällen.\r\nMit ihnen kann man weder verhandeln\r\nnoch sie zur Vernunft bringen.\r\nWer ihnen begegnet, muss mit einem Kampf rechnen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "セラー湖北岸の浜辺付近で、オークの残党が\r\n野営を行っているのが確認された\r\nどうやら、ガルドノックを離れた大将級の一派\r\nらしい。新勢力となる前に有力な残党は叩いて\r\nおきたい所だ",
+      "source_en": "Near the beach on the northern shore\r\nof Lake Cera, it has been confirmed\r\nthat remnants of orcs are camping there.\r\nIt is a faction of high-ranking commanders\r\nwho have left Gardnox. We should strike down\r\nthese influential remnants before they become\r\na new force to be reckoned with.",
+      "text": "Nahe dem nördlichen Ufer des Cera-Sees\r\nhaben versprengte Orks ihr Lager aufgeschlagen.\r\nEs handelt sich um ehemalige Befehlshaber\r\naus der Festung Gardnox.\r\nMan sollte sie aufhalten,\r\nehe sie sich neu sammeln\r\nund wieder zu einer Bedrohung werden."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "湿った黒土の谷間に、一頭のナイトメアが飛来した\r\nかつてメルゴダの民が《嘆きのモーラ》と呼び\r\n白竜自らが撃退せしめた恐るべき魔鳥である\r\n放置すれば、レスタニア全土の危機となる\r\n可能性がある",
+      "source_en": "In the moist crevice of black soil,\r\na Nightmare flew in. It was once known\r\nas the \"Wailing Mora\" by the people of Mergoda,\r\na fearsome bird that the White Dragon himself\r\nrepelled at one time. If left unchecked,\r\nit could pose a threat to all of Lestania.",
+      "text": "Ein Nachtmahr ist in die feuchte Kluft aus schwarzer Erde geflogen.\r\nDie Bewohner Mergodas nannten ihn einst\r\ndie „Klagende Mora“.\r\nSelbst der Weiße Drache musste den Unheilsvogel\r\neinst zurückschlagen. Lässt man ihn gewähren,\r\nkönnte er ganz Lestania gefährlich werden."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ禁域の一画、錬金の秘術に\r\n魅せられた者たちが潜み独自の研究を\r\n繰り広げていた場所\r\n現在もその名残の書物などが散乱するが\r\n肝心の研究者たちがどこに消えたかは不明",
+      "source_en": "In a corner of the Zandora Wastelands,\r\nwhere people entranced and fascinated\r\nby the secrets of alchemy hid,\r\nthey carried out their own research.\r\nEven now, remnants of their studies\r\nsuch as books can be found scattered about,\r\nbut the whereabouts of the researchers\r\nthemselves remain unknown.",
+      "text": "Einst versteckten sich hier Alchemisten,\r\ndie von den Geheimnissen ihrer Kunst besessen waren.\r\nAbseits der übrigen Bewohner\r\ngingen sie ihren eigenen Forschungen nach.\r\nIhre Bücher und andere Spuren\r\nihrer Arbeit sind noch hier und da zu finden.\r\nWas aus den Alchemisten wurde,\r\nweiß jedoch niemand."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "禁域のどこかにあるらしい地下泉\r\n祝福を受けた泉は高位の術師が管理していた\r\nそうだが現在はその場所すら定かでない",
+      "source_en": "There seems to be an underground spring\r\nsomewhere in the restricted area.\r\nThe blessed spring was managed\r\nby a high-ranking sorcerer, but now,\r\neven the exact location is uncertain.",
+      "text": "Irgendwo im Sperrgebiet soll\r\neine unterirdische Quelle liegen.\r\nEinst wachte ein hochrangiger Magier\r\nüber das gesegnete Wasser. Heute ist selbst\r\ndie genaue Lage der Quelle ungewiss."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ禁域北端、地上に残った外周部\r\nメルゴダ入り口にあたる区画であり、政治と深く\r\n関わる錬金術研究の中心地であった。そのため\r\n最も警戒すべき場所として、神殿により禁域と\r\nして秘匿されてきた",
+      "source_en": "Located at the northern border\r\nof Zandora Wastelands, this is the section\r\nthat holds the entrance to Mergoda.\r\nIt was the hub of alchemized research\r\nclosely intertwined with politics.\r\nAs a result, it has been concealed\r\nas a forbidden area by the Temple,\r\nmaking it the most guarded of places.",
+      "text": "Am Nordrand des Zandora-Sperrgebiets\r\nliegt der Teil der Stadt,\r\nder an der Oberfläche zurückblieb.\r\nHier führt der Weg nach Mergoda.\r\nEinst war der Bezirk das Zentrum der alchemistischen Forschung,\r\ndie eng mit der Herrschaft verbunden war.\r\nDer Tempel erklärte ihn zum Sperrgebiet\r\nund hielt seine Lage streng geheim."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ禁域を東西に結ぶ大地下水路\r\nセラー湖の水をメルゴダへ送るため整備された\r\n水路であったが、現在は恐ろしい魔物の潜む\r\n大迷路と化している",
+      "source_en": "The Underground Waterway that connects\r\nthe Zandora Wastelands from east to west.\r\nWas originally constructed to transport water\r\nfrom Lake Cera to Mergoda.\r\nHowever, it has now transformed into\r\na terrifying labyrinth, completely infested\r\nwith dangerous enemies.",
+      "text": "Die unterirdischen Kanäle verbinden\r\nden Osten und Westen des Zandora-Sperrgebiets.\r\nUrsprünglich leiteten sie Wasser\r\naus dem Cera-See nach Mergoda.\r\nHeute sind sie\r\nein finsteres Labyrinth,\r\nin dem es von gefährlichen Monstern wimmelt."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "旧時代、錬金研究の実験所だった地下施設\r\n現在内部がどうなっているかは不明だが\r\n秘術の実験体など忌まわしい研究の産物が\r\n潜んでいる可能性は大きい",
+      "source_en": "In the past, it was an underground facility\r\nfor alchemic research. The current state\r\nof its interior is unknown. However,\r\nthere is a high possibility that abominable\r\ncreations of forbidden experiments,\r\nsuch as experimental subjects of secret artes,\r\nmay be lurking within.",
+      "text": "Einst wurde in dieser unterirdischen Anlage\r\nAlchemie erforscht. Wie es dort heute aussieht,\r\nweiß niemand. Es ist jedoch gut möglich,\r\ndass sich dort noch abscheuliche Ergebnisse\r\nverbotener Experimente verbergen.\r\nUnter ihnen könnten auch Kreaturen sein,\r\nan denen man geheime Künste erprobt hat."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【財宝】の扉あり</COL>\r\n《南ザンドラ遺跡群》の一角にある旧時代の井戸\r\nこれまではその存在すら忘れられていたが\r\n恐ろしい咆哮が奥から遺跡群一帯に響くようになった",
+      "source_en": "<COL ffdc78>[Treasure Door]</COL>\r\nAn ancient well in a corner\r\nof the South Zandora Ruins.\r\nIts existence had been forgotten until now,\r\nbut a terrifying roar can now be heard\r\nfrom its depths throughout the entire ruins.",
+      "text": "<COL ffdc78>[Schatztür vorhanden]</COL>\r\nEin alter Brunnen steht versteckt\r\nin den Südlichen Ruinen von Zandora.\r\nLange hatte man ihn vergessen.\r\nNun dringt ein furchtbares Gebrüll aus der Tiefe\r\nund hallt durch die gesamten Ruinen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

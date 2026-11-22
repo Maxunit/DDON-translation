@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20095005_00.gmd",
+  "arc_path": "\\quest\\q20095005.arc",
+  "entries": [
+    {
+      "key": "q20095005_00_204",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "地下水道の血戦",
+      "source_en": "Bloody Battle in the Sewer",
+      "text": "Blutiger Kampf in den Kanälen"
+    },
+    {
+      "key": "q20095005_00_204",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20095005_00_204",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from <NAME AREA>, \r\nenemy forces have temporarily increased, \r\nand the situation is quite dangerous.",
+      "text": "Aus <NAME AREA> wird gemeldet,\r\ndass die Monster vorübergehend an Stärke gewonnen haben.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q20095005_00_204",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "生き延びた者の何人かは\r\n逃げ込んだあの場所で、さらに魔物の待ち伏せを受け\r\nそこで部隊は壊滅した\r\nなんとか一命を取り留めた者の話によると\r\n奴らはその場所から少し南に移動した\r\nこのあたりにいるということだ、十分注意して欲しい",
+      "source_en": "A number of survivors, after fleeing\r\nto that location, were ambushed by monsters,\r\nresulting in the complete destruction of the unit.\r\nAccording to one who barely survived, the monsters\r\nhave relocated slightly south from there.\r\nRemain cautious, they should be in the vicinity.",
+      "text": "Einige Überlebende hatten sich dorthin geflüchtet.\r\nDoch die Monster lauerten ihnen auf\r\nund rieben den Trupp auf.\r\nEiner ist knapp entkommen. Er sagt, die Monster\r\nseien ein Stück weiter nach Süden gezogen.\r\nSei vorsichtig. Sie müssten noch in der Nähe sein."
+    },
+    {
+      "key": "q20095005_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

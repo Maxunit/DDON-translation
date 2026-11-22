@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20085002_00.gmd",
+  "arc_path": "\\quest\\q20085002.arc",
+  "entries": [
+    {
+      "key": "q20085002_00_192",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "死出の旅路へ――",
+      "source_en": "The Journey to Death",
+      "text": "Auf dem Weg ins Totenreich"
+    },
+    {
+      "key": "q20085002_00_192",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund bezwinge die Gegner."
+    },
+    {
+      "key": "q20085002_00_192",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>は\r\nここ数日異様な気配に満ちているらしい",
+      "source_en": "<NAME AREA> seems to be filled\r\nwith an unusual atmosphere these past few days.",
+      "text": "Seit einigen Tagen geht von <NAME AREA>\r\netwas Unheimliches aus."
+    },
+    {
+      "key": "q20085002_00_192",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "仕事帰りに死者の丘辺りを通りかかったらよぉ、\r\n亡者が隊列組んでるのを見たんだ\r\n本当に見たんだ\r\n俺は確かに酒飲みだが、あの時は酔ってなかった\r\n嘘じゃねぇよ、――うーん、もう一杯",
+      "source_en": "While passing by the Hill of the Dead after work,\r\nI saw a line of the undead. I really did see it.\r\nSure, I'm a heavy drinker, but I swear I wasn't\r\ndrunk in that moment. It's not a lie...!\r\nYeeah, I could use another drink.",
+      "text": "Nach der Arbeit bin ich am Hügel der Toten vorbeigekommen.\r\nDa hab ich eine ganze Reihe Untoter gesehen. Wirklich!\r\nKlar, ich trinke gern. Aber ich schwöre,\r\nda war ich nüchtern. Ich lüge nicht!\r\nTja, jetzt könnt ich noch einen vertragen."
+    },
+    {
+      "key": "q20085002_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q20085002_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20085002_00_1136",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜死者の丘＞へ向かい敵を探す",
+      "source_en": "Search for the enemy near the Hill of the Dead",
+      "text": "Suche die Gegner in der Nähe des Hügels der Toten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

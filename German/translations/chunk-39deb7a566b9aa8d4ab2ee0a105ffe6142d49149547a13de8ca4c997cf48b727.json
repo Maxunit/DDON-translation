@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20090003_00.gmd",
+  "arc_path": "\\quest\\q20090003.arc",
+  "entries": [
+    {
+      "key": "q20090003_00_188",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "帰りを祈って――",
+      "source_en": "Pray for a Safe Return",
+      "text": "Hoffnung auf seine Rückkehr"
+    },
+    {
+      "key": "q20090003_00_188",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n恋人の消息を調査する",
+      "source_en": "Heed the request of the client and investigate\r\nthe whereabouts of their lover.",
+      "text": "Geh auf ihre Bitte ein\r\nund finde heraus, was mit ihrem Geliebten geschehen ist."
+    },
+    {
+      "key": "q20090003_00_188",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "詳細ははっきりしないが、何らかの助けを欲する者が\r\n<NAME AREA>にいるらしい",
+      "source_en": "Though the details are unclear,\r\nit seems that someone in <NAME AREA>\r\nis in need of some kind of assistance.",
+      "text": "Genaueres ist nicht bekannt,\r\ndoch in <NAME AREA> braucht offenbar\r\njemand Hilfe."
+    },
+    {
+      "key": "q20090003_00_188",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "いや、危ないから帰るように言ったんだけれど\r\nかたくなに帰ろうとしないんだ\r\nともすると、日も暮れかかったので\r\n一人で慌てて帰って来たんだが\r\n誰か彼女を連れて帰ってくれんかね",
+      "source_en": "Despite my warnings about the danger, \r\nshe refused to leave. As dusk was quickly\r\nfalling upon us, I rushed back alone.\r\nCan someone please go and fetch her?",
+      "text": "Ich habe ihr gesagt, sie soll heimgehen. Dort ist es zu gefährlich.\r\nAber sie wollte einfach nicht. Als es schon dämmerte,\r\nbin ich schnell allein zurückgegangen.\r\nKann sie bitte jemand zurückbringen?"
+    },
+    {
+      "key": "q20090003_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q20090003_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20090003_00_1052",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜メルゴダ護政区＞で騎士の行方を捜す",
+      "source_en": "Look for the missing knight in the Mergoda Security District",
+      "text": "Suche im Wachtbezirk Mergoda nach dem vermissten Ritter."
+    },
+    {
+      "key": "q20090003_00_1052",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜メルゴダ護政区＞で騎士の行方を捜す",
+      "source_en": "Look for the missing knight in the Mergoda Security District",
+      "text": "Suche im Wachtbezirk Mergoda nach dem vermissten Ritter."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

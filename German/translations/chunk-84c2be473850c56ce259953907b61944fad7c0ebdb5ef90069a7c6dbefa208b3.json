@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20060000_00.gmd",
+  "arc_path": "\\quest\\q20060000.arc",
+  "entries": [
+    {
+      "key": "q20060000_00_47",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "翠緑の遺構",
+      "source_en": "The Remains of Green",
+      "text": "Relikte unter grünem Laub"
+    },
+    {
+      "key": "q20060000_00_47",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n望む物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte der Auftraggeberin an\r\nund sammle die gesuchten Gegenstände."
+    },
+    {
+      "key": "q20060000_00_47",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "協力者を求める者がいるとの報告が\r\n<NAME AREA>から届いている",
+      "source_en": "We have received a report from <NAME AREA>\r\nthat someone is looking for a collaborator.",
+      "text": "Aus der Gegend um <NAME AREA>\r\nwird gemeldet, dass jemand Hilfe sucht."
+    },
+    {
+      "key": "q20060000_00_47",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "この辺りの森には昔さ、妖精がいたって噂さ\r\n遺跡には様々な美しい品々が眠っている\r\nさっきも、それ狙いのハンターを見かけたけれど\r\n魔物がいるから簡単にはいかないだろうね",
+      "source_en": "It's rumored that fairies used to \r\ninhabit these woods.\r\nThe ruins contain various beautiful treasures. \r\nI saw a hunter looking for them just now, \r\nbut with the monsters around, \r\nit won't be an easy task.",
+      "text": "In diesen Wäldern sollen früher\r\nFeen gelebt haben.\r\nIn den Ruinen liegen noch viele schöne Dinge.\r\nVorhin hab ich eine Jägerin gesehen, die danach sucht.\r\nAber bei all den Monstern\r\nwird sie's nicht leicht haben."
+    },
+    {
+      "key": "q20060000_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q20060000_00_804",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q20060000_00_1016",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜深緑のテラス＞で遺された品を探す（残り３）",
+      "source_en": "Search for the items within the Dark Green Terrace (3 left)",
+      "text": "Such auf der Tiefgrünen Terrasse nach den Hinterlassenschaften (noch 3)."
+    },
+    {
+      "key": "q20060000_00_1017",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜深緑のテラス＞で遺された品を探す（残り２）",
+      "source_en": "Search for the items within the Dark Green Terrace (2 left)",
+      "text": "Such auf der Tiefgrünen Terrasse nach den Hinterlassenschaften (noch 2)."
+    },
+    {
+      "key": "q20060000_00_1018",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "＜霊泉のテラス＞で遺された品を探す",
+      "source_en": "Search for the item within the Bower Old Well",
+      "text": "Such auf der Terrasse der Heiligen Quelle nach dem hinterlassenen Gegenstand."
+    },
+    {
+      "key": "q20060000_00_1019",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜深緑のテラス＞で遺された品を探す（残り１）",
+      "source_en": "Search for the items within the Dark Green Terrace (1 left)",
+      "text": "Such auf der Tiefgrünen Terrasse nach den Hinterlassenschaften (noch 1)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20105001_00.gmd",
+  "arc_path": "\\quest\\q20105001.arc",
+  "entries": [
+    {
+      "key": "q20105001_00_153",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "愚鈍なる占拠者",
+      "source_en": "The Foolish Occupiers",
+      "text": "Die törichten Eindringlinge"
+    },
+    {
+      "key": "q20105001_00_153",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20105001_00_153",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "血痕や野生動物の死骸が急増しているという\r\n<NAME AREA>の調査が必要そうだ",
+      "source_en": "There seems to be a need for an investigation\r\nin <NAME AREA> \r\nregarding the recent increase in bloodstains\r\nand corpses of wild animals littered about.",
+      "text": "In der Gegend muss nach dem Rechten gesehen werden.\r\nIn <NAME AREA> entdeckt man in letzter Zeit\r\nimmer mehr Blutspuren\r\nund tote Wildtiere."
+    },
+    {
+      "key": "q20105001_00_153",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "おらの可愛がっていたブタのメアリーが\r\n小屋から、さらわれちまったんだ\r\nズタズタに壊された小屋から想像するに\r\n犯人はゾッとするような大きな獣かも知れない\r\n誰かメアリーを救い出してきて欲しい",
+      "source_en": "My beloved pig, Mary, was taken from her pen. \r\nSeeing the wreckage of the pen, \r\nthe culprit might be a horrifyingly big creature. \r\nPlease, anyone, save Mary from a terrible fate.",
+      "text": "Jemand hat mein liebes Schwein Mary aus dem Stall geholt.\r\nSo zerlegt, wie der Stall jetzt ist,\r\nmuss das ein unheimlich großes Tier gewesen sein.\r\nBitte, kann denn keiner meine Mary retten?"
+    },
+    {
+      "key": "q20105001_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q20060000.gmd",
+  "arc_path": "\\quest\\q20060000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "「森の民の調度品」を発見した",
+      "source_en": "\"Forest folk furnishings\" found.",
+      "text": "»Einrichtungsgegenstände des Waldvolks« gefunden."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "「少し豪華な調度品」を発見した",
+      "source_en": "\"Slightly luxurious furnishings\" found.",
+      "text": "»Recht kostbare Einrichtungsgegenstände« gefunden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

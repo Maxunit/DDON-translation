@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40201009_00.gmd",
+  "arc_path": "\\quest\\q40201009.arc",
+  "entries": [
+    {
+      "key": "q40201009_00_349",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【週期要請】ミスリウ森林深部：治安維持討伐",
+      "source_en": "[Periodic Request] Mysree Grove: Security Upkeep Dispatch",
+      "text": "[Wöchentlicher Auftrag] Tiefer Mysree-Wald – Sicherheit im Wald"
+    },
+    {
+      "key": "q40201009_00_349",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "この森に長期滞在をお考えの覚者様\r\n実は、このところ頻繁に<LQEM>の襲撃を受けているのです\r\n今後のことも考慮し、<LQVA>体の討伐にご協力いただけないでしょうか\r\n数が数ですので、日数をかけてご対応くださって構いません",
+      "source_en": "To Arisen planning a long stay in this forest:\r\nRecently, we've been frequently attacked by \r\n<LQEM>.\r\nConsidering the future, could you assist in\r\nslaying <LQVA> of them? Given the number,\r\nyou can take your time to handle it.",
+      "text": "An alle Erweckten, die länger in diesem Wald bleiben.\r\nIn letzter Zeit gibt es immer wieder Angriffe.\r\nDahinter stecken <LQEM>.\r\nDamit wir wieder Ruhe haben, bitten wir dich,\r\n<LQVA> von ihnen zu besiegen.\r\nBei dieser Menge kannst du dir ruhig ein paar Tage Zeit lassen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

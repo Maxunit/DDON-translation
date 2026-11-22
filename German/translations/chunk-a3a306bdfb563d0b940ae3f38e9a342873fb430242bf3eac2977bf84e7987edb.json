@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60100002_00.gmd",
+  "arc_path": "\\quest\\q60100002.arc",
+  "entries": [
+    {
+      "key": "q60100002_00_72",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ禁域　試練：死を誘う歌",
+      "source_en": "ZW Trial: The Song for Death",
+      "text": "Prüfung im Zandora-Sperrgebiet – Das Lied, das den Tod ruft"
+    },
+    {
+      "key": "q60100002_00_72",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ禁域の問題解決のため\r\n黒淵谷に現れたナイトメア\r\n嘆きのモーラを討伐する",
+      "source_en": "To solve the issue in the Zandora Wastelands,\r\ndefeat the Nightmare that appeared\r\nin the Black Abyss Valley, the Wailing Mora.",
+      "text": "Geh der Bedrohung im Zandora-Sperrgebiet nach.\r\nBesiege die Klagende Mora, einen Nachtmahr,\r\nder im Tal des schwarzen Abgrunds erschienen ist."
+    },
+    {
+      "key": "q60100002_00_1439",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "黒淵谷に向かい嘆きのモーラを発見する",
+      "source_en": "Head to Black Abyss Valley and discover the Wailing Mora",
+      "text": "Geh ins Tal des schwarzen Abgrunds und spüre die Klagende Mora auf."
+    },
+    {
+      "key": "q60100002_00_1440",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ナイトメア、嘆きのモーラを討伐する",
+      "source_en": "Defeat the Nightmare, Wailing Mora",
+      "text": "Besiege den Nachtmahr, die Klagende Mora."
+    },
+    {
+      "key": "q60100002_00_1441",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "標の祠のダイオンに報告する",
+      "source_en": "Report to Dian in the shrine",
+      "text": "Erstatte Dian am Schrein Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

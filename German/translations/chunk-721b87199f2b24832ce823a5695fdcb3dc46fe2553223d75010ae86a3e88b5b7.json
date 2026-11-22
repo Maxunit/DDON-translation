@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50400015_00.gmd",
+  "arc_path": "\\quest\\q50400015.arc",
+  "entries": [
+    {
+      "key": "q50400015_00_108",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "レジェンドオブレスタニア",
+      "source_en": "Legend of Lestania",
+      "text": "Legende von Lestania"
+    },
+    {
+      "key": "q50400015_00_108",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n白竜に認められた者として\r\n大いなる試練に立ち向かえ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nAs one recognized by the White Dragon,\r\nFace the great trial that awaits you.",
+      "text": "Ihr kampferprobten Erweckten, Schwingen eures Drachen!\r\nDer Weiße Drache hat euch anerkannt.\r\nStellt euch nun der großen Prüfung, die euch erwartet."
+    },
+    {
+      "key": "q50400015_00_5245",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "レオに打ち勝つ",
+      "source_en": "Overcome Leo",
+      "text": "Bezwinge Leo."
+    },
+    {
+      "key": "q50400015_00_5246",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "白竜を退けボーナス報酬を得る",
+      "source_en": "Defeat the White Dragon and obtain a Bonus Reward",
+      "text": "Besiege den Weißen Drachen, um eine Bonusbelohnung zu erhalten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

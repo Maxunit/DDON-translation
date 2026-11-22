@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area10_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "標の祠　ザンドラ禁域",
+      "source_en": "Zandora Wastelands Shrine",
+      "text": "Schrein im Zandora-Sperrgebiet"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "隠者の家",
+      "source_en": "Hermit's House",
+      "text": "Haus des Einsiedlers"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "双輪の谷",
+      "source_en": "Twin Wheel Valley",
+      "text": "Tal der Zwillingsräder"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "バンデッドホーント",
+      "source_en": "Ironclad Haunt",
+      "text": "Lager der Eisenritter"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "南メルゴダ遺跡群",
+      "source_en": "South Mergoda Ruins",
+      "text": "Südliche Ruinen von Mergoda"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "オーク残党宿営地",
+      "source_en": "Orc Remnants Camp",
+      "text": "Lager der versprengten Orks"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "黒淵谷",
+      "source_en": "Black Abyss Valley",
+      "text": "Tal des schwarzen Abgrunds"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "狂信者の潜伏地",
+      "source_en": "Fanatic's Hiding Ground",
+      "text": "Versteck der Fanatiker"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "術師の地下泉",
+      "source_en": "Arcane Font",
+      "text": "Unterirdische Quelle des Magiers"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダ大水網",
+      "source_en": "Mergoda Waterway",
+      "text": "Kanäle von Mergoda"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "旧地下実験所",
+      "source_en": "Old Underground Laboratory",
+      "text": "Altes unterirdisches Labor"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "叫びの竪穴",
+      "source_en": "Pit of Screams",
+      "text": "Schacht der Schreie"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60120001.gmd",
+  "arc_path": "\\quest\\q60120001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "おお、引き受けて下さり感謝します\r\n《エリクシル精製室》はメルゴダ王宮層の\r\n庭園部に面した建物です",
+      "source_en": "Oh, I appreciate you for accepting this.\r\nThe Elixir Refining Chamber faces the\r\ngarden section of the Mergoda Palace level.",
+      "text": "Danke, dass Ihr den Auftrag angenommen habt.\r\nDie Kammer zur Elixierveredelung liegt gegenüber den Gärten\r\nauf der Palastebene von Mergoda."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "元は、エリクシル――\r\n精錬物質について研究を行う技師達の\r\n研究所だったのですが\r\n悪しき研究に使われるのを避け、封鎖したのです",
+      "source_en": "It was originally a research facility for\r\ntechnicians studying Elixir-refined materials.\r\nIt was later sealed off to prevent its use\r\nfor evil research.",
+      "text": "Früher erforschten Techniker dort\r\nmit Elixieren veredelte Werkstoffe.\r\nSpäter wurde sie versiegelt,\r\ndamit niemand dort gefährliche Experimente durchführen konnte."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "もし中にディアマンテスに与する\r\n技術者が居たならば\r\n企ての阻止をお願いいたします",
+      "source_en": "If you find any technicians inside who side\r\nwith Diamantes, be sure to put a stop\r\nto their evil schemes.",
+      "text": "Solltet Ihr dort auf Techniker stoßen,\r\ndie auf der Seite von Diamantes stehen,\r\nvereitelt ihre Pläne."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "覚者よ、ありがとうございます\r\n――そうでしたか\r\nやはりディアマンテス派の者が――",
+      "source_en": "Thank you, Arisen.\r\nSo I see, it was indeed the Diamantes faction...",
+      "text": "Ich danke Euch, Erweckter.\r\nEs waren also tatsächlich die Anhänger von Diamantes …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "しかも、不死霊薬の研究を行っていたなど\r\n恐ろしいことです",
+      "source_en": "Moreover, the fact they were researching elixirs\r\nof immortality is terrifying.",
+      "text": "Und sie haben an Elixieren geforscht,\r\ndie unsterblich machen sollen. Das ist furchtbar."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "《エリクシル精製室》は錬金術師にとって\r\n有用な場所\r\n今後もあの場所には注意を払う\r\n必要があるでしょう",
+      "source_en": "The Elixir Refining Chamber is a rather useful\r\nplace for alchemists, so we should continue to keep\r\nan eye on that location.",
+      "text": "Die Kammer zur Elixierveredelung bietet Alchemisten viele Möglichkeiten.\r\nDarum sollten wir den Ort\r\nweiter im Auge behalten."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "錬魔や魔道兵器、霊薬類の\r\n研究を彼らが影で行い続けている目的も\r\n探らなければなりません",
+      "source_en": "We also need to uncover the purpose behind their\r\nsecret research on demonic alchemy, magick weapons,\r\nand elixirs.",
+      "text": "Wir müssen auch herausfinden, was sie mit ihren geheimen Forschungen\r\nüber Alchemiemonster, magische Waffen\r\nund Elixiere erreichen wollen."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "覚者よ、王宮層にある研究室\r\n《エリクシル精製室》の改めを願います",
+      "source_en": "Ser Arisen, I ask that you investigate the Elixir\r\nRefining Chamber laboratory in the Mergoda Palace\r\nlevel.",
+      "text": "Werter Erweckter, bitte untersucht das Labor\r\nin der Kammer zur Elixierveredelung\r\nauf der Palastebene von Mergoda."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "万一そこに悪しき錬金術師がおりましたら\r\n企ての阻止をお願いします",
+      "source_en": "If you should find any wicked alchemists there,\r\nmake sure to put and end to their evil schemes.",
+      "text": "Solltet Ihr dort Alchemisten mit finsteren Absichten finden,\r\nunterbindet ihre Machenschaften."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "一体、彼らはなにを目論んでいるのでしょう――",
+      "source_en": "What exactly are they plotting...?",
+      "text": "Was führen sie bloß im Schilde?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

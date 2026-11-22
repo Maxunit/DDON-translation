@@ -12,11 +12,51 @@
     },
     {
       "key": "SPOT_NAME_",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "奇岩谷",
+      "source_en": "Odd Rock Valley",
+      "text": "Tal der bizarren Felsen"
+    },
+    {
+      "key": "SPOT_NAME_",
       "read_index": "3",
       "tag_source": "source_en",
       "source_jp": "東ザンドラ廃墟群",
       "source_en": "East Zandora Ruins",
       "text": "Ruinen von Ost-Zandora"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ灯台",
+      "source_en": "Zandora Lighthouse",
+      "text": "Leuchtturm von Zandora"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "呪詛の庭",
+      "source_en": "Garden of Curses",
+      "text": "Garten der Flüche"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "死王の迷宮",
+      "source_en": "Dead Lord's Labyrinth",
+      "text": "Labyrinth des Totenkönigs"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "屍のすすり泣く地",
+      "source_en": "Weeping Corpse Ground",
+      "text": "Feld der klagenden Toten"
     },
     {
       "key": "SPOT_NAME_",
@@ -28,11 +68,57 @@
     },
     {
       "key": "SPOT_NAME_",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "啼き井戸",
+      "source_en": "Keening Well",
+      "text": "Brunnen der Klagen"
+    },
+    {
+      "key": "SPOT_NAME_",
       "read_index": "10",
       "tag_source": "source_en",
       "source_jp": "東ザンドラ廃墟群",
       "source_en": "East Zandora Ruins",
       "text": "Ruinen von Ost-Zandora"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "灯台の地下倉庫",
+      "source_en": "Lighthouse Cellar",
+      "alternate_sources": [
+        {
+          "source_jp": "怨嗟の祠",
+          "source_en": "Shrine of Resentment"
+        }
+      ],
+      "text": "Keller des Leuchtturms"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "虚ろの小堂",
+      "source_en": "Empty Chapel",
+      "text": "Verlassene Kapelle"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "湖底連絡路",
+      "source_en": "Lakebottom Connecting Passage",
+      "text": "Verbindungsgang unter dem See"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "幽玄の霊堂",
+      "source_en": "Mysterious Mausoleum",
+      "text": "Geheimnisvolles Mausoleum"
     }
   ],
   "schema_version": 1,

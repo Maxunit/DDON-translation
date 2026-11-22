@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20105005_00.gmd",
+  "arc_path": "\\quest\\q20105005.arc",
+  "entries": [
+    {
+      "key": "q20105005_00_157",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "緑に舞い散るは――",
+      "source_en": "The Greenery Falls, Dancing",
+      "text": "Was da zwischen den Blättern niedergeht …"
+    },
+    {
+      "key": "q20105005_00_157",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20105005_00_157",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "先日<NAME AREA>から戻った人物が\r\n当該地域の魔物の台頭を危惧していたようだ",
+      "source_en": "The person who recently returned\r\nfrom <NAME AREA>\r\nseems to be concerned about the emergence\r\nof enemy creatures in that area.",
+      "text": "Jemand ist gerade\r\naus <NAME AREA> zurückgekehrt.\r\nDort sind offenbar Monster aufgetaucht,\r\ndie ihm Sorgen machen."
+    },
+    {
+      "key": "q20105005_00_157",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "俺の祖父さんの、そのまた祖父さんから\r\nずっと聞かされている話だがね\r\nその昔、あそこはそれは美しいところだったんだよ\r\nなんでも妖精なんかもいたそうだ\r\n今じゃ、恐ろしい魔物としか出くわさないがね",
+      "source_en": "This is a tale passed down from my grandfather \r\nto his grandfather before him. \r\nOnce upon a time, that place\r\nwas exceptionally beautiful. \r\nThey say even fairies used to inhabit it. \r\nNow, all that's left are horrible beasts.",
+      "text": "Die Geschichte hat mir mein Großvater erzählt.\r\nEr hatte sie von seinem Großvater.\r\nVor langer Zeit\r\nwar es dort wunderschön.\r\nSogar Feen sollen dort gelebt haben.\r\nHeute trifft man da bloß noch auf schreckliche Monster."
+    },
+    {
+      "key": "q20105005_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

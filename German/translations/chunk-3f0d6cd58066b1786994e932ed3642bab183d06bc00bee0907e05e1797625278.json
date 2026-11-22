@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50400001_00.gmd",
+  "arc_path": "\\quest\\q50400001.arc",
+  "entries": [
+    {
+      "key": "q50400001_00_94",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【高難度】黒界の門番",
+      "source_en": "[Hard] Gatekeeper of the Dark World",
+      "text": "[Schwer] Torwächter der finsteren Welt"
+    },
+    {
+      "key": "q50400001_00_94",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n《暗黒の統べる地》に現れた邪悪な魔物を\r\n迅速に退けよ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nSwiftly repel the evil monsters that have appeared\r\nin the Land of Darkness.",
+      "text": "Ihr kampferprobten Erweckten, Schwingen eures Drachen!\r\nEilt ins Land der Finsternis\r\nund vertreibt die Monster, die dort erschienen sind."
+    },
+    {
+      "key": "q50400001_00_4875",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "アバドーンを討伐する",
+      "source_en": "Defeat the Abaddon",
+      "text": "Besiege Abaddon."
+    },
+    {
+      "key": "q50400001_00_5130",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "報酬を受け取り、進行マーカーへ集合して帰還する",
+      "source_en": "Receive the reward and return to the gathering point",
+      "text": "Nimm die Belohnung entgegen und kehr zum Sammelpunkt zurück."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20055008_00.gmd",
+  "arc_path": "\\quest\\q20055008.arc",
+  "entries": [
+    {
+      "key": "q20055008_00_681",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【鬼哭蒐集】邂逅の亡者",
+      "source_en": "Collecting Souls: Undead Encounter",
+      "text": "[Seelensammlung] Begegnung mit Untoten"
+    },
+    {
+      "key": "q20055008_00_681",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "騎士団の掃討作戦に協力し\r\nミスリウ森林に起きた問題を解決する",
+      "source_en": "Assist in the eradication mission of the Knights' Order and solve the issue in the Mysree Forest.",
+      "text": "Unterstütze den Ritterorden im Kampf gegen die Untoten im Mysree-Wald."
+    },
+    {
+      "key": "q20055008_00_681",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>に現れたアンデッドの\r\n掃討作戦に参加し、騎士団に協力する",
+      "source_en": "Participate in the eradication operation on the \r\nundead in <NAME AREA>, \r\nand cooperate with the Knights.",
+      "text": "Hilf dem Ritterorden, die Untoten\r\nin der Gegend um <NAME AREA>\r\nzur Strecke zu bringen."
+    },
+    {
+      "key": "q20055008_00_681",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アンデッド掃討特別部隊がついに編成された\r\nしかし、ハイデル平原で急増している\r\n昼行性アンデッドの数は未だ減る気配を見せない\r\n覚者隊士の諸君らも、件のアンデッドを見かけたら\r\nどうか討伐にご協力願いたい",
+      "source_en": "The Special Unit for Undead Extermination has \r\nfinally been formed. \r\nHowever, the number of diurnal undead in the \r\nHidell Plains continues to increase without any \r\nsigns of halting. \r\nMembers of the Arisen Corps, \r\nif you happen to come across these undead, \r\nwe humbly request your assistance \r\nin their subjugation.",
+      "text": "Die Sondereinheit zur Bekämpfung der Untoten\r\nwurde endlich aufgestellt.\r\nIn der Hidell-Ebene vermehren sich die Untoten,\r\ndie am helllichten Tag umherziehen,\r\nallerdings immer weiter.\r\nAn alle Mitglieder der Erwecktentruppe ergeht die Bitte,\r\nsich der Bekämpfung dieser Untoten anzuschließen,\r\nsollten sie ihnen bei ihren Einsätzen\r\nbegegnen."
+    },
+    {
+      "key": "q20055008_00_1315",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇したアンデッドの集団を討伐する",
+      "source_en": "Defeat the encountered Undead group",
+      "text": "Besiege die angetroffene Gruppe Untoter."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

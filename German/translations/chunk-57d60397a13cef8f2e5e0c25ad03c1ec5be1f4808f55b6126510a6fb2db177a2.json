@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20085007_00.gmd",
+  "arc_path": "\\quest\\q20085007.arc",
+  "entries": [
+    {
+      "key": "q20085007_00_197",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "空っぽの名誉",
+      "source_en": "Empty Honor",
+      "text": "Leere Ehre"
+    },
+    {
+      "key": "q20085007_00_197",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20085007_00_197",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "先日から<NAME AREA>で\r\n怪しい影がうごめくのを見たと言う噂が広まっている",
+      "source_en": "Rumors have been spreading lately that shadows\r\nspotted in the dark have been moving suspiciously\r\nin <NAME AREA>.",
+      "text": "Seit Kurzem geht das Gerücht um,\r\nman habe im Dunkeln verdächtige Schatten gesehen.\r\nSie sollen sich in <NAME AREA> regen."
+    },
+    {
+      "key": "q20085007_00_197",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ここじゃぁ物珍しくもないね\r\nお化けなんて話はさ\r\nこの前もまだ、駆け出しのひよっこがさ\r\n例の場所で見たって言うんだよ\r\nま、誰も確かめに行く気はないけどね",
+      "source_en": "It's not out of the ordinary here.\r\nGhost stories, you know,\r\na novice even claimed to have spotted\r\nsomething at that infamous spot recently.\r\nHowever, no one seems interested in verifying it.",
+      "text": "Hier ist so etwas nichts Besonderes.\r\nGeistergeschichten eben.\r\nEin Neuling behauptet sogar, neulich\r\nan diesem berüchtigten Ort etwas gesehen zu haben.\r\nAber es scheint niemand nachsehen zu wollen."
+    },
+    {
+      "key": "q20085007_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

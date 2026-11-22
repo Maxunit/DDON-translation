@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20105003_00.gmd",
+  "arc_path": "\\quest\\q20105003.arc",
+  "entries": [
+    {
+      "key": "q20105003_00_155",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "黒雄鶏の啼く頃に",
+      "source_en": "When the Black Fowl Crows",
+      "text": "Wenn der schwarze Hahn kräht"
+    },
+    {
+      "key": "q20105003_00_155",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20105003_00_155",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>方面から\r\n原因不明の怪音や震動が続いているとの報せがあった",
+      "source_en": "There have been reports of unexplained noises \r\nand tremors in the regions around\r\n<NAME AREA>",
+      "text": "Es gibt Berichte von rätselhaften Geräuschen\r\nund anhaltenden Erschütterungen\r\nin der Umgebung von <NAME AREA>."
+    },
+    {
+      "key": "q20105003_00_155",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "先日、あの場所に出かけた時のことなんだが\r\n今でも脳裏にこびりついて離れない\r\n動物を絞めたようなつんざく魔物の\r\n禍々しい咆哮――\r\nあれ以来、一小節も譜面が進みやしないよ",
+      "source_en": "Recently, when I visited that place, \r\nthe image still lingers in my mind. \r\nThe cursed roar of a monster \r\nthat sounded like an animal being choked— \r\nSince then, I haven't progressed on a single note.",
+      "text": "Neulich war ich dort.\r\nDas Geräusch geht mir nicht mehr aus dem Kopf.\r\nDas klang wie ein Tier, dem man die Kehle zudrückt.\r\nSo ein schrilles, unheilvolles Brüllen …\r\nSeitdem habe ich keinen einzigen Takt mehr zu Papier gebracht."
+    },
+    {
+      "key": "q20105003_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

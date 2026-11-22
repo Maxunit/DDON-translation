@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20105004_00.gmd",
+  "arc_path": "\\quest\\q20105004.arc",
+  "entries": [
+    {
+      "key": "q20105004_00_156",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "深き森の番人",
+      "source_en": "The Keeper of the Woods",
+      "text": "Der Wächter des tiefen Waldes"
+    },
+    {
+      "key": "q20105004_00_156",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20105004_00_156",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "目撃情報が<NAME AREA>から届いている\r\n不吉な影が、住民や野生動物を怯えさせているようだ",
+      "source_en": "There have been eyewitness reports\r\ncoming from <NAME AREA>.\r\nIt seems that a sinister shadow\r\nis frightening the residents and wildlife.",
+      "text": "Mehrere Augenzeugen haben sich\r\naus <NAME AREA> gemeldet.\r\nEin unheimlicher Schatten versetzt wohl\r\ndie Bewohner und sogar die Tiere in Angst."
+    },
+    {
+      "key": "q20105004_00_156",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ついに奴が現れた――\r\n俺たち狩人の間では\r\n奴を狩ることができた者こそ敬われ\r\n一目置かれることになっている\r\n又とないこの機会に\r\nみな、色めき立っているところだ",
+      "source_en": "Finally, it has shown itself— \r\nAmong hunters, \r\nthose who manage to slay it \r\nare revered and earn great respect. \r\nEveryone is thrilled for this unique chance.",
+      "text": "Endlich hat es sich gezeigt …\r\nBei uns Jägern\r\ngenießt derjenige höchstes Ansehen,\r\nder dieses Tier erlegt.\r\nWir sind alle ganz aus dem Häuschen. So eine Gelegenheit kommt nie wieder."
+    },
+    {
+      "key": "q20105004_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

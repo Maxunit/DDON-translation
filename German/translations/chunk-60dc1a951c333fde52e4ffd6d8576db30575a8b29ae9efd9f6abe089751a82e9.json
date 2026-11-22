@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20080004_00.gmd",
+  "arc_path": "\\quest\\q20080004.arc",
+  "entries": [
+    {
+      "key": "q20080004_00_184",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "代えなき宝",
+      "source_en": "An Irreplaceable Treasure",
+      "text": "Ein unersetzlicher Schatz"
+    },
+    {
+      "key": "q20080004_00_184",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n指定の物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besorg die gesuchten Gegenstände."
+    },
+    {
+      "key": "q20080004_00_184",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "協力者を求める者がいるとの報告が\r\n<NAME AREA>から届いている",
+      "source_en": "We have received a report from <NAME AREA>\r\nthat someone is looking for a collaborator.",
+      "text": "Aus <NAME AREA> kam die Nachricht,\r\ndass jemand Unterstützung sucht."
+    },
+    {
+      "key": "q20080004_00_184",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ああ、奴の卑しさにはうんざりするね\r\nぺらっぺらの平たい野郎だ\r\nあれじゃぁ、手を組もうって奴なんて\r\n現れやしないよ\r\n余程の物好きでない限りはね",
+      "source_en": "Yes, his baseness is really tiresome.\r\nHe's such a flat, insincere person.\r\nNo one would want to join forces with him,\r\nunless they're exceptionally eccentric.",
+      "text": "Ach, seine miese Art geht mir auf die Nerven.\r\nBei dem ist doch alles nur leeres Gerede.\r\nWer würde sich schon mit ihm zusammentun?\r\nDa müsste man selber ziemlich sonderbar sein."
+    },
+    {
+      "key": "q20080004_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20080004_00_1039",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜死王の迷宮＞で亡国の宝物を探す（残り３）",
+      "source_en": "Search for the relics of the fallen kingdom in the Dead Lord's Labyrinth (3 left)",
+      "text": "Suche die Relikte des untergegangenen Reichs im Labyrinth des Totenkönigs (noch 3)."
+    },
+    {
+      "key": "q20080004_00_1040",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜死王の迷宮＞で亡国の宝物を探す（残り２）",
+      "source_en": "Search for the relics of the fallen kingdom in the Dead Lord's Labyrinth (2 left)",
+      "text": "Suche die Relikte des untergegangenen Reichs im Labyrinth des Totenkönigs (noch 2)."
+    },
+    {
+      "key": "q20080004_00_1041",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜死王の迷宮＞で亡国の宝物を探す（残り１）",
+      "source_en": "Search for the relics of the fallen kingdom in the Dead Lord's Labyrinth (1 left)",
+      "text": "Suche das letzte Relikt des untergegangenen Reichs im Labyrinth des Totenkönigs."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

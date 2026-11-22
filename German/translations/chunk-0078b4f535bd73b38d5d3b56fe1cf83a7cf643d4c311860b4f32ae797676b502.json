@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20095004_00.gmd",
+  "arc_path": "\\quest\\q20095004.arc",
+  "entries": [
+    {
+      "key": "q20095004_00_203",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "忘れられた守番",
+      "source_en": "The Forgotten Guardian",
+      "text": "Der vergessene Wächter"
+    },
+    {
+      "key": "q20095004_00_203",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund bezwinge den Gegner."
+    },
+    {
+      "key": "q20095004_00_203",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "いま<NAME AREA>に近づくなら\r\n魔物の襲撃に備え万全を期した方がよさそうだ",
+      "source_en": "If you're coming near \r\n<NAME AREA> at the moment, \r\nit's best to be fully prepared\r\nfor an enemy assault.",
+      "text": "Wer sich gerade in die Nähe von\r\n<NAME AREA> wagt,\r\nsollte gut vorbereitet sein.\r\nDie Monster können jederzeit angreifen."
+    },
+    {
+      "key": "q20095004_00_203",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "地下に昔の実験室があるって聞いてよ、\r\n何か値打ちのありそうなものを盗ってきて\r\n学者センセイに売りつけてやろうと思ったわけよ\r\nなのにとんでもねえ！\r\n気味の悪い魔物がわんさかいやがった！\r\nゾッとしてすぐに引き返したぜ",
+      "source_en": "I heard there's an old laboratory underground,\r\nso I thought I'd steal something ancient\r\nthat might be valuable to sell to the scholar.\r\nBut it was a nightmare!\r\nThere were sickening monsters everywhere!\r\nI was so horrified that I turned back immediately.",
+      "text": "Ich hörte von einem alten Labor unter der Erde.\r\nDa wollte ich ein paar alte Sachen mitgehen lassen,\r\ndie ich dem Gelehrten verkaufen könnte.\r\nAber es war der reinste Albtraum!\r\nÜberall diese abscheulichen Monster!\r\nIch hab sofort kehrtgemacht."
+    },
+    {
+      "key": "q20095004_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20095004_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20095004_00_1141",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜旧地下実験所＞へ向かい敵を探す",
+      "source_en": "Search for the enemy near the Old Underground Laboratory",
+      "text": "Suche den Gegner in der Nähe des Alten unterirdischen Labors."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

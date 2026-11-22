@@ -3,6 +3,38 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "STAGE_NAME_131",
+      "read_index": "128",
+      "tag_source": "source_en",
+      "source_jp": "啼き井戸",
+      "source_en": "Keening Well",
+      "text": "Brunnen der Klagen"
+    },
+    {
+      "key": "STAGE_NAME_132",
+      "read_index": "129",
+      "tag_source": "source_en",
+      "source_jp": "賢者の古井戸",
+      "source_en": "Sage's Old Well",
+      "text": "Alter Brunnen des Weisen"
+    },
+    {
+      "key": "STAGE_NAME_137",
+      "read_index": "134",
+      "tag_source": "source_en",
+      "source_jp": "標の祠　ミスリウ森林深部",
+      "source_en": "Mysree Grove Shrine",
+      "text": "Schrein im tiefen Mysree-Wald"
+    },
+    {
+      "key": "STAGE_NAME_139",
+      "read_index": "136",
+      "tag_source": "source_en",
+      "source_jp": "標の祠　ザンドラ禁域",
+      "source_en": "Zandora Wastelands Shrine",
+      "text": "Schrein im Zandora-Sperrgebiet"
+    },
+    {
       "key": "STAGE_NAME_144",
       "read_index": "141",
       "tag_source": "source_en",
@@ -33,6 +65,86 @@
       "source_jp": "第三のアーク",
       "source_en": "The Third Ark",
       "text": "Die dritte Arche"
+    },
+    {
+      "key": "STAGE_NAME_149",
+      "read_index": "146",
+      "tag_source": "source_en",
+      "source_jp": "湖底連絡路",
+      "source_en": "Lakebottom Connecting Passage",
+      "text": "Verbindungsgang unter dem See"
+    },
+    {
+      "key": "STAGE_NAME_153",
+      "read_index": "150",
+      "tag_source": "source_en",
+      "source_jp": "リンウッド地下水路",
+      "source_en": "Lynwood Underground Waterway",
+      "text": "Unterirdische Kanäle von Lynwood"
+    },
+    {
+      "key": "STAGE_NAME_157",
+      "read_index": "154",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダ大水網",
+      "source_en": "Mergoda Waterway",
+      "text": "Kanäle von Mergoda"
+    },
+    {
+      "key": "STAGE_NAME_158",
+      "read_index": "155",
+      "tag_source": "source_en",
+      "source_jp": "蒼水路",
+      "source_en": "Blue Waterway",
+      "text": "Blauer Wasserweg"
+    },
+    {
+      "key": "STAGE_NAME_159",
+      "read_index": "156",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ鍾乳洞",
+      "source_en": "Mysree Limestone Cave",
+      "text": "Tropfsteinhöhle von Mysree"
+    },
+    {
+      "key": "STAGE_NAME_160",
+      "read_index": "157",
+      "tag_source": "source_en",
+      "source_jp": "魔獣の巣穴",
+      "source_en": "Demon's Den",
+      "text": "Dämonenhöhle"
+    },
+    {
+      "key": "STAGE_NAME_162",
+      "read_index": "159",
+      "tag_source": "source_en",
+      "source_jp": "聖樹のテラス",
+      "source_en": "Sacred Tree Terrace",
+      "text": "Terrasse des Heiligen Baums"
+    },
+    {
+      "key": "STAGE_NAME_163",
+      "read_index": "160",
+      "tag_source": "source_en",
+      "source_jp": "神花のテラス",
+      "source_en": "Divine Blossom Terrace",
+      "text": "Terrasse der Götterblüten"
+    },
+    {
+      "key": "STAGE_NAME_164",
+      "read_index": "161",
+      "tag_source": "source_en",
+      "source_jp": "旧地下実験所",
+      "source_en": "Old Underground Laboratory",
+      "text": "Altes unterirdisches Labor"
+    },
+    {
+      "key": "STAGE_NAME_168",
+      "read_index": "165",
+      "tag_source": "source_en",
+      "source_jp": "術師の地下泉",
+      "source_en": "Arcane Font",
+      "text": "Unterirdische Quelle des Magiers"
     }
   ],
   "schema_version": 1,

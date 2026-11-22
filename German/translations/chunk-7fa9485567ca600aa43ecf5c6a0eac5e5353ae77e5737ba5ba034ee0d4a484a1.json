@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20050001_00.gmd",
+  "arc_path": "\\quest\\q20050001.arc",
+  "entries": [
+    {
+      "key": "q20050001_00_44",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "暗がりに消ゆ",
+      "source_en": "In the Darkness",
+      "text": "Im Dunkeln verschwunden"
+    },
+    {
+      "key": "q20050001_00_44",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n水路に先行している仲間の行方を追う",
+      "source_en": "Listen to the client's request\r\nand pursue the whereabouts\r\nof comrades further in the waterway.",
+      "text": "Hör dir die Bitte des Auftraggebers an.\r\nGeh tiefer in die Kanäle hinein\r\nund suche seine Gefährten."
+    },
+    {
+      "key": "q20050001_00_44",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "先日から<NAME AREA>で\r\n世もなく嘆きの節をもらす者がいると伝わっている",
+      "source_en": "From a few days ago in the \r\n<NAME AREA>,\r\nit has been reported that there are individuals\r\nexpressing an overwhelming lament.",
+      "text": "Seit einigen Tagen gehen Berichte ein,\r\ndass man in <NAME AREA>\r\nLeute gesehen hat,\r\ndie ganz verzweifelt wirkten."
+    },
+    {
+      "key": "q20050001_00_44",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "行商人？\r\nああ、うん確かにそんな感じの人、見かけたね\r\n悩みがある感じ？　うんそう見えたね\r\nでもさ、人を見たら泥棒と思えって\r\n親に言われてきたからね\r\n同情心をあおられても、そう簡単に助けられないよ",
+      "source_en": "A peddler? \r\nAh, yeah, I think I saw someone like that. \r\nThey seemed troubled, right? \r\nYeah, that's how they looked. \r\nBut you know, I've been taught to think of people \r\nas thieves when I see them. \r\nEven if I feel sympathy, \r\nit's not easy to help them.",
+      "text": "Ein Händler?\r\nAch ja, ich glaub, ich hab so einen gesehen.\r\nEr hatte wohl Sorgen, oder?\r\nSo sah er jedenfalls aus.\r\nMir hat man aber beigebracht,\r\njeden Fremden für einen Dieb zu halten.\r\nAuch wenn er mir leidtut,\r\nfällt es mir schwer, ihm zu helfen."
+    },
+    {
+      "key": "q20050001_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20050001_00_999",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜リンウッド地下水路＞で冒険者の安否を確認する（残り３）",
+      "source_en": "Confirm the safety of the adventurers in the Lynwood Sewers (3 left)",
+      "text": "Sieh nach, was mit den Abenteurern in den Unterirdischen Kanälen von Lynwood geschehen ist (noch 3)."
+    },
+    {
+      "key": "q20050001_00_1111",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "他の冒険者の安否を確認する（残り２）",
+      "source_en": "Confirm the safety of the adventurers (2 left)",
+      "text": "Sieh nach, was mit den übrigen Abenteurern geschehen ist (noch 2)."
+    },
+    {
+      "key": "q20050001_00_1112",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "他の冒険者の安否を確認する（残り１）",
+      "source_en": "Confirm the safety of the adventurers (1 left)",
+      "text": "Sieh nach, was mit dem letzten Abenteurer geschehen ist."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

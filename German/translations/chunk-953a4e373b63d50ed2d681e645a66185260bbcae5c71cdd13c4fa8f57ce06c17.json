@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40201005_00.gmd",
+  "arc_path": "\\quest\\q40201005.arc",
+  "entries": [
+    {
+      "key": "q40201005_00_345",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【週期要請】ミスリウ森林：治安維持討伐",
+      "source_en": "[Periodic Request] Mysree Forest: Security Upkeep Dispatch",
+      "text": "[Wöchentlicher Auftrag] Mysree-Wald – Sicherheit im Wald"
+    },
+    {
+      "key": "q40201005_00_345",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "リンウッドに長期滞在、もしくは何度も来る予定の人はいるかしら？\r\n<LQEM> <LQEM>の討伐をお願いしたいのだけど\r\nゆっくりでいいから、お願いできないかしら",
+      "source_en": "Is anyone planning a long stay or frequent visits\r\nto Lynwood? I'd like to request the slaying of\r\n<LQIM> <LQEM>. \r\nNo rush, but can you take care of it?",
+      "text": "Bleibst du länger in Lynwood\r\noder kommst du öfter hier vorbei? Dann hätte ich einen Jagdauftrag für dich.\r\n<LQIM> <LQEM>\r\nEs eilt nicht. Würdest du das übernehmen?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

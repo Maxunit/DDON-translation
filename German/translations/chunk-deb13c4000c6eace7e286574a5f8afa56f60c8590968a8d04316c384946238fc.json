@@ -1,0 +1,136 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area7_spot_info.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "レスタニア最奥、樹海に閉ざされた秘境\r\n樹齢数百年にのぼる巨木が生い茂るこの森は\r\n以前エルフ族が住み、その都を築いた場所である\r\n森の名もまた、エルフ族の言語が元であると\r\n言われている",
+      "source_en": "In the deepest part Lestania, there lies\r\na hidden paradise secluded in the forest.\r\nThis forest, over hundreds of years old,\r\nis densely populated by towering ancient trees.\r\nIt used to be the home of the Elves,\r\nwhere they built their capital city.\r\nThe name of the forest is also said\r\nto originate from the language of the elves.",
+      "text": "Tief in Lestania verbirgt sich ein Paradies\r\ninmitten eines abgeschiedenen Waldes.\r\nDicht an dicht stehen dort\r\nuralte, hoch aufragende Bäume.\r\nEinst war der Wald die Heimat der Elfen.\r\nSie erbauten hier ihre Hauptstadt.\r\nAuch der Name des Waldes soll\r\naus der Sprache der Elfen stammen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ディナンの森唯一の住民が暮らす遺跡\r\nエルフの文化や戦闘術を学びたい者に\r\nとっては特に重要な拠点となるだろう",
+      "source_en": "The only inhabited site in the Deenan Forest.\r\nAn especially important base for those\r\nwho want to learn about Elven culture\r\nand their art of warfare.",
+      "text": "Die einzige bewohnte Stätte im Deenan-Wald.\r\nSie ist ein wichtiger Stützpunkt für alle,\r\ndie mehr über die Kultur der Elfen\r\nund ihre Kampfkunst erfahren wollen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "エルフの言葉で\"森の淀み\"を意味するこの場所\r\nには、汚れた土や不純な精気が溜まりやすい\r\nという。それらは時に形を持ち魔物化する\r\nため、見かけた場合は討伐し浄化したほうがよい",
+      "source_en": "In the Elven language, this place means\r\n\"the stillness of the forest.\" It is prone\r\nto accumulate unclean soil and impure energy.\r\nOccasionally, these can take shape\r\nand turn into enemies, so it is advisable\r\nto defeat and cleanse them when encountered.",
+      "text": "In der Sprache der Elfen bedeutet der Name\r\n„Ort, an dem sich die Kraft des Waldes staut“.\r\nVerunreinigte Erde und unreine Kräfte\r\nsammeln sich leicht an diesem Ort.\r\nManchmal nehmen sie Gestalt an und werden zu Monstern.\r\nWer ihnen begegnet, sollte sie besiegen und den Ort reinigen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "エルフ族の大規模な住居跡\r\nいくつもの広場や部屋で構成されており、相当数の\r\nエルフがここで暮らしていたことを物語っている\r\n遺跡内部には、特別な水を湛えた井戸が\r\nあるという",
+      "source_en": "The remains of a large dwelling of the Elves.\r\nConsisting of multiple plazas and rooms,\r\ntelling the story of a significant number\r\nof Elves who once lived here.\r\nInside the ruins, there is said to be a well\r\nwith special water springing forth.",
+      "text": "Überreste einer großen elfischen Siedlung.\r\nDie vielen Plätze und Räume\r\nzeugen davon,\r\ndass einst viele Elfen hier lebten.\r\nIn den Ruinen soll es einen Brunnen\r\nmit außergewöhnlichem Wasser geben."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ディナン南部を意味する河岸一帯\r\n銀色の毛を持つ凶暴な猿鬼が徘徊するように\r\nなったようだ\r\nその銀の猿鬼は、エルフ族が森でもっとも\r\n出会いたくない魔物筆頭であったらしい",
+      "source_en": "The riverbank area that signifies\r\nthe southern part of Deenan.\r\nSeems to have become a place\r\nwhere a ferocious monkey demon\r\nwith silver fur wanders.\r\nIt seems that this silvered demon\r\nis the foremost creature that the Elves\r\ndid not want to encounter in the forest.",
+      "text": "Dieser Name bezeichnet das Flussufer\r\nim Süden Deenans.\r\nInzwischen soll dort\r\nein wilder Affendämon\r\nmit silbernem Fell umherstreifen.\r\nUnter allen Monstern des Waldes war er wohl dasjenige,\r\ndem die Elfen\r\nam wenigsten begegnen wollten."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ディナン低地には美しい霊水を湛えた泉がある\r\nその生命力に魅かれ、度々肉体を持たぬ者が\r\n彷徨い出ては命ある者に襲い掛るという\r\n不自然に白い人影を見かけた場合、泉には\r\n近寄らぬほうがいいだろう",
+      "source_en": "There is a spring in the lowlands of Deenan\r\nthat holds beautiful sacred water.\r\nDrawn to its vitality, beings without\r\nphysical forms often wander and attack\r\nthose of the living.\r\nIf you happen to see a strangely white figure,\r\nit's best to stay away from the spring.",
+      "text": "Im Tiefland von Deenan liegt eine Quelle\r\nmit klarem, heiligem Wasser.\r\nDie Lebenskraft der Quelle\r\nlockt Wesen ohne Körper an.\r\nSie streifen umher und greifen alles Lebendige an.\r\nWer dort eine seltsam weiße Gestalt sieht,\r\nsollte sich von der Quelle fernhalten."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "エルフの都《エルテ・ディナン》一角にあるという\r\n住居群の一つ。広大な区画らしいが、長らく閉ざ\r\nされており、内部がどうなっているかは不明\r\n出入り口が閉ざされたのには、なにか理由が\r\nあるのかもしれない",
+      "source_en": "One of a group of dwellings located\r\nwithin a corner of the Erte Deenan,\r\nthe Elven capital. It appears to be a vast area,\r\nbut it has been closed off for a long time,\r\nand what awaits in its interior remains unknown.\r\nThere may be a reason for the entrance\r\nto be sealed.",
+      "text": "Eines der ehemaligen Wohnviertel\r\nder Elfenhauptstadt Erte Deenan.\r\nDer Bezirk soll sich weit erstrecken.\r\nEr ist seit Langem verschlossen,\r\nund niemand weiß, was sich darin verbirgt.\r\nVielleicht hatte es einen guten Grund,\r\nden Zugang zu versiegeln."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "森の中でも有数の大樹がそびえ立つ広場\r\nまるで大樹に守られているかのような静かな\r\n空間だったが、突如この場で暴れはじめた\r\nエントが確認され、状況は急変しつつある",
+      "source_en": "In a clearing where one of the largest trees\r\nin the forest stands tall, it was a peaceful space\r\nas if protected by the great tree.\r\nHowever, suddenly, an Ent, a rare sight\r\nin this area, started rampaging,\r\nand the situation is rapidly changing.",
+      "text": "Auf dieser Lichtung steht\r\neiner der größten Bäume des Waldes.\r\nLange war dies ein friedlicher Ort,\r\nals stünde er unter dem Schutz des Baums.\r\nDoch nun wütet dort plötzlich ein Ent,\r\nwie man ihn in dieser Gegend selten sieht. Die Lage spitzt sich zu."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "かつて森の民が使っていたディナン深層林と\r\nミスリウ森林を繋ぐ自然洞窟\r\n長らく閉ざされていたため、内部が\r\nどうなっているか知る者はいない",
+      "source_en": "A natural cave that connects the deep forests\r\nof Deenan and Mysree, which were once used\r\nby the people of the forest.\r\nIt has been closed off for a long time,\r\nso no one knows what it looks like inside.",
+      "text": "Eine natürliche Höhle verbindet\r\nden Deenan-Wald und den Mysree-Wald.\r\nEinst führte der Weg des Waldvolks hier hindurch.\r\nDer Tunnel ist seit Langem verschlossen.\r\nDarum weiß niemand, wie es heute darin aussieht."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ディナン深層林、南西にあるエルフ族の住居跡\r\n聖なる泉、エルネア・スプリングに近い穏やかな\r\n地のはずが、今や他と同じく野獣の住処に\r\nなっている",
+      "source_en": "The remains of the Elves who once resided\r\nin Deenan Woods, located in the southwest.\r\nWhat used to be a peaceful land near the sacred\r\nElnea Spring has now become a dwelling\r\nfor wild animals, just like everywhere else.",
+      "text": "Die Überreste einer elfischen Siedlung\r\nim Südwesten des Deenan-Walds.\r\nEinst war es ein friedlicher Ort\r\nnahe der heiligen Elnea-Quelle.\r\nHeute haben sich hier wie überall wilde Tiere eingenistet."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "巨木に覆われ、緑の葉影が美しい遺跡\r\n遺跡内に生えた巨木の中には、入る者\r\nを拒みエント化したものもあるという",
+      "source_en": "Covered by towering trees, the ruins are adorned\r\nwith the beautiful shade of green leaves.\r\nIt is said that some of the gigantic trees\r\nthat grow within the ruins have become Ents,\r\nrefusing entry to anyone who approaches them.",
+      "text": "Unter den gewaltigen Bäumen liegen die Ruinen\r\nim grünen Schatten des Laubs.\r\nEinige der Riesenbäume, die dort wachsen,\r\nsollen sich in Ents verwandelt haben.\r\nSie verwehren jedem den Zutritt, der sich nähert."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "南部、水辺近くにあるエルフ族の住居跡\r\nかつては水面に映る月が美しい場所であると\r\nエルフ達の人気も高かったようだが、\r\n今やその面影はない。水の運用に関しては\r\n最も進んだ設備を備えていたらしい",
+      "source_en": "Dilapidated uins of the Elves' residence\r\nnear the water's edge in the southern region.\r\nIt used to be a beautiful place where\r\nthe moon reflected upon the water\r\nwas once highly esteemed by the Elves.\r\nHowever, now there is no trace of that beauty.\r\nIt seems they had the most advanced facilities\r\nfor managing water.",
+      "text": "Reste einer elfischen Siedlung\r\nam Wasser im Süden.\r\nEinst spiegelte sich der Mond\r\nso schön auf dem Wasser,\r\ndass die Elfen den Ort besonders schätzten.\r\nHeute ist von dieser Schönheit nichts geblieben.\r\nDie Elfen hatten hier offenbar die fortschrittlichsten Anlagen,\r\num das Wasser zu leiten und zu nutzen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "エルフ族が築いた壮麗なる都\r\nしかし、エルフ族が姿を消して以降美しさはその\r\nままに、ゆっくり時と共に森に呑まれつつある\r\n彼らの神秘的で精緻な技は、今なおエルテ・ディナン\r\nのいたるところに遺されている",
+      "source_en": "A magnificent city built by the Elves.\r\nEven after their disappearance,\r\ntheir structures' beauty remains,\r\ngradually being retaken by the forest\r\nwith the passage of time.\r\nTheir mystical and exquisite craftsmanship\r\nis still left everywhere in Erte Deenan.",
+      "text": "Eine prächtige Stadt, von den Elfen erbaut.\r\nAuch nach deren Verschwinden\r\nhaben die Bauwerke ihre Schönheit bewahrt.\r\nMit der Zeit\r\nholt sich der Wald die Stadt zurück.\r\nDoch noch heute zeugt ganz Erte Deenan\r\nvon der geheimnisvollen, kunstfertigen Arbeit der Elfen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "どこかにあるという、エルフ達が築いた\r\n美しい地下水路\r\n遺跡で見つかった書物に存在が記されていた",
+      "source_en": "According to a book found in the ruins,\r\nthere is a beautiful underground waterway\r\nbuilt by the Elves somewhere in the area.",
+      "text": "Ein Buch aus den Ruinen berichtet,\r\ndass die Elfen irgendwo hier\r\neinen wunderschönen unterirdischen Wasserweg angelegt haben."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "エルフの都《エルテ・ディナン》内にある\r\n区画の一つ。蝶印のついた鍵で閉ざされて\r\nいるため、立ち入るのであればまずは\r\n鍵の入手が必要になる",
+      "source_en": "Located within the Elven capital, \"Erte Deenan,\"\r\nthis is a section of the city.\r\nIn order to enter, one must first obtain a key\r\nmarked with a butterfly symbol.",
+      "text": "Einer der Bezirke der Elfenhauptstadt Erte Deenan.\r\nDer Zugang ist verschlossen.\r\nWer hineinwill, braucht zuerst einen Schlüssel\r\nmit einem Schmetterlingszeichen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【宝飾】の扉あり</COL>\r\n深いディナンの森で新たに発見された森民の遺跡\r\n鳥の鳴き声や羽ばたきが四方から響いている\r\n内部はかなり複雑な構造になっているらしく、元は\r\nエルテ・ディナンに次ぐ規模の居住区だったようだ",
+      "source_en": "<COL ffdc78>[Jewelry Door]</COL>\r\nA recently discovered forest dwelling of the\r\nforest people in the depths of Deenan.\r\nThe sounds of birds chirping and wings flapping\r\necho from all directions.\r\nThe interior seems to have a quite complex\r\nstructure, and it appears that it was once a\r\nresidential area of considerable size, second only\r\nto Erte Dinan.",
+      "text": "<COL ffdc78>[Schmucktür vorhanden]</COL>\r\nTief im Deenan-Wald wurde vor Kurzem\r\ndieses verfallene Wohnviertel des Waldvolks entdeckt.\r\nVon allen Seiten hallen Vogelrufe\r\nund Flügelschläge wider.\r\nDas Innere scheint sehr verwinkelt zu sein.\r\nEinst war dies wohl ein bedeutendes Wohnviertel,\r\ndas an Größe\r\nnur von Erte Deenan übertroffen wurde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

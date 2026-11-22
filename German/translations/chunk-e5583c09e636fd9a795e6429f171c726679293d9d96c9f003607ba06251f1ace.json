@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40201015_00.gmd",
+  "arc_path": "\\quest\\q40201015.arc",
+  "entries": [
+    {
+      "key": "q40201015_00_355",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【週期要請】ディナン深層林：治安維持討伐",
+      "source_en": "[Periodic Request] Deenan Woods: Security Upkeep Dispatch",
+      "text": "[Wöchentlicher Auftrag] Deenan-Wald – Sicherheit im Wald"
+    },
+    {
+      "key": "q40201015_00_355",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "近頃<LQEM>の姿をよく見かける\r\nここらで数を減らしておくべきかな\r\n<LQVA>体くらい倒しておきたいから、時間をかけて取り組もう",
+      "source_en": "Lately, I've been seeing a lot of <LQEM>.\r\nWe should reduce their numbers around here.\r\nI'd like to take down around <LQVA> of them, so\r\ntake your time working on it.",
+      "text": "In letzter Zeit sehe ich immer wieder <LQEM>.\r\nWir sollten ihre Zahl in der Gegend verringern.\r\nIch möchte, dass du ungefähr <LQVA> von ihnen besiegst.\r\nLass dir dabei ruhig Zeit."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

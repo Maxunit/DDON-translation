@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20055004_00.gmd",
+  "arc_path": "\\quest\\q20055004.arc",
+  "entries": [
+    {
+      "key": "q20055004_00_137",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "人攫いの正体",
+      "source_en": "The Abductors' True Nature",
+      "text": "Wer sind die Entführer?"
+    },
+    {
+      "key": "q20055004_00_137",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20055004_00_137",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>から緊急報告\r\n至急、魔物らしき脅威を排除されたし、とのこと",
+      "source_en": "Urgent report from <NAME AREA>\r\nIt is imperative to swiftly remove a threat\r\nthat appears to be monsters.",
+      "text": "Dringende Meldung aus der Gegend um <NAME AREA>\r\nEine Bedrohung, die offenbar von Monstern ausgeht,\r\nmuss umgehend beseitigt werden."
+    },
+    {
+      "key": "q20055004_00_137",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "年頃の娘が、騎士崩れの若造と\r\n危険な場所に行きたがって困っている\r\n昨日ははるか森の奥、壁が光る洞窟だとかに\r\n日暮れ近くまで入り浸っていたというから\r\nきつく叱ってやったよ\r\nあそこは魔物の巣だというのに、愚かな娘だ",
+      "source_en": "My teenage daughter insists on going to dangerous\r\nplaces with a young man who's a failed knight, \r\nand it's causing trouble. \r\nShe was apparently in a cave with glowing walls \r\ndeep in the forest until sunset yesterday. \r\nI scolded her harshly. \r\nIt's a den of monsters—she's so foolish.",
+      "text": "Meine Tochter will ständig mit so einem jungen Kerl,\r\naus dem kein richtiger Ritter geworden ist,\r\nan irgendwelchen gefährlichen Orten herumstreunen.\r\nGestern war sie bis fast zum Einbruch der Dunkelheit\r\ntief im Wald in einer Höhle mit leuchtenden Wänden.\r\nDie hab ich ordentlich ausgeschimpft.\r\nDas ist doch ein Monsternest! Was hat sie sich dabei gedacht?"
+    },
+    {
+      "key": "q20055004_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

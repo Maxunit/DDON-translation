@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20095002_00.gmd",
+  "arc_path": "\\quest\\q20095002.arc",
+  "entries": [
+    {
+      "key": "q20095002_00_201",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "空を覆う黒影",
+      "source_en": "The Dark Shadow Covering the Sky",
+      "text": "Ein schwarzer Schatten am Himmel"
+    },
+    {
+      "key": "q20095002_00_201",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund bezwinge den Gegner."
+    },
+    {
+      "key": "q20095002_00_201",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "不確実な情報だが、<NAME AREA>から\r\n狂暴な魔物のしわざと思われる被害報告があった",
+      "source_en": "Although the information is uncertain,\r\nthere have been reports of damage\r\nbelieved to be caused by violent creatures\r\nin <NAME AREA>.\r\n",
+      "text": "Die Meldung ist noch unbestätigt.\r\nEs soll Schäden gegeben haben.\r\nVermutlich haben wilde Monster\r\nin <NAME AREA> gewütet.\r\n"
+    },
+    {
+      "key": "q20095002_00_201",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "あの岩山にはね\r\n父さんを攫った、黒い魔物の住処がある\r\n母さんは決して行ってはいけないと言うけれど\r\n毎晩一人で泣いているのを知っている\r\n今は奴が山に戻ってきていると\r\n昨日ツグミが教えてくれた、そう、今がその時だ",
+      "source_en": "There is a lair on that rocky mountain where\r\nthe black monster who kidnapped my father resides.\r\nMy mother insists I should never go there,\r\nbut I know she cries alone every night.\r\nYesterday, a bird told me that the monster\r\nhas returned to the mountain. Yes, now is the time.",
+      "text": "Oben auf dem Felsberg hat das schwarze Monster sein Nest.\r\nEs hat meinen Vater verschleppt.\r\nMeine Mutter sagt, ich soll nie dorthin gehen.\r\nAber ich weiß, dass sie jede Nacht allein weint.\r\nGestern hat mir ein Vogel gezwitschert, dass das Monster\r\nzum Berg zurückgekehrt ist. Jetzt ist die Gelegenheit."
+    },
+    {
+      "key": "q20095002_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20095002_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q20095002_00_1138",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "巨大な黒影の正体を暴く",
+      "source_en": "Uncover the identity of the large black shadow",
+      "text": "Finde heraus, was den großen schwarzen Schatten wirft."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

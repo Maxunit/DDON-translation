@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20065002_00.gmd",
+  "arc_path": "\\quest\\q20065002.arc",
+  "entries": [
+    {
+      "key": "q20065002_00_141",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "招かれざる居候",
+      "source_en": "The Unbidden Guest",
+      "text": "Der ungebetene Gast"
+    },
+    {
+      "key": "q20065002_00_141",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20065002_00_141",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>は\r\nここ数日異様な気配に満ちているらしい",
+      "source_en": "<NAME AREA> \r\nseems to be filled with an unusual \r\natmosphere these past few days.",
+      "text": "In der Gegend um <NAME AREA>\r\nscheint seit einigen Tagen etwas Seltsames\r\nin der Luft zu liegen."
+    },
+    {
+      "key": "q20065002_00_141",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "その昔、ここらの森は多くの民から愛される\r\n立派な領主が治めていたと聞きました\r\nところがある日、部下の裏切りにあい\r\n森で命を落としたそうです\r\nその無念が今では呼び水となり\r\nあの場所に魔物を呼び寄せているそうです",
+      "source_en": "Long ago, this forest was loved by many\r\nand ruled by a noble lord.\r\nBut one day, he was betrayed by his subordinates\r\nand lost his life in the forest.\r\nHis resentment now serves as a catalyst,\r\nattracting monsters to that place.",
+      "text": "Einst soll ein edler Herr über diesen Wald geherrscht haben.\r\nDas Volk hatte ihn sehr ins Herz geschlossen.\r\nEines Tages verrieten ihn seine Gefolgsleute,\r\nund er kam im Wald ums Leben.\r\nSeitdem soll sein Groll\r\nMonster an diesen Ort locken."
+    },
+    {
+      "key": "q20065002_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

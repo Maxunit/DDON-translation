@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20060001_00.gmd",
+  "arc_path": "\\quest\\q20060001.arc",
+  "entries": [
+    {
+      "key": "q20060001_00_48",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "イニアスの怪物",
+      "source_en": "The Inias Monster",
+      "text": "Das Monster vom Inias-See"
+    },
+    {
+      "key": "q20060001_00_48",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besiege das gesuchte Monster."
+    },
+    {
+      "key": "q20060001_00_48",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今\r\n覚者の助けを欲する者がいるらしい",
+      "source_en": "It seems that in <NAME AREA>, \r\nthere are people seeking the Arisen's help.",
+      "text": "In der Gegend um <NAME AREA>\r\nsucht offenbar jemand die Hilfe eines Erweckten."
+    },
+    {
+      "key": "q20060001_00_48",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ようやく、イニアス湖に住みついた魔物討伐に\r\nお願いしていた騎士団が来てくれたんだが\r\n湖は広くて、どうも人手が足りないみたいだ\r\nいったい、いつになったら始めてくれるんだかね",
+      "source_en": "The knights I asked to deal with the monsters \r\nat Lake Inias have finally arrived, but the lake \r\nis so vast that they seem to be short on manpower. \r\nI wonder when they'll actually get started.",
+      "text": "Endlich sind die Ritter da. Ich hatte sie gebeten,\r\ndas Monster am Inias-See zu erlegen.\r\nAber der See ist riesig, und sie haben wohl zu wenig Leute.\r\nWann sie wohl endlich loslegen?"
+    },
+    {
+      "key": "q20060001_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20060001_00_828",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した敵を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Feinde."
+    },
+    {
+      "key": "q20060001_00_1020",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "湖周辺に現れる敵を討伐する",
+      "source_en": "Defeat the enemy that appear near the lake",
+      "text": "Besiege das Monster, das am See auftaucht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

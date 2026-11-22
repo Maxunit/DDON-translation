@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20055001_00.gmd",
+  "arc_path": "\\quest\\q20055001.arc",
+  "entries": [
+    {
+      "key": "q20055001_00_129",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "森に舞う妖鳥",
+      "source_en": "A Strange Bird Dances in the Forest",
+      "text": "Der unheimliche Vogel im Wald"
+    },
+    {
+      "key": "q20055001_00_129",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20055001_00_129",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>付近で\r\n不気味な物音が周辺に響いているらしい",
+      "source_en": "There seems to be an eerie sound echoing around \r\nthe vicinity of <NAME AREA>.",
+      "text": "Unheimliche Geräusche hallen offenbar\r\ndurch die Gegend um <NAME AREA>."
+    },
+    {
+      "key": "q20055001_00_129",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "魔道研究にも資金が必要なので\r\n弟子を取って簡易な魔法を教えているのですが\r\n薬物調合のためこのミスリウの森に来て\r\n弟子とはぐれてしまいました\r\nここはいやな気配が漂っています\r\n彼の身になにかあっては大変だ――ああ誰か助けを！",
+      "source_en": "Funding is also needed for magickal research,\r\nso I'm taking on apprentices to teach simple spells.\r\nWhile here in the Mysree Forest for potion making,\r\nI lost track of my apprentice.\r\nThis place has an unpleasant atmosphere.\r\nSomething terrible might have happened to him—\r\noh, someone please help!",
+      "text": "Magische Forschung kostet Geld.\r\nDeshalb nehme ich Lehrlinge an und bringe ihnen einfache Zauber bei.\r\nWir waren im Mysree-Wald, um Tränke zu brauen.\r\nDabei habe ich meinen Lehrling aus den Augen verloren.\r\nAn diesem Ort ist mir ganz unwohl.\r\nWenn ihm etwas zugestoßen ist …\r\nAch, kann mir bitte jemand helfen?"
+    },
+    {
+      "key": "q20055001_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

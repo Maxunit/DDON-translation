@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\enemy\\enemy_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ENEMY_NAME_71",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "モルトロール",
+      "source_en": "Mole Troll",
+      "text": "Maulwurftroll"
+    },
+    {
+      "key": "ENEMY_NAME_74",
+      "read_index": "74",
+      "tag_source": "source_en",
+      "source_jp": "グランエント",
+      "source_en": "Grand Ent",
+      "text": "Riesenent"
+    },
+    {
+      "key": "ENEMY_NAME_77",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "シャドーキメラ",
+      "source_en": "Shadow Chimera",
+      "text": "Schattenchimäre"
+    },
+    {
+      "key": "ENEMY_NAME_80",
+      "read_index": "80",
+      "tag_source": "source_en",
+      "source_jp": "ジオゴーレム",
+      "source_en": "Geo Golem",
+      "text": "Geo-Golem"
+    },
+    {
+      "key": "ENEMY_NAME_85",
+      "read_index": "85",
+      "tag_source": "source_en",
+      "source_jp": "コカトリス",
+      "source_en": "Cockatrice",
+      "text": "Kokatris"
+    },
+    {
+      "key": "ENEMY_NAME_86",
+      "read_index": "86",
+      "tag_source": "source_en",
+      "source_jp": "ナイトメア",
+      "source_en": "Nightmare",
+      "text": "Nachtmahr"
+    },
+    {
+      "key": "ENEMY_NAME_88",
+      "read_index": "88",
+      "tag_source": "source_en",
+      "source_jp": "ブラックグリフィン",
+      "source_en": "Black Griffin",
+      "text": "Schwarzer Greif"
+    },
+    {
+      "key": "ENEMY_NAME_97",
+      "read_index": "97",
+      "tag_source": "source_en",
+      "source_jp": "ドレッドエイプ",
+      "source_en": "Dread Ape",
+      "text": "Affendämon"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

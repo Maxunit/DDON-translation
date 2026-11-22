@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20100001_00.gmd",
+  "arc_path": "\\quest\\q20100001.arc",
+  "entries": [
+    {
+      "key": "q20100001_00_148",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "美食家のキノコ狩り",
+      "source_en": "The Gourmand's Mushroom Hunt",
+      "text": "Pilzsuche für einen Feinschmecker"
+    },
+    {
+      "key": "q20100001_00_148",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "オーギュストの願いを聞き入れ\r\n望む物品を集める",
+      "source_en": "Listen to August's wish\r\nand gather the desired items.",
+      "text": "Geh auf Augusts Bitte ein\r\nund besorg die gesuchten Pilze."
+    },
+    {
+      "key": "q20100001_00_148",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>の何処かに\r\n覚者の探索能力を見込み、相談したい者がいるという",
+      "source_en": "There is someone somewhere\r\nin <NAME AREA>\r\nwho seeks the assistance of an Arisen.",
+      "text": "Es heißt, irgendwo\r\nin <NAME AREA> sucht jemand\r\ndie Hilfe eines Erweckten."
+    },
+    {
+      "key": "q20100001_00_148",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ほら、あの有名なお方だよ\r\nあの手の高名な先生が、命の危険もかえりみず\r\nこんな場所まで来ているかなんて\r\n俺にはさっぱり分からないねぇ\r\nただ、彼の生み出す料理の美味さには\r\nいつも感動しちまうね！",
+      "source_en": "You know, that guy is pretty famous.\r\nWhy a prestigious teacher would risk their life\r\nto come to a place like this, I can't fathom it. \r\nBut their cooking always amazes me, without fail!",
+      "text": "Der Mann ist ziemlich berühmt, weißt du?\r\nWarum ein angesehener Lehrmeister sein Leben riskiert,\r\num hierherzukommen, verstehe ich beim besten Willen nicht.\r\nAber was er kocht, ist jedes Mal fantastisch!"
+    },
+    {
+      "key": "q20100001_00_1124",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼者に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> ×<SQDI NUM> zum Auftraggeber (noch <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}
