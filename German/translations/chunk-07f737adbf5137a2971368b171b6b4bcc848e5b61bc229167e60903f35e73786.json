@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_1270",
+      "read_index": "730",
+      "tag_source": "source_en",
+      "source_jp": "城塞都市メガド 王宮層 玉座",
+      "source_en": "Megado: Royal Palace Level Throne",
+      "text": "Megado – Palastebene: Thronsaal"
+    },
+    {
+      "key": "SPOT_NAME_1282",
+      "read_index": "742",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳 東部",
+      "source_en": "Eastern Urteca Mountains",
+      "text": "Östliches Urteca-Gebirge"
+    },
+    {
+      "key": "SPOT_NAME_1283",
+      "read_index": "743",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳 北部",
+      "source_en": "Northern Urteca Mountains",
+      "text": "Nördliches Urteca-Gebirge"
+    },
+    {
+      "key": "SPOT_NAME_1284",
+      "read_index": "744",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳 西部",
+      "source_en": "Western Urteca Mountains",
+      "text": "Westliches Urteca-Gebirge"
+    },
+    {
+      "key": "SPOT_NAME_1285",
+      "read_index": "745",
+      "tag_source": "source_en",
+      "source_jp": "崩れた進入路",
+      "source_en": "Crumbling Entrance Path",
+      "text": "Verfallener Zugang"
+    },
+    {
+      "key": "SPOT_NAME_1287",
+      "read_index": "747",
+      "tag_source": "source_en",
+      "source_jp": "王家の墓前",
+      "source_en": "Before the Tomb of the Royal Family",
+      "text": "Vor der Grabstätte des Königshauses"
+    },
+    {
+      "key": "SPOT_NAME_1291",
+      "read_index": "751",
+      "tag_source": "source_en",
+      "source_jp": "崩れた進入路 最深部",
+      "source_en": "Crumbling Entrance Path Depths",
+      "text": "Verfallener Zugang – Tiefe"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

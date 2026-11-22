@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00030140.gmd",
+  "arc_path": "\\quest\\q00030140.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "これほど戦況が変化しても姿を見せないとは\r\n悪しき竜め、いったい何を考えているのか\r\n皆目見当がつかんわ",
+      "source_en": "I have no idea what the Evil Dragon is thinking, \r\nthat it hasn't shown itself even after all these \r\nchanges in the war situation.",
+      "text": "Was hat der Böse Drache nur vor?\r\nDie Lage im Krieg hat sich völlig verändert,\r\nund doch hat er sich noch immer nicht gezeigt."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ここからの戦略は判断が難しいと思うよ",
+      "source_en": "I think it's difficult to determine \r\nthe strategy from here on.",
+      "text": "Es ist wohl nicht leicht,\r\njetzt über das weitere Vorgehen zu entscheiden."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "解放軍全体にみなぎる力と勢いを\r\nどう評価するかだよね",
+      "source_en": "It's about how we assess the strength and \r\nmomentum coursing through the entire \r\nLiberation Army.",
+      "text": "Es kommt darauf an, wie wir einschätzen,\r\nwas die Befreiungsarmee im Moment leisten kann\r\nund wie lange ihr neuer Schwung anhält."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "僕が指揮官なら君たちの活躍を見込んで\r\n次から次へと――",
+      "source_en": "If I were the commander, \r\nI would count on your success and send you on \r\nmission after mission――",
+      "text": "Hätte ich das Kommando,\r\nwürde ich auf euch zählen\r\nund euch von einem Einsatz zum nächsten schicken …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "いや、ごめん\r\n現場のことなんて何も知らないのに――",
+      "source_en": "No, sorry.\r\nI don't know anything about the frontline, \r\nbut――",
+      "text": "Nein, verzeih.\r\nVon dem, was an der Front vor sich geht, verstehe ich nichts.\r\nAber …"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜も動き出す頃合いだろう\r\nその動向、見誤るなよ",
+      "source_en": "It's time for the Evil Dragon to make its move.\r\nDo not misjudge its plans.",
+      "text": "Es wird Zeit, dass der Böse Drache wieder handelt.\r\nPass auf, dass du seine Absichten nicht falsch einschätzt."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "おかえりなさい、レスタニアの皆さん",
+      "source_en": "Welcome back, Lestanians!",
+      "text": "Willkommen zurück, ihr aus Lestania!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "皆さんのお力添えで見事取り戻したこの展望城を\r\nぜひご案内したいところですが",
+      "source_en": "With everyone's help, the Lookout Castle has been \r\nsplendidly restored.\r\nI'd love to show you around.",
+      "text": "Alle haben mit angepackt,\r\nund Burg Weitblick sieht wieder prächtig aus.\r\nIch würde sie euch gern zeigen."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "まずはメイロワ将軍から取り急ぎ、皆さんに\r\nお話があるそうです",
+      "source_en": "First of all, General Meirova would like to have \r\na quick word with everyone.",
+      "text": "Vorher möchte General Meirova\r\naber kurz mit euch allen sprechen."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "よく戻ってくれた、レスタニアの覚者たちよ\r\n早速だが聞いてくれ",
+      "source_en": "Welcome back, Arisen of Lestania, \r\nand please listen promptly.",
+      "text": "Willkommen zurück, Erweckte aus Lestania.\r\nHört mir einen Augenblick zu."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "展望城を手に入れた我々が\r\n次に目指すは王都メガド――",
+      "source_en": "Now that we have the Lookout Castle, \r\nour next stop is the Royal Capital of Megado.",
+      "text": "Jetzt, da Burg Weitblick wieder uns gehört,\r\nist unser nächstes Ziel die Königsstadt Megado."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "メガド突入のため\r\nまずは北の地へ侵攻し、足掛かりを作らねばならん",
+      "source_en": "To enter Megado, we must first invade the north \r\nand establish a foothold.",
+      "text": "Bevor wir in die Stadt einrücken können,\r\nmüssen wir im Norden Fuß fassen."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "それには城の背後にそびえ立つ険しい岩山を\r\n縦断する必要があり、これは悩ましい問題で\r\nあったが、解決の目処が立ったところだ",
+      "source_en": "This required traversing the steep rocky \r\nmountains that rise up behind the castle, which \r\nwas a vexing problem, but one that we are now on \r\nthe verge of solving.",
+      "text": "Dazu müssen wir das schroffe Gebirge durchqueren,\r\ndas hinter der Burg aufragt.\r\nLange wussten wir nicht, wie wir hinüberkommen sollen.\r\nJetzt sehen wir einen Weg."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "幸いなことに、城で飼育されていた使役獣が\r\n従順な奴でな、こいつがおぬしらを乗せて\r\n山を越えてくれるだろう",
+      "source_en": "Luckily, the castle kept a docile messenger \r\nbeast, who will carry you across the mountain.",
+      "text": "Zum Glück wurde auf der Burg ein zahmes Reittier gehalten.\r\nEs wird euch über die Berge tragen."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "北の地とは、久しく連絡が途絶えており\r\nどのような状態にあるか分からん",
+      "source_en": "We have been out of touch with the north for a \r\nlong time. \r\nWe don't know what kind of condition they are in.",
+      "text": "Wir haben schon lange nichts mehr\r\nvom Norden gehört.\r\nWir wissen also nicht, wie die Lage dort ist."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "であるからして、まずは、おまえたちに\r\n先に向かってほしいのだ",
+      "source_en": "Therefore, I want you to go first.",
+      "text": "Darum sollt ihr vorausgehen."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "ジリアンらと行動を共にして欲しい\r\n使役獣の乗り場で合流してくれ",
+      "source_en": "I want you to go with Gillian and the others. \r\nMeet them at the boarding station.",
+      "text": "Schließt euch Gillian und den anderen an.\r\nTrefft sie am Gehege der Reittiere."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "一度にしゃべりすぎたか？\r\n簡単に言うと、北の地に王都メガド攻略の\r\n拠点を確保したいということだ",
+      "source_en": "Did I talk too much at once? \r\nThe short version is that we want to secure a \r\nbase in the north of the country for the attack \r\non the royal city of Megado.",
+      "text": "War das zu viel auf einmal?\r\nKurz gesagt brauchen wir im Norden\r\neinen Stützpunkt, von dem aus wir\r\ndie Königsstadt Megado angreifen können."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "ジリアンと一緒に行ってくれ\r\n使役獣乗り場は地図で確認できるはずだ",
+      "source_en": "Go with Gillian.\r\nThe station should be on the map.",
+      "text": "Geh mit Gillian.\r\nDas Gehege müsste auf der Karte eingezeichnet sein."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "使役獣に乗ったことはありますか？",
+      "source_en": "Have you ever ridden on a messenger beast?",
+      "text": "Bist du schon mal auf einem solchen Tier geritten?"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "ああ、初めてですか！\r\n楽しいですよ\r\n僕が保証します！",
+      "source_en": "Oh, is this your first time?\r\nIt's fun.\r\nI guarantee it!",
+      "text": "Ach, das ist dein erstes Mal?\r\nDas macht Spaß.\r\nKann ich dir versprechen!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "奪われた領地を取り戻すのもいいが\r\n悪しき竜対策も考えないとね",
+      "source_en": "I'm all for taking back lost territory, \r\nbut we've got to figure out a way to combat \r\nthe Evil Dragon.",
+      "text": "Ich will genauso wie alle anderen das verlorene Land zurück.\r\nAber wir müssen uns auch überlegen,\r\nwie wir den Bösen Drachen bekämpfen."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "ロスギルの村が落ち着いたから\r\n戻って来たんだ",
+      "source_en": "I came back because the village of Rothgill \r\nhas calmed down.",
+      "text": "In Rothgill hat sich die Lage beruhigt.\r\nDeshalb bin ich zurückgekommen."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "イェルハルド、なんだか若返ったみたいで\r\nわたしの出番はなさそうだしね",
+      "source_en": "Gerhard, he's kind of rejuvenated again, \r\nand I don't think there'll be a chance for me \r\nto be a part of it.",
+      "text": "Gerhard wirkt wieder wie verjüngt.\r\nIch glaube,\r\nda gibt’s für mich erst mal nichts zu tun."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "そしていきなり使役獣さ\r\n久しぶりだから緊張するよ",
+      "source_en": "And then suddenly there's this beast, \r\nand I'm nervous because it's been a long time.",
+      "text": "Und jetzt soll ich auf dieses Tier steigen.\r\nEs ist schon so lange her, dass ich langsam nervös werde."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "俺たちが行くのはいつだってギスギスした\r\n無愛想な道だろ？",
+      "source_en": "Whenever we travel, it's always a tense, \r\nunfriendly path, right?",
+      "text": "Wo wir hinmüssen,\r\nist der Weg doch immer unangenehm und gefährlich."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "今回も、快適にはほど遠いだろうな",
+      "source_en": "This time, too, it's probably far from comfortable.",
+      "text": "Diesmal wird’s bestimmt auch nicht bequemer."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "うれしいな、ついに使役獣に乗れるよ！",
+      "source_en": "I'm so happy, \r\nI finally get to ride a messenger beast!",
+      "text": "Ich freu mich schon.\r\nEndlich darf ich auf so einem Tier reiten!"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "使役獣はそりゃ楽しみですけど\r\nいったいどんなところを通るんでしょうね",
+      "source_en": "I'm looking forward to seeing the messenger \r\nbeasts, but I wonder what the hell they're going \r\nto go through.",
+      "text": "Auf den Ritt freue ich mich schon.\r\nAber ich frage mich,\r\nwas auf dem Weg alles auf uns wartet."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "もし敵襲になったらわたしを守ってくださいね",
+      "source_en": "Please protect me if the enemy attacks.",
+      "text": "Beschützt mich bitte, falls der Feind angreift."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "わたし、戦闘には全然慣れていなくて――\r\nああ、こわい！",
+      "source_en": "I'm not used to combat at all―― \r\nit's scary!",
+      "text": "Ich bin das Kämpfen überhaupt nicht gewohnt.\r\nAch, ich hab solche Angst!"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "なんだか気持ちが悪いぞ",
+      "source_en": "I'm feeling kind of queasy here.",
+      "text": "Mir ist ein bisschen übel."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "おまえは平気そうだな\r\nなんだこれは――",
+      "source_en": "You seem fine to me.\r\nWhat is――",
+      "text": "Du siehst noch ganz munter aus.\r\nWoran das wohl liegt …"
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "使役獣に乗ると、揺れで気持ちが\r\n悪くなる人がいるって聞いたけど\r\n隊長はどう？",
+      "source_en": "I've heard that some people get sick from the \r\nshaking when they ride on a messenger beast.\r\nHow about you, captain?",
+      "text": "Angeblich wird manchen von dem Geschaukel übel,\r\nwenn sie auf so einem Tier reiten.\r\nWie geht’s dir, Hauptmann?"
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "さて、ここからどうするんでしょうね",
+      "source_en": "Well, what do we do from here?",
+      "text": "Und wie geht’s jetzt weiter?"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "もしかして気持ち悪くなったりしてる？",
+      "source_en": "Are you feeling sick by any chance?",
+      "text": "Ist dir etwa schlecht?"
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "そんな時はね、大声で笑ったり歌ったり\r\n騒げばいいのさ\r\n敵に気づかれたらその時はその時だよ",
+      "source_en": "When that happens, you know, you can \r\nlaugh and sing and make a lot of noise.\r\nIf the enemy notices you, \r\nthat's when it's time to go.",
+      "text": "Dann lach laut oder sing ein Lied.\r\nHauptsache, du machst ordentlich Lärm.\r\nWenn der Feind uns dabei bemerkt,\r\nsehen wir dann weiter."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "使役獣の出番はここまでね",
+      "source_en": "So much for the messenger beast.",
+      "text": "Hier müssen wir absitzen."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "ここからは洞窟をくぐって、メガド近くにある\r\n拠点となる場所を目指す",
+      "source_en": "From here, you go through a cave to a base \r\nlocation near Megado.",
+      "text": "Von hier aus geht es durch eine Höhle\r\nzu einem möglichen Stützpunkt bei Megado."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "そこには小さな石塔があって――",
+      "source_en": "There is a small stone tower there and――",
+      "text": "Dort steht ein kleiner Steinturm …"
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "メガドが落城するまでは、王都を守る\r\n警備塔として使われていたのだけれど\r\n今はどうなっているか分からない",
+      "source_en": "It was used as a guard tower to protect the \r\nRoyal Capital until Megado fell, \r\nbut I don't know what it is now.",
+      "text": "Bevor Megado fiel,\r\nwar das ein Wachturm für die Königsstadt.\r\nWas jetzt dort vor sich geht, weiß ich nicht."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "とにかく先へ進もう",
+      "source_en": "Let's just move on.",
+      "text": "Gehen wir erst mal weiter."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "使役獣はここまで\r\n乗り心地はどうだった？",
+      "source_en": "Have you had a good ride so far \r\nwith the messenger beasts?",
+      "text": "Wie hat dir der Ritt\r\nbis hierher gefallen?"
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "こんなに長く乗ったことは\r\nわたしは初めてだよ",
+      "source_en": "I've never ridden for so long.",
+      "text": "So lange bin ich noch nie auf so einem Tier geritten."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "洞窟を抜け\r\nどうなってるか分からねえ石塔を目指すか――",
+      "source_en": "We could go through the cave to the stone tower, \r\nwho knows what the hell is going on--",
+      "text": "Dann eben durch die Höhle zu dem Steinturm.\r\nKeine Ahnung, was uns da erwartet …"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_479",
+      "read_index": "383",
+      "tag_source": "source_en",
+      "source_jp": "湖畔の洞窟",
+      "source_en": "Lakeside Grotto",
+      "text": "Grotte am See"
+    },
+    {
+      "key": "STAGE_NAME_481",
+      "read_index": "385",
+      "tag_source": "source_en",
+      "source_jp": "秘泉への暗道",
+      "source_en": "Dark Path to the Secret Spring",
+      "text": "Dunkler Pfad zur verborgenen Quelle"
+    },
+    {
+      "key": "STAGE_NAME_482",
+      "read_index": "386",
+      "tag_source": "source_en",
+      "source_jp": "秘泉の間",
+      "source_en": "Before the Secret Spring",
+      "text": "Kammer der verborgenen Quelle"
+    },
+    {
+      "key": "STAGE_NAME_486",
+      "read_index": "387",
+      "tag_source": "source_en",
+      "source_jp": "城塞都市メガド 居住層",
+      "source_en": "Fortress City Megado: Residential Level",
+      "text": "Festungsstadt Megado – Wohnviertel"
+    },
+    {
+      "key": "STAGE_NAME_487",
+      "read_index": "388",
+      "tag_source": "source_en",
+      "source_jp": "城塞都市メガド 居住層",
+      "source_en": "Fortress City Megado: Residential Level",
+      "text": "Festungsstadt Megado – Wohnviertel"
+    },
+    {
+      "key": "STAGE_NAME_488",
+      "read_index": "389",
+      "tag_source": "source_en",
+      "source_jp": "城塞都市メガド 王宮層",
+      "source_en": "Megado: Royal Palace Level",
+      "text": "Megado – Palastebene"
+    },
+    {
+      "key": "STAGE_NAME_489",
+      "read_index": "390",
+      "tag_source": "source_en",
+      "source_jp": "メガド離宮",
+      "source_en": "Megado Detached Palace",
+      "text": "Nebenresidenz von Megado"
+    },
+    {
+      "key": "STAGE_NAME_512",
+      "read_index": "409",
+      "tag_source": "source_en",
+      "source_jp": "ロスギル旅人宿",
+      "source_en": "Rothgill Traveler's Inn",
+      "text": "Gasthaus von Rothgill"
+    },
+    {
+      "key": "STAGE_NAME_516",
+      "read_index": "413",
+      "tag_source": "source_en",
+      "source_jp": "王家の隠れ道",
+      "source_en": "Royal Family's Secret Path",
+      "text": "Geheimgang des Königshauses"
+    },
+    {
+      "key": "STAGE_NAME_517",
+      "read_index": "414",
+      "tag_source": "source_en",
+      "source_jp": "メガド回廊",
+      "source_en": "Megado Corridor",
+      "text": "Palastpassage von Megado"
+    },
+    {
+      "key": "STAGE_NAME_520",
+      "read_index": "417",
+      "tag_source": "source_en",
+      "source_jp": "メフィテ旅人宿",
+      "source_en": "Mephite Traveler's Inn",
+      "text": "Gasthaus von Mephite"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

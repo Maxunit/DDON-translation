@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300202_00.gmd",
+  "arc_path": "\\quest\\q60300202.arc",
+  "entries": [
+    {
+      "key": "q60300202_00_351",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "王冠と王笏＜３＞",
+      "source_en": "Crown and Scepter III",
+      "text": "Krone und Zepter III"
+    },
+    {
+      "key": "q60300202_00_351",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "キルスティから\r\n初代王の指輪について話を聞く",
+      "source_en": "Hear the story from Kirsty\r\nabout the Ring of the First King",
+      "text": "Höre dir an, was Kirsty\r\nüber den Ring des ersten Königs zu erzählen hat."
+    },
+    {
+      "key": "q60300202_00_4816",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "王家の隠れ道へ向かう",
+      "source_en": "Head to the Royal Family's Secret Path",
+      "text": "Begib dich zum Geheimgang des Königshauses."
+    },
+    {
+      "key": "q60300202_00_4817",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "キルスティと合流する",
+      "source_en": "Rendezvous with Kirsty",
+      "text": "Triff Kirsty."
+    },
+    {
+      "key": "q60300202_00_4818",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "秘密の扉のある場所へ向かう",
+      "source_en": "Head to the place with the secret door",
+      "text": "Begib dich zur verborgenen Tür."
+    },
+    {
+      "key": "q60300202_00_4819",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を殲滅する",
+      "source_en": "Defeat the enemy encountered",
+      "text": "Besiege den aufgetauchten Gegner."
+    },
+    {
+      "key": "q60300202_00_4820",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "キルスティと話をする",
+      "source_en": "Speak to Kirsty",
+      "text": "Sprich mit Kirsty."
+    },
+    {
+      "key": "q60300202_00_4821",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "高地のあばら屋へ戻る",
+      "source_en": "Return to the Plateau Shack",
+      "text": "Kehre zur Hütte im Hochland zurück."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_1059",
+      "read_index": "524",
+      "tag_source": "source_en",
+      "source_jp": "ラスニテ山麓　湖畔部",
+      "source_en": "Rathnite Foothills Lakeside",
+      "text": "Seeufer im Rathnite-Vorgebirge"
+    },
+    {
+      "key": "SPOT_NAME_1062",
+      "read_index": "527",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳",
+      "source_en": "Urteca Mountains",
+      "text": "Urteca-Gebirge"
+    },
+    {
+      "key": "SPOT_NAME_1095",
+      "read_index": "558",
+      "tag_source": "source_en",
+      "source_jp": "湖畔の洞窟",
+      "source_en": "Lakeside Grotto",
+      "text": "Grotte am See"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

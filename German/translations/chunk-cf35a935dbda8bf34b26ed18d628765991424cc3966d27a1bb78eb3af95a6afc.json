@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00030125.gmd",
+  "arc_path": "\\quest\\q00030125.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "90",
+      "tag_source": "source_en",
+      "source_jp": "あと一度の攻撃が限度だろう\r\nつまり、わしらの機会もあと一度ということだ",
+      "source_en": "One more attack would be the limit, \r\nwhich means we have one more chance.",
+      "text": "Einen Angriff halten sie noch durch.\r\nDamit bleibt uns genau eine Gelegenheit."
+    },
+    {
+      "key": "",
+      "read_index": "91",
+      "tag_source": "source_en",
+      "source_jp": "エリオットがロスギルに残った\r\n陽動部隊に参加するってよ",
+      "source_en": "Elliott is staying behind in Rothgill.\r\nHe's going to join the diversionary unit.",
+      "text": "Elliot bleibt in Rothgill.\r\nEr schließt sich dem Locktrupp an."
+    },
+    {
+      "key": "",
+      "read_index": "92",
+      "tag_source": "source_en",
+      "source_jp": "エリオット、疲れ切った陽動部隊の人たちに\r\nすっかり同情しちゃって――",
+      "source_en": "Oh, Elliott, you're totally feeling bad for the \r\nexhausted diversionary unit...",
+      "text": "Ach, Elliot. Es lässt dir wohl keine Ruhe,\r\ndass der Locktrupp so erschöpft ist …"
+    },
+    {
+      "key": "",
+      "read_index": "93",
+      "tag_source": "source_en",
+      "source_jp": "まあ、気持ちはわかるな\r\nあいつなら、大丈夫だよね",
+      "source_en": "Well, I know how you feel. \r\nHe's gonna be okay.",
+      "text": "Kann ich ja verstehen.\r\nIhm wird schon nichts passieren."
+    },
+    {
+      "key": "",
+      "read_index": "94",
+      "tag_source": "source_en",
+      "source_jp": "城の地下で大勢の人たちを\r\n助けたんだってね",
+      "source_en": "I heard you saved a lot of people in the basement \r\nof the castle.",
+      "text": "Ich habe gehört, dass ihr viele Menschen\r\naus dem Burgverlies gerettet habt."
+    },
+    {
+      "key": "",
+      "read_index": "95",
+      "tag_source": "source_en",
+      "source_jp": "良かったよ――本当に良かった\r\n僕は、つい、そういう人たちと\r\n自分を重ね合わせてしまうんだ",
+      "source_en": "That was—really good\r\nI tend to identify myself with people like that.",
+      "text": "Das ist gut. Wirklich gut.\r\nIch stelle mir bei solchen Leuten immer vor, ich wäre an ihrer Stelle."
+    },
+    {
+      "key": "",
+      "read_index": "96",
+      "tag_source": "source_en",
+      "source_jp": "いてもいなくても、誰も気にしないような\r\nそんな人たちにさ",
+      "source_en": "To those people who are there and aren't there, \r\nand nobody cares.",
+      "text": "Bei Leuten, die einfach verschwinden können,\r\nohne dass sie jemand vermisst."
+    },
+    {
+      "key": "",
+      "read_index": "97",
+      "tag_source": "source_en",
+      "source_jp": "なるほど――\r\n城への突入準備が整ったというわけか",
+      "source_en": "I see... \r\nso you're ready to storm the castle.",
+      "text": "Verstehe …\r\nIhr seid also bereit, die Burg zu stürmen."
+    },
+    {
+      "key": "",
+      "read_index": "98",
+      "tag_source": "source_en",
+      "source_jp": "順調に城を奪回すれば次は王都メガド――だったな",
+      "source_en": "If the castle is taken in good time, \r\nthe next step is Megado, \r\nthe royal capital - right?",
+      "text": "Wenn ihr die Burg zügig einnehmt,\r\ngeht es danach nach Megado,\r\nin die Königsstadt, richtig?"
+    },
+    {
+      "key": "",
+      "read_index": "99",
+      "tag_source": "source_en",
+      "source_jp": "ふむ――奪回か\r\nネド王子が悪しき竜から竜力を\"奪回\"するまでは\r\n気が休まらないな",
+      "source_en": "Hmm... recapture.\r\nI won't feel at ease until Prince Nedo \r\n\"recaptures\" the Dragon Force \r\nfrom the Evil Dragon.",
+      "text": "Hm … zurückerobern.\r\nIch werde erst aufatmen, wenn Prinz Nedo\r\nauch die Drachenkraft\r\nvom Bösen Drachen „zurückerobert“ hat."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

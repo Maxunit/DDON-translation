@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\named\\named_param.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "namedparam_1772",
+      "read_index": "1265",
+      "tag_source": "source_en",
+      "source_jp": "骸の将",
+      "source_en": " Necro Master ",
+      "text": " Totengeneral "
+    },
+    {
+      "key": "namedparam_1773",
+      "read_index": "1266",
+      "tag_source": "source_en",
+      "source_jp": "骸の腰巾着",
+      "source_en": " Necro Follower ",
+      "text": " Gefolgsmann des Totengenerals "
+    },
+    {
+      "key": "namedparam_1774",
+      "read_index": "1267",
+      "tag_source": "source_en",
+      "source_jp": "展望城の見張り兵",
+      "source_en": " Lookout Castle Guard Troop ",
+      "text": " Wachtrupp von Burg Weitblick "
+    },
+    {
+      "key": "namedparam_1775",
+      "read_index": "1268",
+      "tag_source": "source_en",
+      "source_jp": "展望城の見張り兵",
+      "source_en": " Lookout Castle Guard Troop ",
+      "text": " Wachtrupp von Burg Weitblick "
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

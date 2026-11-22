@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00030200_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00030200_00_71",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "解放軍と共に王都メガドへ侵攻し\r\n黒騎士が奪いし白竜の竜力を取り戻す",
+      "source_en": "Invade Megado with the Liberation Army\r\nand reclaim the stolen Dragon Force.",
+      "text": "Dringe mit der Befreiungsarmee in Megado ein\r\nund hole die gestohlene Drachenkraft zurück."
+    },
+    {
+      "key": "q00030200_00_3914",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "展望城へ向かう",
+      "source_en": "Head to the Lookout Castle",
+      "text": "Begib dich nach Burg Weitblick."
+    },
+    {
+      "key": "q00030200_00_3915",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "メガド居住層へ向かう",
+      "source_en": "Head to the Megado Residential Level",
+      "text": "Begib dich ins Wohnviertel von Megado."
+    },
+    {
+      "key": "q00030200_00_3916",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ジリアンと話す",
+      "source_en": "Speak with Gillian",
+      "text": "Sprich mit Gillian."
+    },
+    {
+      "key": "q00030200_00_3917",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "メイロワ将軍に続きメガド回廊へ突入する",
+      "source_en": "Storm the Megado Corridor with General Meirova",
+      "text": "Stürme mit General Meirova die Palastpassage von Megado."
+    },
+    {
+      "key": "q00030200_00_3918",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "メガド回廊を抜け王宮層を目指す",
+      "source_en": "Leave the Megado Corridor and head for the Royal Palace Level",
+      "text": "Verlasse die Palastpassage und begib dich zur Palastebene."
+    },
+    {
+      "key": "q00030200_00_3919",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "先行していたメイロワと合流し戦況を確認する",
+      "source_en": "Rendezvous with the leading Meirova and check the situation",
+      "text": "Triff Meirova, der vorausgegangen ist, und erkundige dich nach der Lage."
+    },
+    {
+      "key": "q00030200_00_3920",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "王宮層へ向かい黒騎士を探す",
+      "source_en": "Head towards the Royal Palace and search for the Black Knight",
+      "text": "Geh zum Königspalast und suche nach dem Schwarzen Ritter."
+    },
+    {
+      "key": "q00030200_00_3921",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "召喚された魔物を討伐する",
+      "source_en": "Defeat the summoned monsters",
+      "text": "Besiege die beschworenen Monster."
+    },
+    {
+      "key": "q00030200_00_3922",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "黒騎士を倒す",
+      "source_en": "Defeat the Black Knight",
+      "text": "Besiege den Schwarzen Ritter."
+    },
+    {
+      "key": "q00030200_00_3923",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアに帰還する",
+      "source_en": "Return to Lestania",
+      "text": "Kehre nach Lestania zurück."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

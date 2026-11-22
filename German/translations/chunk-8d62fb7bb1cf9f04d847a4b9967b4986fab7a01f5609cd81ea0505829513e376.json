@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\enemy\\enemy_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ENEMY_NAME_365",
+      "read_index": "343",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜",
+      "source_en": "The Evil Dragon",
+      "text": "Der Böse Drache"
+    },
+    {
+      "key": "ENEMY_NAME_393",
+      "read_index": "361",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜",
+      "source_en": "The Evil Dragon",
+      "text": "Der Böse Drache"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

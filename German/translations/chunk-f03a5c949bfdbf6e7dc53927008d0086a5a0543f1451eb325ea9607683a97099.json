@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area19_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "嘆きの湿原",
+      "source_en": "Wailing Wetland",
+      "text": "Klagemoor"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "秘泉への暗道",
+      "source_en": "Dark Path to the Secret Spring",
+      "text": "Dunkler Pfad zur verborgenen Quelle"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "王家の隠れ道",
+      "source_en": "Royal Family's Secret Path",
+      "text": "Geheimgang des Königshauses"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

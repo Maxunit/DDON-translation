@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_1300",
+      "read_index": "760",
+      "tag_source": "source_en",
+      "source_jp": "王家の墓 最奥",
+      "source_en": "Innermost Royal Family Mausoleum",
+      "text": "Grabstätte des Königshauses – Innerstes"
+    },
+    {
+      "key": "SPOT_NAME_1319",
+      "read_index": "779",
+      "tag_source": "source_en",
+      "source_jp": "【紡ぎし望み】悪しき竜のねぐら",
+      "source_en": "[Spun Hope] Evil Dragon's Roost",
+      "text": "[Hoffnung, die uns verbindet] Hort des Bösen Drachen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

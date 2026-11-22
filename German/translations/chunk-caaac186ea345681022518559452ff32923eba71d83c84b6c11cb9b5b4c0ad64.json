@@ -1,0 +1,272 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00030110.gmd",
+  "arc_path": "\\quest\\q00030110.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "集合場所は地図で確認してほしい\r\n湿原へ続く谷と、展望城が見える丘の上だ",
+      "source_en": "Please check the map for the meeting place. \r\nIt's on a hill with a view of the valley leading \r\nto the marsh and the Lookout Castle.",
+      "text": "Den Treffpunkt findest du auf der Karte.\r\nEr liegt auf einem Hügel, von dem aus du\r\ndas Tal zum Klagemoor und die Burg Weitblick siehst."
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "おとり部隊ってのも難しいもんだな\r\n決着をつけちゃいけないんだろ？",
+      "source_en": "It's a difficult thing being a decoy unit.\r\nYou're not allowed to be the deciding factor,\r\nare you?",
+      "text": "Als Locktrupp hat man’s auch nicht leicht.\r\nWir sollen sie nur ablenken und den Kampf\r\ngar nicht entscheiden, richtig?"
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "湿原、行くんだよね",
+      "source_en": "Alright, off to the marshland.",
+      "text": "Gut, auf ins Moor."
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "湿原って、いい湿原かな\r\nそれとも、虫がブンブン飛んでいる\r\nよくない湿原かな",
+      "source_en": "Is it a good marshland, \r\nor is it a bad marsh full of buzzing insects?",
+      "text": "Ist das ein schönes Moor\r\noder eins, in dem dir ständig Mücken um die Ohren schwirren?"
+    },
+    {
+      "key": "",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "さあ、行きましょうか\r\n基本的にはイェルハルドの作戦で良いと\r\n思いますけど――",
+      "source_en": "Well, let's go. \r\nBasically, I think Gerhard's plan is good, but...",
+      "text": "Dann mal los.\r\nEigentlich finde ich Gerhards Plan gut, aber …"
+    },
+    {
+      "key": "",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "現地を見たら事情が変わっていたなんて\r\nよくあることですからね",
+      "source_en": "It's not uncommon to find that the situation\r\nhas changed when you get there.",
+      "text": "Vor Ort sieht die Lage oft anders aus,\r\nals man erwartet hat."
+    },
+    {
+      "key": "",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "ほら、あれが展望城――\r\nそれから嘆きの湿原へと続く谷の広がり――\r\nよく見ておいてね",
+      "source_en": "Look, there's the Lookout Castle—\r\nAnd the expanse of valley that leads on\r\nto the Wailing Wetland—take a good look.",
+      "text": "Seht ihr dort die Burg Weitblick?\r\nDavor liegt das Tal, das zum Klagemoor führt.\r\nSchaut es euch gut an."
+    },
+    {
+      "key": "",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "湿原への経路には魔物が多いみたいだから\r\nまず、それを片付けて\r\nこっちの動線を確保した方がいいね",
+      "source_en": "There seem to be a lot of enemies\r\non the path towards the marsh,\r\nso we'd better clear them out first\r\nto make sure we have a clear path this way.",
+      "text": "Auf dem Weg zum Moor\r\nsind anscheinend viele Feinde.\r\nDie sollten wir zuerst beseitigen,\r\ndamit wir von hier aus freie Bahn haben."
+    },
+    {
+      "key": "",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "それが終わりしだい、湿原へ突入する\r\n本格的な陽動作戦の開始",
+      "source_en": "As soon as that's done, \r\nwe'll move into the marshland and begin\r\nthe full-scale diversionary operation.",
+      "text": "Sobald das erledigt ist,\r\nrücken wir ins Moor vor.\r\nDann beginnt das eigentliche Ablenkungsmanöver."
+    },
+    {
+      "key": "",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "この襲撃で砦を落としてやる！\r\n――そんな勢いで派手に暴れてやろうよ",
+      "source_en": "We'll bring down the fort with this raid!\r\n—Let's go on a wild rampage\r\nwith that kind of momentum.",
+      "text": "„Wir nehmen die Festung im Sturm!“\r\nSo soll es für die Orks aussehen.\r\nAlso machen wir ordentlich Rabatz."
+    },
+    {
+      "key": "",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "まずは湿原へと導く経路の魔物退治",
+      "source_en": "First, exterminate the enemies on the path \r\nleading to the marsh.",
+      "text": "Kümmere dich zuerst um die Feinde\r\nauf dem Weg zum Moor."
+    },
+    {
+      "key": "",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "きっと陽動作戦は何度も必要になるから\r\n消耗は最小限に抑えよう",
+      "source_en": "I'm sure we'll need to trick the orcs\r\nmore than once, so don't wear yourselves out!",
+      "text": "Wir müssen die Orks sicher mehr als einmal täuschen.\r\nTeilt euch also eure Kräfte ein!"
+    },
+    {
+      "key": "",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "陽動作戦ってのは本来難しいものだが\r\nまあ、相手はオークだ\r\nなんとかなるだろうよ",
+      "source_en": "Diversionary tactics are inherently difficult, \r\nbut hey, they're orcs, so we'll manage.",
+      "text": "Ablenkungsmanöver sind normalerweise schwierig.\r\nAber es sind nur Orks. Das kriegen wir hin."
+    },
+    {
+      "key": "",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "さあ、暴れるよ～！",
+      "source_en": "Now, let's go～!",
+      "text": "Na dann, auf geht’s!"
+    },
+    {
+      "key": "",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "現地の状況にもよりますけど\r\nここからは散開して攻めた方が\r\n良さそうですね",
+      "source_en": "Depending on the local conditions, \r\nit might be better to spread out \r\nand attack from here.",
+      "text": "Es kommt darauf an, wie es dort aussieht.\r\nVielleicht teilen wir uns hier besser auf\r\nund greifen von mehreren Seiten an."
+    },
+    {
+      "key": "",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "こちらの人数を多く見せることができます",
+      "source_en": "We can give the impression\r\nthat we have more people here.",
+      "text": "So denken sie,\r\ndass wir mehr Leute haben, als wir wirklich sind."
+    },
+    {
+      "key": "",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "城への通路が見つかったという連絡は\r\nまだ来ないね",
+      "source_en": "Still no word on whether they've found\r\na way into the castle just yet.",
+      "text": "Wir haben noch nichts darüber gehört,\r\nob sie schon einen Weg in die Burg gefunden haben."
+    },
+    {
+      "key": "",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "今のうち、レスタニアに帰っておいたら？",
+      "source_en": "Why don't you go back to Lestania \r\nwhile you're at it?",
+      "text": "Warum kehrst du in der Zwischenzeit\r\nnicht nach Lestania zurück?"
+    },
+    {
+      "key": "",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "さあ、どこへ行く？　ロスギル村か\r\n王子のいる砦かそれともレスタニアか",
+      "source_en": "So, where to? Rothgill Village,\r\nthe fortress with the Prince, \r\nor to Lestania?",
+      "text": "Also, wohin jetzt? Nach Rothgill?\r\nIn die Festung zum Prinzen?\r\nOder nach Lestania?"
+    },
+    {
+      "key": "",
+      "read_index": "64",
+      "tag_source": "source_en",
+      "source_jp": "ジリアン、大丈夫かなあ\r\n心配だなあ",
+      "source_en": "Gillian, I hope you're okay. \r\nI'm worried about you.",
+      "text": "Hoffentlich ist Gillian wohlauf.\r\nIch mache mir Sorgen um sie."
+    },
+    {
+      "key": "",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "作戦にケチをつけるつもりはないけれど\r\n陽動部隊は戦果がわかりにくいですよね",
+      "source_en": "I don't mean to be stingy with the strategy, \r\nbut it's hard to tell the results\r\nof a diversionary unit.",
+      "text": "Ich will den Plan nicht schlechtreden.\r\nAber bei einem Ablenkungsmanöver ist es schwer zu sagen,\r\nob man erreicht hat, was man wollte."
+    },
+    {
+      "key": "",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "ご苦労でした\r\nあとは我々でつつき回してやりますよ",
+      "source_en": "Thank you for your hard work.\r\nWe'll keep on poking and prodding them.",
+      "text": "Gute Arbeit.\r\nWir halten die Orks weiter auf Trab."
+    },
+    {
+      "key": "",
+      "read_index": "67",
+      "tag_source": "source_en",
+      "source_jp": "なるほど、陽動と奇襲か",
+      "source_en": "I see. Diversion and surprise.",
+      "text": "Verstehe. Ein Ablenkungsmanöver und ein Überraschungsangriff."
+    },
+    {
+      "key": "",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "古今東西、効果的な作戦は\r\n同じということだね",
+      "source_en": "The most effective operations, \r\nboth ancient and modern, are the same.",
+      "text": "Was sich im Krieg bewährt,\r\nhat sich über die Jahrhunderte kaum verändert."
+    },
+    {
+      "key": "",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "継承を望まぬ竜から竜力を得る――",
+      "source_en": "Dragon Force obtained from a Dragon\r\nwho does not wish to bestow it...",
+      "text": "Einem Drachen seine Kraft abzuringen,\r\nder sie nicht weitergeben will …"
+    },
+    {
+      "key": "",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "いったいどのような秘策が\r\nあるというのか",
+      "source_en": "Exactly what kind of secret plan is this?",
+      "text": "Was ist das für ein geheimer Plan?"
+    },
+    {
+      "key": "",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "陽動作戦か――",
+      "source_en": "A diversion...",
+      "text": "Also ein Ablenkungsmanöver …"
+    },
+    {
+      "key": "",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "長く続いたオークとの戦争で学んだとおり\r\n奴らは陽動にひっかかり易いが――",
+      "source_en": "As we learned in the long war with the orcs, \r\nthey are easy to divert.",
+      "text": "Im langen Krieg mit den Orks haben wir gelernt,\r\ndass sie sich leicht ablenken lassen."
+    },
+    {
+      "key": "",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "騙されたと気づいた時の怒りは凄まじい\r\n陽動部隊が心配だな",
+      "source_en": "The anger when they realize\r\nthey've been duped is terrible. \r\nI'm worried about the diversionary forces.",
+      "text": "Sobald sie merken,\r\ndass man sie hereingelegt hat, werden sie rasend.\r\nIch mache mir Sorgen um den Locktrupp."
+    },
+    {
+      "key": "",
+      "read_index": "74",
+      "tag_source": "source_en",
+      "source_jp": "それにしてもだ――",
+      "source_en": "But still...",
+      "text": "Aber wenn man es sich überlegt …"
+    },
+    {
+      "key": "",
+      "read_index": "75",
+      "tag_source": "source_en",
+      "source_jp": "おまえたちがいなければ\r\n今頃アッカーシェランは完全に悪しき竜と\r\nオークに支配されていたと思わんか",
+      "source_en": "Don't you think that without you, \r\nAcre Selund would be completely ruled\r\nby the Evil Dragon and orcs by now?",
+      "text": "Findet ihr nicht auch, dass Acre Selund ohne euch\r\nlängst ganz in der Hand des Bösen Drachen\r\nund seiner Orks wäre?"
+    },
+    {
+      "key": "",
+      "read_index": "76",
+      "tag_source": "source_en",
+      "source_jp": "しかしおまえたちがいても事の進みに\r\n少しばかりの遅れが出る程度だと\r\n考えているのだとすればこれは良い機会",
+      "source_en": "But if you think your presence\r\nwill cause more than a slight delay, \r\nthen this is a good opportunity.",
+      "text": "Wenn er aber glaubt, dass ihr\r\nseine Pläne nur ein wenig verzögern könnt,\r\nist das eine gute Gelegenheit für uns."
+    },
+    {
+      "key": "",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "白竜の覚者たちの力を見くびるとどうなるか\r\n\"悪しき竜\"に教えてやらねば！",
+      "source_en": "We must show the \"Evil Dragon\" what happens\r\nwhen he underestimates the power\r\nof The White Dragons' Arisen!",
+      "text": "Wir müssen dem Bösen Drachen zeigen,\r\nwas passiert, wenn er die Erweckten\r\ndes Weißen Drachen unterschätzt!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

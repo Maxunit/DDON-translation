@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_1096",
+      "read_index": "559",
+      "tag_source": "source_en",
+      "source_jp": "秘泉への暗道",
+      "source_en": "Dark Path to the Secret Spring",
+      "text": "Dunkler Pfad zur verborgenen Quelle"
+    },
+    {
+      "key": "SPOT_NAME_1097",
+      "read_index": "560",
+      "tag_source": "source_en",
+      "source_jp": "城塞都市メガド 居住層",
+      "source_en": "Fortress City Megado: Residential Level",
+      "text": "Festungsstadt Megado – Wohnviertel"
+    },
+    {
+      "key": "SPOT_NAME_1098",
+      "read_index": "561",
+      "tag_source": "source_en",
+      "source_jp": "城塞都市メガド 王宮層",
+      "source_en": "Megado: Royal Palace Level",
+      "text": "Megado – Palastebene"
+    },
+    {
+      "key": "SPOT_NAME_1099",
+      "read_index": "562",
+      "tag_source": "source_en",
+      "source_jp": "メガド回廊",
+      "source_en": "Megado Corridor",
+      "text": "Palastpassage von Megado"
+    },
+    {
+      "key": "SPOT_NAME_1104",
+      "read_index": "567",
+      "tag_source": "source_en",
+      "source_jp": "王家の隠れ道",
+      "source_en": "Royal Family's Secret Path",
+      "text": "Geheimgang des Königshauses"
+    },
+    {
+      "key": "SPOT_NAME_1112",
+      "read_index": "575",
+      "tag_source": "source_en",
+      "source_jp": "王家の隠れ道 秘密の扉前",
+      "source_en": "Royal Family's Secret Path: Hidden Door",
+      "text": "Geheimgang des Königshauses – Vor der geheimen Tür"
+    },
+    {
+      "key": "SPOT_NAME_1113",
+      "read_index": "576",
+      "tag_source": "source_en",
+      "source_jp": "湖畔の洞窟 深層部",
+      "source_en": "Lakeside Grotto Inner Depths",
+      "text": "Grotte am See – Tiefe"
+    },
+    {
+      "key": "SPOT_NAME_1114",
+      "read_index": "577",
+      "tag_source": "source_en",
+      "source_jp": "湖畔の洞窟 鍾乳洞",
+      "source_en": "Lakeside Grotto: Limestone Cave",
+      "text": "Grotte am See – Kalksteinhöhle"
+    },
+    {
+      "key": "SPOT_NAME_1115",
+      "read_index": "578",
+      "tag_source": "source_en",
+      "source_jp": "湖畔の洞窟 通路",
+      "source_en": "Lakeside Grotto: Passage",
+      "text": "Grotte am See – Durchgang"
+    },
+    {
+      "key": "SPOT_NAME_1116",
+      "read_index": "579",
+      "tag_source": "source_en",
+      "source_jp": "秘泉への暗道 深層部",
+      "source_en": "Dark Path to the Secret Spring Depths",
+      "text": "Dunkler Pfad zur verborgenen Quelle – Tiefe"
+    },
+    {
+      "key": "SPOT_NAME_1117",
+      "read_index": "580",
+      "tag_source": "source_en",
+      "source_jp": "王家の隠れ道 書庫",
+      "source_en": "Royal Family's Secret Path: Library",
+      "text": "Geheimgang des Königshauses – Bibliothek"
+    },
+    {
+      "key": "SPOT_NAME_1118",
+      "read_index": "581",
+      "tag_source": "source_en",
+      "source_jp": "王家の隠れ道 聖堂",
+      "source_en": "Royal Family's Secret Path: Shrine",
+      "text": "Geheimgang des Königshauses – Schrein"
+    },
+    {
+      "key": "SPOT_NAME_1119",
+      "read_index": "582",
+      "tag_source": "source_en",
+      "source_jp": "王家の隠れ道 宝物庫",
+      "source_en": "Royal Family's Secret Path: Treasury",
+      "text": "Geheimgang des Königshauses – Schatzkammer"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

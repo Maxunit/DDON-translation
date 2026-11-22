@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00030110_00.gmd",
+  "arc_path": "\\quest\\q00030110.arc",
+  "entries": [
+    {
+      "key": "q00030110_00_69",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "陽動作戦",
+      "source_en": "Diversionary Tactics",
+      "text": "Das Ablenkungsmanöver"
+    },
+    {
+      "key": "q00030110_00_69",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アッカーシェランを取り戻す道筋を\r\n話し合うため、ティネス砦へ向かう",
+      "source_en": "To discuss the path to regain Acre Selund,\r\nhead to Fort Thines.",
+      "text": "Begib dich zur Festung Thines,\r\num die Befreiung von Acre Selund zu besprechen."
+    },
+    {
+      "key": "q00030110_00_2900",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ティネス砦に向かう",
+      "source_en": "Head to Fort Thines",
+      "text": "Begib dich zur Festung Thines."
+    },
+    {
+      "key": "q00030110_00_2902",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ネドと話す",
+      "source_en": "Speak with Nedo",
+      "text": "Sprich mit Nedo."
+    },
+    {
+      "key": "q00030110_00_2903",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ロスギルでイェルハルドと話す",
+      "source_en": "Speak with Gerhard in Rothgill",
+      "text": "Sprich mit Gerhard in Rothgill."
+    },
+    {
+      "key": "q00030110_00_2904",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ジリアンと話す",
+      "source_en": "Speak with Gillian",
+      "text": "Sprich mit Gillian."
+    },
+    {
+      "key": "q00030110_00_2906",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "野営地の敵を殲滅する",
+      "source_en": "Defeat the enemy at the campsite",
+      "text": "Besiege den Feind im Lager."
+    },
+    {
+      "key": "q00030110_00_2907",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "ジリアンと話す",
+      "source_en": "Speak with Gillian",
+      "text": "Sprich mit Gillian."
+    },
+    {
+      "key": "q00030110_00_2908",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアに帰還しジョゼフに報告する",
+      "source_en": "Return to Lestania and report to Joseph",
+      "text": "Kehre nach Lestania zurück und erstatte Joseph Bericht."
+    },
+    {
+      "key": "q00030110_00_3091",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "展望城の見える丘でジリアンと合流する",
+      "source_en": "Rendezvous with Gillian at the hill overlooking the castle",
+      "text": "Triff Gillian auf dem Hügel, von dem aus du die Burg siehst."
+    },
+    {
+      "key": "q00030110_00_3092",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "嘆きの湿原周辺の敵を討伐する",
+      "source_en": "Defeat the enemy around the Wailing Wetland",
+      "text": "Besiege die Feinde am Klagemoor."
+    },
+    {
+      "key": "q00030110_00_3093",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "開いた門から嘆きの湿原へ潜入し野営地を目指す",
+      "source_en": "Sneak into the Wailing Wetland and head for the encampment",
+      "text": "Schleiche dich ins Klagemoor und begib dich zum Lager."
+    },
+    {
+      "key": "q00030110_00_4280",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "ジリアン達と合流する",
+      "source_en": "Rendezvous with Gillian",
+      "text": "Triff Gillian."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

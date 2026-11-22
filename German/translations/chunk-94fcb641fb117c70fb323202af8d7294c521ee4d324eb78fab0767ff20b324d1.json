@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50400008_00.gmd",
+  "arc_path": "\\quest\\q50400008.arc",
+  "entries": [
+    {
+      "key": "q50400008_00_101",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "大竜晶破壊戦：抗う大地",
+      "source_en": "The Great Dragon Crystal War: The Resisting Land",
+      "text": "Schlacht um den Großen Drachenkristall – Das Land leistet Widerstand"
+    },
+    {
+      "key": "q50400008_00_101",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n闇に覆われた地にて魔物を退け\r\n元凶である暗黒の竜晶を破壊せよ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nDefeat the monsters in the land covered in darkness,\r\nand destroy the Dragon Crystal of Darkness, the root of evil.",
+      "text": "Ihr kampferprobten Erweckten, Schwingen eures Drachen!\r\nBesiegt die Monster in dem von Finsternis bedeckten Land\r\nund zerstört den Drachenkristall der Finsternis, aus dem all das Unheil hervorgeht."
+    },
+    {
+      "key": "q50400008_00_5116",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "暗黒の大竜晶を破壊せよ",
+      "source_en": "Destroy the Great Dragon Crystal of Darkness",
+      "text": "Zerstöre den Großen Drachenkristall der Finsternis."
+    },
+    {
+      "key": "q50400008_00_5125",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "調査を続けるか、ゲートを通り報酬を受け取る",
+      "source_en": "Continue the investigation or pass through the gate to receive the reward",
+      "text": "Setze die Erkundung fort oder geh durch das Tor, um die Belohnung zu erhalten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

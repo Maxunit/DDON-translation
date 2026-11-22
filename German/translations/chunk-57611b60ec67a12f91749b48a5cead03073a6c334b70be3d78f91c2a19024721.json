@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300201_00.gmd",
+  "arc_path": "\\quest\\q60300201.arc",
+  "entries": [
+    {
+      "key": "q60300201_00_350",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "王冠と王笏＜２＞",
+      "source_en": "Crown and Scepter II",
+      "text": "Krone und Zepter II"
+    },
+    {
+      "key": "q60300201_00_350",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "キルスティから\r\n初代王の指輪について話を聞く",
+      "source_en": "Hear the story from Kirsty\r\nabout the Ring of the First King",
+      "text": "Höre dir an, was Kirsty\r\nüber den Ring des ersten Königs zu erzählen hat."
+    },
+    {
+      "key": "q60300201_00_4810",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "王家の墓へ向かう",
+      "source_en": "Head to the Royal Family Mausoleum",
+      "text": "Begib dich zur Grabstätte des Königshauses."
+    },
+    {
+      "key": "q60300201_00_4811",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "キルスティと合流する",
+      "source_en": "Rendezvous with Kirsty",
+      "text": "Triff Kirsty."
+    },
+    {
+      "key": "q60300201_00_4812",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "崩れた橋の手前にある小部屋へ向かう",
+      "source_en": "Head to the small room in front of the collapsed bridge",
+      "text": "Begib dich in die kleine Kammer vor der eingestürzten Brücke."
+    },
+    {
+      "key": "q60300201_00_4813",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を殲滅する",
+      "source_en": "Defeat the enemy encountered",
+      "text": "Besiege den aufgetauchten Gegner."
+    },
+    {
+      "key": "q60300201_00_4814",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "キルスティと話をする",
+      "source_en": "Speak to Kirsty",
+      "text": "Sprich mit Kirsty."
+    },
+    {
+      "key": "q60300201_00_4815",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "高地のあばら屋へ戻る",
+      "source_en": "Return to the Plateau Shack",
+      "text": "Kehre zur Hütte im Hochland zurück."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

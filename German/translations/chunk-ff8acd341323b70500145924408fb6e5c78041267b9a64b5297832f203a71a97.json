@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q00030240.gmd",
+  "arc_path": "\\quest\\q00030240.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "メガド王宮層ウルテカ山岳東側の通行が可能になりました",
+      "source_en": "Megado Royal Palace Layer at the eastern side of\r\nUrteca Mountains is now accessible.",
+      "text": "Die Palastebene von Megado ist nun von der Ostseite\r\ndes Urteca-Gebirges aus zugänglich."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "火垂れ山への扉が解放されました",
+      "source_en": "Firefall Mountain's door has been unlocked.",
+      "text": "Das Tor zum Feuerfallberg ist jetzt offen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

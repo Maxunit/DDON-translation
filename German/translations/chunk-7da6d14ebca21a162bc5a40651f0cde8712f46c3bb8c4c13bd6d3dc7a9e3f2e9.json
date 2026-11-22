@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00030220.gmd",
+  "arc_path": "\\quest\\q00030220.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "向こうからはまだ何も言ってこないのか？",
+      "source_en": "Still no word from the other side?",
+      "text": "Noch immer keine Nachricht von drüben?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ベルタは悪い人間ではないらしいが\r\n盗賊に王子の命運をゆだねることになるとは\r\nこれがレスタニアのことであれば耐え難い",
+      "source_en": "Bertha is not a bad person, I hear.\r\nBut to put the fate of a prince in the hands of \r\na bandit would be unbearable \r\nif this were Lestania.",
+      "text": "Bertha soll kein schlechter Mensch sein.\r\nAber das Schicksal eines Prinzen\r\nin die Hände einer Diebin zu legen,\r\nwäre bei uns in Lestania undenkbar."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "うーむ――\r\nここでわたしが憤慨してもどうにもならん",
+      "source_en": "Hmmm... \r\nmy indignation here won't help.",
+      "text": "Hm …\r\nSich hier darüber aufzuregen, hilft niemandem."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "さあ、行ってくれ\r\nもしかすると、すでに王子の行方に関する\r\n情報が入っているかもしれないからな",
+      "source_en": "Now go on.\r\nMaybe you've already got some information on \r\nthe prince's whereabouts.",
+      "text": "Geh jetzt.\r\nVielleicht haben sie dort schon etwas erfahren,\r\ndas dich zum Prinzen führt."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "わたしにできることは\r\nネド王子の無事を祈ることくらいだ",
+      "source_en": "The only thing I can do is pray \r\nfor Prince Nedo's safety.",
+      "text": "Mir bleibt nur zu beten,\r\ndass Prinz Nedo wohlauf ist."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "近くにいれば王子に言ってやりたいことは\r\n幾つもあるが――",
+      "source_en": "There are a number of things I'd like to say \r\nto the prince if he were around...",
+      "text": "Wenn der Prinz hier wäre,\r\nhätte ich ihm einiges zu sagen …"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "今回の王子の行動はどんな理由があっても\r\n褒められたことではないよね",
+      "source_en": "I don't think the prince's behavior this time \r\naround is commendable for any reason.",
+      "text": "Was der Prinz sich diesmal geleistet hat,\r\nkann ich nicht gutheißen, ganz gleich, was seine Gründe waren."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "でも、そんなことは王子自身も\r\nわかっているはずだから――\r\nとなると、ますます理由が気になるよ",
+      "source_en": "But I'm sure the prince himself knows that- \r\nwhich makes me even more curious as to why.",
+      "text": "Das weiß er bestimmt selbst.\r\nUmso mehr frage ich mich, warum er es getan hat."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "おお、来てくれたか\r\n実はベルタからの連絡があってな",
+      "source_en": "Oh, you're here.\r\nI was actually contacted by Bertha.",
+      "text": "Ah, da bist du.\r\nIch habe gerade Nachricht von Bertha bekommen."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "他ならぬ、おぬしに北の盗賊の集落まで\r\n来てほしいとのことだ",
+      "source_en": "She wants you, of all people, \r\nto come to the bandit village in the north.",
+      "text": "Sie möchte, dass ausgerechnet du\r\nzur Siedlung der Diebe im Norden kommst."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "連中は定期的に移住しているのだが\r\n今の集落はこの城より北へ北へと\r\n行ったところらしい",
+      "source_en": "They regularly migrate, but their current \r\nsettlement is just north of this castle.",
+      "text": "Sie wechseln regelmäßig ihren Unterschlupf.\r\nZurzeit sind sie gleich nördlich dieser Burg."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "先に解放した礎から飛ぶと良い\r\nそこから先の道程は地図で確認してくれ",
+      "source_en": "You can go from the Portcrystal \r\nthat we released earlier.\r\nFrom there, check the map for directions.",
+      "text": "Du kannst zu dem Zielkristall reisen,\r\nden wir vorhin aktiviert haben.\r\nSchau von dort aus auf die Karte."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "わたしは盗賊とは相性が悪い\r\nどうやらそう思われているみたい",
+      "source_en": "I'm no good with bandits, \r\nor so they seem to think.",
+      "text": "Mit Dieben kann ich wohl nicht besonders gut umgehen.\r\nDas meinen sie zumindest."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "申し訳ないけれど、よろしく頼むね",
+      "source_en": "I'm sorry, I'll be counting on you.",
+      "text": "Es tut mir leid, aber ich muss mich auf dich verlassen."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "留守の間に面倒なことになってるぜ隊長\r\nメイロワ将軍と話したか？",
+      "source_en": "You've been getting into a lot of trouble while \r\nI've been gone, Captain.\r\nHave you spoken to General Meirova?",
+      "text": "Du hast wieder jede Menge Ärger gefunden,\r\nwährend ich weg war, was, Hauptmann?\r\nHast du schon mit General Meirova gesprochen?"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "いつでも動けるように準備しておくから\r\n隊長、しっかり！",
+      "source_en": "I'll be ready to go at any time, \r\nCaptain, so hang tight!",
+      "text": "Ich kann jederzeit aufbrechen,\r\nHauptmann. Sag nur Bescheid!"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "辺境の盗賊ともなると警戒心が強いですね\r\nまあ、王家との過去を考えると\r\n当然のことらしいですけど",
+      "source_en": "When it comes to frontier bandits, I'm very wary.\r\nWell, I guess that's to be expected, \r\nconsidering their past with the royal family.",
+      "text": "Bei den Dieben im Grenzland bin ich vorsichtig.\r\nWobei sich das wohl von selbst versteht,\r\nwenn man bedenkt, was früher mit dem Königshaus war."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "よく来たな\r\n覚えているか？",
+      "source_en": "I'm glad you're here.\r\nRemember me?",
+      "text": "Gut, dass du da bist.\r\nErinnerst du dich an mich?"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "俺たちは一度メガドで会っている\r\nこの再会は縁としか言いようがないな",
+      "source_en": "We met once at Megado. \r\nI'd say this reunion is fate.",
+      "text": "Wir sind uns schon einmal in Megado begegnet.\r\nDass wir uns jetzt wiedersehen, muss Schicksal sein."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "覚えちゃいないだろうが\r\n俺はお頭の孫のレイベンだ\r\nイトコのスライと一緒に、ばあちゃんの護衛さ",
+      "source_en": "You probably don't remember me, but I'm Raven, \r\nthe Boss's grandson, \r\nand I'm here with Sly to guard Grandma.",
+      "text": "Falls du dich nicht erinnerst, ich bin Raven,\r\nder Enkel der Anführerin.\r\nSly und ich sind hier, um auf Oma aufzupassen."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "火垂れ山への秘密の経路のことは\r\nまだ何もわかっちゃいないんだ",
+      "source_en": "As for the secret path to Firefall Mountain.\r\nWe still don't know anything about it.",
+      "text": "Was den geheimen Weg zum Feuerfallberg angeht …\r\nDavon wissen wir noch nichts."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "でも、この近くを通った王子を偶然見かけた\r\n盗賊がいたらしい\r\n独自の判断で王子の追跡を\r\n始めたらしいが――",
+      "source_en": "But it seems some bandits happened to see the \r\nprince passing by this area.\r\nThey say they started tracking the prince on \r\ntheir own initiative, but...",
+      "text": "Aber ein paar unserer Leute haben den Prinzen\r\nzufällig hier in der Gegend gesehen.\r\nSie sind ihm auf eigene Faust gefolgt.\r\nAber …"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "そう、察しがいいね\r\nその追跡に出た盗賊仲間が戻らない\r\nというわけだ",
+      "source_en": "Yeah, you guessed it.\r\nOur bandit friends who went out in \r\npursuit of him never returned.",
+      "text": "Ja, du ahnst es schon.\r\nDie Leute, die ihm gefolgt sind,\r\nsind nicht zurückgekommen."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "ここから先は、ここの盗賊の頭目\r\nセロから聞いとくれ",
+      "source_en": "From here on out, you'll hear from Cyril, \r\nthe boss here.",
+      "text": "Den Rest erfährst du von Cyril.\r\nEr hat hier das Sagen."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "あんたを呼んだのは他でもない\r\nメイロワたちと違って、盗賊との間に\r\n面倒な過去を抱えていないからさ\r\n頼りにしてるよ！",
+      "source_en": "I called you here because, unlike Meirova and the \r\nothers, you don't have a troublesome \r\npast with bandits.\r\nWe're counting on you!",
+      "text": "Ich habe dich hergerufen, weil du im Gegensatz zu Meirova\r\nund den anderen keinen alten Streit\r\nmit den Dieben hast.\r\nWir zählen auf dich!"
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "孫たちがあたしを心配して\r\nついてきちまってね",
+      "source_en": "My grandchildren followed me because they \r\nwere worried about me.",
+      "text": "Meine Enkel sind mir gefolgt,\r\nweil sie sich Sorgen um mich gemacht haben."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "戦うことは得意じゃないけど\r\nジッとしてはいられない\r\n少しばかりやんちゃかもしれないけど\r\n悪い子らじゃないからよろしく頼むよ",
+      "source_en": "They're not good at fighting, \r\nbut they won't sit still, and they may be a \r\nlittle mischievous, but they're not bad kids, \r\nso please take care of them.",
+      "text": "Mit dem Kämpfen haben sie’s nicht so.\r\nDafür halten sie nie die Füße still\r\nund haben manchmal Unsinn im Kopf.\r\nAber sie sind anständige Jungs. Pass bitte auf sie auf."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "ちゃんとした挨拶はまだだったな\r\n俺はここの頭目、セロだ",
+      "source_en": "We haven't had a chance to say hello properly yet.\r\nI'm Cyril, the boss of this place.",
+      "text": "Wir konnten uns noch nicht richtig vorstellen.\r\nIch bin Cyril, der Anführer hier."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "先の王都メガドを取り戻す戦いは見事だった",
+      "source_en": "The earlier battle to reclaim the \r\nRoyal Capital of Megado was spectacular.",
+      "text": "Der Kampf um die Königsstadt Megado\r\nwar beeindruckend."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "俺たちは悪しき竜率いる魔軍のせいで\r\n本当に多くの仲間を失っていた\r\nメガドの戦いはその弔い合戦でもあったのだ",
+      "source_en": "We lost so many friends because of the \r\nEvil Dragon's army.\r\nThe battle of Megado was also \r\na battle of mourning.",
+      "text": "Durch die Armee des Bösen Drachen\r\nhaben wir viele Freunde verloren.\r\nIn Megado haben wir auch für die gekämpft,\r\ndie wir betrauern."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "その戦いに勝利をもたらした\r\nおまえのことは一目置いている",
+      "source_en": "You won that battle. I've got my eye on you.",
+      "text": "Du hast diese Schlacht gewonnen. Das habe ich mir gemerkt."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "では本題に入ろう",
+      "source_en": "So let's get down to business.",
+      "text": "Kommen wir zur Sache."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "我々はメガドを奪回ののち、離宮から\r\n出てきた少年を見つけた\r\n少年は明らかに人目をはばかりながら\r\n北へ北へと進んでいた",
+      "source_en": "After reclaiming Megado, we found a young boy \r\ncoming out of the detached palace.\r\nThe boy was obviously going north, \r\naway from people.",
+      "text": "Nach der Rückeroberung von Megado\r\nsahen wir einen Jungen aus der Nebenresidenz kommen.\r\nEr ging eindeutig nach Norden,\r\nweit weg von allen anderen."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "あれは間違いなくネド王子――\r\nそう判断した俺の部下が少年を\r\n追い始めたのだ",
+      "source_en": "That was definitely Prince Nedo—\r\nMy man decided that was the case and \r\nstarted chasing the boy.",
+      "text": "Das musste Prinz Nedo sein.\r\nJedenfalls war einer von meinen Leuten davon überzeugt\r\nund ist dem Jungen gefolgt."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "ところが、その部下からの連絡が\r\n途絶えてしまった",
+      "source_en": "However, I lost contact with that subordinate.",
+      "text": "Seitdem habe ich nichts mehr von ihm gehört."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "そしてその部下が途絶えたと思わしき辺りから\r\n複数のオークの足跡が見つかったのだ",
+      "source_en": "And in the area where we think the man had been \r\nlost, we found multiple orc footprints.",
+      "text": "Dort, wo sich seine Spur verliert,\r\nhaben wir viele Orkspuren gefunden."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "展望城から姿を消した王子の情報は\r\n既に魔軍にも掴まれていると考えていいだろう",
+      "source_en": "It's safe to assume that the Demon Army already \r\nhas information about the prince disappearing \r\nfrom the Lookout Castle.",
+      "text": "Wir sollten davon ausgehen, dass die Dämonenarmee\r\nschon weiß, dass der Prinz\r\naus Burg Weitblick verschwunden ist."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "今は動けるもの総出で、王子と部下の捜索に\r\n当たっているところだ",
+      "source_en": "Right now, \r\nall available men are searching for the Prince.",
+      "text": "Momentan suchen alle nach dem Prinzen,\r\ndie wir entbehren können."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "幸いなことに、ベルタの手の者も\r\n協力してくれている\r\nまずはその場所へ向かい、捜索の状況を\r\n確認してくれ",
+      "source_en": "Fortunately, Bertha's crew is cooperating with us.\r\nFirst, head over to the location and check on the \r\nstatus of the search.",
+      "text": "Zum Glück helfen uns Berthas Leute.\r\nGeh zuerst dorthin und sieh nach,\r\nwie weit sie mit der Suche sind."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "それから――\r\n火垂れ山の麓から逃げてきた\r\nエリアマスターのバシアスと話しておくと良い",
+      "source_en": "Following that—\r\nAfter escaping from the foot of Firefall Mountain,\r\nit would be good to speak to Bacias,\r\nthe Area Master.",
+      "text": "Und danach …\r\nAm Fuß des Feuerfallbergs\r\nkannst du mit Bacias sprechen.\r\nEr ist der Gebietsmeister dort."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "ベルタの手の者は、ここから東南にある\r\n祠付近にいるはずだ",
+      "source_en": "Bertha's crew should be near \r\nthe shrine southeast of here.",
+      "text": "Berthas Leute müssten\r\nbeim Schrein südöstlich von hier sein."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "場所は地図で確認してくれ",
+      "source_en": "You can check the location on the map.",
+      "text": "Schau auf der Karte nach."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "セロの話は聞いたか？",
+      "source_en": "Did you hear what Cyril said?",
+      "text": "Hast du gehört, was Cyril gesagt hat?"
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "スライも王子を探しに行ったんだけど\r\n何も連絡がない",
+      "source_en": "Sly went looking for the prince too, \r\nbut he hasn't found anything.",
+      "text": "Sly ist auch los, um den Prinzen zu suchen.\r\nGefunden hat er bisher nichts."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "無事だと信じちゃいるが不安だよ",
+      "source_en": "I believe he's safe, but I'm worried.",
+      "text": "Bestimmt ist er in Sicherheit. Sorgen mache ich mir trotzdem."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

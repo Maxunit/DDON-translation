@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q00030070.gmd",
+  "arc_path": "\\quest\\q00030070.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "召喚された魔物を一掃した――",
+      "source_en": "Summoned monsters have been eliminated.",
+      "text": "Die beschworenen Monster wurden besiegt."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "獣の将が魔物を呼び寄せようとしている――",
+      "source_en": "The Beast Master is summoning enemies.",
+      "text": "Der Bestiengeneral ruft Monster herbei."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "状況が悪化し、獣の将が強き魔物を呼び寄せる――！",
+      "source_en": "The situation worsens as the Beast Master summons\r\npowerful enemies!",
+      "text": "Die Lage spitzt sich zu.\r\nDer Bestiengeneral ruft mächtige Monster herbei!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

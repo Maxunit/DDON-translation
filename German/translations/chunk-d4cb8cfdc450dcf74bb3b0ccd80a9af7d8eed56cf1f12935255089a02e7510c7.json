@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\event\\event_name.gmd",
+  "arc_path": "\\EventViewRoom.arc",
+  "entries": [
+    {
+      "key": "EVENT_NAME_st1103ev000",
+      "read_index": "286",
+      "tag_source": "source_en",
+      "source_jp": "望みの果て",
+      "source_en": "The End of Hope",
+      "text": "Das Ende der Hoffnung"
+    },
+    {
+      "key": "EVENT_NAME_st1103ev005",
+      "read_index": "287",
+      "tag_source": "source_en",
+      "source_jp": "事の顛末",
+      "source_en": "The whole story",
+      "text": "Nedos Beweggründe"
+    },
+    {
+      "key": "EVENT_NAME_st3000ev000",
+      "read_index": "319",
+      "tag_source": "source_en",
+      "source_jp": "水竜大陸",
+      "source_en": "The Water Dragon Continent",
+      "text": "Das Land des Wasserdrachen"
+    },
+    {
+      "key": "EVENT_NAME_st3111ev000",
+      "read_index": "321",
+      "tag_source": "source_en",
+      "source_jp": "ゲートの門番",
+      "source_en": "Gate Keeper",
+      "text": "Der Torwächter"
+    },
+    {
+      "key": "EVENT_NAME_st3111ev005",
+      "read_index": "322",
+      "tag_source": "source_en",
+      "source_jp": "レオとの再会",
+      "source_en": "Reunion with Leo",
+      "text": "Wiedersehen mit Leo"
+    },
+    {
+      "key": "EVENT_NAME_st3111ev010",
+      "read_index": "323",
+      "tag_source": "source_en",
+      "source_jp": "黒騎士とレオ",
+      "source_en": "Black Knight and Leo",
+      "text": "Der Schwarze Ritter und Leo"
+    },
+    {
+      "key": "EVENT_NAME_st3212ev000",
+      "read_index": "325",
+      "tag_source": "source_en",
+      "source_jp": "数多の覚者",
+      "source_en": "Numerous Arisen",
+      "text": "Einer von vielen Erweckten"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

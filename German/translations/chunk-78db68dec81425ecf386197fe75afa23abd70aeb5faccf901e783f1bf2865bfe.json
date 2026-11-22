@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00030160_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00030160_00_74",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "王都進攻",
+      "source_en": "Attack on the Royal Capital",
+      "text": "Der Angriff auf die Königsstadt"
+    },
+    {
+      "key": "q00030160_00_74",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "王都奪回の足掛かりとなるエリ警備塔へ向かい\r\nメガド奪回作戦に加わる",
+      "source_en": "Head towards the Eli Guard Tower, which will\r\nserve as a foothold for reclaiming the capital,\r\nof which you will join in the efforts.",
+      "text": "Begib dich zum Wachturm Eli.\r\nVon dort beginnt der Vorstoß auf die Königsstadt.\r\nSchließ dich den Truppen an, die Megado zurückerobern wollen."
+    },
+    {
+      "key": "q00030160_00_3868",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "メガド膝元のエリ警備塔へ向かう",
+      "source_en": "Head to Eli Guard Tower in the Megado territory",
+      "text": "Begib dich zum Wachturm Eli im Gebiet von Megado."
+    },
+    {
+      "key": "q00030160_00_3869",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ネドと話す",
+      "source_en": "Speak with Nedo",
+      "text": "Sprich mit Nedo."
+    },
+    {
+      "key": "q00030160_00_3870",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "メガド居住層への進入路へ向かう",
+      "source_en": "Head to the entrace of Megado' residential level",
+      "text": "Begib dich zum Eingang des Wohnviertels von Megado."
+    },
+    {
+      "key": "q00030160_00_3871",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "メガド居住層へ侵入する",
+      "source_en": "Infiltrate Megado's residential level",
+      "text": "Dringe ins Wohnviertel von Megado ein."
+    },
+    {
+      "key": "q00030160_00_3872",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "敵を掃討し居住層を制圧する",
+      "source_en": "Rout the enemy to gain control of the residential level",
+      "text": "Besiege die Feinde und bring das Wohnviertel unter eure Kontrolle."
+    },
+    {
+      "key": "q00030160_00_3873",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "仲間と合流し戦況を確認する",
+      "source_en": "Regroup with your comrades",
+      "text": "Schließ dich deinen Gefährten wieder an."
+    },
+    {
+      "key": "q00030160_00_3874",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "仲間を退却させるために敵を討伐する",
+      "source_en": "Defeat the enemy to aid in your comrades' retreat",
+      "text": "Besiege die Feinde, damit sich deine Gefährten zurückziehen können."
+    },
+    {
+      "key": "q00030160_00_3875",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "井戸を通りエリ警備塔まで退却する",
+      "source_en": "Retreat to Eli Guard Tower through the well",
+      "text": "Zieh dich durch den Brunnen zum Wachturm Eli zurück."
+    },
+    {
+      "key": "q00030160_00_3876",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "ファビオと話す",
+      "source_en": "Speak with Fabio",
+      "text": "Sprich mit Fabio."
+    },
+    {
+      "key": "q00030160_00_3877",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "急ぎ白竜神殿に帰還する",
+      "source_en": "Hurry back to the White Dragon Temple",
+      "text": "Kehre eilig zum Tempel des Weißen Drachen zurück."
+    },
+    {
+      "key": "q00030160_00_3878",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "白竜と話す",
+      "source_en": "Speak with the White Dragon",
+      "text": "Sprich mit dem Weißen Drachen."
+    },
+    {
+      "key": "q00030160_00_4164",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "侵入口で待つベルタと合流する",
+      "source_en": "Meet with Bertha waiting at the entrance",
+      "text": "Triff Bertha am Eingang."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

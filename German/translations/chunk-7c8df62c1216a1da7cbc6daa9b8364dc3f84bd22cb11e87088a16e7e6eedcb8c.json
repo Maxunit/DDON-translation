@@ -1,0 +1,344 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00030170.gmd",
+  "arc_path": "\\quest\\q00030170.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "白竜の傷は深く、深刻な状況だ\r\n竜力の流出はなはだしく\r\n自然治癒はおそらく難しい",
+      "source_en": "The White Dragon's wounds are deep and serious, \r\nand the drain of Dragon Force is so great that \r\nnatural healing will likely be difficult.",
+      "text": "Der Weiße Drache ist schwer verwundet.\r\nEr verliert so viel Drachenkraft,\r\ndass die Wunde wohl nicht von selbst heilen wird."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "しかも、巡る竜力が消えてしまえば\r\n大地は枯れ果て――",
+      "source_en": "Moreover, \r\nif the Dragon's circulating power disappears...\r\nThe land will wither and die.",
+      "text": "Und wenn die Kraft des Drachen\r\ndas Land nicht mehr durchströmt …\r\nDann wird es verdorren und vergehen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "いや、それよりも先に、おまえたち覚者に\r\n影響が及ぶはずだ\r\n覚者と白竜の絆は竜力によるもの\r\nだからな",
+      "source_en": "No, before that,\r\nit should have an effect on you, the Arisen.\r\nThe bond between the Arisen and \r\nthe White Dragon is based on Dragon Force.",
+      "text": "Doch vorher\r\nwerdet ihr Erweckten die Folgen spüren.\r\nDenn es ist die Drachenkraft,\r\ndie euch mit dem Weißen Drachen verbindet."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ともあれ、急ぎ、その擬竜を探して\r\n竜力を白竜の元へと持ち帰ってくれ",
+      "source_en": "Anyway, hurry up and find that pseudo-dragon and \r\nbring the Dragon Force back to the White Dragon.",
+      "text": "Beeil dich und finde den Trugdrachen.\r\nBring seine Drachenkraft zum Weißen Drachen zurück."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "擬竜を探して、竜力を調達し\r\n白竜の傷ついた身体に注ぐのだ",
+      "source_en": "Find the pseudo-dragon, procure Dragon Force, \r\nand pour it into the White Dragon's wounded body.",
+      "text": "Finde den Trugdrachen und gewinne seine Drachenkraft.\r\nLass sie dann in den verwundeten Körper des Weißen Drachen fließen."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "効果に期待しようではないか",
+      "source_en": "Let's hope it works.",
+      "text": "Hoffen wir, dass es gelingt."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "君たち覚者の力は白竜あってのもの\r\n優先すべきは白竜様の回復だよ？",
+      "source_en": "The power of you Arisen is only possible because \r\nof the White Dragon, so your priority should be \r\nthe recovery of Lord White Dragon, right?",
+      "text": "Ohne den Weißen Drachen hättet ihr Erweckten eure Kräfte nicht.\r\nIhm wieder auf die Beine zu helfen,\r\nhat also Vorrang, richtig?"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ごめん、言うまでもないよね",
+      "source_en": "Sorry, I don't need to tell you.",
+      "text": "Verzeih. Das muss ich dir wohl nicht sagen."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "――この傷は――深い――",
+      "source_en": "――This wound――doth cut deep――",
+      "text": "Diese Wunde … reicht tief …"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "我が身――滅する明日も――あり得る――",
+      "source_en": "It may come to pass――\r\nthat I perish on the morrow――",
+      "text": "Vielleicht …\r\nerlebe ich den morgigen Tag nicht mehr …"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "擬竜んところ行くんだろ？\r\nだったら、禊の神殿だな？",
+      "source_en": "You're going to the location of the pseudo \r\ndragon, right?\r\nIf so, it's the Temple of Purification, right?",
+      "text": "Du suchst den Trugdrachen, oder?\r\nDann gehst du doch bestimmt\r\nzum Tempel der Läuterung?"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "隊長、わたし、思ったより辛いかも――",
+      "source_en": "Captain, \r\nI think I'm having a harder time than I thought――",
+      "text": "Hauptmann …\r\nMir geht es wohl schlechter, als ich dachte …"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "頭が――痛くて――重くて――",
+      "source_en": "My head... hurts... it ――",
+      "text": "Mein Kopf … tut weh … Er ist so schwer …"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "急ぎましょう隊長",
+      "source_en": "Let's hurry, Captain.",
+      "text": "Beeilen wir uns, Hauptmann."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "俺たちまで動けなくなったら\r\nレスタニアは大変なことになります",
+      "source_en": "If we're getting immobilized too, \r\nLestania will be in big trouble.",
+      "text": "Wenn wir jetzt auch noch ausfallen,\r\ngerät Lestania in große Not."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "ブラッドオーブ探しはもちろんだが\r\n騎士団は大勢いる",
+      "source_en": "There are plenty of Knights, of course, \r\nlooking for Blood Orbs.",
+      "text": "Viele Ritter sind natürlich\r\nauf der Suche nach Blutkugeln."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "できそうなことがあれば言ってくれ\r\nなんでもする用意がある",
+      "source_en": "If there's anything I can do, just let me know, \r\nand I'm ready to do whatever it takes.",
+      "text": "Sag mir, wenn ich etwas tun kann.\r\nIch helfe, wo ich kann."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "俺が――もっとうまく立ち回っていれば\r\n白竜様は――くそっ",
+      "source_en": "If I―― if I had fought better...\r\nLord White Dragon―― damn it...",
+      "text": "Hätte ich nur … besser gekämpft …\r\nWeißer Drache … Verdammt."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "白竜様、大丈夫だよね？　よくなるよね？",
+      "source_en": "Lord White Dragon, you're fine, right? \r\nIt'll get better, right?",
+      "text": "Weißer Drache, Ihr kommt doch wieder zu Kräften?\r\nEs wird wieder, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "よその大陸から来た騎士が神殿まで\r\n入ってくるなんて",
+      "source_en": "I can't believe a knight from another continent \r\ncould invade the temple.",
+      "text": "Ich hätte nie gedacht, dass ein Ritter aus einem anderen Land\r\nbis in den Tempel vordringen könnte."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "なんて怖ろしい時代なのかしらね",
+      "source_en": "What a frightful time we live in.",
+      "text": "In was für schrecklichen Zeiten wir leben."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "俺たちも戻りましょう\r\nここには何もありません",
+      "source_en": "We should go back too. \r\nThere's nothing here.",
+      "text": "Wir sollten auch zurück.\r\nHier gibt es nichts für uns."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "リズは任せて――\r\n胸を張ってそう言えたらいいのだけれど――",
+      "source_en": "I'll take care of Lise――\r\nI wish I could say that with all my heart――",
+      "text": "Überlass Lise mir …\r\nWenn ich das doch mit gutem Gewissen sagen könnte …"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "リズ、頑張れ――頑張れ！",
+      "source_en": "Lise, hang in there -- hang in there!",
+      "text": "Lise, halt durch. Bitte halt durch!"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "もう地味にブラッドオーブを\r\n探すしかねえのかね――",
+      "source_en": "I guess we'll just have to be realistic and look \r\nfor the Blood Orbs now――",
+      "text": "Uns bleibt wohl erst mal nichts anderes übrig,\r\nals nach Blutkugeln zu suchen …"
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "リズはいつも明るいから\r\nこうなると余計に――はぁ",
+      "source_en": "Lise is always cheerful, so when this happens, \r\nit makes it even more--haha.",
+      "text": "Lise ist sonst immer so fröhlich.\r\nSie jetzt so zu sehen … Ach."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "隊長さん、お願い",
+      "source_en": "Captain, please.",
+      "text": "Hauptmann, bitte."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "リズやガルドリン――覚者さんたちみんなが\r\n良くなる方法を探して\r\n急いで探して！",
+      "source_en": "Lise, Gurdolin, and the rest of the Arisen \r\nare all trying to find a cure. \r\nPlease hurry and help them find a way!",
+      "text": "Für Lise, Gurdolin und all die anderen\r\nErweckten müssen wir ein Heilmittel finden.\r\nBitte beeilt euch mit der Suche!"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "ガルドリンは意識を取り戻しましたが\r\nそのまま診療所に預けてきました",
+      "source_en": "Gurdolin regained consciousness, \r\nbut we left him at the infirmary.",
+      "text": "Gurdolin ist wieder bei Bewusstsein,\r\naber wir haben ihn in der Krankenstube gelassen."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "隊長と俺でなんとかするしかありませんよ",
+      "source_en": "The captain and I will just have to make do.",
+      "text": "Wir müssen jetzt zu zweit zurechtkommen, Hauptmann."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "リズはまるで深い眠りの中にいるみたい\r\n話しかけても揺らしても目覚めないの",
+      "source_en": "It's like Liz is in a deep sleep, \r\nand no matter how much I talk to her or shake her, \r\nshe just won't wake up.",
+      "text": "Es ist, als würde Lise ganz tief schlafen.\r\nIch kann mit ihr reden und sie rütteln, so viel ich will.\r\nSie wacht einfach nicht auf."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "黒騎士がアッカーシェランに現れたのは\r\n君たちを引きつけるためだろうね",
+      "source_en": "I'm guessing the Black Knight showed up in \r\nAcre Selund to draw you all away.",
+      "text": "Ich vermute, der Schwarze Ritter ist in Acre Selund aufgetaucht,\r\num euch von hier fortzulocken."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜の思惑が先か、黒騎士が先か\r\nなんとも言えないけど――",
+      "source_en": "It's hard to say whether the Evil Dragon's \r\nintentions came first or the Black Knight did.",
+      "text": "Ob der Plan vom Bösen Drachen ausging\r\noder vom Schwarzen Ritter, lässt sich schwer sagen."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "幸いブラッドオーブは次々と\r\n運び込まれている",
+      "source_en": "Fortunately, the blood orbs keep coming in.",
+      "text": "Zum Glück werden immer noch Blutkugeln gebracht."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "しかし、効果はさほどでもないようだ\r\nなんとも歯がゆいぞ！",
+      "source_en": "However, the impact appears to be minimal. \r\nHow vexing this feels!",
+      "text": "Aber sie scheinen kaum etwas zu bewirken.\r\nWie ärgerlich!"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "まだ――竜力は巡っているか？\r\n今のうちに――ぞんぶんに――",
+      "source_en": "Doth— \r\nthe dragon force yet course through the land? \r\nWhilst it flows――thou must make use of it――",
+      "text": "Durchströmt …\r\ndie Drachenkraft noch das Land?\r\nDann nutzt sie … solange es noch geht …"
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "かつて白竜が、黄金竜との戦いで\r\n傷ついた時――",
+      "source_en": "In the past, when the White Dragon was wounded \r\nin battle with the Golden Dragon--",
+      "text": "Einst wurde der Weiße Drache\r\nim Kampf gegen den Goldenen Drachen verwundet …"
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "白竜の力は衰え\r\nその結果、悪しき魔物が力をつけた",
+      "source_en": "The White Dragon's power waned, \r\nand as a result, the hellion gained strength.",
+      "text": "Seine Kraft schwand,\r\nwährend die Monster immer stärker wurden."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "幸いにして覚者、騎士団の献身により\r\n白竜は命を繋ぎ、事なきを得たが――",
+      "source_en": "Fortunately, thanks to the dedication of the \r\nArisen and the Knights, the White Dragon \r\nsurvived and was brought back to life.",
+      "text": "Zum Glück haben sich die Erweckten\r\nund die Ritter voller Hingabe für ihn eingesetzt.\r\nSo konnte er überleben und sich erholen."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "はて、今回はどうであろうな\r\n覚者が次々と倒れているという報告が\r\n舞い込んできている",
+      "source_en": "But, what about this time?\r\nReports are pouring in that the Arisen \r\nare collapsing one by one.",
+      "text": "Doch wie wird es diesmal ausgehen?\r\nVon überall kommt die Nachricht,\r\ndass ein Erweckter nach dem anderen zusammenbricht."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "竜が死に、力が継承されなければ\r\n世界は滅ぶと考えられているが――",
+      "source_en": "It is believed that if the Dragon dies and his \r\npower is not passed on, the world will perish――",
+      "text": "Wenn ein Drache stirbt, ohne seine Kraft weiterzugeben,\r\nsoll mit ihm auch die Welt zugrunde gehen …"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "ああしかし、これが狙いだったとは！\r\n悔しい――不覚だ！",
+      "source_en": "Ah, but I didn't know this was their aim!\r\nIt is frustrating--I was so unaware!",
+      "text": "Wie konnte ich nur übersehen, dass es ihnen genau darum ging?\r\nIch hätte es kommen sehen müssen!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

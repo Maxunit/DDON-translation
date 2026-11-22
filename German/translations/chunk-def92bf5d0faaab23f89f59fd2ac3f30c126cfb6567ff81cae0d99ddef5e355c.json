@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q00030220.gmd",
+  "arc_path": "\\quest\\q00030220.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山麓のエリアマスター施設が解放されました",
+      "source_en": "Area Master Facility at the foot of Uruteca\r\nMountain has been released.",
+      "text": "Die Dienste des Gebietsmeisters am Fuß\r\ndes Urteca-Gebirges sind jetzt verfügbar."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "メガド王宮層のウルテカ山岳東部への扉が解放されました",
+      "source_en": "The door to the Eastern Urteca Mountains in the\r\nMegado Royal Layer has been unlocked",
+      "text": "Die Tür zum östlichen Urteca-Gebirge\r\nauf der Palastebene von Megado ist jetzt offen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

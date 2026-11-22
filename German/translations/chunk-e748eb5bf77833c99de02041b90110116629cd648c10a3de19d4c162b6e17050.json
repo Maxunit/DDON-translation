@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area21_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳 西部",
+      "source_en": "Western Urteca Mountains",
+      "text": "Westliches Urteca-Gebirge"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳 北部",
+      "source_en": "Northern Urteca Mountains",
+      "text": "Nördliches Urteca-Gebirge"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳 東部",
+      "source_en": "Eastern Urteca Mountains",
+      "text": "Östliches Urteca-Gebirge"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "北の盗賊のアジト",
+      "source_en": "Northern Bandit Hideout",
+      "text": "Versteck der Diebe aus dem Norden"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "メガド離宮",
+      "source_en": "Megado Detached Palace",
+      "text": "Nebenresidenz von Megado"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "王家の墓",
+      "source_en": "The Royal Family Mausoleum",
+      "text": "Grabstätte des Königshauses"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "崩れた進入路",
+      "source_en": "Crumbling Entrance Path",
+      "text": "Verfallener Zugang"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

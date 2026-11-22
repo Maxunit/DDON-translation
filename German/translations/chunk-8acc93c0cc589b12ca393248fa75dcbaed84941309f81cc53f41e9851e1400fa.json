@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00030420.gmd",
+  "arc_path": "\\quest\\q00030420.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "黒竜はもう気配を隠そうとすらしていない\r\n我が覚者たちよ、急げ",
+      "source_en": "The Black Dragon now doth not even strive \r\nto mask its presence. \r\nHasten, my Arisen!",
+      "text": "Der Schwarze Drache macht sich nicht einmal mehr\r\ndie Mühe, seine Anwesenheit zu verbergen.\r\nEilt, meine Erweckten!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アッカーシェランに滅びの渦が現れる",
+      "source_en": "The Vortex of Stagnation, raised by the\r\nBlack Dragon, now manifests in Acre's\r\ndomain.",
+      "text": "Der Schwarze Drache hat\r\neinen Wirbel des Untergangs\r\nüber Acre Selund heraufbeschworen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "彼の地の竜はまだ人の子のまま",
+      "source_en": "The Dragon in that realm yet dwelleth as a\r\nchild of humanity.",
+      "text": "Der Drache dieses Landes lebt noch\r\nals Menschenkind."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "荒ぶる黒竜にかなうはずもない",
+      "source_en": "There is no contest with \r\nthe tempestuous Black Dragon.",
+      "text": "Er ist dem Schwarzen Drachen\r\nin seinem Zorn nicht gewachsen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "アッカーシェランへ急げ",
+      "source_en": "Hasten forth to Acre Selund.",
+      "text": "Eile nach Acre Selund."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "彼の地の竜はまだ人のまま\r\n黒竜の敵ではないぞ",
+      "source_en": "The Dragon in that land is still a mere mortal, \r\nand not yet an adversary to the Black Dragon.",
+      "text": "Der Drache dort ist noch ein Mensch.\r\nEr kann sich dem Schwarzen Drachen noch nicht stellen."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "いいかい？\r\n今度またレオが現れたら\r\nひと言も聞き逃さないようにね",
+      "source_en": "Listen.\r\nIf Leo shows up again, don't miss a single word.",
+      "text": "Hör zu.\r\nFalls Leo wieder auftaucht, entgeht dir besser kein einziges seiner Worte."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "レオはね、わくわくするような計画を\r\n黙ってはいられない人だよ\r\nたとえそれが悪い事でもね",
+      "source_en": "Leo's the kind of guy who can't keep quiet about \r\nan exciting plan, even if talking is a bad idea.",
+      "text": "Wenn Leo ein Plan begeistert, kann er nicht darüber schweigen.\r\nNicht einmal, wenn er etwas Schlimmes vorhat."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ええい、わからん\r\n黒竜は渦を使って大地の竜力を\r\n吸い取っていると聞く",
+      "source_en": "Yeah, I have no idea.\r\nI hear that the Black Dragon uses a vortex to \r\nsiphon off the Dragon Force of the land.",
+      "text": "Tja, ich weiß es auch nicht.\r\nEs heißt, der Schwarze Drache\r\nentzieht dem Land durch einen Wirbel die Drachenkraft."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "その先には滅亡しかないではないか\r\nただの破壊が目的だというのか",
+      "source_en": "And after that, there will be nothing but \r\ndestruction, and that's what they're after.",
+      "text": "Danach bleibt nichts als Zerstörung übrig.\r\nGenau darum geht es ihnen."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "ここは子供と年寄りたちが仕切ってる国だ\r\n頼りねえなんてもんじゃねえぞ\r\n俺たちがなんとかしてやらないとな",
+      "source_en": "This is a country run by children and old people, \r\nand they're not exactly the \r\nstrongest of the bunch.\r\nWe've got to do something about it.",
+      "text": "In diesem Land haben Kinder und alte Leute das Sagen.\r\nAuf sich gestellt\r\nsind sie dieser Sache kaum gewachsen.\r\nWir müssen irgendwas tun."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "隊長、黒い渦が順番に現れるとしたら",
+      "source_en": "Captain, if the black vortex appears \r\none after another...",
+      "text": "Hauptmann, wenn ein schwarzer Wirbel\r\nnach dem anderen erscheint …"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "最初はフィンダム、そしてアッカーシェラン\r\n次はレスタニアだよね？",
+      "source_en": "First Phindym, then Acre Selund\r\nand then Lestania, right?",
+      "text": "Erst Phindym, jetzt Acre Selund …\r\nDann ist als Nächstes Lestania dran, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "なんとかしてここを最後にできないかな",
+      "source_en": "I hope we can somehow turn this \r\ninto the last stand here...",
+      "text": "Hoffentlich können wir das Ganze\r\nirgendwie hier beenden …"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "レオ統率はこう言ってましたよね",
+      "source_en": "Commander Leo said this.",
+      "text": "Denk daran, was Kommandant Leo gesagt hat."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "理がたくさんある――その理を壊す――",
+      "source_en": "Many orders exist―― to shatter that order――",
+      "text": "Es gibt viele Ordnungen … Und er will sie zerschlagen …"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "理はつまり秩序ですから理がなくなると\r\n世は混乱しますよね\r\nどうしてそんなことを望むんでしょうね",
+      "source_en": "And since order is reason, when order disappears, \r\nthe world is in chaos, right?\r\nWhy would anyone want that?",
+      "text": "Die Ordnung hält die Welt zusammen.\r\nOhne sie versinkt doch alles im Chaos, oder?\r\nWarum sollte jemand so etwas wollen?"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "隊長さん\r\nそろそろいらっしゃる頃だと思っていました\r\nありがとうございます",
+      "source_en": "Captain.\r\nI thought it was about time you joined us.\r\nMany thanks for your time.",
+      "text": "Hauptmann.\r\nIch dachte mir schon, dass Ihr bald kommen würdet.\r\nDanke, dass Ihr Euch die Zeit nehmt."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "フィンダムの時と同じだな",
+      "source_en": "It's just like in Phindym.",
+      "text": "Es ist genau wie in Phindym."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "黒剣が刺さってて、そこに魔物が集まるんだ",
+      "source_en": "A Black Sword is thrust into it, \r\nand that's where the monsters congregate.",
+      "text": "Ein schwarzes Schwert steckt im Boden.\r\nUnd dort sammeln sich die Monster."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "隊長、急ごうよ\r\nきっとジリアンも戦ってるよ",
+      "source_en": "Captain, let's hurry.\r\nI'm sure Gillian is fighting too.",
+      "text": "Beeilen wir uns, Hauptmann.\r\nGillian kämpft bestimmt auch schon."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "前例にならうなら、まず黒剣のところへ行って\r\n魔物を倒し――",
+      "source_en": "If we are to follow precedent, we must first go \r\nto the Black Sword and slay the monster...",
+      "text": "Wenn es so läuft wie letztes Mal,\r\nmüssen wir zuerst zum schwarzen Schwert und die Monster besiegen …"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "そして黒い渦に対処するという流れのはずです\r\n準備を完璧にして向かいましょう",
+      "source_en": "Then we will deal with the black vortex.\r\nLet's head there fully prepared.",
+      "text": "Danach kümmern wir uns um den Wirbel.\r\nBereiten wir uns gut darauf vor."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "状況は使者の方から聞いたフィンダムと同じです",
+      "source_en": "The situation is the same as Phindym's, \r\nas the messenger told me.",
+      "text": "Die Lage ist dieselbe wie in Phindym.\r\nDas hat mir der Bote berichtet."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "大地に突き刺さった黒剣がこの地の竜力を\r\n吸い上げて、上空の黒い渦に送っているのだとか",
+      "source_en": "The Black Sword that pierced the land sucks up \r\nthe Dragon Force and sends it to the \r\nblack vortex in the sky above.",
+      "text": "Ein schwarzes Schwert steckt im Boden\r\nund entzieht dem Land seine Drachenkraft.\r\nEs leitet sie hinauf in den schwarzen Wirbel."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "クインタスが、メガド上空に現れた渦の様子を\r\n監視してくれているようです",
+      "source_en": "Quintus has been monitoring the vortex \r\nthat appeared over Megado.",
+      "text": "Quintus beobachtet den Wirbel,\r\nder über Megado erschienen ist."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "まずはそちらへ向かって頂けますか？\r\n僕も準備を整えて、状況の対応に当たります",
+      "source_en": "Could you please head that way first?\r\nI'll get ready and take care of any situations.",
+      "text": "Könnt Ihr zuerst dorthin gehen?\r\nIch bereite hier alles vor, damit wir auf alles gefasst sind."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "僕の中にある火竜の竜力――",
+      "source_en": "The Dragon Force of the Fire Dragon within me――",
+      "text": "Die Kraft des Feuerdrachen, die ich in mir trage …"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "アッカーシェランの恩人の力になれるのであれば\r\n僕には拒む理由はありません",
+      "source_en": "If I can help the benefactor of Acre Selund, \r\nI have no reason to refuse.",
+      "text": "Wenn ich damit dem Menschen helfen kann, dem Acre Selund so viel verdankt,\r\nwerde ich das gern tun."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "ですがその前に、このアッカーシェランを守るため\r\n今一度、力をお貸し下さい",
+      "source_en": "But first, I ask you once again for your help in \r\nprotecting Acre Selund.",
+      "text": "Doch zuerst bitte ich Euch noch einmal darum,\r\nmir beim Schutz von Acre Selund zu helfen."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "やはり来てくれたな、感謝する",
+      "source_en": "I knew you'd come. Thank you.",
+      "text": "Ich wusste, dass du kommst. Danke."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "あれが見えるか？\r\nあの巨大な渦は、瞬く間にメガドの王宮層\r\n回廊、離宮を包み込んでしまった",
+      "source_en": "Do you see that?\r\nThat huge whirlpool quickly enveloped \r\nMegado's Royal Palace layer and the \r\nDetached Palace.",
+      "text": "Siehst du das?\r\nDieser gewaltige Wirbel hat in kürzester Zeit\r\ndie Palastebene von Megado\r\nund die Nebenresidenz eingehüllt."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "偵察兵からの報告では、建物には闇の結界が張られ\r\n中へ入ることは出来なくなってしまったようだ",
+      "source_en": "The scouts report that the building has been \r\nshrouded in darkness and no one can get inside.",
+      "text": "Die Späher melden, dass eine Barriere aus Finsternis\r\ndie Gebäude umgibt. Niemand kommt mehr hinein."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "フィンダムという大陸に起きた状況は\r\n聞いている",
+      "source_en": "I've heard of the situation that happened on the \r\ncontinent of Phindym.",
+      "text": "Ich habe gehört,\r\nwas in Phindym passiert ist."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "大地の各所には突き刺さった黒剣があり\r\nそれを破壊すれば、おまえたちは結界を\r\n破ることができるのだろう？",
+      "source_en": "There are Black Swords impaled in various parts \r\nof the land, and if you destroy them, you will be \r\nable to break the barrier, right?",
+      "text": "An mehreren Stellen im Land stecken schwarze Schwerter im Boden.\r\nWenn man sie zerstört,\r\nkann man die Barriere brechen, richtig?"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "魔物が現れた場所からして\r\nすでに最初の黒剣の場所の目星は付けてある",
+      "source_en": "We already have a good idea of where the first \r\nBlack Sword is, \r\nbased on where the monsters appeared.",
+      "text": "Wir haben schon eine Vorstellung davon,\r\nwo das erste schwarze Schwert steckt.\r\nDort sind die Monster aufgetaucht."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "地図で言うとこのあたりだ",
+      "source_en": "It's right here on the map.",
+      "text": "Hier auf der Karte ist die Stelle."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "これほどはやく、共に戦う日がまた来ようとは\r\n考えもしなかったが――\r\n歓迎しよう！",
+      "source_en": "Never did I think the day we would fight \r\ntogether again would come so soon――\r\nBut I welcome it!",
+      "text": "Ich hätte nie gedacht,\r\ndass wir so bald wieder Seite an Seite kämpfen.\r\nAber ich bin froh darüber!"
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "よお、覚者たち\r\nあの黒い剣は黒騎士のものらしいな",
+      "source_en": "Hey, Arisen.\r\nThat Black Sword belongs to the \r\nBlack Knight, I hear.",
+      "text": "He, Erweckter.\r\nDas schwarze Schwert gehört, wie ich höre,\r\ndem Schwarzen Ritter."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "ともあれ、俺たちがやれることはただひとつ",
+      "source_en": "At any rate, there's only one thing we can do.",
+      "text": "Wie dem auch sei, uns bleibt nur eines zu tun."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "絶望から救われたこの国の未来のため\r\n命を掛けてあんたと共に戦うのみだ",
+      "source_en": "We have been saved from despair, \r\nand we will fight with you for the future of this \r\ncountry, at the cost of our own lives.",
+      "text": "Dieses Land ist der Verzweiflung entkommen.\r\nJetzt kämpfen wir mit dir für seine Zukunft,\r\nund wenn es uns das Leben kostet."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "ったく、おっかねえたらありゃしねえ！",
+      "source_en": "Sheesh, that's downright terrifying!",
+      "text": "Puh, das war ganz schön unheimlich!"
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "あの黒剣の周りに、あんな化け物が\r\n集まってるなんてな",
+      "source_en": "I can't believe all those monsters gathered \r\naround that Black Sword.",
+      "text": "Kaum zu glauben, wie viele Monster sich\r\num dieses schwarze Schwert versammelt hatten."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "ふぅ、危うくアーシェに、心配をかけるとこだったぜ",
+      "source_en": "Phew, I almost had Ashe worrying about me.",
+      "text": "Puh, beinahe hätte sich Ashe Sorgen um mich machen müssen."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "\"悪しき竜\"の時もこれ以上はない危機感だったが\r\nこれはもっと深刻なんだな？",
+      "source_en": "The \"Evil Dragon\" was a crisis that I couldn't \r\nhave imagined being any worse, \r\nbut this is more serious, isn't it?",
+      "text": "Beim Bösen Drachen dachte ich schon, schlimmer könne es kaum kommen.\r\nDoch das hier ist\r\nnoch ernster, oder?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

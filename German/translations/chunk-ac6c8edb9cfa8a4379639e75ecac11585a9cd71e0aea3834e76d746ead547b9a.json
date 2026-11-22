@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00030220.gmd",
+  "arc_path": "\\quest\\q00030220.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "わたしはエリアマスターのバシアス\r\n火竜様とアッカー家の命により\r\n火垂れ山の入口を守り続けるのが役目です",
+      "source_en": "I am Basias, Area Master.\r\nI am tasked by Lord Fire Dragon and the \r\nHouse of Acre to protect the entrance to \r\nthe Firefall Mountain.",
+      "text": "Ich bin Bacias, der Gebietsmeister.\r\nDer Feuerdrache und das Haus Acre\r\nhaben mir aufgetragen,\r\nden Zugang zum Feuerfallberg zu bewachen."
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "しかし悪しき竜の出現により、火垂れ山は\r\n魔窟と化し、その道中もおぞましい魔物により\r\n埋め尽くされてしまいました",
+      "source_en": "Yet, since the emergence of the Evil Dragon, \r\nFirefall Mountain has become a den of evil, \r\nits paths now swarming with terrifying beasts.",
+      "text": "Doch seit der Böse Drache aufgetaucht ist,\r\nist der Feuerfallberg ein Ort des Unheils.\r\nAuf seinen Wegen wimmelt es von furchtbaren Bestien."
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "今はこうして彼らの助けにより、この場所へ\r\n逃れ命を繋いでいます",
+      "source_en": "For now, thanks to their support, \r\nI've escaped to this place, \r\nkeeping my life intact.",
+      "text": "Glücklicherweise haben mir diese Leute geholfen.\r\nSo konnte ich mich hierher retten\r\nund bin mit dem Leben davongekommen."
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "ここでこうしてあなたにお会い出来たのは\r\n亡き火竜様のお導きかも知れません",
+      "source_en": "It may be the guidance of the late \r\nLord Fire Dragon that I have met you here.",
+      "text": "Vielleicht hat mich der verstorbene Feuerdrache\r\ngeführt, damit ich dich hier treffe."
+    },
+    {
+      "key": "",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "この北の地を悪しき者の手から回復する\r\n手伝いをお願いさせてください",
+      "source_en": "Please, I ask for your assistance in reclaiming \r\nthis northern land from the grasp of evil.",
+      "text": "Bitte hilf uns, dieses Land im Norden\r\naus den Fängen des Bösen zu befreien."
+    },
+    {
+      "key": "",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "ここでの礎の解放をお忘れなきよう――\r\nわたしたちの行く末に一筋の導きが\r\n途絶えませぬように",
+      "source_en": "Don't forget to attune to the portcrystal here— \r\nlest the single thread of guidance to our future \r\nis severed.",
+      "text": "Vergiss nicht, hier den Zielkristall zu aktivieren.\r\nDer einzige Weg, der uns noch offensteht,\r\ndarf uns nicht verloren gehen."
+    },
+    {
+      "key": "",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "あんた、新たな協力者か？\r\n王子の捜索状況はどんな具合だ？",
+      "source_en": "You're the new contact?\r\nWhat's the status of the search for the prince?",
+      "text": "Du bist also die Verstärkung?\r\nWie weit seid ihr mit der Suche nach dem Prinzen?"
+    },
+    {
+      "key": "",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "ああ、それならこの洞窟を抜けるといい\r\nその先で、ベルタの手の者が\r\n捜索に当たってくれているはずだ",
+      "source_en": "Yeah, you'll have to go through this cave, \r\nto where Bertha's crew should be \r\nsearching the area.",
+      "text": "Ja, du musst durch diese Höhle.\r\nAuf der anderen Seite müssten Berthas Leute\r\ndie Gegend absuchen."
+    },
+    {
+      "key": "",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "よお――\r\nおまえが派遣されてきたのか\r\nお互い王子には手を焼かされる運命らしいな",
+      "source_en": "Well... \r\nso you're the one they sent. \r\nIt seems we are both fated to be \r\ntroubled by the prince.",
+      "text": "Aha …\r\nDich haben sie also geschickt.\r\nUns beiden bleibt wohl nichts erspart,\r\nwenn es um den Prinzen geht."
+    },
+    {
+      "key": "",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "セロが、どこまで話したか知らないが\r\n王子を追っていた盗賊はセロの娘だ",
+      "source_en": "I don't know how much Cyril told you, \r\nbut the bandit who was following the prince \r\nwas Cyril's daughter.",
+      "text": "Ich weiß nicht, wie viel Cyril dir erzählt hat.\r\nAber die Diebin, die dem Prinzen gefolgt ist,\r\nwar seine Tochter."
+    },
+    {
+      "key": "",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "どうやら王子はここへ来たことは間違いないが\r\nその先には足跡がない\r\n本来のルートは断念したと考えていいだろう",
+      "source_en": "The prince came here, no doubt.\r\nBut there are no footprints beyond that point.\r\nIt's safe to assume that he abandoned his \r\noriginal route.",
+      "text": "Der Prinz war zweifellos hier.\r\nDoch hinter dieser Stelle gibt es keine Fußspuren mehr.\r\nWahrscheinlich hat er\r\neinen anderen Weg genommen."
+    },
+    {
+      "key": "",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "王子を追跡していた彼女の足跡も\r\nここで途絶えている\r\n見えるだろ？\r\n辺り一面、オークの足跡だらけさ",
+      "source_en": "She was tracking the prince, \r\nand her trail ends here.\r\nSee?\r\nOrc tracks all over the place.",
+      "text": "Sie ist dem Prinzen gefolgt.\r\nHier endet ihre Spur.\r\nSiehst du?\r\nÜberall Spuren von Orks."
+    },
+    {
+      "key": "",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "状況から察するに、彼女はオークに攫われ\r\nてしまったと見ていいだろう",
+      "source_en": "From the looks of things, \r\nI'd say she's been kidnapped by orcs.",
+      "text": "So wie das aussieht,\r\nhaben die Orks sie verschleppt."
+    },
+    {
+      "key": "",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "すぐに殺されなかったことを考えると\r\n彼女は何か、王子の行く先の手掛かりを握っている\r\nのかも知れないな\r\nであれば、王子を捕まえるまでは奴らも彼女を\r\n殺さないはずだ",
+      "source_en": "Given that she wasn't killed immediately, she \r\nmay hold some clue as to where the prince \r\nis going. If that's the case, they won't kill her \r\nuntil they get the prince.",
+      "text": "Wenn sie sie nicht gleich getötet haben,\r\nglauben sie wohl, dass sie etwas über den Prinzen weiß.\r\nDann werden sie sie am Leben lassen,\r\nbis sie ihn gefunden haben."
+    },
+    {
+      "key": "",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "だが急いだほうが良い\r\n王子失踪の情報が魔軍全体に広まってからでは\r\n厄介だ",
+      "source_en": "But we'd better hurry, because once word of the \r\nprince's disappearance spreads throughout the \r\nDemon Army, we'll be in trouble.",
+      "text": "Aber wir sollten uns beeilen.\r\nWenn erst die ganze Dämonenarmee weiß,\r\ndass der Prinz verschwunden ist, haben wir ein Problem."
+    },
+    {
+      "key": "",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "オークの足跡は西の方角へ向かっている",
+      "source_en": "The orc's footprints are heading west.",
+      "text": "Die Spuren der Orks führen nach Westen."
+    },
+    {
+      "key": "",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "お前は西南にあるこの地図の辺りへ向かってくれ\r\n俺は西北から捜索する",
+      "source_en": "You head to the area on this map in the \r\nsouthwest, and I'll search from the northwest.",
+      "text": "Geh zu der Stelle hier auf der Karte im Südwesten.\r\nIch suche vom Nordwesten aus."
+    },
+    {
+      "key": "",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "おまえの腕っ節を頼りにしてるよ",
+      "source_en": "I'm counting on your prowess.",
+      "text": "Ich zähle auf dein Können."
+    },
+    {
+      "key": "",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "俺は魔物に遭遇しないよう\r\n辺りを探りながらいかせてもらうぜ",
+      "source_en": "I'm going to scout the area to make sure I don't \r\nrun into any monsters.",
+      "text": "Ich seh mich in der Gegend um\r\nund halte nach Monstern Ausschau."
+    },
+    {
+      "key": "",
+      "read_index": "64",
+      "tag_source": "source_en",
+      "source_jp": "ああ、嫌な予感がしていたんだ！\r\n頭目の娘のことさ！\r\nアーシェはやはりオークに連れ去られたのか",
+      "source_en": "Yeah, I was getting a bad feeling about this!\r\nI mean that girl is the boss's daughter!\r\nAshe must have been taken by the orcs after all!",
+      "text": "Ich hatte gleich ein ungutes Gefühl dabei!\r\nDas Mädchen ist die Tochter des Anführers!\r\nDie Orks müssen Ashe also verschleppt haben!"
+    },
+    {
+      "key": "",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "彼女はまだ若い、盗賊としては未熟だが\r\n王子の情報を決して喋りなんかはしないだろう",
+      "source_en": "She is still young and inexperienced as a bandit, \r\nbut she would never give away information \r\nabout the prince.",
+      "text": "Sie ist jung und hat als Diebin noch wenig Erfahrung.\r\nAber sie würde niemals verraten,\r\nwo der Prinz ist."
+    },
+    {
+      "key": "",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "はやく助け出さないとまずいことになっちまう\r\n俺はここより先の南を探すから\r\nあんたはそのまま西の先へ向かってくれ",
+      "source_en": "If we don't get her out of there soon, \r\nwe're gonna have a problem.\r\nI'll look south of here, \r\nyou keep heading west.",
+      "text": "Wenn wir sie nicht bald da rausholen,\r\nkriegen wir ein Problem.\r\nIch suche südlich von hier.\r\nDu gehst weiter nach Westen."
+    },
+    {
+      "key": "",
+      "read_index": "67",
+      "tag_source": "source_en",
+      "source_jp": "このあたりにも無数の魔軍の足跡がある\r\nなんにせよ急いだ方が良さそうだ",
+      "source_en": "There are countless Demon Army footprints in \r\nthis area, so whichever way we go, \r\nwe'd better hurry.",
+      "text": "Hier wimmelt es von Fußspuren der Dämonenarmee.\r\nGanz gleich, in welche Richtung wir suchen,\r\nwir sollten uns beeilen."
+    },
+    {
+      "key": "",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "ヤバかったよ、ありがとう！　\r\n状況は聞いている\r\n攫われた頭目の娘らしき人影を、スライと共に\r\n追って来たんだがこの様だ",
+      "source_en": "That was bad, thanks!　\r\nI heard about the situation.\r\nI've been tracking the boss's kidnapped daughter \r\nwith Sly, and here we are.",
+      "text": "Das war knapp, danke!\r\nIch hab gehört, was passiert ist.\r\nSly und ich haben jemanden verfolgt, der wie die Tochter des Anführers aussah.\r\nUnd jetzt stehen wir hier."
+    },
+    {
+      "key": "",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "彼女は隙を見て魔軍から逃げ出せたらしい\r\nでも魔物に追われている！\r\nスライが彼女を守りに行ったが\r\nああ、このすぐ先だ！",
+      "source_en": "Apparently she was able to escape\r\nfrom the Demon Army when she saw an opening,\r\nbut she was still being chased by monsters!\r\nSly went to protect her.\r\nYeah, it's just up ahead!",
+      "text": "Sie hat wohl einen günstigen Moment erwischt\r\nund ist der Dämonenarmee entkommen.\r\nAber die Monster waren ihr noch auf den Fersen!\r\nSly wollte sie beschützen.\r\nGleich dort vorne!"
+    },
+    {
+      "key": "",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "彼女から追手を引き離そうと、注意を引くつもり\r\nだったが、追手が複数いたのは誤算だったよ",
+      "source_en": "I was trying to get her attention and draw her \r\npursuers away from her, but I miscalculated, \r\nthere was more than one of them after her.",
+      "text": "Ich wollte die Verfolger auf mich aufmerksam machen\r\nund sie von ihr weglocken.\r\nIch hatte nicht damit gerechnet, dass es mehrere sind."
+    },
+    {
+      "key": "",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "ああ、こっちだ\r\n助かったよ",
+      "source_en": "Yeah, this way. Thanks for the help.",
+      "text": "Ja, hier entlang. Danke für die Hilfe."
+    },
+    {
+      "key": "",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "彼女が魔軍に攫われた王子の追跡者――\r\nつまり、セロの娘に間違いない",
+      "source_en": "She's the one who was kidnapped by the \r\nDemon Army while tracking the prince.\r\nSo, she must be Cyril's daughter.",
+      "text": "Sie wurde von der Dämonenarmee verschleppt,\r\nals sie dem Prinzen folgte.\r\nAlso muss sie Cyrils Tochter sein."
+    },
+    {
+      "key": "",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "さあ、連れて帰ろう\r\n魔物に襲われて怪我をしている\r\n言ってることも混乱気味だ",
+      "source_en": "Come on, let's bring her home.\r\nShe's been attacked by a beast.\r\nshe's wounded and dazed.",
+      "text": "Los, bringen wir sie nach Hause.\r\nEin Monster hat sie angegriffen.\r\nSie ist verletzt und ganz benommen."
+    },
+    {
+      "key": "",
+      "read_index": "74",
+      "tag_source": "source_en",
+      "source_jp": "――誰！？\r\nオークじゃないよね？",
+      "source_en": "—Who!?\r\nYou're not an orc, are you?",
+      "text": "Wer ist da?!\r\nDu bist doch kein Ork, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "75",
+      "tag_source": "source_en",
+      "source_jp": "うっ――お願い\r\nはやく――父さんに伝えなきゃ――",
+      "source_en": "Ugh... please...\r\nQuickly... we have to tell my dad...",
+      "text": "Ugh … bitte …\r\nWir müssen es schnell meinem Vater sagen …"
+    },
+    {
+      "key": "",
+      "read_index": "76",
+      "tag_source": "source_en",
+      "source_jp": "王子を見つけたよ――",
+      "source_en": "I found the prince...",
+      "text": "Ich habe den Prinzen gefunden …"
+    },
+    {
+      "key": "",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "そして彼が最後に――消えた――\r\n場所を――",
+      "source_en": "And the place where he last... disappeared...",
+      "text": "Und die Stelle, an der er zuletzt … verschwunden ist …"
+    },
+    {
+      "key": "",
+      "read_index": "78",
+      "tag_source": "source_en",
+      "source_jp": "ごめん――父さん――",
+      "source_en": "I'm sorry—Dad...",
+      "text": "Es tut mir leid … Papa …"
+    },
+    {
+      "key": "",
+      "read_index": "79",
+      "tag_source": "source_en",
+      "source_jp": "すぐに王子だと気づけなくて――",
+      "source_en": "I didn't recognize the prince right away...",
+      "text": "Ich habe den Prinzen nicht sofort erkannt …"
+    },
+    {
+      "key": "",
+      "read_index": "80",
+      "tag_source": "source_en",
+      "source_jp": "彼女の容態はかなり厳しい\r\n一刻を争うかもしれないな",
+      "source_en": "Her condition is pretty grim.\r\nWe may not have a moment to lose.",
+      "text": "Sie ist in einem schlimmen Zustand.\r\nWir dürfen wohl keine Zeit verlieren."
+    },
+    {
+      "key": "",
+      "read_index": "81",
+      "tag_source": "source_en",
+      "source_jp": "よし、俺が背負って連れて行こう",
+      "source_en": "Okay, I'll carry her on my back.",
+      "text": "Gut, ich nehme sie auf den Rücken."
+    },
+    {
+      "key": "",
+      "read_index": "82",
+      "tag_source": "source_en",
+      "source_jp": "セロとばあちゃんが待っている\r\nアジトで会おうぜ",
+      "source_en": "Let's meet at the\r\nhideout where Cyril and Grandma are waiting.",
+      "text": "Wir treffen uns im Versteck.\r\nCyril und Oma warten dort."
+    },
+    {
+      "key": "",
+      "read_index": "83",
+      "tag_source": "source_en",
+      "source_jp": "ご苦労だったね\r\nあの娘の一命はなんとか取り留めそうだよ",
+      "source_en": "Thanks for your help.\r\nI think we may have saved that girl's life.",
+      "text": "Danke für deine Hilfe.\r\nIch glaube, wir haben dem Mädchen das Leben gerettet."
+    },
+    {
+      "key": "",
+      "read_index": "84",
+      "tag_source": "source_en",
+      "source_jp": "追跡者が頭目の娘だったとはね",
+      "source_en": "I didn't realize the tracker was the boss's daughter.",
+      "text": "Ich wusste gar nicht, dass die Späherin die Tochter des Anführers war."
+    },
+    {
+      "key": "",
+      "read_index": "85",
+      "tag_source": "source_en",
+      "source_jp": "今は別の安全な場所で眠ってるよ\r\nスライが看病しているから、まかせようぜ",
+      "source_en": "She's sleeping in a safe place now.\r\nSly is taking care of her, \r\nso let's leave it to him.",
+      "text": "Sie schläft jetzt an einem sicheren Ort.\r\nSly kümmert sich um sie.\r\nWir können sie ihm anvertrauen."
+    },
+    {
+      "key": "",
+      "read_index": "86",
+      "tag_source": "source_en",
+      "source_jp": "ありがとう\r\n俺の部下を――\r\nいや、娘を救い出してくれて感謝する",
+      "source_en": "Thank you.\r\nThank you for rescuing my tracker—\r\nNo, thank you for rescuing my daughter.",
+      "text": "Danke.\r\nDanke, dass du meine Späherin gerettet hast …\r\nNein. Danke, dass du meine Tochter gerettet hast."
+    },
+    {
+      "key": "",
+      "read_index": "87",
+      "tag_source": "source_en",
+      "source_jp": "状況は厳しいが、まだまだ若い\r\nきっと危機を乗り越えてくれるだろう",
+      "source_en": "The situation is tough, but she's still young.\r\nI am sure she will overcome this crisis.",
+      "text": "Es steht schlecht um sie, aber sie ist noch jung.\r\nIch bin sicher, dass sie es schafft."
+    },
+    {
+      "key": "",
+      "read_index": "88",
+      "tag_source": "source_en",
+      "source_jp": "さて、肝心の、王子の足取りだが――\r\n娘は出立からの出来事を\r\n逐一暗号にして記録に残していた",
+      "source_en": "Now, the important thing, the prince's trail...\r\nMy daughter kept a coded record of every single \r\nevent from the time of her departure.",
+      "text": "Nun aber zur Spur des Prinzen …\r\nMeine Tochter hat von ihrem Aufbruch an\r\nalles verschlüsselt festgehalten, was ihr begegnet ist."
+    },
+    {
+      "key": "",
+      "read_index": "89",
+      "tag_source": "source_en",
+      "source_jp": "今、娘が記した記録を解読し、その足取りの\r\n割り出しにかかっている",
+      "source_en": "We're now trying to decipher the records written \r\nby my daughter and determine her route.",
+      "text": "Wir versuchen gerade, ihre Aufzeichnungen zu entziffern\r\nund ihren Weg nachzuvollziehen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

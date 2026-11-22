@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\enemy\\enemy_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ENEMY_NAME_323",
+      "read_index": "304",
+      "tag_source": "source_en",
+      "source_jp": "戦甲グリムワーグ",
+      "source_en": "War-Ready Grimwarg",
+      "text": "Gepanzerter Grimwarg"
+    },
+    {
+      "key": "ENEMY_NAME_341",
+      "read_index": "320",
+      "tag_source": "source_en",
+      "source_jp": "戦甲ゴアマンティコア",
+      "source_en": "War-Ready Goremanticore",
+      "text": "Gepanzerter Blutmantikor"
+    },
+    {
+      "key": "ENEMY_NAME_356",
+      "read_index": "334",
+      "tag_source": "source_en",
+      "source_jp": "戦の将",
+      "source_en": "War Master",
+      "text": "Kriegsgeneral"
+    },
+    {
+      "key": "ENEMY_NAME_357",
+      "read_index": "335",
+      "tag_source": "source_en",
+      "source_jp": "獣の将",
+      "source_en": "Beast Commander",
+      "text": "Bestiengeneral"
+    },
+    {
+      "key": "ENEMY_NAME_358",
+      "read_index": "336",
+      "tag_source": "source_en",
+      "source_jp": "骸の将",
+      "source_en": "Necro Master",
+      "text": "Totengeneral"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

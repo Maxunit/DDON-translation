@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_1212",
+      "read_index": "673",
+      "tag_source": "source_en",
+      "source_jp": "タリーエの小塔",
+      "source_en": "Tarie Small Tower",
+      "text": "Kleiner Turm von Tarie"
+    },
+    {
+      "key": "SPOT_NAME_1213",
+      "read_index": "674",
+      "tag_source": "source_en",
+      "source_jp": "聖遺の塔",
+      "source_en": "Sage Tower Ruins",
+      "text": "Ruinen des Turms der Weisen"
+    },
+    {
+      "key": "SPOT_NAME_1215",
+      "read_index": "676",
+      "tag_source": "source_en",
+      "source_jp": "高地のあばら屋",
+      "source_en": "Plateau Shack",
+      "text": "Hütte im Hochland"
+    },
+    {
+      "key": "SPOT_NAME_1216",
+      "read_index": "677",
+      "tag_source": "source_en",
+      "source_jp": "北の盗賊のアジト",
+      "source_en": "Northern Bandit Hideout",
+      "text": "Versteck der Diebe aus dem Norden"
+    },
+    {
+      "key": "SPOT_NAME_1218",
+      "read_index": "679",
+      "tag_source": "source_en",
+      "source_jp": "メガド離宮",
+      "source_en": "Megado Detached Palace",
+      "text": "Nebenresidenz von Megado"
+    },
+    {
+      "key": "SPOT_NAME_1220",
+      "read_index": "681",
+      "tag_source": "source_en",
+      "source_jp": "王家の墓",
+      "source_en": "The Royal Family Mausoleum",
+      "text": "Grabstätte des Königshauses"
+    },
+    {
+      "key": "SPOT_NAME_1221",
+      "read_index": "682",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜のねぐら",
+      "source_en": "Evil Dragon's Roost",
+      "text": "Hort des Bösen Drachen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00030210_00.gmd",
+  "arc_path": "\\quest\\q00030210.arc",
+  "entries": [
+    {
+      "key": "q00030210_00_79",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "消えた王子",
+      "source_en": "The Missing Prince",
+      "text": "Der verschwundene Prinz"
+    },
+    {
+      "key": "q00030210_00_79",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "メガド奪還後に姿を消したネド王子について\r\n相談を受ける",
+      "source_en": "Investigate the whereabouts of Prince Nedo,\r\nwho disappeared after the recapture of Megado",
+      "text": "Finde heraus, wo Prinz Nedo ist.\r\nEr ist nach der Rückeroberung von Megado verschwunden."
+    },
+    {
+      "key": "q00030210_00_4531",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "展望城へ向かう",
+      "source_en": "Head to the Lookout Castle",
+      "text": "Begib dich nach Burg Weitblick."
+    },
+    {
+      "key": "q00030210_00_4532",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "メイロワと話す",
+      "source_en": "Speak with Meirova",
+      "text": "Sprich mit Meirova."
+    },
+    {
+      "key": "q00030210_00_4533",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "メガド王宮層で案内人と落ち合う",
+      "source_en": "Rendezvous with the guide at the Megado Royal Palace Level",
+      "text": "Triff den Wegführer auf der Palastebene von Megado."
+    },
+    {
+      "key": "q00030210_00_4534",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "メガド離宮へ向かう",
+      "source_en": "Head to the Megado Detached Palace",
+      "text": "Begib dich zur Nebenresidenz von Megado."
+    },
+    {
+      "key": "q00030210_00_4535",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ネドを探すため離宮の最下層へ向かう",
+      "source_en": "Head to the lowest level of the detached palace and search for Nedo",
+      "text": "Suche Nedo auf der untersten Ebene der Nebenresidenz."
+    },
+    {
+      "key": "q00030210_00_4536",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を殲滅する",
+      "source_en": "Defeat the enemy encountered",
+      "text": "Besiege den Feind, dem du dort begegnest."
+    },
+    {
+      "key": "q00030210_00_4537",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "祭壇の付近を調べる",
+      "source_en": "Examine the vicinity of the altar",
+      "text": "Untersuche die Umgebung des Altars."
+    },
+    {
+      "key": "q00030210_00_4538",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "メイロワと話す",
+      "source_en": "Speak with Meirova",
+      "text": "Sprich mit Meirova."
+    },
+    {
+      "key": "q00030210_00_4539",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "展望城に戻りベルタと話す",
+      "source_en": "Return to the Lookout Castle and speak with Bertha",
+      "text": "Kehre nach Burg Weitblick zurück und sprich mit Bertha."
+    },
+    {
+      "key": "q00030210_00_4540",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアに帰還しジョゼフに報告する",
+      "source_en": "Return to Lestania and report to Joseph",
+      "text": "Kehre nach Lestania zurück und erstatte Joseph Bericht."
+    },
+    {
+      "key": "q00030210_00_4661",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "離宮から出た場所にある礎を開放する",
+      "source_en": "Activate the portcrystal located in the place after leaving the detached palace",
+      "text": "Aktiviere den Zielkristall gleich vor der Nebenresidenz."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

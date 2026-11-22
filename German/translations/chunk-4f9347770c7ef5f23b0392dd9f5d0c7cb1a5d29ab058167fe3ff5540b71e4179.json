@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q00030170.gmd",
+  "arc_path": "\\quest\\q00030170.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "微かな竜力を感じるが\r\nこのままでは《淀みの渦》へ飛べそうにない",
+      "source_en": "You can sense a faint trace of Dragon Force,\r\nbut it doesn't seem like you can fly to the\r\n\"Vortex of Stagnation\" like this.",
+      "text": "Du spürst einen Hauch von Drachenkraft.\r\nDoch sie reicht so wohl nicht aus,\r\num zum „Wirbel gestauter Drachenkraft“ zu gelangen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "闇の魔物を討伐した場所に流れ出す竜力を感じる",
+      "source_en": "You can feel the flow of Dragon Force in the\r\nplace where you defeated the dark creatures.",
+      "text": "Wo du die Monster der Finsternis besiegt hast,\r\nspürst du die Drachenkraft wieder fließen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

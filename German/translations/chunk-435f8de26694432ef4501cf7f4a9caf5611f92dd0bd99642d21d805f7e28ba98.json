@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00030125.gmd",
+  "arc_path": "\\quest\\q00030125.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "ほら、臭うだろ？",
+      "source_en": "See, it stinks, right?",
+      "text": "Riechst du, wie das hier stinkt?"
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "隊長さん、やりました！\r\nここは展望城、城内の中層です",
+      "source_en": "Captain, we did it! \r\nThis is the Lookout Castle, the middle level.",
+      "text": "Hauptmann, wir haben’s geschafft!\r\nWir sind im mittleren Stockwerk von Burg Weitblick."
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "そして、この先こそ、城内上層へと\r\n続くエレベーターのある場所です",
+      "source_en": "Also, ahead is where there is an elevator that\r\ncontinues to the upper floors of the castle.",
+      "text": "Weiter vorne gibt es einen Aufzug,\r\nder in die oberen Stockwerke führt."
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "これで城を突入する際の経路は確認できました\r\n敵に悟られないうちに、引き返すべきだと思いますが\r\nひとつお願いがあります",
+      "source_en": "Now that we have identified the route we will \r\ntake when we raid the castle, I think we should \r\nturn back before the enemy realizes what we've \r\ndone, but I do have one request.",
+      "text": "Jetzt wissen wir, welchen Weg wir\r\nbeim Angriff nehmen können.\r\nWir sollten zurück, bevor der Feind uns bemerkt.\r\nDoch ich habe noch eine Bitte."
+    },
+    {
+      "key": "",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "この城が占領された時、城にいた人々の行方が\r\nわからなくなりました",
+      "source_en": "When this castle was occupied, the people who \r\nwere in it were lost.",
+      "text": "Als die Burg besetzt wurde,\r\nsind die Menschen darin spurlos verschwunden."
+    },
+    {
+      "key": "",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "でも、どうやら、クインタスの進言によると\r\nその人たちはこの城内の地下牢に\r\n閉じ込められているようなのです",
+      "source_en": "But apparently, according to Quintus, those \r\npeople are locked up in the dungeons.",
+      "text": "Quintus meint,\r\nsie seien im Burgverlies eingesperrt."
+    },
+    {
+      "key": "",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "もしそうであれば\r\n――僕はその人たちを見捨てることなどできません\r\n隊長さん、お願いです！\r\n彼らを助けてあげてください",
+      "source_en": "If that's the case—\r\nI can't abandon those people, Captain, please! \r\nPlease help them.",
+      "text": "Wenn das stimmt,\r\nkann ich sie nicht einfach zurücklassen.\r\nHauptmann, bitte helft ihnen!"
+    },
+    {
+      "key": "",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "クインタスがこの先にある\r\n城内地下へと通じる場所へ先行しています\r\nよろしくお願いします",
+      "source_en": "Quintus is just up ahead.\r\nHe'll lead you to the basement of the castle.\r\nThank you, Ser.",
+      "text": "Quintus wartet weiter vorn.\r\nEr führt Euch ins Verlies unter der Burg.\r\nIch danke Euch, Hauptmann."
+    },
+    {
+      "key": "",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "湿原での陽動が功を奏しているのか\r\n敵の部隊のほとんどは城の城外に\r\n集まっているようです",
+      "source_en": "Is the diversion in the wetlands working?\r\nMost of the enemy troops seem to have gathered \r\noutside the castle walls.",
+      "text": "Ob das Ablenkungsmanöver im Klagemoor wirkt?\r\nDer Großteil der feindlichen Truppen\r\nscheint sich vor den Mauern versammelt zu haben."
+    },
+    {
+      "key": "",
+      "read_index": "54",
+      "tag_source": "source_en",
+      "source_jp": "あたしらの常識じゃあ、目的を達した今\r\nこれ以上、ここで時間を使うのはご法度なんだがね",
+      "source_en": "Now that we've accomplished what we set out to \r\ndo, it's not prudent for us to spend \r\nany more time here.",
+      "text": "Wir haben erreicht, wofür wir gekommen sind.\r\nDa wäre es unklug,\r\nnoch länger hierzubleiben."
+    },
+    {
+      "key": "",
+      "read_index": "55",
+      "tag_source": "source_en",
+      "source_jp": "まあ万一、見張りの兵隊と出くわした際は必ず\r\n仕留めるんだよ",
+      "source_en": "Well, just in case you run into any soldiers on \r\nguard duty, make sure you take them out.",
+      "text": "Falls dir doch eine Wache über den Weg läuft,\r\nkümmere dich um sie."
+    },
+    {
+      "key": "",
+      "read_index": "56",
+      "tag_source": "source_en",
+      "source_jp": "城の地下には広大な地下牢があると\r\n聞いたことがある\r\nおそらく、この先がその入口なのだろう",
+      "source_en": "It is said that a large underground prison \r\nlies beneath the castle. This is likely \r\nthe entrance up ahead.",
+      "text": "Unter der Burg soll ein großes Verlies liegen.\r\nDort vorn\r\nmüsste der Eingang sein."
+    },
+    {
+      "key": "",
+      "read_index": "57",
+      "tag_source": "source_en",
+      "source_jp": "そしてほら――感じるだろう？",
+      "source_en": "And you see - you feel it, don't you?",
+      "text": "Spürst du es auch?"
+    },
+    {
+      "key": "",
+      "read_index": "58",
+      "tag_source": "source_en",
+      "source_jp": "人が息を潜め、耳を澄ましている気配\r\n大勢の同胞がこの先に監禁されている\r\nああ、間違いない\r\nわたしの友人もいるに違いない！",
+      "source_en": "Signs that people are holding their breath and \r\nlistening carefully. A lot of our people are \r\nlocked up down there. \r\nOh, no doubt about it. \r\nMy friends must be there too!",
+      "text": "Da hält jemand den Atem an\r\nund lauscht. Dort unten sind viele Menschen\r\neingesperrt. Unsere Leute.\r\nDas spüre ich ganz deutlich.\r\nMeine Freunde müssen auch dort sein!"
+    },
+    {
+      "key": "",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "急ごう、城が魔軍に襲われてから\r\n既にかなりの時が過ぎている",
+      "source_en": "Let's hurry. It's already been quite a while \r\nsince the castle was attacked by the Demon Army.",
+      "text": "Beeilen wir uns. Seit dem Angriff der Dämonenarmee\r\nauf die Burg ist schon viel Zeit vergangen."
+    },
+    {
+      "key": "",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "囚われた人が地下にいたとしても\r\nもう、限界のはずだ",
+      "source_en": "Even if the prisoners were kept underground,\r\nthey should be at their breaking point by now.",
+      "text": "Wenn sie die ganze Zeit hier unten waren,\r\nsind die Gefangenen bestimmt am Ende ihrer Kräfte."
+    },
+    {
+      "key": "",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "隊長さん、ありがとうございます！\r\nおかげでこんなにも多くの人たちを\r\n解放することができました",
+      "source_en": "Thank you, Captain! \r\nThanks to you, \r\nwe were able to liberate so many people.",
+      "text": "Danke, Hauptmann!\r\nMit Eurer Hilfe\r\nkonnten wir viele Menschen befreien."
+    },
+    {
+      "key": "",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "僕とクインタス、ベルタは、この人たちを連れて\r\n王家の通路を使って脱出します",
+      "source_en": "Me, Quintus and Bertha will take these people and \r\nuse the royal passage to escape.",
+      "text": "Quintus, Bertha und ich bringen die Leute\r\ndurch den Geheimgang des Königshauses hinaus."
+    },
+    {
+      "key": "",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "隊長さんも、いち早く\r\nここから脱出してください",
+      "source_en": "Captain as well, quickly,\r\nyou must leave this place at once.",
+      "text": "Hauptmann, beeilt Euch bitte auch.\r\nIhr müsst sofort hier weg."
+    },
+    {
+      "key": "",
+      "read_index": "64",
+      "tag_source": "source_en",
+      "source_jp": "間に合って良かった――\r\nざっと見たところ、この地下は封鎖されたまま\r\nかなり日が経っている",
+      "source_en": "Glad I got here in time— \r\na quick look around shows that this basement has \r\nbeen sealed off for quite some time now.",
+      "text": "Gut, dass ich noch rechtzeitig hier bin.\r\nSo wie es aussieht,\r\nist dieses Verlies schon eine ganze Weile verschlossen."
+    },
+    {
+      "key": "",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "オークどもめ、ここの人たちのことなど\r\nすっかり忘れてしまったのだろう",
+      "source_en": "Those orcs, they must have forgotten all \r\nabout the people here.",
+      "text": "Die Orks müssen die Leute hier unten\r\nvöllig vergessen haben."
+    },
+    {
+      "key": "",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "見つからずにみんなを助け出すには\r\n好都合だな",
+      "source_en": "This is convenient for rescuing everyone \r\nwithout being noticed.",
+      "text": "So können wir sie leichter retten,\r\nohne dass es jemand bemerkt."
+    },
+    {
+      "key": "",
+      "read_index": "67",
+      "tag_source": "source_en",
+      "source_jp": "あんたのおかげでここの連中は\r\nぎりぎり飢え死にせずに済んだようだ",
+      "source_en": "Thanks to you, it looks like the people here just \r\nbarely escaped starving to death.",
+      "text": "Dank dir sind diese Leute\r\ngerade noch dem Hungertod entkommen."
+    },
+    {
+      "key": "",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "さあ、突入経路の確認も済んでいることだし\r\nとっととずらかろうじゃないか\r\n――陽動部隊の情報も気になるだろう？",
+      "source_en": "Now, we've already checked the raid route, \r\nso let's get the hell out of here.\r\n—And you're probably wondering about information \r\non the diversionary forces, aren't you?",
+      "text": "Wir wissen jetzt, welchen Weg wir beim Angriff nehmen.\r\nAlso nichts wie weg.\r\nDu willst doch bestimmt auch wissen,\r\nwie es dem Locktrupp ergangen ist, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "よもやこんな場所でネド王子様と\r\nお会いできようとは、ぐ、言葉もない――",
+      "source_en": "I never thought I'd meet Prince Nedo in a place \r\nlike this... I'm speechless...",
+      "text": "Nie hätte ich gedacht, dass ich Prinz Nedo\r\nan einem Ort wie diesem begegne. Mir fehlen die Worte …"
+    },
+    {
+      "key": "",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "――さ、わしよりも、はやくみんなをここから\r\n連れ出してやってくれ",
+      "source_en": "Now, I'd better get them out of here \r\nas quickly as I can.",
+      "text": "Jetzt bringe ich die Leute besser\r\nso schnell wie möglich hier raus."
+    },
+    {
+      "key": "",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "あ、あんたたちは一体誰なんだ？",
+      "source_en": "Oh, who the hell are you guys?",
+      "text": "Wer zum Teufel seid ihr?"
+    },
+    {
+      "key": "",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "え？　解放軍！？\r\n俺、本当に助かるのか――",
+      "source_en": "Eh?　The Liberation Army!?\r\nAm I really going to be saved—?",
+      "text": "Wie? Die Befreiungsarmee?!\r\nWerde ich wirklich gerettet?"
+    },
+    {
+      "key": "",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "うう、王子様ったら\r\nこんなあぶない真似までして来てくれるなんて\r\nほんと身に余る光栄だよ",
+      "source_en": "Oh my, the prince has come to do \r\nsuch a dangerous thing. \r\nI truly feel unworthy of this honor.",
+      "text": "Ach, dass sich der Prinz\r\nfür uns in solche Gefahr begibt.\r\nWomit habe ich diese Ehre verdient?"
+    },
+    {
+      "key": "",
+      "read_index": "74",
+      "tag_source": "source_en",
+      "source_jp": "ああ、許してください、許してください",
+      "source_en": "Oh, forgive me, forgive me.",
+      "text": "Ach, verzeiht mir, bitte verzeiht mir."
+    },
+    {
+      "key": "",
+      "read_index": "75",
+      "tag_source": "source_en",
+      "source_jp": "わたしはなんでも言うことを聞きますから\r\nどうか――家族だけは見逃してください",
+      "source_en": "I'll do whatever you say, so please... \r\njust save my family.",
+      "text": "Ich tue alles, was ihr sagt.\r\nBitte rettet nur meine Familie."
+    },
+    {
+      "key": "",
+      "read_index": "76",
+      "tag_source": "source_en",
+      "source_jp": "ネド王子様――\r\nなんとご立派に成長されたことか",
+      "source_en": "Prince Nedo—\r\nHow splendidly you have grown!",
+      "text": "Prinz Nedo …\r\nWas für ein stattlicher junger Mann aus Euch geworden ist!"
+    },
+    {
+      "key": "",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "アデライデ様、クレス様、ああ、お喜びあれ！",
+      "source_en": "By Queen Adelaide, Queen Cress, oh, rejoice!",
+      "text": "Königin Adelaide, Königin Cress, freut euch!"
+    },
+    {
+      "key": "",
+      "read_index": "78",
+      "tag_source": "source_en",
+      "source_jp": "本当にありがとう\r\nもうみんな、ここ数日は食べる物も無くなって\r\nほんと、ぎりぎりだったの――",
+      "source_en": "Thank you so much.\r\nWe've all been on the brink of starvation \r\nfor the last few days...",
+      "text": "Vielen, vielen Dank.\r\nDie letzten Tage waren wir\r\nkurz vor dem Verhungern …"
+    },
+    {
+      "key": "",
+      "read_index": "79",
+      "tag_source": "source_en",
+      "source_jp": "う、あっちにいるのは大盗賊のベルタじゃないか",
+      "source_en": "Oh, isn't that the infamous bandit Bertha \r\nover there?",
+      "text": "Ist das da drüben\r\nnicht die berüchtigte Diebin Bertha?"
+    },
+    {
+      "key": "",
+      "read_index": "80",
+      "tag_source": "source_en",
+      "source_jp": "盗賊が俺たちを助けてくれたのか――\r\nだが、もう何が起きたって驚きゃあしないぜ",
+      "source_en": "So the bandit helped us, huh― \r\nbut I won't be surprised by anything \r\nthat happens now.",
+      "text": "Jetzt hat uns also eine Diebin gerettet.\r\nNach allem, was passiert ist,\r\nwundert mich gar nichts mehr."
+    },
+    {
+      "key": "",
+      "read_index": "81",
+      "tag_source": "source_en",
+      "source_jp": "お疲れさまでした",
+      "source_en": "Thank you.",
+      "text": "Danke."
+    },
+    {
+      "key": "",
+      "read_index": "82",
+      "tag_source": "source_en",
+      "source_jp": "おかげで王家の通路の調査は終わり\r\nそればかりか、消息不明だった城の人々も\r\n保護することができました",
+      "source_en": "Thanks to your help, we were able to complete \r\nthe search of the royal passage and protect the \r\npeople of the castle who had disappeared.",
+      "text": "Mit Eurer Hilfe konnten wir\r\nden Geheimgang erkunden\r\nund die vermissten Menschen aus der Burg in Sicherheit bringen."
+    },
+    {
+      "key": "",
+      "read_index": "83",
+      "tag_source": "source_en",
+      "source_jp": "次は――いよいよ、展望城への侵攻ですね",
+      "source_en": "Next up - \r\nthe invasion of the Lookout Castle, at last!",
+      "text": "Und als Nächstes …\r\nerobern wir endlich die Burg Weitblick zurück!"
+    },
+    {
+      "key": "",
+      "read_index": "84",
+      "tag_source": "source_en",
+      "source_jp": "メイロワ将軍たちも戻っています\r\n陽動部隊との評定も終えたようですから\r\nええ、きっとうまくいくでしょう",
+      "source_en": "General Meirova and his men are back, and they've \r\nfinished their assessment of \r\nthe diversionary forces.\r\nYes, I'm sure everything will be fine.",
+      "text": "General Meirova und seine Leute sind zurück.\r\nSie haben sich schon ein Bild davon gemacht,\r\nwie es um den Locktrupp steht.\r\nJa, ich bin sicher, dass alles gut geht."
+    },
+    {
+      "key": "",
+      "read_index": "85",
+      "tag_source": "source_en",
+      "source_jp": "城から助け出してもらった連中に代わって\r\n礼を言わせてくれ\r\nありがとう",
+      "source_en": "On behalf of the people who were rescued from \r\nthe castle, I'd like to thank you.",
+      "text": "Im Namen der Menschen, die ihr aus der Burg gerettet habt,\r\nmöchte ich euch danken."
+    },
+    {
+      "key": "",
+      "read_index": "86",
+      "tag_source": "source_en",
+      "source_jp": "わたしの友はオークと戦い、命を落とした\r\nようだが、その家族は無事だった\r\nそれだけでも良しとしよう",
+      "source_en": "My friend lost his life fighting orcs, \r\nbut his family is safe, \r\nso let's be thankful for that.",
+      "text": "Ein Freund von mir ist im Kampf gegen die Orks gefallen.\r\nAber seine Familie ist in Sicherheit.\r\nDafür können wir dankbar sein."
+    },
+    {
+      "key": "",
+      "read_index": "87",
+      "tag_source": "source_en",
+      "source_jp": "地下に閉じ込められていた連中は\r\n意気も元気もなくしてまるで屍のようだった",
+      "source_en": "The people who were trapped in the basement were \r\nlike corpses, out of energy and out of mind.",
+      "text": "Die Leute im Verlies wirkten wie Tote.\r\nSie waren so erschöpft, dass sie gar nichts mehr mitbekamen."
+    },
+    {
+      "key": "",
+      "read_index": "88",
+      "tag_source": "source_en",
+      "source_jp": "今にして思えばそれが良かったのだろうね\r\n静かに、水が流れるがごとくに脱出できた\r\nオークどもめ、全然気づいちゃいないよ",
+      "source_en": "In hindsight, it's probably for the best that we \r\ngot out as quietly as flowing water, \r\nthe orcs not even noticing us at all.",
+      "text": "Am Ende war es wohl das Beste,\r\ndass wir uns ganz leise davongemacht haben.\r\nDie Orks haben überhaupt nichts bemerkt."
+    },
+    {
+      "key": "",
+      "read_index": "89",
+      "tag_source": "source_en",
+      "source_jp": "おぬしらの首尾は上々と聞いている\r\nしかし、陽動部隊は消耗が激しい",
+      "source_en": "I hear you have done well.\r\nBut the diversionary force is wearing thin.",
+      "text": "Ich habe gehört, dass du gute Arbeit geleistet hast.\r\nNur der Locktrupp ist mit seinen Kräften bald am Ende."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q00030250.gmd",
+  "arc_path": "\\quest\\q00030250.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "壁に文字が刻まれている――\r\n\"高貴なるサマラの指に輝きし光\r\n我が心を魅了し、支配する光\r\n輝きから逃れんと塔に身を隠すが\r\n我が思いはひとときも離れず\"",
+      "source_en": "There are inscriptions on the wall: \"On the\r\nnoble Samara's fingers, a radiant light\r\nshines, enchanting and ruling our hearts,\r\nThough I hide in the tower to escape the\r\nradiance, My thoughts never\r\nstray for a moment.\"",
+      "text": "In die Wand sind Worte geritzt.\r\n„Am Finger des edlen Samara glänzt\r\nein Licht, das mein Herz betört und beherrscht.\r\nVor seinem Glanz verberge ich mich\r\nim Turm, doch meine Gedanken\r\nlassen keinen Augenblick von ihm ab.“"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "床に文字が刻まれている――\r\n\"探究と秘密を愛する者よ\r\nここより北の洞窟で待つ\r\n高貴なるサマラの指に輝きし光\r\n人の目に余る煌めきサマラに帰るべし\"",
+      "source_en": "There are inscriptions on the floor: \"O\r\nseeker of exploration and secrets; I await\r\nin the cave north from here, where the\r\nradiant light shines on the noble fingers of\r\nSamara. Return to Samara with a brilliance\r\nbeyond human eyes.\"",
+      "text": "In den Boden sind Worte geritzt.\r\n„Du, der du nach Antworten suchst und Geheimnisse liebst,\r\nich erwarte dich in der Höhle nördlich von hier.\r\nAm Finger des edlen Samara glänzt\r\nein Licht, zu blendend für Menschenaugen.\r\nZu Samara muss es zurückkehren.“"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "石棺に文字が刻まれている――\r\n\"我が欲望は光に焼かれて人外となる\r\n探究と秘密を愛する者よ、どうか我が身に平穏を\r\n高貴なるサマラの指に輝きし光\r\n人の目に余る煌めきサマラに帰るべし\"",
+      "source_en": "Inscriptions are carved into the stone\r\ncoffin: \"My desire is scorched by the light\r\nand becomes inhuman.\r\nO lover of inquiry and secrets,\r\nplease grant me peace.\r\nThe light that shone upon the noble Samara’s\r\nfingers— A radiance too brilliant for human\r\neyes—must return to Samara.\"",
+      "text": "In den Steinsarg sind Worte geritzt.\r\n„Das Licht versengt mein Begehren\r\nund macht mich zu etwas Unmenschlichem.\r\nDu, der du nach Antworten suchst\r\nund Geheimnisse liebst, schenk mir Frieden.\r\nAm Finger des edlen Samara glänzt\r\nein Licht, zu blendend für Menschenaugen.\r\nZu Samara muss es zurückkehren.“"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "冒険者の遺したメッセージとは\r\n関係のない落書きのようだ――",
+      "source_en": "Looks like graffiti that has nothing to do\r\nwith the message left by the adventurer...",
+      "text": "Das sieht nach einer Kritzelei aus,\r\ndie mit der Botschaft des Abenteurers nichts zu tun hat …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "初代王サマラの指輪を入手した",
+      "source_en": "You have obtained the ring of the\r\nfirst king, Samara.",
+      "text": "Du hast den Ring des ersten Königs\r\nSamara erhalten."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "火垂れ山への扉が解放されました",
+      "source_en": "Firefall Mountain's door has been unlocked.",
+      "text": "Das Tor zum Feuerfallberg ist jetzt offen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

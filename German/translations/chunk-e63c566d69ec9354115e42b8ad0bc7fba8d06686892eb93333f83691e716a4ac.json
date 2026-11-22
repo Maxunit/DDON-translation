@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area18_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ラスニテ山麓　湖畔部",
+      "source_en": "Rathnite Foothills Lakeside",
+      "text": "Seeufer im Rathnite-Vorgebirge"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "湖畔の洞窟",
+      "source_en": "Lakeside Grotto",
+      "text": "Grotte am See"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

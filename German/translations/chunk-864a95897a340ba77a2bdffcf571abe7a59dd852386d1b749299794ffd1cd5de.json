@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00030210.gmd",
+  "arc_path": "\\quest\\q00030210.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ネド王子に関する相談か――",
+      "source_en": "You're asking for advice about Prince Nedo...",
+      "text": "Sie bitten dich also wegen Prinz Nedo um Rat …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "大ごとでなければいいが\r\nとにかく早く行ってあげなさい",
+      "source_en": "I hope it's nothing serious. \r\nRegardless, go quickly!",
+      "text": "Hoffentlich ist es nichts Ernstes.\r\nGeh jedenfalls so schnell wie möglich!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "時間を取らせてしまったな\r\nもう大丈夫だ",
+      "source_en": "Sorry to take up so much of your time. \r\nYou're all set.",
+      "text": "Ich habe dich lange aufgehalten.\r\nJetzt kannst du aufbrechen."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アッカーシェランの力になってやるがいい",
+      "source_en": "Let Acre Selund help you.",
+      "text": "Nimm auch du die Hilfe von Acre Selund an."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ひと段落ではあるけれど――\r\n黒騎士と悪しき竜がどこまで通じて\r\nいたのかわからないよね",
+      "source_en": "It's a break of sorts, but— \r\nI can't tell how deep the connection was between \r\nthe Black Knight and the Evil Dragon.",
+      "text": "Jetzt haben wir zwar eine kleine Pause, aber …\r\nIch kann nicht einschätzen, wie eng der Schwarze Ritter\r\nund der Böse Drache miteinander verbunden waren."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "それはこれからの悪しき竜の動きから\r\n見極めるしかないかな",
+      "source_en": "I guess we'll just have to wait and see what the \r\nEvil Dragon does from here on out.",
+      "text": "Uns bleibt wohl nur abzuwarten,\r\nwas der Böse Drache jetzt unternimmt."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "おお、おぬしか",
+      "source_en": "Oh, no.",
+      "text": "Ach, du meine Güte."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ネド王子のことは聞いたな？\r\nまだ、ここだけの話にしておいてくれ",
+      "source_en": "You heard about Prince Nedo, right?\r\nFor now, let's keep it between us.",
+      "text": "Du hast von Prinz Nedo gehört, oder?\r\nFürs Erste behalten wir das unter uns."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "あれやこれやと王子に押しつけ\r\n過ぎたのかねえ",
+      "source_en": "I wonder if I pushed the prince too hard \r\non this and that.",
+      "text": "Ob ich den Prinzen mit all den Dingen\r\nzu sehr unter Druck gesetzt habe?"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "あたしも口で心配するほど\r\n気づかいがなかったかもしれないね",
+      "source_en": "Maybe I wasn't as thoughtful \r\nas I should have been.",
+      "text": "Vielleicht hätte ich\r\nmehr Rücksicht auf ihn nehmen sollen."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "たしかに王子はまだケツの青いガキだ\r\nでも、重圧から逃げ出すようなやつじゃあ\r\nなさそうだけどよ――",
+      "source_en": "Yes, the prince is still a boy, but he doesn't \r\nseem to be the kind of man who would \r\nrun away under pressure...",
+      "text": "Ja, der Prinz ist noch ein Junge.\r\nAber ich halte ihn nicht für jemanden,\r\nder davonläuft, wenn es schwierig wird …"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "まあ、わかんねえな",
+      "source_en": "Well, I don't know.",
+      "text": "Ach, ich weiß es nicht."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "隊長！",
+      "source_en": "Captain!",
+      "text": "Hauptmann!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "ネド王子が行方不明なの\r\n急いで探しに行かなくちゃ",
+      "source_en": "Prince Nedo is missing. \r\nWe have to hurry and find him.",
+      "text": "Prinz Nedo wird vermisst.\r\nWir müssen ihn schnell finden."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "王子はどこでしょうね――\r\n行き先の見当くらい\r\nつきそうなものですけど――",
+      "source_en": "Where could the prince be— \r\nWe should at least have \r\nsome notion of where he is—",
+      "text": "Wo der Prinz nur sein könnte …\r\nIrgendeinen Anhaltspunkt\r\nmüssen wir doch haben …"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "皆さん、おそろいですね\r\nさて、黒騎士との戦いの直後に姿を消した\r\n王子ですが――",
+      "source_en": "Well, I see you're all here now.\r\nNow, the prince disappeared shortly after the \r\nbattle with the Black Knight...",
+      "text": "Gut, jetzt sind alle da.\r\nDer Prinz ist kurz nach dem Kampf\r\nmit dem Schwarzen Ritter verschwunden …"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "メガド離宮で姿を見たという者を見つけました",
+      "source_en": "I found someone who said he saw \r\nhim at the Megado Detached Palace.",
+      "text": "Ich habe jemanden gefunden, der ihn\r\nin der Nebenresidenz von Megado gesehen haben will."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "目撃者は王子と面識のある兵士ですし\r\n離宮は、メガドに隣接する竜の神殿\r\nとなれば、ネド王子であることは確実でしょう",
+      "source_en": "The witness is a soldier who knows the prince, \r\nand since the palace borders \r\nMegado's Dragon Temple, \r\nit is clear this must be Prince Nedo.",
+      "text": "Der Zeuge ist ein Soldat, der den Prinzen kennt.\r\nDie Nebenresidenz ist der Drachentempel,\r\nder gleich an Megado angrenzt.\r\nEs muss Prinz Nedo gewesen sein."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "すでにジリアンが向かっていますが\r\n皆さんもお急ぎください",
+      "source_en": "Gillian is already on her way, \r\nbut I urge you all to hurry.",
+      "text": "Gillian ist bereits auf dem Weg.\r\nBitte beeilt euch auch."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "王子にもしものことがあれば――終わりです",
+      "source_en": "If something happens to the prince— \r\nit's over.",
+      "text": "Wenn dem Prinzen etwas zustößt …\r\ndann ist alles vorbei."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "しかし、わからないのは王子の気持ちですね",
+      "source_en": "But what I don't understand \r\nis how the prince feels.",
+      "text": "Aber eines verstehe ich nicht.\r\nWas geht wohl in ihm vor?"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "無事に保護しても、それがわからなければ\r\nまた同じことが起こるでしょう",
+      "source_en": "Even if you protect them safely, \r\nif you don't know that, it will happen again.",
+      "text": "Selbst wenn wir ihn heil zurückbringen,\r\nwird es wieder passieren, solange wir das nicht wissen."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "メイロワ将軍が何か知っているかも\r\nしれませんが今のところ黙して語らずを\r\n決め込んでいるようですね",
+      "source_en": "General Meirova may know something, \r\nbut so far he seems to have \r\ndecided to remain silent.",
+      "text": "Vielleicht weiß General Meirova mehr.\r\nAber bisher scheint er beschlossen zu haben,\r\nkein Wort darüber zu verlieren."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "メガドの離宮は竜の神殿さ\r\nあんたの故郷にも神殿はあるんだろう？",
+      "source_en": "Megado's Detached Palace is a dragon temple.\r\nYou have temples in your homeland, too, don't you?",
+      "text": "Die Nebenresidenz von Megado ist ein Drachentempel.\r\nSo einen Tempel habt ihr zu Hause doch auch, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "今は、竜はいないってのに――\r\nそんなところで王子は何をしているんだろうね",
+      "source_en": "Now, even though there is no Dragon—\r\nI wonder what the prince is doing \r\nin a place like that.",
+      "text": "Dort ist jetzt kein Drache mehr.\r\nIch frage mich, was der Prinz\r\nan so einem Ort will."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "当然と言えば当然ですが、メイロワ将軍の\r\n表情が冴えませんね\r\n話を聞いてみたらどうです？",
+      "source_en": "Not surprisingly, General Meirova's \r\nexpression is a bit sullen.\r\nWhy don't you talk to him?",
+      "text": "General Meirova macht ein finsteres Gesicht.\r\nWer kann es ihm verdenken?\r\nWillst du mal mit ihm sprechen?"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "王子と覚者――",
+      "source_en": "The Prince and the Arisen...",
+      "text": "Der Prinz und der Erweckte …"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "両方ともしっかりやれってのは\r\n荷が重いかもしれねえな",
+      "source_en": "Doing a good job of both \r\nmight be a heavy burden.",
+      "text": "Beiden Aufgaben gerecht zu werden,\r\nist vielleicht ein bisschen viel verlangt."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "王子、どうしちゃったのかなあ",
+      "source_en": "Prince, I wonder what's the \r\nmatter with you.",
+      "text": "Prinz, was ist nur\r\nmit dir los?"
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "分からん――",
+      "source_en": "I don't know...",
+      "text": "Ich weiß es nicht …"
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "体制が整い次第、次なる準備のために\r\n神殿へ行くという話は\r\n王子ともすでにしていたのだ",
+      "source_en": "We had already discussed with the prince that \r\nas soon as we were ready, we would go to the \r\ntemple to make the next preparations.",
+      "text": "Wir hatten es mit dem Prinzen schon besprochen.\r\nSobald wir bereit sind, wollten wir im Tempel\r\ndie nächsten Vorbereitungen treffen."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "それなのにひとりで行ってしまうとは――",
+      "source_en": "And yet, to go there alone...",
+      "text": "Und jetzt ist er allein dorthin gegangen …"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "とにかく、一刻も早く王子と会って\r\n話を聞かなくてはな",
+      "source_en": "Anyway, I must see the prince as soon as possible \r\nand hear what he has to say.",
+      "text": "Jedenfalls muss ich den Prinzen schnellstmöglich sehen\r\nund mir anhören, was er dazu sagt."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "さあ、離宮へ行こうではないか\r\n離宮へと繋がるメガド王宮層に\r\n案内人を待たせている",
+      "source_en": "Now, let's go to the Detached Palace. \r\nWe have a guide waiting by the \r\nMegado Royal Palace that will lead you to it.",
+      "text": "Also, brechen wir zur Nebenresidenz auf.\r\nAuf der Palastebene von Megado wartet jemand,\r\nder euch den Weg dorthin zeigt."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "それぞれ現地集合だ",
+      "source_en": "We'll each meet there.",
+      "text": "Wir treffen uns vor Ort."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "面目ない\r\nいよいよこれからと言うときに――",
+      "source_en": "I am ashamed, \r\njust as things were about to truly begin...",
+      "text": "Es ist beschämend,\r\nausgerechnet jetzt, da es richtig losgehen sollte …"
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "ここに来る途中でジリアンと会いましてね",
+      "source_en": "I met Gillian on the way here.",
+      "text": "Auf dem Weg hierher habe ich Gillian getroffen."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "あの子は先に離宮に向かいました\r\n向こうで合流できるでしょう",
+      "source_en": "She's headed to the Detached Palace. \r\nShe'll meet you there.",
+      "text": "Sie ist zur Nebenresidenz unterwegs.\r\nSie trifft euch dort."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "待っていたよ",
+      "source_en": "I've been waiting for you.",
+      "text": "Ich habe auf euch gewartet."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "メガド離宮は、このすぐ先で\r\n王子が目撃された場所は\r\n離宮の最下層にある祭壇だということだ",
+      "source_en": "The Megado Detached Palace is just down the \r\nroad, and that place where the prince was seen \r\nis the altar at the lowest level \r\nof the Detached Palace.",
+      "text": "Die Nebenresidenz von Megado liegt gleich voraus.\r\nMan hat den Prinzen beim Altar\r\nauf der untersten Ebene\r\nder Nebenresidenz gesehen."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "だが、大地の衰えと共に離宮の中は\r\n邪悪な魔物で満たされてしまっている",
+      "source_en": "But as the land has decayed, \r\nthe Detached Palace found itself\r\noverrun with foul fiends.",
+      "text": "Doch seit das Land verfällt,\r\nhaben sich überall in der Nebenresidenz\r\nbösartige Monster eingenistet."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "十分に気をつけて進んでくれ！",
+      "source_en": "Proceed with extreme caution!",
+      "text": "Seid äußerst vorsichtig!"
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "わたしもさっき着いたんだ",
+      "source_en": "I just got here too.",
+      "text": "Ich bin auch gerade erst angekommen."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "王子の気持ちに寄り添っていたつもりだけど\r\nわたしの思い上がりだったのかな",
+      "source_en": "I thought I was being attentive to the prince's \r\nfeelings, but I guess I was just \r\nbeing presumptuous.",
+      "text": "Ich dachte, ich wüsste, wie es dem Prinzen geht.\r\nVielleicht habe ich mir das\r\nbloß eingebildet."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "メイロワ将軍には王子の行き先の\r\n心当たりがある――",
+      "source_en": "General Meirova has an idea of \r\nwhere the prince is headed...",
+      "text": "General Meirova ahnt wohl,\r\nwo der Prinz hinwill …"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}
