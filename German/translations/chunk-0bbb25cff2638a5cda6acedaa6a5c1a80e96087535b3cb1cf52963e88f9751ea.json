@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "準備完了",
       "source_en": "Ready",
-      "text": "Fertig"
+      "text": "Bereit"
     },
     {
       "key": "poptop_entryboard_reentry",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "再エントリー",
       "source_en": "Reregister",
-      "text": "Wiedereintragung"
+      "text": "Erneut anmelden"
     },
     {
       "key": "poptop_entryboard_sally",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "別エントリー検索",
       "source_en": "Search Entries",
-      "text": "Sucheinträge"
+      "text": "Anmeldungen suchen"
     },
     {
       "key": "poptop_gp_charge",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石の確認",
       "source_en": "Check Golden Gemstones",
-      "text": "Goldsteine überprüfen"
+      "text": "Goldsteinbestand prüfen"
     },
     {
       "key": "poptop_item_state",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテム作成状況",
       "source_en": "Production Status",
-      "text": "Produktionsstatus"
+      "text": "Herstellungsstatus"
     },
     {
       "key": "poptop_job",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "JP<JP>",
       "source_en": "JP<JP>",
-      "text": "JP<JP>"
+      "text": "KP<JP>"
     },
     {
       "key": "poptop_lot_box",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "ボックスロット",
       "source_en": "Box Lot",
-      "text": "Box Los"
+      "text": "Kistenlotterie"
     },
     {
       "key": "poptop_lot_normal",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "通常ロット",
       "source_en": "Normal Lot",
-      "text": "Normales Los"
+      "text": "Standardlotterie"
     },
     {
       "key": "poptop_lv",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーメンバー確認",
       "source_en": "Check Party Members",
-      "text": "Prüfe die Parteimitglieder"
+      "text": "Gruppenmitglieder ansehen"
     },
     {
       "key": "poptop_profile_set",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "竜武具の分解",
       "source_en": "Dismantling of Dragon Arms",
-      "text": "Demontage von Dragon Arms"
+      "text": "Drachenausrüstung zerlegen"
     },
     {
       "key": "poptop_recycle_equip",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "武具の分解",
       "source_en": "Disassemble Arms",
-      "text": "Demontagearme"
+      "text": "Ausrüstung zerlegen"
     },
     {
       "key": "poptop_recycle_gs_equip",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "特殊武具の分解",
       "source_en": "Disassemble Special Arms",
-      "text": "Demontage von Spezialwaffen"
+      "text": "Spezialausrüstung zerlegen"
     },
     {
       "key": "poptop_recycle_remaining_num",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "残り回数リセット",
       "source_en": "Reset Remaining",
-      "text": "Zurücksetzen Verbleibende"
+      "text": "Verbleibende Versuche zurücksetzen"
     },
     {
       "key": "poptop_scout",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "スキル",
       "source_en": "Skills",
-      "text": "Fähigkeiten"
+      "text": "Fertigkeiten"
     },
     {
       "key": "poptop_spotinfo",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "期間イベント",
       "source_en": "Time Event",
-      "text": "Uhrzeitereignis"
+      "text": "Zeitlich begrenztes Event"
     },
     {
       "key": "poptop_warehouse_en",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "特別報酬",
       "source_en": "Special Reward",
-      "text": "Besondere Belohnung"
+      "text": "Sonderbelohnung"
     }
   ],
   "schema_version": 1,

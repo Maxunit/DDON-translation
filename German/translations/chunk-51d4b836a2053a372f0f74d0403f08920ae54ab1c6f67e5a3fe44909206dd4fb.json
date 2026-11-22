@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "ゲームを終了してランチャーに戻ります\r\nよろしいですか？\r\n(エディット情報のセーブは済ませましたか？)",
       "source_en": "Exit the game and go back to the launcher\r\nOK?\r\n(Have you saved the edit information?)",
-      "text": "Verlasse das Spiel und gehst du zurück zum Launcher\r\nOK?\r\n(Hast du die Bearbeitungsinformationen gespeichert?)"
+      "text": "Spiel verlassen und zum Launcher zurückkehren?\r\nFortfahren?\r\n(Hast du den Bearbeitungsstand gespeichert?)"
     },
     {
       "key": "EDIT_MSG_DIALOG_EDIT_RETURN_TITLE",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "タイトル画面に戻ります\r\nよろしいですか？\r\n(エディット情報のセーブは済ませましたか？)",
       "source_en": "Return to the title screen.\r\nDo you wish to proceed?\r\n(Have you saved the edit information?)",
-      "text": "Kehre zum Titelbildschirm zurück.\r\nWillst du fortfahren?\r\n(Hast du die Bearbeitungsinformationen gespeichert?)"
+      "text": "Zum Titelbildschirm zurückkehren?\r\nFortfahren?\r\n(Hast du den Bearbeitungsstand gespeichert?)"
     },
     {
       "key": "EDIT_MSG_DIALOG_ERROR_NAME_EMPTY",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "【<COL FFFFFF><KC UI_X></COL>】はデフォルトに戻す機能です\r\n（次回の操作から、この確認は表示されません）",
       "source_en": "[<COL FFFFFF><KC UI_X></COL>] is the function to\r\nrestore the default\r\n(From the next use, this confirmation will not\r\nappear.)",
-      "text": "[<COL FFFFFF><KC UI_X></COL>] ist die Funktion zum\r\nWiederherstellen des Standard\r\n(Von der nächsten Verwendung wird diese Bestätigung nicht\r\n erscheinen.)"
+      "text": "Mit [<COL FFFFFF><KC UI_X></COL>] stellst du die\r\nStandardeinstellungen wieder her.\r\n(Beim nächsten Mal wird diese Meldung\r\nnicht mehr angezeigt.)"
     },
     {
       "key": "EDIT_MSG_DIALOG_REPLY_ONLINESHOP",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "オンラインショップで購入する",
       "source_en": "Buy from Online Shop",
-      "text": "Kaufe im Online Shop"
+      "text": "Im Online-Shop kaufen"
     },
     {
       "key": "EDIT_MSG_DIALOG_SALON_2_CANCEL",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "転生をキャンセルします\r\nよろしいですか？",
       "source_en": "Canceling reincarnation\r\nDo you wish to proceed??",
-      "text": "Reinkarnation abbrechen\r\nWillst du weitermachen?"
+      "text": "Möchtest du die\r\nWiedergeburt abbrechen?"
     },
     {
       "key": "EDIT_MSG_DIALOG_SALON_2_ERR_01",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "性別が変更されていません\r\n容姿だけを変更する場合は、美容院をご利用ください",
       "source_en": "Gender has not been changed\r\nIf you only want to change your appearance,\r\nplease use a beauty salon",
-      "text": "Das Geschlecht wurde nicht geändert\r\nWenn du nur dein Aussehen ändern willst,\r\nbitte einen Schönheitssalon benutzen"
+      "text": "Das Geschlecht wurde nicht geändert.\r\nMöchtest du nur das Aussehen ändern,\r\nbesuche den Schönheitssalon."
     },
     {
       "key": "EDIT_MSG_DIALOG_SALON_CANCEL",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "美容院をキャンセルします\r\nよろしいですか？",
       "source_en": "Canceling changes\r\nDo you wish to proceed??",
-      "text": "Änderungen abbrechen\r\nWillst du weitermachen?"
+      "text": "Möchtest du die\r\nÄnderungen verwerfen?"
     },
     {
       "key": "EDIT_MSG_DIALOG_SALON_CHOICE_PAY",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>を使用して\r\nエディットを変更します\r\nよろしいですか？",
       "source_en": "Use <VAL>\r\nto complete changes\r\nOK?",
-      "text": "Verwende <VAL>\r\n, um Änderungen abzuschließen\r\nOK?"
+      "text": "Möchtest du <VAL>\r\neinsetzen, um die Änderungen\r\nzu übernehmen?"
     },
     {
       "key": "EDIT_MSG_DIALOG_SALON_NOTGP",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>が足りません",
       "source_en": "<VAL>GP is not enough",
-      "text": "<VAL>GP ist nicht genug"
+      "text": "Nicht genug <VAL>."
     },
     {
       "key": "EDIT_MSG_DIALOG_TUTORIAL_PRESET",

@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "写真の投稿",
       "source_en": "Post Photo",
-      "text": "Post Foto"
+      "text": "Foto veröffentlichen"
     },
     {
       "key": "pu_msg_001",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "撮影場所",
       "source_en": "Taken at",
-      "text": "Eingenommen in"
+      "text": "Aufnahmeort"
     },
     {
       "key": "pu_msg_002",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "コメント",
       "source_en": "Comment",
-      "text": "Anmerkungen"
+      "text": "Kommentar"
     },
     {
       "key": "pu_msg_004",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "写真送信中",
       "source_en": "Photo being sent",
-      "text": "Foto verschickt"
+      "text": "Foto wird übertragen"
     },
     {
       "key": "pu_msg_005",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "送信が完了しました",
       "source_en": "Transmission complete",
-      "text": "Übermittlung vollständig"
+      "text": "Übertragung abgeschlossen"
     },
     {
       "key": "pu_msg_007",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "投稿",
       "source_en": "Post",
-      "text": "Post"
+      "text": "Veröffentlichen"
     },
     {
       "key": "pu_msg_008",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "通信中のため、投稿できません",
       "source_en": "Unable to post due to communication error",
-      "text": "Unfähig zu posten aufgrund von Kommunikationsfehlern"
+      "text": "Das Foto konnte wegen eines Verbindungsfehlers nicht veröffentlicht werden."
     },
     {
       "key": "pu_msg_009",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "現在サーバーが混み合っています\r\nしばらく経ってから再度お試しください",
       "source_en": "The server is currently busy. Please try again in\r\na while.",
-      "text": "Der Server ist derzeit beschäftigt. Bitte versuche es noch einmal in\r\n eine Weile."
+      "text": "Der Server ist gerade ausgelastet.\r\nVersuch es in einer Weile erneut."
     }
   ],
   "schema_version": 1,

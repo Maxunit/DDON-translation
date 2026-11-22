@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "レンタルポイントの割り振り",
       "source_en": "Allocate Rental Points",
-      "text": "Mietpunkte zuweisen"
+      "text": "Leihpunkte verteilen"
     },
     {
       "key": "rsp_msg_001",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "残りレンタルポイント",
       "source_en": "Remaining Rental Points",
-      "text": "Verbleibende Mietpunkte"
+      "text": "Verbleibende Leihpunkte"
     },
     {
       "key": "rsp_msg_002",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブポイントに変換",
       "source_en": "Conversion to Job Point",
-      "text": "Umwandlung in Job Point"
+      "text": "In Klassenpunkte umwandeln"
     },
     {
       "key": "rsp_msg_003",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "※変換レート：1 JP = <VAL RP>",
       "source_en": "※Conversion rate: 1 JP = <VAL RP>",
-      "text": "Umrechnungsrate: 1 JP = <VAL RP>"
+      "text": "※ Umtauschkurs: 1 KP = <VAL RP>"
     },
     {
       "key": "rsp_msg_004",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "レンタルポイントの割り振りを行います\r\nよろしいですか？\r\n",
       "source_en": "Would you like me to allocate the rental points?\r\n",
-      "text": "Möchtest du, dass ich die Mietpunkte zuweise?\r\n"
+      "text": "Möchtest du die Leihpunkte verteilen?\r\n"
     },
     {
       "key": "rsp_msg_006",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "　消費レンタルポイント：<VAL RP>\r\n",
       "source_en": "Consumable Rental Point: <VAL RP>\r\n",
-      "text": "Verbrauchbare Mietstelle: <VAL RP>\r\n"
+      "text": "Benötigte Leihpunkte: <VAL RP>\r\n"
     },
     {
       "key": "rsp_msg_007",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "レンタルポイントの割り振りを行いました\r\n",
       "source_en": "The rental points have been allocated.\r\n",
-      "text": "Die Mietpunkte wurden zugeteilt.\r\n"
+      "text": "Die Leihpunkte wurden verteilt.\r\n"
     },
     {
       "key": "rsp_msg_009",

@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムポストには送れません",
       "source_en": "You cannot send it to Item Post.",
-      "text": "Du kannst es nicht an Item Post senden."
+      "text": "Du kannst diesen Gegenstand nicht an die Gegenstandspost senden."
     },
     {
       "key": "ana_itembox_submenu_tooltip_sendspbox_nonsp",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "＜<OPCS>＞の発動中に使用可能となります",
       "source_en": "This is available with the effect of \"<OPCS>\".",
-      "text": "Dies ist mit dem Effekt von \"<OPCS>\" verfügbar."
+      "text": "Verfügbar, solange „<OPCS>“ aktiv ist."
     },
     {
       "key": "ana_itembox_submenu_tooltip_sendspbox_nonsp1",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "格納チェスト引出し<VAL>は＜<OPCS>＞の発動中に使用可能となります",
       "source_en": "The Storage Chest drawer <VAL> can be used while\r\n<OPCS> is active.",
-      "text": "Die Storage Chest Schublade <VAL> kann verwendet werden, während\r\n<OPCS> aktiv ist."
+      "text": "Fach <VAL> der Lagerkiste ist verfügbar,\r\nsolange „<OPCS>“ aktiv ist."
     },
     {
       "key": "ana_job_release_order_start",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "新ジョブ「<VAL>」の習得試練を開始しました",
       "source_en": "Job order 「<VAL>」 is now available.",
-      "text": "Job order 「<VAL>ə ist jetzt verfügbar."
+      "text": "Die Klassenaufgabe „<VAL>“ ist jetzt verfügbar."
     },
     {
       "key": "ana_jobmaster_order_report",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "達成済みのジョブ修練をジョブマスターに報告しました",
       "source_en": "Accomplished Job Training has been reported to\r\nthe Job Master.",
-      "text": "Accomplished Job Training wurde berichtet\r\nDer Klassenmeister."
+      "text": "Du hast dem Klassenmeister vom Abschluss\r\ndes Klassentrainings berichtet."
     },
     {
       "key": "ana_join_disable_discondition",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーに合流します",
       "source_en": "Join party?",
-      "text": "Mitmachen Gruppe?"
+      "text": "Möchtest du der Gruppe beitreten?"
     },
     {
       "key": "ana_keyconfig_announce_auto_key_change",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "キーコンフィグを「%s」に変更しました",
       "source_en": "Key config changed to \"%s\".",
-      "text": "Key Config wurde in \"%s\" geändert."
+      "text": "Tastenbelegung auf „%s“ umgestellt."
     },
     {
       "key": "ana_keyconfig_announce_err_01",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "このキーはブランクキーにできません",
       "source_en": "This key cannot be made into a blank key.",
-      "text": "Dieser Schlüssel kann nicht zu einem leeren Schlüssel gemacht werden."
+      "text": "Diese Tastenbelegung kann nicht aufgehoben werden."
     },
     {
       "key": "ana_keyconfig_dialog_all_blank",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "すべてのキーをブランクキーにします\r\nよろしいですか？\r\n（一部のキーはブランクキーにできません）",
       "source_en": "Change all keys to blank keys.\r\nOK?\r\n(Some keys cannot be changed to blank keys)",
-      "text": "Änder alle Tasten in leere Tasten.\r\nOK?\r\n(Einige Tasten können nicht in leere Tasten geändert werden)"
+      "text": "Möchtest du alle Tastenbelegungen aufheben?\r\nFortfahren?\r\n(Einige Tasten müssen belegt bleiben.)"
     },
     {
       "key": "ana_keyconfig_dialog_category_initialization_",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "キーコンフィグ内容をコピーします\r\nよろしいですか？\r\n　コピー元：%s\r\n　コピー先：%s",
       "source_en": "Do you want to copy the key config?\r\nCopy from: %s\r\nCopy to: %s",
-      "text": "Möchtest du die Schlüsselkonfiguration kopieren?\r\nCopy from: %s\r\nCopy to: %s"
+      "text": "Tastenbelegung kopieren?\r\nQuelle: %s\r\nZiel: %s"
     },
     {
       "key": "ana_keyconfig_dialog_copy_select",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "どれにコピーしますか？",
       "source_en": "Which one would you like to copy?",
-      "text": "Welches würdest du gerne kopieren?"
+      "text": "Welche Belegung möchtest du kopieren?"
     },
     {
       "key": "ana_keyconfig_dialog_link_job_key_alteration",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブとキーコンフィグの関連付けの\r\n変更はまだ保存されていません\r\nデバイス設定の適用ボタンを押してください",
       "source_en": "The changes to job and key configuration\r\nassociations have not been saved yet.\r\nPlease press the Apply button in the device\r\nsettings.",
-      "text": "Die Änderungen an der Job- und Tastenkonfiguration\r\nAssoziationen wurden noch nicht gespeichert.\r\nBitte drücke die Schaltfläche Anwenden im Gerät\r\nEinstellungen."
+      "text": "Die Zuordnung der Tastenbelegung zu den\r\nKlassen wurde noch nicht gespeichert.\r\nWähle in den Geräteeinstellungen\r\n„Übernehmen“."
     },
     {
       "key": "ana_keyconfig_dialog_not_yet_saved_attention",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "キーコンフィグの変更はまだ保存されていません\r\nデバイス設定の適用ボタンを押してください\r\n<COL AA1414>キーコンフィグによる設定キーの変更は\r\nゲームが正しく動作しない可能性があります\r\nご注意ください</COL>",
       "source_en": "Changes to key configurations have not yet been\r\nsaved.\r\nPlease press the Apply Device Configuration\r\nbutton.\r\n<COL AA1414>Please note! Changes to configuration\r\nkeys via key configurations may cause the game to\r\nnot run properly.</COL>",
-      "text": "Änderungen an Schlüsselkonfigurationen wurden noch nicht vorgenommen\r\ngerettet.\r\nBitte drücke die Apply Device Configuration\r\nKnopf.\r\n<COL AA1414>Bitte beachte! Änderungen an der Konfiguration\r\nTasten über Schlüsselkonfigurationen können dazu führen, dass das Spiel\r\nnicht richtig laufen.</COL>"
+      "text": "Die Änderungen an der Tastenbelegung\r\nwurden noch nicht gespeichert.\r\nWähle „Geräteeinstellungen übernehmen“,\r\num sie zu speichern.\r\n<COL AA1414>Achtung: Eine Änderung der Tasten für die\r\nKonfiguration kann dazu führen, dass das Spiel\r\nnicht mehr richtig funktioniert.</COL>"
     },
     {
       "key": "ana_keyconfig_dialog_overlap",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "重複しているキーがあるため\r\n閉じることができません",
       "source_en": "Cannot close due to duplicate key.",
-      "text": "Kann aufgrund des doppelten Schlüssels nicht geschlossen werden."
+      "text": "Das Fenster kann nicht geschlossen werden, solange eine Taste doppelt belegt ist."
     },
     {
       "key": "ana_keyconfig_dialog_overlap_item_1",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "重複しているキーを変更前に戻して閉じる",
       "source_en": "Revert the duplicate key back to its previous\r\nstate and close.",
-      "text": "Zurücksetzen des doppelten Schlüssels zurück zu seinem vorherigen\r\nState und Close."
+      "text": "Ursprüngliche Tastenbelegung\r\nwiederherstellen und schließen."
     },
     {
       "key": "ana_keyconfig_edit_name_title",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "このキーは変更できません",
       "source_en": "This key can't be changed",
-      "text": "Dieser Schlüssel kann nicht geändert werden"
+      "text": "Die Belegung dieser Taste kann nicht geändert werden."
     },
     {
       "key": "ana_lde_no_items",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "開催しているイベントがありません",
       "source_en": "There are no events being held.",
-      "text": "Es finden keine Veranstaltungen statt."
+      "text": "Zurzeit laufen keine Events."
     },
     {
       "key": "ana_leader_join_ready_info",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "リーダーがパーティー要請を受諾しました。一定時間内に準備完了してください",
       "source_en": "The leader has accepted the party request. Please\r\nselect ready within a period of time.",
-      "text": "Der Führer hat den Antrag der Partei angenommen.\r\nWähle bereit innerhalb eines Zeitraums."
+      "text": "Die Gruppenleitung hat deine Anfrage angenommen.\r\nMelde dich rechtzeitig bereit."
     },
     {
       "key": "ana_lostpawn_rescue",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL RIM>を消費して\r\n<NAME PAWN>を救出します\r\nよろしいですか？",
       "source_en": "By consuming <VAL RIM>, \r\n<NAME PAWN> will be rescued.\r\nAre you sure?",
-      "text": "Durch den Konsum <VAL RIM> wird\r\n<NAME PAWN> gerettet.\r\nBist du sicher?"
+      "text": "Für <VAL RIM> kannst du\r\n<NAME PAWN> retten.\r\nFortfahren?"
     },
     {
       "key": "ana_lostpawn_resque_rim_err",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "リムが足りないためできません\r\n<VAL RIM>必要です",
       "source_en": "You cannot do this because you do not have enough\r\nRift Crystals.\r\n<VAL RIM> is required.",
-      "text": "Du kannst dies nicht tun, weil du nicht genug\r\nRiftkristalle hast.\r\n<VAL RIM> ist erforderlich."
+      "text": "Du hast nicht genug\r\nRiftkristalle.\r\nBenötigt: <VAL RIM>."
     },
     {
       "key": "ana_lot_err_goldstone_short",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムポストの空きが足りないためロットできません",
       "source_en": "There is not enough space in the Item Post to lot.",
-      "text": "Es gibt nicht genug Platz in der Artikel-Post zu viel."
+      "text": "Für eine Ziehung ist in der Gegenstandspost nicht genug Platz."
     },
     {
       "key": "ana_lot_err_silverticket_short",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "添付アイテムはありません",
       "source_en": "There are no items in the mail.",
-      "text": "Es gibt keine Artikel in der Mail."
+      "text": "Die Nachricht enthält keine Gegenstände."
     },
     {
       "key": "ana_mail_ana_0_newmail",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "新着メールはありません",
       "source_en": "There is no new mail.",
-      "text": "Es gibt keine neue Mail."
+      "text": "Keine neue Post."
     },
     {
       "key": "ana_mail_ana_notificationmail_full_near",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "運営メールボックスの容量が少なくなってます",
       "source_en": "Your mailbox is almost full",
-      "text": "Deine Mailbox ist fast voll"
+      "text": "Dein Postfach ist fast voll."
     },
     {
       "key": "ana_mail_ana_notinput_text",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "本文が入力されていません",
       "source_en": "No text has been written",
-      "text": "Es wurde kein Text geschrieben"
+      "text": "Du hast keinen Text eingegeben."
     },
     {
       "key": "ana_mail_ana_notset_address",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "宛先が設定されていません",
       "source_en": "Destination has not been set",
-      "text": "Destination wurde nicht festgelegt"
+      "text": "Kein Empfänger ausgewählt."
     },
     {
       "key": "ana_mail_ana_receivedmail_full_near",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "知り合いメールボックスの容量が少なくなってます",
       "source_en": "That character's mailbox is almost full",
-      "text": "Die Mailbox dieses Charakters ist fast voll"
+      "text": "Das Postfach dieses Charakters ist fast voll."
     },
     {
       "key": "ana_mail_delete_all_read_mail_0",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "既読メールはありません",
       "source_en": "There is no read mail",
-      "text": "Es gibt keine gelesene Mail"
+      "text": "Keine gelesenen Nachrichten vorhanden."
     },
     {
       "key": "ana_mail_delete_all_read_mail_q",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "未読／未取得以外のメール<VAL>件を\r\nすべて削除します。よろしいですか？",
       "source_en": "Do you want to delete all <VAL> mails\r\nthat are not marked as unread/unclaimed?",
-      "text": "Möchtest du alle <VAL> Mails\r\n löschen, die nicht als ungelesen/nicht beansprucht gekennzeichnet sind?"
+      "text": "Möchtest du diese <VAL> Nachrichten löschen?\r\nUngelesene Nachrichten und nicht abgeholte Anhänge bleiben erhalten."
     },
     {
       "key": "ana_mail_delete_q",
@@ -296,7 +296,7 @@
       "tag_source": "source_en",
       "source_jp": "メールを削除します。よろしいですか？",
       "source_en": "You will delete the mail. Are you sure?",
-      "text": "Du wirst die Post löschen. Bist du sicher?"
+      "text": "Möchtest du diese Nachricht löschen?"
     },
     {
       "key": "ana_mail_deleted",
@@ -312,7 +312,7 @@
       "tag_source": "source_en",
       "source_jp": "添付アイテムを受け取っていないため削除できません",
       "source_en": "Cannot delete as the attached item\r\nhas not been received.",
-      "text": "Kann nicht gelöscht werden, da der angehängte Artikel\r\n nicht erhalten wurde."
+      "text": "Du kannst die Nachricht erst löschen, wenn du\r\nden Anhang abgeholt hast."
     },
     {
       "key": "ana_mail_present_get",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "メール添付アイテムを取得しました",
       "source_en": "You have received items from the mail.",
-      "text": "Erhalten: Artikel aus der Post."
+      "text": "Du hast die Gegenstände aus der Post abgeholt."
     },
     {
       "key": "ana_mail_receive_box",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "保管ボックスに受け取る",
       "source_en": "Send to storage",
-      "text": "Versenden an Storage"
+      "text": "Ins Lager"
     },
     {
       "key": "ana_mail_receive_post",
@@ -336,7 +336,7 @@
       "tag_source": "source_en",
       "source_jp": "ポストに受け取る",
       "source_en": "Receive in Post",
-      "text": "Empfange auf Post"
+      "text": "An die Gegenstandspost senden"
     },
     {
       "key": "ana_mail_send",
@@ -344,7 +344,7 @@
       "tag_source": "source_en",
       "source_jp": "メールを送信しました",
       "source_en": "You've sent mail",
-      "text": "Du hast Mails verschickt"
+      "text": "Nachricht gesendet."
     },
     {
       "key": "ana_member_less_party_q",
@@ -352,7 +352,7 @@
       "tag_source": "source_en",
       "source_jp": "規定人数に足りていませんがパーティーを組みます\r\nよろしいですか？",
       "source_en": "There are not enough members,\r\nbut the party will be formed. Are you sure?",
-      "text": "Es gibt nicht genug Mitglieder\r\n, aber die Partei wird gebildet werden."
+      "text": "Die Gruppe ist noch nicht vollständig.\r\nMöchtest du sie trotzdem bilden?"
     },
     {
       "key": "ana_member_ready_timeup",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "全員が準備完了しませんでした。エントリー状態を解除します",
       "source_en": "All members did not ready. Ending entry.",
-      "text": "Alle Mitglieder waren nicht bereit."
+      "text": "Nicht alle Mitglieder waren bereit. Die Anmeldung wurde beendet."
     },
     {
       "key": "ana_member_remove_q",
@@ -368,7 +368,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>を\r\nメンバーから外します。よろしいですか？",
       "source_en": "Are you sure you want to remove\r\n<NAME TARGET> from the members?",
-      "text": "Bist du sicher, dass du\r\n<NAME TARGET> von den Mitgliedern entfernen möchtest?"
+      "text": "Möchtest du\r\n<NAME TARGET> aus der Gruppe entfernen?"
     },
     {
       "key": "ana_mission_order_err_condition",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "受注条件を満たしていません",
       "source_en": "You do not meet the entry conditions.",
-      "text": "Du erfüllst die Einreisebedingungen nicht."
+      "text": "Du erfüllst die Teilnahmebedingungen nicht."
     },
     {
       "key": "ana_mitem_all_get_q",
@@ -384,7 +384,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテム付きメール<VAL>件のアイテムを\r\nすべて受け取りますか？",
       "source_en": "There are <VAL> mails with items.\r\nReceive all of them?",
-      "text": "Es gibt <VAL> Mails mit Items.\r\nEmpfinde sie alle?"
+      "text": "<VAL> Nachrichten enthalten Gegenstände.\r\nMöchtest du alle Anhänge abholen?"
     },
     {
       "key": "ana_mitem_get",
@@ -392,7 +392,7 @@
       "tag_source": "source_en",
       "source_jp": "メール添付アイテムを受け取りました",
       "source_en": "You have received the attached items.",
-      "text": "Erhalten: die angehängten Artikel."
+      "text": "Du hast die Gegenstände aus dem Anhang abgeholt."
     },
     {
       "key": "ana_mitem_get_con",
@@ -400,7 +400,7 @@
       "tag_source": "source_en",
       "source_jp": "メール添付アイテムを受け取りますか？",
       "source_en": "Receive the items attached to the mail?",
-      "text": "Erhältst du die Artikel, die an der Post angebracht sind?"
+      "text": "Möchtest du die Gegenstände aus dem Anhang abholen?"
     },
     {
       "key": "ana_mitem_get_err_gameitem",
@@ -408,7 +408,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテム x <VAL> を受け取れませんでした",
       "source_en": "Could not receive Item x <VAL>",
-      "text": "Item x <VAL> konnte nicht empfangen werden"
+      "text": "Gegenstand × <VAL> konnte nicht abgeholt werden."
     },
     {
       "key": "ana_mitem_get_err_opt_course",
@@ -416,7 +416,7 @@
       "tag_source": "source_en",
       "source_jp": "<OPCS> x <VAL> を受け取れませんでした",
       "source_en": "Could not receive <OPCS> x <VAL>",
-      "text": "Konnte nicht <OPCS> x <VAL> erhalten"
+      "text": "<OPCS> × <VAL> konnte nicht abgeholt werden."
     },
     {
       "key": "ana_mitem_get_err_opt_cticket",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "通貨系アイテム x <VAL> を受け取れませんでした",
       "source_en": "Couldn't receive Currency Item x <VAL>",
-      "text": "Konnte keine Währungsposition x <VAL> erhalten"
+      "text": "Währung × <VAL> konnte nicht abgeholt werden."
     },
     {
       "key": "ana_mitem_get_err_opt_goldstone",
@@ -432,7 +432,7 @@
       "tag_source": "source_en",
       "source_jp": "メール <VAL>件分の黄金石 を受け取れませんでした",
       "source_en": "Unable to receive <VAL> golden gemstones from the\r\nmail",
-      "text": "Unfähig, <VAL> Goldsteine von der\r\n Mail zu erhalten"
+      "text": "<VAL> Goldsteine konnten nicht aus\r\nder Post abgeholt werden."
     },
     {
       "key": "ana_mitem_get_err_opt_lpawnticket",
@@ -440,7 +440,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトマスターポーン利用券 x <VAL> を受け取れませんでした",
       "source_en": "Craft Master Pawn Voucher x<VAL> could not be\r\nreceived.",
-      "text": "Craft Master Vasall Voucher x<VAL> konnte nicht empfangen werden\r\n."
+      "text": "Gutschein für einen Meistervasallen ×<VAL>\r\nkonnte nicht abgeholt werden."
     },
     {
       "key": "ana_mitem_get_gameitem",
@@ -448,7 +448,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテム x <VAL> 入手",
       "source_en": "Item x<VAL> obtained.",
-      "text": "Item x<VAL> erhalten."
+      "text": "Gegenstand ×<VAL> erhalten."
     },
     {
       "key": "ana_mitem_get_msg_index",
@@ -456,7 +456,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテム付きのメール<VAL>件を受け取りました",
       "source_en": "You have received <VAL> items from mail.",
-      "text": "Erhalten: <VAL> Artikel von der Post."
+      "text": "Du hast <VAL> Gegenstände aus der Post abgeholt."
     },
     {
       "key": "ana_mitem_get_num",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテム付きメール<VAL>件のアイテムを受け取りました",
       "source_en": "You have received items from <VAL> mails.",
-      "text": "Erhalten: Artikel von <VAL> E-Mails."
+      "text": "Du hast Gegenstände aus <VAL> Nachrichten abgeholt."
     },
     {
       "key": "ana_mitem_get_num_all_opcsitem",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "受け取れるアイテムがありませんでした",
       "source_en": "There were no items to receive.",
-      "text": "Es gab keine Artikel zu erhalten."
+      "text": "Keine Gegenstände zum Abholen."
     },
     {
       "key": "ana_mitem_get_opt_course",
@@ -480,7 +480,7 @@
       "tag_source": "source_en",
       "source_jp": "<OPCS> x <VAL> 発動",
       "source_en": "<OPCS> x<VAL> activated.",
-      "text": "<OPCS> x<VAL> aktiviert."
+      "text": "<OPCS> ×<VAL> aktiviert."
     }
   ],
   "schema_version": 1,

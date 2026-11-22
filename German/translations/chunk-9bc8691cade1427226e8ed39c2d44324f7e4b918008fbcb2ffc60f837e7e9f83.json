@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PLAYER>が復活しました",
       "source_en": "<NAME PLAYER>\r\nhas been resurrected.",
-      "text": "<NAME PLAYER>\r\n ist auferstanden."
+      "text": "<NAME PLAYER>\r\nwurde wiederbelebt."
     },
     {
       "key": "syslog_status_resurrection_pawn",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>が復活しました",
       "source_en": "<NAME PAWN> has been resurrected.",
-      "text": "<NAME PAWN> ist auferstanden."
+      "text": "<NAME PAWN> wurde wiederbelebt."
     },
     {
       "key": "syslog_status_resurrection_someone",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>が復活しました",
       "source_en": "<NAME TARGET>\r\nhas been resurrected.",
-      "text": "<NAME TARGET>\r\n ist auferstanden."
+      "text": "<NAME TARGET>\r\nwurde wiederbelebt."
     },
     {
       "key": "syslog_success_input_eventcode",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "イベントコードの入力に成功しました",
       "source_en": "Event code input was successful.",
-      "text": "Die Eingabe des Ereigniscodes war erfolgreich."
+      "text": "Der Eventcode wurde angenommen."
     },
     {
       "key": "syslog_tail_off",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "追従オートランが解除されました",
       "source_en": "Autorun has been canceled.",
-      "text": "Autorun wurde abgesagt."
+      "text": "Automatisches Folgen beendet."
     },
     {
       "key": "syslog_tail_on",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>に追従オートランしました",
       "source_en": "You began following \r\n<NAME TARGET> with autorun.",
-      "text": "Du hast angefangen,\r\n<NAME TARGET> mit Autorun zu folgen."
+      "text": "Du folgst nun automatisch\r\n<NAME TARGET>."
     },
     {
       "key": "syslog_tp_get",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN TP>が最大に達したため、これ以上獲得できません",
       "source_en": "You have reached the maximum \r\namount of <UNTN TP>s\r\nand cannot earn any more.",
-      "text": "Du hast den maximalen\r\n Betrag von <UNTN TP>s\r\n erreicht und können nicht mehr verdienen."
+      "text": "Du kannst keine weiteren\r\n<UNTN TP>\r\nerhalten. Du trägst bereits die Höchstmenge."
     },
     {
       "key": "syslog_tp_possession_max_notice",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN TP>の所持量が最大に近づいています\r\n( <VAL> / <VAL TP> )",
       "source_en": "You are almost maxed out on\r\n<UNTN TP>s. (<VAL>/<VAL TP>)",
-      "text": "Du bist fast ausgereizt auf\r\n<UNTN TP>s. (<VAL>/<VAL TP>)"
+      "text": "Du hast fast die Höchstmenge an\r\n<UNTN TP> erreicht. (<VAL>/<VAL TP>)"
     },
     {
       "key": "syslog_wm_limited_condition_open",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>が期間限定で開催決定！\r\n詳しくは、レスタニアニュースをご覧ください",
       "source_en": "<VAL> will be held for a limited time!\r\nFor details, please see the Lestania News",
-      "text": "<VAL> wird für eine begrenzte Zeit stattfinden!\r\nFür Details siehe Lestania-Nachrichten"
+      "text": "<VAL> findet für begrenzte Zeit statt!\r\nDetails findest du in den Lestania-Nachrichten."
     },
     {
       "key": "syslog_wm_statement_gauge_0_defeat",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "戦況が最悪化し、敗戦状態となりました",
       "source_en": "The war situation has deteriorated, and we are in\r\na state of defeat.",
-      "text": "Die Kriegssituation hat sich verschlechtert, und wir sind in\r\nEin Zustand der Niederlage."
+      "text": "Die Schlacht hat sich gegen uns gewendet.\r\nWir wurden besiegt."
     },
     {
       "key": "system_chat_renzoku",

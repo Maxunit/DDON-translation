@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "合計",
       "source_en": "Total",
-      "text": "Insgesamt"
+      "text": "Gesamt"
     },
     {
       "key": "event_total",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "イベント合計",
       "source_en": "Event Total",
-      "text": "Ereignis insgesamt"
+      "text": "Gesamtzahl im Event"
     },
     {
       "key": "hour_am",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "現在の自分のあげたチョコの数",
       "source_en": "Number of chocolate given",
-      "text": "Anzahl der angegebenen Schokoladen"
+      "text": "Von dir verschenkte Schokoladen"
     },
     {
       "key": "update_time",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "（%s%d:%02d時点集計）",
       "source_en": "(Tallied at %s %d:%02d)",
-      "text": "%s %d:%02d"
+      "text": "(Stand: %s %d:%02d)"
     }
   ],
   "schema_version": 1,

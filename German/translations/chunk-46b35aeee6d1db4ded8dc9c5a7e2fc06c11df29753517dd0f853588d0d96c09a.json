@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "ダメージ",
       "source_en": " Damage",
-      "text": " Schäden"
+      "text": " Schaden"
     },
     {
       "key": "common_msg_jp_of",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "の",
       "source_en": "'s ",
-      "text": "'s "
+      "text": " – "
     },
     {
       "key": "common_msg_not_received",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "階層ごとの報酬が入手可能",
       "source_en": "Level Reward Available",
-      "text": "Level Reward verfügbar"
+      "text": "Etagenbelohnungen verfügbar"
     },
     {
       "key": "common_msg_not_received_EX",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "階層ごとの報酬が入手可能<COL ffdc78>（報酬UP）</COL>",
       "source_en": "Rewards are available for each tier.<COL ffdc78>\r\n(Rewards UP)</COL>",
-      "text": "Belohnungen sind für jede Stufe verfügbar.<COL ffdc78>\r\n(Rewards UP)</COL>"
+      "text": "Für jede Etage gibt es eine Belohnung.<COL ffdc78>\r\n(Erhöhte Belohnungen)</COL>"
     },
     {
       "key": "common_msg_pawnthink_totalnum",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "育成LV",
       "source_en": "Training LV",
-      "text": "Ausbildung LV"
+      "text": "Trainingsstufe"
     },
     {
       "key": "common_msg_received",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "クリア報酬が発生しません",
       "source_en": "Clear Reward Unavailable",
-      "text": "Klare Belohnung nicht verfügbar"
+      "text": "Keine Abschlussbelohnung verfügbar"
     },
     {
       "key": "common_msg_reward",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "訪問を許可しない",
       "source_en": "Visit Denied",
-      "text": "Besuch verweigert"
+      "text": "Besuche gesperrt"
     },
     {
       "key": "common_msg_visit_on",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "訪問を許可する",
       "source_en": "Visit Allowed",
-      "text": "Besuch erlaubt"
+      "text": "Besuche erlaubt"
     },
     {
       "key": "common_mymsg",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "マイ定型文セット",
       "source_en": "My Phrase",
-      "text": "Meine Phrase"
+      "text": "Meine Textvorlagen"
     },
     {
       "key": "common_nakaten",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "新しいエディットデータ",
       "source_en": "New edit data",
-      "text": "Neue Edit-Daten"
+      "text": "Neue Editor-Speicherdaten"
     },
     {
       "key": "common_next_en",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "オンラインショップを開く",
       "source_en": "Open Online Shop",
-      "text": "Offener Online Shop"
+      "text": "Online-Shop öffnen"
     },
     {
       "key": "common_percent",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "獲得",
       "source_en": "Acquisition",
-      "text": "Übernahme"
+      "text": "Erhalt"
     },
     {
       "key": "common_quest_unpublished",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "日",
       "source_en": "d",
-      "text": "d"
+      "text": "T"
     },
     {
       "key": "common_rest_minute",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "分",
       "source_en": "m",
-      "text": "m"
+      "text": "Min."
     },
     {
       "key": "common_rest_time",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "前",
       "source_en": "ago",
-      "text": "Vor vor"
+      "text": "zuvor"
     },
     {
       "key": "common_titlename_jp",
@@ -344,7 +344,7 @@
       "tag_source": "source_en",
       "source_jp": "BO",
       "source_en": "BO",
-      "text": "B."
+      "text": "BO"
     },
     {
       "key": "common_unit_body",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "CAP",
       "source_en": "CAP",
-      "text": "GAP"
+      "text": "CAP"
     },
     {
       "key": "common_unit_cp",
@@ -432,7 +432,7 @@
       "tag_source": "source_en",
       "source_jp": "HO",
       "source_en": "HO",
-      "text": "HOH"
+      "text": "HO"
     },
     {
       "key": "common_unit_jp",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "pt",
       "source_en": "pt",
-      "text": "pt"
+      "text": "Pkt."
     },
     {
       "key": "common_unit_r",

@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "全ジョブ装備可能",
       "source_en": "All vocations can equip",
-      "text": "Alle Berufungen können sich ausrüsten"
+      "text": "Für alle Klassen geeignet"
     },
     {
       "key": "param_msg_anti_em",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵",
       "source_en": "Slayer",
-      "text": "Tötungsbonus"
+      "text": "Zusatzschaden"
     },
     {
       "key": "param_msg_bazaar_ng",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "体力回復",
       "source_en": "Heal",
-      "text": "Heilkunde"
+      "text": "Heilung"
     },
     {
       "key": "param_msg_item_furniture",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "レンタルチケット",
       "source_en": "Rental Ticket",
-      "text": "Mietticket"
+      "text": "Leihschein"
     },
     {
       "key": "param_msg_item_sample",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "試供品",
       "source_en": "Sample",
-      "text": "Probe"
+      "text": "Muster"
     },
     {
       "key": "param_msg_item_use",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "所持数",
       "source_en": "Amount",
-      "text": "Betrag"
+      "text": "Anzahl"
     },
     {
       "key": "param_msg_posnum_bo",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "所持数：<VAL BO>",
       "source_en": "Amount: <VAL BO>",
-      "text": "Betrag: <VAL BO>"
+      "text": "Im Besitz: <VAL BO>"
     },
     {
       "key": "param_msg_posnum_gold",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "所持数：<VAL GOLD>",
       "source_en": "Amount: <VAL GOLD>",
-      "text": "Betrag: <VAL GOLD>"
+      "text": "Im Besitz: <VAL GOLD>"
     },
     {
       "key": "param_msg_posnum_gs",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "所持数：<VAL GS>",
       "source_en": "Amount: <VAL GS>",
-      "text": "Betrag: <VAL GS>"
+      "text": "Im Besitz: <VAL GS>"
     },
     {
       "key": "param_msg_posnum_rim",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "所持数：<VAL RIM>",
       "source_en": "Amount: <VAL RIM>",
-      "text": "Betrag: <VAL RIM>"
+      "text": "Im Besitz: <VAL RIM>"
     },
     {
       "key": "param_msg_posnum_ticket",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "所持数：<VAL>枚",
       "source_en": "Amount: <VAL>",
-      "text": "Betrag: <VAL>"
+      "text": "Im Besitz: <VAL>"
     },
     {
       "key": "param_msg_stamina_recovery",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "スタミナ回復",
       "source_en": "Stamina Recovery",
-      "text": "Ausdauer Erholung"
+      "text": "Ausdauerregeneration"
     },
     {
       "key": "param_msg_tolerance",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "耐性",
       "source_en": "Resist",
-      "text": "Widerstand"
+      "text": "Resistenz"
     },
     {
       "key": "parts_arm_armor",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "胴アーマー",
       "source_en": "Body Armor",
-      "text": "Körperrüstung"
+      "text": "Oberkörperrüstung"
     },
     {
       "key": "parts_body_wear",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "胴ウェア",
       "source_en": "Body Clothing",
-      "text": "Körperbekleidung"
+      "text": "Oberkörperkleidung"
     },
     {
       "key": "parts_costume",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "頭防具",
       "source_en": "Head Armor",
-      "text": "Kopfpanzerung"
+      "text": "Kopfrüstung"
     },
     {
       "key": "parts_jewelry",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "ランタン",
       "source_en": "Lantern",
-      "text": "Laternen"
+      "text": "Laterne"
     },
     {
       "key": "parts_leg_armor",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "脚アーマー",
       "source_en": "Leg Armor",
-      "text": "Beinpanzer"
+      "text": "Beinrüstung"
     },
     {
       "key": "parts_leg_wear",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "脚ウェア",
       "source_en": "Legwear",
-      "text": "Beinbekleidung"
+      "text": "Beinkleidung"
     },
     {
       "key": "parts_main_weapon",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "オーバーウェア",
       "source_en": "Overwear",
-      "text": "Überkleidung"
+      "text": "Überwurf"
     },
     {
       "key": "parts_sub_weapon",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "サブ武器",
       "source_en": "Sub Weapon",
-      "text": "Subwaffe"
+      "text": "Nebenwaffe"
     },
     {
       "key": "pawn_craft_promote",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "昇格試験の段階",
       "source_en": "Level of Promotion",
-      "text": "Höhe der Beförderung"
+      "text": "Stufe der Aufstiegsprüfung"
     },
     {
       "key": "pawn_craft_rank",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトレベル",
       "source_en": "Craft Level",
-      "text": "Fahrzeugebene"
+      "text": "Herstellungsstufe"
     },
     {
       "key": "pawn_craft_rank_cap",
@@ -304,7 +304,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトスキル：コストパフォーマンス",
       "source_en": "Craft Skill: Cost Performance",
-      "text": "Craft Skill: Kostenleistung"
+      "text": "Herstellung: Geringere Kosten"
     },
     {
       "key": "pawn_craftskill_number",
@@ -312,7 +312,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトスキル：消耗品の生産数アップ",
       "source_en": "Craft Skill: Consumable Quantity",
-      "text": "Craft Skill: Verbrauchbare Menge"
+      "text": "Herstellung: Mehr Verbrauchsgegenstände"
     },
     {
       "key": "pawn_craftskill_powerup",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトスキル：装備の強化技術",
       "source_en": "Craft Skill: Equipment Enhancement",
-      "text": "Craft Skill: Ausrüstungsverbesserung"
+      "text": "Herstellung: Ausrüstung verstärken"
     },
     {
       "key": "pawn_craftskill_quality",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトスキル：高品質装備の作成力",
       "source_en": "Craft Skill: Equipment Quality",
-      "text": "Craft Skill: Qualität der Ausrüstung"
+      "text": "Herstellung: Höhere Ausrüstungsqualität"
     },
     {
       "key": "pawn_craftskill_time",
@@ -336,7 +336,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトスキル：生産作業スピード",
       "source_en": "Craft Skill: Production Speed",
-      "text": "Craft Skill: Produktionsgeschwindigkeit"
+      "text": "Herstellung: Höheres Tempo"
     },
     {
       "key": "pawn_number_of_adventure",
@@ -344,7 +344,7 @@
       "tag_source": "source_en",
       "source_jp": "冒険回数",
       "source_en": "Craft Count",
-      "text": "Herstellungen"
+      "text": "Anzahl der Abenteuer"
     },
     {
       "key": "pawn_number_of_support",
@@ -352,7 +352,7 @@
       "tag_source": "source_en",
       "source_jp": "サポート回数",
       "source_en": "Battle Count",
-      "text": "Kampfeinsätze"
+      "text": "Anzahl der Hilfseinsätze"
     },
     {
       "key": "phisical_difence",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "延焼耐性",
       "source_en": "Resist Burning",
-      "text": "Widerstandsverbrennung"
+      "text": "Brandresistenz"
     },
     {
       "key": "resist_curse",
@@ -384,7 +384,7 @@
       "tag_source": "source_en",
       "source_jp": "呪い耐性",
       "source_en": "Resist Curse",
-      "text": "Resist-Fluch"
+      "text": "Fluchresistenz"
     },
     {
       "key": "resist_dark",
@@ -392,7 +392,7 @@
       "tag_source": "source_en",
       "source_jp": "闇耐性",
       "source_en": "Dark Resist",
-      "text": "Dunkler Widerstand"
+      "text": "Dunkelresistenz"
     },
     {
       "key": "resist_dark_resist_down",
@@ -408,7 +408,7 @@
       "tag_source": "source_en",
       "source_jp": "闇霧耐性",
       "source_en": "Resist Blind",
-      "text": "Widerstandsblinde"
+      "text": "Blindheitsresistenz"
     },
     {
       "key": "resist_drenching",
@@ -416,7 +416,7 @@
       "tag_source": "source_en",
       "source_jp": "水濡れ耐性",
       "source_en": "Resist Drenching",
-      "text": "Widerstand gegen Drenching"
+      "text": "Nässeschutz"
     },
     {
       "key": "resist_erosion",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "侵食耐性",
       "source_en": "Resist Corruption",
-      "text": "Korruption widerstehen"
+      "text": "Verderbnisresistenz"
     },
     {
       "key": "resist_faint",
@@ -432,7 +432,7 @@
       "tag_source": "source_en",
       "source_jp": "気絶耐性",
       "source_en": "Resist Stun",
-      "text": "Widerstandsstollen"
+      "text": "Betäubungsresistenz"
     },
     {
       "key": "resist_fire",
@@ -440,7 +440,7 @@
       "tag_source": "source_en",
       "source_jp": "炎耐性",
       "source_en": "Fire Resist",
-      "text": "Feuerschutz"
+      "text": "Feuerresistenz"
     },
     {
       "key": "resist_fire_resist_down",
@@ -456,7 +456,7 @@
       "tag_source": "source_en",
       "source_jp": "凍結耐性",
       "source_en": "Resist Frozen",
-      "text": "Resistenzen gefroren"
+      "text": "Schutz vor Einfrieren"
     },
     {
       "key": "resist_gold",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金化耐性",
       "source_en": "Resist Gilded",
-      "text": "Resist vergoldet"
+      "text": "Schutz vor Vergoldung"
     },
     {
       "key": "resist_holy",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "聖耐性",
       "source_en": "Holy Resist",
-      "text": "Heiliger Widerstand"
+      "text": "Heiligresistenz"
     },
     {
       "key": "resist_holy_drain",
@@ -480,7 +480,7 @@
       "tag_source": "source_en",
       "source_jp": "聖吸耐性",
       "source_en": "Resist Holy Drain",
-      "text": "Widerstehen Heiliger Abfluss"
+      "text": "Schutz vor Heiligentzug"
     }
   ],
   "schema_version": 1,

@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>にパーティー要請されました",
       "source_en": "<NAME TARGET> \r\nhas sent you a party request.",
-      "text": "<NAME TARGET>\r\n hat dir eine Parteianfrage geschickt."
+      "text": "<NAME TARGET>\r\nhat dir eine Gruppenanfrage geschickt."
     },
     {
       "key": "syslog_party_takeback",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>からのパーティー要請が取り消されました",
       "source_en": "The party request from \r\n<NAME TARGET> has been canceled.",
-      "text": "Der Parteiantrag von\r\n<NAME TARGET> wurde abgebrochen."
+      "text": "Die Gruppenanfrage von\r\n<NAME TARGET> wurde zurückgezogen."
     },
     {
       "key": "syslog_pawn_adventure_dec",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>の冒険回数が減りました",
       "source_en": "The remaining adventures of \r\n<NAME PAWN> \r\nhas been reduced by 1.",
-      "text": "Die verbleibenden Abenteuer von\r\n<NAME PAWN>\r\n wurden um 1 reduziert."
+      "text": "Verbleibende Abenteuer von\r\n<NAME PAWN>\r\num 1 gesunken."
     },
     {
       "key": "syslog_pawn_adventure_zero",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>の冒険回数が0になりました\r\nパーティーから外れます",
       "source_en": "The remaining adventures of \r\n<NAME PAWN> is now 0.\r\nThey will leave the party.",
-      "text": "Die verbleibenden Abenteuer von\r\n<NAME PAWN> sind jetzt 0.\r\nDu wirst die Partei verlassen."
+      "text": "\r\n<NAME PAWN> hat keine Abenteuer mehr übrig.\r\nDer Vasall verlässt die Gruppe."
     },
     {
       "key": "syslog_pawn_crafter_dec",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>のクラフト回数が減りました",
       "source_en": "The remaining crafts of \r\n<NAME PAWN> has been\r\nreduced by 1.",
-      "text": "Die übrigen Fahrzeuge von\r\n<NAME PAWN> wurde\r\nreduziert um 1."
+      "text": "Verbleibende Herstellungsaufträge von\r\n<NAME PAWN> sind\r\num 1 gesunken."
     },
     {
       "key": "syslog_pawn_crafter_zero",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>のクラフト回数が0になりました",
       "source_en": "The remaining crafts of \r\n<NAME PAWN> is now 0.",
-      "text": "Die restlichen Handwerke von\r\n<NAME PAWN> ist jetzt 0."
+      "text": "\r\n<NAME PAWN> hat keine Herstellungsaufträge mehr übrig."
     },
     {
       "key": "syslog_pawn_expedition_expiration_hotspot_ite",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "特別なアイテムを持ち帰りました",
       "source_en": "I brought back a special Item.",
-      "text": "Ich habe ein spezielles Item zurückgebracht."
+      "text": "Ich habe einen besonderen Gegenstand mitgebracht."
     },
     {
       "key": "syslog_pawn_expedition_hotsign",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "そろそろホットスポットが見つかりそうです",
       "source_en": "A hotspot is likely to be found soon.",
-      "text": "Ein Hotspot wird wahrscheinlich bald gefunden werden."
+      "text": "Bald könnte ein Hotspot entdeckt werden."
     },
     {
       "key": "syslog_pawn_expedition_sp_delivery",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "強化派遣により、希少なアイテムを持ち帰りました",
       "source_en": "I brought back a rare item through reinforcement\r\ndispatch.",
-      "text": "Ich brachte einen seltenen Gegenstand durch Verstärkung\r\nDispatch zurück."
+      "text": "Von meiner verstärkten Expedition\r\nhabe ich einen seltenen Gegenstand mitgebracht."
     },
     {
       "key": "syslog_pawn_get_spskill_stack",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>が\r\n<VAL>を閃きました",
       "source_en": "<NAME PAWN> \r\nwas inspired with <VAL>.",
-      "text": "<NAME PAWN>\r\n wurde inspiriert mit <VAL>."
+      "text": "<NAME PAWN>\r\nhat die Spezialfertigkeit <VAL> entdeckt."
     },
     {
       "key": "syslog_pawn_instruction_others",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>がポーンに\r\n<PORD>を命令しました",
       "source_en": "<NAME TARGET> \r\nhas given the pawn order \r\n<PORD> to their pawns.",
-      "text": "<NAME TARGET>\r\n hat den Bauernauftrag\r\n <PORD> an ihre Vasallen gegeben."
+      "text": "<NAME TARGET>\r\nhat den Vasallen den Befehl\r\n<PORD> gegeben."
     },
     {
       "key": "syslog_pawn_lost_escape",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>がロストを回避してリムストーンに帰還しました",
       "source_en": "<NAME PAWN> \r\nhas been lost and sent to the Riftstone.",
-      "text": "<NAME PAWN>\r\n ist verloren gegangen und an den Rissstein geschickt worden."
+      "text": "<NAME PAWN>\r\nkonnte dem Verlust entgehen und ist zum Riftstein zurückgekehrt."
     },
     {
       "key": "syslog_pawn_rescue_faild",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>の救出に失敗しました",
       "source_en": "<NAME PAWN> rescue failed.",
-      "text": "<NAME PAWN> Rettung fehlgeschlagen."
+      "text": "Rettung fehlgeschlagen: <NAME PAWN>."
     },
     {
       "key": "syslog_pawn_rescue_resurrection",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>が復活して待機状態に戻り、再呼び出し可能になりました",
       "source_en": "<NAME PAWN> \r\nhas been rescued and returned to standing by.",
-      "text": "<NAME PAWN>\r\n wurde gerettet und zurück zum Stehen gebracht."
+      "text": "<NAME PAWN>\r\nwurde gerettet und steht wieder bereit."
     },
     {
       "key": "syslog_pawn_rescue_start",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>の救出に成功しました。奥に進みポーンを解放しましょう",
       "source_en": "<NAME PAWN> \r\nwas successfully rescued.\r\nProceed to the end to finish the mission.",
-      "text": "<NAME PAWN>\r\n wurde erfolgreich gerettet.\r\nGehe bis zum Ende vor, um die Mission zu beenden."
+      "text": "<NAME PAWN>\r\nwurde gerettet.\r\nGeh bis zum Ende weiter, um die Mission abzuschließen."
     },
     {
       "key": "syslog_pawnrestore_failure",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>の救出に失敗しました",
       "source_en": "<NAME PAWN> rescue failed.",
-      "text": "<NAME PAWN> Rettung fehlgeschlagen."
+      "text": "Rettung fehlgeschlagen: <NAME PAWN>."
     },
     {
       "key": "syslog_pawnrestore_restore",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>が復活しました",
       "source_en": "<NAME PAWN> has been resurrected.",
-      "text": "<NAME PAWN> ist auferstanden."
+      "text": "<NAME PAWN> wurde wiederbelebt."
     },
     {
       "key": "syslog_pawnrestore_start",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>を救出せよ",
       "source_en": "<NAME PAWN> rescue started.",
-      "text": "<NAME PAWN> Rettung begonnen."
+      "text": "Rettung begonnen: <NAME PAWN>."
     },
     {
       "key": "syslog_pawnrestore_success",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>の救出に成功しました",
       "source_en": "<NAME PAWN> rescue suceeded.",
-      "text": "<NAME PAWN> Rettung gelungen."
+      "text": "Rettung gelungen: <NAME PAWN>."
     },
     {
       "key": "syslog_pgexp_get",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>が<VAL PTP>獲得しました",
       "source_en": "<NAME PAWN> gained <VAL PTP>.",
-      "text": "<NAME PAWN> gewonnen <VAL PTP>."
+      "text": "<NAME PAWN> hat <VAL PTP> erhalten."
     },
     {
       "key": "syslog_pgexp_get_ex",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>が<VAL> (+<VAL>) <UNIT PTP>獲得しました",
       "source_en": "<NAME PAWN> gained <VAL> (+<VAL>) <UNIT PTP>.",
-      "text": "<NAME PAWN> gewonnen <VAL> (+<VAL>) <UNIT PTP>."
+      "text": "<NAME PAWN> hat <VAL> (+<VAL>) <UNIT PTP> erhalten."
     },
     {
       "key": "syslog_pp_get",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "プレイポイントが最大に達したため、これ以上獲得できません",
       "source_en": "You have reached the maximum \r\namount of PP and\r\ncannot earn any more.",
-      "text": "Du hast das Maximum erreicht\r\nPP-Betrag und\r\nMehr kann man nicht verdienen."
+      "text": "Du hast die Höchstmenge an\r\nSpielpunkten erreicht.\r\nDu kannst keine weiteren sammeln."
     },
     {
       "key": "syslog_pq_seq_ana_acv_down",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "＜<VAL>＞の使命＜<VAL>＞の達成度が減少しました",
       "source_en": "\"<VAL>\" mission \"<VAL>\" progress decreased.",
-      "text": "\"<VAL>\" Mission \"<VAL>\" Fortschritt verringert."
+      "text": "„<VAL>“: Fortschritt der Mission „<VAL>“ gesunken."
     },
     {
       "key": "syslog_pq_seq_ana_acv_up",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "＜<VAL>＞の使命＜<VAL>＞の達成度が上昇しました",
       "source_en": "\"<VAL>\" mission \"<VAL>\" progress increased.",
-      "text": "\"<VAL>\" Mission \"<VAL>\" Fortschritt erhöht."
+      "text": "„<VAL>“: Fortschritt der Mission „<VAL>“ gestiegen."
     },
     {
       "key": "syslog_pq_seq_ana_pacend",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "＜<VAL>＞のすべての使命を達成しました",
       "source_en": "All \"<VAL>\" missions achieved.",
-      "text": "Alle \"<VAL>\" Missionen erreicht."
+      "text": "Alle Missionen von „<VAL>“ abgeschlossen."
     },
     {
       "key": "syslog_pq_seq_ana_seqcomp",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "＜<VAL>＞の使命＜<VAL>＞を達成しました",
       "source_en": "\"<VAL>\" mission \"<VAL>\" achieved.",
-      "text": "\"<VAL>\" Mission \"<VAL>\" erreicht."
+      "text": "„<VAL>“: Mission „<VAL>“ abgeschlossen."
     },
     {
       "key": "syslog_pq_seq_ana_start",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "＜<VAL>＞の使命＜<VAL>＞を開始しました",
       "source_en": "\"<VAL>\" mission \"<VAL>\" has begun.",
-      "text": "\"<VAL>\" Mission \"<VAL>\" hat begonnen."
+      "text": "„<VAL>“: Mission „<VAL>“ hat begonnen."
     },
     {
       "key": "syslog_quest_dialog",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME QUEST>：≪汎用アナウンス用テキスト≫",
       "source_en": "<NAME QUEST>: ≪General\r\nannouncement text≫",
-      "text": "<NAME QUEST>: ≥Allgemein\r\nAnkündigungstext"
+      "text": "<NAME QUEST>: ≪Allgemeine\r\nMeldung≫"
     },
     {
       "key": "syslog_quest_update",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME QUEST>：≪小目的用テキスト≫",
       "source_en": "<NAME QUEST>: ≪Text\r\nfor Sub-objective≫",
-      "text": "<NAME QUEST>: ≥Text\r\nfür Unterziel"
+      "text": "<NAME QUEST>: ≪Meldung\r\nzum Nebenziel≫"
     },
     {
       "key": "syslog_quiq_mach_purpose",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN R>が最大に達したため、これ以上獲得できません",
       "source_en": "You have reached the maximum \r\namount of <UNTN R>\r\nand cannot earn any more.",
-      "text": "Du hast den maximalen\r\n Betrag von <UNTN R>\r\n erreicht und können nicht mehr verdienen."
+      "text": "Du kannst keine weiteren\r\n<UNTN R>\r\nerhalten. Du trägst bereits die Höchstmenge."
     },
     {
       "key": "syslog_rdm_get",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN RDM>を<VAL><UNIT RDM>、入手しました",
       "source_en": "<VAL> <UNIT RDM> of <UNTN RDM>s obtained.",
-      "text": "<VAL> <UNIT RDM> von <UNTN RDM> s erhalten."
+      "text": "<VAL> <UNIT RDM> von <UNTN RDM> erhalten."
     },
     {
       "key": "syslog_rdm_get_ex",
@@ -296,7 +296,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN RDM>を<VAL>(+<VAL>)<UNIT RDM>、入手しました",
       "source_en": "<VAL>(+<VAL>)<UNIT RDM> obtained from <UNTN RDM>",
-      "text": "<VAL>(+<VAL>)<UNIT RDM> aus <UNTN RDM>"
+      "text": "<VAL> (+<VAL>) <UNIT RDM> aus <UNTN RDM> erhalten."
     },
     {
       "key": "syslog_rdm_lost",
@@ -312,7 +312,7 @@
       "tag_source": "source_en",
       "source_jp": "メールで特典アイテムをお受け取りください",
       "source_en": "Please check your mail to\r\nreceive the items.",
-      "text": "Bitte überprüfe deine E-Mail an\r\nempfange die Artikel."
+      "text": "Schau in deiner Post nach,\r\num die Gegenstände abzuholen."
     },
     {
       "key": "syslog_release_area_spot",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>の<VAL>が解放されました",
       "source_en": "<VAL>'s <VAL> unlocked.",
-      "text": "<VAL>'s <VAL> entsperrt."
+      "text": "Für <VAL> wurde <VAL> freigeschaltet."
     },
     {
       "key": "syslog_rentalpoint_get",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "レンタルポイントを<VAL RP>獲得しました",
       "source_en": "Obtained <VAL RP>.",
-      "text": "Erhältlich <VAL RP>."
+      "text": "<VAL RP> erhalten."
     },
     {
       "key": "syslog_rentalpoint_get_ex",
@@ -336,7 +336,7 @@
       "tag_source": "source_en",
       "source_jp": "レンタルポイントを<VAL> (+<VAL>) <UNIT RP>獲得しました",
       "source_en": "Obtained <VAL> (+<VAL>) <UNIT RP>.",
-      "text": "Erhalten <VAL> (+<VAL>) <UNIT RP>."
+      "text": "<VAL> (+<VAL>) <UNIT RP> erhalten."
     },
     {
       "key": "syslog_rentalpoint_lost",
@@ -352,7 +352,7 @@
       "tag_source": "source_en",
       "source_jp": "報酬ボックスの報酬件数が残り少なくなっています\r\n古い報酬を失う可能性があります",
       "source_en": "The reward box is running low on space.\r\nThere is a possibility of losing old rewards.",
-      "text": "Die Belohnungsbox läuft auf Platz knapp.\r\nEs besteht die Möglichkeit, alte Belohnungen zu verlieren."
+      "text": "In der Belohnungsbox ist kaum noch Platz.\r\nÄltere Belohnungen könnten verloren gehen."
     },
     {
       "key": "syslog_reward_box_limit_notion_item",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "報酬ボックスのアイテム枠が残り少なくなっています\r\n報酬件数に関わらず古い報酬を失う可能性があります",
       "source_en": "The item slots of the reward box are running low.\r\nThere is a possibility of losing old rewards.",
-      "text": "Die Item-Slots der Belohnungsbox laufen niedrig.\r\nEs besteht die Möglichkeit, alte Belohnungen zu verlieren."
+      "text": "In der Belohnungsbox sind kaum noch Gegenstandsplätze frei.\r\nÄltere Belohnungen könnten verloren gehen."
     },
     {
       "key": "syslog_reward_box_limit_over",
@@ -368,7 +368,7 @@
       "tag_source": "source_en",
       "source_jp": "報酬ボックスの報酬件数がいっぱいです\r\n容量を超えると古い報酬は失われます",
       "source_en": "Your reward box is full.\r\nWhen it exceeds capacity, the oldest reward will\r\nbe lost.",
-      "text": "Deine Belohnungsbox ist voll.\r\nWenn sie die Kapazität übersteigt, geht die älteste Belohnung verloren\r\n"
+      "text": "Deine Belohnungsbox ist voll.\r\nSobald eine neue Belohnung dazukommt,\r\ngeht die älteste verloren."
     },
     {
       "key": "syslog_reward_box_limit_over_item",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "報酬ボックスのアイテム枠がいっぱいです\r\n報酬件数に関わらず古い報酬は失われます",
       "source_en": "The item slots in your reward box are full.\r\nRegardless of the number of rewards, old rewards\r\nwill be lost.",
-      "text": "Die Item-Slots in deiner Belohnungsbox sind voll.\r\n Unabhängig von der Anzahl der Belohnungen gehen alte Belohnungen\r\n verloren."
+      "text": "Alle Gegenstandsplätze in deiner Belohnungsbox sind belegt.\r\nÄltere Belohnungen gehen verloren, auch wenn\r\nnoch Belohnungsplätze frei sind."
     },
     {
       "key": "syslog_rim_get",
@@ -408,7 +408,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN RP>が最大に達したため、これ以上獲得できません",
       "source_en": "You have reached the maximum \r\namount of <UNTN RP>\r\nand cannot earn any more.",
-      "text": "Du hast den maximalen\r\n Betrag von <UNTN RP>\r\n erreicht und können nicht mehr verdienen."
+      "text": "Du kannst keine weiteren\r\n<UNTN RP>\r\nerhalten. Du trägst bereits die Höchstmenge."
     },
     {
       "key": "syslog_sdm_get",
@@ -416,7 +416,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN SDM>を<VAL><UNIT SDM>、入手しました",
       "source_en": "<VAL> <UNIT SDM> of <UNTN SDM>s obtained.",
-      "text": "<VAL> <UNIT SDM> von <UNTN SDM> s erhalten."
+      "text": "<VAL> <UNIT SDM> von <UNTN SDM> erhalten."
     },
     {
       "key": "syslog_sdm_get_ex",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN SDM>を<VAL>(+<VAL>)<UNIT SDM>、入手しました",
       "source_en": "Retrieved <VAL>(+<VAL>)<UNIT SDM> at <UNTN SDM>",
-      "text": "Abgeholt <VAL>(+<VAL>)<UNIT SDM> bei <UNTN SDM>"
+      "text": "<VAL> (+<VAL>) <UNIT SDM> bei <UNTN SDM> abgeholt."
     },
     {
       "key": "syslog_sdm_lost",
@@ -440,7 +440,7 @@
       "tag_source": "source_en",
       "source_jp": "シルバーチケットを<VAL>枚、消費しました（所持数：<VAL>）",
       "source_en": "Silver Tickets x<VAL> spent (have: <VAL>).",
-      "text": "Silber Tickets x<VAL> ausgegeben (haben: <VAL>)."
+      "text": "Silbertickets ×<VAL> ausgegeben (im Besitz: <VAL>)."
     },
     {
       "key": "syslog_silvertickets_get",
@@ -448,7 +448,7 @@
       "tag_source": "source_en",
       "source_jp": "シルバーチケットを<VAL>枚、入手しました（所持数：<VAL>）",
       "source_en": "Silver Tickets x<VAL> (have: <VAL>).",
-      "text": "Silber Tickets x<VAL> (haben: <VAL>)."
+      "text": "Silbertickets ×<VAL> erhalten (im Besitz: <VAL>)."
     },
     {
       "key": "syslog_stamp_bonus_cumulative",
@@ -456,7 +456,7 @@
       "tag_source": "source_en",
       "source_jp": "受け取っていない累計スタンプボーナスがあります",
       "source_en": "There is a cumulative stamp bonus\r\nyou have not claimed.",
-      "text": "Es gibt einen kumulativen Stempelbonus\r\n, de nicht beansprucht haben."
+      "text": "Du hast einen Bonus für gesammelte Stempel\r\nnoch nicht abgeholt."
     },
     {
       "key": "syslog_stamp_bonus_day",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "受け取っていない連続スタンプボーナスがあります",
       "source_en": "There is a consecutive stamp bonus\r\nyou have not claimed.",
-      "text": "Es gibt einen aufeinander folgenden Stempelbonus\r\n, de nicht beansprucht haben."
+      "text": "Du hast einen Bonus für die Stempelserie\r\nnoch nicht abgeholt."
     },
     {
       "key": "syslog_status_die_me",

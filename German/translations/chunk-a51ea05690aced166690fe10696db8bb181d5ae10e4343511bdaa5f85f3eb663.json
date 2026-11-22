@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>が<NAME ITEM>の生産を開始しました",
       "source_en": "<NAME PAWN> has begun crafting \r\n<NAME ITEM>.",
-      "text": "<NAME PAWN> hat mit der Herstellung begonnen\r\n<NAME ITEM>."
+      "text": "<NAME PAWN> hat mit der Herstellung\r\nvon <NAME ITEM> begonnen."
     },
     {
       "key": "syslog_darkgauge_rise",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "\"破滅の力\"の高まりを感じる――\r\nゲージが十分に溜まるとすべてが滅びる！",
       "source_en": "The Power of Destruction is growing...\r\nWhen it reaches maximum power, all life will\r\nperish!",
-      "text": "Die Macht der Zerstörung wächst....\r\n Wenn sie die maximale Kraft erreicht, wird alles Leben zugrunde gehen\r\n!"
+      "text": "Die Macht der Zerstörung wächst …\r\nErreicht sie ihren Gipfel,\r\nvergeht alles Leben!"
     },
     {
       "key": "syslog_darkgauge_spdown",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "\"黄金竜の一撃\"によって\"破滅の力\"のゲージが減少した！",
       "source_en": "The attack of Golden Dragon has reduced the Power\r\nof Destruction!",
-      "text": "Der Angriff des Goldenen Drachen hat die Macht reduziert\r\nder Zerstörung!"
+      "text": "Der Angriff des Goldenen Drachen hat die\r\nMacht der Zerstörung geschwächt!"
     },
     {
       "key": "syslog_dp_get",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "敵の魔法攻撃力が上昇した！",
       "source_en": "Magick attack of the enemy has increased!",
-      "text": "Magick Angriff des Feindes hat zugenommen!"
+      "text": "Der magische Angriff des Gegners ist gestiegen!"
     },
     {
       "key": "syslog_ds_info_enemy_03",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "敵の物理攻撃力が上昇した！",
       "source_en": "Physical attack of the enemy has increased!",
-      "text": "Der physische Angriff des Feindes hat zugenommen!"
+      "text": "Der physische Angriff des Gegners ist gestiegen!"
     },
     {
       "key": "syslog_ds_info_enemy_04",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "敵の鎧が硬化した！",
       "source_en": "The armor of enemy has hardened!",
-      "text": "Die Rüstung des Feindes ist verhärtet!"
+      "text": "Die Rüstung des Gegners ist härter geworden!"
     },
     {
       "key": "syslog_ds_support_ana_01",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "敵の部位を破壊しやすくなった",
       "source_en": "It is now easier to break destructible parts.",
-      "text": "Es ist jetzt einfacher, zerstörbare Teile zu brechen."
+      "text": "Zerstörbare Körperteile lassen sich jetzt leichter zerschlagen."
     },
     {
       "key": "syslog_ds_support_ana_03",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "敵の防御を破り、プレイヤーの攻撃力が強化された",
       "source_en": "Break through their defense to enhance your\r\noffensive power.",
-      "text": "Breche durch ihre Verteidigung, um deine\r\noffensive Macht zu verbessern."
+      "text": "Durchbrich die Verteidigung der Gegner,\r\num deinen Angriff zu verstärken."
     },
     {
       "key": "syslog_entryboard_cancel",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME QUEST>のエントリーを取り消しました",
       "source_en": "<NAME QUEST> entry\r\nhas been canceled.",
-      "text": "<NAME QUEST> Eintrag\r\nwurde abgebrochen."
+      "text": "Die Anmeldung für <NAME QUEST>\r\nwurde zurückgezogen."
     },
     {
       "key": "syslog_entryboard_creat",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME QUEST>のエントリーボードを作成しました",
       "source_en": "<NAME QUEST> entry\r\nboard has been created.",
-      "text": "<NAME QUEST> entry\r\nboard wurde erstellt."
+      "text": "Das Anmeldebrett für <NAME QUEST>\r\nwurde eingerichtet."
     },
     {
       "key": "syslog_entryboard_entry",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME QUEST>にエントリーしました",
       "source_en": "<NAME QUEST> has been\r\napplied for entry.",
-      "text": "<NAME QUEST> wurde\r\n für die Einreise beantragt."
+      "text": "Die Anmeldung für <NAME QUEST>\r\nwurde eingereicht."
     },
     {
       "key": "syslog_error_clan",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "クランに加入していません",
       "source_en": "Not currently in the clan.",
-      "text": "Derzeit nicht im Clan."
+      "text": "Du bist derzeit in keinem Clan."
     },
     {
       "key": "syslog_error_entryb",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーボードに登録していません",
       "source_en": "You are not registered at the entry board.",
-      "text": "Du bist nicht am Entry Board registriert."
+      "text": "Du bist am Anmeldebrett nicht angemeldet."
     },
     {
       "key": "syslog_error_party_member_0",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーメンバーがいません",
       "source_en": "You have no party members.",
-      "text": "Du hast keine Parteimitglieder."
+      "text": "Du hast keine Gruppenmitglieder."
     },
     {
       "key": "syslog_error_tell",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>にメッセージが送れませんでした",
       "source_en": "Could not send message to <NAME TARGET>.",
-      "text": "Konnte keine Nachricht an <NAME TARGET> senden."
+      "text": "Die Nachricht an <NAME TARGET> konnte nicht gesendet werden."
     },
     {
       "key": "syslog_evoticket_get",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>が強制転移させられた",
       "source_en": "<VAL> was forcibly teleported",
-      "text": "<VAL> wurde gewaltsam teleportiert"
+      "text": "<VAL> wurde gegen seinen Willen teleportiert."
     },
     {
       "key": "syslog_exm_return_player",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーメンバーが転移先から復帰した！",
       "source_en": "A party member has returned from their\r\nteleportation!",
-      "text": "Ein Parteimitglied ist von seiner\r\nTeleportation zurückgekehrt!"
+      "text": "Ein Gruppenmitglied ist nach der\r\nTeleportation zurückgekehrt!"
     },
     {
       "key": "syslog_favorite_login",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>にフレンド申請をしました",
       "source_en": "You sent \r\n<NAME TARGET> a friend request.",
-      "text": "Du hast\r\n<NAME TARGET> eine Freundschaftsanfrage gesendet."
+      "text": "Du hast\r\n<NAME TARGET> eine Freundschaftsanfrage geschickt."
     },
     {
       "key": "syslog_friend_requested",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN G>が最大に達したため、これ以上獲得できません",
       "source_en": "You have reached the maximum \r\namount of <UNTN G>\r\nand cannot earn any more.",
-      "text": "Du hast den maximalen\r\n Betrag von <UNTN G>\r\n erreicht und können nicht mehr verdienen."
+      "text": "Du kannst keine weiteren\r\n<UNTN G>\r\nerhalten. Du trägst bereits die Höchstmenge."
     },
     {
       "key": "syslog_gacha_msg_drawn_by_a_free",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "無料で、ロットを1回まわしました",
       "source_en": "For free, you drew 1 lot.",
-      "text": "Umsonst hast du 1 Lot gezeichnet."
+      "text": "Du hast 1 Los kostenlos gezogen."
     },
     {
       "key": "syslog_gacha_msg_drawn_by_a_stone",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石<VAL>個を消費して、ロットを1回まわしました",
       "source_en": "Spending <VAL> Golden Gemstones, you drew 1 lot.",
-      "text": "Ausgeben <VAL> Goldsteine, zoge 1 Los."
+      "text": "Du hast für <VAL> Goldsteine 1 Los gezogen."
     },
     {
       "key": "syslog_gacha_msg_drawn_by_a_ticket",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "チケット<VAL>枚を消費して、ロットを1回まわしました",
       "source_en": "Spending <VAL> Tickets, you drew 1 lot.",
-      "text": "Ausgeben <VAL> Tickets, hast du 1 Los gezogen."
+      "text": "Du hast für <VAL> Tickets 1 Los gezogen."
     },
     {
       "key": "syslog_gacha_msg_drawn_by_a_tickets",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "無料で、ロットを<VAL>連続でまわしました",
       "source_en": "For free, you drew <VAL> lots in succession.",
-      "text": "Umsonst hast du <VAL> Lose nacheinander gezogen."
+      "text": "Du hast <VAL> Lose in Folge kostenlos gezogen."
     },
     {
       "key": "syslog_gacha_msg_drawn_by_stones",
@@ -296,7 +296,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石<VAL>個を消費して、ロットを<VAL>連続でまわしました",
       "source_en": "Spending <VAL> Golden Gemstones, you\r\ndrew <VAL> lots in succession.",
-      "text": "Ausgaben <VAL> Goldsteine, du\r\ngezogen <VAL> Lose in der Folge."
+      "text": "Für <VAL> Goldsteine hast du\r\n<VAL> Lose in Folge gezogen."
     },
     {
       "key": "syslog_gdm_get",
@@ -304,7 +304,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN GDM>を<VAL><UNIT GDM>、入手しました",
       "source_en": "<VAL> <UNIT GDM> of <UNTN GDM>s obtained.",
-      "text": "<VAL> <UNIT GDM> von <UNTN GDM> s erhalten."
+      "text": "<VAL> <UNIT GDM> von <UNTN GDM> erhalten."
     },
     {
       "key": "syslog_gdm_get_ex",
@@ -312,7 +312,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN GDM>を<VAL>(+<VAL>)<UNIT GDM>、入手しました",
       "source_en": "Obtained <VAL> (+<VAL>) <UNIT GDM> of <UNTN GDM>.",
-      "text": "Erhalten <VAL> (+<VAL>) <UNIT GDM> von <UNTN GDM>."
+      "text": "<VAL> (+<VAL>) <UNIT GDM> von <UNTN GDM> erhalten."
     },
     {
       "key": "syslog_gdm_lost",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石を<VAL>個、入手しました（所持数：<VAL>）",
       "source_en": "Golden Gemstones x<VAL> obtained (have: <VAL>).",
-      "text": "Goldsteine x<VAL> erhalten (haben: <VAL>)."
+      "text": "Goldsteine ×<VAL> erhalten (im Besitz: <VAL>)."
     },
     {
       "key": "syslog_goldstone_lost",
@@ -336,7 +336,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石を<VAL>個、消費しました（所持数：<VAL>）",
       "source_en": "Golden Gemstones x<VAL> spent (have: <VAL>).",
-      "text": "Goldsteine x<VAL> ausgegeben (haben: <VAL>)."
+      "text": "Goldsteine ×<VAL> ausgegeben (im Besitz: <VAL>)."
     },
     {
       "key": "syslog_hb_get",
@@ -368,7 +368,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN HB>が最大に達したため、これ以上獲得できません",
       "source_en": "You have reached the maximum \r\namount of <UNTN HB>\r\nand cannot earn any more.",
-      "text": "Du hast den maximalen\r\n Betrag von <UNTN HB>\r\n erreicht und können nicht mehr verdienen."
+      "text": "Du kannst keine weiteren\r\n<UNTN HB>\r\nerhalten. Du trägst bereits die Höchstmenge."
     },
     {
       "key": "syslog_item_consume",
@@ -384,7 +384,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME ITEM>を<VAL>個、納品しました",
       "source_en": "<NAME ITEM> x<VAL> has been delivered.",
-      "text": "<NAME ITEM> x<VAL> wurde geliefert."
+      "text": "<NAME ITEM> ×<VAL> abgegeben."
     },
     {
       "key": "syslog_item_error",
@@ -392,7 +392,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムの処理に失敗しました",
       "source_en": "Item failed to process.",
-      "text": "Item konnte nicht verarbeitet werden."
+      "text": "Der Gegenstand konnte nicht verarbeitet werden."
     },
     {
       "key": "syslog_item_fortify",
@@ -408,7 +408,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME ITEM>を<VAL>個、アイテムポストに送りました",
       "source_en": "<NAME ITEM> x<VAL> sent to Item Post.",
-      "text": "<NAME ITEM> x<VAL> an Item Post gesendet."
+      "text": "<NAME ITEM> ×<VAL> an die Gegenstandspost gesendet."
     },
     {
       "key": "syslog_item_lockset",
@@ -416,7 +416,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムをセーフティ設定しました",
       "source_en": "Item safety setting enabled.",
-      "text": "Artikelsicherheitseinstellung aktiviert."
+      "text": "Gegenstandsschutz aktiviert."
     },
     {
       "key": "syslog_item_lockset_off",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムのセーフティ設定を解除しました",
       "source_en": "Item safety setting disabled.",
-      "text": "Artikel-Sicherheitseinstellung deaktiviert."
+      "text": "Gegenstandsschutz deaktiviert."
     },
     {
       "key": "syslog_item_lost",
@@ -432,7 +432,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME ITEM>を<VAL>個、失いました",
       "source_en": "<NAME ITEM> x<VAL> was lost.",
-      "text": "<NAME ITEM> x<VAL> war verloren."
+      "text": "<NAME ITEM> ×<VAL> verloren."
     },
     {
       "key": "syslog_item_sold",
@@ -448,7 +448,7 @@
       "tag_source": "source_en",
       "source_jp": "新ジョブ「<NAME JOB>」への転職が可能になりました",
       "source_en": "Job \"<NAME JOB>\" has been unlocked.",
-      "text": "Job \"<NAME JOB>\" wurde freigeschaltet."
+      "text": "Die Klasse „<NAME JOB>“ wurde freigeschaltet."
     },
     {
       "key": "syslog_jobmaster_order_clear",
@@ -456,7 +456,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブ修練ログ「<VAL>」の課題を達成しました\r\nジョブマスターに報告するか、ジョブ修練ログを開いてください",
       "source_en": "Job Training Log challenge \"<VAL>\" achieved.\r\nReport to the Job Master or open\r\nthe Job Training Log.",
-      "text": "Job Training Log Challenge<VAL>\" erreicht.\r\nMelde sich beim Klassenmeister oder öffnen\r\ndas Job Training Log."
+      "text": "Aufgabe „<VAL>“ im Trainingsbuch geschafft.\r\nMelde dich beim Klassenmeister\r\noder öffne das Trainingsbuch."
     },
     {
       "key": "syslog_jobmaster_skill_get",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "「<NAME SKILL> <VAL LV>」へのレベルアップが可能になりました",
       "source_en": "\"<NAME SKILL> <VAL LV>\" can now be learned.",
-      "text": "\"<NAME SKILL> <VAL LV>\" kann jetzt gelernt werden."
+      "text": "„<NAME SKILL> <VAL LV>“ kann jetzt erlernt werden."
     },
     {
       "key": "syslog_jp_possession_max",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブポイントが最大に達したため、これ以上獲得できません",
       "source_en": "You have reached the maximum \r\namount of Job Points\r\nand cannot earn any more.",
-      "text": "Du hast die maximale\r\nAnzahl von Job Points\r\n erreicht und können nicht mehr verdienen."
+      "text": "Du hast die Höchstmenge erreicht.\r\nDu kannst keine weiteren Klassenpunkte\r\nsammeln."
     },
     {
       "key": "syslog_jp_possession_max_notice",
@@ -480,7 +480,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブポイントの所持量が最大に近づいています\r\n( <VAL> / <VAL JP> )",
       "source_en": "You are almost maxed out on Job Points.\r\n(<VAL>/<VAL JP>)",
-      "text": "Du bist bei Job Points fast ausgereizt.\r\n(<VAL>/<VAL JP>)"
+      "text": "Du hast fast die Höchstmenge an Klassenpunkten erreicht.\r\n(<VAL>/<VAL JP>)"
     }
   ],
   "schema_version": 1,

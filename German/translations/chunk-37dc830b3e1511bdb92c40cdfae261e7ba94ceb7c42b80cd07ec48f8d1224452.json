@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "Battle Assist",
       "source_en": "Battle Assist",
-      "text": "Kampfassistent"
+      "text": "Kampftechniken"
     },
     {
       "key": "poptop_bazaar_buy",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムバッグから出品",
       "source_en": "Sell from Item Bag",
-      "text": "Verkaufen von Gegenstandstasche"
+      "text": "Aus der Gegenstandstasche verkaufen"
     },
     {
       "key": "poptop_bazaar_disp_exhibit_warehouse",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "保管ボックスから出品",
       "source_en": "Sell from Storage Box",
-      "text": "Verkaufen von Storage Box"
+      "text": "Aus dem Lager verkaufen"
     },
     {
       "key": "poptop_bazaar_disp_posnum",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "出品可能数：",
       "source_en": "Exhibits:",
-      "text": "Exponate:"
+      "text": "Mögliche Angebote:"
     },
     {
       "key": "poptop_bazaar_en",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "出品状況",
       "source_en": "Exhibits",
-      "text": "Exponate"
+      "text": "Angebote"
     },
     {
       "key": "poptop_btn_dra_skill",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "ドラゴンアビリティ情報",
       "source_en": "Dragon Ability Information",
-      "text": "Dragon Ability Informationen"
+      "text": "Infos zu Drachenfähigkeiten"
     },
     {
       "key": "poptop_clan_create",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "クラン設立",
       "source_en": "Found Clan",
-      "text": "Gefundener Clan"
+      "text": "Clan gründen"
     },
     {
       "key": "poptop_clan_en",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "Clan",
       "source_en": "Clan only",
-      "text": "Nur Clans"
+      "text": "Clan"
     },
     {
       "key": "poptop_clan_entry_cancel",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "スカウトエントリー中止",
       "source_en": "Stop Scouting",
-      "text": "Scouting stoppen"
+      "text": "Clanrekrutierung beenden"
     },
     {
       "key": "poptop_clan_entry_check",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "スカウトエントリー確認",
       "source_en": "View Recruits",
-      "text": "Rekruten ansehen"
+      "text": "Anmeldung zur Clanrekrutierung ansehen"
     },
     {
       "key": "poptop_clan_entry_now",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "スカウトエントリー中",
       "source_en": "Scout Entry in Progress",
-      "text": "Scout-Einstieg in Progress"
+      "text": "Für Clanrekrutierung angemeldet"
     },
     {
       "key": "poptop_clan_interval_now",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "インターバル期間中",
       "source_en": "Interval Duration",
-      "text": "Intervalldauer"
+      "text": "Clan-Wartezeit läuft"
     },
     {
       "key": "poptop_clan_invite",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "スカウトエントリー招待",
       "source_en": "View Invites",
-      "text": "Ansicht Einladungen"
+      "text": "Einladungen ansehen"
     },
     {
       "key": "poptop_clan_invite_direct",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "直接招待",
       "source_en": "Direct Invite",
-      "text": "Direkteinladung"
+      "text": "Direkt einladen"
     },
     {
       "key": "poptop_clan_invite_list",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "招待リスト",
       "source_en": "View Invites",
-      "text": "Ansicht Einladungen"
+      "text": "Einladungen ansehen"
     },
     {
       "key": "poptop_clan_join",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "加入申請中クラン",
       "source_en": "View Applications",
-      "text": "Anwendungen anzeigen"
+      "text": "Bewerbungen ansehen"
     },
     {
       "key": "poptop_clan_join_list",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "加入希望者リスト",
       "source_en": "View Applications",
-      "text": "Anwendungen anzeigen"
+      "text": "Bewerbungen ansehen"
     },
     {
       "key": "poptop_clan_jp",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "拠点拡張",
       "source_en": "Hall Expansion",
-      "text": "Hallenerweiterung"
+      "text": "Clan-Stützpunkt ausbauen"
     },
     {
       "key": "poptop_clan_kyoten_2",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "クラン執務官の変更",
       "source_en": "Change Clan Officers",
-      "text": "Clan-Offiziere wechseln"
+      "text": "Clanoffiziere ändern"
     },
     {
       "key": "poptop_clan_kyoten_4",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "拠点のレイアウト",
       "source_en": "Hall Layout",
-      "text": "Hallenlayout"
+      "text": "Clan-Stützpunkt einrichten"
     },
     {
       "key": "poptop_clan_management",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "未加入",
       "source_en": "Any",
-      "text": "alle"
+      "text": "Ohne Clan"
     },
     {
       "key": "poptop_clan_reave",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "クラン脱退",
       "source_en": "Leave",
-      "text": "Urlaub"
+      "text": "Clan verlassen"
     },
     {
       "key": "poptop_clan_scout_entry",
@@ -312,7 +312,7 @@
       "tag_source": "source_en",
       "source_jp": "装備の品質変更",
       "source_en": "Change Quality",
-      "text": "Änderungsqualität"
+      "text": "Ausrüstungsqualität ändern"
     },
     {
       "key": "poptop_craft_en",
@@ -368,7 +368,7 @@
       "tag_source": "source_en",
       "source_jp": "引き出す / 預ける",
       "source_en": "Withdraw / Deposit",
-      "text": "Abhebung/Einlage"
+      "text": "Entnehmen / Einlagern"
     },
     {
       "key": "poptop_depositbox_menu_02_restore",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテム復元",
       "source_en": "Item Restoration",
-      "text": "Restaurierung von Objekten"
+      "text": "Gegenstände wiederherstellen"
     },
     {
       "key": "poptop_depositbox_menu_ex01",
@@ -408,7 +408,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリー中止",
       "source_en": "Cancel Entry",
-      "text": "Einreise stornieren"
+      "text": "Anmeldung zurückziehen"
     },
     {
       "key": "poptop_entryboard_chat_recruit",
@@ -416,7 +416,7 @@
       "tag_source": "source_en",
       "source_jp": "チャット募集",
       "source_en": "Chat Recruitment",
-      "text": "Chat-Rekrutierung"
+      "text": "Mitspieler im Chat suchen"
     },
     {
       "key": "poptop_entryboard_comment_input",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "コメント再編集",
       "source_en": "Edit Comment",
-      "text": "Edit Kommentar"
+      "text": "Kommentar bearbeiten"
     },
     {
       "key": "poptop_entryboard_entry",
@@ -432,7 +432,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリー中",
       "source_en": "Entry in progress",
-      "text": "Aufnahme in Arbeit"
+      "text": "Anmeldung läuft"
     },
     {
       "key": "poptop_entryboard_entry_invitation_pt",
@@ -440,7 +440,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティー招待",
       "source_en": "Party Invite",
-      "text": "Einladung der Partei"
+      "text": "Gruppe einladen"
     },
     {
       "key": "poptop_entryboard_extend",
@@ -448,7 +448,7 @@
       "tag_source": "source_en",
       "source_jp": "募集時間延長",
       "source_en": "Extend Time",
-      "text": "Verlängern der Zeit"
+      "text": "Frist verlängern"
     },
     {
       "key": "poptop_entryboard_less_member_go",
@@ -456,7 +456,7 @@
       "tag_source": "source_en",
       "source_jp": "少人数でパーティーを組む",
       "source_en": "Form Small Party",
-      "text": "Gründung einer kleinen Partei"
+      "text": "Kleine Gruppe bilden"
     },
     {
       "key": "poptop_entryboard_member_check",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "メンバー確認",
       "source_en": "Check Members",
-      "text": "Kontrollmitglieder"
+      "text": "Mitglieder ansehen"
     },
     {
       "key": "poptop_entryboard_menu",
@@ -480,7 +480,7 @@
       "tag_source": "source_en",
       "source_jp": "イベント確認",
       "source_en": "Check Event",
-      "text": "Kontrollereignis"
+      "text": "Event ansehen"
     }
   ],
   "schema_version": 1,

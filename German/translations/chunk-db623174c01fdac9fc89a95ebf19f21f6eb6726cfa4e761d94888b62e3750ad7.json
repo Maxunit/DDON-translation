@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "変更",
       "source_en": "Change",
-      "text": "Änderung"
+      "text": "Ändern"
     },
     {
       "key": "cpf_bt_close",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "メンバー加入の権限付与",
       "source_en": "Inviting",
-      "text": "Einladung"
+      "text": "Mitglieder aufnehmen"
     },
     {
       "key": "cpf_clan_authority_setting_cap01_01",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "勧誘する権限",
       "source_en": "Authority to Invite",
-      "text": "Ermächtigung zum Einladen"
+      "text": "Mitglieder anwerben"
     },
     {
       "key": "cpf_clan_authority_setting_cap01_02",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "加入を許可する権限",
       "source_en": "Authority to Review Applications",
-      "text": "Prüfungsbefugnis für Anträge"
+      "text": "Bewerbungen prüfen"
     },
     {
       "key": "cpf_clan_authority_setting_cap01_03",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "直接招待する権限",
       "source_en": "Authority to Direct Invite",
-      "text": "Behörde zur Direkteinladung"
+      "text": "Direkt einladen"
     },
     {
       "key": "cpf_clan_authority_setting_cap02",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "その他",
       "source_en": "Other",
-      "text": "andere"
+      "text": "Sonstiges"
     },
     {
       "key": "cpf_clan_authority_setting_cap02_01",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "クランポイントを使用する権限",
       "source_en": "Authority to use Clan Points",
-      "text": "Berechtigung zur Nutzung von Clan Points"
+      "text": "Clanpunkte ausgeben"
     },
     {
       "key": "cpf_clan_authority_setting_cap02_02",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "拠点のレイアウトを使用する権限",
       "source_en": "Authority to use Hall Layout",
-      "text": "Berechtigung zur Verwendung von Hall Layout"
+      "text": "Clan-Stützpunkt einrichten"
     },
     {
       "key": "cpf_clan_authority_setting_cap03",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "役職",
       "source_en": "Position",
-      "text": "Position"
+      "text": "Rang"
     },
     {
       "key": "cpf_clan_authority_setting_cap03_01",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "サブマスターに任命",
       "source_en": "Appoint as Clan Officer",
-      "text": "Ernennt als Clan Officer"
+      "text": "Zum Clanoffizier ernennen"
     },
     {
       "key": "cpf_clan_authority_setting_comp",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>の権限設定を変更しました",
       "source_en": "The permission settings for \r\n<NAME TARGET> \r\nhave been changed.",
-      "text": "Die Berechtigungseinstellungen für\r\n<NAME TARGET>\r\n wurden geändert."
+      "text": "Die Berechtigungen für\r\n<NAME TARGET>\r\nwurden geändert."
     },
     {
       "key": "cpf_clan_authority_setting_err_01",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "変更する権限がありません",
       "source_en": "You do not have permission to change it.",
-      "text": "Du hast keine Erlaubnis, es zu ändern."
+      "text": "Du hast keine Berechtigung für diese Änderung."
     },
     {
       "key": "cpf_clan_authority_setting_err_02",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "インターバル期間中のため変更できません",
       "source_en": "Cannot change it because it is during the\r\nInterval Duration.",
-      "text": "Kann es nicht ändern, weil es während der\r\n Intervalldauer ist."
+      "text": "Während der Clan-Wartezeit sind\r\nkeine Änderungen möglich."
     },
     {
       "key": "cpf_clan_authority_setting_title",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "クランの権限設定",
       "source_en": "Clan permission settings",
-      "text": "Einstellungen für Clan-Berechtigungen"
+      "text": "Clanberechtigungen"
     },
     {
       "key": "cpf_craft_filter_cap01",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムランク",
       "source_en": "Item Rank",
-      "text": "Positionsrang"
+      "text": "Gegenstandsrang"
     },
     {
       "key": "cpf_craft_filter_cap02_01",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムランクを絞り込む",
       "source_en": "Filter Item Rank",
-      "text": "Filter Item Rang"
+      "text": "Nach Gegenstandsrang filtern"
     },
     {
       "key": "cpf_craft_filter_cap03",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "装備レベル",
       "source_en": "Equipment Level",
-      "text": "Ausrüstungsstand"
+      "text": "Erforderliche Stufe"
     },
     {
       "key": "cpf_craft_filter_cap03_01",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "装備可能レベルを絞り込む",
       "source_en": "Filter equipment level",
-      "text": "Füllstand des Filters"
+      "text": "Nach erforderlicher Stufe filtern"
     },
     {
       "key": "cpf_craft_filter_cap04",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "女性",
       "source_en": "F",
-      "text": "F"
+      "text": "W"
     },
     {
       "key": "cpf_craft_filter_title",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "ドラゴンアビリティ指定",
       "source_en": "Dragon Ability Designation",
-      "text": "Dragon Ability-Bezeichnung"
+      "text": "Auswahl der Drachenfähigkeiten"
     },
     {
       "key": "cpf_entry_dra_skill_002",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "ドラゴンアビリティを指定する",
       "source_en": "Specify Dragon Abilities",
-      "text": "Drachenfähigkeiten angeben"
+      "text": "Drachenfähigkeiten festlegen"
     },
     {
       "key": "cpf_entry_dra_skill_003",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "現在の指定でシミュレート",
       "source_en": "Simulate according to the current specifications.",
-      "text": "Simuliere nach den aktuellen Spezifikationen."
+      "text": "Ergebnis mit der aktuellen Auswahl simulieren."
     },
     {
       "key": "cpf_entry_dra_skill_004",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "サポートポーンのみで連れて行くことはできません\r\nメインポーンを１人以上、選択してください",
       "source_en": "You cannot bring only Support Pawns.\r\nPlease select one or more Main Pawns.",
-      "text": "Du kannst nicht nur Support Vasallen mitbringen.\r\nBitte wähle einen oder mehrere Main Vasallen aus."
+      "text": "Du kannst nicht nur Hilfsvasallen mitnehmen.\r\nWähle mindestens einen Hauptvasallen aus."
     },
     {
       "key": "cpf_entry_member_001",
@@ -336,7 +336,7 @@
       "tag_source": "source_en",
       "source_jp": "冒険回数0",
       "source_en": "Number of adventures 0",
-      "text": "Anzahl der Abenteuer 0"
+      "text": "Keine Abenteuer übrig"
     },
     {
       "key": "cpf_entry_solo_attention",
@@ -344,7 +344,7 @@
       "tag_source": "source_en",
       "source_jp": "<COL 787878>メインポーンとサポートポーンを最大<VAL>人まで同行可能です</COL>",
       "source_en": "<COL 787878>You can be accompanied up by up to a maximum of <VAL> \r\nMain Pawns and Support Pawns.</COL>",
-      "text": "<COL 787878>Du kannst bis zu einem Maximum von <VAL>\r\nHaupt- und Unterstützungs-Vasallen begleitet werden.</COL>"
+      "text": "<COL 787878>Du kannst insgesamt bis zu <VAL>\r\nHaupt- und Hilfsvasallen mitnehmen.</COL>"
     },
     {
       "key": "cpf_entry_solo_pawn_01",
@@ -352,7 +352,7 @@
       "tag_source": "source_en",
       "source_jp": "連れていくポーンを選択してください",
       "source_en": "Please select the Pawn to bring with you",
-      "text": "Wähle die Vasall mitbringen"
+      "text": "Wähle die Vasallen aus, die dich begleiten sollen."
     },
     {
       "key": "cpf_entry_solo_pawn_02",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "最大<VAL>人まで同行可能",
       "source_en": "Up to <VAL> can accompany up to",
-      "text": "Bis zu <VAL> können bis zu"
+      "text": "Bis zu <VAL> Vasallen können dich begleiten."
     },
     {
       "key": "cpf_entry_solo_pawn_03",
@@ -368,7 +368,7 @@
       "tag_source": "source_en",
       "source_jp": "最低<VAL>人同行する必要があります",
       "source_en": "A minimum of <VAL> people are required to\r\naccompany.",
-      "text": "Ein Minimum von <VAL> Personen sind erforderlich, um\r\n Begleitung."
+      "text": "Du brauchst mindestens <VAL>\r\nBegleiter."
     },
     {
       "key": "cpf_entry_solo_pawn_04",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "同行条件を満たしていません",
       "source_en": "You do not meet the qualifications for travel\r\ncompanions.",
-      "text": "Du erfüllst nicht die Qualifikationen für Reisen\r\nBegleiter."
+      "text": "Deine Gruppe erfüllt die Voraussetzungen\r\nfür Begleiter nicht."
     },
     {
       "key": "cpf_entry_solo_title",
@@ -384,7 +384,7 @@
       "tag_source": "source_en",
       "source_jp": "連れて行くポーンを選択してください",
       "source_en": "Please select the Pawn to bring with you.",
-      "text": "Wähle die Vasall mit dir zu bringen."
+      "text": "Wähle die Vasallen aus, die dich begleiten sollen."
     },
     {
       "key": "cpf_entry_sub_title_main_pawn",
@@ -416,7 +416,7 @@
       "tag_source": "source_en",
       "source_jp": "護錬石を使用することで成功率をあげることができます\r\n1口につき＋1％、最大＋<VAL>％まで上昇できます\r\n（1口あたりの必要数は種類により異なります）",
       "source_en": "Using certain items boosts success rate.\r\nEach piece gives a certain percentage, \r\nup to +<VAL>% maximum.\r\n(Quantity required depends on type.)",
-      "text": "Die Verwendung bestimmter Artikel erhöht die Erfolgsrate.\r\nJedes Stück gibt einen bestimmten Prozentsatz an,\r\nbis zu +<VAL>% maximal.\r\n(Die erforderliche Menge hängt vom Typ ab.)"
+      "text": "Abwehr-Veredelungssteine erhöhen die Erfolgschance.\r\nJeder Einsatz erhöht sie um 1 %.\r\nInsgesamt sind bis zu +<VAL>% möglich.\r\n(Die nötige Anzahl pro Einsatz hängt von der Sorte ab.)"
     },
     {
       "key": "cpf_job_emblem_cap02",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "継承成功率：<VAL>％<COL ffdc78>＋<VAL>％</COL>",
       "source_en": "Augmentation success rate: <VAL>%<COL ffdc78>\r\n+<VAL>%</COL>",
-      "text": "Steigerungserfolgsrate: <VAL>%<COL ffdc78>\r\n+<VAL>%</COL>"
+      "text": "Erfolgschance der Übertragung: <VAL>%<COL ffdc78>\r\n+<VAL>%</COL>"
     },
     {
       "key": "cpf_job_emblem_cap03",
@@ -440,7 +440,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>（1口＝<VAL>）",
       "source_en": "<VAL> (1 unit =<VAL>)",
-      "text": "<VAL> (1 Einheit =<VAL>)"
+      "text": "<VAL> (1 Einsatz = <VAL>)"
     },
     {
       "key": "cpf_job_emblem_cap05",
@@ -448,7 +448,7 @@
       "tag_source": "source_en",
       "source_jp": "口",
       "source_en": "pcs.",
-      "text": "PCS."
+      "text": "Stk."
     },
     {
       "key": "cpf_job_emblem_cap06",
@@ -456,7 +456,7 @@
       "tag_source": "source_en",
       "source_jp": "使用数：<COL ffdc78><VAL></COL>",
       "source_en": "Number used: <COL ffdc78> <VAL></COL>",
-      "text": "Verwendete Nummer: <COL ffdc78> <VAL></COL>"
+      "text": "Eingesetzt: <COL ffdc78><VAL></COL>"
     },
     {
       "key": "cpf_job_emblem_cap07",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "所持数：",
       "source_en": "Amount: ",
-      "text": "Betrag: "
+      "text": "Anzahl: "
     },
     {
       "key": "cpf_job_emblem_title",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "継承の設定",
       "source_en": "Setup augmentation",
-      "text": "Einrichtungserweiterung"
+      "text": "Übertragung einstellen"
     },
     {
       "key": "cpf_num_and_less",

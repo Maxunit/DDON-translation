@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "設定中",
       "source_en": "Current",
-      "text": "Aktuell"
+      "text": "Ausgewählt"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_BOUGHT",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "クラン執務官を<VAL>に変更しました",
       "source_en": "Changed Clan Officer to <VAL>",
-      "text": "Der Clanoffizier wurde zu <VAL> gewechselt"
+      "text": "Neuer Clanoffizier: <VAL>"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_BOUGHT_FUNC_NOTICE",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>を購入しました\r\n次回、クラン拠点へ訪れた時に反映されます",
       "source_en": "Purchased <VAL>\r\nIt'll be visible next time you visit the Clan\r\nHall.",
-      "text": "Gekauft: <VAL>\r\nBeim nächsten Besuch im Clan-Stützpunkt\r\nist die Änderung sichtbar."
+      "text": "Gekauft: <VAL>\r\nDie Änderung ist bei deinem nächsten\r\nBesuch im Clan-Stützpunkt sichtbar."
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_BOUGHT_PAWN_EXPEDITION",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "クラン執務官を変更します。よろしいですか？\r\n　スタッフ：<VAL>\r\n　購入価格：<VAL CP>",
       "source_en": "Are you sure you want to change the Clan Officer?\r\nStaff: <VAL>\r\nCost: <VAL CP>",
-      "text": "Bist du sicher, dass du den Clanoffizier wechseln willst?\r\nPersonal: <VAL>\r\nKosten: <VAL CP>"
+      "text": "Möchtest du den Clanoffizier wechseln?\r\nPersonal: <VAL>\r\nKosten: <VAL CP>"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_BUY_FUNC_CONFIRM",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "以下を購入します。よろしいですか？\r\n　拡張項目：<VAL>\r\n　購入価格：<VAL CP>",
       "source_en": "Are you sure you want to purchase the following?\r\nExtension Item: <VAL>\r\nCost: <VAL CP>",
-      "text": "Bist du sicher, dass du folgendes kaufen möchtest?\r\nErweiterungsartikel: <VAL>\r\nKosten: <VAL CP>"
+      "text": "Möchtest du Folgendes kaufen?\r\nErweiterung: <VAL>\r\nKosten: <VAL CP>"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_CATEGORY_BUFF",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "クラン拠点拡張",
       "source_en": "Clan Hall Extension",
-      "text": "Clan Hall Erweiterung"
+      "text": "Ausbau des Clan-Stützpunkts"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_CATEGORY_PAWN_EXP",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "購入条件",
       "source_en": "Purchase Requirements",
-      "text": "Anforderungen an den Kauf"
+      "text": "Kaufvoraussetzungen"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_DETAIL",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "すでに設定されています",
       "source_en": "Already set.",
-      "text": "Schon gesetzt."
+      "text": "Bereits ausgewählt."
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_ERR_NOT_CHANGE_AUTHORITY",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "変更する権限がありません",
       "source_en": "You do not have permission to change it.",
-      "text": "Du hast keine Erlaubnis, es zu ändern."
+      "text": "Du hast keine Berechtigung für diese Änderung."
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_ERR_NOT_ENOUGH_CONDITION",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "購入条件が満たされていません",
       "source_en": "Purchase requirements have not been met.",
-      "text": "Die Kaufvoraussetzungen wurden nicht erfüllt."
+      "text": "Die Kaufvoraussetzungen sind noch nicht erfüllt."
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_ERR_NOT_ENOUGH_CP",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "クランポイントが足りません",
       "source_en": "Insufficient Clan Points",
-      "text": "Unzureichende Clan-Punkte"
+      "text": "Nicht genug Clan-Punkte"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_ERR_NO_AUTHORITY",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "拡張項目",
       "source_en": "Expansion Item",
-      "text": "Erweiterungsposten"
+      "text": "Erweiterung"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_NEED_ITEM",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>の解放",
       "source_en": "Purchased <VAL>",
-      "text": "Gekauft <VAL>"
+      "text": "Freischaltung: <VAL>"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_NEED_LV",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "クラン<VAL LV>以上",
       "source_en": "Clan <VAL LV> or more",
-      "text": "Clan <VAL LV> oder mehr"
+      "text": "Clan: mindestens <VAL LV>"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_PRICE",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "拠点拡張",
       "source_en": "Hall Expansion",
-      "text": "Hallenerweiterung"
+      "text": "Stützpunktausbau"
     },
     {
       "key": "CLAN_KYOTEN_MSG_EXT_TITLE",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "Base Extention",
       "source_en": "Hall Expansion",
-      "text": "Hallenerweiterung"
+      "text": "Stützpunktausbau"
     }
   ],
   "schema_version": 1,

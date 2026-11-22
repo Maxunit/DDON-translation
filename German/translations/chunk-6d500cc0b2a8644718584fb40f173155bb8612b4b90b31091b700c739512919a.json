@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "にチャット募集しました",
       "source_en": "Recruited in the chat",
-      "text": "Rekrutiert im Chat"
+      "text": "Der Aufruf zur Teilnahme wurde im Chat veröffentlicht."
     },
     {
       "key": "ana_entry_comment_change",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "同じクランに所属しているパーティーメンバーを\r\nエントリーボードに招待します。よろしいですか？",
       "source_en": "Do you want to invite party members belonging to\r\nthe same clan to the entry board?",
-      "text": "Möchtest du Parteimitglieder, die demselben Clan angehören\r\n, zum Einstiegsbrett einladen?"
+      "text": "Möchtest du die Gruppenmitglieder aus deinem\r\nClan zum Anmeldebrett einladen?"
     },
     {
       "key": "ana_entry_invitation_clan_pt_deci",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "同じクランに所属しているパーティーメンバーを\r\nエントリーボードに招待しました",
       "source_en": "Invited party members belonging to the same clan\r\nto entry board",
-      "text": "Eingeladene Parteimitglieder, die demselben Clan angehören\r\nzur Teilnahme an Bord"
+      "text": "Die Gruppenmitglieder aus deinem Clan\r\nwurden zum Anmeldebrett eingeladen."
     },
     {
       "key": "ana_entry_invitation_pl_conf",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>を\r\nエントリーボードに招待します。よろしいですか？",
       "source_en": "Are you sure you want to invite\r\n<NAME TARGET> to the entryboard?",
-      "text": "Bist du sicher, dass du\r\n<NAME TARGET> zum Einstieg einladen möchtest?"
+      "text": "Möchtest du\r\n<NAME TARGET> zum Anmeldebrett einladen?"
     },
     {
       "key": "ana_entry_invitation_pl_deci",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>を\r\nエントリーボードに招待しました",
       "source_en": "<NAME TARGET> \r\nwas invited to the entryboard.",
-      "text": "<NAME TARGET>\r\nwurde zum Enterboard eingeladen."
+      "text": "<NAME TARGET>\r\nwurde zum Anmeldebrett eingeladen."
     },
     {
       "key": "ana_entry_invitation_pt_conf",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーメンバーを\r\nエントリーボードに招待します。よろしいですか？",
       "source_en": "Are you sure you want to invite\r\nyour party members to the entryboard?",
-      "text": "Bist du sicher, dass du einladen möchtest?\r\nDeine Parteimitglieder zum Enterboard?"
+      "text": "Möchtest du deine Gruppenmitglieder\r\nzum Anmeldebrett einladen?"
     },
     {
       "key": "ana_entry_invitation_pt_deci",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーメンバーを\r\nエントリーボードに招待しました",
       "source_en": "Invited the party members to the Entry Board.",
-      "text": "lud die Parteimitglieder in den Entry Board ein."
+      "text": "Deine Gruppe wurde zum Anmeldebrett eingeladen."
     },
     {
       "key": "ana_entry_no_war_situation",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "パスワードを解除しました",
       "source_en": "Password canceled.",
-      "text": "Passwort abgebrochen."
+      "text": "Das Passwort wurde entfernt."
     },
     {
       "key": "ana_entry_ready_gather",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "他のメンバーの準備完了を待っています",
       "source_en": "Waiting for the other party members to become\r\nready.",
-      "text": "Warten darauf, dass die anderen Parteimitglieder bereit sind\r\n."
+      "text": "Warte, bis sich die übrigen\r\nGruppenmitglieder bereitgemeldet haben."
     },
     {
       "key": "ana_entryb_alarm",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリー可能時間が<VAL>分を切りました",
       "source_en": "You only have <VAL> minutes remaining to ready.",
-      "text": "Du hast nur noch <VAL> Minuten Zeit, um fertig zu werden."
+      "text": "Du hast noch <VAL> Minuten, um dich bereit zu melden."
     },
     {
       "key": "ana_entryb_alarm_reset",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーから<VAL>分経ちました。再延長が可能です",
       "source_en": "<VAL> minute has passed for entry. The time can\r\nbe re-extended.",
-      "text": "<VAL> Minute ist für den Eintritt vergangen. Die Zeit kann\r\n wieder verlängert werden."
+      "text": "Seit der Anmeldung sind <VAL> Min. vergangen.\r\nDu kannst die Anmeldefrist erneut verlängern."
     },
     {
       "key": "ana_entryb_already_disable",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "同じクランに所属しているメンバーにのみ使用できます",
       "source_en": "Can only be used for members belonging to the\r\nsame clan",
-      "text": "Kann nur für Mitglieder verwendet werden, die zum gleichen Clan gehören\r\n"
+      "text": "Nur für Mitglieder desselben\r\nClans verfügbar."
     },
     {
       "key": "ana_entryb_dissolution",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーボードが解散されました",
       "source_en": "The entryboard has been dissolved.",
-      "text": "Das Entryboard wurde aufgelöst."
+      "text": "Die Anmeldung am Anmeldebrett wurde aufgelöst."
     },
     {
       "key": "ana_entryb_entry",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーボードに参加申請を出しました",
       "source_en": "You have applied to join the entryboard.",
-      "text": "Du hast beantragt, dem Entryboard beizutreten."
+      "text": "Deine Anmeldung am Anmeldebrett wurde eingereicht."
     },
     {
       "key": "ana_entryb_entry_error",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーボードに参加申請を出せませんでした",
       "source_en": "You could not apply to join the entryboard.",
-      "text": "Du konntest sich nicht bewerben, um dem Entryboard beizutreten."
+      "text": "Die Anmeldung am Anmeldebrett konnte nicht eingereicht werden."
     },
     {
       "key": "ana_entryb_gameprogress_disable",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "進行状況によって解放されていないため\r\nこのコンテンツはまだ参加できません",
       "source_en": "Because it has not been unlocked based on your\r\nprogress status,\r\nyou cannot participate in this content yet.",
-      "text": "Da es nicht auf der Grundlage deines\r\nFortschrittsstatus freigeschaltet wurde,\r\nkannst du noch nicht an diesem Inhalt teilnehmen."
+      "text": "Mit deinem aktuellen Spielfortschritt\r\nist diese Mission noch gesperrt.\r\nDu kannst daher noch nicht teilnehmen."
     },
     {
       "key": "ana_entryb_join",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーボードに参加しました",
       "source_en": "You joined the entryboard.",
-      "text": "Du bist dem Entryboard beigetreten."
+      "text": "Du hast dich am Anmeldebrett angemeldet."
     },
     {
       "key": "ana_entryb_join_cancel",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーボードに参加できませんでした",
       "source_en": "You could not join the entryboard.",
-      "text": "Du konntest nicht ans Enterboard gehen."
+      "text": "Du konntest dich am Anmeldebrett nicht anmelden."
     },
     {
       "key": "ana_entryb_join_tg",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーボードに<NAME TARGET>が参加しました",
       "source_en": "<NAME TARGET> \r\nhas joined the entryboard.",
-      "text": "<NAME TARGET>\r\nhat sich dem Enterboard angeschlossen."
+      "text": "<NAME TARGET>\r\nhat sich am Anmeldebrett angemeldet."
     },
     {
       "key": "ana_entryb_kicked",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーボードから抜けました",
       "source_en": "You have been removed from the entryboard.",
-      "text": "Du wurdest aus dem Entryboard entfernt."
+      "text": "Deine Anmeldung am Anmeldebrett wurde entfernt."
     },
     {
       "key": "ana_entryb_leave_tg",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーボードから<NAME TARGET>が離脱しました",
       "source_en": "<NAME TARGET> \r\nhas left the entryboard.",
-      "text": "<NAME TARGET>\r\nhat das Einstiegsbrett verlassen."
+      "text": "<NAME TARGET>\r\nhat die Anmeldung am Anmeldebrett zurückgezogen."
     },
     {
       "key": "ana_entryb_only_disable",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "コンテンツエントリー時にしか選べません",
       "source_en": "You can only select this at the time of content\r\nentry.",
-      "text": "Du kannst dies nur zum Zeitpunkt des Inhalts\r\nEintrags auswählen."
+      "text": "Diese Option ist nur bei der\r\nMissionsanmeldung verfügbar."
     },
     {
       "key": "ana_entryb_party_disable",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "メンバーが集合しました。担当NPCから《出撃》を選択してください",
       "source_en": "The party members have assembled. Please select\r\n\"Sortie\" at the NPC.",
-      "text": "Die Parteimitglieder haben sich versammelt. Bitte wähle\r\n\"Sortie\" beim NPC aus."
+      "text": "Die Gruppe ist vollständig.\r\nWähle beim NPC „Aufbrechen“."
     },
     {
       "key": "ana_entryb_ready_info",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーメンバーがそろいました。一定時間内に準備完了してください",
       "source_en": "The entryboard has been filled. Please select\r\nready within a period of time.",
-      "text": "Wähle\r\nready in einem bestimmten Zeitraum aus."
+      "text": "Alle Plätze am Anmeldebrett sind belegt.\r\nMelde dich rechtzeitig bereit."
     },
     {
       "key": "ana_entryb_ready_timeup",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "時間内に準備完了できなかったので、エントリーボードから抜けました",
       "source_en": "Since you did not ready in time, you were removed\r\nfrom the entryboard.",
-      "text": "Da du nicht rechtzeitig fertig warst, wurdest du vom Enterboard entfernt\r\n."
+      "text": "Du hast dich nicht rechtzeitig bereitgemeldet.\r\nDeine Anmeldung wurde entfernt."
     },
     {
       "key": "ana_entryb_ready_wait_alert",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "他のメンバーの出撃完了を待っています",
       "source_en": "Waiting for the other party members to sortie.",
-      "text": "Warten auf die anderen parteimitglieder, um zu sortieren."
+      "text": "Warte, bis die übrigen Gruppenmitglieder aufbrechen."
     },
     {
       "key": "ana_entryb_reentry_alert",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "メンバーが揃っていません。再エントリーを行ってください",
       "source_en": "Party members are not assembled. Please\r\nre-register.",
-      "text": "Parteimitglieder sind nicht versammelt. Bitte\r\nre-registrieren."
+      "text": "Die Gruppe ist noch nicht vollständig.\r\nMelde dich erneut an."
     },
     {
       "key": "ana_entryb_timeup",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーボードの有効時間が切れました",
       "source_en": "The entryboard's time limit has expired.",
-      "text": "Die Frist für das Enterboard ist abgelaufen."
+      "text": "Die Frist am Anmeldebrett ist abgelaufen."
     },
     {
       "key": "ana_epitaph_001",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "よくここまできた\r\n試練を乗り越えしものに力を授けよう",
       "source_en": "Well done for making it this far. Let me give\r\nstrength to those who have overcome the trials.",
-      "text": "Gut gemacht, um es so weit zu machen.\r\nKraft für diejenigen, die die Prüfungen überwunden haben."
+      "text": "Du hast es weit gebracht.\r\nWer die Prüfungen bestanden hat, dem verleihe ich Kraft."
     },
     {
       "key": "ana_epitaph_002",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "炎が煌めいており\r\nすでに力は授かっているようだ",
       "source_en": "The flames are dancing.\r\nIt seems the force was granted already.",
-      "text": "Die Flammen tanzen.\r\nEs scheint, dass die Kraft bereits gewährt wurde."
+      "text": "Die Flammen tanzen.\r\nDie Kraft wurde offenbar bereits verliehen."
     },
     {
       "key": "ana_epitaph_003",
@@ -296,7 +296,7 @@
       "tag_source": "source_en",
       "source_jp": "カテゴリ選択",
       "source_en": "Select Category",
-      "text": "Ausgewählte Kategorie"
+      "text": "Kategorie auswählen"
     },
     {
       "key": "ana_epitaph_004",
@@ -304,7 +304,7 @@
       "tag_source": "source_en",
       "source_jp": "ダンジョン選択",
       "source_en": "Select Dungeon",
-      "text": "Wähle Dungeon"
+      "text": "Dungeon auswählen"
     },
     {
       "key": "ana_epitaph_005",
@@ -344,7 +344,7 @@
       "tag_source": "source_en",
       "source_jp": "《魂》を捧げることで道が開けそうだ――",
       "source_en": "Seems the path will open by offering souls...",
-      "text": "Scheint, dass sich der Weg öffnet, indem er Seelen anbietet ..."
+      "text": "Der Weg öffnet sich offenbar, wenn du Seelen opferst …"
     },
     {
       "key": "ana_epitaph_011",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "通常開拓",
       "source_en": "Normal Reclamation",
-      "text": "Normale Anschaffung"
+      "text": "Reguläre Rückeroberung"
     },
     {
       "key": "ana_epitaph_013",
@@ -368,7 +368,7 @@
       "tag_source": "source_en",
       "source_jp": "一時開拓",
       "source_en": "Temporary Reclamation",
-      "text": "Vorübergehende Annullierung"
+      "text": "Vorübergehende Rückeroberung"
     },
     {
       "key": "ana_epitaph_014",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "不思議な文字が\r\n刻み込まれている――",
       "source_en": "Mysterious characters\r\nEngraved...",
-      "text": "Mysteriöse Charaktere\r\nEngraviert..."
+      "text": "Rätselhafte Schriftzeichen\r\nsind eingraviert …"
     },
     {
       "key": "ana_epitaph_015",
@@ -392,7 +392,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーメンバーが別の場所で\r\n試練開始を待っています",
       "source_en": "Party member is waiting for the trial\r\nto start from a different location.",
-      "text": "Parteimitglied wartet auf den Prozess\r\n, um von einem anderen Ort aus zu beginnen."
+      "text": "Ein Gruppenmitglied wartet an einem anderen Ort\r\nauf den Beginn der Prüfung."
     },
     {
       "key": "ana_epitaph_019",
@@ -408,7 +408,7 @@
       "tag_source": "source_en",
       "source_jp": "試練の開始待ちです\r\n(キャンセルはできません)",
       "source_en": "Waiting for trial to start.\r\n(Cannot cancel.)",
-      "text": "Warten auf den Start des Prozesses.\r\n(Kann nicht abbrechen.)"
+      "text": "Warte auf den Beginn der Prüfung.\r\n(Ein Abbruch ist nicht möglich.)"
     },
     {
       "key": "ana_epitaph_021",
@@ -416,7 +416,7 @@
       "tag_source": "source_en",
       "source_jp": "石板が青白く輝いている――",
       "source_en": "The stone slab is glowing blue...",
-      "text": "Die Steinplatte leuchtet blau..."
+      "text": "Die Steinplatte leuchtet blau …"
     },
     {
       "key": "ana_epitaph_022",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "絶技の継承から\r\nさらなる力を得られるようになった",
       "source_en": "You are now able to become even more powerful\r\nthrough Special Skill Augmentation.",
-      "text": "Du kannst jetzt noch mächtiger werden\r\ndurch Special Skill Augmentation."
+      "text": "Du kannst deine Spezialfertigkeiten verstärken\r\nund dadurch noch mächtiger werden."
     },
     {
       "key": "ana_epitaph_023",
@@ -432,7 +432,7 @@
       "tag_source": "source_en",
       "source_jp": "不思議な力が辺りに散らばった",
       "source_en": "Mysterious force is scattered nearby.",
-      "text": "Mysteriöse Kraft ist in der Nähe verstreut."
+      "text": "In der Nähe ist eine rätselhafte Kraft zu spüren."
     },
     {
       "key": "ana_epitaph_024",
@@ -440,7 +440,7 @@
       "tag_source": "source_en",
       "source_jp": "開拓する場所を選んでください",
       "source_en": "Please select the location to explore.",
-      "text": "Wähle den Ort, um zu erkunden."
+      "text": "Wähle das Gebiet, das du erkunden möchtest."
     },
     {
       "key": "ana_epitaph_025",
@@ -448,7 +448,7 @@
       "tag_source": "source_en",
       "source_jp": "開拓可能な場所がありません",
       "source_en": "There is nowhere to explore.",
-      "text": "Es gibt keinen Ort zum Erkunden."
+      "text": "Es sind keine Gebiete zur Erkundung verfügbar."
     },
     {
       "key": "ana_epitaph_026",
@@ -456,7 +456,7 @@
       "tag_source": "source_en",
       "source_jp": "発動するバフを選択してください",
       "source_en": "Please select buff to activate",
-      "text": "Wähle Buff zum Aktivieren"
+      "text": "Wähle den Bonus, den du aktivieren möchtest."
     },
     {
       "key": "ana_epitaph_027",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "受け取らない",
       "source_en": "Do not receive",
-      "text": "Nicht empfangen"
+      "text": "Nicht annehmen"
     },
     {
       "key": "ana_epitaph_028",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "バフを受け取らずに終了しますか？",
       "source_en": "Do you want to end without receiving the buff?",
-      "text": "Willst du enden, ohne den buff zu erhalten?."
+      "text": "Möchtest du beenden, ohne den Bonus anzunehmen?"
     },
     {
       "key": "ana_epitaph_029",

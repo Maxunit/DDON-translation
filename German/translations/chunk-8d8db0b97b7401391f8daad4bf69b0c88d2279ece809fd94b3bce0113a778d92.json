@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>を\r\n<COL ffdc78><VAL>に変換します</COL>\r\nよろしいですか？",
       "source_en": "Are you sure you want <VAL>\r\n<COL ffdc78>converted to <VAL></COL>?",
-      "text": "Bist du sicher, dass du <VAL>\r\n<COL ffdc78>konvertiert in <VAL></COL> willst?"
+      "text": "Möchtest du <VAL>\r\n<COL ffdc78>in <VAL></COL> umtauschen?"
     },
     {
       "key": "exc_have_money_name",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "所持<VAL>",
       "source_en": "<VAL> Held",
-      "text": "<VAL> statt"
+      "text": "<VAL> im Besitz"
     },
     {
       "key": "exc_notice",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "変換しました",
       "source_en": "Converted",
-      "text": "Umgerechnet"
+      "text": "Umgetauscht"
     },
     {
       "key": "exc_rate",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "※変換レート：<VAL><VAL> = <VAL><VAL>",
       "source_en": "※ Conversion Rate: <VAL><VAL> = <VAL><VAL>",
-      "text": "Conversion Rate: <VAL><VAL> = <VAL><VAL>"
+      "text": "※ Umtauschkurs: <VAL><VAL> = <VAL><VAL>"
     },
     {
       "key": "exc_title",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>に変換",
       "source_en": "<VAL> Conversion",
-      "text": "<VAL> Umwandlung"
+      "text": "In <VAL> umtauschen"
     }
   ],
   "schema_version": 1,

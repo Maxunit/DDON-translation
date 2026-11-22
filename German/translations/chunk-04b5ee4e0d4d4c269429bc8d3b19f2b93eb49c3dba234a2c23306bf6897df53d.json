@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "対象アイテム",
       "source_en": "Target Item",
-      "text": "Zielposition"
+      "text": "Gesuchter Gegenstand"
     },
     {
       "key": "lde_msg_text_009",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "獲得pt",
       "source_en": "Acquired pt",
-      "text": "Erworbene pt"
+      "text": "Erhaltene Punkte"
     },
     {
       "key": "lde_msg_text_010",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "ボーダー報酬",
       "source_en": "Border Rewards",
-      "text": "Grenzbelohnungen"
+      "text": "Belohnungen für Punkteschwellen"
     },
     {
       "key": "lde_msg_text_011",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "ランキング報酬",
       "source_en": "Ranking Reward",
-      "text": "Ranking Belohnung"
+      "text": "Ranglistenbelohnung"
     },
     {
       "key": "lde_msg_text_012",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "全体ボーダー報酬",
       "source_en": "All Border Rewards",
-      "text": "Alle Border Rewards"
+      "text": "Alle Belohnungen für Punkteschwellen"
     },
     {
       "key": "lde_msg_text_013",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "受取可能",
       "source_en": "Receivable",
-      "text": "Forderungen"
+      "text": "Abholbereit"
     },
     {
       "key": "lde_msg_text_017",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "受取済",
       "source_en": "Received",
-      "text": "Empfangen"
+      "text": "Abgeholt"
     },
     {
       "key": "lde_msg_text_018",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "集計中",
       "source_en": "Tallying",
-      "text": "Zählung"
+      "text": "Auswertung läuft"
     },
     {
       "key": "lde_msg_text_019",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "集計確定",
       "source_en": "Tallied",
-      "text": "Tayed"
+      "text": "Ausgewertet"
     },
     {
       "key": "lde_msg_text_020",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "報酬アイテムをすべて受け取ります\r\n受け取り先を選択してください",
       "source_en": "Please select a destination\r\nto receive all reward items.",
-      "text": "Wähle ein Ziel\r\n aus, um alle Belohnungsgegenstände zu erhalten."
+      "text": "Wohin sollen alle\r\nBelohnungsgegenstände gehen?"
     },
     {
       "key": "lde_msg_text_021",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "に受け取りました",
       "source_en": "Received",
-      "text": "Empfangen"
+      "text": "Abgeholt"
     },
     {
       "key": "lde_msg_text_022",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "時点",
       "source_en": "as of now",
-      "text": "ab sofort"
+      "text": "Stand"
     },
     {
       "key": "lde_msg_title_e",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "Large Delivery Event",
       "source_en": "Large Delivery Event",
-      "text": "Großes Lieferereignis"
+      "text": "Großlieferung"
     },
     {
       "key": "lde_msg_title_j",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "大口納品イベント",
       "source_en": "Large Delivery Event",
-      "text": "Großes Lieferereignis"
+      "text": "Großlieferung"
     }
   ],
   "schema_version": 1,

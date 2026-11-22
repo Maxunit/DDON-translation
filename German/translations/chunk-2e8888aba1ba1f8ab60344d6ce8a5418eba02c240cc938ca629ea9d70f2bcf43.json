@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "語らいのベルメニュー",
       "source_en": "Chatting bell menu",
-      "text": "Chat Glockenmenü"
+      "text": "Menü der Gesprächsglocke"
     },
     {
       "key": "pawn_change_retry",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーンがジョブチェンジした事の無いジョブです",
       "source_en": "Pawn has never changed to job before",
-      "text": "Vasall hat noch nie zuvor den Job gewechselt"
+      "text": "Dein Vasall hat diese Klasse noch nie gewählt."
     },
     {
       "key": "pawn_cultivation_element_0_0",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "覚者が攻撃している敵",
       "source_en": "Attacked by Arisen",
-      "text": "Angegriffen von Arisen"
+      "text": "Vom Erweckten angegriffene Gegner"
     },
     {
       "key": "pawn_cultivation_element_0_1",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "飛行している敵",
       "source_en": "Flying",
-      "text": "Fliegen"
+      "text": "Fliegende Gegner"
     },
     {
       "key": "pawn_cultivation_element_0_2",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "地上にいる敵",
       "source_en": "Ground",
-      "text": "Boden"
+      "text": "Gegner am Boden"
     },
     {
       "key": "pawn_cultivation_element_0_3",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "小さい敵",
       "source_en": "Small",
-      "text": "Klein"
+      "text": "Kleine Gegner"
     },
     {
       "key": "pawn_cultivation_element_0_4",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "大きい敵",
       "source_en": "Large",
-      "text": "Groß"
+      "text": "Große Gegner"
     },
     {
       "key": "pawn_cultivation_element_1_0",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "中型敵",
       "source_en": "Medium",
-      "text": "mittelgroß"
+      "text": "Mittelgroß"
     },
     {
       "key": "pawn_cultivation_element_1_2",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "怒り時",
       "source_en": "Enraged",
-      "text": "Wütend"
+      "text": "In Rage"
     },
     {
       "key": "pawn_cultivation_element_2_1",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "疲れ時",
       "source_en": "Tired",
-      "text": "Müde"
+      "text": "Erschöpft"
     },
     {
       "key": "pawn_cultivation_element_2_2",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "ダウン時",
       "source_en": "Down",
-      "text": "nach unten"
+      "text": "Niedergeschlagen"
     },
     {
       "key": "pawn_cultivation_element_3_0",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "体力が危険な時に回復する",
       "source_en": "Heal teammates when their health is critical",
-      "text": "Heal Teamkollegen, wenn ihre Gesundheit kritisch ist"
+      "text": "Verbündete bei kritischen LP heilen"
     },
     {
       "key": "pawn_cultivation_element_3_1",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "状態異常を回復する",
       "source_en": "Cure debilitations",
-      "text": "Heilungsschwächen"
+      "text": "Zustände heilen"
     },
     {
       "key": "pawn_cultivation_element_3_2",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "体力が危険な時に回復を受けにいく",
       "source_en": "Seek healing when health is critical",
-      "text": "Suche Heilung, wenn Gesundheit kritisch ist"
+      "text": "Bei kritischen LP Heilung suchen"
     },
     {
       "key": "pawn_cultivation_element_3_3",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "体力が少ない時に回復する",
       "source_en": "Heal teammates when their health is low",
-      "text": "Heal Teamkollegen, wenn ihre Gesundheit niedrig ist"
+      "text": "Verbündete mit niedrigen LP heilen"
     },
     {
       "key": "pawn_cultivation_element_3_4",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "タッチ救済する",
       "source_en": "Assist actions",
-      "text": "Unterstützungsaktionen"
+      "text": "Gefallenen Verbündeten aufhelfen"
     },
     {
       "key": "pawn_cultivation_element_3_5",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "体力が少ない時に回復を受けにいく",
       "source_en": "Seek healing when health is low",
-      "text": "Suche Heilung, wenn die Gesundheit niedrig ist"
+      "text": "Bei niedrigen LP Heilung suchen"
     },
     {
       "key": "pawn_cultivation_element_3_7",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "オブジェクトを破壊する",
       "source_en": "Destroy objects",
-      "text": "Zerstörung von Objekten"
+      "text": "Objekte zerstören"
     },
     {
       "key": "pawn_cultivation_element_3_8",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "敵の注目を集める",
       "source_en": "Attract enemies",
-      "text": "Feinde anziehen"
+      "text": "Gegner auf sich ziehen"
     },
     {
       "key": "pawn_cultivation_element_3_9",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "シークレットコアを発現する",
       "source_en": "Expose secret core",
-      "text": "Geheimer Kern entlarven"
+      "text": "Verborgenen Kern offenlegen"
     },
     {
       "key": "pawn_cultivation_element_3_10",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "体力が少しでも減れば回復する",
       "source_en": "Heal teammates' wounds, even their smallest ones",
-      "text": "Die Wunden der Teamkollegen heilen, auch die kleinsten"
+      "text": "Verbündete schon bei geringen Verletzungen heilen"
     },
     {
       "key": "pawn_cultivation_element_3_12",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "体力が少しでも減れば回復を受けにいく",
       "source_en": "Seek healing, even for the smallest wounds",
-      "text": "Suche Heilung, auch für die kleinsten Wunden"
+      "text": "Schon bei geringen Verletzungen Heilung suchen"
     },
     {
       "key": "pawn_cultivation_element_3_13",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "バフを受けに行く",
       "source_en": "Activate buffs",
-      "text": "Aktiviere Buffs"
+      "text": "Verstärkungen suchen"
     },
     {
       "key": "pawn_cultivation_element_3_14",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "おまかせ",
       "source_en": "You decide",
-      "text": "Du entscheidest"
+      "text": "Selbst entscheiden"
     },
     {
       "key": "pawn_cultivation_element_4_0",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "かなり狭い",
       "source_en": "Close (↑↑)",
-      "text": "Schließen (↑^)"
+      "text": "Nah (↑↑)"
     },
     {
       "key": "pawn_cultivation_element_5_1",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "狭い",
       "source_en": "Close (↑)",
-      "text": "Schließen (↑)"
+      "text": "Nah (↑)"
     },
     {
       "key": "pawn_cultivation_element_5_2",
@@ -296,7 +296,7 @@
       "tag_source": "source_en",
       "source_jp": "広い",
       "source_en": "Far (↑)",
-      "text": "Weitaus (↑)"
+      "text": "Fern (↑)"
     },
     {
       "key": "pawn_cultivation_element_5_4",
@@ -304,7 +304,7 @@
       "tag_source": "source_en",
       "source_jp": "かなり広い",
       "source_en": "Far (↑↑)",
-      "text": "Weitaus (↑^)"
+      "text": "Fern (↑↑)"
     },
     {
       "key": "pawn_cultivation_element_6_0",
@@ -312,7 +312,7 @@
       "tag_source": "source_en",
       "source_jp": "侵食敵",
       "source_en": "Infected enemies",
-      "text": "Infizierte Feinde"
+      "text": "Verderbte Gegner"
     },
     {
       "key": "pawn_cultivation_element_6_1",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "戦甲敵",
       "source_en": "War-Ready enemies",
-      "text": "Kriegsbereite Feinde"
+      "text": "Gegner mit Kriegsrüstung"
     },
     {
       "key": "pawn_cultivation_head_0",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "優先して狙う敵",
       "source_en": "Enemy target priority",
-      "text": "Feindliche Zielpriorität"
+      "text": "Bevorzugte Ziele"
     },
     {
       "key": "pawn_cultivation_head_1",
@@ -336,7 +336,7 @@
       "tag_source": "source_en",
       "source_jp": "敵の大きさによって使う技",
       "source_en": "Skill use according to enemy size",
-      "text": "Einsatz von Fähigkeiten entsprechend der Größe des Gegners"
+      "text": "Fertigkeiten nach Gegnergröße"
     },
     {
       "key": "pawn_cultivation_head_2",
@@ -344,7 +344,7 @@
       "tag_source": "source_en",
       "source_jp": "敵の状態によって使う技",
       "source_en": "Skill use according to enemy condition",
-      "text": "Einsatz von Fähigkeiten entsprechend der feindlichen Bedingungen"
+      "text": "Fertigkeiten nach Gegnerzustand"
     },
     {
       "key": "pawn_cultivation_head_3",
@@ -352,7 +352,7 @@
       "tag_source": "source_en",
       "source_jp": "行動の優先度",
       "source_en": "Priority of actions",
-      "text": "Priorität der Maßnahmen"
+      "text": "Priorität der Aktionen"
     },
     {
       "key": "pawn_cultivation_head_4",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "攻撃・支援の割合",
       "source_en": "Attack/Support Frequency",
-      "text": "Angriffs-/Unterstützungsfrequenz"
+      "text": "Verhältnis von Angriff und Unterstützung"
     },
     {
       "key": "pawn_cultivation_head_5",
@@ -368,7 +368,7 @@
       "tag_source": "source_en",
       "source_jp": "敵との間合い",
       "source_en": "Distance from enemies",
-      "text": "Entfernung von Feinden"
+      "text": "Abstand zu Gegnern"
     },
     {
       "key": "pawn_cultivation_head_6",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "敵の種類によって、使う技",
       "source_en": "Skill use according to enemy type",
-      "text": "Einsatz von Fähigkeiten nach feindlichem Typ"
+      "text": "Fertigkeiten nach Gegnertyp"
     },
     {
       "key": "pawn_cultivation_prio_1",
@@ -408,7 +408,7 @@
       "tag_source": "source_en",
       "source_jp": "戦術育成について",
       "source_en": "Regarding tactics training",
-      "text": "In Bezug auf Taktiktraining"
+      "text": "Über das Taktiktraining"
     },
     {
       "key": "pawn_growtalk_advice_choice_52",
@@ -416,7 +416,7 @@
       "tag_source": "source_en",
       "source_jp": "特技設定について",
       "source_en": "Regarding special skill settings",
-      "text": "In Bezug auf besondere Fähigkeiten Einstellungen"
+      "text": "Über Spezialfertigkeiten"
     },
     {
       "key": "pawn_growtalk_choice_006",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "スタミナの使用頻度",
       "source_en": "Stamina usage frequency",
-      "text": "Häufigkeit der Ausdauernutzung"
+      "text": "Häufigkeit des Ausdauereinsatzes"
     },
     {
       "key": "pawn_growtalk_choice_007",
@@ -432,7 +432,7 @@
       "tag_source": "source_en",
       "source_jp": "やっぱり今のままでいい",
       "source_en": "Fine as it is now after all",
-      "text": "Gut, wie es jetzt doch ist"
+      "text": "Doch bei der aktuellen Einstellung bleiben"
     },
     {
       "key": "pawn_growtalk_choice_008",
@@ -440,7 +440,7 @@
       "tag_source": "source_en",
       "source_jp": "覚者が攻撃している敵を優先して狙う",
       "source_en": "Prioritize enemy targets attacked by Arisen",
-      "text": "Priorisiere feindliche Ziele, die von Arisen angegriffen werden"
+      "text": "Gegner bevorzugen, die der Erweckte angreift"
     },
     {
       "key": "pawn_growtalk_choice_009",
@@ -448,7 +448,7 @@
       "tag_source": "source_en",
       "source_jp": "飛行している敵を優先して狙う",
       "source_en": "Prioritize flying enemy targets",
-      "text": "Priorisiere fliegende feindliche Ziele"
+      "text": "Fliegende Gegner bevorzugen"
     },
     {
       "key": "pawn_growtalk_choice_010",
@@ -456,7 +456,7 @@
       "tag_source": "source_en",
       "source_jp": "地上にいる敵を優先して狙う",
       "source_en": "Prioritize ground enemy targets",
-      "text": "Priorisierung von Bodengegnerzielen"
+      "text": "Gegner am Boden bevorzugen"
     },
     {
       "key": "pawn_growtalk_choice_011",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "小さい敵を優先して狙う",
       "source_en": "Prioritize small enemy targets",
-      "text": "Priorisiere kleine feindliche Ziele"
+      "text": "Kleine Gegner bevorzugen"
     },
     {
       "key": "pawn_growtalk_choice_012",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "大きい敵を優先して狙う",
       "source_en": "Prioritize large enemy targets",
-      "text": "Priorisiere große feindliche Ziele"
+      "text": "Große Gegner bevorzugen"
     },
     {
       "key": "pawn_growtalk_choice_033",
@@ -480,7 +480,7 @@
       "tag_source": "source_en",
       "source_jp": "攻撃の頻度を上げる",
       "source_en": "Increase attack frequency",
-      "text": "Erhöhung der Angriffshäufigkeit"
+      "text": "Häufiger angreifen"
     }
   ],
   "schema_version": 1,

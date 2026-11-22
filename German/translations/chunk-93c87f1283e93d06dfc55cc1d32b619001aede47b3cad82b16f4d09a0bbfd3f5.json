@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "ドラゴンアビリティの合成元となる装備を選択してください",
       "source_en": "Please select the equipment that will be used as\r\nthe synthesis material for Dragon Abilities.",
-      "text": "Wähle die Ausrüstung aus, die als\r\ndas Synthesematerial für Dragon Abilities verwendet wird."
+      "text": "Wähle die Ausrüstung, deren\r\nDrachenfähigkeit du verbessern möchtest."
     },
     {
       "key": "ds_fusion_msg_003",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトで★4に強化済み\r\nまたは合成済みのため選択できません",
       "source_en": "Crafted or strengthened to ★4, so it cannot be\r\nselected.",
-      "text": "Hergestellt oder verstärkt auf ★4, so dass es nicht sein kann\r\nausgewählt."
+      "text": "Bereits auf ★4 verbessert oder für eine\r\nSynthese verwendet. Nicht auswählbar."
     },
     {
       "key": "ds_fusion_msg_004",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "ドラゴンアビリティの合成素材となる装備を選択してください",
       "source_en": "Please select the equipment that will be used as\r\nthe synthesis material for Dragon Abilities.",
-      "text": "Wähle die Ausrüstung aus, die als\r\ndas Synthesematerial für Dragon Abilities verwendet wird."
+      "text": "Wähle die Ausrüstung, die du als Material\r\nfür die Drachenfähigkeit verwenden möchtest."
     },
     {
       "key": "ds_fusion_msg_005",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "ドラゴンアビリティの合成素材となる装備を選択してください",
       "source_en": "Please select the equipment that will be used as\r\nthe synthesis material for Dragon Abilities.",
-      "text": "Wähle die Ausrüstung aus, die als\r\ndas Synthesematerial für Dragon Abilities verwendet wird."
+      "text": "Wähle die Ausrüstung, die du als Material\r\nfür die Drachenfähigkeit verwenden möchtest."
     },
     {
       "key": "ds_fusion_msg_006",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "ドラゴンアビリティの合成素材となる装備を選択してください",
       "source_en": "Please select the equipment that will be used as\r\nthe synthesis material for Dragon Abilities.",
-      "text": "Wähle die Ausrüstung aus, die als\r\ndas Synthesematerial für Dragon Abilities verwendet wird."
+      "text": "Wähle die Ausrüstung, die du als Material\r\nfür die Drachenfähigkeit verwenden möchtest."
     },
     {
       "key": "ds_fusion_msg_007",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "ドラゴンアビリティの合成素材となる装備を選択してください",
       "source_en": "Please select the equipment that will be used as\r\nthe synthesis material for Dragon Abilities.",
-      "text": "Wähle die Ausrüstung aus, die als\r\ndas Synthesematerial für Dragon Abilities verwendet wird."
+      "text": "Wähle die Ausrüstung, die du als Material\r\nfür die Drachenfähigkeit verwenden möchtest."
     },
     {
       "key": "ds_fusion_msg_008",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "ドラゴンアビリティが「0」のため選択できません",
       "source_en": "Cannot be selected because the Dragon Ability is\r\n\"0\".",
-      "text": "Kann nicht ausgewählt werden, weil die Dragon Ability ist\r\n\"0\"."
+      "text": "Diese Ausrüstung ist nicht auswählbar.\r\nIhre Drachenfähigkeit liegt bei 0."
     }
   ],
   "schema_version": 1,

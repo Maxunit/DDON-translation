@@ -1,17 +1,25 @@
 # Deutsche Spieloberfläche
 
-Der Durchgang deckt die spielerseitigen Texte in `ui\00_message\ui\` außerhalb
-der Credits ab. In der letzten Runde wurden 3.705 weitere Einträge geprüft und
-als Übersetzungen oder sprachneutrale Bezeichnungen übernommen. Die vollständige
-Launcher-CSV enthält 131.126 Datensätze. Gegenüber dem lokalen Ausgangsstand
-änderten sich 3.321 Anzeigetextfelder. Die restlichen Bytes der CSV wurden
-mit dem Stand vor dieser Runde verglichen.
+Die deutsche Spieloberfläche deckt die spielerseitigen Texte in
+`ui\00_message\ui\` außerhalb der Credits ab. In der Übersetzungsrunde mit
+lokalen Modellentwürfen wurden 3.705 Einträge übernommen. Dazu zählen auch
+Glossareinträge, sprachneutrale Bezeichnungen und mehrere im Spiel verwendete
+Kopien desselben Textes.
 
-Die letzte Runde basiert auf lokal erzeugten Übersetzungsentwürfen. Die
-Spieleranrede wurde auf Du-Form oder neutrale Formulierungen geprüft. Auffällige
-Menübegriffe und Dialoge wurden nachbearbeitet. Platzhalter, Formatargumente und
-Steuercodes wurden technisch geprüft. Eine vollständige sprachliche Einzelprüfung
-und ein Sichttest im Client stehen aus.
+Die sprachliche Einzelprüfung dieser 3.705 Einträge ist abgeschlossen.
+Maßgeblich waren der japanische Originaltext, die englische Vorlage, der
+Menükontext und die bisherige deutsche Terminologie. Die Texte verwenden für
+die direkte Spieleransprache die Du-Form.
+
+Der Vergleich mit `8c24348` ergibt 2.283 Änderungen an Anzeigetextfeldern.
+Die übrigen CSV-Felder sind bytegleich. Die Launcher-CSV und ihr Manifest
+wurden neu erzeugt und geprüft. Die CSV enthält 131.126 Datensätze.
+Platzhalter, Formatargumente, Steuerzeichen und Spielsymbole wurden
+abgeglichen. Alle neun Repository-Tests sind bestanden.
+
+Ein Sichttest im Client steht aus. Dazu gehört die zusammengesetzte
+Anzeige mit `common_msg_jp_of` aus `systemFlow.arc` und `gui_cmn.arc`.
+Die deutsche Fassung verwendet dort einen Gedankenstrich als Trennzeichen.
 
 ## Technische Fundstellen
 

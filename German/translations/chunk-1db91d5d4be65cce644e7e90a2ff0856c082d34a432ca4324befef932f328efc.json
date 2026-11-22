@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>のジョブポイントの所持量が最大に近づいています\r\n( <VAL> / <VAL JP> )",
       "source_en": "<NAME PAWN> \r\nis almost maxed out on Job Points.\r\n(<VAL>/<VAL JP>)",
-      "text": "<NAME PAWN>\r\n ist bei Job Points fast ausgeschöpft.\r\n(<VAL>/<VAL JP>)"
+      "text": "<NAME PAWN>\r\nhat fast die Höchstmenge an Klassenpunkten erreicht.\r\n(<VAL>/<VAL JP>)"
     },
     {
       "key": "syslog_jp_possession_max_pawn",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>のジョブポイントが最大に達したため、これ以上獲得できません",
       "source_en": "<NAME PAWN> \r\nhas reached the maximum amount of Job\r\nPoints and cannot earn any more.",
-      "text": "<NAME PAWN>\r\nhat die maximale Anzahl von Job\r\nPunkten erreicht und kann nicht mehr verdienen."
+      "text": "<NAME PAWN>\r\nhat die Höchstmenge erreicht und kann\r\nkeine Klassenpunkte mehr sammeln."
     },
     {
       "key": "syslog_kt_get",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN KT>を<VAL><UNIT KT>、入手しました",
       "source_en": "<VAL> <UNIT KT> of <UNTN KT>s obtained.",
-      "text": "<VAL> <UNIT KT> von <UNTN KT> s erhalten."
+      "text": "<VAL> <UNIT KT> von <UNTN KT> erhalten."
     },
     {
       "key": "syslog_kt_lost",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN KT>が最大まで補充されました",
       "source_en": "<UNTN KT> has been replenished to the maximum.",
-      "text": "<UNTN KT> wurde bis zum Maximum aufgefüllt."
+      "text": "<UNTN KT> wurde vollständig aufgefüllt."
     },
     {
       "key": "syslog_levelup_job_me",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "保管ボックスに未受け取りのクエスト報酬があります",
       "source_en": "There are quest rewards that can be\r\nclaimed at the Storage Box.",
-      "text": "Es gibt Quest Belohnungen, die sein können\r\nBeansprucht bei der storage box."
+      "text": "Im Lager kannst du noch\r\nQuestbelohnungen abholen."
     },
     {
       "key": "syslog_mandragora_grow_up",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブポイントを<VAL JP>獲得しました",
       "source_en": "Gained <VAL JP>.",
-      "text": "gewonnen <VAL JP>."
+      "text": "<VAL JP> erhalten."
     },
     {
       "key": "syslog_mission_jp_get_ex",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブポイントを<VAL> (+<VAL>) <UNIT JP>獲得しました",
       "source_en": "Obtained <VAL> (+<VAL>) <UNIT JP>.",
-      "text": "Erhalten <VAL> (+<VAL>) <UNIT JP>."
+      "text": "<VAL> (+<VAL>) <UNIT JP> erhalten."
     },
     {
       "key": "syslog_mission_npc_dying",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "護衛対象の体力が残りわずかです",
       "source_en": "The escort target only has little health\r\nremaining.",
-      "text": "Das Escort-Ziel hat nur wenig Gesundheit\r\nverbleiben."
+      "text": "Die Person, die du eskortierst, hat\r\nnur noch wenige LP."
     },
     {
       "key": "syslog_mission_pawn_jp",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>が<VAL JP>獲得しました",
       "source_en": "<NAME PAWN> gained <VAL JP>.",
-      "text": "<NAME PAWN> gewonnen <VAL JP>."
+      "text": "<NAME PAWN> hat <VAL JP> erhalten."
     },
     {
       "key": "syslog_mission_pawn_jp_ex",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>が<VAL> (+<VAL>) <UNIT JP>獲得しました",
       "source_en": "<NAME PAWN> \r\ngained <VAL> (+<VAL>) <UNIT JP>.",
-      "text": "<NAME PAWN>\r\ngewonnen <VAL> (+<VAL>) <UNIT JP>."
+      "text": "<NAME PAWN>\r\nhat <VAL> (+<VAL>) <UNIT JP> erhalten."
     },
     {
       "key": "syslog_mission_quit_decide",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "コンテンツ途中離脱が決定されました",
       "source_en": "The request to end the mission was successful.",
-      "text": "Die Bitte, die Mission zu beenden, war erfolgreich."
+      "text": "Die Mission wurde auf Antrag abgebrochen."
     },
     {
       "key": "syslog_mission_quit_receive",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "コンテンツ途中離脱の提案がありました",
       "source_en": "You have received a request to end the mission.",
-      "text": "Du hast eine Bitte erhalten, die Mission zu beenden."
+      "text": "Jemand schlägt vor, die Mission abzubrechen."
     },
     {
       "key": "syslog_mission_quit_reject",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "コンテンツ途中離脱が拒否されました",
       "source_en": "Mission did not end because the request was\r\nrejected.",
-      "text": "Die Mission endete nicht, weil die Anfrage\r\nabgelehnt."
+      "text": "Die Mission läuft weiter.\r\nDer Abbruch wurde abgelehnt."
     },
     {
       "key": "syslog_mission_quit_suggest",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "コンテンツ途中離脱の提案を行いました",
       "source_en": "A request has been made to end the mission.",
-      "text": "Es wurde beantragt, die Mission zu beenden."
+      "text": "Der Abbruch der Mission wurde vorgeschlagen."
     },
     {
       "key": "syslog_mission_result_guid",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "残り時間が<VAL>秒追加されました",
       "source_en": "Remaining time extended by <VAL> seconds.",
-      "text": "Verbleibende Zeit verlängert um <VAL> Sekunden."
+      "text": "Die verbleibende Zeit wurde um <VAL> Sekunden verlängert."
     },
     {
       "key": "syslog_mission_time_down",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "残り時間が<VAL>秒削減されました",
       "source_en": "The remaining time was reduced by <VAL> seconds.",
-      "text": "Die verbleibende Zeit wurde um <VAL> Sekunden reduziert."
+      "text": "Die verbleibende Zeit wurde um <VAL> Sekunden verkürzt."
     },
     {
       "key": "syslog_mission_time_less_10sec",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "残り10秒になりました",
       "source_en": "Less than 10 seconds remain in the mission.",
-      "text": "Weniger als 10 Sekunden verbleiben in der Mission."
+      "text": "Noch weniger als 10 Sekunden."
     },
     {
       "key": "syslog_mission_time_less_30sec",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "残り30秒になりました",
       "source_en": "Less than 30 seconds remain in the mission.",
-      "text": "Weniger als 30 Sekunden verbleiben in der Mission."
+      "text": "Noch weniger als 30 Sekunden."
     },
     {
       "key": "syslog_mission_time_less_60sec",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "残り60秒になりました",
       "source_en": "Less than 60 seconds remain in the mission.",
-      "text": "Weniger als 60 Sekunden verbleiben in der Mission."
+      "text": "Noch weniger als 60 Sekunden."
     },
     {
       "key": "syslog_mission_time_over",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN MS>が最大に達したため、これ以上獲得できません",
       "source_en": "You have reached the maximum \r\namount of <UNTN MS>\r\nand cannot earn any more.",
-      "text": "Du hast den maximalen\r\n Betrag von <UNTN MS>\r\n erreicht und können nicht mehr verdienen."
+      "text": "Du kannst keine weiteren\r\n<UNTN MS>\r\nerhalten. Du trägst bereits die Höchstmenge."
     },
     {
       "key": "syslog_name_etc_buy",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME ETC> を購入しました",
       "source_en": "Purchased \r\n<NAME ETC>.",
-      "text": "Gekauft\r\n<NAME ETC>."
+      "text": "Gekauft:\r\n<NAME ETC>."
     },
     {
       "key": "syslog_name_etc_use",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "しばらく発言できません",
       "source_en": "Cannot speak for a while.",
-      "text": "Ich kann eine Weile nicht sprechen."
+      "text": "Du kannst vorübergehend nicht sprechen."
     },
     {
       "key": "syslog_om_crank",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>はレバーを動かした",
       "source_en": "<NAME TARGET> has moved the\r\nlever.",
-      "text": "<NAME TARGET> hat sich bewegt\r\nHebel."
+      "text": "<NAME TARGET> hat den\r\nHebel betätigt."
     },
     {
       "key": "syslog_om_door_open_by_enemy",
@@ -304,7 +304,7 @@
       "tag_source": "source_en",
       "source_jp": "仕掛けにより扉が開いた",
       "source_en": "The door has been opened by the gimmick",
-      "text": "Die Tür wurde durch das Gimmick geöffnet"
+      "text": "Der Mechanismus hat die Tür geöffnet."
     },
     {
       "key": "syslog_om_door_open_by_key",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "仕掛けが作動した",
       "source_en": "Gimmick has been activated.",
-      "text": "Gimmick wurde aktiviert."
+      "text": "Der Mechanismus wurde ausgelöst."
     },
     {
       "key": "syslog_om_rock_fall",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "鍾乳石が落下した！",
       "source_en": "A stalactite has dropped!",
-      "text": "Ein Stalaktit ist gefallen!"
+      "text": "Ein Tropfstein ist herabgestürzt!"
     },
     {
       "key": "syslog_om_rock_remove",
@@ -336,7 +336,7 @@
       "tag_source": "source_en",
       "source_jp": "岩壁が爆破された",
       "source_en": "Rock wall has been blown open.",
-      "text": "Die Felsmauer wurde aufgeblasen."
+      "text": "Die Felswand wurde aufgesprengt."
     },
     {
       "key": "syslog_om_trap",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>は宝箱のトラップを解除した",
       "source_en": "<NAME TARGET> \r\nhas disarmed the treasure chest's trap.",
-      "text": "<NAME TARGET>\r\n hat die Falle der Schatztruhe entwaffnet."
+      "text": "<NAME TARGET>\r\nhat die Falle der Schatztruhe entschärft."
     },
     {
       "key": "syslog_om_waterfall",
@@ -368,7 +368,7 @@
       "tag_source": "source_en",
       "source_jp": "滝の流れが止まった",
       "source_en": "The waterfall's flow has stopped.",
-      "text": "Der Fluss des Wasserfalls hat aufgehört."
+      "text": "Der Wasserfall ist versiegt."
     },
     {
       "key": "syslog_pap_get",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>に戦術育成が行えます",
       "source_en": "<NAME PAWN> \r\ncan now do Tactics Training.",
-      "text": "<NAME PAWN>\r\nkann jetzt Taktiktraining machen."
+      "text": "<NAME PAWN>\r\nkann jetzt am Taktiktraining teilnehmen."
     },
     {
       "key": "syslog_pap_limit_up",
@@ -384,7 +384,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>の<UNTN PAP>の最大値が増加しました",
       "source_en": "Maximum <UNTN PAP> for \r\n<NAME PAWN> has increased.",
-      "text": "Das Maximum <UNTN PAP> für\r\n<NAME PAWN> hat sich erhöht."
+      "text": "Die Höchstmenge an <UNTN PAP> für\r\n<NAME PAWN> ist gestiegen."
     },
     {
       "key": "syslog_party_chg_leader",
@@ -392,7 +392,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>がパーティーリーダーになりました",
       "source_en": "<NAME TARGET> is now the party leader.",
-      "text": "<NAME TARGET> ist jetzt der Parteiführer."
+      "text": "<NAME TARGET> leitet jetzt die Gruppe."
     },
     {
       "key": "syslog_party_decline",
@@ -400,7 +400,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>のパーティー要請を拒否しました",
       "source_en": "You declined the party request from \r\n<NAME TARGET>.",
-      "text": "Du lehntest den Parteiantrag von\r\n<NAME TARGET> ab."
+      "text": "Du hast die Gruppenanfrage von\r\n<NAME TARGET> abgelehnt."
     },
     {
       "key": "syslog_party_declined",
@@ -408,7 +408,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>へのパーティー要請がキャンセルされました",
       "source_en": "<NAME TARGET> \r\nhas declined your party request.",
-      "text": "<NAME TARGET>\r\n hat deinen Parteiantrag abgelehnt."
+      "text": "<NAME TARGET>\r\nhat deine Gruppenanfrage abgelehnt."
     },
     {
       "key": "syslog_party_join_me",
@@ -416,7 +416,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>のパーティーに加わりました",
       "source_en": "You joined <NAME TARGET>'s party.",
-      "text": "Du bist der Partei <NAME TARGET> beigetreten."
+      "text": "Du bist der Gruppe von <NAME TARGET> beigetreten."
     },
     {
       "key": "syslog_party_join_someone",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>がパーティーに加わりました",
       "source_en": "<NAME TARGET> has joined the party.",
-      "text": "<NAME TARGET> ist der Partei beigetreten."
+      "text": "<NAME TARGET> ist der Gruppe beigetreten."
     },
     {
       "key": "syslog_party_kicked",
@@ -432,7 +432,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーからはずれました",
       "source_en": "You have been kicked from the party.",
-      "text": "Du wurdest von der Gruppe geworfen."
+      "text": "Du wurdest aus der Gruppe entfernt."
     },
     {
       "key": "syslog_party_leave_me",
@@ -448,7 +448,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME PAWN>がパーティーから抜けました",
       "source_en": "<NAME PAWN> has left the party.",
-      "text": "<NAME PAWN> hat die Partei verlassen."
+      "text": "<NAME PAWN> hat die Gruppe verlassen."
     },
     {
       "key": "syslog_party_leave_someone",
@@ -456,7 +456,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>がパーティーから抜けました",
       "source_en": "<NAME TARGET> has left the party.",
-      "text": "<NAME TARGET> hat die Partei verlassen."
+      "text": "<NAME TARGET> hat die Gruppe verlassen."
     },
     {
       "key": "syslog_party_num_talk",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーメンバーがあと<VAL>人話しかけていません",
       "source_en": "There are <VAL> party members who haven't spoken\r\nyet.",
-      "text": "Es gibt <VAL> Parteimitglieder, die noch nicht gesprochen haben\r\n."
+      "text": "<VAL> Gruppenmitglieder haben noch nicht\r\ngesprochen."
     },
     {
       "key": "syslog_party_request",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>にパーティー要請しました",
       "source_en": "Sent <NAME TARGET> a party request.",
-      "text": "Gesendet <NAME TARGET> einen Parteiantrag."
+      "text": "Du hast <NAME TARGET> eine Gruppenanfrage geschickt."
     },
     {
       "key": "syslog_party_request_ok",
@@ -480,7 +480,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティー要請が受諾されました",
       "source_en": "Party request has been accepted.",
-      "text": "Der Antrag der Partei wurde angenommen."
+      "text": "Die Gruppenanfrage wurde angenommen."
     }
   ],
   "schema_version": 1,

@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "回復優先",
       "source_en": "Prioritize Recovery",
-      "text": "Priorisiere Recovery"
+      "text": "Heilung priorisieren"
     },
     {
       "key": "pawn_command_611",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "警戒",
       "source_en": "Observe",
-      "text": "Beobachten"
+      "text": "Wache halten"
     },
     {
       "key": "pawn_command_615",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "ターゲット変更",
       "source_en": "Change Target",
-      "text": "Änderungsziel"
+      "text": "Ziel wechseln"
     },
     {
       "key": "pawn_command_617",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "体力回復",
       "source_en": "Heal",
-      "text": "Heilkunde"
+      "text": "LP wiederherstellen"
     },
     {
       "key": "pawn_command_618",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "状態異常回復",
       "source_en": "Cure Debilitations",
-      "text": "Heilung von Debilitationen"
+      "text": "Zustände heilen"
     },
     {
       "key": "pawn_command_619",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "挑発スキル発動",
       "source_en": "Use Taunt Skills",
-      "text": "Verwende Taunt Skills"
+      "text": "Gegner provozieren"
     },
     {
       "key": "pawn_command_621",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "敵弱体化",
       "source_en": "Weaken Enemy",
-      "text": "Schwache Feinde"
+      "text": "Gegner schwächen"
     },
     {
       "key": "pawn_command_623",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "エンチャント",
       "source_en": "Enchant",
-      "text": "Verzauberung"
+      "text": "Waffen verzaubern"
     },
     {
       "key": "pawn_command_624",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "敵バインド",
       "source_en": "Bind Enemy",
-      "text": "Bindenfeind"
+      "text": "Gegner festsetzen"
     },
     {
       "key": "pawn_command_625",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "怯ませ・吹き飛ばし",
       "source_en": "Flinch Enemy",
-      "text": "Flinch-Feind"
+      "text": "Gegner ins Taumeln bringen oder wegschleudern"
     },
     {
       "key": "pawn_command_626",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "炎属性行動",
       "source_en": "Fire-attribute Actions",
-      "text": "Brandattribut-Aktionen"
+      "text": "Feueraktionen"
     },
     {
       "key": "pawn_command_627",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "氷属性行動",
       "source_en": "Ice-attribute Actions",
-      "text": "Ice-attribute Aktionen"
+      "text": "Eisaktionen"
     },
     {
       "key": "pawn_command_628",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "雷属性行動",
       "source_en": "Lightning-attribute Actions",
-      "text": "Lightning-attribute Aktionen"
+      "text": "Blitzaktionen"
     },
     {
       "key": "pawn_command_629",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "聖属性行動",
       "source_en": "Holy-attribute Actions",
-      "text": "Holy-Attribute Aktionen"
+      "text": "Heiligaktionen"
     },
     {
       "key": "pawn_command_630",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "闇属性行動",
       "source_en": "Dark-attribute Actions",
-      "text": "Dark-Attribute Aktionen"
+      "text": "Dunkelaktionen"
     },
     {
       "key": "pawn_command_631",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "斬属性攻撃",
       "source_en": "Slash-attribute Actions",
-      "text": "Slash-Attribute Aktionen"
+      "text": "Hiebangriffe"
     },
     {
       "key": "pawn_command_632",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "打属性攻撃",
       "source_en": "Impact attribute Actions",
-      "text": "Wirkungsattribut Aktionen"
+      "text": "Wuchtangriffe"
     },
     {
       "key": "pawn_command_633",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "射属性攻撃",
       "source_en": "Pierce-attribute Actions",
-      "text": "Pierce-attribute Aktionen"
+      "text": "Schussangriffe"
     },
     {
       "key": "pawn_command_634",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "連係投げ発動",
       "source_en": "Throw",
-      "text": "Wurf"
+      "text": "Verbündeten hochwerfen"
     },
     {
       "key": "pawn_command_635",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "クイックチャージ発動",
       "source_en": "Activate Quick Charge",
-      "text": "Quick Charge aktivieren"
+      "text": "Gebet der Eile einsetzen"
     },
     {
       "key": "pawn_command_636",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "エナジースポット発動",
       "source_en": "Activate Energy Spot",
-      "text": "Aktivierung des Energie-Spots"
+      "text": "Ausdauerfeld einsetzen"
     },
     {
       "key": "pawn_command_637",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "ソリッドライザー発動",
       "source_en": "Activate Solid Riser",
-      "text": "Aktiviere Solid Riser"
+      "text": "Standfeld einsetzen"
     },
     {
       "key": "pawn_command_638",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "ハンズオブゴッド／レギア・バリアル発動",
       "source_en": "Activate Hands of God/Regal Barrier",
-      "text": "Aktiviere die Hände von Gott/Real Barriere"
+      "text": "Götterhände / Königliche Barriere einsetzen"
     },
     {
       "key": "pawn_command_639",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "命令キャンセル",
       "source_en": "Cancel Order",
-      "text": "Annullierung des Auftrags"
+      "text": "Befehl aufheben"
     },
     {
       "key": "pawn_command_9499",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "ゆさぶり命令",
       "source_en": "Shake Command",
-      "text": "Rüttelbefehl"
+      "text": "Gegner rütteln"
     },
     {
       "key": "pawn_command_10850",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "小型敵優先",
       "source_en": "Prioritize Small Enemies",
-      "text": "Priorisiere kleine Feinde"
+      "text": "Kleine Gegner bevorzugen"
     },
     {
       "key": "pawn_command_10851",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "大型敵優先",
       "source_en": "Prioritize Large Enemies",
-      "text": "Priorisiere große Feinde"
+      "text": "Große Gegner bevorzugen"
     },
     {
       "key": "pawn_command_10852",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "地上敵優先",
       "source_en": "Prioritize Ground Enemies",
-      "text": "Priorisierung von Bodenfeinden"
+      "text": "Gegner am Boden bevorzugen"
     },
     {
       "key": "pawn_command_10853",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "飛行敵優先",
       "source_en": "Prioritize Flying Enemies",
-      "text": "Priorisiere fliegende Feinde"
+      "text": "Fliegende Gegner bevorzugen"
     },
     {
       "key": "pawn_command_10854",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "スタミナ回復",
       "source_en": "Stamina Recovery",
-      "text": "Ausdauer Erholung"
+      "text": "Ausdauer wiederherstellen"
     },
     {
       "key": "pawn_command_10856",
@@ -296,7 +296,7 @@
       "tag_source": "source_en",
       "source_jp": "シークレットコア攻撃優先",
       "source_en": "Prioritize Secret Core Attacks",
-      "text": "Priorisiere geheime Kernangriffe"
+      "text": "Verborgene Kerne bevorzugt angreifen"
     },
     {
       "key": "pawn_command_10857",
@@ -304,7 +304,7 @@
       "tag_source": "source_en",
       "source_jp": "敵弱体化：行動停止",
       "source_en": "Debilitate: Immobilize",
-      "text": "Debilitate: Immobilisieren"
+      "text": "Schwächen: Bewegung stoppen"
     },
     {
       "key": "pawn_command_10858",
@@ -312,7 +312,7 @@
       "tag_source": "source_en",
       "source_jp": "敵弱体化：持続ダメージ",
       "source_en": "Debilitate: Sustained Damage",
-      "text": "Debilitate: Anhaltender Schaden"
+      "text": "Schwächen: Anhaltender Schaden"
     },
     {
       "key": "pawn_command_10859",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "敵弱体化：ステータスダウン",
       "source_en": "Debilitate: Lowered Status",
-      "text": "Debilitate: Gesenkter Status"
+      "text": "Schwächen: Werte senken"
     },
     {
       "key": "pawn_command_10860",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "敵弱体化：特殊ステータス",
       "source_en": "Debilitate: Special Status",
-      "text": "Debilitate: Sonderstatus"
+      "text": "Schwächen: Sonderzustände"
     }
   ],
   "schema_version": 1,

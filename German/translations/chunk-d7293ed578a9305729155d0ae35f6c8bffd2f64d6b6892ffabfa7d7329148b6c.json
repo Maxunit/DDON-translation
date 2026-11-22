@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "保管ボックスのアイテム枠数が増加しました",
       "source_en": "Storage Box's Item slots have increased",
-      "text": "Storage Box Item Slots haben zugenommen"
+      "text": "Das Lager bietet jetzt mehr Platz für Gegenstände."
     },
     {
       "key": "ana_storageextension_dec",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "累計スコア報酬で\r\nシークレットアビリティを獲得！",
       "source_en": "Earned Secret Augment in the\r\ntotal score reward!",
-      "text": "Earned Secret Augment in der\r\nTotal Score Belohnung!"
+      "text": "Geheime Begabung als Belohnung\r\nfür die Gesamtpunktzahl erhalten!"
     },
     {
       "key": "ana_totalscore_reward",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "礎を解放する条件をみたしていません",
       "source_en": "You do not meet the conditions to go to the\r\nPortcrystal.",
-      "text": "Du erfüllst nicht die Bedingungen, um zum\r\nPortkristall zu gehen."
+      "text": "Du erfüllst die Voraussetzungen für die\r\nReise zu diesem Riftstein nicht."
     },
     {
       "key": "ana_unauthorized_cannotuse",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "権限がないため使用できません",
       "source_en": "Unavailable due to lack of authorization",
-      "text": "Nicht verfügbar wegen fehlender Autorisierung"
+      "text": "Keine Berechtigung für diese Aktion."
     },
     {
       "key": "ana_unlock_contents",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "戦闘エリアから離れています",
       "source_en": "You are currently away from the combat area.",
-      "text": "Du bist derzeit weg von der Kampfzone."
+      "text": "Du befindest dich außerhalb des Kampfgebiets."
     },
     {
       "key": "ana_warp_barricade_out",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "戦闘エリアを出たためワープします",
       "source_en": "You have left the combat area. Initiating warp.",
-      "text": "Du hast das Kampfgebiet verlassen. Warp einleiten."
+      "text": "Du hast das Kampfgebiet verlassen und wirst zurückteleportiert."
     },
     {
       "key": "ana_wm_limited_condition_open",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "新たな戦況が期間限定で開催決定！",
       "source_en": "New War Situation will be held for a limited time!",
-      "text": "Neue Kriegssituation wird für eine begrenzte Zeit stattfinden!"
+      "text": "Eine neue Schlacht ist für begrenzte Zeit verfügbar!"
     },
     {
       "key": "ana_you_die",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "Ordeals Rewards",
       "source_en": "Ordeals Rewards",
-      "text": "Ordeals Belohnungen"
+      "text": "Prüfungsbelohnungen"
     },
     {
       "key": "title_sub_ordeal_rewards",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "試練で得られる可能性のある報酬の一覧",
       "source_en": "List of rewards that may be obtained in the Trial",
-      "text": "Liste der Belohnungen, die in der Studie erhalten werden können"
+      "text": "Mögliche Belohnungen für diese Prüfung"
     }
   ],
   "schema_version": 1,

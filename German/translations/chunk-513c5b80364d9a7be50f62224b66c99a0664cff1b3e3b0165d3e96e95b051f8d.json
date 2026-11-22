@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "級品アイテム",
       "source_en": "Grade items",
-      "text": "Notenpositionen"
+      "text": "Gegenstände nach Rang"
     },
     {
       "key": "gacha_msg_itemclass_s",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "S級品アイテム",
       "source_en": "S Grade Items",
-      "text": "S Klassenpositionen"
+      "text": "Gegenstände des Rangs S"
     },
     {
       "key": "gacha_msg_jump_onlineshop",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "オンラインショップを開く",
       "source_en": "Open online shop",
-      "text": "Offener Online-Shop"
+      "text": "Online-Shop öffnen"
     },
     {
       "key": "gacha_msg_load_fail",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "まわす(<VAL>連続)",
       "source_en": "Draw (<VAL> times)",
-      "text": "Zeichnen (<VAL> mal)"
+      "text": "<VAL> Lose ziehen"
     },
     {
       "key": "gacha_msg_no_stone_todaraw",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石が不足しています。ロットを1回まわすには、黄金石<VAL>個が必要です",
       "source_en": "There is not enough Golden Gemstones. To draw\r\nfrom the lot once,\r\n<VAL> Golden Gemstones are required.",
-      "text": "Es gibt nicht genug Goldsteine.\r\nvom Los einmal,\r\n<VAL> Goldsteine sind erforderlich."
+      "text": "Du hast nicht genug Goldsteine.\r\nFür ein Los brauchst du\r\n<VAL> Goldsteine."
     },
     {
       "key": "gacha_msg_no_stone_tomultidraw",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石が不足しています。ロットを<VAL>連続でまわすには、黄金石<VAL>個が必要です",
       "source_en": "There is not enough Golden Gemstones. To draw\r\nfrom the lot <VAL> times,\r\n<VAL> Golden Gemstones are required.",
-      "text": "Es gibt nicht genug Goldsteine, um\r\n vom Los <VAL> mal zu ziehen,\r\n<VAL> Goldsteine sind erforderlich."
+      "text": "Du hast nicht genug Goldsteine.\r\nFür <VAL> Lose brauchst du\r\n<VAL> Goldsteine."
     },
     {
       "key": "gacha_msg_no_ticket_todaraw",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "チケットが不足しています。ロットを1回まわすには、チケット<VAL>枚が必要です",
       "source_en": "There is not enough Silver Tickets. To draw from\r\nthe lot once,\r\n<VAL> Silver Tickets are required.",
-      "text": "Es gibt nicht genug Silbertickets.\r\ndie Partie einmal,\r\n<VAL> Silbertickets sind erforderlich."
+      "text": "Du hast nicht genug Silbertickets.\r\nFür ein Los brauchst du\r\n<VAL> Silbertickets."
     },
     {
       "key": "gacha_msg_no_ticket_tomultidraw",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "チケットが不足しています。ロットを<VAL>連続でまわすには、チケット<VAL>枚が必要です",
       "source_en": "There is not enough Silver Tickets. To draw from\r\nthe lot <VAL> times,\r\n<VAL> Silver Tickets are required.",
-      "text": "Es gibt nicht genug Silbertickets.\r\ndie Partie <VAL> Zeiten,\r\n<VAL> Silbertickets sind erforderlich."
+      "text": "Du hast nicht genug Silbertickets.\r\nFür <VAL> Lose brauchst du\r\n<VAL> Silbertickets."
     },
     {
       "key": "gacha_msg_normal_price_limit",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "（あと<VAL>回利用可能）",
       "source_en": "(<VAL> left)",
-      "text": "(<VAL> links)"
+      "text": "(Noch <VAL> verfügbar)"
     },
     {
       "key": "gacha_msg_not_available",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "1回あたりの獲得数",
       "source_en": "Per",
-      "text": "pro Stück"
+      "text": "Anzahl pro Ziehung"
     },
     {
       "key": "gacha_msg_one_more_draw",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "もう一度まわす",
       "source_en": "Draw Again",
-      "text": "Wieder zeichnen"
+      "text": "Erneut ziehen"
     },
     {
       "key": "gacha_msg_post",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>プレイ",
       "source_en": "<VAL> draws",
-      "text": "<VAL> zieht"
+      "text": "<VAL> Ziehungen"
     },
     {
       "key": "gacha_msg_pray_limit",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "※プレイ回数制限",
       "source_en": "* Play Limit",
-      "text": "* Spiellimit"
+      "text": "※ Ziehungslimit"
     },
     {
       "key": "gacha_msg_pray_select",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>プレイ（以下からお選びいただけます）",
       "source_en": "<VAL> plays (you can choose the following)",
-      "text": "<VAL> spielt (du kannst folgendes wählen)"
+      "text": "<VAL> Ziehungen (wähle eine der folgenden Optionen)"
     },
     {
       "key": "gacha_msg_pray_trial",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "お試しプレイ",
       "source_en": "Trial",
-      "text": "Versuch"
+      "text": "Probeziehung"
     },
     {
       "key": "gacha_msg_preview_goldenstone",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石の確認",
       "source_en": "Check Golden Gemstones",
-      "text": "Goldsteine überprüfen"
+      "text": "Goldsteinbestand prüfen"
     },
     {
       "key": "gacha_msg_quit",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "提供割合",
       "source_en": "Chances",
-      "text": "Chancen"
+      "text": "Gewinnchancen"
     },
     {
       "key": "gacha_msg_rate_num",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "残り",
       "source_en": "Left",
-      "text": "Links"
+      "text": "Übrig"
     },
     {
       "key": "gacha_msg_reset",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "獲得リザルト",
       "source_en": "Received Results",
-      "text": "Erhaltene Ergebnisse"
+      "text": "Ziehungsergebnisse"
     },
     {
       "key": "gacha_msg_result_ng",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "SALE!",
       "source_en": "SALE!",
-      "text": "VERKAUF!"
+      "text": "ANGEBOT!"
     },
     {
       "key": "gacha_msg_service_benefits_free",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "サービス特典（無料）",
       "source_en": "Service Benefit (Free)",
-      "text": "Service Benefit (kostenlos)"
+      "text": "Bonus (kostenlos)"
     },
     {
       "key": "gacha_msg_service_benefits_gp",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "サービス特典（チケット）",
       "source_en": "Service Benefit (Ticket)",
-      "text": "Servicevorteil (Ticket)"
+      "text": "Bonus (Tickets)"
     },
     {
       "key": "gacha_msg_service_benefits_ticket_dialog",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "サービス特典（チケット）%d枚",
       "source_en": "Service Benefit (Ticket) x%d",
-      "text": "Servicevorteil (Ticket) x%d"
+      "text": "Bonus (Tickets) ×%d"
     },
     {
       "key": "gacha_msg_sp_price",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "特別価格（あと<VAL>回利用可能）",
       "source_en": "Special price (<VAL> times available)",
-      "text": "Sonderpreis (<VAL>mal verfügbar)"
+      "text": "Sonderpreis (noch <VAL>-mal verfügbar)"
     },
     {
       "key": "gacha_msg_sp_price_end",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "ご利用ありがとうございました",
       "source_en": "Thank you for your use",
-      "text": "Vielen Dank für deine Nutzung"
+      "text": "Danke fürs Mitmachen!"
     },
     {
       "key": "gacha_msg_supplemental",
@@ -312,7 +312,7 @@
       "tag_source": "source_en",
       "source_jp": "×<VAL>個使用",
       "source_en": "<VAL> pieces used",
-      "text": "<VAL> verwendete Stücke"
+      "text": "<VAL> Goldsteine eingesetzt"
     },
     {
       "key": "gacha_msg_use_ticket",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "×<VAL>枚使用",
       "source_en": "<VAL> tickets used",
-      "text": "<VAL> Tickets verwendet"
+      "text": "<VAL> Tickets eingesetzt"
     },
     {
       "key": "gacha_msg_view_web",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "ロットの詳細をブラウザで見る",
       "source_en": "View Lot Details in Browser",
-      "text": "Lot Details im Browser anzeigen"
+      "text": "Lotteriedetails im Browser ansehen"
     },
     {
       "key": "lde_msg_btn_01",
@@ -336,7 +336,7 @@
       "tag_source": "source_en",
       "source_jp": "報酬を受け取る",
       "source_en": "Receive Rewards",
-      "text": "Prämien erhalten"
+      "text": "Belohnungen abholen"
     },
     {
       "key": "lde_msg_btn_02",
@@ -344,7 +344,7 @@
       "tag_source": "source_en",
       "source_jp": "納品する",
       "source_en": "Deliver",
-      "text": "Lieferung"
+      "text": "Abgeben"
     },
     {
       "key": "lde_msg_btn_03",
@@ -352,7 +352,7 @@
       "tag_source": "source_en",
       "source_jp": "ランキング詳細",
       "source_en": "Ranking Details",
-      "text": "Rangfolge-Details"
+      "text": "Ranglistendetails"
     },
     {
       "key": "lde_msg_err_001",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "ゲームメニューからは納品できません\r\nキャメロン、もしくは対象NPCに納品してください",
       "source_en": "You cannot deliver from the Game Menu,\r\nplease deliver to Cameron or the target NPC.",
-      "text": "Du kannst nicht aus dem Spielmenü liefern,\r\nBitte an Cameron oder den Ziel-NPC liefern."
+      "text": "Du kannst nichts über das Spielmenü abgeben.\r\nGib die Gegenstände bei Cameron oder dem zuständigen NPC ab."
     },
     {
       "key": "lde_msg_err_002",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "対象NPCに直接納品してください",
       "source_en": "Please deliver directly to the target NPC.",
-      "text": "Bitte liefer direkt an den Ziel-NPC."
+      "text": "Bring die Gegenstände direkt zum zuständigen NPC."
     },
     {
       "key": "lde_msg_err_004",
@@ -384,7 +384,7 @@
       "tag_source": "source_en",
       "source_jp": "ゲームメニューからは受け取りできません\r\nキャメロン、もしくは対象NPCから受け取ることができます",
       "source_en": "You cannot receive from the Game Menu,\r\nplease receive from Cameron or the target NPC.",
-      "text": "Du kannst nicht vom Spielmenü erhalten,\r\nbitte von Cameron oder dem Ziel-NPC."
+      "text": "Du kannst hier keine Belohnungen abholen.\r\nHol sie bei Cameron oder dem zuständigen NPC ab."
     },
     {
       "key": "lde_msg_err_005",
@@ -392,7 +392,7 @@
       "tag_source": "source_en",
       "source_jp": "受取可能なアイテムがありません",
       "source_en": "There are no items available.",
-      "text": "Es stehen keine Artikel zur Verfügung."
+      "text": "Keine Gegenstände zum Abholen."
     },
     {
       "key": "lde_msg_tab_01",
@@ -400,7 +400,7 @@
       "tag_source": "source_en",
       "source_jp": "イベント概要",
       "source_en": "Event Summary",
-      "text": "Ereigniszusammenfassung"
+      "text": "Eventübersicht"
     },
     {
       "key": "lde_msg_tab_02",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "詳細情報",
       "source_en": "Detailed Info",
-      "text": "Detaillierte Infos"
+      "text": "Details"
     },
     {
       "key": "lde_msg_text_001",
@@ -440,7 +440,7 @@
       "tag_source": "source_en",
       "source_jp": "個人成績",
       "source_en": "Personal Record",
-      "text": "Persönliche Aufzeichnung"
+      "text": "Persönliches Ergebnis"
     },
     {
       "key": "lde_msg_text_003",
@@ -448,7 +448,7 @@
       "tag_source": "source_en",
       "source_jp": "全体成績",
       "source_en": "Total Record",
-      "text": "Gesamtdatensatz"
+      "text": "Gesamtergebnis"
     },
     {
       "key": "lde_msg_text_004",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "報酬受け取り期間",
       "source_en": "Reward Receive Period",
-      "text": "Prämien-Empfangszeitraum"
+      "text": "Abholfrist für Belohnungen"
     },
     {
       "key": "lde_msg_text_006",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "獲得ポイント",
       "source_en": "Acquired Points",
-      "text": "Erworbene Punkte"
+      "text": "Erhaltene Punkte"
     },
     {
       "key": "lde_msg_text_007",
@@ -480,7 +480,7 @@
       "tag_source": "source_en",
       "source_jp": "ランキング",
       "source_en": "Ranking",
-      "text": "Rangfolge"
+      "text": "Rangliste"
     }
   ],
   "schema_version": 1,

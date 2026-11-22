@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "気絶攻力",
       "source_en": "Stun Power",
-      "text": "Blindleistung"
+      "text": "Betäubungskraft"
     },
     {
       "key": "item_grade",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "グレード",
       "source_en": "Grade",
-      "text": "Grad"
+      "text": "Qualitätsstufe"
     },
     {
       "key": "item_levelcap",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "装備制限ジョブレベル",
       "source_en": "Equipment restriction by job level",
-      "text": "Beschränkung der Ausrüstung auf Job-Ebene"
+      "text": "Erforderliche Klassenstufe"
     },
     {
       "key": "item_magic_property",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "魔法属性",
       "source_en": "Magick Attribute",
-      "text": "Magick Attribut"
+      "text": "Magisches Attribut"
     },
     {
       "key": "item_material",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "素材分類",
       "source_en": "Material Classification",
-      "text": "Materialklassifizierung"
+      "text": "Materialart"
     },
     {
       "key": "item_max_equip",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "最大装着数",
       "source_en": "Max. number of fittings",
-      "text": "Maximale Anzahl der Beschläge"
+      "text": "Max. ausrüstbare Anzahl"
     },
     {
       "key": "item_max_possess",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "所持最大数",
       "source_en": "Stack Size",
-      "text": "Größe des Stapels"
+      "text": "Max. Stapelgröße"
     },
     {
       "key": "item_max_price",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "バザー取引最高額",
       "source_en": "Maximum Bazaar Price",
-      "text": "Höchstpreis für den Basar"
+      "text": "Höchstpreis am Basar"
     },
     {
       "key": "item_minimum_price",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "バザー取引最低額",
       "source_en": "Minimum Bazaar Price",
-      "text": "Mindestpreis für den Basar"
+      "text": "Mindestpreis am Basar"
     },
     {
       "key": "item_name",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "矢装填数",
       "source_en": "Max Loaded Arrows",
-      "text": "Max geladene Pfeile"
+      "text": "Pfeilkapazität"
     },
     {
       "key": "item_phisical_property",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "物理属性",
       "source_en": "Physical Attribute",
-      "text": "Physikalische Attribute"
+      "text": "Physisches Attribut"
     },
     {
       "key": "item_purchase_price",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムランク",
       "source_en": "Item Rank",
-      "text": "Positionsrang"
+      "text": "Gegenstandsrang"
     },
     {
       "key": "item_sell_ok",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "売却OK",
       "source_en": "Sale OK",
-      "text": "Verkauf ok"
+      "text": "Verkauf möglich"
     },
     {
       "key": "item_sell_price",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "売却額",
       "source_en": "Sell",
-      "text": "Verkaufen"
+      "text": "Verkaufspreis"
     },
     {
       "key": "item_shield_stamina_resist",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "盾スタミナ軽減値",
       "source_en": "Blocking Stamina Reduction",
-      "text": "Blockierende Ausdauerreduktion"
+      "text": "Ausdauerersparnis beim Blocken"
     },
     {
       "key": "item_stagger",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "盾ガード値",
       "source_en": "Guard Power",
-      "text": "Wächterkraft"
+      "text": "Blockstärke"
     },
     {
       "key": "item_tower_shield_collect_point",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "使用制限",
       "source_en": "Use Limit",
-      "text": "Verwendungsgrenzwert"
+      "text": "Nutzungslimit"
     },
     {
       "key": "item_weapon_type",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "布",
       "source_en": "Cloth",
-      "text": "Tuch"
+      "text": "Stoff"
     },
     {
       "key": "material_cateforyname_etc",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "その他",
       "source_en": "Other",
-      "text": "andere"
+      "text": "Sonstiges"
     },
     {
       "key": "material_cateforyname_fang",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "牙",
       "source_en": "Fang",
-      "text": "Fang"
+      "text": "Fangzahn"
     },
     {
       "key": "material_cateforyname_feather",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "防具用",
       "source_en": "For Armor",
-      "text": "für Rüstung"
+      "text": "Für Rüstungen"
     },
     {
       "key": "material_cateforyname_for_w",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "武器用",
       "source_en": "For Weapon",
-      "text": "für Waffen"
+      "text": "Für Waffen"
     },
     {
       "key": "material_cateforyname_fur",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "草",
       "source_en": "Grass",
-      "text": "Gras"
+      "text": "Kräuter"
     },
     {
       "key": "material_cateforyname_horn",
@@ -296,7 +296,7 @@
       "tag_source": "source_en",
       "source_jp": "宝石",
       "source_en": "Gem",
-      "text": "Gemse"
+      "text": "Edelstein"
     },
     {
       "key": "material_cateforyname_liquid",
@@ -304,7 +304,7 @@
       "tag_source": "source_en",
       "source_jp": "液体",
       "source_en": "Liquid",
-      "text": "Flüssig"
+      "text": "Flüssigkeit"
     },
     {
       "key": "material_cateforyname_meat",
@@ -352,7 +352,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーンの閃き",
       "source_en": "Pawn Inspiration",
-      "text": "Vasall Inspiration"
+      "text": "Eingebung des Vasallen"
     },
     {
       "key": "material_cateforyname_sand",
@@ -384,7 +384,7 @@
       "tag_source": "source_en",
       "source_jp": "貝",
       "source_en": "Shell",
-      "text": "Schale"
+      "text": "Muschel"
     },
     {
       "key": "material_cateforyname_string",
@@ -408,7 +408,7 @@
       "tag_source": "source_en",
       "source_jp": "動物",
       "source_en": "Animal",
-      "text": "Tier"
+      "text": "Tierisch"
     },
     {
       "key": "material_large_cateforyname_artifac",
@@ -432,7 +432,7 @@
       "tag_source": "source_en",
       "source_jp": "鑑定アイテム",
       "source_en": "Appraised Item",
-      "text": "Geschätzter Posten"
+      "text": "Gegenstände zur Begutachtung"
     },
     {
       "key": "material_large_cateforyname_material_area",
@@ -456,7 +456,7 @@
       "tag_source": "source_en",
       "source_jp": "裁縫",
       "source_en": "Sewing",
-      "text": "Nähen"
+      "text": "Schneiderei"
     },
     {
       "key": "max_health",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "最大体力",
       "source_en": "Max Health",
-      "text": "Max Gesundheit"
+      "text": "Maximale LP"
     },
     {
       "key": "max_stamina",
@@ -480,7 +480,7 @@
       "tag_source": "source_en",
       "source_jp": "蓄積",
       "source_en": "Inflict",
-      "text": "Schuld"
+      "text": "Aufbau"
     }
   ],
   "schema_version": 1,

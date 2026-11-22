@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "パスワード：",
       "source_en": "Password:  ",
-      "text": "Kennwort:  "
+      "text": "Passwort:  "
     },
     {
       "key": "entry_board_pass_limit2",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "出撃可能時間",
       "source_en": "Sortie Time",
-      "text": "Sortiezeit"
+      "text": "Aufbruchszeit"
     },
     {
       "key": "entry_board_playable_time_info",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "<DATE> - <DATE>",
       "source_en": "<DATE> - <DATE>",
-      "text": "<DATE> - <DATE>"
+      "text": "<DATE> bis <DATE>"
     },
     {
       "key": "entry_board_pop_event_info_dp_acc",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "ウォーミッション累積ポイント",
       "source_en": "War Mission Accumulated Points",
-      "text": "War Mission Akkumulierte Punkte"
+      "text": "Gesamtpunkte der Kriegsmission"
     },
     {
       "key": "entry_board_pop_event_info_ranking",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "ランキング順位",
       "source_en": "Ranking",
-      "text": "Rangfolge"
+      "text": "Rangliste"
     },
     {
       "key": "entry_board_pop_event_info_ranking_unit",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "テクニカルスコア",
       "source_en": "Technical Score",
-      "text": "Technischer Score"
+      "text": "Technikpunkte"
     },
     {
       "key": "entry_board_pop_event_info_score_total",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "トータルスコア",
       "source_en": "Total Score",
-      "text": "Gesamtwertung"
+      "text": "Gesamtpunktzahl"
     },
     {
       "key": "entry_board_pop_event_top_entry",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "参加中",
       "source_en": "Participating",
-      "text": "Teilnehmende"
+      "text": "Teilnahme läuft"
     },
     {
       "key": "entry_board_pop_reqruit_all",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "募集する",
       "source_en": "Recruit",
-      "text": "Rekrut"
+      "text": "Mitspieler suchen"
     },
     {
       "key": "entry_board_recruit",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "新規募集",
       "source_en": "Recruit Members",
-      "text": "Rekrutiere Mitglieder"
+      "text": "Mitspieler suchen"
     },
     {
       "key": "entry_board_reqruit_cancel",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "Comment",
       "source_en": "Comment",
-      "text": "Anmerkungen"
+      "text": "Kommentar"
     },
     {
       "key": "entry_board_reqruit_entry",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "エントリーを指定してください",
       "source_en": "Please setup your entry",
-      "text": "Bitte richte deinen Eintrag ein"
+      "text": "Wähle eine Anmeldung aus."
     },
     {
       "key": "entry_board_reqruit_ir",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "IR制限",
       "source_en": "IR Limit",
-      "text": "IR-Grenzwert"
+      "text": "Mindestrang"
     },
     {
       "key": "entry_board_reqruit_ir_jobrole",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "IR制限の対象ジョブロール",
       "source_en": "Target Job Roles for IR Limit",
-      "text": "Target Job Rollen für IR Limit"
+      "text": "Rollen mit Mindestrang"
     },
     {
       "key": "entry_board_reqruit_ir_jobrole_tank",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "装備品の平均",
       "source_en": "Equipment Average",
-      "text": "Ausrüstungsdurchschnitt"
+      "text": "Durchschnittsrang der Ausrüstung"
     },
     {
       "key": "entry_board_reqruit_job",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブ制限",
       "source_en": "Job Restriction",
-      "text": "Arbeitsplatzbeschränkung"
+      "text": "Klassenbeschränkung"
     },
     {
       "key": "entry_board_reqruit_level",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "レベル制限",
       "source_en": "Level Restriction",
-      "text": "Niveaubeschränkung"
+      "text": "Stufenbeschränkung"
     },
     {
       "key": "entry_board_reqruit_osusume",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "オススメ",
       "source_en": "Rec. Settings",
-      "text": "Rec. Einstellungen"
+      "text": "Empfohlene Einstellungen"
     },
     {
       "key": "entry_board_reqruit_password",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "募集する",
       "source_en": "Recruit",
-      "text": "Rekrut"
+      "text": "Mitspieler suchen"
     },
     {
       "key": "entry_board_reqruit_word1",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "IRを指定する",
       "source_en": "Specify IR",
-      "text": "IR angeben"
+      "text": "Gegenstandsrang festlegen"
     },
     {
       "key": "entry_board_search_designate_lv",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "レベルを指定する",
       "source_en": "Specify Level",
-      "text": "Angabe des Niveaus"
+      "text": "Stufe festlegen"
     },
     {
       "key": "entry_board_search_exec_search",
@@ -296,7 +296,7 @@
       "tag_source": "source_en",
       "source_jp": "検索条件の設定",
       "source_en": "Set Search Conditions",
-      "text": "Suchbegriffe festlegen"
+      "text": "Suchkriterien festlegen"
     },
     {
       "key": "entry_board_search_search_clanmember",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "知り合いが参加しているエントリーで探す",
       "source_en": "Look for entries where friends are participating",
-      "text": "Suche nach Einträgen, an denen Freunde teilnehmen"
+      "text": "Anmeldungen mit Freunden suchen"
     },
     {
       "key": "entry_board_search_search_groupchat",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "グループチャット",
       "source_en": "Group Chat",
-      "text": "Gruppen-Chat"
+      "text": "Gruppenchat"
     },
     {
       "key": "entry_board_search_search_job",
@@ -336,7 +336,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブを指定して探す",
       "source_en": "Search Jobs Allowed",
-      "text": "Search Jobs erlaubt"
+      "text": "Nach Klasse suchen"
     },
     {
       "key": "entry_board_search_search_name",
@@ -344,7 +344,7 @@
       "tag_source": "source_en",
       "source_jp": "名前を指定して探す",
       "source_en": "Search by Name",
-      "text": "Suche nach Name"
+      "text": "Nach Namen suchen"
     },
     {
       "key": "entry_board_search_search_party",
@@ -352,7 +352,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーメンバー",
       "source_en": "Party Members",
-      "text": "Parteimitglieder"
+      "text": "Gruppenmitglieder"
     },
     {
       "key": "entry_board_search_search_password",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "パスワード設定なし",
       "source_en": "No Password Set",
-      "text": "Kein Password Set"
+      "text": "Ohne Passwort"
     },
     {
       "key": "entry_board_search_serach_ir",
@@ -368,7 +368,7 @@
       "tag_source": "source_en",
       "source_jp": "IRを指定して探す",
       "source_en": "Search by IR",
-      "text": "Suche nach IR"
+      "text": "Nach Gegenstandsrang suchen"
     },
     {
       "key": "entry_board_search_serach_level",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "レベルを指定して探す",
       "source_en": "Search by Level",
-      "text": "Suche nach Level"
+      "text": "Nach Stufe suchen"
     },
     {
       "key": "entry_board_search_tab_acquaintance",
@@ -384,7 +384,7 @@
       "tag_source": "source_en",
       "source_jp": "知り合い検索",
       "source_en": "Acquaintance Search",
-      "text": "Bekanntschaftssuche"
+      "text": "Bekannte suchen"
     },
     {
       "key": "entry_board_search_tab_status",
@@ -416,7 +416,7 @@
       "tag_source": "source_en",
       "source_jp": "あり(メイン武器のみ)",
       "source_en": "Yes (Main Weap Only)",
-      "text": "Ja (nur Hauptwaffen)"
+      "text": "Ja (nur Hauptwaffe)"
     },
     {
       "key": "entry_board_set_ir_normal",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "あり(装備品の平均)",
       "source_en": "Yes (Equip Avg)",
-      "text": "Ja (Equip Avg)"
+      "text": "Ja (Durchschnittsrang)"
     },
     {
       "key": "entry_board_time_gather",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "Ａランク ： <VAL DP>",
       "source_en": "A Rank: <VAL DP>",
-      "text": "Ein Rang: <VAL DP>"
+      "text": "Rang A: <VAL DP>"
     },
     {
       "key": "entry_board_wm_rank_b",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "Ｂランク ： <VAL DP>",
       "source_en": "B Rank: <VAL DP>",
-      "text": "B Rang: <VAL DP>"
+      "text": "Rang B: <VAL DP>"
     },
     {
       "key": "entry_board_wm_rank_c",
@@ -480,7 +480,7 @@
       "tag_source": "source_en",
       "source_jp": "Ｃランク ： <VAL DP>",
       "source_en": "C Rank: <VAL DP>",
-      "text": "C Rang: <VAL DP>"
+      "text": "Rang C: <VAL DP>"
     }
   ],
   "schema_version": 1,

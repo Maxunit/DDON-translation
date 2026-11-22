@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "現在のパーティーメンバーのジョブ構成／進行状況",
       "source_en": "Job Composition/Progress of Current Party Members",
-      "text": "Zusammensetzung/Fortschritt der derzeitigen Parteimitglieder"
+      "text": "Klassen und Fortschritt der Gruppenmitglieder"
     },
     {
       "key": "bbi_match_msg_002",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブレベル",
       "source_en": "Vocation LV.",
-      "text": "Beruf LV."
+      "text": "Klassenstufe"
     },
     {
       "key": "bbi_match_msg_004",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "突入",
       "source_en": "Embark",
-      "text": "Einschiffung"
+      "text": "Aufbrechen"
     },
     {
       "key": "bbi_match_msg_006",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "進行状況が合わないメンバーがいるため、突入できません",
       "source_en": "Cannot enter because there are members with\r\ndifferent progress.",
-      "text": "Kann nicht eintreten, weil es mitglieder mit.\r\nunterschiedliche Fortschritte."
+      "text": "Ihr könnt nicht eintreten, weil die\r\nGruppenmitglieder unterschiedlich weit sind."
     },
     {
       "key": "bbi_match_msg_007",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "リーダーが突入を開始していないため、突入できません",
       "source_en": "Cannot enter because leader has not started.",
-      "text": "Kann nicht eintreten, weil der Führer noch nicht begonnen hat."
+      "text": "Ihr könnt erst eintreten, wenn die Gruppenleitung begonnen hat."
     },
     {
       "key": "bbi_match_msg_008",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "進行状況が合わないメンバーがいるため、クイックパーティーできません",
       "source_en": "Cannot use quick party because there are members\r\nwith different progress.",
-      "text": "Kann keine schnelle Partei verwenden, weil es Mitglieder\r\n mit unterschiedlichem Fortschritt gibt."
+      "text": "Die Schnellsuche ist nicht verfügbar.\r\nDie Gruppenmitglieder sind unterschiedlich weit."
     },
     {
       "key": "bbi_match_msg_010",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーメンバーが揃っているため選べません",
       "source_en": "Cannot select this option because your party is\r\nfull.",
-      "text": "Kann diese Option nicht auswählen, weil deine Gruppe voll\r\n ist."
+      "text": "Deine Gruppe ist voll.\r\nDiese Option ist daher nicht verfügbar."
     },
     {
       "key": "bbi_match_msg_011",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "所在状況",
       "source_en": "Location Status",
-      "text": "Standortstatus"
+      "text": "Aufenthaltsort"
     },
     {
       "key": "bbi_match_msg_012",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "所在状況が合わないメンバーがいるため、突入できません",
       "source_en": "Cannot enter because there are members in\r\ndifferent location.",
-      "text": "Kann nicht eintreten, weil es Mitglieder in\r\nanderen Ort."
+      "text": "Ihr könnt nicht eintreten, solange sich\r\nGruppenmitglieder an anderen Orten befinden."
     },
     {
       "key": "bbi_match_msg_013",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "所在状況が合わないメンバーがいるため、クイックパーティーできません",
       "source_en": "Cannot use quick party because there are members\r\nin different location.",
-      "text": "Kann keine schnelle Gruppe verwenden, weil es Mitglieder\r\n an verschiedenen Orten gibt."
+      "text": "Die Schnellsuche ist nicht verfügbar.\r\nGruppenmitglieder sind an anderen Orten."
     }
   ],
   "schema_version": 1,

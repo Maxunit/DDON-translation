@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "左のカテゴリを選んでください",
       "source_en": "Please select the category on the left.",
-      "text": "Wähle die Kategorie auf der linken Seite."
+      "text": "Wähle links eine Kategorie aus."
     },
     {
       "key": "RIM_MSG_COST_FORMAT",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "Lv <VAL>～<VAL>",
       "source_en": "Lv <VAL>～<VAL>",
-      "text": "Lv <VAL>≤<VAL>"
+      "text": "St. <VAL> bis <VAL>"
     },
     {
       "key": "RIM_MSG_LOST_PAWN_NOT_FOUND",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーンと契約していません",
       "source_en": "You have not made a contract with any pawns",
-      "text": "Du hast keinen Vertrag mit irgendwelchen Vasallen gemacht"
+      "text": "Du hast mit keinem Vasallen einen Vertrag geschlossen."
     },
     {
       "key": "RIM_MSG_NO_COST",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "Free",
       "source_en": "Free",
-      "text": "frei"
+      "text": "Kostenlos"
     },
     {
       "key": "RIM_MSG_PAWN_STATE_CRAFT",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "待機状態",
       "source_en": "Standby State",
-      "text": "Bereitschaftszustand"
+      "text": "Wartet"
     },
     {
       "key": "RIM_MSG_PAWN_STATE_PARTY",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーメンバー",
       "source_en": "Party Members",
-      "text": "Parteimitglieder"
+      "text": "In der Gruppe"
     },
     {
       "key": "RIM_MSG_RANKLIST_M_COMMU",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトマスターポーン",
       "source_en": "Craft Master Pawn",
-      "text": "Kapitän Vasall"
+      "text": "Meistervasallen für die Herstellung"
     },
     {
       "key": "RIM_MSG_RANKLIST_M_PAWN03",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "公式ポーン",
       "source_en": "Official Pawn",
-      "text": "Offizielle Vasall"
+      "text": "Offizielle Vasallen"
     },
     {
       "key": "RIM_MSG_RANKLIST_M_PAWN04",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "フレンドポーン",
       "source_en": "Friend Pawn",
-      "text": "Freund Vasall"
+      "text": "Vasallen von Freunden"
     },
     {
       "key": "RIM_MSG_RANKLIST_M_PAWN05",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "クランポーン",
       "source_en": "Clan Pawn",
-      "text": "Clan Vasall"
+      "text": "Vasallen aus dem Clan"
     },
     {
       "key": "RIM_MSG_RANKLIST_M_PAWN06",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "お気に入り",
       "source_en": "Favorite",
-      "text": "Favorit"
+      "text": "Favoriten"
     },
     {
       "key": "RIM_MSG_RANKLIST_M_PAWN_SEARCH",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン検索",
       "source_en": "Pawn Search",
-      "text": "Vasall Search"
+      "text": "Vasallensuche"
     },
     {
       "key": "RIM_MSG_RANKLIST_M_SERACH",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーンが見つかりませんでした",
       "source_en": "No Pawn found.",
-      "text": "Keine Vasall gefunden."
+      "text": "Keine Vasallen gefunden."
     },
     {
       "key": "RIM_MSG_SELECT_M_SECTION00",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブ／クラフトレベル",
       "source_en": "Vocation / Craft Level",
-      "text": "Beruf / Handwerksstufe"
+      "text": "Klasse / Herstellungsstufe"
     },
     {
       "key": "RIM_MSG_SELECT_M_SECTION02",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "冒険／クラフト残り回数",
       "source_en": "Adventure / Craft Left",
-      "text": "Abenteuer / Craft Left"
+      "text": "Verbleibende Abenteuer / Herstellungsaufträge"
     },
     {
       "key": "RIM_MSG_SELECT_M_SECTION06",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "レンタルコスト",
       "source_en": "Rental Cost",
-      "text": "Mietkosten"
+      "text": "Leihkosten"
     },
     {
       "key": "RIM_MSG_SELECT_M_SECTION07",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "履歴",
       "source_en": "History",
-      "text": "Geschichte"
+      "text": "Verlauf"
     },
     {
       "key": "RIM_MSG_SELECT_M_SECTION08",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "救済コスト",
       "source_en": "Cost of Salvation",
-      "text": "Kosten der Erlösung"
+      "text": "Rettungskosten"
     },
     {
       "key": "RIM_MSG_SUPPORT_PAWN_COUNT",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーンを雇用していません",
       "source_en": "You have not hired any pawns",
-      "text": "Du hast keine Vasallen eingestellt"
+      "text": "Du hast keine Hilfsvasallen angeheuert."
     },
     {
       "key": "RIM_MSG_TAB_LOST",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "ロストポーン",
       "source_en": "Lost Pawn",
-      "text": "Lost Vasall"
+      "text": "Verlorene Vasallen"
     },
     {
       "key": "RIM_MSG_TAB_MAIN",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン検索",
       "source_en": "Pawn Search",
-      "text": "Vasall Search"
+      "text": "Vasallensuche"
     },
     {
       "key": "RIM_MSG_TAB_SUPPORT",

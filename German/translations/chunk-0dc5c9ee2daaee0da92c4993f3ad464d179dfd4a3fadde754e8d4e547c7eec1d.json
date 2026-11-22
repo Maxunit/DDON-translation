@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "別エントリー検索",
       "source_en": "Search Entries",
-      "text": "Sucheinträge"
+      "text": "Anmeldungen suchen"
     },
     {
       "key": "entry_board_buttonguid_membercheck",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーメンバー確認",
       "source_en": "Check Party Members",
-      "text": "Prüfe die Parteimitglieder"
+      "text": "Gruppenmitglieder ansehen"
     },
     {
       "key": "entry_board_comment",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "コメント",
       "source_en": "Comment",
-      "text": "Anmerkungen"
+      "text": "Kommentar"
     },
     {
       "key": "entry_board_contents_event",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "検索結果は0件でした",
       "source_en": "There was 0 search results.",
-      "text": "Es gab 0 Suchergebnisse."
+      "text": "Keine Suchergebnisse."
     },
     {
       "key": "entry_board_info_comment",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "コメント　：",
       "source_en": "Comment:  ",
-      "text": "Anmerkung:  "
+      "text": "Kommentar:  "
     },
     {
       "key": "entry_board_info_ir_jobrole",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "IR数値：",
       "source_en": "IR Num:  ",
-      "text": "IR Nummer:  "
+      "text": "Gegenstandsrang:  "
     },
     {
       "key": "entry_board_info_job_on",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "レベル制限：",
       "source_en": "Level Limit:  ",
-      "text": "Grenzwert:  "
+      "text": "Stufenbeschränkung:  "
     },
     {
       "key": "entry_board_info_member_check",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "メンバー確認",
       "source_en": "Check Members",
-      "text": "Kontrollmitglieder"
+      "text": "Mitglieder ansehen"
     },
     {
       "key": "entry_board_info_memberlist",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "Member List",
       "source_en": "Member List",
-      "text": "Mitgliedsliste"
+      "text": "Mitgliederliste"
     },
     {
       "key": "entry_board_info_memberlist_j",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "メンバーリスト",
       "source_en": "Member List",
-      "text": "Mitgliedsliste"
+      "text": "Mitgliederliste"
     },
     {
       "key": "entry_board_info_no",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "戻る",
       "source_en": "Return",
-      "text": "Rückkehr"
+      "text": "Zurück"
     },
     {
       "key": "entry_board_info_no_designate_job",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブ指定なし",
       "source_en": "  Any Job",
-      "text": "  Jeder Job"
+      "text": "  Jede Klasse"
     },
     {
       "key": "entry_board_info_option",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "パスワード：",
       "source_en": "Password:  ",
-      "text": "Kennwort:  "
+      "text": "Passwort:  "
     },
     {
       "key": "entry_board_info_word1",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "min<VAL>～",
       "source_en": " min <VAL>～",
-      "text": " min <VAL>≤"
+      "text": " Ab <VAL>"
     },
     {
       "key": "entry_board_is_cancel_make",
@@ -304,7 +304,7 @@
       "tag_source": "source_en",
       "source_jp": "募集主",
       "source_en": "Leader",
-      "text": "Führer"
+      "text": "Gruppenleitung"
     },
     {
       "key": "entry_board_level_band",
@@ -312,7 +312,7 @@
       "tag_source": "source_en",
       "source_jp": "min<VAL>～max<VAL>",
       "source_en": " <VAL>～<VAL>",
-      "text": " <VAL>～<VAL>"
+      "text": " <VAL> bis <VAL>"
     },
     {
       "key": "entry_board_lv_limit1",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "レベル制限：",
       "source_en": "Level Limit:  ",
-      "text": "Grenzwert:  "
+      "text": "Stufenbeschränkung:  "
     },
     {
       "key": "entry_board_lv_limit2",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "レベル制限",
       "source_en": "  Level Restriction",
-      "text": "  Niveaubeschränkung"
+      "text": "  Stufenbeschränkung"
     },
     {
       "key": "entry_board_mission_info_attention",
@@ -344,7 +344,7 @@
       "tag_source": "source_en",
       "source_jp": "マルチプレイでのエントリーボード検索はできません\r\nエントリーボード招待やパーティー招待などの機能を\r\n使用して、他のプレイヤーを募集することが可能です",
       "source_en": "Multiplayer Entry Board Search is not available",
-      "text": "Multiplayer Entry Board Search ist nicht verfügbar"
+      "text": "Im Mehrspielermodus kannst du am Anmeldebrett nicht suchen. Lade andere Spieler über das Anmeldebrett oder die Gruppenverwaltung ein."
     },
     {
       "key": "entry_board_mission_info_bt_multi",
@@ -352,7 +352,7 @@
       "tag_source": "source_en",
       "source_jp": "マルチプレイ",
       "source_en": "Multi Play",
-      "text": "Multiplayer"
+      "text": "Mehrspielermodus"
     },
     {
       "key": "entry_board_mission_info_bt_solo",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "ソロプレイ",
       "source_en": "Solo Play",
-      "text": "Solospiel"
+      "text": "Solomodus"
     },
     {
       "key": "entry_board_mission_info_cancel",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "受注条件",
       "source_en": "Accept Requirements",
-      "text": "Anforderungen akzeptieren"
+      "text": "Teilnahmebedingungen"
     },
     {
       "key": "entry_board_mission_info_decide",
@@ -392,7 +392,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>人専用コンテンツ",
       "source_en": "<VAL> Player-only content",
-      "text": "<VAL> Player-only Inhalt"
+      "text": "Inhalt für genau <VAL> Spieler"
     },
     {
       "key": "entry_board_mission_info_recommand",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "戦況",
       "source_en": "War Situation",
-      "text": "Kriegssituation"
+      "text": "Schlachtlage"
     },
     {
       "key": "entry_board_mission_pb_type01_info",
@@ -440,7 +440,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティー募集掲示板で集合したパーティーは\r\n特定コンテンツ用パーティーではなく\r\n通常のパーティーとなります\r\n特定コンテンツに参加するには、\r\n対象のコンテンツNPCのエントリーボードを\r\n使用してください",
       "source_en": "The parties formed on the party recruitment\r\nbulletin board will be regular parties and not\r\nparties for specific content. To participate in\r\nspecific content, please use the entry board of\r\nthe respective content NPC",
-      "text": "Die Parteien, die auf der Partei Rekrutierung gebildet\r\nBulletin Board wird regelmäßige Parteien sein und nicht\r\nParteien für bestimmte Inhalte.\r\nspezifischer Inhalt, verwende bitte das Entry Board von\r\nder jeweilige Inhalt NPC"
+      "text": "Über die Gruppensuche bildest du\r\neine reguläre Gruppe.\r\nFür eine bestimmte Mission nutze\r\ndas Anmeldebrett beim\r\nzuständigen NPC."
     },
     {
       "key": "entry_board_num_menber",

@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "口調：",
       "source_en": "Pers.:",
-      "text": "Pers:"
+      "text": "Tonfall:"
     },
     {
       "key": "PAWNREACTION_MSG_IF_ADEATH",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "プレイヤー死亡時",
       "source_en": "Player Death",
-      "text": "Spieler Tod"
+      "text": "Beim Tod des Spielers"
     },
     {
       "key": "PAWNREACTION_MSG_IF_ENDBATTLE",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "戦闘終了時",
       "source_en": "End of Combat",
-      "text": "Ende des Kampfes"
+      "text": "Nach dem Kampf"
     },
     {
       "key": "PAWNREACTION_MSG_IF_LVUP",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティメンバーと出会った時",
       "source_en": "Met Party Members",
-      "text": "Mitglieder der Met Gruppe"
+      "text": "Beim Treffen mit Gruppenmitgliedern"
     },
     {
       "key": "PAWNREACTION_MSG_IF_QCLEAR",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "冒険待機時",
       "source_en": "Waiting on Adventure",
-      "text": "Warten auf Abenteuer"
+      "text": "Beim Warten auf ein Abenteuer"
     },
     {
       "key": "PAWNREACTION_MSG_IF_WAIT_LAB",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトルーム待機時",
       "source_en": "Waiting on Craft",
-      "text": "Warten auf Craft"
+      "text": "Beim Warten in der Werkstatt"
     },
     {
       "key": "PAWNREACTION_MSG_IF_WAIT_LOBBY",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "ロビー待機時",
       "source_en": "Waiting on Lobby",
-      "text": "Warten in der Lobby"
+      "text": "Beim Warten in der Lobby"
     },
     {
       "key": "PAWNREACTION_MSG_NONE",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "特技使用時",
       "source_en": "Special Skill Use",
-      "text": "Spezialisierte Fähigkeiten"
+      "text": "Beim Einsatz einer Spezialfertigkeit"
     },
     {
       "key": "PAWNREACTION_MSG_TITLE",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーンリアクションを設定して下さい",
       "source_en": "Customize Pawn Reactions",
-      "text": "Passe Vasall Reactions an"
+      "text": "Vasallenreaktionen einstellen"
     }
   ],
   "schema_version": 1,

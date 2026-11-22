@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "このロットはリセットできません",
       "source_en": "This lot cannot be reset.",
-      "text": "Dieses Los kann nicht zurückgesetzt werden."
+      "text": "Diese Lotterie kann nicht zurückgesetzt werden."
     },
     {
       "key": "gacha_msg_ana_ng_box_full",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムポストの空きが不足しているため、トレジャーズロットをまわすことができません",
       "source_en": "Cannot draw from the Treasure Lot because the\r\nItem Post is full.",
-      "text": "Kann nicht aus dem Schatz Lot ziehen, weil die\r\nItem Post ist voll."
+      "text": "Deine Gegenstandspost ist voll.\r\nDu kannst keine Lose ziehen."
     },
     {
       "key": "gacha_msg_ana_ng_gs_lack",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石が不足しているため、トレジャーズロットをまわすことができません",
       "source_en": "You don't have enough Golden Gemstones to draw\r\nfrom the Treasure Lot.",
-      "text": "Du hast nicht genug Goldsteine zu zeichnen\r\nAus dem Schatz Lot."
+      "text": "Du hast nicht genug Goldsteine\r\nfür die Schatzlotterie."
     },
     {
       "key": "gacha_msg_ana_ng_service_benefits",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "効能が切れているため、トレジャーズロットをまわすことができません",
       "source_en": "Can't spin the Treasure Lot because the effect\r\nhas worn off.",
-      "text": "Kann den Schatz nicht drehen, weil der Effekt\r\n abgeklungen ist."
+      "text": "Die Wirkung ist abgelaufen.\r\nDu kannst keine Lose mehr ziehen."
     },
     {
       "key": "gacha_msg_ana_ng_ticket_lack",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "シルバーチケットが不足しているため、トレジャーズロットをまわすことができません",
       "source_en": "You don't have enough Silver Tickets to draw from\r\nthe Treasure Lot.",
-      "text": "Du hast nicht genug silbertickets, aus denen sie schöpfen können.\r\nDer Schatz Lot."
+      "text": "Du hast nicht genug Silbertickets\r\nfür die Schatzlotterie."
     },
     {
       "key": "gacha_msg_ana_no_lot_reset",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "ロットがまわっていないので、リセットできません",
       "source_en": "I can't reset it because the set has not been\r\nrotated.",
-      "text": "Ich kann es nicht zurücksetzen, weil das Set nicht\r\n gedreht wurde."
+      "text": "Du kannst die Lotterie erst zurücksetzen,\r\nnachdem du ein Los gezogen hast."
     },
     {
       "key": "gacha_msg_ana_send_box",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "いいものは出たかしら？\r\n獲得したアイテムはアイテムポストに送っておくね",
       "source_en": "Got something good?\r\nI'll send the item to your Item Post.",
-      "text": "Habt ihr etwas Gutes?\r\nIch schicke den Artikel an euren Item Post."
+      "text": "Etwas Gutes gezogen?\r\nDein Gewinn geht an die Gegenstandspost."
     },
     {
       "key": "gacha_msg_annotation",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "※提供確率は小数点第3位を四捨五入して表示しています\r\n　このため、合計が100%にならない場合もございます",
       "source_en": "* Reward probability is rounded off to the third\r\ndecimal place.\r\nFor this reason, the total probability may not be\r\n100%.",
-      "text": "* Die Belohnungswahrscheinlichkeit wird auf die dritte\r\ndezimale Stelle abgerundet.\r\nAus diesem Grund darf die Gesamtwahrscheinlichkeit nicht\r\n100% betragen."
+      "text": "※ Die Gewinnchancen werden auf zwei\r\nNachkommastellen gerundet.\r\nIhre Summe beträgt daher\r\nnicht immer 100 %."
     },
     {
       "key": "gacha_msg_annotation2",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "提供割合は小数点第3位を四捨五入して表示しています\r\nこのため、合計が100%にならない場合もございます",
       "source_en": "Possible percentage is rounded off to the third\r\ndecimal place.\r\nFor this reason, the total percentage possible\r\nmay not be 100%.",
-      "text": "Der mögliche Prozentsatz wird auf die dritte\r\ndezimale Stelle abgerundet.\r\nAus diesem Grund ist der gesamte mögliche Prozentsatz\r\n möglicherweise nicht 100%."
+      "text": "Die angegebenen Chancen werden auf zwei\r\nNachkommastellen gerundet.\r\nIhre Summe beträgt daher\r\nnicht immer 100 %."
     },
     {
       "key": "gacha_msg_annotation_box",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "排出率は均一です",
       "source_en": "The discharge rate is uniform.",
-      "text": "Die Austragsrate ist gleichmäßig."
+      "text": "Alle verbleibenden Lose haben dieselbe Ziehungswahrscheinlichkeit."
     },
     {
       "key": "gacha_msg_box_state",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "ボックス状況",
       "source_en": "Box Status",
-      "text": "Status des Felds"
+      "text": "Stand der Kistenlotterie"
     },
     {
       "key": "gacha_msg_brief_gacha",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "ロット概要",
       "source_en": "Lot Overview",
-      "text": "Lot Überblick"
+      "text": "Lotterieübersicht"
     },
     {
       "key": "gacha_msg_buy_goldenstone",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "ロットで獲得した商品はアイテムポストに送られます",
       "source_en": "Items acquired in the lot will be sent via item\r\npost.",
-      "text": "Gegenstände, die im Los erworben wurden, werden über Artikel\r\npost verschickt."
+      "text": "Gewinne werden an deine\r\nGegenstandspost gesendet."
     },
     {
       "key": "gacha_msg_class_a",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "B級品",
       "source_en": "B Grade",
-      "text": "B Grad"
+      "text": "Rang B"
     },
     {
       "key": "gacha_msg_class_c",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "C級品",
       "source_en": "C Grade",
-      "text": "C Grad"
+      "text": "Rang C"
     },
     {
       "key": "gacha_msg_class_d",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "D級品",
       "source_en": "D Grade",
-      "text": "D Grad"
+      "text": "Rang D"
     },
     {
       "key": "gacha_msg_class_s",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "S級品",
       "source_en": "S Grade",
-      "text": "S Grad"
+      "text": "Rang S"
     },
     {
       "key": "gacha_msg_contents_view",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "詳細情報",
       "source_en": "Detailed Info",
-      "text": "Detaillierte Infos"
+      "text": "Details"
     },
     {
       "key": "gacha_msg_diable_gp_to_gacha",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "このトレジャーズロットでは黄金石は使用できません",
       "source_en": "Golden Gemstones cannot be used for this Treasure\r\nLot",
-      "text": "Goldsteine können nicht für diesen Schatz verwendet werden\r\nLot"
+      "text": "Für diese Schatzlotterie kannst du\r\nkeine Goldsteine einsetzen."
     },
     {
       "key": "gacha_msg_diable_ticket_to_gacha",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "このトレジャーズロットではシルバーチケットは使用できません",
       "source_en": "Silver Tickets cannot be used for this Treasure\r\nLot",
-      "text": "Silbertickets können nicht für diesen Schatz verwendet werden\r\nLot"
+      "text": "Für diese Schatzlotterie kannst du\r\nkeine Silbertickets einsetzen."
     },
     {
       "key": "gacha_msg_dialog_error_01",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "プレイ回数制限があります。これ以上はまわせません",
       "source_en": "There is a play count limit. You cannot play\r\nagain for now.",
-      "text": "Es gibt eine Spielanzahlgrenze. Du kannst vorerst nicht wieder spielen\r\n."
+      "text": "Du hast die maximale Anzahl an Ziehungen\r\nerreicht."
     },
     {
       "key": "gacha_msg_dialog_error_02",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "ボックスロット内の残り数が<VAL>個です\r\n選択中のプレイタイプではまわせません",
       "source_en": "The remaining number in the box slot is <VAL>.\r\nYou cannot spin in the selected play type.",
-      "text": "Die verbleibende Zahl im Box-Slot ist <VAL>.\r\nDu kannst den ausgewählten Spieltyp nicht drehen."
+      "text": "In der Kistenlotterie sind noch <VAL> Lose übrig.\r\nDie gewählte Ziehungsart ist nicht verfügbar."
     },
     {
       "key": "gacha_msg_dialog_error_03",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "回数制限のため、\r\n選択した支払い方法ではまわせません",
       "source_en": "Due to the limited number of times, the selected\r\npayment method cannot be used.",
-      "text": "Aufgrund der begrenzten Anzahl von Malen kann die ausgewählte\r\nZahlungsmethode nicht verwendet werden."
+      "text": "Das Limit für die gewählte\r\nZahlungsart ist erreicht."
     },
     {
       "key": "gacha_msg_dialog_gp_lack",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石が不足しています\r\n選択中のロットをまわすには<COL ffdc78>黄金石<VAL>個</COL>が必要です\r\n(所持数：<VAL>)",
       "source_en": "You do not have enough Golden Gemstones.\r\nTo spin the selected lot, you need <COL ffdc78>\r\n<VAL> Golden Gemstone(s)</COL>.\r\n(Currently owned: <VAL>)",
-      "text": "Du hast nicht genug Goldsteine.\r\nUm das ausgewählte Los zu drehen, brauchst du <COL ffdc78>\r\n<VAL> Goldsteine</COL>.\r\n(Derzeit im Besitz: <VAL>)"
+      "text": "Du hast nicht genug Goldsteine.\r\nFür die gewählte Ziehung brauchst du<COL ffdc78>\r\n<VAL> Goldsteine</COL>.\r\n(Im Besitz: <VAL>)"
     },
     {
       "key": "gacha_msg_dialog_reset_conf",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "ボックスをリセットします。よろしいですか？\r\n<COL AA1414>※一度リセットすると元に戻せません</COL>",
       "source_en": "Do you want to reset the box?\r\n<COL AA1414>*Once reset, it cannot be\r\nundone.</COL>",
-      "text": "Möchtest du die Box zurücksetzen?\r\n<COL AA1414>*Sobald sie zurückgesetzt wurde, kann sie nicht wieder rückgängig gemacht werden\r\n.</COL>"
+      "text": "Möchtest du die Kistenlotterie zurücksetzen?\r\n<COL AA1414>Das lässt sich nicht\r\nrückgängig machen.</COL>"
     },
     {
       "key": "gacha_msg_dialog_reset_success",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "ボックスをリセットしました",
       "source_en": "Box reset.",
-      "text": "Box-Reset."
+      "text": "Die Kistenlotterie wurde zurückgesetzt."
     },
     {
       "key": "gacha_msg_dialog_select_playnum",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "プレイタイプを選んでください",
       "source_en": "Please select play type",
-      "text": "Wähle Spieltyp"
+      "text": "Wähle die Art der Ziehung."
     },
     {
       "key": "gacha_msg_dialog_select_price",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "以下の内容でまわします。よろしいですか？\r\nロット名　　：<VAL>\r\nプレイタイプ：<VAL>\r\n支払い方法　：<VAL>",
       "source_en": "Are you sure you want to draw this lot?\r\nLot Name: <VAL>\r\nPlay Type: <VAL>\r\nPayment Method: <VAL>",
-      "text": "Bist du sicher, dass du dieses Los zeichnen willst?\r\nLos Name: <VAL>\r\nPlay Type: <VAL>\r\nZahlungsmethode: <VAL>"
+      "text": "Möchtest du mit diesen Einstellungen ziehen?\r\nLotterie: <VAL>\r\nZiehungsart: <VAL>\r\nZahlungsart: <VAL>"
     },
     {
       "key": "gacha_msg_dialog_start_conf_pay_free",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "無料",
       "source_en": "Free",
-      "text": "frei"
+      "text": "Kostenlos"
     },
     {
       "key": "gacha_msg_dialog_start_conf_pay_gp",
@@ -304,7 +304,7 @@
       "tag_source": "source_en",
       "source_jp": "シルバーチケット%d枚",
       "source_en": "%d Silver Tickets",
-      "text": "%d Silber Tickets"
+      "text": "%d Silbertickets"
     },
     {
       "key": "gacha_msg_dialog_start_conf_play_num",
@@ -312,7 +312,7 @@
       "tag_source": "source_en",
       "source_jp": "%dプレイ",
       "source_en": "%d Plays",
-      "text": "%d Spiele"
+      "text": "%d Ziehungen"
     },
     {
       "key": "gacha_msg_dialog_start_conf_play_trial",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "お試しプレイ",
       "source_en": "Trial",
-      "text": "Versuch"
+      "text": "Probeziehung"
     },
     {
       "key": "gacha_msg_disable_gp",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石は使用できません",
       "source_en": "Golden Gemstones can't be used",
-      "text": "Goldsteine können nicht verwendet werden"
+      "text": "Goldsteine können nicht eingesetzt werden."
     },
     {
       "key": "gacha_msg_disable_ticket",
@@ -336,7 +336,7 @@
       "tag_source": "source_en",
       "source_jp": "チケットは使用できません",
       "source_en": "Tickets can't be used",
-      "text": "Tickets können nicht verwendet werden"
+      "text": "Tickets können nicht eingesetzt werden."
     },
     {
       "key": "gacha_msg_draw",
@@ -344,7 +344,7 @@
       "tag_source": "source_en",
       "source_jp": "まわす",
       "source_en": "Draw",
-      "text": "Zeichnung"
+      "text": "Ziehen"
     },
     {
       "key": "gacha_msg_draw_free",
@@ -352,7 +352,7 @@
       "tag_source": "source_en",
       "source_jp": "無料でまわす",
       "source_en": "Use Free",
-      "text": "Gebrauchsfrei"
+      "text": "Kostenlos ziehen"
     },
     {
       "key": "gacha_msg_draw_gp",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石でまわす",
       "source_en": "Use GG",
-      "text": "Verwendung GG"
+      "text": "Goldsteine einsetzen"
     },
     {
       "key": "gacha_msg_draw_lot",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "チケットでまわす",
       "source_en": "Use ST",
-      "text": "Verwendung ST"
+      "text": "Silbertickets einsetzen"
     },
     {
       "key": "gacha_msg_free",
@@ -384,7 +384,7 @@
       "tag_source": "source_en",
       "source_jp": "無料",
       "source_en": "Free",
-      "text": "frei"
+      "text": "Kostenlos"
     },
     {
       "key": "gacha_msg_getitem",
@@ -392,7 +392,7 @@
       "tag_source": "source_en",
       "source_jp": "獲得アイテム",
       "source_en": "Item earned",
-      "text": "Erworbene Posten"
+      "text": "Gewinn"
     },
     {
       "key": "gacha_msg_getnum",
@@ -408,7 +408,7 @@
       "tag_source": "source_en",
       "source_jp": "所持黄金石",
       "source_en": "Golden Gemstone Total",
-      "text": "Goldstein Total"
+      "text": "Goldsteinbestand"
     },
     {
       "key": "gacha_msg_holding_ticket",
@@ -416,7 +416,7 @@
       "tag_source": "source_en",
       "source_jp": "所持シルバーチケット",
       "source_en": "Possessing Silver Tickets",
-      "text": "Besitz von Silbertickets"
+      "text": "Silberticketbestand"
     },
     {
       "key": "gacha_msg_isdraw_by_a_stone",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石<VAL>個を消費して、\r\nロットを1回まわします。よろしいですか？",
       "source_en": "Are you sure you want to consume <VAL> Golden\r\nGemstone(s),\r\nand draw from the lot once?",
-      "text": "Bist du sicher, dass du konsumieren willst? <VAL> Gold\r\nEdelstein(e),\r\nUnd einmal aus dem Los ziehen?"
+      "text": "Möchtest du <VAL>\r\nGoldsteine einsetzen\r\nund ein Los ziehen?"
     },
     {
       "key": "gacha_msg_isdraw_by_a_ticket",
@@ -432,7 +432,7 @@
       "tag_source": "source_en",
       "source_jp": "チケット<VAL>枚を消費して、\r\nロットを1回まわします。よろしいですか？",
       "source_en": "Are you sure you want to consume <VAL> Silver\r\nTicket(s),\r\nand draw from the lot once?",
-      "text": "Bist du sicher, dass du konsumieren willst? <VAL> Silber\r\nFahrkarte(n),\r\nUnd einmal aus dem Los ziehen?"
+      "text": "Möchtest du <VAL>\r\nSilbertickets einsetzen\r\nund ein Los ziehen?"
     },
     {
       "key": "gacha_msg_isdraw_by_stones",
@@ -440,7 +440,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石<VAL>個を消費して、\r\nロットを<VAL>連続でまわします。よろしいですか？",
       "source_en": "Are you sure you want to consume <VAL> Golden\r\nGemstone(s),\r\nand draw from the lot <VAL> times?",
-      "text": "Bist du sicher, dass du konsumieren willst? <VAL> Gold\r\nEdelstein(e),\r\nund ziehe aus dem Los <VAL> Zeiten?"
+      "text": "Möchtest du <VAL>\r\nGoldsteine einsetzen\r\nund <VAL> Lose ziehen?"
     },
     {
       "key": "gacha_msg_isdraw_by_tickets",
@@ -448,7 +448,7 @@
       "tag_source": "source_en",
       "source_jp": "チケット<VAL>枚を消費して、\r\nロットを<VAL>連続でまわします。よろしいですか？",
       "source_en": "Are you sure you want to consume <VAL> Silver\r\nTicket(s),\r\nand draw from the lot <VAL> times?",
-      "text": "Bist du sicher, dass du konsumieren willst? <VAL> Silber\r\nFahrkarte(n),\r\nund ziehe aus dem Los <VAL> Zeiten?"
+      "text": "Möchtest du <VAL>\r\nSilbertickets einsetzen\r\nund <VAL> Lose ziehen?"
     },
     {
       "key": "gacha_msg_itemclass_a",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "B級品アイテム",
       "source_en": "B Grade Items",
-      "text": "B Klasse-Positionen"
+      "text": "Gegenstände des Rangs B"
     },
     {
       "key": "gacha_msg_itemclass_c",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "C級品アイテム",
       "source_en": "C Grade Items",
-      "text": "C Klasse-Positionen"
+      "text": "Gegenstände des Rangs C"
     },
     {
       "key": "gacha_msg_itemclass_d",
@@ -480,7 +480,7 @@
       "tag_source": "source_en",
       "source_jp": "D級品アイテム",
       "source_en": "D Grade Items",
-      "text": "D Klasse-Positionen"
+      "text": "Gegenstände des Rangs D"
     }
   ],
   "schema_version": 1,

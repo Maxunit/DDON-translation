@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "送り先がいっぱいのため、受け取ることができません",
       "source_en": "You cannot receive it because the destination is\r\nfull",
-      "text": "Du kannst es nicht erhalten, weil das Ziel\r\n voll ist."
+      "text": "Am gewählten Ziel ist kein Platz.\r\nDu kannst den Gegenstand nicht annehmen."
     },
     {
       "key": "HANDOVER_MSG_ANNOUCE_01",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムを受け取らずに戻りますか？\r\n受け取ったアイテムは戻されます",
       "source_en": "Do you want to return without receiving items?\r\nItems received will be returned.",
-      "text": "Möchtest du zurückkehren, ohne Artikel zu erhalten?\r\n Erhaltene Artikel werden zurückgegeben."
+      "text": "Zurückkehren, ohne Gegenstände anzunehmen?\r\nBereits angenommene Gegenstände werden zurückgelegt."
     },
     {
       "key": "HANDOVER_MSG_DIALOG_00_MANDRA",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムの受け取りを中止しますか？\r\n(未受け取りのままだと再び育てることができません)",
       "source_en": "Do you want to cancel receiving the item? (If you\r\ndon't receive it, you won't be able to raise it\r\nagain)",
-      "text": "Möchtest du die Annahme abbrechen?\r\nOhne Annahme kannst du diesen Gegenstand\r\nnicht erneut aufziehen."
+      "text": "Möchtest du die Annahme abbrechen?\r\nLässt du den Gegenstand liegen, kannst du\r\ndie Aufzucht nicht erneut beginnen."
     },
     {
       "key": "HANDOVER_MSG_DIALOG_01",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムを受け取らずすべて捨てます\r\nよろしいですか？",
       "source_en": "Are you sure you want to discard all items\r\nwithout receiving them?",
-      "text": "Bist du sicher, dass du alle Gegenstände\r\n wegwerfen willst, ohne sie zu erhalten?"
+      "text": "Möchtest du alle Gegenstände verwerfen,\r\nohne sie anzunehmen?"
     },
     {
       "key": "HANDOVER_MSG_TITLE_M_TITLE00",

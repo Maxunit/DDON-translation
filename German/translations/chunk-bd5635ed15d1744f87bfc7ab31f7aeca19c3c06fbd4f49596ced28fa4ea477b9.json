@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "移動",
       "source_en": "Move",
-      "text": "Bewegung"
+      "text": "Bewegen"
     },
     {
       "key": "ORB_TEXT_CONDITION_QUEST",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "▼以下のクエストをクリア",
       "source_en": "▼ Clear the following quest",
-      "text": "▼ Lösche die folgende Quest"
+      "text": "▼ Schließe die folgende Quest ab"
     },
     {
       "key": "ORB_TEXT_CONDITION_SPECIAL",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "▼以下の特殊条件をクリア",
       "source_en": "▼ Clear the following special conditions",
-      "text": "▼ Lösche die folgenden Sonderbedingungen"
+      "text": "▼ Erfülle die folgenden Sonderbedingungen"
     },
     {
       "key": "ORB_TEXT_ERR_ADJACENT",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "取得した能力に隣接する能力のみ選択できます",
       "source_en": "You can only activate adjacent perks.",
-      "text": "Du kannst nur benachbarte Vergünstigungen aktivieren."
+      "text": "Wähle einen Bonus, der an einen bereits freigeschalteten Bonus grenzt."
     },
     {
       "key": "ORB_TEXT_ERR_ALLCOMP",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "これ以外のすべての能力を取得することで選択できます",
       "source_en": "You must activate all other perks first",
-      "text": "Du musst zuerst alle anderen Vergünstigungen aktivieren"
+      "text": "Schalte zuerst alle anderen Boni frei."
     },
     {
       "key": "ORB_TEXT_ERR_BO_LACK",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "必要なトータルレベル（ジョブのレベル合計）に達することで選択できます",
       "source_en": "You must first reach the required total level.",
-      "text": "Du musst zuerst das erforderliche Gesamtniveau erreichen."
+      "text": "Die Summe deiner Klassenstufen ist noch zu niedrig."
     },
     {
       "key": "ORB_TEXT_ERR_GETED",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "すでに取得済みの能力です",
       "source_en": "You have already unlocked that perk",
-      "text": "Du hast diesen Perk bereits freigeschaltet"
+      "text": "Diesen Bonus hast du bereits freigeschaltet."
     },
     {
       "key": "ORB_TEXT_ERR_HB_LACK",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNTN HB>が不足しています",
       "source_en": "<UNTN HB> is insufficient",
-      "text": "<UNTN HB> ist unzureichend"
+      "text": "Du hast nicht genug <UNTN HB>."
     },
     {
       "key": "ORB_TEXT_ERR_NOT_CLEAR_QUEST",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "条件のクエストをクリアしていません",
       "source_en": "You have not cleared the required quest.",
-      "text": "Du hast die erforderliche Quest nicht gelöscht."
+      "text": "Schließe zuerst die erforderliche Quest ab."
     },
     {
       "key": "ORB_TEXT_ERR_NOT_CLEAR_SPECIAL",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "特殊条件をクリアしていません",
       "source_en": "Special conditions have not been met",
-      "text": "Sonderkonditionen nicht erfüllt"
+      "text": "Die Sonderbedingungen sind noch nicht erfüllt."
     },
     {
       "key": "ORB_TEXT_ERR_NOT_CONNECT",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "下につながっている能力を取得するまで選択できません",
       "source_en": "You must activate the perk below first",
-      "text": "Du musst zuerst den Perk unten aktivieren"
+      "text": "Schalte zuerst den Bonus direkt darunter frei."
     },
     {
       "key": "ORB_TEXT_ERR_NOT_RELEASE_JOB",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブが解放されていません",
       "source_en": "Vocation has not been unlocked",
-      "text": "Beruf wurde nicht freigeschaltet"
+      "text": "Diese Klasse ist noch nicht freigeschaltet."
     },
     {
       "key": "ORB_TEXT_ERR_SCENARIO",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "必要なトータルレベル",
       "source_en": "Required Total Level",
-      "text": "Erforderliche Gesamtmenge"
+      "text": "Erforderliche Gesamtstufe"
     },
     {
       "key": "ORB_TEXT_MYBO",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "所持<UNTN BO>",
       "source_en": "Current <UNTN BO>",
-      "text": "Aktuell <UNTN BO>"
+      "text": "Im Besitz: <UNTN BO>"
     },
     {
       "key": "ORB_TEXT_NEED_BO",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "必要<UNTN BO>：<VAL BO>",
       "source_en": "Required <UNTN BO>: <VAL BO>",
-      "text": "Erforderlich <UNTN BO>: <VAL BO>"
+      "text": "Benötigt: <UNTN BO> ×<VAL BO>"
     },
     {
       "key": "ORB_TEXT_NEED_HB",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "必要<UNTN HB>：<VAL HB>",
       "source_en": "Required <UNTN HB>: <VAL HB>",
-      "text": "Erforderlich <UNTN HB>: <VAL HB>"
+      "text": "Benötigt: <UNTN HB> ×<VAL HB>"
     },
     {
       "key": "ORB_TEXT_NO",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "現在のトータルレベル",
       "source_en": "Current Total Level",
-      "text": "Aktuelle Gesamtmenge"
+      "text": "Aktuelle Gesamtstufe"
     },
     {
       "key": "ORB_TEXT_RELEASE_INDEX",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "取得率",
       "source_en": "Acquisition Rate",
-      "text": "Erwerbsquote"
+      "text": "Freigeschaltete Boni"
     },
     {
       "key": "ORB_TEXT_RELEASE_PERCENT",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "<VAL>%",
       "source_en": "<VAL>%",
-      "text": "<VAL>%"
+      "text": "<VAL> %"
     },
     {
       "key": "ORB_TEXT_SKILL_GET_1ST_0",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "以下の能力を取得します。よろしいですか？\r\n(次回から隣接する能力のみが取得可能になります)\r\n　取得能力：<NAME SKILL>\r\n",
       "source_en": "Are you sure you want to acquire the following\r\nperk?\r\n(Only adjacent perks will be available next.)\r\nPerk: <NAME SKILL>\r\n",
-      "text": "Bist du dir sicher, dass du den folgenden\r\nperk erwerben willst?\r\n(Nur nebenan liegende Perks werden als nächstes verfügbar sein.)\r\nPerk: <NAME SKILL>\r\n"
+      "text": "Möchtest du diesen Bonus\r\nfreischalten?\r\n(Danach kannst du nur angrenzende Boni freischalten.)\r\nBonus: <NAME SKILL>\r\n"
     },
     {
       "key": "ORB_TEXT_SKILL_GET_1ST_1",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "以下の能力を取得します。よろしいですか？\r\n(次回から隣接する能力のみが取得可能になります)\r\n　取得能力：<NAME SKILL>+<VAL>\r\n",
       "source_en": "Are you sure you want to acquire the following\r\nperk?\r\n(Only adjacent perks will be available next)\r\nPerk: <NAME SKILL>+<VAL>\r\n",
-      "text": "Bist du dir sicher, dass du den folgenden\r\nperk erwerben willst?\r\n(Nur nebenan liegende Perks werden als nächstes verfügbar sein)\r\nPerk: <NAME SKILL>+<VAL>\r\n"
+      "text": "Möchtest du diesen Bonus\r\nfreischalten?\r\n(Danach kannst du nur angrenzende Boni freischalten.)\r\nBonus: <NAME SKILL> +<VAL>\r\n"
     },
     {
       "key": "ORB_TEXT_SKILL_GET_2ND_0",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "以下の能力を取得します。よろしいですか？\r\n　取得能力：<NAME SKILL>\r\n",
       "source_en": "Are you sure you want to acquire the following\r\nperk?\r\nPerk: <NAME SKILL>\r\n",
-      "text": "Bist du sicher, dass du den folgenden\r\nperk erwerben willst?\r\nPerk: <NAME SKILL>\r\n"
+      "text": "Möchtest du diesen Bonus\r\nfreischalten?\r\nBonus: <NAME SKILL>\r\n"
     },
     {
       "key": "ORB_TEXT_SKILL_GET_2ND_1",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "以下の能力を取得します。よろしいですか？\r\n　取得能力：<NAME SKILL>+<VAL>\r\n",
       "source_en": "Are you sure you want to acquire the following\r\nperk?\r\nPerk: <NAME SKILL> +<VAL>\r\n",
-      "text": "Bist du sicher, dass du den folgenden\r\nperk erwerben willst?\r\nPerk: <NAME SKILL> +<VAL>\r\n"
+      "text": "Möchtest du diesen Bonus\r\nfreischalten?\r\nBonus: <NAME SKILL> +<VAL>\r\n"
     },
     {
       "key": "ORB_TEXT_SKILL_GET_ALLCOMP_1",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "これ以外のすべての能力を取得した功績を称え\r\n以下の能力を取得します。よろしいですか？\r\n　取得能力：<NAME SKILL>",
       "source_en": "Are you sure you want to acquire the following\r\nperk as a reward for acquiring all other perks?\r\nPerk: <NAME SKILL>",
-      "text": "Bist du sicher, dass du den folgenden\r\nPerk als Belohnung für den Erwerb aller anderen Perks erwerben möchtest?\r\nPerk: <NAME SKILL>"
+      "text": "Du hast alle anderen Boni freigeschaltet.\r\nMöchtest du deine Belohnung annehmen?\r\nBonus: <NAME SKILL>"
     },
     {
       "key": "ORB_TEXT_SKILL_GET_ALLCOMP_2",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "これ以外のすべての能力を取得した功績を称え\r\n以下の能力を取得します。よろしいですか？\r\n　取得能力：<NAME SKILL>+<VAL>",
       "source_en": "Are you sure you want to acquire the following\r\nperk as a reward for acquiring all other perks?\r\nPerk: <NAME SKILL>+<VAL>",
-      "text": "Bist du sicher, dass du den folgenden\r\nPerk als Belohnung für den Erwerb aller anderen Perks erwerben möchtest?\r\nPerk: <NAME SKILL>+<VAL>"
+      "text": "Du hast alle anderen Boni freigeschaltet.\r\nMöchtest du deine Belohnung annehmen?\r\nBonus: <NAME SKILL> +<VAL>"
     },
     {
       "key": "ORB_TEXT_SKILL_GET_ANOUNCE_1",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME SKILL>を取得しました",
       "source_en": "Activated <NAME SKILL>",
-      "text": "Aktiviert <NAME SKILL>"
+      "text": "Bonus freigeschaltet: <NAME SKILL>"
     },
     {
       "key": "ORB_TEXT_SKILL_GET_ANOUNCE_2",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME SKILL>+<VAL>を取得しました",
       "source_en": "Activated <NAME SKILL> +<VAL>",
-      "text": "Aktiviert <NAME SKILL> +<VAL>"
+      "text": "Bonus freigeschaltet: <NAME SKILL> +<VAL>"
     },
     {
       "key": "ORB_TEXT_SKILL_GET_COMP_1",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "必要なトータルレベルに達しているので\r\n以下の能力を取得できます。よろしいですか？\r\n　取得能力：<NAME SKILL>",
       "source_en": "Since you have reached the required total level,\r\nyou can acquire the following ability.\r\nAre you sure?\r\nAcquired Ability: <NAME SKILL>",
-      "text": "Du hast die erforderliche Gesamtstufe erreicht\r\nund kannst folgende Fähigkeit erlernen.\r\nFortfahren?\r\nNeue Fähigkeit: <NAME SKILL>"
+      "text": "Du hast die erforderliche Gesamtstufe erreicht\r\nund kannst diesen Bonus freischalten.\r\nMöchtest du fortfahren?\r\nBonus: <NAME SKILL>"
     },
     {
       "key": "ORB_TEXT_SKILL_GET_COMP_2",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "必要なトータルレベルに達しているので\r\n以下の能力を取得できます。よろしいですか？\r\n　取得能力：<NAME SKILL>+<VAL>",
       "source_en": "Since you have reached the Required Total Level,\r\nyou can acquire the following ability.\r\nAre you sure?\r\nAcquired Ability: <NAME SKILL>+<VAL>",
-      "text": "Du hast die erforderliche Gesamtstufe erreicht\r\nund kannst folgende Fähigkeit erlernen.\r\nFortfahren?\r\nNeue Fähigkeit: <NAME SKILL>+<VAL>"
+      "text": "Du hast die erforderliche Gesamtstufe erreicht\r\nund kannst diesen Bonus freischalten.\r\nMöchtest du fortfahren?\r\nBonus: <NAME SKILL> +<VAL>"
     },
     {
       "key": "ORB_TEXT_SKILL_NAME",

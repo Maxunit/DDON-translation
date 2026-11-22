@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "大きな力が宿っている\r\nしかし、まだ試練を受ける資格がないようだ――",
       "source_en": "There is great power dwelling within,\r\nHowever, it seems they are not yet qualified to\r\nface the trial—",
-      "text": "Es ist eine große Macht, die in sich wohnt,\r\nEs scheint jedoch, dass sie noch nicht qualifiziert sind.\r\nDas Gerichtsverfahren –"
+      "text": "In dir schlummert große Macht.\r\nDoch du bist noch nicht bereit,\r\ndich der Prüfung zu stellen …"
     },
     {
       "key": "ana_equip_condition_err",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "条件をみたしていないため装備できません",
       "source_en": "You do not meet the conditions to wear this\r\nequipment.",
-      "text": "Du erfüllst nicht die Bedingungen, um diese zu tragen\r\nAusrüstung."
+      "text": "Du erfüllst die Voraussetzungen für\r\ndiese Ausrüstung nicht."
     },
     {
       "key": "ana_err_arearankup_by_guest",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "エリアランクアップはパーティーリーダーのみ可能です",
       "source_en": "Area rank up is only available to the party\r\nleader.",
-      "text": "Area Rang Up ist nur für die Gruppe verfügbar\r\nFührer."
+      "text": "Nur die Gruppenleitung kann\r\nden Gebietsrang erhöhen."
     },
     {
       "key": "ana_err_cannot_use_me",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "自分には使用できません",
       "source_en": "I can't use it.",
-      "text": "Ich kann es nicht benutzen."
+      "text": "Das kannst du hier nicht benutzen."
     },
     {
       "key": "ana_err_not_enough_item",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムが足りません",
       "source_en": "Insufficient items.",
-      "text": "Unzureichende Posten."
+      "text": "Nicht genug Gegenstände."
     },
     {
       "key": "ana_error_no_partner_pawn",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "パートナーポーンがいないため、見ることができません",
       "source_en": "No partner pawns available to view",
-      "text": "Keine Partner-Vasallen verfügbar zum Anzeigen"
+      "text": "Keine Partnervasallen zur Anzeige verfügbar."
     },
     {
       "key": "ana_error_no_target_opcs",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "＜<OPCS>＞の発動中に使用可能となります",
       "source_en": "This is available with the effect of \"<OPCS>\".",
-      "text": "Dies ist mit dem Effekt von \"<OPCS>\" verfügbar."
+      "text": "Verfügbar, solange „<OPCS>“ aktiv ist."
     },
     {
       "key": "ana_error_no_target_service",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "オンラインショップより対象のサービスを\r\nご購入いただくことで使用可能となります",
       "source_en": "The service can be used by purchasing it from the\r\nOnline Shop.",
-      "text": "Der Service kann genutzt werden, indem man ihn im\r\nOnline Shop kauft."
+      "text": "Du kannst diesen Dienst im\r\nOnline-Shop kaufen."
     },
     {
       "key": "ana_error_party_unassembled",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティー全員が揃っていないため使用できません",
       "source_en": "You cannot choose this option because the party\r\nhas not assembled.",
-      "text": "Du kannst diese Option nicht wählen, weil sich die Partei\r\n nicht versammelt hat."
+      "text": "Diese Option ist erst verfügbar, wenn\r\ndie Gruppe vollständig ist."
     },
     {
       "key": "ana_extream_timelimit_faild",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "制限時間内での目的達成に失敗",
       "source_en": "Failed to meet objectives within the time limit.",
-      "text": "Ziele nicht fristgerecht erreicht."
+      "text": "Die Ziele wurden nicht innerhalb des Zeitlimits erreicht."
     },
     {
       "key": "ana_fav_del_pawn",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>をお気に入りから削除しました",
       "source_en": "<NAME TARGET> \r\nis no longer a favorite pawn.",
-      "text": "<NAME TARGET>\r\n ist kein Lieblingsbauer mehr."
+      "text": "<NAME TARGET>\r\nwurde aus deinen Vasallenfavoriten entfernt."
     },
     {
       "key": "ana_fav_del_pawn_q",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>を\r\nお気に入りから削除します。よろしいですか？",
       "source_en": "<NAME TARGET> \r\nwill be removed as a favorite pawn.\r\nAre you sure?",
-      "text": "<NAME TARGET>\r\n wird als Lieblingsbauer entfernt werden.\r\nBist du dir sicher?"
+      "text": "<NAME TARGET>\r\nwird aus deinen Vasallenfavoriten entfernt.\r\nFortfahren?"
     },
     {
       "key": "ana_fav_friend",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>をお気に入りに登録しました",
       "source_en": "Added <NAME TARGET> to favorites.",
-      "text": "Hinzugefügt <NAME TARGET> zu Favoriten."
+      "text": "<NAME TARGET> wurde zu deinen Favoriten hinzugefügt."
     },
     {
       "key": "ana_fav_friend_error",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>をお気に入りに登録できませんでした",
       "source_en": "Could not add <NAME TARGET> \r\nto favorites.",
-      "text": "Konnte <NAME TARGET>\r\n nicht zu Favoriten hinzufügen."
+      "text": "<NAME TARGET>\r\nkonnte nicht zu deinen Favoriten hinzugefügt werden."
     },
     {
       "key": "ana_fav_friend_q",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>を\r\nお気に入りに登録します。よろしいですか？",
       "source_en": "Are you sure you want to add\r\n<NAME TARGET> to favorites?",
-      "text": "Bist du sicher, dass du\r\n<NAME TARGET> zu den Favoriten hinzufügen möchtest?"
+      "text": "Möchtest du\r\n<NAME TARGET> zu deinen Favoriten hinzufügen?"
     },
     {
       "key": "ana_fav_pawn",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>をお気に入りに追加しました",
       "source_en": "<NAME TARGET> is now a favorite pawn.",
-      "text": "<NAME TARGET> ist jetzt ein Lieblingsbauer."
+      "text": "<NAME TARGET> wurde zu deinen Vasallenfavoriten hinzugefügt."
     },
     {
       "key": "ana_fav_pawn_q",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>を\r\nお気に入りに設定します。よろしいですか？",
       "source_en": "<NAME TARGET> \r\nwill be set as a favorite pawn.\r\nAre you sure?",
-      "text": "<NAME TARGET>\r\n wird als Lieblingsbauer gesetzt werden.\r\n Bist du dir sicher?"
+      "text": "<NAME TARGET>\r\nwird zu deinen Vasallenfavoriten hinzugefügt.\r\nFortfahren?"
     },
     {
       "key": "ana_fav_release_friend",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>のお気に入りを解除しました",
       "source_en": "Removed <NAME TARGET> from favorites.",
-      "text": "Entfernt <NAME TARGET> von Favoriten."
+      "text": "<NAME TARGET> wurde aus deinen Favoriten entfernt."
     },
     {
       "key": "ana_fav_release_friend_error",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>のお気に入りを解除できませんでした",
       "source_en": "Could not remove \r\n<NAME TARGET> from favorites.",
-      "text": "Konnte\r\n<NAME TARGET> nicht von Favoriten entfernen."
+      "text": "\r\n<NAME TARGET> konnte nicht aus deinen Favoriten entfernt werden."
     },
     {
       "key": "ana_fav_release_friend_q",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>の\r\nお気に入りを解除します。よろしいですか？",
       "source_en": "Are you sure you want to remove\r\n<NAME TARGET> from favorites?",
-      "text": "Bist du sicher, dass du\r\n<NAME TARGET> von den Favoriten entfernen möchtest?"
+      "text": "Möchtest du\r\n<NAME TARGET> aus deinen Favoriten entfernen?"
     },
     {
       "key": "ana_freemarker_delete",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>の<VAL>番フリーマーカー情報を削除しました",
       "source_en": "The waypoint information for \r\n<NAME TARGET>'s\r\nwaypoint number <VAL> has been deleted.",
-      "text": "Die Wegpunktinformation für\r\n<NAME TARGET>s\r\nWegpunktnummer <VAL> wurde gelöscht."
+      "text": "Der von\r\n<NAME TARGET>\r\ngesetzte Wegpunkt Nr. <VAL> wurde gelöscht."
     },
     {
       "key": "ana_freemarker_set",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>の<VAL>番フリーマーカー情報を反映しました",
       "source_en": "<NAME TARGET> has set free marker <VAL>.",
-      "text": "<NAME TARGET> hat einen freien Marker gesetzt <VAL>."
+      "text": "<NAME TARGET> hat die freie Markierung <VAL> gesetzt."
     },
     {
       "key": "ana_friend_req_cancel",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>へのフレンド申請をキャンセルしました",
       "source_en": "The friend request to \r\n<NAME TARGET> \r\nhas been canceled.",
-      "text": "Die Freundschaftsanfrage an\r\n<NAME TARGET>\r\n wurde abgebrochen."
+      "text": "Die Freundschaftsanfrage an\r\n<NAME TARGET>\r\nwurde zurückgezogen."
     },
     {
       "key": "ana_friend_req_cancel_q",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>への\r\nフレンド申請をキャンセルします。よろしいですか？",
       "source_en": "The friend request to \r\n<NAME TARGET> \r\nwill be canceled.\r\nAre you sure?",
-      "text": "Die Freundschaftsanfrage an\r\n<NAME TARGET>\r\n wird storniert.\r\nBist du sicher?"
+      "text": "Die Freundschaftsanfrage an\r\n<NAME TARGET>\r\nwird zurückgezogen.\r\nFortfahren?"
     },
     {
       "key": "ana_gacha_no_items",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "トレジャーズロットに商品がありません",
       "source_en": "There are no items in the lot.",
-      "text": "Es gibt keine Gegenstände auf dem Los."
+      "text": "Diese Ziehung enthält keine Gegenstände."
     },
     {
       "key": "ana_gamemenu_atlobby",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "この場所では使用できません",
       "source_en": "You cannot use this in this location.",
-      "text": "Du kannst dies an diesem Ort nicht verwenden."
+      "text": "Das kannst du an diesem Ort nicht verwenden."
     },
     {
       "key": "ana_gamemenu_clanmember",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "クランに所属していなければ選べません",
       "source_en": "You cannot select this if you are not in a clan.",
-      "text": "Du kannst dies nicht auswählen, wenn sie nicht in einem clan sind."
+      "text": "Diese Option steht nur Clanmitgliedern zur Verfügung."
     },
     {
       "key": "ana_gamemenu_dontnow",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "カメラ制限がかかっているためフォトモードに移行できません",
       "source_en": "You cannot switch to Photo Mode due to camera\r\nrestrictions.",
-      "text": "Du kannst nicht in den Fotomodus wechseln, da die Kamera\r\n eingeschränkt ist."
+      "text": "Wegen des eingeschränkten Kamerawinkels\r\nist der Fotomodus nicht verfügbar."
     },
     {
       "key": "ana_gamemenu_playcontents",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "特定コンテンツプレイ時にしか選べません",
       "source_en": "You can only select this during specific content.",
-      "text": "Du kannst dies nur während bestimmter Inhalte auswählen."
+      "text": "Diese Option ist nur in bestimmten Missionen verfügbar."
     },
     {
       "key": "ana_gamemenu_purchase_processing",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "購入情報を処理しています",
       "source_en": "Processing purchase information",
-      "text": "Verarbeitung von Kaufinformationen"
+      "text": "Kaufdaten werden verarbeitet …"
     },
     {
       "key": "ana_gchat_invite",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>が<NAME TARGET>をグループチャットに招待しました",
       "source_en": "<NAME TARGET> has invited \r\n<NAME TARGET> to the group chat.",
-      "text": "<NAME TARGET> hat\r\n<NAME TARGET> zum Gruppenchat eingeladen."
+      "text": "<NAME TARGET> hat\r\n<NAME TARGET> in den Gruppenchat eingeladen."
     },
     {
       "key": "ana_gchat_kick",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>によってグループチャットからキックされました",
       "source_en": "You have kicked \r\n<NAME TARGET> \r\nfrom the group chat.",
-      "text": "Du hast\r\n<NAME TARGET>\r\n aus dem Gruppenchat getreten."
+      "text": "Du hast\r\n<NAME TARGET>\r\naus dem Gruppenchat entfernt."
     },
     {
       "key": "ana_gchat_kick_tg",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>が<NAME TARGET>をグループチャットからキックしました",
       "source_en": "<NAME TARGET> has kicked \r\n<NAME TARGET> \r\nfrom the group chat.",
-      "text": "<NAME TARGET> hat\r\n<NAME TARGET>\r\n aus dem Gruppenchat getreten."
+      "text": "<NAME TARGET> hat\r\n<NAME TARGET>\r\naus dem Gruppenchat entfernt."
     },
     {
       "key": "ana_gchat_kicked",
@@ -296,7 +296,7 @@
       "tag_source": "source_en",
       "source_jp": "グループチャットからキックされました",
       "source_en": "You were kicked from the group chat.",
-      "text": "Du wurdest aus dem gruppenchat getreten."
+      "text": "Du wurdest aus dem Gruppenchat entfernt."
     },
     {
       "key": "ana_gchat_kicked_tg",
@@ -304,7 +304,7 @@
       "tag_source": "source_en",
       "source_jp": "<NAME TARGET>がグループチャットからキックされました",
       "source_en": "<NAME TARGET> \r\nhas been kicked from the group chat.",
-      "text": "<NAME TARGET>\r\nwurde aus dem Gruppenchat getreten."
+      "text": "<NAME TARGET>\r\nwurde aus dem Gruppenchat entfernt."
     },
     {
       "key": "ana_gchat_leave",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "アビリティ「<NAME ABILITY> <VAL LV>」を習得しました",
       "source_en": "You have learned \r\n\"<VAL LV><NAME ABILITY>\"",
-      "text": "Du hast gelernt\r\n\"<VAL LV><NAME ABILITY>\""
+      "text": "Begabung erlernt:\r\n„<VAL LV><NAME ABILITY>“."
     },
     {
       "key": "ana_get_custom_skill",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "カスタムスキル「<NAME CUSTOM_SKILL> <VAL LV>」を習得しました",
       "source_en": "You have acquired the Custom Skill \r\n\"<NAME CUSTOM_SKILL> <VAL LV>\"",
-      "text": "Du hast die Custom Skill\r\n\"<NAME CUSTOM_SKILL> <VAL LV>\" erworben"
+      "text": "Kampffertigkeit erhalten:\r\n„<NAME CUSTOM_SKILL> <VAL LV>“."
     },
     {
       "key": "ana_get_custom_skill_no_level",
@@ -336,7 +336,7 @@
       "tag_source": "source_en",
       "source_jp": "カスタムスキル「<NAME CUSTOM_SKILL>」を習得しました",
       "source_en": "You have acquired the Custom Skill \r\n\"<NAME CUSTOM_SKILL>\"",
-      "text": "Du hast den Custom Skill\r\n\"<NAME CUSTOM_SKILL>\" erworben"
+      "text": "Kampffertigkeit erhalten:\r\n„<NAME CUSTOM_SKILL>“."
     },
     {
       "key": "ana_get_gmission_reward",
@@ -344,7 +344,7 @@
       "tag_source": "source_en",
       "source_jp": "を獲得！",
       "source_en": "acquired!",
-      "text": "erworben!"
+      "text": "erhalten!"
     },
     {
       "key": "ana_get_keyitem",
@@ -352,7 +352,7 @@
       "tag_source": "source_en",
       "source_jp": "「%s」を入手しました",
       "source_en": "Obtained\r\n\"%s\".",
-      "text": "Bekommen\r\n\"%s\"."
+      "text": "Erhalten:\r\n„%s“."
     },
     {
       "key": "ana_get_normal_skill",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "ノーマルスキル「<NAME NORMAL_SKILL>」を習得しました",
       "source_en": "You have acquired the Normal Skill \r\n\"<NAME NORMAL_SKILL>\"",
-      "text": "Du hast die normale Fertigkeit erworben\r\n\"<NAME NORMAL_SKILL>\""
+      "text": "Grundfertigkeit erlernt:\r\n„<NAME NORMAL_SKILL>“."
     },
     {
       "key": "ana_gm_reward_syslog",
@@ -368,7 +368,7 @@
       "tag_source": "source_en",
       "source_jp": "グランドミッションの戦果報酬配分期間です\r\n参加した覚者は窓口の人物に話しかけて\r\n報酬を受け取りましょう",
       "source_en": "This is the reward distribution period for the\r\nGrand Mission.\r\nArisen who have participated should speak to the\r\nperson at the counter to receive their rewards.",
-      "text": "Dies ist die Belohnungs-Verteilungszeit für den\r\nGroßartige Mission.\r\nArisen, die teilgenommen haben, sollten mit dem\r\nPerson am schalter, um ihre belohnungen zu erhalten."
+      "text": "Die Belohnungen für die\r\nGroßmission werden ausgegeben.\r\nHast du teilgenommen, hol deine Belohnungen\r\nam Schalter ab."
     },
     {
       "key": "ana_gm_situation_syslog",
@@ -376,7 +376,7 @@
       "tag_source": "source_en",
       "source_jp": "グランドミッションの戦況が変化しました\r\n窓口の人物に話しかけて確認しましょう",
       "source_en": "The Grand Mission battlefield has changed.\r\nTalk to the person at the desk to confirm.",
-      "text": "Das Schlachtfeld der Großen Mission hat sich geändert.\r\n Sprich mit der Person am Schreibtisch, um es zu bestätigen."
+      "text": "Das Schlachtfeld der Großmission hat sich verändert.\r\nDetails erfährst du am Schalter."
     },
     {
       "key": "ana_grand_npc_escort_faild",
@@ -384,7 +384,7 @@
       "tag_source": "source_en",
       "source_jp": "護衛対象の護衛に失敗",
       "source_en": "Failed to escort the target.",
-      "text": "Es gelang ihm nicht, das Ziel zu begleiten."
+      "text": "Das Eskortieren ist fehlgeschlagen."
     },
     {
       "key": "ana_grandmission_get_reward",
@@ -392,7 +392,7 @@
       "tag_source": "source_en",
       "source_jp": "報酬が保管ボックスに送られました",
       "source_en": "The Grand Mission rewards have been sent to your\r\nstorage box.",
-      "text": "Die Grand Mission Belohnungen wurden an deine\r\n Lagerbox geschickt."
+      "text": "Die Belohnungen der Großmission\r\nwurden ins Lager gelegt."
     },
     {
       "key": "ana_input_device_err_mouse_key",
@@ -432,7 +432,7 @@
       "tag_source": "source_en",
       "source_jp": "入力文字数が足りません",
       "source_en": "You must enter more characters.",
-      "text": "Du musst mehr Charaktere eingeben."
+      "text": "Gib mehr Zeichen ein."
     },
     {
       "key": "ana_item_cannot_use_by_bat_status",
@@ -440,7 +440,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテム封印中のため使用できません",
       "source_en": "Items cannot be used because they are sealed.",
-      "text": "Artikel können nicht verwendet werden, weil sie versiegelt sind."
+      "text": "Gegenstände sind versiegelt und können nicht benutzt werden."
     },
     {
       "key": "ana_item_conf_itemlock_caution_01",
@@ -448,7 +448,7 @@
       "tag_source": "source_en",
       "source_jp": "<COL ffdc78>貴重なアイテム</COL>を選択しています\r\n本当によろしいですか？",
       "source_en": "<COL ffdc78>You have selected a valuable\r\nitem</COL>\r\nAre you sure?",
-      "text": "<COL ffdc78>Du hast einen wertvollen\r\nArtikel</COL>\r\nWillst du sicher sein?"
+      "text": "<COL ffdc78>Du hast einen wertvollen\r\nGegenstand ausgewählt.</COL>\r\nFortfahren?"
     },
     {
       "key": "ana_item_necessary_attention",
@@ -456,7 +456,7 @@
       "tag_source": "source_en",
       "source_jp": "コンテンツ中に必要なアイテムです",
       "source_en": "This item is required during content",
-      "text": "Dieser Artikel wird während des Inhalts benötigt"
+      "text": "Du brauchst diesen Gegenstand für die Mission."
     },
     {
       "key": "ana_itembox_submenu_tooltip_ng_itemlock_01",
@@ -464,7 +464,7 @@
       "tag_source": "source_en",
       "source_jp": "セーフティ設定しているアイテムを選択しています",
       "source_en": "Selected item is protected.",
-      "text": "Ausgewähltes Element ist geschützt."
+      "text": "Der ausgewählte Gegenstand ist geschützt."
     },
     {
       "key": "ana_itembox_submenu_tooltip_sendbox_ng_same",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "同じアイテムは選択できません",
       "source_en": "Cannot choose duplicate items",
-      "text": "Kann keine doppelten Artikel auswählen"
+      "text": "Du kannst denselben Gegenstand nur einmal auswählen."
     },
     {
       "key": "ana_itembox_submenu_tooltip_sendbox_ng_stack",
@@ -480,7 +480,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムスタック数を超えています",
       "source_en": "The total will exceed the stack limit.",
-      "text": "Die Summe wird die Stapelgrenze überschreiten."
+      "text": "Die Gesamtmenge würde die Stapelgrenze überschreiten."
     }
   ],
   "schema_version": 1,

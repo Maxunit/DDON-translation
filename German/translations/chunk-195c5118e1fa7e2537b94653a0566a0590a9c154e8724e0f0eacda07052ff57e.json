@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "聖防低下耐性",
       "source_en": "Resist Holy Resist Down",
-      "text": "Heiliger Widerstand nach unten"
+      "text": "Schutz vor gesenkter Heiligresistenz"
     },
     {
       "key": "resist_ice",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "魔攻低下耐性",
       "source_en": "Resist Magick Atk. Down",
-      "text": "Widerstehen Magick Atk. Down"
+      "text": "Schutz vor gesenktem magischem Angriff"
     },
     {
       "key": "resist_magic_difense_down",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "石化耐性",
       "source_en": "Resist Petrification",
-      "text": "Resist Versteinerung"
+      "text": "Schutz vor Versteinerung"
     },
     {
       "key": "resist_physical_attack_down",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "物攻低下耐性",
       "source_en": "Resist Physical Atk. Down",
-      "text": "Widerstand gegen Physical Atk. Down"
+      "text": "Schutz vor gesenktem physischem Angriff"
     },
     {
       "key": "resist_physical_difense_down",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "物防低下耐性",
       "source_en": "Resist Physical Def. Down",
-      "text": "Widerstand gegen physische Def. Down"
+      "text": "Schutz vor gesenkter physischer Verteidigung"
     },
     {
       "key": "resist_poison",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "毒耐性",
       "source_en": "Resist Poison",
-      "text": "Resistenzgift"
+      "text": "Giftresistenz"
     },
     {
       "key": "resist_sleep",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "睡眠耐性",
       "source_en": "Resist Sleep",
-      "text": "Widerstandsschlaf"
+      "text": "Schlafresistenz"
     },
     {
       "key": "resist_softener",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "軟化耐性",
       "source_en": "Resist Frail",
-      "text": "Gebrechliche Widerstandsfähigkeit"
+      "text": "Schutz vor Erweichung"
     },
     {
       "key": "resist_stifling",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "スキル封印耐性",
       "source_en": "Resist Skill Stifling",
-      "text": "Resist Skill Stifting"
+      "text": "Schutz vor Fertigkeitssiegeln"
     },
     {
       "key": "resist_tarring",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "油濡れ耐性",
       "source_en": "Resist Tarring",
-      "text": "Widerstandsverbrennung"
+      "text": "Ölschutz"
     },
     {
       "key": "resist_thunder",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "雷耐性",
       "source_en": "Lightning Resist",
-      "text": "Blitzschutz"
+      "text": "Blitzresistenz"
     },
     {
       "key": "resist_thunder_resist_down",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "雷防低下耐性",
       "source_en": "Resist Lightning Resist Down",
-      "text": "Lightning Resist Down"
+      "text": "Schutz vor gesenkter Blitzresistenz"
     },
     {
       "key": "resist_thunderShocked",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "感電耐性",
       "source_en": "Resist Shocked",
-      "text": "Resist Schockiert"
+      "text": "Schutz vor Stromschlag"
     },
     {
       "key": "resist_torpor",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "遅延耐性",
       "source_en": "Resist Torpor",
-      "text": "Widerstandstorsion"
+      "text": "Schutz vor Verlangsamung"
     },
     {
       "key": "weakness_attack_alchemy",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【獣】",
       "source_en": "Beast Slayer",
-      "text": "Tiertöter"
+      "text": "Schaden gegen Bestien"
     },
     {
       "key": "weakness_attack_curse",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【呪詛】",
       "source_en": "Cursed Slayer",
-      "text": "Verfluchte Slayer"
+      "text": "Schaden gegen Verfluchte"
     },
     {
       "key": "weakness_attack_demonic",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【竜族】",
       "source_en": "Dragonkin Slayer",
-      "text": "Dragonkin-Schläger"
+      "text": "Schaden gegen Drachenartige"
     },
     {
       "key": "weakness_attack_erosion",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【侵食】",
       "source_en": "Corrupted Slayer",
-      "text": "Korrupter Slayer"
+      "text": "Schaden gegen Verderbte"
     },
     {
       "key": "weakness_attack_giant",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【巨人】",
       "source_en": "Giant Slayer",
-      "text": "Riesentöter"
+      "text": "Schaden gegen Riesen"
     },
     {
       "key": "weakness_attack_golem",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【造魔】",
       "source_en": "Magickal Constructs Slayer",
-      "text": "Magickal konstruiert Slayer"
+      "text": "Schaden gegen magische Konstrukte"
     },
     {
       "key": "weakness_attack_human",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【人間】",
       "source_en": "Human Slayer",
-      "text": "Menschlicher Killer"
+      "text": "Schaden gegen Menschen"
     },
     {
       "key": "weakness_attack_ogre",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【鬼人】",
       "source_en": "Ogrekin Slayer",
-      "text": "Ogrekin-Schläger"
+      "text": "Schaden gegen Ogerartige"
     },
     {
       "key": "weakness_attack_skeleton",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【骸骨】",
       "source_en": "Skeleton Slayer",
-      "text": "Skelettjäger"
+      "text": "Schaden gegen Skelette"
     },
     {
       "key": "weakness_attack_softbody",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【軟体】",
       "source_en": "Formless Slayer",
-      "text": "Formloser Layer"
+      "text": "Schaden gegen formlose Gegner"
     },
     {
       "key": "weakness_attack_soul",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【霊体】",
       "source_en": "Spirit Slayer",
-      "text": "Spirituosenjäger"
+      "text": "Schaden gegen Geister"
     },
     {
       "key": "weakness_attack_subhuman",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【亜人】",
       "source_en": "Demihuman Slayer",
-      "text": "Demihumaner Killer"
+      "text": "Schaden gegen Halbmenschen"
     },
     {
       "key": "weakness_attack_undead",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【腐死】",
       "source_en": "Undead Slayer",
-      "text": "Untoter Killer"
+      "text": "Schaden gegen Untote"
     },
     {
       "key": "weakness_attack_winged",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "対敵特効【有翼】",
       "source_en": "Winged Slayer",
-      "text": "Flügeltöter"
+      "text": "Schaden gegen geflügelte Gegner"
     },
     {
       "key": "weight",

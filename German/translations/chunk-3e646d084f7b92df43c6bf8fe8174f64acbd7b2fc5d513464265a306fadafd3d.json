@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "選択したスロットのクレストを破壊します\r\nよろしいですか？",
       "source_en": "Are you sure you want to destroy\r\nthe crest in this slot?",
-      "text": "Bist du sicher, dass du zerstören willst?\r\nDer Kamm in diesem Slot?"
+      "text": "Möchtest du das Siegel in der ausgewählten\r\nFassung zerstören?"
     },
     {
       "key": "job_emblem_break_notice",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "クレストを破壊しました",
       "source_en": "The crest has been broken.",
-      "text": "Der Kamm ist zerbrochen."
+      "text": "Das Siegel wurde zerstört."
     },
     {
       "key": "job_emblem_choice_reset_title",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "リセット方法を選択してください",
       "source_en": "Please select a reset method.",
-      "text": "Wähle eine Reset-Methode aus."
+      "text": "Wähle, wie du die Punkte zurücksetzen möchtest."
     },
     {
       "key": "job_emblem_confirm_level_up",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "レベルアップします。よろしいですか？\r\n　消費プレイポイント：<VAL PP>\r\n　獲得エンブレムポイント：<VAL EP>",
       "source_en": "Are you ready to level up?\r\nConsumed Play Points: <VAL PP>\r\nAcquired Emblem Points: <VAL EP>",
-      "text": "Bist du bereit, aufzusteigen?\r\nKonsumierte Spielpunkte: <VAL PP>\r\nErworbene Emblempunkte: <VAL EP>"
+      "text": "Möchtest du das Klassenemblem aufstufen?\r\nKosten in Spielpunkten: <VAL PP>\r\nEmblempunkte als Belohnung: <VAL EP>"
     },
     {
       "key": "job_emblem_confirm_reset_gs",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "<COL ffdc78>黄金石<VAL GS></COL>を消費して\r\n割り振ったポイントをリセットしますか？",
       "source_en": "Do you want to reset the allocated points by\r\nconsuming<COL ffdc78><VAL GS> Golden\r\nGemstone?</COL>",
-      "text": "Möchtest du die zugewiesenen Punkte durch\r\nverbrauchen<COL ffdc78><VAL GS> Golden\r\nGemstone zurücksetzen?</COL>"
+      "text": "Verteilte Punkte zurücksetzen?\r\n<COL ffdc78><VAL GS> Goldsteine\r\nwerden verbraucht.</COL>"
     },
     {
       "key": "job_emblem_confirm_reset_pp",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "<COL ffdc78><VAL PP></COL>を消費して\r\n割り振ったポイントをリセットしますか？",
       "source_en": "Do you want to reset the allocated points by\r\nconsuming <COL ffdc78><VAL PP></COL>?",
-      "text": "Möchtest du die zugewiesenen Punkte durch\r\nverbrauchen <COL ffdc78><VAL PP></COL> zurücksetzen?"
+      "text": "Verteilte Punkte zurücksetzen?\r\nKosten: <COL ffdc78><VAL PP></COL>"
     },
     {
       "key": "job_emblem_confirm_update_param",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "現在のポイント割り振りを適用しますか？",
       "source_en": "Apply the current point allocation?",
-      "text": "Wende die aktuelle Punktzuweisung an?"
+      "text": "Möchtest du die aktuelle Punkteverteilung übernehmen?"
     },
     {
       "key": "job_emblem_crest_confirm_gs",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "ジュエリーを破壊して選択したスロットに\r\nクレストを<COL ffdc78>黄金石継承</COL>しますか？\r\nジュエリー：<VAL>\r\n継承成功率：<VAL>％\r\n継承失敗時：<COL ffdc78>失敗してもジュエリーは失われません</COL>\r\n<COL ffdc78><UNTN GS> <VAL GS></COL>を消費します（所持数：<HAVE GS>）\r\n以下のいずれかのクレストが継承されます",
       "source_en": "Destroy jewelry to inherit crest\r\ninto selected slot using <COL ffdc78>Golden Gemstones</COL>?\r\nJewelry: <VAL>\r\nSuccess Rate: <VAL>%\r\nFailure: <COL ffdc78>Jewelry won't be destroyed.</COL>\r\nCost: <COL ffdc78><VAL GS> pcs. of <UNTN GS></COL> (Have: <HAVE GS>)\r\nInherits one of these crests:",
-      "text": "Zerstöre Schmuck, um Wappen zu erben\r\nin den ausgewählten Slot mit <COL ffdc78>Goldsteine</COL>?\r\nSchmuck: <VAL>\r\nErfolgsquote: <VAL>%\r\nAusfall: <COL ffdc78>Schmuck wird nicht zerstört.</COL>\r\nKosten: <COL ffdc78><VAL GS> Teile von <UNTN GS></COL> (Haben:) <HAVE GS>)\r\nErbt eines dieser Wappen:"
+      "text": "Schmuck opfern und ein Siegel in die\r\ngewählte Fassung übertragen? Zahlung mit <COL ffdc78>Goldsteinen</COL>.\r\nSchmuckstück: <VAL>\r\nErfolgschance: <VAL> %\r\nBei Fehlschlag: <COL ffdc78>Das Schmuckstück bleibt erhalten.</COL>\r\nKosten: <COL ffdc78><VAL GS> × <UNTN GS></COL> (im Besitz: <HAVE GS>)\r\nEines dieser Siegel wird übertragen:"
     },
     {
       "key": "job_emblem_crest_confirm_normal",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "ジュエリーを破壊して選択したスロットに\r\nクレストを通常継承しますか？\r\nジュエリー：<VAL>\r\n継承成功率：<VAL>％\r\n継承失敗時：<COL AA1414>失敗するとジュエリーを失います</COL>\r\n以下のいずれかのクレストが継承されます",
       "source_en": "Destroy jewelry to inherit crest\r\ninto selected slot?\r\nJewelry: <VAL>\r\nSuccess Rate: <VAL>%\r\nFailure: <COL ffdc78>Jewelry will be destroyed.</COL>\r\nInherits one of these crests:",
-      "text": "Zerstöre Schmuck, um Wappen zu erben\r\nIn den ausgewählten Slot?\r\nSchmuck: <VAL>\r\nErfolgsquote: <VAL>%\r\nAusfall: <COL ffdc78>Schmuck wird zerstört werden.</COL>\r\nErbt eines dieser Wappen:"
+      "text": "Schmuck opfern und ein Siegel\r\nin die gewählte Fassung übertragen?\r\nSchmuckstück: <VAL>\r\nErfolgschance: <VAL> %\r\nBei Fehlschlag: <COL ffdc78>Das Schmuckstück geht verloren.</COL>\r\nEines dieser Siegel wird übertragen:"
     },
     {
       "key": "job_emblem_crest_confirm_retry",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "継承に失敗しました\r\nジュエリーは失われませんでした\r\nもう一度、同じジュエリーで継承を試みますか？",
       "source_en": "The Augmentation failed.\r\nThe jewelry was not lost.\r\nWould you like to attempt the Augmentation again\r\nwith the same jewelry?",
-      "text": "Die Augmentation scheiterte.\r\nDer Schmuck ging nicht verloren.\r\nMöchtest du die Augmentation noch einmal\r\n mit demselben Schmuck versuchen?"
+      "text": "Die Übertragung ist fehlgeschlagen.\r\nDas Schmuckstück ist erhalten geblieben.\r\nMöchtest du es mit demselben\r\nSchmuckstück noch einmal versuchen?"
     },
     {
       "key": "job_emblem_crest_failed_notice",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "継承に失敗しました",
       "source_en": "Augmentation failed",
-      "text": "Augmentation gescheitert"
+      "text": "Übertragung fehlgeschlagen"
     },
     {
       "key": "job_emblem_crest_open_lv",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "エンブレム<UNIT LV><VAL>で拡張可能",
       "source_en": "Expansion at Emblem <UNIT LV><VAL>",
-      "text": "Expansion bei Emblem <UNIT LV><VAL>"
+      "text": "Weitere Fassung ab Emblem-<UNIT LV> <VAL>"
     },
     {
       "key": "job_emblem_crest_select_kind",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "継承方法を選択してください",
       "source_en": "Please select your augmentation method",
-      "text": "Wähle deine Erweiterungsmethode aus"
+      "text": "Wähle, wie du das Siegel übertragen möchtest."
     },
     {
       "key": "job_emblem_crest_select_kind_gs",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石継承",
       "source_en": "Golden Gemstone augmentation",
-      "text": "Goldstein Augmentation"
+      "text": "Mit Goldsteinen übertragen"
     },
     {
       "key": "job_emblem_crest_select_kind_normal",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "通常継承",
       "source_en": "Normal augmentation",
-      "text": "Normale Vergrößerung"
+      "text": "Regulär übertragen"
     },
     {
       "key": "job_emblem_crest_success_notice",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "継承に成功しました",
       "source_en": "Augmentation succeeded",
-      "text": "Augmentation gelungen"
+      "text": "Übertragung erfolgreich"
     },
     {
       "key": "job_emblem_empty",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "これ以上レベルアップできません",
       "source_en": "Can't level up any more than this",
-      "text": "Kann nicht level up mehr als das"
+      "text": "Das Klassenemblem hat die höchste Stufe erreicht."
     },
     {
       "key": "job_emblem_err_not_release",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "まだ解放されていません",
       "source_en": "Not unlocked yet.",
-      "text": "Noch nicht entsperrt."
+      "text": "Noch nicht freigeschaltet."
     },
     {
       "key": "job_emblem_err_pp_shortage",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石が不足しています\r\n（所持数：<VAL>）",
       "source_en": "You are running out of Golden Gemstones\r\n(number in possession: <VAL>)",
-      "text": "Dir gehen die Goldsteine aus\r\n(Nummer im Besitz): <VAL>)"
+      "text": "Du hast nicht genug Goldsteine.\r\n(Im Besitz: <VAL>)"
     },
     {
       "key": "job_emblem_err_reset_pp_shortage",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNIT PP>が不足しています\r\n（所持数：<VAL>）",
       "source_en": "You do not have enough <UNIT PP>.\r\n(Current amount: <VAL>)",
-      "text": "Du hast nicht genug <UNIT PP>.\r\n(derzeitiger Betrag: <VAL>)"
+      "text": "Du hast nicht genug <UNIT PP>.\r\n(Im Besitz: <VAL>)"
     },
     {
       "key": "job_emblem_guide_add",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "足す",
       "source_en": "Add",
-      "text": "Additiv"
+      "text": "Erhöhen"
     },
     {
       "key": "job_emblem_guide_sub",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "減らす",
       "source_en": "Reduce",
-      "text": "Reduzieren"
+      "text": "Senken"
     },
     {
       "key": "job_emblem_header_base",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "ベース",
       "source_en": "Base",
-      "text": "Basis"
+      "text": "Basiswert"
     },
     {
       "key": "job_emblem_header_status",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "ジュエリーを選択してください",
       "source_en": "Please choose a jewelry",
-      "text": "Wähle einen Schmuck"
+      "text": "Wähle ein Schmuckstück."
     },
     {
       "key": "job_emblem_not_have_emblem",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "対象アイテムを装備していない\r\nまたはアイテムバッグ、保管ボックスにないため\r\n設定できません",
       "source_en": "Can't set because the target item is not equipped\r\nor it is not in the item bag or storage box.",
-      "text": "Kann nicht eingestellt werden, weil das Zielobjekt nicht ausgestattet ist\r\noder es sich nicht in der Artikeltasche oder Aufbewahrungsbox befindet."
+      "text": "Der Gegenstand muss ausgerüstet sein\r\noder in der Gegenstandstasche oder Lagerkiste liegen."
     },
     {
       "key": "job_emblem_notice_reset",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "割り振ったポイントをリセットしました",
       "source_en": "Allocated points reset",
-      "text": "Zurückgesetzte zugeteilte Punkte"
+      "text": "Verteilte Punkte wurden zurückgesetzt."
     },
     {
       "key": "job_emblem_notice_update_param",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "ポイント割り振りを適用しました",
       "source_en": "Point allocation applied.",
-      "text": "Anwendung der Punktezuweisung."
+      "text": "Die Punkteverteilung wurde übernommen."
     },
     {
       "key": "job_emblem_open_online_shop",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "オンラインショップを開く",
       "source_en": "Open online shop",
-      "text": "Offener Online-Shop"
+      "text": "Online-Shop öffnen"
     },
     {
       "key": "job_emblem_reset",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石を消費してリセット",
       "source_en": "Reset by consuming Golden Gemstone",
-      "text": "Zurücksetzen durch den Konsum von Goldenem Edelstein"
+      "text": "Mit Goldsteinen zurücksetzen"
     },
     {
       "key": "job_emblem_reset_pp",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "<UNIT PP>を消費してリセット",
       "source_en": "Reset by consuming <UNIT PP>",
-      "text": "Zurücksetzen durch Verbrauch <UNIT PP>"
+      "text": "Mit <UNIT PP> zurücksetzen"
     },
     {
       "key": "job_emblem_update_param",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "割り振る",
       "source_en": "Assign",
-      "text": "Zuweisung"
+      "text": "Punkte verteilen"
     }
   ],
   "schema_version": 1,

@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "ブラックリスト追加",
       "source_en": "Add to the Blacklist",
-      "text": "Zur Blacklist hinzufügen"
+      "text": "Auf die Sperrliste setzen"
     },
     {
       "key": "pop_cmd_blacklist_delete",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "ブラックリスト削除",
       "source_en": "Delete from Blacklist",
-      "text": "Löschen von Blacklist"
+      "text": "Von der Sperrliste entfernen"
     },
     {
       "key": "pop_cmd_card_pl",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "覚者プロフィール",
       "source_en": "Arisen Profile",
-      "text": "Profil erhalten"
+      "text": "Profil des Erweckten"
     },
     {
       "key": "pop_cmd_clan_solicitation",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "クランに勧誘する",
       "source_en": "Invite to the Clan",
-      "text": "Einladung zum Clan"
+      "text": "In den Clan einladen"
     },
     {
       "key": "pop_cmd_clan_solicitation_cancel",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "クラン勧誘取り消し",
       "source_en": "Cancel Clan Recruitment",
-      "text": "Clan-Rekrutierung abbrechen"
+      "text": "Clanrekrutierung abbrechen"
     },
     {
       "key": "pop_cmd_clan_solicitation_denial",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "クラン勧誘を拒否する",
       "source_en": "Refuse Clan invitation",
-      "text": "Ablehnung der Clan-Einladung"
+      "text": "Claneinladung ablehnen"
     },
     {
       "key": "pop_cmd_clan_solicitation_receive",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "クラン勧誘を受ける",
       "source_en": "Accept Clan invitation",
-      "text": "Akzeptiere die Einladung des Clans"
+      "text": "Claneinladung annehmen"
     },
     {
       "key": "pop_cmd_clan_status",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "クラン詳細情報",
       "source_en": "Clans Detailed Information",
-      "text": "Clans Detaillierte Informationen"
+      "text": "Clandetails"
     },
     {
       "key": "pop_cmd_close",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "お気に入りフレンド設定/解除",
       "source_en": "Set/Unset favorite friends",
-      "text": "Set/Unset Lieblingsfreunde"
+      "text": "Freund als Favoriten markieren / entfernen"
     },
     {
       "key": "pop_cmd_favorites_register",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "お気に入り登録",
       "source_en": "Add a favorite",
-      "text": "Hinzufügen eines Favoriten"
+      "text": "Zu Favoriten hinzufügen"
     },
     {
       "key": "pop_cmd_favorites_release",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "フレンド解除",
       "source_en": "Unfriending",
-      "text": "Unbefreundet"
+      "text": "Aus der Freundesliste entfernen"
     },
     {
       "key": "pop_cmd_friend_request",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "フレンド申請キャンセル",
       "source_en": "Cancel friend request",
-      "text": "Freundschaftsanfrage stornieren"
+      "text": "Freundschaftsanfrage zurückziehen"
     },
     {
       "key": "pop_cmd_friend_request_denial",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "フレンド申請拒否",
       "source_en": "Friend Request Rejected",
-      "text": "Friend Request abgelehnt"
+      "text": "Freundschaftsanfrage ablehnen"
     },
     {
       "key": "pop_cmd_friend_request_permit",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "フレンド申請許可",
       "source_en": "Friend Request Accepted.",
-      "text": "Freundschaftsanfrage akzeptiert."
+      "text": "Freundschaftsanfrage annehmen"
     },
     {
       "key": "pop_cmd_group_chat_invite",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "グループチャットに誘う",
       "source_en": "Invite to join Group Chat",
-      "text": "Laden sie ein, dem gruppenchat beizutreten."
+      "text": "In den Gruppenchat einladen"
     },
     {
       "key": "pop_cmd_group_chat_kick",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "グループチャットから外す",
       "source_en": "Removed from the group chat",
-      "text": "Aus dem Gruppen-Chat entfernt"
+      "text": "Aus dem Gruppenchat entfernen"
     },
     {
       "key": "pop_cmd_join_denial",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "加入拒否",
       "source_en": "Refusal to join",
-      "text": "Beitrittsverweigerung"
+      "text": "Beitritt ablehnen"
     },
     {
       "key": "pop_cmd_join_permit",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "加入許可",
       "source_en": "Permission to join",
-      "text": "Erlaubnis zum Beitritt"
+      "text": "Beitritt erlauben"
     },
     {
       "key": "pop_cmd_participation",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "参加する",
       "source_en": "Join",
-      "text": "Einsteigen"
+      "text": "Beitreten"
     },
     {
       "key": "pop_cmd_party_kick",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーから外す",
       "source_en": "Remove from the party",
-      "text": "Von der Partei entfernen"
+      "text": "Aus der Gruppe entfernen"
     },
     {
       "key": "pop_cmd_party_reader",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "要請取り消し",
       "source_en": "Cancel request",
-      "text": "Stornierungsantrag"
+      "text": "Anfrage zurückziehen"
     },
     {
       "key": "pop_cmd_party_status",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティー詳細表示",
       "source_en": "Party List",
-      "text": "Parteienliste"
+      "text": "Gruppenliste"
     },
     {
       "key": "pop_cmd_pawn_delete",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーンの返却",
       "source_en": "Return of pawns",
-      "text": "Rückgabe von Vasallen"
+      "text": "Vasallen zurückschicken"
     },
     {
       "key": "pop_cmd_pawn_employment",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーンの雇用",
       "source_en": "Hiring and Organizing Pawns",
-      "text": "Einstellung und Organisation von Vasallen"
+      "text": "Vasallen anheuern und verwalten"
     },
     {
       "key": "pop_cmd_pawn_rental_history",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "レンタル履歴",
       "source_en": "Rental History",
-      "text": "Mietgeschichte"
+      "text": "Ausleihverlauf"
     },
     {
       "key": "pop_cmd_pawn_visibility",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーンの公開設定",
       "source_en": "Pawn's Privacy Settings.",
-      "text": "Vasall's Privacy Settings."
+      "text": "Sichtbarkeit des Vasallen einstellen"
     },
     {
       "key": "pop_cmd_profile",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "プロフィール表示",
       "source_en": "Display Profile",
-      "text": "Anzeigeprofil"
+      "text": "Profil anzeigen"
     },
     {
       "key": "pop_cmd_refuse",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "断る",
       "source_en": "Decline",
-      "text": "Rückgang"
+      "text": "Ablehnen"
     },
     {
       "key": "pop_cmd_status",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "加入申請",
       "source_en": "Joining Application",
-      "text": "Beitrittsgesuch"
+      "text": "Beitritt beantragen"
     },
     {
       "key": "pop_cmd_subscription_application_cancel",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "加入申請取り消し",
       "source_en": "Cancel request",
-      "text": "Stornierungsantrag"
+      "text": "Bewerbung zurückziehen"
     },
     {
       "key": "pop_cmd_talk",

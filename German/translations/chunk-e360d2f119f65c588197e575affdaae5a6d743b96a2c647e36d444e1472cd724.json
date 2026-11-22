@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムバッグ1枠スタック数：",
       "source_en": "Item Bag Stack Maximum: ",
-      "text": "Gegenstandstasche Stack Maximum: "
+      "text": "Max. Stapelgröße in der Gegenstandstasche: "
     },
     {
       "key": "pop_detail_G",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "Add Status",
       "source_en": "Add Status",
-      "text": "Status hinzufügen"
+      "text": "Zusatzwerte"
     },
     {
       "key": "pop_detail_add_status_2",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "Limit Bonus",
       "source_en": "Limit Bonus",
-      "text": "Begrenzungsbonus"
+      "text": "Limitbonus"
     },
     {
       "key": "pop_detail_add_status_5",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "Unparsable",
       "source_en": "Unparsable",
-      "text": "nicht trennbar"
+      "text": "Nicht identifizierbar"
     },
     {
       "key": "pop_detail_bbi_002",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "<COL ffdc78>？？？（入手すると判明します）</COL>",
       "source_en": "<COL ffdc78>??? (identified when obtained)</COL>",
-      "text": "<COL ffdc78>??? (identifiziert, wenn erhalten)</COL>"
+      "text": "<COL ffdc78>??? (wird beim Erhalt enthüllt)</COL>"
     },
     {
       "key": "pop_detail_caption",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "比較装備：",
       "source_en": "Equip Compare: ",
-      "text": "Vergleiche: "
+      "text": "Ausrüstungsvergleich: "
     },
     {
       "key": "pop_detail_craft",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "装着クレスト：スロット",
       "source_en": "Equipped Crest: Slot ",
-      "text": "Ausgestattet Crest: Slot "
+      "text": "Eingesetzte Fassung: Platz "
     },
     {
       "key": "pop_detail_item_rank",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "Item Rank",
       "source_en": "Item Rank",
-      "text": "Positionsrang"
+      "text": "Gegenstandsrang"
     },
     {
       "key": "pop_detail_ok",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "購入条件",
       "source_en": "Purchase Requirements",
-      "text": "Anforderungen an den Kauf"
+      "text": "Kaufvoraussetzungen"
     },
     {
       "key": "pop_detail_shop_deadline",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "販売中",
       "source_en": "Now on Sale",
-      "text": "Jetzt zum Verkauf"
+      "text": "Jetzt im Verkauf"
     },
     {
       "key": "pop_detail_shop_stock",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "ショップ残り在庫数：",
       "source_en": "Remaining Shop Stock:",
-      "text": "Verbleibender Lagerbestand:"
+      "text": "Verfügbarer Bestand:"
     },
     {
       "key": "pop_detail_shop_unlock_condition_3_1",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "(まだランキングは確定していません)",
       "source_en": "(The rankings have not yet been finalised.)",
-      "text": "(Die Rankings sind noch nicht abgeschlossen.)"
+      "text": "(Die Rangliste steht noch nicht fest.)"
     },
     {
       "key": "pop_detail_shop_unlock_condition_3_2",
@@ -232,7 +232,7 @@
       "tag_source": "source_en",
       "source_jp": "(参加者はランキングボードを確認してください)",
       "source_en": "(Participants should check the ranking board)",
-      "text": "(Die Teilnehmer sollten das Ranking Board überprüfen)"
+      "text": "(Die Platzierung kannst du an der Ranglistentafel einsehen.)"
     },
     {
       "key": "pop_detail_shop_unlock_condition_3_3",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "(最終結果%d位)",
       "source_en": "(Final result %d Rank)",
-      "text": "(Endergebnis %d Rang)"
+      "text": "(Endergebnis: Rang %d)"
     },
     {
       "key": "pop_detail_status",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "目玉報酬",
       "source_en": "Featured Rewards",
-      "text": "Ausgeprägte Belohnungen"
+      "text": "Besondere Belohnungen"
     }
   ],
   "schema_version": 1,

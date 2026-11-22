@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "<COL AA1414>最終確認</COL>\r\n元の髪型や、別の髪型に変更する場合は、\r\n美容院（有償）で変更する必要があります。\r\n本当に変更しますか？",
       "source_en": "<COL AA1414>Final Confirmation</COL>\r\nWhen changing to the original hairstyle or\r\nanother hairstyle, it has to be changed at\r\nthe Beauty Salon (paid).\r\nAre you sure you want to change it?",
-      "text": "<COL AA1414>Endgültige Bestätigung</COL>\r\nBeim Wechsel zur ursprünglichen Frisur oder\r\neiner anderen Frisur muss sie im\r\nBeauty Salon (bezahlt) geändert werden.\r\nBist du sicher, dass du sie ändern willst?"
+      "text": "<COL AA1414>Letzte Bestätigung</COL>\r\nWenn du später zur alten Frisur zurück\r\noder eine neue möchtest, musst du wieder\r\nim Schönheitssalon dafür bezahlen.\r\nMöchtest du deine Frisur jetzt ändern?"
     },
     {
       "key": "myroom_edit_ng",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "前の髪型のほうがいいね",
       "source_en": "I prefer your previous hairstyle",
-      "text": "Ich bevorzuge deine vorherige Frisur"
+      "text": "Deine vorige Frisur gefiel mir besser."
     },
     {
       "key": "myroom_edit_ok",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "似合ってるね",
       "source_en": "It looks good on you",
-      "text": "Es sieht gut aus auf dich"
+      "text": "Das steht dir gut."
     },
     {
       "key": "myroom_mandragora_1A0_1_menu",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "マンドラゴラの管理",
       "source_en": "Mandragora Management",
-      "text": "Mandragora-Management"
+      "text": "Mandragoras verwalten"
     },
     {
       "key": "myroom_mandragora_2A0_1_menu",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "自室の管理から鉢植を設定してください",
       "source_en": "Set up a potted plant from Manage My Room",
-      "text": "Einrichten einer Topfpflanze von Manage My Room"
+      "text": "Stell unter „Zimmer verwalten“ einen Pflanztopf auf."
     },
     {
       "key": "myroom_mandragora_2A1_1_menu",
@@ -56,7 +56,7 @@
       "tag_source": "source_en",
       "source_jp": "マンドラゴラを迎え入れる",
       "source_en": "Take in Mandragora",
-      "text": "Nimm in Mandragora"
+      "text": "Mandragora aufnehmen"
     },
     {
       "key": "myroom_mandragora_3A0_1_01_dialog",
@@ -64,7 +64,7 @@
       "tag_source": "source_en",
       "source_jp": "マンドラゴラを育てるには\r\n「作るもの」と「肥料」分のアイテムが必要です\r\nまずは「作るもの」を選択してください",
       "source_en": "To grow mandragora\r\nyou need items for \"what you make\" and\r\n\"fertilizer\"\r\nFirst select \"what you make\"!",
-      "text": "Mandragora anbauen\r\nDu brauchst Gegenstände für \"was du machst\" und\r\n„Dünger\r\nWähle zuerst \"Was du machst\"!"
+      "text": "Für die Mandragorazucht brauchst du\r\nMaterial für das Zuchtziel und\r\neinen Gegenstand als Dünger.\r\nWähle zuerst das Zuchtziel!"
     },
     {
       "key": "myroom_mandragora_3A0_1_02_dialog_menu",
@@ -72,7 +72,7 @@
       "tag_source": "source_en",
       "source_jp": "作るものを選ぶ",
       "source_en": "Choose what to make",
-      "text": "Wähle, was zu machen"
+      "text": "Zuchtziel auswählen"
     },
     {
       "key": "myroom_mandragora_3A0_1_03_dialog",
@@ -80,7 +80,7 @@
       "tag_source": "source_en",
       "source_jp": "次に「肥料」分のアイテムを自由に選択してください\r\n「肥料」として与えたアイテムによっては、\r\nマンドラゴラの成長に変化が現れるかもしれません",
       "source_en": "Next, feel free to select an item for \"fertilizer\"\r\nDepending on the item you gave as \"fertilizer\",\r\nyou may see a change in the growth of mandragora!",
-      "text": "Als nächstes fühle sich frei, einen Gegenstand für \"Dünger\" auszuwählen\r\nAbhängig von dem Gegenstand, de als \"Dünger\" gegeben haben,\r\nDu kannst eine Veränderung im Wachstum der Mandragora sehen!"
+      "text": "Wähle nun einen Gegenstand als Dünger.\r\nJe nachdem, welchen Dünger du nimmst,\r\nkann sich die Mandragora anders entwickeln."
     },
     {
       "key": "myroom_mandragora_3A0_1_04_dialog_menu",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "肥料を選ぶ",
       "source_en": "Choose fertilizer",
-      "text": "Wähle Dünger"
+      "text": "Dünger auswählen"
     },
     {
       "key": "myroom_mandragora_3A0_1_05_dialog",
@@ -96,7 +96,7 @@
       "tag_source": "source_en",
       "source_jp": "肥料選択をキャンセルしますか？\r\n(肥料に選んでいたアイテムは元に戻ります)",
       "source_en": "Cancel fertilizer selection?\r\n(The item you had selected for fertilizer will be\r\nrestored)",
-      "text": "Storniere die Düngemittelauswahl?\r\n(Der Gegenstand, de für Dünger ausgewählt haben, wird wiederhergestellt\r\n)"
+      "text": "Möchtest du die Düngerauswahl abbrechen?\r\n(Du erhältst den gewählten Gegenstand\r\nzurück.)"
     },
     {
       "key": "myroom_mandragora_3A0_1_06_dialog",
@@ -104,7 +104,7 @@
       "tag_source": "source_en",
       "source_jp": "育成方法を選んでください",
       "source_en": "Please choose a raising method",
-      "text": "Wähle eine Raising-Methode"
+      "text": "Wähle die Art der Aufzucht."
     },
     {
       "key": "myroom_mandragora_3A0_1_07_dialog_menu",
@@ -112,7 +112,7 @@
       "tag_source": "source_en",
       "source_jp": "通常育成",
       "source_en": "Normal raising",
-      "text": "Normale Erhöhung"
+      "text": "Normale Aufzucht"
     },
     {
       "key": "myroom_mandragora_3A0_1_08_dialog_menu",
@@ -120,7 +120,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石で即時育成",
       "source_en": "Instant raising with GG",
-      "text": "Sofortige Erhöhung mit GG"
+      "text": "Sofortaufzucht mit Goldsteinen"
     },
     {
       "key": "myroom_mandragora_3A0_1_09_dialog",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "このマンドラゴラを通常育成します\r\nよろしいですか？\r\nマンドラゴラ：<VAL>\r\n作るもの：<VAL>\r\n育成時間：<VAL>",
       "source_en": "I usually train this mandragora\r\nMay I?\r\nMandragora: <VAL>\r\nWhat you make: <VAL>\r\nGrowing time: <VAL>",
-      "text": "Normalerweise trainiere ich diese Mandragora\r\nDarf ich?\r\nMandragora: <VAL>\r\nWas machst du: <VAL>\r\nWachstumszeit: <VAL>"
+      "text": "Diese Mandragora normal aufziehen?\r\nFortfahren?\r\nMandragora: <VAL>\r\nZuchtziel: <VAL>\r\nAufzuchtdauer: <VAL>"
     },
     {
       "key": "myroom_mandragora_3A0_1_10_dialog",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "このマンドラゴラを<COL ffdc78>黄金石で即時育成</COL>します\r\nよろしいですか？\r\nマンドラゴラ：<VAL>\r\n作るもの：<VAL>\r\n育成時間：<VAL>\r\n<COL ffdc78>黄金石<VAL>個</COL>を消費します (所持数：<VAL>)",
       "source_en": "I will <COL ffdc78>immediately train</COL> this\r\nmandragora with Golden Gemstones\r\nMay I?\r\nMandragora: <VAL>\r\nWhat you make: <VAL>\r\nTraining time: <VAL>\r\n<COL ffdc78>Consume <VAL> Golden\r\nstones</COL>(number in your\r\npossession: <VAL>)",
-      "text": "Ich werde <COL ffdc78>Sofortzustellung</COL> Dies ist\r\nMandragora mit Goldsteinen\r\nDarf ich das?\r\nMandragora: <VAL>\r\nWas du machst: <VAL>\r\nAusbildungszeit: <VAL>\r\n<COL ffdc78>Verbrauch <VAL> Gold\r\nSteine</COL>(Zahl in deinem\r\nBesitz: <VAL>)"
+      "text": "Möchtest du diese Mandragora mit Goldsteinen<COL ffdc78>sofort aufziehen</COL>?\r\nDie Aufzucht endet ohne Wartezeit.\r\nFortfahren?\r\nMandragora: <VAL>\r\nZuchtziel: <VAL>\r\nAufzuchtdauer: <VAL>\r\n<COL ffdc78>Kosten: <VAL>\r\nGoldsteine</COL>\r\n(Im Besitz: <VAL>)"
     },
     {
       "key": "myroom_mandragora_3A0_1_10_dialog_e×1",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "<COL ffdc78>すぐに育ちます</COL>",
       "source_en": "<COL ffdc78>Grows quickly</COL>",
-      "text": "<COL ffdc78>Wachse schnell</COL>"
+      "text": "<COL ffdc78>Wächst sofort heran</COL>"
     },
     {
       "key": "myroom_mandragora_3A0_1_11_list",
@@ -152,7 +152,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石で即時育成",
       "source_en": "Instant raising with GG",
-      "text": "Sofortige Erhöhung mit GG"
+      "text": "Sofortaufzucht mit Goldsteinen"
     },
     {
       "key": "myroom_mandragora_3A0_1_12_dialog",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "育成を開始しました",
       "source_en": "Raising has started",
-      "text": "Raising hat begonnen"
+      "text": "Die Aufzucht hat begonnen."
     },
     {
       "key": "myroom_mandragora_3A0_1_13_dialog",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "育成が完了しました",
       "source_en": "Raising has completed",
-      "text": "Raising ist abgeschlossen"
+      "text": "Die Aufzucht ist abgeschlossen."
     },
     {
       "key": "myroom_mandragora_3A0_1_menu",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "育てる",
       "source_en": "Raise",
-      "text": "Heben"
+      "text": "Aufziehen"
     },
     {
       "key": "myroom_mandragora_3A0_2_menu",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "なでる",
       "source_en": "Pat",
-      "text": "Patron"
+      "text": "Streicheln"
     },
     {
       "key": "myroom_mandragora_3A0_4_err01",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "今は変更できません",
       "source_en": "Cannot be changed now.",
-      "text": "Kann jetzt nicht geändert werden."
+      "text": "Eine Änderung ist gerade nicht möglich."
     },
     {
       "key": "myroom_mandragora_3A0_4_menu",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "見た目を変える",
       "source_en": "Change appearance",
-      "text": "Ändertes Aussehen"
+      "text": "Aussehen ändern"
     },
     {
       "key": "myroom_mandragora_3A0_5_menu",
@@ -216,7 +216,7 @@
       "tag_source": "source_en",
       "source_jp": "名前を変える",
       "source_en": "Change name",
-      "text": "Name der Änderung"
+      "text": "Namen ändern"
     },
     {
       "key": "myroom_mandragora_3A1_1_menu",
@@ -224,7 +224,7 @@
       "tag_source": "source_en",
       "source_jp": "土を変える",
       "source_en": "Change soil",
-      "text": "Veränderung des Bodens"
+      "text": "Erde austauschen"
     },
     {
       "key": "myroom_mandragora_3A1_2_dialog",
@@ -240,7 +240,7 @@
       "tag_source": "source_en",
       "source_jp": "<COL ffdc78>ふかふかの土</COL>を使用しました",
       "source_en": "<COL ffdc78>I used the soft soil</COL>",
-      "text": "<COL ffdc78>Ich benutzte den weichen Boden</COL>"
+      "text": "<COL ffdc78>Lockere Erde verwendet</COL>"
     },
     {
       "key": "myroom_mandragora_3A1_4_dialog",
@@ -248,7 +248,7 @@
       "tag_source": "source_en",
       "source_jp": "ふかふかの土を持っていません",
       "source_en": "We do not have soft soil.",
-      "text": "Wir haben keinen weichen Boden."
+      "text": "Du hast keine lockere Erde."
     },
     {
       "key": "myroom_mandragora_3A2_1_err01",
@@ -256,7 +256,7 @@
       "tag_source": "source_en",
       "source_jp": "もうすぐ育成が完了するので\r\n黄金石で即時育成は使用できません",
       "source_en": "Training will be completed soon, so\r\nimmediate training with Golden Gemstones will not be\r\navailable",
-      "text": "Das Training wird bald abgeschlossen sein, so\r\nsofortiges Training mit Goldsteinen wird nicht verfügbar sein\r\n"
+      "text": "Die Aufzucht ist fast abgeschlossen.\r\nDu kannst sie daher nicht mehr\r\nmit Goldsteinen abkürzen."
     },
     {
       "key": "myroom_mandragora_3A2_1_menu",
@@ -264,7 +264,7 @@
       "tag_source": "source_en",
       "source_jp": "育成状況を確認する",
       "source_en": "Check raising status",
-      "text": "Anheben des Status überprüfen"
+      "text": "Stand der Aufzucht ansehen"
     },
     {
       "key": "myroom_mandragora_3A2_2_dialog",
@@ -272,7 +272,7 @@
       "tag_source": "source_en",
       "source_jp": "このマンドラゴラは育成途中です\r\n作るもの：<VAL>\r\n育成時間：<VAL>",
       "source_en": "This mandragora is in the process of growing\r\nWhat to make: <VAL>\r\nGrowing time: <VAL>",
-      "text": "Diese Mandragora ist dabei, zu wachsen\r\nWas man machen soll: <VAL>\r\nWachstumszeit: <VAL>"
+      "text": "Diese Mandragora wächst noch.\r\nZuchtziel: <VAL>\r\nAufzuchtdauer: <VAL>"
     },
     {
       "key": "myroom_mandragora_3A2_2_menu",
@@ -280,7 +280,7 @@
       "tag_source": "source_en",
       "source_jp": "肥料を確認する",
       "source_en": "Check fertilizer",
-      "text": "Kontrolldünger"
+      "text": "Dünger ansehen"
     },
     {
       "key": "myroom_mandragora_3A2_3_dialog",
@@ -288,7 +288,7 @@
       "tag_source": "source_en",
       "source_jp": "このマンドラゴラを<COL ffdc78>黄金石で即時育成</COL>します\r\nよろしいですか？\r\n<COL ffdc78>黄金石<VAL>個</COL>を消費します(所持数：<VAL>)",
       "source_en": "I will <COL ffdc78>immediately train</COL> this\r\nmandragora with Golden Gemstones\r\nMay I?\r\n<COL ffdc78>consume <VAL></COL> Golden Gemstones (number\r\nof Golden Gemstones in your possession: <VAL>)",
-      "text": "Ich werde <COL ffdc78>Sofortzustellung</COL> Dies ist\r\nMandragora mit Goldsteinen\r\nDarf ich das?\r\n<COL ffdc78>Konsum <VAL></COL> Goldsteine (Zahl)\r\nGoldsteine in deinem Besitz: <VAL>)"
+      "text": "Möchtest du diese Mandragora mit Goldsteinen<COL ffdc78>sofort aufziehen</COL>?\r\nDie Aufzucht endet ohne Wartezeit.\r\nFortfahren?\r\n<COL ffdc78>Kosten: <VAL></COL> Goldsteine\r\n(Im Besitz: <VAL>)"
     },
     {
       "key": "myroom_mandragora_3A2_4_dialog",
@@ -296,7 +296,7 @@
       "tag_source": "source_en",
       "source_jp": "このマンドラゴラを<COL ffdc78>黄金石で即時育成</COL>しました",
       "source_en": "I grew this mandragora immediately<COL ffdc78>\r\nwith Golden Gemstones</COL>",
-      "text": "Ich züchtete diese Mandragora sofort<COL ffdc78>\r\nmit Goldsteinen</COL>"
+      "text": "Die Mandragora wurde<COL ffdc78>\r\nmit Goldsteinen sofort aufgezogen.</COL>"
     },
     {
       "key": "myroom_mandragora_3A2_5_dialog",
@@ -304,7 +304,7 @@
       "tag_source": "source_en",
       "source_jp": "黄金石が不足しています\r\n(所持数：<VAL>)",
       "source_en": "You are running out of Golden Gemstones\r\n(No. of possessed Golden Gemstones: <VAL>)",
-      "text": "Dir gehen die Goldsteine aus\r\n(Anzahl der besessenen Goldsteine): <VAL>)"
+      "text": "Du hast nicht genug Goldsteine.\r\n(Im Besitz: <VAL>)"
     },
     {
       "key": "myroom_mandragora_3A2_6_dialog_menu",
@@ -312,7 +312,7 @@
       "tag_source": "source_en",
       "source_jp": "オンラインショップを開く",
       "source_en": "Open Online Shop",
-      "text": "Offener Online Shop"
+      "text": "Online-Shop öffnen"
     },
     {
       "key": "myroom_mandragora_3A3_1_menu",
@@ -320,7 +320,7 @@
       "tag_source": "source_en",
       "source_jp": "受け取る",
       "source_en": "Receive",
-      "text": "Empfang"
+      "text": "Abholen"
     },
     {
       "key": "myroom_mandragora_3A3_2_announce",
@@ -328,7 +328,7 @@
       "tag_source": "source_en",
       "source_jp": "鉢植に戻るまでまとう",
       "source_en": "wrap it up until it returns to its potted plant",
-      "text": "wickle es ein, bis es zu seiner Topfpflanze zurückkehrt"
+      "text": "Warte, bis die Mandragora in ihren Topf zurückgekehrt ist."
     },
     {
       "key": "myroom_mandragora_4A0_1_dialog",
@@ -336,7 +336,7 @@
       "tag_source": "source_en",
       "source_jp": "マンドラゴラ\r\n<VAL>\r\nの名前を変更しますか？",
       "source_en": "Would you like to rename Mandragora\r\n<VAL>\r\n?",
-      "text": "Möchtest du Mandragora\r\n<VAL>\r\n umbenennen?"
+      "text": "Möchtest du die Mandragora\r\n<VAL>\r\numbenennen?"
     },
     {
       "key": "myroom_mandragora_4A0_2_dialog_title",
@@ -360,7 +360,7 @@
       "tag_source": "source_en",
       "source_jp": "完了",
       "source_en": "Complete",
-      "text": "Vollständig"
+      "text": "Fertig"
     },
     {
       "key": "myroom_mandragora_4A0_5_dialog_button",
@@ -368,7 +368,7 @@
       "tag_source": "source_en",
       "source_jp": "中止",
       "source_en": "suspension",
-      "text": "Suspension"
+      "text": "Abbrechen"
     },
     {
       "key": "myroom_mandragora_4A0_6_dialog",
@@ -384,7 +384,7 @@
       "tag_source": "source_en",
       "source_jp": "パートナーポーンの解除",
       "source_en": "Dismiss Partner Pawn",
-      "text": "Entlassungspartner Vasall"
+      "text": "Partnervasall abwählen"
     },
     {
       "key": "myroom_menu_partner_reset_error",
@@ -392,7 +392,7 @@
       "tag_source": "source_en",
       "source_jp": "リワードがあるときは解除できません",
       "source_en": "Cannot be deactivated when there is a reward",
-      "text": "Kann nicht deaktiviert werden, wenn es eine Belohnung gibt"
+      "text": "Hol zuerst die ausstehende Belohnung ab."
     },
     {
       "key": "myroom_menu_pawn_quest",
@@ -400,7 +400,7 @@
       "tag_source": "source_en",
       "source_jp": "お願いを聞く",
       "source_en": "Grant Request",
-      "text": "Finanzhilfeantrag"
+      "text": "Bitte anhören"
     },
     {
       "key": "myroom_menu_pawn_quest_clear",
@@ -416,7 +416,7 @@
       "tag_source": "source_en",
       "source_jp": "プレゼントをあげる",
       "source_en": "Give Present",
-      "text": "Präsentieren"
+      "text": "Geschenk überreichen"
     },
     {
       "key": "myroom_menu_pwan_quest_talk",
@@ -424,7 +424,7 @@
       "tag_source": "source_en",
       "source_jp": "お願いについて",
       "source_en": "Regarding Request",
-      "text": "Zum Antrag"
+      "text": "Über die Bitte sprechen"
     },
     {
       "key": "myroom_menu_room",
@@ -432,7 +432,7 @@
       "tag_source": "source_en",
       "source_jp": "自室の管理",
       "source_en": "Room Management",
-      "text": "Raummanagement"
+      "text": "Zimmer verwalten"
     },
     {
       "key": "myroom_menu_talk",
@@ -440,7 +440,7 @@
       "tag_source": "source_en",
       "source_jp": "話しかける",
       "source_en": "Talk",
-      "text": "Sprechen"
+      "text": "Reden"
     },
     {
       "key": "myroom_om_text_esa",
@@ -456,7 +456,7 @@
       "tag_source": "source_en",
       "source_jp": "詳細を聞く",
       "source_en": "Let's hear the details",
-      "text": "Lass uns die Details hören"
+      "text": "Ich möchte die Einzelheiten hören."
     },
     {
       "key": "myroom_pawn_quest_no_order",
@@ -472,7 +472,7 @@
       "tag_source": "source_en",
       "source_jp": "よし、わかった",
       "source_en": "All right, I got it",
-      "text": "In Ordnung, ich habe es verstanden"
+      "text": "Alles klar, ich kümmere mich darum."
     },
     {
       "key": "myroom_pawn_think_grow",
@@ -480,7 +480,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーン戦術育成できるポーンがいます！！",
       "source_en": "There are pawns that are able to do Pawn Tactics\r\nTraining!!!",
-      "text": "Es gibt Vasallen, die in der Lage sind, Vasall Tactics\r\nTraining zu machen!!!"
+      "text": "Deine Vasallen sind bereit für\r\ndas Taktiktraining!"
     }
   ],
   "schema_version": 1,

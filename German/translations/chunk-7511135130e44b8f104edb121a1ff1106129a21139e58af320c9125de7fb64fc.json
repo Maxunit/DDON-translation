@@ -8,7 +8,7 @@
       "tag_source": "source_en",
       "source_jp": "ミッションをクリアした",
       "source_en": "Mission cleared.",
-      "text": "Mission gelöscht."
+      "text": "Mission abgeschlossen."
     },
     {
       "key": "dark_dun_ann_002",
@@ -16,7 +16,7 @@
       "tag_source": "source_en",
       "source_jp": "宝箱の報酬が増えた",
       "source_en": "Treasure chest rewards increased.",
-      "text": "Treasure chest Belohnungen erhöht."
+      "text": "Die Schatztruhen enthalten mehr Belohnungen."
     },
     {
       "key": "dark_dun_ann_003",
@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "ミッションに失敗したため、チェイン数が減少した",
       "source_en": "Chain count decreased due to failed mission.",
-      "text": "Die Anzahl der Ketten nahm aufgrund einer fehlgeschlagenen Mission ab."
+      "text": "Die Mission ist fehlgeschlagen. Der Serienzähler ist gesunken."
     },
     {
       "key": "dark_dun_ann_004",
@@ -32,7 +32,7 @@
       "tag_source": "source_en",
       "source_jp": "パーティーメンバーが死亡したため、チェイン数が減少した",
       "source_en": "Chain count decreased due to death of a party\r\nmember.",
-      "text": "Kettenzahl verringerte sich wegen des Todes einer Partei\r\n Mitglied."
+      "text": "Ein Gruppenmitglied ist gefallen.\r\nDer Serienzähler ist gesunken."
     }
   ],
   "schema_version": 1,

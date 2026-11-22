@@ -24,7 +24,7 @@
       "tag_source": "source_en",
       "source_jp": "アイテムランク指定",
       "source_en": "Specify Item Rank",
-      "text": "Positionsrang angeben"
+      "text": "Gegenstandsrang festlegen"
     },
     {
       "key": "RIM_POP_MSG_CHARACTER_M_JOB",
@@ -40,7 +40,7 @@
       "tag_source": "source_en",
       "source_jp": "ジョブレベル指定",
       "source_en": "Specify Vocation Level",
-      "text": "Berufliche Ebene angeben"
+      "text": "Klassenstufe festlegen"
     },
     {
       "key": "RIM_POP_MSG_CHARACTER_M_SKILL",
@@ -48,7 +48,7 @@
       "tag_source": "source_en",
       "source_jp": "スキル",
       "source_en": "Skills",
-      "text": "Fähigkeiten"
+      "text": "Fertigkeiten"
     },
     {
       "key": "RIM_POP_MSG_HEADER_M_HEADER",
@@ -88,7 +88,7 @@
       "tag_source": "source_en",
       "source_jp": "女性",
       "source_en": "F",
-      "text": "F"
+      "text": "W"
     },
     {
       "key": "RIM_POP_MSG_M_GENDER_MALE",
@@ -128,7 +128,7 @@
       "tag_source": "source_en",
       "source_jp": "オーナー名の指定",
       "source_en": "Owner Name",
-      "text": "Name des Eigentümers"
+      "text": "Name des Besitzers"
     },
     {
       "key": "RIM_POP_MSG_OWNER_M_PAWN",
@@ -136,7 +136,7 @@
       "tag_source": "source_en",
       "source_jp": "ポーンの名前を指定",
       "source_en": "Pawn Name",
-      "text": "Vasall Name"
+      "text": "Name des Vasallen"
     },
     {
       "key": "RIM_POP_MSG_SEARCH_CRAFTSKILL",
@@ -144,7 +144,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトスキル",
       "source_en": "Craft Skills",
-      "text": "Handwerkliche Fertigkeiten"
+      "text": "Herstellungsfertigkeiten"
     },
     {
       "key": "RIM_POP_MSG_SEARCH_JOB",
@@ -160,7 +160,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトレベル",
       "source_en": "Craft Level",
-      "text": "Fahrzeugebene"
+      "text": "Herstellungsstufe"
     },
     {
       "key": "RIM_POP_MSG_SKILL_M_SKILL00",
@@ -168,7 +168,7 @@
       "tag_source": "source_en",
       "source_jp": "クラフトスキル",
       "source_en": "Craft Skills",
-      "text": "Handwerkliche Fertigkeiten"
+      "text": "Herstellungsfertigkeiten"
     },
     {
       "key": "RIM_POP_MSG_SKILL_M_SKILL01",
@@ -176,7 +176,7 @@
       "tag_source": "source_en",
       "source_jp": "生産作業スピード",
       "source_en": "Production Speed",
-      "text": "Produktionsgeschwindigkeit"
+      "text": "Höheres Herstellungstempo"
     },
     {
       "key": "RIM_POP_MSG_SKILL_M_SKILL02",
@@ -184,7 +184,7 @@
       "tag_source": "source_en",
       "source_jp": "装備の強化技術",
       "source_en": "Equipment Enhancement",
-      "text": "Ausrüstungserweiterung"
+      "text": "Ausrüstung verstärken"
     },
     {
       "key": "RIM_POP_MSG_SKILL_M_SKILL03",
@@ -192,7 +192,7 @@
       "tag_source": "source_en",
       "source_jp": "高品質装備の作成力",
       "source_en": "Equipment Quality",
-      "text": "Ausrüstungsqualität"
+      "text": "Höhere Ausrüstungsqualität"
     },
     {
       "key": "RIM_POP_MSG_SKILL_M_SKILL04",
@@ -200,7 +200,7 @@
       "tag_source": "source_en",
       "source_jp": "消耗品の生産数アップ",
       "source_en": "Consumable Quantity",
-      "text": "Verbrauchbare Menge"
+      "text": "Mehr Verbrauchsgegenstände"
     },
     {
       "key": "RIM_POP_MSG_SKILL_M_SKILL05",
@@ -208,7 +208,7 @@
       "tag_source": "source_en",
       "source_jp": "コストパフォーマンス",
       "source_en": "Cost Performance",
-      "text": "Kostenleistung"
+      "text": "Geringere Herstellungskosten"
     }
   ],
   "schema_version": 1,
