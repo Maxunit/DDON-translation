@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00030020.gmd",
+  "arc_path": "\\quest\\q00030020.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "さあ、準備が整ったのならアッカーシェランへ\r\n飛んでくれ",
+      "source_en": "Now, if you are ready,\r\nfly to Acre Selund.",
+      "text": "Wenn du bereit bist,\r\nreise nach Acre Selund."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "まずは穏便にエリオットを取り返して\r\n友好的な関係を築くこと",
+      "source_en": "First, we need to get Elliot back quietly\r\nand amicably and build a rapport.",
+      "text": "Zunächst müssen wir Elliot friedlich zurückholen\r\nund das Vertrauen der Menschen dort gewinnen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "これはフィンダムの一件よりも大ごとだ\r\n本心はどうあれ、情報収集のためには\r\nアッカーシェラン側の協力が不可欠",
+      "source_en": "This matter is more serious\r\nthan the incident in Phindym.\r\nRegardless of your true feelings,\r\ncooperation from the Acre Selund side\r\nis essential for gathering information.",
+      "text": "Diese Angelegenheit ist noch ernster\r\nals die Vorfälle in Phindym.\r\nWie immer ihr über sie denkt,\r\nwir brauchen die Hilfe der Menschen von Acre Selund,\r\num mehr zu erfahren."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "また向こうでは、何が待ち受けているやも分からん\r\nポーンも連れて行くと良い",
+      "source_en": "You cannot predict what lies\r\nahead over there. It would be good\r\nto take your Pawns along as well.",
+      "text": "Wir wissen nicht, was euch dort erwartet.\r\nNimm am besten\r\nauch deine Vasallen mit."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "いいな？\r\n目的は状況の把握\r\nなるべく小まめに報告してくれ",
+      "source_en": "Understood?\r\nThe goal is to understand the situation,\r\nso please report in as frequently as possible.",
+      "text": "Verstanden?\r\nIhr sollt herausfinden, was dort geschieht.\r\nErstatte mir möglichst oft Bericht."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "エリオットは人質だ\r\n命を奪われるようなことはないと思うが――",
+      "source_en": "Elliot has been taken hostage.\r\nI don't think they'll take his life...",
+      "text": "Elliot ist ihre Geisel.\r\nIch glaube nicht, dass sie ihn töten werden …"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "また余計なひとことで\r\n事を荒立ててはいないだろうな",
+      "source_en": "You haven't made matters worse with\r\nany unnecessary comments, have you?",
+      "text": "Hoffentlich hat er mit einer unbedachten Bemerkung\r\nnicht wieder alles noch schlimmer gemacht."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "交流どころか、存在すら知らなかった大陸と\r\nまた繋がりができたわけだ",
+      "source_en": "Far from any sort of cultural exchange,\r\nwe've formed a connection with a continent \r\nwe were previously unaware of.",
+      "text": "Wir sind nun mit einem Kontinent verbunden,\r\nvon dessen Existenz wir bis vor Kurzem nichts wussten.\r\nVon einem Austausch kann noch keine Rede sein."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "好奇心は刺激されるけど、怖くもなるね",
+      "source_en": "It stirs my curiosity,\r\nyet its discovery is frightening.",
+      "text": "Das macht mich neugierig.\r\nAber auch ein bisschen ängstlich."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "エリオットのやつ、どんな顔してやがるかね",
+      "source_en": "That Elliot, I wonder what kind of face\r\nhe's showing right now.",
+      "text": "Was der Elliot wohl\r\ngerade für ein Gesicht macht?"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "エリオット、待ってるよ？\r\n早く行ってあげようよ",
+      "source_en": "Elliot, are you waiting?\r\nHurry up, let's go.",
+      "text": "Elliot wartet auf uns.\r\nLos, lass uns schnell zu ihm."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "ほう――戻って来たのか",
+      "source_en": "Oh, so you've returned.",
+      "text": "Ah, ihr seid zurück."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "ここから先はジリアンの指示に従え",
+      "source_en": "Follow Gillian's instructions from here on out.",
+      "text": "Folgt von jetzt an Gillians Anweisungen."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "妙な考えを起こすなよ\r\n仲間に何かあったらおまえたちを\r\n疑うからな",
+      "source_en": "Don't get any funny ideas.\r\nIf anything happens to one of our guys, \r\nwe'll be looking at you.",
+      "text": "Kommt nicht auf dumme Gedanken.\r\nWenn einem von uns etwas zustößt,\r\nseid ihr die ersten Verdächtigen."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "あと先のことを考えると\r\n連中の信頼は勝ち取っておきてえよな",
+      "source_en": "Considering what lies ahead, \r\nI want to earn their trust.",
+      "text": "Wir sollten ihr Vertrauen gewinnen.\r\nWer weiß, was noch auf uns zukommt."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "白竜の覚者ここにありってところを\r\n見せつけておかなくちゃ",
+      "source_en": "I need to demonstrate that \r\nthe White Dragons' Arisen are here to help.",
+      "text": "Jetzt zeigen wir ihnen,\r\nwas die Erweckten des Weißen Drachen können."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "もちろん信じていましたけど\r\nこうして戻ってきてくれたこと――",
+      "source_en": "I certainly believed, but to have\r\nyou return like this...",
+      "text": "Ich habe natürlich daran geglaubt,\r\ndass du zurückkommst …"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "本当にうれしいです\r\n想像より、ずっとうれしいです",
+      "source_en": "I am truly happy.\r\nIt's so much more than I imagined.",
+      "text": "Aber jetzt, wo du wirklich wieder hier bist,\r\nfreue ich mich noch viel mehr als gedacht."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "ここから北へ向かったその先に\r\n敵の、ちょっとした野営地があるの",
+      "source_en": "If you head north from here, \r\nthere's a minor enemy camp up ahead.",
+      "text": "Wenn ihr von hier nach Norden geht,\r\nkommt ihr zu einem kleinen Lager der Feinde."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "このあたりを監視するために作られたみたい\r\nそこにね、わたしたちの仲間が捕まっているんだ",
+      "source_en": "It was built long ago\r\nto monitor the area.\r\nOur companions are trapped\r\nover there.",
+      "text": "Es wurde wohl vor langer Zeit\r\nzur Überwachung dieser Gegend angelegt.\r\nDort halten sie\r\neinige unserer Leute gefangen."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "近づいて探りを入れたいんだけど\r\nこっちに来るのはひさしぶりだから――",
+      "source_en": "I'd like to get closer and investigate, \r\nbut it's been a long time since I've been here...",
+      "text": "Ich würde mich gern näher heranschleichen.\r\nAber ich war schon lange nicht mehr hier …"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "ああ、そうか\r\nあなたたちの紹介もしなくちゃね",
+      "source_en": "Oh, yeah.\r\nI have to introduce you guys too.",
+      "text": "Ach ja.\r\nIch muss euch noch jemandem vorstellen."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターのエンデールに会ってきてよ\r\n挨拶して、このあたりの最新情報を\r\n仕入れてきて",
+      "source_en": "Please meet with Endale, the Area Master.\r\nGreet him and gather the latest news\r\nabout this area.",
+      "text": "Sucht den Gebietsmeister Endale auf.\r\nStellt euch ihm vor und fragt ihn,\r\nwas es Neues aus der Gegend gibt."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "もし、気が変わったとか、怖じ気づいたとかなら\r\n今のうちにそう言って",
+      "source_en": "If you are having second thoughts\r\nor are now filled with fear,\r\nnow is the time to speak up.",
+      "text": "Wenn ihr es euch anders überlegt habt\r\noder Angst bekommen habt,\r\ndann sagt es lieber jetzt."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "大事な時に逃げ出すくらいなら\r\n最初からいない方がいいから",
+      "source_en": "If you're going to run away when it matters, \r\nit's better you were never here at all.",
+      "text": "Wer im entscheidenden Moment wegläuft,\r\nbleibt besser gleich fern."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "俺はこの一帯のエリアを仕切っている\r\nエンデールというものだ\r\nこの国がどういう状況か、教えてやろう",
+      "source_en": "I am Endale, who oversees this area. \r\nLet me enlighten you on the situation \r\nof this land.",
+      "text": "Ich bin Endale und kümmere mich um diese Gegend.\r\nIch erzähle dir,\r\nwie es hier im Land aussieht."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "既に辺り一面、魔軍の手に堕ちている\r\n以前は獣を追って狩人が集まる豊かな山だったが\r\n今や人間が狩られる有様――",
+      "source_en": "The surroundings have already succumbed \r\nto the Demon Army. It used to be a \r\nbountiful mountain where hunters\r\nonce gathered to hunt beasts, but now,\r\nhumans are the ones being hunted.",
+      "text": "Alles um uns herum ist schon in Feindeshand.\r\nFrüher kamen Jäger hierher,\r\nweil es in den Bergen viel Wild gab.\r\nHeute werden die Menschen\r\nselbst gejagt."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "情けない話だが――\r\n誰もこの先に希望なぞ見出せん\r\n俺を含め、この国を愛した戦士たち誰もがな",
+      "source_en": "It's a pitiful tale. Moreso—\r\nno one can find hope ahead.\r\nNot a single one, including myself,\r\namong the warriors who love this land.",
+      "text": "Es ist beschämend,\r\naber niemand von uns sieht noch eine Zukunft.\r\nKeiner der Krieger, die dieses Land lieben,\r\nmich eingeschlossen."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "そのうえ、真に忌々しいのは魔軍の戦車――\r\n戦車といっても、４本足のどデカいやつのことだ\r\nそいつのせいで、このエリアは壊滅状態に陥った",
+      "source_en": "Furthermore, the truly detestable thing\r\nis the Demon Army's war machine—\r\nThough when I say war machine,\r\nI mean the massive four-legged behemoth.\r\nBecause of that creature, this area \r\nhas fallen into a state of complete ruin.",
+      "text": "Und dann ist da noch diese verfluchte Kriegsmaschine.\r\nEin riesiges Ungetüm\r\nauf vier Beinen.\r\nSie hat\r\ndie ganze Gegend\r\nin Schutt und Asche gelegt."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "これからお前が向かう野営地は\r\n魔軍の支配する拠点のひとつ――\r\nヤツらの動きには充分、注意するんだな",
+      "source_en": "The encampment you're heading to now\r\nis one of the strongholds \r\ncontrolled by the Demon Army—\r\nBe very careful of their movements.",
+      "text": "Das Lager, zu dem ihr jetzt aufbrecht,\r\nist einer der Stützpunkte\r\nder feindlichen Armee.\r\nAchtet gut auf ihre Bewegungen."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "他に何か知りたいことがあれば、遠慮はするな\r\nこのあたりのことならなんでも教えてやろう",
+      "source_en": "If there's anything else you'd like to know,\r\ndon't hesitate to contact me.\r\nI'll tell you anything you need\r\nto know around here.",
+      "text": "Wenn du sonst noch etwas wissen willst,\r\nfrag ruhig.\r\nIch erzähle dir alles,\r\nwas ich über diese Gegend weiß."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "なんでも聞いてくれ\r\n質問に答えるのも俺の役目だからな",
+      "source_en": "Ask me anything you want.\r\nI'm here to answer your questions.",
+      "text": "Frag nur.\r\nDafür bin ich da."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "ジリアンは既に出立した\r\nおまえたちもジリアンの後を追ってくれ",
+      "source_en": "Gillian has already left.\r\nYou guys go after Gillian too.",
+      "text": "Gillian ist schon aufgebrochen.\r\nFolgt ihr."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "おい、とっとと俺たちも行こうぜ",
+      "source_en": "Hey, let's get the hell out of here.",
+      "text": "Los, machen wir uns auch auf den Weg."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "あー、野営地って、敵がうじゃうじゃいそうな\r\n予感がするんだけれど",
+      "source_en": "Ah, I have a feeling that the encampment\r\nis going to be crawling with enemies.",
+      "text": "Ich wette,\r\nin diesem Lager wimmelt es nur so vor Feinden."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "野営地を探っていた仲間に\r\n何かしらの動きがあったみたいです",
+      "source_en": "I've got a buddy who was exploring\r\nthe encampment and it looks like\r\nthere's been some movement.",
+      "text": "Anscheinend hat sich bei einem unserer Leute\r\netwas getan,\r\nder das Lager auskundschaftet."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "どうやら怖じ気づきはしなかったみたいね",
+      "source_en": "Apparently, it didn't scare him off.",
+      "text": "Anscheinend habt ihr es euch nicht anders überlegt."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "いい、仲間の工作によって\r\n閉じられた野営地への突入路は確保した",
+      "source_en": "Certainly, with the aid of my allies, \r\nwe have secured the route to the \r\nclosed-off campsite for our approach.",
+      "text": "Unsere Leute haben dafür gesorgt,\r\ndass wir in das abgeriegelte Lager eindringen können.\r\nDer Weg ist frei."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "わたしは裏から忍び込むから\r\nあなたたちは仲間と共に正面から切り込んで\r\n派手に暴れてくれない？",
+      "source_en": "I'll sneak in from the back\r\nand you guys can cut in from the front\r\nwith your buddies and go on a rampage\r\nwith a bang, right?",
+      "text": "Ich schleiche mich von hinten hinein.\r\nKönnt ihr mit euren Leuten von vorn angreifen\r\nund dabei ordentlich\r\nAufsehen erregen?"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "わたしが囚われた仲間を見つけ出すあいだ\r\n敵を引きつけてほしいの",
+      "source_en": "While I find my captive companions,\r\nI want you to keep the attention of the enemies.",
+      "text": "Haltet die Feinde beschäftigt,\r\nwährend ich unsere Gefangenen suche."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "それと、魔軍の中には戦甲で身を固めた敵が\r\nいるみたいだから注意して",
+      "source_en": "Also, it seems there are foes among\r\nthe Demon Army clad in battle armor,\r\nso be wary.",
+      "text": "Einige Feinde tragen anscheinend\r\nKampfpanzer.\r\nNehmt euch vor ihnen in Acht."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "野営地の中には、必ず囚われた仲間が\r\nいるはずなんだ",
+      "source_en": "Within the encampment, there should \r\ndefinitely be captured allies.",
+      "text": "Unsere Leute müssen\r\nin diesem Lager gefangen sein."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "はじめて見る顔だな\r\nだが、手を貸してくれるなら歓迎だ",
+      "source_en": "I've never seen your face before,\r\nbut you're welcome to lend a hand.",
+      "text": "Dein Gesicht kenne ich noch nicht.\r\nAber wenn du uns hilfst, bist du willkommen."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "作戦の手筈はジリアンから聞いて欲しい\r\n突入路は既に開いている",
+      "source_en": "Please listen to the strategy from Gillian; \r\nthe route for infiltration is already clear.",
+      "text": "Gillian erklärt euch den Plan.\r\nDer Weg ins Lager ist bereits frei."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "新入りさん？\r\n頑張ってね",
+      "source_en": "Fresh blood?\r\nGood luck out there.",
+      "text": "Neu hier?\r\nViel Glück da draußen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

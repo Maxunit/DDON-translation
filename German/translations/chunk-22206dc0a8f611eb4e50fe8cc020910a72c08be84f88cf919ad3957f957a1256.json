@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020240_00.gmd",
+  "arc_path": "\\quest\\q00020240.arc",
+  "entries": [
+    {
+      "key": "q00020240_00_56",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "理と絆",
+      "source_en": "Reason and Bonds",
+      "text": "Ordnung und Bande"
+    },
+    {
+      "key": "q00020240_00_56",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "精霊竜との決戦のため、樹内上層にある\r\n精霊竜のねぐらを目指す",
+      "source_en": "Onwards to battle with the Spirit Dragon.\r\nIts roost is at the top of the tree.",
+      "text": "Geh zum Hort des Geisterdrachen im oberen Teil des Baums\r\nund stell dich ihm zum Kampf."
+    },
+    {
+      "key": "q00020240_00_2166",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間に戻りジョゼフに報告する",
+      "source_en": "Return to Joseph in the Audience Chamber",
+      "text": "Kehre in den Audienzsaal zurück und erstatte Joseph Bericht."
+    },
+    {
+      "key": "q00020240_00_2167",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "始まりの洞へ向かう",
+      "source_en": "Head to the Hollow of Beginnings",
+      "text": "Geh zur Höhle des Ursprungs."
+    },
+    {
+      "key": "q00020240_00_2168",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "＜精霊竜のねぐら＞を目指す",
+      "source_en": "Head for Spirit Dragon's Roost",
+      "text": "Geh zum Hort des Geisterdrachen."
+    },
+    {
+      "key": "q00020240_00_2169",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "精霊竜を倒す",
+      "source_en": "Defeat the Spirit Dragon",
+      "text": "Besiege den Geisterdrachen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\event\\event_name.gmd",
+  "arc_path": "\\EventViewRoom.arc",
+  "entries": [
+    {
+      "key": "EVENT_NAME_st0435ev000",
+      "read_index": "182",
+      "tag_source": "source_en",
+      "source_jp": "精霊竜ウィルミア",
+      "source_en": "Willmia the Spirit Dragon",
+      "text": "Der Geisterdrache Willmia"
+    },
+    {
+      "key": "EVENT_NAME_st0435ev005",
+      "read_index": "183",
+      "tag_source": "source_en",
+      "source_jp": "消えゆくセシリー",
+      "source_en": "Disappearing Cecily",
+      "text": "Cecilys Abschied"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

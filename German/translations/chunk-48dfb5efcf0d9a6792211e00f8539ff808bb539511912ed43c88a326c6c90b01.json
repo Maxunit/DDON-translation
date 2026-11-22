@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00020230.gmd",
+  "arc_path": "\\quest\\q00020230.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "フィンダムの様子はどうだ？",
+      "source_en": "How's Phindym doing?",
+      "text": "Wie steht es um Phindym?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "行方の知れないロイグは見つかったのか",
+      "source_en": "Has the missing Loeg been found?",
+      "text": "Hat man Loeg inzwischen gefunden?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "フィンダムの様子が気になるねえ",
+      "source_en": "I'm worried about what's happening in Phindym.",
+      "text": "Ich mache mir Sorgen um Phindym."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "うーむ――",
+      "source_en": "Hmm—",
+      "text": "Hm …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "隊長――\r\nお待ちしていました",
+      "source_en": "Captain—\r\nWe've been waiting for you.",
+      "text": "Da bist du ja.\r\nWir haben auf dich gewartet."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "原始の雫を含む輝く地層――",
+      "source_en": "A glowing layer that holds Primeval Drops―",
+      "text": "Eine leuchtende Gesteinsschicht, die Urquelltropfen enthält …"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "我々が通常立ち入る範囲で\r\nそのような場所は、ついぞ見たことがない",
+      "source_en": "Within the bounds we normally tread, \r\nI've never encountered such a location.",
+      "text": "An den Orten, die wir gewöhnlich aufsuchen,\r\nhabe ich so etwas noch nie gesehen."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "あるとすれば前人未踏の地という\r\nことになるだろう",
+      "source_en": "If it is true, it would mean a place \r\nuntouched by previous explorers.",
+      "text": "Falls es sie gibt,\r\nliegt sie wohl in einer Gegend, die noch niemand erkundet hat."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "となれば、やはりキンガル峡谷の奥地か――",
+      "source_en": "Then it seems we are talking about \r\nthe inner reaches of Kingal Canyon.",
+      "text": "Dann bleibt wohl nur\r\ndas Innere der Kingal-Schlucht …"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "これから行くキンガル峡谷の奥地は\r\nかなり広いので、手分けして\r\n効率よく探しましょう！",
+      "source_en": "The area we are going to\r\nin Kingal Canyon is rather widespread,\r\nso let's split up and search efficiently!",
+      "text": "Das Gebiet tief in der Kingal-Schlucht\r\nist ziemlich weitläufig.\r\nTeilen wir uns auf, damit wir schneller suchen können!"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "魔物はいるでしょうけど、危険は\r\n声をかけ合えば避けられますよね？",
+      "source_en": "There are likely to be monsters,\r\nbut we can avoid danger if we\r\nalert each other, right?",
+      "text": "Dort gibt es bestimmt Monster.\r\nAber wenn wir einander warnen,\r\nkönnen wir Gefahren aus dem Weg gehen, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "おまえらの手に負えない時は\r\n俺も行ってやらないでもないが――\r\nとりあえず、なんとかしろ",
+      "source_en": "When it becomes too much for you all, \r\nI could step in if needed, but for now,\r\ntry to manage on your own.",
+      "text": "Wenn ihr allein nicht klarkommt,\r\nkönnte ich euch ja helfen.\r\nAber versucht’s erst mal selbst."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "ごめん、ちょっと休ませてね\r\nここに来て、ガクッと、連戦の疲れが出たみたい",
+      "source_en": "I'm sorry, I need to rest a bit. \r\nSince coming here, it seems the fatigue\r\nfrom all these consecutive battles has set in.",
+      "text": "Tut mir leid, ich muss mich kurz ausruhen.\r\nHier hat mich die Erschöpfung\r\nvon all den Kämpfen plötzlich eingeholt."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "隊長、行ってらっしゃい\r\nこうして見送るのは不本意ですけど\r\n二の矢、三の矢の準備は必要ですからね",
+      "source_en": "Captain, off you go. \r\nI do not wish to see you off like this,\r\nbut we must stay prepared,\r\na second and third arrow, just in case.",
+      "text": "Geh ruhig schon voraus.\r\nIch würde zwar lieber mitkommen,\r\naber wir brauchen auch Leute in Reserve,\r\nfalls etwas schiefgeht."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "この感じ――\r\n気をつけてください、何かいます――",
+      "source_en": "This feeling—\r\nbe careful, there's something...",
+      "text": "Dieses Gefühl …\r\nVorsicht, hier ist etwas …"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "隊長、本当にありがとうございました\r\nさあ、みんなのところへ帰りましょう\r\nゆっくりしていると探しに来ちゃいますよね？",
+      "source_en": "Thank you, Captain. \r\nNow, let's head back to everyone. \r\nIf we take too long, they'll come \r\nlooking for us, won't they?",
+      "text": "Ich danke dir.\r\nKehren wir zu den anderen zurück.\r\nWenn wir zu lange wegbleiben,\r\nkommen sie uns womöglich suchen."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "素晴らしい！　素晴らしいぞ！",
+      "source_en": "Excellent! That's fantastic!",
+      "text": "Großartig! Einfach großartig!"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "成し遂げたあなたたち――\r\n新たな原始の雫――どちらも素晴らしい！",
+      "source_en": "You all have accomplished a remarkable feat—\r\nA new Primeval Drop—\r\nRemarkable!",
+      "text": "Was ihr geleistet habt …\r\nUnd dann die neuen Urquelltropfen …\r\nDas ist wunderbar!"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "隊長、待ちきれません\r\n早く原始の雫で浄化を始めましょう",
+      "source_en": "Captain, I can't hold back any longer. \r\nLet's swiftly start the purification\r\nwith the Primeval Drop!",
+      "text": "Ich kann es kaum erwarten.\r\nLass uns schnell mit den Urquelltropfen\r\ndie Reinigung beginnen!"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "ふん！\r\nもう少しで迎えを出すところだったぜ",
+      "source_en": "Hmph!\r\nI was just about to call for assistance.",
+      "text": "Hmpf!\r\nIch wollte gerade jemanden losschicken, um euch zu suchen."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "ガルドリンったら、憎まれ口叩いてるけど\r\n一番心配してたんだから",
+      "source_en": "Though Gurdolin talks tough,\r\nhe was the most worried one of us all.",
+      "text": "Gurdolin tut nur so großspurig.\r\nEr hat sich von uns allen am meisten Sorgen gemacht."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "おつかれさまです、隊長",
+      "source_en": "Thank you for your hard work, Captain.",
+      "text": "Gut gemacht."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "実は、変なモノを持ち帰るんじゃないかと\r\n不安でしたけど――",
+      "source_en": "Truth be told, I was anxious about you \r\nbringing back something weird, but...",
+      "text": "Ehrlich gesagt hatte ich schon Angst,\r\nihr würdet irgendetwas Seltsames mitbringen …"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "みんなの喜び方を見る限り\r\nそれは間違いなく《原始の雫》のようです\r\n俺もホッとしましたよ",
+      "source_en": "Seeing how everyone is overjoyed, \r\nit surely resembles the [Primeval Drops]. \r\nI'm relieved as well.",
+      "text": "Aber so, wie sich alle freuen,\r\nsind es wohl wirklich die Urquelltropfen.\r\nDa bin ich beruhigt."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "鬱陶しいクズ虫どもめ――",
+      "source_en": "Annoying, worthless bugs...",
+      "text": "Lästiges, wertloses Ungeziefer …"
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "我が世に居合わせたことを嘆くがよい",
+      "source_en": "You should lament being in my world.",
+      "text": "Verflucht den Tag, an dem ihr meine Welt betreten habt."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "強者の理（ことわり）に弱者は不要",
+      "source_en": "The Order of the strong does not require the weak.",
+      "text": "In der Ordnung der Starken ist kein Platz für die Schwachen."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "堕ちた竜に殉じて消えろ",
+      "source_en": "Be martyred in service to the fallen dragon.",
+      "text": "Geht mit eurem gefallenen Drachen zugrunde."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "貴様らなど大界の塵芥（ちりあくた）よ",
+      "source_en": "You are nothing but detritus in this great realm.",
+      "text": "Ihr seid nur Staub in dieser großen Welt."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "勝てると思ったか――",
+      "source_en": "Did you think you could win...",
+      "text": "Dachtet ihr, ihr könntet gewinnen …?"
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "ここまで食い下がるとは――潰しがいがある",
+      "source_en": "I didn't expect you to persist this much— \r\nCrushing you will be worth my time.",
+      "text": "Ihr haltet länger durch als erwartet.\r\nEs wird mir Freude machen, euch zu vernichten."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "死は常におまえたちの側（がわ）にある",
+      "source_en": "Death is ever present beside you.",
+      "text": "Der Tod ist stets an eurer Seite."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "半端覚者め――こしゃくな！",
+      "source_en": "You half-hearted Arisen—how insolent!",
+      "text": "Ihr halben Erweckten … Wie lästig!"
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "ロイグを放しなさい！",
+      "source_en": "Release Loeg!",
+      "text": "Lass Loeg los!"
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "みなさん、気をつけて！",
+      "source_en": "Everyone, be careful!",
+      "text": "Passt alle auf!"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "たーーーっ！",
+      "source_en": "Taaa—!",
+      "text": "Haa!"
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "ガルドリンさん、エリオット、リズ、隊長――",
+      "source_en": "Ser Gurdolin, Elliot, Lise,\r\nand Captain...",
+      "text": "Gurdolin, Elliot, Lise\r\nund du …"
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "みなさん、生き延びてください――",
+      "source_en": "Everyone, please survive...",
+      "text": "Bitte überlebt alle …"
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "あーーーっ！",
+      "source_en": "Aaaaahhh!",
+      "text": "Aah!"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "ロイグ！　正気に戻って！",
+      "source_en": "Loeg! Come to your senses!",
+      "text": "Loeg! Komm wieder zu dir!"
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "フィンダムの闇は悪の住みかではない！",
+      "source_en": "The shadows of Phindym\r\nwill not be harbored by evil!",
+      "text": "Die Finsternis in Phindym\r\ngehört nicht dir!"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "他人に身を潜める卑怯者！　去れ！",
+      "source_en": "You coward who lurks in the shadows!\r\nLeave this place at once!",
+      "text": "Du Feigling! Versteckst dich im Körper eines anderen!\r\nVerschwinde endlich!"
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "てめえの正体はなんだ！",
+      "source_en": "What is your true identity!",
+      "text": "Wer bist du wirklich?!"
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "この、けむり野郎め！",
+      "source_en": "You smoky bastard!",
+      "text": "Du verdammte Nebelgestalt!"
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "騎士を名乗るんじゃねえ",
+      "source_en": "You dare call yourself a knight?",
+      "text": "Du nennst dich einen Ritter?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

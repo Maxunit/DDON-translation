@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00030030_00.gmd",
+  "arc_path": "\\quest\\q00030030.arc",
+  "entries": [
+    {
+      "key": "q00030030_00_61",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "老将メイロワ",
+      "source_en": "Meirova the Veteran General",
+      "text": "General Meirova, der Veteran"
+    },
+    {
+      "key": "q00030030_00_61",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "絶望に包まれたアッカーシェランで\r\nジリアンの話す、希望の正体を探る",
+      "source_en": "In the despair-filled land of Acre Selund,\r\nexplore the true nature of hope as told\r\nby Gillian herself.",
+      "text": "Finde in Acre Selund heraus,\r\nwas Gillian mit ihrer Suche\r\nnach Hoffnung meint."
+    },
+    {
+      "key": "q00030030_00_2828",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "丘上の隠れ村ピレモスへ向かう",
+      "source_en": "Head to the hilltop Hidden Village Piremoth",
+      "text": "Geh zum versteckten Dorf Piremoth auf dem Hügel."
+    },
+    {
+      "key": "q00030030_00_2829",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "目的地でジリアンと合流する",
+      "source_en": "Rendezvous with Gillian at the destination",
+      "text": "Triff Gillian am vereinbarten Ort."
+    },
+    {
+      "key": "q00030030_00_2830",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "襲われている村に急行する",
+      "source_en": "Rush to the village under attack",
+      "text": "Eile dem angegriffenen Dorf zu Hilfe."
+    },
+    {
+      "key": "q00030030_00_2831",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "村を襲った敵を殲滅する",
+      "source_en": "Defeat the enemy that attacked the village",
+      "text": "Besiege die Angreifer im Dorf."
+    },
+    {
+      "key": "q00030030_00_2832",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "メイロワと話す",
+      "source_en": "Speak with Meirova",
+      "text": "Sprich mit Meirova."
+    },
+    {
+      "key": "q00030030_00_2833",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアに帰還しジョゼフに報告する",
+      "source_en": "Return to Lestania and report to Joseph",
+      "text": "Kehre nach Lestania zurück und erstatte Joseph Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

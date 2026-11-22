@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020230_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00020230_00_55",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "復活の条件",
+      "source_en": "Restoration Requirements",
+      "text": "Die Hoffnung auf Heilung"
+    },
+    {
+      "key": "q00020230_00_55",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "原始の雫を探し求め、峡谷の奥地へ向かう",
+      "source_en": "In order to obtain the Primeval Drops,\r\nhead deeper into the canyon.",
+      "text": "Suche in der Tiefe der Schlucht\r\nnach den Urquelltropfen."
+    },
+    {
+      "key": "q00020230_00_2157",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜原始の雫＞を探すためキンガル峡谷の奥地へ向かう",
+      "source_en": "In the further reaches of Kingal Canyon, look for Primeval Drops",
+      "text": "Suche im Inneren der Kingal-Schlucht nach Urquelltropfen."
+    },
+    {
+      "key": "q00020230_00_2158",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "始まりの洞へ向かう",
+      "source_en": "Head to the Hollow of Beginnings",
+      "text": "Geh zur Höhle des Ursprungs."
+    },
+    {
+      "key": "q00020230_00_2159",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ガラダと話す",
+      "source_en": "Speak with Gearóid",
+      "text": "Sprich mit Gearóid."
+    },
+    {
+      "key": "q00020230_00_2160",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "魔物を討伐する",
+      "source_en": "Defeat the monsters",
+      "text": "Besiege die Monster."
+    },
+    {
+      "key": "q00020230_00_2161",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "始まりの洞へ戻る",
+      "source_en": "Return to the Hollow of Beginnings",
+      "text": "Kehre zur Höhle des Ursprungs zurück."
+    },
+    {
+      "key": "q00020230_00_2162",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "開いた洞窟の奥へ向かう",
+      "source_en": "Head into the open cave",
+      "text": "Dring tiefer in die geöffnete Höhle vor."
+    },
+    {
+      "key": "q00020230_00_2163",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "＜原始の雫＞を入手する",
+      "source_en": "Obtain Primeval Drops",
+      "text": "Sammle die Urquelltropfen ein."
+    },
+    {
+      "key": "q00020230_00_2164",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間に戻り白竜と話す",
+      "source_en": "Return to the Audience Chamber and speak with the White Dragon",
+      "text": "Kehre zum Weißen Drachen in den Audienzsaal zurück."
+    },
+    {
+      "key": "q00020230_00_2165",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ロイグに憑依した黒騎士を倒す",
+      "source_en": "Defeat the Black Knight who possessed Loeg",
+      "text": "Besiege den Schwarzen Ritter, der von Loeg Besitz ergriffen hat."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

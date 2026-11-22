@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q00020230.gmd",
+  "arc_path": "\\quest\\q00020230.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "《原始の雫》を手に入れた",
+      "source_en": "You have obtained the [Primeval Drops]",
+      "text": "Du hast die Urquelltropfen erhalten."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "交通路《グリンデュア近くの岩崩れ》が復旧しました",
+      "source_en": "The transportation route,\r\n\"Rockslide near Glyndwr\" has been restored.",
+      "text": "Der Weg beim Erdrutsch nahe Glyndwr\r\nist wieder frei."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

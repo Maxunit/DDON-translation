@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\event\\st0120\\ev040.gmd",
+  "arc_path": "\\event\\st0120\\st0120ev040.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "精霊竜ウィルミアだ",
+      "source_en": "It's Spirit Dragon Willmia.",
+      "text": "Das ist der Geisterdrache Willmia."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜はもう、かつての竜ではない\r\n残念ながら――",
+      "source_en": "The dragon is no longer the Dragon \r\nit once was.\r\nAlas...",
+      "text": "Sie ist nicht mehr dieselbe\r\nwie früher.\r\nLeider …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "我々は間に合わなかったのだ",
+      "source_en": "We didn't make it in time.",
+      "text": "Wir sind zu spät gekommen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

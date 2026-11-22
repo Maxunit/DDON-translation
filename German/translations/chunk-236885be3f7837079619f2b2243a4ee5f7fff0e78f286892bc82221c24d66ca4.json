@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00030040_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00030040_00_62",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "王子の行方",
+      "source_en": "The Prince's Whereabouts",
+      "text": "Die Spur des Prinzen"
+    },
+    {
+      "key": "q00030040_00_62",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アッカーシェランへ渡り、解放軍の希望とする\r\nネド王子の捜索に協力する",
+      "source_en": "Travel to Acre Selund and lend your efforts\r\nin the search for Prince Nedo, the last hope\r\nof the Liberation Army.",
+      "text": "Reise nach Acre Selund und hilf der Befreiungsarmee,\r\nihre letzte Hoffnung, Prinz Nedo,\r\nzu finden."
+    },
+    {
+      "key": "q00030040_00_2834",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "城壁にあるレバーを動かし正面扉を解放する",
+      "source_en": "Use the lever on the wall to unlock the door",
+      "text": "Betätige den Hebel auf der Mauer und öffne das Haupttor."
+    },
+    {
+      "key": "q00030040_00_2835",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ティネス砦に突入する",
+      "source_en": "Raid Fort Thines",
+      "text": "Stürme die Festung Thines."
+    },
+    {
+      "key": "q00030040_00_2836",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "砦への突破口を開くため砦前の大砲を破壊する",
+      "source_en": "To breach the fortress, destroy the cannons",
+      "text": "Zerstöre die Kanonen vor der Festung, um den Weg freizumachen."
+    },
+    {
+      "key": "q00030040_00_2837",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "丘上の隠れ村ピレモスへ向かう",
+      "source_en": "Head to the hilltop Hidden Village Piremoth",
+      "text": "Geh zum versteckten Dorf Piremoth auf dem Hügel."
+    },
+    {
+      "key": "q00030040_00_2838",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアに帰還しジョゼフに報告する",
+      "source_en": "Return to Lestania and report to Joseph",
+      "text": "Kehre nach Lestania zurück und erstatte Joseph Bericht."
+    },
+    {
+      "key": "q00030040_00_2839",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "メイロワと話す",
+      "source_en": "Speak with Meirova",
+      "text": "Sprich mit Meirova."
+    },
+    {
+      "key": "q00030040_00_2840",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ティネス砦前でジリアンと合流する",
+      "source_en": "Rendezvous with Gillian in front of Fort Thines",
+      "text": "Triff Gillian vor der Festung Thines."
+    },
+    {
+      "key": "q00030040_00_2841",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ジリアンと話す",
+      "source_en": "Speak with Gillian",
+      "text": "Sprich mit Gillian."
+    },
+    {
+      "key": "q00030040_00_2842",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "広間の敵を殲滅する",
+      "source_en": "Eliminate the enemies in the hall",
+      "text": "Besiege die Feinde in der Halle."
+    },
+    {
+      "key": "q00030040_00_2949",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "開かれた正面扉より中へ突入する",
+      "source_en": "Storm in through the open door",
+      "text": "Stürme durch das geöffnete Haupttor."
+    },
+    {
+      "key": "q00030040_00_3011",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "拠点の礎を解放する",
+      "source_en": "Activate the Hall portcrystal",
+      "text": "Aktiviere den Zielkristall."
+    },
+    {
+      "key": "q00030040_00_3404",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "城内の戦甲ゴアサイクロプスを倒す",
+      "source_en": "Defeat the War-Ready Gorecyclops in the castle",
+      "text": "Besiege den gepanzerten Gorezyklopen in der Festung."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}
