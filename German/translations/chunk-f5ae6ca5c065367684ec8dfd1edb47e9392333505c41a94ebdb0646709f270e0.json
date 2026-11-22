@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00020130.gmd",
+  "arc_path": "\\quest\\q00020130.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "レオの使いを名乗る者が来た",
+      "source_en": "A person who claims to be a messenger\r\nfor Leo has come.",
+      "text": "Jemand ist gekommen,\r\nder sich als Leos Bote ausgibt."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "準備を整えたレオが待っているから\r\n来てくれとのことだ",
+      "source_en": "They said Leo is ready,\r\nand waiting for you to arrive.",
+      "text": "Angeblich hat Leo alles vorbereitet\r\nund erwartet dich."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "場所は禊の神殿だ\r\n勝手知ったる場所だろうが用心は怠るな？",
+      "source_en": "The location is the Temple of Purification.\r\nI know you're familiar with the place,\r\nbut be on your guard, okay?",
+      "text": "Am Tempel der Läuterung.\r\nDu kennst den Ort gut.\r\nSei trotzdem auf der Hut, ja?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "黒騎士の魔手からセシリーを\r\n守る力が得られるのであれば\r\nレオに関してはもう何も言うまい",
+      "source_en": "If you can obtain the strength to guard Cecily \r\nfrom the Black Knight's malevolent hands, \r\nI will say no more about Leo.",
+      "text": "Wenn du dort die Kraft erlangst,\r\nCecily vor dem Schwarzen Ritter zu schützen,\r\nwerde ich dir wegen Leo keine Vorhaltungen mehr machen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "大急ぎで調べたんだけど、竜の泪のことは\r\n手掛かりすら掴めない――",
+      "source_en": "I quickly investigated, but I couldn't grasp \r\neven a hint about the Dragon's Tears...",
+      "text": "Ich hab sofort nachgeforscht.\r\nAber zu den Drachentränen hab ich nicht den kleinsten Hinweis gefunden …"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ああ！　完全にお手上げだ！\r\nいやいや待て待て――",
+      "source_en": "Ah! I give up!\r\nNo, no, wait...",
+      "text": "Ach, ich geb auf!\r\nOder … Moment mal …"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "今、どんな状況？\r\nレオからの連絡はあったの？",
+      "source_en": "What's the situation now?\r\nHave you heard from Leo?",
+      "text": "Wie sieht’s aus?\r\nHat Leo sich gemeldet?"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "レオは必ずやってくれると信じてますよ、俺",
+      "source_en": "I believe that Leo will definitely come through.",
+      "text": "Ich bin sicher, dass Leo Wort hält."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "あなたがセシリーを助けてくれるって\r\n言う人が大勢いるの",
+      "source_en": "There are a lot of people who say\r\nthat you can help Cecily.",
+      "text": "Viele Leute hier glauben,\r\ndass du Cecily helfen kannst."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "実はわたしもそのひとり\r\n期待が重たいかもしれないけど――\r\n頑張ってね",
+      "source_en": "Actually, I'm one of them.\r\nI know the expectations weigh heavily—\r\nGood luck to you!",
+      "text": "Ich übrigens auch.\r\nIch weiß, wie schwer es ist, wenn alle auf dich hoffen …\r\nViel Glück!"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "いつもお願いばかりでごめんなさい\r\nでも、やっぱり、お願いするしかないの",
+      "source_en": "I'm sorry to always ask things of you.\r\nNevertheless, as expected, all I can do is ask.",
+      "text": "Verzeih, dass ich dich ständig um etwas bitte.\r\nAber mir bleibt wohl nichts anderes übrig."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "セシリーを助けてあげて！",
+      "source_en": "Please help Cecily!",
+      "text": "Bitte hilf Cecily!"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "これでダメならもう他に方法が――\r\nいや、良い結果だけを考えることにするよ",
+      "source_en": "Although, if there is no way to...\r\nNo, I will only hope for the best.",
+      "text": "Wenn das schiefgeht, bleibt uns kein anderer Weg …\r\nAch was, ich will einfach hoffen, dass es klappt."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "レオの言うとおり、力が手に入るのかもしれんが\r\nわけのわからん力で身を滅ぼすなよ？",
+      "source_en": "Leo may be right, you could gain strength, \r\nbut don't let strange power lead to your ruin.",
+      "text": "Vielleicht erlangst du tatsächlich die Kraft, von der Leo spricht.\r\nAber lass dich nicht von einer Macht zugrunde richten, die du kaum verstehst."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "（呼吸がひときわ深くなったようだ）",
+      "source_en": "(Their breathing seems to have become noticeably\r\ndeeper.)",
+      "text": "(Ihre Atemzüge werden\r\nmerklich tiefer.)"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "気が急くか？　ああ、俺もだ",
+      "source_en": "In a hurry, are you? Ah, so am I.",
+      "text": "Du kannst es kaum erwarten, was? Ich auch nicht."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "俺達の望む力はこの先だ",
+      "source_en": "The power we seek is just ahead of us.",
+      "text": "Die Kraft, die wir suchen, liegt vor uns."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "怯むな――これは白竜ではない！",
+      "source_en": "Do not hesitate...This is not the White Dragon!",
+      "text": "Weich nicht zurück … Das ist nicht der Weiße Drache!"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "ふん、ずいぶん腕を上げたな",
+      "source_en": "Hmph, you've certainly improved your skills.",
+      "text": "Hm. Du hast einiges dazugelernt."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "おい、少しは遠慮しろ",
+      "source_en": "Hey, show a little restraint.",
+      "text": "He, lass mir auch noch was übrig."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "ほう――見違えたな",
+      "source_en": "Oh— \r\nYou've changed quite a bit.",
+      "text": "Sieh mal an …\r\nIch erkenne dich kaum wieder."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "まだまだ負けないさ",
+      "source_en": "I won't lose just yet.",
+      "text": "So schnell lasse ich mich nicht übertreffen."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "おまえの初陣、思い出したぞ",
+      "source_en": "I remember your first battle.",
+      "text": "Jetzt muss ich an deinen ersten Kampf denken."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "さあ、竜力を切り取ってやろうではないか！",
+      "source_en": "Now, let us take that dragon's power!",
+      "text": "Los, entreißen wir ihm seine Drachenkraft!"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "竜力の継承は覚者の正当なる権利だ！",
+      "source_en": "The inheritance of a dragon's power \r\nis the Arisen's rightful claim!",
+      "text": "Die Drachenkraft zu erben\r\nist das gute Recht der Erweckten!"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "竜から得た力で、竜の敵を倒すのだ！",
+      "source_en": "With power obtained from the dragon,\r\nslay its enemies!",
+      "text": "Mit der Kraft des Drachen\r\nbesiegen wir seine Feinde!"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "おまえが手に入れた力は竜力で\r\nそれは癒やしの力――",
+      "source_en": "The power you hold is Dragon Force,\r\nand it has the ability to heal...",
+      "text": "Du hast die Drachenkraft erlangt.\r\nDamit lassen sich Wunden heilen …"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "俺ならセシリーの目を覚ましてやることに使うね\r\n勝てるかどうかわからねえ黒騎士にぶつけて\r\nおまえがやられたら目も当てられねえ",
+      "source_en": "I'll try to use it to wake Cecily.\r\nI don't know if we'll even succeed this.\r\nGetting hit by the Black Knight, it's terrible.",
+      "text": "Ich an deiner Stelle würd damit versuchen, Cecily aufzuwecken.\r\nOb du den Schwarzen Ritter damit kleinbekommst, steht in den Sternen.\r\nUnd wenn er dich erwischt, will ich’s gar nicht mitansehen."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "どうなっているの？\r\n何か進展はあったの？",
+      "source_en": "What's happened?\r\nHave you made any progress?",
+      "text": "Was ist passiert?\r\nBist du weitergekommen?"
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "セシリーの息が遠くなったよ？\r\n大丈夫だよね？",
+      "source_en": "Cecily's breathing has grown faint. \r\nShe's going to be okay, right?",
+      "text": "Cecily atmet immer schwächer.\r\nSie kommt doch durch, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "セシリーの呼吸の間がひときわ長くなってきている\r\nもうあまり時間がない――",
+      "source_en": "Cecily's breathing has slowed, \r\nwe're running out of time...",
+      "text": "Zwischen ihren Atemzügen liegt immer mehr Zeit.\r\nUns bleibt nicht mehr lange …"
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "おかえり、隊長！",
+      "source_en": "Welcome back, Captain!",
+      "text": "Willkommen zurück!"
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "隊長――みんな待ちわびてます",
+      "source_en": "Captain... everyone is waiting.",
+      "text": "Alle warten schon auf dich."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "へぇ――\r\n俺の意見が通るとはね",
+      "source_en": "Wow—\r\nI didn't know my opinion was worth anything.",
+      "text": "Sieh mal an …\r\nHätt nicht gedacht, dass ihr auf mich hört."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "良かった――ああ、本当に良かった",
+      "source_en": "That's great— \r\nAh, I'm really relieved.",
+      "text": "Zum Glück …\r\nIch bin wirklich erleichtert."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "隊長、やったね！",
+      "source_en": "Captain, you did it!",
+      "text": "Du hast es geschafft!"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "セシリー、記憶も戻ったって言ってましたよね！？\r\nこりゃ、凄いことですよ！",
+      "source_en": "Cecily said her memories have come back,\r\ndidn't she!? This is amazing!",
+      "text": "Cecily hat doch gesagt, sie kann sich wieder erinnern!\r\nDas ist ja unglaublich!"
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "元気な若い娘ってのは\r\nやっぱりどうにも苦手だぜ",
+      "source_en": "Lively young women are\r\ndefinitely not my forte, I must say.",
+      "text": "Diese quirligen Mädels …\r\nMit denen komm ich einfach nicht klar."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "まあ、死にそうなのよりずっといいけどよ",
+      "source_en": "Well, it's a lot better than being dead,\r\nthat's for sure.",
+      "text": "Aber so ist’s mir allemal lieber,\r\nals wenn sie im Sterben liegen."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "わたしが死にかけているあいだのこと――",
+      "source_en": "What happened while I was at death's door...",
+      "text": "Was wohl alles passiert ist, während ich mit dem Tod rang …"
+    },
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "隊長さんと皆さんがしてくださったことを\r\n聞かせてくださいね",
+      "source_en": "I would like to hear about what the\r\nCaptain and others have done.",
+      "text": "Erzähl mir bitte,\r\nwas ihr in der Zeit für mich getan habt."
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "やっぱりあなたはただ者じゃないわね！",
+      "source_en": "You are certainly no ordinary person!",
+      "text": "Ich hab’s doch gewusst, du bist wirklich etwas Besonderes!"
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "竜の泪について何も分からないなんて\r\n口惜しくてね",
+      "source_en": "Not knowing a thing\r\nabout the Dragon Tear is truly vexing.",
+      "text": "Es hat mich gewurmt,\r\ndass ich über die Drachentränen überhaupt nichts wusste."
+    },
+    {
+      "key": "",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "レオの行動から推理して、ドリード城の書庫に籠もり\r\n必死で調べたんだ",
+      "source_en": "From Leo's behavior, I inferred that I\r\nshould seclude myself in the library of\r\nDreed Castle and investigate thoroughly.",
+      "text": "Leos Verhalten hat mich auf eine Idee gebracht.\r\nIch hab mich in der Bibliothek von Burg Dreed eingeschlossen\r\nund dort alles durchforstet."
+    },
+    {
+      "key": "",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "セシリーはフィンダム大陸の覚者――\r\n精霊竜の覚者か――",
+      "source_en": "Cecily is the Arisen of the \r\nContinent of Phindym— \r\nthe Arisen of the Spirit Dragon, perhaps...",
+      "text": "Cecily ist eine Erweckte aus Phindym …\r\nDer Geisterdrache also …\r\nSie ist seine Erweckte …"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

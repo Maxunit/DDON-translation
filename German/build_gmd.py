@@ -1,6 +1,7 @@
 """Build the complete launcher CSV, preserving bytes outside translated MsgEn fields."""
 import argparse
 import csv
+from collections import Counter
 import hashlib
 import io
 import json
@@ -74,11 +75,11 @@ def render(base, groups, minimum=131125):
     if not targets:
         raise ValueError('No translations supplied')
     sources = {
-        identity: {(source['source_jp'], source['source_en'])
-                   for source in (entry, *entry.get('alternate_sources', []))}
+        identity: Counter((source['source_jp'], source['source_en'])
+                          for source in (entry, *entry.get('alternate_sources', [])))
         for identity, entry in targets.items()
     }
-    found = {identity: set() for identity in targets}
+    found = {identity: Counter() for identity in targets}
     edits = []
     count = 0
     changed = 0
@@ -92,11 +93,12 @@ def render(base, groups, minimum=131125):
         if identity not in targets:
             continue
         source_pair = (row[2], row[3])
-        if source_pair in found[identity]:
-            raise ValueError('Duplicate source entry: ' + repr(identity))
-        if source_pair not in sources[identity]:
+        expected_count = sources[identity][source_pair]
+        if not expected_count:
             raise ValueError('Source text changed; review translation: ' + row[1])
-        found[identity].add(source_pair)
+        found[identity][source_pair] += 1
+        if found[identity][source_pair] > expected_count:
+            raise ValueError('Duplicate source entry: ' + repr(identity))
         entry = targets[identity]
         value = entry['text']
         if not isinstance(value, str) or '\x00' in value:

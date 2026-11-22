@@ -105,6 +105,23 @@ class BuildTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'Duplicate source'):
             self.render(base=base + second_record, groups=groups)
 
+    def test_documented_identical_rows_require_exact_occurrence_count(self):
+        groups = copy.deepcopy(self.groups)
+        groups[0]['entries'][0]['alternate_sources'] = [
+            dict(source_jp=self.row[2], source_en=self.row[3]),
+        ]
+        base = self.prefix + self.record * 2 + self.suffix
+        result, stats = self.render(base=base, groups=groups)
+        rows = [row for row, _, _ in builder.records(result) if builder.is_data(row)]
+        expected = self.row.copy()
+        expected[3] = self.entry['text']
+        self.assertEqual(rows[:2], [expected, expected])
+        self.assertEqual(stats['changed_MsgEn_fields'], 2)
+        with self.assertRaisesRegex(ValueError, 'Missing source'):
+            self.render(groups=groups)
+        with self.assertRaisesRegex(ValueError, 'Duplicate source'):
+            self.render(base=base + self.record, groups=groups)
+
     def test_intentional_space_and_name_suffix_survive(self):
         for text in (' ', ' wird gelöscht.'):
             groups = copy.deepcopy(self.groups)

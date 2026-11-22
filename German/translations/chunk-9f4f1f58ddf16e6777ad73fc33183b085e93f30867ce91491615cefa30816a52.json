@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\event\\st0121\\ev010.gmd",
+  "arc_path": "\\event\\st0121\\st0121ev010.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "あれ、礎じゃない？",
+      "source_en": "Oh, is that not a Portcrystal?",
+      "text": "He, ist das da nicht ein Zielkristall?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "これこれ、いつもの、この感じ！",
+      "source_en": "This is it, the usual, this feeling!",
+      "text": "Ja, das ist er! Das Gefühl kenn ich!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "リムを使って行き来できるってことだよね？",
+      "source_en": "Using Rift Crystals allows us to travel back and\r\nforth, right?",
+      "text": "Das heißt, wir können per Rift-Transport\r\nhin und her reisen, oder?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000023_00.gmd",
+  "arc_path": "\\quest\\q00000023.arc",
+  "entries": [
+    {
+      "key": "q00000023_00_23",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "黄金の鍵",
+      "source_en": "The Golden Key",
+      "text": "Der goldene Schlüssel"
+    },
+    {
+      "key": "q00000023_00_23",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "テオドールの助力を得て\r\n決戦のための準備を整える",
+      "source_en": "With Theodor's assistance, prepare yourself\r\nto fight the final battle.",
+      "text": "Triff mit Theodors Hilfe\r\nVorbereitungen für die Entscheidungsschlacht."
+    },
+    {
+      "key": "q00000023_00_1048",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダで待つクラウスを訪ねる",
+      "source_en": "Visit Klaus waiting in Mergoda",
+      "text": "Such Klaus in Mergoda auf."
+    },
+    {
+      "key": "q00000023_00_1049",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "巨人兵の居場所に関する情報を探す",
+      "source_en": "Investigate and locate the Giant Warrior",
+      "text": "Finde heraus, wo der Riesenkrieger ist."
+    },
+    {
+      "key": "q00000023_00_1050",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "巨人兵ゴリアテを撃破し鍵を入手する",
+      "source_en": "Defeat the Giant Warrior Goliath to get the key",
+      "text": "Besiege den Riesenkrieger Goliath und beschaffe den Schlüssel."
+    },
+    {
+      "key": "q00000023_00_1051",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "クラウスに鍵を渡す",
+      "source_en": "Hand over the key to Klaus",
+      "text": "Gib Klaus den Schlüssel."
+    },
+    {
+      "key": "q00000023_00_1052",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のジョゼフに経緯を報告する",
+      "source_en": "Report back to Joseph in the Audience Chamber",
+      "text": "Erstatte Joseph im Audienzsaal Bericht."
+    },
+    {
+      "key": "q00000023_00_1195",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "クラウスと話す",
+      "source_en": "Speak with Klaus",
+      "text": "Sprich mit Klaus."
+    },
+    {
+      "key": "q00000023_00_1598",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "亡都メルゴダのワールドクエストを1回クリアする",
+      "source_en": "Clear one World Quest in the Mergoda Ruins",
+      "text": "Schließe eine Weltquest in den Ruinen von Mergoda ab."
+    },
+    {
+      "key": "q00000023_00_1599",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "術師の取引所のアリアドネに報告する",
+      "source_en": "Report to Ariadne in the Specialist Trading Post",
+      "text": "Erstatte Ariadne am Handelsposten der Alchemisten Bericht."
+    },
+    {
+      "key": "q00000023_00_1600",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "巨人兵のいる亡都メルゴダ王宮層へ向かう",
+      "source_en": "Find the Giant Warrior in the Royal Palace Level",
+      "text": "Suche den Riesenkrieger auf der Palastebene der Ruinen von Mergoda."
+    },
+    {
+      "key": "q00000023_00_1601",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "鍵を拾う",
+      "source_en": "Pick up the key",
+      "text": "Heb den Schlüssel auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\event\\event_name.gmd",
+  "arc_path": "\\EventViewRoom.arc",
+  "entries": [
+    {
+      "key": "EVENT_NAME_st0120ev000",
+      "read_index": "156",
+      "tag_source": "source_en",
+      "source_jp": "フィンダムへ降り立つ",
+      "source_en": "Landing at Phindym",
+      "text": "Ankunft in Phindym"
+    },
+    {
+      "key": "EVENT_NAME_st0120ev005",
+      "read_index": "160",
+      "tag_source": "source_en",
+      "source_jp": "廃村と化した故郷",
+      "source_en": "Abandoned hometown",
+      "text": "Die verlassene Heimat"
+    },
+    {
+      "key": "EVENT_NAME_st0120ev010",
+      "read_index": "161",
+      "tag_source": "source_en",
+      "source_jp": "精霊竜の来襲",
+      "source_en": "Coming of the Spirit Dragon",
+      "text": "Der Geisterdrache erscheint"
+    },
+    {
+      "key": "EVENT_NAME_st0120ev015",
+      "read_index": "162",
+      "tag_source": "source_en",
+      "source_jp": "ダナ村での再会",
+      "source_en": "Reunion at Dana Village",
+      "text": "Wiedersehen in Dana"
+    },
+    {
+      "key": "EVENT_NAME_st0120ev017",
+      "read_index": "186",
+      "tag_source": "source_en",
+      "source_jp": "精霊槍の使い手",
+      "source_en": "Spirit spear user",
+      "text": "Der Speermeister"
+    },
+    {
+      "key": "EVENT_NAME_st0120ev020",
+      "read_index": "167",
+      "tag_source": "source_en",
+      "source_jp": "ロイグの復讐",
+      "source_en": "Loeg's Revenge",
+      "text": "Loegs Rache"
+    },
+    {
+      "key": "EVENT_NAME_st0120ev025",
+      "read_index": "168",
+      "tag_source": "source_en",
+      "source_jp": "ロイグ逃亡",
+      "source_en": "Loeg Escapes",
+      "text": "Loeg entkommt"
+    },
+    {
+      "key": "EVENT_NAME_st0120ev030",
+      "read_index": "169",
+      "tag_source": "source_en",
+      "source_jp": "フィンダムの未来を託す",
+      "source_en": "Phindym's future is entrusted to us.",
+      "text": "Phindyms Zukunft in Cecilys Händen"
+    },
+    {
+      "key": "EVENT_NAME_st0120ev035",
+      "read_index": "170",
+      "tag_source": "source_en",
+      "source_jp": "開門",
+      "source_en": "Open the door",
+      "text": "Das Tor zum Heiligtum öffnet sich"
+    },
+    {
+      "key": "EVENT_NAME_st0121ev000",
+      "read_index": "157",
+      "tag_source": "source_en",
+      "source_jp": "フィンダムの魔物との遭遇",
+      "source_en": "Encountering the monsters of Phindym",
+      "text": "Begegnung mit Phindyms Monstern"
+    },
+    {
+      "key": "EVENT_NAME_st0121ev005",
+      "read_index": "158",
+      "tag_source": "source_en",
+      "source_jp": "礎を探す",
+      "source_en": "Find the Cornerstone",
+      "text": "Die Suche nach dem Zielkristall"
+    },
+    {
+      "key": "EVENT_NAME_st0121ev010",
+      "read_index": "159",
+      "tag_source": "source_en",
+      "source_jp": "礎の発見",
+      "source_en": "Cornerstone Discoveries",
+      "text": "Der Zielkristall ist gefunden"
+    },
+    {
+      "key": "EVENT_NAME_st0123ev000",
+      "read_index": "163",
+      "tag_source": "source_en",
+      "source_jp": "セシリーの故郷",
+      "source_en": "Cecily's Hometown",
+      "text": "Cecilys Heimat"
+    },
+    {
+      "key": "EVENT_NAME_st0123ev005",
+      "read_index": "164",
+      "tag_source": "source_en",
+      "source_jp": "セシリーの気持ち",
+      "source_en": "Cecily's feelings",
+      "text": "Was Cecily bewegt"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

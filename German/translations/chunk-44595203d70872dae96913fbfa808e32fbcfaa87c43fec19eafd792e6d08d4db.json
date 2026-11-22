@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020100_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00020100_00_45",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ロイグの病",
+      "source_en": "Loeg's Illness",
+      "text": "Loegs Krankheit"
+    },
+    {
+      "key": "q00020100_00_45",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ロイグの病を治療する方法を探る",
+      "source_en": "Find a way to treat Loeg's illness.",
+      "text": "Finde heraus, wie sich Loegs Krankheit behandeln lässt."
+    },
+    {
+      "key": "q00020100_00_1740",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間でメイリーフに報告する",
+      "source_en": "Report to Mayleaf in the Audience Chamber",
+      "text": "Erstatte Mayleaf im Audienzsaal Bericht."
+    },
+    {
+      "key": "q00020100_00_1741",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ロイグの元へ戻る",
+      "source_en": "Return to Loeg's side",
+      "text": "Kehre zu Loeg zurück."
+    },
+    {
+      "key": "q00020100_00_1742",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "薬草をカミュへ届ける",
+      "source_en": "Deliver the herbs to Camus",
+      "text": "Bring Camus das Heilkraut."
+    },
+    {
+      "key": "q00020100_00_1743",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ヒントを元に薬草の自生する場所を探し出す",
+      "source_en": "Find where the medicinal plants grow using the hints given",
+      "text": "Finde mithilfe der Hinweise heraus, wo das Heilkraut wächst."
+    },
+    {
+      "key": "q00020100_00_1744",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "赤色症の治療方法をポーン郷のカミュから聞く",
+      "source_en": "Consult Camus at the Pawn Cathedral about scarlet sickness",
+      "text": "Frag Camus in der Vasallenkathedrale nach einem Mittel gegen das Rotfieber."
+    },
+    {
+      "key": "q00020100_00_1745",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "メイリーフの家の寝室にいるリズの元へ行く",
+      "source_en": "Go to Lise, who is in Mayleaf's home",
+      "text": "Geh zu Lise ins Schlafzimmer von Mayleafs Haus."
+    },
+    {
+      "key": "q00020100_00_1765",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "調剤に必要な薬草の場所をアルヴァーから聞く",
+      "source_en": "Ask Alvar about the locations of the medicinal plant",
+      "text": "Frag Alvar, wo das Heilkraut wächst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

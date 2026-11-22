@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020010_00.gmd",
+  "arc_path": "\\quest\\q00020010.arc",
+  "entries": [
+    {
+      "key": "q00020010_00_36",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "嵐が運びし厄災",
+      "source_en": "The Storm That Brought a Tragedy",
+      "text": "Der Sturm, der Unheil brachte"
+    },
+    {
+      "key": "q00020010_00_36",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ブリア海岸に打ち上げられた\r\n魔物の死骸を検分をする",
+      "source_en": "Inspect the carcass of the dead beast\r\nthat washed up on Breya Coast.",
+      "text": "Untersuche den Kadaver des Monsters,\r\nder an die Breya-Küste gespült wurde."
+    },
+    {
+      "key": "q00020010_00_1644",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフと話をする",
+      "source_en": "Speak to Joseph",
+      "text": "Sprich mit Joseph."
+    },
+    {
+      "key": "q00020010_00_1647",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を倒す",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Gegner."
+    },
+    {
+      "key": "q00020010_00_1648",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "あたりの様子を調べる",
+      "source_en": "Investigate the vicinity",
+      "text": "Sieh dich in der Umgebung um."
+    },
+    {
+      "key": "q00020010_00_1649",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ガルドリンと話をする",
+      "source_en": "Speak to Gurdolin",
+      "text": "Sprich mit Gurdolin."
+    },
+    {
+      "key": "q00020010_00_1650",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ブリア海岸へ向かう",
+      "source_en": "Head to Breya Coast",
+      "text": "Geh zur Breya-Küste."
+    },
+    {
+      "key": "q00020010_00_1651",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ガルドリンと話をする",
+      "source_en": "Speak to Gurdolin",
+      "text": "Sprich mit Gurdolin."
+    },
+    {
+      "key": "q00020010_00_1652",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフと話をする",
+      "source_en": "Speak to Joseph",
+      "text": "Sprich mit Joseph."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

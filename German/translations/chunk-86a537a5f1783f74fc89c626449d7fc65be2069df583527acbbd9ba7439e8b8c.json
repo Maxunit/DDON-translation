@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020150_00.gmd",
+  "arc_path": "\\quest\\q00020150.arc",
+  "entries": [
+    {
+      "key": "q00020150_00_47",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "新大陸",
+      "source_en": "A New Continent",
+      "text": "Ein neuer Kontinent"
+    },
+    {
+      "key": "q00020150_00_47",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島のゲートから新大陸へ渡る",
+      "source_en": "Cross over to the New Continent from the Gate\r\non Bloodbane Isle.",
+      "text": "Reise durch das Tor auf der Blutfluchinsel\r\nzum neuen Kontinent."
+    },
+    {
+      "key": "q00020150_00_2075",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島のゲートの前へ向かう",
+      "source_en": "Head for the gate on Bloodbane Isle",
+      "text": "Geh zum Tor auf der Blutfluchinsel."
+    },
+    {
+      "key": "q00020150_00_2076",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ロイグと話す",
+      "source_en": "Speak with Loeg",
+      "text": "Sprich mit Loeg."
+    },
+    {
+      "key": "q00020150_00_2077",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "周辺を探索する",
+      "source_en": "Explore your surroundings",
+      "text": "Erkunde die Umgebung."
+    },
+    {
+      "key": "q00020150_00_2078",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を倒す",
+      "source_en": "Slay the encountered monsters",
+      "text": "Besiege die Monster."
+    },
+    {
+      "key": "q00020150_00_2079",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "新大陸にある礎を探す",
+      "source_en": "Find a portcrystal on the new continent",
+      "text": "Suche auf dem neuen Kontinent nach einem Zielkristall."
+    },
+    {
+      "key": "q00020150_00_2080",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "礎を解放する",
+      "source_en": "Activate the portcrystal",
+      "text": "Aktiviere den Zielkristall."
+    },
+    {
+      "key": "q00020150_00_2081",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ガルドリンと話す",
+      "source_en": "Speak with Gurdolin",
+      "text": "Sprich mit Gurdolin."
+    },
+    {
+      "key": "q00020150_00_2082",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間に戻りジョゼフに報告をする",
+      "source_en": "Report back to Joseph in the Audience Chamber",
+      "text": "Kehre in den Audienzsaal zurück und erstatte Joseph Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

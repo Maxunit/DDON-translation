@@ -3,6 +3,14 @@
   "arc_path": "\\EventViewRoom.arc",
   "entries": [
     {
+      "key": "EVENT_NAME_st0200ev010",
+      "read_index": "84",
+      "tag_source": "source_en",
+      "source_jp": "ミシアルの告白",
+      "source_en": "Confessions of Mysial",
+      "text": "Mysial öffnet sich"
+    },
+    {
       "key": "EVENT_NAME_st0201ev020",
       "read_index": "61",
       "tag_source": "source_en",
@@ -105,6 +113,70 @@
       "source_jp": "深淵での結末",
       "source_en": "Ending at the Abyss",
       "text": "Nach dem Kampf am Abgrund"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev090",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "決戦の地へ",
+      "source_en": "To the site of the decisive battle",
+      "text": "Auf zum Schauplatz der Entscheidung"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev110",
+      "read_index": "117",
+      "tag_source": "source_en",
+      "source_jp": "覚者隊の結成",
+      "source_en": "Formation of the Arisen Corps",
+      "text": "Ein Trupp der Erweckten formiert sich"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev115",
+      "read_index": "122",
+      "tag_source": "source_en",
+      "source_jp": "白竜との拝謁",
+      "source_en": "Audience with the White Dragon",
+      "text": "Audienz beim Weißen Drachen"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev120",
+      "read_index": "125",
+      "tag_source": "source_en",
+      "source_jp": "道筋",
+      "source_en": "route",
+      "text": "Cecilys Weg"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev125",
+      "read_index": "131",
+      "tag_source": "source_en",
+      "source_jp": "侵食魔の襲来",
+      "source_en": "Attack of the Corruption Monster",
+      "text": "Der Angriff der Befallenen"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev130",
+      "read_index": "132",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダ救援",
+      "source_en": "Mergoda Rescue",
+      "text": "Hilfe für Mergoda"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev135",
+      "read_index": "135",
+      "tag_source": "source_en",
+      "source_jp": "久しぶりの大勝利",
+      "source_en": "Long-awaited major victory",
+      "text": "Ein lang ersehnter Sieg"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev140",
+      "read_index": "136",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島での異変",
+      "source_en": "Anomalies on Bloodbane Isle",
+      "text": "Seltsame Vorkommnisse auf der Blutfluchinsel"
     }
   ],
   "schema_version": 1,

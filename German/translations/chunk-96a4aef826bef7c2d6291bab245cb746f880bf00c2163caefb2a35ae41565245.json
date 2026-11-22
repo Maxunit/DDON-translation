@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area14_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "エラン水林",
+      "source_en": "Elan Water Grove",
+      "text": "Elan-Auenwald"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "守り人の庵",
+      "source_en": "Protector's Retreat",
+      "text": "Hütte der Hüter"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020170_00.gmd",
+  "arc_path": "\\quest\\q00020170.arc",
+  "entries": [
+    {
+      "key": "q00020170_00_49",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "戦士の集落",
+      "source_en": "The Village of Soldiers",
+      "text": "Das Dorf der Krieger"
+    },
+    {
+      "key": "q00020170_00_49",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "フィンダムへ渡り、はぐれた仲間を捜索する",
+      "source_en": "Go to Phindym to locate your missing comrade.",
+      "text": "Reise nach Phindym und suche nach deinen vermissten Gefährten."
+    },
+    {
+      "key": "q00020170_00_2088",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "＜守り人の庵＞前で待つセシリーと話す",
+      "source_en": "Speak with Cecily waiting by \"Protector's Retreat\"",
+      "text": "Sprich mit Cecily vor der Hütte der Hüter."
+    },
+    {
+      "key": "q00020170_00_2089",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ファーラナ平原にあるダナの集落を目指す",
+      "source_en": "Head towards the village of Dana in Farana Plains",
+      "text": "Geh zum Dorf Dana in der Farana-Ebene."
+    },
+    {
+      "key": "q00020170_00_2090",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "セシリーと話す",
+      "source_en": "Speak with Cecily",
+      "text": "Sprich mit Cecily."
+    },
+    {
+      "key": "q00020170_00_2091",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ダナの付近にあるアデルドナハの住居を訪ねる",
+      "source_en": "Visit Adair Donnchadh's house in Dana",
+      "text": "Suche Adair Donnchadhs Haus bei Dana auf."
+    },
+    {
+      "key": "q00020170_00_2092",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "アデルドナハと話をする",
+      "source_en": "Speak to Adair Donnchadh",
+      "text": "Sprich mit Adair Donnchadh."
+    },
+    {
+      "key": "q00020170_00_2093",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "＜ダナウィンの挑堂＞へ入り試練と相対する",
+      "source_en": "Challenge Dunhain's Hall of Trials",
+      "text": "Betritt Dunhains Prüfungshalle und stell dich der Prüfung."
+    },
+    {
+      "key": "q00020170_00_2094",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Gegner."
+    },
+    {
+      "key": "q00020170_00_2095",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "ダナの集落の族長ピサルへ報告に行く",
+      "source_en": "Report to Chief Pisarr of Dana Village",
+      "text": "Erstatte Pisarr, dem Stammesführer von Dana, Bericht."
+    },
+    {
+      "key": "q00020170_00_2096",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "セシリーと話す",
+      "source_en": "Speak with Cecily",
+      "text": "Sprich mit Cecily."
+    },
+    {
+      "key": "q00020170_00_2097",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間に戻りジョゼフに報告する",
+      "source_en": "Return to Joseph in the Audience Chamber",
+      "text": "Kehre in den Audienzsaal zurück und erstatte Joseph Bericht."
+    },
+    {
+      "key": "q00020170_00_2116",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターのラザネイルと話す",
+      "source_en": "Speak with Razanailt, the Area Master",
+      "text": "Sprich mit Razanailt, der Gebietsmeisterin."
+    },
+    {
+      "key": "q00020170_00_2451",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ダナの集落にある礎を解放する",
+      "source_en": "Activate the portcrystal in Dana Village",
+      "text": "Aktiviere den Zielkristall in Dana."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

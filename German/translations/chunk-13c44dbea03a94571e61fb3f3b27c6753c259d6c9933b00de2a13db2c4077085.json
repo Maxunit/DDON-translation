@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020130_00.gmd",
+  "arc_path": "\\quest\\q00020130.arc",
+  "entries": [
+    {
+      "key": "q00020130_00_34",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "彷徨えし力",
+      "source_en": "Straying Power",
+      "text": "Rastlose Kraft"
+    },
+    {
+      "key": "q00020130_00_34",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜力の淀みに立ち入るため\r\nレオの待つ禊の神殿へ向かう",
+      "source_en": "To tap into the stagnant Dragon Force,\r\nmeet with Leo who awaits you at the Temple\r\nof Purification.",
+      "text": "Triff Leo am Tempel der Läuterung,\r\nwo er auf dich wartet.\r\nEr zeigt dir den Weg zur angestauten Drachenkraft."
+    },
+    {
+      "key": "q00020130_00_1610",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "レオの待つ禊の神殿へ向かう",
+      "source_en": "Go to Leo awaiting at Temple of Purification",
+      "text": "Geh zu Leo, der am Tempel der Läuterung auf dich wartet."
+    },
+    {
+      "key": "q00020130_00_1611",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "神殿の奥で待つレオの元へ向かう",
+      "source_en": "Go to Leo at back of the Temple",
+      "text": "Geh zu Leo im hinteren Teil des Tempels."
+    },
+    {
+      "key": "q00020130_00_1612",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "竜力の淀みし場所へ向かう",
+      "source_en": "Head for the place where Dragon Force lies stagnant",
+      "text": "Geh zum Wirbel gestauter Drachenkraft."
+    },
+    {
+      "key": "q00020130_00_1613",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "淀みし大竜力を倒す",
+      "source_en": "Defeat the Phantasmic Great Dragon",
+      "text": "Besiege die Angestaute Drachenkraft."
+    },
+    {
+      "key": "q00020130_00_1614",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿のセシリーの元へ向かう",
+      "source_en": "Head to Cecily in the White Dragon Temple",
+      "text": "Geh zu Cecily im Tempel des Weißen Drachen."
+    },
+    {
+      "key": "q00020130_00_1615",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のジョゼフに報告する",
+      "source_en": "Report to Joseph in the Audience Chamber",
+      "text": "Erstatte Joseph im Audienzsaal Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

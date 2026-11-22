@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020030_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00020030_00_38",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "侵食と騎士団",
+      "source_en": "The Corruption and the Knights",
+      "text": "Der Befall und die Weiße Garde"
+    },
+    {
+      "key": "q00020030_00_38",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "白衛騎士団からの応援要請を受け\r\nリンウッドへ向かう",
+      "source_en": "The White Knights have requested support,\r\nhead to Lynwood as reinforcements.",
+      "text": "Die Weiße Garde braucht Verstärkung.\r\nEil ihr in Lynwood zu Hilfe."
+    },
+    {
+      "key": "q00020030_00_1661",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフと話をする",
+      "source_en": "Speak to Joseph",
+      "text": "Sprich mit Joseph."
+    },
+    {
+      "key": "q00020030_00_1662",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間へ戻る",
+      "source_en": "Return to the Audience Chamber",
+      "text": "Kehre in den Audienzsaal zurück."
+    },
+    {
+      "key": "q00020030_00_1663",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "ゲルトと話をする",
+      "source_en": "Speak to Gerd",
+      "text": "Sprich mit Gerd."
+    },
+    {
+      "key": "q00020030_00_1664",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を掃討する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Gegner."
+    },
+    {
+      "key": "q00020030_00_1665",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "別の場所に出現した敵のところへ向かう",
+      "source_en": "Seek out the enemy",
+      "text": "Geh dorthin, wo weitere Gegner aufgetaucht sind."
+    },
+    {
+      "key": "q00020030_00_1666",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を掃討する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Gegner."
+    },
+    {
+      "key": "q00020030_00_1667",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "別の場所に出現した敵のところへ向かう",
+      "source_en": "Seek out the enemy",
+      "text": "Geh dorthin, wo weitere Gegner aufgetaucht sind."
+    },
+    {
+      "key": "q00020030_00_1668",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を掃討する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Gegner."
+    },
+    {
+      "key": "q00020030_00_1669",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "リンウッドの森に現れた侵食魔を討伐する",
+      "source_en": "Purge the corruption in Lynwood",
+      "text": "Besiege die Befallenen im Mysree-Wald bei Lynwood."
+    },
+    {
+      "key": "q00020030_00_1670",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "リンウッドにいるゲルトの元へ向かう",
+      "source_en": "Rendezvous with Gerd in Lynwood",
+      "text": "Triff Gerd in Lynwood."
+    },
+    {
+      "key": "q00020030_00_1671",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "騎士団本部にいるハインツから話を聞く",
+      "source_en": "Report to Heinz in the Knights' Headquarters",
+      "text": "Sprich mit Heinz im Hauptquartier der Weißen Garde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

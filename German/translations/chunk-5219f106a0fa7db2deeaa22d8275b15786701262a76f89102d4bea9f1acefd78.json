@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020180_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00020180_00_50",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "帰郷",
+      "source_en": "Homecoming",
+      "text": "Heimkehr"
+    },
+    {
+      "key": "q00020180_00_50",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "セシリーの父の手掛かりを探しながら\r\nセシリーの故郷を目指す",
+      "source_en": "While searching for clues about Cecily's father,\r\nhead towards Cecily's hometown.",
+      "text": "Reise in Cecilys Heimat und halte unterwegs\r\nnach Hinweisen auf ihren Vater Ausschau."
+    },
+    {
+      "key": "q00020180_00_2098",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ダナの集落へ行きセシリーと話す",
+      "source_en": "Head to Dana village and speak with Cecily",
+      "text": "Geh nach Dana und sprich mit Cecily."
+    },
+    {
+      "key": "q00020180_00_2099",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "モルフォールの集落を目指す",
+      "source_en": "Head towards the village of Morfaul",
+      "text": "Geh zum Dorf Morfaul."
+    },
+    {
+      "key": "q00020180_00_2100",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "モルフォールのセントラムへ行きアルトフェイルと話す",
+      "source_en": "Head to Morfaul Centrum and speak with Arthfael",
+      "text": "Sprich mit Arthfael im Versammlungshaus von Morfaul."
+    },
+    {
+      "key": "q00020180_00_2101",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "セシリーを探す",
+      "source_en": "Search for Cecily",
+      "text": "Suche Cecily."
+    },
+    {
+      "key": "q00020180_00_2102",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間に戻りジョゼフに報告する",
+      "source_en": "Return to Joseph in the Audience Chamber",
+      "text": "Kehre in den Audienzsaal zurück und erstatte Joseph Bericht."
+    },
+    {
+      "key": "q00020180_00_2117",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "エラン水林のエリアマスターのミューセルを訪ねる",
+      "source_en": "Visit Muirgel, the Area Master of Elan Water Grove",
+      "text": "Suche Muirgel auf, die Gebietsmeisterin im Elan-Auenwald."
+    },
+    {
+      "key": "q00020180_00_2118",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "水林の桟橋にいる船頭のトレアサと話す",
+      "source_en": "Speak with Treasa, the boatman at the water's edge",
+      "text": "Sprich mit Treasa am Anleger im Elan-Auenwald."
+    },
+    {
+      "key": "q00020180_00_2119",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "船に乗り対岸にある洞窟へ向かう",
+      "source_en": "Take the boat and head to the cave on the opposite shore",
+      "text": "Nimm die Fähre zur Höhle am anderen Ufer."
+    },
+    {
+      "key": "q00020180_00_2120",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "洞窟を抜けモルフォールの集落へ向かう",
+      "source_en": "Traverse the cave and head to Morfaul",
+      "text": "Durchquere die Höhle und geh weiter nach Morfaul."
+    },
+    {
+      "key": "q00020180_00_2452",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "モルフォールの集落にある礎を解放する",
+      "source_en": "Activate the Morfaul portcrystal",
+      "text": "Aktiviere den Zielkristall in Morfaul."
+    },
+    {
+      "key": "q00020180_00_2458",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を殲滅する",
+      "source_en": "Defeat the enemy encountered",
+      "text": "Besiege den Gegner."
+    },
+    {
+      "key": "q00020180_00_2459",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "洞窟を抜けモルフォールの集落へ向かう",
+      "source_en": "Traverse the cave and head to Morfaul",
+      "text": "Durchquere die Höhle und geh weiter nach Morfaul."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

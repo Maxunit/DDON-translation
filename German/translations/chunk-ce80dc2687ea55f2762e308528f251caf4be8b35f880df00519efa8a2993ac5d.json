@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020040_00.gmd",
+  "arc_path": "\\quest\\q00020040.arc",
+  "entries": [
+    {
+      "key": "q00020040_00_35",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔窟探索",
+      "source_en": "Exploring the Den of Monsters",
+      "text": "Die Höhle der Monster"
+    },
+    {
+      "key": "q00020040_00_35",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "セシリーの記憶の手掛かりを求めて\r\n魔赤島を探索する",
+      "source_en": "Search Bloodbane Isle for clues to unlock\r\nCecily's lost memories.",
+      "text": "Erkunde die Blutfluchinsel und suche nach Hinweisen,\r\ndie Cecily helfen, sich zu erinnern."
+    },
+    {
+      "key": "q00020040_00_1623",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "クラウスと話をする",
+      "source_en": "Speak to Klaus",
+      "text": "Sprich mit Klaus."
+    },
+    {
+      "key": "q00020040_00_1624",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "港洞にいるゼルキンと話をする",
+      "source_en": "Speak to Zerkin in the Cave Harbor",
+      "text": "Sprich mit Zerkin im Höhlenhafen."
+    },
+    {
+      "key": "q00020040_00_1625",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ガルドリンと話をする",
+      "source_en": "Speak to Gurdolin",
+      "text": "Sprich mit Gurdolin."
+    },
+    {
+      "key": "q00020040_00_1626",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "近くの洞窟へ向かう",
+      "source_en": "Head to the nearby cave",
+      "text": "Geh zur nahe gelegenen Höhle."
+    },
+    {
+      "key": "q00020040_00_1627",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "洞窟内を探索する",
+      "source_en": "Explore the cave",
+      "text": "Erkunde die Höhle."
+    },
+    {
+      "key": "q00020040_00_1630",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のジョゼフに経緯を報告する",
+      "source_en": "Report back to Joseph in the Audience Chamber",
+      "text": "Erstatte Joseph im Audienzsaal Bericht."
+    },
+    {
+      "key": "q00020040_00_1766",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターのベルトランと話をする",
+      "source_en": "Speak to Bertrand, the Area Master",
+      "text": "Sprich mit Bertrand, dem Gebietsmeister."
+    },
+    {
+      "key": "q00020040_00_1767",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ガルドリンと話をする",
+      "source_en": "Speak to Gurdolin",
+      "text": "Sprich mit Gurdolin."
+    },
+    {
+      "key": "q00020040_00_1768",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "調査隊駐屯地へ向かい＜拠点の礎＞を解放する",
+      "source_en": "Activate the Portcrystal at the Expedition Garrison",
+      "text": "Aktiviere den Zielkristall im Expeditionslager."
+    },
+    {
+      "key": "q00020040_00_1987",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "桟橋から船で魔赤島へ向かう",
+      "source_en": "Travel to Bloodbane Isle by boat from the pier",
+      "text": "Fahr vom Anleger aus mit dem Schiff zur Blutfluchinsel."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

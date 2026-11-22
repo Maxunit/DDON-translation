@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020090_00.gmd",
+  "arc_path": "\\quest\\q00020090.arc",
+  "entries": [
+    {
+      "key": "q00020090_00_44",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "交渉",
+      "source_en": "Negotiations",
+      "text": "Verhandlungen"
+    },
+    {
+      "key": "q00020090_00_44",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "セシリーとロイグの記憶を突き合わすため\r\nダウ渓谷にあるレオのアジトへ向かう",
+      "source_en": "Go to Leo's Hideout in Dowe Valley so Cecily\r\ncan compare her memories with Loeg's.",
+      "text": "Geh zu Leos Versteck im Dowe-Tal, damit Cecily und Loeg\r\neinander erzählen können, woran sie sich erinnern."
+    },
+    {
+      "key": "q00020090_00_1736",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間に戻りジョゼフに報告する",
+      "source_en": "Return to the Audience Chamber and report to Joseph",
+      "text": "Kehre in den Audienzsaal zurück und erstatte Joseph Bericht."
+    },
+    {
+      "key": "q00020090_00_1737",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Gegner."
+    },
+    {
+      "key": "q00020090_00_1738",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ダンジョンの奥にあるレオのアジトを目指す",
+      "source_en": "Head for Leo's Hideout deep within the dungeon",
+      "text": "Dring bis zu Leos Versteck vor."
+    },
+    {
+      "key": "q00020090_00_1739",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ダウ渓谷にあるレオのアジト入口でガルドリンと話す",
+      "source_en": "Speak with Gurdolin in front of Leo's Hideout in Dowe Valley",
+      "text": "Sprich mit Gurdolin vor dem Eingang zu Leos Versteck im Dowe-Tal."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

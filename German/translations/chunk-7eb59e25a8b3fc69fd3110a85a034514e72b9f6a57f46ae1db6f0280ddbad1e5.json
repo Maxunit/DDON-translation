@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020110_00.gmd",
+  "arc_path": "\\quest\\q00020110.arc",
+  "entries": [
+    {
+      "key": "q00020110_00_40",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "異郷の光",
+      "source_en": "A Strange Land's Light",
+      "text": "Licht aus der Fremde"
+    },
+    {
+      "key": "q00020110_00_40",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ロイグの案内する新たな上陸場所から\r\n魔赤島を探索する",
+      "source_en": "With Loeg as your guide, explore\r\nBloodbane Isle from the new landing site.",
+      "text": "Lass dich von Loeg zum neuen Landeplatz führen\r\nund erkunde von dort aus die Blutfluchinsel."
+    },
+    {
+      "key": "q00020110_00_1746",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間に戻りジョゼフに報告する",
+      "source_en": "Return to the Audience Chamber and report to Joseph",
+      "text": "Kehre in den Audienzsaal zurück und erstatte Joseph Bericht."
+    },
+    {
+      "key": "q00020110_00_1747",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "エリオットと話をする",
+      "source_en": "Speak to Elliot",
+      "text": "Sprich mit Elliot."
+    },
+    {
+      "key": "q00020110_00_1748",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "洞窟を抜け島の光り輝く光源を目指す",
+      "source_en": "Leave the cave and investigate the glowing light",
+      "text": "Verlass die Höhle und sieh dir das helle Licht an."
+    },
+    {
+      "key": "q00020110_00_1749",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Gegner."
+    },
+    {
+      "key": "q00020110_00_1750",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "島の光り輝く光源を目指す",
+      "source_en": "Head to the bright light shining over the island",
+      "text": "Geh zu der Stelle, an der das Licht auf der Insel leuchtet."
+    },
+    {
+      "key": "q00020110_00_1751",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島へ渡るため港洞のゼルキンと話をする",
+      "source_en": "Speak to Zerkin in the Cave Harbor to reach Bloodbane Isle",
+      "text": "Sprich im Höhlenhafen mit Zerkin, um zur Blutfluchinsel zu gelangen."
+    },
+    {
+      "key": "q00020110_00_1752",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ガルドリンと話をする",
+      "source_en": "Speak to Gurdolin",
+      "text": "Sprich mit Gurdolin."
+    },
+    {
+      "key": "q00020110_00_1761",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "桟橋から船で魔赤島・絶崖へ渡る",
+      "source_en": "Travel to Bloodbane Isle Precipice",
+      "text": "Setz vom Anleger zur Steilküste der Blutfluchinsel über."
+    },
+    {
+      "key": "q00020110_00_1789",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "セシリーと話をする",
+      "source_en": "Speak to Cecily",
+      "text": "Sprich mit Cecily."
+    },
+    {
+      "key": "q00020110_00_1790",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "洞窟内を探索する",
+      "source_en": "Explore the cave",
+      "text": "Erkunde die Höhle."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

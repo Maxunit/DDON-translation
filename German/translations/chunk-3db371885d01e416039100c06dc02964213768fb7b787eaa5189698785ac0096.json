@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000029_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00000029_00_29",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ケモノの最期",
+      "source_en": "The Beast's Final Moments",
+      "text": "Das Ende der Bestie"
+    },
+    {
+      "key": "q00000029_00_29",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "決死隊とともに第二のアークに向かい\r\n破壊任務に加わる",
+      "source_en": "Go to the Second Ark and join the mission\r\nto eliminate everything within it.",
+      "text": "Brich mit dem Angriffstrupp zur zweiten Arche auf\r\nund hilf dabei, das Gerät zu zerstören."
+    },
+    {
+      "key": "q00000029_00_1074",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原の第二のアークに侵入する",
+      "source_en": "Storm the Second Ark in Betland Plains",
+      "text": "Dringe in die zweite Arche in der Betland-Ebene ein."
+    },
+    {
+      "key": "q00000029_00_1075",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アーク最下層にある装置を破壊する",
+      "source_en": "Destroy the device at the Second Ark's lower level",
+      "text": "Zerstöre das Gerät auf der untersten Ebene der Arche."
+    },
+    {
+      "key": "q00000029_00_1076",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "オークを掃討する",
+      "source_en": "Defeat the Orcs",
+      "text": "Besiege die Orks."
+    },
+    {
+      "key": "q00000029_00_1077",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ズールを撃破する",
+      "source_en": "Defeat Zuhl",
+      "text": "Besiege Zuhl."
+    },
+    {
+      "key": "q00000029_00_1078",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のレオに経緯を報告する",
+      "source_en": "Report back to Leo in the Audience Chamber",
+      "text": "Erstatte Leo im Audienzsaal Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

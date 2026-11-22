@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020060_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00020060_00_41",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "大陸から来た男",
+      "source_en": "The Man from Another Land",
+      "text": "Der Mann vom anderen Kontinent"
+    },
+    {
+      "key": "q00020060_00_41",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "メイリーフの家から姿を消したセシリーを追い\r\nフロックヴァルト大橋へ向かう",
+      "source_en": "Follow Cecily, who has left Mayleaf's home\r\nand is headed for Flocwald Bridge.",
+      "text": "Folge Cecily, die Mayleafs Haus verlassen hat,\r\nzur Flocwald-Brücke."
+    },
+    {
+      "key": "q00020060_00_1681",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフと話をする",
+      "source_en": "Speak to Joseph",
+      "text": "Sprich mit Joseph."
+    },
+    {
+      "key": "q00020060_00_1682",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "セシリーを追いフロックヴァルト大橋へ向かう",
+      "source_en": "Intercept Cecily en route to Flocwald Bridge",
+      "text": "Hol Cecily auf dem Weg zur Flocwald-Brücke ein."
+    },
+    {
+      "key": "q00020060_00_1683",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ズールを撃破する",
+      "source_en": "Defeat Zuhl",
+      "text": "Besiege Zuhl."
+    },
+    {
+      "key": "q00020060_00_1684",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間に戻りジョゼフに報告する",
+      "source_en": "Return to the Audience Chamber and report to Joseph",
+      "text": "Kehre in den Audienzsaal zurück und erstatte Joseph Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

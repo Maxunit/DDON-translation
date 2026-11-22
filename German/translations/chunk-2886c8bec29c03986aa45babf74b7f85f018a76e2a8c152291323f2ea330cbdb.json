@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q00020100.gmd",
+  "arc_path": "\\quest\\q00020100.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "赤色症に効く薬草を入手した",
+      "source_en": "Obtained the herb effective\r\nagainst red fever.",
+      "text": "Du hast das Heilkraut\r\ngegen das Rotfieber gefunden."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "この草花ではないようだ――",
+      "source_en": "It seems like this is not the flower...",
+      "text": "Das scheint nicht die gesuchte Pflanze zu sein …"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

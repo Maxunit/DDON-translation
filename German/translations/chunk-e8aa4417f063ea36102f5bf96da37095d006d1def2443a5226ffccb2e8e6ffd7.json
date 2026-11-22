@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_336",
+      "read_index": "268",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島・絶崖",
+      "source_en": "Bloodbane Isle Precipice",
+      "text": "Blutfluchinsel – Steilküste"
+    },
+    {
+      "key": "STAGE_NAME_339",
+      "read_index": "270",
+      "tag_source": "source_en",
+      "source_jp": "守り人の庵",
+      "source_en": "Protector's Retreat",
+      "text": "Hütte der Hüter"
+    },
+    {
+      "key": "STAGE_NAME_340",
+      "read_index": "271",
+      "tag_source": "source_en",
+      "source_jp": "モルフォール・セントラム",
+      "source_en": "Morfaul Centrum",
+      "text": "Versammlungshaus von Morfaul"
+    },
+    {
+      "key": "STAGE_NAME_341",
+      "read_index": "272",
+      "tag_source": "source_en",
+      "source_jp": "ダナ・セントラム",
+      "source_en": "Dana Centrum",
+      "text": "Versammlungshaus von Dana"
+    },
+    {
+      "key": "STAGE_NAME_372",
+      "read_index": "298",
+      "tag_source": "source_en",
+      "source_jp": "エラン水林",
+      "source_en": "Elan Water Grove",
+      "text": "Elan-Auenwald"
+    },
+    {
+      "key": "STAGE_NAME_373",
+      "read_index": "299",
+      "tag_source": "source_en",
+      "source_jp": "キンガル峡谷",
+      "source_en": "Kingal Canyon",
+      "text": "Kingal-Schlucht"
+    },
+    {
+      "key": "STAGE_NAME_374",
+      "read_index": "300",
+      "tag_source": "source_en",
+      "source_jp": "モロー樹林",
+      "source_en": "Morrow Forest",
+      "text": "Morrow-Wald"
+    },
+    {
+      "key": "STAGE_NAME_377",
+      "read_index": "303",
+      "tag_source": "source_en",
+      "source_jp": "グリンデュア・セントラム",
+      "source_en": "Glyndwr Centrum",
+      "text": "Versammlungshaus von Glyndwr"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

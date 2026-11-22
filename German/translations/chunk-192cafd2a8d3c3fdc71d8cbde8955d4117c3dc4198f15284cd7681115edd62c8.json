@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00000027.gmd",
+  "arc_path": "\\quest\\q00000027.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "とりあえず、ご苦労だったな\r\nゆっくり休んでくれ",
+      "source_en": "For now, you've worked hard. \r\nTake a good rest.",
+      "text": "Für heute hast du genug getan.\r\nRuh dich gut aus."
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "準備できたら声を掛けてくれ",
+      "source_en": "Give me a shout when you're ready.",
+      "text": "Sag Bescheid, wenn du so weit bist."
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "一緒にやりたいこと、相談したいこと――\r\n頼みたいことが山ほどある",
+      "source_en": "There are so many things I want to do with you, \r\nthings I want to talk to you about— \r\nso much I want to ask you for help with.",
+      "text": "Ich möchte noch so vieles mit dir unternehmen.\r\nEs gibt einiges zu besprechen,\r\nund ich brauche bei vielem deine Hilfe."
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "【ヒント：魔物掃討について】\r\nギルスタンからの魔物掃討依頼は\r\n難易度の高い依頼です\r\nホボリック洞穴を拠点に、\r\n装備と戦技を整えて挑みましょう",
+      "source_en": "[Hint: Monster Eradication]\r\nMonster eradication requests from \r\nGilstan are high-difficulty tasks. \r\nPrepare your equipment and skills\r\nat Hobolic Cave before attempting it.",
+      "text": "[Hinweis zu Gilstans Auftrag]\r\nDie Monster, die du für Gilstan besiegen sollst,\r\nsind besonders gefährlich.\r\nNutze die Hobolic-Höhle als Stützpunkt.\r\nPrüfe deine Ausrüstung und Kampffertigkeiten, bevor du losziehst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

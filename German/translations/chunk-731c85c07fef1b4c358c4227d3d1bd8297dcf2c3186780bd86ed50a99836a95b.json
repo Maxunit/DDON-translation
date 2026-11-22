@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00020020_00.gmd",
+  "arc_path": "\\quest\\q00020020.arc",
+  "entries": [
+    {
+      "key": "q00020020_00_37",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "記憶のない娘",
+      "source_en": "The Girl Who Lost Her Memories",
+      "text": "Das Mädchen ohne Erinnerung"
+    },
+    {
+      "key": "q00020020_00_37",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "海岸で見つけた少女の様子を見に行く",
+      "source_en": "Go and visit the girl you found washed up\r\non the beach.",
+      "text": "Sieh nach dem Mädchen,\r\ndas du am Strand gefunden hast."
+    },
+    {
+      "key": "q00020020_00_1653",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "クラウスと話をする",
+      "source_en": "Speak to Klaus",
+      "text": "Sprich mit Klaus."
+    },
+    {
+      "key": "q00020020_00_1654",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフと話をする",
+      "source_en": "Speak to Joseph",
+      "text": "Sprich mit Joseph."
+    },
+    {
+      "key": "q00020020_00_1655",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間へ戻る",
+      "source_en": "Return to the Audience Chamber",
+      "text": "Kehre in den Audienzsaal zurück."
+    },
+    {
+      "key": "q00020020_00_1656",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ローテスの村のエリオットの元へ戻る",
+      "source_en": "Return to Elliot in the village of Rotes",
+      "text": "Kehre zu Elliot in Rotes zurück."
+    },
+    {
+      "key": "q00020020_00_1657",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ズールを倒す",
+      "source_en": "Defeat Zuhl",
+      "text": "Besiege Zuhl."
+    },
+    {
+      "key": "q00020020_00_1658",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ズールを探し海岸へ向かう",
+      "source_en": "Head to the coast and search for Zuhl",
+      "text": "Geh zur Küste und suche nach Zuhl."
+    },
+    {
+      "key": "q00020020_00_1659",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "セシリーを見つけたローテスの村へ向かう",
+      "source_en": "Head to Rotes where Cecily was found",
+      "text": "Geh nach Rotes, wo du Cecily gefunden hast."
+    },
+    {
+      "key": "q00020020_00_1660",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿メイリーフの家へ向かう",
+      "source_en": "Head to Mayleaf's home in the White Dragon Temple",
+      "text": "Geh zu Mayleafs Haus im Tempel des Weißen Drachen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

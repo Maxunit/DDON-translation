@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000027_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00000027_00_27",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ゴブリンの王",
+      "source_en": "The Goblin King",
+      "text": "Der Goblinkönig"
+    },
+    {
+      "key": "q00000027_00_27",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "白竜の石化を解く手がかりを求め\r\nホボリック洞穴に住むゴブリンの王を訪ねる",
+      "source_en": "Seek clues to undo the petrification\r\nof the White Dragon by visiting the Goblin King \r\nin Hobolic Cave.",
+      "text": "Suche nach einem Mittel gegen die Versteinerung des Weißen Drachen.\r\nBefrage dazu den Goblinkönig\r\nin der Hobolic-Höhle."
+    },
+    {
+      "key": "q00000027_00_1066",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ホボリック洞穴に向かいゴブリン王ギルスタンと話す",
+      "source_en": "Head to the Hobolic Cave and speak with Gilstan the Goblin King",
+      "text": "Reise zur Hobolic-Höhle und sprich mit Goblinkönig Gilstan."
+    },
+    {
+      "key": "q00000027_00_1067",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ホボリック洞穴付近の魔物を掃討する",
+      "source_en": "Defeat the monsters near the Hobolic Cave",
+      "text": "Besiege die Monster in der Nähe der Hobolic-Höhle."
+    },
+    {
+      "key": "q00000027_00_1068",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ホボリック洞穴のギルスタンに経緯を報告する",
+      "source_en": "Report back to Gilstan in the Hobolic Cave",
+      "text": "Erstatte Gilstan in der Hobolic-Höhle Bericht."
+    },
+    {
+      "key": "q00000027_00_1069",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のレオに古文書を渡す",
+      "source_en": "Deliver the ancient texts to Leo in the Audience Chamber",
+      "text": "Bring die alten Schriften zu Leo in den Audienzsaal."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

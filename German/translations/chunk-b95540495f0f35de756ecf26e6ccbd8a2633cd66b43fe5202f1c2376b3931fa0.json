@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area16_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "モロー樹林",
+      "source_en": "Morrow Forest",
+      "text": "Morrow-Wald"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

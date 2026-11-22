@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_876",
+      "read_index": "345",
+      "tag_source": "source_en",
+      "source_jp": "守り人の庵",
+      "source_en": "Protector's Retreat",
+      "text": "Hütte der Hüter"
+    },
+    {
+      "key": "SPOT_NAME_881",
+      "read_index": "350",
+      "tag_source": "source_en",
+      "source_jp": "エラン水林",
+      "source_en": "Elan Water Grove",
+      "text": "Elan-Auenwald"
+    },
+    {
+      "key": "SPOT_NAME_883",
+      "read_index": "352",
+      "tag_source": "source_en",
+      "source_jp": "モロー樹林",
+      "source_en": "Morrow Forest",
+      "text": "Morrow-Wald"
+    },
+    {
+      "key": "SPOT_NAME_884",
+      "read_index": "353",
+      "tag_source": "source_en",
+      "source_jp": "キンガル峡谷",
+      "source_en": "Kingal Canyon",
+      "text": "Kingal-Schlucht"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}
