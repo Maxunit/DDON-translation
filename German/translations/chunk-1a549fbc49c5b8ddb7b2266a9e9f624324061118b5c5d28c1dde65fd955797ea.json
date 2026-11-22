@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area7_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ディナン深層林",
+      "source_en": "Deenan Woods",
+      "text": "Deenan-Wald"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "秘弓師の住居",
+      "source_en": "Bowmaster's Secret Lodge",
+      "text": "Versteck des Bogenmeisters"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00000019.gmd",
+  "arc_path": "\\quest\\q00000019.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【ヒント：《拠点の礎》解放】",
+      "source_en": "[Hint: Unlocking the Portcrystal]",
+      "text": "[Hinweis zum Zielkristall]"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ東部に到着しました\r\nゾマの《拠点の礎》を忘れず解放しておきましょう",
+      "source_en": "We have arrived in Eastern Zandora. \r\nDon't forget to unlock the Portcrystal in Zoma.",
+      "text": "Du bist in Ost-Zandora angekommen.\r\nDenk daran, den Zielkristall in Zoma freizuschalten."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "【ヒント：ザンドラ東部《ゾマ》へのルート】",
+      "source_en": "[Hint : Route to Zoma in Eastern Zandora]",
+      "text": "[Hinweis zum Weg nach Zoma in Ost-Zandora]"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "まずは《禊の神殿》へ向かいましょう\r\n屋上から《禊の神殿 離殿》を通りぬけることで\r\nザンドラ東部にある村、《ゾマ》へ到着します",
+      "source_en": "First, head to the Temple of Purification. \r\nBy passing through the \r\nTemple of Purification: South Chamber \r\nfrom the rooftop, you will soon arrive\r\nat the village of Zoma in Eastern Zandora.",
+      "text": "Reise zuerst zum Tempel der Läuterung.\r\nGeh vom Dach aus\r\ndurch den Außenpavillon des Tempels.\r\nSo gelangst du bald\r\nnach Zoma in Ost-Zandora."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "準備が出来たら言ってほしい",
+      "source_en": "Tell me when you're ready.",
+      "text": "Sag Bescheid, wenn du so weit bist."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "悪いが頼みがある\r\n事情を知るおまえにしか頼めないことだ\r\n休息はそのあとにしてくれ",
+      "source_en": "I apologize, but I have a request. \r\nIt's something only you, within these\r\ncurrent circumstances, can handle. \r\nRest can come afterwards.",
+      "text": "Verzeih, ich muss dich um etwas bitten.\r\nNur du weißt, worum es geht.\r\nDarum kann ich nur dich bitten.\r\nAusruhen kannst du dich danach."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "《禊の神殿》は覚えているか？\r\nあの奥に、ザンドラ方面へ抜ける扉がある\r\nこれはその扉の鍵だ",
+      "source_en": "Remember the Temple of Purification?\r\nThere's a door behind it that leads to Zandora.\r\nThis is the key to that door.",
+      "text": "Weißt du noch, der Tempel der Läuterung?\r\nGanz hinten ist eine Tür, die nach Zandora führt.\r\nHier ist der Schlüssel dafür."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "そこを通って、東部ザンドラにある\r\n《ゾマ村》へ行ってほしい\r\nこの神殿から遠く離れた辺境の村だ",
+      "source_en": "I want you to go through there to\r\n[Zoma Village] in eastern Zandora.\r\nIt's a remote village far from this temple.",
+      "text": "Geh dort hindurch\r\nnach Zoma im Osten Zandoras.\r\nDas Dorf liegt weit entfernt vom Tempel."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "そこで、ザンドラ東部のエリアマスターである\r\nナディアという女性を訪ねるんだ",
+      "source_en": "So, you're going to visit the Area Master\r\nof Eastern Zandora, a woman named Nadia.",
+      "text": "Such dort Nadia auf.\r\nSie ist die Gebietsmeisterin von Ost-Zandora."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "彼女なら、あの地域を訪れる旅人や\r\n出来ごとに詳しいはずだ",
+      "source_en": "I'm sure she'd be familiar with the travelers\r\nand happenings in the area.",
+      "text": "Sie weiß sicher, wer dort unterwegs ist\r\nund was in der Gegend vor sich geht."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "アークの中でイリスと話して――\r\nしばらくそこに身を隠せと言っておいた",
+      "source_en": "I talked to Iris in the Ark--\r\nand told her to lay low there for a while.",
+      "text": "Ich habe in der Arche mit Iris gesprochen.\r\nIch habe ihr gesagt, sie soll sich dort eine Weile verstecken."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "だが、知っての通り、イリスはあの状態だ\r\nたどり着けたかどうか心配でな",
+      "source_en": "However, as you know,\r\nIris is still in that terrible state. \r\nI'm worried about whether she has made it.",
+      "text": "Du weißt ja,\r\nwie schlecht es ihr geht.\r\nIch weiß nicht, ob sie es bis dorthin geschafft hat."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "すまないが、様子を見てきてくれないか？\r\nそして、イリスに伝えてくれ",
+      "source_en": "I apologize, but could you see how she's doing? \r\nAlso, please convey my message to Iris.",
+      "text": "Könntest du nachsehen, wie es ihr geht?\r\nUnd richte ihr etwas von mir aus."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "「俺が行くまで命がけで身を隠せ」とな\r\nこの状況だ――討伐隊が派遣されても\r\n不思議ではない",
+      "source_en": "\"Your life is at risk,\r\nconceal yourself until I arrive.\"\r\nGiven this situation, it's no wonder\r\na hunting party might be dispatched.",
+      "text": "„Versteck dich um jeden Preis,\r\nbis ich komme.“\r\nBei der Lage würde es mich nicht wundern,\r\nwenn man einen Trupp losschickt, um sie aufzuspüren."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "《禊の神殿》を抜けて《ゾマ村》へ行ってくれ\r\nイリスの無事を確認してほしい",
+      "source_en": "I need you to go through\r\nthe [Temple of Purification] to \"Zoma Village.\"\r\nI need you to make sure Iris is safe.",
+      "text": "Geh durch den Tempel der Läuterung\r\nnach Zoma.\r\nVergewissere dich, dass Iris in Sicherheit ist."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "正直、わからなくなってきたよ\r\nジョゼフ様が正しいのかもな――",
+      "source_en": "Frankly, I'm not sure.\r\nMaybe Master Joseph is right--",
+      "text": "Ehrlich gesagt weiß ich nicht mehr weiter.\r\nVielleicht hat Meister Joseph recht …"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "少なくとも、アークを破壊してしまえば\r\n敵の計画を止めることができる\r\nでも――僕がディアマンテスなら何度でも\r\n同じ事を繰り返すと思うし――",
+      "source_en": "At the very least, if we destroy the Ark, \r\nwe can put a stop to the enemy's plans.\r\nHowever, if I were Diamantes, I would keep\r\nrepeating the same thing over and over.",
+      "text": "Wenn wir die Arche zerstören,\r\ndurchkreuzen wir wenigstens die Pläne des Feindes.\r\nAber an Diamantes’ Stelle würde ich es\r\nimmer wieder versuchen."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "だから――うーん――悩ましいな\r\nとりあえずレオの判断に従うよ",
+      "source_en": "So then――hmm――this is quite the dilemma. \r\nFor now, I will follow Leo's judgment.",
+      "text": "Hm … Ganz schön verzwickt.\r\nVorerst richte ich mich nach Leos Entscheidung."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "クラウスの家系にまつわる噂は本当のようだが\r\nジョゼフ殿に公然と反論するなどということは\r\n表裏がある者にはできないことだ――",
+      "source_en": "It seems the rumors about Klaus's family\r\nare true, but to openly oppose Master Joseph\r\nis something those with hidden agendas\r\ncannot do――",
+      "text": "Die Gerüchte über Klaus’ Familie scheinen zu stimmen.\r\nAber wer etwas zu verbergen hat,\r\nwürde es wohl kaum wagen,\r\nJoseph vor allen Leuten zu widersprechen …"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "と、これまでなら一笑に付すところだが\r\nイリスという前例があるからな――",
+      "source_en": "Up until now, this would be met with a laugh, \r\nbut there's the precedent of Iris to consider――",
+      "text": "Früher hätte ich darüber gelacht.\r\nDoch nach der Sache mit Iris …"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "どうした？\r\nアークの破壊に必要な情報は我々に任せろ",
+      "source_en": "What is the matter? \r\nLeave the information we need\r\nto destroy the Ark to us.",
+      "text": "Was ist los?\r\nÜberlass uns die Suche nach einem Weg,\r\ndie Arche zu zerstören."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "準備が整い次第、覚者には動いてもらうから\r\nそれまではしっかり休むがよい",
+      "source_en": "When everything is readied,\r\nthe Arisen will need to take action.\r\nUntil then, rest well.",
+      "text": "Sobald alles bereit ist,\r\nbrauchen wir euch Erweckte.\r\nBis dahin ruh dich gut aus."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "白竜様の石化は一進一退",
+      "source_en": "The petrification waxes and wanes.",
+      "text": "Die Versteinerung des Weißen Drachen geht zurück und nimmt dann wieder zu."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "いいえ、ごめんなさい\r\n聞かなかったことにしてください",
+      "source_en": "Nay, my apologies.\r\nPretend you didn't hear that.",
+      "text": "Nein, verzeiht.\r\nTut bitte so, als hättet Ihr das nicht gehört."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "アークから戻った人たちは\r\n誰もイリスのことを教えてくれないの\r\nあなたもきっと教えてくれないんだよね？",
+      "source_en": "Those who came back from the Ark \r\naren't telling me anything about Iris.\r\nI bet you won't tell me either, will you?",
+      "text": "Alle sind aus der Arche zurück,\r\naber keiner sagt mir etwas über Iris.\r\nDu sagst mir sicher auch nichts, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "――ふーん\r\nやっぱり――やっぱり！",
+      "source_en": "――Oh really,\r\nAs I thought――I knew it!",
+      "text": "Hm …\r\nHab ich’s doch gewusst!"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "大階段のところでレオ様をお見かけしまして\r\nイリスの安否について訊ねたのですが――",
+      "source_en": "I saw Ser Leo by the grand staircase \r\nand inquired about Iris's well-being――",
+      "text": "Ich traf Leo an der großen Treppe\r\nund fragte ihn, ob Iris wohlauf sei …"
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "ええ、何も答えてはもらえませんでした\r\nメイリーフがとても心配していましてね",
+      "source_en": "Indeed, I was given no response. \r\nMayleaf has been fretting about her.",
+      "text": "Aber er hat mir nichts gesagt.\r\nMayleaf macht sich solche Sorgen."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "ここだけの話――\r\nクラウスを注視し、怪しい言動あれば\r\n報告せよという指示が白騎団に下った",
+      "source_en": "This is just between us— \r\nThe White Knights have been instructed\r\nto keep an eye on Klaus and report\r\nany suspicious behavior.",
+      "text": "Das bleibt unter uns.\r\nDie Weiße Garde hat den Befehl,\r\nKlaus im Auge zu behalten\r\nund alles Verdächtige zu melden."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "おまえはクラウスと親しいはずだ\r\n巻き込まれないように気をつけるんだな",
+      "source_en": "You should stay close to Klaus. \r\nBe careful not to get caught up in this.",
+      "text": "Du stehst Klaus doch nahe.\r\nPass auf, dass du nicht mit hineingezogen wirst."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "墓荒らしと遺跡の町、ゾマへようこそ\r\nはるばる遠方から私に尋ねごとかしら？",
+      "source_en": "I welcome you to Zoma,\r\nthe town of grave robbers and ruins.\r\nHave you come from afar to ask me something?",
+      "text": "Willkommen in Zoma,\r\nder Stadt der Grabräuber, mitten zwischen den Ruinen.\r\nBist du von weit hergekommen, um mich etwas zu fragen?"
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "ふふ、いいわ\r\nザンドラ東部のエリアマスターとして\r\n力添えをいたしましょう",
+      "source_en": "Hehe, very well.\r\nAs the Area Master of Eastern Zandora,\r\nI shall lend you my aid.",
+      "text": "Na schön.\r\nAls Gebietsmeisterin von Ost-Zandora\r\nwill ich dir gern helfen."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "その女性かどうかは分からないけれど\r\n赤い装束の女性覚者が\r\n《東ザンドラ廃墟群》方面へ向かったそうよ",
+      "source_en": "I'm not sure if it is her,\r\nbut a female Arisen in red attire\r\nhas reportedly gone toward the East Zandora Ruins.",
+      "text": "Ob sie es war, weiß ich nicht.\r\nAber man hat eine Erweckte in Rot gesehen.\r\nSie war auf dem Weg zu den Ruinen von Ost-Zandora."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "まずはそこを当たってみてはどうかしら",
+      "source_en": "Why don't you start there?",
+      "text": "Warum suchst du nicht zuerst dort?"
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "あと、出発前に《拠点の礎》の登録を忘れずに\r\nでないと神殿からここまでの道中、また大変よ\r\nふふ――",
+      "source_en": "And make sure to register at the \r\n[Portcrystal] before you leave. \r\nIf you don't, the trip from the Temple\r\nto here will be difficult again, hehe――",
+      "text": "Denk daran, vor dem Aufbruch\r\nden Zielkristall zu registrieren.\r\nSonst musst du wieder den ganzen langen Weg\r\nvom Tempel hierher auf dich nehmen …"
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "貴方がお探しの女性かどうかは分からないけれど\r\n赤い装束の女性覚者が\r\n《東ザンドラ廃墟群》方面へ向かったそうよ",
+      "source_en": "I'm not sure if she's the woman you seek,\r\nbut a female Arisen in red attire has reportedly\r\ngone toward the East Zandora Ruins.",
+      "text": "Ob sie es war, weiß ich nicht.\r\nAber man hat eine Erweckte in Rot gesehen.\r\nSie war auf dem Weg zu den Ruinen von Ost-Zandora."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "まずはそこを当たってみてはどうかしら",
+      "source_en": "Why don't you start there?",
+      "text": "Warum suchst du nicht zuerst dort?"
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "あと、出発前に《拠点の礎》の登録を忘れずに\r\nでないと神殿からここまでの道中、また大変よ\r\nふふ――",
+      "source_en": "And make sure to register at the \r\n[Portcrystal] before you leave. \r\nIf you don't, the trip from the Temple\r\nto here will be difficult again, hehe――",
+      "text": "Denk daran, vor dem Aufbruch\r\nden Zielkristall zu registrieren.\r\nSonst musst du wieder den ganzen langen Weg\r\nvom Tempel hierher auf dich nehmen …"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "\"書き置き\"\r\nもし――ここまで探しに来てくれたなら\r\n会いたいな\r\n丘の上、崩れた教会で待ってるから",
+      "source_en": "\"Note:\r\nIf you've come all this way to find me,\r\nI want to see you. I'll be waiting\r\nat the ruined church at the top of the hill.\"",
+      "text": "Nachricht\r\n„Falls du wirklich bis hierher gekommen bist,\r\num mich zu finden, will ich dich sehen.\r\nIch warte in der verfallenen Kirche oben auf dem Hügel.“"
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "ほら、さっさと帰りなよ",
+      "source_en": "Come on, hurry back home already.",
+      "text": "Los, geh schon zurück."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "ゾマはどうだった？",
+      "source_en": "How was Zoma?",
+      "text": "Wie war es in Zoma?"
+    },
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "なるほど――イリスは山に入ると言ったのか\r\n人目を避けるためだな？",
+      "source_en": "I understand――Iris mentioned entering\r\nthe mountain to stay out of sight, correct?",
+      "text": "Verstehe. Iris will in die Berge.\r\nUm nicht gesehen zu werden, richtig?"
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "うん、理屈が通っている",
+      "source_en": "Yes, I see her reasoning.",
+      "text": "Ja, das ergibt Sinn."
+    },
+    {
+      "key": "",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "よし、イリスのことは一度忘れて\r\n今すべきことに専念しようじゃないか",
+      "source_en": "Alright, let's forget about Iris\r\nfor now and focus on what we must do.",
+      "text": "Gut, lassen wir Iris fürs Erste in Ruhe\r\nund kümmern uns um das, was jetzt ansteht."
+    },
+    {
+      "key": "",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "とりあえず、長旅ごくろう\r\nおまえは休んでくれ",
+      "source_en": "For now, you've traveled far, \r\nso you should take a rest.",
+      "text": "Der Weg war weit. Gut gemacht.\r\nRuh dich erst mal aus."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

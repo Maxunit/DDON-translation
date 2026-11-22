@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\stage\\stage_examine_st0402.gmd",
+  "arc_path": "\\stage\\st0402\\st0402.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "オーク語だろうか、歪んだ文字らしきものと\r\n図が紙に記されている",
+      "source_en": "A piece of paper with what appears to be \r\ndistorted text, possibly Orcish, and a\r\ndiagram.",
+      "text": "Auf dem Papier stehen seltsam verzerrte Zeichen,\r\nvielleicht in der Sprache der Orks.\r\nDarunter ist eine Zeichnung."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "図からして、命の器とアークのようだ――",
+      "source_en": "Looking at the diagram, it seems to depict the\r\nVessel of Life and the Ark.",
+      "text": "Die Zeichnung zeigt wohl\r\ndas Gefäß des Lebens und die Arche."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "生々しい爪あとがいくつも内側に\r\nついている――",
+      "source_en": "There are several fresh nail marks on the inside...",
+      "text": "Auf der Innenseite sind mehrere frische Kratzspuren zu sehen …"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "\"血濡れのメモ入り見取り図\"",
+      "source_en": "\"Bloodstained Map with Notes\"",
+      "text": "„Blutbefleckter Lageplan mit Notizen“"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "砦の中枢は２つの大門で守られている\r\n侵入したとしても、門を突破せねば\r\n奥へ進むことは不可能だ",
+      "source_en": "The center of the fortress is defended by \r\ntwo grand gates. Even if you enter, \r\nyou cannot move deeper without breaking through.",
+      "text": "Zwei große Tore schützen das Innere der Festung.\r\nSelbst wenn wir hineingelangen,\r\nkommen wir ohne offene Tore nicht weiter."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "どこかに開門用の装置が２台あるはずだ\r\nそれぞれを起動できれば、門は開くだろう",
+      "source_en": "There are likely two devices for opening \r\nthe gates hidden somewhere. Activating \r\nboth should allow the gates to open.",
+      "text": "Irgendwo müssen zwei Vorrichtungen sein,\r\nmit denen man die Tore öffnen kann.\r\nWenn wir beide betätigen, müssten die Tore aufgehen."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "オークどもが遠征から戻って来る前に\r\n装置を見つけられれば、勝機はある",
+      "source_en": "If we can find the devices before the \r\norcs return from their expedition, we \r\nmight have a chance.",
+      "text": "Wenn wir die Vorrichtungen finden,\r\nbevor die Orks von ihrem Feldzug zurückkehren,\r\nhaben wir vielleicht eine Chance."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "無事でいてくれ――ミレイア",
+      "source_en": "Stay safe—Mireia",
+      "text": "Pass auf dich auf, Mireia."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "扉には鍵がかかっている\r\n鍵には赤黒い錆びが浮いている――",
+      "source_en": "The door has a lock on it. \r\nDark red rust is visible around the keyhole.",
+      "text": "Die Tür ist verschlossen.\r\nRund um das Schlüsselloch schimmert dunkelroter Rost."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

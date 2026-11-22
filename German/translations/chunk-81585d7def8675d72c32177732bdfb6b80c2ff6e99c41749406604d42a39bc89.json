@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\event\\event_name.gmd",
+  "arc_path": "\\EventViewRoom.arc",
+  "entries": [
+    {
+      "key": "EVENT_NAME_st0201ev020",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "目覚める白竜",
+      "source_en": "Awakening White Dragon",
+      "text": "Der Weiße Drache erwacht"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev028",
+      "read_index": "99",
+      "tag_source": "source_en",
+      "source_jp": "クラウスの思い",
+      "source_en": "Klaus's thoughts",
+      "text": "Klaus’ Gedanken"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev030",
+      "read_index": "67",
+      "tag_source": "source_en",
+      "source_jp": "錬金術師ディアマンテス絵巻",
+      "source_en": "Alchemist Diamantes Picture Scroll",
+      "text": "Bildrolle über den Alchemisten Diamantes"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev035",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦への救援",
+      "source_en": "Relief to Fort Gritten",
+      "text": "Verstärkung für Festung Gritten"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev040",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "レオの悩み",
+      "source_en": "Leo's problems",
+      "text": "Was Leo umtreibt"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev045",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "イリスからの伝言",
+      "source_en": "Message from Iris",
+      "text": "Nachricht von Iris"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev050",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "神殿に迫るオークの大軍",
+      "source_en": "Hordes of Orcs Approaching the Temple",
+      "text": "Ein Orkheer rückt auf den Tempel vor"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev060",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "命の奪還",
+      "source_en": "Recapture of life",
+      "text": "Ein Leben zurückholen"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev065",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "キースヒルトの遺志",
+      "source_en": "Kieshildt's Legacy",
+      "text": "Kieshildts letzter Wille"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev070",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "アーク破壊の方策",
+      "source_en": "Ark destruction strategy",
+      "text": "Ein Plan zur Zerstörung der Arche"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev073",
+      "read_index": "87",
+      "tag_source": "source_en",
+      "source_jp": "アーク破壊作戦",
+      "source_en": "Operation Ark Destruction",
+      "text": "Angriff auf die Arche"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev075",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "さらわれた巫女",
+      "source_en": "The Abducted Priestess",
+      "text": "Die entführte Priesterin"
+    },
+    {
+      "key": "EVENT_NAME_st0201ev080",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "深淵での結末",
+      "source_en": "Ending at the Abyss",
+      "text": "Nach dem Kampf am Abgrund"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

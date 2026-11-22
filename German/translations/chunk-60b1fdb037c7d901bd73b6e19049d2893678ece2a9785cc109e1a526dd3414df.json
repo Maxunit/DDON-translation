@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area11_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ東部",
+      "source_en": "Eastern Zandora",
+      "text": "Ost-Zandora"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "東ザンドラ廃墟群",
+      "source_en": "East Zandora Ruins",
+      "text": "Ruinen von Ost-Zandora"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "禊の神殿　離殿",
+      "source_en": "Temple of Purification: South Chamber",
+      "text": "Tempel der Läuterung: Außenpavillon"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "東ザンドラ廃墟群",
+      "source_en": "East Zandora Ruins",
+      "text": "Ruinen von Ost-Zandora"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

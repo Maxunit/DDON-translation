@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_info.gmd",
+  "arc_path": "\\ui\\item_info.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "3922",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダ護政区、《錬金研究棟》の鍵\r\n目玉を模した模様が刻まれている",
+      "source_en": "The key to Mergoda District's [Alchemy Research\r\nBuilding].\r\nA pattern imitating the eyeball is engraved.",
+      "text": "Schlüssel zum Alchemielabor\r\nim Wachtbezirk Mergoda.\r\nEin Auge ist darauf eingraviert."
+    },
+    {
+      "key": "",
+      "read_index": "3923",
+      "tag_source": "source_en",
+      "source_jp": "ドリード城のどこかにある《礼拝堂》の鍵\r\n騎士団により管理されてきた",
+      "source_en": "The key to a \"chapel\" somewhere in Dreed Castle.\r\nIt has been managed by the Order.",
+      "text": "Ein Schlüssel zur Kapelle auf Burg Dreed.\r\nDie Weiße Garde hat ihn verwahrt."
+    },
+    {
+      "key": "",
+      "read_index": "3924",
+      "tag_source": "source_en",
+      "source_jp": "禊の神殿、《水流制御室》の鍵\r\n竜の細工が施されている",
+      "source_en": "A key to the [Flow Control Room] in the\r\nTemple of Purification.\r\nDraconic markings are apparent.",
+      "text": "Schlüssel zum Schleusenraum\r\nim Tempel der Läuterung.\r\nEr ist mit Drachenmotiven verziert."
+    },
+    {
+      "key": "",
+      "read_index": "3925",
+      "tag_source": "source_en",
+      "source_jp": "大樹の意匠が彫られた壮麗なパネル状の鍵\r\nかなり大きな扉の施錠に使われていたようだ",
+      "source_en": "A magnificent panel-shaped key in which the\r\ndesign of the big tree was carved.\r\nIt seems that it was used to lock quite a large\r\ndoor.",
+      "text": "Ein prächtiger, flacher Schlüssel\r\nmit dem Bild eines mächtigen Baumes.\r\nEr diente wohl dazu,\r\nein besonders großes Tor zu verschließen."
+    },
+    {
+      "key": "",
+      "read_index": "3938",
+      "tag_source": "source_en",
+      "source_jp": "禊の神殿、セラー湖対岸にある離殿の鍵\r\n白竜の紋章が彫られている",
+      "source_en": "A key to the Temple of Purification, located\r\nacross Lake Cera.\r\nIt is engraved with the White Dragon.",
+      "text": "Schlüssel zum Außenpavillon des Tempels der Läuterung\r\nam gegenüberliegenden Ufer des Cera-Sees.\r\nDas Wappen des Weißen Drachen ist eingraviert."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

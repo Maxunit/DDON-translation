@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000019_00.gmd",
+  "arc_path": "\\quest\\q00000019.arc",
+  "entries": [
+    {
+      "key": "q00000019_00_19",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "友を思う",
+      "source_en": "Thinking of a Friend",
+      "text": "In Sorge um eine Freundin"
+    },
+    {
+      "key": "q00000019_00_19",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "イリスの身を案じるレオの相談に乗る",
+      "source_en": "Listen to Leo's concerns about Iris' safety.",
+      "text": "Sprich mit Leo über seine Sorge um Iris."
+    },
+    {
+      "key": "q00000019_00_1028",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "レオと話す",
+      "source_en": "Speak with Leo",
+      "text": "Sprich mit Leo."
+    },
+    {
+      "key": "q00000019_00_1029",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "禊の神殿に向かいゾマの村への道を開く",
+      "source_en": "Go to Zoma through the Temple of Purification",
+      "text": "Öffne im Tempel der Läuterung den Weg nach Zoma."
+    },
+    {
+      "key": "q00000019_00_1030",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ゾマのエリアマスターからイリスの情報を聞く",
+      "source_en": "Consult the Area Master at Zoma about Iris",
+      "text": "Frage die Gebietsmeisterin von Zoma nach Iris."
+    },
+    {
+      "key": "q00000019_00_1031",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "メッセージに従い丘の上の廃教会へ向かう",
+      "source_en": "Following the message, go to the ruined chapel on the hill",
+      "text": "Folge der Nachricht zur Kirchenruine auf dem Hügel."
+    },
+    {
+      "key": "q00000019_00_1032",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のレオに経緯を報告する",
+      "source_en": "Report back to Leo in the Audience Chamber",
+      "text": "Erstatte Leo im Audienzsaal Bericht."
+    },
+    {
+      "key": "q00000019_00_1589",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ東部の廃墟群へ向かいイリスを探す",
+      "source_en": "Find Iris in the Eastern Zandora Ruins",
+      "text": "Suche Iris in den Ruinen von Ost-Zandora."
+    },
+    {
+      "key": "q00000019_00_1603",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフから詳しい話を聞く",
+      "source_en": "Hear what Joseph has to say",
+      "text": "Höre dir an, was Joseph zu sagen hat."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

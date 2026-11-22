@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000013_00.gmd",
+  "arc_path": "\\quest\\q00000013.arc",
+  "entries": [
+    {
+      "key": "q00000013_00_13",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "奪われた心",
+      "source_en": "The Stolen Heart",
+      "text": "Das geraubte Herz"
+    },
+    {
+      "key": "q00000013_00_13",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "さらわれたメイリーフを奪還する",
+      "source_en": "Recover Mayleaf, who has been kidnapped.",
+      "text": "Rette die entführte Mayleaf."
+    },
+    {
+      "key": "q00000013_00_998",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "レオから情報を得る",
+      "source_en": "Obtain information from Leo",
+      "text": "Erkundige dich bei Leo nach Mayleaf."
+    },
+    {
+      "key": "q00000013_00_999",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦のスケルツォから情報を得る",
+      "source_en": "Obtain information from Scherzo in Fort Gritten",
+      "text": "Sprich mit Scherzo in Festung Gritten."
+    },
+    {
+      "key": "q00000013_00_1000",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "謎の誘拐犯を撃退する",
+      "source_en": "Defeat the mysterious abductor",
+      "text": "Wehre den Angriff der verhüllten Gestalt ab."
+    },
+    {
+      "key": "q00000013_00_1001",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "禊の神殿入口で合流する",
+      "source_en": "Go to the entrance of the Temple of Purification",
+      "text": "Triff die anderen am Eingang zum Tempel der Läuterung."
+    },
+    {
+      "key": "q00000013_00_1002",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のレオに経緯を報告する",
+      "source_en": "Report back to Leo in the Audience Chamber",
+      "text": "Erstatte Leo im Audienzsaal Bericht."
+    },
+    {
+      "key": "q00000013_00_1209",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "目的地をレオから再確認する",
+      "source_en": "Reconfirm the destination with Leo",
+      "text": "Frag Leo noch einmal nach dem Ziel."
+    },
+    {
+      "key": "q00000013_00_1496",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "２Fにある制御室の鍵を探す",
+      "source_en": "Find the key to the control room on the 2nd floor",
+      "text": "Suche auf der zweiten Ebene den Schlüssel zum Schleusenraum."
+    },
+    {
+      "key": "q00000013_00_1497",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "滝の先へ進む",
+      "source_en": "Advance beyond the waterfall",
+      "text": "Geh hinter den Wasserfall."
+    },
+    {
+      "key": "q00000013_00_1548",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "禊の神殿へ向かう",
+      "source_en": "Head to the Temple of Purification",
+      "text": "Reise zum Tempel der Läuterung."
+    },
+    {
+      "key": "q00000013_00_1549",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "鍵を使って制御室内から滝を止める",
+      "source_en": "Use the key to stop the waterfall in the control room",
+      "text": "Schließ den Schleusenraum auf und stelle den Wasserfall ab."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

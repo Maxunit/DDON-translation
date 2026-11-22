@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_459",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダ居住区",
+      "source_en": "Mergoda Residential Area",
+      "text": "Wohnbezirk Mergoda"
+    },
+    {
+      "key": "SPOT_NAME_463",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "ダウ渓谷",
+      "source_en": "Dowe Valley",
+      "text": "Dowe-Tal"
+    },
+    {
+      "key": "SPOT_NAME_466",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ森林深部",
+      "source_en": "Mysree Grove",
+      "text": "Tiefer Mysree-Wald"
+    },
+    {
+      "key": "SPOT_NAME_467",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原北部",
+      "source_en": "Northern Betland Plains",
+      "text": "Nördliche Betland-Ebene"
+    },
+    {
+      "key": "SPOT_NAME_468",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ東部",
+      "source_en": "Eastern Zandora",
+      "text": "Ost-Zandora"
+    },
+    {
+      "key": "SPOT_NAME_470",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "ディナン深層林",
+      "source_en": "Deenan Woods",
+      "text": "Deenan-Wald"
+    },
+    {
+      "key": "SPOT_NAME_473",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "ガルドノック砦",
+      "source_en": "Gardnox Fortress",
+      "text": "Festung Gardnox"
+    },
+    {
+      "key": "SPOT_NAME_474",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "ドリード城",
+      "source_en": "Dreed Castle",
+      "text": "Burg Dreed"
+    },
+    {
+      "key": "SPOT_NAME_480",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "亡都メルゴダ",
+      "source_en": "Mergoda Ruins",
+      "text": "Ruinen von Mergoda"
+    },
+    {
+      "key": "SPOT_NAME_483",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "キノザ鉱泉",
+      "source_en": "Kinoza Mineral Springs",
+      "text": "Therme von Kinoza"
+    },
+    {
+      "key": "SPOT_NAME_484",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "禊の神殿　離殿",
+      "source_en": "Temple of Purification: South Chamber",
+      "text": "Tempel der Läuterung: Außenpavillon"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00000010.gmd",
+  "arc_path": "\\quest\\q00000010.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【ヒント：エリア封鎖解放】",
+      "source_en": "[Hint: Area Blockade Released]",
+      "text": "[Tipp: Gebietssperre aufgehoben]"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ハイデル関所が開放され、ダウ渓谷とハイデル平原の往来が可能になりました",
+      "source_en": "The Hidell Checkpoint has been opened, allowing \r\npassage between the Dowe Valley and the \r\nHidell Plains.",
+      "text": "Der Grenzposten von Hidell ist geöffnet.\r\nDu kannst nun zwischen dem Dowe-Tal\r\nund der Hidell-Ebene reisen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ドリード城内部は複雑だ\r\n先行している騎士をマーカーで追い、情報を得ていくといい！命の器は地下にあるようだ",
+      "source_en": "The interior of Dreed Castle is complex. \r\nIt would be good to follow the knights who are \r\nahead of you with markers and gather information! \r\nThe Vessel of Life seems to be located underground.",
+      "text": "In Burg Dreed verirrt man sich leicht.\r\nNutze die Markierungen, um den Rittern\r\ndes Vorauskommandos zu folgen und mehr zu erfahren.\r\nDas Gefäß des Lebens soll sich unter der Burg befinden."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "一瞬でいい――",
+      "source_en": "Just for a moment—",
+      "text": "Ein Augenblick würde genügen …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "俺たちが白竜の力を\r\n継承できる程度でかまわない――",
+      "source_en": "It's okay if we can inherit\r\njust a fraction of the White Dragon's power—",
+      "text": "Gerade lange genug,\r\ndamit wir etwas von der Kraft des Weißen Drachen erben."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "それほどに白竜を目覚めさせるには\r\nどうしたらよいのか――",
+      "source_en": "What should we do to awaken the White Dragon\r\nto such an extent?",
+      "text": "Wie können wir den Weißen Drachen\r\nnur so weit wecken?"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフはアークのことで頭がいっぱいだ\r\n相談したら《ブラッドオーブ》を探せと言われた\r\nおれが抱える焦りが伝わらないんだ",
+      "source_en": "Joseph is preoccupied with the Ark.\r\nWhen I consulted him, \r\nhe told me to find the \"Blood Orb.\"\r\nHe doesn't seem to sense the urgency I feel.",
+      "text": "Joseph denkt an nichts anderes als die Arche.\r\nAls ich ihn fragte,\r\nriet er mir, nach Blutkugeln zu suchen.\r\nEr begreift einfach nicht, wie dringend das ist."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "竜の覚醒――\r\n方法は自分たちで探すしかないのか",
+      "source_en": "Awakening the Dragon--\r\nWe'll just have to find a way to do it ourselves.",
+      "text": "Den Drachen wecken …\r\nWir müssen wohl selbst einen Weg finden."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "レオが深刻な顔をして\r\nわたしを見ているのです",
+      "source_en": "Leo is looking at me with a serious expression.",
+      "text": "Leo sieht mich so ernst an."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "何かありましたか？",
+      "source_en": "Did something happen?",
+      "text": "Ist etwas passiert?"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "白竜様の覚醒はいつか――",
+      "source_en": "When will the awakening of \r\nLord White Dragon occur?",
+      "text": "Wann wird der Weiße Drache\r\nerwachen?"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "わたしには、時が来たら\r\nとしかお答えできません",
+      "source_en": "I can only answer when the time comes.",
+      "text": "Darauf kann ich nur antworten: wenn die Zeit gekommen ist."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "わたしの仕事は\r\n白竜様の意志を伝えること――",
+      "source_en": "My job is to convey\r\nthe will of Lord White Dragon.",
+      "text": "Meine Aufgabe ist es, den Willen\r\ndes Weißen Drachen zu verkünden."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "人々の願いの\r\n代弁者ではないのです",
+      "source_en": "I am not the spokesperson for people's desires.",
+      "text": "Ich bin keine Sprecherin für die Wünsche der Menschen."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "白竜の目を覚ます――\r\nふん、レオの差し金か",
+      "source_en": "Waking the white dragon--\r\nHmm, Leo sent you.",
+      "text": "Den Weißen Drachen aufwecken …\r\nHm. Leo hat dich geschickt, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "あの眠りで竜力が回復するのだ\r\nその邪魔をするつもりか？",
+      "source_en": "That sleep restores Dragon Force.\r\nAre you going to interrupt that?",
+      "text": "Im Schlaf kehrt seine Drachenkraft zurück.\r\nWillst du ihn dabei stören?"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "賛成しかねるな",
+      "source_en": "I cannot agree with that.",
+      "text": "Das kann ich nicht gutheißen."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "何より、すべがなかろう",
+      "source_en": "Above all, there's no way to do it.",
+      "text": "Außerdem wüsste ich nicht, wie das gehen soll."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "ねえ――\r\nゴブリンキングから手に入れた古文書！\r\nあれの解読が終わったんだ",
+      "source_en": "Hey... I finished deciphering the ancient \r\ndocument we obtained from the Goblin King!",
+      "text": "Hör mal, ich habe die alte Schrift entziffert,\r\ndie wir dem Goblinkönig abgenommen haben!"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "竜の石化を解く方法を見つけたと思う",
+      "source_en": "I think I've found a way to undo the \r\npetrification of the dragon.",
+      "text": "Ich glaube, ich weiß, wie sich\r\ndie Versteinerung des Drachen rückgängig machen lässt."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "試してみるかい？",
+      "source_en": "Would you like to give it a try?",
+      "text": "Wollen wir es versuchen?"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "もし、その気があったら\r\nこれから《ドリード城》へ向かってほしい",
+      "source_en": "If you're feeling up to it, \r\nI want you to head towards Dreed Castle.",
+      "text": "Wenn du dabei bist,\r\nmach dich auf den Weg zur Burg Dreed."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "昔々、白騎団の本拠地だったところでね\r\n今は色々な物の保管庫になっている",
+      "source_en": "Once upon a time, \r\nit was the stronghold of the White Knights.\r\nNow, it has become a storage facility \r\nfor various items.",
+      "text": "In alten Zeiten\r\nwar die Burg der Sitz der Weißen Garde.\r\nHeute werden dort\r\nallerlei Dinge verwahrt."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "そうそう、今回の古文書だって元々は\r\nドリード城に保管されていたものだ",
+      "source_en": "Oh, that's right. Even this ancient document was \r\noriginally stored in Dreed Castle.",
+      "text": "Ach ja, auch diese alte Schrift\r\nwurde ursprünglich in Burg Dreed verwahrt."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "いや、保管というよりは\r\n封じたという言い方が正しいかな\r\nあそこには世に出ては困るものが\r\nいっぱいある",
+      "source_en": "No, I think it's more accurate to say that it was \r\nsealed. \r\nThere are a lot of things there that shouldn't \r\nbe released into the world.",
+      "text": "Oder besser gesagt,\r\nsie wurde unter Verschluss gehalten.\r\nDort liegt so manches,\r\ndas besser nie ans Licht kommt."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "というわけで、今回ばかりはジョゼフ様には\r\n絶対秘密にして欲しい",
+      "source_en": "So, this time, I really need you to \r\nkeep this a secret from Joseph.",
+      "text": "Darum darf Joseph dieses Mal\r\nunter keinen Umständen davon erfahren."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "じゃあ、それぞれこっそり出発して、現地集合だ\r\nこれは城で使う鍵――\r\n中できっと必要になるから渡しておくよ",
+      "source_en": "Well then, let's each secretly depart and \r\nmeet up at the destination. \r\n\r\nThis is the key used in the castle. \r\nI'm giving it to you because we'll \r\ndefinitely need it inside.",
+      "text": "Brechen wir unauffällig auf\r\nund treffen uns dort.\r\n\r\nHier, der Schlüssel für die Burg.\r\nNimm ihn.\r\nDrinnen wirst du ihn brauchen."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "ええと、あとは――",
+      "source_en": "Um, as for the rest...",
+      "text": "Ähm, was noch …"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "そうそう、レオには君から話してほしい\r\nまた勝手な行動か、と思われたくないからね",
+      "source_en": "Oh, that's right. I want Leo to hear it from you. \r\nI don't want him to think I'm acting selfishly.",
+      "text": "Ach ja, sag du Leo Bescheid.\r\nEr soll nicht denken, ich handle wieder auf eigene Faust."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "レオへの報告を忘れないでくれよ\r\nそして《ドリード城》で会おう！",
+      "source_en": "Don't forget to report to Leo\r\nand let's meet at Dreed Castle!",
+      "text": "Vergiss nicht, es Leo zu sagen.\r\nWir sehen uns auf Burg Dreed!"
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "白竜の目を覚ます方法があれば――",
+      "source_en": "If there is a way to awaken the White Dragon...",
+      "text": "Wenn es einen Weg gibt, den Weißen Drachen zu wecken …"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "ほう――クラウスとおまえでなんとかするだと？\r\n《ドリード城》へ行く？",
+      "source_en": "Well... you and Klaus are going to work it out, \r\naren't you?\r\nGo to Dreed Castle?",
+      "text": "So, du und Klaus habt also einen Plan?\r\nIhr wollt\r\nnach Burg Dreed?"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "わかった\r\nしかし《ドリード城》への道中にある関所は\r\nこのところ厳しく通行を制限しているんだ",
+      "source_en": "Understood. \r\nHowever, the checkpoints along the way to \r\nDreed Castle have recently been \r\nenforcing strict travel restrictions.",
+      "text": "Verstehe.\r\nAllerdings wird am Grenzposten\r\nauf dem Weg zur Burg Dreed\r\nseit Kurzem streng kontrolliert, wer passieren darf."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "よし、いいだろう――\r\nおれが通達を出しておく\r\nしかし、手助けはそこまでだ\r\nあとは自分の才覚で切り抜けてくれ",
+      "source_en": "Alright, fine—\r\nI will issue the order.\r\nHowever, I can only assist you up to that point.\r\nThe rest is up to your own talent to overcome.",
+      "text": "Na gut.\r\nIch gebe den Befehl, dich durchzulassen.\r\nMehr kann ich für dich nicht tun.\r\nAb da musst du selbst zurechtkommen."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "クラウスが何を考えているか知らないが――\r\n期待して待たせてもらうよ",
+      "source_en": "I don't know what Klaus is thinking, \r\nbut I'll wait with anticipation.",
+      "text": "Keine Ahnung, was Klaus diesmal vorhat.\r\nIch bin gespannt."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "――あんたが通達に名前のあった覚者か",
+      "source_en": "Are you the Arisen whose name \r\nwas mentioned in the order?",
+      "text": "Du bist also der Erweckte,\r\nder im Befehl genannt wird?"
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "もちろん通行は許可するが、ここから先は\r\n魔物の数、そして強さが段違いだ\r\n心して進んでくれよ",
+      "source_en": "Of course, we will allow your passage.\r\nBut beyond this point, the number and strength of \r\nthe enemies are on a completely different level. \r\nProceed with caution.",
+      "text": "Du darfst natürlich durch.\r\nAb hier gibt’s aber viel mehr Monster,\r\nund sie sind deutlich stärker.\r\nPass auf dich auf."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "ドリードはかつて騎士団の本拠地だった城だ\r\nその頃の、古い見取り図を頼りに\r\n先行隊が奥へ向かっている",
+      "source_en": "Dreed was once the castle that served as the \r\nheadquarters of the Knights' Order. \r\nThe advance party is now heading deeper into the \r\ncastle, relying on an old blueprint from that time.",
+      "text": "Burg Dreed war einst\r\nder Sitz der Weißen Garde.\r\nDer Vortrupp ist schon auf dem Weg ins Innere.\r\nEr folgt einem alten Plan der Burg."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "彼らの居場所を目印に追うといいだろう",
+      "source_en": "You might want to follow their \r\nwhereabouts as a landmark.",
+      "text": "Unsere Leute haben unterwegs Stellung bezogen.\r\nAn ihnen kannst du dich orientieren."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "覚者よ、注意しろ\r\n内部は魔物だらけの上に――",
+      "source_en": "Arisen, be cautious.\r\nFor the depths are filled with nothing but enemies -",
+      "text": "Pass auf, Erweckter!\r\nDrinnen wimmelt es von Monstern."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "地下牢や水路で相当複雑だ\r\n道を間違えると、どこに出るかわからんぞ",
+      "source_en": "The underground dungeons and waterways \r\nare quite complex. \r\nIf you take the wrong path, \r\nyou won't know where you'll end up.",
+      "text": "Die Kerker und Wasserläufe\r\nbilden ein Labyrinth.\r\nWenn du falsch abbiegst,\r\nkannst du sonst wo landen."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "覚者よ、この螺旋階段を下るんだ\r\n２階層下に礼拝堂に続く通路がある",
+      "source_en": "Arisen, descend this spiral staircase.\r\nThere is a passage leading to the chapel \r\ntwo floors below.",
+      "text": "Geh diese Wendeltreppe hinunter, Erweckter.\r\nZwei Stockwerke tiefer\r\nführt ein Gang zur Kapelle."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "目的のモノがあるとしたら、最深部の\r\n旧礼拝堂――団長がそう言っていた",
+      "source_en": "If there's something you're looking for, \r\nit's in the deepest part of the old chapel - \r\nthat's what the Commander said.",
+      "text": "Was du suchst, soll ganz tief unten\r\nin der alten Kapelle sein.\r\nSo hat es der Hauptmann gesagt."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "何があるのかまでは\r\n俺は聞かされてないけどな",
+      "source_en": "I haven't been told what exactly is there.",
+      "text": "Was sich dort genau befindet, hat man mir nicht gesagt."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "ああ覚者さん！　やっときてくれたか\r\nどうやらその扉の先が礼拝堂らしい",
+      "source_en": "Ah, Ser Arisen! You've finally arrived I see. \r\nIt seems that beyond that door is the chapel.",
+      "text": "Ah, Erweckter! Endlich bist du da.\r\nHinter der Tür scheint die Kapelle zu liegen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_49",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "ラウル武具工房",
+      "source_en": "Raul's Arms and Armor Workshop",
+      "text": "Rauls Waffen- und Rüstungsschmiede"
+    },
+    {
+      "key": "STAGE_NAME_53",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "ドラワン組合宿　眠り狼亭",
+      "source_en": "Sleeping Wolf Inn",
+      "text": "Gasthaus Zum Schlafenden Wolf"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

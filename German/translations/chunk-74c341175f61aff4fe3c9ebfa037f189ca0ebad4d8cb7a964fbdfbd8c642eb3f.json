@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000014_00.gmd",
+  "arc_path": "\\quest\\q00000014.arc",
+  "entries": [
+    {
+      "key": "q00000014_00_14",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "千の咆哮",
+      "source_en": "The Roars of a Thousand",
+      "text": "Tausend Schlachtrufe"
+    },
+    {
+      "key": "q00000014_00_14",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍の侵攻を退け神殿を守る",
+      "source_en": "Defend the Temple and repel the Orc invasion.",
+      "text": "Verteidige den Tempel und wehre den Angriff der Orks ab."
+    },
+    {
+      "key": "q00000014_00_1003",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍を迎え撃つためハイデル平原へ向かう",
+      "source_en": "Proceed to Hidell Plains to confront the Orc Army",
+      "text": "Reise in die Hidell-Ebene und stell dich dem Orkheer entgegen."
+    },
+    {
+      "key": "q00000014_00_1004",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍先発部隊を掃討する",
+      "source_en": "Wipe out the Orcs' front line",
+      "text": "Besiege die Vorhut der Orks."
+    },
+    {
+      "key": "q00000014_00_1005",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍支援部隊を掃討する",
+      "source_en": "Wipe out the Orcs' reinforcements",
+      "text": "Besiege die Verstärkung der Orks."
+    },
+    {
+      "key": "q00000014_00_1006",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍本隊のいる場所に向かう",
+      "source_en": "Proceed forward to the Orcs' main force",
+      "text": "Rück zum Hauptheer der Orks vor."
+    },
+    {
+      "key": "q00000014_00_1007",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍本隊を殲滅する",
+      "source_en": "Annihilate the Orcs' main force",
+      "text": "Besiege das Hauptheer der Orks."
+    },
+    {
+      "key": "q00000014_00_1008",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のジョゼフに経緯を報告する",
+      "source_en": "Report back to Joseph in the Audience Chamber",
+      "text": "Erstatte Joseph im Audienzsaal Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

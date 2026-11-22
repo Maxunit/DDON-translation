@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\event\\event_name.gmd",
+  "arc_path": "\\EventViewRoom.arc",
+  "entries": [
+    {
+      "key": "EVENT_NAME_st0402ev000",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "モゴック登場",
+      "source_en": "Appearance of Mogok",
+      "text": "Mogok erscheint"
+    },
+    {
+      "key": "EVENT_NAME_st0402ev005",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "モゴック撃退",
+      "source_en": "Defeat Mogok",
+      "text": "Mogok wird zurückgeschlagen"
+    },
+    {
+      "key": "EVENT_NAME_st0403ev000",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "占拠された古城",
+      "source_en": "Occupied old castle",
+      "text": "Die besetzte Burg"
+    },
+    {
+      "key": "EVENT_NAME_st0403ev005",
+      "read_index": "59",
+      "tag_source": "source_en",
+      "source_jp": "命の器の発見",
+      "source_en": "Discovering the Vessel of Life",
+      "text": "Das Gefäß des Lebens"
+    },
+    {
+      "key": "EVENT_NAME_st0403ev010",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "ベヘモット討伐",
+      "source_en": "Behemoth Defeat",
+      "text": "Der Behemoth ist besiegt"
+    },
+    {
+      "key": "EVENT_NAME_st0403ev015",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "満たされる器",
+      "source_en": "vessel to be filled",
+      "text": "Das Gefäß füllt sich"
+    },
+    {
+      "key": "EVENT_NAME_st0404ev000",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "追い詰められたキースヒルト",
+      "source_en": "Kieshildt cornered",
+      "text": "Kieshildt in Bedrängnis"
+    },
+    {
+      "key": "EVENT_NAME_st0404ev005",
+      "read_index": "64",
+      "tag_source": "source_en",
+      "source_jp": "キースヒルトの死",
+      "source_en": "Death of Kieshildt",
+      "text": "Kieshildts Tod"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

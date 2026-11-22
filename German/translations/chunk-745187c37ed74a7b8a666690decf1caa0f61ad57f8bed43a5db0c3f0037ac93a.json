@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_680",
+      "read_index": "226",
+      "tag_source": "source_en",
+      "source_jp": "水流制御室",
+      "source_en": "Flow Control Room",
+      "text": "Schleusenraum"
+    },
+    {
+      "key": "SPOT_NAME_681",
+      "read_index": "227",
+      "tag_source": "source_en",
+      "source_jp": "聖滝の間",
+      "source_en": "Holy Waterfall Hall",
+      "text": "Halle des heiligen Wasserfalls"
+    },
+    {
+      "key": "SPOT_NAME_682",
+      "read_index": "228",
+      "tag_source": "source_en",
+      "source_jp": "中央大水廊",
+      "source_en": "Waterway Gallery",
+      "text": "Zentraler Wasserkanal"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

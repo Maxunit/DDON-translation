@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_63",
+      "read_index": "60",
+      "tag_source": "source_en",
+      "source_jp": "テオドール錬金工房",
+      "source_en": "Theodor's Alchemy Workshop",
+      "text": "Theodors Alchemiewerkstatt"
+    },
+    {
+      "key": "STAGE_NAME_68",
+      "read_index": "65",
+      "tag_source": "source_en",
+      "source_jp": "ガルドノック砦",
+      "source_en": "Gardnox Fortress",
+      "text": "Festung Gardnox"
+    },
+    {
+      "key": "STAGE_NAME_69",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "ドリード城",
+      "source_en": "Dreed Castle",
+      "text": "Burg Dreed"
+    },
+    {
+      "key": "STAGE_NAME_80",
+      "read_index": "77",
+      "tag_source": "source_en",
+      "source_jp": "キノザ鉱泉",
+      "source_en": "Kinoza Mineral Springs",
+      "text": "Therme von Kinoza"
+    },
+    {
+      "key": "STAGE_NAME_81",
+      "read_index": "78",
+      "tag_source": "source_en",
+      "source_jp": "禊の神殿　離殿",
+      "source_en": "Temple of Purification: South Chamber",
+      "text": "Tempel der Läuterung: Außenpavillon"
+    },
+    {
+      "key": "STAGE_NAME_105",
+      "read_index": "102",
+      "tag_source": "source_en",
+      "source_jp": "秘弓師の住居",
+      "source_en": "Bowmaster's Secret Lodge",
+      "text": "Versteck des Bogenmeisters"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

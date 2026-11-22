@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\event\\event_name.gmd",
+  "arc_path": "\\EventViewRoom.arc",
+  "entries": [
+    {
+      "key": "EVENT_NAME_st0100ev030",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "謎の襲撃者",
+      "source_en": "Mystery Assailant",
+      "text": "Der rätselhafte Angreifer"
+    },
+    {
+      "key": "EVENT_NAME_st0100ev035",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "キースヒルトとの再会",
+      "source_en": "Reunion with Kieshildt",
+      "text": "Wiedersehen mit Kieshildt"
+    },
+    {
+      "key": "EVENT_NAME_st0100ev040",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "キースヒルトの正体",
+      "source_en": "Who is Kieshildt?",
+      "text": "Wer ist Kieshildt?"
+    },
+    {
+      "key": "EVENT_NAME_st0100ev045",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍登場",
+      "source_en": "Orc Army Appears",
+      "text": "Das Orkheer rückt an"
+    },
+    {
+      "key": "EVENT_NAME_st0100ev050",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "ズールの目的",
+      "source_en": "Purpose of Zuhl",
+      "text": "Zuhls Absicht"
+    },
+    {
+      "key": "EVENT_NAME_st0100ev055",
+      "read_index": "66",
+      "tag_source": "source_en",
+      "source_jp": "第二アーク落下",
+      "source_en": "Second Ark falls",
+      "text": "Absturz der zweiten Arche"
+    },
+    {
+      "key": "EVENT_NAME_st0100ev071",
+      "read_index": "86",
+      "tag_source": "source_en",
+      "source_jp": "イリスとの別れ",
+      "source_en": "Farewell to Iris",
+      "text": "Abschied von Iris"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

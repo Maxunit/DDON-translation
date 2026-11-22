@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area9_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原北部",
+      "source_en": "Northern Betland Plains",
+      "text": "Nördliche Betland-Ebene"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "ガルドノック砦",
+      "source_en": "Gardnox Fortress",
+      "text": "Festung Gardnox"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

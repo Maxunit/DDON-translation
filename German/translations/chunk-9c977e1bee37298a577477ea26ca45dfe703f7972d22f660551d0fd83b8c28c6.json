@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000020_00.gmd",
+  "arc_path": "\\quest\\q00000020.arc",
+  "entries": [
+    {
+      "key": "q00000020_00_20",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "託された未来",
+      "source_en": "The Entrusted Future",
+      "text": "Die Zukunft in unseren Händen"
+    },
+    {
+      "key": "q00000020_00_20",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "さらわれたミシアルを奪還する",
+      "source_en": "Rescue Mysial, who has been abducted",
+      "text": "Rette die entführte Mysial."
+    },
+    {
+      "key": "q00000020_00_1033",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダ護政区でレオと合流する",
+      "source_en": "Rendezvous with Leo at the Mergoda Security District",
+      "text": "Triff Leo im Wachtbezirk Mergoda."
+    },
+    {
+      "key": "q00000020_00_1034",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ミシアルを捜す",
+      "source_en": "Search for Mysial",
+      "text": "Suche nach Mysial."
+    },
+    {
+      "key": "q00000020_00_1035",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "イリスを撃破する",
+      "source_en": "Defeat Iris",
+      "text": "Besiege Iris."
+    },
+    {
+      "key": "q00000020_00_1036",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のジョゼフに経緯を報告する",
+      "source_en": "Report back to Joseph in the Audience Chamber",
+      "text": "Erstatte Joseph im Audienzsaal Bericht."
+    },
+    {
+      "key": "q00000020_00_1591",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "大扉を開ける手段を探す",
+      "source_en": "Find a way to open the large doors",
+      "text": "Suche nach einem Weg, das große Tor zu öffnen."
+    },
+    {
+      "key": "q00000020_00_1592",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "錬金研究棟の扉の鍵を探す",
+      "source_en": "Find the key in the Alchemical Research Facility",
+      "text": "Suche den Schlüssel zum Alchemielabor."
+    },
+    {
+      "key": "q00000020_00_1593",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "入手した鍵で扉を開ける",
+      "source_en": "Open the door with the key you have obtained",
+      "text": "Schließ die Tür mit dem Schlüssel auf."
+    },
+    {
+      "key": "q00000020_00_1594",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "大扉を開ける仕掛けを探して解除する",
+      "source_en": "Find the device to open the huge doors",
+      "text": "Finde und betätige die Vorrichtung, die das große Tor öffnet."
+    },
+    {
+      "key": "q00000020_00_1595",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "開いた大扉の先に向かう",
+      "source_en": "Head through the open huge doors",
+      "text": "Geh durch das geöffnete Tor."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

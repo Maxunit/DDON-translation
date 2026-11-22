@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000016_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00000016_00_16",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "友の来訪",
+      "source_en": "A Friendly Visit",
+      "text": "Der Besuch eines Freundes"
+    },
+    {
+      "key": "q00000016_00_16",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ガルドノック砦に向かい\r\nキースヒルトの命の器を奪還する",
+      "source_en": "Head to Gardnox Fortress to retrieve\r\nthe Vessel containing Kieshildt's life force.",
+      "text": "Reise zur Festung Gardnox\r\nund hol das Gefäß mit Kieshildts Leben zurück."
+    },
+    {
+      "key": "q00000016_00_1014",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ドラワンの村でガルドノック砦への侵入方法を調べる",
+      "source_en": "At Drawan Village, find out how to enter Gardnox Fortress",
+      "text": "Frage in Drawan nach einem Weg in die Festung Gardnox."
+    },
+    {
+      "key": "q00000016_00_1015",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "オークの溜まり場へ向かう",
+      "source_en": "Proceed to the Orc hideout",
+      "text": "Geh zum Rastplatz der Orks."
+    },
+    {
+      "key": "q00000016_00_1016",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "オークを倒し鍵を奪う",
+      "source_en": "Fell the Orcs and steal the key",
+      "text": "Besiege die Orks und nimm ihnen den Schlüssel ab."
+    },
+    {
+      "key": "q00000016_00_1017",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "鍵を使いガルドノック砦に侵入する",
+      "source_en": "Break into Gardnox Fortress by using the key",
+      "text": "Dringe mit dem Schlüssel in die Festung Gardnox ein."
+    },
+    {
+      "key": "q00000016_00_1018",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "砦中心部への侵入方法を調べる",
+      "source_en": "Find a way to enter the heart of the fortress",
+      "text": "Finde einen Weg ins Innere der Festung."
+    },
+    {
+      "key": "q00000016_00_1019",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "モゴックを撃破する",
+      "source_en": "Defeat Mogok",
+      "text": "Besiege Mogok."
+    },
+    {
+      "key": "q00000016_00_1020",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のレオに経緯を報告する",
+      "source_en": "Report back to Leo in the Audience Chamber",
+      "text": "Erstatte Leo im Audienzsaal Bericht."
+    },
+    {
+      "key": "q00000016_00_1553",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ドラワン組合宿にいるサニーから話を聞く",
+      "source_en": "Speak to Sunny the Sleeping Wolf Inn",
+      "text": "Sprich mit Sunny im Gasthaus Zum Schlafenden Wolf in Drawan."
+    },
+    {
+      "key": "q00000016_00_1554",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ガルドノック砦の鍵を拾う",
+      "source_en": "Pick up the key to Gardnox Fortress",
+      "text": "Heb den Schlüssel zum Haupttor von Gardnox auf."
+    },
+    {
+      "key": "q00000016_00_1555",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "砦内の正門を開けるレバーを全て操作する",
+      "source_en": "Use the levers to open the fort's main gate",
+      "text": "Betätige alle Hebel, die das Haupttor öffnen."
+    },
+    {
+      "key": "q00000016_00_1556",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "命の器を探すため正門の奥へ向かう",
+      "source_en": "Search for the Vessel of Life at the main gate",
+      "text": "Geh durch das Haupttor und suche nach dem Gefäß des Lebens."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

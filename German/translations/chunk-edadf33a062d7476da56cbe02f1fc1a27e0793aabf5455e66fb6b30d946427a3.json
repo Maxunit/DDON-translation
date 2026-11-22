@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000021_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00000021_00_21",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "戦士たちの困惑",
+      "source_en": "The Quandary of Soldiers",
+      "text": "Zerstrittene Krieger"
+    },
+    {
+      "key": "q00000021_00_21",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "行方をくらませたレオを追い\r\n第三のアークに向かう",
+      "source_en": "Go after Leo who has disappeared and was\r\nlast seen heading for the Third Ark.",
+      "text": "Leo ist verschwunden.\r\nFolge ihm zur dritten Arche."
+    },
+    {
+      "key": "q00000021_00_1037",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "第三のアークに向かうため神殿の港で船を調達する",
+      "source_en": "Board a ship in the Temple's harbor to reach the Third Ark",
+      "text": "Besorg dir am Tempelhafen ein Schiff zur dritten Arche."
+    },
+    {
+      "key": "q00000021_00_1038",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "第三のアークを探索しゲルトを見つける",
+      "source_en": "Seek out Gerd in the Third Ark",
+      "text": "Suche Gerd in der dritten Arche."
+    },
+    {
+      "key": "q00000021_00_1039",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "レオを追う",
+      "source_en": "Pursue Leo",
+      "text": "Folge Leo."
+    },
+    {
+      "key": "q00000021_00_1040",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "レオを撃退する",
+      "source_en": "Hold off Leo",
+      "text": "Halte Leo auf."
+    },
+    {
+      "key": "q00000021_00_1041",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "アークの最深部へ向かう",
+      "source_en": "Head to the deepest part of the Ark",
+      "text": "Dringe bis in den tiefsten Teil der Arche vor."
+    },
+    {
+      "key": "q00000021_00_1042",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のジョゼフに経緯を報告する",
+      "source_en": "Report back to Joseph in the Audience Chamber",
+      "text": "Erstatte Joseph im Audienzsaal Bericht."
+    },
+    {
+      "key": "q00000021_00_1196",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "準備を整え船で第三のアークへ向かう",
+      "source_en": "Prepare and head to the Third Ark by ship",
+      "text": "Bereite dich vor und fahr mit dem Schiff zur dritten Arche."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q00000012.gmd",
+  "arc_path": "\\quest\\q00000012.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "戦闘エリアから離れています",
+      "source_en": "You are currently away from the combat area.",
+      "text": "Du bist außerhalb des Kampfbereichs."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "戦闘エリアを出たためワープします",
+      "source_en": "You have left the combat area. Initiating teleport.",
+      "text": "Du hast den Kampfbereich verlassen und wirst zurückteleportiert."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_650",
+      "read_index": "196",
+      "tag_source": "source_en",
+      "source_jp": "東ザンドラ廃墟群",
+      "source_en": "East Zandora Ruins",
+      "text": "Ruinen von Ost-Zandora"
+    },
+    {
+      "key": "SPOT_NAME_653",
+      "read_index": "199",
+      "tag_source": "source_en",
+      "source_jp": "キノザ鉱泉",
+      "source_en": "Kinoza Mineral Springs",
+      "text": "Therme von Kinoza"
+    },
+    {
+      "key": "SPOT_NAME_657",
+      "read_index": "203",
+      "tag_source": "source_en",
+      "source_jp": "錬金研究棟",
+      "source_en": "Alchemical Research",
+      "text": "Alchemielabor"
+    },
+    {
+      "key": "SPOT_NAME_658",
+      "read_index": "204",
+      "tag_source": "source_en",
+      "source_jp": "軍事演習棟",
+      "source_en": "Barracks",
+      "text": "Übungskaserne"
+    },
+    {
+      "key": "SPOT_NAME_662",
+      "read_index": "208",
+      "tag_source": "source_en",
+      "source_jp": "豊穣の泉",
+      "source_en": "Spring of Abundance",
+      "text": "Quelle der Fülle"
+    },
+    {
+      "key": "SPOT_NAME_664",
+      "read_index": "210",
+      "tag_source": "source_en",
+      "source_jp": "テオドール錬金工房",
+      "source_en": "Theodor's Alchemy Workshop",
+      "text": "Theodors Alchemiewerkstatt"
+    },
+    {
+      "key": "SPOT_NAME_670",
+      "read_index": "216",
+      "tag_source": "source_en",
+      "source_jp": "第二のアーク",
+      "source_en": "The Second Ark",
+      "text": "Die zweite Arche"
+    },
+    {
+      "key": "SPOT_NAME_671",
+      "read_index": "217",
+      "tag_source": "source_en",
+      "source_jp": "第三のアーク",
+      "source_en": "The Third Ark",
+      "text": "Die dritte Arche"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

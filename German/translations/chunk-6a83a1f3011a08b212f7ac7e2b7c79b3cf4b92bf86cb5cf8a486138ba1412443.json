@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "3922",
+      "tag_source": "source_en",
+      "source_jp": "錬金研究棟の鍵",
+      "source_en": "Alchemical Research Key",
+      "text": "Schlüssel zum Alchemielabor"
+    },
+    {
+      "key": "",
+      "read_index": "3924",
+      "tag_source": "source_en",
+      "source_jp": "水流制御室の鍵",
+      "source_en": "Flow Control Room Key",
+      "text": "Schlüssel zum Schleusenraum"
+    },
+    {
+      "key": "",
+      "read_index": "3925",
+      "tag_source": "source_en",
+      "source_jp": "ディナンの古鍵",
+      "source_en": "Ancient Deenan Key",
+      "text": "Alter Schlüssel von Deenan"
+    },
+    {
+      "key": "",
+      "read_index": "3928",
+      "tag_source": "source_en",
+      "source_jp": "ガルドノックの大門鍵",
+      "source_en": "Key to Gardnox Fortress' Front Gate",
+      "text": "Schlüssel zum Haupttor von Gardnox"
+    },
+    {
+      "key": "",
+      "read_index": "3930",
+      "tag_source": "source_en",
+      "source_jp": "命の器",
+      "source_en": "Vessel of Life",
+      "text": "Gefäß des Lebens"
+    },
+    {
+      "key": "",
+      "read_index": "3933",
+      "tag_source": "source_en",
+      "source_jp": "命の器",
+      "source_en": "Vessel of Life",
+      "text": "Gefäß des Lebens"
+    },
+    {
+      "key": "",
+      "read_index": "3938",
+      "tag_source": "source_en",
+      "source_jp": "セラー湖離殿の鍵",
+      "source_en": "Lake Cera Detached Pavillion Key",
+      "text": "Schlüssel zum Außenpavillon am Cera-See"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

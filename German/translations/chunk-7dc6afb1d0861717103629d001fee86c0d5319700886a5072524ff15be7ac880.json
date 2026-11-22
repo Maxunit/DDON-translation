@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000007_00.gmd",
+  "arc_path": "\\quest\\q00000007.arc",
+  "entries": [
+    {
+      "key": "q00000007_00_7",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "湯煙の館",
+      "source_en": "The House of Steam",
+      "text": "Das Haus im Dampf"
+    },
+    {
+      "key": "q00000007_00_7",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "イリスの所在を確かめ神殿に連れ戻す",
+      "source_en": "Locate Iris and bring her back to the Temple.",
+      "text": "Finde Iris und bring sie zum Tempel zurück."
+    },
+    {
+      "key": "q00000007_00_973",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間でイリスの行方を聞く",
+      "source_en": "Speak to those in the Audience Chamber about Iris' location",
+      "text": "Erkundige dich im Audienzsaal nach Iris."
+    },
+    {
+      "key": "q00000007_00_974",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "イリスの行方を追い温泉の地キノザへ向かう",
+      "source_en": "Head to the hot springs of Kinoza and find Iris",
+      "text": "Reise nach Kinoza und suche Iris in der Therme."
+    },
+    {
+      "key": "q00000007_00_975",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "キノザ鉱泉の支配人ロイと話す",
+      "source_en": "Speak with Roy who manages Kinoza's Mineral Springs",
+      "text": "Sprich mit Roy, dem Leiter der Therme von Kinoza."
+    },
+    {
+      "key": "q00000007_00_976",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "浴場内へ向かう",
+      "source_en": "Enter the Springs",
+      "text": "Geh ins Badehaus."
+    },
+    {
+      "key": "q00000007_00_977",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間へ戻り経緯を報告する",
+      "source_en": "Report back to the Audience Chamber",
+      "text": "Kehre in den Audienzsaal zurück und erstatte Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

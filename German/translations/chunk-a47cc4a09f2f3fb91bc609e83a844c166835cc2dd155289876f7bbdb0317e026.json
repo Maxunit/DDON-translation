@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\event\\st0408\\ev000.gmd",
+  "arc_path": "\\event\\st0408\\st0408ev000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "イリス、どこへ行くの？\r\nここには何があるの？",
+      "source_en": "Iris, where are we going?\r\nWhat's here?",
+      "text": "Iris, wo gehen wir hin?\r\nWas ist hier?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "イリス、やめて！\r\n変だよ、どうしちゃったの？",
+      "source_en": "Iris, stop it!\r\nSomething's wrong, what's happened?",
+      "text": "Iris, hör auf!\r\nWas ist denn mit dir los?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "メイリーフの声だ――\r\nイリスって言ってる――やっぱり――",
+      "source_en": "It's Mayleaf's voice! She's calling for Iris.\r\nI knew it...!",
+      "text": "Das ist Mayleaf! Sie ruft nach Iris.\r\nIch hab’s geahnt …"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "メイリーフは俺たちが保護する\r\n渡してもらおう",
+      "source_en": "We must protect Mayleaf.\r\nQuickly!",
+      "text": "Wir bringen Mayleaf in Sicherheit.\r\nÜbergib sie uns."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "――！？",
+      "source_en": "...!?",
+      "text": "…?!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\event\\event_name.gmd",
+  "arc_path": "\\EventViewRoom.arc",
+  "entries": [
+    {
+      "key": "EVENT_NAME_st0571ev000",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "立ち塞がるイリス",
+      "source_en": "Iris stands in the way",
+      "text": "Iris stellt sich in den Weg"
+    },
+    {
+      "key": "EVENT_NAME_st0571ev005",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "アーク脱出",
+      "source_en": "Ark Escape",
+      "text": "Flucht aus der Arche"
+    },
+    {
+      "key": "EVENT_NAME_st0571ev010",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "ズールの待ち伏せ",
+      "source_en": "Zuhl ambush",
+      "text": "Zuhls Hinterhalt"
+    },
+    {
+      "key": "EVENT_NAME_st0571ev015",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "第三アーク落下・前半",
+      "source_en": "Third Ark falls, first half",
+      "text": "Absturz der dritten Arche (Teil 1)"
+    },
+    {
+      "key": "EVENT_NAME_st0571ev016",
+      "read_index": "94",
+      "tag_source": "source_en",
+      "source_jp": "第三アーク落下・後半",
+      "source_en": "Third Ark falls, second half",
+      "text": "Absturz der dritten Arche (Teil 2)"
+    },
+    {
+      "key": "EVENT_NAME_st0571ev020",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "ズール討伐",
+      "source_en": "Defeating Zuhl",
+      "text": "Zuhls Niederlage"
+    },
+    {
+      "key": "EVENT_NAME_st0572ev000",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "追い詰められるレオ",
+      "source_en": "Leo is cornered",
+      "text": "Leo wird in die Enge getrieben"
+    },
+    {
+      "key": "EVENT_NAME_st0572ev005",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "レオ逃亡",
+      "source_en": "Leo Escapes",
+      "text": "Leos Flucht"
+    },
+    {
+      "key": "EVENT_NAME_st0572ev010",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "アーク発動",
+      "source_en": "Ark Activation",
+      "text": "Die Arche erwacht"
+    },
+    {
+      "key": "EVENT_NAME_st0572ev015",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "走り去るレオ",
+      "source_en": "Leo takes flight",
+      "text": "Leo entkommt"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

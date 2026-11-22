@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00000021.gmd",
+  "arc_path": "\\quest\\q00000021.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "まいったぞ\r\n神殿に集う俺たちがこんなにバラバラでは\r\n遠からず混乱が下にも伝わるぞ？",
+      "source_en": "This is bad. With us gathered at the Temple\r\nso divided like this, confusion will soon\r\nspread to the lower ranks.",
+      "text": "Das sieht gar nicht gut aus.\r\nWenn wir uns hier im Tempel so uneins sind,\r\nwird die Unruhe bald auch die Leute unten erfassen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "そっちのレオはメルゴダの深淵で別れて\r\n行方不明なんだよな？",
+      "source_en": "Leo parted ways with you\r\nin the Mergoda Abyss and is missing, right?",
+      "text": "Du und Leo habt euch am Abgrund von Mergoda getrennt.\r\nSeither ist er verschwunden, richtig?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "うちのゲルト団長は\r\nレオの真意を問い質すと言い残して\r\n飛び出してしまった",
+      "source_en": "Our Commander Gerd said he would interrogate Leo\r\nabout his true intentions and then dashed out.",
+      "text": "Unser Hauptmann Gerd wollte Leo zur Rede stellen.\r\nDas sagte er noch, bevor er hinausstürmte."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "行き先は第三のアーク\r\nレオの目的地はそこらしい",
+      "source_en": "The destination is the Third Ark; \r\nit seems Leo's goal is there.",
+      "text": "Er ist zur dritten Arche aufgebrochen.\r\nDort will Leo wohl hin."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "わけを知りたけりゃ\r\nクラウスに訊いてみるんだな",
+      "source_en": "If you want to know the reason, \r\nask Klaus about it.",
+      "text": "Wenn du wissen willst, warum,\r\nfrag Klaus."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新しいアークは西の海上だ\r\nもし行くなら、港で船を調達するといい\r\n覚者用の船が残っていたはずだ",
+      "source_en": "The new Ark lies over the western sea. \r\nIf you intend to go, procure a ship at the port.\r\nThere should be one for Arisen still remaining.",
+      "text": "Die neue Arche liegt draußen im Meer westlich von hier.\r\nWenn du hinwillst, besorg dir im Hafen ein Schiff.\r\nEines müsste für die Erweckten noch übrig sein."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "第三のアークは西の海上に落ちた\r\nこの神殿の港から船を出してもらうといい",
+      "source_en": "The third Ark has landed in the western sea.\r\nIt would be best to have a ship dispatched\r\nfrom the Temple's Cave Harbor.",
+      "text": "Die dritte Arche ist westlich von hier ins Meer gestürzt.\r\nLass dir am Höhlenhafen\r\nein Schiff bereitmachen."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "では、俺は先に行かせてもらうぞ",
+      "source_en": "Now then, I will take my leave and go on ahead.",
+      "text": "Gut, ich gehe schon mal voraus."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "レオが命の器を持ったまま\r\n姿を消してしまった――",
+      "source_en": "Leo disappeared while still in possession\r\nof the Vessel of Life――",
+      "text": "Leo ist verschwunden\r\nund hat das Gefäß des Lebens mitgenommen …"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "驚いたけど、実は――\r\nレオと僕は同じことを考えていると思う",
+      "source_en": "I was surprised, but in truth―― \r\nI think Leo and I are thinking the same thing.",
+      "text": "Das hat mich überrascht, aber …\r\nIch glaube, Leo und ich haben denselben Gedanken."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "断言してもいいけど、白竜様の他に\r\n器の命を捧げる場所は\r\n第三のアーク以外にはない",
+      "source_en": "I can confidently say that aside from the Lord\r\nWhite Dragon, there is no other place to offer up\r\nthe lives within the Vessel except the Third Ark.",
+      "text": "Ich bin mir sicher: Außer dem Weißen Drachen\r\ngibt es nur einen Ort, an dem wir das Leben\r\nim Gefäß darbringen können, und das ist die dritte Arche."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "お願いだ\r\n君も行って、レオの力になってあげてほしい\r\nアークを起動して\"ゲート\"を開くんだ！",
+      "source_en": "I ask you, \r\ngo and support Leo with your strength. \r\nActivate the Ark and open the Gate!",
+      "text": "Bitte,\r\ngeh hin und hilf Leo.\r\nIhr müsst die Arche aktivieren und das Tor öffnen!"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "え？　ゲルト騎士団長が行ってる？",
+      "source_en": "What? The Commander of the Knights,\r\nGerd is going too?",
+      "text": "Was, Hauptmann Gerd\r\nist auch unterwegs?"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "たぶん、ジョゼフ様と僕の言い争いを\r\n聞いていたんだな\r\nまいったな――",
+      "source_en": "They probably heard my argument\r\nwith Master Joseph. \r\nThis is troublesome――",
+      "text": "Wahrscheinlich hat er gehört,\r\nwie ich mit Meister Joseph gestritten habe.\r\nDas ist schlecht …"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "騎士団長は\r\nミシアルを連れていかれた失態と不名誉を\r\n挽回しようと躍起になっているからな",
+      "source_en": "The commander of the Knights is eager\r\nto make up for the failure, loss and dishonor\r\nof allowing Mysial to be taken away.",
+      "text": "Der Hauptmann will um jeden Preis\r\nseine Ehre wiederherstellen,\r\nnachdem er Mysials Entführung nicht verhindern konnte."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "何をしている\r\n急ぎレオを見つけ出して\r\n命の器を取り返すんだ",
+      "source_en": "What are you waiting for? \r\nHurry and find Leo, \r\nand retrieve the Vessel of Life!",
+      "text": "Worauf wartest du?\r\nFinde Leo, so schnell du kannst,\r\nund hol das Gefäß des Lebens zurück!"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "アークの起動など\r\n怪物ズールの目的を引き継ぐということだ\r\nそんなことが許されるものか！",
+      "source_en": "To activate the Ark is to take on the ambitions \r\nof that monster, Zuhl! This cannot be permitted!",
+      "text": "Wer die Arche aktiviert,\r\nführt den Plan dieses Ungeheuers Zuhl weiter. Das darf nicht geschehen!"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "その姿がないなんて、とても、変\r\nまるで別の世界みたい",
+      "source_en": "It's so strange not to see that figure; \r\nit feels like a completely different world.",
+      "text": "Es ist so seltsam, sie hier nicht mehr zu sehen.\r\nEs fühlt sich an wie eine andere Welt."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "ああ、話は聞いています\r\n西の海に墜ちた新しいアークへ行くのですね？",
+      "source_en": "Yes, I've heard the tale; \r\nyou are heading to the new Ark \r\nthat fell into the western sea, correct?",
+      "text": "Ja, ich habe davon gehört.\r\nIhr wollt zu der neuen Arche,\r\ndie westlich von hier ins Meer gestürzt ist, richtig?"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "なら、そこの小舟を自由に使ってください\r\nどんな危険が待っているかわかりません\r\n十分ご注意を",
+      "source_en": "In that case, you may use the small boat \r\nthere as you wish.\r\nYou never know what dangers await, \r\nso please exercise caution.",
+      "text": "Dann nehmt ruhig\r\ndas kleine Boot da drüben.\r\nWer weiß, welche Gefahren Euch erwarten.\r\nSeid bitte vorsichtig."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "アークへ行くのなら\r\nそこの小舟を自由に使ってください",
+      "source_en": "If you're going to the Ark,\r\nfeel free to use the little boat there.",
+      "text": "Wenn Ihr zur Arche wollt,\r\nnehmt ruhig das kleine Boot dort."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "どんな危険が待っているかわかりません\r\n十分ご注意を",
+      "source_en": "You never know what dangers await you.\r\nBe careful!",
+      "text": "Man weiß nie, was einen dort erwartet.\r\nPasst gut auf Euch auf!"
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "くそっ――",
+      "source_en": "Damn it...!",
+      "text": "Verdammt …"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "レオが――わたしに――剣を向けた――\r\n信頼は――結べなかった――",
+      "source_en": "Leo-- he-- he drew his blade on me.\r\nI... couldn't... trust... him.",
+      "text": "Leo … hat sein Schwert gegen mich erhoben.\r\nEs ist uns nicht gelungen, einander zu vertrauen …"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "なんという――無念\r\n追え――始末をつけろ\r\nイリスの二の舞だ――",
+      "source_en": "What... What a shame.\r\nGet after him-- get rid of him.\r\nThis is Iris all over again...",
+      "text": "Wie bitter …\r\nIhm nach. Setzt dem ein Ende.\r\nDas ist wie damals bei Iris …"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "命の器を取り戻せ――\r\nあれは白竜様に捧げるべきものだ――",
+      "source_en": "Take back the Vessel of Life.\r\nIt should be dedicated to the White Dragon...",
+      "text": "Holt das Gefäß des Lebens zurück …\r\nEs muss dem Weißen Drachen dargebracht werden …"
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "レオを――裏切り者に――\r\nしてはいけない――",
+      "source_en": "You can't-- you can't turn Leo into a-- a traitor.\r\nYou can't let him--",
+      "text": "Leo … darf kein Verräter werden.\r\nLasst es nicht so weit kommen …"
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "レオはいったいどうしたんだ――",
+      "source_en": "What the hell is going on with Leo--",
+      "text": "Was ist bloß mit Leo los?"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "話し合いの余地はない――のか？\r\n仲間じゃないか――",
+      "source_en": "Can't we talk about this――? \r\nAren't we allies――?",
+      "text": "Können wir nicht darüber reden?\r\nWir sind doch Verbündete …"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "初陣なのに――\r\nやっとゲルトさんとご一緒できたのに――",
+      "source_en": "It's my first battle, and yet―― \r\nI finally get to fight alongside Gerd――",
+      "text": "Das ist meine erste Schlacht …\r\nIch konnte endlich an Gerds Seite kämpfen …"
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "手を抜け――",
+      "source_en": "Don't hold back――",
+      "text": "Halte dich zurück …"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "さあ、終わらせるぞ",
+      "source_en": "Come on, let's finish it.",
+      "text": "Los, ich bringe das zu Ende."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "ああもう！\r\nレオだけなのか？\r\n覚者を信じていいのか！？",
+      "source_en": "This is ridiculous!\r\nIs Leo the only one who will let me down? \r\nCan I even trust the Arisen anymore?",
+      "text": "Ach, verdammt!\r\nIst es wirklich nur Leo?\r\nKann ich den Erweckten überhaupt noch vertrauen?!"
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "わたしは――大丈夫",
+      "source_en": "I'm--I'm fine.",
+      "text": "Mir … geht es gut."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "いつまでもメソメソしていたら\r\nミシアルに叱られちゃうもの",
+      "source_en": "If you keep whimpering like this,\r\nMysial will scold you.",
+      "text": "Wenn ich die ganze Zeit weine,\r\nschimpft Mysial bestimmt mit mir."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "魔物が来るのはもちろん恐ろしいことですが\r\n人々の絆がほどけてしまう方が\r\nずっと深刻なことですね――",
+      "source_en": "It is certainly frightening when monsters appear,\r\nbut the breaking of people's bonds\r\nis much worse――",
+      "text": "Natürlich ist es furchtbar, wenn Monster auftauchen.\r\nAber wenn die Menschen\r\nden Zusammenhalt verlieren, ist das viel schlimmer …"
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "伝令が来たよ\r\nレオはやったんだね？",
+      "source_en": "I got the message.\r\nLeo did it, didn't he?",
+      "text": "Ein Bote hat die Nachricht gebracht.\r\nLeo hat es geschafft, stimmt’s?"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "ゲートが開いた――\r\nメルゴダへのゲートが開いたんだ",
+      "source_en": "The gate has opened――\r\nThe gate to Mergoda.",
+      "text": "Das Tor ist offen …\r\nDas Tor nach Mergoda!"
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "もう後戻りはできないぞ\r\nさあ、こうしちゃいられない",
+      "source_en": "There's no turning back now.\r\nCome on, we can't let this happen.",
+      "text": "Jetzt gibt es kein Zurück mehr.\r\nWir können hier nicht länger untätig bleiben!"
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "僕はメルゴダへ行くよ\r\n僕がいるべき場所はここじゃない\r\nあっち側なんだ！",
+      "source_en": "I'm going to Mergoda.\r\nThis isn't where I belong;\r\nmy place is over there!",
+      "text": "Ich gehe nach Mergoda.\r\nMein Platz ist nicht hier.\r\nIch gehöre auf die andere Seite!"
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "アークでの出来事は聞いた\r\nご苦労だったな",
+      "source_en": "I heard about what happened at the Ark.\r\nThank you for your efforts.",
+      "text": "Ich habe gehört, was in der Arche passiert ist.\r\nDanke für deine Mühe."
+    },
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "加えて、北方から伝令があった\r\n大いなるエネルギーに触れて\r\nメルゴダへのゲートが開いたらしい",
+      "source_en": "Furthermore, a report has arrived from the north.\r\nIt appears that a vast energy was felt,\r\nand the gate to Mergoda has opened.",
+      "text": "Auch aus dem Norden ist ein Bote gekommen.\r\nDas Tor nach Mergoda hat sich offenbar geöffnet,\r\nals es mit gewaltiger Energie in Berührung kam."
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "これは敵の思惑通りではないのか？\r\nとすれば、我々が手を貸したようなものだ",
+      "source_en": "Is this not what the enemy wants?\r\nIf so, it's as if we had a hand in it.",
+      "text": "Ist das nicht genau das, was der Feind wollte?\r\nWenn ja, haben wir ihm dabei geholfen."
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "北の果てのゲートを介して\r\nディアマンテスの本拠とこのレスタニアは\r\n地続きになってしまった",
+      "source_en": "Through the gate at the northern edge,\r\nthe stronghold of Diamantes and \r\nLestania have become connected.",
+      "text": "Das Tor ganz im Norden\r\nverbindet nun den Stützpunkt von Diamantes\r\nmit Lestania."
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "ふん――\r\n会議――いや、わたしの指導や指示が\r\nこうも無視されるとは――\r\n情けなくて腹も立たんわ",
+      "source_en": "Hmph—The meeting—\r\nNo, to think my guidance and orders\r\nwould be so blatantly ignored――\r\nIt's both pitiful and infuriating.",
+      "text": "Hm … Die Beschlüsse der Versammlung …\r\nMeine Ratschläge und Anweisungen …\r\nAlles wurde so dreist übergangen.\r\nDas ist so erbärmlich, dass ich mich nicht einmal mehr darüber ärgern kann."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

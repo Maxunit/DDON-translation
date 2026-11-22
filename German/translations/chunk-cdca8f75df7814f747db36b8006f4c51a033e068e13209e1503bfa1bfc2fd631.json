@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\event\\event_name.gmd",
+  "arc_path": "\\EventViewRoom.arc",
+  "entries": [
+    {
+      "key": "EVENT_NAME_st0408ev000",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "イリスとメイリーフ",
+      "source_en": "Iris and Mayleaf",
+      "text": "Iris und Mayleaf"
+    },
+    {
+      "key": "EVENT_NAME_st0408ev005",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "奪われた心",
+      "source_en": "Stolen Heart",
+      "text": "Das geraubte Herz"
+    },
+    {
+      "key": "EVENT_NAME_st0408ev010",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "神殿からの脱出",
+      "source_en": "Escape from the Temple",
+      "text": "Flucht aus dem Tempel"
+    },
+    {
+      "key": "EVENT_NAME_st0410ev000",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "亡都メルゴダ",
+      "source_en": "The Ruined city of Mergoda",
+      "text": "Die Ruinen von Mergoda"
+    },
+    {
+      "key": "EVENT_NAME_st0410ev005",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "黄金郷の住人",
+      "source_en": "Residents of the Golden Hills",
+      "text": "Die Bewohner des Goldenen Landes"
+    },
+    {
+      "key": "EVENT_NAME_st0410ev010",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "テオドールとクラウス",
+      "source_en": "Theodore and Klaus",
+      "text": "Theodor und Klaus"
+    },
+    {
+      "key": "EVENT_NAME_st0411ev000",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "託された未来",
+      "source_en": "The future entrusted to us",
+      "text": "Die Zukunft in unseren Händen"
+    },
+    {
+      "key": "EVENT_NAME_st0411ev005",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "すれ違った想い",
+      "source_en": "Our Mutually Conflicting Thoughts",
+      "text": "Aneinander vorbeigelebt"
+    },
+    {
+      "key": "EVENT_NAME_st0414ev005",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "キノザの温泉",
+      "source_en": "Kinoza Hot Springs",
+      "text": "Therme von Kinoza"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

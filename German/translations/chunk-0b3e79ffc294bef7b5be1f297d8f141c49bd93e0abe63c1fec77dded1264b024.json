@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\common\\stage_list.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "STAGE_NAME_144",
+      "read_index": "141",
+      "tag_source": "source_en",
+      "source_jp": "第二のアーク",
+      "source_en": "The Second Ark",
+      "text": "Die zweite Arche"
+    },
+    {
+      "key": "STAGE_NAME_145",
+      "read_index": "142",
+      "tag_source": "source_en",
+      "source_jp": "第三のアーク",
+      "source_en": "The Third Ark",
+      "text": "Die dritte Arche"
+    },
+    {
+      "key": "STAGE_NAME_147",
+      "read_index": "144",
+      "tag_source": "source_en",
+      "source_jp": "第二のアーク",
+      "source_en": "The Second Ark",
+      "text": "Die zweite Arche"
+    },
+    {
+      "key": "STAGE_NAME_148",
+      "read_index": "145",
+      "tag_source": "source_en",
+      "source_jp": "第三のアーク",
+      "source_en": "The Third Ark",
+      "text": "Die dritte Arche"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

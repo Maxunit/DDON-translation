@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\common\\spot_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_526",
+      "read_index": "76",
+      "tag_source": "source_en",
+      "source_jp": "東ザンドラ廃墟群",
+      "source_en": "East Zandora Ruins",
+      "text": "Ruinen von Ost-Zandora"
+    },
+    {
+      "key": "SPOT_NAME_532",
+      "read_index": "82",
+      "tag_source": "source_en",
+      "source_jp": "イニアス湖",
+      "source_en": "Lake Inias",
+      "text": "Inias-See"
+    },
+    {
+      "key": "SPOT_NAME_556",
+      "read_index": "106",
+      "tag_source": "source_en",
+      "source_jp": "秘弓師の住居",
+      "source_en": "Bowmaster's Secret Lodge",
+      "text": "Versteck des Bogenmeisters"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

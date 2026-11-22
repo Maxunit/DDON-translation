@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000018_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00000018_00_18",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "アーク再び",
+      "source_en": "The Ark, Once More",
+      "text": "Wieder eine Arche"
+    },
+    {
+      "key": "q00000018_00_18",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原に現れた第二のアークを調査する",
+      "source_en": "Investigate the Second Ark in Betland Plains.",
+      "text": "Untersuche die zweite Arche in der Betland-Ebene."
+    },
+    {
+      "key": "q00000018_00_1022",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフと話す",
+      "source_en": "Speak with Joseph",
+      "text": "Sprich mit Joseph."
+    },
+    {
+      "key": "q00000018_00_1023",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原に向かい第二のアークに侵入する",
+      "source_en": "Enter The Second Ark in Betland Plains",
+      "text": "Reise zur Betland-Ebene und betritt die zweite Arche."
+    },
+    {
+      "key": "q00000018_00_1024",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "先行しているレオとジョゼフに合流する",
+      "source_en": "Join Leo and Joseph, who have gone ahead",
+      "text": "Schließ dich Leo und Joseph an, die vorausgegangen sind."
+    },
+    {
+      "key": "q00000018_00_1025",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "金属の巨人を撃破する",
+      "source_en": "Destroy the metal giant",
+      "text": "Besiege den Metallriesen."
+    },
+    {
+      "key": "q00000018_00_1026",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフのために脱出口を確保する",
+      "source_en": "Escort Joseph to safety",
+      "text": "Sichere Joseph einen Fluchtweg."
+    },
+    {
+      "key": "q00000018_00_1027",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間に戻りジョゼフと話す",
+      "source_en": "Return to the Audience Chamber and speak to Joseph",
+      "text": "Kehre in den Audienzsaal zurück und sprich mit Joseph."
+    },
+    {
+      "key": "q00000018_00_1602",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "場の意見を聞く",
+      "source_en": "Discuss the issue",
+      "text": "Höre dir die Meinung der Anwesenden an."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

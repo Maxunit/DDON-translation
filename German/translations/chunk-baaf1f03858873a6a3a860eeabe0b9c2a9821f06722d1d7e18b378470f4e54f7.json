@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area5_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ダウ渓谷",
+      "source_en": "Dowe Valley",
+      "text": "Dowe-Tal"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "ドリード城",
+      "source_en": "Dreed Castle",
+      "text": "Burg Dreed"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

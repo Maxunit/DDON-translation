@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q00000020.gmd",
+  "arc_path": "\\quest\\q00000020.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【ヒント：ダンジョン封鎖解放】",
+      "source_en": "[Hint: Dungeon Unlocked]",
+      "text": "[Hinweis zum freigeschalteten Dungeon]"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ禁域の大遺跡\r\n《メルゴダ護政区》が開放されました",
+      "source_en": "The major ruins in the Zandora Wastelands\r\nhave been unlocked.\r\nThe Mergoda Security District is now open.",
+      "text": "Das Zandora-Sperrgebiet birgt eine gewaltige Ruinenanlage.\r\nSie ist jetzt zugänglich.\r\nDu kannst den Wachtbezirk Mergoda betreten."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "レオと一緒ではなかったのか？\r\nイリスとの取り引きのために\r\n\"メルゴダの深淵\"に向かったぞ",
+      "source_en": "I thought you were with Leo?\r\nHe was headed to the \"Mergoda Abyss\"\r\nto make a deal with Iris.",
+      "text": "Ich dachte, du wärst bei Leo?\r\nEr ist zum Abgrund von Mergoda aufgebrochen,\r\num mit Iris zu verhandeln."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ふむ、彼の地については説明が必要だな",
+      "source_en": "Hm, I suppose an explanation\r\nregarding that place is necessary.",
+      "text": "Hm, ich sollte dir wohl erklären,\r\nwas es mit dem Ort auf sich hat."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "かつてメルゴダという都があった\r\n３００年と少し前まで\r\nレスタニアの都として栄華を極めた\r\n輝ける都市だった",
+      "source_en": "Once, there was a city called Mergoda, \r\nwhich flourished as the capital of Lestania\r\nuntil just over 300 years ago;\r\nit was once a glorious, sprawling city.",
+      "text": "Einst gab es eine Stadt namens Mergoda.\r\nSie war bis vor etwas mehr als dreihundert Jahren\r\ndie blühende Hauptstadt von Lestania,\r\neine gewaltige, prächtige Stadt."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "白竜が選んだ覚者、ゴルゴラン王と\r\nその後見人であるディアマンテスが\r\n治めていたのだ",
+      "source_en": "The Arisen chosen by the White Dragon, \r\nKing Golgorran, and his protector, Diamantes,\r\nwere the ones who governed it.",
+      "text": "König Golgorran, den der Weiße Drache zum Erweckten erwählt hatte,\r\nund sein Berater Diamantes\r\nherrschten dort."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "おそらく両者の利害が絡み合って\r\n白竜に反旗を翻したのは話したな？",
+      "source_en": "It is likely that the interests of both sides\r\nintertwined, leading them to rebel\r\nagainst the White Dragon.",
+      "text": "Vermutlich hatten beide ähnliche Ziele.\r\nWie ich schon erzählte,\r\nlehnten sie sich gegen den Weißen Drachen auf."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "その脅威に対抗するために白竜は――\r\n黄金竜となった王と錬金術師を\r\nメルゴダの街ごと消してしまったのだ",
+      "source_en": "To counter that threat, the White Dragon \r\nbanished the city of Mergoda, erased it all,\r\nalong with the King who became the Golden Dragon\r\nand the Alchemist who had turned him.",
+      "text": "Um sich dieser Bedrohung zu erwehren,\r\nlöschte der Weiße Drache ganz Mergoda aus.\r\nMit der Stadt verschwanden auch der König, der zum Goldenen Drachen geworden war,\r\nund der Alchemist, der ihn verwandelt hatte."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "\"メルゴダの深淵\"とは、その跡地――\r\nレスタニアの北の果てにある\r\n広大な大地の傷跡のことだ",
+      "source_en": "\"Mergoda Abyss\" is this such site.\r\nThe vast scar upon our land\r\nat the northernmost end of Lestania.",
+      "text": "Wo die Stadt einst stand, liegt heute der Abgrund von Mergoda.\r\nEine gewaltige Narbe im Land,\r\nganz im Norden Lestanias."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "本来の正式名称は《メルゴダ護政区》\r\n立ち入りを禁じられた忌まわしい土地だ\r\nそして、旧時代の王都でもある",
+      "source_en": "Its proper name is the \"Mergoda Security District,\"\r\na land deemed accursed, forbidden to enter.\r\nThe ancient capital of the old era.",
+      "text": "Offiziell heißt der Ort „Wachtbezirk Mergoda“.\r\nEs ist ein verfluchtes Gebiet, das niemand betreten darf.\r\nEinst stand dort die alte Hauptstadt."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "さあ、レオはすでに命の器を持って\r\n向かっている",
+      "source_en": "Come, Leo is already carrying\r\nthe Vessel of Life and is on his way.",
+      "text": "Leo hat das Gefäß des Lebens schon bei sich\r\nund ist auf dem Weg dorthin."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "入口の封印は解かれているだろう\r\nおまえも行って手助けしてやってくれ",
+      "source_en": "The entrance's seal should be broken. \r\nYou should go and offer your help.",
+      "text": "Das Siegel am Eingang müsste aufgehoben sein.\r\nGeh hin und hilf ihm."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "\"メルゴダの深淵\"はレスタニアの北の果て\r\n広大な大地の傷跡のことだ",
+      "source_en": "The \"Mergoda Abyss\" is at the northern end \r\nof Lestania, a scar upon the great land.",
+      "text": "Der Abgrund von Mergoda ist eine gewaltige Narbe im Land,\r\nganz im Norden Lestanias."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "本来の正式名称は《メルゴダ護政区》\r\n立ち入りを禁じられた忌まわしい土地だ",
+      "source_en": "Its proper name is the \"Mergoda Security District,\"\r\na land deemed accursed, forbidden to all to enter.",
+      "text": "Offiziell heißt er „Wachtbezirk Mergoda“.\r\nEs ist ein verfluchtes Gebiet, das niemand betreten darf."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "さあ、レオはすでに命の器を持って\r\n向かっている\r\nおまえも行って手助けしてやってくれ",
+      "source_en": "Now, Leo already possesses the Vessel of Life \r\nand is heading there. Go and lend him your aid.",
+      "text": "Leo ist schon mit dem Gefäß des Lebens dorthin unterwegs.\r\nGeh hin und hilf ihm."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "イリスと取り引きしてミシアルを返してもらう――",
+      "source_en": "The plan is to negotiate with Iris\r\nto get Mysial back――",
+      "text": "Mit Iris verhandeln,\r\ndamit sie Mysial freilässt …"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "そう簡単にいくとは思えないよね\r\n君も早く行ってあげてよ",
+      "source_en": "I don't think it will go that smoothly. \r\nYou should hurry and go help too.",
+      "text": "Ich glaube kaum, dass das so einfach wird.\r\nBitte beeil dich und hilf Leo."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "元どおりの関係に戻ってほしいなんて\r\nぜいたくは言わない",
+      "source_en": "I won't ask for a return to the way things \r\nwere before, that's too much.",
+      "text": "Ich verlange ja gar nicht,\r\ndass zwischen allen wieder alles so wird wie früher."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "でも、生きていて欲しいんだ\r\nもちろん、それはミシアルも君も同じ",
+      "source_en": "But I want you all to live.\r\nNaturally, that's true for both Mysial\r\nand you as well.",
+      "text": "Aber ihr sollt am Leben bleiben.\r\nDas gilt für Mysial,\r\nund natürlich auch für dich."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "一緒に行きたいけどジョゼフ様と\r\n大急ぎで話し合うべきことがあって――",
+      "source_en": "I would like to go with you,\r\nbut there are urgent matters to discuss\r\nwith Master Joseph.",
+      "text": "Ich würde gern mit dir gehen.\r\nDoch ich muss dringend etwas\r\nmit Meister Joseph besprechen."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "第三のアークも出現したわけだし――\r\n先に君に聞いて欲しかったけど",
+      "source_en": "The third Ark has appeared, after all―― \r\nI wanted you to hear it first.",
+      "text": "Jetzt ist ja auch noch die dritte Arche aufgetaucht.\r\nIch hätte dir gern zuerst davon erzählt."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "とにかく今は三人を頼むよ",
+      "source_en": "For now, I'm counting on you\r\nto look after those three.",
+      "text": "Aber darum geht es jetzt nicht.\r\nPass bitte auf die drei auf."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "面目ない――が、留守は死守する\r\n我ら白衛騎士団、同じ過ちは\r\n二度と冒さない",
+      "source_en": "Apologies—\r\nbut we will safeguard the Temple your absence.\r\nWe, the White Guard Knights,\r\nshall not repeat the same mistake again.",
+      "text": "Ich habe versagt …\r\nAber während Ihr fort seid, halte ich die Stellung.\r\nWir von der Weißen Garde\r\nmachen denselben Fehler kein zweites Mal."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "ミシアル様はわたしの身代わりで\r\n連れて行かれたの？",
+      "source_en": "Was Lady Mysial taken in my place?",
+      "text": "Haben sie Mysial an meiner Stelle mitgenommen?"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "お願い！　ミシアルを連れて帰って\r\nそうじゃないとわたし――",
+      "source_en": "Please!　Bring Mysial home.\r\nOtherwise I--",
+      "text": "Bitte! Bring Mysial zurück!\r\nSonst weiß ich nicht, was ich …"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "ああ、ミシアル様――どうかご無事で",
+      "source_en": "Oh Lady Mysial--\r\nPlease, please be safe.",
+      "text": "Ach, Mysial …\r\nBitte komm heil zurück."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "もう油断はしないさ\r\n留守はまかせてくれ",
+      "source_en": "I'll never let my guard down again.\r\nYou can leave the watch to me.",
+      "text": "Ich werde nicht noch einmal unachtsam sein.\r\nDu kannst mir die Wache überlassen."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "ああ――追いついたか\r\n今、イリスのことを考えていた",
+      "source_en": "Oh--you caught up?\r\nI was just thinking about Iris.",
+      "text": "Ah, du hast mich eingeholt.\r\nIch habe gerade an Iris gedacht."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "ゾマの村に俺が行っていれば\r\n状況は変わっただろうか\r\nいや――それはうぬぼれだな",
+      "source_en": "Had I gone to Zoma Village, \r\nwould things have turned out differently? \r\nNo―that is mere arrogance.",
+      "text": "Hätte es etwas geändert,\r\nwenn ich selbst nach Zoma gegangen wäre?\r\nNein. Das bilde ich mir nur ein."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "俺はあいつに何を期待していたのだろうな",
+      "source_en": "What did I hope to get?",
+      "text": "Was hatte ich mir eigentlich von ihr erhofft?"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "覚者であることは忘れて\r\nひとりの民として白竜を敬い\r\n大地に感謝して暮らしてほしい",
+      "source_en": "To forget being the Arisen, \r\nand live as a commoner, \r\nrevering the White Dragon \r\nand giving thanks to the land.",
+      "text": "Ich wünschte, sie könnte vergessen, dass sie eine Erweckte ist,\r\nund wie alle anderen leben,\r\nden Weißen Drachen ehren\r\nund dem Land dankbar sein."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "覚者は死ぬまで覚者だ",
+      "source_en": "The Arisen are Arisen until the finality of death.",
+      "text": "Wer einmal ein Erweckter ist, bleibt es bis zum Tod."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "さあ、行くぞ\r\nミシアルを白竜に返してやらねば",
+      "source_en": "Come, let's be off. \r\nWe must return Mysial\r\nto the White Dragon's side.",
+      "text": "Komm, wir gehen.\r\nWir müssen Mysial\r\nzum Weißen Drachen zurückbringen."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "イリスと俺は同じ日に覚者になったんだ",
+      "source_en": "Iris and I became Arisen together on the same day.",
+      "text": "Iris und ich wurden am selben Tag erweckt."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "イリスとは――ああ、いろいろあった",
+      "source_en": "Iris and I--yeah, we've been through a lot.",
+      "text": "Mit Iris … Ja, wir haben einiges zusammen erlebt."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "次こそ――今度イリスに会ったら――",
+      "source_en": "Next time ―― the next time I meet Iris ――",
+      "text": "Das nächste Mal … Wenn ich Iris wiedersehe …"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "邪魔だ！",
+      "source_en": "Move aside!",
+      "text": "Aus dem Weg!"
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "イリスはどこだ！？",
+      "source_en": "Where is Iris!?",
+      "text": "Wo ist Iris?!"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "そこをどけ！",
+      "source_en": "Get out of the way!",
+      "text": "Zur Seite!"
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "そっちじゃない",
+      "source_en": "She's not that way.",
+      "text": "Nicht diese Richtung."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "ミシアルを取り戻しに来たんだ、忘れたのか？",
+      "source_en": "We're here to get Mysial back, remember?",
+      "text": "Wir sind hier, um Mysial zurückzuholen. Weißt du noch?"
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "どこへ行くつもりだ",
+      "source_en": "Where are you going?",
+      "text": "Wo willst du hin?"
+    },
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "この先は――鍵が必要だな",
+      "source_en": "Beyond this-- We need a key.",
+      "text": "Um hier weiterzukommen, brauchen wir einen Schlüssel."
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "この鍵――使えるかもしれない",
+      "source_en": "This key--maybe we can use it.",
+      "text": "Dieser Schlüssel hier könnte passen."
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "このあたりにレバーはないか？",
+      "source_en": "Are there any levers around here?",
+      "text": "Ist hier irgendwo ein Hebel?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

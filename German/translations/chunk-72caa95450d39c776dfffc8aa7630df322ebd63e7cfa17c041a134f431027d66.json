@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000015_00.gmd",
+  "arc_path": "\\quest\\q00000015.arc",
+  "entries": [
+    {
+      "key": "q00000015_00_15",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "いにしえに帰る",
+      "source_en": "Return to Yore",
+      "text": "Rückkehr in die alte Welt"
+    },
+    {
+      "key": "q00000015_00_15",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エルフの古都エルテ・ディナンに向かい\r\nキースヒルトを救出する",
+      "source_en": "To rescue Kieshildt, journey to\r\nthe ancient elven metropolis of Erte Deenan.",
+      "text": "Reise nach Erte Deenan, in die alte Hauptstadt der Elfen,\r\nund rette Kieshildt."
+    },
+    {
+      "key": "q00000015_00_1009",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "秘弓師の住居にいるロンドジールから情報を聞く",
+      "source_en": "Speak to Rondejeel at the Secret Bowmaker's Home",
+      "text": "Befrage Rondejeel im Versteck des Bogenmeisters."
+    },
+    {
+      "key": "q00000015_00_1010",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇したオーク軍を撃破する",
+      "source_en": "Eliminate the Orcs encountered",
+      "text": "Besiege die Orktruppe, die dir begegnet."
+    },
+    {
+      "key": "q00000015_00_1011",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "エルテ・ディナン中心部へ向かう",
+      "source_en": "Venture into heart of Erte Deenan",
+      "text": "Dringe ins Herz von Erte Deenan vor."
+    },
+    {
+      "key": "q00000015_00_1012",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍を掃討する",
+      "source_en": "Finish off the Orc forces",
+      "text": "Besiege die übrigen Orks."
+    },
+    {
+      "key": "q00000015_00_1013",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のジョゼフに経緯を報告する",
+      "source_en": "Report back to Joseph in the Audience Chamber",
+      "text": "Erstatte Joseph im Audienzsaal Bericht."
+    },
+    {
+      "key": "q00000015_00_1550",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "「ディナンの古鍵」を手に入れる",
+      "source_en": "Obtain the [Ancient Deenan Key]",
+      "text": "Beschaffe den alten Schlüssel von Deenan."
+    },
+    {
+      "key": "q00000015_00_1551",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "入手した鍵を使って先に進む",
+      "source_en": "With the key in hand, proceed forward",
+      "text": "Öffne mit dem Schlüssel den weiteren Weg."
+    },
+    {
+      "key": "q00000015_00_1552",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "キースヒルトを追っているオークを探し出す",
+      "source_en": "Find the Orcs chasing Kieshildt",
+      "text": "Finde die Orks, die Kieshildt verfolgen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

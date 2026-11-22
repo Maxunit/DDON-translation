@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q00000017_00.gmd",
+  "arc_path": "\\ui\\history\\history_data_001.arc",
+  "entries": [
+    {
+      "key": "q00000017_00_17",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "持ち帰った命の器を白竜に捧げる",
+      "source_en": "Offer the Vessel of Life to the White Dragon.",
+      "text": "Bringe das zurückgeholte Gefäß des Lebens dem Weißen Drachen dar."
+    },
+    {
+      "key": "q00000017_00_1021",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフと話す",
+      "source_en": "Speak with Joseph",
+      "text": "Sprich mit Joseph."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}
