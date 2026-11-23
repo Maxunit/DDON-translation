@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50000004_00.gmd",
+  "arc_path": "\\quest\\q50000004.arc",
+  "entries": [
+    {
+      "key": "q50000004_00_35",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "輝く扉",
+      "source_en": "The Shining Gate",
+      "text": "Das leuchtende Tor"
+    },
+    {
+      "key": "q50000004_00_35",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n指輪を求め、空に浮かぶ王宮に向かい\r\n真なる黄金郷への道を探し出せ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nSeek the ring and head to the floating\r\nRoyal Palace in the sky and uncover the path\r\nto the true Golden Land.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nSucht den Ring und begebt euch zum schwebenden Königspalast.\r\nDort werdet ihr den Weg\r\nins wahre Goldene Land finden."
+    },
+    {
+      "key": "q50000004_00_1266",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "制限時間内に討伐対象の敵を全て倒す",
+      "source_en": "Defeat all of the target enemies within the time limit",
+      "text": "Besiegt alle Zielgegner, bevor die Zeit abläuft."
+    },
+    {
+      "key": "q50000004_00_1273",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "王宮への扉に集う",
+      "source_en": "Gather at the Door to the Royal Palace",
+      "text": "Versammelt euch am Tor zum Königspalast."
+    },
+    {
+      "key": "q50000004_00_1274",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "制限時間内に最奥の強敵を倒す",
+      "source_en": "Defeat the formidable enemy in the innermost sanctum within the time limit",
+      "text": "Besiegt den starken Gegner im tiefsten Inneren, bevor die Zeit abläuft."
+    },
+    {
+      "key": "q50000004_00_1275",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "黄金郷へ向かう",
+      "source_en": "Head to the Golden Land",
+      "text": "Begebt euch ins Goldene Land."
+    },
+    {
+      "key": "q50000004_00_1276",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "黄金竜ゴルゴランを討伐する",
+      "source_en": "Defeat the Golden Dragon Golgorran",
+      "text": "Besiegt den Goldenen Drachen Golgorran."
+    },
+    {
+      "key": "q50000004_00_1490",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "幻影牙竜を討伐する",
+      "source_en": "Defeat the Phantom Tusk Dragon",
+      "text": "Besiegt den Phantom-Fangzahndrachen."
+    },
+    {
+      "key": "q50000004_00_1491",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "幻影魔竜を討伐する",
+      "source_en": "Defeat the Phantom Devil Dragon",
+      "text": "Besiegt den Phantom-Dämonendrachen."
+    },
+    {
+      "key": "q50000004_00_1492",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "扉の守護者を討伐する",
+      "source_en": "Defeat the guardians at the door",
+      "text": "Besiegt die Wächter am Tor."
+    },
+    {
+      "key": "q50000004_00_1493",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ズールを倒す",
+      "source_en": "Defeat Golgorran",
+      "text": "Besiegt Zuhl."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

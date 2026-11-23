@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area21_rank_reward.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "AREA_RANK_REWARD_358",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "支援品の配給",
+      "source_en": "Distribution of support goods",
+      "text": "Versorgungsgüter verfügbar"
+    },
+    {
+      "key": "AREA_RANK_REWARD_359",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "各地の解放軍より救援依頼が発生\r\n封鎖エリアが開放《<SPOT 1077>》",
+      "source_en": "Rescue requests available from the liberation\r\narmy in various places\r\nUnblock area [<SPOT 1077>]",
+      "text": "Die Befreiungsarmee bittet an mehreren Orten um Hilfe.\r\nSperre aufgehoben\r\nbei „<SPOT 1077>“."
+    },
+    {
+      "key": "AREA_RANK_REWARD_360",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "魔物集結スポットが出現《<SPOT 1089>》",
+      "source_en": "Monster Gathering Spot [<SPOT 1089>] appears",
+      "text": "Monster sammeln sich bei „<SPOT 1089>“."
+    },
+    {
+      "key": "AREA_RANK_REWARD_407",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "各地の解放軍より救援依頼が発生\r\n王家より封印されている扉が解放",
+      "source_en": "Rescue requests available from the liberation\r\narmy in various places\r\nUnlock Royal Family sealed doors",
+      "text": "Die Befreiungsarmee bittet an mehreren Orten\r\num Hilfe.\r\nDie vom Königshaus versiegelten Türen werden geöffnet."
+    },
+    {
+      "key": "AREA_RANK_REWARD_408",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターが《<SPOT 1217>》に合流\r\n封鎖エリアが開放《<SPOT 1078>》",
+      "source_en": "Area master joins [<SPOT 1217>]\r\nUnblock area [<SPOT 1078>]",
+      "text": "Der Gebietsmeister zieht nach „<SPOT 1217>“.\r\nSperre aufgehoben bei „<SPOT 1078>“."
+    },
+    {
+      "key": "AREA_RANK_REWARD_409",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "支援品のランクアップ",
+      "source_en": "Rank up of support goods",
+      "text": "Bessere Versorgungsgüter"
+    },
+    {
+      "key": "AREA_RANK_REWARD_410",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "魔物集結スポットが出現《<SPOT 1090>》",
+      "source_en": "Monster Gathering Spot [<SPOT 1090>] appears",
+      "text": "Monster sammeln sich bei „<SPOT 1090>“."
+    },
+    {
+      "key": "AREA_RANK_REWARD_411",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "《<SPOT 1219>》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [<SPOT 1219>]",
+      "text": "Ein neuer starker Gegner erscheint bei „<SPOT 1219>“."
+    },
+    {
+      "key": "AREA_RANK_REWARD_412",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "エリアの最重要依頼 《ウルテカ山岳　試練：闇の滴り 》 が発生",
+      "source_en": "Unlocks the area's most critical mission, \r\nUM Trial: A Trickle in the Darkness",
+      "text": "Wichtigster Auftrag des Gebiets verfügbar\r\n„Urteca-Gebirge – Prüfung: Spuren der Finsternis“"
+    },
+    {
+      "key": "AREA_RANK_REWARD_413",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "支援品のランクアップ\r\n封鎖エリアが開放《<SPOT 1103>》",
+      "source_en": "Rank up of support goods\r\nUnblock area [<SPOT 1103>]",
+      "text": "Bessere Versorgungsgüter\r\nSperre aufgehoben bei „<SPOT 1103>“."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

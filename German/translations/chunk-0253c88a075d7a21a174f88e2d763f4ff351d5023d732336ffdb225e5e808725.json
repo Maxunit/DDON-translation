@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50204001.gmd",
+  "arc_path": "\\quest\\q50204001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "黒騎士が幻影を召喚した――！",
+      "source_en": "The Black Knight has summoned Phantoms!",
+      "text": "Der Schwarze Ritter hat Trugbilder herbeigerufen!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "幻影の力を一時的に封じた――",
+      "source_en": "The Phantoms' power was temporarily sealed...",
+      "text": "Die Kraft der Trugbilder ist vorübergehend versiegelt …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "幻影の力を完全に封じた――！",
+      "source_en": "The Phantoms' power was completely sealed...",
+      "text": "Die Kraft der Trugbilder ist vollständig versiegelt!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

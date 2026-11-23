@@ -1,0 +1,184 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60000008.gmd",
+  "arc_path": "\\quest\\q60000008.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《マジックボール》を敵に３回当てよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Hit the enemy 3 times with Magick Bolts.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Triff den Gegner dreimal mit Magiegeschossen.“"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_ATTACK_0>を押して詠唱後、\r\n　<ICON STG_ATTACK_0>を押して発動」",
+      "source_en": "\"Press <ICON STG_ATTACK_0> to cast,\r\n then press <ICON STG_ATTACK_0> to activate.\"",
+      "text": "„Beginne mit <ICON STG_ATTACK_0> zu zaubern.\r\nDrücke nach der Vorbereitung <ICON STG_ATTACK_0>, um den Zauber zu wirken.“"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "「詠唱時間が最大時になったとき発動する\r\n　敵との間合いの取り方が重要だ\r\n　詠唱中、放つ向きを変えて狙う事もできる」",
+      "source_en": "\"Activated when chant time reaches maximum.\r\n Managing distance with the enemy is key.\r\n While chanting, you can adjust the \r\n aiming direction.\"",
+      "text": "„Du kannst den Zauber wirken, sobald er vollständig vorbereitet ist.\r\nHalte dabei genug Abstand zum Gegner.\r\nWährend du den Zauber vorbereitest,\r\nkannst du die Zielrichtung ändern.“"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《マジックトラップ》を３回成功させよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Successfully trigger Magick Trap 3 times.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Löse die Magiefalle dreimal erfolgreich aus.“"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_ATTACK_1>を押して詠唱後、\r\n　<ICON STG_ATTACK_1>を押して発動」",
+      "source_en": "\"Press <ICON STG_ATTACK_1> to cast,\r\nthen press <ICON STG_ATTACK_1> to activate.\"",
+      "text": "„Beginne mit <ICON STG_ATTACK_1> zu zaubern.\r\nDrücke nach der Vorbereitung <ICON STG_ATTACK_1>, um die Falle zu legen.“"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "「敵の侵入時にダメージを与える魔力の罠だ\r\n　詠唱時間最大時に設置できる」",
+      "source_en": "\"A magickal trap that deals damage when \r\n enemies enter its range.\r\n Can be set when cast time completes.\"",
+      "text": "„Diese magische Falle fügt Gegnern Schaden zu,\r\nwenn sie in ihren Wirkungsbereich geraten.\r\nDu kannst sie legen, sobald der Zauber vollständig vorbereitet ist.“"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "「発動タイミングを調整すれば\r\n　設置場所をずらして有効な位置で\r\n　トラップを張る事ができる」",
+      "source_en": "\"By changing the moment of activation,\r\nyou can shift the placement location\r\nand set the trap in an effective position.\"",
+      "text": "„Löse den Zauber etwas früher oder später aus,\r\num die Falle an einer anderen Stelle zu legen.\r\nSo kannst du sie gezielt platzieren.“"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "《魔攻の証》を手に入れた！",
+      "source_en": "You have obtained the [Sorcerer's Mark]!",
+      "text": "Du hast das Zeichen der Zauberkraft erhalten!"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「しがみついて《マジッククラッカー》を仕掛けよ」",
+      "source_en": "Teachings carved by someone emerge—\r\n\r\n\"Cling on and execute Magick Cracker.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Halte dich am Gegner fest und setze Magiesprengsatz ein.“"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "「しがみつき中に<ICON STG_ATTACK_0>を押す」",
+      "source_en": "\"Press <ICON STG_ATTACK_0> while clinging.\"",
+      "text": "„Drücke <ICON STG_ATTACK_0>, während du dich festhältst.“"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "「大型の敵に魔法の罠を仕掛けられる\r\n　仲間の狙撃でも起爆が可能だ」",
+      "source_en": "\"Plant magick traps on big foes.\r\n Party members can detonate them.\"",
+      "text": "„Du kannst einen Sprengsatz an großen Gegnern anbringen.\r\nDeine Gefährten können ihn mit einem gezielten Schuss zünden.“"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「詠唱ホールド移動を成功させよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Successfully execute movement \r\nwith a spell at the ready.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Bewege dich, während du\r\neinen vorbereiteten Zauber bereithältst.“"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_ATTACK_0>を押したまま、\r\n　<ICON PAD_L3>で移動」",
+      "source_en": "\"Hold <ICON STG_ATTACK_0>,\r\n then move with <ICON PAD_L3>.\"",
+      "text": "„Halte <ICON STG_ATTACK_0> gedrückt\r\nund bewege dich mit <ICON PAD_L3>.“"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "「詠唱完了の状態を維持したまま\r\n　移動する事で自分で放ちたい方向を\r\n　コントロールできる」",
+      "source_en": "\"By moving while maintaining the completed \r\n chant state, you can control the direction \r\n you wish to direct the spell.\"",
+      "text": "„Du kannst einen vorbereiteten Zauber bereithalten\r\nund dich dabei bewegen.\r\nSo bestimmst du, in welche Richtung du den Zauber wirkst.“"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「ロックオフを成功させよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Successfully disable lock-on.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Löse die Zielerfassung.“"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "「敵をロックできる距離で<ICON STG_ATTACK_0>を押す\r\n　その状態から<ICON PAD_L3>で解除」",
+      "source_en": "\"Press <ICON STG_ATTACK_0> at a distance \r\n where you can lock onto an enemy.\r\n Release by pressing <ICON PAD_L3> from that state.\"",
+      "text": "„Drücke <ICON STG_ATTACK_0>, wenn der Gegner\r\nnah genug ist, um ihn ins Visier zu nehmen.\r\nMit <ICON PAD_L3> löst du die Zielerfassung wieder.“"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "「ソーサラーは敵をロックオンしてから\r\n　魔法を放つ事ができる\r\n　複数の敵がいる場合はロックオン切替を\r\n　しながら攻撃を放つ事が基本となる」",
+      "source_en": "\"Sorcerers can lock onto enemies\r\n then cast spells. When multiple enemies\r\n are present, switch lock-on targets\r\n while attacking as a basic tactic.\"",
+      "text": "„Als Erzmagier kannst du einen Gegner ins Visier nehmen\r\nund dann einen Zauber auf ihn wirken.\r\nSind mehrere Gegner da, wechsle beim Angreifen\r\nzwischen den erfassten Zielen.“"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "「また魔法の種類や戦況に応じて\r\n　ロックオン自体を解除して\r\n　好きな場所に魔法を放つ事ができる」",
+      "source_en": "\"Depending on spell type or battle\r\nconditions, you can also disable lock-on\r\nentirely and cast spells freely.\"",
+      "text": "„Je nach Zauber oder Lage kannst du\r\ndie Zielerfassung auch ganz lösen\r\nund den Zauber frei ausrichten.“"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《スペリング》で１段階威力をあげよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Raise power with chanting.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Nutze Zauberzeichen, um die Stärke des Zaubers um eine Stufe zu erhöhen.“"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON PAD_R3>を押してスペリング入力モード\r\n　に切り替えた状態で赤いポイント表示に\r\n　<ICON PAD_R3>を動かして合わせる」",
+      "source_en": "\"Press <ICON PAD_R3> to switch to chanting input\r\nmode and align it by moving <ICON PAD_R3> to the\r\nred indicator.\"",
+      "text": "„Drücke <ICON PAD_R3>, um zu den Zauberzeichen zu wechseln.\r\nLenke die Anzeige mit <ICON PAD_R3>\r\nauf die rote Markierung.“"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "「魔法詠唱中にスペリングモードに切替えて\r\n　威力を上げることができる\r\n　画面中央に出る詠唱文字にレバーを合わせて\r\n　行くことで段階を徐々に上げれる」",
+      "source_en": "\"While casting a spell, switch to chanting mode\r\n to increase power. Move the stick to match\r\n the chanting characters displayed at the\r\n center to gradually raise it.\"",
+      "text": "„Wechsle beim Vorbereiten des Zaubers zu den Zauberzeichen.\r\nFolge mit dem Stick den Zeichen\r\nin der Bildschirmmitte.\r\nSo verstärkst du den Zauber Schritt für Schritt.“"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "「カスタムスキルの魔法威力同様にも\r\n　活かされるので戦況に応じて利用すべし」　",
+      "source_en": "\"Also enhances magickal power of custom\r\nskills, so use it according to\r\nbattle conditions.\"",
+      "text": "„Zauberzeichen verstärken auch die Zauber deiner Spezialfertigkeiten.\r\nAchte darauf, wann sich das\r\nim Kampf lohnt.“"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60318000_00.gmd",
+  "arc_path": "\\quest\\q60318000.arc",
+  "entries": [
+    {
+      "key": "q60318000_00_225",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ラスニテ山麓　試練：捕虜奪還",
+      "source_en": "RF Trial: Prisoner Retrieval",
+      "text": "Rathnite-Vorgebirge – Prüfung: Gefangene befreien"
+    },
+    {
+      "key": "q60318000_00_225",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターから事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the Area Master\r\nand try to solve the problem",
+      "text": "Frag den Gebietsmeister nach den Einzelheiten\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60318000_00_2937",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "捕縛された仲間の情報を収集する",
+      "source_en": "Collect information about captured comrades",
+      "text": "Sammle Informationen über die gefangenen Kameraden."
+    },
+    {
+      "key": "q60318000_00_2938",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "転戦中の仲間を探し捕縛情報を聞く",
+      "source_en": "Search for comrades in the midst of battle and gather information on their capture",
+      "text": "Suche die Kameraden, die noch kämpfen, und erkundige dich nach den Gefangenen."
+    },
+    {
+      "key": "q60318000_00_3103",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "仲間を助けに向かう",
+      "source_en": "Go to the rescue of your friends",
+      "text": "Mach dich auf den Weg, um deine Kameraden zu retten."
+    },
+    {
+      "key": "q60318000_00_3104",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "オリを破壊して仲間を助ける（残り３）",
+      "source_en": "Destroy the cage and save your friends (3 left)",
+      "text": "Brich die Käfige auf und befreie deine Kameraden (noch 3)."
+    },
+    {
+      "key": "q60318000_00_3105",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "オリを破壊して仲間を助ける（残り２）",
+      "source_en": "Destroy the cage and save your friends (2 left)",
+      "text": "Brich die Käfige auf und befreie deine Kameraden (noch 2)."
+    },
+    {
+      "key": "q60318000_00_3106",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "残りの仲間を助けた上で敵を掃討する",
+      "source_en": "Help the rest of your comrades and wipe out the enemy",
+      "text": "Befreie die übrigen Kameraden und besiege die Gegner."
+    },
+    {
+      "key": "q60318000_00_3107",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "敵本軍を掃討する",
+      "source_en": "Clear out the enemy's main force",
+      "text": "Besiege die feindliche Hauptstreitmacht."
+    },
+    {
+      "key": "q60318000_00_3108",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "<STG 630>の<NPC 2800>に報告する",
+      "source_en": "Report to <NPC 2800> in <STG 630>",
+      "text": "Berichte „<NPC 2800>“ in „<STG 630>“."
+    },
+    {
+      "key": "q60318000_00_3109",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "救出した仲間と今後について話す",
+      "source_en": "Talk about the future with your rescued comrades",
+      "text": "Sprich mit den befreiten Kameraden über das weitere Vorgehen."
+    },
+    {
+      "key": "q60318000_00_3110",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "救出した仲間と話す",
+      "source_en": "Talk to your rescued comrades",
+      "text": "Sprich mit den befreiten Kameraden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

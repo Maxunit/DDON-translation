@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300041_00.gmd",
+  "arc_path": "\\quest\\q60300041.arc",
+  "entries": [
+    {
+      "key": "q60300041_00_269",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "王家再興の褒章２",
+      "source_en": "Restored Medal of the Royal Family II",
+      "text": "Ehrung für den Wiederaufbau des Königshauses II"
+    },
+    {
+      "key": "q60300041_00_269",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "王家復興の栄誉を受ける",
+      "source_en": "Received the honor of restoring the royal family",
+      "text": "Nimm die Ehrung für den Wiederaufbau des Königshauses entgegen."
+    },
+    {
+      "key": "q60300041_00_3348",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "貢献した戦功について話す",
+      "source_en": "Talk about your contribution to the war effort",
+      "text": "Sprich über deine Verdienste in den Kämpfen."
+    },
+    {
+      "key": "q60300041_00_3351",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "改めて栄誉の祝辞を受ける",
+      "source_en": "Receive the congratulatory honors again",
+      "text": "Nimm erneut die Glückwünsche zu deiner Ehrung entgegen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60320003.gmd",
+  "arc_path": "\\quest\\q60320003.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "実はな\r\n今、ある魔物を追跡中なんだよ\r\n手が空いてるなら手伝ってもらえないか？",
+      "source_en": "",
+      "text": "Weißt du,\r\nich bin gerade einem Monster auf der Spur.\r\nKannst du mir helfen, falls du Zeit hast?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "追跡中って言っても\r\nその魔物がどこにいるかはわかってないんだ\r\n今、追っているのはその魔物の\"痕跡\"さ",
+      "source_en": "",
+      "text": "Na ja, ich verfolge es,\r\naber ich weiß noch nicht, wo es steckt.\r\nVorerst folge ich bloß seinen Spuren."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "\"痕跡\"を辿っていけば、必ずヤツはそこにいる\r\nだが――さっきヘマしたお陰でケガをしちまってな\r\n重傷ってわけじゃないが、素早く動けそうにない\r\n俺の代わりに魔物を追ってくれないか？",
+      "source_en": "",
+      "text": "Wenn du der Spur folgst, findest du es bestimmt.\r\nNur hab ich vorhin nicht aufgepasst und mich verletzt.\r\nEs ist nicht schlimm, aber ich bin nicht schnell genug.\r\nKannst du das Monster für mich verfolgen?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "追跡を開始する",
+      "source_en": "",
+      "text": "Verfolgung beginnen"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "――少し待ってほしい",
+      "source_en": "...I want to wait awhile",
+      "text": "Noch etwas warten"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "\"痕跡\"を辿っていけば、必ずヤツはそこにいる\r\nすまないが、俺の代わりに追ってくれ",
+      "source_en": "Actually, I'm currently tracking an enemy.\r\nIf you're free, could you lend me a hand?",
+      "text": "Folge der Spur, dann findest du das Monster bestimmt.\r\nKannst du es für mich verfolgen?"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "時間をかけすぎると相手が気付く可能性がある\r\n大胆かつ慎重に――よろしく頼むぜ",
+      "source_en": "Even though I say I'm tracking it,\r\nI don't know where the enemy is.\r\nFor now, I'm following its \"traces.\"",
+      "text": "Wenn du dir zu viel Zeit lässt, bemerkt es dich vielleicht.\r\nSei mutig, aber pass auf dich auf.\r\nIch zähle auf dich!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "さすが覚者さんだな！\r\nあんたに頼んでよかったぜ\r\nこれで魔物が集まりやすい場所も分かったし\r\nメガドシスの警備事情も一歩前進だな",
+      "source_en": "If you follow the \"traces,\" you'll find it for sure.\r\nBut...I messed up earlier and got hurt.\r\nIt's not serious, but I can't move quickly.\r\nCan you track the enemy in my place?",
+      "text": "Auf dich ist Verlass, Erweckter!\r\nGut, dass ich dich gefragt habe.\r\nJetzt wissen wir, wo sich die Monster sammeln.\r\nDamit ist Megado wieder ein Stück sicherer."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "さあ、追跡だ――相手に気付かれる前に見つけちまってくれ",
+      "source_en": "Begin the pursuit.",
+      "text": "Die Verfolgung beginnt! Finde das Monster, bevor es dich bemerkt."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "相手の動きが少し変わったな――ちょいと急いだ方がいいんじゃないか",
+      "source_en": "...Wait a minute.",
+      "text": "Das Monster verhält sich anders. Beeil dich lieber!"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "完全にバレちまったなこりゃ――やり直しだ",
+      "source_en": "If you follow the \"traces,\" you'll\r\nfind it for sure. Sorry, but can you\r\ntrack it in my place?",
+      "text": "Jetzt hat es dich bemerkt.\r\nDa ist nichts mehr zu machen.\r\nFangen wir noch mal von vorn an."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "魔物がいそうな場所の目星は大体ついてる\r\n地図に印をつけておくから、そこを当たってみてくれ",
+      "source_en": "If you take too long, the target might notice.\r\nBe bold but safe...I'm counting on you.",
+      "text": "Ich habe eine Ahnung, wo das Monster stecken könnte.\r\nIch markiere die Stelle auf der Karte. Schau dort nach."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "あんまり時間をかけすぎると\r\n相手が気付く可能性があるからな\r\n時間をかけすぎないようによろしく頼むぜ",
+      "source_en": "As expected of you, Arisen!\r\nI'm glad we asked you.\r\nNow that we know where our enemies gather,\r\nMegado's security has taken a step forward.",
+      "text": "Wenn du dir\r\nzu viel Zeit lässt,\r\nbemerkt es dich womöglich.\r\nAlso beeil dich bitte."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "ああ、少し特殊な任務だからな\r\nしっかり準備してから\r\nまた声をかけてくれ",
+      "source_en": "Now, the pursuit...\r\nFind it before it notices you.",
+      "text": "Das ist ein ungewöhnlicher Auftrag.\r\nBereite dich gut vor und sprich mich dann wieder an."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

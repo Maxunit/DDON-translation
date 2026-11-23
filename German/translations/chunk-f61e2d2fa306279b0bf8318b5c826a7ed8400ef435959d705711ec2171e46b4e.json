@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60350002_00.gmd",
+  "arc_path": "\\quest\\q60350002.arc",
+  "entries": [
+    {
+      "key": "q60350002_00_373",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "次代の竜となる者へ",
+      "source_en": "To The One Who Will Become the Next Dragon",
+      "text": "An den künftigen Drachen"
+    },
+    {
+      "key": "q60350002_00_373",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アイザックから話を聞く",
+      "source_en": "Hear from Isaac",
+      "text": "Sprich mit Isaac."
+    },
+    {
+      "key": "q60350002_00_5241",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "アイザックから詳しい話を聞く",
+      "source_en": "Hear more from Isaac",
+      "text": "Lass dir von Isaac mehr darüber erzählen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

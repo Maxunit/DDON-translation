@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50201001_00.gmd",
+  "arc_path": "\\quest\\q50201001.arc",
+  "entries": [
+    {
+      "key": "q50201001_00_52",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "歪みの執行人・限界域",
+      "source_en": "Agent of Corruption: Restricted Stage",
+      "text": "Vollstrecker der Verderbnis: Grenzprüfung"
+    },
+    {
+      "key": "q50201001_00_52",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n侵食された島に現れた\r\n新たな脅威を討ち果たせ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nMake an appearance on the corrupted island\r\nand vanquish the new threat.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nZieht zur Insel, die der Befall verwüstet hat,\r\nund besiegt die neue Bedrohung!"
+    },
+    {
+      "key": "q50201001_00_2460",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "制限時間内に強力な侵食魔を討伐する",
+      "source_en": "Defeat the powerful infected within the time limit",
+      "text": "Besiegt das mächtige befallene Monster, bevor die Zeit abläuft."
+    },
+    {
+      "key": "q50201001_00_2461",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "敵集団を殲滅し仲間の元に戻る",
+      "source_en": "Destroy the enemy group and return to your comrades",
+      "text": "Besiegt die Gegner und kehrt zu euren Gefährten zurück."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

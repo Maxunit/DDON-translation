@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300044_00.gmd",
+  "arc_path": "\\quest\\q60300044.arc",
+  "entries": [
+    {
+      "key": "q60300044_00_286",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ハイセプターを継ぎし者",
+      "source_en": "The High Scepter's Heir",
+      "text": "Das Erbe der Zauberklinge"
+    },
+    {
+      "key": "q60300044_00_286",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "不思議な武具を携えた\r\n人影について調査する",
+      "source_en": "Investigate the\r\nfigure carrying a mysterious weapon",
+      "text": "Finde heraus, wer die Gestalt mit\r\nder geheimnisvollen Waffe ist."
+    },
+    {
+      "key": "q60300044_00_3834",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "クレイグに代わり「死者の小窟」へ向かう",
+      "source_en": "Head to \"Small Cave Tombs\" and stand-in for Craig",
+      "text": "Geh für Craig zu den Kleinen Grabhöhlen."
+    },
+    {
+      "key": "q60300044_00_4512",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "不思議な人物の調査をする",
+      "source_en": "Investigate a mysterious person",
+      "text": "Geh der Spur der geheimnisvollen Gestalt nach."
+    },
+    {
+      "key": "q60300044_00_4513",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を殲滅する",
+      "source_en": "Defeat the enemy encountered",
+      "text": "Besiege den Gegner, der dir begegnet."
+    },
+    {
+      "key": "q60300044_00_4514",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "助太刀をしてくれた人物と話をする",
+      "source_en": "Speak to the person who assisted you",
+      "text": "Sprich mit der Person, die dir geholfen hat."
+    },
+    {
+      "key": "q60300044_00_4515",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "クラフトルームに戻りクレイグに報告する",
+      "source_en": "Return to the Workshop and report to Craig",
+      "text": "Kehre zur Werkstatt zurück und erstatte Craig Bericht."
+    },
+    {
+      "key": "q60300044_00_4516",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "クラフトルームのクレイグから話を聞く",
+      "source_en": "Hear what Craig has to say in the Workshop",
+      "text": "Hör dir an, was Craig in der Werkstatt zu sagen hat."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

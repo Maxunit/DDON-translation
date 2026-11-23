@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60300001.gmd",
+  "arc_path": "\\quest\\q60300001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "――おや？",
+      "source_en": "...Oh?",
+      "text": "… Was war das?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "――マンドラゴラはびっくりして逃げ出した！！",
+      "source_en": "The Mandragora was startled and fled!",
+      "text": "Die Mandragora hat sich erschreckt und ist davongelaufen!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "――ここにマンドラゴラはいなかったようだ",
+      "source_en": "It seems there wasn't a Mandragora here...",
+      "text": "Hier war wohl keine Mandragora …"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "マンドラゴラは慕ってくれたようだ――やったー！！",
+      "source_en": "The Mandragora seems to have taken\r\na liking to you—All right!!",
+      "text": "Die Mandragora scheint dich zu mögen.\r\nGeschafft!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "おびえているようだ――エモートで＜手招き＞してみよう！",
+      "source_en": "It seems to be scared...\r\nTry using the [Beckon] emote!",
+      "text": "Sie scheint Angst zu haben.\r\nVersuch es mit der Geste „Heranwinken“!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "まだおびえているようだ――エモートで＜歓迎＞してみよう！",
+      "source_en": "It still seems to be scared...\r\nTry using the [Welcome] emote!",
+      "text": "Sie hat immer noch Angst.\r\nVersuch es mit der Geste „Willkommen“!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

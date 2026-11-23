@@ -1,0 +1,264 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60300060.gmd",
+  "arc_path": "\\quest\\q60300060.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "今日は新たな魔軍を駆逐する作戦を\r\n砦内にいる兵士たちに指示する必要がある\r\nよかったら一緒に手伝ってくれないか？",
+      "source_en": "",
+      "text": "Ich muss den Soldaten in der Burg heute erklären,\r\nwie wir gegen die neuen Truppen der Dämonenarmee vorgehen.\r\nHilfst du mir dabei?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "兵士たちは――\r\n<STG 451>の中で指示を待っている\r\n寝ずに練った作戦なので\r\n早々と伝えたいので協力を頼む！",
+      "source_en": "",
+      "text": "Die Soldaten warten\r\nin „<STG 451>“ auf ihre Befehle.\r\nIch hab die ganze Nacht an dem Plan gearbeitet.\r\nHilf mir, ihn so schnell wie möglich weiterzugeben!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "【選択】了解した",
+      "source_en": "",
+      "text": "Verstanden"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "少し考えさせてくれ",
+      "source_en": "I will think a bit",
+      "text": "Ich möchte darüber nachdenken …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "夜寝ずに考えた作戦だから眠い――\r\n眠くならないうちに指示を出したいから\r\nさっそく砦内で兵士たちを探すぞ！",
+      "source_en": "",
+      "text": "Ich bin die ganze Nacht aufgeblieben, um den Plan auszuarbeiten.\r\nBevor mir die Augen zufallen, muss ich die Befehle weitergeben.\r\nSuchen wir gleich nach den Soldaten in der Burg!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "兵士たちは各々――\r\n各砦の持ち場で出撃準備していると思うので\r\n周囲をよく見回しながらいこう",
+      "source_en": "",
+      "text": "Die Soldaten bereiten sich wohl\r\nauf ihren Posten auf den Aufbruch vor.\r\nHalt nach ihnen Ausschau."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "また――申し訳ないが\r\n眠くなると休憩したいので\r\n――早目に回りきってしまおう！",
+      "source_en": "",
+      "text": "Und entschuldige,\r\nwenn ich zu müde werde, muss ich eine Pause machen.\r\nGehen wir also zügig alle Posten ab!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "眠くならないうちに\r\n兵士全員に指示がだせてよかった！\r\nこれで心置きなく寝る事ができる！",
+      "source_en": "",
+      "text": "Gut, dass wir alle Soldaten erreicht haben,\r\nbevor ich eingeschlafen bin!\r\nJetzt kann ich endlich beruhigt schlafen!"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "ちょっと――眠気が――\r\n限界に来たようだ",
+      "source_en": "",
+      "text": "Moment mal … Mir fallen\r\nlangsam die Augen zu."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "<STG 451>に戻り\r\n一度休憩して出直しさせてくれ",
+      "source_en": "",
+      "text": "Kehren wir zu „<STG 451>“ zurück.\r\nLass mich erst eine Pause machen, dann gehen wir wieder los."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "新たな任務を了解しました――\r\n準備が整い次第\r\n出発します",
+      "source_en": "",
+      "text": "Neuer Auftrag verstanden.\r\nSobald die Vorbereitungen abgeschlossen sind,\r\nbreche ich auf."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "眠くならないうちに――兵士たちを探そう！",
+      "source_en": "",
+      "text": "Suchen wir die Soldaten, bevor mir die Augen zufallen!"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "無事――指示を出せてよかった！協力ありがとう！",
+      "source_en": "",
+      "text": "Gut, dass alle ihre Befehle haben! Danke für deine Hilfe!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_jp",
+      "source_jp": "やばい――眠くなってきた――早く見つけよう",
+      "source_en": "",
+      "text": "Oje, ich werd schon müde. Finden wir sie schnell!"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_jp",
+      "source_jp": "もう眠気が限界だ――休憩させてくれ",
+      "source_en": "",
+      "text": "Ich kann mich kaum noch wach halten. Lass mich kurz ausruhen."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_jp",
+      "source_jp": "ではさっそく<STG 451>で\r\n待ち合わせましょう\r\nぜひ協力お願いする！",
+      "source_en": "",
+      "text": "Treffen wir uns gleich in „<STG 451>“.\r\nBis gleich!\r\nDanke für deine Hilfe!"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_jp",
+      "source_jp": "わかりました\r\nまた協力できそうだったら\r\nよろしくお願いする",
+      "source_en": "",
+      "text": "Verstanden.\r\nWenn du später Zeit hast,\r\nfreue ich mich über deine Hilfe."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_jp",
+      "source_jp": "兵士たちは各々――\r\n各砦の持ち場で出撃準備していると思うので\r\n周囲をよく見回しながらいこう",
+      "source_en": "",
+      "text": "Die Soldaten bereiten sich wohl\r\nauf ihren Posten auf den Aufbruch vor.\r\nHalt nach ihnen Ausschau."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_jp",
+      "source_jp": "また――申し訳ないが\r\n眠くなると休憩したいので\r\n――早目に回りきってしまおう！",
+      "source_en": "",
+      "text": "Und entschuldige,\r\nwenn ich zu müde werde, muss ich eine Pause machen.\r\nGehen wir also zügig alle Posten ab!"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_jp",
+      "source_jp": "ではさっそく<STG 451>で\r\n待ち合わせだ",
+      "source_en": "",
+      "text": "Treffen wir uns in „<STG 451>“.\r\nBis gleich."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_jp",
+      "source_jp": "砦内の広場で待ってるぞ\r\nぜひ協力お願いする！",
+      "source_en": "",
+      "text": "Ich warte auf dem Platz in der Burg.\r\nDanke, dass du mir hilfst!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_jp",
+      "source_jp": "任務を忠実に遂行する――\r\nこれこそ我が国のためだ\r\n必ず魔軍を駆逐してやるんだ",
+      "source_en": "",
+      "text": "Ich führe den Auftrag aus.\r\nFür unser Land!\r\nWir werden die Dämonenarmee vertreiben."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_jp",
+      "source_jp": "砦前の陣地を占拠していた\r\n魔軍の残党たちを\r\n掃討したらいいのですね",
+      "source_en": "",
+      "text": "Ich soll also die Reste der Dämonenarmee vertreiben,\r\ndie sich vor der Burg\r\nverschanzt haben?"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_jp",
+      "source_jp": "了解しました\r\n前線の仲間と協力して\r\n任務に当たりたいと思います",
+      "source_en": "",
+      "text": "Verstanden.\r\nIch erfülle den Auftrag\r\ngemeinsam mit den Kameraden an der Front."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_jp",
+      "source_jp": "まだまだ砦周辺の魔軍を\r\n追い払ったとはいえ――\r\n安心できないなあ",
+      "source_en": "",
+      "text": "Wir haben die Dämonenarmee zwar\r\naus der Umgebung der Burg vertrieben,\r\naber in Sicherheit sind wir noch lange nicht."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_jp",
+      "source_jp": "さっそく前線の仲間と\r\n協力して任務に向かうよ",
+      "source_en": "",
+      "text": "Ich breche gleich auf\r\nund erledige den Auftrag mit den Kameraden an der Front."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_jp",
+      "source_jp": "砦周辺の警護ですか？\r\n了解しました",
+      "source_en": "",
+      "text": "Die Burg und ihre Umgebung bewachen?\r\nVerstanden."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_jp",
+      "source_jp": "私に任せてもらったら\r\n大丈夫ですので\r\nさっそく向かいたいと思います！",
+      "source_en": "",
+      "text": "Ihr könnt Euch\r\nauf mich verlassen.\r\nIch mache mich gleich auf den Weg!"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_jp",
+      "source_jp": "警護とはいえ――\r\n油断せずにしっかり任務に励むよ",
+      "source_en": "",
+      "text": "Auch wenn es nur Wachdienst ist,\r\nich bleibe auf der Hut und erledige den Auftrag."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_jp",
+      "source_jp": "そういえば――\r\n<STG 451>で<NPC 582>が探してたぞ\r\n新たな作戦についてらしいので\r\n聞いてやってくれ",
+      "source_en": "",
+      "text": "Ach ja,\r\nin „<STG 451>“ sucht <NPC 582> nach dir.\r\nEs geht wohl um einen neuen Plan.\r\nHör dir an, was er zu sagen hat."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_jp",
+      "source_jp": "<NPC 582>も――\r\n魔軍を砦周辺から追い払って\r\nさらに激務となっているようだ",
+      "source_en": "",
+      "text": "<NPC 582> hat, so wie es aussieht,\r\nnoch mehr zu tun,\r\nseit die Dämonenarmee aus der Umgebung der Burg vertrieben wurde."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_jp",
+      "source_jp": "ぜひ多忙な彼に協力して\r\n用事を聞いてやってくれ",
+      "source_en": "",
+      "text": "Er hat alle Hände voll zu tun.\r\nFrag ihn bitte, ob du ihm helfen kannst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

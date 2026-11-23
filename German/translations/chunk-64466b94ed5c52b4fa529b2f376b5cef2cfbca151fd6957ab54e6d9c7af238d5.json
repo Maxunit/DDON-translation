@@ -1,0 +1,256 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60000006.gmd",
+  "arc_path": "\\quest\\q60000006.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "試練完了、よくやったな！奥にある＜魔盾の証＞を受け取り、神殿のレンテンに報告するがいい",
+      "source_en": "Trial complete, well done! \r\nTake the <Shield Sage's Mark> in the back \r\nand report to Renton at the temple.",
+      "text": "Gut gemacht! Die Prüfung ist bestanden.\r\nHol das Zeichen des magischen Schilds (<Shield Sage's Mark>) am Ende des Schreins ab\r\nund erstatte Renton im Tempel Bericht."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "おめでとう、覚者よ\r\nこれにて戦術試練は完了だ！",
+      "source_en": "Congratulations, Arisen.\r\nThe tactical trial is now complete!",
+      "text": "Glückwunsch, Erweckter!\r\nDu hast die Taktikprüfung bestanden!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "今覚えたシールドセージの戦い方を\r\n振り返りたい時は、《チュートリアルガイド》の\r\n《ジョブの操作と役割》からシールドセージの戦法や\r\n戦術的役割を確認するんだ",
+      "source_en": "To review the Shield Sage's combat style\r\nyou just learned, check [Tutorial] →\r\n[Job Roles] for tactics and duties.",
+      "text": "Wenn du nachlesen willst, wie Schildweise vorgehen,\r\nöffne die Tutorialübersicht. Unter „Klassen und Rollen“\r\nfindest du ihre Kampftechniken und Aufgaben."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "お前なら、より巨大な魔物へ挑むための\r\n試練も達成できるだろう\r\nさらなる挑戦を待っているぞ",
+      "source_en": "You might even be able to conquer trials\r\nfor larger beasts. Greater challenges await!",
+      "text": "Ich denke, du würdest auch eine Prüfung gegen größere Monster bestehen.\r\nIch warte auf deine nächste Herausforderung!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "俺はレンテン、あらためてよろしくな！",
+      "source_en": "I'm Renton. Good to meet you again!",
+      "text": "Ich bin Renton. Schön, dich wiederzusehen!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "早速やってみないか？\r\nそう――特別試練\r\nシールドセージの初歩戦術についてさ",
+      "source_en": "Why not give it a try right away?\r\nThat's right—a special trial\r\nabout the basic tactics of the Shield Sage.",
+      "text": "Wollen wir gleich loslegen?\r\nDu bekommst eine besondere Prüfung.\r\nDabei geht’s um die Grundlagen für Schildweise."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "覚悟しておけよぉ、これは一人で挑むんだ\r\nジョブの特性を理解するためにな",
+      "source_en": "Prepare yourself, this is a solo challenge. \r\nIt's to help you understand \r\nthe job's characteristics.",
+      "text": "Mach dich bereit, du trittst allein an.\r\nSo lernst du, was deine Klasse\r\nim Kampf ausmacht."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "心構えができたら《修練の祠》へ向かうんだ\r\n神殿を出て左手の崖沿いに進めばいいよ\r\n案内人の騎士団員がいるから、話を聞いてくれ",
+      "source_en": "Once you're ready, head to the Training Chapel. \r\nLeave the temple and follow the cliff on the left. \r\nA guide from the Knights' Order will be there, \r\nso talk to them.",
+      "text": "Wenn du bereit bist, geh zum Übungsschrein.\r\nGeh aus dem Tempel und folge links dem Felsen.\r\nDort steht ein Ritter der Weißen Garde.\r\nSprich mit ihm, er weist dir den Weg."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "来たか、覚者\r\n試練を行う《修練の祠》は、この崖の上だ\r\nここからよじ登って行ける",
+      "source_en": "You've come, Ser Arisen. \r\nThe 'Training Chapel' for the trial\r\nis atop this cliff. Climb up from here.",
+      "text": "Da bist du ja, Erweckter.\r\nDer Übungsschrein liegt oben auf dem Felsen.\r\nVon hier aus kannst du hinaufklettern."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "しっかりやれよ\r\nお前たち覚者が頼りないと、こっちも困るからな",
+      "source_en": "Do your best. \r\nWe rely on you Arisen...don't let us down.",
+      "text": "Gib dir Mühe.\r\nWir müssen uns auf euch Erweckte verlassen können."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "試練の成果は？\r\nそうか、うまくいったか\r\nジョブの奥深さを知るいい経験になっただろう",
+      "source_en": "The trial's outcome?\r\nSuccess, I see. You've\r\ngained true insight into\r\nyour job's essence.",
+      "text": "Na, wie lief die Prüfung?\r\nAch, du hast sie bestanden!\r\nDabei hast du bestimmt viel darüber gelernt,\r\nwas in deiner Klasse steckt."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "もし別のジョブに転職することがあったら\r\nまた挑戦してみてくれ",
+      "source_en": "If you ever move on to another job,\r\ngive it another shot.",
+      "text": "Wenn du später die Klasse wechselst,\r\nprobier es mit einer weiteren Prüfung."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "どうした？\r\n《修練の祠》は崖の上だ、はやく登って行け",
+      "source_en": "What's wrong? \r\nThe 'Training Chapel' is atop the cliff.\r\nHurry and get up there.",
+      "text": "Worauf wartest du?\r\nDer Übungsschrein liegt oben auf dem Felsen.\r\nKletter schon hinauf."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "覚者とは試練に臆することなく立ち向かい\r\nその使命を全うする者のことだ",
+      "source_en": "An Arisen faces a trial without fear\r\nand fulfills their duty no matter what.",
+      "text": "Ein Erweckter stellt sich jeder Prüfung ohne Furcht\r\nund erfüllt seine Aufgabe."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "与えられた試練を全てこなせた者のみ\r\n《魔盾の証》を得ることができる",
+      "source_en": "Only those who complete all trials\r\nmay obtain the [Shield Sage's Mark].",
+      "text": "Nur wenn du alle Aufgaben der Prüfung erledigst,\r\nerhältst du das Zeichen des magischen Schilds."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "各試練のやり方について\r\nわからなければ今までの得た知識を\r\n確認しながら臨むがいい",
+      "source_en": "If you're unsure about any trial.\r\nReview the information for the trial\r\nyou've gained so far before proceeding.",
+      "text": "Wenn du bei einer Aufgabe unsicher bist,\r\nlies die bisherigen Hinweise noch einmal nach,\r\nbevor du weitermachst."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "技や動きの参考のため\r\n一人、共闘の兵をつけておこう\r\n課題をこなす中で戦技を身に刻め！",
+      "source_en": "For reference, I'll assign a soldier \r\nto fight alongside you. Etch these combat skills\r\ninto your mind during the trial!",
+      "text": "Ich stelle dir einen Soldaten zur Seite.\r\nSieh dir seine Bewegungen an\r\nund präg dir bei der Prüfung die Techniken ein!"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "与えられた試練を全てこなせた者のみ\r\n《魔盾の証》を得ることができる",
+      "source_en": "Only those who complete all trials\r\nmay obtain the [Shield Sage's Mark].",
+      "text": "Nur wenn du alle Aufgaben der Prüfung erledigst,\r\nerhältst du das Zeichen des magischen Schilds."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "各試練のやり方について\r\nわからなければ、今までに得た知識を\r\n確認しながら臨むがいい",
+      "source_en": "If you're unsure about any trial.\r\nReview the information for the trial\r\nyou've gained so far before proceeding.",
+      "text": "Wenn du bei einer Aufgabe unsicher bist,\r\nlies die bisherigen Hinweise noch einmal nach,\r\nbevor du weitermachst."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "また立ちはだかる魔物が\r\n課題中にすべていなくなったら\r\n再度出直してくるがいい",
+      "source_en": "If all of the enemies in the trial vanish,\r\nleave then return later to try again.",
+      "text": "Falls während einer Aufgabe alle Gegner verschwinden,\r\ngeh hinaus und komm für einen neuen Versuch zurück."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "さあ、準備が整ったら\r\n《修練の祠》へ行ってくれ\r\n神殿の外を左手に進んで、案内人と話すんだ",
+      "source_en": "Now, when you're ready, go to\r\nthe 'Training Chapel'. Go to the left outside the\r\ntemple and talk to the guide.",
+      "text": "Wenn du bereit bist,\r\ngeh zum Übungsschrein.\r\nGeh aus dem Tempel nach links und sprich mit dem Wegweiser."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "《魔盾の証》、よくぞ得た！\r\n今後は実戦にてその戦技を鍛錬するのだ\r\n神殿に戻りレンテンに報告するがいい、覚者よ！",
+      "source_en": "A 'Shield Sage's Mark'...well earned! \r\nHone these skills in real battle.\r\nReturn to the temple and report to Renton, Arisen!",
+      "text": "Das Zeichen des magischen Schilds hast du dir verdient!\r\nÜbe die Techniken von nun an im Kampf.\r\nKehre zum Tempel zurück und erstatte Renton Bericht, Erweckter!"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT ATTACK1></COL>のシールドブロウで敵を攻撃するんだ！",
+      "source_en": "<COL ff7575><KCT ATTACK1></COL> Attacks enemies with Shield Blow!",
+      "text": "Greif den Gegner mit einem Schildhieb an. Drück dazu <COL ff7575><KCT ATTACK1></COL>!"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "自分の属性を炎から氷か雷に変えてみろ！",
+      "source_en": "Try changing your attribute to fire, ice or lightning!",
+      "text": "Wechsle dein Element von Feuer zu Eis oder Blitz!"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT ATTACK2>後、<PADM><KEYN L_STICK></PADM><KEYM>マウス</KEYM>で属性選択し、<KCT ATTACK2></COL>で決定だ",
+      "source_en": "After <COL ff7575><KCT ATTACK2>, <PADM><KEYN L_STICK></PADM><KEYM>,</KEYM> to select an attribute, then confirm with <KCT ATTACK2></COL>",
+      "text": "Drück <COL ff7575><KCT ATTACK2>. Wähl dann mit <PADM><KEYN L_STICK></PADM><KEYM>der Maus</KEYM> das Element und bestätige mit <KCT ATTACK2></COL>."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT WEAPON_MAIN></COL>で、アトラクト！敵の注意を引け！",
+      "source_en": "Use <COL ff7575><KCT WEAPON_MAIN></COL> for Attract!\r\nTo draw the enemy's attention!",
+      "text": "Setz mit <COL ff7575><KCT WEAPON_MAIN></COL> Provozieren ein!\r\nLenk so die Aufmerksamkeit des Gegners auf dich!"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "武器を構えていればオートガードだ！敵の攻撃を受ければ、体力ゲージの下にあるフォースゲージが溜まるぞ",
+      "source_en": "If your weapon is drawn, auto-guard is active! Taking enemy damage fills the Force Gauge below your health bar.",
+      "text": "Mit gezogener Waffe blockst du automatisch. Fang einen gegnerischen Angriff ab, um die Kraftanzeige unter den LP zu füllen!"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT WEAPON_SUB>長押し</COL>でシールドロックだ！防御姿勢で受ければフォースゲージがより溜まるぞ",
+      "source_en": "Hold <COL ff7575><KCT WEAPON_SUB></COL> for Shield Lock! Blocking in this stance fills the Force Gauge faster.",
+      "text": "Halte <COL ff7575><KCT WEAPON_SUB></COL> für den Schildblock gedrückt! Fängst du so einen Angriff ab, füllt sich deine Kraftanzeige schneller."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "フォースゲージが溜まったら、<COL ff7575><KCT SKILL_NORMAL2></COL>でフォースバーストだ。属性攻撃で敵を撃て！",
+      "source_en": "Once the Force Gauge is full.\r\nUse <COL ff7575><KCT SKILL_NORMAL2></COL> for Force Burst\r\nto strike enemies with you elemental attribute!",
+      "text": "Sobald deine Kraftanzeige voll ist,\r\nsetz mit <COL ff7575><KCT SKILL_NORMAL2></COL> den Kraftstoß ein!\r\nSo triffst du deine Gegner mit dem gewählten Element."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "再度フォースゲージを溜めて、<COL ff7575><KCT SKILL_NORMAL1></COL>で自分や仲間にフォースエンチャントだ！",
+      "source_en": "Fill the Force Gauge again and use <COL ff7575><KCT SKILL_NORMAL1></COL> \r\nfor Force Enchant on yourself and allies!",
+      "text": "Fülle die Kraftanzeige erneut und drücke <COL ff7575><KCT SKILL_NORMAL1></COL>,\r\num dir und deinen Gefährten mit „Element verleihen“ das gewählte Element zu geben!"
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "よし、最後の仕上げだ。祠の奥へ向かい、そこにいる敵をシールドブロウやフォースバーストで倒すんだ！ガードも忘れるなよ",
+      "source_en": "Alright, the final step. Head to the back of the chapel and defeat the enemies there with Shield Blow or Force Burst! Don't forget to guard!",
+      "text": "Jetzt kommt der letzte Teil. Dring tief in den Schrein vor und besiege die Gegner mit Schildhieb oder Kraftstoß. Vergiss nicht zu blocken!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

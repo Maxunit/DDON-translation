@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60319001.gmd",
+  "arc_path": "\\quest\\q60319001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "――敵の痕跡を発見した！",
+      "source_en": "...Discovered traces of the enemy!",
+      "text": "Du hast Spuren des Feindes entdeckt!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "――敵の痕跡を見失った！",
+      "source_en": "...Lost the traces of the enemy!",
+      "text": "Du hast die Spur des Feindes verloren!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "――敵の気配を発見した！出現場所へ！",
+      "source_en": "...Detected the enemy's presence!\r\nHead to the location!",
+      "text": "Der Feind ist in der Nähe!\r\nBegib dich zu seinem Standort!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "――敵の痕跡ではなかった！他を探そう！",
+      "source_en": "...It wasn't the traces of the enemy,\r\nlet's search elsewhere!",
+      "text": "Das waren keine Spuren des Feindes.\r\nSuch woanders weiter!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

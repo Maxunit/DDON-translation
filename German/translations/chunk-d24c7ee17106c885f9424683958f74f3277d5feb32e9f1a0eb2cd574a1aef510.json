@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "436",
+      "tag_source": "source_en",
+      "source_jp": "お化けマシュマロ",
+      "source_en": "Ghost Marshmallow",
+      "text": "Geister-Marshmallow"
+    },
+    {
+      "key": "",
+      "read_index": "438",
+      "tag_source": "source_en",
+      "source_jp": "渾身のチョコレートケーキ",
+      "source_en": "Finest Chocolate Cake",
+      "text": "Feinster Schokoladenkuchen"
+    },
+    {
+      "key": "",
+      "read_index": "439",
+      "tag_source": "source_en",
+      "source_jp": "スイートハニーケーキ",
+      "source_en": "Sweet Honey Cake",
+      "text": "Süßer Honigkuchen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

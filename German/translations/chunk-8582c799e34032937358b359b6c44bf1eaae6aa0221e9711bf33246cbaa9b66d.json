@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60300047.gmd",
+  "arc_path": "\\quest\\q60300047.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "竜に心臓を捧げた、志高き覚者様\r\nどうか、その力をお貸しください",
+      "source_en": "O noble Arisen,\r\none who offered their heart to the dragon.\r\nPlease, lend me your strength.",
+      "text": "Werter Erweckter,\r\nIhr habt dem Drachen Euer Herz dargebracht.\r\nBitte leiht mir Eure Kraft."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "\"ある場所\"の探索をお願いしたいのです\r\nわたしでは、到底力及ばぬ場所を――",
+      "source_en": "I wish to request you explore a certain place.\r\nA place where my strength would never suffice.",
+      "text": "Ich möchte Euch bitten, einen bestimmten Ort zu erkunden.\r\nMeine eigene Kraft reicht dafür bei Weitem nicht aus."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "しかも、そこは\r\n\"これまでの全て\"が通用せぬ場所です\r\nそれでも――この先の話を\r\n聞いていただけるでしょうか",
+      "source_en": "What's more, in this place,\r\nnone of the usual affairs seem to apply.\r\nNonetheless, would you hear out my request?",
+      "text": "Dort gelten andere Regeln\r\nals an allen Orten, die Ihr kennt.\r\nWollt Ihr Euch meine Bitte trotzdem anhören?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "そこにある、リムの力の煌めきをご覧ください\r\nあの煌めきに触れることで\r\n\"ある場所\"――《黒呪の迷宮》へと\r\n移動することができるのです",
+      "source_en": "Behold the shimmer of the Rift over yonder.\r\nTouch that light and travel to a faraway place...\r\nto [Bitterblack Maze].",
+      "text": "Seht Ihr dort drüben das Schimmern des Rifts?\r\nBerührt das Licht. Es bringt Euch fort\r\nzum Finstergram-Labyrinth."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "黒呪の迷宮は――永久に隔離された島\r\n装備品やアイテムは持ちこめません",
+      "source_en": "[Bitterblack Maze] is an ever-isolated isle.\r\nYou cannot bring equipment or items with you.",
+      "text": "Das Finstergram-Labyrinth liegt auf einer Insel, die seit jeher ganz für sich liegt.\r\nIhr könnt weder Ausrüstung noch Gegenstände mitnehmen."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "――初めてあの島に降り立つ時\r\nそのお姿も、レスタニアでのものと同じとは限りません\r\nあなた自身が望めば\r\nあなたの思い描く新しい姿形になれるでしょう",
+      "source_en": "When you first set foot on that island,\r\nyour appearance could differ\r\nthan how you are in Lestania.\r\nIf you so desire, you may take on a new form.",
+      "text": "Wenn Ihr die Insel zum ersten Mal betretet,\r\nkönnt Ihr dort anders aussehen\r\nals in Lestania.\r\nWenn Ihr wollt, nehmt Ihr dort die Gestalt an, die Euch gefällt."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "しかし、どのような姿であろうと\r\nどのような状態であろうと\r\nそして――どこにいようと\r\nあなたはあなたです、お忘れなきよう",
+      "source_en": "But no matter your form, no matter your state,\r\nand no matter where you are, you are still you.\r\nDo not forget that.",
+      "text": "Wie immer Ihr ausseht, wie es Euch auch geht\r\nund wo auch immer Ihr seid, Ihr bleibt Ihr selbst.\r\nVergesst das nicht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60300050.gmd",
+  "arc_path": "\\quest\\q60300050.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "――帰還兵を発見した！",
+      "source_en": "...Found a returning soldier!",
+      "text": "Du hast einen heimgekehrten Soldaten gefunden!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "――料理が冷めたようだ！作り直そう！",
+      "source_en": "...The food seems to have gone cold!\r\nLet's make it again!",
+      "text": "Das Essen ist wohl kalt geworden!\r\nKocht es noch einmal!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000020_00.gmd",
+  "arc_path": "\\quest\\q60000020.arc",
+  "entries": [
+    {
+      "key": "q60000020_00_84",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "続・クラン酒場に集う勇",
+      "source_en": "Gathering in the Clan Tavern (Continued)",
+      "text": "Treffpunkt Clan-Taverne – Fortsetzung"
+    },
+    {
+      "key": "q60000020_00_84",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "クランの新たな魅力について\r\nクラン酒場にいるキビザから話を聞く",
+      "source_en": "Talk to Kibiza in the Clan Tavern\r\nabout the Clan's new attraction.",
+      "text": "Frag Kibiza in der Clan-Taverne,\r\nwas es bei den Clans Neues gibt."
+    },
+    {
+      "key": "q60000020_00_1757",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ゲームメニューのクラン管理からクラン検索を行う",
+      "source_en": "Perform a Clan Search from Clan Management in the Game Menu",
+      "text": "Wähle im Spielmenü unter „Clan-Verwaltung“ die „Clansuche“."
+    },
+    {
+      "key": "q60000020_00_1758",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "キビザに報告する",
+      "source_en": "Report to Kibiza",
+      "text": "Erstatte Kibiza Bericht."
+    },
+    {
+      "key": "q60000020_00_1759",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ゲームメニューからエリアリストを確認する",
+      "source_en": "Check the Area List in the Game Menu",
+      "text": "Sieh dir die Gebietsliste im Spielmenü an."
+    },
+    {
+      "key": "q60000020_00_1760",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "キビザに再度報告する",
+      "source_en": "Report back to Kibiza",
+      "text": "Erstatte Kibiza erneut Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

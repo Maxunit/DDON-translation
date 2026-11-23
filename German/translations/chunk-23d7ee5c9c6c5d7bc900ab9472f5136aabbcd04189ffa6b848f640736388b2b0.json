@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60321003_00.gmd",
+  "arc_path": "\\quest\\q60321003.arc",
+  "entries": [
+    {
+      "key": "q60321003_00_333",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳　試練：原初の集落",
+      "source_en": "UM Trial: Primitive Settlement",
+      "text": "Urteca-Gebirge – Prüfung: Siedlung der Urorks"
+    },
+    {
+      "key": "q60321003_00_333",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the client\r\nand try to solve the problem.",
+      "text": "Frag nach den Einzelheiten des Auftrags\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60321003_00_4603",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "＜原初の集落＞へ向かう",
+      "source_en": "Head to \"Primitive Settlement\"",
+      "text": "Begib dich zur Siedlung der Urorks."
+    },
+    {
+      "key": "q60321003_00_4604",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "敵を討伐する",
+      "source_en": "Defeat the enemy",
+      "text": "Besiege die Gegner."
+    },
+    {
+      "key": "q60321003_00_4605",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ報告する",
+      "source_en": "Report to the client",
+      "text": "Berichte deinem Auftraggeber."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

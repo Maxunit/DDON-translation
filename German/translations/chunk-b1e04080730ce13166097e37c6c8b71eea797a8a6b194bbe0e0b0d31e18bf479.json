@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60319011_00.gmd",
+  "arc_path": "\\quest\\q60319011.arc",
+  "entries": [
+    {
+      "key": "q60319011_00_238",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "古代の闇の中へ",
+      "source_en": "Into the Ancient Darkness",
+      "text": "In die uralte Finsternis"
+    },
+    {
+      "key": "q60319011_00_238",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the client\r\nand try to solve the problem.",
+      "text": "Frag nach den Einzelheiten des Auftrags\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60319011_00_2966",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<STG 1063>に向かい調査隊と合流する",
+      "source_en": "Head to <STG 1063> and join the investigation team",
+      "text": "Begib dich nach „<STG 1063>“ und triff den Erkundungstrupp."
+    },
+    {
+      "key": "q60319011_00_2967",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<STG 1063>内の調査を進める",
+      "source_en": "Proceed with the investigation within <STG 1063>",
+      "text": "Setze die Erkundung in „<STG 1063>“ fort."
+    },
+    {
+      "key": "q60319011_00_3314",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "調査隊から状況を確認する",
+      "source_en": "Check the situation from the survey team",
+      "text": "Erkundige dich beim Erkundungstrupp nach der Lage."
+    },
+    {
+      "key": "q60319011_00_3315",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "異形の魔物を討伐する",
+      "source_en": "Eradicate the aberrant monsters",
+      "text": "Besiege die seltsamen Monster."
+    },
+    {
+      "key": "q60319011_00_3316",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "異形の魔物の正体を追跡調査する",
+      "source_en": "Track down and investigate the identity of the aberrant monsters",
+      "text": "Verfolge die seltsamen Monster und finde heraus, was sie sind."
+    },
+    {
+      "key": "q60319011_00_3317",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "巨大な異形の魔物を討伐する",
+      "source_en": "Defeat an aberrant giant monster",
+      "text": "Besiege das riesige, seltsame Monster."
+    },
+    {
+      "key": "q60319011_00_3318",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "巨大な異形の魔物を追跡討伐する",
+      "source_en": "Track and defeat the gigantic aberrant monsters",
+      "text": "Verfolge das riesige Monster und besiege es."
+    },
+    {
+      "key": "q60319011_00_3352",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 3050>に調査結果を報告する",
+      "source_en": "Report survey results to <NPC 3050>",
+      "text": "Berichte „<NPC 3050>“ von der Erkundung."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

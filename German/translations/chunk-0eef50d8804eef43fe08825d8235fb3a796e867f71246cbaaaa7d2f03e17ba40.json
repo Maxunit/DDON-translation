@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60301000_00.gmd",
+  "arc_path": "\\quest\\q60301000.arc",
+  "entries": [
+    {
+      "key": "q60301000_00_282",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ハロウィンの闇",
+      "source_en": "The Darkness of Halloween",
+      "text": "Die Schatten von Halloween"
+    },
+    {
+      "key": "q60301000_00_282",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アンジェロの悩みを解決する",
+      "source_en": "Resolve Angelo's problem",
+      "text": "Hilf Angelo bei seinem Problem."
+    },
+    {
+      "key": "q60301000_00_3823",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "シェリーの様子をうかがう",
+      "source_en": "Examine Shelly's appearance",
+      "text": "Sieh nach, wie es Shelly geht."
+    },
+    {
+      "key": "q60301000_00_3824",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アンジェロと話をする",
+      "source_en": "Speak to Angelo",
+      "text": "Sprich mit Angelo."
+    },
+    {
+      "key": "q60301000_00_3825",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "グレゴリーにランタンについて聞きに行く",
+      "source_en": "Head to Gregory and inquire details about lanterns",
+      "text": "Frage Gregory nach der Laterne."
+    },
+    {
+      "key": "q60301000_00_3826",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ゴーストランタンを鑑定交換で手に入れる",
+      "source_en": "Obtain Ghost Lantern from Appraisal Exchange",
+      "text": "Ertausche die Geisterlaterne bei „Begutachtung und Tausch“."
+    },
+    {
+      "key": "q60301000_00_3827",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "シェリーを追ってテル村へ向かい情報を探す",
+      "source_en": "Following Shelly, head to Tel village and search for information",
+      "text": "Folge Shelly nach Tel und erkundige dich nach ihr."
+    },
+    {
+      "key": "q60301000_00_3828",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "テルの枯れ井戸内を調査する",
+      "source_en": "Investigate inside Tel's Withered Well",
+      "text": "Untersuche Tels trockenen Brunnen."
+    },
+    {
+      "key": "q60301000_00_3829",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "出現した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q60301000_00_3830",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "シェリーの無事を確認する",
+      "source_en": "Check Shelly's safety",
+      "text": "Sieh nach, ob Shelly unverletzt ist."
+    },
+    {
+      "key": "q60301000_00_3831",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "アンジェロに報告する",
+      "source_en": "Report to Angelo",
+      "text": "Berichte Angelo."
+    },
+    {
+      "key": "q60301000_00_3833",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "入手したランタンをアンジェロに見せる",
+      "source_en": "Show Angelo the lantern you obtained",
+      "text": "Zeig Angelo die Laterne."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

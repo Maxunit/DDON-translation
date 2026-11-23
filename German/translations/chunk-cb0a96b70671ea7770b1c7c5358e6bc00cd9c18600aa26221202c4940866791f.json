@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60319003.gmd",
+  "arc_path": "\\quest\\q60319003.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "――仲間の救援部隊が到着した！",
+      "source_en": "...An allied Support Force has arrived!",
+      "text": "Die verbündete Verstärkung ist eingetroffen!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "――敵軍が増援部隊を招集！",
+      "source_en": "...The enemy is calling in reinforcements!",
+      "text": "Der Feind ruft Verstärkung!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

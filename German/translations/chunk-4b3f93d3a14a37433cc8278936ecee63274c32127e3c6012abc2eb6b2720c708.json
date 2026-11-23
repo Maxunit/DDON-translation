@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\skill\\normal_skill_name_07.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "NORMAL_SKILL_NAME_07_106",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "真・魔人斬り",
+      "source_en": "Indomitable Lash",
+      "text": "Vollendeter Berserkerhieb"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_07_109",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "空破斬",
+      "source_en": "Aerial Hack",
+      "text": "Lufthieb"
+    },
+    {
+      "key": "NORMAL_SKILL_NAME_07_112",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "魔倒斬り",
+      "source_en": "Inverse Slash",
+      "text": "Klammerhieb"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

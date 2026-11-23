@@ -1,0 +1,320 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60000016.gmd",
+  "arc_path": "\\quest\\q60000016.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【ヒント：クラフトの手順】",
+      "source_en": "[Hint: Crafting steps]",
+      "text": "[Hinweis zur Herstellung]"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "①ソニアとの会話メニューから《クラフト》を選択",
+      "source_en": "①Select [Craft] from the \r\nconversation menu with Sonia",
+      "text": "① Wähle im Gespräch mit Sonia\r\n„Handwerk“."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "②クラフトメニューで《アイテム生産》を選択",
+      "source_en": "②Select [Craft Item] \r\nin the Crafting Menu",
+      "text": "② Wähle im Handwerksmenü\r\n„Gegenstand herstellen“."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "③製作アイテムを選択：そよかぜのリング\r\n《防具》カテゴリー　→《ジュエリー》\r\n※クラフトを行うメインポーンと素材、Ｇが必要",
+      "source_en": "③Select the item to craft: Zephyr Ring\r\n[Defensive Equipment] Category → [Jewelry]\r\n※Requires Main Pawns, materials, and G for crafting",
+      "text": "③ Wähle als Gegenstand den Zephyrring.\r\nEr steht unter „Rüstung“ → „Schmuck“.\r\n※ Du brauchst einen Hauptvasallen, Materialien und Gold."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "まずソニアのところへ行って欲しいんだ",
+      "source_en": "First, I need you to go to Sonia.",
+      "text": "Geh bitte zuerst zu Sonia."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "広場の階段の下に《クラフトルーム》の\r\n入り口があって、ソニアはそこにいるからさ\r\nクラフトの説明は彼女から聞いてよ",
+      "source_en": "Head down the plaza stairs and\r\nyou'll find the Workshop entrance where Sonia is.\r\nShe'll explain crafting to you, okay?",
+      "text": "Unten an der Treppe auf dem Zentralplatz\r\nfindest du den Eingang zur Werkstatt.\r\nSonia ist dort und erklärt dir das Handwerk."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "《そよかぜのリング》は防具のジュエリーです",
+      "source_en": "The [Zephyr Ring] is a piece of Jewelry.\r\nIt is categorized as Armor.",
+      "text": "Der Zephyrring ist ein Schmuckstück.\r\nDu findest ihn unter „Rüstung“."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "クラフトに必要な素材のことを知りたい時は\r\nわたしに話しかけて――\r\n《クラフトメニュー》の中の\r\n《アイテム生産》で確認できます",
+      "source_en": "If you wish to know what materials\r\nare needed to craft it, speak to me.\r\nYou can check under [Craft Item] \r\nin the [Crafting Menu].",
+      "text": "Wenn Ihr wissen möchtet, welche Materialien Ihr braucht,\r\nsprecht mich an.\r\nWählt im Handwerksmenü\r\n„Gegenstand herstellen“, um nachzusehen."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "必要な素材がわかったら\r\n奥にいるギリアムとマコーミックに\r\nご相談ください",
+      "source_en": "Once you know what you need,\r\nconsult with Gilliam and McCormick in the back.",
+      "text": "Sobald Ihr wisst, was Ihr braucht,\r\nfragt hinten bei Gilliam und McCormick nach."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "素材がすべて揃ったら、また声をかけてくださいね",
+      "source_en": "Once you have all the materials,\r\nspeak to me again.",
+      "text": "Sobald Ihr alle Materialien beisammen habt,\r\nsprecht mich wieder an."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "さて――\r\n《そよかぜのリング》に必要な素材なら\r\n《青銅鉱》と《ベビーハーブ》ですね",
+      "source_en": "Now then—\r\nFor the Zephyr Ring, you'll need\r\nBronze Ore and Baby Herbs.",
+      "text": "Mal sehen …\r\nFür den Zephyrring braucht Ihr\r\nBronzeerz und Junges Kraut."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "もちろん扱ってますんで、ぜひ買ってくださいね",
+      "source_en": "Of course we carry them, so please buy some.",
+      "text": "Wir haben beides vorrätig. Ihr könnt es gern bei uns kaufen."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "お近づきのしるしにひとつ情報を差し上げましょう",
+      "source_en": "As a token of our new relationship,\r\nlet me share some information.",
+      "text": "Weil wir uns gerade erst kennengelernt haben,\r\ngebe ich Euch noch einen Tipp mit auf den Weg."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "クラフトしたものはそれで終わりではなくて\r\nどんどん価値を高めることができます",
+      "source_en": "What you craft doesn't end there;\r\nyou can keep increasing its value.",
+      "text": "Ein Gegenstand ist mit der Herstellung noch lange nicht fertig.\r\nIhr könnt ihn danach immer weiter verbessern."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "もちろん追加で素材が必要になりますが\r\nそん時はうちの店をよろしく！",
+      "source_en": "Of course, you'll need additional materials.\r\nWhen that happens, come to our shop!",
+      "text": "Dafür braucht Ihr natürlich weiteres Material.\r\nKommt dann gern wieder bei uns vorbei!"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "では一つ助言を――",
+      "source_en": "Let me give you one piece of advice—",
+      "text": "Einen Rat hätte ich noch …"
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "クラフトでは素材からのアイテム生産以外にも\r\nいろいろな加工ができますよ",
+      "source_en": "In addition to producing items from materials, \r\ncrafting allows you to do\r\na variety of other processes!",
+      "text": "In der Werkstatt könnt Ihr Gegenstände\r\naus Materialien herstellen\r\nund sie auf verschiedene Weise bearbeiten."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "例えば性能を上げる《装備の強化》や\r\n特殊効果を装備に与える《クレスト装着》、\r\n他には《カラー変更》なんかもありますね\r\nぜひお試しください",
+      "source_en": "For example, you can \r\n[Enhance Equipment] to improve stats,\r\n[Mount Crest] to add special effects,\r\nor even [Change Color].\r\nDo give them a try.",
+      "text": "Mit „Ausrüstung verstärken“\r\nverbessert Ihr zum Beispiel ihre Werte.\r\nÜber „Siegel einsetzen“ fügt Ihr besondere Effekte hinzu.\r\nAußerdem könnt Ihr mit „Farbe ändern“ Ausrüstung einfärben.\r\nProbiert es ruhig aus."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "素材が集まったようですね\r\nでは、わたしに話しかけ直して\r\n《クラフトメニュー》を選んで――",
+      "source_en": "It seems you've gathered the materials.\r\nNow, speak to me again and select the\r\nCraft Menu...",
+      "text": "Ihr habt offenbar alles beisammen.\r\nSprecht mich noch einmal an\r\nund öffnet das Handwerksmenü …"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "《クラフト画面》で《アイテム生産》を選んだら\r\nメインポーンをリーダーに指名して\r\n生産を始めてみましょう",
+      "source_en": "In the Crafting Screen, select Craft Item,\r\nthen assign a Main Pawn as leader\r\nto begin production.",
+      "text": "Wählt in der Werkstatt „Gegenstand herstellen“.\r\nBestimmt dann einen Hauptvasallen zum Leiter,\r\num mit der Herstellung zu beginnen."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "作業完了までには少し時間がかかります\r\nもし完了時間が知りたい場合は\r\nわたしに話しかけ直していただいて\r\n《クラフトメニュー》を選んで――",
+      "source_en": "It will take some time to finish crafting.\r\nIf you want to know the remaining time,\r\nplease talk to me again and\r\nselect Craft Menu―",
+      "text": "Die Herstellung dauert eine Weile.\r\nWenn Ihr wissen möchtet, wann der Gegenstand fertig ist,\r\nsprecht mich wieder an\r\nund öffnet das Handwerksmenü …"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "その中から《アイテム作成状況》を\r\n選んでください\r\nそうすればクラフトが完了する時間が\r\nわかります",
+      "source_en": "Then choose [Production Status].\r\nThis will show you when the crafting will be done.",
+      "text": "Wählt dort „Herstellungsstatus“.\r\nDann seht Ihr, wann der Gegenstand fertig ist."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "完成したアイテムの受け渡しは\r\nここでしますから、忘れないでくださいね",
+      "source_en": "Completed items will be handed over\r\nhere, so please don't forget.",
+      "text": "Fertige Gegenstände holt Ihr hier ab.\r\nVergesst sie bitte nicht."
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "メイリーフは商店区で暮らす女の子です",
+      "source_en": "Mayleaf lives in the Shopping District.",
+      "text": "Mayleaf wohnt im Händlerviertel."
+    },
+    {
+      "key": "",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "騎士団の旗のある家ですから\r\nすぐにわかると思います",
+      "source_en": "It's the house with the Knights' Order flag,\r\nso you should recognize it right away.",
+      "text": "Am Haus hängt die Fahne der Weißen Garde.\r\nIhr werdet es leicht erkennen."
+    },
+    {
+      "key": "",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "へえ――\r\nすっごくいいクラフトになったじゃない？\r\nわたしが欲しいくらい",
+      "source_en": "Wow, this turned out nice, didn't it?\r\nI almost want it for myself.",
+      "text": "Oh, der Ring ist richtig schön geworden!\r\nIch würde ihn am liebsten selbst behalten."
+    },
+    {
+      "key": "",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "これね、メイリーフって女の子から\r\n作って欲しいって頼まれたんだ",
+      "source_en": "This was requested by a girl called Mayleaf.",
+      "text": "Ein Mädchen namens Mayleaf hat mich gebeten, ihn anfertigen zu lassen."
+    },
+    {
+      "key": "",
+      "read_index": "52",
+      "tag_source": "source_en",
+      "source_jp": "あんた、届けてあげてよ\r\nメイリーフは商店区にいるから",
+      "source_en": "Hey, why don't you go give it to her?\r\nMayleaf is in the Shopping District.",
+      "text": "Bringst du ihr den Ring?\r\nDu findest Mayleaf im Händlerviertel."
+    },
+    {
+      "key": "",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "商店区の、騎士団の旗のある家だから\r\nきっと、すぐわかるよ",
+      "source_en": "It's the house with the Knights' Order flag,\r\nin the Shopping District. \r\nYou can't miss it.",
+      "text": "Am Haus im Händlerviertel\r\nhängt die Fahne der Weißen Garde.\r\nDu findest es bestimmt."
+    },
+    {
+      "key": "",
+      "read_index": "61",
+      "tag_source": "source_en",
+      "source_jp": "わたしたちお友だちになれますよね？",
+      "source_en": "We can be friends, right?",
+      "text": "Wollen wir Freunde sein?"
+    },
+    {
+      "key": "",
+      "read_index": "62",
+      "tag_source": "source_en",
+      "source_jp": "わたしはあまり出歩いたら騎士団の方々や\r\nジョゼフ様に叱られちゃうんです\r\nだから覚者さん――",
+      "source_en": "If I wander around too much,\r\nthe Knights or Master Joseph will scold me.\r\nSo you see...",
+      "text": "Wenn ich zu oft draußen herumstreife,\r\nschimpfen die Ritter oder Meister Joseph mit mir.\r\nDarum …"
+    },
+    {
+      "key": "",
+      "read_index": "63",
+      "tag_source": "source_en",
+      "source_jp": "なるべく、会いに来てくださいね\r\nわたし、楽しみにしちゃいますから",
+      "source_en": "You'll visit me a lot, right?\r\nI'll be looking forward to it.",
+      "text": "Komm mich doch möglichst oft besuchen, ja?\r\nIch freue mich jetzt schon darauf."
+    },
+    {
+      "key": "",
+      "read_index": "64",
+      "tag_source": "source_en",
+      "source_jp": "わざわざありがとうございました、覚者さま\r\nこれを機会にメイリーフと仲良くしてやって\r\nくださいね",
+      "source_en": "Thank you for taking the time \r\nto do this, Master Arisen.\r\nPlease use this opportunity to befriend Mayleaf.",
+      "text": "Vielen Dank für Eure Mühe,\r\nwerter Erweckter.\r\nIch hoffe, dass Ihr und Mayleaf Freunde werdet."
+    },
+    {
+      "key": "",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "今の装備じゃあ――たしかに不安ね\r\nこれから装備を強化していくには\r\nクラフト技術を学ぶ必要があるわ",
+      "source_en": "Your current equipment... yeah,\r\nit's certainly not the best.\r\nIf you want stronger equipment,\r\nyou'll have to learn crafting skills now.",
+      "text": "Mit deiner jetzigen Ausrüstung\r\nwird’s langsam schwierig.\r\nWenn du sie verbessern willst,\r\nmusst du das Handwerk lernen."
+    },
+    {
+      "key": "",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "ただし――技術を学ぶより\r\n先にクラフトするための物資が必要なの\r\nそのためにもセネカからワールドクエストにおける\r\n覚者の基本的なお勤めを学んでね",
+      "source_en": "But first, you'll need materials.\r\nComplete the World Quest from Seneka\r\nto learn the Arisen's basic duties.",
+      "text": "Dazu brauchst du aber erst einmal Materialien.\r\nSchließ Senekas Weltquest ab\r\nund lern dabei die grundlegenden Aufgaben eines Erweckten kennen."
+    },
+    {
+      "key": "",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "覚者として強くなるための第一歩よ――頑張ってね",
+      "source_en": "This is your first step to becoming\r\na stronger Arisen. Do your best.",
+      "text": "So wirst du als Erweckter stärker.\r\nViel Erfolg bei deinem ersten Schritt!"
+    },
+    {
+      "key": "",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "【ヒント：覚者のさらなる成長について】",
+      "source_en": "[Hint: Further Growth of the Arisen]",
+      "text": "[Hinweis zur weiteren Entwicklung]"
+    },
+    {
+      "key": "",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "メインポーンが編成可能となり戦力が強化されました",
+      "source_en": "The main pawn can now be summoned, \r\nand its power strengthened.",
+      "text": "Du kannst deinen Hauptvasallen jetzt in die Gruppe aufnehmen.\r\nSo seid ihr im Kampf stärker."
+    },
+    {
+      "key": "",
+      "read_index": "73",
+      "tag_source": "source_en",
+      "source_jp": "覚者のさらなる成長をイリスやセネカから学び<COL ff7575>メインクエスト＜紅の結晶＞</COL>を進めましょう",
+      "source_en": "Learn about the Arisen's growth from \r\nIris and Seneka. Then, proceed with the \r\n<COL ff7575>Main Quest <Crimson Crystal>.</COL>",
+      "text": "Iris und Seneka zeigen dir,\r\nwie du als Erweckter stärker wirst.\r\nSetze dann die Hauptquest <COL ff7575>„Der scharlachrote Kristall“ <Crimson Crystal></COL> fort."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

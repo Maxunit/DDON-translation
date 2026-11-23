@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60300060.gmd",
+  "arc_path": "\\quest\\q60300060.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "――作戦を待つ兵士を発見した！",
+      "source_en": "...Found a soldier awaiting orders!",
+      "text": "Du hast einen Soldaten gefunden, der auf Befehle wartet!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "――<NPC 582>の眠気が限界のようだ！一度休憩しよう！",
+      "source_en": "... <NPC 582> looks exhausted!\r\nLet's take a break!",
+      "text": "<NPC 582> kann sich kaum noch wach halten!\r\nMacht eine Pause!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

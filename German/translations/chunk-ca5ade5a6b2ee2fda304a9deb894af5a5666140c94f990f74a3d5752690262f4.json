@@ -1,0 +1,256 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60300050.gmd",
+  "arc_path": "\\quest\\q60300050.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "砦外から兵士さんたちが帰還したようなの\r\nきっと疲れてると思うから\r\n暖かい料理をふるまってあげたいの\r\nねぇ、一緒に手伝ってくれないかな？",
+      "source_en": "",
+      "text": "Die Soldaten sind wohl von draußen in die Festung zurückgekehrt.\r\nSie sind bestimmt erschöpft.\r\nIch möchte ihnen etwas Warmes zu essen bringen.\r\nHilfst du mir dabei?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "帰還した兵士さんたちは\r\n<STG 443>の中で休んでるって――\r\n暖かい料理をふるまいたいから\r\n手伝ってくれないかな？",
+      "source_en": "",
+      "text": "Die heimgekehrten Soldaten ruhen sich wohl\r\nin „<STG 443>“ aus.\r\nIch möchte ihnen etwas Warmes zu essen bringen.\r\nHilfst du mir dabei?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "手伝う",
+      "source_en": "",
+      "text": "Helfen"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "――少し考えさせてくれ",
+      "source_en": "...I will think a bit",
+      "text": "Ich möchte darüber nachdenken …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "さあ！　暖かい料理が出来たよ！\r\n料理が冷めないうちに、砦内の\r\n疲れた兵士さんたちに運んであげなきゃね",
+      "source_en": "",
+      "text": "So, das Essen ist fertig und noch schön warm!\r\nBringen wir es den müden Soldaten in der Festung,\r\nbevor es kalt wird."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "兵士さんたちはみんな――\r\nぐったりしていると思うから\r\nまわりをよく見ながら運んでね",
+      "source_en": "",
+      "text": "Die Soldaten sind bestimmt ganz erschöpft.\r\nHalt gut nach ihnen Ausschau,\r\nwährend du das Essen austrägst."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "それと、料理が冷めちゃわないように\r\n――時間に気を付けて！",
+      "source_en": "",
+      "text": "Und pass auf die Zeit auf,\r\ndamit das Essen nicht kalt wird!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "うん！　料理が冷めないうちに\r\nすべて運んでくれたみたいだね！",
+      "source_en": "",
+      "text": "Prima! Du hast alles ausgeteilt,\r\nsolange es noch warm war!"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "兵士さんたちもすっごく喜んでくれて\r\nアタシもうれしくなっちゃった！",
+      "source_en": "",
+      "text": "Die Soldaten haben sich so gefreut.\r\nDa freu ich mich gleich mit!"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "ああ、残念！　料理が冷めちゃった！\r\n冷めた料理じゃ、疲れた兵士さんたちを\r\n元気にはしてあげられない",
+      "source_en": "",
+      "text": "Ach, schade! Das Essen ist kalt geworden!\r\nMit kaltem Essen kommen\r\ndie erschöpften Soldaten nicht wieder zu Kräften."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "<STG 448>に戻って\r\n温かい料理を作り直して\r\n出直そう――",
+      "source_en": "",
+      "text": "Kehren wir zu „<STG 448>“ zurück,\r\nkochen noch einmal etwas Warmes\r\nund versuchen es erneut …"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "暖かい料理をありがとう――\r\n疲れがとれそうです",
+      "source_en": "",
+      "text": "Danke für das warme Essen.\r\nJetzt komme ich bestimmt wieder zu Kräften."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "料理が冷めちゃわないうちに――がんばって探さなくっちゃね！",
+      "source_en": "",
+      "text": "Wir müssen die Soldaten finden, bevor das Essen kalt wird!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_jp",
+      "source_jp": "無事――ふるまえてよかった！　協力ありがとう！",
+      "source_en": "",
+      "text": "Schön, dass alle was bekommen haben! Danke für deine Hilfe!"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_jp",
+      "source_jp": "ああ、もうすぐ料理が冷めちゃう――早く見つけなきゃ",
+      "source_en": "",
+      "text": "Ach, gleich wird das Essen kalt. Beeil dich mit der Suche!"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_jp",
+      "source_jp": "せっかくの料理が冷めちゃった――再度作り直さなきゃね",
+      "source_en": "",
+      "text": "Jetzt ist das gute Essen kalt geworden. Wir müssen noch einmal kochen."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_jp",
+      "source_jp": "ではさっそく<STG 443>で\r\n待ち合わせようよ\r\n手伝ってくれてありがとうね！",
+      "source_en": "",
+      "text": "Dann treffen wir uns gleich in „<STG 443>“.\r\nBis gleich!\r\nDanke, dass du hilfst!"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_jp",
+      "source_jp": "そっかーしょうがないね\r\nまた協力できそうだったら\r\nよろしくね！",
+      "source_en": "",
+      "text": "Ach so, schade.\r\nWenn du ein andermal Zeit hast,\r\nkannst du mir gern helfen!"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_jp",
+      "source_jp": "兵士さんたちはみんな――\r\nぐったりしていると思うから\r\nまわりをよく見ながら運んでね",
+      "source_en": "",
+      "text": "Die Soldaten sind bestimmt ganz erschöpft.\r\nHalt gut nach ihnen Ausschau,\r\nwährend du das Essen austrägst."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_jp",
+      "source_jp": "それと、料理が冷めちゃわないように\r\n――時間に気を付けて！",
+      "source_en": "",
+      "text": "Und pass auf die Zeit auf,\r\ndamit das Essen nicht kalt wird!"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_jp",
+      "source_jp": "ではさっそく<STG 443>で\r\n待ち合わせようよ",
+      "source_en": "",
+      "text": "Dann treffen wir uns gleich in „<STG 443>“.\r\nBis gleich!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_jp",
+      "source_jp": "ほんと手伝ってくれてありがとうね！",
+      "source_en": "",
+      "text": "Vielen Dank für deine Hilfe!"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_jp",
+      "source_jp": "美味そうないい匂いだ――\r\nいかん――\r\nなぜか涙が出てきそうだ",
+      "source_en": "",
+      "text": "Das riecht aber gut …\r\nAch, du meine Güte …\r\nMir kommen gleich die Tränen."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_jp",
+      "source_jp": "これは――\r\nすごく腹が減っていたので\r\n助かります",
+      "source_en": "",
+      "text": "Das kommt wie gerufen …\r\nIch hatte solchen Hunger.\r\nVielen Dank!"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_jp",
+      "source_jp": "ありがたく\r\nいただくとするよ",
+      "source_en": "",
+      "text": "Vielen Dank.\r\nIch lass es mir schmecken."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_jp",
+      "source_jp": "腹が鳴ってきた――\r\nよく食べて休憩させてもらうよ！",
+      "source_en": "",
+      "text": "Mir knurrt schon der Magen …\r\nJetzt esse ich mich satt und ruhe mich aus!"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_jp",
+      "source_jp": "わざわざ届けて頂いて言葉もありません\r\n――本当に助かります",
+      "source_en": "",
+      "text": "Ihr habt mir das Essen extra hergebracht. Da fehlen mir die Worte.\r\nDas hilft mir wirklich sehr."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_jp",
+      "source_jp": "ねぎらいの言葉より――\r\nこういう食事をいただく方が\r\n何倍もうれしいですね",
+      "source_en": "",
+      "text": "Ein paar aufmunternde Worte sind ja schön …\r\nAber über so ein Essen\r\nfreue ich mich um ein Vielfaches mehr."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_jp",
+      "source_jp": "そういえば――\r\n<STG 443>で<NPC 580>が探してたぞ\r\n気になるなら聞いてやってくれ",
+      "source_en": "",
+      "text": "Ach ja,\r\nin „<STG 443>“ sucht <NPC 580> nach dir.\r\nFrag nach, wenn du wissen willst, worum es geht."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_jp",
+      "source_jp": "<NPC 580>も――\r\n食堂が復興してからは\r\n元気になってよかったよ",
+      "source_en": "",
+      "text": "Schön, dass <NPC 580>\r\nwieder so munter ist,\r\nseit der Speisesaal geöffnet hat."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_jp",
+      "source_jp": "ぜひ気になるなら\r\n用事を聞いてやってくれ",
+      "source_en": "",
+      "text": "Wenn du wissen willst, worum es geht,\r\nfrag sie ruhig."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

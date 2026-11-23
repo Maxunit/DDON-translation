@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area21_spot_info.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "橋を渡り、王家の墓へと侵攻しようとする\r\nドワーフオークを、王家の兵士たちが命を賭して\r\n食い止めてきた場所。兵士、ドワーフオーク両者の\r\n亡骸が無造作に転がっており、静かな場所ながら\r\n激戦の痕跡を残す",
+      "source_en": "Crossing the bridge, soldiers of the royal family\r\nrisked their lives to stop the Dwarf Orcs from\r\ninvading the Royal Family Mausoleum.\r\nThe corpses of both soldiers and Dwarf Orcs lay\r\nscattered haphazardly, leaving behind traces of a\r\nfierce battle in this quiet place.",
+      "text": "An dieser Brücke hielten die Soldaten des Königshauses\r\nunter Einsatz ihres Lebens die Zwergorks auf,\r\ndie zur Grabstätte des Königshauses vordringen wollten.\r\nÜberall liegen die Leichname von Soldaten und Zwergorks.\r\nAuch an diesem stillen Ort sind die Spuren\r\nder erbitterten Schlacht noch sichtbar."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "《王家の墓》付近にある小さな洞窟\r\nこれまでは注目されてこなかった場所だが\r\nドワーフオークが出入りする姿や、手勢の\r\n魔獣を置いていく様子が確認されている\r\n内部に何らかの秘密があるのかもしれない",
+      "source_en": "Near the \"Royal Family Mausoleum\" is a small\r\ncave, which has not attracted much attention until\r\nnow.\r\nHowever, there have been sightings of Dwarf Orcs\r\ncoming in and out, as well as witnessing them\r\nleaving their animals.\r\nThere may be some kind of secret inside.",
+      "text": "Diese kleine Höhle bei der Grabstätte des Königshauses\r\nhat bisher kaum jemand beachtet.\r\nIn letzter Zeit hat man allerdings\r\nZwergorks dort ein und aus gehen sehen.\r\nManche haben dort auch ihre Kriegsbestien zurückgelassen.\r\nVielleicht hüten sie in der Höhle\r\nein Geheimnis."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "アンセスターオークたちが棲息する、とても\r\n原始的な拠点のようなもの。実際には集団で\r\n生活しているだけの縄張りのようなものかと\r\n思われているが、ヘルハウンドを家畜のように\r\n飼い慣らしている節が見受けられる点には\r\n今後も警戒が必要だろう",
+      "source_en": "A primitive base-like habitat where Ancestor Orcs\r\ndwell.\r\nIt is believed to be a territory where they\r\nsimply live in groups, but caution will be\r\nnecessary in the future, as there seems to be a\r\ntendency to tame Hellhounds like livestock.",
+      "text": "Eine einfache Siedlung, in der Urorks\r\nin Gruppen leben.\r\nVermutlich handelt es sich bloß\r\num ein gewöhnliches Revier.\r\nAllerdings scheinen sie Höllenhunde wie Nutztiere zu zähmen.\r\nHier ist also weiterhin Vorsicht geboten."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳　東部にある資材置き場\r\nここにあるものはメガド市街にて使用される資材\r\nだが、資材をここに集約しているというよりかは\r\n市街に持ち込むための検査を受けるための\r\n一時的な保管所といった位置付けのものだ",
+      "source_en": "Urteca Mountains' Eastern Materials Storage Area.\r\nThe items found here are materials used in the\r\ncity of Megado.\r\nHowever, instead of being a centralized location\r\nfor materials, it serves as a temporary storage\r\nfacility for inspections before being brought into\r\nthe city.",
+      "text": "Ein Baustofflager im Osten des Urteca-Gebirges.\r\nDie Vorräte hier sind für die Stadt Megado bestimmt.\r\nDoch man sammelt hier\r\nkeine größeren Bestände.\r\nDie Baustoffe bleiben nur so lange im Lager,\r\nbis sie geprüft worden sind\r\nund in die Stadt gebracht werden können."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳　北部は元よりアンセスターオークや\r\nその他の魔獣が多く生息する一帯であったが\r\n戦乱によってそれぞれの住処に変化が生じたようだ\r\nここでは特にアンセスターオークの群れが勢いを\r\n持っている様子が報告され、要注意スポットである",
+      "source_en": "In the north, there used to be home to many\r\nAncestor Orcs and other magickal creatures.\r\nDue to the ongoing conflict, there have been\r\nchanges in their respective habitats.\r\nIt has been reported that particularly in this\r\narea, there is a strong presence of Ancestor Orc\r\nherds, making it a spot that requires caution.",
+      "text": "Im Norden des Urteca-Gebirges lebten schon immer\r\nviele Urorks und andere Bestien.\r\nDer Krieg hat jedoch verändert,\r\nwo sich die Monster aufhalten.\r\nIn dieser Gegend sind inzwischen\r\nbesonders viele Urork-Horden unterwegs.\r\nHier ist besondere Vorsicht geboten."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "本来であれば、死して大地に還るはずの魂が\r\n何らかの理由で炎をまとった影として徘徊する\r\nことがある。ここにはそのような魔物が集まりやすい\r\nらしく、駆除しなければ集まる魔物の数は\r\n増えるばかりだ",
+      "source_en": "Souls that were supposed to return to the earth\r\nin death sometimes wander as shadows clad in\r\nflames for some reason.\r\nIt seems that such creatures tend to gather here,\r\nand if they are not exterminated, the number of\r\ncreatures that gather only increases.",
+      "text": "Manche Seelen, die nach dem Tod zur Erde\r\nzurückkehren sollten, irren aus unbekannten Gründen\r\nals brennende Schatten umher.\r\nAn diesem Ort sammeln sich solche Wesen.\r\nSolange man sie nicht vertreibt,\r\nwerden es immer mehr."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

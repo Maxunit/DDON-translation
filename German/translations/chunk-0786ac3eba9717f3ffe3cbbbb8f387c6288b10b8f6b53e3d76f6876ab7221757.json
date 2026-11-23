@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000002_00.gmd",
+  "arc_path": "\\quest\\q60000002.arc",
+  "entries": [
+    {
+      "key": "q60000002_00_78",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "クラン酒場に集う勇",
+      "source_en": "Gathering in the Clan Tavern",
+      "text": "Treffpunkt Clan-Taverne"
+    },
+    {
+      "key": "q60000002_00_78",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "クランの基本を学ぶため\r\nクラン酒場にいるキビザから話を聞く",
+      "source_en": "To learn the basics of the clan,\r\nlisten to the story from Kibiza\r\nin the Clan Tavern.",
+      "text": "Lerne, wie Clans funktionieren.\r\nGeh dazu in die Clan-Taverne\r\nund hör dir an, was Kibiza zu sagen hat."
+    },
+    {
+      "key": "q60000002_00_1540",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "宿場区のクラン酒場にいるキビザに話を聞く",
+      "source_en": "Talk to Kibiza at the Clan Tavern in the Relay Station",
+      "text": "Sprich mit Kibiza in der Clan-Taverne im Herbergsviertel."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

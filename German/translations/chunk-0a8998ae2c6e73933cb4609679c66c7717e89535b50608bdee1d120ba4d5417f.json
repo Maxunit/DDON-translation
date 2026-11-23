@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300403_00.gmd",
+  "arc_path": "\\quest\\q60300403.arc",
+  "entries": [
+    {
+      "key": "q60300403_00_240",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ジョブエンブレム試練　プリースト",
+      "source_en": "Vocation Emblem Trial: Priest",
+      "text": "Klassenemblem-Prüfung – Priester"
+    },
+    {
+      "key": "q60300403_00_240",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ギルスタンからエンブレムストーンを\r\n譲り受ける試練に挑む",
+      "source_en": "Undertake the trial to obtain \r\nthe Emblem Stone from Gilstan",
+      "text": "Bestehe die Prüfung,\r\num von Gilstan das Klassenemblem zu erhalten."
+    },
+    {
+      "key": "q60300403_00_2970",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<STG 550>に行き<NPC 2004>と話す",
+      "source_en": "Head to <STG 550> and speak with <NPC 2004>",
+      "text": "Geh zu „<STG 550>“ und sprich mit <NPC 2004>."
+    },
+    {
+      "key": "q60300403_00_2971",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "最奥に向かい試練を開始する",
+      "source_en": "Head to the innermost part and begin the trial",
+      "text": "Geh bis ins Innerste und beginne die Prüfung."
+    },
+    {
+      "key": "q60300403_00_3263",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "時間内に死なずに全ての敵を討伐する",
+      "source_en": "Defeat all enemies within time without dying",
+      "text": "Besiege alle Gegner, bevor die Zeit abläuft, und bleib am Leben."
+    },
+    {
+      "key": "q60300403_00_3264",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "祠内にいる<NPC 2004>に報告する",
+      "source_en": "Report to <NPC 2004> within the chapel",
+      "text": "Erstatte <NPC 2004> im Schrein Bericht."
+    },
+    {
+      "key": "q60300403_00_3265",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<STG 510>の<NPC 2000>からエンブレムストーンをもらう",
+      "source_en": "Receive Emblem Stone from <NPC 2000> in <STG 510>",
+      "text": "Hol das Klassenemblem bei <NPC 2000> in „<STG 510>“ ab."
+    },
+    {
+      "key": "q60300403_00_3420",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<STG 200>の<NPC 1029>に報告する",
+      "source_en": "Report to <NPC 1029> in <STG 200>",
+      "text": "Erstatte <NPC 1029> in „<STG 200>“ Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

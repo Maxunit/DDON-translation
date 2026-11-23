@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60301003.gmd",
+  "arc_path": "\\quest\\q60301003.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "エントが倒れた場所にキラキラと光る不思議な欠片が落ちていた",
+      "source_en": "A strange, glittering fragment was dropped\r\nwhere the Ent fell.",
+      "text": "An der Stelle, an der der Ent gefallen war,\r\nlag ein seltsam glitzernder Splitter."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "メイリーフから光る欠片をもらった",
+      "source_en": "Received a glowing fragment from Mayleaf.",
+      "text": "Du hast von Mayleaf einen leuchtenden Splitter erhalten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

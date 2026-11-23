@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q61000004_00.gmd",
+  "arc_path": "\\quest\\q61000004.arc",
+  "entries": [
+    {
+      "key": "q61000004_00_361",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "黒呪の迷宮　深淵への案内",
+      "source_en": "Guide to Bitterblack Maze: The Abyss",
+      "text": "Finstergram-Labyrinth – Weg in den Abgrund"
+    },
+    {
+      "key": "q61000004_00_361",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "とある場所について\r\nリュカから話を聞く",
+      "source_en": "Listen to a story from Luca about a certain place",
+      "text": "Lass dir von Luca von einem besonderen Ort erzählen."
+    },
+    {
+      "key": "q61000004_00_5201",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "リュカから詳しい話を聞く",
+      "source_en": "Hear more from Luca",
+      "text": "Lass dir von Luca mehr darüber erzählen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

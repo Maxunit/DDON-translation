@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60350002.gmd",
+  "arc_path": "\\quest\\q60350002.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "白竜様が試練をお与えになるそうだ\r\n心して聞いてくれ",
+      "source_en": "I hear Lord White Dragon will bestow\r\na trial upon you. Heed his words well.",
+      "text": "Der Weiße Drache will dich auf die Probe stellen.\r\nHör ihm gut zu."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "そうか――\r\nまぁいい\r\n時間はいくらでもある\r\n準備ができたら、いつでも話しかけてくれ",
+      "source_en": "I see. Well, no matter. There's plenty of time.\r\nSpeak to me when you're ready.",
+      "text": "Verstehe. Das macht nichts. Zeit haben wir genug.\r\nSprich mich an, sobald du bereit bist."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "それにしても、俺もえらくなったものだ\r\n次代の竜となる覚者様に\r\n試練への案内をするなんて――なぁ？",
+      "source_en": "Still, I've risen quite high myself... \r\nGuiding Ser Arisen, the next Dragon, \r\nto their trial.\r\nQuite an honor, don't you think?",
+      "text": "Ich hab es ganz schön weit gebracht, was?\r\nIch darf den Erweckten, den nächsten Drachen,\r\nzu seiner Prüfung führen.\r\nEine ziemliche Ehre, findest du nicht?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "次代の竜を担うにあたって\r\n最後の試練、との話だ\r\nきっと想像もできないような困難が\r\n待ち受けていることだろう",
+      "source_en": "This last trial awaits only those who bear\r\nthe mantle of becoming the next Dragon. \r\nNo doubt, unimaginable hardships await ahead.",
+      "text": "Das soll die letzte Prüfung für den künftigen Drachen sein.\r\nAuf dich warten bestimmt Schwierigkeiten,\r\ndie wir uns kaum vorstellen können."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "――覚悟はできているんだな？\r\nそれじゃあ、向かうとするか\r\n現地までは俺が案内しよう",
+      "source_en": "Are you prepared?\r\nWell then, let's head over.\r\nI'll lead you there.",
+      "text": "Bist du bereit?\r\nDann lass uns aufbrechen.\r\nIch zeige dir den Weg."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

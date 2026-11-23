@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60000015.gmd",
+  "arc_path": "\\quest\\q60000015.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "本来の装備の上から、見た目のみを\r\n反映したい装備を重ねて着る技――\r\nそう理解してくれればいいわ",
+      "source_en": "It's a technique to layer appearances\r\nover your actual equipment.\r\nThat's all you need to know.",
+      "text": "Der Zauber legt die gewünschte Kleidung über deine Ausrüstung\r\nund ändert so ihr Aussehen.\r\nMehr brauchst du nicht zu wissen."
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "これで、美しく着飾って戦いの場に\r\n向かいなさい、ふふふ",
+      "source_en": "Now go forth into battle, beautifully adorned.\r\nStand tall, hehehe.",
+      "text": "Jetzt zieh gut gekleidet in die Schlacht.\r\nUnd immer schön den Kopf hoch, hihi."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50000002_00.gmd",
+  "arc_path": "\\quest\\q50000002.arc",
+  "entries": [
+    {
+      "key": "q50000002_00_33",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "古き力に魅かれし者",
+      "source_en": "Drawn to Ancient Power",
+      "text": "Von alter Macht angezogen"
+    },
+    {
+      "key": "q50000002_00_33",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n古き祭祀場にて、指輪に吸い寄せられし\r\n魔の集う気配がある\r\n己が力を尽くし、新たな試練を打ち破れ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nIn the ancient sacred grounds, drawn to the ring,\r\nthere is a gathering presence of dark magick.\r\nExert your strength and overcome the new trial.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nAn der alten Kultstätte sammelt sich finstere Magie.\r\nDer Ring zieht sie an.\r\nSetzt all eure Kraft ein und besteht diese neue Prüfung!"
+    },
+    {
+      "key": "q50000002_00_1264",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "制限時間内に現れる敵を全滅する",
+      "source_en": "Annihilate all enemies that appear within the time limit.",
+      "text": "Besiegt alle Gegner, die vor Ablauf der Zeit erscheinen."
+    },
+    {
+      "key": "q50000002_00_1365",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "最後の敵を討伐する",
+      "source_en": "Defeat the final enemy",
+      "text": "Besiegt den letzten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

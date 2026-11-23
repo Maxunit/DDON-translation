@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000003_00.gmd",
+  "arc_path": "\\quest\\q60000003.arc",
+  "entries": [
+    {
+      "key": "q60000003_00_20",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "頑盾の証　ファイター戦術試練",
+      "source_en": "Fighter Tactics Trial: A Stubborn Shield",
+      "text": "Zeichen des standhaften Schilds – Taktikprüfung für Kämpfer"
+    },
+    {
+      "key": "q60000003_00_20",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ファイターの基本戦術を学ぶため\r\n修練の祠にて試練に挑む",
+      "source_en": "In order to learn the basic tactics of Fighter,\r\nchallenge the trial of the Training Chapel",
+      "text": "Stell dich der Prüfung im Übungsschrein,\r\num die Grundlagen für Kämpfer zu lernen."
+    },
+    {
+      "key": "q60000003_00_1081",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "修練の祠前の崖下にいる白衛騎士団員と話す",
+      "source_en": "Speak with the White Knight at the base of the cliff before the Training Chapel",
+      "text": "Sprich mit dem Ritter der Weißen Garde am Fuß des Felsens vor dem Übungsschrein."
+    },
+    {
+      "key": "q60000003_00_1082",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "修練の祠内のウィルソンと話す",
+      "source_en": "Speak with Wilson in the Training Chapel",
+      "text": "Sprich mit Wilson im Übungsschrein."
+    },
+    {
+      "key": "q60000003_00_1083",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "連撃で敵を攻撃せよ",
+      "source_en": "Attack an enemy with Onslaught",
+      "text": "Greif einen Gegner mit Schlagfolge an."
+    },
+    {
+      "key": "q60000003_00_1134",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "敵ガード中に斬り崩しを成功せよ",
+      "source_en": "Break the enemy's guard stance with your charged attack",
+      "text": "Durchbrich die Deckung eines Gegners mit dem Deckungsbrecher."
+    },
+    {
+      "key": "q60000003_00_1135",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "最深部のゴブリンを全滅せよ",
+      "source_en": "Defeat the remaining Goblins in the inner sanctum",
+      "text": "Besiege alle Goblins im hintersten Teil des Schreins."
+    },
+    {
+      "key": "q60000003_00_1136",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "盾で敵の攻撃をガードせよ",
+      "source_en": "Guard and block when the enemy attacks",
+      "text": "Blocke den Angriff eines Gegners mit dem Schild."
+    },
+    {
+      "key": "q60000003_00_1137",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "最奥にある＜頑盾の証＞を入手する",
+      "source_en": "Collect the proof of completing the trial",
+      "text": "Hol das Zeichen des standhaften Schilds am Ende des Schreins ab."
+    },
+    {
+      "key": "q60000003_00_1138",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿のレンテンに経緯を報告する",
+      "source_en": "Report back to Renton in the White Dragon Temple",
+      "text": "Erstatte Renton im Tempel des Weißen Drachen Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

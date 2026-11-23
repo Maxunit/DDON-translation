@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60310000.gmd",
+  "arc_path": "\\quest\\q60310000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "あぁ、覚者か\r\nいつも絶妙なタイミングで現れるな――\r\nいや、助かるよ",
+      "source_en": "",
+      "text": "Ah, du bist es, Erweckter.\r\nDu tauchst wirklich immer im richtigen Moment auf …\r\nDeine Hilfe kommt mir gerade recht."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "実は、また奇妙な事件が起こっていてな――\r\n人手が足りていないから、協力してくれると助かる",
+      "source_en": "",
+      "text": "Es hat schon wieder einen seltsamen Vorfall gegeben.\r\nWir sind zu wenige. Kannst du uns aushelfen?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "実は昨晩頃から、ハイデル周辺でアンデッドの\r\n目撃証言が急増している\r\n奴らが日の当たる場所に出るなんて珍しいんだが――",
+      "source_en": "",
+      "text": "Seit gestern Abend melden immer mehr Leute\r\nUntote in der Gegend um Hidell.\r\nDabei kommen die sonst kaum ins Tageslicht."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "手が回っていない場所を調査してきてくれないか？\r\n場所は《<SPOT 715>》だ\r\n何か変わったものを見つけたら、持ってきてくれ",
+      "source_en": "",
+      "text": "Kannst du dort nachsehen, wo wir noch nicht waren?\r\nEs geht um „<SPOT 715>“.\r\nWenn du etwas Ungewöhnliches findest, bring es mir."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "アンデッドの奴らが日の当たる場所に\r\n出るなんて珍しいんだが――\r\nやれやれ、また奇怪な事件って訳か",
+      "source_en": "",
+      "text": "Untote kommen sonst kaum\r\nins Tageslicht …\r\nTja, schon wieder ein rätselhafter Vorfall."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "覚者よ、もしできるなら\r\n手が回っていない場所を調査してきてくれないか？\r\n場所は《<SPOT 715>》だ\r\n何か変わったものを見つけたら、持ってきてくれ",
+      "source_en": "",
+      "text": "Falls du Zeit hast, Erweckter,\r\nkannst du dort nachsehen, wo wir noch nicht waren?\r\nEs geht um „<SPOT 715>“.\r\nWenn du etwas Ungewöhnliches findest, bring es mir."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "これは――いったいなんだ？\r\n随分禍々しい見た目だが――\r\n俺は魔法やら竜力やらに詳しいわけじゃないが\r\nそれでも、こう――不思議なパワーを感じるな",
+      "source_en": "",
+      "text": "Was … was ist denn das?\r\nSieht ganz schön unheilvoll aus.\r\nIch kenne mich mit Magie und Drachenkraft nicht aus,\r\naber selbst ich spüre, dass davon eine seltsame Kraft ausgeht."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "はぁ――竜力が絡んでるとなると、\r\n厄介なことになりそうだな",
+      "source_en": "",
+      "text": "Seufz … Wenn da Drachenkraft im Spiel ist,\r\nwird das Ganze bestimmt kompliziert."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "この件は覚者、専門家であるお前に任せた\r\nとにかくアンデッド騒ぎを収めてくれればいいから\r\n解決したら報告してくれ",
+      "source_en": "",
+      "text": "Du kennst dich mit so was besser aus, Erweckter.\r\nSorg einfach dafür, dass mit den Untoten Ruhe ist.\r\nMelde dich, sobald du das erledigt hast."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "この件は覚者、専門家であるお前に任せた\r\nとにかくアンデッド騒ぎを収めてくれればいいから\r\n解決したら報告してくれ",
+      "source_en": "",
+      "text": "Du kennst dich mit so was besser aus, Erweckter.\r\nSorg einfach dafür, dass mit den Untoten Ruhe ist.\r\nMelde dich, sobald du das erledigt hast."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "――こういう普段見かけないものが見つかると\r\n大体いつも面倒なことが起きるんだよ――\r\nしかも、なぜかいつも俺が当直の時に起きるんだよな",
+      "source_en": "",
+      "text": "Sobald so ein seltsames Ding auftaucht,\r\ngibt es fast immer Ärger …\r\nUnd seltsamerweise habe jedes Mal ich Dienst."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "――なに？\r\n異世界から来た喋るスケルトンが\r\n世界征服のために潜入してるだと？",
+      "source_en": "",
+      "text": "Was?\r\nEin sprechendes Skelett aus einer anderen Welt\r\nhat sich eingeschlichen, um die Welt zu erobern?"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "かわいそうに、打ちどころが悪かったんだな\r\nこの村の宿屋で少し休むと良い",
+      "source_en": "",
+      "text": "Du hast wohl einen ordentlichen Schlag auf den Kopf bekommen.\r\nRuh dich lieber ein wenig im Gasthaus aus."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_jp",
+      "source_jp": "――あぁ、そうそう、状況が変わったんだ\r\n先ほど、アンデッド掃討特別部隊が編制された\r\nだから、この騒ぎもじきに収まるだろう",
+      "source_en": "",
+      "text": "Ach ja, die Lage hat sich geändert.\r\nWir haben soeben einen Sondertrupp gegen die Untoten aufgestellt.\r\nDamit dürfte der Spuk bald vorbei sein."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_jp",
+      "source_jp": "無駄足になって悪かったな\r\nどうせいつもの\"竜力の淀み\"とかその辺りが\r\n原因なんだろう？",
+      "source_en": "",
+      "text": "Tut mir leid, dass du umsonst hergekommen bist.\r\nEs liegt wahrscheinlich wieder an etwas wie\r\nder gestauten Drachenkraft, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_jp",
+      "source_jp": "おそらく、お前にも討伐依頼が\r\nそのうち舞い込むはずだ\r\nその時にはぜひ、協力を頼む",
+      "source_en": "",
+      "text": "Früher oder später wird man wohl auch dich bitten,\r\nein paar von ihnen zu erledigen.\r\nWenn es so weit ist, zählen wir auf dich."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_jp",
+      "source_jp": "アア――オオ――",
+      "source_en": "",
+      "text": "AAH … OOH …"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_jp",
+      "source_jp": "――\r\n――――",
+      "source_en": "",
+      "text": "…\r\n……"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_jp",
+      "source_jp": "人間――キサマ――\r\n邪魔ヲスルナ――",
+      "source_en": "",
+      "text": "MENSCH … DU WAGST ES …\r\nKOMM MIR NICHT IN DIE QUERE …"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_jp",
+      "source_jp": "――\r\n――――",
+      "source_en": "",
+      "text": "…\r\n……"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_jp",
+      "source_jp": "――頭ニ乗ルナヨ、人間\r\nコレ以上、モモン――アインズ様ノ邪魔スレバ\r\n殺ス",
+      "source_en": "",
+      "text": "WERDE BLOSS NICHT ÜBERMÜTIG, MENSCH.\r\nWENN DU MOMON … ICH MEINE, HERRN AINZ …\r\nWEITER IN DIE QUERE KOMMST, BRINGE ICH DICH UM."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_jp",
+      "source_jp": "馬鹿メ、カカッタナ！",
+      "source_en": "",
+      "text": "DU TROTTEL! REINGEFALLEN!"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_jp",
+      "source_jp": "ココハ俺ノナワバリ――\r\n人間ゴトキガココマデ来レルカナ？",
+      "source_en": "",
+      "text": "DAS HIER IST MEIN REVIER …\r\nOB EIN LÄPPISCHER MENSCH ES BIS HIERHIN SCHAFFT?"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_jp",
+      "source_jp": "愚カナ冒険者メ\r\nアインズ様ノ僕タル俺ニ出会ッタコトヲ\r\n後悔シナガラ――朽チ果テルガ良イ！",
+      "source_en": "",
+      "text": "DU TÖRICHTER ABENTEURER.\r\nDU WIRST BEREUEN, DASS DU MIR BEGEGNET BIST,\r\nMIR, DEM DIENER VON HERRN AINZ. FAHR ZUR HÖLLE!"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_jp",
+      "source_jp": "ゲェッ！　\r\nナンテ執念深サ――！",
+      "source_en": "",
+      "text": "UÄH!\r\nWIE KANN MAN NUR SO HARTNÄCKIG SEIN?!"
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_jp",
+      "source_jp": "覚者？　\r\n――ナルホド、コノ世界デノ冒険者ッテ訳カ\r\n\"アンデッド目撃事件\"ノ調査ニ来タ、ダト？",
+      "source_en": "",
+      "text": "EIN ERWECKTER?\r\nACH SO, SO NENNT MAN IN DIESER WELT DIE ABENTEURER.\r\nUND DU WILLST DIE SICHTUNGEN DER UNTOTEN UNTERSUCHEN?"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_jp",
+      "source_jp": "ククク――ナルホドナ\r\nイイダロウ、教エテヤロウ",
+      "source_en": "",
+      "text": "HEHEHE … VERSTEHE.\r\nNA SCHÖN, ICH ERKLÄRE ES DIR."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_jp",
+      "source_jp": "俺ハ、ナザリック地下墳墓ノ支配者デアル\r\n不死王アインズ・ウール・ゴウン！\r\n――様ノ創リ出シタ、強化型スケルトン・ウォリアーダ",
+      "source_en": "",
+      "text": "ICH BIN DER HERR DES GROSSEN GRABS VON NAZARICK,\r\nDER KÖNIG DER UNTOTEN, AINZ OOAL GOWN!\r\nGENAUER GESAGT, EIN VERSTÄRKTER SKELETTKRIEGER, DEN ER ERSCHAFFEN HAT."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_jp",
+      "source_jp": "アインズ様ノ崇高ナ目的――ソレハ\r\n色々ナ世界ニスパイヲ送リコミ\r\n情報ヤ資源ヲ集メ、全宇宙ヲ征服スルコト！",
+      "source_en": "",
+      "text": "HERR AINZ VERFOLGT EIN ERHABENES ZIEL.\r\nSPIONE SOLLEN IN VERSCHIEDENEN WELTEN\r\nWISSEN UND ROHSTOFFE SAMMELN, DAMIT ER DAS GANZE UNIVERSUM EROBERN KANN!"
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_jp",
+      "source_jp": "ククク――ソウ、俺ハ精鋭スケルトンスパイ\r\nコノ自慢ノ知能デ\r\n他ノスケルトンヤ魔物タチヲ、操ッテイタノダ",
+      "source_en": "",
+      "text": "HEHEHE … JA, ICH BIN EIN ELITESPION DER SKELETTE.\r\nMIT MEINEM ÜBERRAGENDEN VERSTAND\r\nHABE ICH DIE ANDEREN SKELETTE UND MONSTER GELENKT."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_jp",
+      "source_jp": "トニカク――ソレヲ邪魔スルッテイウナラ\r\n容赦ハシナイ\r\n貴様ニハ消エテモラオウ！",
+      "source_en": "",
+      "text": "JEDENFALLS KENNE ICH KEINE GNADE,\r\nWENN DU MICH AUFHALTEN WILLST.\r\nDANN MUSST DU VERSCHWINDEN!"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_jp",
+      "source_jp": "マ――待テ！\r\n待テ、殺スナ！\r\n何ガホシイ、金カ？",
+      "source_en": "",
+      "text": "W-WARTE!\r\nWARTE, BRING MICH NICHT UM!\r\nWAS WILLST DU? GOLD?"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_jp",
+      "source_jp": "ソ、ソウダ！\r\nオ前達ハ、金デ動ク冒険者ナンダロ！？\r\nナラバコウシヨウ、取引ダ！\r\nアインズ様ニ協力スレバ、トビキリノ報酬ヲヤル",
+      "source_en": "",
+      "text": "G-GENAU!\r\nIHR ABENTEURER ARBEITET DOCH FÜR GELD!\r\nNA, DANN MACHEN WIR EINEN HANDEL!\r\nHILF HERRN AINZ, UND ICH BELOHNE DICH FÜRSTLICH!"
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_jp",
+      "source_jp": "オ前ノヨウナ\"腕自慢\"ヲ探シテイタンダ！\r\nサ、サッキノハ、実力ヲ試シテイタノサ\r\n恨ミッコナシダ！",
+      "source_en": "",
+      "text": "ICH HABE JEMANDEN WIE DICH GESUCHT!\r\nV-VORHIN HABE ICH BLOSS DEIN KÖNNEN AUF DIE PROBE GESTELLT.\r\nNICHTS FÜR UNGUT!"
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_jp",
+      "source_jp": "協力シテクレルダロウ！？",
+      "source_en": "",
+      "text": "DU HILFST MIR DOCH, ODER?!"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_jp",
+      "source_jp": "いやだ",
+      "source_en": "",
+      "text": "Nein, will ich nicht."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_jp",
+      "source_jp": "わかった",
+      "source_en": "",
+      "text": "Na gut."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_jp",
+      "source_jp": "俺ハアルベド様ニ命ジラレテ\r\n≪禍魂の晶石≫トイウアイテムヲ探シテイル\r\nソノタメニ多クノアンデッドヲ使ッテ\r\n捜索シテイルンダガ――",
+      "source_en": "",
+      "text": "HERRIN ALBEDO HAT MIR BEFOHLEN,\r\nDIE JUWELEN DER VERWÜSTUNG ZU FINDEN.\r\nICH HABE JEDE MENGE UNTOTE\r\nAUF DIE SUCHE GESCHICKT, ABER …"
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_jp",
+      "source_jp": "全ク見ツカランノダ！\r\nヤハリ脳無シモンスターハ駄目ダナ\r\n骨折リ損モイイトコロダ――",
+      "source_en": "",
+      "text": "SIE FINDEN EINFACH KEINES!\r\nMIT DIESEN HIRNLOSEN MONSTERN IST NICHTS ANZUFANGEN.\r\nDIE HABEN SICH GANZ UMSONST DIE KNOCHEN KRUMM GEMACHT …"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_jp",
+      "source_jp": "ソコデダ、オ前ラノヨウニ脳ミソガアッテ\r\n腕モアル奴ラノ協力ガ必要ナンダ\r\nモットモット、沢山ノナ",
+      "source_en": "",
+      "text": "DARUM BRAUCHE ICH LEUTE WIE DICH,\r\nDIE VERSTAND HABEN UND WAS KÖNNEN.\r\nUND ZWAR VIEL MEHR DAVON."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_jp",
+      "source_jp": "ダカラ、知ッテイタラ教エテホシイ\r\nオ前ノヨウナ\"冒険者ガ集マル場所\"へ\r\n連レテイッテクレ",
+      "source_en": "",
+      "text": "SAG MIR ALSO, WENN DU WEISST,\r\nWO SICH ABENTEURER WIE DU VERSAMMELN.\r\nUND DANN BRING MICH DORTHIN."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_jp",
+      "source_jp": "フン、酒場カ――ドノ世界デモ人間ドモノ\r\n考エルコトハ一緒ダナ\r\n――アァイヤイヤ、活気ガアッテ良イ所ダネ！",
+      "source_en": "",
+      "text": "HMPF. EINE TAVERNE. DIE MENSCHEN\r\nTICKEN DOCH IN ALLEN WELTEN GLEICH.\r\nÄH, ICH MEINE, WAS FÜR EIN LEBHAFTER ORT!"
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_jp",
+      "source_jp": "ココデ募レバキット、沢山ノ猛者ガ集マルダロウ\r\nオ前、人間ノクセニ――ナカナカ邪悪ジャナイカ！\r\nアインズ様モ　キットオ喜ビニナルダロウ\r\n感謝スルゾ",
+      "source_en": "",
+      "text": "HIER FINDEN SICH BESTIMMT JEDE MENGE GUTE KÄMPFER.\r\nDU BIST GANZ SCHÖN BÖSE FÜR EINEN MENSCHEN!\r\nHERR AINZ WIRD SICH BESTIMMT FREUEN.\r\nICH DANKE DIR."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_jp",
+      "source_jp": "ソウダ、今回ノ駄賃トシテ――良イ物ヲヤロウ\r\nコレハアインズ様ノ騎乗魔獣、ハムスケ様ノ御尊像ダ\r\nコノ身体ニナッテカラ、手慣ラシトシテ作ッテミタ",
+      "source_en": "",
+      "text": "FÜR DEINE MÜHE GEBE ICH DIR ETWAS BESONDERES.\r\nDAS IST EIN ABBILD VON HAMSUKE, DEM REITTIER VON HERRN AINZ.\r\nICH HABE ES GEMACHT, UM MICH AN DIESEN KÖRPER ZU GEWÖHNEN."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_jp",
+      "source_jp": "サテト、少シ準備ノ時間ガイルナ――\r\n後デマタ、正式ニ冒険者ノ募集ヲ始メヨウ\r\nオ前モ、良カッタラ――マタ協力シテクレ",
+      "source_en": "",
+      "text": "JETZT MUSS ICH ERST NOCH EIN PAAR DINGE VORBEREITEN.\r\nSPÄTER SUCHE ICH GANZ OFFIZIELL NACH ABENTEURERN.\r\nWENN DU MAGST, KANNST DU MIR DANN WIEDER HELFEN."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

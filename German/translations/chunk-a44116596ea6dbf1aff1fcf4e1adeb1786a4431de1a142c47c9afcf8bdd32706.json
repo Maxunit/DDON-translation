@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200202_00.gmd",
+  "arc_path": "\\quest\\q60200202.arc",
+  "entries": [
+    {
+      "key": "q60200202_00_196",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "クラウスとジョゼフ",
+      "source_en": "Klaus and Joseph",
+      "text": "Klaus und Joseph"
+    },
+    {
+      "key": "q60200202_00_196",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "クラウスの頼みごとを聞く",
+      "source_en": "Listen to Klaus' request",
+      "text": "Hör dir an, worum Klaus dich bittet."
+    },
+    {
+      "key": "q60200202_00_2708",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフの元へ行く",
+      "source_en": "Go to Joseph",
+      "text": "Geh zu Joseph."
+    },
+    {
+      "key": "q60200202_00_2709",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフと話す",
+      "source_en": "Speak with Joseph",
+      "text": "Sprich mit Joseph."
+    },
+    {
+      "key": "q60200202_00_2710",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "クラウスと話す",
+      "source_en": "Speak with Klaus",
+      "text": "Sprich mit Klaus."
+    },
+    {
+      "key": "q60200202_00_2711",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "モルフォールのガラダの元へ相談に向かう",
+      "source_en": "Head over to Gearóid in Morfaul for a consultation",
+      "text": "Geh zu Gearóid in Morfaul und bitte ihn um Rat."
+    },
+    {
+      "key": "q60200202_00_2712",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "各地のエリアマスターを訪ね、うち２ヶ所で植物を採取する",
+      "source_en": "Visit area masters across the land and \r\ngather plants from two locations.",
+      "text": "Such die Gebietsmeister in Phindym auf\r\nund sammle an zwei Fundorten Pflanzen."
+    },
+    {
+      "key": "q60200202_00_2713",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ガラダに報告する",
+      "source_en": "Report to Gearóid",
+      "text": "Erstatte Gearóid Bericht."
+    },
+    {
+      "key": "q60200202_00_2714",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "新たな植物採取のため＜<SPOT 897>＞へ向かう",
+      "source_en": "Head to \"<SPOT 897>\" to collect new plants",
+      "text": "Geh zu „<SPOT 897>“, um weitere Pflanzen zu sammeln."
+    },
+    {
+      "key": "q60200202_00_2715",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "植物に誘われし魔物を討伐する",
+      "source_en": "Defeat the foe(s) lured by the plants",
+      "text": "Besiege die Monster, die von den Pflanzen angelockt werden."
+    },
+    {
+      "key": "q60200202_00_2716",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間に帰還する",
+      "source_en": "Return to the Audience Chamber",
+      "text": "Kehre in den Audienzsaal zurück."
+    },
+    {
+      "key": "q60200202_00_2730",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "植物を採取する",
+      "source_en": "Collect plants",
+      "text": "Sammle die Pflanzen."
+    },
+    {
+      "key": "q60200202_00_2768",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "あと一つ植物を探し採取する",
+      "source_en": "One more plant to find and collect.",
+      "text": "Finde und sammle noch eine Pflanze."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,208 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60000006.gmd",
+  "arc_path": "\\quest\\q60000006.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《シールドブロウ》にて敵を攻撃せよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Attack the enemy with Shield Blow.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Greif den Gegner mit einem Schildhieb an.“"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_ATTACK_0>を押す」",
+      "source_en": "\"Press <ICON STG_ATTACK_0>.\"",
+      "text": "„Drücke <ICON STG_ATTACK_0>.“"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "「敵に近づいてダメージを与える\r\n　どこでも使える攻撃である」",
+      "source_en": "\"Approach the enemy and deal damage.\r\nThis is an attack that can be used anywhere.\"",
+      "text": "„Nähere dich dem Gegner und füge ihm Schaden zu.\r\nDiesen Angriff kannst du überall einsetzen.“"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《フォースガード》でフォースゲージを貯めろ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Use Force Guard to build the Force Gauge.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Fülle die Kraftanzeige mit dem Kraftblock.“"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "「盾を構えた状態で\r\n　敵の攻撃を全方位から防ぐ事で\r\n　フォースゲージを蓄積できる」",
+      "source_en": "\"By blocking enemy attacks from all\r\ndirections while holding up your shield, you\r\ncan accumulate Force Gauge.\"",
+      "text": "„Hältst du deinen Schild bereit,\r\nblockst du Angriffe aus allen Richtungen.\r\nDadurch füllt sich deine Kraftanzeige.“"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "「蓄積したフォースゲージを\r\n　仲間や敵に対して解放して使うのが\r\n　戦闘における基本スタイルとなる」",
+      "source_en": "\"The basic combat style involves using\r\naccumulated Force Gauge by releasing it\r\nunto allies or enemies.\"",
+      "text": "„Sammle Kraft an und setz sie ein,\r\num Gegner anzugreifen oder Verbündete zu stärken.\r\nDas ist die Grundlage deiner Kampfweise.“"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「敵を《フォースバースト》で攻撃せよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Attack enemies with Force Burst.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Greif den Gegner mit einem Kraftstoß an.“"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_SUB_WEP>を押しながら<ICON STG_TOUCH>を押す」",
+      "source_en": "\"Hold <ICON STG_SUB_WEP>, then press <ICON STG_TOUCH>.\"",
+      "text": "„Halte <ICON STG_SUB_WEP> gedrückt und drücke <ICON STG_TOUCH>.“"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "「蓄積したフォースゲージを解放して\r\n　敵に攻撃を与えられる\r\n　貯めたフォースゲージ量により威力が変わる」",
+      "source_en": "\"Release stored Force Gauge to attack\r\nthe enemy. The power varies depending\r\non the amount of Force Gauge stored.\"",
+      "text": "„Entlade die gesammelte Kraft,\r\num den Gegner anzugreifen.\r\nJe mehr Kraft du gesammelt hast, desto stärker der Angriff.“"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "《魔盾の証》を手に入れた！",
+      "source_en": "You have obtained the [Shield Sage's Mark]!",
+      "text": "Du hast das Zeichen des magischen Schilds erhalten!"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《アトラクト》で敵の注目をひきつけろ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Draw the enemy's attention with Attract.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Lenke mit Provozieren die Aufmerksamkeit des Gegners auf dich.“"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_MAIN_WEP>を押し続ける」",
+      "source_en": "\"Hold <ICON STG_MAIN_WEP>.\"",
+      "text": "„Halte <ICON STG_MAIN_WEP> gedrückt.“"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "「敵を自分にひきつける事で\r\n　盾で敵の攻撃を防ぎながら\r\n　仲間に攻撃チャンスを与えられる」",
+      "source_en": "\"By drawing enemies toward yourself, you can\r\nblock their attacks with your shield and\r\ncreate opportunities for allies to attack.\"",
+      "text": "„Lockst du die Gegner zu dir,\r\nkannst du ihre Angriffe mit deinem Schild auffangen\r\nund deinen Gefährten Gelegenheit zum Angriff geben.“"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《シールドロック》でフォースゲージを貯めよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Use Shield Lock to build the Force Gauge.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Fülle die Kraftanzeige mit dem Schildblock.“"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_SUB_WEP>を押した状態で\r\n　敵の攻撃を受ける」",
+      "source_en": "\"While holding <ICON STG_SUB_WEP>,\r\ntake enemy attacks.\"",
+      "text": "„Halte <ICON STG_SUB_WEP> gedrückt\r\nund fang gegnerische Angriffe ab.“"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "「敵の攻撃と同時に盾で防ぐ事で\r\n　フォースゲージを蓄積できる\r\n　ただし前方のみしか防ぐ事ができない」",
+      "source_en": "\"By blocking enemy attacks with your shield\r\nat the right moment, you can accumulate\r\nForce Gauge. \r\nHowever, it only blocks frontal attacks.\"",
+      "text": "„Blockst du einen gegnerischen Angriff\r\nim richtigen Moment, füllt sich\r\ndeine Kraftanzeige.\r\nSo blockst du Angriffe von vorn.“"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《フォースゲイン》を成功させよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Successfully execute Force Gain.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Setze Kraftfang erfolgreich ein.“"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "「敵の攻撃を引きつけて<ICON STG_SUB_WEP>を押す」",
+      "source_en": "\"Bait enemy attacks and press <ICON STG_SUB_WEP>\"",
+      "text": "„Warte auf den Angriff des Gegners und drücke dann <ICON STG_SUB_WEP>.“"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "「敵の攻撃をシールドロックでタイミングよく\r\n　防ぐ事でより多くのフォースを蓄積して\r\n　その際にスタミナの減る量を抑えられる事ができる」",
+      "source_en": "\"By blocking enemy attacks with a well-timed \r\nShield Lock, you can build up more Force\r\nand reduce the amount of stamina you \r\nlose in the process.\"",
+      "text": "„Wenn du den Schildblock\r\nim richtigen Moment einsetzt,\r\nsammelst du mehr Kraft\r\nund verbrauchst weniger Ausdauer.“"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《エレメントチェンジ》で属性選択せよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Select an attribute with Element Change.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Wähle mit Elementwechsel ein Element.“"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_ATTACK_1>を押し、\r\n　左スティックを倒して３属性を選択\r\n　<ICON STG_ATTACK_1>を押して属性決定」",
+      "source_en": "\"Press <ICON STG_ATTACK_1>,\r\ntilt the Left Stick to select an attribute,\r\nthen press <ICON STG_ATTACK_1> to confirm.\"",
+      "text": "„Drücke <ICON STG_ATTACK_1>.\r\nWähle am linken Stick eines der drei Elemente.\r\nBestätige mit <ICON STG_ATTACK_1>.“"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "「敵によって戦略的に戦うための\r\n　属性を切り替える事ができる」",
+      "source_en": "\"You can switch attributes strategically\r\nto adapt to different enemies.\"",
+      "text": "„Wechsle dein Element,\r\num dich an verschiedene Gegner anzupassen.“"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《フォースエンチャント》で味方に付与せよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Grant Force Enchantment to an ally.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Setze »Element verleihen« ein, um einem Verbündeten dein Element zu geben.“"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_MAIN_WEP>を押しながら<ICON STG_TOUCH>を押す」",
+      "source_en": "\"Hold <ICON STG_MAIN_WEP>, then press <ICON STG_TOUCH>.\"",
+      "text": "„Halte <ICON STG_MAIN_WEP> gedrückt und drücke <ICON STG_TOUCH>.“"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "「蓄積したフォースゲージの解放で\r\n　自分の攻撃属性を仲間に付与でき、\r\n　パーティー全体の攻撃力が増す事ができる」",
+      "source_en": "\"By releasing the accumulated Force Gauge,\r\nyou can grant your own attack attribute\r\nto allies, increasing the entire party's\r\nattack power.\"",
+      "text": "„Setz die gesammelte Kraft ein,\r\num deinen Verbündeten das Element\r\ndeiner Angriffe zu verleihen.\r\nDamit stärkst du die ganze Gruppe.“"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300047_00.gmd",
+  "arc_path": "\\quest\\q60300047.arc",
+  "entries": [
+    {
+      "key": "q60300047_00_310",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "黒呪の迷宮へ",
+      "source_en": "To the Bitterblack Maze",
+      "text": "Zum Finstergram-Labyrinth"
+    },
+    {
+      "key": "q60300047_00_310",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "とある場所について\r\nリュカから話を聞く",
+      "source_en": "Listen to a story from Luca about a certain place",
+      "text": "Hör dir an, von welchem Ort Luca dir erzählen möchte."
+    },
+    {
+      "key": "q60300047_00_4228",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "リュカから詳しい話を聞く",
+      "source_en": "Hear more from Luca",
+      "text": "Frag Luca nach weiteren Einzelheiten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

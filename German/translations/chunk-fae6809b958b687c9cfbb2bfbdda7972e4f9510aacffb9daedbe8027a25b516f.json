@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60350000.gmd",
+  "arc_path": "\\quest\\q60350000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "お前に一つ聞かせたい話がある――\r\nあのモゴックが根城にしていたガルドノック砦だが\r\n無視できないほどの脅威となりつつあるようだ",
+      "source_en": "I have something I need to discuss with you...\r\nMogok has made Gardnox Fortress his stronghold.\r\nIt's becoming a threat we can no longer ignore.",
+      "text": "Ich muss dir etwas erzählen …\r\nDu kennst die Festung Gardnox, Mogoks Unterschlupf.\r\nDie Bedrohung, die von ihr ausgeht, wird immer größer."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "本当に聞かないでいるつもりか？\r\nお前もよく知る、あのモゴックが根城にしている\r\nガルドノック砦についてだぞ",
+      "source_en": "You plan to ignore this warning?\r\nMogok's base is Gardnox Fortress-\r\nyou know the place well.",
+      "text": "Willst du wirklich nicht hören, was ich zu sagen habe?\r\nEs geht um die Festung Gardnox.\r\nDu weißt doch, dass sich Mogok dort verschanzt hat."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍の要塞とも言えるあの砦で\r\n闇の渦から現れた強力な魔物が\r\nモゴックと手を組んだらしい",
+      "source_en": "In that fortress, which could be considered\r\nthe very center of the orc army, a powerful\r\nfoe emerged from the vortex of darkness\r\nand seems to have joined forces with Mogok.",
+      "text": "Die Festung ist praktisch der Hauptstützpunkt\r\nder Orks. Dort ist ein mächtiges Monster\r\naus einem Wirbel der Finsternis aufgetaucht\r\nund hat sich offenbar mit Mogok verbündet."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "モゴックだけでも手を焼かされるというのに\r\n脅威が増えたとなっては――\r\nようするに、神殿が血相を変える\r\n事態ということだ",
+      "source_en": "Mogok alone was already a handful, but\r\nwith this added threat... well, let's just say\r\nthe temple is in an uproar over the situation.",
+      "text": "Mogok allein macht uns schon genug zu schaffen.\r\nUnd jetzt kommt auch noch dieses Monster hinzu.\r\nKein Wunder, dass im Tempel alle in Aufruhr sind."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "覚者の筆頭であるお前も\r\n当然、出撃するんだろう？",
+      "source_en": "As the foremost among the Arisen,\r\nI can count on your assistance, of course?",
+      "text": "Du führst die Erweckten an.\r\nDu wirst doch bestimmt mit ausrücken, oder?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,232 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60000005.gmd",
+  "arc_path": "\\quest\\q60000005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "よぉ！　早速だが\r\nあんたに受けてもらいたい特別な試練があるんだ\r\nシーカーのいろはについてのさ",
+      "source_en": "Hey! Straight to the point.\r\nI have a special trial for you to take.\r\nIt's about the basics of being a Seeker.",
+      "text": "He, kommen wir gleich zur Sache.\r\nIch habe eine besondere Prüfung für dich.\r\nDabei geht’s um die Grundlagen für Kundschafter."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ポーンの助けなしで、一人で行くんだ\r\nこれは、ジョブについて深く知るためだからな",
+      "source_en": "You'll go alone, without the help of Pawns.\r\nThis is to learn more about the Job.",
+      "text": "Du trittst allein an, ohne Hilfe von Vasallen.\r\nSo lernst du deine Klasse besser kennen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "場所は《修練の祠》だ\r\n神殿の外の左手、崖沿いに進むといい\r\n祠内にいる騎士団員から話を聞いてくれ",
+      "source_en": "The location is the [Training Chapel].\r\nHead forward along the cliff outside the\r\ntemple. Speak with the Knights' Order\r\nmember inside the chapel.",
+      "text": "Die Prüfung findet im Übungsschrein statt.\r\nGeh aus dem Tempel und folge links dem Felsen.\r\nSprich dann mit dem Ritter der Weißen Garde\r\nim Schrein."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "よっ、どうだった？　試練の成果は\r\nそうか、うまくいったかぁ！\r\nジョブの奥深さを知るいい経験になっただろう",
+      "source_en": "Oh, how was it? The trial's results.\r\nI see, it went well!\r\nA good experience to grasp\r\nyour Job's depth, right?",
+      "text": "Na, wie lief die Prüfung?\r\nAch, du hast sie bestanden!\r\nDabei hast du bestimmt viel darüber gelernt,\r\nwas in deiner Klasse steckt."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "もし別のジョブに転職することがあったら\r\nまた挑戦してみてくれ",
+      "source_en": "If you ever move on to another job,\r\ngive it another shot.",
+      "text": "Wenn du später die Klasse wechselst,\r\nprobier es mit einer weiteren Prüfung."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT ATTACK1></COL>の連斬で敵を攻撃するんだ！連続して押せば３連斬だ！",
+      "source_en": "Attack the enemy with Carve using <COL ff7575><KCT ATTACK1></COL>! \r\nIf you press it consecutively, it's a triple slash!",
+      "text": "Greif den Gegner mit Schnittfolge an. Drück dazu <COL ff7575><KCT ATTACK1></COL>!\r\nDrück die Taste mehrmals für drei Hiebe in Folge!"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT ATTACK2></COL>の百裂斬りで敵を攻撃するんだ！",
+      "source_en": "<COL ff7575><KCT ATTACK2></COL> attacks the enemy with Scarlet Kisses!",
+      "text": "Greif den Gegner mit Klingensalve an. Drück dazu <COL ff7575><KCT ATTACK2></COL>!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT ROLLING></COL>で転身だ。敵の攻撃を回避しろ！",
+      "source_en": "Dodge enemy attacks with <COL ff7575><KCT ROLLING></COL>!",
+      "text": "Setz mit <COL ff7575><KCT ROLLING></COL> die Ausweichrolle ein, um dem Angriff zu entgehen!"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><PADM><KCT WEAPON_SUB></COL>でロープを構え",
+      "source_en": "Ready your rope with <COL ff7575><PADM><KCT WEAPON_SUB></COL>.",
+      "text": "Halte das Seil mit <COL ff7575><PADM><KCT WEAPON_SUB></COL> bereit."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "その状態で<COL ff7575><KCT THROW_ROPE></COL>でロープ投げだ。敵との距離を縮めろ！",
+      "source_en": "In that state, throw the rope with <COL ff7575><KCT THROW_ROPE></COL>. \r\nClose the gap!",
+      "text": "Wenn das Seil bereit ist, wirf es mit <COL ff7575><KCT THROW_ROPE></COL>.\r\nZieh dich damit zum Gegner!"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "よし、では祠の奥へ向かい大型敵と対峙だ！大型敵の<COL ff7575>＜怒り状態＞</COL>に注意しろ！",
+      "source_en": "Alright! Head deeper into\r\nthe shrine and face the\r\nlarge enemy! Beware its\r\n<COL ff7575>enraged state</COL>!",
+      "text": "Gut! Geh tiefer\r\nin den Schrein und stell\r\ndich dem großen Gegner!\r\nPass auf, wenn er <COL ff7575>in Rage gerät</COL>!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "そして<COL ff7575><KCT TOUCH></COL>でヤツにしがみつけ！",
+      "source_en": "Now use <COL ff7575><KCT TOUCH></COL> to climb onto it!",
+      "text": "Halte dich jetzt mit <COL ff7575><KCT TOUCH></COL> am Gegner fest!"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "その状態で<COL ff7575><KCT ATTACK1></COL>で乱斬りだ！",
+      "source_en": "While clinging, use <COL ff7575><KCT ATTACK1></COL>\r\nto perform Scarlet Slashes!",
+      "text": "Setz beim Festhalten mit <COL ff7575><KCT ATTACK1></COL>\r\nKlingenwirbel ein!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "では大型敵の<COL ff7575>＜怒り状態＞</COL>に注意してヤツを仕留めるんだ！",
+      "source_en": "Be wary of the large enemy's <COL ff7575>enraged state</COL>\r\nand take it out!",
+      "text": "Pass auf, wenn der große Gegner <COL ff7575>in Rage gerät</COL>.\r\nBring ihn zu Fall!"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "揺さぶり、疲れさせてチャンスを作るんだぞ！",
+      "source_en": "Shake it, wear it down, and create an opening!",
+      "text": "Rüttle an ihm, bis er ermüdet. Dann kannst du angreifen!"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "試練完了、よくやったな！奥にある＜旋風の証＞を受け取り、神殿のレンテンに報告するがいい",
+      "source_en": "Trial complete, well done! \r\nTake the <Seekers's Mark> in the back \r\nand report to Renton at the temple.",
+      "text": "Gut gemacht! Die Prüfung ist bestanden.\r\nHol das Zeichen des Wirbelwinds (<Seekers's Mark>) am Ende des Schreins ab\r\nund erstatte Renton im Tempel Bericht."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "おめでとう、覚者よ\r\nこれにて戦術試練は完了だ！",
+      "source_en": "Congratulations, Arisen.\r\nThe tactical trial is now complete!",
+      "text": "Glückwunsch, Erweckter!\r\nDu hast die Taktikprüfung bestanden!"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "今覚えたシーカーの戦い方を\r\n振り返りたい時は、《チュートリアルガイド》の\r\n《ジョブの操作と役割》からシーカーの戦法や\r\n戦術的役割を確認するんだ",
+      "source_en": "To review the Seeker's combat style\r\nyou just learned, check [Tutorial] →\r\n[Job Roles] for tactics and duties.",
+      "text": "Wenn du nachlesen willst, wie Kundschafter vorgehen,\r\nöffne die Tutorialübersicht. Unter „Klassen und Rollen“\r\nfindest du ihre Kampftechniken und Aufgaben."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "聞くところによるとシーカーの達人は\r\nほとんど地に足をつけず、飛ぶように戦えるらしい\r\n我々では無理だが、お前にならできるかもな",
+      "source_en": "I hear the Seeker masters can fight almost\r\nwithout touching the ground, as if flying.\r\nIt's impossible for me, but you might manage.",
+      "text": "Es heißt, die besten Kundschafter kämpfen,\r\nals könnten sie fliegen. Sie berühren dabei kaum den Boden.\r\nUnsereins kriegt das nicht hin. Aber du vielleicht."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "覚者とは試練に臆することなく立ち向かい\r\nその使命を全うする者のことだ",
+      "source_en": "An Arisen faces a trial without fear\r\nand fulfills their duty no matter what.",
+      "text": "Ein Erweckter stellt sich jeder Prüfung ohne Furcht\r\nund erfüllt seine Aufgabe."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "与えられた試練を全てこなせた者のみ\r\n《旋風の証》を得ることができる",
+      "source_en": "Only those who complete all trials\r\nmay obtain the [Seekers's Mark].",
+      "text": "Nur wenn du alle Aufgaben der Prüfung erledigst,\r\nerhältst du das Zeichen des Wirbelwinds."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "各試練のやり方について\r\nわからなければ、今までに得た知識を\r\n確認しながら臨むがいい",
+      "source_en": "If you're unsure about any trial.\r\nReview the information for the trial\r\nyou've gained so far before proceeding.",
+      "text": "Wenn du bei einer Aufgabe unsicher bist,\r\nlies die bisherigen Hinweise noch einmal nach,\r\nbevor du weitermachst."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "技や動きの参考のため\r\n一人、共闘の兵をつけておこう\r\n課題をこなす中で戦技を身に刻め！",
+      "source_en": "For reference, I'll assign a soldier \r\nto fight alongside you. Etch these combat skills\r\ninto your mind during the trial!",
+      "text": "Ich stelle dir einen Soldaten zur Seite.\r\nSieh dir seine Bewegungen an\r\nund präg dir bei der Prüfung die Techniken ein!"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "与えられた試練を全てこなせた者のみ\r\n《旋風の証》を得ることができる",
+      "source_en": "Only those who complete all trials\r\nmay obtain the [Seekers's Mark].",
+      "text": "Nur wenn du alle Aufgaben der Prüfung erledigst,\r\nerhältst du das Zeichen des Wirbelwinds."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "各試練のやり方について\r\nわからなければ今までの得た知識を\r\n確認しながら臨むがいい",
+      "source_en": "If you're unsure about any trial.\r\nReview the information for the trial\r\nyou've gained so far before proceeding.",
+      "text": "Wenn du bei einer Aufgabe unsicher bist,\r\nlies die bisherigen Hinweise noch einmal nach,\r\nbevor du weitermachst."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "また立ちはだかる魔物が\r\n課題中にすべていなくなったら\r\n再度出直してくるがいい",
+      "source_en": "If all of the enemies in the trial vanish,\r\nleave then return later to try again.",
+      "text": "Falls während einer Aufgabe alle Gegner verschwinden,\r\ngeh hinaus und komm für einen neuen Versuch zurück."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "さあ、準備が整ったら\r\n《修練の祠》へ行ってくれよ\r\n神殿の外を左手に進んで、\r\n祠内にいる案内人と話すんだ",
+      "source_en": "Now, when you're ready, please go to\r\nthe 'Training Chapel'. Go to the left outside the\r\ntemple and speak with the\r\nguide inside the chapel.",
+      "text": "Wenn du bereit bist,\r\ngeh zum Übungsschrein.\r\nGeh aus dem Tempel nach links\r\nund sprich mit dem Wegweiser im Schrein."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "《旋風の証》、よくぞ得た！\r\n今後は実戦にてその戦技を鍛錬するのだ\r\n神殿に戻りレンテンに報告するがいい、覚者よ！",
+      "source_en": "A 'Seekers's Mark'...well earned! \r\nHone these skills in real battle.\r\nReturn to the temple and report to Renton, Arisen.",
+      "text": "Das Zeichen des Wirbelwinds hast du dir verdient!\r\nÜbe die Techniken von nun an im Kampf.\r\nKehre zum Tempel zurück und erstatte Renton Bericht, Erweckter!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

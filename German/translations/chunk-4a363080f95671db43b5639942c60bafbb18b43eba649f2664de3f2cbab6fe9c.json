@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50103020_00.gmd",
+  "arc_path": "\\quest\\q50103020.arc",
+  "entries": [
+    {
+      "key": "q50103020_00_46",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "古都の賜物",
+      "source_en": "The Ancient City's Legacy",
+      "text": "Das Vermächtnis der alten Stadt"
+    },
+    {
+      "key": "q50103020_00_46",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n戦鬼どもの残党が、竜力に満ちた\r\nエルフの遺跡を占拠した\r\n一刻も早く、奴らを一掃せよ",
+      "source_en": "O battle-hardened Arisen, wings of thy dragon.\r\nThe remnants of the war demons have occupied\r\nthe Elven ruins filled with Dragon Force.\r\nEliminate them swiftly.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nDie letzten Kriegsdämonen haben die Elfenruinen besetzt,\r\ndie von Drachenkraft erfüllt sind.\r\nBesiegt sie so schnell wie möglich!"
+    },
+    {
+      "key": "q50103020_00_1724",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "制限時間内にモゴックを探し討伐する",
+      "source_en": "Defeat Mogok within the time limit",
+      "text": "Findet und besiegt Mogok, bevor die Zeit abläuft."
+    },
+    {
+      "key": "q50103020_00_1725",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "第１守備隊を討伐する",
+      "source_en": "Defeat the 1st Garrison",
+      "text": "Besiegt die erste Wachtruppe."
+    },
+    {
+      "key": "q50103020_00_1726",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "第２守備隊を討伐する",
+      "source_en": "Defeat the 2nd Garrison",
+      "text": "Besiegt die zweite Wachtruppe."
+    },
+    {
+      "key": "q50103020_00_1727",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "第３守備隊を討伐する",
+      "source_en": "Defeat the 3rd Garrison",
+      "text": "Besiegt die dritte Wachtruppe."
+    },
+    {
+      "key": "q50103020_00_1728",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "第４守備隊を討伐する",
+      "source_en": "Defeat the 4th Garrison",
+      "text": "Besiegt die vierte Wachtruppe."
+    },
+    {
+      "key": "q50103020_00_1729",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "第５守備隊を討伐する",
+      "source_en": "Defeat the 5th Garrison",
+      "text": "Besiegt die fünfte Wachtruppe."
+    },
+    {
+      "key": "q50103020_00_1730",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "第６守備隊を討伐する",
+      "source_en": "Defeat the 6th Garrison",
+      "text": "Besiegt die sechste Wachtruppe."
+    },
+    {
+      "key": "q50103020_00_1731",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "発見したモゴック集団を倒す",
+      "source_en": "Defeat Mogok and his unit",
+      "text": "Besiegt Mogok und seinen Trupp."
+    },
+    {
+      "key": "q50103020_00_1778",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "最奥の魔物を討伐する",
+      "source_en": "Defeat the foe(s) further inside",
+      "text": "Besiegt die Monster tief im Inneren."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

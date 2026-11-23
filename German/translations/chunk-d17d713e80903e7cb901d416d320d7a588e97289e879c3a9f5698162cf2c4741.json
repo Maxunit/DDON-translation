@@ -1,0 +1,272 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60318011.gmd",
+  "arc_path": "\\quest\\q60318011.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ロスギルの<NPC 2900>より伝令がきている\r\n敵陣への戦闘準備が完了したとの事だ\r\nさっそくだが――\r\nロスギルに向かい仲間と合流してくれ",
+      "source_en": "A messenger's come from <NPC 2900> in Rothgill.\r\nWord has it combat preparations for the enemy\r\ncamp have reached completion.\r\nRight away, then— \r\nHead to Rothgill and link up with your comrades.",
+      "text": "„<NPC 2900>“ hat einen Melder aus Rothgill geschickt.\r\nDie Vorbereitungen für den Angriff\r\nauf das feindliche Lager sind abgeschlossen.\r\nBrich sofort auf.\r\nTriff deine Kameraden in Rothgill."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ロスギルにおいて\r\n敵陣への戦闘準備が完了したとの事だ\r\nロスギルに向かい仲間と合流してくれ",
+      "source_en": "'Tis reported from Rothgill that battle\r\npreparations against the enemy camp are complete.\r\nMake for Rothgill and join your comrades thence.",
+      "text": "In Rothgill sind die Vorbereitungen für den Angriff\r\nauf das feindliche Lager abgeschlossen.\r\nGeh dorthin und triff deine Kameraden."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "良いタイミングで来てくれたな\r\nこちらの戦闘準備は完了した――\r\n敵陣がまだ編成を整えているこの機を狙い\r\n少数精鋭での奇襲でいく",
+      "source_en": "You have arrived at a most opportune moment. Our\r\nbattle preparations are complete—whilst the enemy\r\nyet labors to organize their formation, we shall\r\nseize this opening and strike by way of a\r\nsurprise assault with a small elite force.",
+      "text": "Du kommst genau richtig.\r\nWir sind bereit für den Angriff.\r\nDer Feind ist noch damit beschäftigt,\r\nseine Truppen zu ordnen. Das nutzen wir aus.\r\nEin kleiner Trupp unserer besten Leute wird ihn überrumpeln."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "こちらの戦力については<NPC 2904>と\r\n確認して欲しい",
+      "source_en": "As for our forces — confirm the\r\ndetails with <NPC 2904>.",
+      "text": "Wenn du mehr über unsere Truppen wissen willst,\r\nsprich mit „<NPC 2904>“."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "いよいよ攻撃がはじまりますね――\r\n今回、敵陣を少数精鋭で奇襲するとのことですが\r\nもうお一人ほど、援軍要請を出そうかと\r\n考えているのです",
+      "source_en": "The attack begins at last— This time, we strike\r\nthe enemy camp with a small elite force, but...\r\nI've a mind to dispatch word for\r\none more reinforcement.",
+      "text": "Jetzt beginnt endlich der Angriff.\r\nEin kleiner Trupp soll das feindliche Lager überrumpeln.\r\nIch möchte aber noch eine weitere Person\r\num Unterstützung bitten."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "何名かに打診させていただいたところ\r\n解放軍総大将であるメイロワ将軍か\r\n覚者様の隊にいらっしゃるリズ様が\r\n参加できそうだということです",
+      "source_en": "Upon inquiring with several candidates... it\r\nappears either General Meirova, Supreme Commander\r\nof the Liberation Army, or Lise of Ser Arisen's\r\ncompany can take part.",
+      "text": "Nachdem ich mich umgehört habe, können\r\nwohl zwei Leute mitkommen. General Meirova,\r\nder Oberbefehlshaber der Befreiungsarmee,\r\nund Lise aus deinem Trupp, Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "どちらに援軍要請をお出ししましょうか？",
+      "source_en": "To which shall we dispatch the\r\ncall for reinforcements?",
+      "text": "Wen sollen wir um\r\nUnterstützung bitten?"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "メイロワ将軍（ウォリアー）",
+      "source_en": "General Meirowa (Warrior)",
+      "text": "General Meirova (Krieger)"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "リズ（ソーサラー）",
+      "source_en": "Lise (Sorcerer)",
+      "text": "Lise (Erzmagierin)"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "――少し考えさせてほしい",
+      "source_en": "...I want to think a bit",
+      "text": "Erst noch überlegen"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "では――メイロワ将軍に\r\n要請を出しておきますので、戦地に向かってください\r\n敵軍は強力との報告を受けております\r\n奇襲が功を奏するよう、十分にご注意を――",
+      "source_en": "Then — I'll dispatch word to General Meirova, so\r\nmake for the battlefield. Reports tell us the\r\nenemy host is formidable. See the ambush bears\r\nfruit — take good heed.",
+      "text": "Ich lasse nach General Meirova schicken.\r\nDu kannst schon zum Schlachtfeld aufbrechen.\r\nDie feindlichen Truppen sollen sehr stark sein.\r\nSei vorsichtig, damit der Überraschungsangriff gelingt."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "では――リズ様に\r\n要請を出しておきますので、戦地に向かってください\r\n敵軍は強力との報告を受けております\r\n奇襲が功を奏するよう、十分にご注意を――",
+      "source_en": "Then — I'll dispatch word to Ser Lise, so make\r\nfor the battlefield.\r\nWe've word the enemy host is formidable.\r\nTake great care the surprise\r\nattack finds its mark —",
+      "text": "Ich lasse nach Lise schicken.\r\nDu kannst schon zum Schlachtfeld aufbrechen.\r\nDie feindlichen Truppen sollen sehr stark sein.\r\nSei vorsichtig, damit sie unseren\r\nÜberraschungsangriff nicht kommen sehen."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "よくお考えください\r\nしかし、時は迫っておりますぞ",
+      "source_en": "Consider well.\r\nBut time presses upon us.",
+      "text": "Überleg es dir gut.\r\nAber die Zeit drängt."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "援軍要請を出しておきますので\r\n覚者様は戦地に向かってください\r\n奇襲が功を奏するよう、十分にご注意を――",
+      "source_en": "I'll dispatch word for reinforcements, so make for\r\nthe battlefield, Ser Arisen. Take care\r\nthe ambush succeeds—",
+      "text": "Ich fordere Verstärkung an.\r\nMach dich schon auf den Weg, Erweckter.\r\nGeh vorsichtig vor, damit wir sie überraschen."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "到着したぞ！　この剣、魔軍に存分に味わわせてやろう！",
+      "source_en": "Ha! I've arrived! I'll let the\r\nDemon Army have their\r\nfill of this blade!",
+      "text": "Da bin ich! Die Dämonenarmee\r\nbekommt jetzt mein Schwert\r\nzu spüren!"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "お待たせ！　ガンガン行くからね！",
+      "source_en": "Sorry for the wait! I'm going all out!",
+      "text": "Da bin ich! Jetzt lege ich richtig los!"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "すでに始めておるな、腕が鳴るわ",
+      "source_en": "Already begun, is it? These aged arms\r\nare itchin' for a fray!",
+      "text": "Ihr habt schon angefangen?\r\nGut, mir juckt's schon in den Fingern!"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "ん？　敵はビビってる？　ほーらやっちゃうよ！",
+      "source_en": "Hm? The enemy's scared? Here— watch this one!",
+      "text": "Hm? Haben die etwa Schiss? Dann passt mal auf!"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "敵の増援がきたようだ――抜かるなよ！",
+      "source_en": "Enemy reinforcements draw\r\nnigh—stay sharp!",
+      "text": "Der Feind bekommt Verstärkung.\r\nBleibt wachsam!"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "戦いが始まってるってこと――ようやくばれたようね",
+      "source_en": "Battle's begun... finally come to\r\nlight, it seems!",
+      "text": "Jetzt haben sie wohl endlich gemerkt,\r\ndass der Kampf längst begonnen hat!"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "まだ敵軍は油断しておる――先に向かうぞ！",
+      "source_en": "The enemy forces remains off\r\nguard — onward!",
+      "text": "Die Feinde ahnen noch nichts.\r\nLos, weiter!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "敵がもっと来る前に――先に進もう、隊長！",
+      "source_en": "Ere more enemies arrive—let's\r\npress on, Captain!",
+      "text": "Weiter, bevor noch mehr von denen\r\nauftauchen, Truppführer!"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "最奥には、敵の本隊がいるはずだ！　行くぞ！",
+      "source_en": "The enemy's main force lies in the\r\ndeepest reaches! Onward!",
+      "text": "Ihre Hauptstreitmacht muss ganz hinten sein.\r\nAuf, gehen wir!"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "いよいよ敵の本隊ね――気合入れていっちゃおう！",
+      "source_en": "So, here comes the enemy's main\r\nforce—let's give it our all!",
+      "text": "Da ist endlich ihre Hauptstreitmacht!\r\nLos, denen zeigen wir's!"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "よし――無事、敵陣の制圧完了だ！",
+      "source_en": "Right then — enemy camp\r\nsuppression, complete!",
+      "text": "Gut, das feindliche Lager\r\nist unter unserer Kontrolle!"
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "はい終わりっと！　まあ、こんなもんだよね",
+      "source_en": "Alright, done!  Well, that's about\r\nit, wouldn't you say?",
+      "text": "So, fertig!\r\nNa, das war's wohl, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "魔軍による襲撃計画、阻止できて何よりだ！\r\nこれで敵もしばらくは\r\n大人しくしていることだろう",
+      "source_en": "'Tis well we stopped the Demon\r\nArmy's raid stratagem!\r\nNow the enemy should keep quiet for a spell.",
+      "text": "Gut, dass wir den geplanten Überfall\r\nder Dämonenarmee vereitelt haben.\r\nJetzt dürften sie eine Weile Ruhe geben."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "襲撃計画を立てた敵の将は一体誰なのか？\r\nこの辺りは、今後も探ってゆく必要が\r\nありそうだな",
+      "source_en": "Just who is the enemy commander\r\nwho plotted the raid?\r\n'Tis plain we'll need to investigate\r\nthis matter further.",
+      "text": "Wer hat den Überfall überhaupt geplant?\r\nWelcher feindliche Befehlshaber\r\nsteckt dahinter?\r\nDer Sache müssen wir weiter nachgehen."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "おお、無事に戻られましたな\r\nしばらくは蹴散らされた敵の残党が\r\nうろつきましょうが、そこは解放軍や\r\nここロスギルの兵士でどうにかできるでしょう",
+      "source_en": "Ah, you've returned safely.\r\nFor a time, the routed enemy remnants will be\r\nprowling about, but the Liberation Army and the\r\nsoldiers here in Rothgill can\r\nmanage that well enow.",
+      "text": "Ah, du bist heil zurück.\r\nDie versprengten Feinde werden wohl noch\r\neine Weile umherstreifen. Aber damit werden\r\ndie Befreiungsarmee und unsere Soldaten\r\nhier in Rothgill schon fertig."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "これでロスギル、ひいてはティネス砦も\r\n当面の危機は回避できたはずだ",
+      "source_en": "With this, Rothgill — and by extension, Fort\r\nThines — ought to have averted\r\nthe immediate crisis.",
+      "text": "Rothgill und damit auch die Festung Thines\r\nsind vorerst\r\naußer Gefahr."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "後は残党の始末か――\r\n我らロスギルの兵が任されよう",
+      "source_en": "'Tis but the remnants' disposal that remains—\r\nWe soldiers of Rothgill shall see to it.",
+      "text": "Jetzt sind nur noch die versprengten Feinde übrig.\r\nWir Soldaten von Rothgill kümmern uns darum."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "作戦が成功してなにより\r\nこれでしばらくは砦も安泰だろう",
+      "source_en": "'Tis a relief the stratagem succeeded — the fort\r\nshould hold safe for a good spell now.",
+      "text": "Gut, dass der Plan aufgegangen ist.\r\nJetzt ist die Festung eine Weile sicher."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "うん、やったね！\r\nさっすが隊長！　さっすがわたし！\r\n盛大に褒めてくれてもいいんだよ\r\nほらほら、ここにはエリオットもいないしさ",
+      "source_en": "Yeah, we did it!\r\nThat's our Captain! That's me for you!\r\nYou could stand to praise me a bit more, you know!\r\nCome on, look— Elliot's not even here, so...",
+      "text": "Ja, wir haben's geschafft!\r\nAuf dich ist Verlass, Truppführer! Auf mich natürlich auch!\r\nDu könntest mich ruhig ein bisschen mehr loben.\r\nSchau mal, Elliot ist doch gar nicht hier …"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

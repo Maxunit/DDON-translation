@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000015_00.gmd",
+  "arc_path": "\\quest\\q60000015.arc",
+  "entries": [
+    {
+      "key": "q60000015_00_48",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアの着飾り美人",
+      "source_en": "Lestania's Best Dressed",
+      "text": "Lestanias schönste Gewänder"
+    },
+    {
+      "key": "q60000015_00_48",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "オフィリアの依頼を聞き入れ\r\n最近、街でよく見かけるようになった\r\nお洒落でハイセンスな着こなし上手の\r\n覚者が増えた理由を探る",
+      "source_en": "Accept Ophelia's request and investigate \r\nthe reason for the increase in fashion-savvy\r\nand stylish Arisen that have been\r\nseen around the city lately.",
+      "text": "Geh Ophelias Bitte nach.\r\nFinde heraus, warum in der Stadt\r\nin letzter Zeit so viele Erweckte\r\nin besonders eleganter Ausrüstung unterwegs sind."
+    },
+    {
+      "key": "q60000015_00_1280",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "宿場区にいるメルに話を聞く",
+      "source_en": "Talk to Mel in the Relay Station",
+      "text": "Sprich mit Mel im Herbergsviertel."
+    },
+    {
+      "key": "q60000015_00_1281",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "商店区にいるコーネリアに話を聞く",
+      "source_en": "Talk to Cornelia in the shopping district",
+      "text": "Sprich mit Cornelia im Händlerviertel."
+    },
+    {
+      "key": "q60000015_00_1282",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "クラフトルームにいるソニアに話を聞く",
+      "source_en": "Speak with Sonia in the Workshop",
+      "text": "Sprich mit Sonia in der Werkstatt."
+    },
+    {
+      "key": "q60000015_00_1283",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "森林の一軒家のエメラダに話を聞く",
+      "source_en": "Find Emerada, who lives in the Lone House in the Forest",
+      "text": "Sprich mit Emerada im Einsamen Haus im Wald."
+    },
+    {
+      "key": "q60000015_00_1284",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜魔力のスクロール＞を5個集める",
+      "source_en": "Collect 5 Scrolls of Sorcery",
+      "text": "Besorge fünf Schriftrollen der Magie."
+    },
+    {
+      "key": "q60000015_00_1285",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "エメラダに＜魔力のスクロール＞を5個渡す",
+      "source_en": "Hand over 5 Scrolls of Sorcery to Emerada",
+      "text": "Gib Emerada fünf Schriftrollen der Magie."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,208 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60000007.gmd",
+  "arc_path": "\\quest\\q60000007.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《弓》で敵を攻撃せよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Attack the enemy with your bow.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Greif den Gegner mit deinem Bogen an.“"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_SUB_WEP>を押しながら<STG_SHOT>\r\n　または<STG_SHOT>を押す」",
+      "source_en": "\"Press <STG_SHOT> or \r\n<STG_SHOT> while holding down <ICON STG_SUB_WEP>\"",
+      "text": "„Drücke <STG_SHOT>\r\noder <STG_SHOT>, während du <ICON STG_SUB_WEP> gedrückt hältst.“"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "「敵との距離をとりながら\r\n　弓による攻撃でダメージを与えられる」",
+      "source_en": "\"Maintain distance from the enemy\r\nand deal damage with bow attacks.\"",
+      "text": "„Halte Abstand zum Gegner\r\nund füge ihm mit dem Bogen Schaden zu.“"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《爆矢射ち》で敵を攻撃せよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Attack the enemy with Explosive Arrows.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Greif den Gegner mit einem Explosivpfeil an.“"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_MAIN_WEP>を押す」",
+      "source_en": "\"Press <ICON STG_MAIN_WEP>.\"",
+      "text": "„Drücke <ICON STG_MAIN_WEP>.“"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "「時間差で爆発する特殊な矢は\r\n　遮蔽物を越えて上空からも打ち込める\r\n　刺さった矢は仲間の近接攻撃で起爆させられる」",
+      "source_en": "\"Time-delayed explosive arrows can\r\nbe fired over cover.\r\nStuck arrows detonate when hit\r\nby allies' melee attacks.\"",
+      "text": "„Explosivpfeile zünden mit Verzögerung.\r\nDu kannst sie im Bogen über Hindernisse schießen.\r\nSteckt der Pfeil im Ziel, können Verbündete ihn\r\nmit einem Nahkampfangriff zünden.“"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《前蹴り》で敵を蹴り離せ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Kick the enemy away with a Front Kick.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Stoß den Gegner mit einem Tritt nach vorn zurück.“"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_ATTACK_0>を押す」",
+      "source_en": "\"Press <ICON STG_ATTACK_0>.\"",
+      "text": "„Drücke <ICON STG_ATTACK_0>.“"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "「威力は弱いが、接近した敵から素早く離れられる\r\n　弓攻撃に有利な間合いを調整できる」",
+      "source_en": "\"Weak in power, but allows quick retreat\r\nfrom close enemies. Adjust your distance\r\nto gain an advantage for ranged attacks.\"",
+      "text": "„Der Tritt richtet wenig Schaden an,\r\nverschafft dir aber schnell Abstand.\r\nSo findest du die richtige Entfernung für den Bogen.“"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "《狙弓の証》を手に入れた！",
+      "source_en": "You have obtained the [Hunter's Mark]!",
+      "text": "Du hast das Zeichen des sicheren Schusses erhalten!"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「敵に打ち込んだ爆矢を《起爆》せよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Detonate the explosive arrows\r\nembedded in the enemy.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Zünde die Explosivpfeile,\r\ndie im Gegner stecken.“"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_MAIN_WEP>を押しながら<STG_SHOT>\r\n　または<STG_SHOT>を押す」",
+      "source_en": "\"Press <STG_SHOT> or \r\n<STG_SHOT> while holding down <ICON STG_MAIN_WEP>.\"",
+      "text": "„Drücke <STG_SHOT>\r\noder <STG_SHOT>, während du <ICON STG_MAIN_WEP> gedrückt hältst.“"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "「仕込まれた矢は衝撃を与えれば起爆する\r\n　弓で狙えばより早いタイミングで爆破できる」",
+      "source_en": "\"Embedded arrows detonate upon impact.\r\nAiming with the bow allows for\r\neasier and faster detonation.\"",
+      "text": "„Ein Treffer bringt den Pfeil zur Explosion.\r\nWenn du mit dem Bogen darauf zielst,\r\nkannst du ihn besonders schnell zünden.“"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「射撃の《最適距離》から弓射ちで攻撃せよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Attack with Loose from the optimal range.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Triff den Gegner mit einem Pfeilschuss aus der optimalen Entfernung.“"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_SUB_WEP>を押したままで\r\n　画面中央に出現する十字カーソルと\r\n　橙色の狙撃ポイントが合わさった状態で\r\n　<STG_SHOT>または<STG_SHOT>を押す」",
+      "source_en": "\"Align the crosshair in the center\r\nof the screen with the orange\r\ntarget then press <STG_SHOT>, \r\nor hold <ICON STG_SUB_WEP> and press <STG_SHOT>.\"",
+      "text": "„Richte das Fadenkreuz\r\nin der Bildschirmmitte\r\nauf die orangefarbene Markierung und drücke <STG_SHOT>\r\noder halte <ICON STG_SUB_WEP> gedrückt und drücke <STG_SHOT>.“"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "「敵との距離で威力は変わる\r\n　敵との最適な距離で最も威力が高くなる」",
+      "source_en": "\"Damage varies with distance.\r\nThe optimal range yields\r\nthe highest damage output.\"",
+      "text": "„Der Schaden hängt von der Entfernung ab.\r\nTriffst du aus der optimalen Entfernung,\r\nrichtest du am meisten Schaden an.“"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「矢筒に《矢の装填》をせよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Reload the quiver with Reload Arrows.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Setz »Pfeile nachladen« ein, um den Köcher aufzufüllen.“"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_SUB_WEP>ｏｒ<ICON STG_MAIN_WEP>を押しながら\r\n　<ICON STG_TOUCH>を押す」",
+      "source_en": "\"Hold <ICON STG_SUB_WEP> or <ICON STG_MAIN_WEP>,\r\nthen press <ICON STG_TOUCH>.\"",
+      "text": "„Halte <ICON STG_SUB_WEP> oder <ICON STG_MAIN_WEP> gedrückt\r\nund drücke <ICON STG_TOUCH>.“"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "「矢が少なくなったら\r\n　矢を装填して攻撃に備えよ」",
+      "source_en": "\"When arrows run low,\r\nreload and prepare for the attack.\"",
+      "text": "„Sobald dir die Pfeile ausgehen,\r\nlade nach und mach dich bereit zum Angriff.“"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "「矢の残数は弓構え時に中央に出る\r\n　十字カーソルにて矢の増減がわかるので\r\n　戦闘中は特に注意して矢を補充せよ」",
+      "source_en": "\"Arrow count is shown by the crosshair\r\nwhen drawing the bow. Monitor it\r\nduring combat and reload when needed.\"",
+      "text": "„Wenn du den Bogen anlegst, siehst du am Fadenkreuz,\r\nwie viele Pfeile du noch hast.\r\nBehalt die Anzeige im Kampf im Blick und lade rechtzeitig nach.“"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「矢筒にすばやく矢を送る\r\n《達人装填》を　成功させよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Swiftly load arrows into the quiver.\r\nSucceed in performing Adept Reload.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Füll den Köcher rasch wieder auf.\r\nNutze dazu »Gekonntes Nachladen«.“"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "「矢の装填中、特定のタイミングで<ICON STG_TOUCH>を押す」",
+      "source_en": "\"Press <ICON STG_TOUCH> with the right\r\ntiming during Reload Arrows.\"",
+      "text": "„Drücke <ICON STG_TOUCH> beim Nachladen\r\nim richtigen Moment.“"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "「矢を補充時の装填ゲージ内で\r\n　タイミングよく装填ボタンを押す事で\r\n　矢が高速装填される」",
+      "source_en": "\"Pressing the reload button at the right\r\ntiming during the reload gauge's arrow\r\nrefill will perform a high-speed reload.\"",
+      "text": "„Achte beim Auffüllen der Pfeile auf die Nachladeanzeige.\r\nDrückst du die Taste im richtigen Moment,\r\nlädst du schneller nach.“"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "「また、より良いジャストタイミングで\r\n　装填ボタンを押すと一度に放つ\r\n　矢の本数が増え一時的に威力が増す」",
+      "source_en": "\"Perfect timing increases the number\r\nof arrows fired at once, temporarily\r\nboosting attack power.\"",
+      "text": "„Triffst du den genauen Moment,\r\nfeuerst du vorübergehend mehr Pfeile auf einmal ab\r\nund richtest dadurch mehr Schaden an.“"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "「ただしタイミングを外すと\r\n　矢の補充に時間がかかるので注意すべし」",
+      "source_en": "\"However, missing the timing slows down\r\nthe reload, so be careful.\"",
+      "text": "„Verpasst du den Moment,\r\ndauert das Nachladen länger. Pass also auf.“"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

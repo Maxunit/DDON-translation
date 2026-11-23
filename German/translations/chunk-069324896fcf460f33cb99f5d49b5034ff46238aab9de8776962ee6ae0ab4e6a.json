@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60310001_00.gmd",
+  "arc_path": "\\quest\\q60310001.arc",
+  "entries": [
+    {
+      "key": "q60310001_00_284",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【鬼哭蒐集】クエストオブオーバーロード",
+      "source_en": "Ghost Wail Collection: Quest of Overlord",
+      "text": "Die Klage der Toten – Auftrag des Overlords"
+    },
+    {
+      "key": "q60310001_00_284",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "酒場に現れた奇妙なスケルトンの話を聞き\r\n要求に応えて野望に協力する",
+      "source_en": "Listen to the story of the strange skeleton that \r\nappeared in the tavern and cooperate with its \r\nambitions by fulfilling its requests.",
+      "text": "Hör dir an, was das seltsame Skelett in der\r\nTaverne zu erzählen hat. Hilf ihm bei seinen\r\nPlänen, indem du seine Aufträge erfüllst."
+    },
+    {
+      "key": "q60310001_00_3802",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "フォトモードを使い、三人と記念撮影を行う",
+      "source_en": "Use Photo Mode to take a commemorative photo with the three people",
+      "text": "Mach im Fotomodus ein Erinnerungsfoto mit den dreien."
+    },
+    {
+      "key": "q60310001_00_3803",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "スケルトンに報告する",
+      "source_en": "Report to Skeleton",
+      "text": "Berichte dem Skelett."
+    },
+    {
+      "key": "q60310001_00_3804",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "《禍魂の晶石》を入手する",
+      "source_en": "Obtain \"Gem of Devastation\"",
+      "text": "Besorge ein Juwel der Verwüstung."
+    },
+    {
+      "key": "q60310001_00_3805",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "スケルトンに納品する",
+      "source_en": "Deliver to the skeleton",
+      "text": "Gib das Juwel beim Skelett ab."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

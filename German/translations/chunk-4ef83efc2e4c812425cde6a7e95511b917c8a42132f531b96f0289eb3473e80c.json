@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300401_00.gmd",
+  "arc_path": "\\quest\\q60300401.arc",
+  "entries": [
+    {
+      "key": "q60300401_00_297",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "求道の師を訪ねて　ハイセプター",
+      "source_en": "Seeking the Master: High Scepter",
+      "text": "Auf der Suche nach der Klassenmeisterin – Zauberklinge"
+    },
+    {
+      "key": "q60300401_00_297",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョブマスター・キルスティに\r\nハイセプター求道試練の許可をもらいに行く",
+      "source_en": "Visit Job Master Kirsty to request \r\napproval for the High Scepter's trial",
+      "text": "Such Klassenmeisterin Kirsty auf\r\nund bitte sie, dich zur Prüfung der Zauberklingen zuzulassen."
+    },
+    {
+      "key": "q60300401_00_4178",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<STG 133>の<NPC 4513>を訪ねる",
+      "source_en": "Visit <NPC 4513> in <STG 133>",
+      "text": "Such <NPC 4513> in „<STG 133>“ auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

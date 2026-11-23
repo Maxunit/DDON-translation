@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50204002_00.gmd",
+  "arc_path": "\\quest\\q50204002.arc",
+  "entries": [
+    {
+      "key": "q50204002_00_67",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n樹内の深部に潜む\r\n黒騎士を討ち滅ぼせ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nVanquish the Black Knight lurking\r\nwithin the depths of tree.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nTief im Inneren des Baums lauert der Schwarze Ritter.\r\nBesiegt ihn!"
+    },
+    {
+      "key": "q50204002_00_2779",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "黒騎士を討伐する",
+      "source_en": "Defeat the Black Knight",
+      "text": "Besiegt den Schwarzen Ritter."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

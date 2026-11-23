@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000006_00.gmd",
+  "arc_path": "\\quest\\q60000006.arc",
+  "entries": [
+    {
+      "key": "q60000006_00_23",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔盾の証　シールドセージ戦術試練",
+      "source_en": "Shield Sage Tactics Trial: A Magick Shield",
+      "text": "Zeichen des magischen Schilds – Taktikprüfung für Schildweise"
+    },
+    {
+      "key": "q60000006_00_23",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "シールドセージの基本戦術を学ぶため\r\n修練の祠にて試練に挑む",
+      "source_en": "In order to learn the basics of Shield Sage,\r\nchallenge the trial of the Training Chapel",
+      "text": "Stell dich der Prüfung im Übungsschrein,\r\num die Grundlagen für Schildweise zu lernen."
+    },
+    {
+      "key": "q60000006_00_1093",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "修練の祠前の崖下にいる白衛騎士団員と話す",
+      "source_en": "Speak with the White Knight at the base of the cliff before the Training Chapel",
+      "text": "Sprich mit dem Ritter der Weißen Garde am Fuß des Felsens vor dem Übungsschrein."
+    },
+    {
+      "key": "q60000006_00_1094",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "修練の祠内のウィルソンと話す",
+      "source_en": "Speak with Wilson in the Training Chapel",
+      "text": "Sprich mit Wilson im Übungsschrein."
+    },
+    {
+      "key": "q60000006_00_1095",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "シールドブロウで敵を攻撃せよ",
+      "source_en": "Attack an enemy with Shield Blow",
+      "text": "Greif einen Gegner mit einem Schildhieb an."
+    },
+    {
+      "key": "q60000006_00_1150",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "エレメントチェンジで属性を変えよ",
+      "source_en": "Change your current Elemental Attribute",
+      "text": "Wechsle dein Element mit Elementwechsel."
+    },
+    {
+      "key": "q60000006_00_1151",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "アトラクトで敵をひきつけよ",
+      "source_en": "Use the \"Attract\" skill to get the enemy's attention",
+      "text": "Lenk mit Provozieren die Aufmerksamkeit des Gegners auf dich."
+    },
+    {
+      "key": "q60000006_00_1152",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "オートガード《抜刀状態》でフォースゲージを溜めろ",
+      "source_en": "Auto-block with your Greatshield",
+      "text": "Fülle die Kraftanzeige, indem du mit gezogener Waffe automatisch blockst."
+    },
+    {
+      "key": "q60000006_00_1153",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "シールドロックでフォースゲージを溜めろ",
+      "source_en": "Block an enemy attack to charge your Force Gauge",
+      "text": "Fülle die Kraftanzeige mit dem Schildblock."
+    },
+    {
+      "key": "q60000006_00_1154",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ゲージを溜め、フォースバーストで敵を攻撃せよ",
+      "source_en": "Fill your Force Gauge, then attack an enemy with Force Burst",
+      "text": "Fülle die Kraftanzeige und greif einen Gegner mit einem Kraftstoß an."
+    },
+    {
+      "key": "q60000006_00_1155",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "最奥にある＜魔盾の証＞を入手する",
+      "source_en": "Collect the proof of completing the trial",
+      "text": "Hol das Zeichen des magischen Schilds am Ende des Schreins ab."
+    },
+    {
+      "key": "q60000006_00_1179",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿のレンテンに経緯を報告する",
+      "source_en": "Report back to Renton in the White Dragon Temple",
+      "text": "Erstatte Renton im Tempel des Weißen Drachen Bericht."
+    },
+    {
+      "key": "q60000006_00_1249",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "ゲージを溜め、仲間にフォースエンチャントせよ",
+      "source_en": "Fill your Force Gauge and Enchant",
+      "text": "Fülle die Kraftanzeige und gib deinen Verbündeten mit „Element verleihen“ dein Element."
+    },
+    {
+      "key": "q60000006_00_1250",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "最深部のゴブリンを全滅せよ",
+      "source_en": "Defeat the remaining Goblins in the inner sanctum",
+      "text": "Besiege alle Goblins im hintersten Teil des Schreins."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

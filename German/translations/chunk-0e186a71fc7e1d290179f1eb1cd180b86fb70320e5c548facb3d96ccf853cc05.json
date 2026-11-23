@@ -3,12 +3,84 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "SPOT_NAME_1297",
+      "read_index": "757",
+      "tag_source": "source_en",
+      "source_jp": "大地の記憶 メガドシス古道 フェルヤナ方面",
+      "source_en": "Mem. of Megadosys Road: Feryana Direction",
+      "text": "Erinnerung des Landes – Alter Weg von Megadosys, Richtung Feryana"
+    },
+    {
+      "key": "SPOT_NAME_1298",
+      "read_index": "758",
+      "tag_source": "source_en",
+      "source_jp": "大地の記憶 メガドシス古道 中腹",
+      "source_en": "Mem. of Megadosys Old Road: Mountainside",
+      "text": "Erinnerung des Landes – Alter Weg von Megadosys, Berghang"
+    },
+    {
+      "key": "SPOT_NAME_1299",
+      "read_index": "759",
+      "tag_source": "source_en",
+      "source_jp": "大地の記憶 メガドシス古道 メガドシス方面",
+      "source_en": "Mem. of Megadosys Road: Megadosys Direction",
+      "text": "Erinnerung des Landes – Alter Weg von Megadosys, Richtung Megadosys"
+    },
+    {
       "key": "SPOT_NAME_1300",
       "read_index": "760",
       "tag_source": "source_en",
       "source_jp": "王家の墓 最奥",
       "source_en": "Innermost Royal Family Mausoleum",
       "text": "Grabstätte des Königshauses – Innerstes"
+    },
+    {
+      "key": "SPOT_NAME_1301",
+      "read_index": "761",
+      "tag_source": "source_en",
+      "source_jp": "聖炎の参竜道 上層",
+      "source_en": "Sacred Flame Path: Upper Level",
+      "text": "Pfad der Heiligen Flamme – Obere Ebene"
+    },
+    {
+      "key": "SPOT_NAME_1302",
+      "read_index": "762",
+      "tag_source": "source_en",
+      "source_jp": "メガドシスの記憶 武神の間",
+      "source_en": "Memory of Megadosys: War God Room",
+      "text": "Erinnerung von Megadosys – Halle des Kriegsgottes"
+    },
+    {
+      "key": "SPOT_NAME_1303",
+      "read_index": "763",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカの記憶 武神の間",
+      "source_en": "Memory of Urteca: War God Room",
+      "text": "Erinnerung von Urteca – Halle des Kriegsgottes"
+    },
+    {
+      "key": "SPOT_NAME_1304",
+      "read_index": "764",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカの記憶 西部 入口",
+      "source_en": "Memory of Urteca: Western Entrance",
+      "text": "Erinnerung von Urteca – Westeingang"
+    },
+    {
+      "key": "SPOT_NAME_1305",
+      "read_index": "765",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカの記憶 東部 入口",
+      "source_en": "Memory of Urteca: Eastern Entrance",
+      "text": "Erinnerung von Urteca – Osteingang"
+    },
+    {
+      "key": "SPOT_NAME_1306",
+      "read_index": "766",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカの記憶 北部 入口",
+      "source_en": "Memory of Urteca: Northern Entrance",
+      "text": "Erinnerung von Urteca – Nordeingang"
     },
     {
       "key": "SPOT_NAME_1319",

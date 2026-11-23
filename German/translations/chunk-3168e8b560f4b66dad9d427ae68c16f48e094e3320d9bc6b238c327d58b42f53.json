@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60300101.gmd",
+  "arc_path": "\\quest\\q60300101.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターから新たな冒険スポットを\r\n開放されたらしいな",
+      "source_en": "Seems the Area Master has opened up\r\na new Adventure Spot.",
+      "text": "Der Gebietsmeister hat dir wohl\r\neinen neuen Abenteuerort freigeschaltet."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "マップにマークを付けておくぞ\r\nしばらくはこのダンジョンや、それ相応の\r\nレベル帯のスポットを巡って、この戦争で\r\n生き残れるくらいの腕は磨いておいてくれ",
+      "source_en": "It is now marked on your map.\r\nFocus on this dungeon and areas\r\naround your level for a while.\r\nHone your skills enough to survive this war.",
+      "text": "Ich hab ihn auf deiner Karte markiert.\r\nHalte dich eine Weile an dieses Verlies\r\nund an Orte auf deiner Stufe. Üb, bis du\r\ndich in diesem Krieg behaupten kannst."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "とりあえずは、マークを付けたスポットを\r\n探索してくるといい\r\nそこで取得できるアイテムと得られる経験が\r\nあんたを強くしてくれるだろう",
+      "source_en": "For now, explore the indicated spots.\r\nThe items you find and the experience you gain\r\nwill make you stronger.",
+      "text": "Erkunde erst mal die markierten Orte.\r\nWas du dort findest und an Erfahrung sammelst,\r\nwird dich stärker machen."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "おぉ、無事帰ってこれたようだな\r\n魔物は手強かったか？\r\n拮抗した相手との戦いは効率よく自分を高めてくれる\r\n――よく覚えておいた方がいい",
+      "source_en": "Oh, you made it back safely.\r\nWere the monsters tough?\r\nFighting worthy opponents sharpens you quickly...\r\nRemember that well.",
+      "text": "Gut, dass du heil zurück bist.\r\nWaren die Monster zäh?\r\nGegen ebenbürtige Gegner lernst du schnell dazu.\r\nMerk dir das gut."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "引き続きこのダンジョンやレベルに合ったスポットを\r\n巡って、自分に合った武具をクラフトしておけよ",
+      "source_en": "Keep exploring this dungeon and spots at your level.\r\nCraft gear that suits you.",
+      "text": "Erkunde dieses Verlies und andere Orte auf deiner Stufe.\r\nUnd stell dir passende Waffen und Rüstungen her."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

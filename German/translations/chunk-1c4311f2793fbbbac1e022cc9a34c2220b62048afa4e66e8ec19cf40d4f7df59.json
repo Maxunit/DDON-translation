@@ -3,12 +3,132 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "STAGE_NAME_551",
+      "read_index": "427",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟",
+      "source_en": "Epitaph Road: Cave",
+      "text": "Pfad der Heldengeister – Höhle"
+    },
+    {
+      "key": "STAGE_NAME_552",
+      "read_index": "428",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 遺跡",
+      "source_en": "Epitaph Road Ruins",
+      "text": "Pfad der Heldengeister – Ruinen"
+    },
+    {
+      "key": "STAGE_NAME_553",
+      "read_index": "429",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 水路",
+      "source_en": "Epitaph Road Waterway",
+      "text": "Pfad der Heldengeister – Wasserweg"
+    },
+    {
+      "key": "STAGE_NAME_554",
+      "read_index": "430",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 井戸",
+      "source_en": "Epitaph Road Well",
+      "text": "Pfad der Heldengeister – Brunnen"
+    },
+    {
+      "key": "STAGE_NAME_555",
+      "read_index": "431",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 墓所",
+      "source_en": "Epitaph Road Tomb",
+      "text": "Pfad der Heldengeister – Grabstätte"
+    },
+    {
+      "key": "STAGE_NAME_556",
+      "read_index": "432",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 遺跡 深層",
+      "source_en": "Epitaph Road Ruins Depths",
+      "text": "Pfad der Heldengeister – Tiefen der Ruinen"
+    },
+    {
+      "key": "STAGE_NAME_557",
+      "read_index": "433",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 フェルヤナ荒原",
+      "source_en": "Epitaph Road: Feryana Wilderness",
+      "text": "Pfad der Heldengeister – Feryana-Wildnis"
+    },
+    {
+      "key": "STAGE_NAME_558",
+      "read_index": "434",
+      "tag_source": "source_en",
+      "source_jp": "旧英霊廟",
+      "source_en": "Old Epitaph Road Shrine",
+      "text": "Alter Heldenschrein"
+    },
+    {
+      "key": "STAGE_NAME_559",
+      "read_index": "435",
+      "tag_source": "source_en",
+      "source_jp": "メガドシスの記憶",
+      "source_en": "Memory of Megadosys",
+      "text": "Erinnerung von Megadosys"
+    },
+    {
+      "key": "STAGE_NAME_560",
+      "read_index": "436",
+      "tag_source": "source_en",
+      "source_jp": "大地の記憶 メガドシス古道",
+      "source_en": "Memory of Megadosys Old Road",
+      "text": "Erinnerung des Landes – Alter Weg von Megadosys"
+    },
+    {
+      "key": "STAGE_NAME_561",
+      "read_index": "437",
+      "tag_source": "source_en",
+      "source_jp": "メガドシスの記憶 武神の間",
+      "source_en": "Memory of Megadosys: War God Room",
+      "text": "Erinnerung von Megadosys – Halle des Kriegsgottes"
+    },
+    {
+      "key": "STAGE_NAME_563",
+      "read_index": "438",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカの記憶",
+      "source_en": "Memory of Urteca",
+      "text": "Erinnerung von Urteca"
+    },
+    {
+      "key": "STAGE_NAME_564",
+      "read_index": "439",
+      "tag_source": "source_en",
+      "source_jp": "大地の記憶 聖炎の参竜道",
+      "source_en": "Memories of the Earth: Sacred Flame Path",
+      "text": "Erinnerung des Landes – Pfad der Heiligen Flamme"
+    },
+    {
+      "key": "STAGE_NAME_565",
+      "read_index": "440",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカの記憶 武神の間",
+      "source_en": "Memory of Urteca: War God Room",
+      "text": "Erinnerung von Urteca – Halle des Kriegsgottes"
+    },
+    {
       "key": "STAGE_NAME_566",
       "read_index": "441",
       "tag_source": "source_en",
       "source_jp": "大地の記憶 王家の墓",
       "source_en": "Memory of Royal Family Mausoleum",
       "text": "Erinnerung an die Grabstätte des Königshauses"
+    },
+    {
+      "key": "STAGE_NAME_567",
+      "read_index": "442",
+      "tag_source": "source_en",
+      "source_jp": "大地の記憶 火垂れ山野営地",
+      "source_en": "Memory of Firefall Mountain Campsite",
+      "text": "Erinnerung des Landes – Lager am Feuerfallberg"
     },
     {
       "key": "STAGE_NAME_575",
@@ -57,6 +177,14 @@
       "source_jp": "悪しき竜のねぐら",
       "source_en": "Evil Dragon's Roost",
       "text": "Hort des Bösen Drachen"
+    },
+    {
+      "key": "STAGE_NAME_590",
+      "read_index": "463",
+      "tag_source": "source_en",
+      "source_jp": "メガドへの隠れ水路",
+      "source_en": "Hidden Waterway to Megado",
+      "text": "Verborgener Wasserweg nach Megado"
     },
     {
       "key": "STAGE_NAME_591",

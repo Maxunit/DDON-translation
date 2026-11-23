@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50000003.gmd",
+  "arc_path": "\\quest\\q50000003.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "新たな守備隊が配備された！",
+      "source_en": "New Soldiers have been deployed!",
+      "text": "Eine neue Wachtruppe ist erschienen!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "宝石喰らいの餌が各所に出現した",
+      "source_en": "Gem Eater bait has appeared in various locations.",
+      "text": "An mehreren Orten sind Köder für den Juwelenfresser aufgetaucht."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "モゴック本隊が出現した！",
+      "source_en": "Mogok's Main force has appeared!",
+      "text": "Mogoks Hauptstreitmacht ist aufgetaucht!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

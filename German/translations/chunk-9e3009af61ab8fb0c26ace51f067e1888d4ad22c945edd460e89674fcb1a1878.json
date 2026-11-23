@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50104000.gmd",
+  "arc_path": "\\quest\\q50104000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "屋上から強力な魔物の気配がする――",
+      "source_en": "A powerful monster lurks on the rooftop...",
+      "text": "Auf dem Dach lauert ein mächtiges Monster …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "シークレットボーナス！　残り時間《10分》追加！",
+      "source_en": "Secret Bonus!\r\n10 minutes have been added to the remaining time.",
+      "text": "Geheimer Bonus!\r\nDu hast zehn zusätzliche Minuten!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

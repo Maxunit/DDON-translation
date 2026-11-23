@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60318011_00.gmd",
+  "arc_path": "\\quest\\q60318011.arc",
+  "entries": [
+    {
+      "key": "q60318011_00_237",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔軍戦車カトブレパス",
+      "source_en": "Demon Army Tank Catoblepas",
+      "text": "Catoblepas, Kampfwagen der Dämonenarmee"
+    },
+    {
+      "key": "q60318011_00_237",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the client\r\nand try to solve the problem.",
+      "text": "Frag nach den Einzelheiten des Auftrags\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60318011_00_2964",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 2900>に状況を確認する",
+      "source_en": "Check the situation with <NPC 2900>",
+      "text": "Erkundige dich bei „<NPC 2900>“ nach der Lage."
+    },
+    {
+      "key": "q60318011_00_2965",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 2904>に解放軍の戦力について聞く",
+      "source_en": "Ask <NPC 2904> about the strength of the Liberation Army",
+      "text": "Frag „<NPC 2904>“, wie stark die Befreiungsarmee aufgestellt ist."
+    },
+    {
+      "key": "q60318011_00_3243",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "敵陣に向かい奇襲を行う",
+      "source_en": "Head into enemy territory and strike with a surprise attack",
+      "text": "Dringe ins feindliche Lager vor und greif überraschend an."
+    },
+    {
+      "key": "q60318011_00_3244",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "敵の大砲を破壊する",
+      "source_en": "Destroy enemy artillery",
+      "text": "Zerstöre die feindlichen Geschütze."
+    },
+    {
+      "key": "q60318011_00_3245",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "増援のリーダーを討伐する",
+      "source_en": "Defeat the leader of the reinforcements",
+      "text": "Besiege den Anführer der Verstärkung."
+    },
+    {
+      "key": "q60318011_00_3246",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "最奥の敵本陣へ向かう",
+      "source_en": "Head to the enemy's main stronghold deeper in",
+      "text": "Dringe bis zum Hauptlager der Feinde vor."
+    },
+    {
+      "key": "q60318011_00_3247",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "山間の敵軍を討伐する",
+      "source_en": "Defeat enemy forces in the mountains",
+      "text": "Besiege die feindlichen Truppen in den Bergen."
+    },
+    {
+      "key": "q60318011_00_3248",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "改めて最奥の敵本陣へ向かう",
+      "source_en": "Head to the deep stronghold again",
+      "text": "Begib dich erneut zum Hauptlager der Feinde."
+    },
+    {
+      "key": "q60318011_00_3249",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "敵の本隊を討伐する",
+      "source_en": "Subdue the enemy's main unit",
+      "text": "Besiege die feindliche Hauptstreitmacht."
+    },
+    {
+      "key": "q60318011_00_3250",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 2800>に戦況結果の報告をする",
+      "source_en": "Report the War Situation results to <NPC 2800>",
+      "text": "Berichte „<NPC 2800>“, wie der Kampf ausgegangen ist."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

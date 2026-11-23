@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300500_00.gmd",
+  "arc_path": "\\quest\\q60300500.arc",
+  "entries": [
+    {
+      "key": "q60300500_00_249",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "戦技の継承　火竜求道試練１",
+      "source_en": "Skill Augmentation: Fire Dragon Trial I",
+      "text": "Erweiterte Klassenverstärkung – Prüfung des Feuerdrachen I"
+    },
+    {
+      "key": "q60300500_00_249",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "新たな戦技の継承を\r\n解放するための試練に挑む",
+      "source_en": "Face the trial to gain access \r\nto new Skill Augmentation",
+      "text": "Stell dich der Prüfung,\r\num die erweiterte Klassenverstärkung freizuschalten."
+    },
+    {
+      "key": "q60300500_00_2999",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "試練場所である<STG 1060>に向かう",
+      "source_en": "Head to <STG 1060>, the trial location",
+      "text": "Geh zum Prüfungsort „<STG 1060>“."
+    },
+    {
+      "key": "q60300500_00_3000",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "第一試練の場所へ向かう",
+      "source_en": "Head to the location of the first test",
+      "text": "Geh zum Ort der ersten Prüfung."
+    },
+    {
+      "key": "q60300500_00_3210",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "第一試練の敵を倒す",
+      "source_en": "Defeat the enemy at the first test",
+      "text": "Besiege den Gegner der ersten Prüfung."
+    },
+    {
+      "key": "q60300500_00_3211",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "第二試練の場所へ向かう",
+      "source_en": "Head to the location of the second test",
+      "text": "Geh zum Ort der zweiten Prüfung."
+    },
+    {
+      "key": "q60300500_00_3212",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "第二試練の敵を倒す",
+      "source_en": "Defeat the enemy at the second test",
+      "text": "Besiege den Gegner der zweiten Prüfung."
+    },
+    {
+      "key": "q60300500_00_3213",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "最終試練の場所へ向かう",
+      "source_en": "Head to the location of the final test",
+      "text": "Geh zum Ort der letzten Prüfung."
+    },
+    {
+      "key": "q60300500_00_3214",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "最終試練の敵を倒す",
+      "source_en": "Defeat the enemy at the final test",
+      "text": "Besiege den Gegner der letzten Prüfung."
+    },
+    {
+      "key": "q60300500_00_3215",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "<STG 443>の<NPC 2800>に報告する",
+      "source_en": "Report to <NPC 2800> in <STG 443>",
+      "text": "Erstatte <NPC 2800> in „<STG 443>“ Bericht."
+    },
+    {
+      "key": "q60300500_00_3216",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "<STG 201>の<NPC 1>に新たな戦技解放をしてもらう",
+      "source_en": "Request <NPC 1> in <STG 201> to unlock new skills",
+      "text": "Bitte <NPC 1> in „<STG 201>“, deine neuen Kampftechniken freizuschalten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

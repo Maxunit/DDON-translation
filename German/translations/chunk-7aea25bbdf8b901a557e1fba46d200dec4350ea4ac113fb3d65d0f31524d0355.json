@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\named\\named_param.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "namedparam_1706",
+      "read_index": "1199",
+      "tag_source": "source_en",
+      "source_jp": "蒼甲竜",
+      "source_en": " Pale Shell Dragon ",
+      "text": " Blauer gepanzerter Drache "
+    },
+    {
+      "key": "namedparam_1707",
+      "read_index": "1200",
+      "tag_source": "source_en",
+      "source_jp": "樹内の記憶",
+      "source_en": " Memory Within the Tree ",
+      "text": " Erinnerung im Baum "
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

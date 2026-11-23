@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300002_00.gmd",
+  "arc_path": "\\quest\\q60300002.arc",
+  "entries": [
+    {
+      "key": "q60300002_00_270",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "カスタムメイド工房１　探求者の帰還",
+      "source_en": "Custom-Made Workshop 1: Searcher's Return",
+      "text": "Spezialwerkstatt 1 – Rückkehr von der langen Reise"
+    },
+    {
+      "key": "q60300002_00_270",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "武具のカスタムメイド工房\r\nの施設について教示を受ける",
+      "source_en": "Learn about the Custom-Made Workshop facilities.",
+      "text": "Lass dir die Spezialwerkstatt erklären."
+    },
+    {
+      "key": "q60300002_00_3353",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<STG 201>の<NPC 4>に<NPC 1047>の帰還報告をする",
+      "source_en": "Report to <NPC 4> in the <STG 201> about <NPC 1047>'s return",
+      "text": "Melde <NPC 4> in „<STG 201>“, dass <NPC 1047> zurückgekehrt ist."
+    },
+    {
+      "key": "q60300002_00_3449",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 1047>の素性について確認する",
+      "source_en": "Hear about <NPC 1047>'s background",
+      "text": "Erkundige dich nach <NPC 1047>."
+    },
+    {
+      "key": "q60300002_00_3450",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "<STG 202>の<NPC 1047>に報告する",
+      "source_en": "Report to <NPC 1047> in <STG 202>",
+      "text": "Erstatte <NPC 1047> in „<STG 202>“ Bericht."
+    },
+    {
+      "key": "q60300002_00_3451",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 1047>から詳しい話を聞く（残り２）",
+      "source_en": "Hear detailed information from <NPC 1047> (2 left)",
+      "text": "Hör dir an, was <NPC 1047> zu erzählen hat (noch 2 Gespräche)."
+    },
+    {
+      "key": "q60300002_00_3452",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 1047>から詳しい話を聞く（残り１）",
+      "source_en": "Hear detailed information from <NPC 1047> (1 left)",
+      "text": "Hör dir an, was <NPC 1047> zu erzählen hat (noch 1 Gespräch)."
+    },
+    {
+      "key": "q60300002_00_3453",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 1047>の話を最後まで聞く",
+      "source_en": "Listen to the end of the <NPC 1047>'s story",
+      "text": "Hör <NPC 1047> bis zum Ende zu."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

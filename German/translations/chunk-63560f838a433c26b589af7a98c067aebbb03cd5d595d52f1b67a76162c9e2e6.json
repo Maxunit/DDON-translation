@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q61000001_00.gmd",
+  "arc_path": "\\quest\\q61000001.arc",
+  "entries": [
+    {
+      "key": "q61000001_00_358",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "竜の力を帯びた武具＜１＞",
+      "source_en": "Arms With the Power of the Dragon I",
+      "text": "Ausrüstung mit Drachenkraft I"
+    },
+    {
+      "key": "q61000001_00_358",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "クレイグから竜の力を宿した武具について\r\n話を聞く",
+      "source_en": "Hear from Craig about weapons \r\nimbued with dragon power",
+      "text": "Lass dir von Craig etwas über Ausrüstung\r\nmit Drachenkraft erzählen."
+    },
+    {
+      "key": "q61000001_00_5121",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "クレイグから詳しい話を聞く",
+      "source_en": "Hear more from Craig",
+      "text": "Lass dir von Craig mehr darüber erzählen."
+    },
+    {
+      "key": "q61000001_00_5122",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ソニアから強化について話を聞く",
+      "source_en": "Hear about Enhance from Sonia",
+      "text": "Lass dir von Sonia erklären, wie man Ausrüstung verstärkt."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

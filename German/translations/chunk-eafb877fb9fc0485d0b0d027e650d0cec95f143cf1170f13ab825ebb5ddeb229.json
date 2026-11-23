@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300010_00.gmd",
+  "arc_path": "\\quest\\q60300010.arc",
+  "entries": [
+    {
+      "key": "q60300010_00_254",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "自室でメインポーンを育成するための\r\n必要な設備を整える",
+      "source_en": "Prepare the necessary equipment for training \r\nMain Pawns in your room",
+      "text": "Eine Glocke für das Training\r\ndeines Hauptvasallen"
+    },
+    {
+      "key": "q60300010_00_3007",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "どの鉱石を回収するか決める",
+      "source_en": "Decide which ore to collect",
+      "text": "Entscheide, welches Erz du sammeln möchtest."
+    },
+    {
+      "key": "q60300010_00_3008",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、<NPC 544>に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to <NPC 544> (need: <SQDI DNUM>)",
+      "text": "Übergib „<SQDI NAME>“ (×<SQDI NUM>) an <NPC 544> (noch <SQDI DNUM>)."
+    },
+    {
+      "key": "q60300010_00_3233",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<STG 211>の<NPC 544>に確認する",
+      "source_en": "Confirm with <NPC 544> in <STG 211>",
+      "text": "Frag <NPC 544> in „<STG 211>“ nach dem Ritual."
+    },
+    {
+      "key": "q60300010_00_3234",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "儀式完了を待つ【待ち時間：3分(現実時間)】",
+      "source_en": "Await ritual completion (waiting time: 3 minutes real time)",
+      "text": "Warte, bis das Ritual abgeschlossen ist (3 Minuten Echtzeit)."
+    },
+    {
+      "key": "q60300010_00_3365",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "面会人について<NPC 1024>に確認する",
+      "source_en": "Check with <NPC 1024> about visitors",
+      "text": "Frag <NPC 1024> nach dem Gast."
+    },
+    {
+      "key": "q60300010_00_3367",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<STG 211>に向かい面会人から話を聞く",
+      "source_en": "Go to <STG 211> and hear what the visitor has to say",
+      "text": "Geh zu „<STG 211>“ und hör dir an, was der Gast zu sagen hat."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

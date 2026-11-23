@@ -11,12 +11,36 @@
       "text": "Gepanzerter Grimwarg"
     },
     {
+      "key": "ENEMY_NAME_335",
+      "read_index": "314",
+      "tag_source": "source_en",
+      "source_jp": "バーンドエント",
+      "source_en": "Burned Ent",
+      "text": "Verkohlter Ent"
+    },
+    {
       "key": "ENEMY_NAME_341",
       "read_index": "320",
       "tag_source": "source_en",
       "source_jp": "戦甲ゴアマンティコア",
       "source_en": "War-Ready Goremanticore",
       "text": "Gepanzerter Blutmantikor"
+    },
+    {
+      "key": "ENEMY_NAME_354",
+      "read_index": "332",
+      "tag_source": "source_en",
+      "source_jp": "アンセスターオーク",
+      "source_en": "Ancestor Orc",
+      "text": "Urork"
+    },
+    {
+      "key": "ENEMY_NAME_355",
+      "read_index": "333",
+      "tag_source": "source_en",
+      "source_jp": "キャプテンアンセスターオーク",
+      "source_en": "Ancestor Orc Captain",
+      "text": "Urork-Hauptmann"
     },
     {
       "key": "ENEMY_NAME_356",
@@ -41,6 +65,22 @@
       "source_jp": "骸の将",
       "source_en": "Necro Master",
       "text": "Totengeneral"
+    },
+    {
+      "key": "ENEMY_NAME_359",
+      "read_index": "337",
+      "tag_source": "source_en",
+      "source_jp": "闇の将",
+      "source_en": "Shadow Master",
+      "text": "Schattengeneral"
+    },
+    {
+      "key": "ENEMY_NAME_360",
+      "read_index": "338",
+      "tag_source": "source_en",
+      "source_jp": "アンセスターオリジン",
+      "source_en": "Progenitor",
+      "text": "Urork-Stammvater"
     }
   ],
   "schema_version": 1,

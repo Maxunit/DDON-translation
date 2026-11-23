@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60301041_00.gmd",
+  "arc_path": "\\quest\\q60301041.arc",
+  "entries": [
+    {
+      "key": "q60301041_00_305",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "愛し君のための贈り物＜１＞",
+      "source_en": "A Gift for You, My Love (1)",
+      "text": "Ein Geschenk für dich, mein Schatz I"
+    },
+    {
+      "key": "q60301041_00_305",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アンジェロのお悩み相談に乗る",
+      "source_en": "Consult with Angelo about your problems",
+      "text": "Hilf Angelo bei seinem Problem."
+    },
+    {
+      "key": "q60301041_00_4209",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ヴァネッサとアデルドナハにアドバイスを聞く",
+      "source_en": "Hear advice from Vanessa and Adair Donnchadh",
+      "text": "Bitte Vanessa und Adair Donnchadh um Rat."
+    },
+    {
+      "key": "q60301041_00_4210",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アンジェロに報告する",
+      "source_en": "Report to Angelo",
+      "text": "Berichte Angelo."
+    },
+    {
+      "key": "q60301041_00_4211",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "《レスタニア産はちみつ》を入手する",
+      "source_en": "Obtain \"Lestanian Honey\"",
+      "text": "Besorge Honig aus Lestania."
+    },
+    {
+      "key": "q60301041_00_4212",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "アンジェロに《レスタニア産はちみつ》を納品する",
+      "source_en": "Deliver \"Lestanian Honey\" to Angelo",
+      "text": "Bring Angelo Honig aus Lestania."
+    },
+    {
+      "key": "q60301041_00_4213",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "グレゴリーに相談する",
+      "source_en": "Consult with Gregory",
+      "text": "Bitte Gregory um Rat."
+    },
+    {
+      "key": "q60301041_00_4214",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "鑑定交換で《スイートハニーケーキ》を入手する",
+      "source_en": "Obtain \"Sweet Honey Cake\" at Appraisal Exchange",
+      "text": "Ertausche einen süßen Honigkuchen bei „Begutachtung und Tausch“."
+    },
+    {
+      "key": "q60301041_00_4215",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "アンジェロに《スイートハニーケーキ》を納品する",
+      "source_en": "Deliver \"Sweet Honey Cake\" to Angelo",
+      "text": "Bring Angelo den süßen Honigkuchen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

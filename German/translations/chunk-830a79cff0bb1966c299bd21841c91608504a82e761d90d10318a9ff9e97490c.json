@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300104_00.gmd",
+  "arc_path": "\\quest\\q60300104.arc",
+  "entries": [
+    {
+      "key": "q60300104_00_264",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "冒険スポットの手引き：フェルヤナ荒原１",
+      "source_en": "Adventure Spot Guide: Feryana Wilderness I",
+      "text": "Leitfaden für Abenteuerorte in der Feryana-Wildnis I"
+    },
+    {
+      "key": "q60300104_00_264",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターより解放された\r\n冒険スポットを探索する",
+      "source_en": "Explore the\r\nAdventure Spots unlocked by the Area Master",
+      "text": "Erkunde die Abenteuerorte,\r\ndie der Gebietsmeister freigeschaltet hat."
+    },
+    {
+      "key": "q60300104_00_3331",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "指定された冒険スポットを探索する",
+      "source_en": "Explore designated adventure spots",
+      "text": "Erkunde die angegebenen Abenteuerorte."
+    },
+    {
+      "key": "q60300104_00_3332",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐して奥へ進む",
+      "source_en": "Defeat the monsters you encounter and proceed to the depths",
+      "text": "Besiege die Monster, denen du begegnest, und dringe tiefer vor."
+    },
+    {
+      "key": "q60300104_00_3333",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "手引きをした人物へ報告する",
+      "source_en": "Report to the person leading",
+      "text": "Berichte der Person, die dir den Weg gewiesen hat."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

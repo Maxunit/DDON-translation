@@ -1,0 +1,360 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60300032.gmd",
+  "arc_path": "\\quest\\q60300032.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "――王都メガド解放の功労者である\r\nレスタニア大陸の覚者様ですね？\r\nお待ちしておりました",
+      "source_en": "... You are Ser Arisen from the land of Lestania, \r\nwho contributed to the liberation of the \r\nRoyal Capital Megado, are you not?\r\nWe have been expecting you.",
+      "text": "Ihr seid der Erweckte aus Lestania,\r\nder bei der Befreiung der Königsstadt Megado half,\r\nnicht wahr?\r\nWir haben Euch erwartet."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "わたくしはクルト侯爵家当主\r\n<NPC 681>・クルトに仕えております\r\n<NPC 586>と申します",
+      "source_en": "I serve <NPC 681>, \r\nthe Lord of the House of Kurt.\r\nMy name is <NPC 586>.",
+      "text": "Ich stehe im Dienst von <NPC 681>,\r\ndem Oberhaupt des Hauses Kurt.\r\nMein Name ist <NPC 586>."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "クルト侯爵家は代々メガドの執政を\r\n王家から任されておりまして――",
+      "source_en": "The Kurt marquisate has for generations\r\nbeen entrusted by the royal house with\r\nMegado's governance...",
+      "text": "Das Königshaus hat dem Haus Kurt\r\nseit Generationen\r\ndie Verwaltung von Megado anvertraut …"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "主人である<NPC 681>・クルトが\r\n覚者様に直接礼をしたいとのことで\r\nお迎えに上がりました",
+      "source_en": "My master, <NPC 681> Kurt, wishes to\r\nexpress his gratitude to you personally,\r\nSer Arisen, which is why I have come\r\nto welcome you.",
+      "text": "Mein Herr <NPC 681> Kurt\r\nmöchte Euch persönlich danken, werter Erweckter.\r\nDarum bin ich gekommen,\r\num Euch abzuholen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "主人<NPC 681>・クルトは\r\n屋敷で覚者様をお待ちしております\r\nご招待をお受けいただけますでしょうか？",
+      "source_en": "Master <NPC 681> Kurt is waiting for\r\nyou at the mansion, Ser Arisen.\r\nWould you honor us and accept his invitation?",
+      "text": "Mein Herr <NPC 681> Kurt erwartet Euch\r\nauf seinem Anwesen, werter Erweckter.\r\nWürdet Ihr uns die Ehre erweisen und seine Einladung annehmen?"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "はい",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ありがとうございます\r\nそれでは早速、屋敷へ参りましょう",
+      "source_en": "Thank you. Then let us proceed to\r\nthe mansion without delay.",
+      "text": "Vielen Dank.\r\nDann lasst uns gleich zum Anwesen gehen."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "左様でございますか\r\nですが、主人は「是非とも」と――\r\n覚者様のお支度が整うまで\r\nここでお待ちしております",
+      "source_en": "Is that so? However, my master\r\ninsisted upon it \"by all means\"—\r\nI shall wait here until you are ready, Ser Arisen.",
+      "text": "Ich verstehe. Mein Herr bat mich allerdings,\r\nEuch unbedingt zu ihm zu bringen.\r\nIch warte hier, bis Ihr bereit seid, werter Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "あらためて、ようこそお越し下さいました\r\n<NPC 681>・クルト侯爵へお声を――",
+      "source_en": "Once more, we welcome you.\r\nPlease address Marquis <NPC 681>\r\nKurt when you are ready.",
+      "text": "Nochmals willkommen.\r\nWenn Ihr bereit seid, sprecht bitte mit Markgraf <NPC 681>\r\nKurt."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "やぁやぁ、お初にお目にかかりますな\r\n私は<COL ff2600>ナヴィド・クルト</COL>\r\nこのメガドの執政を担う\r\nクルト侯爵家の当主でございます",
+      "source_en": "Well well, it is a pleasure to meet you.\r\nI am <COL ff2600>Navid Kurt </COL>, the acting\r\nruler of Megado and head of House Kurt.",
+      "text": "Oh, es freut mich, Euch kennenzulernen.\r\nIch bin <COL ff2600>Navid Kurt</COL>.\r\nIch verwalte Megado und bin das Oberhaupt des Hauses Kurt."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "メガドを救った英雄にご挨拶を、と思いましてな\r\nいかがでしょう、覚者殿がよろしければ――\r\n我が屋敷にて、今までの華麗なる冒険譚を\r\nお聞かせ願えませんかな",
+      "source_en": "I wished to greet the hero who saved\r\nMegado. If it pleases you, Master Arisen—\r\nwould you regale us with tales of your\r\nbrilliant adventures?",
+      "text": "Ich wollte den Helden von Megado persönlich begrüßen.\r\nWenn es Euch recht ist, werter Erweckter,\r\nerzählt uns doch hier in meinem Haus\r\nvon Euren großen Abenteuern."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "覚者殿をお招きしたのは他でもなく\r\n我が街を取り戻してくださったことの\r\n感謝を伝えたいと思いまして",
+      "source_en": "The reason I invited you, Master Arisen,\r\nis none other than to express my gratitude\r\nfor reclaiming our city.",
+      "text": "Ich habe Euch eingeladen,\r\num Euch dafür zu danken,\r\ndass Ihr uns unsere Stadt zurückgegeben habt."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "オーク共に侵略されてから、市民と共に\r\n耐え続けて幾月経ったことか――\r\nこのメガドを取り戻していただき\r\n市民を代表してお礼申し上げたい",
+      "source_en": "Since the orcs invaded, we citizens\r\nhave endured for months unending...\r\nI wish to thank you, on behalf of the\r\npeople, for reclaiming Megado.",
+      "text": "Seit die Orks einfielen,\r\nhaben wir Bürger monatelang ausgeharrt …\r\nIm Namen der Stadt danke ich Euch,\r\ndass Ihr Megado befreit habt."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "――と、まぁ立ち話も難ですので\r\n覚者殿にお部屋を用意させていただきました",
+      "source_en": "... Well, standing here talking hardly suffices.\r\nWe've prepared a room for you, Master Arisen. \r\nPlease follow me this way.",
+      "text": "Doch lasst uns nicht länger hier stehen.\r\nWir haben ein Zimmer für Euch vorbereitet.\r\nFolgt mir bitte."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "長旅お疲れでしょうから\r\nどうぞ、そちらでごゆっくりお休みください\r\n夕食時になればお呼びいたしますよ",
+      "source_en": "You must be tired from your long\r\njourney. Please, rest there at your\r\nleisure. I will call you when dinner is ready.",
+      "text": "Ihr seid bestimmt müde von der langen Reise.\r\nRuht Euch dort aus, solange Ihr möchtet.\r\nIch lasse Euch rufen, sobald das Abendessen bereit ist."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "おい、こっちだ！",
+      "source_en": "Hey, over here!",
+      "text": "He, hier drüben!"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "メガドを解放した異国の覚者というのは\r\nお前か？\r\n安心しろ、見ての通り俺はオークじゃない\r\nお前を助けに来た人間だ",
+      "source_en": "You're the foreign Arisen who freed Megado?\r\nRelax—as you see, I'm not an orc.\r\nI'm human and came here to help.",
+      "text": "Bist du der Erweckte aus der Fremde, der Megado befreit hat?\r\nNur ruhig. Wie du siehst, bin ich ein Mensch.\r\nIch bin hier, um dir zu helfen."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "ゆっくり立ち話している暇はない\r\n死にたくなかったらついてこい",
+      "source_en": "We don't have time to stand around talking.\r\nCome with me if you want to live.",
+      "text": "Wir haben keine Zeit zum Reden.\r\nWenn du am Leben bleiben willst, komm mit."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "なんとか無事のようだな――\r\n俺たちの集会所がある\r\nまずはそこへ向かおう",
+      "source_en": "Safe and sound, it appears—fine.\r\nOur haven stands close at hand.\r\nWe'll proceed there together.",
+      "text": "Du scheinst heil davongekommen zu sein. Gut.\r\nUnser Treffpunkt ist ganz in der Nähe.\r\nGehen wir zuerst dorthin."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "ちょっと待て――尾行されている\r\nもっと入り組んだ場所へ行って\r\n何者か突き止めてやる必要があるな",
+      "source_en": "Wait a second—we're being followed.\r\nWe need to go somewhere they'll lose track \r\nof us and find out who it is.",
+      "text": "Moment, jemand folgt uns.\r\nWir müssen dorthin, wo man uns nicht so leicht verfolgen kann,\r\nund herausfinden, wer es ist."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "あんたは先に行ってくれ\r\n俺はひと仕事してくる――",
+      "source_en": "You go on ahead. \r\nI'm gonna go take care of business...",
+      "text": "Geh schon mal vor.\r\nIch habe noch etwas zu erledigen …"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "階段を下りた先が集会所、水車が目印だ\r\nそこに<NPC 3252>という仲間がいる\r\nそいつと落ち合ってくれ",
+      "source_en": "The meeting place is down the stairs,\r\nmarked by a waterwheel. There's a\r\ncomrade named <NPC 3252> there.\r\nMeet up with them.",
+      "text": "Der Treffpunkt liegt unten an der Treppe.\r\nDu erkennst ihn am Wasserrad.\r\nDort wartet unser Gefährte <NPC 3252>.\r\nTriff dich mit ihm."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "この俺を尾行するとは\r\nいい度胸してやがるな\r\nククク――",
+      "source_en": "Following me, are you? You've got\r\nsome nerve. Heh heh heh...",
+      "text": "Du beschattest mich?\r\nDu hast ganz schön Mumm. Hehe …"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "――何してる、先に行くんだ\r\n俺はひと仕事してくる",
+      "source_en": "—What're you doing? Go on ahead.\r\nI've work to finish here.",
+      "text": "Was machst du noch hier? Geh vor!\r\nIch habe hier noch was zu erledigen."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "覚者さん――！\r\nご無事でなによりです\r\n僕、レジスタンスメンバーの<NPC 3252>です",
+      "source_en": "Arisen—! It's a relief to see you safe. \r\nI'm <NPC 3252>, a member of\r\nthe resistance.",
+      "text": "Erweckter! Ein Glück, dass Euch nichts passiert ist!\r\nIch bin <NPC 3252>.\r\nIch gehöre zum Widerstand."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "――あれ？\r\nメフィスさんは一緒じゃないんですか？",
+      "source_en": "—Huh? Where's Mephis?",
+      "text": "Hm? Ist Mephis nicht bei Euch?"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "――――あっ",
+      "source_en": "....... Ah.",
+      "text": "… Ah."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "帰ってきましたよ――ん？\r\n誰か連れてますね",
+      "source_en": "You're back... Oh?\r\nI see you brought someone with you.",
+      "text": "Da bin ich wieder … Hm?\r\nIhr habt jemanden mitgebracht."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "自己紹介が遅れたな\r\n俺はメフィス、ここのリーダーをやっている",
+      "source_en": "Took me a while to introduce myself.\r\nI'm Mephis, the leader here.",
+      "text": "Ich hab mich noch gar nicht vorgestellt.\r\nIch bin Mephis. Ich leite den Widerstand hier."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "お前がオークに襲われたのは偶然ではないだろう\r\nクルト侯爵はオークと関係しているという噂もある\r\nナヴィド・クルト――\r\nあいつがけしかけたのさ、間違いない",
+      "source_en": "It was no coincidence the orcs\r\nattacked you. There are rumors Marquis\r\nKurt is involved with the orcs.\r\nNavid Kurt... he's behind this, no doubt.",
+      "text": "Dass dich die Orks angegriffen haben, war kein Zufall.\r\nEs heißt, Markgraf Kurt macht gemeinsame Sache mit ihnen.\r\nNavid Kurt …\r\nDer steckt bestimmt dahinter."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "お前はオークにとって一番の厄介者だ\r\nナヴィドはどんな汚い手を使ってでも\r\n消そうとするだろう\r\n邪魔な者は、誰だろうとな――",
+      "source_en": "You're the biggest thorn in the orcs' side.\r\nNavid will try to erase you by any means,\r\nno matter how dirty the methods.\r\nAnyone who gets in the way— no matter who.",
+      "text": "Du bist den Orks am meisten im Weg.\r\nNavid wird versuchen, dich aus dem Weg zu räumen.\r\nDem ist jedes Mittel recht.\r\nSo geht’s jedem, der ihm im Weg steht …"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "俺達は、ナヴィド・クルトを打ち倒すために\r\n集まったレジスタンス組織なんだ\r\n数えきれないその悪事を暴き\r\n奴を失脚させるために情報と仲間を集めている",
+      "source_en": "We are a resistance organization gathered\r\nto strike down Navid Kurt. We uncover his\r\ncountless misdeeds and gather intel and\r\nallies to bring him down.",
+      "text": "Wir haben uns zum Widerstand zusammengeschlossen,\r\num Navid Kurt zu stürzen.\r\nWir decken seine Verbrechen auf, sammeln Beweise\r\nund suchen Leute, die sich uns anschließen."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "メガド占領のせいで\r\nメンバーはこれだけに減ってしまったが――\r\n悪事の証拠と人手さえ集まれば\r\n行動に移すつもりだ",
+      "source_en": "The occupation of Megado has reduced\r\nour numbers to this—but once we have\r\nenough evidence and manpower, we'll\r\nmake our move.",
+      "text": "Seit der Besetzung Megados sind wir nur noch so wenige.\r\nWenn wir genug Beweise\r\nund genug Mitstreiter haben,\r\nschlagen wir zu."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "なぁ、俺達に力を貸してくれないか？\r\nメガドの英雄であるお前が加われば\r\n百人力なんだ",
+      "source_en": "Hey, could you lend us your strength?\r\nWith you, the hero of Megado, on our side,\r\nit'll be like having a hundred warriors.",
+      "text": "Hilfst du uns?\r\nWenn der Held von Megado an unserer Seite kämpft,\r\nist das so viel wert wie hundert Krieger."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "レジスタンスに参加する",
+      "source_en": "Join the resistance",
+      "text": "Sich dem Widerstand anschließen"
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "覚者さんが加わったら――\r\nひょっとすると、メフィスさんの夢が\r\n本当に叶うかもしれませんね",
+      "source_en": "If Ser Arisen joins us―\r\nperhaps Mephis's dream might\r\nactually come true.",
+      "text": "Wenn Ihr Euch uns anschließt, werter Erweckter,\r\nkönnte Mephis’ Traum\r\nvielleicht wirklich wahr werden."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "覚者さん\r\nこれからよろしくお願いします！",
+      "source_en": "Ser Arisen,\r\nI look forward to working with you!",
+      "text": "Werter Erweckter,\r\nich freue mich, dass Ihr bei uns seid!"
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "うぅ――――",
+      "source_en": "Ugh........",
+      "text": "Uff …"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "――協力、感謝する",
+      "source_en": "... We'd appreciate your cooperation.",
+      "text": "Danke, dass du uns hilfst."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "――――ん？\r\nこの男が気になるか？",
+      "source_en": ".... Hmm?\r\nDoes this person interest you?",
+      "text": "Hm?\r\nDu willst wissen, wer der Kerl da ist?"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "コイツはさっき俺たちを尾行していた奴だ\r\n裏道に回ったらあっさりと背を見せて\r\nまんまと捕まってくれたぜ",
+      "source_en": "This guy was tailing us earlier.\r\nWe caught him easily when he turned\r\ndown an alley and showed his back.",
+      "text": "Der ist uns vorhin gefolgt.\r\nAls er in einer Seitengasse kurz wegsah,\r\nwar er leicht zu fassen."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "これから、お前にはこの男を\r\n<COL ff2600>《尋問》</COL>してもらいたいんだ\r\n――なに、恐ろしいことをする訳じゃない",
+      "source_en": "You'll need to <COL ff2600>Interrogate</COL> this man.\r\n... Nothing too gruesome, I promise.",
+      "text": "Du sollst den Mann <COL ff2600>befragen</COL>.\r\nKeine Sorge, du musst ihm nichts antun."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "奴から<NPC 681>に迫る情報を聞き出すんだ\r\n詳細は――いや、またにしよう\r\n今は英気をゆっくりと養ってくれ",
+      "source_en": "Extract any information he has on <NPC 681>.\r\nThe details... never mind, save it for later.\r\nFor now, rest and recover your strength.",
+      "text": "Finde heraus, was er über <NPC 681> weiß.\r\nDie Einzelheiten … Ach, das besprechen wir später.\r\nRuh dich erst mal aus und komm wieder zu Kräften."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

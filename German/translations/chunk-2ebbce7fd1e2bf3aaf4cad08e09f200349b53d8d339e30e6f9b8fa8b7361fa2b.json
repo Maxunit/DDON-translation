@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000008_00.gmd",
+  "arc_path": "\\quest\\q60000008.arc",
+  "entries": [
+    {
+      "key": "q60000008_00_25",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔攻の証　ソーサラー戦術試練",
+      "source_en": "Sorcerer Tactics Trial: A Magick Attack",
+      "text": "Zeichen der Zauberkraft – Taktikprüfung für Erzmagier"
+    },
+    {
+      "key": "q60000008_00_25",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ソーサラーの基本戦術を学ぶため\r\n修練の祠にて試練に挑む",
+      "source_en": "In order to learn the basic tactics of Sorcerer,\r\nchallenge the trial of the Training Chapel",
+      "text": "Stell dich der Prüfung im Übungsschrein,\r\num die Grundlagen für Erzmagier zu lernen."
+    },
+    {
+      "key": "q60000008_00_1102",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "修練の祠内のウィルソンと話す",
+      "source_en": "Speak with Wilson in the Training Chapel",
+      "text": "Sprich mit Wilson im Übungsschrein."
+    },
+    {
+      "key": "q60000008_00_1103",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "最奥の敵にしがみつきマジッククラッカーで攻撃せよ",
+      "source_en": "Cling to the enemy in the deeper chamber, use Magick Cracker, then shoot it with a basic attack",
+      "text": "Halte dich am Gegner im hintersten Teil des Schreins fest, bring einen Magiesprengsatz an und zünde ihn mit einem Treffer."
+    },
+    {
+      "key": "q60000008_00_1104",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿のレンテンに経緯を報告する",
+      "source_en": "Report back to Renton in the White Dragon Temple",
+      "text": "Erstatte Renton im Tempel des Weißen Drachen Bericht."
+    },
+    {
+      "key": "q60000008_00_1160",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "敵にマジックボールを3回当てよ",
+      "source_en": "Attack the enemy 3 times with your Magick Bolts",
+      "text": "Triff den Gegner dreimal mit Magiegeschossen."
+    },
+    {
+      "key": "q60000008_00_1161",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "敵にマジックトラップを3回成功せよ",
+      "source_en": "Attack the enemy 3 times with Magick Trap",
+      "text": "Löse die Magiefalle dreimal erfolgreich aus."
+    },
+    {
+      "key": "q60000008_00_1162",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "サイクロプスを倒せ",
+      "source_en": "Defeat the Cyclops",
+      "text": "Besiege den Zyklopen."
+    },
+    {
+      "key": "q60000008_00_1163",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "最奥にある＜魔攻の証＞を入手する",
+      "source_en": "Collect the proof of completing the trial",
+      "text": "Hol das Zeichen der Zauberkraft am Ende des Schreins ab."
+    },
+    {
+      "key": "q60000008_00_1254",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "魔法を詠唱しロックオフ状態で魔法を放て",
+      "source_en": "Charge a spell with lock-on switched off",
+      "text": "Bereite einen Zauber vor und wirke ihn bei gelöster Zielerfassung."
+    },
+    {
+      "key": "q60000008_00_1255",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "詠唱完了状態で移動せよ",
+      "source_en": "Charge a spell and reposition yourself when it is fully charged",
+      "text": "Bereite einen Zauber vor und bewege dich, während du ihn bereithältst."
+    },
+    {
+      "key": "q60000008_00_1278",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "スペリングで魔法威力を上昇させよ",
+      "source_en": "Increase spell power while chanting",
+      "text": "Verstärke deinen Zauber beim Vorbereiten mit Zauberzeichen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

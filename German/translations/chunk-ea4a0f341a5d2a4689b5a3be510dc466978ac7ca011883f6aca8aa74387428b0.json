@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60301003_00.gmd",
+  "arc_path": "\\quest\\q60301003.arc",
+  "entries": [
+    {
+      "key": "q60301003_00_291",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "不思議な流れ星とみんなの願い＜２＞",
+      "source_en": "Wish on a Shooting Star II",
+      "text": "Wünsche an eine Sternschnuppe II"
+    },
+    {
+      "key": "q60301003_00_291",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "不思議な流れ星について\r\n情報を集める",
+      "source_en": "Gather information about \r\nmysterious shooting stars",
+      "text": "Finde mehr über die geheimnisvolle\r\nSternschnuppe heraus."
+    },
+    {
+      "key": "q60301003_00_4073",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "流れ星の情報を探す",
+      "source_en": "Search for information on shooting stars",
+      "text": "Erkundige dich nach der Sternschnuppe."
+    },
+    {
+      "key": "q60301003_00_4074",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "《燐光虫の洞窟》近くを調査する",
+      "source_en": "Investigate the vicinity of Glowworm Cave",
+      "text": "Untersuche die Umgebung der Glühwürmchenhöhle."
+    },
+    {
+      "key": "q60301003_00_4075",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇したエントを倒す",
+      "source_en": "Defeat the encountered Ent",
+      "text": "Besiege den Ent, der dir begegnet."
+    },
+    {
+      "key": "q60301003_00_4076",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "敵が去った後を調べる",
+      "source_en": "Check after the enemy leaves",
+      "text": "Suche die Stelle ab, sobald der Gegner fort ist."
+    },
+    {
+      "key": "q60301003_00_4077",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "メイリーフに報告する",
+      "source_en": "Report to Mayleaf",
+      "text": "Berichte Mayleaf."
+    },
+    {
+      "key": "q60301003_00_4078",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ニコラスに報告する",
+      "source_en": "Report to Nicholas",
+      "text": "Berichte Nicholas."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60318004_00.gmd",
+  "arc_path": "\\quest\\q60318004.arc",
+  "entries": [
+    {
+      "key": "q60318004_00_229",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ラスニテ山麓　敵襲撃阻止",
+      "source_en": "Rathnite Foothills Prevent Enemy Attack",
+      "text": "Rathnite-Vorgebirge – Überfall verhindern"
+    },
+    {
+      "key": "q60318004_00_229",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the client\r\nand try to solve the problem.",
+      "text": "Frag nach den Einzelheiten des Auftrags\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60318004_00_2945",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "転戦中の仲間の居場所を確認する",
+      "source_en": "Locate comrades who are currently deployed",
+      "text": "Finde heraus, wo sich deine Kameraden im Einsatz befinden."
+    },
+    {
+      "key": "q60318004_00_2946",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "転戦中の仲間から敵情報を聞く",
+      "source_en": "Obtain enemy information from allies",
+      "text": "Erkundige dich bei deinen Kameraden nach den Feinden."
+    },
+    {
+      "key": "q60318004_00_3161",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の<NPC 600>に報告する",
+      "source_en": "Report to the client, <NPC 600>",
+      "text": "Berichte deinem Auftraggeber „<NPC 600>“."
+    },
+    {
+      "key": "q60318004_00_3162",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "入手した敵情報の居場所へ向かう",
+      "source_en": "Proceed to the area based on the obtained information",
+      "text": "Begib dich zum gemeldeten Standort des Feindes."
+    },
+    {
+      "key": "q60318004_00_3163",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "敵を討伐する",
+      "source_en": "Defeat the enemy",
+      "text": "Besiege die Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

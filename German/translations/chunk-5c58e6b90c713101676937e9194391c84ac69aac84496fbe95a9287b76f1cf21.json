@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50205002_00.gmd",
+  "arc_path": "\\quest\\q50205002.arc",
+  "entries": [
+    {
+      "key": "q50205002_00_60",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "異人の地下墓所",
+      "source_en": "The Foreigner's Underground Tomb",
+      "text": "Die Grabkammer des Fremden"
+    },
+    {
+      "key": "q50205002_00_60",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "集いし勇敢なる冒険者たちよ\r\n手がかりの導く古墓に眠る\r\n黄金の秘宝を探し出せ",
+      "source_en": "Oh, brave adventurers who have gathered here,\r\nSeek out the golden treasure sleeping\r\nin the ancient tombs, guided by the clues.",
+      "text": "Tapfere Abenteurer, die ihr euch hier versammelt habt!\r\nFolgt den Hinweisen zur alten Grabkammer\r\nund findet den Goldschatz, der dort verborgen liegt."
+    },
+    {
+      "key": "q50205002_00_2621",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiegt die Gegner, auf die ihr trefft."
+    },
+    {
+      "key": "q50205002_00_2622",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "次なる敵を探し出す",
+      "source_en": "Find your next enemy",
+      "text": "Sucht euren nächsten Gegner."
+    },
+    {
+      "key": "q50205002_00_2623",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "パーティー集合マーカーに集まる",
+      "source_en": "Gather at the party gathering marker",
+      "text": "Versammelt euch an der Treffpunktmarkierung für die Gruppe."
+    },
+    {
+      "key": "q50205002_00_2624",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "最奥に潜む魔物を討伐する",
+      "source_en": "Defeat the foe(s) lurking in the innermost parts of the city",
+      "text": "Besiegt die Monster, die tief im Inneren lauern."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

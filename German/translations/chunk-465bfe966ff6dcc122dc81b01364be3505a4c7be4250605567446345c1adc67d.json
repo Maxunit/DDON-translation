@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50101021_00.gmd",
+  "arc_path": "\\quest\\q50101021.arc",
+  "entries": [
+    {
+      "key": "q50101021_00_90",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔界村コラボ 特別ミッション",
+      "source_en": "Ghosts 'n Goblins Collaboration: Special Mission",
+      "text": "Ghosts ’n Goblins – Sondermission"
+    },
+    {
+      "key": "q50101021_00_90",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ようこそいらっしゃい・・・・・\r\n３つの門をくぐり抜け、悪魔を倒さなければならない",
+      "source_en": "Welcome, please come in...\r\n\r\nYou must pass through three gates\r\nand Defeat the foe(s).",
+      "text": "Willkommen, tretet ein …\r\n\r\nIhr müsst drei Tore durchqueren\r\nund die Feinde besiegen."
+    },
+    {
+      "key": "q50101021_00_90",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "魔界村コラボの武器・防具を装備して\r\nミッションをクリアーすると報酬が増加します",
+      "source_en": "Wearing the Ghosts 'n Goblins collaboration gear\r\nboosts the rewards you receive for completing missions.",
+      "text": "Wenn du bei dieser Mission Waffen oder Rüstungen\r\naus der Ghosts-’n-Goblins-Aktion trägst, erhältst du eine höhere Belohnung."
+    },
+    {
+      "key": "q50101021_00_3774",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "１つ目の門を塞ぐ魔物を倒す",
+      "source_en": "Defeat the foe(s) blocking the 1st gate",
+      "text": "Besiege die Monster, die das erste Tor versperren."
+    },
+    {
+      "key": "q50101021_00_3775",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "先へ進む",
+      "source_en": "Move forward",
+      "text": "Geh weiter."
+    },
+    {
+      "key": "q50101021_00_3776",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "２つ目の門を塞ぐ魔物を倒す",
+      "source_en": "Defeat the foe(s) blocking the 2nd gate",
+      "text": "Besiege die Monster, die das zweite Tor versperren."
+    },
+    {
+      "key": "q50101021_00_3777",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "先へ進む",
+      "source_en": "Move forward",
+      "text": "Geh weiter."
+    },
+    {
+      "key": "q50101021_00_3778",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "３つ目の門を塞ぐ魔物を倒す",
+      "source_en": "Defeat the foe(s) blocking the 3rd gate",
+      "text": "Besiege die Monster, die das dritte Tor versperren."
+    },
+    {
+      "key": "q50101021_00_3785",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "先へ進む",
+      "source_en": "Move forward",
+      "text": "Geh weiter."
+    },
+    {
+      "key": "q50101021_00_3786",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "悪魔を倒す",
+      "source_en": "Defeat the demon",
+      "text": "Besiege den Dämon."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

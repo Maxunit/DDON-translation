@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60350000_00.gmd",
+  "arc_path": "\\quest\\q60350000.arc",
+  "entries": [
+    {
+      "key": "q60350000_00_371",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ガルドノック砦の異変",
+      "source_en": "Strange Happening at Gardnox Fortress",
+      "text": "Unheil in der Festung Gardnox"
+    },
+    {
+      "key": "q60350000_00_371",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アイザックから\r\n新たな脅威について話を聞く",
+      "source_en": "Hear about the new threat from Isaac",
+      "text": "Lass dir von Isaac von der neuen Bedrohung erzählen."
+    },
+    {
+      "key": "q60350000_00_5239",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "アイザックから詳しい話を聞く",
+      "source_en": "Hear more from Isaac",
+      "text": "Lass dir von Isaac mehr darüber erzählen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

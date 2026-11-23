@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50202001_00.gmd",
+  "arc_path": "\\quest\\q50202001.arc",
+  "entries": [
+    {
+      "key": "q50202001_00_57",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "淀みし大竜力・限界域",
+      "source_en": "Phantasmic Great Dragon: Restricted Stage",
+      "text": "Angestaute Drachenkraft: Grenzprüfung"
+    },
+    {
+      "key": "q50202001_00_57",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n淀みの地に再び竜力が満ちた\r\n白き化身を打ち払い、己が力を示せ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nOnce again, Dragon Force fills this stagnant land.\r\nCast off the pale incarnation and demonstrate\r\nyour own strength.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nDie Drachenkraft hat sich hier erneut angestaut.\r\nVertreibt die bleiche Verkörperung\r\nund beweist eure eigene Stärke!"
+    },
+    {
+      "key": "q50202001_00_2486",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "制限時間内に竜力の化身を討伐する",
+      "source_en": "Defeat the Incarnation of Dragon Force within the time limit",
+      "text": "Besiegt die Verkörperung der Drachenkraft, bevor die Zeit abläuft."
+    },
+    {
+      "key": "q50202001_00_2487",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "現れた敵の妨害を排除する",
+      "source_en": "Eliminate the interfering enemy",
+      "text": "Besiegt die Feinde, die euch den Weg versperren."
+    },
+    {
+      "key": "q50202001_00_2488",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "真なる力に満ちた竜力の化身を討伐する",
+      "source_en": "Defeat the Incarnation of Dragon Force Full of True Force",
+      "text": "Besiegt die Verkörperung der Drachenkraft in ihrer vollen Stärke."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

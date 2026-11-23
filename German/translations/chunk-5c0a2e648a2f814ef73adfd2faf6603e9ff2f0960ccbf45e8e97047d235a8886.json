@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60301030_00.gmd",
+  "arc_path": "\\quest\\q60301030.arc",
+  "entries": [
+    {
+      "key": "q60301030_00_301",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ただ一つの想い＜For Women＞",
+      "source_en": "The Only One in My Thoughts (For Women)",
+      "text": "Für die eine Person in meinem Herzen (Damen)"
+    },
+    {
+      "key": "q60301030_00_301",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "酒場に集まった任意の彼女にチョコレートを贈る",
+      "source_en": "Present chocolate to someone\r\nof your choice at the tavern",
+      "text": "Schenk einer Frau deiner Wahl\r\nin der Taverne Schokolade."
+    },
+    {
+      "key": "q60301030_00_4198",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "全員のアピールを聞いてまわる",
+      "source_en": "Go around and listen each person",
+      "text": "Hör dir an, was alle zu sagen haben."
+    },
+    {
+      "key": "q60301030_00_4199",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "一人だけにチョコレートケーキを納品する",
+      "source_en": "Choose a single person to give chocolate to",
+      "text": "Schenk genau einer von ihnen den Schokoladenkuchen."
+    },
+    {
+      "key": "q60301030_00_4200",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "シェリーに報告する",
+      "source_en": "Report to Shelly",
+      "text": "Berichte Shelly."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

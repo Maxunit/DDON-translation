@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60318000.gmd",
+  "arc_path": "\\quest\\q60318000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "――敵本軍が出現！",
+      "source_en": "...The enemy's Main Force has appeared!",
+      "text": "Die feindliche Hauptstreitmacht ist aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "――この周辺にはいないようだ！他を探そう！",
+      "source_en": "...There doesn't seem to be anyone around here,\r\nlet's search elsewhere!",
+      "text": "Hier scheint niemand zu sein.\r\nSuchen wir woanders weiter!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

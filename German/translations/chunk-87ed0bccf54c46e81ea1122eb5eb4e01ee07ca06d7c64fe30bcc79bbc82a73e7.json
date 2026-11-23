@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60300104.gmd",
+  "arc_path": "\\quest\\q60300104.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ナヤジークさんがあなたに\r\n新しい冒険スポットを開放したんですね！\r\n分かりやすいように、マップに\r\nマークを付けておきますね",
+      "source_en": "Ser Nazik has made a new Adventure Spot\r\navailable for you to explore, huh!\r\nHere, I'll mark it on the map for you.",
+      "text": "Nazik hat dir einen neuen Abenteuerort freigeschaltet!\r\nWarte, ich markiere ihn auf deiner Karte.\r\nDann findest du ihn auf Anhieb."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "自分に合ったレベル帯のスポットを\r\n探索するのが成長への近道だと――\r\n父もよく冒険に出る方たちに言ってました",
+      "source_en": "Exploring spots that match your level\r\nis the fastest way to grow...\r\nMy father often said that to adventurers.",
+      "text": "An Orten auf deiner Stufe machst du\r\nam schnellsten Fortschritte. Das hat\r\nmein Vater den Abenteurern oft gesagt."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアの覚者さん、今度は私がそのお手伝いを\r\nさせていただけないでしょうか",
+      "source_en": "Esteemed Arisen of Lestania,\r\ndo let me know how I can be of assistance.",
+      "text": "Du bist der Erweckte aus Lestania, oder?\r\nDarf ich dir diesmal dabei unter die Arme greifen?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "あら、どうなさったんですか？\r\nまずは、マークをつけたダンジョンを\r\n探索してみてくださいね",
+      "source_en": "Oh, has something happened? \r\nTry exploring the marked dungeon.",
+      "text": "Oh, ist etwas passiert?\r\nSchau dir erst mal das Verlies an, das ich markiert habe."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "冒険スポットの奥深くには、特別な\r\nアイテムがあると聞きますよ！\r\n入手したアイテムや敵との戦闘で\r\n自分を成長させていくんです",
+      "source_en": "I hear that there are special items\r\nhidden deep within the Adventure Spots!\r\nBolster yourself and your coffers with items gained\r\nand battles won against your enemies.",
+      "text": "Tief in den Abenteuerorten soll es ganz\r\nbesondere Gegenstände geben!\r\nWas du dort findest und im Kampf lernst,\r\nwird dich weiterbringen."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "無事に帰ってこれたみたいですね――よかった",
+      "source_en": "You made it back safely... I'm glad.",
+      "text": "Du bist wieder heil zurück … Ein Glück."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "お怪我はありませんか？\r\n引き続きこのダンジョンへ探索に行くなら、\r\n少し休んで体力を回復していきませんか？\r\nあ、戦技の付替えも検討してみてくださいね！",
+      "source_en": "Are you hurt? If you plan to continue\r\nexploring this dungeon, why not rest\r\nand recover your stamina? \r\nOh, and consider rearranging your skills too!",
+      "text": "Bist du verletzt? Wenn du noch mal in das Verlies gehst,\r\nkönntest du vorher ein wenig ausruhen\r\nund wieder zu Kräften kommen.\r\nUnd schau doch, ob andere Kampftechniken dort besser passen!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ふふ、こうして冒険へ出る方に\r\nアドバイスするのも父の真似なんですが――\r\nそれでも、父と同じように働けることは\r\nなんだか嬉しいものです",
+      "source_en": "Heh, the advice I've been giving to adventurers\r\nis just me copying my father... But still,\r\nit makes me happy to continue the work he did.",
+      "text": "Hehe, ich gebe den Leuten vor ihrem Aufbruch\r\ndieselben Ratschläge wie früher mein Vater.\r\nIrgendwie macht es mich froh, seine Arbeit fortzuführen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

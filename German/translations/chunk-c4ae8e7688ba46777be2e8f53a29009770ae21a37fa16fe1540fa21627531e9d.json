@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60321001_00.gmd",
+  "arc_path": "\\quest\\q60321001.arc",
+  "entries": [
+    {
+      "key": "q60321001_00_331",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳　試練：痛刻の洞",
+      "source_en": "UM Trial: Cave of Suffering",
+      "text": "Urteca-Gebirge – Prüfung: Höhle der Qualen"
+    },
+    {
+      "key": "q60321001_00_331",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the client\r\nand try to solve the problem.",
+      "text": "Frag nach den Einzelheiten des Auftrags\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60321001_00_4597",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "＜痛刻の洞＞へ向かう",
+      "source_en": "Head to \"Cave of Suffering\"",
+      "text": "Begib dich zur Höhle der Qualen."
+    },
+    {
+      "key": "q60321001_00_4598",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "敵を討伐する",
+      "source_en": "Defeat the enemy",
+      "text": "Besiege die Gegner."
+    },
+    {
+      "key": "q60321001_00_4599",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ報告する",
+      "source_en": "Report to the client",
+      "text": "Berichte deinem Auftraggeber."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

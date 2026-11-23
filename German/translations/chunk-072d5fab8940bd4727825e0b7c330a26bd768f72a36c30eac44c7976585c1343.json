@@ -1,0 +1,128 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60319003.gmd",
+  "arc_path": "\\quest\\q60319003.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "おお、急ぎの応援要請ですか\r\n覚者さまの頼みとあらば多少の無理もいたしましょう\r\nそれで、どのような戦力をご希望でしょうか？",
+      "source_en": "Oh, an urgent support petition, is it?\r\nIf 'tis Master Arisen's request, I'll\r\nstretch a little further.\r\nSo then— what manner of forces do you desire?",
+      "text": "Ah, du brauchst dringend Verstärkung?\r\nWenn du darum bittest,\r\nmache ich auch das Unmögliche möglich.\r\nAlso, was für Truppen brauchst du?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "近接攻撃主体",
+      "source_en": "Melee-Focused",
+      "text": "Nahkämpfer"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "遠距離攻撃主体",
+      "source_en": "Ranged-Focused",
+      "text": "Fernkämpfer"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "――少し考えさせてくれ",
+      "source_en": "...I will think a bit",
+      "text": "Erst noch überlegen"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ええ、わかりました\r\nすぐに近距離型の友軍を編成しましょう\r\n急いで向かわせますので、覚者さまは\r\n先に現地に向かってください",
+      "source_en": "Aye, understood.\r\nI'll muster close-range allies at once.\r\nI'll dispatch them posthaste, so Master Arisen,\r\npray, proceed to the site ahead.",
+      "text": "Verstanden.\r\nIch stelle gleich einen Trupp Nahkämpfer zusammen\r\nund schicke ihn so schnell wie möglich los.\r\nBrich du schon mal zum Einsatzort auf, Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ええ、わかりました\r\nすぐに遠距離型の友軍を編成しましょう\r\n急いで向かわせますので、覚者さまは\r\n先に現地に向かってください",
+      "source_en": "Aye, understood.\r\nI'll muster long-range allies at once.\r\nI'll dispatch them posthaste, so Master Arisen,\r\npray, proceed to the site ahead.",
+      "text": "Verstanden.\r\nIch stelle gleich einen Trupp Fernkämpfer zusammen\r\nund schicke ihn so schnell wie möglich los.\r\nBrich du schon mal zum Einsatzort auf, Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "すぐに近距離型の友軍を編成して\r\n向かわせるので、覚者さまは\r\n現地に向かってください",
+      "source_en": "I'll organize close-range allies and dispatch them\r\nforthwith. Master Arisen, make for the site.",
+      "text": "Ich stelle gleich einen Trupp Nahkämpfer zusammen\r\nund schicke ihn los. Brich du zum Einsatzort auf, Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "すぐに遠距離型の友軍を編成して\r\n向かわせるので、覚者さまは\r\n現地に向かってください",
+      "source_en": "I shall organize ranged allies and dispatch them\r\nforthwith. Master Arisen, make for the site.",
+      "text": "Ich stelle gleich einen Trupp Fernkämpfer zusammen\r\nund schicke ihn los. Brich du zum Einsatzort auf, Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "討伐に成功したんだね！\r\nこれで少なくとも魔軍の戦力をそげたと思うよ\r\n何より、ヤツらの戦意をくじくことが\r\nできたのも大きいしね――",
+      "source_en": "So you succeeded!\r\nThis'll have at least whittled the Demon\r\nArmy's forces, I'd wager.\r\nAbove all, breaking their will to fight— that's\r\nno small thing either.",
+      "text": "Du hast es geschafft!\r\nDas dürfte die Dämonenarmee\r\nein gutes Stück geschwächt haben.\r\nUnd dass sie jetzt weniger Lust zu kämpfen hat,\r\nhilft uns auch."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "とはいえ、あそこが魔軍の通り道に\r\nなっている可能性もあるから\r\n今後も魔軍の姿が無いか、気にかけて\r\nもらえると助かるよ",
+      "source_en": "That said, 'tis possible that place has become a\r\nDemon Army route— so 'twould serve us well if you\r\nkept an eye out for any sign of them henceforth.",
+      "text": "Trotzdem könnte die Dämonenarmee dort häufiger\r\ndurchziehen. Kannst du die Gegend im Auge behalten,\r\nfalls du wieder dort vorbeikommst?"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "ああ、覚者さん\r\n話はもう伝わってるのかな――",
+      "source_en": "Ah, Ser Arisen. I wonder if word has\r\nalready reached you—",
+      "text": "Ah, Erweckter. Hast du davon\r\nschon gehört?"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "あのさ、移動中の魔軍を見つけたんだ\r\nそこまで重装備でも大隊でもないから\r\n戦力を整えさえすれば、十分に勝機が見込めるよ",
+      "source_en": "We found a Demon Army unit on the move.\r\nNot heavily armed, not e'en a full battalion—\r\nready our forces proper, and we've a\r\nsolid shot at victory.",
+      "text": "Wir haben einen Trupp der Dämonenarmee entdeckt.\r\nSie sind leicht bewaffnet und auch nicht besonders viele.\r\nWenn wir genug Leute zusammenbekommen,\r\nhaben wir gute Chancen."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "覚者さんも現地に向かってほしいんだ\r\n一人じゃ危ないから、一緒に戦いやすい応援を\r\n要請しておくのを忘れないで",
+      "source_en": "I'd have you head to the site as well, Ser Arisen.\r\n'Tis dangerous to go alone, so do not forget to\r\npetition support that'll fight well alongside you.",
+      "text": "Du solltest auch zum Einsatzort gehen, Erweckter.\r\nAllein ist es zu gefährlich. Bitte also um Verstärkung,\r\ndie dich im Kampf gut unterstützen kann."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "覚者さんも現地に向かってほしいんだ\r\n一人じゃ危ないから、一緒に戦いやすい応援を\r\n要請しておくのを忘れないでね",
+      "source_en": "I would have you, Ser Arisen, make for the site\r\nas well. 'Tis too dangerous to go alone — I shall\r\nsee to it that proper backup is requested, the\r\nsort that fights well alongside you. Do be sure\r\nnot to forget to put in the request.",
+      "text": "Geh du auch zum Einsatzort, Erweckter.\r\nAllein wäre es zu gefährlich.\r\nIch helfe dir, die richtige Unterstützung anzufordern.\r\nSag einfach, mit wem du gut zusammen kämpfst.\r\nVergiss nicht, um Verstärkung zu bitten."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "ふむ――\r\nお考えがまとまったら\r\nなるべく早めにご相談ください",
+      "source_en": "Hm— When your thoughts are settled...\r\nPray, come speak with me as soon as you are able.",
+      "text": "Hm …\r\nSobald du dich entschieden hast, sprich mich bitte wieder an."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

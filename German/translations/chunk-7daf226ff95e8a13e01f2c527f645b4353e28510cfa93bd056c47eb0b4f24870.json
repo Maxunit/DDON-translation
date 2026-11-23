@@ -1,0 +1,360 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60319000.gmd",
+  "arc_path": "\\quest\\q60319000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "覚者様――\r\n一つ、そのお力をお借りできないでしょうか",
+      "source_en": "Ser Arisen— One matter, if I may: might I trouble\r\nyou for the loan of your might?",
+      "text": "Erweckter … darf ich dich\r\num einen Gefallen bitten?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "実は、ここでの生活を維持するだけの\r\n物資の確保が難航しております\r\n――ええ、物資調達をお願いしたいのです",
+      "source_en": "In truth, securing the supplies needed to sustain\r\nourselves here has proven most difficult— Aye...\r\nmight I trouble you to procure provisions for us,\r\nif it would not be too great a burden?",
+      "text": "Es wird immer schwieriger, genug Vorräte\r\nfür die Leute hier zu beschaffen.\r\nKönntest du für uns auf die Suche gehen,\r\nwenn es dir keine allzu großen Umstände macht?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "物資調達と一言で言っても\r\n道中が危険なものになることは明白――\r\n覚者様のお手伝いに向きそうな方を\r\nご紹介いたします",
+      "source_en": "Though it be summed up as mere \"supply\r\nprocurement,\" the journey will be hazardous\r\nbeyond doubt — I shall introduce one well-suited\r\nto assisting you, Ser Arisen.",
+      "text": "Es klingt nach einer einfachen Aufgabe,\r\naber der Weg wird zweifellos gefährlich.\r\nIch kann dir jemanden vorstellen,\r\nder dir dabei gut zur Seite stehen könnte."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ここに避難してきた方々の暮らしを守るため\r\nどうかお願いいたします",
+      "source_en": "Might I trouble you to safeguard the lives of\r\nthose who have sought refuge here?",
+      "text": "Die Menschen, die hier Zuflucht gefunden haben, brauchen diese Vorräte.\r\nBitte hilf uns."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "覚者様とともに物資調達に向かうとなると\r\nそれなりの戦闘経験が無いと厳しいでしょう",
+      "source_en": "Were one to accompany Ser Arisen on a supply\r\nprocurement... a substantial measure of combat\r\nexperience would be indispensable, I dare say.",
+      "text": "Wer dich auf der Suche nach Vorräten begleiten will,\r\nmuss schon einiges an Kampferfahrung mitbringen,\r\nErweckter."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "覚者様ご自身の戦闘を\r\n的確にサポートできそうな方を\r\n同行者としてお選びください",
+      "source_en": "Ser Arisen, might I trouble you to choose as your\r\ncompanion one who appears apt to lend precise\r\nsupport to your battles?",
+      "text": "Wähle bitte jemanden aus,\r\nder dich im Kampf gut unterstützen kann,\r\nErweckter."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "人員情報１（ハンター）",
+      "source_en": "Personnel Information 1 (Hunter)",
+      "text": "Begleiter 1 (Jäger)"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "人員情報２（シーカー）",
+      "source_en": "Personnel Information 2 (Seeker)",
+      "text": "Begleiterin 2 (Kundschafterin)"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ああ、ナヤジークさんからお話は聞いています\r\n私はハンターですので、遠距離から\r\n弓矢で覚者様を援護することになりますが\r\nお力になれるでしょうか？",
+      "source_en": "Ah, I've heard tell from Nazik.\r\nAs a hunter, I'll support Ser Arisen from afar\r\nwith bow and arrow— might I be of use?",
+      "text": "Ah, Nazik hat mich schon angesprochen.\r\nAls Jäger unterstütze ich dich aus der Ferne mit Pfeil und Bogen.\r\nKannst du meine Hilfe gebrauchen?"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ドルーに同行を頼む",
+      "source_en": "Bring Drew",
+      "text": "Drew um Begleitung bitten"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "――少し考えさせてくれ",
+      "source_en": "...I will think a bit",
+      "text": "Erst noch überlegen"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "ええ、もちろんです\r\nでは、一度メフィテに戻りましょう\r\n物資調達任務についての\r\nくわしい話もお聞きしたいですね",
+      "source_en": "Of course. Then let us return to Mephite. I would\r\nhear the details of the supply\r\nprocurement mission as well.",
+      "text": "Gewiss. Kehren wir zuerst nach Mephite zurück.\r\nIch würde gern mehr darüber hören,\r\nwie wir die Vorräte beschaffen sollen."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "無事――初めての調達任務に\r\nお手伝いしてもらい感謝いたします\r\nこれで物資補給が強化できると思います",
+      "source_en": "'Tis a relief — I tender my humble gratitude for\r\nyour assistance with this, our first\r\nprocurement mission.\r\nWith this, I believe our supply chain\r\nwill be strenghtened.",
+      "text": "Gut, dass alles geklappt hat!\r\nDanke, dass du uns bei unserem ersten\r\nAuftrag geholfen hast.\r\nDamit sollte der Nachschub\r\nerst einmal gesichert sein."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "はっ、了解いたしました\r\n――いえ、気にしてはおりません\r\n戦い方にも相性がありますから",
+      "source_en": "Hah, understood.\r\n—No, 'tis no concern.\r\nFighting styles have their\r\ncompatibilities, after all.",
+      "text": "Verstanden.\r\nAch, das nehme ich dir nicht übel.\r\nEs kommt darauf an, ob zwei Leute im Kampf\r\ngut zusammenspielen."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "んー、物資調達の任務に協力しろって言うんでしょ？\r\n確かに頼まれはしたけどさぁ――\r\nあのエリアマスターさん、結構人づかい荒くない？",
+      "source_en": "Hmm. So I'm s'posed to lend a hand with the\r\nsupply run, eh? Aye, I was asked, but— that Area\r\nMaster, he works folk pretty hard, doesn't he?",
+      "text": "Hm, ich soll dir also bei der Vorratssuche helfen?\r\nGefragt haben sie mich schon …\r\nDie Gebietsmeisterin verlangt uns ganz schön was ab, was?"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "この前ちょっと世話になったのは確かだけど\r\n盗賊のあたしに気軽に頼みごとが\r\n通ると思われるのもなぁって",
+      "source_en": "'Tis true you helped me out a bit afore— but\r\nthinking a casual favor'd pass muster with a\r\nbandit like me... bit presumptuous, eh?",
+      "text": "Klar, du hast mir neulich mal geholfen.\r\nAber wenn du denkst, du könntest eine Diebin\r\neinfach so um einen Gefallen bitten …"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "あたしのシーカーとしての腕を借りたいんなら\r\n相応の対価をもらわないとね～\r\n――どう、それでもあたしでいいの？",
+      "source_en": "If 'tis my Seeker skills you're after,\r\nthe price'll need be commensurate, cos~\r\n— Well? Still want me all the same?",
+      "text": "Wenn du mich als Kundschafterin dabeihaben willst,\r\nmuss für mich auch was dabei herausspringen.\r\nNa, willst du mich immer noch mitnehmen?"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "アンナに同行を頼む",
+      "source_en": "Bring Anna",
+      "text": "Anna um Begleitung bitten"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "――少し考えさせてくれ",
+      "source_en": "...I will think a bit",
+      "text": "Erst noch überlegen"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "あんたも風変わりな覚者だよね\r\nわざわざ対価を払ってまで\r\nあたしに同行を頼むなんて",
+      "source_en": "Arisen, you're a queer one, ain't ya?\r\nPayin' a price 'n' all just to\r\nhave me tag along...",
+      "text": "Du bist schon ein seltsamer Erweckter.\r\nDu bezahlst mich tatsächlich dafür,\r\ndass ich dich begleite …"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "えっと、それじゃ――どうしようかな\r\nとりあえず――あたしが言うものを\r\n持ってきてくれればいいよ",
+      "source_en": "Well then... now what...\r\nFor the nonce, just bring me what I\r\ntell you. That'll do.",
+      "text": "Na gut, mal überlegen …\r\nBring mir erst mal das, was ich dir sage.\r\nDas reicht."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "ま、そうだろうね\r\nどっちにせよ、よく考えた方がいいよ",
+      "source_en": "Well, figured as much. Either way, you'd do well\r\nto think it through proper, cos.",
+      "text": "Hab ich mir gedacht.\r\nÜberleg dir die Sache gut."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "そんな大したものじゃないでしょ？\r\n人を危険な道中に付き合わせようっていうんだから\r\n相応のものはいただかないとね",
+      "source_en": "Not such a big deal, eh?\r\nYou're asking someone to walk a dangerous road—\r\nI'll be taking what's fitting, cos.",
+      "text": "Das ist doch kein großer Preis, oder?\r\nWenn ich dich auf einem gefährlichen Weg begleite,\r\nwill ich dafür schon etwas bekommen."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "本当に持ってきてくれるなんて\r\n思ってもみなかった――\r\nエラい覚者様なのに、盗賊相手に真面目だね",
+      "source_en": "Ne'er thought you'd actually bring it— Great\r\nArisen though you are, you're awful\r\nserious with a bandit, cos.",
+      "text": "Ich hätte nicht gedacht, dass du es wirklich bringst.\r\nDass ein so angesehener Erweckter\r\neiner Diebin gegenüber Wort hält …"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "あ、もちろん、これに見合う働きはするからさ！\r\n――メフィテの村に向かえばいいんだよね？\r\nそこで任務について詳しく聞かせてもらおうかな",
+      "source_en": "Ah, 'course — I'll put in the work to match, cos!\r\n— Just make for Mephite village, aye?\r\nThere, I'll have you spill the\r\nmission details proper.",
+      "text": "Natürlich verdiene ich mir meinen Lohn!\r\nWir treffen uns also im Dorf Mephite, ja?\r\nDort kannst du mir dann genau erzählen,\r\nwas der Auftrag ist."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "ふふ――あたしが\"任務\"なんて変なの\r\nでも、まぁ――敬意を払われたら\r\nその分の義理はきっちり返すよ\r\nこれ、姐さんの受け売りだけど",
+      "source_en": "Heh — me, a 'mission'? Odd, that.\r\nBut then... respect shown, debt repaid in kind.\r\nSis's words, not mine, mind.",
+      "text": "Hehe, ich und ein Auftrag, schon seltsam.\r\nAber wer mir Respekt zeigt, kann sich auf mich verlassen.\r\nDas hat unsere Anführerin mir beigebracht."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "ナヤジークさんから物資調達について聞きましたよ\r\n――さっそく最初の任務ですね\r\nそれでは、現地でお待ちしております！",
+      "source_en": "Heard about the supply procurement from Nazik—\r\nSo this is the first mission, then.\r\nI shall be waiting at the location!",
+      "text": "Nazik hat mir von der Suche nach den Vorräten erzählt.\r\nAlso geht es gleich mit dem ersten Auftrag los.\r\nIch warte am Einsatzort auf dich!"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "\"任務\"についてはエリアマスターさんから聞いたよ\r\nそれじゃ、現地集合といこうか\r\nあんたも準備ができたら向かってね",
+      "source_en": "Heard about the \"mission\" from the Area Master.\r\nRight then, let's rendezvous on-site. You head\r\no'er when you're ready, eh?",
+      "text": "Die Gebietsmeisterin hat mir vom Auftrag erzählt.\r\nTreffen wir uns also vor Ort.\r\nMach dich auf den Weg, sobald du bereit bist."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "――さっそく最初の任務ですね\r\nそれでは、現地でお待ちしております！",
+      "source_en": "...Straight to the first mission, then.\r\nI shall await you at the site!",
+      "text": "Also geht es gleich mit dem ersten Auftrag los.\r\nIch warte am Einsatzort auf dich!"
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "それじゃ、現地集合といこうか\r\nあんたも準備ができたら向かってね",
+      "source_en": "Right then, let's rendezvous on-site. You\r\nhead over when you're ready, cos.",
+      "text": "Treffen wir uns vor Ort.\r\nMach dich auf den Weg, sobald du bereit bist."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "覚者様、お待ちしておりました\r\nそれでは物資が調達できる場所へ向かいましょう",
+      "source_en": "Ser Arisen, I have been awaiting you.\r\nLet us make for where\r\nsupplies may be procured.",
+      "text": "Ich habe auf dich gewartet, Erweckter.\r\nDann lass uns dorthin gehen,\r\nwo wir die Vorräte finden können."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "それじゃ、物資が調達できる場所に行こう\r\nこの道中が危険って話だから\r\nあんたも気を付けてね",
+      "source_en": "Right then, let's make for where\r\nsupplies can be had.\r\nWay's supposed to be dangerous, so\r\nmind yourself too, cos.",
+      "text": "Also los,\r\nbesorgen wir die Vorräte.\r\nDer Weg soll gefährlich sein.\r\nPass gut auf dich auf!"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "ふぅ、ここからは私一人でも何とかなりそうです\r\n覚者様はお忙しいことでしょう\r\nあとは私がやっておきますので、先にお戻りください",
+      "source_en": "Hah... from here, I can manage on my own.\r\nSer Arisen, you must be busy—\r\nI'll see to the rest, so pray, return ahead.",
+      "text": "Puh, von hier an komme ich allein zurecht.\r\nDu hast bestimmt noch anderes zu tun, Erweckter.\r\nIch kümmere mich um den Rest. Du kannst vorgehen."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "ああ、ナヤジークさんへの連絡だけ\r\nお願いします",
+      "source_en": "Ah, just send word to Nazik, if you would.",
+      "text": "Gib bitte nur noch Nazik Bescheid."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "これで\"任務\"は完了したようなものだね\r\nあとはあたしがやっとくよ！\r\n――対価ももらっちゃったからさ\r\nこのくらい当然でしょ",
+      "source_en": "That more or less wraps up the \"mission.\" I'll\r\ntake it from here — 'tis only natural; I've\r\nalready pocketed the fee, cos.",
+      "text": "Damit ist der Auftrag so gut wie erledigt.\r\nDen Rest mache ich!\r\nMeinen Lohn habe ich ja schon bekommen."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターさんへの\r\n報告だけ、よろしくね",
+      "source_en": "Ah, just pass word to Nazik, if you please.",
+      "text": "Sag bitte nur noch der Gebietsmeisterin Bescheid."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "覚者様とともに戦えて\r\n物資調達をお願いできそうな方に\r\nわたしからお話しをしておきました",
+      "source_en": "I have taken the liberty of speaking with an\r\nindividual who might both fight alongside the\r\nArisen and undertake the supply\r\nprocurement on our behalf.",
+      "text": "Ich habe schon mit jemandem gesprochen,\r\nder an deiner Seite kämpfen\r\nund uns bei der Beschaffung\r\nder Vorräte helfen könnte."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "外で警備をされている方ですから\r\n腕は確かなはずですわ",
+      "source_en": "As 'tis they who stand watch without, their\r\nprowess should be certain, I warrant.",
+      "text": "Er hält draußen Wache.\r\nDu kannst dich bestimmt auf sein Können verlassen."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "覚者様とともに\r\n荒野を駆け抜けることができる方に\r\nわたしからお話しをしておきました",
+      "source_en": "I have taken the liberty of speaking with the one\r\nwho can traverse the wilds alongside Ser Arisen.",
+      "text": "Ich habe schon mit jemandem gesprochen,\r\nder mit dir durch die Wildnis ziehen könnte, Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "驚かれるかもしれませんが――\r\n《ベルタ盗賊団のアジト》にいらっしゃる方です\r\nどうぞお会いになってみてください",
+      "source_en": "You may find this surprising— The individual in\r\nquestion resides at Bertha's\r\nBandit Group Hideout.\r\nPray, do go and make their acquaintance.",
+      "text": "Es wird dich vielleicht überraschen.\r\nDu findest die Person im\r\nVersteck der Diebe bei Bertha.\r\nGeh doch hin und sprich mit ihr."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "さぁ、一度メフィテに戻りましょう\r\n物資調達任務についての\r\nくわしい話もお聞きしたいですね",
+      "source_en": "Come then, let us return to Mephite for now.\r\nI should like to hear the details of the supply\r\nprocurement mission as well.",
+      "text": "Kehren wir erst mal nach Mephite zurück.\r\nIch würde gern mehr darüber hören,\r\nwie wir die Vorräte beschaffen sollen."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "――メフィテの村に向かえばいいんだよね？\r\nそこで任務について詳しく聞かせてもらおうかな",
+      "source_en": "...Mephite village, then? Right. S'pose I'll get\r\nthe mission particulars there.",
+      "text": "Also ins Dorf Mephite, richtig?\r\nDort könnt ihr mir mehr über den Auftrag erzählen."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "物資調達の協力者と\r\n無事に合流できたようで、何よりです",
+      "source_en": "'Tis a matter of the utmost relief that you have\r\nsafely rendezvoused with the\r\nprocurement assistant.",
+      "text": "Gut, du hast jemanden gefunden,\r\nder dir bei der Beschaffung\r\nder Vorräte hilft."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "それでは、＜<STG 1093>＞へお急ぎください\r\n協力者の方も、一足先に\r\n現地で待っているはずですわ",
+      "source_en": "Then, pray make haste to <STG 1093>. \r\nYour collaborator awaits at the site,\r\nhaving arrived afore you.",
+      "text": "Dann beeil dich und geh zu „<STG 1093>“.\r\nDeine Begleitung müsste schon vorausgegangen sein\r\nund dort auf dich warten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

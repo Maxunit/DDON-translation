@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50202002_00.gmd",
+  "arc_path": "\\quest\\q50202002.arc",
+  "entries": [
+    {
+      "key": "q50202002_00_62",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "戦技闘会・竜伐戦",
+      "source_en": "Battle Competition: Dragon Battle",
+      "text": "Kampfturnier – Drachenjagd"
+    },
+    {
+      "key": "q50202002_00_62",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n研磨されし己が力をもって\r\n集う脅威を切り伏せよ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nPolish your own strength,\r\nand overcome the gathering menace.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nNutzt alles, was ihr gelernt habt,\r\nund besiegt die Monster, die sich hier sammeln!"
+    },
+    {
+      "key": "q50202002_00_2542",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "魔物の襲撃に備える",
+      "source_en": "Prepare for a monster attack",
+      "text": "Bereitet euch auf den Angriff der Monster vor."
+    },
+    {
+      "key": "q50202002_00_2543",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "現れる魔物を殲滅する",
+      "source_en": "Defeat the appearing enemy monsters",
+      "text": "Besiegt die angreifenden Monster."
+    },
+    {
+      "key": "q50202002_00_2544",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "最後の魔物を討伐する",
+      "source_en": "Defeat the final monsters",
+      "text": "Besiegt die letzten Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

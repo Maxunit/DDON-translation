@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50202003_00.gmd",
+  "arc_path": "\\quest\\q50202003.arc",
+  "entries": [
+    {
+      "key": "q50202003_00_63",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "戦徒と共に",
+      "source_en": "With the Myrmidons",
+      "text": "An der Seite eurer Gefährten"
+    },
+    {
+      "key": "q50202003_00_63",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n自らの戦徒を率いて先陣を切り\r\n現れる脅威のなかを戦い抜け",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nLead your own Myrmidons and fight bravely\r\nthrough the midst of the emerging threats.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nFührt eure Gefährten an\r\nund kämpft euch durch die Reihen der Feinde!"
+    },
+    {
+      "key": "q50202003_00_2605",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "現れる敵を全滅する",
+      "source_en": "Annihilate all enemies that appear",
+      "text": "Besiegt alle Gegner, die auftauchen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

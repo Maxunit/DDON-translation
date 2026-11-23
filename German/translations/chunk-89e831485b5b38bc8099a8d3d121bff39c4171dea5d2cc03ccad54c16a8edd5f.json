@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60300111.gmd",
+  "arc_path": "\\quest\\q60300111.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "覚者殿！\r\nバシアス殿から、珍しい素材が取れる\r\n冒険スポットをお伝えするようにと\r\n申し付けられております",
+      "source_en": "Master Arisen! Ser Bacias has instructed me\r\nto inform you of an Adventure Spot where\r\nrare materials can be obtained.",
+      "text": "Erweckter! Bacias hat mich gebeten,\r\ndir einen Abenteuerort zu zeigen, an dem\r\ndu seltene Materialien finden kannst."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳の北部に《火垂れ山拝竜院》と呼ばれる\r\n施設があるのはご存知でしょうか？",
+      "source_en": "Are you aware of the facility called\r\n[Firefall Mountain Dragon Temple]\r\nin the northern Urteca Mountains?",
+      "text": "Kennst du den [Drachentempel am Feuerfallberg]?\r\nEr liegt im Norden des\r\nUrteca-Gebirges."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "今では、すっかり魔物の手に堕ちてしまっていますが\r\nそう悪いことばかりではないようで――\r\n魔物の活動によってか\r\n珍しい素材が取れるスポットになっているようです",
+      "source_en": "It has now completely fallen into the hands\r\nof monsters, but it seems not all is lost...\r\nDue to their activity, rare materials\r\nhave become bountiful there.",
+      "text": "Mittlerweile ist er ganz in der Hand der Monster.\r\nIhre Anwesenheit scheint immerhin für einen Vorteil\r\nzu sorgen. Dort lassen sich inzwischen\r\nviele seltene Materialien finden."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "しかし、その危険さゆえに最近は\r\n近づこうとする人さえ見かけません――\r\n覚者殿、もし採集に出向かれるのなら\r\n中の状態を確認してきてはいただけないでしょうか？",
+      "source_en": "However, with the many dangers it holds,\r\nlately there are none who dare approach it...\r\nMaster Arisen, should you go a gathering trip,\r\ncould you report the conditions inside?",
+      "text": "Es ist dort allerdings so gefährlich,\r\ndass sich kaum noch jemand in die Nähe traut.\r\nWenn du dort auf Materialsuche gehst, Erweckter,\r\nkönntest du mir danach berichten, wie es drinnen aussieht?"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳の北部にある《火垂れ山拝竜院》です\r\n危険さゆえに最近は\r\n近づこうとする人さえ見かけません――",
+      "source_en": "This is the [Firefall Mountain Dragon Temple]\r\nin the Northern Urteca Mountains.\r\nI've rarely seen someone brave enough to come visit\r\nwith it being so dangerous and here.",
+      "text": "Im Norden des Urteca-Gebirges liegt der\r\n[Drachentempel am Feuerfallberg].\r\nEs ist dort so gefährlich, dass sich in letzter Zeit\r\nkaum noch jemand in die Nähe wagt."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "もし採集に出向かれるのなら\r\n中の状態を確認して\r\n私にご連絡いただけないでしょうか？",
+      "source_en": "If you're going to collect some materials,\r\ncould you check the state inside\r\nand contact me afterwards?",
+      "text": "Wenn du dort nach Materialien suchst,\r\nkönntest du nach dem Rechten sehen und\r\nmir danach berichten, wie es drinnen aussieht?"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "覚者殿、ご無事のお戻りなにより――\r\nそれで、中の様子はいかがでしたか？",
+      "source_en": "Master Arisen, your safe return is a relief...\r\nSo, how was the state inside?",
+      "text": "Erweckter, schön, dass du heil zurück bist.\r\nWie sah es drinnen aus?"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "危険な魔物がそこかしこで徘徊していると――\r\n思ったよりも中の様子はおぞましいものに\r\nなっているようですね\r\n注意喚起をしておかねば――",
+      "source_en": "Dangerous monsters are roaming everywhere...\r\nThe state inside is more dangerous than expected.\r\nWe must issue a warning...",
+      "text": "Überall streifen gefährliche Monster umher …\r\nDamit ist es dort schlimmer, als ich erwartet hatte.\r\nWir müssen die Leute warnen …"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "しかし、我々ではどうしようもなくとも\r\n覚者殿であれば、上手く利用なさることでしょう\r\nご協力いただきありがとうございました",
+      "source_en": "Even if we can do nothing about the monsters,\r\nYou could make good use of the location,\r\nMaster Arisen. Thank you for your cooperation.",
+      "text": "Gegen diese Monster können wir wenig ausrichten.\r\nDu wirst den Ort gewiss zu nutzen wissen, Erweckter.\r\nDanke für deine Hilfe."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

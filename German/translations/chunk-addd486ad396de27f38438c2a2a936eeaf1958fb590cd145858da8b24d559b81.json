@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50000001.gmd",
+  "arc_path": "\\quest\\q50000001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "敵によって閉ざされていた道が開けた",
+      "source_en": "The way has been cleared!",
+      "text": "Der von den Gegnern versperrte Weg ist jetzt frei!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "輸送番の気配がする――",
+      "source_en": "There seems to be a Transport nearby...",
+      "text": "Ein Transportwächter scheint in der Nähe zu sein …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "輸送番が出現した！",
+      "source_en": "Transport found!",
+      "text": "Ein Transportwächter ist aufgetaucht!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50204000.gmd",
+  "arc_path": "\\quest\\q50204000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "幻影を討伐――\r\nクリア時にボーナス報酬獲得のチャンス！",
+      "source_en": "Phantom defeated.\r\nChance for Bonus Rewards upon completion!",
+      "text": "Das Trugbild ist besiegt.\r\nBeim Abschluss könnt ihr eine zusätzliche Belohnung erhalten!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "幻影が姿を消した――",
+      "source_en": "The Phantom has disappeared...",
+      "text": "Das Trugbild ist verschwunden …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "幻影が現れた！",
+      "source_en": "A Phantom has appeared!",
+      "text": "Ein Trugbild ist aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "黒騎士への道が開かれた――！",
+      "source_en": "A path to the Black Knight has opened!",
+      "text": "Der Weg zum Schwarzen Ritter steht offen!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "辺りを巣食う黒剣を全て破壊した――！",
+      "source_en": "Destroyed all Black Swords in the area!",
+      "text": "Alle schwarzen Schwerter in der Gegend sind zerstört!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "黒剣による封印が弱まった――",
+      "source_en": "The Black Sword's seal has weakened...",
+      "text": "Das Siegel der schwarzen Schwerter ist schwächer geworden …"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "黒騎士の配下が現れた！",
+      "source_en": "Underlings of the Black Knight have appeared!",
+      "text": "Gefolgsleute des Schwarzen Ritters sind aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "黒剣が敵対者を感知した――",
+      "source_en": "The Black Sword has sensed an opponent...",
+      "text": "Das schwarze Schwert hat einen Feind bemerkt …"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "黒剣を守らんとする魔物が出現――！",
+      "source_en": "Monsters trying to protect the Black Sword appear!",
+      "text": "Monster sind aufgetaucht, um das schwarze Schwert zu schützen!"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "《追憶の枝》に存在する黒剣を全て破壊した――！",
+      "source_en": "Destroyed all Black Swords in\r\n[Branch of Remembrance]!",
+      "text": "Alle schwarzen Schwerter am\r\n„Ast des Gedenkens“ sind zerstört!"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "《懐旧の枝》に存在する黒剣を全て破壊した――！",
+      "source_en": "Destroyed all Black Swords in\r\n[Branch of Nostalgia]!",
+      "text": "Alle schwarzen Schwerter am\r\n„Ast der Sehnsucht“ sind zerstört!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "《悔恨の枝》に存在する黒剣を全て破壊した――！",
+      "source_en": "Destroyed all Black Swords in\r\n[Branch of Remorse]!",
+      "text": "Alle schwarzen Schwerter am\r\n„Ast der Reue“ sind zerstört!"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "《静慮の枝》に存在する黒剣を全て破壊した――！",
+      "source_en": "Destroyed all Black Swords in\r\n[Branch of Contemplation]!",
+      "text": "Alle schwarzen Schwerter am\r\n„Ast der Einkehr“ sind zerstört!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "特定ジョブの参加により制限時間が加算されました",
+      "source_en": "Specific vocation's participation has\r\nincreased the time limit.",
+      "text": "Durch die Teilnahme einer bestimmten Klasse\r\nhat sich das Zeitlimit verlängert."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

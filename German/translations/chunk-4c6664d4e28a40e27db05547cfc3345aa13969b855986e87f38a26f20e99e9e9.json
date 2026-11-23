@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60301005.gmd",
+  "arc_path": "\\quest\\q60301005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "シーベルから光る欠片をもらった",
+      "source_en": "Received a glowing fragment from Seabell.",
+      "text": "Du hast von Seabell einen leuchtenden Splitter erhalten."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "クレイグから光る欠片をもらった",
+      "source_en": "Received a glowing fragment from Craig.",
+      "text": "Du hast von Craig einen leuchtenden Splitter erhalten."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "アイザックから光る欠片をもらった",
+      "source_en": "Received a glowing fragment from Isaac.",
+      "text": "Du hast von Isaac einen leuchtenden Splitter erhalten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

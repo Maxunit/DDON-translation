@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300022_00.gmd",
+  "arc_path": "\\quest\\q60300022.arc",
+  "entries": [
+    {
+      "key": "q60300022_00_308",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道へ　メガドシス地方",
+      "source_en": "Epitaph Road: Megadosys Region",
+      "text": "Pfad der Heldengeister – Megadosys-Hochland"
+    },
+    {
+      "key": "q60300022_00_308",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "眠れる竜力の解放の\r\n仕方について調査する",
+      "source_en": "Investigate the way to release\r\nslumbering Dragon Force.",
+      "text": "Finde heraus, wie du die schlummernde\r\nDrachenkraft freisetzen kannst."
+    },
+    {
+      "key": "q60300022_00_4268",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<STG 1149>に向かい幽霊の詳細を確認する",
+      "source_en": "Head to <STG 1149> to find out more about spirits",
+      "text": "Geh zu „<STG 1149>“ und bring mehr über die Geister in Erfahrung."
+    },
+    {
+      "key": "q60300022_00_4269",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 706>と話しをする",
+      "source_en": "Talk to <NPC 706>",
+      "text": "Sprich mit <NPC 706>."
+    },
+    {
+      "key": "q60300022_00_4316",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<STG 1150>で英霊の石碑を全て解放し偉大な英霊の試練を出現させる",
+      "source_en": "Release all the monuments of the Heroic Spirits in <STG 1150> and unleash the Trial of the Great Heroic Spirits",
+      "text": "Setze in „<STG 1150>“ die Kraft aller Steindenkmäler der Heldengeister frei, um ihre Große Prüfung zu öffnen."
+    },
+    {
+      "key": "q60300022_00_4317",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "出現した偉大な英霊の試練と戦い勝利する",
+      "source_en": "Conquer the Trial of the Great Heroic Spirits",
+      "text": "Bestehe die Große Prüfung der Heldengeister."
+    },
+    {
+      "key": "q60300022_00_4318",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 3266>に報告する",
+      "source_en": "Report to <NPC 3266>",
+      "text": "Erstatte <NPC 3266> Bericht."
+    },
+    {
+      "key": "q60300022_00_4472",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間の白竜から絶技の継承を受ける",
+      "source_en": "Receive the Special Skill Augmentation from the White Dragon in the Audience Chamber",
+      "text": "Lass dir im Audienzsaal vom Weißen Drachen die erweiterte Klassenverstärkung gewähren."
+    },
+    {
+      "key": "q60300022_00_4481",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "モーガンから<STG 1150>へ向かう",
+      "source_en": "Head from Morgan to <STG 1150>",
+      "text": "Geh von Morgan aus zu „<STG 1150>“."
+    },
+    {
+      "key": "q60300022_00_4511",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "偉大なる試練の石碑を調べる",
+      "source_en": "Search for the Great Trial Monument",
+      "text": "Untersuche das Steindenkmal der Großen Prüfung."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

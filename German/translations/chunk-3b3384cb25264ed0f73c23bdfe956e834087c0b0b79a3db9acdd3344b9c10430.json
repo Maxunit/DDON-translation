@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000017_00.gmd",
+  "arc_path": "\\quest\\q60000017.arc",
+  "entries": [
+    {
+      "key": "q60000017_00_45",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "破攻の証　プリースト戦術試練",
+      "source_en": "Priest Tactics Trial: Break Attack",
+      "text": "Zeichen des Durchbruchs – Taktikprüfung für Priester"
+    },
+    {
+      "key": "q60000017_00_45",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "戦闘の基本を学ぶため\r\n修練の祠にて試練に挑む",
+      "source_en": "In order to learn the fundamentals of combat,\r\nchallenge the trial of the Training Chapel",
+      "text": "Stell dich der Prüfung im Übungsschrein,\r\num die Grundlagen des Kampfes zu lernen."
+    },
+    {
+      "key": "q60000017_00_1220",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "修練の祠内のウィルソンと話す",
+      "source_en": "Speak with Wilson in the Training Chapel",
+      "text": "Sprich mit Wilson im Übungsschrein."
+    },
+    {
+      "key": "q60000017_00_1221",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "敵にしがみつきライドセイントオーラを成功させよ",
+      "source_en": "Cling to the enemy and use Ride Holy Aura",
+      "text": "Halte dich am Gegner fest und setze den Heiligen Klammerangriff ein."
+    },
+    {
+      "key": "q60000017_00_1222",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "敵にしがみつきライドヒールオーラを成功させよ",
+      "source_en": "Cling to the enemy and use Ride Heal Aura",
+      "text": "Halte dich am Gegner fest und setze Klammer-Heilaura ein."
+    },
+    {
+      "key": "q60000017_00_1223",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "しがみつき中に敵の振りほどき（黄）から耐えろ",
+      "source_en": "Use Resist to endure the enemy's swing (yellow icon) while climbing them",
+      "text": "Halte dich fest, wenn der Gegner dich abwerfen will (gelbes Symbol)."
+    },
+    {
+      "key": "q60000017_00_1224",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "しがみつき中に敵の引きはがし（赤）から離脱せよ",
+      "source_en": "While climbing the enemy, jump off during their knock-away attack (red icon)",
+      "text": "Spring vom Gegner ab, wenn er zum Ausbruch ansetzt (rotes Symbol)."
+    },
+    {
+      "key": "q60000017_00_1225",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "攻撃して敵を怒らせよ",
+      "source_en": "Attack and enrage the enemy",
+      "text": "Greif den Gegner an und versetze ihn in Rage."
+    },
+    {
+      "key": "q60000017_00_1226",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "サイクロプスを倒せ",
+      "source_en": "Defeat the Cyclops",
+      "text": "Besiege den Zyklopen."
+    },
+    {
+      "key": "q60000017_00_1227",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿のレンテンに経緯を報告する",
+      "source_en": "Report back to Renton in the White Dragon Temple",
+      "text": "Erstatte Renton im Tempel des Weißen Drachen Bericht."
+    },
+    {
+      "key": "q60000017_00_1242",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "最奥にある＜破攻の証＞を入手する",
+      "source_en": "Collect the proof of completing the trial",
+      "text": "Hol das Zeichen des Durchbruchs am Ende des Schreins ab."
+    },
+    {
+      "key": "q60000017_00_1261",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ヒールオーラで怒る敵のシークレットコアを発見せよ",
+      "source_en": "Reveal the enemy's secret core with Heal Aura during their enraged state",
+      "text": "Leg mit Heilaura den verborgenen Kern eines Gegners in Rage frei."
+    },
+    {
+      "key": "q60000017_00_1277",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "怒った敵を揺さぶって疲れさせろ",
+      "source_en": "Shake the enemy while they are enraged and tire them out!",
+      "text": "Rüttle am Gegner, solange er in Rage ist, bis er ermüdet."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

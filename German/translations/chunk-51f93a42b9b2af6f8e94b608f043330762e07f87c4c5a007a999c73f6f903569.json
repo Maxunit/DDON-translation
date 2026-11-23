@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000100_00.gmd",
+  "arc_path": "\\quest\\q60000100.arc",
+  "entries": [
+    {
+      "key": "q60000100_00_49",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "更なる厄災の兆し",
+      "source_en": "Further Signs of Misfortune",
+      "text": "Zeichen weiteren Unheils"
+    },
+    {
+      "key": "q60000100_00_49",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "白竜の導きに従い\r\n竜王の指輪を破壊するための任務を授かる",
+      "source_en": "Follow the guidance of the White Dragon\r\nto undertake the mission of destroying\r\nthe Wyrmking's Ring.",
+      "text": "Folge der Weisung des Weißen Drachen.\r\nNimm den Auftrag an,\r\nden Ring des Drachenkönigs zu zerstören."
+    },
+    {
+      "key": "q60000100_00_1785",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "謁見の間のジョゼフに話を聞く",
+      "source_en": "Speak with Joseph in the Audience Chamber",
+      "text": "Sprich mit Joseph im Audienzsaal."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

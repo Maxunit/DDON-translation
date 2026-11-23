@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "12542",
+      "tag_source": "source_en",
+      "source_jp": "トナカイのコイフ",
+      "source_en": "Reindeer's Coif",
+      "text": "Rentierhaube"
+    },
+    {
+      "key": "",
+      "read_index": "12544",
+      "tag_source": "source_en",
+      "source_jp": "トナカイのコイフ【白】",
+      "source_en": "Reindeer's Coif (White)",
+      "text": "Rentierhaube (weiß)"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

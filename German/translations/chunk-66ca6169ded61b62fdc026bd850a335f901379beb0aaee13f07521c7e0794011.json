@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q61000000_00.gmd",
+  "arc_path": "\\quest\\q61000000.arc",
+  "entries": [
+    {
+      "key": "q61000000_00_357",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ワイルドハントのご案内",
+      "source_en": "Information on Wild Hunt",
+      "text": "Einführung in die Monsterjagd"
+    },
+    {
+      "key": "q61000000_00_357",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "リサから特殊な依頼の受け方について\r\n話を聞く",
+      "source_en": "Hear from Lisa about how to handle \r\nspecial requests",
+      "text": "Lass dir von Lisa erklären,\r\nwie du besondere Aufträge annehmen kannst."
+    },
+    {
+      "key": "q61000000_00_5088",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "リサから\"依頼\"について話を聞く",
+      "source_en": "Lisa will recount the story of said requests",
+      "text": "Lass dir von Lisa mehr über die Aufträge erzählen."
+    },
+    {
+      "key": "q61000000_00_5196",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "リサからワイルドハントを受注し、達成する",
+      "source_en": "Receive and complete a wild hunt order from Lisa",
+      "text": "Nimm bei Lisa eine Monsterjagd an und schließe sie ab."
+    },
+    {
+      "key": "q61000000_00_5197",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "リサに報告する",
+      "source_en": "Report to Lisa",
+      "text": "Berichte Lisa."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

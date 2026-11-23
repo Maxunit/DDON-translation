@@ -1,0 +1,144 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60300011.gmd",
+  "arc_path": "\\quest\\q60300011.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "覚者よ\r\n突然の訪問となったが驚かないでほしい",
+      "source_en": "Arisen, forgive my sudden visit -\r\nI mean no disturbance coming here.",
+      "text": "Erweckter, verzeih meinen unangekündigten Besuch.\r\nIch hoffe, ich habe dich nicht erschreckt."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "貴君のポーンより、「ポーン郷の地下から\r\n今まで感じたことのない力を感じる」\r\n――という報告を得たのだ",
+      "source_en": "Your pawn reported sensing an unprecedented power\r\nfrom beneath the Pawn Cathedral.",
+      "text": "Dein Vasall hat mir berichtet,\r\ndass er unter der Vasallenkathedrale eine Kraft gespürt hat, wie er sie noch nie wahrgenommen hat."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "これを調べるには、主である貴君自身が\r\n再び《異界の狭間》へと赴く必要があろう\r\nこの件について興味があるのならば\r\n詳細を話すが――",
+      "source_en": "To investigate this, you, the Master, must return\r\nto the The Rift. If this interests you,\r\nI shall explain further.",
+      "text": "Um der Sache nachzugehen,\r\nmusst du als sein Meister erneut in den Rift.\r\nWenn dich die Sache interessiert, erkläre ich dir gern die Einzelheiten."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "それでは詳細を説明しよう\r\n貴君は《異界の狭間》へ赴き、そこで\r\n貴君のポーンが感じた\"力\"が何たるかを\r\n探らねばならない",
+      "source_en": "Then let me explain the details.\r\nYou must venture into The Rift and\r\ninvestigate what kind of \"power\"\r\nyour Pawn has sensed.",
+      "text": "Dann erkläre ich dir, worum es geht.\r\nDu musst in den Rift reisen\r\nund herausfinden, was es mit der Kraft auf sich hat,\r\ndie dein Vasall gespürt hat."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "《異界の狭間》といっても、貴君が今までに\r\n足を踏み入れた場とは性質が異なる\r\n――少々特殊な空間であるということだ\r\nポーン郷の地下から赴くことはできない",
+      "source_en": "This Rift differs from those you've\r\nvisited before—it is a unique space. You cannot\r\naccess it from the Pawn Cathedral's depths.",
+      "text": "Diesen Teil des Rifts kennst du noch nicht.\r\nEr unterscheidet sich von den Orten, die du bisher besucht hast.\r\nVon den Tiefen der Vasallenkathedrale aus erreichst du ihn nicht."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "私が直接案内しよう\r\n準備が整い次第、再び声をかけてくれ",
+      "source_en": "I shall guide you personally. \r\nSpeak to me again once you are prepared.",
+      "text": "Ich bringe dich selbst dorthin.\r\nSprich mich wieder an, wenn du bereit bist."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "これより《異界の狭間》へ向かう\r\nこの先で合流した際、何をするのかは\r\n追って説明する",
+      "source_en": "We now head to the Rift. \r\nI will explain our purpose upon reuniting there.",
+      "text": "Wir brechen jetzt in den Rift auf.\r\nWenn wir dort wieder zusammentreffen, erkläre ich dir, was zu tun ist."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "覚悟はできているか？",
+      "source_en": "Are you ready?",
+      "text": "Bist du bereit?"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "はい",
+      "source_en": "Yes",
+      "text": "Ja"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "いいえ",
+      "source_en": "No",
+      "text": "Nein"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "それではこれより\r\n貴君のポーンより報告のあった\r\n\"今まで感じたことのない力\"を\r\n探しに行く",
+      "source_en": "We shall now search for the unprecedented power\r\nyour pawn reported sensing.",
+      "text": "Jetzt suchen wir nach der Kraft,\r\ndie dein Vasall gespürt hat. So etwas ist ihm offenbar noch nie begegnet."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "道は貴君自身が切り開き進むがいい\r\n私はその後ろをついていく\r\n――心配せずとも、目的の場所は地図に示している",
+      "source_en": "You must forge the path ahead. I will follow.\r\nDo not worry—\r\nthe destination is marked on your map.",
+      "text": "Geh voran und bahne dir einen Weg. Ich folge dir.\r\nHab keine Sorge.\r\nIch habe unser Ziel auf deiner Karte markiert."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "目的のものは無事に見つかったようだ\r\nそれが何なのかを説明したいところだが\r\n――ここでは落ち着けないかもしれないな\r\n貴君の自室に戻ってからにするか",
+      "source_en": "It seems you have safely found \r\nwhat we were looking for. \r\nI would explain its nature, but this place is \r\nill-suited for such a discussion. \r\nLet us return to your quarters.",
+      "text": "Du hast gefunden,\r\nwas wir gesucht haben.\r\nIch würde dir gern erklären, was es ist.\r\nHier können wir aber nicht in Ruhe reden.\r\nKehren wir in dein Zimmer zurück."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "先ほど《異界の狭間》にて手にした物\r\nそれは《閃きの果実》という\r\nポーンがその主のため、さらなる活躍をと\r\n強く願った時に現れる力の結晶――",
+      "source_en": "The object obtained in the Rift is\r\na Fruit of Inspiration—\r\na crystallization of power that manifests when \r\na pawn fervently wishes to\r\nbetter serve its master.",
+      "text": "Was wir gerade im Rift gefunden haben,\r\nnennt man eine Frucht der Eingebung.\r\nDarin verdichtet sich eine Kraft,\r\ndie entsteht, wenn ein Vasall sich aus tiefstem Herzen wünscht,\r\nseinem Meister mehr helfen zu können."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "その果実を与えることで\r\n貴君のポーンは新たな力を得て\r\nさらなる働きを見せることだろう",
+      "source_en": "By bestowing this fruit unto them, \r\nyour pawn will gain new abilities and \r\nperform even greater deeds.",
+      "text": "Gibst du deinem Vasallen die Frucht,\r\ngewinnt er neue Fähigkeiten\r\nund kann noch mehr vollbringen."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "――本来、ポーンは自らの意思や\r\nその将来を想った願いを持つ存在ではない\r\nしかし、主との結び付きがごくまれに\r\nポーンにそのような考えと新たな力をもたらすようだ",
+      "source_en": "Normally, pawns lack personal will or aspirations\r\nfor their future. Yet, rare bonds with their masters\r\ncan grant them such thoughts and new powers.",
+      "text": "Vasallen haben gewöhnlich keinen eigenen Willen\r\nund keine Wünsche für ihre Zukunft.\r\nIn seltenen Fällen weckt die Bindung zu ihrem Meister solche Gedanken und verleiht ihnen neue Kräfte."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "貴君のポーンは良き主を得た\r\nそういうことなのだろう",
+      "source_en": "Your pawns have found a worthy master.\r\nThat is how it should be.",
+      "text": "Deine Vasallen haben einen guten Meister gefunden.\r\nDas wird es sein."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

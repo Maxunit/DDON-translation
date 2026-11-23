@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50202001.gmd",
+  "arc_path": "\\quest\\q50202001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "竜力が霧散した――",
+      "source_en": "The Dragon Force has vanished...",
+      "text": "Die Drachenkraft hat sich verflüchtigt …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜力が満ち 新たな竜の姿となる――！",
+      "source_en": "Dragon Force is rising, creating a new Dragon!",
+      "text": "Die Drachenkraft staut sich und nimmt erneut die Gestalt eines Drachen an!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "消えた竜力を求め 魔物が集う――",
+      "source_en": "Monsters gather, seeking lost Dragon Force...",
+      "text": "Monster sammeln sich und suchen nach der verschwundenen Drachenkraft …"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "淀みの影から 魔物が生み出された――",
+      "source_en": "Monsters emerged from the shadow of stagnation...",
+      "text": "Aus den Schatten der angestauten Drachenkraft sind Monster hervorgetreten …"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

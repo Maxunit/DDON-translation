@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60300102.gmd",
+  "arc_path": "\\quest\\q60300102.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターから新しい冒険スポットを\r\n開放してもらったみたいじゃないか",
+      "source_en": "It seems like the Area Master has unlocked\r\na new Adventure Spot for us.",
+      "text": "Der Gebietsmeister hat dir wohl\r\neinen neuen Abenteuerort eröffnet."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "マップにマークをつけておこう\r\nこのダンジョンや、同じレベル帯のスポットへ\r\n冒険しに行って、自分の力を高めるんだ\r\n――アタシも昔はよくやっていたものさ",
+      "source_en": "Let's mark it on the map.\r\nGo on adventures to this dungeon\r\nor spots at your level to increase your strength.\r\nI used to do that a lot in the past.",
+      "text": "Ich markiere ihn auf deiner Karte.\r\nZieh in dieses Verlies oder an Orte auf\r\neiner ähnlichen Stufe. So wirst du stärker.\r\nIch hab das früher oft so gemacht."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "マークがついているスポットがあるだろう？\r\nまずはそこを探索してみて、自分の力を試すんだ\r\nそこで取得できるアイテムや敵との戦闘が\r\n自分の力を高めてくれるよ",
+      "source_en": "The spots are marked now, right?\r\nFirst, go there and test your mettle.\r\nYou can obtain items and do battle\r\nwith enemies that will hone your strength.",
+      "text": "Du siehst die Markierungen auf der Karte, oder?\r\nSchau zuerst dort vorbei und stell dich auf die Probe.\r\nDu wirst Gegenstände finden und Gegnern begegnen.\r\nBeides wird dich stärker machen."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "お、無事帰還したね\r\n今回の冒険を元に、武具や戦技を整えてまた挑む\r\n――常に、自分と同等か少し先を行く相手を選んで\r\n戦うことを勧めるよ",
+      "source_en": "Oh, you've returned safely.\r\nUse this adventure as a basis to prepare your gear\r\nand battle techniques before trying again.\r\nI recommend challenging opponents\r\nat par with your level or slightly above.",
+      "text": "Ah, du bist heil zurück.\r\nGeh durch, was du unterwegs gelernt hast, und pass\r\ndeine Ausrüstung und Kampftechniken daran an.\r\nSuch dir beim nächsten Mal wieder einen ebenbürtigen\r\noder einen etwas stärkeren Gegner."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "まだ自分の力を高めたいと思うなら、引き続き\r\nこのダンジョンやレベルに合ったスポットへ\r\n冒険しにいくんだ\r\nよくやっているとエリアマスターには伝えておくよ",
+      "source_en": "If you still want to increase your strength,\r\ncontinue adventuring in spots suitable\r\nfor your level within this dungeon.\r\nI'll inform the Area Master of your good progress.",
+      "text": "Wenn du noch stärker werden willst,\r\ngeh wieder in dieses Verlies oder an andere Orte\r\nauf deiner Stufe. Dem Gebietsmeister sage ich,\r\ndass du dich gut machst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

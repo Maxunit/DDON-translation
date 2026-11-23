@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60300032.gmd",
+  "arc_path": "\\quest\\q60300032.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ドアの外から誰かの声が聞こえる――",
+      "source_en": "Someone's voice can be heard from\r\nbeyond the door...",
+      "text": "Hinter der Tür\r\nist eine Stimme zu hören …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "外がなんだか騒がしい――",
+      "source_en": "There seems to be a ruckus outside.",
+      "text": "Draußen ist es plötzlich unruhig …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "豪華で柔らかいベッドだ――",
+      "source_en": "It's a luxurious, soft bed...",
+      "text": "Ein prächtiges Bett. Es sieht sehr bequem aus …"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "豪勢なフルーツの盛り合わせだ――",
+      "source_en": "It's an extravagant assortment of fruits...",
+      "text": "Eine üppig gefüllte Obstschale …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "アッカーシェランの歴史書がある――",
+      "source_en": "It's an Acre Selund history book...",
+      "text": "Ein Buch über die Geschichte von Acre Selund …"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "他人の屋敷だ――\r\n勝手に歩き回るのはやめておこう",
+      "source_en": "It's someone else's estate...\r\nBetter not wander around without permission.",
+      "text": "Dies ist das Anwesen eines anderen.\r\nSieh dich lieber nicht ohne Erlaubnis um."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

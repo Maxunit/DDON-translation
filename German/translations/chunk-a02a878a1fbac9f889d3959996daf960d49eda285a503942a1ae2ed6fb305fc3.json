@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60200203.gmd",
+  "arc_path": "\\quest\\q60200203.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "地図の切れ端のようなものがある\r\nダウ渓谷のとある場所に印がついている",
+      "source_en": "There is something resembling a piece of a\r\nmap; a location in Dowe Valley\r\nseems to be marked.",
+      "text": "Hier liegt etwas, das wie ein Stück einer Karte aussieht.\r\nDarauf ist offenbar eine Stelle\r\nim Dowe-Tal markiert."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "かすれた文字が刻まれている\r\n＜ダウ渓谷...大滝...＞と書かれているようだ",
+      "source_en": "Faded letters are inscribed upon it,\r\nit reads [Dowe Valley... Great Waterfall...]",
+      "text": "Darauf stehen verblasste Buchstaben.\r\nDu kannst noch „Dowe-Tal … großer Wasserfall …“ lesen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60300109.gmd",
+  "arc_path": "\\quest\\q60300109.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ドリスから新しい冒険スポットを\r\n教えてもらったそうじゃないですか！\r\n迷わないように地図にマークを\r\n付けておいてさしあげましょう",
+      "source_en": "I heard you got a new Adventure Spot from Doris!\r\nLet me mark it on your map so you don't get lost.",
+      "text": "Doris hat dir einen neuen Abenteuerort gezeigt,\r\nhab ich gehört! Ich markiere ihn auf deiner Karte."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "なんでも、あそこは怖い魔物が\r\nうようよしてるんですって！\r\nそんな場所を教えられるなんて\r\n覚者さまがお強い証拠ですね！",
+      "source_en": "They say that place is crawling with\r\nterrifying monsters! The fact that you\r\nwere told about it proves how strong\r\nyou are, Master Arisen!",
+      "text": "Da soll es ja nur so von schrecklichen\r\nMonstern wimmeln! Dass dir Doris davon\r\nerzählt hat, zeigt, was sie dir zutraut.\r\nEin echter Erweckter eben!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "――ここだけの話、あそこでは\r\n高値で取引されるアイテムや\r\n素材が採れるってもっぱらの噂ですよ",
+      "source_en": "...Just between us, rumor has it you can\r\nfind items and materials there that\r\nfetch a high price on the market.",
+      "text": "Nur unter uns … Angeblich findet man dort\r\nGegenstände und Materialien, für die\r\nman auf dem Markt viel Geld bekommt."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "採取、頑張ってくださいねぇ！\r\nそして、メガドにお戻りになられた際の\r\nご休憩はぜひうちの宿で！",
+      "source_en": "Good luck with your gathering!\r\nAnd when you return to Megado,\r\nbe sure to rest at our inn!",
+      "text": "Viel Glück bei der Suche!\r\nUnd wenn du wieder in Megado bist,\r\nruh dich doch in unserem Gasthaus aus!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "あらっ、新しい冒険スポットは\r\n地図を見てもらえれば\r\nすぐにわかりますよ！",
+      "source_en": "Oh, you'll see the new Adventure Spot right away\r\nif you check your map!",
+      "text": "Ach, schau einfach auf die Karte.\r\nDa siehst du den neuen Abenteuerort sofort!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "魔物がうようよいるって話ですから\r\n準備はしっかりして行ってくださいね\r\n何なら、うちの宿で軽く休んで\r\n英気を養ってからでも良いと思いますよ！",
+      "source_en": "They say monsters swarm that place,\r\nso prepare well before heading out.\r\nWhy not rest at our inn to regain\r\nyour strength first?",
+      "text": "Dort soll es vor Monstern wimmeln.\r\nBereite dich gut vor, bevor du aufbrichst!\r\nDu kannst dich auch erst in unserem\r\nGasthaus ausruhen und zu Kräften kommen."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "あら、もう戻られたんですか！\r\nさすがは覚者さま\r\n土産話の一つでも聞かせてくださいよ",
+      "source_en": "Oh, you're back already! As expected\r\nof Master Arisen. Do tell me one of\r\nyour adventuring stories.",
+      "text": "Oh, du bist schon zurück!\r\nGanz wie man es von einem Erweckten erwartet.\r\nErzähl doch mal, was du erlebt hast!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "へぇ――そういったアイテムや素材が\r\n手に入るんですねぇ――\r\n腕に覚えがあれば、ちょいと\r\n行ってみたくなってしまいますね――",
+      "source_en": "Huh... So you can get those kinds of\r\nitems and materials there. If I had the skill,\r\nI'd be tempted to go take a look myself...",
+      "text": "Ach, solche Gegenstände und Materialien findet man dort …\r\nWenn ich besser kämpfen könnte,\r\nwürde ich mir das selbst gern mal ansehen …"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

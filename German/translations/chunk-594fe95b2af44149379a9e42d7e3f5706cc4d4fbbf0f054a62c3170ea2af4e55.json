@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "20082",
+      "tag_source": "source_en",
+      "source_jp": "プレゼントサック【支給品】",
+      "source_en": "Present Sack (Supplied)",
+      "text": "Geschenkesack (gestellt)"
+    },
+    {
+      "key": "",
+      "read_index": "20083",
+      "tag_source": "source_en",
+      "source_jp": "プレゼントサック",
+      "source_en": "Present Sack",
+      "text": "Geschenkesack"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

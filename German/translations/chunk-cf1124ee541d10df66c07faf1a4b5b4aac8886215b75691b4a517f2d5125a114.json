@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60319003_00.gmd",
+  "arc_path": "\\quest\\q60319003.arc",
+  "entries": [
+    {
+      "key": "q60319003_00_234",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "フェルヤナ荒原　救援要請",
+      "source_en": "Feryana Wilderness Rescue Request",
+      "text": "Feryana-Wildnis – Bitte um Verstärkung"
+    },
+    {
+      "key": "q60319003_00_234",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the client\r\nand try to solve the problem.",
+      "text": "Frag nach den Einzelheiten des Auftrags\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60319003_00_2958",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "仲間の派遣要請に向かう",
+      "source_en": "Head out to fulfill the comrades' request for reinforcements",
+      "text": "Mach dich auf den Weg, um den Kameraden zu helfen, die Verstärkung angefordert haben."
+    },
+    {
+      "key": "q60319003_00_2959",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "敵軍討伐のため現地へ向かう",
+      "source_en": "Head to the site to defeat the enemy",
+      "text": "Geh zum Einsatzort und besiege dort die Feinde."
+    },
+    {
+      "key": "q60319003_00_3099",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "敵部隊を討伐する",
+      "source_en": "Defeat the enemy forces",
+      "text": "Besiege die feindlichen Truppen."
+    },
+    {
+      "key": "q60319003_00_3101",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の<NPC 596>に報告する",
+      "source_en": "Report to the client, <NPC 596>",
+      "text": "Berichte deinem Auftraggeber „<NPC 596>“."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

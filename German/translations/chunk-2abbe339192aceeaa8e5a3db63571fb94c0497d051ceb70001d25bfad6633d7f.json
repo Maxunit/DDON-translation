@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60350001_00.gmd",
+  "arc_path": "\\quest\\q60350001.arc",
+  "entries": [
+    {
+      "key": "q60350001_00_372",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "神殿を狙うは――",
+      "source_en": "Aiming for the Temple",
+      "text": "Wer hat es auf den Tempel abgesehen?"
+    },
+    {
+      "key": "q60350001_00_372",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アイザックから\r\n新たな脅威について話を聞く",
+      "source_en": "Hear about the new threat from Isaac",
+      "text": "Lass dir von Isaac von der neuen Bedrohung erzählen."
+    },
+    {
+      "key": "q60350001_00_5240",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "アイザックから詳しい話を聞く",
+      "source_en": "Hear more from Isaac",
+      "text": "Lass dir von Isaac mehr darüber erzählen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

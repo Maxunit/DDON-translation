@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300413_00.gmd",
+  "arc_path": "\\quest\\q60300413.arc",
+  "entries": [
+    {
+      "key": "q60300413_00_276",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "エンブレムストーンの行方",
+      "source_en": "The Emblem Stone's Whereabouts",
+      "text": "Wo sind die Klassenembleme?"
+    },
+    {
+      "key": "q60300413_00_276",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "白竜よりエンブレムストーンの\r\n調査を依頼される",
+      "source_en": "The White Dragon requests you to conduct \r\nan investigation of the Emblem Stone",
+      "text": "Der Weiße Drache bittet dich,\r\nnach den Klassenemblemen zu forschen."
+    },
+    {
+      "key": "q60300413_00_3408",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 4>からエンブレムストーンについて確認する",
+      "source_en": "Find out about Emblem Stone, starting with <NPC 4>",
+      "text": "Frag zuerst <NPC 4> nach den Klassenemblemen."
+    },
+    {
+      "key": "q60300413_00_3409",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<STG 200>の<NPC 1029>からエンブレムストーンの行方を確認する",
+      "source_en": "Inquire about the Emblem Stone's location from <NPC 1029> in <STG 200>",
+      "text": "Frag <NPC 1029> in „<STG 200>“, wo das Klassenemblem ist."
+    },
+    {
+      "key": "q60300413_00_3412",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "<STG 510>に向かい<NPC 2000>から詳細を聞く",
+      "source_en": "Head to <STG 510> and inquire details from <NPC 2000>",
+      "text": "Geh zu „<STG 510>“ und bitte <NPC 2000> um weitere Einzelheiten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

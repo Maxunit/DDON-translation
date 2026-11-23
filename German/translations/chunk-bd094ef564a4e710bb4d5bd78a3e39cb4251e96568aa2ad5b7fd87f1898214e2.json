@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q61000002_00.gmd",
+  "arc_path": "\\quest\\q61000002.arc",
+  "entries": [
+    {
+      "key": "q61000002_00_359",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "竜の力を帯びた武具＜２＞",
+      "source_en": "Arms With the Power of the Dragon II",
+      "text": "Ausrüstung mit Drachenkraft II"
+    },
+    {
+      "key": "q61000002_00_359",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "クレイグから竜の力を宿した武具について\r\n話を聞く",
+      "source_en": "Hear from Craig about weapons \r\nimbued with dragon power",
+      "text": "Lass dir von Craig etwas über Ausrüstung\r\nmit Drachenkraft erzählen."
+    },
+    {
+      "key": "q61000002_00_5123",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "クレイグから話を聞く",
+      "source_en": "Listen to Craig",
+      "text": "Hör dir an, was Craig zu sagen hat."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

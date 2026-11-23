@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60321011_00.gmd",
+  "arc_path": "\\quest\\q60321011.arc",
+  "entries": [
+    {
+      "key": "q60321011_00_336",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "彼方より堕ち呼ばれし魔道",
+      "source_en": "Magick Called to the Deepest Depths",
+      "text": "Magie aus finsterer Ferne"
+    },
+    {
+      "key": "q60321011_00_336",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the client\r\nand try to solve the problem.",
+      "text": "Frag nach den Einzelheiten des Auftrags\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60321011_00_4706",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "闇の魔法を操る魔物の居場所へ向かう",
+      "source_en": "Head to the location of the monster that \r\nmanipulates dark magick",
+      "text": "Begib dich dorthin,\r\nwo das Monster mit der dunklen Magie auf dich wartet."
+    },
+    {
+      "key": "q60321011_00_4707",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "魔物を討伐する",
+      "source_en": "Defeat the foe(s)",
+      "text": "Besiege die Monster."
+    },
+    {
+      "key": "q60321011_00_4708",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターの<NPC 4512>に報告する",
+      "source_en": "Report to <NPC 4512>, the Area Master",
+      "text": "Berichte dem Gebietsmeister „<NPC 4512>“."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60321010_00.gmd",
+  "arc_path": "\\quest\\q60321010.arc",
+  "entries": [
+    {
+      "key": "q60321010_00_335",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ウルテカ山岳　試練：闇の滴り",
+      "source_en": "UM Trial: A Trickle in the Darkness",
+      "text": "Urteca-Gebirge – Prüfung: Spuren der Finsternis"
+    },
+    {
+      "key": "q60321010_00_335",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the client\r\nand try to solve the problem.",
+      "text": "Frag nach den Einzelheiten des Auftrags\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60321010_00_4674",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 4512>から火垂れ山に巣くう魔物について確認する",
+      "source_en": "Check with <NPC 4512> about the monsters nesting in Firefall Mountain",
+      "text": "Frag „<NPC 4512>“ nach den Monstern im Feuerfallberg."
+    },
+    {
+      "key": "q60321010_00_4675",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 4512>から話の内容を確認する",
+      "source_en": "Confirm the details of the conversation with <NPC 4512>",
+      "text": "Lass dir von „<NPC 4512>“ mehr darüber erzählen."
+    },
+    {
+      "key": "q60321010_00_4676",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターの<NPC 4512>に経緯を話す",
+      "source_en": "Talk to Area Master <NPC 4512> about the circumstances",
+      "text": "Erzähl „<NPC 4512>“, wie der Einsatz verlaufen ist."
+    },
+    {
+      "key": "q60321010_00_4677",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "闇の力の痕跡を探す",
+      "source_en": "Search for traces of dark forces",
+      "text": "Suche nach Spuren der dunklen Kraft."
+    },
+    {
+      "key": "q60321010_00_4678",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "引き続き闇の力の痕跡を探す",
+      "source_en": "Continue searching for traces of dark forces",
+      "text": "Suche weiter nach Spuren der dunklen Kraft."
+    },
+    {
+      "key": "q60321010_00_4679",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "引き続き闇の力の痕跡を探す",
+      "source_en": "Continue searching for traces of dark forces",
+      "text": "Suche weiter nach Spuren der dunklen Kraft."
+    },
+    {
+      "key": "q60321010_00_4680",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q60321010_00_4681",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q60321010_00_4682",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q60321010_00_4684",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "闇の力の流れ出る場所を確認する",
+      "source_en": "Check where the dark forces flow out",
+      "text": "Sieh nach, woher die dunkle Kraft strömt."
+    },
+    {
+      "key": "q60321010_00_4741",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "手がかりを調べる",
+      "source_en": "Search for clues",
+      "text": "Suche nach Hinweisen."
+    },
+    {
+      "key": "q60321010_00_4742",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "手がかりを調べる",
+      "source_en": "Search for clues",
+      "text": "Suche nach Hinweisen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

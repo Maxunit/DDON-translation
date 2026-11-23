@@ -1,0 +1,256 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60300000.gmd",
+  "arc_path": "\\quest\\q60300000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "覚者さま、自室もそろそろ手狭ではありませんか？\r\n実は、より快適に過ごしていただくため\r\n改築をご提案しようかと――",
+      "source_en": "Ser Arisen, isn't your private \r\nquarters getting a bit cramped?\r\nActually, to make your stay more comfortable,\r\nI was thinking of proposing a renovation--",
+      "text": "Wird Euer Zimmer langsam etwas eng,\r\nwerter Erweckter?\r\nIch wollte Euch einen Umbau vorschlagen.\r\nDann hättet Ihr es hier bequemer."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "自室を改築するためには\r\n何通りかの方法がありましてな\r\nどの方法が覚者さまに合うか、ご相談させて\r\nいただけませんかな？",
+      "source_en": "There are several ways to renovate your private quarters.\r\nShall we discuss which method \r\nsuits you best, Ser Arisen?",
+      "text": "Es gibt mehrere Möglichkeiten, Euer Zimmer umzubauen.\r\nDarf ich mit Euch besprechen,\r\nwelche für Euch am besten passt?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "改築作業の進め方ですが、二通りあるのです\r\nまず一つ目――\r\n私に改築用の素材を渡していただければ\r\n大工に作業を依頼しておきましょう",
+      "source_en": "There are two ways to proceed with the renovation.\r\nFirst—\r\nIf you provide me with the necessary materials,\r\nI can arrange for a carpenter to do the work.",
+      "text": "Wir können den Umbau auf zwei Arten angehen.\r\nDie erste Möglichkeit wäre,\r\ndass Ihr mir die Materialien bringt.\r\nDann beauftrage ich einen Zimmermann."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ただし、大工の腕までは保証できません\r\n素材は少し多めに納品していただき、\r\n作業時間もゆとりを見て取らねばなりません",
+      "source_en": "However, I cannot guarantee the carpenter's skill.\r\nYou'll need to provide extra materials,\r\nand allow ample time for the work to be completed.",
+      "text": "Für das Können des Zimmermanns kann ich allerdings nicht bürgen.\r\nIhr müsstet ein paar Materialien mehr liefern\r\nund etwas mehr Zeit für die Arbeiten einplanen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "もう一方の方法は――\r\n熟練の大工を、覚者さまご自身に見極め\r\n集めていただくというものです",
+      "source_en": "The other method is this―\r\nYou, Ser Arisen, must personally assess\r\nand gather skilled carpenters.",
+      "text": "Die zweite Möglichkeit wäre,\r\ndass Ihr selbst nach erfahrenen Zimmerleuten sucht\r\nund sie für den Auftrag gewinnt."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "熟練の大工であれば、少ない素材で\r\n素早く作業を終わらせてくれることでしょう\r\nしかし、作業を請け負ってくれる者を探すため\r\n何人かに声をかけねばならんでしょうな",
+      "source_en": "Skilled carpenters can complete the work quickly\r\nwith fewer materials.\r\nBut you'll need to approach several people\r\nto find those willing to take on the job.",
+      "text": "Erfahrene Zimmerleute sind schneller fertig\r\nund brauchen weniger Material.\r\nIhr müsstet allerdings einige Leute ansprechen,\r\nbis Ihr genug Helfer gefunden habt."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "素材を揃えていただくか\r\n大工を探してきていただくか――\r\n覚者さまのご都合の良い方法は\r\nどちらですかな？",
+      "source_en": "Will you gather the materials yourself,\r\nor seek out carpenters...\r\nWhich method is more \r\nconvenient for you, Ser Arisen?",
+      "text": "Möchtet Ihr die Materialien besorgen\r\noder selbst Zimmerleute suchen?\r\nWas kommt Euch gelegener,\r\nwerter Erweckter?"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "必要な素材を渡す",
+      "source_en": "Gather the needed materials",
+      "text": "Die nötigen Materialien abgeben"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "自分で人員を集める",
+      "source_en": "Gather personnel myself",
+      "text": "Selbst Helfer suchen"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "――少し考えさせてほしい",
+      "source_en": "...I want to think a bit",
+      "text": "Ich möchte darüber nachdenken …"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "わかりました\r\nでは、必要な素材を持ってきてくださるのを\r\nお待ちしております",
+      "source_en": "Understood.\r\nI'll await your return with the \r\nnecessary materials.",
+      "text": "Einverstanden.\r\nIch warte hier,\r\nbis Ihr die nötigen Materialien mitbringt."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "わかりました\r\nそれでは覚者さま\r\n工事作業を引き受けてくれる者たちを探し、\r\n依頼の話をしておいていただけると助かります",
+      "source_en": "Understood.\r\nThen, Ser Arisen, please seek out those willing \r\nto take on the construction work\r\nand arrange for their services.",
+      "text": "Einverstanden.\r\nSucht dann bitte nach Leuten,\r\ndie den Umbau übernehmen wollen,\r\nund besprecht den Auftrag mit ihnen."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "ええ、もちろんです\r\n自室で庭でも眺めながら\r\nゆっくりお考えになってください",
+      "source_en": "Yes, of course.\r\nPlease take your time to think it over\r\nwhile enjoying the garden view in your room.",
+      "text": "Aber natürlich.\r\nNehmt Euch Zeit zum Nachdenken.\r\nVielleicht bei einem Blick in den Garten?"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "自室の改築に着手するには\r\nまだ素材が足りないようですな\r\n引き続き、お待ちしております",
+      "source_en": "It seems you still lack sufficient materials\r\nto begin renovating your private quarters.\r\nI'll continue to wait for your return.",
+      "text": "Für den Umbau fehlen noch Materialien.\r\nSobald Ihr sie beisammen habt,\r\nkönnt Ihr sie mir bringen."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "おお、改築に必要な素材が揃いましたな\r\nこれだけあれば十分でしょう",
+      "source_en": "Ah, you've gathered all the materials \r\nneeded for the renovation.\r\nThis should be more than enough.",
+      "text": "Ah, Ihr habt alle Materialien beisammen.\r\nDas sollte für die Arbeiten genügen.\r\nDamit kann der Umbau beginnen."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "今回の工事作業は騎士団の方々が\r\n引き受けてくださることになっています\r\nじきに、自室内での作業が始まります\r\n作業完了まで、お時間をいただきますぞ",
+      "source_en": "This construction work will be handled\r\nby the knights' order. Work inside your\r\nrooms will begin shortly; We'll need\r\nsome time until completion.",
+      "text": "Die Weiße Garde hat sich bereit erklärt,\r\nden Umbau zu übernehmen.\r\nDie Arbeiten in Eurem Zimmer beginnen in Kürze.\r\nBis alles fertig ist, dauert es ein wenig."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "工事作業を引き受けてくれる者たちを探し、\r\n依頼の話をしておいていただけますかな",
+      "source_en": "So, looking for people to take \r\non the construction work...\r\nCould you discuss the request with them?",
+      "text": "Würdet Ihr ein paar Helfer\r\nfür den Umbau suchen\r\nund den Auftrag mit ihnen besprechen?"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "自室の工事をする人員を\r\n探していらっしゃるんですか？",
+      "source_en": "Are you looking for workers to\r\nrenovate your room?",
+      "text": "Sucht Ihr jemanden,\r\nder Euer Zimmer umbaut?"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "普段お世話になってる覚者さまのために\r\nここは一肌脱がなきゃいけませんね！\r\nさっそく現場に向かって作業開始しましょう",
+      "source_en": "We can't just stand by when it's for Ser Arisen, \r\nyou've always looked after us!\r\nWe'll head to the site and get started right away.",
+      "text": "Ihr habt uns schon so oft geholfen, werter Erweckter.\r\nDa packen wir natürlich mit an!\r\nWir gehen gleich hin und fangen an."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "改築作業に向いたヤツがいないかって？\r\n覚者さんのためなら、俺が手伝うよ！\r\n力仕事なら任せてくれ",
+      "source_en": "You need someone for renovation work?\r\nFor the Arisen, I'll lend my strength!\r\nLeave the heavy lifting to me.",
+      "text": "Du brauchst jemanden für den Umbau?\r\nDir helfe ich doch gern!\r\nDie schwere Arbeit kannst du mir überlassen."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "自室を改築するんですって？\r\n細かい作業もあるでしょうから、お手伝いするわ\r\n手先の器用さにはちょっと自信があるの",
+      "source_en": "Renovating your private quarters, I hear?\r\nThere must be delicate \r\nwork involved, so I'll help.\r\nI'm quite confident in my dexterity.",
+      "text": "Du lässt dein Zimmer umbauen?\r\nDa gibt’s bestimmt auch Feinarbeit.\r\nIch helfe gern.\r\nMit den Händen bin ich recht geschickt."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "作業、もう始めてますよ\r\nこの分だともうすぐ終わりそうです――\r\n<NPC 1024>さんにもそうお伝えください",
+      "source_en": "The work has already begun.\r\nAt this rate, it should be done soon--\r\nPlease relay that to <NPC 1024> as well.",
+      "text": "Wir haben schon mit der Arbeit begonnen.\r\nWenn es so weitergeht, sind wir bald fertig.\r\nRichtet das bitte auch <NPC 1024> aus."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "なかなか良い出来になるんじゃないでしょうか\r\nまぁ、完成を楽しみにしておいてください",
+      "source_en": "It's shaping up quite nicely.\r\nWell, look forward to the finished product.",
+      "text": "Das sieht schon richtig gut aus.\r\nIhr könnt Euch auf das Ergebnis freuen."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "覚者さんにはいつも世話になってるからさ\r\nいつか恩返しがしたいと思ってたんだ\r\nこうして手伝えてよかったよ",
+      "source_en": "You've always looked after me, so\r\nI've been wanting to repay the favor.\r\nI'm glad I can help like this.",
+      "text": "Du hast mir schon so oft geholfen.\r\nIch wollte mich längst revanchieren.\r\nSchön, dass ich jetzt mal mit anpacken kann."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "力仕事はできないけど\r\n細かい仕上げは得意なのよね\r\nきれいに作ってみせるわ",
+      "source_en": "I'm not good at heavy labor,\r\nbut I excel at delicate finishing work.\r\nI'll make sure it turns out beautifully.",
+      "text": "Für die schwere Arbeit bin ich keine große Hilfe,\r\naber bei der Feinarbeit kenne ich mich aus.\r\nIch sorge dafür, dass es schön wird."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "無事に作業完了できたようですね\r\n改築された自室で快適にお過ごしください",
+      "source_en": "The work has been completed without issue.\r\nMay you enjoy your newly \r\nrenovated private quarters.",
+      "text": "Die Arbeiten sind gut gelaufen.\r\nIch hoffe, Ihr fühlt Euch\r\nin Eurem umgebauten Zimmer wohl."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "作業を頼まれたと思ったら\r\n覚者の部屋の工事か\r\nいや、引き受けたことはやり遂げるがな",
+      "source_en": "The job you need done is construction\r\nin the Arisen's room?\r\nDidn't expect that, but we'll\r\nfinish what we started.",
+      "text": "Der Auftrag ist also ein Umbau\r\nim Zimmer eines Erweckten?\r\nDamit hätte ich nicht gerechnet.\r\nAber was wir angefangen haben, bringen wir zu Ende."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "まぁ、非番だったし――\r\n何よりバートンの頼みだ\r\nここは気持ちよく作業完了といくか",
+      "source_en": "Well, I was off duty anyway—\r\nAnd more importantly, it's Barton's request.\r\nMight as well finish the job in good spirits.",
+      "text": "Ich hatte sowieso frei.\r\nUnd dann bittet mich auch noch Barton darum.\r\nAlso machen wir die Arbeit ordentlich fertig."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "こういった作業もやり始めると楽しいもんだな\r\n――ちょっと集中したいんだ\r\n今は話しかけないでくれ",
+      "source_en": "Once you get into this kind of work, \r\nit's actually fun.\r\n--But, I need to focus right now.\r\nDon't talk to me for a bit.",
+      "text": "Wenn man erst mal angefangen hat,\r\nmacht so ein Umbau richtig Spaß.\r\nJetzt muss ich mich aber konzentrieren.\r\nSprich mich später wieder an."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "今回の工事作業は騎士団の方々が\r\n引き受けてくださることになっています\r\n作業完了まで、しばらくお待ちください",
+      "source_en": "The knights have agreed to handle\r\nthe construction work this time.\r\nPlease wait a while for its completion.",
+      "text": "Die Weiße Garde übernimmt den Umbau.\r\nHabt bitte noch etwas Geduld,\r\nbis die Arbeiten abgeschlossen sind."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "改築作業が無事完了しましたぞ",
+      "source_en": "The renovation work has been \r\ncompleted successfully.",
+      "text": "Der Umbau ist abgeschlossen.\r\nAlles ist gut gelaufen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

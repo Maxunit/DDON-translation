@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50205003_00.gmd",
+  "arc_path": "\\quest\\q50205003.arc",
+  "entries": [
+    {
+      "key": "q50205003_00_61",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "異人の塔",
+      "source_en": "The Foreigner's Tower",
+      "text": "Der Turm des Fremden"
+    },
+    {
+      "key": "q50205003_00_61",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "集いし勇敢なる冒険者たちよ\r\n手がかりの導く宝塔に眠る\r\n黄金の秘宝を探し出せ",
+      "source_en": "Oh, brave adventurers who have gathered here,\r\nSeek out the golden treasure sleeping\r\nin the treasure tower, guided by the clues.",
+      "text": "Tapfere Abenteurer, die ihr euch hier versammelt habt!\r\nFolgt den Hinweisen zum Schatzturm\r\nund findet den Goldschatz, der dort verborgen liegt."
+    },
+    {
+      "key": "q50205003_00_2625",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiegt die Gegner, auf die ihr trefft."
+    },
+    {
+      "key": "q50205003_00_2626",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "次なる敵を探し出す",
+      "source_en": "Find your next enemy",
+      "text": "Sucht euren nächsten Gegner."
+    },
+    {
+      "key": "q50205003_00_2627",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "パーティー集合マーカーに集まる",
+      "source_en": "Gather at the party gathering marker",
+      "text": "Versammelt euch an der Treffpunktmarkierung für die Gruppe."
+    },
+    {
+      "key": "q50205003_00_2628",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "最奥に潜む魔物を討伐する",
+      "source_en": "Defeat the foe(s) lurking in the innermost parts of the city",
+      "text": "Besiegt die Monster, die tief im Inneren lauern."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

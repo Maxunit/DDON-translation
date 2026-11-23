@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60318010.gmd",
+  "arc_path": "\\quest\\q60318010.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "――この周辺に伝令兵はいないようだ！他を探そう！",
+      "source_en": "...The Messenger Troops don't seem to be here!\r\nLet's search elsewhere!",
+      "text": "Hier scheinen keine feindlichen Melder zu sein!\r\nSuchen wir woanders weiter!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "――敵の伝令兵を発見した！",
+      "source_en": "...Discovered the Messenger Troops!",
+      "text": "Du hast feindliche Melder entdeckt!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "――敵軍の指令書を発見した！",
+      "source_en": "...Enemy's orders discovered!",
+      "text": "Du hast den Befehl der feindlichen Truppen gefunden!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "――敵の伝令兵が何か落としたようだ！",
+      "source_en": "...It seems the Messenger Troops have\r\ndropped something...",
+      "text": "Die feindlichen Melder haben anscheinend\r\netwas fallen lassen …"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

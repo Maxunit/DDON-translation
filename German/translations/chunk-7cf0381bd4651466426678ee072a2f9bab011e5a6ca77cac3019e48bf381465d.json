@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60320011_00.gmd",
+  "arc_path": "\\quest\\q60320011.arc",
+  "entries": [
+    {
+      "key": "q60320011_00_326",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "力に呑まれし王者",
+      "source_en": "The Ruler Overwhelmed by Power",
+      "text": "Der Herrscher, den die Macht verschlang"
+    },
+    {
+      "key": "q60320011_00_326",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から事件の詳細を聞き\r\n問題解決に挑む\r\n※クエストの破棄はできません",
+      "source_en": "Hear the details of the incident from the \r\nrequester and tackle the problem.\r\nNote: You cannot abandon this quest.",
+      "text": "Frag nach den Einzelheiten des Auftrags\r\nund kümmere dich um den Vorfall.\r\nHinweis: Du kannst diese Quest nicht abbrechen."
+    },
+    {
+      "key": "q60320011_00_4325",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ワールドクエストを受注し、<SPOT 1102>へ向かう",
+      "source_en": "Get an order for the World Quest and head to \r\n<SPOT 1102>",
+      "text": "Nimm die Weltquest an und begib dich zu „\r\n“.<SPOT 1102>"
+    },
+    {
+      "key": "q60320011_00_4326",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "イフリートを討伐する",
+      "source_en": "Defeat the Ifrit",
+      "text": "Besiege Ifrit."
+    },
+    {
+      "key": "q60320011_00_4327",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 3200>へ報告する",
+      "source_en": "Report to <NPC 3200>",
+      "text": "Berichte „<NPC 3200>“."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

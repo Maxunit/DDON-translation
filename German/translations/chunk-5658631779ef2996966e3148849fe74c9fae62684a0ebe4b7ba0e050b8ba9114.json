@@ -1,0 +1,240 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60000001.gmd",
+  "arc_path": "\\quest\\q60000001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "今度の試練は、強敵に挑むなら\r\n必ず会得しておきたい基本戦術について、だ",
+      "source_en": "This trial is about basic tactics one must master\r\nbefore facing a strong enemy.",
+      "text": "Diesmal lernst du die Grundlagen,\r\ndie du im Kampf gegen starke Gegner brauchst."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ファイターがいかに攻撃を決めるかが\r\n最大の勝敗要因だからな！",
+      "source_en": "How and when a Fighter decides to attack\r\nis the biggest deciding factor in any battle!",
+      "text": "Als Kämpfer musst du deine Angriffe richtig setzen.\r\nDas kann den Kampf entscheiden!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "あんたの想像通り、この試練もまた\r\n一人で挑んでもらうことになる\r\n気を引き締めてくれよ",
+      "source_en": "As you might've guessed this trial must be\r\nfaced alone, steel yourself!",
+      "text": "Du ahnst es wahrscheinlich schon. Auch diesmal\r\nmusst du allein zur Prüfung antreten. Konzentrier dich!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "じゃあ《修練の祠》に向かってくれ\r\n場所はもう、わかるだろう",
+      "source_en": "Now, head to the 'Training Chapel.'\r\nI believe you know its location.",
+      "text": "Geh zum Übungsschrein.\r\nDu weißt inzwischen, wo er liegt, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "お！？　なんか表情が違うぞ、さっきと\r\nひとまわり成長したって感じだな！",
+      "source_en": "Oh!? Your expression is different than before.\r\nIt looks like you've grown in strength a bit!",
+      "text": "Oh, du guckst ja ganz anders als vorhin.\r\nDu bist wohl wieder ein Stück stärker geworden!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ジョブの試練は、いつでも受け付けているから\r\n転職したときは挑戦してほしい",
+      "source_en": "Job trials can be accepted any time,\r\ntry them out when you switch jobs.",
+      "text": "Die Klassenprüfungen stehen dir jederzeit offen.\r\nProbier sie aus, wenn du die Klasse wechselst."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "あんたの活躍、俺も応援してるからさ！",
+      "source_en": "I'll be rooting for your success!",
+      "text": "Viel Erfolg! Ich drück dir die Daumen!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "試練は《修練の祠》で行う\r\nさあ、向かってくれ",
+      "source_en": "The trial takes place at the 'Training Chapel.'\r\nHead over there now.",
+      "text": "Die Prüfung findet im Übungsschrein statt.\r\nGeh jetzt dorthin."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "まずは祠の奥へ向かい、大型敵と対峙するんだ！",
+      "source_en": "You must first face the large monster\r\ndeep within the chapel!",
+      "text": "Dring zuerst tief in den Schrein vor\r\nund stell dich dem großen Monster!"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "そして<COL ff7575><KCT TOUCH></COL>でヤツにしがみつけ！",
+      "source_en": "Now use <COL ff7575><KCT TOUCH></COL> to climb onto it!",
+      "text": "Halte dich jetzt mit <COL ff7575><KCT TOUCH></COL> am Gegner fest!"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "その状態で<COL ff7575><KCT ATTACK1></COL>でえぐり突きだ！",
+      "source_en": "While clinging, use <COL ff7575><KCT ATTACK1></COL>\r\nto gouge the beast!",
+      "text": "Halte dich fest und drücke <COL ff7575><KCT ATTACK1></COL>,\r\num Aufreißen einzusetzen!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "しがみつき中に黄色いマークが出たら、<COL ff7575><KCT TOUCH>長押し</COL>で耐えろ！成功するまで何度もやってみるんだ",
+      "source_en": "If a yellow mark appears while climbing,\r\nhold <COL ff7575><KCT TOUCH></COL> to endure.\r\nKeep trying until you succeed.",
+      "text": "Erscheint beim Festhalten das gelbe Symbol,\r\nhalte <COL ff7575><KCT TOUCH></COL> gedrückt, damit er dich nicht abwirft.\r\nVersuch es, bis es klappt!"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "しがみつき中に赤いマークが出たら危険だ！<COL ff7575><KCT JUMP></COL>でジャンプし、すぐ離脱しろ！",
+      "source_en": "A red mark when climbing means danger!\r\nJump with <COL ff7575><KCT JUMP></COL> to retreat quickly!",
+      "text": "Das rote Symbol warnt vor Gefahr!\r\nSpring sofort mit <COL ff7575><KCT JUMP></COL> ab!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "攻撃し、ヤツを怒らせるんだ。怒った敵は体が赤く輝くぞ！",
+      "source_en": "As you attack, you'll gain its ire.\r\nAn angry enemy's body glows red!",
+      "text": "Greif an und versetz ihn in Rage.\r\nWenn er in Rage gerät, leuchtet sein Körper rot!"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "覚者とは試練に臆することなく立ち向かい\r\nその使命を全うする者のことだ",
+      "source_en": "An Arisen is one who faces trials\r\nand fulfills their duty without fear.",
+      "text": "Ein Erweckter stellt sich jeder Prüfung ohne Furcht\r\nund erfüllt seine Aufgabe."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "今度は大型敵との戦いに挑む試練だ\r\nその大型敵を倒した者のみ\r\n《破攻の証》を得ることができる――",
+      "source_en": "This trial challenges you to fight a large enemy.\r\nOnly those who defeat it can gain\r\nthe Proof of Might...",
+      "text": "Diesmal stellst du dich einem großen Gegner.\r\nDas Zeichen des Durchbruchs erhältst du nur,\r\nwenn du ihn besiegst."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "知識として《大型敵との戦い》について教えておく\r\nやり方がわからなければ確認して臨むといい",
+      "source_en": "I'll teach you about 'Fighting Large Enemies.'\r\nReview the information before you head out.",
+      "text": "Ich zeige dir, wie du gegen große Gegner kämpfst.\r\nWenn du unsicher bist, lies es vor dem Aufbruch noch einmal nach."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "共闘の兵とともに行くがいい\r\n証を手にするのだ、覚者よ！",
+      "source_en": "Go now with your allied soldiers.\r\nClaim the proof, Arisen!",
+      "text": "Zieh mit den Soldaten los, die dir zur Seite stehen.\r\nHol dir das Zeichen, Erweckter!"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT TOUCH></COL>でヤツにしがみつき、",
+      "source_en": "Use <COL ff7575><KCT TOUCH></COL> to climb onto the enemy!",
+      "text": "Halte dich mit <COL ff7575><KCT TOUCH></COL> am Gegner fest!"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT CLIMB_JOLT></COL>で揺さぶり、疲れさせろ！敵スタミナゲージを減らすんだ",
+      "source_en": "Shake with <COL ff7575><KCT CLIMB_JOLT></COL>\r\nto reduce its stamina gauge.",
+      "text": "Rüttle mit <COL ff7575><KCT CLIMB_JOLT></COL> am Gegner,\r\nbis seine Ausdauerleiste leer ist!"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "よし、その調子だ。一気に仕留めてしまえ！敵が怒ったら疲れさせ、ダウンを奪うんだ。覚えておけよ！",
+      "source_en": "Good, that's it! Let's finish it off! \r\nWhen it's angry, exhaust it to knock it down.\r\nRemember that!",
+      "text": "Gut, weiter so! Jetzt bring’s zu Ende!\r\nBring einen Gegner in Rage zum Ermüden, bis er zu Boden geht.\r\nMerk dir das!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "今度は大型敵との戦いに挑む試練だ\r\nその大型敵を倒した者のみ\r\n《破攻の証》を得ることができる――",
+      "source_en": "This trial challenges you to fight a large enemy.\r\nOnly those who defeat it can gain\r\nthe Proof of Might...",
+      "text": "Diesmal stellst du dich einem großen Gegner.\r\nDas Zeichen des Durchbruchs erhältst du nur,\r\nwenn du ihn besiegst."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "知識として《大型敵との戦い》について教えておく\r\nやり方がわからなければ確認して臨むといい",
+      "source_en": "I'll teach you about 'Fighting Large Enemies.'\r\nReview the information before you head out.",
+      "text": "Ich zeige dir, wie du gegen große Gegner kämpfst.\r\nWenn du unsicher bist, lies es vor dem Aufbruch noch einmal nach."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "試練は始まっている\r\n臆せず深部を目指せ、覚者よ！",
+      "source_en": "The trial has begun.\r\nGo forth without fear, Arisen!",
+      "text": "Die Prüfung hat begonnen.\r\nDring ohne Furcht tiefer vor, Erweckter!"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "試練完了、よくやったな！奥にある＜破攻の証＞を受け取り、神殿のレンテンに報告するがいい",
+      "source_en": "Trial complete well done!\r\nTake the 'Proof of Might' inside\r\nand report to Renton at the temple.",
+      "text": "Gut gemacht! Die Prüfung ist bestanden.\r\nHol das Zeichen des Durchbruchs am Ende des Schreins ab\r\nund erstatte Renton im Tempel Bericht."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "おめでとう、覚者よ\r\nこれにて戦術試練は完了だ！",
+      "source_en": "Congratulations, Arisen.\r\nThe tactical trial is now complete!",
+      "text": "Glückwunsch, Erweckter!\r\nDu hast die Taktikprüfung bestanden!"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "今覚えた大型敵との戦い方を\r\n振り返りたい時は、《チュートリアルガイド》の\r\n《冒険の基礎知識》から《大型敵との戦い》\r\nを確認するんだ",
+      "source_en": "To review how to fight large monsters, find\r\n'Adventuring Basics' -> 'Fighting Large Enemies'\r\nin the 'Tutorial.'",
+      "text": "Wenn du nachlesen möchtest, wie man gegen große Gegner kämpft,\r\nöffne die Tutorialübersicht.\r\nUnter „Abenteuergrundlagen“ findest du „Kampf gegen große Gegner“."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "あとは場数をこなして実力をつけるだけだな\r\nがんばれよ",
+      "source_en": "Now just gain experience through practice.\r\nGood luck!",
+      "text": "Jetzt heißt es üben und Erfahrung sammeln.\r\nViel Erfolg!"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "《破攻の証》、よくぞ得た！\r\n強大な敵に怯まぬ戦技、勇気とともに活かすのだ\r\n神殿に戻りレンテンに報告するがいい、覚者よ！",
+      "source_en": "A well-earned 'Proof of Might!'\r\nWield these skills against your foes with courage.\r\nReturn to the Temple and report to Renton, Arisen!",
+      "text": "Das Zeichen des Durchbruchs hast du dir verdient!\r\nSetz deine Techniken mutig gegen starke Gegner ein.\r\nKehre zum Tempel zurück und erstatte Renton Bericht, Erweckter!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q61000003_00.gmd",
+  "arc_path": "\\quest\\q61000003.arc",
+  "entries": [
+    {
+      "key": "q61000003_00_360",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "竜スキル解放PQ③",
+      "source_en": "Unlocking Dragon Skills",
+      "text": "Drachenfähigkeiten freischalten"
+    },
+    {
+      "key": "q61000003_00_360",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ソニアから何か話があるそうだ（仮）",
+      "source_en": "There seems to be something to talk about \r\nwith Sonia (tentative)",
+      "text": "Sonia hat dir etwas\r\nzu sagen. (vorläufig)"
+    },
+    {
+      "key": "q61000003_00_5124",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "竜スキル合体さんから竜スキル合成の詳細を聞く（仮）",
+      "source_en": "Hear about the details of Dragon Skill Coalescence (tentative)",
+      "text": "Lass dir erklären, wie du Drachenfähigkeiten kombinierst. (vorläufig)"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

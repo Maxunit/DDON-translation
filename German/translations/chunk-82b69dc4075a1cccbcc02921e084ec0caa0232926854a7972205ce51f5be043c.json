@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50209000_00.gmd",
+  "arc_path": "\\quest\\q50209000.arc",
+  "entries": [
+    {
+      "key": "q50209000_00_50",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【１周年記念】 白竜杯",
+      "source_en": "1st Anniversary: White Dragon Cup",
+      "text": "Pokal des Weißen Drachen zum ersten Jubiläum"
+    },
+    {
+      "key": "q50209000_00_50",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n研磨されし己が力をもって\r\n集う脅威を切り伏せよ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nPolish your own strength,\r\nand overcome the gathering menace.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nNutzt alles, was ihr gelernt habt,\r\nund besiegt die Monster, die sich hier sammeln!"
+    },
+    {
+      "key": "q50209000_00_2072",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "制限時間内に現れる敵を全滅する",
+      "source_en": "Annihilate all enemies that appear within the time limit",
+      "text": "Besiegt alle Gegner, die vor Ablauf der Zeit erscheinen."
+    },
+    {
+      "key": "q50209000_00_2073",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "最後の敵を討伐する",
+      "source_en": "Defeat the final enemy",
+      "text": "Besiegt den letzten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -3,12 +3,364 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "SPOT_NAME_1144",
+      "read_index": "607",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 祠 第二の間",
+      "source_en": "Epitaph Road Shrine: 2nd Room",
+      "text": "Pfad der Heldengeister – Schrein, Saal II"
+    },
+    {
+      "key": "SPOT_NAME_1145",
+      "read_index": "608",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 祠 第三の間",
+      "source_en": "Epitaph Road Shrine: 3rd Room",
+      "text": "Pfad der Heldengeister – Schrein, Saal III"
+    },
+    {
+      "key": "SPOT_NAME_1146",
+      "read_index": "609",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 祠 第四の間",
+      "source_en": "Epitaph Road Shrine: 4th Room",
+      "text": "Pfad der Heldengeister – Schrein, Saal IV"
+    },
+    {
+      "key": "SPOT_NAME_1147",
+      "read_index": "610",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 通路",
+      "source_en": "Epitaph Road Cave: Passage",
+      "text": "Pfad der Heldengeister – Höhle, Durchgang"
+    },
+    {
+      "key": "SPOT_NAME_1148",
+      "read_index": "611",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 第一の間",
+      "source_en": "Epitaph Road Cave: 1st Room",
+      "text": "Pfad der Heldengeister – Höhle, Saal I"
+    },
+    {
+      "key": "SPOT_NAME_1149",
+      "read_index": "612",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 第二の間",
+      "source_en": "Epitaph Road Cave: 2nd Room",
+      "text": "Pfad der Heldengeister – Höhle, Saal II"
+    },
+    {
+      "key": "SPOT_NAME_1150",
+      "read_index": "613",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 第三の間",
+      "source_en": "Epitaph Road Cave: 3rd Room",
+      "text": "Pfad der Heldengeister – Höhle, Saal III"
+    },
+    {
+      "key": "SPOT_NAME_1151",
+      "read_index": "614",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 第四の間",
+      "source_en": "Epitaph Road Cave: 4th Room",
+      "text": "Pfad der Heldengeister – Höhle, Saal IV"
+    },
+    {
+      "key": "SPOT_NAME_1152",
+      "read_index": "615",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 深層",
+      "source_en": "Epitaph Road Cave Depths",
+      "text": "Pfad der Heldengeister – Tiefen der Höhle"
+    },
+    {
+      "key": "SPOT_NAME_1153",
+      "read_index": "616",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 深層 第一の間",
+      "source_en": "Epitaph Road Cave Depths: 1st Room",
+      "text": "Pfad der Heldengeister – Tiefen der Höhle, Saal I"
+    },
+    {
+      "key": "SPOT_NAME_1154",
+      "read_index": "617",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 深層 第二の間",
+      "source_en": "Epitaph Road Cave Depths: 2nd Room",
+      "text": "Pfad der Heldengeister – Tiefen der Höhle, Saal II"
+    },
+    {
+      "key": "SPOT_NAME_1155",
+      "read_index": "618",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 深層 第三の間",
+      "source_en": "Epitaph Road Cave Depths: 3rd Room",
+      "text": "Pfad der Heldengeister – Tiefen der Höhle, Saal III"
+    },
+    {
+      "key": "SPOT_NAME_1156",
+      "read_index": "619",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 深層 第四の間",
+      "source_en": "Epitaph Road Cave Depths: 4th Room",
+      "text": "Pfad der Heldengeister – Tiefen der Höhle, Saal IV"
+    },
+    {
+      "key": "SPOT_NAME_1157",
+      "read_index": "620",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 水路 脇道",
+      "source_en": "Epitaph Road Waterway: Byway",
+      "text": "Pfad der Heldengeister – Wasserweg, Seitengang"
+    },
+    {
+      "key": "SPOT_NAME_1158",
+      "read_index": "621",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 水路 第一の間",
+      "source_en": "Epitaph Road Waterway: 1st Room",
+      "text": "Pfad der Heldengeister – Wasserweg, Saal I"
+    },
+    {
+      "key": "SPOT_NAME_1159",
+      "read_index": "622",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 水路 第二の間",
+      "source_en": "Epitaph Road Waterway: 2nd Room",
+      "text": "Pfad der Heldengeister – Wasserweg, Saal II"
+    },
+    {
+      "key": "SPOT_NAME_1160",
+      "read_index": "623",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 水路 第三の間",
+      "source_en": "Epitaph Road Waterway: 3rd Room",
+      "text": "Pfad der Heldengeister – Wasserweg, Saal III"
+    },
+    {
+      "key": "SPOT_NAME_1161",
+      "read_index": "624",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 水路 第四の間",
+      "source_en": "Epitaph Road Waterway: 4th Room",
+      "text": "Pfad der Heldengeister – Wasserweg, Saal IV"
+    },
+    {
+      "key": "SPOT_NAME_1162",
+      "read_index": "625",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 深層 脇道",
+      "source_en": "Epitaph Road Cave Depths: Byway",
+      "text": "Pfad der Heldengeister – Tiefen der Höhle, Seitengang"
+    },
+    {
+      "key": "SPOT_NAME_1163",
+      "read_index": "626",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 祠 石像の間",
+      "source_en": "Epitaph Road Shrine: Statue Room",
+      "text": "Pfad der Heldengeister – Schrein, Statuensaal"
+    },
+    {
+      "key": "SPOT_NAME_1164",
+      "read_index": "627",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 石像の間",
+      "source_en": "Epitaph Road Cave: Statue Room",
+      "text": "Pfad der Heldengeister – Höhle, Statuensaal"
+    },
+    {
+      "key": "SPOT_NAME_1165",
+      "read_index": "628",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 洞窟 深層 石像の間",
+      "source_en": "Epitaph Road Cave Depths: Statue Room",
+      "text": "Pfad der Heldengeister – Tiefen der Höhle, Statuensaal"
+    },
+    {
+      "key": "SPOT_NAME_1166",
+      "read_index": "629",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 水路 石像の間",
+      "source_en": "Epitaph Road Waterway: Statue Room",
+      "text": "Pfad der Heldengeister – Wasserweg, Statuensaal"
+    },
+    {
+      "key": "SPOT_NAME_1167",
+      "read_index": "630",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 水路 武神の間",
+      "source_en": "Epitaph Road Waterway: War God Room",
+      "text": "Pfad der Heldengeister – Wasserweg, Halle des Kriegsgottes"
+    },
+    {
       "key": "SPOT_NAME_1168",
       "read_index": "631",
       "tag_source": "source_en",
       "source_jp": "エリ警備塔",
       "source_en": "Eli Guard Tower",
       "text": "Wachturm Eli"
+    },
+    {
+      "key": "SPOT_NAME_1169",
+      "read_index": "632",
+      "tag_source": "source_en",
+      "source_jp": "メルゴダ・黄金宮",
+      "source_en": "Mergoda Golden Palace",
+      "text": "Goldener Palast von Mergoda"
+    },
+    {
+      "key": "SPOT_NAME_1171",
+      "read_index": "634",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 遺跡",
+      "source_en": "Epitaph Road Ruins",
+      "text": "Pfad der Heldengeister – Ruinen"
+    },
+    {
+      "key": "SPOT_NAME_1172",
+      "read_index": "635",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 遺跡 通路",
+      "source_en": "Epitaph Road Ruins: Passage",
+      "text": "Pfad der Heldengeister – Ruinen, Durchgang"
+    },
+    {
+      "key": "SPOT_NAME_1173",
+      "read_index": "636",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 遺跡 螺旋回廊",
+      "source_en": "Epitaph Road Ruins: Spiral Corridor",
+      "text": "Pfad der Heldengeister – Ruinen, gewundener Gang"
+    },
+    {
+      "key": "SPOT_NAME_1174",
+      "read_index": "637",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 遺跡 第一の間",
+      "source_en": "Epitaph Road Ruins: 1st Room",
+      "text": "Pfad der Heldengeister – Ruinen, Saal I"
+    },
+    {
+      "key": "SPOT_NAME_1175",
+      "read_index": "638",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 遺跡 第二の間",
+      "source_en": "Epitaph Road Ruins: 2nd Room",
+      "text": "Pfad der Heldengeister – Ruinen, Saal II"
+    },
+    {
+      "key": "SPOT_NAME_1176",
+      "read_index": "639",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 遺跡 第三の間",
+      "source_en": "Epitaph Road Ruins: 3rd Room",
+      "text": "Pfad der Heldengeister – Ruinen, Saal III"
+    },
+    {
+      "key": "SPOT_NAME_1177",
+      "read_index": "640",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 遺跡 第四の間",
+      "source_en": "Epitaph Road Ruins: 4th Room",
+      "text": "Pfad der Heldengeister – Ruinen, Saal IV"
+    },
+    {
+      "key": "SPOT_NAME_1178",
+      "read_index": "641",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 遺跡 石像の間",
+      "source_en": "Epitaph Road Ruins: Statue Room",
+      "text": "Pfad der Heldengeister – Ruinen, Statuensaal"
+    },
+    {
+      "key": "SPOT_NAME_1179",
+      "read_index": "642",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 井戸 入口",
+      "source_en": "Epitaph Road Well: Entrance",
+      "text": "Pfad der Heldengeister – Brunnen, Eingang"
+    },
+    {
+      "key": "SPOT_NAME_1180",
+      "read_index": "643",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 井戸",
+      "source_en": "Epitaph Road Well",
+      "text": "Pfad der Heldengeister – Brunnen"
+    },
+    {
+      "key": "SPOT_NAME_1181",
+      "read_index": "644",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 井戸 通路",
+      "source_en": "Epitaph Road Well: Passage",
+      "text": "Pfad der Heldengeister – Brunnen, Durchgang"
+    },
+    {
+      "key": "SPOT_NAME_1182",
+      "read_index": "645",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 井戸 深部",
+      "source_en": "Epitaph Road Well Depths",
+      "text": "Pfad der Heldengeister – Tiefen des Brunnens"
+    },
+    {
+      "key": "SPOT_NAME_1183",
+      "read_index": "646",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 井戸 第一の間",
+      "source_en": "Epitaph Road Well: 1st Room",
+      "text": "Pfad der Heldengeister – Brunnen, Saal I"
+    },
+    {
+      "key": "SPOT_NAME_1184",
+      "read_index": "647",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 井戸 第二の間",
+      "source_en": "Epitaph Road Well: 2nd Room",
+      "text": "Pfad der Heldengeister – Brunnen, Saal II"
+    },
+    {
+      "key": "SPOT_NAME_1185",
+      "read_index": "648",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 井戸 第三の間",
+      "source_en": "Epitaph Road Well: 3rd Room",
+      "text": "Pfad der Heldengeister – Brunnen, Saal III"
+    },
+    {
+      "key": "SPOT_NAME_1186",
+      "read_index": "649",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 井戸 第四の間",
+      "source_en": "Epitaph Road Well: 4th Room",
+      "text": "Pfad der Heldengeister – Brunnen, Saal IV"
+    },
+    {
+      "key": "SPOT_NAME_1187",
+      "read_index": "650",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 井戸 石像の間",
+      "source_en": "Epitaph Road Well: Statue Room",
+      "text": "Pfad der Heldengeister – Brunnen, Statuensaal"
+    },
+    {
+      "key": "SPOT_NAME_1188",
+      "read_index": "651",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 墓所",
+      "source_en": "Epitaph Road Tomb",
+      "text": "Pfad der Heldengeister – Grabstätte"
+    },
+    {
+      "key": "SPOT_NAME_1189",
+      "read_index": "652",
+      "tag_source": "source_en",
+      "source_jp": "英霊眠りし道 墓所 通路",
+      "source_en": "Epitaph Road Tomb: Passage",
+      "text": "Pfad der Heldengeister – Grabstätte, Durchgang"
     }
   ],
   "schema_version": 1,

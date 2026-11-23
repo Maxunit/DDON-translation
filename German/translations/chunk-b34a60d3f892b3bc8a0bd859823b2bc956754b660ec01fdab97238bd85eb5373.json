@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "539",
+      "tag_source": "source_en",
+      "source_jp": "ハロウィンプチマフィン",
+      "source_en": "Halloween Petit Muffin",
+      "text": "Halloween-Mini-Muffin"
+    },
+    {
+      "key": "",
+      "read_index": "542",
+      "tag_source": "source_en",
+      "source_jp": "輝く雪の大結晶",
+      "source_en": "Sparkling Snow Large Crystal",
+      "text": "Großer funkelnder Schneekristall"
+    },
+    {
+      "key": "",
+      "read_index": "559",
+      "tag_source": "source_en",
+      "source_jp": "手編みのニット",
+      "source_en": "Hand-knitted knitwear",
+      "text": "Handgestricktes"
+    },
+    {
+      "key": "",
+      "read_index": "560",
+      "tag_source": "source_en",
+      "source_jp": "ロマンチックな手紙",
+      "source_en": "Romantic Letter",
+      "text": "Liebesbrief"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

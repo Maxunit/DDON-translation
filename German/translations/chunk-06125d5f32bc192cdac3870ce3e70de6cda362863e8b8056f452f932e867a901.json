@@ -1,0 +1,240 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60000009.gmd",
+  "arc_path": "\\quest\\q60000009.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《闘波の魔眼》で敵を捉えよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Lock onto the enemy with \r\nMagick Eye: Seeker.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Nimm den Gegner\r\nmit dem Angriffsblick ins Visier.“"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_SUB_WEP>を押す」",
+      "source_en": "\"Press <ICON STG_SUB_WEP>.\"",
+      "text": "„Drücke <ICON STG_SUB_WEP>.“"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "「複数の攻撃対象を確定させる技だ\r\n　構え中に、攻撃したい敵を魔道照準でなぞれ」",
+      "source_en": "\"A technique to lock onto multiple targets.\r\n While aiming, look at enemies you wish to \r\n attack with the magick targeting reticle.\"",
+      "text": "„Mit der Technik erfasst du mehrere Ziele.\r\nFühre das Fadenkreuz des Magiebogens\r\nüber die Gegner, die du angreifen willst.“"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《助真の魔眼》で味方を捉えよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Lock onto your ally with Magick Eye: True Aid.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Nimm einen Verbündeten mit dem Magieauge der wahren Hilfe ins Visier.“"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_MAIN_WEP>を押す」",
+      "source_en": "\"Press <ICON STG_MAIN_WEP>.\"",
+      "text": "„Drücke <ICON STG_MAIN_WEP>.“"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "「複数の回復対象を確定させる技だ\r\n　構え中に、回復させたい味方を魔道照準でなぞれ」",
+      "source_en": "\"A technique to lock onto multiple targets.\r\n While aiming, look at allies you wish to \r\n heal with the magick targeting reticle.\"",
+      "text": "„Mit der Technik erfasst du mehrere Ziele.\r\nFühre das Fadenkreuz des Magiebogens\r\nüber die Verbündeten, die du heilen willst.“"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "《魔弓の証》を手に入れた！",
+      "source_en": "You have obtained the [Element Archer's Mark]!",
+      "text": "Du hast das Zeichen des Magiebogens erhalten!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《闘波の矢》で敵を攻撃せよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Attack the enemy with Seeker Arrow.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Greif den Gegner mit einem Angriffspfeil an.“"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_SUB_WEP>を押しながら<STG_SHOT>\r\n　または<STG_SHOT>を押す」",
+      "source_en": "\"Press <STG_SHOT> or \r\n<STG_SHOT> while holding down <ICON STG_SUB_WEP>\"",
+      "text": "„Drücke <STG_SHOT>\r\noder <STG_SHOT>, während du <ICON STG_SUB_WEP> gedrückt hältst.“"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "「複数の攻撃対象を狙い魔矢で射る技だ\r\n　捉えた敵の数が多いほど威力は上昇する」",
+      "source_en": "\"A technique that shoots multiple targets\r\nwith magick arrows. The more enemies struck,\r\nthe greater its power becomes.\"",
+      "text": "„Damit beschießt du mehrere Ziele mit Magiepfeilen.\r\nJe mehr Gegner du erfasst,\r\ndesto stärker werden die Pfeile.“"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《助真の矢》を味方に当てよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Hit your ally with True Aid Arrow.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Triff einen Verbündeten mit einem Hilfspfeil.“"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_MAIN_WEP>を押しながら<STG_SHOT>\r\n　または<STG_SHOT>を押す」",
+      "source_en": "\"Press <STG_SHOT> or \r\n<STG_SHOT> while holding down <ICON STG_MAIN_WEP>.\"",
+      "text": "„Drücke <STG_SHOT>\r\noder <STG_SHOT>, während du <ICON STG_MAIN_WEP> gedrückt hältst.“"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "「照準で捉えた味方を回復させる技だ\r\n　捉えた数が多いほど回復量が上昇する」",
+      "source_en": "\"A technique that heals allies locked \r\n in the sights. The more targets locked, \r\n the greater the recovery amount.\"",
+      "text": "„Damit heilst du die Verbündeten,\r\ndie du ins Visier genommen hast.\r\nJe mehr du erfasst, desto stärker ist die Heilung.“"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《癒しの装》を成功させよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Successfully activate Healing Shroud.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Aktiviere den Heilschleier.“"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_ATTACK_1>を押す」",
+      "source_en": "\"Press <ICON STG_ATTACK_1>.\"",
+      "text": "„Drücke <ICON STG_ATTACK_1>.“"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "「癒しの装を発動させる事で\r\n　自身の体力を癒すことができる」",
+      "source_en": "\"Activating the Healing Shroud allows\r\nyou to restore your own Health Points.\"",
+      "text": "„Mit dem Heilschleier\r\nstellst du deine eigenen LP wieder her.“"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《魔眼》で敵を捕捉したまま集中し、\r\n　ジャストタイミングで放て」",
+      "source_en": "Teachings carved by someone emerge—\r\n\r\n\"Concentrate on the enemy with Magick Eye, \r\nand release with perfect timing.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Behalte den Gegner mit dem Magieauge im Visier\r\nund schieß im richtigen Moment.“"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "「敵に<ICON STG_SUB_WEP>を押しながら\r\n　集中ゲージが上がるのを待ち、ゲージが\r\n　２周目満了のタイミングを狙って魔矢を放て」",
+      "source_en": "\"Hold <ICON STG_SUB_WEP> on the enemy and wait for the\r\nfocus gauge to rise. Time your magick arrow\r\nwhen the gauge completes its second cycle.\"",
+      "text": "„Halte <ICON STG_SUB_WEP> gedrückt und behalte den Gegner im Visier.\r\nWarte, bis sich deine Konzentrationsanzeige\r\nzum zweiten Mal gefüllt hat. Schieß dann den Magiepfeil ab.“"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "「闘波の矢であれば攻撃力が上昇し、\r\n　助真の矢であれば味方への回復力が上昇する」",
+      "source_en": "\"The Seeker Arrow boosts attack power, while\r\nthe True Aid Arrow enhances\r\nhealing for allies.\"",
+      "text": "„So richtet der Angriffspfeil mehr Schaden an.\r\nBeim Hilfspfeil erhöht sich\r\ndie Heilung für deine Verbündeten.“"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "「また、魔眼で捉えた敵の数が多いほど\r\n　ゲージの上昇速度は上がる」",
+      "source_en": "\"Additionally, the more foes you target \r\nwith your Magick Eye, \r\nthe faster the gauge will increase.\"",
+      "text": "„Je mehr Gegner du mit dem Magieauge erfasst,\r\ndesto schneller füllt sich\r\ndie Konzentrationsanzeige.“"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「コアポイント検索を成功させよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Successfully unmask the foes weakness.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Leg den verborgenen Kern des Gegners frei.“"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "「大型敵に<ICON STG_MAIN_WEP>を押して\r\n　詠唱カーソル内にとらえる」",
+      "source_en": "\"Hold <ICON STG_MAIN_WEP> at the large foe to\r\n capture it within your targeting reticle.\"",
+      "text": "„Halte <ICON STG_MAIN_WEP> gedrückt\r\nund nimm den großen Gegner ins Visier.“"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "「大型敵に敵の弱点を\r\n　あぶり出す事ができる」",
+      "source_en": "\"You can expose the weak points\r\nof large enemies.\"",
+      "text": "„Damit legst du die Schwachstellen\r\ngroßer Gegner frei.“"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「敵に零距離射撃を成功させよ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Successfully execute a \r\npoint-blank shot on the enemy.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Triff den Gegner\r\naus nächster Nähe.“"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "「しがみつき中に<ICON STG_ATTACK_0>を押す」",
+      "source_en": "\"Press <ICON STG_ATTACK_0> while clinging.\"",
+      "text": "„Drücke <ICON STG_ATTACK_0>, während du dich festhältst.“"
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "「大きな敵の場合、しがみついた状態の\r\n　至近距離において攻撃も可能である」",
+      "source_en": "\"For large enemies, attacks are possible even\r\nat point-blank range while clinging to them.\"",
+      "text": "„Du kannst große Gegner aus nächster Nähe treffen,\r\nwenn du dich an ihnen festhältst.“"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "何者かが刻んだ教えの言葉が浮かび上がっている――\r\n「《前蹴り》で敵を蹴り離せ」",
+      "source_en": "Teachings carved by someone emerge―\r\n\r\n\"Kick the enemy away with a Front Kick.\"",
+      "text": "Auf der Inschrift werden Worte sichtbar …\r\n\r\n„Stoß den Gegner mit einem Tritt nach vorn zurück.“"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "「<ICON STG_ATTACK_0>を押す」",
+      "source_en": "\"Press <ICON STG_ATTACK_0>.\"",
+      "text": "„Drücke <ICON STG_ATTACK_0>.“"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "「威力は弱いが、接近した敵から素早く離れられる\r\n　弓攻撃に有利な間合いを調整できる」",
+      "source_en": "\"Weak in power, but allows quick retreat\r\nfrom close enemies. Adjust your distance\r\nto gain an advantage for ranged attacks.\"",
+      "text": "„Der Tritt richtet wenig Schaden an,\r\nverschafft dir aber schnell Abstand.\r\nSo findest du die richtige Entfernung für den Bogen.“"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

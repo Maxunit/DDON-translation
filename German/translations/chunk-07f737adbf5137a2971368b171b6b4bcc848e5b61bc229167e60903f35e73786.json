@@ -3,12 +3,28 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "SPOT_NAME_1245",
+      "read_index": "705",
+      "tag_source": "source_en",
+      "source_jp": "城塞都市メガド 旧英霊廟前",
+      "source_en": "Fortress City Megado: Before Old Epitaph Road Shrine",
+      "text": "Festungsstadt Megado – Vor dem alten Heldenschrein"
+    },
+    {
       "key": "SPOT_NAME_1270",
       "read_index": "730",
       "tag_source": "source_en",
       "source_jp": "城塞都市メガド 王宮層 玉座",
       "source_en": "Megado: Royal Palace Level Throne",
       "text": "Megado – Palastebene: Thronsaal"
+    },
+    {
+      "key": "SPOT_NAME_1272",
+      "read_index": "732",
+      "tag_source": "source_en",
+      "source_jp": "大地の記憶 メガドシス古道 脇道",
+      "source_en": "Memory of Megadosys Old Road: Byway",
+      "text": "Erinnerung des Landes – Alter Weg von Megadosys, Seitengang"
     },
     {
       "key": "SPOT_NAME_1282",
@@ -49,6 +65,14 @@
       "source_jp": "王家の墓前",
       "source_en": "Before the Tomb of the Royal Family",
       "text": "Vor der Grabstätte des Königshauses"
+    },
+    {
+      "key": "SPOT_NAME_1288",
+      "read_index": "748",
+      "tag_source": "source_en",
+      "source_jp": "旧英霊廟",
+      "source_en": "Old Epitaph Road Shrine",
+      "text": "Alter Heldenschrein"
     },
     {
       "key": "SPOT_NAME_1291",

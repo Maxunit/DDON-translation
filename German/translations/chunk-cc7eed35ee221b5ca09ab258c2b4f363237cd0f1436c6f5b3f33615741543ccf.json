@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60319011.gmd",
+  "arc_path": "\\quest\\q60319011.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "――未知の魔物が出現した！",
+      "source_en": "...The unknown monster has appeared!",
+      "text": "Das unbekannte Monster ist aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "――異形の魔物に逃げられた！",
+      "source_en": "...The strange monster has escaped!",
+      "text": "Das seltsame Monster ist entkommen!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

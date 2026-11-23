@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300062_00.gmd",
+  "arc_path": "\\quest\\q60300062.arc",
+  "entries": [
+    {
+      "key": "q60300062_00_281",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【参謀日課】盗賊アジト　情報収集",
+      "source_en": "[Daily Council] Bandit Hideout - Collect Information",
+      "text": "[Strategie täglich] Versteck der Diebe – Informationen sammeln"
+    },
+    {
+      "key": "q60300062_00_281",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から復興に関する\r\n問題解決に挑む",
+      "source_en": "Tackle the issue related to reconstruction,\r\nas presented by the requester",
+      "text": "Hilf dem Auftraggeber\r\nbei seiner Aufgabe zum Wiederaufbau."
+    },
+    {
+      "key": "q60300062_00_3552",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<STG 1001> で<NPC 582>と待ち合わせる",
+      "source_en": "Meet at <STG 1001> with <NPC 582>",
+      "text": "Geh zu „<STG 1001>“ und triff dich mit <NPC 582>."
+    },
+    {
+      "key": "q60300062_00_3553",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "行方不明になった盗賊仲間を探しに向かう",
+      "source_en": "Head out to search for the missing thief",
+      "text": "Suche nach dem vermissten Dieb."
+    },
+    {
+      "key": "q60300062_00_3554",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "敵を討伐する",
+      "source_en": "Defeat the enemy",
+      "text": "Besiege den Gegner."
+    },
+    {
+      "key": "q60300062_00_3555",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 600>の様子を確認する",
+      "source_en": "Confirm the condition of <NPC 600>",
+      "text": "Sieh nach, wie es <NPC 600> geht."
+    },
+    {
+      "key": "q60300062_00_3556",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "新たに襲撃にきた敵を討伐する",
+      "source_en": "Defeat the newly attacking enemy",
+      "text": "Besiege die herbeigeeilte Verstärkung."
+    },
+    {
+      "key": "q60300062_00_3557",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<STG 1001> に戻り<NPC 582>に報告する",
+      "source_en": "Return to <STG 1001> and report to <NPC 582>",
+      "text": "Kehre zu „<STG 1001>“ zurück und erstatte <NPC 582> Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

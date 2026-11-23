@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\named\\named_param.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "namedparam_431",
+      "read_index": "243",
+      "tag_source": "source_en",
+      "source_jp": "幻影牙竜",
+      "source_en": " Phantom Tusk Dragon ",
+      "text": " Phantom-Fangzahndrache "
+    },
+    {
+      "key": "namedparam_432",
+      "read_index": "244",
+      "tag_source": "source_en",
+      "source_jp": "幻影魔竜",
+      "source_en": " Phantom Devil Dragon ",
+      "text": " Phantom-Dämonendrache "
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

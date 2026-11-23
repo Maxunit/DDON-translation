@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50203000.gmd",
+  "arc_path": "\\quest\\q50203000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "凶暴な魔物を討伐した――",
+      "source_en": "Ferocious monster defeated!",
+      "text": "Das wilde Monster ist besiegt!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "魔物が<SPOT 877>村に向かって走り去った――",
+      "source_en": "The monster has fled toward <SPOT 877>Village.",
+      "text": "Das Monster ist in Richtung des Dorfes „<SPOT 877>“ geflohen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "村人避難の支援に成功――タイムボーナス獲得！",
+      "source_en": "Villagers evacuated! Time Bonus acquired!",
+      "text": "Die Dorfbewohner sind in Sicherheit! Ihr habt zusätzliche Zeit erhalten!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 501>が苦戦している――",
+      "source_en": "<NPC 501> is struggling...",
+      "text": "„<NPC 501>“ ist in Bedrängnis …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 13>が苦戦している――",
+      "source_en": "<NPC 13> is struggling...",
+      "text": "„<NPC 13>“ ist in Bedrängnis …"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 21>が苦戦している――",
+      "source_en": "<NPC 21> is struggling...",
+      "text": "„<NPC 21>“ ist in Bedrängnis …"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "加勢して撃退するとタイムボーナス",
+      "source_en": "Assist in repelling it for a Time Bonus.",
+      "text": "Helft, das Monster zurückzuschlagen, um zusätzliche Zeit zu erhalten."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "タイムボーナス獲得に失敗",
+      "source_en": "Failed to obtain the Time Bonus.",
+      "text": "Ihr habt keine zusätzliche Zeit erhalten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60320013_00.gmd",
+  "arc_path": "\\quest\\q60320013.arc",
+  "entries": [
+    {
+      "key": "q60320013_00_339",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【ベルセルク】因果の流れの中に――",
+      "source_en": "[Berserk] In the Flow of Causality...",
+      "text": "[Berserk] Im Strom der Kausalität …"
+    },
+    {
+      "key": "q60320013_00_339",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿にいるウィルソンから\r\n突如現れた物体についての噂を聞き\r\n詳細を調べる",
+      "source_en": "Ask Wilson at the White Dragon Temple\r\nabout the recent appearance of the object",
+      "text": "Frag Wilson im Tempel des Weißen Drachen nach dem Gegenstand,\r\nder plötzlich aufgetaucht ist, und finde mehr darüber heraus."
+    },
+    {
+      "key": "q60320013_00_4649",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "《廃屋の地下室》にいる野盗を探す",
+      "source_en": "Search for the Bandit in the Abandoned House Cellar",
+      "text": "Suche den Banditen im Keller des verlassenen Hauses."
+    },
+    {
+      "key": "q60320013_00_4650",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "出くわした野盗を倒す",
+      "source_en": "Defeat the encountered brigand",
+      "text": "Besiege den Banditen, auf den du triffst."
+    },
+    {
+      "key": "q60320013_00_4651",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "野盗が落としたアイテムを手に入れる",
+      "source_en": "Get items dropped by thieves",
+      "text": "Heb auf, was die Banditen fallen gelassen haben."
+    },
+    {
+      "key": "q60320013_00_4652",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "入手した《ベヘリット》についてウィルソンへ報告する",
+      "source_en": "Report to Wilson about the \"Behelit\" you have obtained",
+      "text": "Berichte Wilson von dem Behelit, das du gefunden hast."
+    },
+    {
+      "key": "q60320013_00_4653",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "グレゴリーに《ベヘリット》についての情報を聞く",
+      "source_en": "Ask Gregory for information about \"Behelit\"",
+      "text": "Frage Gregory nach dem Behelit."
+    },
+    {
+      "key": "q60320013_00_4654",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿の竜の礎近くで「鷹の団」とチャットでつぶやく",
+      "source_en": "Use chat to say \"Band of the Hawk\" near the Dragon's Portcrystal in the White Dragon Temple",
+      "text": "Gib beim Drachen-Zielkristall im Tempel des Weißen Drachen im Chatkanal „Sagen“ „Band of the Hawk“ ein."
+    },
+    {
+      "key": "q60320013_00_4655",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "中央広場で「鷹の団」とチャットでつぶやく",
+      "source_en": "Use chat to say \"Band of the Hawk\" in the plaza",
+      "text": "Gib auf dem Zentralplatz im Chatkanal „Sagen“ „Band of the Hawk“ ein."
+    },
+    {
+      "key": "q60320013_00_4656",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "酒場で「鷹の団」とチャットでつぶやく",
+      "source_en": "Use chat to say \"Band of the Hawk\" in the tavern",
+      "text": "Gib in der Taverne im Chatkanal „Sagen“ „Band of the Hawk“ ein."
+    },
+    {
+      "key": "q60320013_00_4657",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "グレゴリーと再度話す",
+      "source_en": "Speak to Gregory again",
+      "text": "Sprich noch einmal mit Gregory."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

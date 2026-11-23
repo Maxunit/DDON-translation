@@ -1,0 +1,100 @@
+{
+  "gmd_path": "ui\\00_message\\event\\st0201\\ev103.gmd",
+  "arc_path": "\\event\\st0201\\st0201ev103.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ふむ――実は、お前にぜひとも調べてもらいたい\r\nことがあってな",
+      "source_en": "Hmm—actually, there's something I really need you\r\nto investigate.",
+      "text": "Hm … Es gibt da etwas,\r\ndem du für mich nachgehen sollst."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "\"竜王の指輪\"――\r\nその魔器の名を聞いたことがあるか？",
+      "source_en": "Have you heard of the magick artifact known as the\r\nWyrmking's Ring?",
+      "alternate_sources": [
+        {
+          "source_jp": "\"竜王の指輪\"――その魔器の名を聞いたことがあるか？",
+          "source_en": "Have you heard of the magick artifact known as the\r\nWyrmking's Ring?"
+        }
+      ],
+      "text": "Hast du schon einmal\r\nvom Ring des Drachenkönigs gehört?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "かつて、大陸に覚者が一人だった時代――\r\n代々受け継いできた強い竜力を秘めた指輪だ　",
+      "source_en": "In an era when there was but a single Arisen on\r\nthe continent—\r\nIt is a ring that conceals a potent Dragon Force,\r\npassed down through generations.",
+      "text": "Einst gab es nur einen Erweckten auf dem ganzen Kontinent.\r\nAus jener Zeit stammt dieser Ring.\r\nEr wurde von Generation zu Generation weitergegeben\r\nund birgt gewaltige Drachenkraft."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "それは３００年以上前、邪なる者により失われた\r\nはずだった",
+      "source_en": "It should have been lost to the evil one over 300\r\nyears ago!",
+      "text": "Vor über dreihundert Jahren\r\nsoll er durch die Tat eines Frevlers verloren gegangen sein."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "だがその指輪の存在について、ミシアルは懸念を\r\n持っていたようでな",
+      "source_en": "However, it seemed that Mysial had concerns about\r\nthe existence of that ring.",
+      "text": "Doch Mysial war sich offenbar nicht sicher,\r\nob der Ring wirklich verschwunden ist."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "その存在を、幽かに感じると――",
+      "source_en": "And to faintly sense its presence...",
+      "text": "Sie sagte, sie könne ihn noch schwach spüren …"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "どうも嫌な予感が拭えん\r\nそこで、お前に調査を頼みたいのだ",
+      "source_en": "I can't shake a bad feeling about this.\r\nSo, I need you to do some research for me.",
+      "text": "Ich werde das ungute Gefühl nicht los.\r\nDarum sollst du der Sache nachgehen."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "指輪にかつて力を注がれた３つの地\r\n\"竜力の渦\"と呼ばれる場所を",
+      "source_en": "There are three places where the power was once\r\npoured into the ring, called the \"Whirls of Dragon\r\nForce.\"",
+      "alternate_sources": [
+        {
+          "source_jp": "\"指輪にかつて力を注がれた３つの地\r\n\"竜力の渦\"と呼ばれる場所を\"",
+          "source_en": "There are three places where the power was once\r\npoured into the ring, called the \"Whirls of Dragon\r\nForce.\""
+        }
+      ],
+      "text": "Es gibt drei Orte, an denen einst\r\nDrachenkraft in den Ring geleitet wurde.\r\nMan nennt sie die Wirbel der Drachenkraft."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ただし、指輪の力を察知するには\r\n各地で力を示す必要があるという",
+      "source_en": "However, to sense the power of the ring, it is\r\nsaid that one must demonstrate their strength in\r\nvarious places.",
+      "text": "Um die Kraft des Rings zu spüren,\r\nmusst du dich, so heißt es,\r\nan jedem dieser Orte beweisen."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "難しい頼みだが、どうか引き受けてくれ",
+      "source_en": "It's a difficult request, but please take it.",
+      "text": "Ich verlange viel von dir. Nimm den Auftrag trotzdem an."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

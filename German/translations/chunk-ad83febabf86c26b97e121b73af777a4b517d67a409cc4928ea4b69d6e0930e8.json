@@ -1,0 +1,240 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60301055.gmd",
+  "arc_path": "\\quest\\q60301055.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ほっほっほ、久しぶりだな\r\n今年もレスタニアにホリデーシーズンの\r\nお知らせを運んできたぞ\r\nさて、まずはいつもの挨拶からかな",
+      "source_en": "Ho Ho Ho, it's been a while.\r\nWe bring news of another holiday season\r\nto Lestania this year. Well now,\r\nlet's begin with our usual greetings.",
+      "text": "Hohoho, lange nicht gesehen!\r\nWir sind wieder nach Lestania gekommen\r\nund haben das Weihnachtsfest im Gepäck.\r\nNa, fangen wir mit unserem üblichen Gruß an."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "さて、まずはいつもの挨拶からかな",
+      "source_en": "Well, let's start with our usual greetings.",
+      "text": "Na, fangen wir mit unserem üblichen Gruß an."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ほっほっほ、メリークリスマス！\r\nでは本題に入ろう\r\n今年のクリスマスプレゼントについてなんだが",
+      "source_en": "Ho Ho Ho, Merry Christmas!\r\nLet's get down to business\r\nabout this year's Christmas gift.",
+      "text": "Hohoho, frohe Weihnachten!\r\nKommen wir gleich zur Sache.\r\nEs geht um die Weihnachtsgeschenke für dieses Jahr."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "この大陸中の子供たちに\r\n手作りのクリスマスツリーを\r\nプレゼントしようと思っておるのだ",
+      "source_en": "I'm thinking of giving\r\nhandmade Christmas trees\r\nto children all over this continent!",
+      "text": "Ich will den Kindern auf dem ganzen Kontinent\r\nselbstgemachte Weihnachtsbäume\r\nschenken!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "しかしレスタニア中となるとそれはもう\r\n大量のツリーが必要になる\r\nそこで、お主の出番と言う訳だ",
+      "source_en": "However, for Lestania, it's come to that point\r\nwhere I still require a large number of trees!\r\nThat's where you, Good Ser, come into play.",
+      "text": "Wenn wir aber ganz Lestania versorgen wollen,\r\nbrauchen wir eine gewaltige Menge Bäume!\r\nUnd da kommst du ins Spiel."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ツリーになる適度な大きさの木を\r\n大量に集める方法はないだろうか\r\n木の枝を採取するだけでは到底間に合わん",
+      "source_en": "Is there any way for you to gather up\r\na large amount of trees of the right size?\r\nWe'll never make it just by collecting\r\nmere tree branches!",
+      "text": "Weißt du, wie man schnell viele Bäume\r\nin der richtigen Größe finden kann?\r\nWenn wir bloß Äste sammeln, werden wir\r\nniemals rechtzeitig fertig!"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "お前さんは顔が広そうだが、知り合いの中に\r\nこの大陸の情報に詳しくて\r\n木材のありかを知っていそうな人はいないかね",
+      "source_en": "You, Ser, you seem well-connected.\r\nIs there anyone amongst your acquaintances\r\nwho might know of such lumber?",
+      "text": "Du kennst doch viele Leute.\r\nWeißt du jemanden, der sich hier gut auskennt\r\nund uns sagen könnte, wo es genug Holz gibt?"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "どうにかして\"大量の木材を手に入れる方法\"\r\nそれを探してきてほしい\r\n大陸中の情報に詳しいような人が\r\nお前さんの知人にいないかね",
+      "source_en": "By any means, I want you to look for a way\r\nto \"obtain a large amount of wood.\"\r\nThere must be someone you know\r\nwho knows the continent well.",
+      "text": "Finde bitte heraus, wie wir an\r\neine große Menge Holz kommen können.\r\nDu kennst doch bestimmt jemanden,\r\nder sich auf dem Kontinent gut auskennt."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "俺に聞きたいこと？\r\nいいぜ、俺の知る範囲内でなら\r\n何でも答えようじゃないか",
+      "source_en": "You need my help?\r\nSure, I'll answer to the best of my knowledge.\r\nAsk me anything.",
+      "text": "Du willst mich etwas fragen?\r\nKlar, ich helfe, so gut ich kann.\r\nSchieß los."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "――ふむ、大量の木を手に入れたい、と\r\n確かに木材の\"採取\"だけじゃ時間がかかりすぎる\r\nまあ、少々荒っぽい手段にはなるが\r\nリンウッドの近くなら、あるいは――",
+      "source_en": "...Hm, gathering a lot of lumber, eh?\r\nCutting wood alone would take too much time.\r\nWell, it's a bit a crude method, but by Lynwood,\r\nperhaps, that way...",
+      "text": "Hm, du brauchst also eine Menge Holz.\r\nWenn du jeden Baum einzeln fällst, dauert es ewig.\r\nEs gibt da eine etwas grobe Methode.\r\nIn der Nähe von Lynwood könntest du …"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "あそこには稀にエントが出現するだろ？\r\n確か、去年もあそこに出て騒ぎになったはずだ\r\nアイツを狙えば、一度に大量の木材が\r\n手に入ると思うんだが、どうだ？",
+      "source_en": "You know that Ent that makes its appearance\r\non rare occasions, right? I believe it was there\r\nlast year and caused quite a commotion.\r\nIf you hunt it, you'll get a lot of wood at once.\r\nWhat say you, Ser?",
+      "text": "Da taucht doch hin und wieder ein Ent auf.\r\nLetztes Jahr hat der dort, glaube ich,\r\nfür einigen Aufruhr gesorgt.\r\nWenn du ihn jagst, bekommst du auf einen Schlag\r\neinen ganzen Haufen Holz. Was meinst du?"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "おまけに、ここいらでは見かけない\r\n巨大なエントもごく稀に出てくるそうだ\r\nまあ、俺がこの目で見たことじゃあ無いがな",
+      "source_en": "Besides, I don't see them around here\r\nIt seems that Giant Ents appear very rarely.\r\nAt least it's not something I've ever seen\r\nwith mine own eyes.",
+      "text": "Ganz selten soll dort auch ein riesiger Ent\r\nauftauchen. So einen sieht man hier sonst nie.\r\nMit eigenen Augen habe ich ihn\r\njedenfalls noch nie gesehen."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "リンウッドの近くだ\r\nお前にとっては慣れた相手かもしれないが\r\n油断はするなよ",
+      "source_en": "It's near Lynwood. \r\nIt may be a foe you're familiar with, Ser, \r\nbut do not let your guard down.",
+      "text": "Such in der Nähe von Lynwood.\r\nDu kennst den Gegner vielleicht schon,\r\naber unterschätz ihn trotzdem nicht."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "特に、あそこにはエントの親玉みたいな\r\nレアなエントも出現するって噂だ\r\nまあ、俺がこの目で見たわけでも\r\n実際に見たって奴を知ってるわけでもないがな",
+      "source_en": "They say that a rare, larger Ent,\r\nlike a leader of the others, appears there.\r\nIn truth, I haven't seen it myself, \r\nnor do I know anyone who has.",
+      "text": "Dort soll auch ein größerer Ent auftauchen,\r\nso etwas wie der Anführer der anderen.\r\nIch habe ihn noch nie gesehen.\r\nUnd ich kenne auch niemanden, der ihn gesehen hat."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "おお、待っておったぞ！\r\nこんなにたくさんの木を集めてきてくれるとは\r\nやはりお前さんに相談してよかった",
+      "source_en": "Ah, I've been waiting! \r\nYou've gathered so much wood, \r\nI'm glad I asked you for help after all.",
+      "text": "Ah, ich habe schon auf dich gewartet!\r\nDu hast ja eine Menge Holz zusammenbekommen.\r\nGut, dass ich dich um Hilfe gebeten habe."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "木が集まったら、次は飾り付けだな\r\n何か良い飾りになる物はないだろうか\r\n定番といえば、球や星形のオーナメントだが――",
+      "source_en": "Now that we have the wood,\r\nthe next step is decoration.\r\nIs there's anything suitable for ornaments?\r\nThe classic options are balls\r\nor star-shaped decorations, but—",
+      "text": "Nun haben wir genug Holz.\r\nAls Nächstes sind die Verzierungen dran.\r\nWas würde sich denn als Schmuck eignen?\r\nKugeln und Sterne sind natürlich immer beliebt,\r\naber …"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "わしらも3人で探してみるとしよう\r\nお前さんも何か見つけたら知らせてくれ",
+      "source_en": "The three of us will try to find them.\r\nYou, too, let us know what you find.",
+      "text": "Wir drei schauen uns schon mal um.\r\nSag uns bitte Bescheid, wenn du etwas findest."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "魔物の習性を利用して\r\nなにか良いものが拾えればいいのだが\r\n全ての敵が光物が好きとは限らんからなぁ\r\nこればかりは、一度倒してみなければ何とも言えん",
+      "source_en": "It would be great if we could use\r\nthe monsters' habits to find something useful.\r\nNot all foes are drawn to shiny things, though.\r\nWe can't know for sure until we've taken one down.",
+      "text": "Vielleicht helfen uns ja die Gewohnheiten der Monster.\r\nManche sammeln gern glänzende Dinge.\r\nOb ein Monster etwas Brauchbares dabeihat,\r\nwissen wir erst, wenn wir es besiegt haben."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "ツリーの飾りといえば、木のてっぺんの星や\r\n球状のオーナメントなんかが定番だな\r\n何かいいものはないか、探してきてくれんか",
+      "source_en": "As for tree decorations, a star atop the tree\r\nand round ornaments are the usual choice.\r\nCould you go out and look for something fitting?",
+      "text": "Ein Stern auf der Spitze und ein paar Kugeln\r\nan den Ästen, so schmückt man den Baum gewöhnlich.\r\nKannst du nach etwas Passendem suchen?"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "魔物の習性を利用して\r\nなにか良いものが拾えればいいのだが\r\n全ての敵が光物が好きとは限らんからなぁ\r\nこればかりは、一度倒してみなければ何とも言えん",
+      "source_en": "It would be great if we could use\r\nthe monsters' habits to find something useful.\r\nNot all foes are drawn to shiny things, though.\r\nWe can't know for sure until we've taken one down.",
+      "text": "Vielleicht helfen uns ja die Gewohnheiten der Monster.\r\nManche sammeln gern glänzende Dinge.\r\nOb ein Monster etwas Brauchbares dabeihat,\r\nwissen wir erst, wenn wir es besiegt haben."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "ほほう、なかなか綺麗なオーナメントになりそうだ\r\nこれを見つけてくるとは流石だな！",
+      "source_en": "Oh-ho, this looks like\r\nit will make a beautiful ornament!\r\nTo find something like this,\r\nyou're quite impressive!",
+      "text": "Oh, daraus lässt sich\r\nbestimmt ein schöner Anhänger machen!\r\nIch hätte nicht gedacht, dass du\r\nso etwas Feines findest!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "よし、飾り付けはこれでいくとしよう\r\nとなれば――後は、この大量のツリーに見合うだけの\r\n大量のオーナメントを仕入れねばな！",
+      "source_en": "Alright, let's go with these decorations. \r\nNow then—next we need to gather a massive \r\namount of ornaments to match these trees!",
+      "text": "Gut, damit schmücken wir die Bäume.\r\nFür so viele Bäume brauchen wir jetzt\r\nnatürlich noch viel mehr von diesem Schmuck!"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "さぁ、マルコにミーア！　手分けして集めるぞ！\r\nほれほれ、お前さんもできるだけ\r\nたくさん集めてきてくれ！",
+      "source_en": "Now, Marco, Mia! \r\nLet's split up and gather them! \r\nCome on, come on, Ser, \r\ngather as many as you can!",
+      "text": "Marco, Mia, ihr helft auch!\r\nWir teilen uns beim Sammeln auf.\r\nLos, mach dich auch auf den Weg\r\nund bring so viel mit, wie du findest!"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアの子供たちがツリーを待っておる\r\n豪華に飾り付けるためにも\r\nオーナメントを大量に持って来てくれ\r\n頼んだぞ",
+      "source_en": "The children of Lestania are waiting for the tree. \r\nTo decorate it splendidly, bring back a large \r\namount of ornaments. I leave it to you!",
+      "text": "Die Kinder von Lestania warten auf ihre Bäume.\r\nBring bitte jede Menge Schmuck mit,\r\ndamit wir sie prächtig schmücken können. Ich zähle auf dich!"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "おお、こんなに集まったか\r\nちょうどわしらも3人手分けして\r\nたくさんのオーナメントを集めたところだ",
+      "source_en": "Oh, you've gathered this many? \r\nWe too, between the three of us, \r\nhave just finished collecting\r\na large number of ornaments.",
+      "text": "Oh, so viel hast du gesammelt?\r\nWir drei haben uns auch aufgeteilt\r\nund sind gerade damit fertig geworden,\r\njede Menge Schmuck zusammenzutragen."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "これだけあればバッチリだ\r\nたくさんのツリーがあれば\r\nレスタニア中の子供たちみんなも喜ぶぞ",
+      "source_en": "This is more than enough! \r\nWith so many trees, every child\r\nacross Lestania will be overjoyed!",
+      "text": "Damit haben wir mehr als genug!\r\nSo viele Bäume! Darüber werden sich\r\ndie Kinder in ganz Lestania freuen!"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "さ、わしらは早速飾り付けをして\r\nツリーを仕上げるとしよう\r\nお前さんにもお礼をせねばな",
+      "source_en": "Well then, with haste,\r\nlet us decorating and finish the tree.\r\nWe'll also be sure to show our gratitude to you!",
+      "text": "Also machen wir uns gleich ans Schmücken.\r\nDann sind die Bäume fertig.\r\nUnd dir müssen wir natürlich noch danken!"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "いつもと雰囲気が違いますか？\r\n去年の\"赤い鼻\"を外したせいでしょうか――\r\n今年の装い、いかがでしょう？",
+      "source_en": "Does it feel different this year? \r\nPerhaps it's because we removed\r\nthe \"red nose\" from last year.\r\nWhat do you think of this year's attire?",
+      "text": "Sehen wir dieses Jahr anders aus?\r\nVielleicht liegt es daran, dass wir keine\r\nroten Nasen mehr tragen wie letztes Jahr.\r\nWie gefällt dir unsere neue Festkleidung?"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "どうも！　一年ぶりですね！\r\n今年もホリデーを盛り上げていきますよ～！",
+      "source_en": "Heyo! It's been a whole year, huh!\r\nLet's make this year's holidays\r\neven more exciting～!",
+      "text": "Hallo! Ein Jahr ist schon wieder vergangen!\r\nDieses Jahr sorgen wir für\r\nnoch mehr Weihnachtsstimmung!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

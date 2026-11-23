@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q61000000.gmd",
+  "arc_path": "\\quest\\q61000000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ここだけの話ですが\r\n覚者様に、ぜひ\"ご紹介したい依頼\"があるんです\r\n――その、あまり腕の立たない方には\r\nご紹介できない依頼、でして――",
+      "source_en": "This is just between us... I have a\r\n\"special request\" I'd like your help with...\r\nYou see, it's not the sort of job\r\nI could offer to anyone off the street...",
+      "text": "Unter uns …\r\nIch hätte da einen besonderen Auftrag für dich.\r\nDas ist nämlich so eine Sache,\r\ndie ich nicht jedem anvertrauen kann."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ご紹介したい\"依頼\"があるんです――\r\n多少、\"危険な依頼\"なのですが\r\n覚者様ほどの方であれば――",
+      "source_en": "There's a \"special request\" I'd like\r\nyou to take care of... \r\nthough it carries \"considerable risk\".\r\nBut for a capable Arisen, like you...",
+      "text": "Ich hätte einen besonderen Auftrag für dich.\r\nEr ist allerdings\r\nmit ziemlicher Gefahr verbunden.\r\nAber für jemanden wie dich, Erweckter …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "《ワイルドハント》から\r\nいくつか依頼をご紹介いたします！",
+      "source_en": "I have some tasks to present \r\nto you on behalf of the [Wild Hunt]!",
+      "text": "Ich habe ein paar Aufträge\r\nfür die [Monsterjagd] für dich!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "流石の腕前ですね！\r\n今回の依頼、実はワイルドハントの中でも\r\n《Sランク》に値する珍しい討伐対象だったんです！",
+      "source_en": "Remarkable work, Ser! \r\nThis task involved a rare\r\n[S Rank] foe within the Wild Hunt!",
+      "text": "Das hast du hervorragend gemacht!\r\nDas war ein seltener Gegner der Monsterjagd.\r\nBei uns gehört er in die Kategorie [Rang S]!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "依頼にはそれぞれランクがあるのですが\r\nSランクともなると、もう一目見ただけで\r\n「普通とは違う！」とわかるような\r\n珍しい魔物が対象になりますよ",
+      "source_en": "Every request is given a rank, and for S Rank, \r\nyou'll know at a glance, \"This isn't normal!\" \r\nThe target is often a rare monster.",
+      "text": "Jeder Auftrag hat einen Rang. Auf Rang S merkst du\r\nden Unterschied schon beim ersten Anblick.\r\nEin gewöhnliches Monster jagst du da bestimmt nicht."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "高ランクの依頼は報酬も良い分\r\nなかなか回ってこないのが難点ですが――\r\nワイルドハントの実績を積めば\r\n優先的に回ってくるようになるかもしれません",
+      "source_en": "High-rank requests offer better\r\nrewards, but rarely come your way...\r\nThough proving yourself in Wild Hunts\r\nmay get you priority access.",
+      "text": "Die Aufträge der höheren Ränge bringen mehr ein,\r\nsind aber selten.\r\nWenn du dich bei der Monsterjagd bewährst,\r\nerhältst du sie unter Umständen vor anderen."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼は毎日数件届きます\r\n宿屋によるついでにでも\r\nぜひ覗いてみてくださいね！",
+      "source_en": "Requests arrive daily.\r\nSo when you're at the inn,\r\ndon't forget to have a look!",
+      "text": "Jeden Tag kommen ein paar Aufträge herein.\r\nWenn du ohnehin im Gasthaus bist,\r\nkannst du ja einen Blick darauf werfen!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "魔物にも個性というものがあるのをご存じですか？\r\nわかりやすいところだと体の色や大きさなんかが\r\n違ったりするようです\r\n――私たちがそれに気付くことは稀ですけれど",
+      "source_en": "Did you notice monsters have their own\r\npersonal attributes? Obvious differences\r\ninclude color and size variations...\r\n Though we rarely notice such details.",
+      "text": "Wusstest du, dass auch Monster\r\nihre Eigenheiten haben?\r\nFarbe und Größe sind die auffälligsten Unterschiede.\r\nOft schaut man gar nicht so genau hin."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "そんな個性が一際強く発現して\r\n強力に育った魔物――そういった魔物の\r\n討伐依頼を《ワイルドハント》と呼び\r\n腕の立つ方だけにご紹介しているんです",
+      "source_en": "Monsters whose traits manifest in unique ways \r\ncan grow into powerful beings...\r\nSuch creatures are the focus of \r\n[Wild Hunt] requests, and we only offer\r\nthese to the strongest adventurers.",
+      "text": "Bei manchen Monstern sind diese Eigenheiten so\r\nstark ausgeprägt, dass sie besonders mächtig werden.\r\nWer solche Monster erlegt, erledigt Aufträge\r\nder [Monsterjagd]. Die geben wir\r\nnur den fähigsten Abenteurern."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ちょうど今、１件依頼が舞い込んできています\r\n覚者様の腕前なら\r\n私も安心してご紹介できるのですが――\r\nこれを機に、いかがでしょう？",
+      "source_en": "A request has just come in. \r\nGiven your abilities, Ser, \r\nI can offer it with confidence... \r\nWould you like to take it on?",
+      "text": "Gerade ist ein neuer Auftrag hereingekommen.\r\nBei deinem Können\r\nkann ich ihn dir guten Gewissens geben.\r\nMöchtest du ihn annehmen?"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "危険な分、報酬もなかなかなんですよ\r\n依頼を達成し、きちんと報告していただければ\r\nたくさんのプレイポイントをお渡しいたします\r\n討伐するだけでなく、報告までセットでお願いしますね",
+      "source_en": "The risks are high, but so are the rewards.\r\nComplete the task and report back,\r\nand you'll earn a heap of Play Points.\r\nRemember, it's not just about the hunt,\r\nreporting is essential too!",
+      "text": "Die Jagd ist gefährlich, aber sie lohnt sich.\r\nWenn du den Auftrag abschließt und dich zurückmeldest,\r\nbekommst du jede Menge Spielpunkte.\r\nDenk also daran, mir\r\nam Ende Bericht zu erstatten!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "そうそう、ワイルドハントは危険な依頼ですから\r\nクエストが破棄された場合、すぐに次の方へ\r\n依頼を回すようにしているんです",
+      "source_en": "Indeed, the Wild Hunt's tasks are quite dangerous,\r\nso if a quest is abandoned,\r\nwe promptly assign it to the next\r\navailable candidate.",
+      "text": "Weil die Monsterjagd so gefährlich ist,\r\ngeben wir einen abgebrochenen Auftrag\r\nsofort an die nächste Person weiter,\r\ndie sich dafür eignet."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "ですので、依頼を破棄されると、その日のうちに\r\n同じ依頼を受け直すことはできなくなります\r\n間違って破棄しないようにご注意ください",
+      "source_en": "As such, if you cancel a request,\r\nyou won't be able to accept\r\nthe same one again that day.\r\nPlease take care not to\r\ndiscard it by mistake.",
+      "text": "Wenn du einen Auftrag abbrichst,\r\nkannst du denselben am gleichen Tag\r\nnicht noch einmal annehmen.\r\nGib also acht, dass du ihn\r\nnicht aus Versehen abbrichst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

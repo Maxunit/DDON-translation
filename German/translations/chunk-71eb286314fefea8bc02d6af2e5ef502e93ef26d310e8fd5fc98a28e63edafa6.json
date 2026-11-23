@@ -1,0 +1,256 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60000007.gmd",
+  "arc_path": "\\quest\\q60000007.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT HOLD_BOW>で弓構え、<KCT SHOOT></COL>で弓射ちだ！",
+      "source_en": "<COL ff7575><KCT HOLD_BOW> to draw your bow, <KCT SHOOT></COL> to fire!",
+      "text": "Leg mit <COL ff7575><KCT HOLD_BOW> den Bogen an und schieß mit <KCT SHOOT></COL>!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "狙撃照準にオレンジのラインがあるだろう。それが中央にくる、射撃の最適距離から矢を放て！",
+      "source_en": "See the orange line in your aim? \r\nThat's the optimal range. \r\nFire when it's centered!",
+      "text": "Siehst du die orangefarbene Markierung in der Zielanzeige?\r\nSie zeigt dir die optimale Entfernung.\r\nSchieß, sobald sie in der Mitte steht!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><PADM><KCT WEAPON_MAIN>で爆矢構え、その状態で<KCT SHOOT><KEYM>初期設定の場合、弓構えから、マウスホイール後ろで爆矢構え、<KCT SHOOT></KEYM></COL>で仕込み爆矢射ちだ！",
+      "source_en": "Use <COL ff7575><PADM><KCT WEAPON_MAIN> to ready an explosive arrow, then <KCT SHOOT><KEYM> Hold bow, scroll mouse wheel back to ready explosive arrow, then<KCT SHOOT></KEYM></COL> to fire!",
+      "text": "<COL ff7575><PADM>Leg mit <KCT WEAPON_MAIN> einen Explosivpfeil an und schieß ihn mit <KCT SHOOT> ab!<KEYM>Leg den Bogen an. Mit der Standardbelegung drehst du das Mausrad nach hinten, um einen Explosivpfeil anzulegen. Schieß ihn mit <KCT SHOOT> ab!</KEYM></COL>"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "爆矢構え中は<COL ff7575><PADM><KEYN R_STICK><KEYM>マウス</KEYM></COL>で着弾地点の操作もできるぞ！",
+      "source_en": "While aiming an explosive arrow, <COL ff7575><PADM><KEYN R_STICK><KEYM>mouse</KEYM></COL> \r\nadjusts the landing point!",
+      "text": "Solange du den Explosivpfeil angelegt hast, kannst du mit <COL ff7575><PADM><KEYN R_STICK><KEYM>der Maus</KEYM></COL>\r\nseinen Einschlagpunkt einstellen!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "爆矢に攻撃し、起爆させるんだ。自然爆発よりずっと威力が上がるぞ！",
+      "source_en": "Attack the explosive arrow to detonate it. \r\nIt's much stronger than letting it explode naturally!",
+      "text": "Triff den Explosivpfeil, um ihn zu zünden.\r\nDas richtet viel mehr Schaden an, als darauf zu warten, dass er von selbst explodiert!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT ATTACK1></COL>で前蹴りだ！敵を蹴って距離をとれ！",
+      "source_en": "Use <COL ff7575><KCT ATTACK1></COL> for Front Kick!\r\nCreate distance by kicking foes!",
+      "text": "Setze mit <COL ff7575><KCT ATTACK1></COL> Tritt nach vorn ein!\r\nStoß die Gegner weg und verschaff dir Abstand!"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT RELOAD></COL>で矢の装填だ！",
+      "source_en": "Use <COL ff7575><KCT RELOAD></COL> to reload arrows!",
+      "text": "Lade mit <COL ff7575><KCT RELOAD></COL> deine Pfeile nach!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "青色のタイミングで<COL ff7575><PADM><KCT TOUCH><KEYM><KCT RELOAD></KEYM></COL>を押せば、スキが短く装填できるぞ！",
+      "source_en": "Press <COL ff7575><PADM><KCT TOUCH><KEYM><KCT RELOAD></KEYM></COL> when the colour turns \r\nblue for a faster reload!",
+      "text": "Drück <COL ff7575><PADM><KCT TOUCH><KEYM><KCT RELOAD></KEYM></COL>, sobald die Anzeige\r\nblau wird. Dann lädst du schneller nach!"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "よし、最後の仕上げだ。祠の奥へ向かい、そこにいる敵を弓射ちや爆矢射ちで倒すんだ！前蹴りも忘れるなよ",
+      "source_en": "Alright, time for the final touch. \r\nHead to the back of the shrine and take down the \r\nenemies there with bow shots or explosive arrows!\r\nDon't forget to use front kicks either.",
+      "text": "Jetzt kommt der letzte Teil.\r\nDring tief in den Schrein vor und besiege die Gegner dort\r\nmit Pfeilschüssen oder Explosivpfeilen!\r\nDenk auch an Tritt nach vorn."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "試練完了、よくやったな！奥にある＜狙弓の証＞を受け取り、神殿のレンテンに報告するがいい",
+      "source_en": "Trial complete, well done! \r\nTake the <Hunter's Mark> in the back \r\nand report to Renton at the temple.",
+      "text": "Gut gemacht! Die Prüfung ist bestanden.\r\nHol das Zeichen des sicheren Schusses (<Hunter's Mark>) am Ende des Schreins ab\r\nund erstatte Renton im Tempel Bericht."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "おめでとう、覚者よ\r\nこれにて戦術試練は完了だ！",
+      "source_en": "Congratulations, Arisen.\r\nThe tactical trial is now complete!",
+      "text": "Glückwunsch, Erweckter!\r\nDu hast die Taktikprüfung bestanden!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "今覚えたハンターの戦い方を\r\n振り返りたい時は、《チュートリアルガイド》の\r\n《ジョブの操作と役割》からハンターの戦法や\r\n戦術的役割を確認するんだ",
+      "source_en": "To review the Hunter's combat style\r\nyou just learned, check [Tutorial] →\r\n[Job Roles] for tactics and duties.",
+      "text": "Wenn du nachlesen willst, wie Jäger vorgehen,\r\nöffne die Tutorialübersicht. Unter „Klassen und Rollen“\r\nfindest du ihre Kampftechniken und Aufgaben."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "お前なら、より巨大な魔物へ挑むための\r\n試練も達成できるだろう\r\nさらなる挑戦を待っているぞ",
+      "source_en": "You, ser, may have what it takes to overcome\r\nthe trials necessary to fell even greater foes.\r\nI look forward to challenging you again.",
+      "text": "Ich denke, du könntest auch die Prüfung bestehen,\r\nbei der du gegen noch größere Monster antrittst.\r\nIch warte auf deine nächste Herausforderung!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "お、訓練希望だな？　あらためてよろしくな！",
+      "source_en": "Oh, here for training? \r\nGood to see you again!",
+      "text": "Ah, du willst trainieren?\r\nSchön, dich wiederzusehen!"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "ハンターの戦術試練を案内するよ\r\n基本ってのは、くどいようだが大事なことだぞ",
+      "source_en": "I'll guide you through the Hunter Tactics trial.\r\nThe basics may seem tedious, but they're important.",
+      "text": "Ich erklär dir die Taktikprüfung für Jäger.\r\nDie Grundlagen sind vielleicht etwas trocken, aber wichtig."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "あんたにはこれに、一人で挑んでもらう\r\nでなきゃ、ジョブの特性は理解できないからな",
+      "source_en": "You're going to have to take this one on alone,\r\nor you won't understand the nature of the job.",
+      "text": "Du trittst allein an.\r\nSo lernst du, was deine Klasse im Kampf ausmacht."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "《修練の祠》は知ってるかい？\r\n神殿を出て左手、崖沿いに進むんだ\r\n案内人の騎士団員がいるから話を聞いてくれ",
+      "source_en": "Know the Training Chapel?\r\nFrom the temple exit, head left\r\nalong the cliffside. Talk to\r\nthe knight guide there.",
+      "text": "Kennst du den Übungsschrein?\r\nGeh aus dem Tempel nach links\r\nam Felsen entlang. Dort steht ein Ritter,\r\nder dir den Weg weist."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "訓練希望者だな\r\n《修練の祠》は崖の上だ\r\nここから登って行け",
+      "source_en": "Here for training? \r\nThe Training Chapel is atop the cliff. \r\nClimb up from here",
+      "text": "Du bist wegen der Prüfung hier?\r\nDer Übungsschrein liegt oben auf dem Felsen.\r\nVon hier aus kannst du hinaufklettern."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "なかなか見どころがあるらしいな、あんた\r\nお手並み拝見させてもらおう",
+      "source_en": "You show promise. \r\nLet's see what you've got.",
+      "text": "Man sagt, du hast Talent.\r\nMal sehen, was du kannst."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "どうだった？　試練、うまくいったか！\r\nジョブによって、戦い方は全然違うんだ――\r\n俺もまぁ修行中だけど",
+      "source_en": "How'd it go? Trial went well?\r\nEvery Vocation's combat style's\r\nunique ― not that I'm\r\nan expert yet either!",
+      "text": "Na, wie lief die Prüfung? Hast du sie bestanden?\r\nJede Klasse kämpft anders.\r\nDa lern selbst ich\r\nimmer noch dazu!"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "また転職したら、いつでも来いよ\r\n挑んで損はないはずだぜ",
+      "source_en": "Come back anytime you\r\nchange Vocations again! It's\r\nalways worth testing\r\nyour new skills!",
+      "text": "Wenn du wieder die Klasse wechselst,\r\nkomm einfach noch mal vorbei!\r\nEs lohnt sich, deine neuen Techniken\r\nin einer Prüfung auszuprobieren."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "《修練の祠》は崖の上だ\r\nがんばるんだぞ",
+      "source_en": "The Training Chapel is atop the cliff. \r\nGive it your all.",
+      "text": "Der Übungsschrein liegt oben auf dem Felsen.\r\nGib dein Bestes!"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "覚者とは試練に臆することなく立ち向かい\r\nその使命を全うする者のことだ",
+      "source_en": "An Arisen faces trials without fear and fulfills their duty",
+      "text": "Ein Erweckter stellt sich jeder Prüfung ohne Furcht und erfüllt seine Aufgabe."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "与えられた試練を全てこなせた者のみ\r\n《狙弓の証》を得ることができる",
+      "source_en": "Only those who complete all trials\r\nmay obtain the [Hunter's Mark].",
+      "text": "Nur wenn du alle Aufgaben der Prüfung erledigst,\r\nerhältst du das Zeichen des sicheren Schusses."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "各試練のやり方について\r\nわからなければ、今までに得た知識を\r\n確認しながら臨むがいい",
+      "source_en": "If unsure about any trial, \r\nreview the knowledge you've gained so far.",
+      "text": "Wenn du bei einer Aufgabe unsicher bist,\r\nlies die bisherigen Hinweise noch einmal nach."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "技や動きの参考のため\r\n一人、共闘の兵をつけておこう\r\n課題をこなす中で戦技を身に刻め！",
+      "source_en": "For reference, I'll assign a soldier to fight alongside you. Master combat skills during the trial!",
+      "text": "Ich stelle dir einen Soldaten zur Seite. Sieh dir seine Bewegungen an und präg dir bei der Prüfung die Techniken ein!"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "与えられた試練を全てこなせた者のみ\r\n《狙弓の証》を得ることができる",
+      "source_en": "Only those who complete all trials\r\nmay obtain the [Hunter's Mark].",
+      "text": "Nur wenn du alle Aufgaben der Prüfung erledigst,\r\nerhältst du das Zeichen des sicheren Schusses."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "各試練のやり方について\r\nわからなければ今までの得た知識を\r\n確認しながら臨むがいい",
+      "source_en": "If unsure about any trial, \r\nreview the knowledge you've gained so far.",
+      "text": "Wenn du bei einer Aufgabe unsicher bist,\r\nlies die bisherigen Hinweise noch einmal nach."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "また立ちはだかる魔物が\r\n課題中にすべていなくなったら\r\n再度出直してくるがいい",
+      "source_en": "If more monsters appear to block you,\r\nor if they're gone before you're done,\r\ncome back and try again.",
+      "text": "Falls während einer Aufgabe\r\nalle Gegner verschwinden,\r\ngeh hinaus und versuch es noch einmal."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "さ、《修練の祠》へ行くんだ\r\n案内人は神殿を出て左手を進めば\r\n崖の下にいるからさ",
+      "source_en": "Now go to the Training Chapel.\r\nYour guide is up the cliff -\r\nleave the temple and head left.",
+      "text": "Geh zum Übungsschrein.\r\nVerlass den Tempel und geh nach links.\r\nDer Wegweiser steht am Fuß des Felsens."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "《狙弓の証》、よくぞ得た！\r\nジョブについての理解も、さらに深まったようだな\r\n神殿に戻りレンテンに報告するがいい、覚者よ！",
+      "source_en": "You've obtained the Hunter's Mark! \r\nYour understanding\r\nof the Vocation has deepened.\r\nReturn to the temple and\r\nreport to Renton, Arisen!",
+      "text": "Das Zeichen des sicheren Schusses hast du dir verdient!\r\nDu weißt jetzt besser,\r\nworauf es als Jäger ankommt.\r\nKehre in den Tempel zurück\r\nund erstatte Renton Bericht, Erweckter!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

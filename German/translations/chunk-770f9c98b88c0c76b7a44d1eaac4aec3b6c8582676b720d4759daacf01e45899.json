@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60320010_00.gmd",
+  "arc_path": "\\quest\\q60320010.arc",
+  "entries": [
+    {
+      "key": "q60320010_00_325",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "メガドシス高地　試練：異端の影",
+      "source_en": "MP Trial: Shadow of Heresy",
+      "text": "Megadosys-Hochland – Prüfung: Schatten des Abtrünnigen"
+    },
+    {
+      "key": "q60320010_00_325",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the client\r\nand try to solve the problem.",
+      "text": "Frag nach den Einzelheiten des Auftrags\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60320010_00_4297",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 3200>から話の内容を確認する",
+      "source_en": "Check the contents of the story from <NPC 3200>",
+      "text": "Hör dir an, was „<NPC 3200>“ zu berichten hat."
+    },
+    {
+      "key": "q60320010_00_4298",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 3200>から異形と堕ちた存在について確認する",
+      "source_en": "Ask <NPC 3200> for details regarding aberrations and corrupted entities",
+      "text": "Frag „<NPC 3200>“ nach den seltsamen Monstern und dem gefallenen Wesen."
+    },
+    {
+      "key": "q60320010_00_4299",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "異変の起きている場所へ行く",
+      "source_en": "Head to the area experiencing the anomalies",
+      "text": "Begib dich dorthin, wo sich die seltsamen Ereignisse zutragen."
+    },
+    {
+      "key": "q60320010_00_4300",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q60320010_00_4301",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "引き続き異変の起きている場所へ行く",
+      "source_en": "Continue to the area experiencing the anomalies",
+      "text": "Untersuche die nächsten Orte, an denen sich etwas Seltsames ereignet hat."
+    },
+    {
+      "key": "q60320010_00_4356",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q60320010_00_4357",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "引き続き異変の起きている場所へ行く",
+      "source_en": "Continue to the area experiencing the anomalies",
+      "text": "Untersuche die nächsten Orte, an denen sich etwas Seltsames ereignet hat."
+    },
+    {
+      "key": "q60320010_00_4358",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q60320010_00_4359",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "問題となる場所を調べる",
+      "source_en": "Find out where the problem is",
+      "text": "Finde heraus, von wo das Unheil ausgeht."
+    },
+    {
+      "key": "q60320010_00_4360",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q60320010_00_4361",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターの<NPC 3200>に経緯を話す",
+      "source_en": "Talk to Area Master <NPC 3200> about the circumstances",
+      "text": "Erzähl „<NPC 3200>“, wie der Einsatz verlaufen ist."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

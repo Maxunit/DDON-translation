@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q61000004.gmd",
+  "arc_path": "\\quest\\q61000004.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "黒呪の迷宮の\r\n新たな道をご案内する時がきたようです",
+      "source_en": "The time has come to guide you\r\nthrough a new path in the Bitterblack Maze.",
+      "text": "Es ist Zeit, dir einen neuen Weg\r\nim Finstergram-Labyrinth zu zeigen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "\"深淵\"――\r\nより深く、より困難な道となるでしょう\r\n船着き場から西にある、細い通路を抜けた先に\r\n入り口が開かれています",
+      "source_en": "The \"Abyss\"... \r\nA deeper, far more treacherous path. \r\nWest of the docks, past a narrow passage, \r\nlies its entrance.",
+      "text": "Der Abgrund …\r\nDort führt der Weg tiefer hinab und ist viel gefährlicher.\r\nWestlich vom Anleger führt ein schmaler Durchgang\r\nzu seinem Eingang."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "そちらでは、リュシアンという男が\r\nわたしと同じようにご案内いたします\r\n何なりとお申し付けください",
+      "source_en": "There, a man named Lucien\r\nwill guide you, just as I do.\r\nPlease feel free to ask him\r\nfor anything you may need.",
+      "text": "Dort findest du Lucien.\r\nEr kann dich genauso führen wie ich.\r\nWenn du etwas brauchst,\r\nfrag ihn einfach."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "もちろん、\"深淵\"に挑まれるかどうかは\r\n覚者様のご意思次第\r\nわたしもリュシアンも\r\nただあなたの選択をお待ちするのみ――",
+      "source_en": "Of course, whether you choose to \r\nchallenge the \"Abyss\" is entirely \r\nup to your will, Ser. Both Lucien \r\nand I will simply await your decision...",
+      "text": "Ob du dich in den Abgrund wagst,\r\nliegt natürlich bei dir, Erweckter.\r\nLucien und ich\r\nwarten auf deine Entscheidung …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ええ、それが覚者様の選択であれば\r\nわたしはいつでもこの場にて\r\nお待ちしております",
+      "source_en": "Yes, if that is your choice, Ser.\r\nI will always be here, waiting for you.",
+      "text": "Selbstverständlich, wenn du es so entschieden hast.\r\nIch bleibe hier und warte auf dich."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

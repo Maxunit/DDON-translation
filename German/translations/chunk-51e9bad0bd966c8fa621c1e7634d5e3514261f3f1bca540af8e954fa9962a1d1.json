@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50204001_00.gmd",
+  "arc_path": "\\quest\\q50204001.arc",
+  "entries": [
+    {
+      "key": "q50204001_00_65",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "降臨せし闇・限界域",
+      "source_en": "Onset of Darkness: Restricted Stage",
+      "text": "Die Finsternis steigt herab: Grenzprüfung"
+    },
+    {
+      "key": "q50204001_00_65",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n樹内の深部に潜む\r\n無双の黒騎士を討ち滅ぼせ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nVanquish the unmatched Black Knight\r\nlurking within the depths of the tree.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nTief im Inneren des Baums lauert der Schwarze Ritter,\r\ndem im Kampf keiner gleicht. Besiegt ihn!"
+    },
+    {
+      "key": "q50204001_00_2681",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "黒騎士を討伐する",
+      "source_en": "Defeat the Black Knight",
+      "text": "Besiegt den Schwarzen Ritter."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

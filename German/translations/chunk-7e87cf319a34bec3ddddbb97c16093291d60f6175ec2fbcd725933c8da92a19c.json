@@ -1,0 +1,144 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60320001.gmd",
+  "arc_path": "\\quest\\q60320001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "これは覚者さま、いかがなさいましたか？\r\nなっ、森の方に敵軍が！？\r\nすぐに兵士を手配いたします",
+      "source_en": "",
+      "text": "Erweckter, was gibt es?\r\nW-was, Feinde beim Wald?!\r\nIch schicke sofort Soldaten hin."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "覚者さまをお助けする兵士に\r\n要望があれば、多少はお応えできますが\r\nいかがなさいますか？",
+      "source_en": "",
+      "text": "Was für Soldaten sollen dich unterstützen?\r\nWenn du einen Wunsch hast,\r\nkann ich sicher darauf eingehen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "近接攻撃主体の兵",
+      "source_en": "",
+      "text": "Nahkämpfer"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "遠距離攻撃主体の兵",
+      "source_en": "",
+      "text": "Fernkämpfer"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "――少し考えさせてくれ",
+      "source_en": "...I will think a bit",
+      "text": "Erst noch überlegen"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "なるほど\r\n近接攻撃主体の兵士ですね\r\nすぐに手配いたしましょう\r\n覚者さまは現地へ向かってください",
+      "source_en": "",
+      "text": "Verstanden.\r\nDu brauchst Nahkämpfer.\r\nIch schicke sie sofort los.\r\nMach dich schon mal zum Einsatzort auf, Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "なるほど\r\n遠距離攻撃主体の兵士ですね\r\nすぐに手配いたしましょう\r\n覚者さまは現地へ向かってください",
+      "source_en": "",
+      "text": "Verstanden.\r\nDu brauchst Fernkämpfer.\r\nIch schicke sie sofort los.\r\nMach dich schon mal zum Einsatzort auf, Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "近接攻撃主体の兵士ですね\r\nすぐに手配いたしましょう\r\n覚者さまは現地へ向かってください",
+      "source_en": "",
+      "text": "Du brauchst Nahkämpfer.\r\nIch schicke sie sofort los.\r\nMach dich schon mal zum Einsatzort auf, Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "遠距離攻撃主体の兵士ですね\r\nすぐに手配いたしましょう\r\n覚者さまは現地へ向かってください",
+      "source_en": "",
+      "text": "Du brauchst Fernkämpfer.\r\nIch schicke sie sofort los.\r\nMach dich schon mal zum Einsatzort auf, Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "ああ、私もちょうど橋から\r\n帰ってきたところなんです\r\n――ありがとうございます！\r\nささやかですが、防衛の成功に貢献できて\r\nわたしも嬉しいです",
+      "source_en": "",
+      "text": "Ich bin auch gerade\r\nvon der Brücke zurückgekommen.\r\nVielen Dank!\r\nIch konnte ja nicht viel tun, aber ich bin froh,\r\ndass ich bei der Verteidigung helfen konnte."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "あっ！　覚者さま\r\nどうか話を聞いてください！",
+      "source_en": "",
+      "text": "Ah, Erweckter!\r\nHör mir bitte zu!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "《エリ警備塔》の裏手に森がありますよね\r\nあそこに魔軍が集まってきているらしいんです",
+      "source_en": "",
+      "text": "Du kennst den Wald hinter dem Wachturm Eli, oder?\r\nDort sammelt sich offenbar die Dämonenarmee."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "急ぎの伝令から話は聞いたものの\r\n私は橋の前の敵を掃討しにいかないといけなくて\r\n――お願いします、手を貸してください！",
+      "source_en": "",
+      "text": "Wir haben gerade einen Eilbericht bekommen.\r\nIch muss aber die Feinde vor der Brücke aufhalten.\r\nBitte hilf uns!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_jp",
+      "source_jp": "えっと、ユーミットに事情を話してみてください\r\n彼自身は戦えないけど\r\nきっと救援を呼んでくれるはずです",
+      "source_en": "",
+      "text": "Erzähl Umit, was los ist.\r\nEr kann zwar selbst nicht kämpfen,\r\naber er kann bestimmt Verstärkung rufen."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_jp",
+      "source_jp": "えっと、ユーミットに事情を話してみてください\r\n彼自身は戦えないけど\r\nきっと救援を呼んでくれるはずです",
+      "source_en": "",
+      "text": "Erzähl Umit, was los ist.\r\nEr kann zwar selbst nicht kämpfen,\r\naber er kann bestimmt Verstärkung rufen."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_jp",
+      "source_jp": "それから、森にはゴーストが\r\nたくさんいるという噂です\r\nお気をつけて！",
+      "source_en": "",
+      "text": "Außerdem soll es im Wald\r\nvon Geistern wimmeln.\r\nPass gut auf!"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_jp",
+      "source_jp": "覚者さまでも決断が鈍ることがあるのですね\r\nあまり時間があるとはいえないかと――\r\nしかし、重要なことです\r\nよくお考えになってください",
+      "source_en": "",
+      "text": "Selbst ein Erweckter zögert manchmal.\r\nUns bleibt allerdings nicht viel Zeit …\r\nDie Entscheidung ist natürlich wichtig.\r\nÜberleg dir gut, wem du den Auftrag gibst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

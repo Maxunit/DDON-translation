@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area20_spot_info.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "水辺に面した小さな洞穴\r\n霧の森から漏れ出でたものが留まりやすい\r\n風の音が何事かを囁いているように聞こえる\r\nことから、以前より不気味な噂が立っている",
+      "source_en": "A small cave facing the water's edge where things\r\nleaking out of the Forest of Mist tend to stay.\r\nThe sound of the wind seems to whisper something,\r\nwhich has led to eerie rumors for some time now.",
+      "text": "Eine kleine Höhle am Wasser.\r\nWesen aus dem Nebelwald scheinen sich hier gern aufzuhalten.\r\nWenn der Wind weht, klingt es, als würde jemand flüstern.\r\nDarüber kursieren schon seit Längerem unheimliche Gerüchte."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "霧の森の中にある焼け野原\r\n忌まわしい考えに取り付かれたある女が\r\n多数の犠牲者を洗脳し、自ら炎の中へと\r\n飛び込ませたという事件が起こった場所\r\n事件から何十年と経過しているが、未だに\r\n土は焼けたままであり草木も回復していない",
+      "source_en": "A burnt field in the Forest of Mist.\r\nThis is where a woman obsessed with abominable\r\nthoughts brainwashed numerous victims and forced\r\nthem to jump\r\ninto the flames themselves.\r\nDecades have passed since the incident, yet the\r\nsoil remains burned and the grass and trees have\r\nnot recovered.",
+      "text": "Eine verbrannte Lichtung im Nebelwald.\r\nEinst soll eine Frau hier so sehr von dunklen Gedanken\r\nbesessen gewesen sein, dass sie viele Menschen\r\ngegen ihren Willen dazu brachte,\r\nselbst in die Flammen zu springen.\r\nSeit dem Vorfall sind Jahrzehnte vergangen.\r\nDoch die Erde ist immer noch versengt,\r\nund weder Bäume noch Gräser wachsen hier."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "城塞都市メガドの城門外に設えられた詰所\r\n元は商人らが優先的にメガドへ入るための手続きを\r\n受けていた場であるが、現在は出撃の令を待つ\r\nドワーフオークや、軍属の獣たちがひしめいている",
+      "source_en": "Outside the gates of the fortress city Megado,\r\nthere is a guard post set up.\r\nOriginally, it was a place where merchants would\r\ngo through the necessary procedures to enter\r\nMegado.\r\nHowever, it is now crowded with dwarf orcs and\r\nmilitary animals waiting for the order to march\r\nout.",
+      "text": "Ein Wachposten vor den Toren\r\nder Festungsstadt Megado.\r\nHier erledigten Händler früher die Formalitäten,\r\ndamit sie bevorzugt in die Stadt\r\ngelassen werden konnten.\r\nHeute drängen sich hier Zwergorks\r\nund die Bestien der Dämonenarmee.\r\nSie alle warten auf den Marschbefehl."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "城塞都市メガドの防衛の要となるニルビリス大橋と\r\nその上に建つ関所。魔軍側も本関所の重要性は\r\n理解しているらしく、防衛のために随時戦力を\r\n割いている。関所の開閉については、魔軍の\r\n集結具合と連動しているらしい",
+      "source_en": "The Nilviris Bridge, which serves as a crucial\r\ndefense point for the fortress city of Megado,\r\naccompanied by a checkpoint built on top of it.\r\nIt appears that the Demon Army also understands\r\nthe importance of this checkpoint, as they are\r\nconstantly dedicating forces to its defense.\r\nThe opening and closing of the checkpoint seem to\r\nbe synchronized with the gathering of the Demon\r\nArmy.",
+      "text": "Die Große Nilviris-Brücke ist ein wichtiger Teil\r\nder Verteidigung der Festungsstadt Megado.\r\nAuf der Brücke steht ein Kontrollposten.\r\nAuch die Dämonenarmee weiß offenbar,\r\nwie wichtig dieser Posten ist.\r\nSie stellt laufend Truppen zu seiner Verteidigung ab.\r\nWann der Kontrollposten geöffnet oder geschlossen wird,\r\nscheint davon abzuhängen, wie viele Truppen\r\nder Dämonenarmee sich dort sammeln."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "メガド城壁内、最奥に位置する広場\r\nドワーフオークが捕えた魔物に対して戦甲を\r\n装着するために使われている。魔物は戦甲に\r\nよって自らの意思を制御され、ドワーフオークに\r\n使役される存在となる",
+      "source_en": "Inside Megado Castle, at the very back, there is\r\na plaza where beasts captured by Dwarf Orcs are\r\ndressed in battle armor.\r\nThe enemies are controlled by the battle armor,\r\nmaking them subservient to the Dwarf Orcs.",
+      "text": "Ganz hinten in der Burg Megado liegt ein Platz,\r\nan dem die Zwergorks den gefangenen Bestien\r\nKriegsrüstungen anlegen.\r\nÜber diese Rüstungen können sie die Bestien lenken\r\nund sich gefügig machen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "ニルビリス大橋からメガド居住層へと繋がる地下水路\r\n",
+      "source_en": "From Nilviris Bridge, an underground waterway\r\nleads to the Megado residential layer.",
+      "text": "Von der Großen Nilviris-Brücke führt ein unterirdischer\r\nWasserweg ins Wohnviertel von Megado."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

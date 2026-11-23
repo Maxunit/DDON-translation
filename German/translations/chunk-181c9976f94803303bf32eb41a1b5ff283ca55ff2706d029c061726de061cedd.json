@@ -1,0 +1,264 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60319004.gmd",
+  "arc_path": "\\quest\\q60319004.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "あなたのご協力もあって\r\n解放軍の活動範囲も拡がってきました\r\n――でも、魔軍の動きもそれに応じて\r\n活発化してきているようなんです",
+      "source_en": "",
+      "text": "Auch dank deiner Hilfe können wir mit der\r\nBefreiungsarmee jetzt in mehr Gebieten operieren.\r\nAber die Dämonenarmee\r\nrückt offenbar ebenfalls weiter vor."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "先に戻った仲間の話では\r\n魔軍が近いうちに解放軍の拠点を襲撃する\r\n可能性すらあるとか",
+      "source_en": "",
+      "text": "Die Kameraden, die schon zurückgekehrt sind,\r\nglauben sogar, dass die Dämonenarmee bald\r\neinen unserer Stützpunkte angreifen könnte."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "こうなっては、時は一刻を争います――\r\n襲撃情報の調査に出ている人たちの\r\n居場所をお伝えします",
+      "source_en": "",
+      "text": "Wir dürfen keine Zeit verlieren.\r\nIch sage dir, wo die Leute sind,\r\ndie nach Hinweisen auf den Überfall suchen."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "彼らの情報を元に、襲撃を事前に\r\n食い止めていただけないでしょうか\r\n――あなたの強さに頼りきりの作戦でごめんなさい\r\nでも、これしかないんです――！",
+      "source_en": "",
+      "text": "Könntest du den Überfall verhindern,\r\nsobald du von ihnen erfahren hast, was der Feind vorhat?\r\nVerzeih, dass wir uns bei diesem Plan ganz auf dich verlassen.\r\nAber uns bleibt nichts anderes übrig!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "時は一刻を争います――\r\n襲撃情報の調査に出ている人たちの\r\n居場所をお伝えします\r\n情報を元に、襲撃を食い止めてください",
+      "source_en": "",
+      "text": "Wir dürfen keine Zeit verlieren.\r\nIch sage dir, wo die Leute sind,\r\ndie nach Hinweisen auf den Überfall suchen.\r\nFinde heraus, was sie wissen, und verhindere den Überfall."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "仲間の転戦情報１",
+      "source_en": "",
+      "text": "Kampfbericht 1"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "仲間の転戦情報２",
+      "source_en": "",
+      "text": "Kampfbericht 2"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "仲間の転戦情報３",
+      "source_en": "",
+      "text": "Kampfbericht 3"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "応援に来てくれたのか\r\n私は魔軍が<SPOT 1093>に向かって\r\n進軍開始したのを、この目で見ている\r\nこの情報を覚者殿に託そう",
+      "source_en": "",
+      "text": "Du kommst uns helfen?\r\nDie Dämonenarmee ist auf dem Weg zu „<SPOT 1093>“.\r\nIch habe mit eigenen Augen gesehen, wie sie aufgebrochen ist.\r\nEs liegt jetzt an dir, Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "私は魔軍が<SPOT 1093>に向かって\r\n進軍開始したのを、この目で見ている\r\n覚者殿、手遅れになる前に向かってくれ",
+      "source_en": "",
+      "text": "Die Dämonenarmee ist auf dem Weg zu „<SPOT 1093>“.\r\nIch habe mit eigenen Augen gesehen, wie sie aufgebrochen ist.\r\nBrich auf, bevor es zu spät ist, Erweckter."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "ああ、作戦は成功したんですね\r\n襲撃を事前に食い止めることができて\r\nよかった――！",
+      "source_en": "",
+      "text": "Ah, der Plan ist also aufgegangen!\r\nGut, dass wir den Überfall\r\nrechtzeitig verhindern konnten!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "ですが、魔軍はこれからも\r\n隙あらば襲撃を計画することでしょう\r\nもしもまた不穏な動きを見かけられたら\r\n討伐をお願いできませんか？",
+      "source_en": "",
+      "text": "Aber die Dämonenarmee wird vermutlich\r\njede Gelegenheit für weitere Überfälle nutzen.\r\nWenn du wieder etwas Verdächtiges bemerkst,\r\nkannst du sie dann für uns aufhalten?"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "覚者さま！\r\n魔軍が<SPOT 1093>に\r\n向かっているみたいなんです",
+      "source_en": "",
+      "text": "Erweckter!\r\nDie Dämonenarmee zieht wohl auf „<SPOT 1093>“\r\nzu."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_jp",
+      "source_jp": "それに、少し様子を見ていたら\r\n軍勢の中に＜マンティコア＞がいました\r\n覚者さまは魔軍を追われるのですよね？\r\n大型の魔物と戦う準備をお忘れなく――",
+      "source_en": "",
+      "text": "Ich habe eine Weile zugesehen.\r\nUnter den Monstern war ein Mantikor.\r\nDu folgst der Dämonenarmee doch, Erweckter?\r\nDenk daran, dich auf den Kampf mit einem großen Monster vorzubereiten …"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_jp",
+      "source_jp": "君が応援に来てくれたのか！\r\nこれは心強い――少しほっとしてしまったよ",
+      "source_en": "",
+      "text": "Du bist gekommen, um zu helfen!\r\nNa, da fällt mir ein Stein vom Herzen."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_jp",
+      "source_jp": "魔軍の目当ては<SPOT 1045>のようだ\r\nすでに進軍開始している――\r\nまだ襲撃には至っていないはずだが\r\n急いで後を追ってくれ！",
+      "source_en": "",
+      "text": "Die Dämonenarmee will wohl zu „<SPOT 1045>“.\r\nSie ist schon auf dem Weg …\r\nNoch hat sie wohl nicht angegriffen.\r\nBeeil dich und nimm die Verfolgung auf!"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_jp",
+      "source_jp": "そうだ、魔軍の中には＜マンティコア＞もいるようだ\r\n大型の魔物と対峙するための準備は十分か\r\n一度確認した方がいいんじゃないか",
+      "source_en": "",
+      "text": "Ach ja, die Dämonenarmee hat wohl auch einen Mantikor dabei.\r\nPrüf lieber noch mal,\r\nob du für den Kampf mit einem großen Monster bereit bist."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_jp",
+      "source_jp": "他にも応援に向かえる戦力を探しておくよ\r\n俺が覚者さんと一緒に行くより\r\n腕の立つ誰かを呼んだ方が役に立つだろ？\r\n――それじゃあ、頼んだぜ！",
+      "source_en": "",
+      "text": "Ich suche noch mehr Leute, die mitkämpfen können.\r\nDu hast bestimmt mehr davon, wenn ich\r\njemanden hole, der wirklich was kann.\r\nAlso dann, ich zähle auf dich!"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_jp",
+      "source_jp": "魔軍は<SPOT 1093>に\r\n向かっているみたいなんです",
+      "source_en": "",
+      "text": "Zu „<SPOT 1093>“ ist die Dämonenarmee\r\nwohl unterwegs."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_jp",
+      "source_jp": "それに、少し様子を見ていたら\r\n軍勢の中に＜マンティコア＞がいました\r\n覚者さまは魔軍を追われるのですよね？\r\n大型の魔物と戦う準備をお忘れなく――",
+      "source_en": "",
+      "text": "Ich habe eine Weile zugesehen.\r\nUnter den Monstern war ein Mantikor.\r\nDu folgst der Dämonenarmee doch, Erweckter?\r\nDenk daran, dich auf den Kampf mit einem großen Monster vorzubereiten …"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_jp",
+      "source_jp": "魔軍の目当ては<SPOT 1045>のようだ\r\nすでに進軍開始している――\r\nまだ襲撃には至っていないはずだが\r\n急いで後を追ってくれ！",
+      "source_en": "",
+      "text": "Die Dämonenarmee will wohl zu „<SPOT 1045>“.\r\nSie ist schon auf dem Weg …\r\nNoch hat sie wohl nicht angegriffen.\r\nBeeil dich und nimm die Verfolgung auf!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_jp",
+      "source_jp": "そうだ、魔軍の中には＜マンティコア＞もいるようだ\r\n大型の魔物と対峙するための\r\n準備は十分か、一度確認した方がいいな",
+      "source_en": "",
+      "text": "Ach ja, die Dämonenarmee hat wohl einen Mantikor dabei.\r\nPrüf lieber noch mal, ob du für den Kampf\r\nmit einem großen Monster bereit bist."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_jp",
+      "source_jp": "他にも応援に向かえる戦力を探しておくよ\r\n――それじゃあ、頼んだぜ！",
+      "source_en": "",
+      "text": "Ich suche noch mehr Leute, die mitkämpfen können.\r\nAlso dann, ich zähle auf dich!"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_jp",
+      "source_jp": "<NPC 655>は、今回の襲撃で\r\n急きょ情報収集にご協力いただいた方なんです\r\nなので、どこまで情報を掴んでいらっしゃるかは\r\nわからないのです――",
+      "source_en": "",
+      "text": "„<NPC 655>“ konnte uns kurzfristig helfen,\r\nInformationen über den Überfall zu sammeln.\r\nDarum weiß ich nicht genau,\r\nwie viel dabei herausgekommen ist …"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_jp",
+      "source_jp": "魔軍の進行先を確認した後\r\n<STG 132>のどこかで\r\n留まっているようですね\r\n現地に向かえば、楽に会えるはずです",
+      "source_en": "",
+      "text": "Nachdem klar war, wohin die Dämonenarmee zieht,\r\nging es wohl nach „<STG 132>“.\r\nDort hält sich die Person wohl irgendwo auf.\r\nDu solltest die Person vor Ort leicht finden."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_jp",
+      "source_jp": "<NPC 657>は慎重かつ\r\n細やかな性格の戦士です\r\nきっと、今回の件について詳細な情報を\r\n得ているはずです",
+      "source_en": "",
+      "text": "„<NPC 657>“ geht sehr vorsichtig\r\nund gründlich vor.\r\nIch bin sicher, dass es genauere Informationen\r\nüber den Überfall gibt."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_jp",
+      "source_jp": "<STG 132>のどこかで転戦しながら\r\n魔軍の様子を探っています\r\n現地に向かえば、会えるはずです",
+      "source_en": "",
+      "text": "Irgendwo bei „<STG 132>“ wird noch gekämpft\r\nund die Dämonenarmee beobachtet.\r\nDort müsstet ihr euch treffen können."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_jp",
+      "source_jp": "<NPC 602>は――正直に言って\r\n戦闘に向いた人ではありません――\r\nでも、今回の件については本気で心配し\r\n情報収集にも真剣に取り組んでくれているんです",
+      "source_en": "",
+      "text": "„<NPC 602>“ ist offen gesagt\r\nkein besonders guter Kämpfer …\r\nAber der Überfall bereitet ihm große Sorgen.\r\nEr gibt sich Mühe, so viel wie möglich herauszufinden."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_jp",
+      "source_jp": "<STG 132>のどこかに潜んで\r\n魔軍の様子を探りつつ、応援を呼ぼうと\r\n動いてくれているようなのですが――\r\nそれだけに、彼を見つけるのは難しいと思います",
+      "source_en": "",
+      "text": "Er hält sich wohl irgendwo bei „<STG 132>“ versteckt,\r\num die Dämonenarmee zu beobachten\r\nund Verstärkung zu rufen …\r\nDarum wird es wohl schwierig, ihn zu finden."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_jp",
+      "source_jp": "無事、問題の軍勢に追いついたんだな\r\n拠点を潰されては一大事だ\r\n早く討伐しなければ――",
+      "source_en": "",
+      "text": "Du hast den Trupp also eingeholt.\r\nWenn er unseren Stützpunkt zerstört, ist alles verloren.\r\nWir müssen ihn sofort besiegen …"
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_jp",
+      "source_jp": "覚者さま、<SPOT 1045>に\r\n向かっていた軍勢に追いつかれたのですね\r\n被害が出る前に討伐を――！",
+      "source_en": "",
+      "text": "Erweckter, den Trupp auf dem Weg zu „<SPOT 1045>“\r\nhast du also eingeholt!\r\nBesiege ihn, bevor jemand zu Schaden kommt!"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_jp",
+      "source_jp": "俺が見た軍勢に追いついたんだな\r\n急いで討伐してくれ！",
+      "source_en": "",
+      "text": "Du hast den Trupp eingeholt, den ich gesehen habe.\r\nBeeil dich und besiege ihn!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

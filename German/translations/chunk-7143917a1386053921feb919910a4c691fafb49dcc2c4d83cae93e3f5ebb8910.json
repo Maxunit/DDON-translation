@@ -1,0 +1,168 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60319001.gmd",
+  "arc_path": "\\quest\\q60319001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "今何をしているか、ですか\r\n実はですな、メイロワ将軍からの指令を受け\r\nある敵を討伐するために追跡中なのです",
+      "source_en": "What I'm doin', you ask?\r\nActually, see— got a command from General Meirova,\r\ntrackin' a certain foe to vanquish 'em!",
+      "text": "Was ich hier tue?\r\nGeneral Meirova hat mich losgeschickt.\r\nIch soll einen Feind verfolgen und besiegen!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "しかし、なかなか思うように進んでおらず――\r\nもしや、ご助力いただけるのですか！？",
+      "source_en": "But 'tis not going as hoped— Mayhap...\r\nyou'd lend your aid?!",
+      "text": "Ich komme aber kaum voran …\r\nWillst du mir etwa helfen?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "なんとありがたい！\r\nええ、すぐにでも追跡方法をお伝えしましょう",
+      "source_en": "How kind! Aye, I'll share the tracking\r\nmethod straight away!",
+      "text": "Das ist freundlich von dir!\r\nDann zeige ich dir gleich, wie du seine Spur aufnimmst!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "私が追跡している敵ですが\r\n現状、どこにいるのかが\r\nはっきりとはわかっておりません",
+      "source_en": "The foe I've been tracking... truth is, I don't\r\nrightly know where they've gotten to!",
+      "text": "Ich verfolge den Feind schon eine Weile.\r\nWo er sich jetzt aufhält, weiß ich aber nicht genau!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ですが、その痕跡はすでに発見しています\r\n痕跡を追った先で遭遇できるはずなのです",
+      "source_en": "But I've already found their tracks!\r\nFollowing 'em should lead right to 'em!",
+      "text": "Seine Spuren habe ich aber schon gefunden!\r\nWenn du ihnen folgst, solltest du auf ihn stoßen!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "追跡を開始する",
+      "source_en": "Begin the pursuit",
+      "text": "Verfolgung beginnen"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "――少し待ってほしい",
+      "source_en": "...I want to wait awhile",
+      "text": "Noch etwas warten"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "敵の痕跡が残っていそうな場所を\r\n地図に書き記しておきました\r\n印のある辺りの探索をお願いいたします",
+      "source_en": "I've marked on the map where enemy\r\ntraces might linger.\r\nPray, explore round the marked spots.",
+      "text": "Ich habe auf der Karte markiert,\r\nwo es Spuren des Feindes geben könnte.\r\nSuch bitte bei den Markierungen."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ただ、一つ問題がありまして\r\n敵もやるもので、こちらが追跡を試みていることに\r\n勘付くと逃げてしまいます",
+      "source_en": "But one hitch— enemy's sharp. Catch us\r\ntrackin', they'll bolt!",
+      "text": "Eines macht die Sache schwierig. Der Feind ist wachsam.\r\nWenn er merkt, dass wir ihn verfolgen, flieht er!"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "つまり――\r\nあまり追跡に時間をかけられんのです\r\nこれが私たちではなかなか難しいことでしてな",
+      "source_en": "In short-- we haven't the hours for a long\r\npursuit. And 'tis no simple matter for us.",
+      "text": "Wir dürfen uns bei der Verfolgung also nicht zu viel Zeit lassen.\r\nDas ist für uns gar nicht so einfach."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "――いえ、覚者様ならばこの程度\r\n問題にならないかもしれませんが\r\n一応お伝えしておこうかと！",
+      "source_en": "—Well, for Ser Arisen this much may not pose a\r\nproblem, but I thought I'd mention\r\nit just in case!",
+      "text": "Für dich ist das bestimmt kein Problem,\r\nErweckter. Ich wollte es dir bloß\r\nvorsichtshalber gesagt haben!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "おおお、さすがは覚者様！\r\n追跡し、敵の居どころを突き止めるばかりか\r\nすでに討伐までしてきてくださったとは――！\r\n何とありがたく、頼もしいことでしょう！",
+      "source_en": "Ohhh, as expected of Ser Arisen!\r\nNot only trackin' 'em down and findin' their\r\nhideout— but you've already gone and slain 'em—!\r\nHow grateful... how reassurin' 'tis!",
+      "text": "Donnerwetter, Erweckter!\r\nDu hast den Feind verfolgt und sein\r\nVersteck entdeckt. Und besiegt hast du ihn auch schon!\r\nIch bin froh, dass wir auf dich zählen können!"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "本件は余すことなく\r\nメイロワ将軍にご報告しておきましょう\r\nご協力、心より感謝しますぞ",
+      "source_en": "I'll report every detail to General Meirova!\r\nI sincerely thank you for your cooperation.",
+      "text": "Ich werde General Meirova alles genau berichten!\r\nVielen Dank für deine Hilfe."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "追跡開始します――時間内に痕跡を発見しましょう",
+      "source_en": "Pursuit begins — find the traces ere\r\ntime runs out.",
+      "text": "Die Verfolgung beginnt. Finde die Spuren,\r\nbevor die Zeit abläuft."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "魔物は何かに気付き始めたようです――急ぎましょう",
+      "source_en": "The monsters seem to have noticed\r\naught—make haste.",
+      "text": "Das Monster scheint etwas zu ahnen.\r\nBeeil dich."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "魔物を見失いました――再度私にお声がけください",
+      "source_en": "Lost track of the monster.",
+      "text": "Du hast das Monster aus den Augen verloren. Sprich mich an, um es erneut zu versuchen."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "敵の痕跡が残っていそうな場所を\r\n地図に書き記しておきました\r\n印のある辺りの探索をお願いいたします",
+      "source_en": "I've marked on the map where enemy traces might\r\nlinger. Go explore around the marked spots.",
+      "text": "Ich habe auf der Karte markiert, wo es Spuren\r\ndes Feindes geben könnte. Such bei den Markierungen."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "ただ、一つ問題がありまして\r\n敵もやるもので、こちらが追跡を試みていることに\r\n勘付くと逃げてしまいます",
+      "source_en": "But one hitch— enemy's sharp. Catch us\r\ntrackin', they'll bolt.",
+      "text": "Eines macht die Sache schwierig. Der Feind ist wachsam.\r\nWenn er merkt, dass wir ihn verfolgen, flieht er."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "つまり――\r\nあまり追跡に時間をかけられんのです\r\nいえ、追跡に失敗してもまた改めて\r\n再出発すればよいのですがね",
+      "source_en": "In short— we can't afford to spend\r\ntoo much time trackin'.\r\nWell, even if the trackin' fails, we could\r\njust start afresh, aye.",
+      "text": "Wir dürfen uns bei der Verfolgung also\r\nnicht zu viel Zeit lassen.\r\nWenn es schiefgeht, können wir natürlich\r\nnoch einmal von vorn anfangen."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "おお、これは失礼をば――\r\nどうも気が急いてしまったようです\r\n覚者様にもご準備がありましょう\r\nもちろんお待ちいたしますとも",
+      "source_en": "Oh, my apologies—\r\nSeems my impatience got the better of me.\r\nSer Arisen has preparations of your own, I'm sure.\r\nOf course I shall wait!",
+      "text": "Verzeih!\r\nDa war ich wohl etwas voreilig.\r\nDu musst dich bestimmt auch noch vorbereiten.\r\nIch warte natürlich!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

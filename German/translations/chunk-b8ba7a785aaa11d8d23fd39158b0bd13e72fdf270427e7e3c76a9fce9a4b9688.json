@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300004_00.gmd",
+  "arc_path": "\\quest\\q60300004.arc",
+  "entries": [
+    {
+      "key": "q60300004_00_278",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "カスタムメイド工房３　武具極限合成",
+      "source_en": "Custom-Made Workshop 3: Ultimate Arms Synthesis",
+      "text": "Spezialwerkstatt 3 – Ultimative Synthese"
+    },
+    {
+      "key": "q60300004_00_278",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "武具のカスタムメイド工房で\r\n武具の極限合成について教示を受ける",
+      "source_en": "Get taught about Ultimate Synthesis of Arms at \r\nthe Custom-Made Workshop",
+      "text": "Lass dir in der Spezialwerkstatt\r\ndie Ultimative Synthese erklären."
+    },
+    {
+      "key": "q60300004_00_3454",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "★４の最強武具を1回極限合成する",
+      "source_en": "Ultimate Synthesis a ★4 equipment 1 time",
+      "text": "Setze die Ultimative Synthese einmal an einem der stärksten Ausrüstungsteile mit vier Sternen ein."
+    },
+    {
+      "key": "q60300004_00_3455",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 1047>に極限合成の結果を伝える",
+      "source_en": "Tell <NPC 1047> the results of Ultimate Synthesis",
+      "text": "Zeig <NPC 1047> das Ergebnis der Ultimativen Synthese."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

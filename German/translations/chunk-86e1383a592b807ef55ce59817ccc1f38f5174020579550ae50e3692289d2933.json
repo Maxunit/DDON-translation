@@ -1,0 +1,128 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300400_00.gmd",
+  "arc_path": "\\quest\\q60300400.arc",
+  "entries": [
+    {
+      "key": "q60300400_00_296",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔剣の証　ハイセプター戦術試練",
+      "source_en": "High Scepter Tactics Trial: A Magick Sword",
+      "text": "Zeichen des magischen Schwerts – Taktikprüfung für Zauberklingen"
+    },
+    {
+      "key": "q60300400_00_296",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ハイセプターの基本戦術を学ぶため\r\n修練の祠にて試練に挑む",
+      "source_en": "In order to learn the basics of High Scepter,\r\nchallenge the trial of the Training Chapel",
+      "text": "Stell dich der Prüfung im Übungsschrein,\r\num die Grundlagen für Zauberklingen zu lernen."
+    },
+    {
+      "key": "q60300400_00_4179",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "修練の祠内のウィルソンと話す",
+      "source_en": "Speak with Wilson in the Training Chapel",
+      "text": "Sprich mit Wilson im Übungsschrein."
+    },
+    {
+      "key": "q60300400_00_4180",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "四連斬で敵を攻撃せよ",
+      "source_en": "Attack an enemy with Quadruple Slash",
+      "text": "Greif einen Gegner mit dem Vierfachhieb an."
+    },
+    {
+      "key": "q60300400_00_4181",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ウィル・マーカーを発動せよ",
+      "source_en": "Activate Will Marker",
+      "text": "Setze das Willensmal ein."
+    },
+    {
+      "key": "q60300400_00_4182",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ルイン・ショットを発動せよ",
+      "source_en": "Activate Ruin Shot",
+      "text": "Setze den Verderbensschuss ein."
+    },
+    {
+      "key": "q60300400_00_4183",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "避翻斬で攻撃を回避せよ",
+      "source_en": "Avoid an attack with Dodge Counter Slash",
+      "text": "Weich einem Angriff mit dem Ausweichkonter aus."
+    },
+    {
+      "key": "q60300400_00_4184",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "バック・リープで敵から離れよ",
+      "source_en": "Move away from an enemy with Back Leap",
+      "text": "Verschaff dir mit dem Rücksprung Abstand zum Gegner."
+    },
+    {
+      "key": "q60300400_00_4185",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "ルイン・ブレードで敵を攻撃せよ",
+      "source_en": "Attack an enemy with Ruin Blade",
+      "text": "Greif einen Gegner mit der Verderbensklinge an."
+    },
+    {
+      "key": "q60300400_00_4186",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "サイクロプスを倒せ",
+      "source_en": "Defeat the Cyclops",
+      "text": "Besiege den Zyklopen."
+    },
+    {
+      "key": "q60300400_00_4187",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "最奥にある＜魔剣の証＞を入手する",
+      "source_en": "Collect the proof of completing the trial",
+      "text": "Hol das Zeichen des magischen Schwerts am Ende des Schreins ab."
+    },
+    {
+      "key": "q60300400_00_4188",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿のレンテンに経緯を報告する",
+      "source_en": "Report back to Renton in the White Dragon Temple",
+      "text": "Erstatte Renton im Tempel des Weißen Drachen Bericht."
+    },
+    {
+      "key": "q60300400_00_4258",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "リターン・シフトで接敵せよ",
+      "source_en": "Move toward an enemy with Return Shift",
+      "text": "Nähere dich dem Gegner mit Rückkehr."
+    },
+    {
+      "key": "q60300400_00_4282",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "魔印をした敵を攻撃して、印を成長させよ",
+      "source_en": "Attack a marked foe with Magick Glyph to grow it",
+      "text": "Greif einen markierten Gegner an, damit sein Zaubermal wächst."
+    },
+    {
+      "key": "q60300400_00_4283",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "魔力を溜めよ",
+      "source_en": "Accumulate magick",
+      "text": "Sammle Magie."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

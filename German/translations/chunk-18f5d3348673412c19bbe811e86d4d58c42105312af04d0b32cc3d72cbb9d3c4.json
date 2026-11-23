@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\npc\\npc_class_name.gmd",
+  "arc_path": "\\npc\\npc_common.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "防具屋",
+      "source_en": "Armor Shop",
+      "text": "Rüstungsladen"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "素材屋",
+      "source_en": "Material Shop",
+      "text": "Materialladen"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "素材屋",
+      "source_en": "Material Shop",
+      "text": "Materialladen"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "素材屋",
+      "source_en": "Material Shop",
+      "text": "Materialladen"
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "素材屋",
+      "source_en": "Material Shop",
+      "text": "Materialladen"
+    },
+    {
+      "key": "",
+      "read_index": "53",
+      "tag_source": "source_en",
+      "source_jp": "素材屋",
+      "source_en": "Material Shop",
+      "text": "Materialladen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

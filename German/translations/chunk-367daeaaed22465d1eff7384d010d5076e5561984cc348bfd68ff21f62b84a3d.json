@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300050_00.gmd",
+  "arc_path": "\\quest\\q60300050.arc",
+  "entries": [
+    {
+      "key": "q60300050_00_273",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【調理日課】ティネス　調理支給",
+      "source_en": "[Daily Cooking] Fort Thines - Cooking Supply",
+      "text": "[Kochen täglich] Festung Thines – Warme Mahlzeiten"
+    },
+    {
+      "key": "q60300050_00_273",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から復興に関する\r\n問題解決に挑む",
+      "source_en": "Tackle the issue related to reconstruction,\r\nas presented by the requester",
+      "text": "Hilf dem Auftraggeber\r\nbei seiner Aufgabe zum Wiederaufbau."
+    },
+    {
+      "key": "q60300050_00_3377",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 580>を手伝うか決める",
+      "source_en": "Decide if you want to help <NPC 580>",
+      "text": "Entscheide, ob du <NPC 580> helfen möchtest."
+    },
+    {
+      "key": "q60300050_00_3378",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "<STG 443>で<NPC 580>と待ち合わせる",
+      "source_en": "Meet up with <NPC 580> at <STG 443>",
+      "text": "Triff dich mit <NPC 580> in „<STG 443>“."
+    },
+    {
+      "key": "q60300050_00_3379",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<STG 443>で帰還兵を探し料理をふるまう（残り３）",
+      "source_en": "Find and serve returning soldiers \r\nin <STG 443> (3 left)",
+      "text": "Finde die heimgekehrten Soldaten\r\nin „<STG 443>“ und bring ihnen Essen (noch 3)."
+    },
+    {
+      "key": "q60300050_00_3387",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<STG 448>に向かい<NPC 580>の用事を聞く",
+      "source_en": "Head to <STG 448> and ask about <NPC 580>'s errands",
+      "text": "Geh zu „<STG 448>“ und frag <NPC 580>, was zu tun ist."
+    },
+    {
+      "key": "q60300050_00_3388",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<STG 443>で帰還兵を探し料理をふるまう（残り２）",
+      "source_en": "Find and serve returning soldiers \r\nin <STG 443> (2 left)",
+      "text": "Finde die heimgekehrten Soldaten\r\nin „<STG 443>“ und bring ihnen Essen (noch 2)."
+    },
+    {
+      "key": "q60300050_00_3391",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<STG 443>で帰還兵を探し料理をふるまう（残り１）",
+      "source_en": "Find and serve returning soldiers \r\nin <STG 443> (1 left)",
+      "text": "Finde den letzten heimgekehrten Soldaten\r\nin „<STG 443>“ und bring ihm Essen (noch 1)."
+    },
+    {
+      "key": "q60300050_00_3395",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "<STG 448>に戻って料理を作り直す",
+      "source_en": "Go back to <STG 448> and remake the food",
+      "text": "Kehre zu „<STG 448>“ zurück und koche das Essen noch einmal."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

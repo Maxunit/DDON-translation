@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\npc\\func_class_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "FUNC_CLASS_NAME_6",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "素材屋",
+      "source_en": "Material Shop",
+      "text": "Materialladen"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_9",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "防具屋",
+      "source_en": "Armor Shop",
+      "text": "Rüstungsladen"
+    },
+    {
+      "key": "FUNC_CLASS_NAME_73",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "武具の資源分解",
+      "source_en": "Equipment Disassembly",
+      "text": "Ausrüstung zerlegen"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

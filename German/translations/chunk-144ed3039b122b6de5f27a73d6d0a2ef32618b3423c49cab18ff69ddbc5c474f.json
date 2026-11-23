@@ -1,0 +1,184 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60300411.gmd",
+  "arc_path": "\\quest\\q60300411.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ああ――あの石コロが欲しいんだナ？\r\nなら、取引きといこう\r\n<STG 550>に<NPC 2004>を\r\n向かわせるから、そこで聞け",
+      "source_en": "Aah—you want dat shiny rock?\r\nThen let's make deal!\r\nI send <NPC 2004> to <STG 550>,\r\ngo ask dere!",
+      "text": "Ah, du willst also den Glitzerstein?\r\nDann handeln wir!\r\nIch schick <NPC 2004> nach „<STG 550>“.\r\nFrag da nach!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "取引きするんじゃないのカ？\r\n<STG 550>に<NPC 2004>を\r\n向かわせるから、あっちで聞くんだナ",
+      "source_en": "We do trade, yes?\r\nMe send <NPC 2004> to <STG 550> -\r\nyou go ask dere, ya?",
+      "text": "Wir wollten doch handeln, hm?\r\nIch schick <NPC 2004> nach „<STG 550>“.\r\nGeh hin und frag nach!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "人間――取引すル、人間カ\r\nエンブレムストーンが欲しけレバ\r\nこの先のオークたち、倒してコイ！\r\n頼みとエンブレムストーン、交換ダ",
+      "source_en": "Hu-man! Trade-trade?!\r\nWant glowy Emblem Stone?\r\nSlay ugly orcs first!\r\nThen we swap-shiny!",
+      "text": "Mensch! Willst handeln?\r\nWillst das glitzernde Klassenemblem?\r\nDann besieg erst die hässlichen Orks da hinten!\r\nDanach kriegst du den Stein!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "カクゴはいいか？\r\nさっそくタメすかどうかキメロ",
+      "source_en": "You ready, squish-skin?!\r\nDecide-die or run-cry NOW!",
+      "text": "Bist bereit, Mensch?\r\nEntscheid dich! Willst gleich los?"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "いつでもOKだ",
+      "source_en": "It is OK whenever.",
+      "text": "Ich bin bereit."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "――少し考えさせてほしい",
+      "source_en": "...I want to think a bit",
+      "text": "Ich möchte darüber nachdenken …"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "王のノゾミ、聞くンだナ――ヨシヨシ\r\n奥にいる敵、ミナたおせ！\r\n途中で倒れタリ、ノロノロするのはダメダ",
+      "source_en": "Listen-bow to King's wish! GOOD-GOOD!\r\nKill-kill ALL enemies in back-cave!\r\nNo slow-slow, no weak-fall! BAD-BAD!",
+      "text": "Du tust, was der König will? Gut, gut!\r\nAlle Feinde hinten in der Höhle besiegen!\r\nNicht trödeln, nicht umfallen! Ist schlecht!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "失敗して出直ス時――\r\nまァ、声かけるなら、ツキアッテヤル",
+      "source_en": "If you fail-crumble…\r\nheh, just yelp-help!\r\nMe maybe share win-magick!",
+      "text": "Wenn’s schiefgeht …\r\nHe, dann ruf nach mir!\r\nVielleicht helf ich dir noch mal."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ワカッタ――\r\n準備できタラ、声かけロ\r\nチョットくらい、待ってヤル",
+      "source_en": "Know-know!\r\nPrepare-fast…\r\nor me leave-sneak!\r\nTiny-wait only!",
+      "text": "Schon verstanden!\r\nMach dich bereit.\r\nDann sag Bescheid!\r\nEin bisschen warte ich."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "失敗して出直ス時――\r\nまァ、声かけるなら、ツキアッテヤル",
+      "source_en": "If you fail-crumble…\r\nheh, just yelp-help!\r\nMe maybe share win-magick!",
+      "text": "Wenn’s schiefgeht …\r\nHe, dann ruf nach mir!\r\nVielleicht helf ich dir noch mal."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "奥にいる敵、ミナたおせ！\r\n途中で倒れタリ、ノロノロするのはダメダ",
+      "source_en": "Kill ALL enemies in back!\r\nNo slow-slow! No fall down mid-way!",
+      "text": "Alle Feinde da hinten besiegen!\r\nNicht trödeln! Und nicht umfallen!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "オマエ、やるナ！\r\n王にホウコクしとく\r\nオマエも王にアイサツ忘れルナ",
+      "source_en": "You! Good fight!\r\nMe tells King about you!\r\nYou bow to King too!",
+      "text": "He, du hast gut gekämpft!\r\nSag ich dem König!\r\nGrüß ihn auch selbst, hörst du?"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "おおっ！　首尾よくスピリットランサーの\r\nエンブレムストーンを手に入れてきたみたいだな！\r\nさっそく確かめてみようぜ",
+      "source_en": "Ho! You've acquired\r\na Spirit Lancer Emblem Stone!\r\nShall we inspect it?",
+      "text": "Oh, du hast es geschafft!\r\nDu hast das Klassenemblem der Geisterlanciers.\r\nSehen wir es uns gleich an!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "他のジョブのエンブレムストーンも\r\n手に入れたら、一度俺に見せてくれよ",
+      "source_en": "Once you get Emblem Stones for other jobs,\r\nshow them to me, will you?",
+      "text": "Wenn du Klassenembleme für andere Klassen findest,\r\nzeig sie mir auch mal, ja?"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "ノロノロせず、イチバン奥のオークをタオセ――それが王のノゾミ",
+      "source_en": "Be fast, defeat orc in back—\r\nthat king wish.",
+      "text": "Besieg schnell den Ork ganz hinten.\r\nSo will es der König."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "時間、カカリスギ――イソゲ！！",
+      "source_en": "Time-waste too much—HURRY UP!!",
+      "text": "Dauert zu lang! Beeil dich!"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "オマエ失敗ダ、台無しダ――まァ、声かけるなら、もう一回ツキアッテヤル",
+      "source_en": "Fail-fail! Mess-mess!\r\nBeg pretty, maybe\r\nme help... ONE time!",
+      "text": "Du hast versagt! Alles hin!\r\nWenn du mich noch mal fragst,\r\nhelf ich dir vielleicht ein letztes Mal."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "ヤッタ！　――オレのトコロ、モドッテこい！",
+      "source_en": "Yahaha! \r\n—You come back to lair, ya!",
+      "text": "Jaha!\r\nKomm zurück zu mir in die Höhle!"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "オマエ、やるナ！\r\n王にホウコクしとく\r\nオマエも王にアイサツ忘れルナ",
+      "source_en": "You! Good fight!\r\nMe tells King about you!\r\nYou bow to King too!",
+      "text": "He, du hast gut gekämpft!\r\nSag ich dem König!\r\nGrüß ihn auch selbst, hörst du?"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "取引き完了だナ！\r\n石コロ１つで、邪魔なヤツらを追い払えタ――\r\nお前はちょっと働いて、あの石コロを手に入れられタ\r\nお互い、良かったよナ",
+      "source_en": "Deal's done!\r\nOne little rock to chase those pests away—\r\nYou put in work and get your prize.\r\nGood deal for both of us!",
+      "text": "Handel abgeschlossen!\r\nEin Stein, und schon bin ich die Plagegeister los.\r\nDu hast für mich gearbeitet und hast den Stein.\r\nGuter Handel für uns beide!"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "石コロ――エンブレムストーンは他にもあるゾ\r\n別のジョブのが欲しければ、ＬＶ．70になって\r\n役に立てるようになってから――また来いヨ\r\n取引きしてヤル",
+      "source_en": "Shiny rock—Emblem Stone, we got more-ya!\r\nWant different job-stone? Come back at Level 70,\r\nwhen you strong-strong—then we trade-ya!\r\nPromise good deal!",
+      "text": "Gibt noch mehr von den Steinen, den Klassenemblemen.\r\nWillst eins für eine andere Klasse? Komm wieder auf Stufe 70.\r\nDann bist du stark genug und wir können wieder handeln.\r\nAbgemacht!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "石コロ――エンブレムストーンは他にもあるゾ\r\n別のジョブのが欲しければ、ＬＶ．70になって\r\n役に立てるようになってから――また来いヨ\r\n取引きしてヤル",
+      "source_en": "Shiny rock—Emblem Stone, we got more-ya!\r\nWant different job-stone? Come back at Level 70,\r\nwhen you strong-strong—then we trade-ya!\r\nPromise good deal!",
+      "text": "Gibt noch mehr von den Steinen, den Klassenemblemen.\r\nWillst eins für eine andere Klasse? Komm wieder auf Stufe 70.\r\nDann bist du stark genug und wir können wieder handeln.\r\nAbgemacht!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

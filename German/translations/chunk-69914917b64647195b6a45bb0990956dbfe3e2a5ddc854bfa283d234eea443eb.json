@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300000_00.gmd",
+  "arc_path": "\\quest\\q60300000.arc",
+  "entries": [
+    {
+      "key": "q60300000_00_251",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ガーデン・エクステンド",
+      "source_en": "Extend Garden",
+      "text": "Eine Terrasse fürs eigene Zimmer"
+    },
+    {
+      "key": "q60300000_00_251",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "自室にテラスを解放するための\r\n増築方法についての依頼を受ける",
+      "source_en": "Get a request on how to expand your room \r\nto include a terrace.",
+      "text": "Nimm den Auftrag für den Umbau an,\r\num dein Zimmer um eine Terrasse zu erweitern."
+    },
+    {
+      "key": "q60300000_00_3003",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "作業依頼の方法を決める",
+      "source_en": "Choose the method of the work request",
+      "text": "Entscheide, wie du den Umbau in Auftrag gibst."
+    },
+    {
+      "key": "q60300000_00_3004",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、<NPC 1024>に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to <NPC 1024> (need: <SQDI DNUM>)",
+      "text": "Übergib „<SQDI NAME>“ (×<SQDI NUM>) an <NPC 1024> (noch <SQDI DNUM>)."
+    },
+    {
+      "key": "q60300000_00_3226",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "<STG 200>の<NPC 1024>に報告する",
+      "source_en": "Report to <NPC 1024> in <STG 200>",
+      "text": "Erstatte <NPC 1024> in „<STG 200>“ Bericht."
+    },
+    {
+      "key": "q60300000_00_3227",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "作業人員を集める（残り３人）",
+      "source_en": "Gather work personnel (3 remaining people)",
+      "text": "Suche Helfer für den Umbau (noch 3)."
+    },
+    {
+      "key": "q60300000_00_3228",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "作業人員を集める（残り２人）",
+      "source_en": "Gather work personnel (2 remaining people)",
+      "text": "Suche Helfer für den Umbau (noch 2)."
+    },
+    {
+      "key": "q60300000_00_3229",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "作業人員を集める（残り１人）",
+      "source_en": "Gather work personnel (1 remaining person)",
+      "text": "Suche Helfer für den Umbau (noch 1)."
+    },
+    {
+      "key": "q60300000_00_3230",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<STG 211>に向かい作業状況を確認する",
+      "source_en": "Head to <STG 211> and check the work situation",
+      "text": "Geh zu „<STG 211>“ und sieh nach, wie weit die Arbeiten sind."
+    },
+    {
+      "key": "q60300000_00_3231",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "改築の準備完了を待つ【待ち時間：3分(現実時間)】",
+      "source_en": "Await renovation preparations completion (waiting time: 3 minutes real time)",
+      "text": "Warte, bis die Vorbereitungen für den Umbau abgeschlossen sind (3 Minuten Echtzeit)."
+    },
+    {
+      "key": "q60300000_00_3232",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "<STG 200>の<NPC 1024>に確認する",
+      "source_en": "Confirm with <NPC 1024> in <STG 200>",
+      "text": "Frag <NPC 1024> in „<STG 200>“ nach dem Stand der Arbeiten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60301006.gmd",
+  "arc_path": "\\quest\\q60301006.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ホッホッホ、今年もやってきたぞ",
+      "source_en": "Ho ho ho, it's that time again!",
+      "text": "Hohoho, es ist wieder so weit!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "覚者様一年ぶりです！お元気でしたか？",
+      "source_en": "Ser Arisen, it's been a whole year! \r\nHow are you?",
+      "text": "Erweckter, wir haben uns ein ganzes Jahr nicht gesehen!\r\nWie geht's dir?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "今年もメリークリスマス、で御座います覚者様",
+      "source_en": "A Merry Christmas once again \r\nthis year, Ser Arisen!",
+      "text": "Auch dieses Jahr wünsche ich dir wieder\r\nfrohe Weihnachten, Erweckter!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

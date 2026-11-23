@@ -1,0 +1,136 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60318001.gmd",
+  "arc_path": "\\quest\\q60318001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ああ？　救援要請の手配を俺が――？\r\nあんたが行くってのか？",
+      "source_en": "Hah? You want me to arrange for backup..?\r\nYou're saying you'll go?",
+      "text": "Hä? Ich soll Verstärkung organisieren?\r\nUnd du gehst selbst?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "――まぁ、何かあっちゃ寝覚めが悪い\r\nで、どういう奴らを集めればいいんだ？\r\nあんたが戦いやすい方でいいけどよ",
+      "source_en": "... Well, if something goes wrong, \r\nit’ll leave a bad taste in my mouth.\r\nSo, what kind of people should I round up?\r\nIt’s up to you—whichever ones are \r\neasiest for you to fight alongside.",
+      "text": "Na, wenn was schiefgeht,\r\nkann ich nachts nicht mehr schlafen.\r\nAlso, wen soll ich zusammentrommeln?\r\nSag einfach, mit wem du\r\nam besten kämpfen kannst."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "近接攻撃主体",
+      "source_en": "Melee-Focused",
+      "text": "Nahkämpfer"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "遠距離攻撃主体",
+      "source_en": "Ranged-Focused",
+      "text": "Fernkämpfer"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "――少し考えさせてほしい",
+      "source_en": "...I want to think a bit",
+      "text": "Erst noch überlegen"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "なるほどな\r\nすぐに近距離型の友軍を\r\n編成して向かわせる\r\nあんたもさっさと現地に向かえよ",
+      "source_en": "I see. I'll organize short-distance allies and\r\ndispatch them at once. You head to the site\r\nyourself, and be fleet.",
+      "text": "Alles klar. Ich stelle einen Trupp\r\nNahkämpfer zusammen und schick ihn los.\r\nMach du dich auch auf den Weg, und zwar schnell."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "なるほどな\r\nすぐに遠距離型の友軍を\r\n編成して向かわせる\r\nあんたもさっさと現地に向かえよ",
+      "source_en": "I see. I'll organize long-range allies and\r\ndispatch them at once. You head to the site\r\nyourself, and be fleet.",
+      "text": "Alles klar. Ich stelle einen Trupp\r\nFernkämpfer zusammen und schick ihn los.\r\nMach du dich auch auf den Weg, und zwar schnell."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "すぐに近距離型の友軍を\r\n編成して向かわせる\r\nあんたもさっさと現地に向かえよ",
+      "source_en": "I'll organize short-distance allies and\r\ndispatch them at once. You head to the site\r\nyourself, and be fleet.",
+      "text": "Ich stelle einen Trupp Nahkämpfer\r\nzusammen und schick ihn gleich los.\r\nMach du dich auch schnell auf den Weg."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "すぐに遠距離型の友軍を\r\n編成して向かわせる\r\nあんたもさっさと現地に向かえよ",
+      "source_en": "I see. I'll organize long-range allies and\r\ndispatch them at once. You head to the site\r\nyourself, and be fleet.",
+      "text": "Ich stelle einen Trupp Fernkämpfer\r\nzusammen und schick ihn gleich los.\r\nMach du dich auch schnell auf den Weg."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "おおおおお、さすがは覚者殿！\r\n無事、敵軍を討伐して戻られましたな\r\nこれで敵軍の戦意を削ぐことができた",
+      "source_en": "Ohhhhh, as expected of you, Master Arisen!\r\nYou've returned safe after\r\nvanquishing the enemy host;\r\nthis should certainly dampen the enemy’s morale.",
+      "text": "Donnerwetter, Erweckter!\r\nDu bist heil zurück und hast\r\ndie feindlichen Truppen besiegt.\r\nDas dürfte ihnen die Kampflust nehmen."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "またヤツらが怪しげな動きをしていた時は\r\n今回のように蹴散らしていただけると\r\n我々としても助かりますな",
+      "source_en": "If they go actin' suspicious again... well, you\r\nscatter 'em like today, and 'twill help\r\nus out a grand deal!",
+      "text": "Wenn die sich wieder verdächtig verhalten,\r\njag sie bitte wieder so auseinander wie heute.\r\nDamit wäre uns sehr geholfen!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "おお、これは覚者殿\r\nこの度敵軍の姿を捉えましてな\r\nしかし、このままでは戦力的に不利ゆえ\r\n戻ってきた次第",
+      "source_en": "Oh, Master Arisen! We spotted the enemy forces...\r\nbut we're outmatched as things stand.\r\nThat's why I came back!",
+      "text": "Ah, Erweckter! Wir haben die Feinde entdeckt.\r\nWir sind aber zu wenige, um sie allein zu besiegen.\r\nDarum bin ich zurückgekommen."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "覚者殿、友軍を率いて\r\n敵の討伐に出てはいただけないだろうか\r\nなに、手配はオルハンがしてくれるはず",
+      "source_en": "Master Arisen, won't you lead our allies forth to\r\nvanquish the enemy? Orhan'll see\r\nto the arrangements!",
+      "text": "Könntest du unsere Verbündeten\r\ngegen die Feinde anführen, Erweckter?\r\nOrhan kümmert sich um die Vorbereitungen."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "覚者殿、友軍を率いて\r\n敵の討伐に出てはいただけないだろうか\r\nなに、手配はオルハンがしてくれるはず",
+      "source_en": "Master Arisen, won't you lead our allies forth to\r\nvanquish the enemy? Orhan'll see\r\nto the arrangements!",
+      "text": "Könntest du unsere Verbündeten\r\ngegen die Feinde anführen, Erweckter?\r\nOrhan kümmert sich um die Vorbereitungen."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "この場の敵を食い止める大役は\r\n私が引き受けよう！\r\nなに、ご安心めされよ\r\n鍛錬は欠かしたことがない",
+      "source_en": "I'll undertake the task of holding the enemies\r\nhere at bay! Now, set your mind at ease — I've\r\nne'er once neglected my training!",
+      "text": "Ich halte die Feinde hier auf!\r\nMach dir um mich keine Sorgen.\r\nIch habe mein Training nie vernachlässigt!"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "あんた、優柔不断な性格か？\r\nまぁいい――気がすむまで考えてくれ",
+      "source_en": "Are you the indecisive type?\r\nOh well—go ahead and think it over\r\nuntil you're satisfied.",
+      "text": "Kannst du dich nicht entscheiden?\r\nSchon gut. Überleg,\r\nso lange du willst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

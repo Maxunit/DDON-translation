@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60300001_00.gmd",
+  "arc_path": "\\quest\\q60300001.arc",
+  "entries": [
+    {
+      "key": "q60300001_00_252",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "奇妙な魔物探索",
+      "source_en": "Strange Creature Investigation",
+      "text": "Auf der Suche nach einem seltsamen Wesen"
+    },
+    {
+      "key": "q60300001_00_252",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "自室にマンドラゴラ育成を開始するための\r\n方法についての依頼を受ける",
+      "source_en": "Get a request on how to expand your room \r\nto include Mandragora Breeding.",
+      "text": "Nimm den Auftrag an,\r\num in deinem Zimmer mit der Mandragora-Zucht zu beginnen."
+    },
+    {
+      "key": "q60300001_00_3005",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<STG 211>に向かい招待客を迎える",
+      "source_en": "Head to <STG 211> to greet the invited guests",
+      "text": "Geh zu „<STG 211>“ und empfange den Gast."
+    },
+    {
+      "key": "q60300001_00_3006",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "外に出て<AREA 1>でマンドラゴラを探索する",
+      "source_en": "Go outside and search for Mandragora at <AREA 1>",
+      "text": "Geh nach draußen und suche in „<AREA 1>“ nach der Mandragora."
+    },
+    {
+      "key": "q60300001_00_3185",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "様子を確認してみる",
+      "source_en": "Check the situation",
+      "text": "Sieh nach, was los ist."
+    },
+    {
+      "key": "q60300001_00_3186",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "さらにマンドラゴラを探索する",
+      "source_en": "Find out more about Mandragora",
+      "text": "Suche weiter nach der Mandragora."
+    },
+    {
+      "key": "q60300001_00_3187",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "もう一度様子を確認してみる",
+      "source_en": "Check the situation again",
+      "text": "Sieh noch einmal nach, was los ist."
+    },
+    {
+      "key": "q60300001_00_3188",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q60300001_00_3189",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "エモートで＜手招き＞する",
+      "source_en": "Use \"Beckon\" emote",
+      "text": "Benutze die Geste „Heranwinken“."
+    },
+    {
+      "key": "q60300001_00_3190",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "エモートで＜歓迎＞する",
+      "source_en": "Use \"Welcome\" emote",
+      "text": "Benutze die Geste „Willkommen“."
+    },
+    {
+      "key": "q60300001_00_3343",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 1024>に招待客について相談する",
+      "source_en": "Talk to <NPC 1024> about guests",
+      "text": "Sprich mit <NPC 1024> über deinen Gast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}
