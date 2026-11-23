@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21014018_00.gmd",
+  "arc_path": "\\quest\\q21014018.arc",
+  "entries": [
+    {
+      "key": "q21014018_00_605",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "エラニック・コントラスト",
+      "source_en": "Elanic Contrast",
+      "text": "Elans fremde Farben"
+    },
+    {
+      "key": "q21014018_00_605",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【偶発討伐クエスト】\r\n出現した危険な魔物を追い詰め\r\n討伐する",
+      "source_en": "[Chance Encounter: Subjugation Quest]\r\nTrack down the dangerous enemy that has\r\nappeared and defeat it.",
+      "text": "[Jagd bei Zufallsbegegnung]\r\nTreib den gefährlichen Gegner, der aufgetaucht ist,\r\nin die Enge und besiege ihn."
+    },
+    {
+      "key": "q21014018_00_605",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "不確実な情報だが、<NAME AREA>から\r\n狂暴な魔物のしわざと思われる被害報告があった",
+      "source_en": "Although the information is uncertain,\r\nthere have been reports of damage\r\nbelieved to be caused by violent\r\ncreatures in\r\n<NAME AREA>.",
+      "text": "Die Meldungen sind unbestätigt.\r\nAnscheinend haben\r\ngefährliche Monster Schäden angerichtet,\r\nund zwar bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21014018_00_605",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "この森には、およそ在来種とは思えない\r\n色鮮やかで強大な魔物が増えつつあります\r\n彼らが突然目の前に姿を現すことがあっても\r\n決して心奪われてはなりません\r\n決して深追いしてはなりません――",
+      "source_en": "The forest is increasingly filled with\r\nvivid and powerful creatures that are\r\nunlike any native species.\r\nEven if they suddenly appear before you,\r\nyou mustn't allow yourself to be\r\nentranced.\r\nNever pursue them too far—",
+      "text": "In diesem Wald tauchen immer mehr\r\nfarbenprächtige, mächtige Monster auf,\r\ndie kaum hier heimisch sein dürften.\r\nWenn dir plötzlich eines begegnet,\r\nlass dich von seinem Anblick\r\nauf keinen Fall fesseln.\r\nUnd verfolge es bloß nicht zu weit …"
+    },
+    {
+      "key": "q21014018_00_1254",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q21014018_00_1255",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "逃亡した魔物が残した痕跡を調べる",
+      "source_en": "Look into the signs left by the fleeing beast",
+      "text": "Untersuche die Spuren des entkommenen Monsters."
+    },
+    {
+      "key": "q21014018_00_1256",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "魔物の行方を追う",
+      "source_en": "Track down the foe(s)",
+      "text": "Folge den Spuren der Monster."
+    },
+    {
+      "key": "q21014018_00_1257",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "危険な魔物を追い詰め、止めを刺す",
+      "source_en": "Hunt down and stop the dangerous monsters",
+      "text": "Treib die gefährlichen Monster in die Enge und besiege sie."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

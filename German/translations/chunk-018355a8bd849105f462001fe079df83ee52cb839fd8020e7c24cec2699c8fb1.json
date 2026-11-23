@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60214000.gmd",
+  "arc_path": "\\quest\\q60214000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "実は、あなたにエンナと話をして\r\nきていただきたいのです――\r\n旅人であるあなたになら、エンナも悩み事を\r\n打ち明けるかもしれません",
+      "source_en": "In truth, I would ask you to speak with Enna—\r\nMayhap, to a wayfarer such as you, she'll confide\r\nthe worries she keeps locked away.",
+      "text": "Könntest du bitte mit Enna sprechen?\r\nVielleicht erzählt Enna dir, was los ist.\r\nDu bist ja nur auf der Durchreise."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "何か思い悩んでいるようなんですけど\r\nわたしやディリスが訪ねても何も話さないんです\r\n難しい年頃なのかしら――",
+      "source_en": "She seems burdened by aught, yet she'll not\r\nspeak a word of it — not to me, nor to Dílis.\r\nMayhap 'tis simply a difficult phase...",
+      "text": "Irgendetwas bedrückt Enna.\r\nDoch Dílis und mir erzählt Enna nichts davon.\r\nVielleicht ist das einfach das Alter …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "エンナはつらい思いをして\r\nこのエランへ逃げてきた子です\r\n――どうか、話を聞いてやってください",
+      "source_en": "Enna fled to Elan bearing wounds unseen. I\r\nentreat you — please, hear her story.",
+      "text": "Enna hat viel durchgemacht und ist zu uns nach Elan geflohen.\r\nBitte hör dir an, was Enna zu sagen hat."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "えっ、ミューセルさんが\r\nボクのことを心配してくれてるの？",
+      "source_en": "Eh? Muirgel's... worried about me?",
+      "text": "Was? Muirgel macht sich Sorgen um mich?"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "うぅん――ボクが悩んでるのは――",
+      "source_en": "Mm... what troubles me is...",
+      "text": "Hm … Was mich bedrückt, ist …"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "あのね、覚者さん\r\nミューセルさんが直したがってる\r\n《忘却の廃村》への道なんだけど――",
+      "source_en": "Say, Ser Arisen... Muirgel wants to mend the path\r\nto the Forgotten Abandoned Village, but—",
+      "text": "Weißt du, Erweckter, Muirgel will den Weg\r\nzu den vergessenen Dorfruinen wieder herrichten."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "あの道がなかなか直せないのは\r\nワーグがいっぱいいるからなんだ\r\nディリスもすごく困ってるって言ってたよ",
+      "source_en": "That path... 'tis not easily mended. Wargs swarm\r\nit, see. Dílis... she said she's sorely\r\ntroubled by it, too.",
+      "text": "Aber wir kommen da nur langsam voran.\r\nAuf dem Weg sind ganz viele Warge.\r\nDílis weiß auch nicht, was sie tun soll."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ボクもなんとかお手伝いしたいんだけど\r\nやっぱりワーグは怖くって――\r\nボクがダナの戦士だったらよかったのにって\r\nそんなことをずっと考えてたんだ",
+      "source_en": "I... I dearly wish to help, truly. But wargs...\r\nthey terrify me— If only I were a warrior of\r\nDana... such thoughts... I've been\r\nthinking them for so long...",
+      "text": "Ich würde so gern mithelfen.\r\nAber vor den Wargen hab ich Angst.\r\nWenn ich doch ein Krieger aus Dana wäre …\r\nDas denke ich schon die ganze Zeit."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ねぇ、覚者さん\r\n《<SPOT 929>》にいっぱいいるワーグを\r\n退治してきてもらえないかなぁ",
+      "source_en": "Say, Ser Arisen... would you... would you mind\r\nexterminating the wargs infesting <SPOT 929>...?",
+      "text": "Sag mal, Erweckter, könntest du vielleicht\r\ndie Warge bei „<SPOT 929>“ besiegen?"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "本当はボクがワーグをやっつけられたら\r\nいいんだけど、怖くって――",
+      "source_en": "I dearly wish I could fell the wargs\r\nmyself... but I'm afeard—",
+      "text": "Ich würde ja gern selbst gegen die Warge kämpfen.\r\nAber ich hab zu viel Angst …"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "覚者さんが《<SPOT 929>》にいるワーグを\r\n退治してきてくれたら、ミューセルさんも\r\nディリスも、それからボクもすごく嬉しいよ",
+      "source_en": "Should you fell the wargs at <SPOT 929>... Muirgel would\r\nrejoice. Dílis, too. And... I... I would be\r\ne'er so glad as well.",
+      "text": "Wenn du die Warge bei „<SPOT 929>“ besiegst,\r\nfreuen sich Muirgel und Dílis.\r\nUnd ich würde mich auch sehr freuen."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "わぁ！　ワーグをやっつけてくれたんだね\r\n本当にありがとう！",
+      "source_en": "Wah! You... you felled the wargs, didn't\r\nyou? Truly... thank you!",
+      "text": "Oh, du hast die Warge besiegt!\r\nVielen Dank!"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "覚者さん、かっこいいなぁ――\r\nボクも大きくなったら、おばあちゃんや\r\nディリスやミューセルさんを守れるようになりたいな",
+      "source_en": "Ser Arisen... you're so... so gallant— When I'm\r\ngrown, I... I want to be able to protect\r\nGrandmother, Dílis, and Muirgel too.",
+      "text": "Du bist echt mutig, Erweckter.\r\nWenn ich groß bin, will ich Oma,\r\nDílis und Muirgel auch beschützen können."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

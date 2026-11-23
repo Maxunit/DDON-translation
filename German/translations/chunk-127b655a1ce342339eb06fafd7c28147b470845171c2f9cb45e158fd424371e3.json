@@ -3,12 +3,52 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "SPOT_NAME_900",
+      "read_index": "369",
+      "tag_source": "source_en",
+      "source_jp": "知恵の小塔",
+      "source_en": "Small Tower of Wisdom",
+      "text": "Kleiner Turm der Weisheit"
+    },
+    {
+      "key": "SPOT_NAME_901",
+      "read_index": "370",
+      "tag_source": "source_en",
+      "source_jp": "聖河の遺跡",
+      "source_en": "Sacred River Ruins",
+      "text": "Ruinen am Heiligen Fluss"
+    },
+    {
       "key": "SPOT_NAME_903",
       "read_index": "372",
       "tag_source": "source_en",
       "source_jp": "ダナウィンの挑堂",
       "source_en": "Dunhain's Hall of Trials",
       "text": "Dunhains Prüfungshalle"
+    },
+    {
+      "key": "SPOT_NAME_904",
+      "read_index": "373",
+      "tag_source": "source_en",
+      "source_jp": "マヌンの集落",
+      "source_en": "Manun Village",
+      "text": "Siedlung Manun"
+    },
+    {
+      "key": "SPOT_NAME_931",
+      "read_index": "399",
+      "tag_source": "source_en",
+      "source_jp": "忘却の廃村",
+      "source_en": "Forgotten Abandoned Village",
+      "text": "Vergessene Dorfruinen"
+    },
+    {
+      "key": "SPOT_NAME_934",
+      "read_index": "402",
+      "tag_source": "source_en",
+      "source_jp": "エラン大門前",
+      "source_en": "Before Elan Front Gate",
+      "text": "Vor dem Haupttor von Elan"
     }
   ],
   "schema_version": 1,

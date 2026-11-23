@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21017017_00.gmd",
+  "arc_path": "\\quest\\q21017017.arc",
+  "entries": [
+    {
+      "key": "q21017017_00_613",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "いにしえの復讐鬼",
+      "source_en": "Ancient Vengeance Demon",
+      "text": "Der Rachedämon aus alter Zeit"
+    },
+    {
+      "key": "q21017017_00_613",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【敵群討伐クエスト】\r\n依頼者から話を聞き\r\n敵の群れを討伐する",
+      "source_en": "[Enemy Horde Extermination Quest] Listen\r\nto the client's request.\r\nExterminate the horde of enemies.",
+      "text": "[Jagd auf Monstergruppen] Hör dir\r\ndie Bitte des Auftraggebers an\r\nund besiege die Monstergruppen."
+    },
+    {
+      "key": "q21017017_00_613",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from\r\n<NAME AREA>,\r\nenemy forces have temporarily increased,\r\nand the situation is quite dangerous.",
+      "text": "Laut einem Bericht aus\r\n<NAME AREA>\r\nhaben sich vorübergehend mehr Monster versammelt.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q21017017_00_613",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "最近村の周りの魔物が多くなってないか？\r\nそう、確か異国の覚者が現れてからだ！\r\nきっと奴らに復讐しに来たんだ！\r\n下手に仲良くしたらこっちまで狙われる――\r\n早く奴らを差し出さないと！",
+      "source_en": "Have you noticed more monsters around\r\nthe village lately?\r\nYeah, it's definitely since those\r\nforeign Arisen showed up!\r\nThey must be here seeking revenge!\r\nIf we get too close, we might be\r\ntargeted as well—\r\nWe need to hand them over quickly!",
+      "text": "Sind dir in letzter Zeit auch mehr Monster\r\num das Dorf herum aufgefallen?\r\nJa, seit diese fremden Erweckten da sind!\r\nDie Monster sind bestimmt gekommen,\r\num sich an ihnen zu rächen.\r\nWenn wir uns mit denen anfreunden,\r\nsind wir am Ende auch noch dran.\r\nWir müssen ihnen die Fremden ausliefern!"
+    },
+    {
+      "key": "q21017017_00_1169",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q21017017_00_1222",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所で魔物の群れを探す(残り３)",
+      "source_en": "Search for a group of monsters at the designated location (3 left)",
+      "text": "Such am angegebenen Ort nach einer Monstergruppe (noch 3)."
+    },
+    {
+      "key": "q21017017_00_1223",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り２)",
+      "source_en": "Search for the remaining groups of monsters (2 left)",
+      "text": "Such nach den verbliebenen Monstergruppen (noch 2)."
+    },
+    {
+      "key": "q21017017_00_1224",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り１)",
+      "source_en": "Find the group of monsters that remain (1 left)",
+      "text": "Such nach der letzten Monstergruppe (noch 1)."
+    },
+    {
+      "key": "q21017017_00_1225",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    },
+    {
+      "key": "q21017017_00_1225",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    },
+    {
+      "key": "q21017017_00_1225",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

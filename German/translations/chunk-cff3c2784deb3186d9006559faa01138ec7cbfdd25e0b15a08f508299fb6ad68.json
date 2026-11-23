@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21014012_00.gmd",
+  "arc_path": "\\quest\\q21014012.arc",
+  "entries": [
+    {
+      "key": "q21014012_00_552",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "相棒を探して！",
+      "source_en": "Searching for a Partner!",
+      "text": "Wo ist mein Gefährte?"
+    },
+    {
+      "key": "q21014012_00_552",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【迅速救助クエスト】\r\n依頼者が求める人物を捜索し\r\n迅速に救助する",
+      "source_en": "[Swift Rescue Quest]\r\nSearch for the person the client is seeking\r\nand rescue them.",
+      "text": "[Rettungsquest]\r\nFinde die vermisste Person\r\nund bring sie schnell in Sicherheit."
+    },
+    {
+      "key": "q21014012_00_552",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "何者かからの、迅速な救援を求める声が\r\n<NAME AREA>から届いているようだ",
+      "source_en": "It seems that a voice requesting swift assistance \r\nhas come from <NAME AREA>.",
+      "text": "Ein dringender Hilferuf ist eingegangen, und zwar aus\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21014012_00_552",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "強そうな奴と出会うと\r\n腕前を試したくて仕方ない――\r\nそんな変わった奴が少し前からエランにいるが\r\nさっき、困ったような顔をしていたぞ\r\nそういえば、一人でいるのは初めて見たな",
+      "source_en": "When I meet a strong opponent, \r\nI can't resist the urge to test my skills. \r\nThere's been a strange one in Elan for a while, \r\nbut just a moment ago, they looked troubled. \r\nNow that I think about it, it's the first time \r\nI've seen them by themselves.",
+      "text": "Manche wollen sich unbedingt mit jedem messen,\r\nder auch nur stark aussieht.\r\nSo einen Kerl gibt’s seit Kurzem in Elan.\r\nEben sah er allerdings ziemlich besorgt aus.\r\nJetzt, wo du’s sagst …\r\nSonst seh ich ihn nie allein."
+    },
+    {
+      "key": "q21014012_00_1169",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q21014012_00_1226",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の求める人物を捜索する",
+      "source_en": "Search for the person the client is seeking",
+      "text": "Finde die vermisste Person."
+    },
+    {
+      "key": "q21014012_00_1227",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "魔物を迅速に討伐し捜索対象を救助する",
+      "source_en": "Defeat the demon quickly and rescue your charge",
+      "text": "Besiege die Monster schnell und rette die vermisste Person."
+    },
+    {
+      "key": "q21014012_00_1228",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "捜索対象の安否を確認する",
+      "source_en": "Check the search target's well-being",
+      "text": "Sieh nach, wie es der vermissten Person geht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

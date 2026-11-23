@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000058_00.gmd",
+  "arc_path": "\\quest\\q60000058.arc",
+  "entries": [
+    {
+      "key": "q60000058_00_36",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "求道の師を訪ねて　アルケミスト",
+      "source_en": "Seeking the Master: Alchemist",
+      "text": "Auf der Suche nach dem Klassenmeister – Alchemist"
+    },
+    {
+      "key": "q60000058_00_36",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョブマスター・テオドールに\r\nアルケミスト求道試練の許可をもらいに行く",
+      "source_en": "Go to Job Master Theodor \r\nto obtain permission for the Alchemist's Trial.",
+      "text": "Such Klassenmeister Theodor auf\r\nund bitte ihn, dich zur Alchemistenprüfung zuzulassen."
+    },
+    {
+      "key": "q60000058_00_1211",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "亡都メルゴダのテオドールを訪ねる",
+      "source_en": "Visit Theodor in the Mergoda Ruins",
+      "text": "Such Theodor in den Ruinen von Mergoda auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

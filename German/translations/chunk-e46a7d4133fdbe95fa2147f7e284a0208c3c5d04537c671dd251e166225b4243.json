@@ -1,0 +1,232 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60200014.gmd",
+  "arc_path": "\\quest\\q60200014.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "さらなるジョブの成長が可能になったようだな\r\nそろそろ新しい成長要素である――\r\n《プレイポイント》について教えよう",
+      "source_en": "It seems you can take your Job's growth further.\r\nLet me teach you about this new system,\r\n[Play Points].",
+      "text": "Du kannst deine Klasse noch weiterentwickeln.\r\nIch erkläre dir, wie das geht.\r\nDafür brauchst du Spielpunkte."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "今後は、経験値を\r\n\"ジョブレベルの成長\"のために\r\n使うのではなく、《プレイポイント》として\r\n獲得するように切り替えることが可能になるぞ",
+      "source_en": "Now, you can switch from earning\r\nExperience to [Play Points] instead,\r\nit's another form of Job progression.",
+      "text": "Ab jetzt kannst du umstellen, was du für bestimmte Kämpfe erhältst.\r\nStatt Erfahrung für deine Klassenstufe\r\nkannst du Spielpunkte sammeln."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "そうだな――まずは《プレイポイント》の獲得から\r\n\"さらなるジョブの成長\"までの流れを教えよう\r\n一度試してみてくれ",
+      "source_en": "Right...first, let me explain how gaining\r\n[Play Points] can further Job growth.\r\nLet's try it now.",
+      "text": "Zuerst erkläre ich dir, wie du Spielpunkte sammelst\r\nund damit deine Klasse weiterentwickelst.\r\nProbier es gleich einmal aus."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "さて、さっそくだが\r\n《戦技補佐》画面から《ジョブ》を選択して\r\n経験値からプレイポイントを獲得する\r\nモードに切り替えてみろ",
+      "source_en": "Now, go to the [Arts Support] screen,\r\nselect a [Vocation], and switch the mode from\r\nearning Experience to [Play Points].",
+      "text": "Öffne „Kampftechniken“,\r\nwähle eine Klasse aus und stell von Erfahrungspunkten\r\nauf Spielpunkte um."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "さっそくだが――\r\n《戦技補佐》画面から《ジョブ》を選択して\r\n経験値からプレイポイントを獲得する\r\nモードに切替を行ってみろ",
+      "source_en": "Alright, head to the [Arts Support] screen,\r\nselect a [Vocation], and switch the mode from\r\nearning Experience to [Play Points].",
+      "text": "Öffne „Kampftechniken“,\r\nwähle deine Klasse und stell von Erfahrungspunkten\r\nauf Spielpunkte um."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "プレイポイント獲得モードに切替できたようだな\r\n――この切替えはいつでも可能だ\r\nジョブレベルが最大になって、経験値が取得\r\nできなくなった時などに切り替えるといいだろう",
+      "source_en": "Great, you've switched to earning [Play Points].\r\nYou can switch back any time you want.\r\nDo this when your Job level is maxed\r\nand you can't earn experience any more.",
+      "text": "Gut, du hast auf Spielpunkte umgestellt.\r\nDu kannst das jederzeit wieder ändern.\r\nDas lohnt sich vor allem, wenn deine Klasse die Höchststufe erreicht hat\r\nund du dafür keine Erfahrung mehr sammeln kannst."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "では、次にプレイポイントを獲得してみるか\r\n簡単に言うと、今まで通り――\r\nつまり、敵を倒す事で獲得可能だ",
+      "source_en": "Let's try earning some [Play Points] next.\r\nSimply put, earning them works the same as\r\nExperience you earn them by defeating enemies.",
+      "text": "Als Nächstes verdienst du Spielpunkte.\r\nDas funktioniert im Prinzip wie bei den Erfahrungspunkten.\r\nDu musst Gegner besiegen."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ただし、経験値とは勝手が違うところが\r\nあるから注意も必要だ",
+      "source_en": "However, earning [Play Points] has some key\r\ndifferences from earning Experience in some ways.",
+      "text": "Bei den Spielpunkten gibt es allerdings\r\nein paar Unterschiede, die du kennen solltest."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "というのも、《プレイポイント》が手に入るのは\r\n中型・大型の敵を倒した時だけだ\r\n延々とゴブリンを相手にしつづけても\r\n得るものは無いぞ",
+      "source_en": "You only get [Play Points] from defeating\r\nmedium or large enemies. Fighting goblins\r\nforever won't get you anything.",
+      "text": "Du bekommst Spielpunkte nur für\r\nmittelgroße oder große Gegner.\r\nGoblins kannst du so viele besiegen, wie du willst. Dafür bekommst du keine."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "それからもう一つ\r\n敵のレベルが自分より低くなると、入手できる\r\nプレイポイントが減ってしまう\r\n自分と大体同じレベルの敵を相手にするんだな",
+      "source_en": "Also, if the enemy's level is lower than yours,\r\nyou'll earn fewer Play Points.\r\nTry to fight enemies around your own level.",
+      "text": "Wenn deine Gegner eine niedrigere Stufe haben als du,\r\nbekommst du weniger Spielpunkte.\r\nSuch dir Gegner auf ungefähr deiner Stufe."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "今回は、《プレイポイント》が\r\n手に入りやすい場所を教えてやろう\r\n実際に獲得してみて初めて\r\nわかることもあるかもしれん",
+      "source_en": "Just this once, I'll tell you where to easily\r\nget some [Play Points]. Although,\r\nyou might come up with a better\r\nlocation after trying it yourself.",
+      "text": "Diesmal verrate ich dir einen Ort,\r\nan dem du leicht Spielpunkte bekommst.\r\nWas dabei gut funktioniert,\r\nfindest du am besten selbst heraus."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "――いまさらこんなことを言わなくても\r\nいいだろうが、現地へ向かう時には\r\nエリアランクが十分かどうか自分で判断して\r\n向かってくれ",
+      "source_en": "...This may go without saying,\r\nbut before you head there, check to see\r\nif the area rank is suitable for you.",
+      "text": "Eigentlich sollte das klar sein.\r\nBevor du losziehst, sieh nach,\r\nob dein Gebietsrang dafür ausreicht."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "経験値と違うのは、《プレイポイント》は\r\n自分と同レベル帯の中型・大型の敵相手でないと\r\n手に入りづらいという点だな",
+      "source_en": "Unlike experience, [Play Points] are hard\r\nto get unless you fight medium or\r\nlarge enemies around your level.",
+      "text": "Anders als Erfahrung bekommst du Spielpunkte vor allem,\r\nwenn du mittelgroße oder große Gegner\r\nauf ungefähr deiner Stufe besiegst."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "今回は、《プレイポイント》が入りやすい場所を\r\n教えるから――そこに向かってみてくれ",
+      "source_en": "Listen up, I'll tell you where to easily get\r\n[Play Points] head there and try earning some.",
+      "text": "Ich zeige dir diesmal, wo du leicht Spielpunkte bekommst.\r\nGeh hin und verdien dir ein paar."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "いまさらこんなことを言わなくてもいいだろうが\r\n現地へ向かう時には、エリアランクが十分かどうか\r\n自分で判断して行ってくれよ",
+      "source_en": "I'm sure I don't need to say this,\r\nbut before you head there, check to see\r\nif the area rank is suitable for you.",
+      "text": "Das weißt du inzwischen sicher.\r\nPrüfe vor dem Aufbruch,\r\nob dein Gebietsrang dafür ausreicht."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "《プレイポイント》獲得の流れは理解したようだな\r\n――単純だが、経験値を獲得する時との違いだけは\r\n意識しておくことだ",
+      "source_en": "You seem to understand how to earn [Play Points].\r\nJust remember the differences from experience.",
+      "text": "Du weißt jetzt, wie du Spielpunkte verdienst.\r\nBehalte einfach die Unterschiede zu den Erfahrungspunkten im Kopf."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "おっと、そうそう！\r\nメインクエストをクリアした時には\r\nどちらのモードを選んでいても\r\n経験値が手に入るようになってるから安心してくれ",
+      "source_en": "Oh, right! When you clear main quests,\r\nyou'll get experience no matter which\r\nmode you're in, so don't worry.",
+      "text": "Ach ja, noch etwas!\r\nFür abgeschlossene Hauptquests bekommst du weiterhin Erfahrung,\r\nganz gleich, welchen Modus du gewählt hast."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "次に――獲得した《プレイポイント》を\r\nどう使うかについては\r\nレンテンに詳しく聞いてみるといいだろう",
+      "source_en": "Next...ask Renton for details on how to use\r\nthe [Play Points] you've earned.",
+      "text": "Wie du die verdienten Spielpunkte ausgibst,\r\nerklärt dir am besten Renton."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "獲得した《プレイポイント》を\r\nどう使うかについては\r\nレンテンに詳しく聞いてみるといいだろう",
+      "source_en": "Ask Renton for details on how to use the\r\n[Play Points] you've earned.",
+      "text": "Wie du die verdienten Spielpunkte ausgibst,\r\nerklärt dir am besten Renton."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "おっ、その面構え――\r\nさらなるジョブの成長が可能になったんだな！\r\nここまで強くなるなんて、やるじゃないか",
+      "source_en": "Hah! I recognize that look...\r\nI see you've unlocked further Job growth!\r\nYou've gotten pretty strong, huh?",
+      "text": "Aha, ich kenn diesen Blick …\r\nDu kannst deine Klasse weiterentwickeln!\r\nDu hast es wirklich schon weit gebracht."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "それじゃ\r\n《プレイポイント》の使い方について\r\n説明するとしようか",
+      "source_en": "Alright then, let me explain how to use your\r\n[Play Points].",
+      "text": "Also gut, ich erkläre dir,\r\nwas du mit deinen Spielpunkten anfangen kannst."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "ま、説明するってほどでもないけど――\r\n獲得した《プレイポイント》を使う事で\r\n主に、各ジョブのさらなる成長に関わる要素を\r\n手に入れられるんだ",
+      "source_en": "Well, there's not much to explain really,\r\nusing [Play Points] lets you unlock elements\r\nrelated to each job's further growth.",
+      "text": "Viel gibt’s da nicht zu erklären.\r\nFür Spielpunkte bekommst du vor allem Dinge,\r\nmit denen du deine Klassen weiterentwickeln kannst."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "どんな要素を手に入れられるかは――\r\n自分の目で《プレイポイントショップ》を\r\n確認してみてのお楽しみだな！",
+      "source_en": "What you can unlock? ...Well see for yourself in\r\nthe [Play Point Shop]! It'll be a surprise!",
+      "text": "Was es dort zu holen gibt? Schau selbst\r\nim Spielpunkte-Shop nach. Lass dich überraschen!"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "獲得した《プレイポイント》を使う事で\r\n主に、各ジョブのさらなる成長に関わる要素を\r\n手に入れられるんだ",
+      "source_en": "Using [Play Points] lets you unlock elements\r\nrelated to each Job's further growth.",
+      "text": "Gib Spielpunkte aus, um Dinge freizuschalten,\r\nmit denen du deine Klassen weiterentwickelst."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "どんな要素を手に入れられるかは――\r\n自分の目で《プレイポイントショップ》を\r\n確認してみてのお楽しみだな！",
+      "source_en": "What you can unlock? ...Well see for yourself in\r\nthe [Play Point Shop]! It'll be a surprise!",
+      "text": "Was es dort zu holen gibt? Schau selbst\r\nim Spielpunkte-Shop nach. Lass dich überraschen!"
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "ほらほら、早く確認してみようぜ？\r\nいやぁ、俺が見てみたいだけじゃないって――",
+      "source_en": "Come on, let's check it out already!\r\nHeh, maybe I'm a bit excited to see it myself.",
+      "text": "Komm schon, lass uns gleich nachsehen!\r\nHehe, vielleicht bin ich selbst ein bisschen neugierig."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "どうだ？\r\n説明はこれでおしまいだけど――\r\nお前くらいの歴戦の使い手なら良さがわかるだろ？",
+      "source_en": "How was that? The explanation I mean...\r\nSomeone as experienced as you gets it, right?",
+      "text": "Na, alles verstanden?\r\nMit deiner Erfahrung siehst du bestimmt gleich, was dir das bringt."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "あ、最後に！\r\n《プレイポイント》の使い方は計画的にな",
+      "source_en": "Ah, one last thing!\r\nSpend your [Play Points] wisely.",
+      "text": "Ach ja, noch eins!\r\nÜberleg dir gut, wofür du deine Spielpunkte ausgibst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

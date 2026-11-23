@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000053_00.gmd",
+  "arc_path": "\\quest\\q60000053.arc",
+  "entries": [
+    {
+      "key": "q60000053_00_40",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "求道の師を訪ねて　シールドセージ",
+      "source_en": "Seeking the Master: Shield Sage",
+      "text": "Auf der Suche nach dem Klassenmeister – Schildweiser"
+    },
+    {
+      "key": "q60000053_00_40",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョブマスター・ルドルフォに\r\nシールドセージ求道試練の許可をもらいに行く",
+      "source_en": "Visit Job Master Rudolfo to request \r\napproval for the Shield Sage's trial",
+      "text": "Such Klassenmeister Rudolfo auf\r\nund bitte ihn, dich zur Schildweisenprüfung zuzulassen."
+    },
+    {
+      "key": "q60000053_00_1216",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ブリア海岸で灯台守をしているルドルフォを訪ねる",
+      "source_en": "Visit the lighthouse keeper Rudolfo in Breya Coast",
+      "text": "Such Rudolfo auf, den Leuchtturmwärter an der Breya-Küste."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

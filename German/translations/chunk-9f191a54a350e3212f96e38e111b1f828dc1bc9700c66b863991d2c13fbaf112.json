@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200000_00.gmd",
+  "arc_path": "\\quest\\q60200000.arc",
+  "entries": [
+    {
+      "key": "q60200000_00_85",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "パートナーポーンとの暮らし",
+      "source_en": "Living with the Partner Pawn",
+      "text": "Leben mit dem Partnervasallen"
+    },
+    {
+      "key": "q60200000_00_85",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "しもべの契りで手に入れたメインポーンと共に\r\n新たな休息場所を宿場区のバートンの娘ジュリア\r\nより紹介してもらう",
+      "source_en": "Together with the Main Pawn obtained through\r\nthe Servants' Pledge, receive an introduction to a\r\nnew resting place in the Relay Station\r\nfrom Julia, Barton's daughter.",
+      "text": "Nach dem Eid des Vasallen kannst du mit deinem Hauptvasallen\r\nins Herbergsviertel gehen. Dort zeigt dir Julia,\r\nBartons Tochter,\r\neinen neuen Ort zum Ausruhen."
+    },
+    {
+      "key": "q60200000_00_1890",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "自室のリムストーンからパートナーポーンを設定する",
+      "source_en": "Set up the Partner Pawn from your room's Riftstone",
+      "text": "Lege am Riftstein in deinem Zimmer einen Partnervasallen fest."
+    },
+    {
+      "key": "q60200000_00_1891",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ジュリアに自室へ案内してもらう",
+      "source_en": "Julia will show you to your room",
+      "text": "Lass dir von Julia dein Zimmer zeigen."
+    },
+    {
+      "key": "q60200000_00_1892",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "自室内に入る",
+      "source_en": "Go into your room",
+      "text": "Betritt dein Zimmer."
+    },
+    {
+      "key": "q60200000_00_1893",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "自室内にいるジュリアに話しかける",
+      "source_en": "Speak with Julia in your room",
+      "text": "Sprich in deinem Zimmer mit Julia."
+    },
+    {
+      "key": "q60200000_00_1988",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "バートンの娘ジュリアに再度話す",
+      "source_en": "Speak with Barton's daughter Julia again",
+      "text": "Sprich erneut mit Julia, Bartons Tochter."
+    },
+    {
+      "key": "q60200000_00_1989",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "設定したパートナーポーンにプレゼントを渡す",
+      "source_en": "Give a gift to your Partner Pawn",
+      "text": "Überreiche deinem Partnervasallen ein Geschenk."
+    },
+    {
+      "key": "q60200000_00_1990",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "バートンの娘ジュリアに報告する",
+      "source_en": "Report to Barton's daughter Julia",
+      "text": "Erstatte Julia, Bartons Tochter, Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

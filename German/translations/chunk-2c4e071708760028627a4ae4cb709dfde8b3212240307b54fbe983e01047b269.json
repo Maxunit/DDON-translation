@@ -1,0 +1,136 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60200007.gmd",
+  "arc_path": "\\quest\\q60200007.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "よう、ダンジョンの宝箱調査は続けてるか？\r\nまた新しい場所の調査依頼があるんだが\r\nこの前より難易度が上がっている",
+      "source_en": "Hey, still investigating dungeon treasure chests?\r\nGot a new investigation request for you,\r\nbut it's tougher than the last one.",
+      "text": "Na, suchst du noch nach Schatztruhen in den Verliesen?\r\nIch habe einen neuen Auftrag für dich.\r\nDiesmal ist es ein Stück schwieriger."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "腕に自信が無ければ無理に引き受けなくてもいい\r\n自分の力量を把握しておくのは\r\n長く冒険を続ける上で大切なことだ\r\n偉大な冒険家ほど、ここを重視する――",
+      "source_en": "Don't push yourself if you're not confident.\r\nKnowing your limits is key to surviving\r\nlong-term as an adventurer.\r\nThe greatest adventurers all know this...",
+      "text": "Wenn du dir deiner Sache nicht sicher bist, lass es.\r\nWer seine Grenzen kennt,\r\nhat länger etwas vom Abenteurerleben.\r\nDas wissen die besten Abenteurer …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ま、やることは前回と同じなんだがな\r\nダンジョンに潜って、最奥の\r\n宝箱を調査して帰ってくる\r\n――単純だろう？",
+      "source_en": "Well, same task as last time—\r\nplunder the dungeon's depths,\r\nrifle through that final chest,\r\nand bolt back. Straightforward, no?",
+      "text": "Die Aufgabe ist dieselbe wie letztes Mal.\r\nGeh in eines der Verliese,\r\nuntersuche die hinterste Schatztruhe\r\nund komm zurück. Einfach, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "今回の調査候補地は\r\n魔赤島の《せせらぎの地下聖堂》\r\n　　　　《小塔傍の枯れ井戸》\r\nミスリウ深部にある《霧幻のテラス》",
+      "source_en": "This investigation's candidate locations are\r\nBloodbane Isle's \r\nCrypt of Murmurs & Towerside Dry Well\r\nand Mysree's Misty Illusion Terrace.",
+      "text": "Auf der Blutfluchinsel kommen\r\ndie Krypta des Wasserrauschens und der Ausgetrocknete Turmbrunnen infrage.\r\nIm Tiefen Mysree-Wald\r\nkannst du zur Terrasse des Trugnebels gehen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ボルドにある《灼熱の封鎖道》\r\nバートランドにある《罪人の修獄》\r\nこの５カ所だ",
+      "source_en": "Volden's Scorching Blocked Passage\r\nand Betland's Penitentiary\r\nround out the five locations.",
+      "text": "Dazu kommen der Glühende Sperrstollen in Volden,\r\nder Kerker der Verdammten in Betland\r\nund damit insgesamt fünf Verliese."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ここでは前回の３か所よりも、よりランクの高い\r\n素材が採れるって噂だ\r\nただし、魔物もそれなりの強さだが、な",
+      "source_en": "Word is you'll find better-quality\r\nresources there than in those\r\nprevious three areas—just know\r\nthe creatures hit harder as well.",
+      "text": "Dort soll es bessere Rohstoffe geben\r\nals an den drei Orten vom letzten Mal.\r\nDafür sind die Monster\r\nallerdings auch stärker."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "５ヶ所のうち、１ヶ所の宝箱を調査できたら\r\n俺のところに報告にきてくれ",
+      "source_en": "When you've checked one of the \r\nfive treasure chests, come report back to me.",
+      "text": "Wenn du eine der fünf Truhen untersucht hast,\r\nkomm zurück und erstatte mir Bericht."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "いいか、もう一度説明するぞ\r\nこれからいう５ヶ所の調査候補地の中から\r\n１ヶ所を選んで最奥の宝箱を調べてくるんだ",
+      "source_en": "Listen up, I'll explain again.\r\nPick one of these five locations,\r\ninvestigate its deepest chest, and return.",
+      "text": "Ich erklär’s dir noch mal.\r\nSuch dir einen der fünf Orte aus\r\nund untersuche dort die hinterste Schatztruhe."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "候補地は\r\n魔赤島の《せせらぎの地下聖堂》\r\n　　　　《小塔傍の枯れ井戸》\r\nミスリウ深部にある《霧幻のテラス》",
+      "source_en": "The candidate locations are Bloodbane Isle's \r\nCrypt of Murmurs & Towerside Dry Well\r\nand Mysree's Misty Illusion Terrace.",
+      "text": "Auf der Blutfluchinsel hast du die Wahl zwischen der Krypta des Wasserrauschens\r\nund dem Ausgetrockneten Turmbrunnen.\r\nIm Tiefen Mysree-Wald gibt es die Terrasse des Trugnebels."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ボルドにある《灼熱の封鎖道》\r\nバートランドにある《罪人の修獄》\r\nこの５カ所だ",
+      "source_en": "Volden's Scorching Blocked Passage\r\nand Betland's Penitentiary\r\nround out the five locations.",
+      "text": "Dazu kommen der Glühende Sperrstollen in Volden,\r\nder Kerker der Verdammten in Betland\r\nund damit insgesamt fünf Verliese."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "ここでは前回の３ヶ所よりも、よりランクの高い\r\n素材が採れるって噂だぜ\r\nただし、魔物もそれなりの強さだが、な",
+      "source_en": "Rumor has it these spots yield higher-rank\r\nmaterials than the last three.\r\nBut the enemies are tougher too.",
+      "text": "Dort soll es bessere Rohstoffe geben als beim letzten Mal.\r\nDafür sind die Monster\r\nallerdings auch stärker."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "５カ所のうち、１か所の宝箱を調査できたら\r\n俺のところに報告にきてくれ",
+      "source_en": "Once you've investigated one chest\r\nout of the five, report back to me.",
+      "text": "Wenn du eine der fünf Truhen untersucht hast,\r\nkomm zurück und erstatte mir Bericht."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "よし、無事に調査をしてきたか\r\nお前の白竜様への忠誠心が見てとれるようだな",
+      "source_en": "Good, you made it back safely.\r\nYour loyalty to the White Dragon is clear.",
+      "text": "Gut, du bist heil zurück.\r\nSo sieht Treue zum Weißen Drachen aus."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "今回もダンジョンの場所を教えてやったが\r\n次からは《スポット情報》を見れば\r\nどのダンジョンにどの素材があるか\r\n確認をすることが出来るから覚えておくんだ",
+      "source_en": "This time, I told you the dungeon\r\nlocations—but from now on, check\r\nSpot Info to see which dungeons\r\nhave which materials. Remember that.",
+      "text": "Ich habe dir die Orte noch einmal genannt.\r\nBeim nächsten Mal sieh unter „Ortsinfo“ nach.\r\nDort steht, welche Rohstoffe\r\ndu in welchem Verlies findest. Merk dir das."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "今まで集めた素材で作った装備品でなら\r\n例の強敵とも互角に戦えるだろう",
+      "source_en": "With the equipment made from materials\r\nyou've gathered so far, you should be\r\nable to fight that formidable foe\r\non equal footing.",
+      "text": "Mit der Ausrüstung aus den Rohstoffen,\r\ndie du bisher gesammelt hast,\r\nsolltest du diesem starken Gegner\r\nauf Augenhöhe begegnen können."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "エクストリームミッションに参戦するなら\r\nくれぐれも装備品の準備を怠るなよ\r\nでなければ、戦うどころか\r\nまともに立っていることすらできないと思え",
+      "source_en": "If you're joining an Extreme Mission,\r\ndon't skimp on gear prep.\r\nOtherwise, you won't even last\r\nlong enough to fight properly.",
+      "text": "Wenn du bei einer Extremmission mitmachst,\r\nbereite deine Ausrüstung gründlich vor.\r\nSonst kannst du froh sein, wenn du stehen bleibst.\r\nAns Kämpfen ist dann erst gar nicht zu denken."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

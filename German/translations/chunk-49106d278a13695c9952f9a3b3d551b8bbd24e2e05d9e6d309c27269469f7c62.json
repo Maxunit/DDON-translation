@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000086_00.gmd",
+  "arc_path": "\\quest\\q21000086.arc",
+  "entries": [
+    {
+      "key": "q21000086_00_405",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【高難度】油断大敵",
+      "source_en": "[Hard] Don't Let Your Guard Down",
+      "text": "[Schwierig] Wachsam bleiben"
+    },
+    {
+      "key": "q21000086_00_405",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【連続討伐クエスト】\r\nエリアマスターの願いを聞き入れ\r\nダンジョン付近にて起きている問題を調査する",
+      "source_en": "[Consecutive Subjugation Quest]\r\nGrant the wish of the Area Master\r\nand investigate the issues\r\noccurring near the dungeon.",
+      "text": "[Jagdserie]\r\nHör dir die Bitte des Gebietsmeisters an\r\nund untersuche die Vorfälle\r\nin der Nähe des Verlieses."
+    },
+    {
+      "key": "q21000086_00_405",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のエリアマスターが\r\nダンジョン付近の不穏な空気を警戒しているようだ",
+      "source_en": "The Area Master of <NAME AREA>\r\nis wary to the unrest near the dungeon.",
+      "text": "Der Gebietsmeister bei <NAME AREA>\r\nist wegen der Vorfälle rings um das Verlies beunruhigt."
+    },
+    {
+      "key": "q21000086_00_405",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ここに呼ばれた部隊は皆精鋭揃い\r\nなのに、毎日沢山のように負傷者が出るわ\r\nそういう人たちが口を揃えて言うのが\r\n油断していたってこと\r\nいくら強くても、初心を忘れたらだめよ\r\n相手を倒す前に自分に克たなくちゃ",
+      "source_en": "The squad summoned here is made up of elites, \r\nyet every day there are numerous injuries. \r\nThose who are injured all say the same: \r\nthey let their guard down. \r\nNo matter how strong you are, \r\nyou must never forget your roots. \r\nYou have to master yourself before you can defeat your foe.",
+      "text": "Nur die Besten wurden hierhergeschickt.\r\nTrotzdem haben wir jeden Tag viele Verwundete.\r\nSie sagen alle dasselbe.\r\nSie hätten nicht aufgepasst.\r\nDu kannst noch so stark sein.\r\nVergiss trotzdem nie, was du am Anfang gelernt hast.\r\nBevor du einen Gegner bezwingst, musst du dich selbst im Griff haben."
+    },
+    {
+      "key": "q21000086_00_1161",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所を調べる",
+      "source_en": "Investigate the specified location",
+      "text": "Untersuche den angegebenen Ort."
+    },
+    {
+      "key": "q21000086_00_1162",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000086_00_1163",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "指定されたダンジョン内を捜索する",
+      "source_en": "Search within the specified dungeon",
+      "text": "Durchsuche das angegebene Verlies."
+    },
+    {
+      "key": "q21000086_00_1164",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ダンジョン内の各所の魔物を討伐する（残り３）",
+      "source_en": "Defeat the monsters at locations in the dungeon\r\n(3 left)",
+      "text": "Besiege die Monster an den Zielorten im Verlies\r\n(noch 3)."
+    },
+    {
+      "key": "q21000086_00_1165",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターに経緯を報告する",
+      "source_en": "Report to the Area Master",
+      "text": "Berichte dem Gebietsmeister, was du herausgefunden hast."
+    },
+    {
+      "key": "q21000086_00_1184",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ダンジョン内の各所の魔物を討伐する（残り２）",
+      "source_en": "Defeat the monsters at locations in the dungeon\r\n(2 left)",
+      "text": "Besiege die Monster an den Zielorten im Verlies\r\n(noch 2)."
+    },
+    {
+      "key": "q21000086_00_1185",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ダンジョン内の各所の魔物を討伐する（残り１）",
+      "source_en": "Defeat the monsters at locations in the dungeon\r\n(1 left)",
+      "text": "Besiege die Monster an den Zielorten im Verlies\r\n(noch 1)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

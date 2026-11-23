@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000050_00.gmd",
+  "arc_path": "\\quest\\q60000050.arc",
+  "entries": [
+    {
+      "key": "q60000050_00_37",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "求道の師を訪ねて　ファイター",
+      "source_en": "Seeking the Master: Fighter",
+      "text": "Auf der Suche nach der Klassenmeisterin – Kämpfer"
+    },
+    {
+      "key": "q60000050_00_37",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョブマスター・ヴァネッサに\r\nファイター求道試練の許可をもらいに行く",
+      "source_en": "Visit Job Master Vanessa to request \r\napproval for the Fighter's trial",
+      "text": "Such Klassenmeisterin Vanessa auf\r\nund bitte sie, dich zur Kämpferprüfung zuzulassen."
+    },
+    {
+      "key": "q60000050_00_1219",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦のヴァネッサを訪ねる",
+      "source_en": "Visit Vanessa in Fort Gritten",
+      "text": "Such Vanessa in der Festung Gritten auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

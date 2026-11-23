@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000054_00.gmd",
+  "arc_path": "\\quest\\q60000054.arc",
+  "entries": [
+    {
+      "key": "q60000054_00_41",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "求道の師を訪ねて　シーカー",
+      "source_en": "Seeking the Master: Seeker",
+      "text": "Auf der Suche nach dem Klassenmeister – Kundschafter"
+    },
+    {
+      "key": "q60000054_00_41",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョブマスター・チェスターに\r\nシーカー求道試練の許可をもらいに行く",
+      "source_en": "Visit Job Master Chester to request \r\napproval for the Seeker's trial",
+      "text": "Such Klassenmeister Chester auf\r\nund bitte ihn, dich zur Kundschafterprüfung zuzulassen."
+    },
+    {
+      "key": "q60000054_00_1215",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ダウ渓谷のチェスターを訪ねる",
+      "source_en": "Visit Chester in the Dowe Valley",
+      "text": "Such Chester im Dowe-Tal auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

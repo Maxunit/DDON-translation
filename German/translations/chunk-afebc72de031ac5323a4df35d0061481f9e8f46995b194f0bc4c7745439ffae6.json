@@ -1,0 +1,152 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q21016006.gmd",
+  "arc_path": "\\quest\\q21016006.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "<AREA 16>フィールドの《<ITEM 15952>》を採取できる採取ポイントの数が増えました\r\n＜晴天＞の間にたくさん採取し、納品しましょう",
+      "source_en": "",
+      "text": "Bei <AREA 16> gibt es jetzt mehr Sammelstellen für „<ITEM 15952>“.\r\nSammle bei klarem Himmel so viel du kannst und liefere den Fund ab."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "＜晴天＞が終了したため、<AREA 16>フィールドの\r\n《<ITEM 15952>》の採取ポイント数が通常に戻りました\r\n納品し、クエストを終了しましょう",
+      "source_en": "",
+      "text": "Der Himmel ist nicht mehr klar. Bei <AREA 16> gibt es wieder\r\ndie übliche Zahl an Sammelstellen für „<ITEM 15952>“.\r\nLiefere deinen Fund ab, um die Quest abzuschließen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "白き竜の覚者様――\r\nこの度の尽力、心より感謝いたします\r\n未だ全ての浄化にはいたりませんが\r\n村の民も、森も、貴方には多大なる恩を受けました",
+      "source_en": "",
+      "text": "Erweckter des Weißen Drachen,\r\nich danke dir von Herzen für deinen Einsatz.\r\nNoch ist der Befall nicht ganz zurückgedrängt.\r\nAber der Wald und die Menschen im Dorf stehen tief in deiner Schuld."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "そこで、恩返し――という訳ではありませんが\r\n覚者様に有用かと思われる話をお伝えしましょう",
+      "source_en": "",
+      "text": "Als Dank ist das zwar zu wenig,\r\naber vielleicht kann ich dir mit einem Hinweis helfen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "重要な素材である《<ITEM 15952>》が\r\n＜晴天＞時にのみ採取地点数が増加する――\r\nというお話です\r\nご興味はおありでしょうか",
+      "source_en": "",
+      "text": "„<ITEM 15952>“ ist ein wichtiges Material.\r\nNur bei klarem Himmel\r\nfindet man es an mehr Sammelstellen als sonst.\r\nMöchtest du mehr darüber erfahren?"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "ご興味がおありでしたら、＜晴天＞時に\r\nこの拠点内に共に採取するお仲間を集めてから\r\n再度お声掛けいただけますでしょうか？\r\nその際に、詳しくご説明いたしましょう",
+      "source_en": "",
+      "text": "Wenn du Interesse hast, versammle bei klarem Himmel\r\ndie Leute, die beim Sammeln helfen, hier im Lager\r\nund sprich mich noch einmal an.\r\nDann erkläre ich euch alles Weitere."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "重要な素材である《<ITEM 15952>》が\r\n＜晴天＞時にのみ大量に採取できる――\r\nという話にご興味はおありでしょうか",
+      "source_en": "",
+      "text": "Möchtest du wissen, warum „<ITEM 15952>“\r\nnur bei klarem Himmel\r\nin großen Mengen zu finden ist?"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "詳細なご説明をさせていただきたいので\r\n＜晴天＞時に共に採取に行かれるお仲間を\r\nこの拠点に集めていただき\r\n再度お声掛けいただけますでしょうか",
+      "source_en": "",
+      "text": "Ich würde dir gern davon erzählen.\r\nVersammle dazu bei klarem Himmel\r\ndeine ganze Sammelgruppe hier im Lager\r\nund sprich mich noch einmal an."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "おお、お集まりくださいましたか\r\nありがとうございます――\r\nそれでは、ご説明いたしましょう",
+      "source_en": "",
+      "text": "Ah, ihr seid alle da.\r\nVielen Dank.\r\nDann will ich euch erklären, worauf ihr achten müsst."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "――ご存知のように、自然豊かなモロー樹林には\r\n不思議な生態を持つ植物が多く生息しています\r\n＜晴天＞の時のみ急速成長し、通常より多くの地点から\r\n採取が可能になる《<ITEM 15952>》もその一つ",
+      "source_en": "",
+      "text": "Im Morrow-Wald, der reich an Leben ist, wachsen bekanntlich\r\nviele Pflanzen mit erstaunlichen Eigenschaften.\r\nManche wachsen nur bei klarem Himmel rasch und sind dann an mehr Stellen zu finden.\r\nDazu gehört „<ITEM 15952>“."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "＜晴天＞が終われば採取地点数は普段通りに\r\nなってしまいますが――\r\n天候を狙って、採取に向かってみてはいかがでしょう",
+      "source_en": "",
+      "text": "Sobald der Himmel nicht mehr klar ist,\r\ngibt es wieder die übliche Zahl an Sammelstellen.\r\nNutzt also das gute Wetter, um sammeln zu gehen."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "また、その際ですが――\r\n十分な量を採取されましたら\r\n＜５＞つほどお分けいただけないでしょうか？",
+      "source_en": "",
+      "text": "Ich hätte noch eine Bitte.\r\nWenn ihr genügend davon findet,\r\nkönntet ihr mir etwa fünf Portionen abgeben?"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "虫除けの効果があり、汎用性も高いため\r\n我が村にとって非常に価値ある素材なのです\r\nどうぞ、よろしくお願いいたします",
+      "source_en": "",
+      "text": "Sie hält Insekten fern und ist vielseitig einsetzbar.\r\nFür unser Dorf ist sie deshalb sehr wertvoll.\r\nIch zähle auf dich."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_jp",
+      "source_jp": "《<ITEM 15952>》がより多くの地点から\r\n採取できるのは＜晴天＞の間のみでございます\r\nそれが終われば通常通りに戻ってしまうでしょう",
+      "source_en": "",
+      "text": "„<ITEM 15952>“ kannst du nur bei klarem Himmel\r\nan mehr Stellen als sonst sammeln.\r\nDanach gibt es wieder so viele Sammelstellen wie sonst."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_jp",
+      "source_jp": "十分な分量が採取できましたら\r\n＜５＞つほどお分けいただけないでしょうか？\r\nどうぞ、よろしくお願いいたします",
+      "source_en": "",
+      "text": "Wenn du genügend davon findest,\r\nkönntest du mir etwa fünf Portionen abgeben?\r\nVielen Dank für deine Hilfe."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_jp",
+      "source_jp": "覚者様、お分けいただきありがとうございます\r\n全て懐にしまい込むという手があるにも関わらず\r\n正直に納品してくださった――",
+      "source_en": "",
+      "text": "Danke, dass du mit uns teilst, Erweckter.\r\nDu hättest alles für dich behalten können.\r\nAber du hast Wort gehalten und es uns gebracht."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_jp",
+      "source_jp": "貴方を従える白き竜も\r\nきっとその身のようにさぞ清廉なのでしょうね",
+      "source_en": "",
+      "text": "Der Weiße Drache, dem du dienst,\r\nmuss so aufrichtig sein, wie sein Äußeres rein ist."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_jp",
+      "source_jp": "今回の採取で、お手元に残っているものがあれば\r\nどうぞ冒険にお役立てくださいませ\r\n――精霊竜のご加護がありますように",
+      "source_en": "",
+      "text": "Wenn du für dich noch etwas übrig hast,\r\nnutz es gern auf deinen Abenteuern.\r\nMöge der Geisterdrache dich beschützen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

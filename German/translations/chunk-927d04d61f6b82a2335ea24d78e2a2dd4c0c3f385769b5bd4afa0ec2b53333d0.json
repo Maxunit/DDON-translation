@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60200025.gmd",
+  "arc_path": "\\quest\\q60200025.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_en",
+      "source_jp": "まずは必要な素材を入手なさってください",
+      "source_en": "Please obtain the necessary materials first.",
+      "text": "Besorg bitte zuerst die nötigen Zutaten."
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_en",
+      "source_jp": "また、チョレートのレシピは\r\n消耗品の＜体力回復＞の項目に\r\n追加してあります",
+      "source_en": "Also, the chocolate recipe has been\r\nadded to the Heal category.",
+      "text": "Das Schokoladenrezept findest du unter „Verbrauch“\r\nin der Rubrik „LP-Heilung“."
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "tag_source": "source_en",
+      "source_jp": "隊長、俺に――！",
+      "source_en": "Captain, let me―!",
+      "text": "Truppführer, ich will was!"
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "tag_source": "source_en",
+      "source_jp": "珍しいモノを貰えるんだって？",
+      "source_en": "I heard you can get rare things?",
+      "text": "Gibt’s hier was Seltenes?"
+    },
+    {
+      "key": "",
+      "read_index": "49",
+      "tag_source": "source_en",
+      "source_jp": "欲しいです！",
+      "source_en": "I want some!",
+      "text": "Ich hätte auch gern was!"
+    },
+    {
+      "key": "",
+      "read_index": "50",
+      "tag_source": "source_en",
+      "source_jp": "もちろん私にくれるよね？",
+      "source_en": "Of course you're giving me some, right?",
+      "text": "Du gibst mir doch bestimmt was, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "51",
+      "tag_source": "source_en",
+      "source_jp": "俺は要らねぇぞ！",
+      "source_en": "I don't need any, dammit!",
+      "text": "Ich brauch nichts, verdammt!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

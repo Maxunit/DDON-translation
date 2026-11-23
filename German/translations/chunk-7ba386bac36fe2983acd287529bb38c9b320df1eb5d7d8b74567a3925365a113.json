@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200014_00.gmd",
+  "arc_path": "\\quest\\q60200014.arc",
+  "entries": [
+    {
+      "key": "q60200014_00_188",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "道を極めんがため",
+      "source_en": "Road to Mastery",
+      "text": "Auf dem Weg zur Meisterschaft"
+    },
+    {
+      "key": "q60200014_00_188",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "新たな成長要素であるプレイポイントについて\r\n白竜神殿のアーチボルトから話を聞く",
+      "source_en": "Talk to Archibald at the White Dragon Temple\r\nabout the new growth element, Play Points",
+      "text": "Frag Archibald im Tempel des Weißen Drachen,\r\nwie du deine Klasse mit Spielpunkten weiterentwickeln kannst."
+    },
+    {
+      "key": "q60200014_00_2489",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ジョブ転職画面でプレイポイント入手モードに切替える",
+      "source_en": "Switch to Play Point Acquisition Mode on the Job Change Screen",
+      "text": "Stell im Menü „Klasse wechseln“ auf Spielpunkte um."
+    },
+    {
+      "key": "q60200014_00_2490",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "プレイポイントを獲得するため<STG 870>へ向かう",
+      "source_en": "Head to <STG 870> to acquire Play Points",
+      "text": "Geh nach <STG 870>, um Spielpunkte zu sammeln."
+    },
+    {
+      "key": "q60200014_00_2491",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "敵を倒してプレイポイントを1以上獲得する",
+      "source_en": "Defeat enemies to earn 1 or more Play Points",
+      "text": "Besiege Gegner, bis du mindestens einen Spielpunkt erhalten hast."
+    },
+    {
+      "key": "q60200014_00_2492",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿のアーチボルトに報告する",
+      "source_en": "Report to Archibald in the White Dragon Temple",
+      "text": "Erstatte Archibald im Tempel des Weißen Drachen Bericht."
+    },
+    {
+      "key": "q60200014_00_2493",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "レンテンからプレイポイントショップについて聞く",
+      "source_en": "Hear about the Play Point Shop from Renton",
+      "text": "Lass dir von Renton den Spielpunkte-Shop erklären."
+    },
+    {
+      "key": "q60200014_00_2494",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "プレイポイントショップのラインナップを確認する",
+      "source_en": "Check out the Play Point Shop lineup",
+      "text": "Sieh dir das Angebot im Spielpunkte-Shop an."
+    },
+    {
+      "key": "q60200014_00_2495",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "レンテンに報告する",
+      "source_en": "Report to Renton",
+      "text": "Erstatte Renton Bericht."
+    },
+    {
+      "key": "q60200014_00_2496",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿のアーチボルトに報告する",
+      "source_en": "Report to Archibald in the White Dragon Temple",
+      "text": "Erstatte Archibald im Tempel des Weißen Drachen Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

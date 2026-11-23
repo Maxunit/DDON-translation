@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\common\\weapon_ctgr.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "WEAPON_CTGR_3",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "大剣",
+      "source_en": "Greatsword",
+      "text": "Großschwert"
+    },
+    {
+      "key": "WEAPON_CTGR_6",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ダガー",
+      "source_en": "Daggers",
+      "text": "Dolche"
+    },
+    {
+      "key": "WEAPON_CTGR_8",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "魔道篭手",
+      "source_en": "Magick Gauntlet",
+      "text": "Magische Handschuhe"
+    },
+    {
+      "key": "WEAPON_CTGR_9",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "魔道弓",
+      "source_en": "Magick Bow",
+      "text": "Magiebogen"
+    },
+    {
+      "key": "WEAPON_CTGR_12",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "大杖",
+      "source_en": "Archistaff",
+      "text": "Großstab"
+    },
+    {
+      "key": "WEAPON_CTGR_13",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "精霊槍",
+      "source_en": "Spirit Lance",
+      "text": "Geisterlanze"
+    },
+    {
+      "key": "WEAPON_CTGR_15",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "魔道剣",
+      "source_en": "Magick Sword",
+      "text": "Magisches Schwert"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

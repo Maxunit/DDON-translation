@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60213000_00.gmd",
+  "arc_path": "\\quest\\q60213000.arc",
+  "entries": [
+    {
+      "key": "q60213000_00_128",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島　試練：異郷の聖堂",
+      "source_en": "BI Trial: A Strange Land's Temple",
+      "text": "Blutfluchinsel – Prüfung: Ein Tempel in der Fremde"
+    },
+    {
+      "key": "q60213000_00_128",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島の問題解決のため\r\nせせらぎの地下聖堂へ向かい\r\n内部を調査する",
+      "source_en": "In order to solve the problem of Bloodbane Isle, \r\nhead to the Crypt of Murmurs \r\nand investigate the inside",
+      "text": "Geh der Sache auf der Blutfluchinsel nach.\r\nBetritt die Krypta des Wasserrauschens\r\nund erkunde ihr Inneres."
+    },
+    {
+      "key": "q60213000_00_1936",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "調査隊駐屯地のベルトランに報告する",
+      "source_en": "Report to Bertrand in the Expedition Garrison",
+      "text": "Erstatte Bertrand im Expeditionslager Bericht."
+    },
+    {
+      "key": "q60213000_00_1937",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "せせらぎの地下聖堂へ調査に向かう",
+      "source_en": "Head to Crypt of Murmurs to investigate",
+      "text": "Geh zur Krypta des Wasserrauschens und erkunde sie."
+    },
+    {
+      "key": "q60213000_00_1938",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる魔物を討伐する",
+      "source_en": "Defeat the demon threat",
+      "text": "Besiege die gefährlichen Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

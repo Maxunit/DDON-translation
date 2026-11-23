@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60216003_00.gmd",
+  "arc_path": "\\quest\\q60216003.arc",
+  "entries": [
+    {
+      "key": "q60216003_00_184",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "モロー樹林　試練：苦難のきざし",
+      "source_en": "MF Trial: Traces of Tribulation",
+      "text": "Morrow-Wald – Prüfung: Anzeichen für neues Unheil"
+    },
+    {
+      "key": "q60216003_00_184",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターから事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the Area Master\r\nand try to solve the problem",
+      "text": "Frag den Gebietsmeister nach den Einzelheiten\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60216003_00_2383",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 2604>から詳細を確認する",
+      "source_en": "Confirm details from <NPC 2604>",
+      "text": "Frag <NPC 2604> nach den Einzelheiten."
+    },
+    {
+      "key": "q60216003_00_2384",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 561>に拘束した魔物の居場所を聞く",
+      "source_en": "Inquire with <NPC 561> about where the captured monsters are",
+      "text": "Frag <NPC 561> nach den Monstern, die ihn gefangen halten."
+    },
+    {
+      "key": "q60216003_00_2385",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "罠にはめた魔物の居場所へ向かう",
+      "source_en": "Head to the location of the monster caught in the trap",
+      "text": "Geh zu den Monstern, die die Falle gestellt haben."
+    },
+    {
+      "key": "q60216003_00_2456",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "仲間を拘束した魔物を討伐する",
+      "source_en": "Defeat the foe(s) restraining the comrades",
+      "text": "Besiege die Monster, die die Gefährten gefangen halten."
+    },
+    {
+      "key": "q60216003_00_2464",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "魔物を全滅させる",
+      "source_en": "Defeat the foe(s)",
+      "text": "Besiege alle Monster."
+    },
+    {
+      "key": "q60216003_00_2499",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "調査に向かった付近で<NPC 561>を探す",
+      "source_en": "Search for <NPC 561> near where you headed to investigate",
+      "text": "Such in der Gegend, die ihr untersucht habt, nach <NPC 561>."
+    },
+    {
+      "key": "q60216003_00_2547",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "<SPOT 878>の<NPC 2604>に報告する",
+      "source_en": "Report to <NPC 2604> in <SPOT 878>",
+      "text": "Erstatte <NPC 2604> bei <SPOT 878> Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

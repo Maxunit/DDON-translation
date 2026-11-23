@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q21016009.gmd",
+  "arc_path": "\\quest\\q21016009.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "やぁ、君は――トリンが話していた覚者さんだね\r\nセシリーのことも世話になったようだし\r\n君のような立派な人に会えて、光栄だよ",
+      "source_en": "",
+      "text": "Hallo! Du bist der Erweckte, von dem Thorin gesprochen hat, oder?\r\nCecily hast du wohl auch geholfen.\r\nEs ist eine Ehre, jemanden wie dich kennenzulernen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "それで――僕に何か用かな\r\n気になっていることと言えば――そうだ\r\n爆発騒ぎの時、解除された封鎖があっただろう？\r\n実はあれが堤防の役割を果たしていたみたいでね",
+      "source_en": "",
+      "text": "Was kann ich für dich tun?\r\nAch ja, eine Sache beschäftigt mich.\r\nBei der Explosion wurde doch eine Sperre beseitigt.\r\nOffenbar hat sie bisher als Damm gedient."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "今、《<STG 951>》に溜まっていた\r\n侵食魔たちがこちら側に流れ込んでいるそうなんだ\r\n河向こうからダナの応援を呼ぼうかと\r\nアルトフェイルが話しているのを聞いたよ",
+      "source_en": "",
+      "text": "Bei „<STG 951>“ hatten sich Befallene gesammelt.\r\nDie strömen jetzt wohl auf unsere Seite.\r\nIch habe gehört, dass Arthfael überlegt,\r\nvon der anderen Seite des Flusses Hilfe aus Dana zu holen."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "良かったら、君が片付けてくれないか？\r\n全て討伐するのは難しいかもしれないけど\r\n成功すれば、その後がかなり楽になるはずだ",
+      "source_en": "",
+      "text": "Könntest du dich um die Monster kümmern?\r\nEs wird vielleicht schwierig, alle zu besiegen.\r\nAber wenn du es schaffst, haben wir es danach viel leichter."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "それに、この村の戦士は皆\r\n君から学びたいことが大いにあるはずだからね\r\nモルフォールのために、やってくれると嬉しいよ",
+      "source_en": "",
+      "text": "Außerdem können sich die Krieger hier im Dorf\r\nsicher einiges von dir abschauen.\r\nIch würde mich freuen, wenn du das für Morfaul tust."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "今、《<STG 951>》に溜まっていた\r\n侵食魔たちがこちら側に流れ込んでいるそうなんだ\r\nもしよかったら、片づけて来てくれないか？\r\nやってくれれば、その後がかなり楽になるはずだ",
+      "source_en": "",
+      "text": "Bei „<STG 951>“ hatten sich Befallene gesammelt.\r\nDie strömen jetzt wohl auf unsere Seite.\r\nKönntest du sie für uns besiegen?\r\nWenn du es schaffst, haben wir es danach viel leichter."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "ここ最近、ダナには頼ることが多かったからね\r\n頼りすぎるのも村の力関係に影響が出そうだったから\r\n中立な立場の君が動いてくれるなら、\r\n皆安心してお願いできると思うんだよ",
+      "source_en": "",
+      "text": "Wir mussten Dana in letzter Zeit oft um Hilfe bitten.\r\nWenn wir das zu oft tun, verschiebt sich vielleicht das Kräfteverhältnis zwischen den Dörfern.\r\nDu stehst auf keiner Seite.\r\nIch glaube, dich können alle guten Gewissens um Hilfe bitten."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "あぁ、やってくれたのかい！\r\nやっぱり、トリン兄さんの言っていた通りだ\r\n本当に頼りになるんだね",
+      "source_en": "",
+      "text": "Oh, du hast es geschafft!\r\nMein Bruder Thorin hatte recht.\r\nAuf dich ist wirklich Verlass."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "君みたいな立派な戦士に会えると、\r\nこういう仕事をして良かったと思うんだ\r\n戦技の扱いや休息の知識を生かせるからね――\r\nサポートなら任せてくれ！",
+      "source_en": "",
+      "text": "Wenn ich einem Krieger wie dir begegne,\r\nbin ich froh, dass ich diesen Beruf gewählt habe.\r\nDann kann ich mein Wissen über Kampftechniken und Erholung einsetzen.\r\nWenn du Unterstützung brauchst, lass es mich wissen!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

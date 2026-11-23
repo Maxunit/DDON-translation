@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21017019_00.gmd",
+  "arc_path": "\\quest\\q21017019.arc",
+  "entries": [
+    {
+      "key": "q21017019_00_615",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "凍て付きし業炎",
+      "source_en": "Frozen Blaze",
+      "text": "Die gefrorene Feuersbrunst"
+    },
+    {
+      "key": "q21017019_00_615",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【偶発討伐クエスト】\r\n出現した危険な魔物を追い詰め\r\n討伐する",
+      "source_en": "[Chance Encounter: Subjugation Quest]\r\nTrack down the dangerous enemy that has\r\nappeared and defeat it.",
+      "text": "[Jagd bei Zufallsbegegnung]\r\nTreib den gefährlichen Gegner, der aufgetaucht ist,\r\nin die Enge und besiege ihn."
+    },
+    {
+      "key": "q21017019_00_615",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "不確実な情報だが、<NAME AREA>から\r\n狂暴な魔物のしわざと思われる被害報告があった",
+      "source_en": "Although the information is uncertain,\r\nthere have been reports of damage\r\nbelieved to be caused by violent\r\ncreatures in\r\n<NAME AREA>.",
+      "text": "Die Meldungen sind unbestätigt.\r\nAnscheinend haben\r\ngefährliche Monster Schäden angerichtet,\r\nund zwar bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21017019_00_615",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "火、氷、雷――相手が何で襲ってこようと\r\n平気で戦える装備でなくちゃいけません\r\n特にこんな、危険なフィンダム大陸ではね\r\nいつも決まった攻撃をしかけてくるとは\r\n限らないのだから――",
+      "source_en": "Fire, ice, lightning—\r\nyou need to be equipped to fight\r\nregardless of what the enemy attacks\r\nwith.\r\nEspecially in this dangerous land of\r\nPhindym.\r\nYou can't assume they'll always use\r\nthe same attacks.",
+      "text": "Feuer, Eis, Blitz …\r\nDeine Ausrüstung muss dich schützen,\r\negal womit der Gegner angreift.\r\nErst recht hier in Phindym,\r\nwo es so gefährlich ist.\r\nVerlass dich nie darauf, dass ein Gegner\r\nimmer gleich angreift.\r\nSonst wirst du böse überrascht."
+    },
+    {
+      "key": "q21017019_00_1254",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q21017019_00_1255",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "逃亡した魔物が残した痕跡を調べる",
+      "source_en": "Look into the signs left by the fleeing beast",
+      "text": "Untersuche die Spuren des entkommenen Monsters."
+    },
+    {
+      "key": "q21017019_00_1256",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "魔物の行方を追う",
+      "source_en": "Track down the foe(s)",
+      "text": "Folge den Spuren der Monster."
+    },
+    {
+      "key": "q21017019_00_1257",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "危険な魔物を追い詰め、止めを刺す",
+      "source_en": "Hunt down and stop the dangerous monsters",
+      "text": "Treib die gefährlichen Monster in die Enge und besiege sie."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

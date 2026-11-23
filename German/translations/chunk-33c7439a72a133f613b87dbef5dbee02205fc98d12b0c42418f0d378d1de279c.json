@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200015_00.gmd",
+  "arc_path": "\\quest\\q60200015.arc",
+  "entries": [
+    {
+      "key": "q60200015_00_192",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "パンプキンランタンが照らすのは？",
+      "source_en": "Light a Pumpkin Lantern?",
+      "text": "Was die Kürbislaterne beleuchtet"
+    },
+    {
+      "key": "q60200015_00_192",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼人の求める物を探して手に入れる",
+      "source_en": "Search for and obtain what the client desires.",
+      "text": "Finde und besorge, was der Auftraggeber sucht."
+    },
+    {
+      "key": "q60200015_00_2606",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "依頼人に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q60200015_00_2607",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "＜テルの枯れ井戸＞へむかう",
+      "source_en": "Head to Tel's Withered Well",
+      "text": "Geh zu Tels trockenem Brunnen."
+    },
+    {
+      "key": "q60200015_00_2608",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "お化けのような魔物を探す",
+      "source_en": "Find the ghosts",
+      "text": "Such nach den geisterhaften Monstern."
+    },
+    {
+      "key": "q60200015_00_2609",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "魔物を倒す",
+      "source_en": "Defeat the foe(s)",
+      "text": "Besiege die Monster."
+    },
+    {
+      "key": "q60200015_00_2610",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "依頼人の落としたお菓子を探す",
+      "source_en": "Find the candy the requester dropped",
+      "text": "Such nach den verlorenen Süßigkeiten."
+    },
+    {
+      "key": "q60200015_00_2611",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼人に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q60200015_00_2612",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "商業区のグレゴリーに相談する",
+      "source_en": "Consult Gregory in the Shopping District",
+      "text": "Frag Gregory im Händlerviertel um Rat."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

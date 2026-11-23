@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200108_00.gmd",
+  "arc_path": "\\quest\\q60200108.arc",
+  "entries": [
+    {
+      "key": "q60200108_00_93",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "戦技の継承　ハンター求道試練１",
+      "source_en": "Skill Augmentation: Hunter Trial I",
+      "text": "Klassenverstärkung – Jägerprüfung I"
+    },
+    {
+      "key": "q60200108_00_93",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ハンターの新たな戦術を学ぶため\r\nマスターの試練に挑む",
+      "source_en": "To learn new Hunter tactics,\r\nchallenge the trial of the Job Master",
+      "text": "Stelle dich der Prüfung des Klassenmeisters,\r\num als Jäger neue Techniken zu lernen."
+    },
+    {
+      "key": "q60200108_00_1834",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "＜南壁のひび＞に向かう",
+      "source_en": "Head to \"Southern Wall Fissure\"",
+      "text": "Geh zum Spalt in der Südwand."
+    },
+    {
+      "key": "q60200108_00_1835",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "最終試練の場所へ向かう",
+      "source_en": "Head to the location of the final test",
+      "text": "Geh zum Ort der letzten Prüfung."
+    },
+    {
+      "key": "q60200108_00_1836",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "最終試練の敵を倒す",
+      "source_en": "Defeat the enemy at the final test",
+      "text": "Besiege den Gegner der letzten Prüfung."
+    },
+    {
+      "key": "q60200108_00_1837",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "マスターの拠点で教示を受ける",
+      "source_en": "Receive teachings at the home of the master",
+      "text": "Lass dich am Stützpunkt des Klassenmeisters unterweisen."
+    },
+    {
+      "key": "q60200108_00_2014",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "第一試練の場所へ向かう",
+      "source_en": "Head to the location of the first test",
+      "text": "Geh zum Ort der ersten Prüfung."
+    },
+    {
+      "key": "q60200108_00_2015",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "第一試練の敵を倒す",
+      "source_en": "Defeat the enemy at the first test",
+      "text": "Besiege den Gegner der ersten Prüfung."
+    },
+    {
+      "key": "q60200108_00_2016",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "第二試練の場所へ向かう",
+      "source_en": "Head to the location of the second test",
+      "text": "Geh zum Ort der zweiten Prüfung."
+    },
+    {
+      "key": "q60200108_00_2017",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "第二試練の敵を倒す",
+      "source_en": "Defeat the enemy at the second test",
+      "text": "Besiege den Gegner der zweiten Prüfung."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

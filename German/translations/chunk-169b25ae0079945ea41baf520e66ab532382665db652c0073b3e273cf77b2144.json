@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21014001_00.gmd",
+  "arc_path": "\\quest\\q21014001.arc",
+  "entries": [
+    {
+      "key": "q21014001_00_541",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "懐古たる洗礼",
+      "source_en": "Fount of Nostalgia",
+      "text": "Wie in alten Zeiten"
+    },
+    {
+      "key": "q21014001_00_541",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest]\r\nListen to the requester's wish.\r\nDefeat the ferocious enemy\r\nwithout reviving even once.",
+      "text": "[Sieg ohne Wiederbelebung]\r\nHör dir die Bitte des Auftraggebers an.\r\nBesiege den wilden Gegner,\r\nohne dich auch nur einmal wiederbeleben zu lassen."
+    },
+    {
+      "key": "q21014001_00_541",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the <NAME AREA> \r\nappears to be testing their skills\r\nin a battle against an enemy.",
+      "text": "Bei <NAME AREA>\r\nversucht offenbar jemand,\r\nsich im Kampf gegen ein Monster zu beweisen."
+    },
+    {
+      "key": "q21014001_00_541",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "フィンダム大陸にはまだまだ誰も見たことのない\r\n摩訶不思議な物が沢山あるって話だ\r\nそれを確かめるために調査隊に潜り込んでみたんだ\r\n確かに見たこともないもんは沢山あった\r\n見たこともない魔物もまた、沢山いたけどな",
+      "source_en": "There are still countless mysterious things \r\non the Phindym continent that no one has witnessed. \r\nTo check it out, I infiltrated an expedition team. \r\nAnd sure enough, there were many things I'd never seen, \r\nalong with many monsters I had never faced before.",
+      "text": "Auf Phindym gibt es noch viele Wunder,\r\ndie niemand mit eigenen Augen gesehen hat.\r\nUm mir selbst ein Bild zu machen, hab ich mich einem Erkundungstrupp angeschlossen.\r\nUnd tatsächlich habe ich vieles entdeckt, was ich nicht kannte.\r\nDarunter leider auch jede Menge unbekannte Monster."
+    },
+    {
+      "key": "q21014001_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Such am angegebenen Ort nach den wilden Monstern."
+    },
+    {
+      "key": "q21014001_00_1175",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21014001_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte dem Auftraggeber, was du herausgefunden hast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

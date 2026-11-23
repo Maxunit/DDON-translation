@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21017018_00.gmd",
+  "arc_path": "\\quest\\q21017018.arc",
+  "entries": [
+    {
+      "key": "q21017018_00_614",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "闇獣使いの魔女",
+      "source_en": "The Dark Summoner Witch",
+      "text": "Die Hexe der Schattenbestien"
+    },
+    {
+      "key": "q21017018_00_614",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【偶発討伐クエスト】\r\n出現した危険な魔物を追い詰め\r\n討伐する",
+      "source_en": "[Chance Encounter: Subjugation Quest]\r\nTrack down the dangerous enemy that has\r\nappeared and defeat it.",
+      "text": "[Jagd bei Zufallsbegegnung]\r\nTreib den gefährlichen Gegner, der aufgetaucht ist,\r\nin die Enge und besiege ihn."
+    },
+    {
+      "key": "q21017018_00_614",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "不確実な情報だが、<NAME AREA>から\r\n狂暴な魔物のしわざと思われる被害報告があった",
+      "source_en": "Although the information is uncertain,\r\nthere have been reports of damage\r\nbelieved to be caused by violent\r\ncreatures in\r\n<NAME AREA>.",
+      "text": "Die Meldungen sind unbestätigt.\r\nAnscheinend haben\r\ngefährliche Monster Schäden angerichtet,\r\nund zwar bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21017018_00_614",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "女の恨みってのは怖いもんさ\r\n陥れられた恨み、蔑まれた恨み――\r\nそういうのがたっぷり詰まってるのが、遺跡なのさ\r\nその傍で、恨みに塗れた女の魂が現れるって話だが\r\nどこにもそんなのいやしねえ",
+      "source_en": "A woman's grudge can be terrifying.\r\nThe resentment from betrayal,\r\nthe scorn felt—\r\nthat's what's packed into the ruins.\r\nIt's said that the souls of women,\r\ntainted by their hatred, manifest near\r\nthem,\r\nbut I doubt you'll find such a\r\nthing here.",
+      "text": "Die Rache einer Frau kann furchtbar sein.\r\nWenn man sie hintergeht\r\noder sie verachtet …\r\nVon solchen Geschichten sind die Ruinen voll.\r\nMan erzählt, dort erscheinen\r\ndie Seelen verbitterter Frauen,\r\nvon ihrem Hass vergiftet.\r\nAber ich hab dort noch nie etwas\r\ndergleichen gesehen."
+    },
+    {
+      "key": "q21017018_00_1254",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q21017018_00_1255",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "逃亡した魔物が残した痕跡を調べる",
+      "source_en": "Look into the signs left by the fleeing beast",
+      "text": "Untersuche die Spuren des entkommenen Monsters."
+    },
+    {
+      "key": "q21017018_00_1256",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "魔物の行方を追う",
+      "source_en": "Track down the foe(s)",
+      "text": "Folge den Spuren der Monster."
+    },
+    {
+      "key": "q21017018_00_1257",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "危険な魔物を追い詰め、止めを刺す",
+      "source_en": "Hunt down and stop the dangerous monsters",
+      "text": "Treib die gefährlichen Monster in die Enge und besiege sie."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

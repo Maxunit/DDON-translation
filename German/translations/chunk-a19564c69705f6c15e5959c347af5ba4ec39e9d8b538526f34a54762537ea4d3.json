@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21014015_00.gmd",
+  "arc_path": "\\quest\\q21014015.arc",
+  "entries": [
+    {
+      "key": "q21014015_00_555",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "見せしめの勲章",
+      "source_en": "Medal To Set an Example",
+      "text": "Ein Vorbild für die Krieger"
+    },
+    {
+      "key": "q21014015_00_555",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest]\r\nListen to the requester's wish.\r\nDefeat the ferocious enemy\r\nwithout reviving even once.",
+      "text": "[Sieg ohne Wiederbelebung]\r\nHör dir die Bitte der Auftraggeberin an.\r\nBesiege den wilden Gegner,\r\nohne dich auch nur einmal wiederbeleben zu lassen."
+    },
+    {
+      "key": "q21014015_00_555",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the <NAME AREA> \r\nappears to be testing their skills\r\nin a battle against an enemy.",
+      "text": "Bei <NAME AREA>\r\nversucht offenbar jemand,\r\nsich im Kampf gegen ein Monster zu beweisen."
+    },
+    {
+      "key": "q21014015_00_555",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "地域を統べるのって、想像以上に大変そう\r\nだって、たくさんの部下を動かすのよ\r\n見えないところの人間関係とか\r\n妬み嫉みとか、面倒じゃない？\r\n誰か支えてあげればいいのにね",
+      "source_en": "Managing a region looks much harder than one would think. \r\nYou're coordinating many subordinates, \r\nhandling invisible relationships and \r\njealousies—it's quite a hassle, isn't it? \r\nSomeone should really be there to lend support.",
+      "text": "Über eine ganze Gegend zu wachen\r\nist bestimmt anstrengender, als man denkt.\r\nMan muss viele Leute zusammenhalten.\r\nUnd dann die ganzen Feindseligkeiten und Eifersüchteleien …\r\nHoffentlich steht ihr jemand zur Seite."
+    },
+    {
+      "key": "q21014015_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Such am angegebenen Ort nach den wilden Monstern."
+    },
+    {
+      "key": "q21014015_00_1175",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21014015_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte der Auftraggeberin, was du herausgefunden hast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

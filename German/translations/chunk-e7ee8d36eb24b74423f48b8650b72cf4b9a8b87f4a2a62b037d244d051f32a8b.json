@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q21015014.gmd",
+  "arc_path": "\\quest\\q21015014.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "救出対象が怪我を負ってしまったようだ――",
+      "source_en": "The rescue target appears to have been injured...",
+      "text": "Die vermisste Person wurde offenbar verletzt …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "救出対象が魔物に襲われている――急ぎ鎮圧しなければ！",
+      "source_en": "The rescue target is under attack by monsters!\r\nSubdue them quickly!",
+      "text": "Die vermisste Person wird von Monstern angegriffen!\r\nBesiege sie schnell!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

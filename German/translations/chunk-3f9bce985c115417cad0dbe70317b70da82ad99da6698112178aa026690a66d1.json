@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q21017006.gmd",
+  "arc_path": "\\quest\\q21017006.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "《朝》のため《キンガル峡谷》の《渓谷宝石》の採取量が増加しました",
+      "source_en": "Due to [Morning], \r\n[Valley Gem] yield in \r\n[Kingal Canyon] has increased.",
+      "text": "Bei klarem Himmel\r\ngibt es in der Kingal-Schlucht\r\nmehr Abbaustellen für Kingalit."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《朝》が終了したため《キンガル峡谷》の《渓谷宝石》の採取量が通常に戻りました",
+      "source_en": "[Morning] ended. \r\n[Valley Gem] yield has returned to normal.",
+      "text": "Der Himmel ist nicht mehr klar.\r\nIn der Kingal-Schlucht gibt es wieder die übliche Zahl an Abbaustellen für Kingalit."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

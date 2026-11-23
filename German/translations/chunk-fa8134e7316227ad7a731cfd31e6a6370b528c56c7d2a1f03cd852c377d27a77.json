@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21014014_00.gmd",
+  "arc_path": "\\quest\\q21014014.arc",
+  "entries": [
+    {
+      "key": "q21014014_00_554",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "水林の旅人達",
+      "source_en": "Water Grove Wayfarers",
+      "text": "Reisende im Auenwald"
+    },
+    {
+      "key": "q21014014_00_554",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【迅速救助クエスト】\r\n依頼者が求める人物を捜索し\r\n迅速に救助する",
+      "source_en": "[Swift Rescue Quest]\r\nSearch for the person the client is seeking\r\nand rescue them.",
+      "text": "[Rettungsquest]\r\nFinde die vermisste Person\r\nund bring sie schnell in Sicherheit."
+    },
+    {
+      "key": "q21014014_00_554",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "何者かからの、迅速な救援を求める声が\r\n<NAME AREA>から届いているようだ",
+      "source_en": "It seems that a voice requesting swift assistance \r\nhas come from <NAME AREA>.",
+      "text": "Ein dringender Hilferuf ist eingegangen, und zwar aus\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21014014_00_554",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ここの森の勇敢な戦士たちは\r\n森の復興を願うがゆえにその強さを過信し\r\n少しばかり焦りすぎているのではないだろうか\r\n焦りは油断に繋がる\r\n何事も慎重かつ注意深くいることこそ真の戦士だ",
+      "source_en": "The valiant warriors here may be \r\noverestimating their strength due to their \r\nwish for the forest's restoration, \r\nperhaps becoming a bit too hasty. \r\nAnxiety can lead to carelessness; \r\na true warrior is always careful and alert.",
+      "text": "Die tapferen Krieger hier wollen den Wald so gern wieder aufbauen,\r\ndass sie ihre Kräfte womöglich überschätzen\r\nund sich ein bisschen zu sehr beeilen.\r\nWer sich hetzen lässt, wird schnell unachtsam.\r\nEin guter Krieger bleibt vorsichtig.\r\nSo einfach ist das."
+    },
+    {
+      "key": "q21014014_00_1169",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q21014014_00_1226",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の求める人物を捜索する",
+      "source_en": "Search for the person the client is seeking",
+      "text": "Finde die vermisste Person."
+    },
+    {
+      "key": "q21014014_00_1227",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "魔物を迅速に討伐し捜索対象を救助する",
+      "source_en": "Defeat the demon quickly and rescue your charge",
+      "text": "Besiege die Monster schnell und rette die vermisste Person."
+    },
+    {
+      "key": "q21014014_00_1228",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "捜索対象の安否を確認する",
+      "source_en": "Check the search target's well-being",
+      "text": "Sieh nach, wie es der vermissten Person geht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

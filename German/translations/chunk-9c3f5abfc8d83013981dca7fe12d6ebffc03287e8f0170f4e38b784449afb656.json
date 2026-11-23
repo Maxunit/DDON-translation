@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200004_00.gmd",
+  "arc_path": "\\quest\\q60200004.arc",
+  "entries": [
+    {
+      "key": "q60200004_00_255",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "至高の輝き",
+      "source_en": "Supreme Radiance",
+      "text": "Höchster Glanz"
+    },
+    {
+      "key": "q60200004_00_255",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から詳細を聞き\r\n必要な情報を手に入れる",
+      "source_en": "To gather the necessary information,\r\nlisten to the details from the client.",
+      "text": "Frag den Auftraggeber nach den Einzelheiten,\r\num alle nötigen Informationen zu bekommen."
+    },
+    {
+      "key": "q60200004_00_3139",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<STG 202>に向かい<NPC 1026>から詳細を確認する",
+      "source_en": "Head to <STG 202> and confirm details from <NPC 1026>",
+      "text": "Geh nach <STG 202> und frag <NPC 1026> nach den Einzelheiten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

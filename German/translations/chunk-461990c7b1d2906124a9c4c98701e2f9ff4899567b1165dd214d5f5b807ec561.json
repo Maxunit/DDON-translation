@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000099_00.gmd",
+  "arc_path": "\\quest\\q21000099.arc",
+  "entries": [
+    {
+      "key": "q21000099_00_418",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【竜力の扉】猛る魔角",
+      "source_en": "[Door of Dragon Force] Raging Horned Demon",
+      "text": "[Tür der Drachenkraft] Die rasende Hornbestie"
+    },
+    {
+      "key": "q21000099_00_418",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【危険区域クエスト】\r\nダンジョン内の危険区域へ繋がる扉の鍵を作り\r\n凶悪な魔物を討伐する",
+      "source_en": "[Dangerous Area Quest]\r\nMake a key to the door leading to the Dangerous \r\nArea in the dungeon and defeat Brutal monsters.",
+      "text": "[Gefahrenzone]\r\nFertige einen Schlüssel für die Tür zur Gefahrenzone\r\nim Verlies an und besiege die gefährlichen Monster."
+    },
+    {
+      "key": "q21000099_00_418",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のダンジョン内部は、特別な\r\n鍵を持った者だけが入れる場所があるらしい",
+      "source_en": "Within the <NAME AREA> dungeon, \r\nthere is a place that only those who possess\r\na special key can enter.",
+      "text": "In einem Verlies bei <NAME AREA>\r\ngibt es offenbar einen Bereich,\r\nden du nur mit einem besonderen Schlüssel betreten kannst."
+    },
+    {
+      "key": "q21000099_00_418",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "晩飯の足しにでもなればいいと思ってよ\r\nうさぎでも狩りにいこうと思ったわけ――\r\nそしたらなんだあの化け物は？\r\nあいつ、とって焼いたら美味いんだろうか\r\nちょっと臭みがありそうだな",
+      "source_en": "I thought it'd be a good addition to dinner, \r\nso I was planning to hunt a rabbit— \r\nbut what on earth was that beast? \r\nWould it be delicious if roasted? \r\nIt seems like it could be a bit pungent.",
+      "text": "Ich wollte was fürs Abendessen erjagen.\r\nAlso bin ich los, um einen Hasen zu fangen.\r\nUnd plötzlich stand da dieses Ungeheuer!\r\nOb das wohl schmeckt, wenn man’s brät?\r\nEs sieht aus, als würde es ziemlich streng riechen."
+    },
+    {
+      "key": "q21000099_00_1170",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した凶悪な魔物を討伐する",
+      "source_en": "Defeat the encountered monstrosities",
+      "text": "Besiege die gefährlichen Monster, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

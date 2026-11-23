@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000076_00.gmd",
+  "arc_path": "\\quest\\q21000076.arc",
+  "entries": [
+    {
+      "key": "q21000076_00_395",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【宝飾の扉】新米の見せ場",
+      "source_en": "[Door of Jewelry] Newcomer's Highlight",
+      "text": "[Schmucktür] Die Stunde des Neulings"
+    },
+    {
+      "key": "q21000076_00_395",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【危険区域クエスト】\r\nダンジョン内の危険区域へ繋がる扉の鍵を作り\r\n凶悪な魔物を討伐する",
+      "source_en": "[Dangerous Area Quest]\r\nMake a key to the door leading to the Dangerous \r\nArea in the dungeon and defeat Brutal monsters.",
+      "text": "[Gefahrenzone]\r\nFertige einen Schlüssel für die Tür zur Gefahrenzone\r\nim Verlies an und besiege die gefährlichen Monster."
+    },
+    {
+      "key": "q21000076_00_395",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のダンジョン内部は、特別な\r\n鍵を持った者だけが入れる場所があるらしい",
+      "source_en": "Within the <NAME AREA> dungeon, \r\nthere is a place that only those who possess\r\na special key can enter.",
+      "text": "In einem Verlies bei <NAME AREA>\r\ngibt es offenbar einen Bereich,\r\nden du nur mit einem besonderen Schlüssel betreten kannst."
+    },
+    {
+      "key": "q21000076_00_395",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "本当に肝を冷やしました――\r\nまだまだ新米の自分には、分不相応な敵でした\r\nですが、こういう経験も必要なんでしょう\r\n自分の今の力を知る、良い機会だったんだと思います\r\n命を落とさなかったことは、幸運でした",
+      "source_en": "I was truly frightened— \r\nthis enemy was far too much \r\nfor someone as inexperienced as me. \r\nHowever, I think experiences like this \r\nare necessary. It was a good chance \r\nto understand my current strength. \r\nI consider myself fortunate to have \r\nsurvived this encounter.",
+      "text": "Ich habe einen gehörigen Schreck bekommen …\r\nIch bin ja noch Neuling.\r\nDer Gegner war mir haushoch überlegen.\r\nSolche Erfahrungen muss man wohl auch machen.\r\nJetzt weiß ich wenigstens,\r\nwie es um mein Können steht.\r\nDass ich lebend davongekommen bin,\r\nwar reines Glück."
+    },
+    {
+      "key": "q21000076_00_1170",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した凶悪な魔物を討伐する",
+      "source_en": "Defeat the encountered monstrosities",
+      "text": "Besiege die gefährlichen Monster, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

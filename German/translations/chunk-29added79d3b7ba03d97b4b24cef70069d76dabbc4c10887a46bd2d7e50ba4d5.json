@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21017002_00.gmd",
+  "arc_path": "\\quest\\q21017002.arc",
+  "entries": [
+    {
+      "key": "q21017002_00_558",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【高難度】深淵の伏魔殿",
+      "source_en": "[Hard] The Mayhem Abyss",
+      "text": "[Schwer] Der Abgrund der Dämonen"
+    },
+    {
+      "key": "q21017002_00_558",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【連続討伐クエスト】\r\nエリアマスターの願いを聞き入れ\r\nダンジョン付近にて起きている問題を調査する",
+      "source_en": "[Consecutive Subjugation Quest] Grant\r\nthe wish of the Area Master and\r\ninvestigate the issues occurring\r\nnear the dungeon.",
+      "text": "[Jagdserie]\r\nHör dir die Bitte des Gebietsmeisters an\r\nund untersuche die Vorfälle\r\nin der Nähe des Verlieses."
+    },
+    {
+      "key": "q21017002_00_558",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のエリアマスターが\r\nダンジョン付近の不穏な空気を警戒しているようだ",
+      "source_en": "The Area Master of\r\n<NAME AREA>\r\nis wary to the unrest near the dungeon.",
+      "text": "Dem Gebietsmeister bei\r\n<NAME AREA>\r\nmachen die Vorfälle nahe dem Verlies Sorgen."
+    },
+    {
+      "key": "q21017002_00_558",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "キンガルの魔物は、他の地域に生息している\r\n魔物と少し性質が異なるんだ\r\n古代の思念体や闇の異形――\r\nだから、もし徒党を組んだり襲ってくるとなると\r\nどこよりも危険で、恐ろしいのさ",
+      "source_en": "The monsters of Kingal have slightly\r\ndifferent traits compared to those in\r\nother regions.\r\nAncient ethereal entities and dark\r\ndeformed—\r\nso if they form a group or attack,\r\nthey're more dangerous and terrifying\r\nthan anywhere else.",
+      "text": "Die Monster in Kingal\r\nsind etwas anders als die in anderen Gegenden.\r\nHier gibt es uralte Erscheinungen\r\nund entstellte Wesen\r\naus der Finsternis.\r\nWenn sie sich zusammentun oder angreifen,\r\nist das schlimmer und gefährlicher\r\nals irgendwo sonst."
+    },
+    {
+      "key": "q21017002_00_1161",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所を調べる",
+      "source_en": "Investigate the specified location",
+      "text": "Untersuche den angegebenen Ort."
+    },
+    {
+      "key": "q21017002_00_1162",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21017002_00_1163",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "指定されたダンジョン内を捜索する",
+      "source_en": "Search within the specified dungeon",
+      "text": "Durchsuche das angegebene Verlies."
+    },
+    {
+      "key": "q21017002_00_1164",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ダンジョン内の各所の魔物を討伐する（残り３）",
+      "source_en": "Defeat the monsters at locations in the dungeon (3 left)",
+      "text": "Besiege die Monster an den Zielorten im Verlies (noch 3)."
+    },
+    {
+      "key": "q21017002_00_1165",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターに経緯を報告する",
+      "source_en": "Report to the Area Master",
+      "text": "Berichte dem Gebietsmeister, was du herausgefunden hast."
+    },
+    {
+      "key": "q21017002_00_1184",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ダンジョン内の各所の魔物を討伐する（残り２）",
+      "source_en": "Defeat the monsters at locations in the dungeon (2 left)",
+      "text": "Besiege die Monster an den Zielorten im Verlies (noch 2)."
+    },
+    {
+      "key": "q21017002_00_1185",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ダンジョン内の各所の魔物を討伐する（残り１）",
+      "source_en": "Defeat the monsters at locations in the dungeon (1 left)",
+      "text": "Besiege die Monster an den Zielorten im Verlies (noch 1)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

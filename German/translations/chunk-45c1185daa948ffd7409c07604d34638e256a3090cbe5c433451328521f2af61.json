@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200005_00.gmd",
+  "arc_path": "\\quest\\q60200005.arc",
+  "entries": [
+    {
+      "key": "q60200005_00_149",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "クラン拠点の門を叩いて",
+      "source_en": "Banging the Gates of the Clan Hall",
+      "text": "Vor den Toren des Clan-Stützpunkts"
+    },
+    {
+      "key": "q60200005_00_149",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "キビザからの依頼で\r\n覚者である友人を手助けする",
+      "source_en": "Receive a gift in return from Elliot and Gurdolin",
+      "text": "Hilf Kibizas Freund, einem Erweckten, beim Zugang zum Clan-Stützpunkt."
+    },
+    {
+      "key": "q60200005_00_2139",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "商店区にいる<NPC 530>に伝言を伝える",
+      "source_en": "Relay the message to <NPC 530> in the Shopping District",
+      "text": "Überbring <NPC 530> im Händlerviertel die Nachricht."
+    },
+    {
+      "key": "q60200005_00_2140",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "酒場に設置されたクランクエストボードを調べる",
+      "source_en": "Examine the Clan Quest Board that has been installed in the Tavern",
+      "text": "Sieh dir das neue Clan-Questboard in der Taverne an."
+    },
+    {
+      "key": "q60200005_00_2141",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "宿場区にいる<NPC 1011>に報告する",
+      "source_en": "Report to <NPC 1011> in the Relay Station",
+      "text": "Erstatte <NPC 1011> im Herbergsviertel Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

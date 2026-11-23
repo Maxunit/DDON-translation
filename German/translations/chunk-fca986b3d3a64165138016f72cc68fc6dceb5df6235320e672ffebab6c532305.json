@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21015004_00.gmd",
+  "arc_path": "\\quest\\q21015004.arc",
+  "entries": [
+    {
+      "key": "q21015004_00_592",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "未来を見据える瞳",
+      "source_en": "Eyes Fixed on the Future",
+      "text": "Den Blick nach vorn"
+    },
+    {
+      "key": "q21015004_00_592",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【納品クエスト】\r\n依頼者の願いを聞き入れ\r\n指定された物資を集めてくる",
+      "source_en": "[Delivery Quest] Listen to the\r\nrequester's wishes and gather the\r\nspecified supplies.",
+      "text": "[Lieferquest]\r\nHör dir die Bitte des Auftraggebers an\r\nund besorg die verlangten Vorräte."
+    },
+    {
+      "key": "q21015004_00_592",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "物資を必要としている人物が\r\n<NAME AREA>から協力を求めている",
+      "source_en": "A person in need of supplies is seeking\r\nassistance in\r\n<NAME AREA>.",
+      "text": "Jemand braucht Nachschub und bittet um Hilfe,\r\nund zwar bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21015004_00_592",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "戦士なら誰もがアデルドナハさんの弟子に\r\nなりたいと思っているんだ！\r\nしかし、弟子になった者はごく僅か――\r\nああ、俺だって声がかかれば\r\nいますぐに馳せ参じる覚悟なのになあ",
+      "source_en": "Every warrior dreams of becoming a\r\ndisciple of Adair Donnchadh! Yet, only a\r\nhandful have succeeded—\r\nif I were to be called, I'd be ready to\r\nrush to him without a second thought!",
+      "text": "Jeder Krieger träumt davon,\r\nbei Adair Donnchadh in die Lehre zu gehen!\r\nDoch er hat nur eine Handvoll Schüler angenommen.\r\nWenn er mich rufen ließe,\r\nwürde ich auf der Stelle zu ihm eilen, ohne zu zögern!"
+    },
+    {
+      "key": "q21015004_00_1179",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼先に届ける（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> × <SQDI NUM> zum Lieferort (noch benötigt: <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

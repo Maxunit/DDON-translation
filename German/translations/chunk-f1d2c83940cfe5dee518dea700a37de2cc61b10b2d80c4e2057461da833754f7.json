@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60213002.gmd",
+  "arc_path": "\\quest\\q60213002.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "準備は万端か？\r\n今回の討伐対象は、ただでさえ\r\n危険度の高いベヘモットが\r\n侵食作用によって凶暴化した相手だからな",
+      "source_en": "Preparations complete, ser? This extermination\r\ntarget — a Behemoth, hazardous enow on its own,\r\nnow driven feral by the infection's encroachment.",
+      "text": "Bist du bereit? Du hast es diesmal mit einem Behemoth zu tun.\r\nDiese Monster sind ohnehin gefährlich.\r\nDer Befall hat dieses hier noch wilder gemacht."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "おまけにヤツが潜む場所も\r\n菌胞がべったりの《菌糸の襲窟》だ\r\n抗侵薬は多めに持って損は無いぞ",
+      "source_en": "To say naught of its lair — the Fungal Colony\r\nCaves, blanketed in spores. Carry extra\r\nCorruption Preventatives. 'Twill\r\nnot go to waste, ser.",
+      "text": "Zu allem Überfluss haust es in der Myzelhöhle,\r\nwo es überall vor Sporen wimmelt.\r\nNimm lieber etwas mehr Befallsschutz mit.\r\nDen kannst du dort gut gebrauchen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "本当なら俺も同行して共に戦いたいんだが\r\n調査隊監督兼エリアマスターというのは\r\nやりがいはあっても\r\nこういう時に自由がききにくくてな――",
+      "source_en": "Truth be told, I'd fight beside you. But the post\r\nof Expedition Team Overseer and Area Master —\r\nrewarding though it is — binds my hands at\r\ntimes like these, ser—",
+      "text": "Am liebsten würde ich mitkommen und an deiner Seite kämpfen.\r\nIch bin gern Gebietsmeister und leite die Expedition.\r\nAber gerade jetzt lassen mir die Aufgaben hier\r\nwenig Spielraum."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "すまんが、任せたぞ！",
+      "source_en": "My apologies, ser. The task falls to you.",
+      "text": "Tut mir leid, du musst das übernehmen. Ich zähle auf dich!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "おお、やってくれたか！\r\nこれでヤツも少しの間は\r\n大人しくしていることだろう",
+      "source_en": "Ha, you've done it! That'll keep the brute\r\ndocile for a spell, ser.",
+      "text": "Ah, du hast es geschafft! Dann dürfte die Bestie\r\neine Weile Ruhe geben."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "怪我をした隊士への何よりの見舞い話になるな\r\nエリアマスターとして\r\n――調査隊監督として礼を言おう！",
+      "source_en": "The best tidings the wounded could hear. As Area\r\nMaster — as Expedition Team Overseer — I\r\nproffer my thanks, ser.",
+      "text": "Das ist die beste Nachricht für unsere Verwundeten.\r\nAls Gebietsmeister und Leiter der Expedition\r\ndanke ich dir dafür."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "菌胞だらけの《菌糸の襲窟》に潜む\r\n侵食ベヘモットの討伐だからな\r\n抗侵薬は多めに持っていくにこしたことはないだろう\r\nすまんが、任せたぞ！",
+      "source_en": "An Infected Behemoth extermination in the\r\nspore-laden Fungal Colony Caves. Carry extra\r\nCorruption Preventatives — 'twill not go to\r\nwaste, ser. My apologies. The task falls to you.",
+      "text": "Du sollst einen befallenen Behemoth in der Myzelhöhle besiegen.\r\nDa unten wimmelt es vor Sporen. Nimm lieber\r\netwas mehr Befallsschutz mit.\r\nTut mir leid. Ich zähle auf dich!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

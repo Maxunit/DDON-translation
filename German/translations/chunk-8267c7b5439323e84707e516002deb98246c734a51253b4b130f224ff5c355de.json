@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000090_00.gmd",
+  "arc_path": "\\quest\\q21000090.arc",
+  "entries": [
+    {
+      "key": "q21000090_00_409",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "悔恨の地",
+      "source_en": "A Place of Regrets",
+      "text": "Ein Ort voller Leid"
+    },
+    {
+      "key": "q21000090_00_409",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【討伐クエスト】\r\nエリアに出現した怪しい魔物を探し\r\n問題の原因となる敵を討伐する",
+      "source_en": "[Subjugation Quest]\r\nSearch for suspicious monsters in the area\r\nand defeat the enemy causing the problem.",
+      "text": "[Jagdquest]\r\nSuch in der Gegend nach verdächtigen Monstern\r\nund besiege den Auslöser der Vorfälle."
+    },
+    {
+      "key": "q21000090_00_409",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今、怪しい気配のする\r\n魔物たちが出現しているらしい",
+      "source_en": "In <NAME AREA> right now, \r\nthere seems to be a suspicious presence\r\nof enemy creatures.",
+      "text": "Bei <NAME AREA>\r\nsind offenbar Monster aufgetaucht.\r\nVon ihnen geht etwas Unheimliches aus."
+    },
+    {
+      "key": "q21000090_00_409",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "あそこには決して近づくでないぞ――\r\n魔物蔓延る忌まわしい場所じゃ\r\nかつて興味本位で探索を試み\r\n何人もの若人が命を落とした\r\n悲しき場所なのじゃ――",
+      "source_en": "Don't ever approach that place― \r\nit's a wretched area full of monsters. \r\nIn the past, driven by curiosity, \r\nmany young people lost their lives trying to explore. \r\nIt's a place filled with sorrow―",
+      "text": "Geh bloß nicht dorthin.\r\nDas ist ein verfluchter Ort. Überall treiben sich Monster herum.\r\nFrüher sind viele junge Leute aus reiner Neugier\r\ndorthin gegangen, um sich umzusehen.\r\nSie haben dafür mit dem Leben bezahlt."
+    },
+    {
+      "key": "q21000090_00_1171",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000090_00_1173",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物を討伐する",
+      "source_en": "Defeat the remaining foe(s)",
+      "text": "Besiege die verbliebenen Monster."
+    },
+    {
+      "key": "q21000090_00_1229",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たに現れた魔物を即時討伐して危機を回避",
+      "source_en": "Eliminate the newly emerged monster right away\r\nto prevent the crisis.",
+      "text": "Besiege das neu aufgetauchte Monster sofort,\r\num die Gefahr abzuwenden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

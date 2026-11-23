@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000057_00.gmd",
+  "arc_path": "\\quest\\q60000057.arc",
+  "entries": [
+    {
+      "key": "q60000057_00_44",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "求道の師を訪ねて　ウォリアー",
+      "source_en": "Seeking the Master: Warrior",
+      "text": "Auf der Suche nach dem Klassenmeister – Krieger"
+    },
+    {
+      "key": "q60000057_00_44",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョブマスター・オリバーに\r\nウォリアー求道試練の許可をもらいに行く",
+      "source_en": "Visit Job Master Oliver to request \r\napproval for the Warrior's trial",
+      "text": "Such Klassenmeister Oliver auf\r\nund bitte ihn, dich zur Kriegerprüfung zuzulassen."
+    },
+    {
+      "key": "q60000057_00_1212",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ザンドラ東部のゾマにいるオリバーを訪ねる",
+      "source_en": "Visit Oliver in Zoma within Eastern Zandora",
+      "text": "Such Oliver in Zoma in Ost-Zandora auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

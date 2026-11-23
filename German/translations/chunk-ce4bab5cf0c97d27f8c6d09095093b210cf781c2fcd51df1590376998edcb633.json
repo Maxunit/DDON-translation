@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q60216003.gmd",
+  "arc_path": "\\quest\\q60216003.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "結界を張る護符を1つ破壊した！（残り２）",
+      "source_en": "Destroyed a barrier amulet! (2 left)",
+      "text": "Ein Talisman der Barriere wurde zerstört! (Noch 2)"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "結界の封印が解除された！――仲間の救出成功！",
+      "source_en": "The barrier has been dispelled! - Allies rescued!",
+      "text": "Die Barriere ist verschwunden! Die Gefährten sind gerettet!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "結界を守る魔物が出現！",
+      "source_en": "Monsters protecting the barrier\r\nhave appeared!",
+      "text": "Die Monster, die die Barriere bewachen,\r\nsind aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "結界を張る護符を1つ破壊した！（残り１）",
+      "source_en": "Destroyed a barrier amulet! (1 left)",
+      "text": "Ein Talisman der Barriere wurde zerstört! (Noch 1)"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

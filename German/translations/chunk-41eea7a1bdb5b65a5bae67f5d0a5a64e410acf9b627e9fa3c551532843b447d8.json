@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21015020_00.gmd",
+  "arc_path": "\\quest\\q21015020.arc",
+  "entries": [
+    {
+      "key": "q21015020_00_635",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "無縫の墓荒らし",
+      "source_en": "Flawless Grave-Robbing",
+      "text": "Der perfekte Grabraub"
+    },
+    {
+      "key": "q21015020_00_635",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【迅速救助クエスト】\r\n依頼者が求める人物を捜索し\r\n迅速に救助する",
+      "source_en": "[Swift Rescue Quest] Search for the\r\nperson the client is seeking and\r\nrescue them.",
+      "text": "[Rettungsquest] Finde die vermisste Person\r\nund bring sie so schnell wie möglich\r\nin Sicherheit."
+    },
+    {
+      "key": "q21015020_00_635",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "何者かからの、迅速な救援を求める声が\r\n<NAME AREA>から届いているようだ",
+      "source_en": "It seems that a voice requesting swift\r\nassistance has come from\r\n<NAME AREA>.",
+      "text": "Offenbar braucht jemand\r\ndringend Hilfe bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21015020_00_635",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "マヌンって洞窟を財宝発掘の拠点に\r\nしてやろうと思ってたのによ\r\n「寝所の空きがございません」だとよ！\r\n知ってるんだぜ、色んな覚者が出入りしてること\r\n何で俺はダメなんだ！？",
+      "source_en": "I thought I could make the caves of\r\nManun a base for treasure hunting,\r\nbut they say, \"There's no room to\r\nsleep!\" I know there are all kinds of\r\nArisen coming and going. Why am I the\r\nonly one turned away!?",
+      "text": "Ich wollte die Höhlen von Manun\r\nals Lager für meine Schatzsuche nutzen!\r\n„Wir haben keinen Schlafplatz frei“, sagen sie.\r\nDabei weiß ich genau, wie viele\r\nErweckte da ein und ausgehen!\r\nWarum lassen sie ausgerechnet mich nicht rein?"
+    },
+    {
+      "key": "q21015020_00_1169",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q21015020_00_1226",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の求める人物を捜索する",
+      "source_en": "Search for the person the client is seeking",
+      "text": "Finde die vermisste Person."
+    },
+    {
+      "key": "q21015020_00_1227",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "魔物を迅速に討伐し捜索対象を救助する",
+      "source_en": "Defeat the demon quickly and rescue your charge",
+      "text": "Besiege die Monster schnell und rette die vermisste Person."
+    },
+    {
+      "key": "q21015020_00_1228",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "捜索対象の安否を確認する",
+      "source_en": "Check the search target's well-being",
+      "text": "Sieh nach, wie es der vermissten Person geht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

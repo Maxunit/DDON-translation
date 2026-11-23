@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60200016.gmd",
+  "arc_path": "\\quest\\q60200016.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "ランタン、付けてくれているかね？\r\nあのランタンを付けていれば\r\n様々な場所でお菓子が拾えるぞ！\r\n正に魔法のランタン、だな",
+      "source_en": "",
+      "text": "Hast du die Laterne schon angelegt?\r\nSolange du sie trägst,\r\nfindest du an vielen Orten Süßigkeiten!\r\nEine richtige Zauberlaterne, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "例の交換屋に行けば、キャンディと\r\nクッキーを好きに交換してもらえるそうだ\r\n俺もキャンディを拾ったらクッキーに\r\n変えてもらおうと思ってな",
+      "source_en": "",
+      "text": "Bei diesem Tauschhändler kannst du Bonbons\r\ngegen Kekse tauschen und umgekehrt.\r\nWenn ich Bonbons finde,\r\ntausch ich sie auch gegen Kekse ein."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "ふふ、あちこちでお菓子を集めるなんて\r\nこんな楽しい祭り、きっとレスタニア中で\r\n流行るにちがいないぞッ！",
+      "source_en": "",
+      "text": "Hehe, überall Süßigkeiten sammeln …\r\nSo ein schönes Fest wird bestimmt\r\nin ganz Lestania beliebt!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "これはこれは覚者さん\r\n先日お伝えした通り、\r\n小さな菓子を沢山入荷しました",
+      "source_en": "",
+      "text": "Ah, der Erweckte!\r\nWie neulich versprochen,\r\nhabe ich jede Menge Süßigkeiten auf Lager."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "わたしに声をかけていただければ\r\n別の菓子と交換をいたしますよ",
+      "source_en": "",
+      "text": "Sprich mich einfach an.\r\nIch tausche sie gern gegen andere Süßigkeiten ein."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "キャンディも美味しいけど\r\nやっぱり私も食べごたえがあるクッキーの方が好き\r\n何だか特別な感じがするんだもの！\r\nこれぞお祭りって感じよねぇ",
+      "source_en": "",
+      "text": "Bonbons sind lecker, aber\r\nich mag richtige Kekse einfach lieber.\r\nDie fühlen sich irgendwie besonderer an!\r\nDas ist für mich ein richtiges Fest!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

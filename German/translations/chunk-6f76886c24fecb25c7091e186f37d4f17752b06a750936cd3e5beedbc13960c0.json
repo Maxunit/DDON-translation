@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000075_00.gmd",
+  "arc_path": "\\quest\\q21000075.arc",
+  "entries": [
+    {
+      "key": "q21000075_00_394",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "水底に潜むもの",
+      "source_en": "What Lies beneath the Waters",
+      "text": "Was in der Tiefe lauert"
+    },
+    {
+      "key": "q21000075_00_394",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【討伐クエスト】\r\nエリアに出現した怪しい魔物を探し\r\n問題の原因となる敵を討伐する",
+      "source_en": "[Subjugation Quest]\r\nSearch for suspicious monsters in the area\r\nand defeat the enemy causing the problem.",
+      "text": "[Jagdquest]\r\nSuch in der Gegend nach verdächtigen Monstern\r\nund besiege den Auslöser der Vorfälle."
+    },
+    {
+      "key": "q21000075_00_394",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今、怪しい気配のする\r\n魔物たちが出現しているらしい",
+      "source_en": "In <NAME AREA> right now, \r\nthere seems to be a suspicious presence\r\nof enemy creatures.",
+      "text": "Bei <NAME AREA>\r\nsind offenbar Monster aufgetaucht.\r\nVon ihnen geht etwas Unheimliches aus."
+    },
+    {
+      "key": "q21000075_00_394",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "島に着いたばかりで興奮していたからね\r\n海岸沿いの洞窟に探検がてら入ってみたのさ\r\nそしたら何だいあの魔物の群れは！\r\n綺麗な所だからって油断していたよ\r\nかねがね聞いていた通り、恐ろしい場所だね",
+      "source_en": "I had just arrived on the island and was\r\novercome with excitement, so I thought\r\nI'd explore a cave along the coast.\r\nBut what was that horde of monsters!\r\nI had let my guard down because\r\nof the area's captivating beauty. \r\nJust as I had heard, the tales tell truth.\r\nIt's a terrifying place indeed.",
+      "text": "Als ich auf der Insel ankam,\r\nwar ich so aufgeregt, dass ich gleich\r\neine Höhle an der Küste erkunden wollte.\r\nUnd dann kam mir diese Horde Monster entgegen!\r\nWeil’s da so schön war,\r\nhab ich überhaupt nicht aufgepasst.\r\nMan hat mich gewarnt, und jetzt weiß ich’s selbst.\r\nEin furchtbarer Ort!"
+    },
+    {
+      "key": "q21000075_00_1171",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000075_00_1173",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物を討伐する",
+      "source_en": "Defeat the remaining foe(s)",
+      "text": "Besiege die verbliebenen Monster."
+    },
+    {
+      "key": "q21000075_00_1229",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たに現れた魔物を即時討伐して危機を回避",
+      "source_en": "Eliminate the newly emerged monster right away\r\nto prevent the crisis.",
+      "text": "Besiege das neu aufgetauchte Monster sofort,\r\num die Gefahr abzuwenden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

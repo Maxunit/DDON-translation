@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200024_00.gmd",
+  "arc_path": "\\quest\\q60200024.arc",
+  "entries": [
+    {
+      "key": "q60200024_00_216",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "想い人への愛の形＜１＞",
+      "source_en": "Shape of Love for Someone (1)",
+      "text": "Schokolade für einen besonderen Menschen 1"
+    },
+    {
+      "key": "q60200024_00_216",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "シェリーの求めるものを手に入れる",
+      "source_en": "Obtain what Shelly seeks.",
+      "text": "Besorge, was Shelly braucht."
+    },
+    {
+      "key": "q60200024_00_2804",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "カカオを入手する",
+      "source_en": "Obtain Cacao",
+      "text": "Besorge erlesenen Kakao."
+    },
+    {
+      "key": "q60200024_00_2805",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "シェリーに報告する",
+      "source_en": "Report to Shelly",
+      "text": "Erstatte Shelly Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

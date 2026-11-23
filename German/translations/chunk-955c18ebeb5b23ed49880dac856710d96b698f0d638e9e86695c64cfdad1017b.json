@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21016024_00.gmd",
+  "arc_path": "\\quest\\q21016024.arc",
+  "entries": [
+    {
+      "key": "q21016024_00_630",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【宝飾の扉】穢れし森の宝守り",
+      "source_en": "[Door of Jewelry] Guarding Treasure in the Defiled Forest",
+      "text": "[Schmucktür] Der Schatzhüter des befallenen Waldes"
+    },
+    {
+      "key": "q21016024_00_630",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【危険区域クエスト】\r\nダンジョン内の危険区域へ繋がる扉の鍵を作り\r\n凶悪な魔物を討伐する",
+      "source_en": "[Dangerous Area Quest] Make a key to the\r\ndoor leading to the Dangerous Area in\r\nthe dungeon and defeat Brutal monsters.",
+      "text": "[Gefahrenzone]\r\nFertige einen Schlüssel für die Tür zur Gefahrenzone\r\nim Verlies an und besiege die gefährlichen Monster."
+    },
+    {
+      "key": "q21016024_00_630",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のダンジョン内部は、特別な\r\n鍵を持った者だけが入れる場所があるらしい",
+      "source_en": "Within the\r\n<NAME AREA>\r\ndungeon,\r\nthere is a place that only those who\r\npossess a special key can enter.",
+      "text": "In einem Verlies bei\r\n<NAME AREA>\r\ngibt es offenbar einen Bereich,\r\nden du nur betreten kannst,\r\nwenn du einen besonderen Schlüssel hast."
+    },
+    {
+      "key": "q21016024_00_630",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "この間、綺麗な石で作った髪留めを\r\n変な鳥に取られちゃったの！\r\n追いかけようとしたら、「侵食になるから」って\r\nお父さんに止められちゃった\r\nあの変な鳥、綺麗な物を集めてるのかな？",
+      "source_en": "Recently, a strange bird took the pretty\r\nhairpin I made from a beautiful stone!\r\nWhen I tried to chase it, my father\r\nstopped me,\r\nsaying, \"You might become infected.\"\r\nI wonder if that odd bird is collecting\r\nbeautiful things?",
+      "text": "Neulich hat mir ein seltsamer Vogel die Haarspange geklaut!\r\nDabei hab ich sie selbst aus einem schönen Stein gemacht.\r\nIch wollte ihm nachlaufen,\r\naber Papa hat mich festgehalten.\r\nEr meinte, ich könnte mir den Befall einfangen.\r\nOb der komische Vogel\r\nschöne Sachen sammelt?"
+    },
+    {
+      "key": "q21016024_00_1170",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した凶悪な魔物を討伐する",
+      "source_en": "Defeat the encountered monstrosities",
+      "text": "Besiege die gefährlichen Monster, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

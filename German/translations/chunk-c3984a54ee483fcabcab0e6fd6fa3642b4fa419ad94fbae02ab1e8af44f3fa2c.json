@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200002_00.gmd",
+  "arc_path": "\\quest\\q60200002.arc",
+  "entries": [
+    {
+      "key": "q60200002_00_87",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔の足音",
+      "source_en": "Dangerous Footsteps",
+      "text": "Schritte des Unheils"
+    },
+    {
+      "key": "q60200002_00_87",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "新たな任務を受けるため、\r\n白竜神殿にいるアイザックを訪ねる",
+      "source_en": "Visit Isaac to receive a new mission",
+      "text": "Such Isaac im Tempel des Weißen Drachen auf, um einen neuen Auftrag anzunehmen."
+    },
+    {
+      "key": "q60200002_00_1971",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "伝令兵士から詳細を確認する",
+      "source_en": "Find out more from the messenger soldier",
+      "text": "Frag den Boten nach den Einzelheiten."
+    },
+    {
+      "key": "q60200002_00_1984",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿のアイザックを訪ねる",
+      "source_en": "Visit Isaac in the White Dragon Temple",
+      "text": "Such Isaac im Tempel des Weißen Drachen auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

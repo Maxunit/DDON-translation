@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200016_00.gmd",
+  "arc_path": "\\quest\\q60200016.arc",
+  "entries": [
+    {
+      "key": "q60200016_00_193",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "パンプキンランタンが照らすのは？",
+      "source_en": "Light a Pumpkin Lantern?",
+      "text": "Was die Kürbislaterne beleuchtet"
+    },
+    {
+      "key": "q60200016_00_193",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "集めたお菓子を交換する",
+      "source_en": "Exchange the collected sweets.",
+      "text": "Tausche die gesammelten Süßigkeiten ein."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

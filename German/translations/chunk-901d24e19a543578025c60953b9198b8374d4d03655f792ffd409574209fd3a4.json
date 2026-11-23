@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000082_00.gmd",
+  "arc_path": "\\quest\\q21000082.arc",
+  "entries": [
+    {
+      "key": "q21000082_00_362",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "呪われし巨影",
+      "source_en": "A Great Cursed Shadow",
+      "text": "Der verfluchte Riesenschatten"
+    },
+    {
+      "key": "q21000082_00_362",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【討伐クエスト】\r\nエリアに出現した怪しい魔物を探し\r\n問題の原因となる敵を討伐する",
+      "source_en": "[Subjugation Quest]\r\nSearch for suspicious monsters in the area\r\nand defeat the enemy causing the problem.",
+      "text": "[Jagdquest]\r\nSuch in der Gegend nach verdächtigen Monstern\r\nund besiege den Auslöser der Vorfälle."
+    },
+    {
+      "key": "q21000082_00_362",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今、怪しい気配のする\r\n魔物たちが出現しているらしい",
+      "source_en": "In <NAME AREA> right now, \r\nthere seems to be a suspicious presence\r\nof enemy creatures.",
+      "text": "Bei <NAME AREA>\r\nsind offenbar Monster aufgetaucht.\r\nVon ihnen geht etwas Unheimliches aus."
+    },
+    {
+      "key": "q21000082_00_362",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "魔物ごとの弱点は把握しているかしら\r\nもし知らないならあそこには近づかないことね\r\nきっと何もできずに、ただ死ぬのを待つだけになるわ\r\n勇敢と無謀は似て非なるものだわ\r\nいい？　無知は、身を滅ぼすのよ",
+      "source_en": "Are you aware of each monster's weaknesses? \r\nIf you aren't, then don't go near that place. \r\nYou'll just end up waiting to die without doing anything. \r\nCourage and foolishness are two different things. \r\nGot it? Ignorance can destroy you.",
+      "text": "Kennst du die Schwächen der einzelnen Monster?\r\nWenn nicht, dann geh da bloß nicht hin.\r\nSonst kannst du nur noch auf deinen Tod warten.\r\nMut und Leichtsinn sind zweierlei.\r\nVerstanden? Was du nicht weißt, kann dich das Leben kosten."
+    },
+    {
+      "key": "q21000082_00_1171",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000082_00_1173",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物を討伐する",
+      "source_en": "Defeat the remaining foe(s)",
+      "text": "Besiege die verbliebenen Monster."
+    },
+    {
+      "key": "q21000082_00_1229",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たに現れた魔物を即時討伐して危機を回避",
+      "source_en": "Eliminate the newly emerged monster right away to prevent the crisis",
+      "text": "Besiege das neu aufgetauchte Monster sofort, um die Gefahr abzuwenden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

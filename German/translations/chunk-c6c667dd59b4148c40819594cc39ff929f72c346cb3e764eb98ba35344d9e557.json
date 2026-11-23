@@ -1,0 +1,144 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60200009.gmd",
+  "arc_path": "\\quest\\q60200009.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "よう、ダンジョンの宝箱調査は続けているか？\r\nまた新しい場所の調査依頼があるんだが\r\n例に漏れず、前回よりも難易度が上がっている",
+      "source_en": "Hey, still hitting those dungeon chests?\r\nGot a new location for you to scout—\r\nand like always, it's tougher than last time.",
+      "text": "Na, untersuchst du noch Schatztruhen in Verliesen?\r\nIch habe einen neuen Auftrag für dich.\r\nWie immer ist er schwieriger als der letzte."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "腕に自信が無ければ、力を蓄えてからにしろ\r\nキャンセルしたければ《クエスト破棄》で\r\nいつでも無かったことにしてもいいんだ",
+      "source_en": "If you lack confidence, build up your\r\nstrength first. The Cancel Quest\r\noption lets you wipe the slate\r\nclean anytime.",
+      "text": "Wenn du dir deiner Sache nicht sicher bist, werde erst noch stärker.\r\nDu kannst jederzeit\r\nim Menü „Quest aufgeben“ wählen,\r\nwenn du es dir anders überlegst."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "なに、俺も依頼も逃げやしない\r\n何事にもタイミングってのがあるからな\r\nもちろん、それを見極めるのはお前自身だ",
+      "source_en": "Don't worry, I won't withdraw the\r\nrequest. Everything has its proper\r\ntime—and judging that moment\r\nis your call to make.",
+      "text": "Der Auftrag läuft dir nicht davon. Ich übrigens auch nicht.\r\nAlles hat seine Zeit.\r\nWann du so weit bist,\r\nmusst du selbst entscheiden."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "やることは前回と同じで、最奥の宝箱の調査だ\r\nもうお決まりのパターンになってるから\r\nお前も薄々予感してただろ？",
+      "source_en": "What you need to do is the same as last time: \r\ninvestigate the treasure chest in the deepest part. \r\nIt's become such a routine by now, \r\nyou probably had a hunch, right?",
+      "text": "Wie letztes Mal untersuchst du die hinterste Schatztruhe.\r\nInzwischen kennst du den Ablauf.\r\nDu hast es bestimmt schon\r\nkommen sehen, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "今回の調査地候補は\r\n魔赤島の《滝鳴洞穴》\r\n　　　　《菌糸の襲窟》\r\nディナンにある《飛天のテラス》",
+      "source_en": "The candidate sites for this investigation are\r\nBloodbane Isle's \r\nEcho Cascade Cavern\r\n & Fungal Colony Caves\r\nand Deenan's Soaring Sky Terrace",
+      "text": "Auf der Blutfluchinsel kommen\r\ndie Höhle des Wasserfallechos\r\nund die Myzelhöhle infrage.\r\nIm Deenan-Wald kannst du\r\nzur Himmelsterrasse gehen."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ダウにある《見捨てられた井戸》\r\nメルゴダにある《秘匿の実験場》\r\nこの５ヶ所だ",
+      "source_en": "The Forsaken Well in Dowe, \r\nand the Hidden Observatory in Mergoda.\r\nThese are the five locations.",
+      "text": "Dazu kommen der Vergessene Brunnen in Dowe\r\nund das Geheime Versuchslabor in Mergoda.\r\nDas sind die fünf Orte."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ここでは前回の３ヶ所よりも、よりランクの高い\r\n素材が採れるって噂だぜ\r\n当然、魔物もそれなりの強さだが、な",
+      "source_en": "Rumor has it these yield higher-rank materials\r\nthan the previous three locations. Of course,\r\nthe enemies match that strength, but hey.",
+      "text": "Dort soll es bessere Rohstoffe geben als beim letzten Mal.\r\nAber was glaubst du,\r\nwie stark die Monster dort sind?"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "５ヶ所のうち、１ヶ所の宝箱を調査できたら\r\n俺のところに報告にきてくれ",
+      "source_en": "When you've checked one of the \r\nfive treasure chests, come report back to me.",
+      "text": "Wenn du eine der fünf Truhen untersucht hast,\r\nkomm zurück und erstatte mir Bericht."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "いいか、もう一度説明するぞ\r\nこれからいう５ヶ所ある調査地候補の中から\r\n１ヶ所を選んで最奥の宝箱を調べてこい",
+      "source_en": "Listen, I'll explain again. From the five\r\nsurvey candidates I'll mention, choose one\r\nand investigate its deepest chest.",
+      "text": "Ich erklär’s dir noch mal.\r\nWähle einen der fünf Orte, die ich dir gleich nenne,\r\nund untersuche dort die hinterste Schatztruhe."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島の《滝鳴洞穴》\r\n　　　　《菌糸の襲窟》\r\nディナンにある《飛天のテラス》",
+      "source_en": "Bloodbane Isle's Echo Cascade Cavern\r\n\r\nand Fungal Colony Caves, \r\nand Deenan's Soaring Sky Terrace.",
+      "text": "Auf der Blutfluchinsel kommen\r\ndie Höhle des Wasserfallechos\r\nund die Myzelhöhle infrage.\r\nIm Deenan-Wald gibt es die Himmelsterrasse."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "ダウにある《見捨てられた井戸》\r\nメルゴダにある《秘匿の実験場》\r\nこの５ヶ所だ",
+      "source_en": "The Forsaken Well in Dowe, \r\nand the Hidden Observatory in Mergoda.\r\nThese are the five locations.",
+      "text": "Dazu kommen der Vergessene Brunnen in Dowe\r\nund das Geheime Versuchslabor in Mergoda.\r\nDas sind die fünf Orte."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "ここでは前回の３ヶ所よりも、よりランクの高い\r\n素材が採れるって噂だぜ\r\n当然、魔物もそれなりの強さだが、な",
+      "source_en": "Rumor has it these yield higher-rank materials\r\nthan the previous three locations. Of course,\r\nthe enemies match that strength, but hey.",
+      "text": "Dort soll es bessere Rohstoffe geben als beim letzten Mal.\r\nAber was glaubst du,\r\nwie stark die Monster dort sind?"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "５ヶ所のうち、１ヶ所の宝箱を調査できたら\r\n俺のところに報告にきてくれ",
+      "source_en": "When you've checked one of the \r\nfive treasure chests, come report back to me.",
+      "text": "Wenn du eine der fünf Truhen untersucht hast,\r\nkomm zurück und erstatte mir Bericht."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "平然と任務を達成してくるようになったな\r\nその度胸が肝心なんだ\r\nいい目をするようになってきた――",
+      "source_en": "Mission success comes easily now.\r\nThat unshakable nerve is key—\r\nyour combat sense is evolving.",
+      "text": "Solche Aufträge erledigst du inzwischen ganz gelassen.\r\nGenau die Ruhe brauchst du.\r\nMan sieht dir an, dass du im Kampf dazugelernt hast."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "《スポット情報》を見れば\r\nどのダンジョンにどの素材があるかを\r\n確認できるのは――もう覚えたな？",
+      "source_en": "You can check which dungeon has which\r\nmaterials in Spot Info—you've already\r\nmemorized that, right?",
+      "text": "Unter „Ortsinfo“ steht,\r\nwelche Rohstoffe in welchem Verlies zu finden sind.\r\nDas hast du dir doch gemerkt, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "今までダンジョンに潜り続けた成果は\r\n経験値として、もしくは装備品となって\r\nお前の糧になっているはずだ",
+      "source_en": "The time you've spent delving dungeons\r\nhas borne fruit—whether in experience\r\nor newfound gear, it's all fueled\r\nyour growth.",
+      "text": "Die ganze Zeit in den Verliesen war sicher nicht umsonst.\r\nDu hast Erfahrung gesammelt\r\noder bessere Ausrüstung gefunden.\r\nBeides bringt dich weiter."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "腕試しとして\r\nエクストリームミッションは最適かもな\r\n気が向いたら参戦してみるといい",
+      "source_en": "Extreme Missions might be perfect\r\nfor testing your skills. You should\r\njoin if you feel like it.",
+      "text": "Bei Extremmissionen kannst du gut zeigen, was du draufhast.\r\nWenn du Lust hast,\r\nmach doch mal mit."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21014013_00.gmd",
+  "arc_path": "\\quest\\q21014013.arc",
+  "entries": [
+    {
+      "key": "q21014013_00_553",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "覚者隊の失態",
+      "source_en": "The Arisen Corps' Blunder",
+      "text": "Missgeschick der Erwecktentruppe"
+    },
+    {
+      "key": "q21014013_00_553",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【迅速救助クエスト】\r\n依頼者が求める人物を捜索し\r\n迅速に救助する",
+      "source_en": "[Swift Rescue Quest]\r\nSearch for the person the client is seeking\r\nand rescue them.",
+      "text": "[Rettungsquest]\r\nFinde die vermisste Person\r\nund bring sie schnell in Sicherheit."
+    },
+    {
+      "key": "q21014013_00_553",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "何者かからの、迅速な救援を求める声が\r\n<NAME AREA>から届いているようだ",
+      "source_en": "It seems that a voice requesting swift assistance \r\nhas come from <NAME AREA>.",
+      "text": "Ein dringender Hilferuf ist eingegangen, und zwar aus\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21014013_00_553",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "新たな大陸の調査任務、それもわかるんだが\r\n俺たちだっていきなり知らない土地で\r\n知らない魔物と戦うには心の準備ってもんが――\r\nま、神殿のお偉いさん方にはとてもこんなこと\r\n言えないけどな",
+      "source_en": "While I understand the investigation of the new continent, \r\nit's a lot to prepare mentally for battling \r\nunknown monsters in an unfamiliar area. \r\nOf course, I'd never say anything like this to \r\nthe higher-ups at the temple.",
+      "text": "Ich verstehe, warum wir den neuen Kontinent erkunden sollen.\r\nAber auch wir müssen uns erst daran gewöhnen,\r\nin einer fremden Gegend gegen fremde Monster anzutreten.\r\nNa ja, vor den hohen Herren im Tempel\r\nwürde ich so etwas natürlich nie sagen."
+    },
+    {
+      "key": "q21014013_00_1169",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q21014013_00_1226",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の求める人物を捜索する",
+      "source_en": "Search for the person the client is seeking",
+      "text": "Finde die vermisste Person."
+    },
+    {
+      "key": "q21014013_00_1227",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "魔物を迅速に討伐し捜索対象を救助する",
+      "source_en": "Defeat the demon quickly and rescue your charge",
+      "text": "Besiege die Monster schnell und rette die vermisste Person."
+    },
+    {
+      "key": "q21014013_00_1228",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "捜索対象の安否を確認する",
+      "source_en": "Check the search target's well-being",
+      "text": "Sieh nach, wie es der vermissten Person geht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

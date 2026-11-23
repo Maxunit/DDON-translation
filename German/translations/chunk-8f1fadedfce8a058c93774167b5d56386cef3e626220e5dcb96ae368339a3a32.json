@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200126_00.gmd",
+  "arc_path": "\\quest\\q60200126.arc",
+  "entries": [
+    {
+      "key": "q60200126_00_156",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "戦技の継承　エレメントアーチャ―求道試練３",
+      "source_en": "Skill Augmentation: Element Archer Trial III",
+      "text": "Klassenverstärkung – Elementarschützenprüfung III"
+    },
+    {
+      "key": "q60200126_00_156",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エレメントアーチャーの新たな戦術を学ぶため\r\nマスターの試練に挑む",
+      "source_en": "To learn new Element Archer tactics,\r\nchallenge the trial of the Job Master",
+      "text": "Stelle dich der Prüfung der Klassenmeisterin,\r\num als Elementarschütze neue Techniken zu lernen."
+    },
+    {
+      "key": "q60200126_00_2218",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "マスターの拠点で教示を受ける",
+      "source_en": "Receive teachings at the home of the master",
+      "text": "Lass dich am Stützpunkt des Klassenmeisters unterweisen."
+    },
+    {
+      "key": "q60200126_00_2219",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "＜<STG 825>＞に向かう",
+      "source_en": "Head to \"<STG 825>\"",
+      "text": "Geh zu „<STG 825>“."
+    },
+    {
+      "key": "q60200126_00_2220",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "第一試練の場所へ向かう",
+      "source_en": "Head to the location of the first test",
+      "text": "Geh zum Ort der ersten Prüfung."
+    },
+    {
+      "key": "q60200126_00_2221",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "第一試練の敵を倒す",
+      "source_en": "Defeat the enemy at the first test",
+      "text": "Besiege den Gegner der ersten Prüfung."
+    },
+    {
+      "key": "q60200126_00_2222",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "第二試練の場所へ向かう",
+      "source_en": "Head to the location of the second test",
+      "text": "Geh zum Ort der zweiten Prüfung."
+    },
+    {
+      "key": "q60200126_00_2223",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "第二試練の敵を倒す",
+      "source_en": "Defeat the enemy at the second test",
+      "text": "Besiege den Gegner der zweiten Prüfung."
+    },
+    {
+      "key": "q60200126_00_2224",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "最終試練の場所へ向かう",
+      "source_en": "Head to the location of the final test",
+      "text": "Geh zum Ort der letzten Prüfung."
+    },
+    {
+      "key": "q60200126_00_2225",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "最終試練の敵を倒す",
+      "source_en": "Defeat the enemy at the final test",
+      "text": "Besiege den Gegner der letzten Prüfung."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

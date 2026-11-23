@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200008_00.gmd",
+  "arc_path": "\\quest\\q60200008.arc",
+  "entries": [
+    {
+      "key": "q60200008_00_142",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "辺境に眠りし宝３",
+      "source_en": "The Treasure Lying in the Frontier 3",
+      "text": "Der Schatz im Grenzland 3"
+    },
+    {
+      "key": "q60200008_00_142",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アイザックの依頼で、「橋向かいの坑道」\r\n「ガルドノック廃水廊」「幽玄の霊堂」\r\nのどれか1か所へ向かい、最奥の宝箱を調べてくる",
+      "source_en": "At Isaac's request, go to either The Tunnel\r\nacross the Bridge, Gardnox Sewers,\r\nor Mysterious Mausoleum, and investigate\r\nthe treasure chest at the very end.",
+      "text": "Wähle in Isaacs Auftrag eines dieser Verliese.\r\nStollen jenseits der Brücke, Abwasserkanäle von Gardnox\r\noder Geheimnisvolles Mausoleum.\r\nUntersuche dort die hinterste Schatztruhe."
+    },
+    {
+      "key": "q60200008_00_1977",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "指定されたダンジョンのうち1か所で、最奥の宝箱を調べる",
+      "source_en": "Examine the innermost treasure chest in one designated dungeon",
+      "text": "Untersuche die hinterste Schatztruhe in einem der genannten Verliese."
+    },
+    {
+      "key": "q60200008_00_1978",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アイザックに報告する",
+      "source_en": "Report to Isaac",
+      "text": "Erstatte Isaac Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000052_00.gmd",
+  "arc_path": "\\quest\\q60000052.arc",
+  "entries": [
+    {
+      "key": "q60000052_00_39",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "求道の師を訪ねて　ハンター",
+      "source_en": "Seeking the Master: Hunter",
+      "text": "Auf der Suche nach dem Klassenmeister – Jäger"
+    },
+    {
+      "key": "q60000052_00_39",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョブマスター・イヴァンに\r\nハンター求道試練の許可をもらいに行く",
+      "source_en": "Visit Job Master Ivan to request \r\napproval for the Hunter's trial",
+      "text": "Such Klassenmeister Ivan auf\r\nund bitte ihn, dich zur Jägerprüfung zuzulassen."
+    },
+    {
+      "key": "q60000052_00_1217",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ森林深部の伝説のマタギ、イヴァンを訪ねる",
+      "source_en": "Visit the legendary hunter Ivan in Mysree Grove",
+      "text": "Such den legendären Jäger Ivan im Tiefen Mysree-Wald auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60200003.gmd",
+  "arc_path": "\\quest\\q60200003.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "禊の神殿を監視しているヴァネッサから\r\n使いの者が来ているようだ",
+      "source_en": "It seems a messenger has come from Vanessa,\r\nwho oversees the Shrine of Purification.",
+      "text": "Ein Bote von Vanessa ist eingetroffen.\r\nSie überwacht den Tempel der Läuterung."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "共に報告を聞くとするか――\r\nやれやれ、片時も落ち着けんわ",
+      "source_en": "Shall we hear the report together? \r\nGood grief, not a moment's peace.",
+      "text": "Hören wir uns seinen Bericht an.\r\nMan hat wirklich keinen Augenblick Ruhe."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "新たなコンテンツ《混沌の兆し》が\r\n解放されました\r\nジョゼフからクエストを受注してみましょう",
+      "source_en": "The New Content \"Signs of Chaos\" has been \r\nunlocked. Accept the quest from Joseph.",
+      "text": "„Zeichen des Chaos“ ist jetzt verfügbar.\r\nNimm die Quest bei Joseph an."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "さあ、竜の礎の傍にいるアイザックを訪れ\r\nすぐさま準備にとりかかってくれ",
+      "source_en": "Seek out Isaac by the Dragon's Portcrystal\r\nand start making ready immediately.",
+      "text": "Such Isaac am Drachen-Zielkristall auf\r\nund triff unverzüglich deine Vorbereitungen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "よう、今回もまたダンジョンの調査任務だ\r\nそう嫌そうな顔をするなよ",
+      "source_en": "Hey, another dungeon investigation mission. \r\nDon't give me that look—it's not so bad.",
+      "text": "Na, diesmal sollst du wieder ein Verlies erkunden.\r\nMach nicht so ein Gesicht. So schlimm wird’s schon nicht."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "お前をどうしても鍛え上げたいってやつらの\r\n思惑で動いてるのさ\r\n――それが凶と出るか吉と出るか\r\n誰にもわかっちゃいないがな",
+      "source_en": "They're acting on their desire to\r\nmold you. Whether it turns out to be\r\na curse or blessing, nobody can tell.",
+      "text": "Denen liegt viel daran, dich auszubilden.\r\nOb dir das am Ende nützt oder schadet,\r\nweiß allerdings keiner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

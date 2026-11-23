@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60215001_00.gmd",
+  "arc_path": "\\quest\\q60215001.arc",
+  "entries": [
+    {
+      "key": "q60215001_00_134",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ファーラナ平原　試練：栄誉の守り番",
+      "source_en": "FP Trial: The Honor Guards",
+      "text": "Farana-Ebene – Prüfung: Auf Wache für die Ehre"
+    },
+    {
+      "key": "q60215001_00_134",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターから事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the Area Master\r\nand try to solve the problem",
+      "text": "Frag den Gebietsmeister nach den Einzelheiten\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60215001_00_1954",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "魔物を討伐する",
+      "source_en": "Defeat the foe(s)",
+      "text": "Besiege die Monster."
+    },
+    {
+      "key": "q60215001_00_1955",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<SPOT 877> にいる<NPC 2508>から確認する",
+      "source_en": "Confirm with <NPC 2508> in <SPOT 877>",
+      "text": "Sprich mit <NPC 2508> bei <SPOT 877>."
+    },
+    {
+      "key": "q60215001_00_1956",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "事件の調査を行う",
+      "source_en": "Investigate the incident",
+      "text": "Untersuche den Vorfall."
+    },
+    {
+      "key": "q60215001_00_2357",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<SPOT 877> にいる<NPC 2508>に報告する",
+      "source_en": "Report to <NPC 2508> in <SPOT 877>",
+      "text": "Erstatte <NPC 2508> bei <SPOT 877> Bericht."
+    },
+    {
+      "key": "q60215001_00_2358",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "鍵が落ちていないか探す",
+      "source_en": "Look for dropped keys",
+      "text": "Sieh nach, ob der Schlüssel irgendwo liegt."
+    },
+    {
+      "key": "q60215001_00_2359",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "割れた鍵のもう一片を探す",
+      "source_en": "Find the other piece of the broken key",
+      "text": "Such nach dem zweiten Bruchstück des Schlüssels."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

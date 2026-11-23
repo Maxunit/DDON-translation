@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21016000_00.gmd",
+  "arc_path": "\\quest\\q21016000.arc",
+  "entries": [
+    {
+      "key": "q21016000_00_572",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "騒ぎの原因",
+      "source_en": "Source of Disturbance",
+      "text": "Was die Unruhe ausgelöst hat"
+    },
+    {
+      "key": "q21016000_00_572",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【敵群討伐クエスト】\r\n依頼者から話を聞き\r\n敵の群れを討伐する",
+      "source_en": "[Enemy Horde Extermination Quest] Listen\r\nto the client's request.\r\nExterminate the horde of enemies.",
+      "text": "[Jagd auf Monstergruppen] Hör dir\r\ndie Bitte der Auftraggeberin an\r\nund besiege die Monstergruppen."
+    },
+    {
+      "key": "q21016000_00_572",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from\r\n<NAME AREA>,\r\nenemy forces have temporarily increased,\r\nand the situation is quite dangerous.",
+      "text": "Laut einem Bericht aus\r\n<NAME AREA>\r\nhaben sich vorübergehend mehr Monster versammelt.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q21016000_00_572",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "侵食の大災が訪れてからというもの\r\nちょっとした魔物などで\r\n騒ぐ奴が多くなったのだ\r\nいちいち対応しているのでは\r\n人手が足りなくて仕方がない――",
+      "source_en": "Ever since the great calamity struck,\r\nmore people have been getting worked up\r\nover small monsters. If we keep dealing\r\nwith every little incident,\r\nwe won't have enough manpower to manage.",
+      "text": "Seit der Befall über uns hereingebrochen ist,\r\ngeraten immer mehr Leute schon bei kleinen Monstern\r\nin Aufregung. Wenn wir jedem Vorfall nachgehen,\r\nfehlen uns irgendwann die Leute,\r\num uns um die ernsten Fälle zu kümmern."
+    },
+    {
+      "key": "q21016000_00_1169",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q21016000_00_1222",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所で魔物の群れを探す(残り３)",
+      "source_en": "Search for a group of monsters at the designated location (3 left)",
+      "text": "Such am angegebenen Ort nach einer Monstergruppe (noch 3)."
+    },
+    {
+      "key": "q21016000_00_1223",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り２)",
+      "source_en": "Search for the remaining groups of monsters (2 left)",
+      "text": "Such nach den verbliebenen Monstergruppen (noch 2)."
+    },
+    {
+      "key": "q21016000_00_1224",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り１)",
+      "source_en": "Find the group of monsters that remain (1 left)",
+      "text": "Such nach der letzten Monstergruppe (noch 1)."
+    },
+    {
+      "key": "q21016000_00_1225",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    },
+    {
+      "key": "q21016000_00_1225",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    },
+    {
+      "key": "q21016000_00_1225",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

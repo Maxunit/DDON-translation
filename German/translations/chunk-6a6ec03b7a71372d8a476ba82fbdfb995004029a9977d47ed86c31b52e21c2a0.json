@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21015005_00.gmd",
+  "arc_path": "\\quest\\q21015005.arc",
+  "entries": [
+    {
+      "key": "q21015005_00_593",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【時限採取】真昼の採草道",
+      "source_en": "Time Restriction: Midday Harvest",
+      "text": "[Zeitfenster] Ernte in der Mittagssonne"
+    },
+    {
+      "key": "q21015005_00_593",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【時限採取クエスト：11時から15時（GT）】\r\nエリアマスターから話を聞き\r\n特定条件の間に採取を行い納品する",
+      "source_en": "[Time Restriction Quest: 11:00 to 15:00\r\n(GT)] Listen to the Area Master's story.\r\nCollect and deliver within the\r\nspecified time.",
+      "text": "[Sammelquest von 11 bis 15 Uhr (Spielzeit)]\r\nSprich mit der Gebietsmeisterin.\r\nSammle das benötigte Material im angegebenen Zeitraum\r\nund liefere es ab."
+    },
+    {
+      "key": "q21015005_00_593",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のエリアマスターは\r\n覚者へ相談したい事があるらしい",
+      "source_en": "The Area Master of\r\n<NAME AREA>\r\nwould like to seek counsel from\r\nthe Arisen.",
+      "text": "Die Gebietsmeisterin bei\r\n<NAME AREA>\r\nmöchte mit dir\r\nüber etwas sprechen."
+    },
+    {
+      "key": "q21015005_00_593",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "この辺りは、フィンダムの中でも実りが豊富な土地\r\nそれを力で守るために、ダナでは長い間武を\r\n重んじてきたのだという一説もあるのよ\r\n族長に認められるような武勇と貢献の実績があれば\r\nよそ者でもその恩恵に与れるかもね",
+      "source_en": "This region is among the most fertile in\r\nPhindym. There's a theory that Dana has\r\nlong valued strength to protect it.\r\nIf one has the bravery and achievements\r\nto be recognized by the chieftain, even\r\noutsiders might benefit from\r\nits blessings.",
+      "text": "Diese Gegend gehört zu den fruchtbarsten in Phindym.\r\nManche sagen, den Leuten von Dana sei Stärke\r\nseit jeher wichtig, um ihr Land zu schützen.\r\nWer Mut beweist und sich um das Dorf verdient macht,\r\nkann sich die Anerkennung der Stammesführung verdienen.\r\nDann stehen einem auch als Fremder\r\ndie Früchte dieses Landes offen."
+    },
+    {
+      "key": "q21015005_00_1233",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターに《<SQDI NAME>》を＜<SQDI NUM>＞つ納品する",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the Area Master",
+      "text": "Bring der Gebietsmeisterin <SQDI NAME> × <SQDI NUM>."
+    },
+    {
+      "key": "q21015005_00_1237",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜11時から15時＞の間に依頼者から詳細を聞く",
+      "source_en": "Inquire details from the requester from 11:00 to 15:00 (GT)",
+      "text": "Frag die Auftraggeberin zwischen 11 und 15 Uhr (Spielzeit) nach den Einzelheiten."
+    },
+    {
+      "key": "q21015005_00_1243",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜11時から15時＞の間に<AREA 15>で《<SQDI NAME>》を採取し＜<SQDI NUM>＞納品する",
+      "source_en": "Obtain <SQDI NAME> x<SQDI NUM> at <AREA 15> from 11:00 to 15:00 (GT)",
+      "text": "Sammle <SQDI NAME> × <SQDI NUM> bei <AREA 15> zwischen 11 und 15 Uhr (Spielzeit) und liefere es ab."
+    },
+    {
+      "key": "q21015005_00_1250",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜11時から15時＞の間にパーティメンバーを拠点内に集める",
+      "source_en": "Gather party members in the camp from 11:00 to 15:00 (GT)",
+      "text": "Versammle die Gruppe zwischen 11 und 15 Uhr (Spielzeit) im Lager."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

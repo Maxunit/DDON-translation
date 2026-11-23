@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21016003_00.gmd",
+  "arc_path": "\\quest\\q21016003.arc",
+  "entries": [
+    {
+      "key": "q21016003_00_575",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "優しさの報酬",
+      "source_en": "A Kind Reward",
+      "text": "Ein Dank für deine Freundlichkeit"
+    },
+    {
+      "key": "q21016003_00_575",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【納品クエスト】\r\n依頼者の願いを聞き入れ\r\n指定された物資を集めてくる",
+      "source_en": "[Delivery Quest] Listen to the\r\nrequester's wishes and gather the\r\nspecified supplies.",
+      "text": "[Lieferquest]\r\nHör dir die Bitte der Auftraggeberin an\r\nund besorg die verlangten Dinge."
+    },
+    {
+      "key": "q21016003_00_575",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "物資を必要としている人物が\r\n<NAME AREA>から協力を求めている",
+      "source_en": "A person in need of supplies is seeking\r\nassistance in\r\n<NAME AREA>.",
+      "text": "Jemand braucht Nachschub und bittet um Hilfe,\r\nund zwar bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21016003_00_575",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "同じフィンダムでも、地域によって価値観は異なる\r\n特に、ダナとモルフォールは真逆だね\r\n荒々しくて勇猛さを重んじるダナと\r\n穏やかで優しさを重んじるモルフォール――\r\nその二つが、交わることってあるのかな？",
+      "source_en": "Even in Phindym, values vary greatly\r\nacross regions. Especially, Dana and\r\nMorfaul are complete opposites. Dana\r\nvalues raw strength and valor, while\r\nMorfaul cherishes tranquility and\r\ngentleness.\r\nIs there any possibility of their\r\ncultures ever merging?",
+      "text": "Selbst innerhalb Phindyms zählen\r\nje nach Gegend ganz andere Werte.\r\nDana und Morfaul könnten\r\nkaum unterschiedlicher sein.\r\nIn Dana schätzt man Mut und Stärke,\r\nin Morfaul Ruhe und Freundlichkeit.\r\nOb die beiden Dörfer wohl irgendwann\r\nvoneinander lernen?"
+    },
+    {
+      "key": "q21016003_00_1179",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼先に届ける（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> × <SQDI NUM> zum Lieferort (noch benötigt: <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

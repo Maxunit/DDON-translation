@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21015009_00.gmd",
+  "arc_path": "\\quest\\q21015009.arc",
+  "entries": [
+    {
+      "key": "q21015009_00_597",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "弱腰の試練",
+      "source_en": "Ordeal of the Weak",
+      "text": "Die Prüfung der Schwachen"
+    },
+    {
+      "key": "q21015009_00_597",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest] Listen to the\r\nrequester's wish.\r\nDefeat the ferocious enemy without\r\nreviving even once.",
+      "text": "[Sieg ohne Wiederbelebung]\r\nHör dir die Bitte des Auftraggebers an.\r\nBesiege den wilden Gegner,\r\nohne dich auch nur einmal wiederbeleben zu lassen."
+    },
+    {
+      "key": "q21015009_00_597",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the\r\n<NAME AREA>\r\nappears to be testing their skills in a\r\nbattle against an enemy.",
+      "text": "In der Gegend um\r\n<NAME AREA>\r\nversucht offenbar jemand,\r\nsich im Kampf gegen ein Monster zu beweisen."
+    },
+    {
+      "key": "q21015009_00_597",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "この村では強き者が持て囃され\r\n弱き者は軽んじられる、そういう文化のようだ\r\nしかし滞在している間――自分に親身に接し\r\n優しくしてくれたのは、弱き者達なのだ――\r\n彼らに何か、恩返しが出来ればと思うのだが",
+      "source_en": "This village seems to value the strong\r\nand scorn the weak. Yet during my stay,\r\nit was the weak who were caring and kind\r\nto me.\r\nI wish I could find a way to repay\r\ntheir kindness.",
+      "text": "In diesem Dorf feiert man die Starken\r\nund schaut auf die Schwachen herab.\r\nDabei waren es die Schwachen,\r\ndie sich während meines Aufenthalts\r\nso freundlich um mich gekümmert haben.\r\nIch wünschte, ich könnte ihnen etwas davon zurückgeben."
+    },
+    {
+      "key": "q21015009_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Such am angegebenen Ort nach den wilden Monstern."
+    },
+    {
+      "key": "q21015009_00_1175",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21015009_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte dem Auftraggeber, was du herausgefunden hast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

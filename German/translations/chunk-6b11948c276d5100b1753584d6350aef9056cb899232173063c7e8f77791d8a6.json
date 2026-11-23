@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200028_00.gmd",
+  "arc_path": "\\quest\\q60200028.arc",
+  "entries": [
+    {
+      "key": "q60200028_00_220",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "心を込めたお返しを",
+      "source_en": "Heartfelt Gift Return",
+      "text": "Ein Dank von Herzen"
+    },
+    {
+      "key": "q60200028_00_220",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アンジェロから新たなお祭りの話を聞く",
+      "source_en": "Listen about the new festival from Angelo",
+      "text": "Lass dir von Angelo von dem neuen Fest erzählen."
+    },
+    {
+      "key": "q60200028_00_2925",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "一番チョコレートをもらった人物から話を聞く",
+      "source_en": "Hear what the person who got the most chocolates has to say",
+      "text": "Sprich mit der Person, die die meiste Schokolade bekommen hat."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

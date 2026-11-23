@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21016007_00.gmd",
+  "arc_path": "\\quest\\q21016007.arc",
+  "entries": [
+    {
+      "key": "q21016007_00_579",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【竜力の扉】侵緑の暴虐者",
+      "source_en": "[Door of Dragon Force] Verdant Tyrant",
+      "text": "[Tür der Drachenkraft] Der Tyrann des befallenen Waldes"
+    },
+    {
+      "key": "q21016007_00_579",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【危険区域クエスト】\r\nダンジョン内の危険区域へ繋がる扉の鍵を作り\r\n凶悪な魔物を討伐する",
+      "source_en": "[Dangerous Area Quest] Make a key to the\r\ndoor leading to the Dangerous Area in\r\nthe dungeon and defeat Brutal monsters.",
+      "text": "[Gefahrenzone]\r\nFertige einen Schlüssel für die Tür zur Gefahrenzone\r\nim Verlies an und besiege die gefährlichen Monster."
+    },
+    {
+      "key": "q21016007_00_579",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のダンジョン内部は、特別な\r\n鍵を持った者だけが入れる場所があるらしい",
+      "source_en": "Within the\r\n<NAME AREA>\r\ndungeon,\r\nthere is a place that only those who\r\npossess a special key can enter.",
+      "text": "In einem Verlies bei\r\n<NAME AREA>\r\ngibt es offenbar einen Bereich,\r\nden du nur betreten kannst,\r\nwenn du einen besonderen Schlüssel hast."
+    },
+    {
+      "key": "q21016007_00_579",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "モルフォールの森に異変の兆候が見られる\r\n大量の侵食魔らしき痕跡が発見された\r\n各所、どのような状態になってるかの調査が\r\n必要となりそうだ",
+      "source_en": "Signs of disturbance have been observed\r\nin the Morfaul Forest. Large traces\r\nresembling corruption magick have been\r\ndiscovered. It seems we need to\r\ninvestigate the conditions in\r\nvarious locations.",
+      "text": "Im Wald bei Morfaul scheint etwas\r\nnicht in Ordnung zu sein.\r\nMan hat zahlreiche Spuren gefunden,\r\ndie offenbar von Befallenen stammen.\r\nWir sollten wohl an mehreren Orten\r\nnachsehen, was dort vor sich geht."
+    },
+    {
+      "key": "q21016007_00_1170",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した凶悪な魔物を討伐する",
+      "source_en": "Defeat the encountered monstrosities",
+      "text": "Besiege die gefährlichen Monster, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

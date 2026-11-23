@@ -1,0 +1,128 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q21017005.gmd",
+  "arc_path": "\\quest\\q21017005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "<AREA 17>フィールドの《<ITEM 15953>》を採取できる採取ポイントの数が増えました\r\n＜5時から10時＞の間にたくさん採取し、納品しましょう",
+      "source_en": "",
+      "text": "Bei <AREA 17> gibt es jetzt mehr Abbaustellen für „<ITEM 15953>“.\r\nBau zwischen 5 und 10 Uhr so viel ab, wie du kannst, und liefere deinen Fund ab."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "＜5時から10時＞が終了したため、<AREA 17>フィールドの《<ITEM 15953>》の採取ポイント数が通常に戻りました\r\n納品し、クエストを終了しましょう",
+      "source_en": "",
+      "text": "Das Zeitfenster von 5 bis 10 Uhr ist vorbei. Bei <AREA 17> gibt es wieder die übliche Zahl an Abbaustellen für „<ITEM 15953>“.\r\nLiefere deinen Fund ab, um die Quest abzuschließen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "近頃、貴君が村の者たちに声をかけ\r\n困りごとを聞いて回っているとか――？\r\n実は、俺からも頼みたいことがあるのだ",
+      "source_en": "",
+      "text": "Ich höre, du sprichst in letzter Zeit mit vielen Leuten im Dorf\r\nund hörst dir ihre Sorgen an.\r\nAuch ich hätte da eine Bitte an dich."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "このキンガルでは、鉱物資源がよく取れ\r\n村の主要な収入源ともなっている\r\nだが、最近――《<ITEM 15953>》という鉱石が\r\n危険な魔物の巣材となっていることが判明した",
+      "source_en": "",
+      "text": "In der Kingal-Schlucht bauen wir viele Bodenschätze ab.\r\nSie zählen zu den wichtigsten Einnahmequellen des Dorfs.\r\nNun haben wir aber entdeckt, dass gefährliche Monster „<ITEM 15953>“\r\nfür den Bau ihrer Nester benutzen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "よって、村の外の《<ITEM 15953>》をできるだけ\r\n収集してきてもらいたいのだ\r\n村の若者に行かせると、遺跡に近付こうとする者が\r\n必ず出てくるだろうからな――",
+      "source_en": "",
+      "text": "Darum möchte ich dich bitten, außerhalb des Dorfs so viel „<ITEM 15953>“\r\nwie möglich abzubauen.\r\nWenn ich unsere jungen Leute schicke, kommen sicher einige\r\nauf die Idee, sich den Ruinen zu nähern …"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "貴君にとっても益のある話だろう\r\n鉱石の採掘に適した時間帯――朝日が昇る頃の\r\n＜5時から10時＞に仲間たちとこの建物内へ\r\n来てもらえるならば、詳しく案内しよう",
+      "source_en": "",
+      "text": "Du wirst auch etwas davon haben.\r\nDie beste Zeit für den Abbau ist früh am Morgen.\r\nWenn du zwischen 5 und 10 Uhr mit deiner Gruppe\r\nin dieses Gebäude kommst, erkläre ich dir alles Weitere."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "魔物の巣材となっている《<ITEM 15953>》――\r\n採掘には朝の＜5時から10時＞の間が最も適している\r\n一度に大量に掘ろうとするならば、この時間しかない",
+      "source_en": "",
+      "text": "Die Monster bauen ihre Nester aus „<ITEM 15953>“.\r\nDu baust das Erz am besten morgens zwischen 5 und 10 Uhr ab.\r\nNur dann kannst du auf einmal so viel davon finden."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "共に行く仲間たちとこの建物内へ\r\n朝日が昇る＜5時から10時＞の間に\r\n来てもらえるならば詳しく案内しよう",
+      "source_en": "",
+      "text": "Komm mit allen, die beim Abbau helfen,\r\nzwischen 5 und 10 Uhr, wenn die Sonne aufgeht,\r\nhierher ins Gebäude. Dann erkläre ich euch alles Weitere."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "おお、来てくれたか\r\nそれでは、《<ITEM 15953>》の\r\n採掘について説明しよう",
+      "source_en": "",
+      "text": "Ah, ihr seid gekommen.\r\nDann erkläre ich euch, worauf es beim Abbau von „<ITEM 15953>“\r\nankommt."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "《<ITEM 15953>》は、魔物が活発に\r\n活動する前である＜5時から10時＞の間、\r\n通常より多くの地点から採掘可能だ\r\nその時間を過ぎてしまうと魔物が掘り尽くしてしまい\r\n採掘地点の数は通常通りとなるだろう",
+      "source_en": "",
+      "text": "„<ITEM 15953>“ lässt sich\r\nzwischen 5 und 10 Uhr, bevor die Monster aktiv werden,\r\nan mehr Stellen abbauen als sonst.\r\nSpäter graben die Monster das meiste davon aus,\r\nund es bleiben nur so viele Abbaustellen wie gewöhnlich."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "あぁ――貴君らを信用していない訳ではないが\r\n今回の成果の証として\r\n《<ITEM 15953>》を＜5＞個\r\nこのキアランの元に持ってきてくれるよう頼む",
+      "source_en": "",
+      "text": "Ich vertraue euch natürlich.\r\nDoch als Beleg für euren Erfolg\r\nbitte ich euch, fünf Stück „<ITEM 15953>“\r\nzu mir zu bringen."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "《<ITEM 15953>》は、＜5時から10時＞の\r\n朝の間のみ多くの地点から採掘することができる\r\n魔物に採り尽くされる前に、こちらが\r\nできる限り採掘しておいてほしいのだ",
+      "source_en": "",
+      "text": "„<ITEM 15953>“ kannst du nur morgens\r\nzwischen 5 und 10 Uhr an mehr Stellen als sonst abbauen.\r\nHol bitte so viel heraus, wie du kannst,\r\nbevor die Monster dir zuvorkommen."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "採掘が終わったら\r\n《<ITEM 15953>》を＜5＞個持ってきてくれ\r\nもちろん、それを証として報酬を支払おう",
+      "source_en": "",
+      "text": "Wenn du mit dem Abbau fertig bist,\r\nbring mir bitte fünf Stück „<ITEM 15953>“.\r\nDamit hast du den Auftrag erfüllt und erhältst deine Belohnung."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_jp",
+      "source_jp": "ふむ、たくさん採掘してくれたようだな\r\nこれでしばらくは村周辺に\r\n魔物が巣食うこともないだろう",
+      "source_en": "",
+      "text": "Hm, du hast offenbar viel Erz abgebaut.\r\nDann sollten die Monster eine Weile\r\nkeine Nester in der Nähe des Dorfs bauen können."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_jp",
+      "source_jp": "先祖から代々受け継いできたキンガルの土地を\r\n異国の者の手に委ねるのは、いささか不安では\r\nあったが――貴君ほどの実績がある者ならば\r\nそう心配することもなかったな",
+      "source_en": "",
+      "text": "Unser Land in fremde Hände zu legen, hat mir Sorgen gemacht.\r\nSchließlich haben wir Kingal von unseren Vorfahren geerbt.\r\nAber du hast dich so oft bewährt,\r\ndass ich wohl guten Gewissens auf dich vertrauen kann."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

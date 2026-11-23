@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60215000_00.gmd",
+  "arc_path": "\\quest\\q60215000.arc",
+  "entries": [
+    {
+      "key": "q60215000_00_133",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ファーラナ平原　試練：過ぎし日の教えを",
+      "source_en": "FP Trial: The Old Ways",
+      "text": "Farana-Ebene – Prüfung: Was uns die Vergangenheit lehrt"
+    },
+    {
+      "key": "q60215000_00_133",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターから事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the Area Master\r\nand try to solve the problem",
+      "text": "Frag den Gebietsmeister nach den Einzelheiten\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60215000_00_1951",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "諸悪の根源となる魔物を討伐する",
+      "source_en": "Defeat the foe(s) that are the source of evil",
+      "text": "Besiege die Monster, die den Vorfall ausgelöst haben."
+    },
+    {
+      "key": "q60215000_00_1952",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<SPOT 877>の<NPC 2511>から詳細確認する",
+      "source_en": "Confirm details from <NPC 2511> in <SPOT 877>",
+      "text": "Frag <NPC 2511> bei <SPOT 877> nach den Einzelheiten."
+    },
+    {
+      "key": "q60215000_00_1953",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "問題となる場所を調査する",
+      "source_en": "Investigate problem locations",
+      "text": "Untersuche den angegebenen Ort."
+    },
+    {
+      "key": "q60215000_00_2406",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<SPOT 877>の<NPC 2511>に報告する",
+      "source_en": "Report to <NPC 2511> in <SPOT 877>",
+      "text": "Erstatte <NPC 2511> bei <SPOT 877> Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

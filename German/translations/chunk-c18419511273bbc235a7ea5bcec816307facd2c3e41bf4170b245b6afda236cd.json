@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21015013_00.gmd",
+  "arc_path": "\\quest\\q21015013.arc",
+  "entries": [
+    {
+      "key": "q21015013_00_601",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "惑いし砦守",
+      "source_en": "The Troubled Fortification",
+      "text": "Ein Festungswächter in Not"
+    },
+    {
+      "key": "q21015013_00_601",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【迅速救助クエスト】\r\n依頼者が求める人物を捜索し\r\n迅速に救助する",
+      "source_en": "[Swift Rescue Quest] Search for the\r\nperson the client is seeking and\r\nrescue them.",
+      "text": "[Rettungsquest] Finde die vermisste Person\r\nund bring sie so schnell wie möglich\r\nin Sicherheit."
+    },
+    {
+      "key": "q21015013_00_601",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "何者かからの、迅速な救援を求める声が\r\n<NAME AREA>から届いているようだ",
+      "source_en": "It seems that a voice requesting swift\r\nassistance has come from\r\n<NAME AREA>.",
+      "text": "Offenbar braucht jemand\r\ndringend Hilfe bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21015013_00_601",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "全く、最近は村の者を助けることより\r\nよそ者を助けに行くことの方が多いぞ！\r\nフィンダムを調査すると言っても\r\n我々に迷惑ばかりかけるのはいかがなものか！",
+      "source_en": "Seriously, it seems like we spend more\r\ntime helping outsiders than supporting\r\nour own villagers!\r\nEven if they claim they're studying\r\nPhindym,\r\nit's quite troublesome for us!",
+      "text": "Langsam ziehen wir öfter los, um Fremde zu retten,\r\nals um den eigenen Leuten zu helfen!\r\nSollen sie doch Phindym erforschen,\r\nwenn sie das unbedingt wollen.\r\nAber müssen sie uns dabei so viel Ärger machen?\r\nDas wird langsam zu viel."
+    },
+    {
+      "key": "q21015013_00_1169",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q21015013_00_1226",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の求める人物を捜索する",
+      "source_en": "Search for the person the client is seeking",
+      "text": "Finde die vermisste Person."
+    },
+    {
+      "key": "q21015013_00_1227",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "魔物を迅速に討伐し捜索対象を救助する",
+      "source_en": "Defeat the demon quickly and rescue your charge",
+      "text": "Besiege die Monster schnell und rette die vermisste Person."
+    },
+    {
+      "key": "q21015013_00_1228",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "捜索対象の安否を確認する",
+      "source_en": "Check the search target's well-being",
+      "text": "Sieh nach, wie es der vermissten Person geht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

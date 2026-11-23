@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200003_00.gmd",
+  "arc_path": "\\quest\\q60200003.arc",
+  "entries": [
+    {
+      "key": "q60200003_00_141",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "新たな任務を受けるため、再びアイザックを訪ねる",
+      "source_en": "Visit Isaac again to receive a new mission",
+      "text": "Such Isaac erneut auf, um einen neuen Auftrag anzunehmen."
+    },
+    {
+      "key": "q60200003_00_1972",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "覚者隊の騎士から詳細を確認する",
+      "source_en": "Confirm the details from the Arisen Corps Regimental Soldier",
+      "text": "Frag den Ritter der Erwecktentruppe nach den Einzelheiten."
+    },
+    {
+      "key": "q60200003_00_1992",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿のアイザックを訪ねる",
+      "source_en": "Visit Isaac in the White Dragon Temple",
+      "text": "Such Isaac im Tempel des Weißen Drachen auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

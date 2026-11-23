@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60214006_00.gmd",
+  "arc_path": "\\quest\\q60214006.arc",
+  "entries": [
+    {
+      "key": "q60214006_00_190",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "エラン水林　試練：無秩序なる訪れ",
+      "source_en": "EWG Trial: Tidings of Turmoil",
+      "text": "Elan-Auenwald – Prüfung: Ein unheilvoller Besucher"
+    },
+    {
+      "key": "q60214006_00_190",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターから事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the Area Master\r\nand try to solve the problem",
+      "text": "Frag die Gebietsmeisterin nach den Einzelheiten\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60214006_00_2523",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "救援場所へ向かい情報を聞き出す",
+      "source_en": "Go to the rescue site and ask for information",
+      "text": "Geh zum Einsatzort und frag nach den Einzelheiten."
+    },
+    {
+      "key": "q60214006_00_2524",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "襲撃場所を調査する",
+      "source_en": "Investigate the location of the attack",
+      "text": "Untersuche den Ort des Angriffs."
+    },
+    {
+      "key": "q60214006_00_2525",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "乱戦中の魔物を掃討する",
+      "source_en": "Sweep away monsters in the middle of a melee",
+      "text": "Hilf im Kampf und besiege die Monster."
+    },
+    {
+      "key": "q60214006_00_2526",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "襲撃してきた未知なる魔物を討伐する",
+      "source_en": "Defeat the attacking unknown monsters",
+      "text": "Besiege die unbekannten Monster, die euch angegriffen haben."
+    },
+    {
+      "key": "q60214006_00_2527",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 4758>に調査隊の立て直しを伝える",
+      "source_en": "Tell <NPC 4758> about the rebuilding of the investigation team",
+      "text": "Sprich mit <NPC 4758> darüber, wie sich der Erkundungstrupp neu sammeln soll."
+    },
+    {
+      "key": "q60214006_00_2528",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターに報告する",
+      "source_en": "Report to the Area Master",
+      "text": "Erstatte der Gebietsmeisterin Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200017_00.gmd",
+  "arc_path": "\\quest\\q60200017.arc",
+  "entries": [
+    {
+      "key": "q60200017_00_204",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "奇蹟者への道＜１＞",
+      "source_en": "Path to Miracles (1)",
+      "text": "Auf dem Weg zum Weihnachtswunder 1"
+    },
+    {
+      "key": "q60200017_00_204",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ニコラスの依頼を叶える",
+      "source_en": "Grant Nicholas's request",
+      "text": "Erfülle Nicholas’ Bitte."
+    },
+    {
+      "key": "q60200017_00_2732",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ニコラスに報告する",
+      "source_en": "Report to Nicholas",
+      "text": "Erstatte Nicholas Bericht."
+    },
+    {
+      "key": "q60200017_00_2733",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "マルコとミーアから話を聞く",
+      "source_en": "Hear what Marco and Mia have to say",
+      "text": "Hör dir an, was Marco und Mia zu sagen haben."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000079_00.gmd",
+  "arc_path": "\\quest\\q21000079.arc",
+  "entries": [
+    {
+      "key": "q21000079_00_398",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "珠玉を求む",
+      "source_en": "In Search of Gems",
+      "text": "Auf der Suche nach Kostbarkeiten"
+    },
+    {
+      "key": "q21000079_00_398",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【納品討伐クエスト】\r\n依頼者に高価なアイテムを渡し\r\n珍しい敵の居場所を聞き出す",
+      "source_en": "[Delivery Hunt Quest]\r\nHand over a valuable item to the client\r\nand locate the whereabouts of a rare enemy.",
+      "text": "[Liefer- und Jagdquest]\r\nBring der Auftraggeberin einen wertvollen Gegenstand\r\nund finde heraus, wo sich ein seltenes Monster aufhält."
+    },
+    {
+      "key": "q21000079_00_398",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが\r\nエリア内で取得できる珍しいアイテムを求めている",
+      "source_en": "Someone in the <NAME AREA> is searching\r\nfor rare items that can be found within the area.",
+      "text": "Bei <NAME AREA> sucht jemand nach seltenen Gegenständen,\r\ndie es in dieser Gegend zu finden gibt."
+    },
+    {
+      "key": "q21000079_00_398",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "そういえばアリアドネさんが探し物をしていたなぁ\r\nけっこう逼迫した様子だったぜ\r\nもしかしたら地上の品の類かなぁ\r\nこんなところにいたら、覚者の力でも借りない限り\r\n入手は難しいだろうなぁ",
+      "source_en": "Come to think of it,\r\nAriadne was looking for something. \r\nShe seemed to be in quite a rush. \r\nMaybe it's some kind of item from the surface? \r\nIn a place like this, unless you rely on the Arisen, \r\nit would be tough to acquire, I bet.",
+      "text": "Ach ja, Ariadne hat nach etwas gesucht.\r\nSie hatte es ziemlich eilig.\r\nVielleicht braucht sie etwas von der Oberfläche?\r\nHier kommt man an solche Sachen kaum ran,\r\nwenn einem kein Erweckter hilft.\r\nIch wüsste jedenfalls nicht, wie."
+    },
+    {
+      "key": "q21000079_00_1166",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼者に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring der Auftraggeberin <SQDI NAME> × <SQDI NUM> (noch benötigt: <SQDI DNUM>)."
+    },
+    {
+      "key": "q21000079_00_1167",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ魔物を探しに行く",
+      "source_en": "Go to the designated location to search for enemy",
+      "text": "Such am angegebenen Ort nach dem Monster."
+    },
+    {
+      "key": "q21000079_00_1168",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "発見した魔物を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    },
+    {
+      "key": "q21000079_00_1169",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

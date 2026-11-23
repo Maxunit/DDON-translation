@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q21015008.gmd",
+  "arc_path": "\\quest\\q21015008.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "あ――もしかして、仕事を探しているの？\r\nだけど、なんでわざわざ僕に？\r\n荒事の依頼なら、この村に溢れてると思うけど",
+      "source_en": "",
+      "text": "Äh … Suchst du vielleicht Arbeit?\r\nWarum fragst du ausgerechnet mich?\r\nWenn du Ärger suchst, findest du im Dorf sicher genug Aufträge."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "僕が弱そうだったから？\r\n自分じゃ困りごとも解決できないように見えたから？\r\n――あぁ、そんな顔しないでくれよ",
+      "source_en": "",
+      "text": "Weil ich schwach aussehe?\r\nWeil ich aussehe, als käme ich mit meinen Problemen nicht allein klar?\r\nAch, schau mich nicht so an."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "筋肉や声のでかさが一番のこの村じゃ\r\n僕みたいなのは、どうしてもこうなっちゃうんだよな\r\nよそ者に、しかもあんたみたいな強そうな人に\r\n言っても仕方のないことなんだけど――",
+      "source_en": "",
+      "text": "Wer hier die dicksten Muskeln und die lauteste Stimme hat, zählt.\r\nDa bleibt für jemanden wie mich nur diese Rolle übrig.\r\nWarum erzähle ich das überhaupt einem Fremden,\r\nder obendrein so stark aussieht wie du …?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "――変な話して悪かったね\r\nお詫びに、仕事をお願いするよ\r\nええと、村の近くに《<STG 812>》っていう\r\n魔物が溜まりやすい洞窟があるんだ",
+      "source_en": "",
+      "text": "Entschuldige das Gerede.\r\nZum Ausgleich hab ich einen Auftrag für dich.\r\nHier in der Nähe liegt die Höhle „<STG 812>“.\r\nDort sammeln sich immer wieder Monster an."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "村の戦士が定期的に掃除しに行くんだけど――\r\n最近は侵食騒ぎで、行けていないみたいでね\r\nだから、代わりに魔物を片付けて来てくれるかい？",
+      "source_en": "",
+      "text": "Unsere Krieger räumen dort regelmäßig auf.\r\nAber seit dem ganzen Ärger mit dem Befall kommen sie nicht mehr dazu.\r\nKönntest du dich an ihrer Stelle um die Monster kümmern?"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "《<STG 812>》は魔物が溜まりやすくてね\r\n村の戦士が定期的に掃除に行ってたんだけど\r\n最近は行けていないみたいなんだ",
+      "source_en": "",
+      "text": "In „<STG 812>“ sammeln sich leicht Monster an.\r\nDie Krieger aus dem Dorf haben dort regelmäßig aufgeräumt.\r\nAber in letzter Zeit kommen sie wohl nicht mehr dazu."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "代わりに討伐してきてくれれば安心だよ\r\n僕には無理だったけど――君なら簡単だと思う\r\n行ってくれるかい？",
+      "source_en": "",
+      "text": "Ich wäre beruhigt, wenn du an ihrer Stelle hingehst.\r\nIch hab’s nicht geschafft, aber für dich ist es bestimmt leicht.\r\nÜbernimmst du das?"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "行ってきてくれたのか、ありがとう\r\n皆は気が付かないかもしれないけど――\r\n村に何かあったら大変だし、未然に防げて良かったよ",
+      "source_en": "",
+      "text": "Du warst dort? Danke.\r\nDie anderen merken wahrscheinlich gar nichts davon.\r\nAber wenn dem Dorf etwas zustößt, ist es zu spät. Gut, dass du es verhindern konntest."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "もし良かったらまた――頼んでも良いかな\r\n他人頼みなんて、イーヴィや村の人に\r\n知られたら笑われるだろうけど――\r\nそれでも、皆が傷付くことになるよりはマシだからさ",
+      "source_en": "",
+      "text": "Wenn du magst, würde ich dich wieder mal um Hilfe bitten.\r\nEvey und die anderen würden mich auslachen,\r\nwenn sie wüssten, dass ich mich auf Fremde verlasse.\r\nAber das ist mir lieber, als wenn jemand verletzt wird."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

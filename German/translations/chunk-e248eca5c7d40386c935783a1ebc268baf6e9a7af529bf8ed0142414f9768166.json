@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21014023_00.gmd",
+  "arc_path": "\\quest\\q21014023.arc",
+  "entries": [
+    {
+      "key": "q21014023_00_610",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【時限採取】暁の採泥道",
+      "source_en": "[Time] Dredging at Dawn",
+      "text": "[Zeitfenster] Schlamm im Morgengrauen"
+    },
+    {
+      "key": "q21014023_00_610",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【時限採取クエスト：4時から7時（GT）】\r\nエリアマスターから話を聞き\r\n特定条件の間に採取を行い納品する",
+      "source_en": "[Time Restriction Quest: 4 to 7 (GT)]\r\nSpeak with the area master,\r\nthen gather and deliver items under the\r\nspecific conditions.",
+      "text": "[Sammelquest von 4 bis 7 Uhr (Spielzeit)]\r\nSprich mit der Gebietsmeisterin.\r\nSammle das benötigte Material im angegebenen Zeitraum\r\nund liefere es ab."
+    },
+    {
+      "key": "q21014023_00_610",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のエリアマスターは\r\n覚者へ相談したい事があるらしい",
+      "source_en": "The Area Master of\r\n<NAME AREA>\r\nwould like to seek counsel from\r\nthe Arisen.",
+      "text": "Die Gebietsmeisterin bei\r\n<NAME AREA>\r\nmöchte mit dir\r\nüber etwas sprechen."
+    },
+    {
+      "key": "q21014023_00_610",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "エランは流れる水が多いため\r\n土粒が削られて、滑らかな土壌が作られる\r\n栄養の多い上質な泥は、レスタニアの\r\n物好きな貴婦人どもに高く売れるだろう――\r\nま、頼まれても売る気は無いがな",
+      "source_en": "Elan has plenty of flowing water,\r\nwhich erodes the soil and creates\r\nsmooth, fertile ground. This rich,\r\nhigh-quality mud could fetch a high\r\nprice from the curious noblewomen of\r\nLestania—though I have no intention of\r\nselling it, of course.",
+      "text": "In Elan fließt viel Wasser.\r\nEs trägt Erde ab und macht den Boden\r\nfein und fruchtbar. Für den nährstoffreichen Schlamm\r\nwürden die neugierigen Damen\r\ndes lestanischen Adels sicher einiges zahlen.\r\nIch würde ihn allerdings selbst dann nicht verkaufen,\r\nwenn sie mich danach fragen."
+    },
+    {
+      "key": "q21014023_00_1233",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターに《<SQDI NAME>》を＜<SQDI NUM>＞つ納品する",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the Area Master",
+      "text": "Liefere <SQDI NAME> × <SQDI NUM> bei der Gebietsmeisterin ab."
+    },
+    {
+      "key": "q21014023_00_1265",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜4時から7時＞の間に<AREA 14>で《<SQDI NAME>》を採取し＜<SQDI NUM>＞つ納品する",
+      "source_en": "Obtain <SQDI NAME> x<SQDI NUM> at <AREA 14> from 04:00 to 07:00 (GT)",
+      "text": "Sammle <SQDI NAME> × <SQDI NUM> bei <AREA 14> zwischen 4 und 7 Uhr (Spielzeit) und liefere den Fund ab."
+    },
+    {
+      "key": "q21014023_00_1275",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜4時から7時＞の間にパーティメンバーを拠点内に集める",
+      "source_en": "Gather party members in the camp from 04:00 to 07:00 (GT)",
+      "text": "Versammle deine Gruppe zwischen 4 und 7 Uhr (Spielzeit) im Lager."
+    },
+    {
+      "key": "q21014023_00_1277",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜4時から7時＞の間に依頼者から詳細を聞く",
+      "source_en": "Inquire details from the requester from 04:00 to 07:00 (GT)",
+      "text": "Sprich zwischen 4 und 7 Uhr (Spielzeit) mit der Auftraggeberin und erfahre Näheres."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

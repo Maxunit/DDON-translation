@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200007_00.gmd",
+  "arc_path": "\\quest\\q60200007.arc",
+  "entries": [
+    {
+      "key": "q60200007_00_139",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "辺境に眠りし宝２",
+      "source_en": "The Treasure Lying in the Frontier 2",
+      "text": "Der Schatz im Grenzland 2"
+    },
+    {
+      "key": "q60200007_00_139",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アイザックの依頼で、「せせらぎの地下聖堂」\r\n「小塔傍の枯れ井戸」「霧幻のテラス」\r\n「灼熱の封鎖道」「罪人の修獄」\r\nのどれか１か所へ向かい、最奥の宝箱を調べてくる",
+      "source_en": "On Isaac's request, head to either\r\nthe Crypt of Murmurs, the Towerside Dry Well,\r\nMisty Illusion Terrace, or Scorching Blocked Passage,\r\nand examine the innermost treasure chest.",
+      "text": "Wähle in Isaacs Auftrag eines dieser Verliese.\r\nKrypta des Wasserrauschens, Ausgetrockneter Turmbrunnen,\r\nTerrasse des Trugnebels, Glühender Sperrstollen oder Kerker der Verdammten.\r\nUntersuche die hinterste Schatztruhe des gewählten Verlieses."
+    },
+    {
+      "key": "q60200007_00_1975",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "指定されたダンジョンのうち１か所で、最奥の宝箱を調べる",
+      "source_en": "Examine the deepest treasure chest in one designated dungeon",
+      "text": "Untersuche die hinterste Schatztruhe in einem der genannten Verliese."
+    },
+    {
+      "key": "q60200007_00_1976",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アイザックに報告する",
+      "source_en": "Report to Isaac",
+      "text": "Erstatte Isaac Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

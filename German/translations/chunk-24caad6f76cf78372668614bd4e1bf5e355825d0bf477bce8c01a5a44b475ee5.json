@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60214003_00.gmd",
+  "arc_path": "\\quest\\q60214003.arc",
+  "entries": [
+    {
+      "key": "q60214003_00_180",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "エラン水林　試練：緑の妄執",
+      "source_en": "EWG Trial: Green Delusions",
+      "text": "Elan-Auenwald – Prüfung: Was aus guter Absicht erwächst"
+    },
+    {
+      "key": "q60214003_00_180",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターから事件の詳細を聞き\r\n問題解決に挑む",
+      "source_en": "Get the details of the case from the Area Master\r\nand try to solve the problem",
+      "text": "Frag die Gebietsmeisterin nach den Einzelheiten\r\nund kümmere dich um den Vorfall."
+    },
+    {
+      "key": "q60214003_00_2378",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "仲間を拘束した魔物を討伐する",
+      "source_en": "Defeat the foe(s) restraining the comrades",
+      "text": "Besiege die Monster, die die Gefährten gefangen halten."
+    },
+    {
+      "key": "q60214003_00_2379",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 559>から詳細を確認する",
+      "source_en": "Confirm details from <NPC 559>",
+      "text": "Frag <NPC 559> nach den Einzelheiten."
+    },
+    {
+      "key": "q60214003_00_2380",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 562>に拘束した魔物の居場所を聞く",
+      "source_en": "Inquire with <NPC 562> about where the captured monsters are",
+      "text": "Frag <NPC 562> nach den Monstern, die sie gefangen halten."
+    },
+    {
+      "key": "q60214003_00_2381",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "魔物を全滅させる",
+      "source_en": "Defeat the foe(s)",
+      "text": "Besiege alle Monster."
+    },
+    {
+      "key": "q60214003_00_2498",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "調査に向かった付近で<NPC 562>を探す",
+      "source_en": "Search for <NPC 562> near where you headed to investigate",
+      "text": "Such in der Gegend, die ihr untersucht habt, nach <NPC 562>."
+    },
+    {
+      "key": "q60214003_00_2545",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "<SPOT 876>の<NPC 559>に報告する",
+      "source_en": "Report to <NPC 559> in <SPOT 876>",
+      "text": "Erstatte <NPC 559> bei <SPOT 876> Bericht."
+    },
+    {
+      "key": "q60214003_00_2546",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "罠にはめた魔物の居場所へ向かう",
+      "source_en": "Head to the location of the monster caught in the trap",
+      "text": "Geh zu den Monstern, die die Falle gestellt haben."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

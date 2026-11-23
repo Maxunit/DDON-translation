@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200009_00.gmd",
+  "arc_path": "\\quest\\q60200009.arc",
+  "entries": [
+    {
+      "key": "q60200009_00_144",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "辺境に眠りし宝４",
+      "source_en": "The Treasure Lying in the Frontier 4",
+      "text": "Der Schatz im Grenzland 4"
+    },
+    {
+      "key": "q60200009_00_144",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アイザックの依頼で、「滝鳴洞穴」「菌糸の襲窟」\r\n「飛天のテラス」「見捨てられた井戸」\r\n「秘匿の実験場」\r\nのどれか1か所へ向かい、最奥の宝箱を調べてくる",
+      "source_en": "On Isaac's request, head to either\r\nthe Echo Cascade Cavern\r\n, Fungal Colony Caves,\r\nSoaring Sky Terrace, Forsaken Well,\r\nor Hidden Observatory, and investigate\r\nthe treasure chest at the deepest part.",
+      "text": "Wähle in Isaacs Auftrag eines dieser Verliese.\r\nHöhle des Wasserfallechos,\r\nMyzelhöhle,\r\nHimmelsterrasse, Vergessener Brunnen\r\noder Geheimes Versuchslabor. Untersuche dort\r\ndie hinterste Schatztruhe."
+    },
+    {
+      "key": "q60200009_00_1985",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "指定されたダンジョンのうち1か所で、最奥の宝箱を調べる",
+      "source_en": "Examine the innermost treasure chest in one designated dungeon",
+      "text": "Untersuche die hinterste Schatztruhe in einem der genannten Verliese."
+    },
+    {
+      "key": "q60200009_00_1986",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アイザックに報告する",
+      "source_en": "Report to Isaac",
+      "text": "Erstatte Isaac Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

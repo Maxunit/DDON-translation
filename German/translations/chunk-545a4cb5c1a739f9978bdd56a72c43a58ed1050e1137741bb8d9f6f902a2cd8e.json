@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000091_00.gmd",
+  "arc_path": "\\quest\\q21000091.arc",
+  "entries": [
+    {
+      "key": "q21000091_00_410",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【昌石の扉】立入厳禁！",
+      "source_en": "[Door of Gemstones] Absolutely No Entry!",
+      "text": "[Edelsteintür] Betreten verboten!"
+    },
+    {
+      "key": "q21000091_00_410",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【危険区域クエスト】\r\nダンジョン内の危険区域へ繋がる扉の鍵を作り\r\n凶悪な魔物を討伐する",
+      "source_en": "[Dangerous Area Quest]\r\nMake a key to the door leading to the Dangerous \r\nArea in the dungeon and defeat Brutal monsters.",
+      "text": "[Gefahrenzone]\r\nFertige einen Schlüssel für die Tür zur Gefahrenzone\r\nim Verlies an und besiege die gefährlichen Monster."
+    },
+    {
+      "key": "q21000091_00_410",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のダンジョン内部は、特別な\r\n鍵を持った者だけが入れる場所があるらしい",
+      "source_en": "Within the <NAME AREA> dungeon, \r\nthere is a place that only those who possess\r\na special key can enter.",
+      "text": "In einem Verlies bei <NAME AREA>\r\ngibt es offenbar einen Bereich,\r\nden du nur mit einem besonderen Schlüssel betreten kannst."
+    },
+    {
+      "key": "q21000091_00_410",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "数日前に調査という名目であそこに行ったんだが――\r\n人を寄せ付けない邪悪な力に包み込まれいてた\r\nその時点で調査団は引き返してきたが――\r\n恐らく、とんでもない魔物が潜んでいることだろう\r\n住民は決して近づかないこと",
+      "source_en": "Several days ago, I visited that place under the pretext of an investigation― \r\nbut it was surrounded by a malevolent force that repelled people. \r\nAt that moment, the research team decided to turn back― \r\nthere's probably a dreadful monster hiding there. \r\nThe locals should never go near it.",
+      "text": "Vor ein paar Tagen war ich dort, angeblich zur Erkundung.\r\nAber eine finstere Kraft hielt alle auf Abstand.\r\nDa ist der Trupp umgekehrt.\r\nDort lauert bestimmt ein furchtbares Monster.\r\nDie Bewohner sollten sich unbedingt fernhalten."
+    },
+    {
+      "key": "q21000091_00_1170",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した凶悪な魔物を討伐する",
+      "source_en": "Defeat the encountered monstrosities",
+      "text": "Besiege die gefährlichen Monster, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

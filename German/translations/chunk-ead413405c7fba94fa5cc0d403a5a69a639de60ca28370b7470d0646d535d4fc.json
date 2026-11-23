@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60213001_00.gmd",
+  "arc_path": "\\quest\\q60213001.arc",
+  "entries": [
+    {
+      "key": "q60213001_00_129",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島　試練：狂乱の異形",
+      "source_en": "BI Trial: A Frenzied Abomination",
+      "text": "Blutfluchinsel – Prüfung: Die rasende Missgestalt"
+    },
+    {
+      "key": "q60213001_00_129",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島の問題解決のため\r\n翼風高原へ向かい\r\n侵食ゴアサイクロプスを討伐する",
+      "source_en": "In order to solve the problem of Bloodbane Isle, \r\nhead to the Galewing Plateau\r\nand defeat the Infected Gorecyclops",
+      "text": "Geh der Sache auf der Blutfluchinsel nach.\r\nReise zum Windschwingen-Plateau\r\nund besiege den befallenen Gorezyklopen."
+    },
+    {
+      "key": "q60213001_00_1939",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "調査隊駐屯地のベルトランに報告する",
+      "source_en": "Report to Bertrand in the Expedition Garrison",
+      "text": "Erstatte Bertrand im Expeditionslager Bericht."
+    },
+    {
+      "key": "q60213001_00_1940",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "翼風高原で侵食ゴアサイクロプスを発見する",
+      "source_en": "Discover Infected Gorecyclops at Galewing Plateau",
+      "text": "Finde den befallenen Gorezyklopen auf dem Windschwingen-Plateau."
+    },
+    {
+      "key": "q60213001_00_1941",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "発見した魔物を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

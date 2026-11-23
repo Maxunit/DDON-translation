@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q21015005.gmd",
+  "arc_path": "\\quest\\q21015005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "《曇天》のため《カルスト台地》の《カルスト草》の採取量が増加しました",
+      "source_en": "Due to [Cloudy Weather], \r\n[Karst Grass] yield in \r\n[Karst Plateau] has increased.",
+      "text": "Zwischen 11 und 15 Uhr\r\ngibt es auf der Farana-Ebene\r\nmehr Sammelstellen für Farana-Minze."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《曇天》が終了したため《カルスト台地》の《カルスト草》の採取量が通常に戻りました",
+      "source_en": "[Cloudy Weather] ended. \r\n[Karst Grass] yield \r\nhas returned to normal.",
+      "text": "Das Zeitfenster von 11 bis 15 Uhr ist vorbei.\r\nAuf der Farana-Ebene gibt es wieder\r\ndie übliche Zahl an Sammelstellen für Farana-Minze."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

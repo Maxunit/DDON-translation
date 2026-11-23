@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000051_00.gmd",
+  "arc_path": "\\quest\\q60000051.arc",
+  "entries": [
+    {
+      "key": "q60000051_00_38",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "求道の師を訪ねて　プリースト",
+      "source_en": "Seeking the Master: Priest",
+      "text": "Auf der Suche nach dem Klassenmeister – Priester"
+    },
+    {
+      "key": "q60000051_00_38",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョブマスター・カミュに\r\nプリースト求道試練の許可をもらいに行く",
+      "source_en": "Visit Job Master Camus to request \r\napproval for the Priest's trial",
+      "text": "Such Klassenmeister Camus auf\r\nund bitte ihn, dich zur Priesterprüfung zuzulassen."
+    },
+    {
+      "key": "q60000051_00_1218",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ポーン郷のカミュを訪ねる",
+      "source_en": "Visit Camus in the Pawn Cathedral",
+      "text": "Such Camus in der Vasallenkathedrale auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

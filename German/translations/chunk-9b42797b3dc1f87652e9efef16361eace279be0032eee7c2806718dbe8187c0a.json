@@ -1,0 +1,160 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q21014005.gmd",
+  "arc_path": "\\quest\\q21014005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "<AREA 14>フィールドの《<ITEM 15947>》を採取できる採取ポイントの数が増えました\r\n＜22時から2時＞の間にたくさん採取し、納品しましょう",
+      "source_en": "",
+      "text": "In „<AREA 14>“ gibt es mehr Sammelstellen für „<ITEM 15947>“.\r\nSammle zwischen 22 und 2 Uhr so viel du kannst und liefere es ab."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "＜22時から2時＞の時間が終了したため、<AREA 14>フィールドの《<ITEM 15947>》の採取ポイント数が通常に戻りました\r\n納品し、クエストを終了しましょう",
+      "source_en": "",
+      "text": "Es ist nicht mehr zwischen 22 und 2 Uhr. In „<AREA 14>“ gibt es wieder die übliche Zahl an Sammelstellen für „<ITEM 15947>“.\r\nLiefere das Gesammelte ab, um die Quest abzuschließen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "こんにちは、異国の覚者さま\r\nエラン水林をこれから復興していくという\r\nこの時期に、覚者さまのような方に\r\n足を運んでいただけること、嬉しく思います",
+      "source_en": "",
+      "text": "Willkommen, Erweckter aus der Ferne.\r\nWir fangen gerade an,\r\nden Elan-Auenwald wieder aufzubauen.\r\nIch freue mich, dass du uns gerade jetzt besuchst."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "旅の方に伺ったのですが――\r\nなんでも、白竜の覚者さまは竜のためだけでなく\r\n人々のために動くことも多いとか――",
+      "source_en": "",
+      "text": "Ein Reisender hat mir erzählt,\r\ndass die Erweckten des Weißen Drachen\r\nsich ebenso für die Menschen einsetzen wie für ihren Drachen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "ならば、という訳ではありませんが\r\nひとつ――お願いを聞いていただけませんか？\r\nうまくいけば、《<ITEM 15947>》という\r\n覚者さまにも有益な素材が多く手に入るはずです",
+      "source_en": "",
+      "text": "Ich möchte das nicht ausnutzen,\r\naber dürfte ich dich um etwas bitten?\r\nWenn alles gutgeht, kannst du viel „<ITEM 15947>“ sammeln.\r\nDas ist ein Material, das auch du gut gebrauchen kannst."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "ご興味がおありのようですね――\r\nでは、エラン水林に深い夜が訪れる時間である\r\n＜22時から2時＞の間に\r\nこの庵へお仲間を集め、再度お声掛けください",
+      "source_en": "",
+      "text": "Du möchtest mehr darüber wissen?\r\nDann komm zwischen 22 und 2 Uhr,\r\nwenn im Elan-Auenwald tiefe Nacht herrscht,\r\nmit deiner Gruppe hierher und sprich mich wieder an."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "その際改めて\r\n詳しくお話させていただきます",
+      "source_en": "",
+      "text": "Dann kann ich dir\r\nalles in Ruhe erklären."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "もし、ご興味があるようでしたら――\r\nエラン水林に深い夜が訪れる時間である\r\n＜22時から2時＞の間に\r\nお仲間を集めてもう一度お声掛けください",
+      "source_en": "",
+      "text": "Falls du mehr darüber wissen möchtest,\r\nkomm in der tiefen Nacht,\r\nzwischen 22 und 2 Uhr,\r\nmit deiner Gruppe wieder zu mir."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "うまくいけば、《<ITEM 15947>》という\r\n覚者さまにも有益な素材が多く手に入るはず\r\n――どうか、よろしくお願いいたします",
+      "source_en": "",
+      "text": "Wenn alles gutgeht, findest du viel „<ITEM 15947>“.\r\nDas Material kannst du bestimmt auch selbst gut gebrauchen.\r\nIch zähle auf dich."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "まぁ、時間通りに来て下さったのですね\r\nありがとうございます――\r\nそれでは、私もお話させていただきましょう",
+      "source_en": "",
+      "text": "Du bist genau zur richtigen Zeit da!\r\nDanke, dass du gekommen bist.\r\nJetzt kann ich dir alles erzählen."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "《<ITEM 15947>》は汎用的な用途があり、\r\n夜分遅くに成長が早まる植物です\r\nそのため＜22時から2時＞の頃に水林へ行けば\r\n普段よりも多くの地点から採取が出来るはず",
+      "source_en": "",
+      "text": "„<ITEM 15947>“ lässt sich vielseitig verwenden.\r\nDie Pflanze wächst tief in der Nacht schneller.\r\nWenn du zwischen 22 und 2 Uhr in den Auenwald gehst,\r\nsolltest du sie an mehr Stellen als sonst finden."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "また――復興の妨げになることも多い植物でして\r\n覚者さまにたくさん採取いただけると\r\n我々も非常にありがたいのです",
+      "source_en": "",
+      "text": "Die Pflanze steht uns beim Wiederaufbau oft im Weg.\r\nWenn du viel davon sammelst,\r\nwäre uns also sehr geholfen."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "あぁ、もちろん悪戯に絶やすつもりはありません\r\n資材として生かしたいので――多く取れた際は\r\n＜5＞つほど、納品していただけますか？\r\n残りは覚者さまがお持ちいただいて構いません",
+      "source_en": "",
+      "text": "Wir wollen sie natürlich nicht ausrotten.\r\nWir würden sie gern als Rohstoff nutzen. Wenn du viel findest,\r\nkönntest du uns fünf Stück davon abgeben?\r\nDen Rest kannst du behalten."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_jp",
+      "source_jp": "＜22時から2時＞を過ぎてしまうと\r\n採取できる数は通常通りに戻ってしまいますので\r\nご注意くださいね\r\nそれでは――よろしくお願いいたします",
+      "source_en": "",
+      "text": "Nach 2 Uhr findest du die Pflanze\r\nwieder nur an den gewohnten Stellen.\r\nDenk daran, wenn du losziehst.\r\nVielen Dank für deine Hilfe."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_jp",
+      "source_jp": "《<ITEM 15947>》の大量採取について\r\nもう一度ご説明いたしましょうか？",
+      "source_en": "",
+      "text": "Möchtest du mehr über „<ITEM 15947>“ erfahren?\r\nIch kann dir noch einmal erklären, wie du mehr davon sammelst."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_jp",
+      "source_jp": "《<ITEM 15947>》は深夜の＜22時から2時＞頃\r\n普段よりも多くの地点から採取できます\r\nその時を過ぎると、元に戻ってしまいますので\r\nお気を付け下さいませ",
+      "source_en": "",
+      "text": "„<ITEM 15947>“ findest du in tiefer Nacht zwischen 22 und 2 Uhr\r\nan mehr Stellen als gewöhnlich.\r\nDanach sind die zusätzlichen Sammelstellen wieder weg.\r\nDenk daran, bevor du losziehst."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_jp",
+      "source_jp": "もしたくさん採取できましたら\r\n＜5＞つほど分けていただくようお願いいたします",
+      "source_en": "",
+      "text": "Wenn du viel davon findest,\r\ngib uns bitte fünf Stück ab."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_jp",
+      "source_jp": "まぁ、すばらしい――\r\n魔物も多かったのではありませんか？\r\nこれだけの採取は大変だったでしょう――\r\n本当にありがとうございます",
+      "source_en": "",
+      "text": "Wunderbar …\r\nHaben dir die Monster keine Schwierigkeiten bereitet?\r\nSo viel zusammenzubekommen war sicher anstrengend.\r\nVielen Dank."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_jp",
+      "source_jp": "もし、また夜の深まる時間帯に\r\n森へ採取へ行くことがあれば\r\n是非とも私にお声掛けくださいね",
+      "source_en": "",
+      "text": "Wenn du wieder einmal spät in der Nacht\r\nzum Sammeln in den Wald gehst,\r\nsprich mich ruhig vorher an."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

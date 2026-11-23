@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200050_00.gmd",
+  "arc_path": "\\quest\\q60200050.arc",
+  "entries": [
+    {
+      "key": "q60200050_00_172",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "霊槍の証　スピリットランサー戦術試練",
+      "source_en": "Spirit Lancer Tactics Trial: A Spirit Lance",
+      "text": "Zeichen der Geisterlanze – Taktikprüfung"
+    },
+    {
+      "key": "q60200050_00_172",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "スピリットランサーの基本戦術を学ぶため\r\n修練の祠にて試練に挑む",
+      "source_en": "In order to learn the basic tactics of Spirit\r\nLancer,\r\nchallenge the trial of the Training Chapel",
+      "text": "Lerne im Übungsschrein,\r\nwie ein Geisterlancier kämpft,\r\nund absolviere die Prüfung."
+    },
+    {
+      "key": "q60200050_00_2426",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "修練の祠内のウィルソンと話す",
+      "source_en": "Speak with Wilson in the Training Chapel",
+      "text": "Sprich mit Wilson im Übungsschrein."
+    },
+    {
+      "key": "q60200050_00_2427",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "スラストで敵を攻撃せよ",
+      "source_en": "Attack an enemy with Thrust",
+      "text": "Greif einen Gegner mit „Stichfolge“ an."
+    },
+    {
+      "key": "q60200050_00_2428",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "エイドを発動せよ",
+      "source_en": "Activate Aid",
+      "text": "Erzeuge ein Heilfeld."
+    },
+    {
+      "key": "q60200050_00_2429",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "スカー・ムーヴで敵の攻撃を回避せよ",
+      "source_en": "Avoid an enemy attack with Scáth Move",
+      "text": "Weiche einem Angriff mit „Schattenschritt“ aus."
+    },
+    {
+      "key": "q60200050_00_2430",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "スピリットゲージをためてブースト発動せよ",
+      "source_en": "Activate boost with Spirit Gauge",
+      "text": "Fülle die Geisterkraftleiste und aktiviere eine Verstärkung."
+    },
+    {
+      "key": "q60200050_00_2432",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "最奥の敵にしがみつきイラー・スラストで攻撃せよ",
+      "source_en": "Cling to the enemy in the inner sanctum and attack using Iolar Thrust",
+      "text": "Halte dich am Gegner tief im Schrein fest und greif mit dem Iolar-Stich an."
+    },
+    {
+      "key": "q60200050_00_2433",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "エイドでシークレットコアを発見せよ",
+      "source_en": "Reveal the Secret Core with Aid",
+      "text": "Mach den verborgenen Kern mit einem Heilfeld sichtbar."
+    },
+    {
+      "key": "q60200050_00_2434",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "サイクロプスを倒せ",
+      "source_en": "Defeat the Cyclops",
+      "text": "Besiege den Zyklopen."
+    },
+    {
+      "key": "q60200050_00_2435",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "最奥にある＜霊槍の証＞を入手する",
+      "source_en": "Collect the proof of completing the trial",
+      "text": "Hol das Zeichen der Geisterlanze am Ende des Schreins ab."
+    },
+    {
+      "key": "q60200050_00_2436",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿のレンテンに経緯を報告する",
+      "source_en": "Report back to Renton in the White Dragon Temple",
+      "text": "Erstatte Renton im Tempel des Weißen Drachen Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

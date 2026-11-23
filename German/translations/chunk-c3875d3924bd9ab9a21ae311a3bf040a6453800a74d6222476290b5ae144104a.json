@@ -1,0 +1,208 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60200101.gmd",
+  "arc_path": "\\quest\\q60200101.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "白竜からの力を受け取った\r\n今回も、私がお前を見極めてやろう\r\nこの戦技を扱えるか否かを――",
+      "source_en": "I have received power from the White Dragon.\r\nThis time as well, I shall test your worthiness—\r\nwhether you can wield this combat art or not.",
+      "text": "Der Weiße Drache hat mir Kraft verliehen.\r\nAuch diesmal prüfe ich,\r\nob du diese Kampftechnik beherrschst."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "前回同様、試練の場を用意する\r\nそこで落ち合おう",
+      "source_en": "As before, I shall prepare the trial grounds.\r\nLet us meet there.",
+      "text": "Ich bereite wieder den Ort für deine Prüfung vor.\r\nDort treffen wir uns."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "試練の場を用意した\r\nそこで落ち合おう\r\n――どうした、行かないのか？",
+      "source_en": "I have prepared the trial grounds.\r\nLet us meet there.\r\n—What's wrong? Not going?",
+      "text": "Alles ist für deine Prüfung vorbereitet.\r\nWir treffen uns dort.\r\nWas ist? Willst du nicht los?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "よし、来たな！\r\n今回も私が共に戦い、その中で\r\n直に手ほどきしてやろう\r\n――行くぞ！",
+      "source_en": "Good, you've come!\r\nThis time, I will fight alongside you and\r\ndirectly instruct you in the midst of battle.\r\n—Let's go!",
+      "text": "Gut, du bist da!\r\nIch kämpfe wieder an deiner Seite\r\nund zeige dir dabei, worauf es ankommt.\r\nLos geht’s!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "さぁ、お前の器を見せてもらおうか\r\n様々な技を駆使し、敵をかく乱してやれ",
+      "source_en": "Now, show me your potential!\r\nMake use of your skills, and bewilder your foes!",
+      "text": "Zeig mir, was in dir steckt!\r\nSetze deine Techniken ein und bring die Gegner aus dem Takt!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "いたぞ、あそこだ\r\nあの敵が最初の試練だ",
+      "source_en": "There it is, over there.\r\nThat enemy is the first trial.",
+      "text": "Da vorn ist er.\r\nDieser Gegner ist die erste Prüfung."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "いいぞ、次は第二の試練の場所へ向かうぞ",
+      "source_en": "Good, now let's head to the second trial.",
+      "text": "Gut. Jetzt gehen wir zur zweiten Prüfung."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "気付いたな？\r\n第二の試練だ",
+      "source_en": "You noticed, didn't you?\r\nThis is the second trial.",
+      "text": "Du hast es bemerkt, oder?\r\nDas ist die zweite Prüfung."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "よし、最後の試練へ向かうぞ！",
+      "source_en": "Alright, let's head to the final trial!",
+      "text": "Gut, auf zur letzten Prüfung!"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "いよいよ最後の試練だ\r\n心してかかれ！",
+      "source_en": "At last, the final trial.\r\nFace it with resolve!",
+      "text": "Jetzt kommt die letzte Prüfung.\r\nKonzentrier dich!"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "日々の研鑽ぶりが伝わってくる戦いぶりだった！\r\nいいだろう、一度グリッテン砦に戻り\r\nそこで正式に戦技を継承するとしよう",
+      "source_en": "Your fighting style reflects daily refinement!\r\nVery well, return to Fort Gritten, and there, \r\nI will formally pass down the combat art.",
+      "text": "Man sieht an deiner Kampfweise, dass du jeden Tag übst.\r\nGut. Kehren wir zur Festung Gritten zurück.\r\nDort bringe ich dir die Technik offiziell bei."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "予想以上に強くなっているようだな\r\n日々の研鑽が伝わってくる戦いぶりだった――",
+      "source_en": "You've grown stronger than I expected.\r\nYour fighting style reflects daily refinement—",
+      "text": "Du bist stärker geworden, als ich erwartet hatte.\r\nMan hat im Kampf gemerkt, wie viel du geübt hast …"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "では、一度グリッテン砦へ戻り\r\nそこで戦技を正式に継承しよう",
+      "source_en": "Then, return to Fort Gritten,\r\nand there, \r\nI will formally pass down the combat art.",
+      "text": "Kehren wir zur Festung Gritten zurück.\r\nDort bringe ich dir\r\ndie Technik offiziell bei."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "この戦技はお前自身が戦いの中で\r\nつかみ取った新たな力だ",
+      "source_en": "This skill is a new power you yourself\r\nhave seized in the midst of battle.",
+      "text": "Diese Technik hast du dir\r\nim Kampf selbst erarbeitet."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "今後も技を磨き、最高の剣士となった姿を\r\n私に見せてみろ\r\nお前にならきっと可能だろう\r\n――楽しみにしている",
+      "source_en": "Continue to refine your techniques, and\r\nshow me your form as a top swordsman.\r\nI'm sure you are capable. I look forward to it.",
+      "text": "Übe weiter. Eines Tages will ich sehen, dass du zu den besten Schwertkämpfern gehörst.\r\nIch weiß, dass du es kannst.\r\nDarauf freue ich mich."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "前線で戦う者は不屈の闘志を常に持つことだ",
+      "source_en": "Those who fight on the front lines must \r\nalways possess unyielding fortitude.",
+      "text": "Wer an vorderster Front kämpft,\r\ndarf nie aufgeben."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "スキルの特性を理解することを怠るな",
+      "source_en": "Do not neglect to understand \r\nthe traits of your skills.",
+      "text": "Lerne genau,\r\nwas deine Techniken können."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "防御と攻撃、どちらを行うべきか見極めろ",
+      "source_en": "Determine whether to defend or attack.",
+      "text": "Entscheide, wann du angreifst und wann du dich verteidigst."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "攻撃を受ける瞬間にガードすることを忘れるな",
+      "source_en": "Do not forget to guard \r\nthe moment you are attacked.",
+      "text": "Denk daran, im richtigen Moment zu blocken,\r\nbevor der gegnerische Angriff dich trifft."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "目的に合わせ、スキルだけでなくアビリティも考慮しろ",
+      "source_en": "Consider not only skills but also \r\naugments to suit the purpose.",
+      "text": "Wähle sowohl deine Techniken\r\nals auch deine Begabungen passend zur Aufgabe."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "ここをお前が守る前線と思え！",
+      "source_en": "Consider this your frontline to defend!",
+      "text": "Stell dir vor, das hier ist die Front, die du halten musst!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "集中的に攻撃する頃合いというものがある",
+      "source_en": "Timing is key for focused attacks.",
+      "text": "Warte auf den richtigen Moment für eine Reihe schneller Angriffe."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "敵との間合いをよく考えろ",
+      "source_en": "Consider well the distance \r\nbetween you and the enemy.",
+      "text": "Achte gut auf den Abstand\r\nzwischen dir und dem Gegner."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "敵がダウンしたら見逃すな",
+      "source_en": "When they're down, press the attack.",
+      "text": "Wenn der Gegner zu Boden geht, setz nach."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "敵の動きを見極め、ガードするタイミングを把握しろ！",
+      "source_en": "Read the enemy's movements and grasp\r\nthe timing to guard!",
+      "text": "Beobachte seine Bewegungen\r\nund finde den richtigen Moment zum Blocken!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

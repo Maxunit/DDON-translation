@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200020_00.gmd",
+  "arc_path": "\\quest\\q60200020.arc",
+  "entries": [
+    {
+      "key": "q60200020_00_207",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "贈り物に願いをこめて＜上＞",
+      "source_en": "With Great Desire to Gift (Upper)",
+      "text": "Ein Geschenk von Herzen 1"
+    },
+    {
+      "key": "q60200020_00_207",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "マルコの依頼を叶える",
+      "source_en": "Grant Marco's request",
+      "text": "Erfülle Marcos Bitte."
+    },
+    {
+      "key": "q60200020_00_2745",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "酒場のナンシーにおすすめの美酒を訪ねる",
+      "source_en": "Find out what drink Nancy at the Tavern recommends",
+      "text": "Frag Nancy in der Taverne, welchen Wein sie empfiehlt."
+    },
+    {
+      "key": "q60200020_00_2746",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "マルコに「レスタニアワイン」とチャットで教える",
+      "source_en": "Use the chat to say \"Lestania Wine\" to Marco",
+      "text": "Gib „Lestania Wine“ im Chat ein, um Marco die Empfehlung zu nennen."
+    },
+    {
+      "key": "q60200020_00_2747",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "マルコから話を聞く",
+      "source_en": "Listen to Marco",
+      "text": "Sprich mit Marco."
+    },
+    {
+      "key": "q60200020_00_2748",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜レスタニアワイン＞を入手する",
+      "source_en": "Obtain \"Lestania Wine\"",
+      "text": "Besorge Lestania-Wein."
+    },
+    {
+      "key": "q60200020_00_2749",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "3人と一緒に記念撮影をする",
+      "source_en": "Take a commemorative photo with three people",
+      "text": "Mach ein Erinnerungsfoto mit den dreien."
+    },
+    {
+      "key": "q60200020_00_2750",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ニコラスと話をする",
+      "source_en": "Speak to Nicholas",
+      "text": "Sprich mit Nicholas."
+    },
+    {
+      "key": "q60200020_00_2755",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアワインをマルコに見せる",
+      "source_en": "Show the Lestania Wine to Marco",
+      "text": "Zeig Marco den Lestania-Wein."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

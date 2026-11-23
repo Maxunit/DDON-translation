@@ -1,0 +1,184 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60200012.gmd",
+  "arc_path": "\\quest\\q60200012.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "例の島に出現した魔物の調査を手伝っているが\r\nかなりの強敵らしい\r\nまぁ、簡単に倒すことはできないだろうな――",
+      "source_en": "Helping investigate monsters\r\non that island, huh? They say\r\nthey're tough. Well, you won't\r\nbring them down easy—",
+      "text": "Du hilfst also dabei, die Monster\r\nauf der Insel zu untersuchen?\r\nSie sollen ziemlich stark sein.\r\nLeicht werden sie sich nicht besiegen lassen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "手始めに、こちらも強敵に対抗するための\r\n強い武器を作らねばならないようだ",
+      "source_en": "First, we'll need to forge powerful weapons to\r\nstand a chance against such a strong enemy.",
+      "text": "Wir müssen erst einmal bessere Waffen schmieden.\r\nSonst haben wir gegen so einen Gegner keine Chance."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "準備はいいか？\r\nまず手始めに、最近各地で発見されている\r\n新たなダンジョンの調査をしてもらいたい",
+      "source_en": "Ready? First, I want you to investigate\r\nthe newly discovered dungeons that have been\r\nappearing in various regions lately.",
+      "text": "Bist du bereit?\r\nAls Erstes sollst du die neuen Verliese erkunden,\r\ndie man in letzter Zeit in verschiedenen Gegenden entdeckt hat."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "これまでの任務で\r\nもしかしたらすでに見つけているかもな",
+      "source_en": "You might have already found some of them\r\nduring previous missions.",
+      "text": "Vielleicht bist du bei deinen bisherigen Aufträgen\r\nschon auf das eine oder andere gestoßen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ここから最も近い調査地に\r\n《アーク　裏層》という場所がある\r\nそこへ行くための詳細はテル村のアルフレドから聞け",
+      "source_en": "The closest investigation site from here\r\nis a place called The Ark's Lower Level.\r\nFor details on how to go there, \r\nask Alfred in Tel Village.",
+      "text": "Hier in der Nähe gibt es einen solchen Ort.\r\nDie Untere Ebene der Arche.\r\nWie du dorthin kommst,\r\nerfährst du von Alfred in Tel."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "そして、《アーク　裏層》へ行ったら\r\nそこの最奥にある宝箱を調査してくるんだ\r\nわかったな",
+      "source_en": "Once you reach The Ark's Lower Level, \r\ninvestigate the deepest treasure chest.\r\nUnderstood?",
+      "text": "Wenn du die Untere Ebene der Arche erreicht hast,\r\nuntersuche die hinterste Schatztruhe.\r\nVerstanden?"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "いいか、目的は《アーク　裏層》へ行って\r\nそこの最奥にある宝箱を調査する――\r\nそれだけだ、簡単だろう",
+      "source_en": "Go to The Ark's Lower Level.\r\nFind the treasure chest in the very back.\r\nSimple task.",
+      "text": "Geh auf die Untere Ebene der Arche\r\nund untersuche dort die hinterste Schatztruhe.\r\nMehr ist es nicht."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "アークの裏層へ行く方法を確認するためには\r\nまずテル村のアルフレドを訪ねるといいだろう",
+      "source_en": "To learn how to reach the lower levels of The Ark,\r\nyou should first visit Alfred in Tel Village.",
+      "text": "Wie du die Untere Ebene der Arche erreichst,\r\nerfährst du von Alfred in Tel."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ふむ、《アーク　裏層》か――\r\n成程、確かにこのエリアで\r\n新たに発見されたダンジョンだ",
+      "source_en": "Hmm, The Ark's Lower Level...\r\nIndeed, it's a newly discovered dungeon\r\nin this area.",
+      "text": "Hm, die Untere Ebene der Arche …\r\nIn der Tat, wir haben in diesem Gebiet\r\nvor Kurzem ein weiteres Verlies entdeckt."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "以前、貴君に調査してきてもらった\r\n《アーク》の裏側に見つかった新たな入口を\r\nそう呼んでいるな",
+      "source_en": "After your last investigation at The Ark,\r\nwe found a new, lower entrance on its back side.\r\nThat's why we call it that.",
+      "text": "Nachdem Ihr die Arche untersucht hattet,\r\nhaben wir auf ihrer Rückseite einen neuen, tiefer gelegenen Eingang entdeckt.\r\nDaher kommt der Name."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "だが、何らかの罠という可能性もある場所だ――\r\nよって、一定の実力を持った覚者にのみ\r\n封鎖を解放することにしているのだ",
+      "source_en": "But it might be a trap― \r\nSo, we're only releasing the blockade \r\nfor Arisen with sufficient strength.",
+      "text": "Es könnte aber eine Falle sein.\r\nDarum heben wir die Sperre nur für Erweckte auf,\r\ndie sich ausreichend bewährt haben."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "もし、貴君のハイデル平原への貢献度が\r\nランク13以下であれば、まずはこのエリアでの\r\n働きで、その力を証明してみて欲しい",
+      "source_en": "If your contribution rank in \r\nthe Hidell Plains is below 13, \r\nprove your worth by working in this area first.",
+      "text": "Falls Ihr in der Hidell-Ebene\r\nnoch unter Gebietsrang 13 seid,\r\nbeweist Euch bitte zuerst mit weiteren Aufträgen in diesem Gebiet."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "ランク13以上であれば\r\nすでに封鎖は解かれているはずだ\r\nわたしに遠慮することなく\r\nいつでも内部を調査してくれて構わない",
+      "source_en": "If you're rank 13 or higher,\r\nthe blockade should be lifted already.\r\nDon't hesitate on my account -\r\nfeel free to investigate inside anytime.",
+      "text": "Ab Gebietsrang 13\r\nsollte die Sperre bereits aufgehoben sein.\r\nIhr müsst mich nicht noch einmal um Erlaubnis bitten.\r\nIhr könnt das Innere jederzeit erkunden."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "《アーク　裏層》は\r\nこのハイデル平原への貢献度がランク１３以上の\r\n実力を持つ覚者にのみ解放しているのだ",
+      "source_en": "The Ark's Lower Level is unlocked only\r\nfor the Arisen who possess the skill to\r\nachieve Rank 13 or higher in contributing\r\nto the Hidell Plains.",
+      "text": "Die Untere Ebene der Arche\r\ngeben wir nur für Erweckte frei,\r\ndie sich in der Hidell-Ebene bewährt und\r\nmindestens Gebietsrang 13 erreicht haben."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "解放を果たしたら、地図で場所を\r\n確認して向かうといい\r\n何らかの罠である可能性もある得体の知れない場所だ\r\n十分に注意して向かってくれ",
+      "source_en": "Once it's unlocked, check the map\r\nand head to the location.\r\nIt's an unknown place that might\r\nhave traps. Proceed carefully.",
+      "text": "Sobald der Zugang offen ist,\r\nseht auf der Karte nach und begebt Euch dorthin.\r\nWir wissen kaum etwas über den Ort. Es könnte Fallen geben.\r\nSeid also vorsichtig."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "ほう、《アーク　裏層》へは無事に行けたのか\r\nなるほど――\r\nでは、次は最奥の宝箱を目指すんだ",
+      "source_en": "Hah! You got to The Ark's Lower Level?\r\nGood...\r\nNow head for the innermost treasure chest.",
+      "text": "Ah, du hast es auf die Untere Ebene der Arche geschafft?\r\nGut.\r\nDann such jetzt die hinterste Schatztruhe."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "宝箱の調査が終わったら\r\nまた俺に声をかけてくれ",
+      "source_en": "Once you finish investigating the chest,\r\ncome back and speak to me again.",
+      "text": "Wenn du die Truhe untersucht hast,\r\nkomm wieder zu mir."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "最奥の宝箱まで辿り着いたのか\r\nお前、探検家の才能もあるんじゃないか？\r\n覚者としてやっていく自信がなくなったら\r\n各地を旅して回るといい",
+      "source_en": "Made it to the innermost chest?\r\nPerhaps you're a born explorer.\r\nIf being Arisen gets tough,\r\nconsider becoming a traveler.",
+      "text": "Du hast es bis zur hintersten Schatztruhe geschafft?\r\nIn dir steckt wohl ein echter Entdecker.\r\nFalls es dir als Erweckter mal zu viel wird,\r\nkannst du immer noch als Reisender dein Glück versuchen."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "冗談はおいておくとして\r\n今後の任務を伝えておこう\r\n――簡単に言うと、この調子で\r\n他のダンジョンの宝箱も調査しろってことだ",
+      "source_en": "Jokes aside, let me brief you\r\non your next mission.\r\nIn short: continue like this\r\nand search more dungeon chests.",
+      "text": "Spaß beiseite.\r\nDein nächster Auftrag ist ganz einfach.\r\nMach so weiter\r\nund untersuche weitere Schatztruhen in anderen Verliesen."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "そうやって集めた素材で武器を強化すれば\r\n例の強敵とも互角に戦えるかもしれないってな\r\n神殿の爺さんが考えそうな地道な策だろ――",
+      "source_en": "If you strengthen your weapons with the materials\r\ngathered, you might stand a \r\nchance against that foe. \r\nA fitting plan for the old man at the temple...",
+      "text": "Verstärke deine Waffen mit den Rohstoffen, die du dabei sammelst.\r\nDann kannst du es vielleicht\r\nmit dem starken Gegner aufnehmen.\r\nSo einen bodenständigen Plan kann sich nur der Alte im Tempel ausdenken …"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "今回俺が紹介した《アーク　裏層》以外にも\r\n各地のエリアランクを上げることで\r\n解放されるダンジョンは多い\r\nエリア情報のチェックも怠るなよ",
+      "source_en": "Raising area ranks unlocks many\r\ndungeons beyond The Ark's Lower Level. \r\nAlways stay updated on Area Information.",
+      "text": "Die Untere Ebene der Arche ist nur ein Beispiel.\r\nViele weitere Verliese öffnen sich, wenn du deinen Gebietsrang erhöhst.\r\nSchau regelmäßig in der „Gebietsinformation“ nach."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "次回はさらに難易度の高いダンジョンの\r\n調査依頼が来るだろう\r\nくれぐれも準備をしっかりとして\r\n時が来たと思えばまた俺に話しかけてくれ",
+      "source_en": "Next time, you'll likely receive a request to\r\ninvestigate an even more difficult dungeon.\r\nMake absolutely sure you're prepared, and\r\nwhen the time comes, talk to me again.",
+      "text": "Beim nächsten Mal sollst du wohl\r\nein noch gefährlicheres Verlies erkunden.\r\nBereite dich also gründlich vor.\r\nWenn du meinst, dass es so weit ist, komm wieder zu mir."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

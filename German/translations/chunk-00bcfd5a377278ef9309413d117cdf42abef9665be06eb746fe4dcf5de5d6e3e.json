@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21014020_00.gmd",
+  "arc_path": "\\quest\\q21014020.arc",
+  "entries": [
+    {
+      "key": "q21014020_00_607",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "蔦覆い隠す呼び声",
+      "source_en": "A Call from Beneath the Ivy",
+      "text": "Ein Ruf unter dem Efeu"
+    },
+    {
+      "key": "q21014020_00_607",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【迅速救助クエスト】\r\n依頼者が求める人物を捜索し\r\n迅速に救助する",
+      "source_en": "[Swift Rescue Quest] Search for the\r\nperson the client is seeking and\r\nrescue them.",
+      "text": "[Rettungsquest] Finde die Person,\r\nnach der die Auftraggeberin sucht,\r\nund bring sie schnell in Sicherheit."
+    },
+    {
+      "key": "q21014020_00_607",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "何者かからの、迅速な救援を求める声が\r\n<NAME AREA>から届いているようだ",
+      "source_en": "It seems that a voice requesting swift\r\nassistance has come from\r\n<NAME AREA>.",
+      "text": "Offenbar braucht jemand\r\ndringend Hilfe bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21014020_00_607",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "エランに集まってくれた戦士たち同士が\r\nお互いに信頼関係を結ぶことで\r\nいざというとき、助け合える関係になるの！\r\nそうすることで命を落とす事も\r\n少なくなるはず――でしょ？",
+      "source_en": "As warriors come together in Elan,\r\ntrust between them will grow,\r\nallowing them to support each other when\r\nit matters most!\r\nThis should lead to fewer\r\nlosses—don't you think?",
+      "text": "Wenn die Krieger, die nach Elan gekommen sind,\r\neinander zu vertrauen lernen,\r\ndann können sie sich beistehen,\r\nwenn’s darauf ankommt!\r\nSo kommen hoffentlich\r\nweniger Leute ums Leben. Findest du nicht?"
+    },
+    {
+      "key": "q21014020_00_1169",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q21014020_00_1226",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の求める人物を捜索する",
+      "source_en": "Search for the person the client is seeking",
+      "text": "Finde die vermisste Person."
+    },
+    {
+      "key": "q21014020_00_1227",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "魔物を迅速に討伐し捜索対象を救助する",
+      "source_en": "Defeat the demon quickly and rescue your charge",
+      "text": "Besiege die Monster schnell und rette die vermisste Person."
+    },
+    {
+      "key": "q21014020_00_1228",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "捜索対象の安否を確認する",
+      "source_en": "Check the search target's well-being",
+      "text": "Sieh nach, wie es der vermissten Person geht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

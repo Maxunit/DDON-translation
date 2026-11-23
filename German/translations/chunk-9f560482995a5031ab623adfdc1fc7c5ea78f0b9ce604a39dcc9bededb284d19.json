@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q21016006.gmd",
+  "arc_path": "\\quest\\q21016006.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "《夕暮れ》のため《モロー樹林》の《侵食森木材２》の採取量が増加しました",
+      "source_en": "Due to [Twilight], \r\n[Corrupted Forest Wood 2] yield in \r\n[Morrow Woods] has increased.",
+      "text": "Bei klarem Himmel\r\ngibt es im Morrow-Wald\r\nmehr Sammelstellen für Weinraute."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《夕暮れ》が終了したため《モロー樹林》の《侵食森木材２》の採取量が通常に戻りました",
+      "source_en": "[Twilight] ended. \r\n[Corrupted Forest Wood2] yield has \r\nreturned to normal.",
+      "text": "Der Himmel ist nicht mehr klar.\r\nIm Morrow-Wald gibt es wieder\r\ndie übliche Zahl an Sammelstellen für Weinraute."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q21014005.gmd",
+  "arc_path": "\\quest\\q21014005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "《<AREA 14>》の《<SQDI NAME>》採取量が増加しました",
+      "source_en": "",
+      "text": "In „<AREA 14>“ lässt sich jetzt mehr „<SQDI NAME>“ sammeln."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "＜雨天＞が終了したため、《<AREA 14>》の《<SQDI NAME>》採取量が通常に戻りました",
+      "source_en": "",
+      "text": "Die tiefe Nacht ist vorbei. In „<AREA 14>“ lässt sich „<SQDI NAME>“ wieder in der üblichen Menge sammeln."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

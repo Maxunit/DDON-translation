@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200012_00.gmd",
+  "arc_path": "\\quest\\q60200012.arc",
+  "entries": [
+    {
+      "key": "q60200012_00_145",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "アークに眠りし宝",
+      "source_en": "The Treasure Sleeping in the Ark",
+      "text": "Der Schatz in der Arche"
+    },
+    {
+      "key": "q60200012_00_145",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "新たに見つかったダンジョンの調査",
+      "source_en": "Investigate newly discovered dungeons",
+      "text": "Erkunde neu entdeckte Verliese."
+    },
+    {
+      "key": "q60200012_00_1994",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "調査地についてテル村のアルフレドから話を聞く",
+      "source_en": "Hear what Alfred in Tel village has to say about the investigation area",
+      "text": "Frag Alfred in Tel nach dem Ort, den du erkunden sollst."
+    },
+    {
+      "key": "q60200012_00_1995",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アーク裏層を開放し、ダンジョン内へ入る",
+      "source_en": "Open the Lower Level of the Ark and enter the dungeon",
+      "text": "Schalte die Untere Ebene der Arche frei und betritt das Verlies."
+    },
+    {
+      "key": "q60200012_00_1996",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "最奥にある宝箱を調査する",
+      "source_en": "Investigate the treasure chest at the deepest part",
+      "text": "Untersuche die hinterste Schatztruhe."
+    },
+    {
+      "key": "q60200012_00_1997",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "アイザックに報告する",
+      "source_en": "Report to Isaac",
+      "text": "Erstatte Isaac Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

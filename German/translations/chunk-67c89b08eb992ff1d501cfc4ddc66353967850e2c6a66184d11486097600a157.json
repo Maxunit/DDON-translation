@@ -3,6 +3,22 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "ENEMY_NAME_240",
+      "read_index": "231",
+      "tag_source": "source_en",
+      "source_jp": "侵食ゴアサイクロプス",
+      "source_en": "Infected Gorecyclops",
+      "text": "Befallener Gorezyklop"
+    },
+    {
+      "key": "ENEMY_NAME_254",
+      "read_index": "244",
+      "tag_source": "source_en",
+      "source_jp": "侵食ベヘモット",
+      "source_en": "Infected Behemoth",
+      "text": "Befallener Behemoth"
+    },
+    {
       "key": "ENEMY_NAME_257",
       "read_index": "246",
       "tag_source": "source_en",

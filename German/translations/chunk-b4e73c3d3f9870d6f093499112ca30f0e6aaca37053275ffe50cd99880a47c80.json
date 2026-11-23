@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q21000094.gmd",
+  "arc_path": "\\quest\\q21000094.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "覚者様に折り入ってお願いがございます\r\n付近のダンジョンにて、忌まわしき魔物が\r\n徘徊しているとの情報が寄せられました",
+      "source_en": "",
+      "text": "Werter Erweckter, ich hätte eine Bitte.\r\nEs ist die Meldung eingegangen,\r\ndass in einem Verlies in der Nähe unheimliche Monster umherstreifen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "しかしここは最果ての地――\r\n問題解決を依頼できるほどの\r\nお方はなかなか現れません",
+      "source_en": "",
+      "text": "Wir sind hier weitab von allem.\r\nNur selten kommt jemand vorbei,\r\ndem ich einen solchen Auftrag anvertrauen könnte."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "貴方様ならば、かの魔物を\r\n討伐する力をお持ちでしょう\r\nどうかお力添えいただけないでしょうか",
+      "source_en": "",
+      "text": "Ihr habt gewiss die Kraft,\r\ndiese Monster zu besiegen.\r\nDarf ich Euch um Eure Hilfe bitten?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "情報が曖昧な部分があり\r\nどのような魔物がいるかは分からないのです\r\nどうか――お気をつけください",
+      "source_en": "",
+      "text": "Die Meldung war recht vage.\r\nIch weiß daher nicht, um welche Monster es sich handelt.\r\nBitte seid vorsichtig."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "覚者様、流石でございます\r\nどうか今後もこのような危機の際は\r\nそのお力を頼りとさせてください",
+      "source_en": "",
+      "text": "Euer Können ist beeindruckend, werter Erweckter.\r\nWenn sich eine solche Gefahr wieder ergibt,\r\nhoffe ich, erneut auf Euch zählen zu dürfen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

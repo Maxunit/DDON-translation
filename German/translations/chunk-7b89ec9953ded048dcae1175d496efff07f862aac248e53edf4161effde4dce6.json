@@ -1,0 +1,176 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60215005.gmd",
+  "arc_path": "\\quest\\q60215005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ああ、引き受けてくれるのかい！\r\nすまないね、こんなこと頼んじまって\r\nなんせ手が足りなくてさ",
+      "source_en": "Aye, you'll take it on, eh? Sorry to be askin'\r\nthis o' you, cos. Short on hands, see.",
+      "text": "Du übernimmst das?\r\nTut mir leid, dass ich dich darum bitten muss. Uns fehlen die Leute."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《<SPOT 923>》の辺りで\r\n最近やけに魔物が出るもんだから\r\n橋の復旧作業が止まっちまうのさ",
+      "source_en": "Monsters been swarmin' near\r\n<SPOT 923> lately — bridge\r\nrestoration's stalled, cos.",
+      "text": "In letzter Zeit tauchen bei\r\n„<SPOT 923>“ ständig Monster auf.\r\nDeshalb kommen wir mit der Reparatur der Brücke nicht voran."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "だから、復旧作業に集中するために\r\nあの辺りに出る魔物を片っ端から\r\nぶん殴ってきてほしいんだよ\r\nあんたならこのくらい、簡単だろ？",
+      "source_en": "Right. Need you to beat every monster round there\r\nsenseless — so we can focus on the restoration,\r\neh? Easy enough for you, ain't it?",
+      "text": "Damit wir uns auf die Brücke konzentrieren können,\r\nbesieg bitte alle Monster, die da draußen herumlungern.\r\nDas kriegst du doch hin, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "他の子もすでに向かわせてるから\r\n途中で合流して一緒にやってくれればいいよ\r\nその方が気も楽だろ？",
+      "source_en": "Other kids already on their way.\r\nMeet up with 'em partway, do it together.\r\nEasier on the mind that way, eh?",
+      "text": "Die anderen sind schon losgezogen.\r\nTriff sie unterwegs und kümmere dich mit ihnen darum.\r\nDann habt ihr’s leichter."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "すでに他の子も《<SPOT 923>》に\r\n向かわせたから、途中で合流して\r\n一緒にやってくれればいいよ",
+      "source_en": "Already sent the other kids to\r\n<SPOT 923>.\r\nLink up with 'em partway, handle it together, eh?",
+      "text": "Ich hab die anderen schon\r\nnach „<SPOT 923>“ geschickt.\r\nTriff sie unterwegs und kümmere dich mit ihnen darum."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ハッ――異国の覚者ではないか！\r\nちょうどよいところに――\r\n実は、さっきここの対岸部に\r\n巨大な魔物が出現したのだ！",
+      "source_en": "Hah — Arisen of a foreign land!\r\nTimely, this.\r\nA giant monster has appeared on the\r\nopposite shore but moments ago!",
+      "text": "Ah, der Erweckte aus der Ferne!\r\nDu kommst gerade recht.\r\nDrüben am anderen Ufer\r\nist eben ein riesiges Monster aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "襲われているのを見た通りすがりの戦士が\r\n俺をここまで逃がしてくれたが――\r\n彼女たちがまだ戻らぬ！",
+      "source_en": "Passing warriors saw me beset and let me escape\r\nthis far, but—they have yet to return themselves!",
+      "text": "Als es mich angegriffen hat, haben mir zwei Kriegerinnen zur Flucht verholfen.\r\nAber sie sind noch nicht zurück!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "頼む、彼女たちに加勢してやってくれ！\r\n俺は足を痛めてしまって\r\nこれ以上戦えんのだ――！",
+      "source_en": "I beseech you, aid them!\r\nMy leg is wounded — I can fight no more!",
+      "text": "Bitte hilf ihnen!\r\nIch habe mich am Bein verletzt und kann nicht mehr kämpfen."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "頼む、対岸にいる彼女たちに加勢してやってくれ！\r\nあんな巨大な魔物、一人では到底相手にできん\r\n俺は足を痛めてしまって\r\nこれ以上戦えんのだ――！",
+      "source_en": "Ser, I beseech you — aid the\r\nwomen on the far shore!\r\nA giant monster such as that... 'tis beyond one\r\nperson to face alone.\r\nMy leg is injured. I can fight no more—!",
+      "text": "Bitte hilf den Kriegerinnen\r\nam anderen Ufer!\r\nGegen so ein riesiges Monster\r\nhat man allein keine Chance.\r\nMein Bein ist verletzt. Ich kann nicht mehr kämpfen!"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "――今考えていたんだが\r\nもしや、あれが昔話に聞いた\r\nタラスクなのでは――",
+      "source_en": "Just now a thought struck — could that be the\r\nTarasque of the old tales...?",
+      "text": "Eben ist mir etwas eingefallen …\r\nKönnte das die Tarasque aus den alten Geschichten sein?"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "一刻も早く村に戻って報告しないと――\r\n俺は足をやられているから\r\n先に村に戻っておいてくれないか",
+      "source_en": "Must return to the village and report at once—\r\nMy leg is done for.\r\nGo on ahead, ser.",
+      "text": "Wir müssen so schnell wie möglich zurück und im Dorf Bericht erstatten.\r\nIch kann wegen meines Beins nicht so schnell laufen.\r\nGeh du schon mal voraus."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "さっき見たアレがタラスクだったら\r\nこれから大変なことになるぞ――",
+      "source_en": "If that was a Tarasque, naught but turmoil awaits—",
+      "text": "Wenn das eben eine Tarasque war, bekommen wir noch große Probleme …"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "一刻も早く村に戻って報告しないと――\r\n俺は足をやられているから\r\n先に村に戻っておいてくれないか",
+      "source_en": "Must return to the village and report at once—\r\nMy leg is done for.\r\nGo on ahead, ser.",
+      "text": "Wir müssen so schnell wie möglich zurück und im Dorf Bericht erstatten.\r\nIch kann wegen meines Beins nicht so schnell laufen.\r\nGeh du schon mal voraus."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "えぇっ！？\r\n歩くと地響きがするような、巨大な――？\r\n甲羅のある竜だって！？",
+      "source_en": "Eh?! Giant enow to shake the ground when it\r\nwalks...? A wyrm with a shell?!",
+      "text": "Was?! So riesig, dass bei jedem Schritt die Erde bebt?\r\nEin Drache mit einem Panzer?!"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "そ、それってタラスクじゃないか――！\r\n本当にタラスクが現れたっていうのかい！？",
+      "source_en": "Th-that's a Tarasque, ain't it—! You're sayin' a\r\nTarasque actually appeared, eh?!",
+      "text": "D-das ist doch eine Tarasque!\r\nMeinst du wirklich, dass eine Tarasque aufgetaucht ist?!"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "これは大変なことになったね――\r\n地鳴りが聞こえ始めた頃から\r\nそうじゃないかとは思ってたけど――",
+      "source_en": "This is a fine mess— Been expectin' it since the\r\nground started rumblin'....",
+      "text": "Da haben wir jetzt ein echtes Problem.\r\nSeit das mit dem Beben angefangen hat, hab ich so was schon befürchtet …"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "とにかく\r\n報告してくれて感謝するよ\r\n地鳴りの正体がわかったからには\r\n対策が立てられるからね",
+      "source_en": "Right. Thanks for the tidings. Now that we wit the\r\ncause o' the rumblin', we can plan a response, eh?",
+      "text": "Danke für deinen Bericht.\r\nDa wir jetzt wissen, was die Erde zum Beben bringt, können wir etwas dagegen unternehmen."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "助太刀感謝する！　だが、三人でもこやつに敵うかどうか――！",
+      "source_en": "Thanks for the backup. But whether we three\r\ncan match this foe...!",
+      "text": "Danke für die Hilfe.\r\nAber ob wir es auch zu dritt besiegen können …?"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "このままでは押されるばかりだ！　一旦、対岸まで退くぞ！",
+      "source_en": "At this rate we'll only be pushed back! \r\nTo the far shore — fall back!",
+      "text": "So drängt es uns immer weiter zurück!\r\nLos, ans andere Ufer!"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "まさか旅をしている最中に\r\nタラスクに襲われている人を見つけるなんて\r\nさすがに思いもよらなかったな――",
+      "source_en": "Ne'er did I think, mid-journey, to come upon folk\r\nset upon by a Tarasque...",
+      "text": "Ich hätte nie gedacht, auf meiner Reise Leute zu finden,\r\ndie gerade von einer Tarasque angegriffen werden …"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "間一髪だな\r\nあんな巨大な魔物、一体どうやって\r\n対処すればいいんだ――\r\n討伐にしろ捕獲にしろ困難を極めるぞ",
+      "source_en": "Close call, that. How are we to deal with a giant\r\nmonster like that—? Vanquishing or capture,\r\n'twill be nigh impossible either way.",
+      "text": "Das war knapp. Wie sollen wir mit so einem riesigen Monster fertigwerden?\r\nGanz gleich, ob wir es fangen oder besiegen wollen,\r\nes wird verdammt schwer."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

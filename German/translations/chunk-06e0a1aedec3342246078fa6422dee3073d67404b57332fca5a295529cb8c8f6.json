@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21016009_00.gmd",
+  "arc_path": "\\quest\\q21016009.arc",
+  "entries": [
+    {
+      "key": "q21016009_00_581",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "蒼き死路",
+      "source_en": "Blue Road to Death",
+      "text": "Der blaue Weg in den Tod"
+    },
+    {
+      "key": "q21016009_00_581",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【敵群討伐クエスト】\r\n依頼者から話を聞き\r\n敵の群れを討伐する",
+      "source_en": "[Enemy Horde Extermination Quest] Listen\r\nto the client's request.\r\nExterminate the horde of enemies.",
+      "text": "[Jagd auf Monstergruppen] Hör dir\r\ndie Bitte des Auftraggebers an\r\nund besiege die Monstergruppen."
+    },
+    {
+      "key": "q21016009_00_581",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from\r\n<NAME AREA>,\r\nenemy forces have temporarily increased,\r\nand the situation is quite dangerous.",
+      "text": "Laut einem Bericht aus\r\n<NAME AREA>\r\nhaben sich vorübergehend mehr Monster versammelt.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q21016009_00_581",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "襲撃事件があって以来\r\n様々な異変や不思議な現象が森に\r\n発生するようになったようだ\r\n森の住人が各所で襲撃された情報を\r\n元に調査してほしいのだが――",
+      "source_en": "Since the attack,\r\nvarious abnormalities and mysterious\r\nphenomena have started to occur in the\r\nforest.\r\nI would like you to investigate based on\r\nthe reports of the forest inhabitants\r\nbeing attacked in different areas.",
+      "text": "Seit dem Überfall\r\nkommt es im Wald zu allerlei seltsamen\r\nVorfällen.\r\nAn mehreren Orten wurden Waldbewohner angegriffen.\r\nIch hätte gern, dass du den Berichten über die Angriffe\r\nnachgehst und die Vorfälle\r\nuntersuchst."
+    },
+    {
+      "key": "q21016009_00_1169",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q21016009_00_1222",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所で魔物の群れを探す(残り３)",
+      "source_en": "Search for a group of monsters at the designated location (3 left)",
+      "text": "Such am angegebenen Ort nach einer Monstergruppe (noch 3)."
+    },
+    {
+      "key": "q21016009_00_1223",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り２)",
+      "source_en": "Search for the remaining groups of monsters (2 left)",
+      "text": "Such nach den verbliebenen Monstergruppen (noch 2)."
+    },
+    {
+      "key": "q21016009_00_1224",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り１)",
+      "source_en": "Find the group of monsters that remain (1 left)",
+      "text": "Such nach der letzten Monstergruppe (noch 1)."
+    },
+    {
+      "key": "q21016009_00_1225",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    },
+    {
+      "key": "q21016009_00_1225",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    },
+    {
+      "key": "q21016009_00_1225",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

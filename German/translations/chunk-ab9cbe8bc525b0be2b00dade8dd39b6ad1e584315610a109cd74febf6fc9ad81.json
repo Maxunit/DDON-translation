@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q21017005.gmd",
+  "arc_path": "\\quest\\q21017005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "《晴天》のため《キンガル峡谷》の《渓谷鉱石》の採取量が増加しました",
+      "source_en": "Due to [Clear Weather], \r\n[Valley Ore] yield in \r\n[Kingal Canyon] has increased.",
+      "text": "Zwischen 5 und 10 Uhr\r\ngibt es in der Kingal-Schlucht\r\nmehr Abbaustellen für Klingerz."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《晴天》が終了したため《キンガル峡谷》の《渓谷鉱石》の採取量が通常に戻りました",
+      "source_en": "[Clear Weather] ended. \r\n[Valley Ore] yield has returned to normal.",
+      "text": "Das Zeitfenster von 5 bis 10 Uhr ist vorbei.\r\nIn der Kingal-Schlucht gibt es wieder die übliche Zahl an Abbaustellen für Klingerz."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60213002_00.gmd",
+  "arc_path": "\\quest\\q60213002.arc",
+  "entries": [
+    {
+      "key": "q60213002_00_143",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島　試練：蝕まれゆく双牙",
+      "source_en": "BI Trial: The Worn Twin Tusks",
+      "text": "Blutfluchinsel – Prüfung: Die befallenen Hauer"
+    },
+    {
+      "key": "q60213002_00_143",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島の問題解決のため\r\n菌糸の襲窟を調査し\r\n脅威となる魔物を討伐する",
+      "source_en": "In order to solve the problem of Bloodbane Isle, \r\nhead to the Fungal Colony Caves\r\ndefeat the demon threat",
+      "text": "Geh der Sache auf der Blutfluchinsel nach.\r\nErkunde die Myzelhöhle\r\nund besiege die gefährlichen Monster dort."
+    },
+    {
+      "key": "q60213002_00_1980",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "調査隊駐屯地のベルトランに報告する",
+      "source_en": "Report to Bertrand in the Expedition Garrison",
+      "text": "Erstatte Bertrand im Expeditionslager Bericht."
+    },
+    {
+      "key": "q60213002_00_1981",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "菌糸の襲窟で調査を行う",
+      "source_en": "Investigate Fungal Colony Caves",
+      "text": "Erkunde die Myzelhöhle."
+    },
+    {
+      "key": "q60213002_00_1982",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる魔物を討伐する",
+      "source_en": "Defeat the demon threat",
+      "text": "Besiege die gefährlichen Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21015000_00.gmd",
+  "arc_path": "\\quest\\q21015000.arc",
+  "entries": [
+    {
+      "key": "q21015000_00_588",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "看板娘の小手調べ",
+      "source_en": "The Store Girl's Trials",
+      "text": "Die Krämerin stellt dich auf die Probe"
+    },
+    {
+      "key": "q21015000_00_588",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【敵群討伐クエスト】\r\n依頼者から話を聞き\r\n敵の群れを討伐する",
+      "source_en": "[Enemy Horde Extermination Quest] Listen\r\nto the client's request.\r\nExterminate the horde of enemies.",
+      "text": "[Jagd auf Monstergruppen] Hör dir\r\ndie Bitte der Auftraggeberin an\r\nund besiege die Monstergruppen."
+    },
+    {
+      "key": "q21015000_00_588",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from\r\n<NAME AREA>,\r\nenemy forces have temporarily increased,\r\nand the situation is quite dangerous.",
+      "text": "Laut einem Bericht aus\r\n<NAME AREA>\r\nhaben sich vorübergehend mehr Monster versammelt.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q21015000_00_588",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "イーヴィは、本当に強い人が好きなんだ\r\n弱い奴のことなんか、歯牙にもかけないよ\r\nかといって、強ければ誰でもいい訳じゃない――\r\n乙女心は、よく分からないよ",
+      "source_en": "Evey really likes strong people.\r\nShe doesn't pay any mind to the weak.\r\nBut that doesn't mean anyone strong will\r\ndo—\r\nthe heart of a maiden is a mystery.",
+      "text": "Evey hat wirklich eine Schwäche für starke Leute.\r\nFür Schwächlinge hat sie keinen Blick übrig.\r\nAber bei ihr hat auch nicht jeder eine Chance,\r\nnur weil er stark ist.\r\nVersteh einer die Frauen."
+    },
+    {
+      "key": "q21015000_00_1169",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q21015000_00_1222",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所で魔物の群れを探す(残り３)",
+      "source_en": "Search for a group of monsters at the designated location (3 left)",
+      "text": "Such am angegebenen Ort nach einer Monstergruppe (noch 3)."
+    },
+    {
+      "key": "q21015000_00_1223",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り２)",
+      "source_en": "Search for the remaining groups of monsters (2 left)",
+      "text": "Such nach den verbliebenen Monstergruppen (noch 2)."
+    },
+    {
+      "key": "q21015000_00_1224",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り１)",
+      "source_en": "Find the group of monsters that remain (1 left)",
+      "text": "Such nach der letzten Monstergruppe (noch 1)."
+    },
+    {
+      "key": "q21015000_00_1225",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    },
+    {
+      "key": "q21015000_00_1225",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    },
+    {
+      "key": "q21015000_00_1225",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

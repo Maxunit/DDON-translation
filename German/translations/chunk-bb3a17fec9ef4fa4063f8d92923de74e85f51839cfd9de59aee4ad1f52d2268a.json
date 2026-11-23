@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q21016005.gmd",
+  "arc_path": "\\quest\\q21016005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "《雨天》のため《モロー樹林》の《侵食森木材》の採取量が増加しました",
+      "source_en": "Due to [Rainy Weather], \r\n[Corrupted Forest Wood] yield in \r\n[Morrow Woods] has increasd.",
+      "text": "Zwischen 16 und 20 Uhr\r\ngibt es im Morrow-Wald\r\nmehr Sammelstellen für Faulholz."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《雨天》が終了したため《モロー樹林》の《侵食森木材》の採取量が通常に戻りました",
+      "source_en": "[Rainy Weather] ended. \r\n[Corrupted Forest Wood] yield has \r\nreturned to normal.",
+      "text": "Das Zeitfenster von 16 bis 20 Uhr ist vorbei.\r\nIm Morrow-Wald gibt es wieder\r\ndie übliche Zahl an Sammelstellen für Faulholz."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

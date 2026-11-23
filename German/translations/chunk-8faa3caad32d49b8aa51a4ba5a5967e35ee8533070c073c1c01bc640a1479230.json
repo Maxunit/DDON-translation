@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200013_00.gmd",
+  "arc_path": "\\quest\\q60200013.arc",
+  "entries": [
+    {
+      "key": "q60200013_00_146",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "歌い継がれし勇姿",
+      "source_en": "Singing Praises of Success",
+      "text": "Lieder von deinen Taten"
+    },
+    {
+      "key": "q60200013_00_146",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "風の噂になっている新たな試練について\r\nシーベルから話を聞く",
+      "source_en": "Speak with Seabell regarding the new trial whispered about in rumors.",
+      "text": "Frag Seabell nach der neuen Prüfung, von der die Leute erzählen."
+    },
+    {
+      "key": "q60200013_00_2074",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "宿場区にいる吟遊詩人シーベルから話を聞く",
+      "source_en": "Hear what the minstrel Seabell has to say in the Relay Station",
+      "text": "Sprich mit dem Barden Seabell im Herbergsviertel."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

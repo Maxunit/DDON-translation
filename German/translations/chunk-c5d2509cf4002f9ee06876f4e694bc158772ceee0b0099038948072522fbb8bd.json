@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60000055_00.gmd",
+  "arc_path": "\\quest\\q60000055.arc",
+  "entries": [
+    {
+      "key": "q60000055_00_42",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "求道の師を訪ねて　ソーサラー",
+      "source_en": "Seeking the Master: Sorcerer",
+      "text": "Auf der Suche nach der Klassenmeisterin – Erzmagier"
+    },
+    {
+      "key": "q60000055_00_42",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョブマスター・エメラダに\r\nソーサラー求道試練の許可をもらいに行く",
+      "source_en": "Visit Job Master Emerada to request \r\napproval for the Sorcerer's trial",
+      "text": "Such Klassenmeisterin Emerada auf\r\nund bitte sie, dich zur Erzmagierprüfung zuzulassen."
+    },
+    {
+      "key": "q60000055_00_1214",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ミスリウ森林のエメラダを訪ねる",
+      "source_en": "Visit Emerada in Mysree Forest",
+      "text": "Such Emerada im Mysree-Wald auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q21014006.gmd",
+  "arc_path": "\\quest\\q21014006.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "《深夜》のため、《エラン水林》の《綺麗森木材》の採取量が増加しました",
+      "source_en": "Due to [Deep Night], \r\n[Pristine Forest Wood] yield in \r\n[Elan Water Grove] has increased.",
+      "text": "Es regnet.\r\nIm Elan-Auenwald gibt es jetzt\r\nmehr Stellen, an denen du das benötigte Wasser schöpfen kannst."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《深夜》が終了したため、《エラン水林》の《綺麗森木材》の採取量が通常に戻りました",
+      "source_en": "[Deep Night] ended. \r\n[Pristine Forest Wood] yield has \r\nreturned to normal",
+      "text": "Der Regen hat aufgehört.\r\nIm Elan-Auenwald gibt es wieder\r\ndie übliche Zahl an Stellen zum Wasserschöpfen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

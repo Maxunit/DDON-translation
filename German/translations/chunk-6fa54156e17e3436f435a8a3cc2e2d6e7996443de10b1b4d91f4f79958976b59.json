@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q21000088.gmd",
+  "arc_path": "\\quest\\q21000088.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "敵との戦闘で一度も死亡状態になりませんでした\r\nクリア時のボーナス報酬が多くなります",
+      "source_en": "No deaths in combat.\r\nBonus Clear Rewards will be increased.",
+      "text": "Im Kampf ist niemand gefallen.\r\nDie zusätzliche Abschlussbelohnung erhöht sich."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "パーティメンバーが死亡状態になりました\r\nクリア時のボーナス報酬が少なくなります",
+      "source_en": "A party member has fallen.\r\nBonus Clear Rewards will be decreased.",
+      "text": "Ein Gruppenmitglied ist gefallen.\r\nDie zusätzliche Abschlussbelohnung fällt geringer aus."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

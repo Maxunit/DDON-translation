@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60200008.gmd",
+  "arc_path": "\\quest\\q60200008.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "よう、その後どうだ？\r\nダンジョンの探索は続けてるか？",
+      "source_en": "Hey, how's it going?\r\nStill exploring dungeons?",
+      "text": "Na, wie läuft’s?\r\nErkundest du noch Verliese?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "またお前に新たな調査の依頼があるんだが――\r\nそうだ、やることは一緒だ\r\nお前のことだ、引き受けてくれるんだろう？",
+      "source_en": "I've got another investigation request for you—\r\nSame as before. You'll take it, right?",
+      "text": "Ich habe einen neuen Erkundungsauftrag für dich.\r\nWie gehabt. Du übernimmst ihn doch?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "今回の調査地候補は\r\n魔赤島にある《橋向かいの坑道》\r\nバートランド北部にある《ガルドノック廃水廊》\r\nザンドラ東部にある《幽玄の霊堂》\r\nこの３ヶ所だ",
+      "source_en": "The candidate sites for this investigation are:\r\nBloodbane Isle's Bridgeside Tunnel,\r\nGardnox Sewers in north Betland,\r\nand Mysterious Mausoleum in Eastern Zandora.\r\nPick one of these.",
+      "text": "Diesmal kommen drei Orte infrage.\r\nDer Stollen jenseits der Brücke auf der Blutfluchinsel,\r\ndie Abwasserkanäle von Gardnox im Norden von Betland\r\nund das Geheimnisvolle Mausoleum im östlichen Zandora.\r\nSuch dir einen davon aus."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "今回も、エリアマスターのご機嫌を取らなければ\r\n入れない場所があるようだな\r\n各地のエリアランクを上げておくのを忘れずにな",
+      "source_en": "As usual, some places require you to\r\nget on the Area Master's good side.\r\nDon't forget to raise the area ranks first.",
+      "text": "Für manche Orte brauchst du wieder die Zustimmung\r\ndes jeweiligen Gebietsmeisters.\r\nVergiss nicht, vorher den entsprechenden Gebietsrang zu erhöhen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "もう３度目だからわかっているだろうが\r\n３ヶ所全てを調査する必要はない\r\nどこか１ヶ所で、最奥の宝箱を調査したら\r\n俺に報告するんだ、いいな",
+      "source_en": "You know the drill by now—third time's the charm.\r\nNo need to investigate all three.\r\nReport back after checking the deepest chest\r\nin any one location. Got it?",
+      "text": "Du kennst das ja schon. Es ist schließlich das dritte Mal.\r\nSuch dir eines der drei Verliese aus,\r\nuntersuche dort die hinterste Schatztruhe\r\nund erstatte mir Bericht. Alles klar?"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "いいか、もう一度説明するぞ\r\nこれから言う調査地に潜り\r\n最奥の宝箱を調査する\r\n――お前がやるのはこれだけだ",
+      "source_en": "Listen up, I'll explain one more time.\r\nInfiltrate a site I'm about to name\r\nand investigate the deepest treasure chest.\r\nThat's all you have to do.",
+      "text": "Ich erklär’s dir noch einmal.\r\nGeh in eines der Verliese, die ich dir gleich nenne.\r\nDort untersuchst du die hinterste Schatztruhe.\r\nDas ist alles."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "今回の調査地候補は\r\n魔赤島にある《橋向かいの坑道》\r\nバートランド北部にある《ガルドノック廃水廊》\r\nザンドラ東部にある《幽玄の霊堂》\r\nこの３ヶ所だ",
+      "source_en": "The candidate sites for this investigation are:\r\nBloodbane Isle's Bridgeside Tunnel,\r\nGardnox Sewers in north Betland,\r\nand Mysterious Mausoleum in Eastern Zandora.\r\nPick one of these.",
+      "text": "Diesmal kommen drei Orte infrage.\r\nDer Stollen jenseits der Brücke auf der Blutfluchinsel,\r\ndie Abwasserkanäle von Gardnox im Norden von Betland\r\nund das Geheimnisvolle Mausoleum im östlichen Zandora.\r\nSuch dir einen davon aus."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "各地のエリアマスターのご機嫌をとっておくのを\r\n忘れないようにな",
+      "source_en": "Don't forget to stay on the Area Masters'\r\ngood side in each region.",
+      "text": "Vergiss nicht, dir vorher die Zustimmung\r\nder Gebietsmeister zu sichern."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "毎度のことだが、３ヶ所全てを調査する必要はない\r\nどこか１ヶ所で、最奥の宝箱を調査したら\r\n俺に報告するんだ、いいな",
+      "source_en": "Same as always—no need to check all three.\r\nJust investigate the deepest chest in one spot\r\nthen report back. Understand?",
+      "text": "Wie immer reicht ein einziges Verlies.\r\nUntersuche dort die hinterste Schatztruhe\r\nund komm dann zurück. Verstanden?"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "よし、今回もつつがなく調査を終えたようだな",
+      "source_en": "Good, you've wrapped up this investigation\r\nwithout a hitch.",
+      "text": "Gut, diesmal ist offenbar\r\nwieder alles glattgegangen."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "次回はさらに難易度の高い調査地の依頼が来るだろう\r\n困難を乗り越える者の眼前には\r\nより高い壁が打ち立てられるのが常だ",
+      "source_en": "Next time, you'll receive requests for \r\nsurvey sites with even higher difficulty. \r\nIt's always the way that those who overcome \r\nhardships will find even greater obstacles \r\nerected before their eyes.",
+      "text": "Beim nächsten Mal wirst du wohl an gefährlichere Orte geschickt.\r\nWer eine Hürde überwindet,\r\nwird immer wieder\r\nvor eine noch größere\r\ngestellt."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "何せ神殿がそれを望んでるんだ――\r\nもしくはお前自身が望んでいるのかも知れないが――\r\n俺はとにかく手筈を整えるだけだ",
+      "source_en": "The temple wills it—\r\nor perhaps you yourself desire it—\r\nI merely set the stage.",
+      "text": "Der Tempel will es so.\r\nVielleicht willst du es ja selbst.\r\nIch kümmere mich nur um die Vorbereitungen."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "それと、前にも言ったかもしれないが\r\n《スポット情報》を見れば\r\nどのダンジョンにどの素材があるか\r\n確認をすることが出来るから覚えておくんだな",
+      "source_en": "Also, I might have said this before,\r\nbut check Spot Info to see which\r\ndungeons have which materials.\r\nRemember that.",
+      "text": "Und falls ich es noch nicht oft genug gesagt habe,\r\nsieh unter „Ortsinfo“ nach,\r\nwenn du wissen willst, welche Rohstoffe\r\ndu in welchem Verlies findest."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "宝箱を調査して集めた素材で作った装備品は\r\n今後必ず役に立つ時が来る\r\n何度も調査を繰り返して素材を集め、武器を強化しろ\r\n――未来は過去の積み重ねだ",
+      "source_en": "Gear crafted from treasure chest materials\r\nwill prove its worth when needed.\r\nKeep gathering, keep improving—\r\nthe future is built piece by piece.",
+      "text": "Die Ausrüstung aus dem Inhalt der Schatztruhen\r\nwird dir nützen, wenn es darauf ankommt.\r\nSammle weiter Rohstoffe und verstärke deine Waffen.\r\nDu wirst davon zehren, was du dir heute erarbeitest."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

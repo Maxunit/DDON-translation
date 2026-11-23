@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q21015006.gmd",
+  "arc_path": "\\quest\\q21015006.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "《夜》のため《カルスト台地》の《カルスト鉱石》の採取量が増加しました",
+      "source_en": "Due to [Night], \r\n[Karst Ore] yield in \r\n[Karst Canyon] has increased.",
+      "text": "Bei bedecktem Himmel\r\ngibt es auf der Farana-Ebene\r\nmehr Abbaustellen für Weißknochenfels."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《夜》が終了したため《カルスト台地》の《カルスト鉱石》の採取量が通常に戻りました",
+      "source_en": "[Night] ended. \r\n[Karst Ore] yield has \r\nreturned to normal.",
+      "text": "Der Himmel ist nicht mehr bedeckt.\r\nAuf der Farana-Ebene gibt es wieder\r\ndie übliche Zahl an Abbaustellen für Weißknochenfels."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

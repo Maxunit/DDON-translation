@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000092_00.gmd",
+  "arc_path": "\\quest\\q21000092.arc",
+  "entries": [
+    {
+      "key": "q21000092_00_365",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "強欲の結末",
+      "source_en": "An End to Greed",
+      "text": "Der Preis der Gier"
+    },
+    {
+      "key": "q21000092_00_365",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【討伐クエスト】\r\nエリアに出現した怪しい魔物を探し\r\n問題の原因となる敵を討伐する",
+      "source_en": "[Subjugation Quest]\r\nSearch for suspicious monsters in the area\r\nand defeat the enemy causing the problem.",
+      "text": "[Jagdquest]\r\nSuch in der Gegend nach verdächtigen Monstern\r\nund besiege den Auslöser der Vorfälle."
+    },
+    {
+      "key": "q21000092_00_365",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今、怪しい気配のする\r\n魔物たちが出現しているらしい",
+      "source_en": "In <NAME AREA> right now, \r\nthere seems to be a suspicious presence\r\nof enemy creatures.",
+      "text": "Bei <NAME AREA>\r\nsind offenbar Monster aufgetaucht.\r\nVon ihnen geht etwas Unheimliches aus."
+    },
+    {
+      "key": "q21000092_00_365",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ああ、この前一人くたばってるのを見たよ\r\nまあ、どうせ金目当ての小物だろうさ――\r\n浅はかな気持ちであそこに行った奴がどうなるか\r\n好例だったと思うね――かわいそうに",
+      "source_en": "Oh, I saw someone perish not long ago. \r\nProbably just a small-time crook looking for money― \r\na prime example of what happens to those \r\nwho go there with such shallow thoughts. \r\nHow unfortunate.",
+      "text": "Neulich lag dort einer tot herum.\r\nWahrscheinlich ein kleiner Gauner, der schnell Geld machen wollte.\r\nDa sieht man, wie es den Leuten ergeht,\r\ndie sich wegen ein paar Münzen dorthin wagen.\r\nArmer Kerl."
+    },
+    {
+      "key": "q21000092_00_1171",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000092_00_1173",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物を討伐する",
+      "source_en": "Defeat the remaining foe(s)",
+      "text": "Besiege die verbliebenen Monster."
+    },
+    {
+      "key": "q21000092_00_1229",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たに現れた魔物を即時討伐して危機を回避",
+      "source_en": "Eliminate the newly emerged monster right away to prevent the crisis",
+      "text": "Besiege das neu aufgetauchte Monster sofort, um die Gefahr abzuwenden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

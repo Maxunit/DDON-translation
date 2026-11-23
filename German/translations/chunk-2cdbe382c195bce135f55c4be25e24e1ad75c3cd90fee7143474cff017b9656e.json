@@ -1,0 +1,272 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60200050.gmd",
+  "arc_path": "\\quest\\q60200050.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "よぉ！　珍しい戦術試練を始めたよ\r\nスピリットランサーの基礎戦術についてさ",
+      "source_en": "Yo! I've got an exclusive trial on offer.\r\nIt's all about Spirit Lancer techniques.",
+      "text": "He! Ich habe eine besondere Taktikprüfung für dich.\r\nDabei lernst du die Grundlagen des Geisterlanciers."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "まだあまり知られてないジョブだからこそ\r\n訓練し甲斐もあるだろ？\r\nもちろん今回も一人で挑戦しなきゃならない",
+      "source_en": "Being a lesser-known Vocation\r\nmakes learning it worthwhile, right?\r\nOf course, you'll face this trial alone again.",
+      "text": "Die Klasse ist bei uns noch kaum bekannt.\r\nUmso mehr lohnt es sich, sie zu üben, oder?\r\nDie Prüfung musst du wieder allein antreten."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "《修練の祠》の場所はわかるよな？\r\n神殿を出て左手、崖沿いさ\r\nその中にいる案内人の騎士団員と話すんだ",
+      "source_en": "You know where the Training Chapel is, right?\r\nExit the Temple and head left, along the cliff.\r\nSpeak with the Knights' Order member inside.",
+      "text": "Du weißt doch, wo der Übungsschrein liegt?\r\nVerlass den Tempel und geh links an der Klippe entlang.\r\nSprich drinnen mit dem Ritter, der dich einweist."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "さあ、《修練の祠》へ行くんだ\r\n案内人は神殿を出て左手を進めば、崖の上さ",
+      "source_en": "Now, the Training Chapel awaits.\r\nThe guide says, head left as you exit the Temple,\r\nthen you will reach the top of the cliff.",
+      "text": "Geh jetzt zum Übungsschrein.\r\nWenn du den Tempel verlässt und nach links gehst,\r\nfindest du ihn oben an der Klippe."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "与えられた試練を全てこなせた者のみ\r\n《霊槍の証》を得ることができる",
+      "source_en": "Complete all objectives as they appear\r\nand obtain the [Spirit Lancer's Mark].",
+      "text": "Nur wenn du alle Aufgaben der Prüfung erledigst,\r\nerhältst du das Zeichen der Geisterlanze."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "各試練のやり方について\r\nわからなければ、今までに得た知識を\r\n確認しながら臨むがいい",
+      "source_en": "If you're unsure about any of the objectives,\r\ncheck your quest log before proceeding.\r\nInformation for your trial can be reviewed there.",
+      "text": "Wenn du bei einer Aufgabe nicht weiterweißt,\r\nsieh noch einmal nach,\r\nwas du bisher in der Prüfung gelernt hast."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "技や動きの参考のため\r\n一人、共闘の兵をつけておこう\r\n課題をこなす中で戦技を身に刻め！",
+      "source_en": "I'll have a comrade fight alongside you\r\nso you can reference their movements.\r\nEtch these combat skills into your mind\r\nduring the trial!",
+      "text": "Ein Kämpfer tritt an deiner Seite an.\r\nSchau dir seine Bewegungen und Techniken ab.\r\nPräg dir bei den Aufgaben\r\ndie neuen Kampftechniken gut ein!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "覚者とは試練に臆することなく立ち向かい\r\nその使命を全うする者のことだ",
+      "source_en": "An Arisen faces any trial without fear\r\nand fulfills their duty no matter what.",
+      "text": "Ein Erweckter stellt sich jeder Prüfung ohne Furcht\r\nund erfüllt seine Aufgabe."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "与えられた試練を全てこなせた者のみ\r\n《霊槍の証》を得ることができる",
+      "source_en": "Complete all objectives as they appear\r\nand obtain the [Spirit Lancer's Mark].",
+      "text": "Nur wenn du alle Aufgaben der Prüfung erledigst,\r\nerhältst du das Zeichen der Geisterlanze."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "各試練のやり方について\r\nわからなければ今までの得た知識を\r\n確認しながら臨むがいい",
+      "source_en": "If you're unsure about any of the objectives,\r\ncheck your quest log before proceeding.\r\nInformation for your trial can be reviewed there.",
+      "text": "Wenn du bei einer Aufgabe nicht weiterweißt,\r\nsieh noch einmal nach,\r\nwas du bisher in der Prüfung gelernt hast."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "また立ちはだかる魔物が\r\n課題中にすべていなくなったら\r\n再度出直してくるがいい",
+      "source_en": "If all of the enemies in the trial vanish,\r\nleave then return later to try again.",
+      "text": "Wenn während der Prüfung alle Gegner verschwinden,\r\nverlass den Schrein und komm wieder, um es erneut zu versuchen."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "《霊槍の証》、よくぞ得た！\r\nジョブについての理解も、さらに深まったようだな\r\n神殿に戻りレンテンに報告するがいい、覚者よ！",
+      "source_en": "You've obtained the [Spirit Lancer's Mark]!\r\nYour grasp of the job has deepened, I see.\r\nReport to Renton at the Temple, Arisen!",
+      "text": "Gut gemacht! Du hast das Zeichen der Geisterlanze erhalten.\r\nDu kennst deine Klasse jetzt besser.\r\nErstatte Renton im Tempel Bericht, Erweckter!"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "今回の試練、うまくいったみたいで何より！\r\nしかし、違う国のジョブにまで手を出すなんて\r\n本当にすごいよなぁ！\r\nスピリットランサーって響きもかっこいいしな！",
+      "source_en": "Looks like this trial went well, that's great!\r\nGetting to see jobs from other countries\r\nis really something else! \"Spirit Lancer...\"\r\nEven the name of it sounds so cool!",
+      "text": "Schön, dass es geklappt hat!\r\nDu lernst sogar eine Klasse aus einem anderen Land.\r\nDas ist schon was Besonderes!\r\nUnd „Geisterlancier“ klingt einfach gut!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "また転職したら、いつでも来いよな\r\nなんだかんだで基本は大事だぜ！",
+      "source_en": "Come back anytime you change Vocations.\r\nFundamentals matter more than you'd think!",
+      "text": "Wenn du wieder mal die Klasse wechselst, komm ruhig vorbei.\r\nDie Grundlagen sind wichtiger, als man denkt!"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "おめでとう、白き竜の覚者よ\r\nこれにて戦術試練は完了だ――！",
+      "source_en": "Congratulations, Arisen of the White Dragon.\r\nAnd with that, the Tactics Trial is complete!",
+      "text": "Glückwunsch, Erweckter des Weißen Drachen.\r\nDie Taktikprüfung ist abgeschlossen!"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "今覚えたスピリットランサーの戦い方を\r\n振り返りたい時は、《チュートリアルガイド》の\r\n《ジョブの操作と役割》から戦法や\r\n戦術的役割を確認するんだ",
+      "source_en": "To review the Spirit Lancer's combat style\r\nyou just learned, check [Tutorial] →\r\n[Job Roles] for tactics and duties.",
+      "text": "Wenn du nachlesen willst, wie der Geisterlancier kämpft,\r\nöffne die Anleitung\r\nund sieh unter „Klassen und Rollen“ nach."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "それにしても、突然レンテンとやらにこの国に招かれ\r\n霊槍術について説明することになるとは――\r\n面白いこともあるものだ\r\n我々の技が白竜にとっても益となることを祈っている",
+      "source_en": "To be suddenly invited by Renton to impart\r\nSpirit Lance techniques to this country...\r\nStranger things have happened, I suppose.\r\nI pray our skills will benefit the White Dragon.",
+      "text": "Renton hat mich ganz unerwartet in dieses Land eingeladen,\r\num den Umgang mit der Geisterlanze zu lehren.\r\nSo was erlebt man nicht alle Tage.\r\nMögen unsere Künste auch dem Weißen Drachen nützen."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT ATTACK1></COL>でスラスト！　基本の攻撃だ！",
+      "source_en": "Use <COL ff7575><KCT ATTACK1></COL> to Thrust!\r\nYour basic attack!",
+      "text": "Nutze <COL ff7575><KCT ATTACK1></COL> für „Stichfolge“!\r\nDas ist dein Grundangriff."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "敵にダメージを与えるたびに<COL ff7575>スピリットゲージを貯める</COL>ことができるぞ！",
+      "source_en": "Every time you deal damage to an enemy,\r\nyou <COL ff7575>fill the Spirit Gauge</COL>!",
+      "text": "Jedes Mal, wenn du einen Gegner triffst und Schaden verursachst,\r\n<COL ff7575>füllt sich deine Geisterkraftleiste</COL>!"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "次に<COL ff7575><KCT ATTACK2></COL>でエイドだ！",
+      "source_en": "Next, <COL ff7575><KCT ATTACK2></COL> is Aid!",
+      "text": "Mit <COL ff7575><KCT ATTACK2></COL> erzeugst du ein Heilfeld!"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "スキル発動時の霊球が敵や壁に接触すると、対象に付着できる！　<COL ff7575>空中でも発動可能</COL>だ！",
+      "source_en": "When the spirit orb from a skill\r\nhits an enemy or wall, it sticks!\r\n<COL ff7575>Use it in mid-air as well</COL>!",
+      "text": "Trifft die Geisterkugel eines Heilfelds auf einen Gegner\r\noder eine Wand, bleibt sie dort haften.\r\n<COL ff7575>Du kannst das Heilfeld auch in der Luft einsetzen</COL>!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT AVOID></COL>でスカー・ムーブだ！　敵の攻撃を回避しろ！",
+      "source_en": "Dodge enemy attacks with Scáth Move!\r\nUse <COL ff7575><KCT AVOID></COL>!",
+      "text": "Weiche mit „Schattenschritt“ einem Angriff aus!\r\nNutze dafür <COL ff7575><KCT AVOID></COL>."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "回避に成功するたびに<COL ff7575>スピリットゲージが貯まる</COL>のがわかるだろう！",
+      "source_en": "Notice how <COL ff7575>the Spirit Gauge fills</COL>\r\neach time you dodge successfully!",
+      "text": "Siehst du, wie sich <COL ff7575>die Geisterkraftleiste füllt</COL>,\r\nwenn du erfolgreich ausweichst?"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "攻撃や回避でスピリットゲージが溜まったら、<COL ff7575><KCT ELIXIR_CHANGE>でアタックブースト</COL>発動！",
+      "source_en": "Once the Spirit Gauge fills\r\nfrom attacks or dodges,\r\n<COL ff7575><KCT ELIXIR_CHANGE> activates Attack Boost</COL>!",
+      "text": "Fülle die Geisterkraftleiste\r\nmit Treffern oder durch Ausweichen.\r\n<COL ff7575><KCT ELIXIR_CHANGE> aktiviert „Angriff verstärken“</COL>!"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "<COL ff7575><KCT SKILL_NORMAL1>でヒールブースト</COL>だ！",
+      "source_en": "<COL ff7575><KCT SKILL_NORMAL1> is Heal Boost</COL>!",
+      "text": "Mit <COL ff7575><KCT SKILL_NORMAL1> aktivierst du „Heilung verstärken“</COL>!"
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "戦況に応じて攻撃スキルか支援スキル、どちらかの性能をアップさせて使い分けるのだ！",
+      "source_en": "Adapt to new situations by boosting\r\neither attack or support skills as needed!",
+      "text": "Entscheide je nach Lage,\r\nob du deine Angriffe oder deine Unterstützung verstärkst."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "よし、では祠の奥へ向かい大型敵と対峙だ！大型敵の<COL ff7575>＜怒り状態＞</COL>に注意しろ！",
+      "source_en": "Alright now!\r\nHead further in and face the large foe!\r\nBeware its <COL ff7575>enraged state</COL>!",
+      "text": "Gut, dann weiter!\r\nStell dich dem großen Gegner tiefer im Schrein!\r\nPass auf, wenn er <COL ff7575>in Rage gerät</COL>!"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "そして<COL ff7575><KCT TOUCH></COL>でヤツにしがみつけ！",
+      "source_en": "Now use <COL ff7575><KCT TOUCH></COL> to climb onto it!",
+      "text": "Halte dich mit <COL ff7575><KCT TOUCH></COL> an ihm fest!"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "その状態で<COL ff7575><KCT ATTACK1></COL>でイラー・スラストだ！",
+      "source_en": "While in that state,\r\n<COL ff7575><KCT ATTACK1></COL> becomes Iolar Thrust!",
+      "text": "Solange du dich an ihm festhältst,\r\nsetzt du mit <COL ff7575><KCT ATTACK1></COL> den Iolar-Stich ein."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "怒り状態の敵に<COL ff7575><KCT ATTACK2></COL>でエイドを発動させろ！シークレットコアを暴きだせるぞ！",
+      "source_en": "Use <COL ff7575><KCT ATTACK2></COL> to activate Aid\r\non enraged enemies!\r\nIt exposes the Secret Core!",
+      "text": "Nutze <COL ff7575><KCT ATTACK2></COL> für „Heilfeld“\r\nan einem Gegner in Rage!\r\nSo machst du seinen verborgenen Kern sichtbar."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "では大型敵の<COL ff7575>＜怒り状態＞</COL>に注意してヤツを仕留めてみろ！",
+      "source_en": "Stay wary of its <COL ff7575>enraged state</COL>!\r\nKeep up the attack!",
+      "text": "Pass auf, wenn der Gegner <COL ff7575>in Rage gerät</COL>!\r\nGreif weiter an!"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "シークレットコアを攻撃したり、揺さぶり、疲れさせてチャンスを作るんだぞ！",
+      "source_en": "Attack the Secret Core, shake them,\r\nwear them down to create an opening!",
+      "text": "Triff den verborgenen Kern oder rüttle am Gegner,\r\nbis er ermüdet und du eine Gelegenheit zum Angriff hast!"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "試練完了、よくやった！　奥にある＜霊槍の証＞を受け取り、神殿のレンテンに報告するがいい",
+      "source_en": "Trial complete, well fought!\r\nTake the \"Spirit Lancer's Mark\"\r\nback to Renton at the Temple.",
+      "text": "Prüfung bestanden. Gut gekämpft!\r\nHol das Zeichen der Geisterlanze am Ende des Schreins ab\r\nund erstatte Renton im Tempel Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

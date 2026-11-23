@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21014016_00.gmd",
+  "arc_path": "\\quest\\q21014016.arc",
+  "entries": [
+    {
+      "key": "q21014016_00_603",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "類猿の血族",
+      "source_en": "Simian Relatives",
+      "text": "Die Sippe der Affenbestien"
+    },
+    {
+      "key": "q21014016_00_603",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【偶発討伐クエスト】\r\n出現した危険な魔物を追い詰め\r\n討伐する",
+      "source_en": "[Chance Encounter: Subjugation Quest]\r\nTrack down the dangerous enemy\r\nthat has appeared and defeat it.",
+      "text": "[Jagd bei Zufallsbegegnung]\r\nVerfolge das gefährliche Monster, das aufgetaucht ist,\r\nund besiege es."
+    },
+    {
+      "key": "q21014016_00_603",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "不確実な情報だが、<NAME AREA>から\r\n狂暴な魔物のしわざと思われる被害報告があった",
+      "source_en": "Although the information is uncertain,\r\nthere have been reports of damage\r\nbelieved to be caused by violent creatures\r\nin <NAME AREA>.\r\n",
+      "text": "Die Meldungen sind unbestätigt.\r\nAnscheinend haben\r\ngefährliche Monster Schäden angerichtet,\r\nund zwar bei <NAME AREA>.\r\n"
+    },
+    {
+      "key": "q21014016_00_603",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "最近、森の魔物を討伐すると\r\n突然強力な魔物の集団が姿を現し\r\n襲われるという事案が増えています\r\n目撃、遭遇した方は速やかに戦士へ相談し\r\n魔物の新動向解析にご協力お願いします",
+      "source_en": "In recent times, incidents have risen \r\nwhere powerful groups of monsters appear \r\nand attack following the defeat of forest beasts. \r\nIf you see or encounter these occurrences, \r\nplease report to a warrior immediately \r\nand aid in the analysis of the new monster activity.",
+      "text": "In letzter Zeit tauchen immer öfter Gruppen starker Monster auf,\r\nsobald die wilden Tiere im Wald besiegt sind.\r\nDie Monster greifen sofort an.\r\nWenn du eine solche Gruppe siehst,\r\nmelde dich bitte gleich bei einem Krieger.\r\nSo hilfst du uns, das Verhalten der Monster zu untersuchen."
+    },
+    {
+      "key": "q21014016_00_1254",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q21014016_00_1255",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "逃亡した魔物が残した痕跡を調べる",
+      "source_en": "Look into the signs left by the fleeing beast",
+      "text": "Untersuche die Spuren des entkommenen Monsters."
+    },
+    {
+      "key": "q21014016_00_1256",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "魔物の行方を追う",
+      "source_en": "Track down the foe(s)",
+      "text": "Folge den Spuren der Monster."
+    },
+    {
+      "key": "q21014016_00_1257",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "危険な魔物を追い詰め、止めを刺す",
+      "source_en": "Hunt down and stop the dangerous monsters",
+      "text": "Treib die gefährlichen Monster in die Enge und besiege sie."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

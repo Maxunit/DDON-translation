@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60200051_00.gmd",
+  "arc_path": "\\quest\\q60200051.arc",
+  "entries": [
+    {
+      "key": "q60200051_00_187",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "求道の師を訪ねて　スピリットランサー",
+      "source_en": "Seeking the Master: Spirit Lancer",
+      "text": "Auf der Suche nach dem Meister – Geisterlancier"
+    },
+    {
+      "key": "q60200051_00_187",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョブマスター・アデルドナハに\r\nスピリットランサー求道試練の許可をもらいに行く",
+      "source_en": "Visit Job Master Adair Donnchadh to request \r\napproval for the Spirit Lancer's trial",
+      "text": "Geh zu Klassenmeister Adair Donnchadh\r\nund bitte ihn, dich zur Prüfung für Geisterlanciers zuzulassen."
+    },
+    {
+      "key": "q60200051_00_2437",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<STG 911>の<NPC 4510>を訪ねる",
+      "source_en": "Visit <NPC 4510> in <STG 911>",
+      "text": "Besuche <NPC 4510> bei <STG 911>."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

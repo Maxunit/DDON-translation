@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21014008_00.gmd",
+  "arc_path": "\\quest\\q21014008.arc",
+  "entries": [
+    {
+      "key": "q21014008_00_548",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "胡乱の目撃者",
+      "source_en": "A Suspicious Eyewitness",
+      "text": "Hat Oma richtig gesehen?"
+    },
+    {
+      "key": "q21014008_00_548",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【敵群討伐クエスト】\r\n依頼者から話を聞き\r\n敵の群れを討伐する",
+      "source_en": "[Enemy Horde Extermination Quest]\r\nListen to the client's request.\r\nExterminate the horde of enemies.",
+      "text": "[Jagd auf Monstergruppen]\r\nHör dir die Bitte an\r\nund besiege die Monstergruppen."
+    },
+    {
+      "key": "q21014008_00_548",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from <NAME AREA>, \r\nenemy forces have temporarily increased, \r\nand the situation is quite dangerous.",
+      "text": "Laut einem Bericht aus <NAME AREA>\r\nhat die Zahl der Monster vorübergehend zugenommen.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q21014008_00_548",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "仕事であそこを通りかかったとき\r\nおっかない魔物がいたのを見たんだ！\r\n本当だよ！　恐ろしい声で吠えていたんだ！\r\n誰も信じてくれないけど――",
+      "source_en": "I saw a frightening monster when I went \r\nthrough there for work! I swear! It was \r\nroaring with a dreadful voice! No one \r\nbelieves me, but it's true!",
+      "text": "Ich kam bei der Arbeit dort vorbei\r\nund hab ein furchtbares Monster gesehen. Ich schwör’s!\r\nEs hat ganz schrecklich gebrüllt!\r\nMir glaubt bloß keiner …"
+    },
+    {
+      "key": "q21014008_00_1169",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q21014008_00_1222",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所で魔物の群れを探す(残り３)",
+      "source_en": "Search for a group of monsters at the designated location (3 left)",
+      "text": "Such am angegebenen Ort nach einer Monstergruppe (noch 3)."
+    },
+    {
+      "key": "q21014008_00_1223",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り２)",
+      "source_en": "Search for the remaining groups of monsters (2 left)",
+      "text": "Such nach den verbliebenen Monstergruppen (noch 2)."
+    },
+    {
+      "key": "q21014008_00_1224",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り１)",
+      "source_en": "Find the group of monsters that remain (1 left)",
+      "text": "Such nach der letzten Monstergruppe (noch 1)."
+    },
+    {
+      "key": "q21014008_00_1225",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    },
+    {
+      "key": "q21014008_00_1225",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    },
+    {
+      "key": "q21014008_00_1225",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

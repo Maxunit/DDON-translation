@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21015023_00.gmd",
+  "arc_path": "\\quest\\q21015023.arc",
+  "entries": [
+    {
+      "key": "q21015023_00_638",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【時限採取】真夜中の採岩道",
+      "source_en": "[Time] Mining in the Dead of Night",
+      "text": "[Zeitfenster] Erzabbau um Mitternacht"
+    },
+    {
+      "key": "q21015023_00_638",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【時限採取クエスト：23時から2時（GT）】\r\nエリアマスターから話を聞き\r\n特定条件の間に採取を行い納品する",
+      "source_en": "[Time Restriction Quest: 23:00 to 02:00\r\n(GT)] Speak with the area master,\r\nthen gather and deliver items under the\r\nspecific conditions.",
+      "text": "[Sammelquest von 23 bis 2 Uhr (Spielzeit)]\r\nSprich mit der Gebietsmeisterin.\r\nSammle das benötigte Material im angegebenen Zeitraum\r\nund liefere es ab."
+    },
+    {
+      "key": "q21015023_00_638",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のエリアマスターは\r\n覚者へ相談したい事があるらしい",
+      "source_en": "The Area Master of\r\n<NAME AREA>\r\nwould like to seek counsel from\r\nthe Arisen.",
+      "text": "Die Gebietsmeisterin bei\r\n<NAME AREA>\r\nmöchte mit dir\r\nüber etwas sprechen."
+    },
+    {
+      "key": "q21015023_00_638",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "全く、覚者ってのは大変ですね\r\n昼も夜も関係なく、つるはし持って走り回ってるし\r\n夜遅くに採取に行くときは\r\n採取に夢中になって後ろからグサッ！\r\n――ってやられないよう、気を付けるんですよ",
+      "source_en": "Honestly, being an Arisen is hard work.\r\nThey're out with pickaxes,\r\nday and night, running around.\r\nWhen gathering late at night,\r\nthey can get so caught up that they end\r\nup getting stabbed from behind!\r\nThey need to watch out for that.",
+      "text": "Ein Erweckter hat’s wirklich nicht leicht.\r\nTag und Nacht läuft er mit der Spitzhacke herum.\r\nWenn du spät nachts etwas sammeln gehst,\r\npass bloß auf,\r\ndass du dich nicht so sehr aufs Sammeln konzentrierst,\r\ndass dich jemand von hinten überrascht\r\nund dir eine Klinge in den Rücken rammt!"
+    },
+    {
+      "key": "q21015023_00_1233",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターに《<SQDI NAME>》を＜<SQDI NUM>＞つ納品する",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the Area Master",
+      "text": "Bring der Gebietsmeisterin <SQDI NAME> × <SQDI NUM>."
+    },
+    {
+      "key": "q21015023_00_1264",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜23時から2時＞の間に<AREA 15>で《<SQDI NAME>》を採取し＜<SQDI NUM>＞つ納品する",
+      "source_en": "Obtain <SQDI NAME> x<SQDI NUM> at <AREA 15> from 23:00 to 02:00 (GT)",
+      "text": "Sammle <SQDI NAME> × <SQDI NUM> bei <AREA 15> zwischen 23 und 2 Uhr (Spielzeit) und liefere es ab."
+    },
+    {
+      "key": "q21015023_00_1276",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜23時から2時＞の間にパーティメンバーを拠点内に集める",
+      "source_en": "Gather party members in the camp from 23:00 to 02:00 (GT)",
+      "text": "Versammle die Gruppe zwischen 23 und 2 Uhr (Spielzeit) im Lager."
+    },
+    {
+      "key": "q21015023_00_1278",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜23時から2時＞の間に依頼者から詳細を聞く",
+      "source_en": "Inquire details from the requester from 23:00 to 02:00 (GT)",
+      "text": "Frag die Auftraggeberin zwischen 23 und 2 Uhr (Spielzeit) nach den Einzelheiten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

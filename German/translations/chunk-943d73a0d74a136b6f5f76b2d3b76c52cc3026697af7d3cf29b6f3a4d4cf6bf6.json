@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\common\\item_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "327",
+      "tag_source": "source_en",
+      "source_jp": "厳選カカオ",
+      "source_en": "Handpicked Cacao",
+      "text": "Erlesener Kakao"
+    },
+    {
+      "key": "",
+      "read_index": "328",
+      "tag_source": "source_en",
+      "source_jp": "特製チョコレート",
+      "source_en": "Special Chocolate",
+      "text": "Festschokolade"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

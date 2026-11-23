@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21016015_00.gmd",
+  "arc_path": "\\quest\\q21016015.arc",
+  "entries": [
+    {
+      "key": "q21016015_00_587",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "賢者の眠る地",
+      "source_en": "Where the Sage Sleeps",
+      "text": "Wo der Weise ruht"
+    },
+    {
+      "key": "q21016015_00_587",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest] Listen to the\r\nrequester's wish.\r\nDefeat the ferocious enemy without\r\nreviving even once.",
+      "text": "[Sieg ohne Wiederbelebung]\r\nHör dir die Bitte des Auftraggebers an.\r\nBesiege den wilden Gegner,\r\nohne dich auch nur einmal wiederbeleben zu lassen."
+    },
+    {
+      "key": "q21016015_00_587",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the\r\n<NAME AREA>\r\nappears to be testing their skills in a\r\nbattle against an enemy.",
+      "text": "In der Gegend um\r\n<NAME AREA>\r\nversucht offenbar jemand,\r\nsich im Kampf gegen ein Monster zu beweisen."
+    },
+    {
+      "key": "q21016015_00_587",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "私の思い出の場所――\r\n侵食魔がよく現れて汚染されそうになってるみたい\r\nかなりの数が出没してるようなので\r\nもういけなくならないかが心配です",
+      "source_en": "My cherished memory spot—\r\nit seems to be infested with corrupted\r\nmonsters,\r\non the verge of being tainted. With so\r\nmany showing up, I'm worried it might\r\nsoon become lost.",
+      "text": "Mit diesem Ort verbinde ich schöne Erinnerungen.\r\nJetzt tauchen dort offenbar immer wieder Befallene auf.\r\nSie drohen\r\nden ganzen Ort zu verseuchen.\r\nWenn es noch mehr werden,\r\nkann ich wohl bald nicht mehr dorthin."
+    },
+    {
+      "key": "q21016015_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Such am angegebenen Ort nach den wilden Monstern."
+    },
+    {
+      "key": "q21016015_00_1175",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21016015_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte dem Auftraggeber, was du herausgefunden hast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}
