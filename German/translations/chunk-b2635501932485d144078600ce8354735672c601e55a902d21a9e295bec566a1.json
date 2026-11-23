@@ -1,0 +1,128 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000115_00.gmd",
+  "arc_path": "\\quest\\q90000115.arc",
+  "entries": [
+    {
+      "key": "q90000115_00_40",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦攻防戦　戦況：激戦",
+      "source_en": "Battle for Fort Gritten: Fierce Battle",
+      "text": "Schlacht um Festung Gritten – Heftiger Kampf"
+    },
+    {
+      "key": "q90000115_00_40",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "熟練者でないと攻略が難しい高難度大規模戦闘だ\r\n過去に何人もの覚者をほふった、いわくつきの\r\n戦士らが集結するとみられる\r\n戦闘経験の浅い者など数分と生き残れまい\r\nもはや誰しも無傷では済まされないと覚悟しろ",
+      "source_en": "This is a high-difficulty large-scale battle that\r\nis difficult to conquer without being an expert.\r\nIt is said that renowned warriors who have\r\nslaughtered numerous Arisen in the past will\r\ngather. Those with little combat experience will\r\nnot survive even for a few minutes. Prepare\r\nyourself, as no one will come out unscathed\r\nanymore.",
+      "text": "Diese Schlacht ist selbst für Erfahrene eine Herausforderung.\r\nEs heißt, dass sich berüchtigte Krieger versammeln,\r\ndie schon viele Erweckte getötet haben.\r\nWer kaum Kampferfahrung hat,\r\nübersteht wohl keine paar Minuten.\r\nSeid darauf gefasst,\r\ndass keiner unversehrt\r\naus dieser Schlacht zurückkehrt."
+    },
+    {
+      "key": "q90000115_00_40",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦攻防戦：激戦《リザルト報酬》",
+      "source_en": "Battle for Fort Gritten: Fierce Battle (Result\r\nReward)",
+      "text": "Schlacht um Festung Gritten – Heftiger Kampf\r\n(Schlachtbelohnung)"
+    },
+    {
+      "key": "q90000115_00_40",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "熟練者でも致命傷を負う可能性のある\r\n難度の高い大規模戦闘となる\r\n歴戦をくぐった強敵を前に無傷では済まされない",
+      "source_en": "Even the most seasoned of us can be mortally\r\nwounded.\r\nIt's a difficult, large-scale battle.\r\nYou can't go unscathed in the face of a powerful\r\nenemy who has fought many battles in his career.",
+      "text": "Selbst erfahrene Kämpfer\r\nkönnen hier tödlich verwundet werden.\r\nDie Schlacht wird hart.\r\nGegen so starke, kampferprobte Feinde\r\nkommt niemand ohne Verletzungen davon."
+    },
+    {
+      "key": "q90000115_00_1321",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "発見した強襲部隊を撃破で戦功ボーナス",
+      "source_en": "Defeat the assault unit you discovered and receive a War Merit Bonus",
+      "text": "Besiege den entdeckten Stoßtrupp für Bonuspunkte."
+    },
+    {
+      "key": "q90000115_00_1322",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ファビオを護衛し、目標地点の敵を殲滅せよ",
+      "source_en": "Escort Fabio and defeat the enemy at the target locations",
+      "text": "Beschütze Fabio und besiege die Gegner an den Zielorten."
+    },
+    {
+      "key": "q90000115_00_1323",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "9000pt以上の獲得を目指せ",
+      "source_en": "Aim to acquire 9000pt or more",
+      "text": "Erziele mindestens 9.000 Punkte."
+    },
+    {
+      "key": "q90000115_00_1324",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "急襲部隊が出現、戦功ボーナスのチャンス",
+      "source_en": "An Ambush Unit has appeared, offering a chance for a War Merit Bonus",
+      "text": "Ein Überfalltrupp ist aufgetaucht. Du kannst Bonuspunkte verdienen."
+    },
+    {
+      "key": "q90000115_00_1325",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した急襲部隊を撃破で戦功ボーナス",
+      "source_en": "Defeat the ambush unit you discovered and receive a War Merit Bonus",
+      "text": "Besiege den entdeckten Überfalltrupp für Bonuspunkte."
+    },
+    {
+      "key": "q90000115_00_1326",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "急襲部隊の本隊を誘い出した。戦功ボーナスのチャンス",
+      "source_en": "Lured out the main force of the ambush unit. A chance for War Merit Bonus",
+      "text": "Die Hauptstreitmacht des Überfalltrupps wurde hervorgelockt. Du kannst Bonuspunkte verdienen."
+    },
+    {
+      "key": "q90000115_00_1327",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "発見した急襲部隊を撃破で戦功ボーナス",
+      "source_en": "Defeat the ambush unit you discovered and receive a War Merit Bonus",
+      "text": "Besiege den entdeckten Überfalltrupp für Bonuspunkte."
+    },
+    {
+      "key": "q90000115_00_1328",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "強襲部隊が出現、戦功ボーナスのチャンス",
+      "source_en": "An Assault Unit has appeared, offering a chance for a War Merit Bonus",
+      "text": "Ein Stoßtrupp ist aufgetaucht. Du kannst Bonuspunkte verdienen."
+    },
+    {
+      "key": "q90000115_00_1329",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "発見した強襲部隊を撃破で戦功ボーナス",
+      "source_en": "Defeat the assault unit you discovered and receive a War Merit Bonus",
+      "text": "Besiege den entdeckten Stoßtrupp für Bonuspunkte."
+    },
+    {
+      "key": "q90000115_00_1330",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "強襲部隊の本隊を誘い出した。戦功ボーナスのチャンス",
+      "source_en": "Lured out the main force of the Assault Unit. A chance for a War Merit Bonus",
+      "text": "Die Hauptstreitmacht des Stoßtrupps wurde hervorgelockt. Du kannst Bonuspunkte verdienen."
+    },
+    {
+      "key": "q90000115_00_1470",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "大隊長を撃破し、防衛を完遂せよ",
+      "source_en": "Defeat the battalion commander and complete the defense",
+      "text": "Besiege den Bataillonsführer und schließe die Verteidigung ab."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

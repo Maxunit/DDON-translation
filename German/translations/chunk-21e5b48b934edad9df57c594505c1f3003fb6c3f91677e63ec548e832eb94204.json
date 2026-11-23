@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20005000_00.gmd",
+  "arc_path": "\\quest\\q20005000.arc",
+  "entries": [
+    {
+      "key": "q20005000_00_60",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "天を覆う翼",
+      "source_en": "Sky-Concealing Wings",
+      "text": "Flügel, die den Himmel verdunkeln"
+    },
+    {
+      "key": "q20005000_00_60",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20005000_00_60",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "先日から<NAME AREA>で\r\n怪しい影がうごめくのを見たと言う噂が広まっている",
+      "source_en": "Rumors have been spreading lately that shadows \r\nare moving suspiciously in <NAME AREA>.",
+      "text": "Seit einigen Tagen heißt es, man habe unheimliche Schatten\r\nin der Gegend um <NAME AREA> gesehen."
+    },
+    {
+      "key": "q20005000_00_60",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "結婚を約束していた彼女が姿を消してからもう半年\r\n僕の心はまだ癒えず、思い出の場所であるあの草原に\r\n昨日も出向いてたんです\r\nそしたらふと、丘の向こうから何か声が聞こえて――\r\nあれは魔物の唸り声だったのか、それとも――\r\nいえ、僕の妄想だってことぐらいわかっているんです",
+      "source_en": "It has been half a year since she, \r\nwhom I had promised to marry, disappeared.\r\nMy heart is still not healed, \r\nso I went to that grassland, a place of memories.\r\nYesterday, I went there again,\r\nAnd then, suddenly, \r\nI heard a voice from beyond the hill— \r\n\r\nWas that the growl of a monster, or... \r\nNo, I know it's just my imagination.",
+      "text": "Ein halbes Jahr ist es her,\r\ndass meine Verlobte verschwunden ist.\r\nIch komm immer noch nicht darüber hinweg.\r\nAlso bin ich wieder auf die Wiese gegangen, auf der wir früher so oft waren.\r\nAuch gestern war ich dort.\r\nUnd auf einmal\r\nhörte ich hinter der Anhöhe eine Stimme …\r\n\r\nHat da ein Monster geknurrt? Oder …?\r\nAch, ich weiß ja, dass ich mir das nur einbilde."
+    },
+    {
+      "key": "q20005000_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000012_00.gmd",
+  "arc_path": "\\quest\\q21000012.arc",
+  "entries": [
+    {
+      "key": "q21000012_00_324",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "村に光を",
+      "source_en": "Light in the Village",
+      "text": "Licht für Tel"
+    },
+    {
+      "key": "q21000012_00_324",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest]\r\nListen to the requester's wish.\r\nDefeat the ferocious enemy\r\nwithout reviving even once.",
+      "text": "[Sieg ohne Wiederbelebung]\r\nHör dir die Bitte der Auftraggeberin an.\r\nBesiege den wilden Gegner,\r\nohne dich auch nur einmal wiederbeleben zu lassen."
+    },
+    {
+      "key": "q21000012_00_324",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the <NAME AREA> \r\nappears to be testing their skills\r\nin a battle against an enemy.",
+      "text": "Bei <NAME AREA>\r\nversucht offenbar jemand,\r\nsich im Kampf gegen ein Monster zu beweisen."
+    },
+    {
+      "key": "q21000012_00_324",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "テル村の危機！　なんてちょっと大げさですかね\r\nいえ、私近くに住む者なんですが\r\n最近、雰囲気がよくないですよ\r\n魔物の被害だとか、住民同士のいざこざだとか\r\nレスタニアで一番のどかな村だと思っていたのですが\r\nなかなか難しいんでしょうね――",
+      "source_en": "The crisis in Tel Village! \r\nMaybe that's a bit of an exaggeration? \r\nWell, I live nearby, and \r\nthings have been feeling off lately. \r\nThere's the damage from monsters, \r\nand disputes among residents. \r\nI always thought it was the most peaceful village \r\nin Lestania, but it seems things are quite \r\ndifficult now――",
+      "text": "Das Dorf Tel steckt in einer Krise!\r\nOder ist das zu dick aufgetragen?\r\nIch wohne ganz in der Nähe,\r\nund in letzter Zeit ist die Stimmung schlecht.\r\nMonster richten Schäden an,\r\nund die Bewohner geraten untereinander in Streit.\r\nIch dachte immer, Tel ist\r\ndas friedlichste Dorf in ganz Lestania.\r\nIm Moment merkt man davon wenig …"
+    },
+    {
+      "key": "q21000012_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Such am angegebenen Ort nach den wilden Monstern."
+    },
+    {
+      "key": "q21000012_00_1175",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000012_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte der Auftraggeberin, was du herausgefunden hast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

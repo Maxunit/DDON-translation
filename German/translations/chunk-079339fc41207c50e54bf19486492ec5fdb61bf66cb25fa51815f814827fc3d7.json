@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60010001_00.gmd",
+  "arc_path": "\\quest\\q60010001.arc",
+  "entries": [
+    {
+      "key": "q60010001_00_50",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ハイデル平原　試練：霊廟に潜むもの",
+      "source_en": "HP Trial: What Lurks in the Catacombs",
+      "text": "Prüfung in der Hidell-Ebene – Was in den Katakomben lauert"
+    },
+    {
+      "key": "q60010001_00_50",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ハイデル平原の問題解決のため\r\nハイデル地下霊廟を調査し\r\n脅威となる敵に対処する",
+      "source_en": "To resolve the issue in the Hidell Plains,\r\ninvestigate the Hidell Catacombs\r\nand deal with the threatening enemies.",
+      "text": "Hilf den Bewohnern der Hidell-Ebene.\r\nUntersuche die Hidell-Katakomben\r\nund beseitige die Bedrohung."
+    },
+    {
+      "key": "q60010001_00_1382",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "テル村のアルフレドに報告する",
+      "source_en": "Report to Alfred in Tel village",
+      "text": "Erstatte Alfred in Tel Bericht."
+    },
+    {
+      "key": "q60010001_00_1383",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ハイデル地下霊廟を調査し脅威を探す",
+      "source_en": "Investigate the Hidell Catacombs and search for threats",
+      "text": "Such in den Hidell-Katakomben nach gefährlichen Feinden."
+    },
+    {
+      "key": "q60010001_00_1384",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる敵を討伐する",
+      "source_en": "Defeat the enemy threat",
+      "text": "Besiege die gefährlichen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

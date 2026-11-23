@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20025001_00.gmd",
+  "arc_path": "\\quest\\q20025001.arc",
+  "entries": [
+    {
+      "key": "q20025001_00_86",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "単眼の番人",
+      "source_en": "The One-Eyed Guardian",
+      "text": "Der einäugige Wächter"
+    },
+    {
+      "key": "q20025001_00_86",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20025001_00_86",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>で\r\n魔物のものと思われる徘徊痕跡が見つかった",
+      "source_en": "In <NAME AREA>, \r\ntraces of what seem to be wandering \r\nmonsters have been found.",
+      "text": "In der Gegend um <NAME AREA>\r\nwurden Spuren entdeckt,\r\ndie wohl von umherstreifenden Monstern stammen."
+    },
+    {
+      "key": "q20025001_00_86",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "私の直感は、悪いことほど良く当たる\r\nおそらく、ヤツはここに現れるだろう\r\nこの神殿こそ、決着をつけるのに相応しい場所だ\r\nヤツのど真ん中に我が刃を突き立ててやれるなら\r\n私はここで力尽きてもいい",
+      "source_en": "My intuition is that the worse things seem, \r\nthe more accurate they turn out to be. \r\nPerhaps, that creature will appear here. \r\nThis temple is the fitting place to settle the score. \r\n\r\nIf I can drive my blade right into the heart of \r\nthat creature, \r\nI wouldn't mind meeting my end here.",
+      "text": "Wenn ich etwas Schlimmes ahne,\r\nhabe ich meistens recht.\r\nDas Ding wird wohl hier auftauchen.\r\nDieser Tempel ist der richtige Ort, um die Sache zu Ende zu bringen.\r\n\r\nWenn ich ihm die Klinge\r\nins Herz stoßen kann,\r\ndarf ich meinetwegen hier den Tod finden."
+    },
+    {
+      "key": "q20025001_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -3,6 +3,46 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "SPOT_NAME_518",
+      "read_index": "68",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦　通行許可",
+      "source_en": "Fort Gritten Permit Office",
+      "text": "Festung Gritten – Passierscheinstelle"
+    },
+    {
+      "key": "SPOT_NAME_519",
+      "read_index": "69",
+      "tag_source": "source_en",
+      "source_jp": "ハイデル教会",
+      "source_en": "Hidell Church",
+      "text": "Kirche von Hidell"
+    },
+    {
+      "key": "SPOT_NAME_520",
+      "read_index": "70",
+      "tag_source": "source_en",
+      "source_jp": "モルトバ灯台",
+      "source_en": "Moltova Lighthouse",
+      "text": "Leuchtturm von Moltova"
+    },
+    {
+      "key": "SPOT_NAME_521",
+      "read_index": "71",
+      "tag_source": "source_en",
+      "source_jp": "旧騎士団監視塔",
+      "source_en": "Knights' Old Watchtower",
+      "text": "Alter Wachturm der Garde"
+    },
+    {
+      "key": "SPOT_NAME_522",
+      "read_index": "72",
+      "tag_source": "source_en",
+      "source_jp": "灯台下の古井戸",
+      "source_en": "Lighthouse Old Well",
+      "text": "Alter Brunnen am Leuchtturm"
+    },
+    {
       "key": "SPOT_NAME_526",
       "read_index": "76",
       "tag_source": "source_en",
@@ -19,12 +59,36 @@
       "text": "Leuchtturm von Zandora"
     },
     {
+      "key": "SPOT_NAME_529",
+      "read_index": "79",
+      "tag_source": "source_en",
+      "source_jp": "テゴル川",
+      "source_en": "Tegor River",
+      "text": "Tegor-Fluss"
+    },
+    {
+      "key": "SPOT_NAME_530",
+      "read_index": "80",
+      "tag_source": "source_en",
+      "source_jp": "セラー湖",
+      "source_en": "Lake Cera",
+      "text": "Cera-See"
+    },
+    {
       "key": "SPOT_NAME_532",
       "read_index": "82",
       "tag_source": "source_en",
       "source_jp": "イニアス湖",
       "source_en": "Lake Inias",
       "text": "Inias-See"
+    },
+    {
+      "key": "SPOT_NAME_542",
+      "read_index": "92",
+      "tag_source": "source_en",
+      "source_jp": "棄てられた地下道",
+      "source_en": "Abandoned Underground Passage",
+      "text": "Verlassener unterirdischer Gang"
     },
     {
       "key": "SPOT_NAME_543",
@@ -43,12 +107,68 @@
       "text": "Verlassene Kapelle"
     },
     {
+      "key": "SPOT_NAME_545",
+      "read_index": "95",
+      "tag_source": "source_en",
+      "source_jp": "採掘師の隠れ道",
+      "source_en": "Miners' Secret Route",
+      "text": "Geheimgang der Bergleute"
+    },
+    {
       "key": "SPOT_NAME_546",
       "read_index": "96",
       "tag_source": "source_en",
       "source_jp": "森民の地下道",
       "source_en": "Forest People's Tunnel",
       "text": "Tunnel des Waldvolks"
+    },
+    {
+      "key": "SPOT_NAME_547",
+      "read_index": "97",
+      "tag_source": "source_en",
+      "source_jp": "潮騒洞窟",
+      "source_en": "Roaring Tide Cave",
+      "text": "Brandungshöhle"
+    },
+    {
+      "key": "SPOT_NAME_548",
+      "read_index": "98",
+      "tag_source": "source_en",
+      "source_jp": "風鳴り洞窟",
+      "source_en": "Windhowl Cave",
+      "text": "Windheulhöhle"
+    },
+    {
+      "key": "SPOT_NAME_549",
+      "read_index": "99",
+      "tag_source": "source_en",
+      "source_jp": "断崖の坑道",
+      "source_en": "Cliff-Side Tunnel",
+      "text": "Stollen an der Klippe"
+    },
+    {
+      "key": "SPOT_NAME_550",
+      "read_index": "100",
+      "tag_source": "source_en",
+      "source_jp": "ボルド小坑道",
+      "source_en": "Volden Narrow Tunnels",
+      "text": "Kleine Volden-Stollen"
+    },
+    {
+      "key": "SPOT_NAME_551",
+      "read_index": "101",
+      "tag_source": "source_en",
+      "source_jp": "盗賊の隠れ家",
+      "source_en": "Bandit Hideaway",
+      "text": "Versteck der Banditen"
+    },
+    {
+      "key": "SPOT_NAME_552",
+      "read_index": "102",
+      "tag_source": "source_en",
+      "source_jp": "悪鬼の岩窟",
+      "source_en": "Demon's Grotto",
+      "text": "Dämonengrotte"
     },
     {
       "key": "SPOT_NAME_553",
@@ -113,6 +233,54 @@
       "source_jp": "聖樹のテラス",
       "source_en": "Sacred Tree Terrace",
       "text": "Terrasse des Heiligen Baums"
+    },
+    {
+      "key": "SPOT_NAME_562",
+      "read_index": "112",
+      "tag_source": "source_en",
+      "source_jp": "旧騎士団連絡路",
+      "source_en": "Knights' Old Route",
+      "text": "Alter Verbindungsweg der Garde"
+    },
+    {
+      "key": "SPOT_NAME_563",
+      "read_index": "113",
+      "tag_source": "source_en",
+      "source_jp": "旧騎士団資材庫",
+      "source_en": "Knights' Old Storehouse",
+      "text": "Altes Materiallager der Garde"
+    },
+    {
+      "key": "SPOT_NAME_564",
+      "read_index": "114",
+      "tag_source": "source_en",
+      "source_jp": "湖岸地下室",
+      "source_en": "Lakeside Cellar",
+      "text": "Keller am Seeufer"
+    },
+    {
+      "key": "SPOT_NAME_565",
+      "read_index": "115",
+      "tag_source": "source_en",
+      "source_jp": "ドリード水路跡",
+      "source_en": "Dreed Waterway Ruins",
+      "text": "Reste des Wasserwegs von Dreed"
+    },
+    {
+      "key": "SPOT_NAME_566",
+      "read_index": "116",
+      "tag_source": "source_en",
+      "source_jp": "キノザ治水路",
+      "source_en": "Kinoza Drains",
+      "text": "Kinoza-Kanal"
+    },
+    {
+      "key": "SPOT_NAME_567",
+      "read_index": "117",
+      "tag_source": "source_en",
+      "source_jp": "テゴル治水路",
+      "source_en": "Tegor Floodway",
+      "text": "Tegor-Kanal"
     }
   ],
   "schema_version": 1,

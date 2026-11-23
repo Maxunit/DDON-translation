@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000040_00.gmd",
+  "arc_path": "\\quest\\q21000040.arc",
+  "entries": [
+    {
+      "key": "q21000040_00_352",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "呪われし聖域",
+      "source_en": "The Cursed Sanctuary",
+      "text": "Das verfluchte Heiligtum"
+    },
+    {
+      "key": "q21000040_00_352",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【討伐クエスト】\r\nエリアに出現した怪しい魔物を探し\r\n問題の原因となる敵を討伐する",
+      "source_en": "[Subjugation Quest] Search for\r\nsuspicious monsters in the area and\r\ndefeat the enemy causing the problem.",
+      "text": "[Jagdquest]\r\nSuch in der Gegend nach verdächtigen Monstern\r\nund besiege den Auslöser der Vorfälle."
+    },
+    {
+      "key": "q21000040_00_352",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今、怪しい気配のする\r\n魔物たちが出現しているらしい",
+      "source_en": "In\r\n<NAME AREA>\r\nright now,\r\nthere seems to be a suspicious presence\r\nof enemy creatures.",
+      "text": "Bei\r\n<NAME AREA>\r\nsind offenbar gerade\r\nMonster aufgetaucht,\r\nvon denen etwas Unheimliches ausgeht."
+    },
+    {
+      "key": "q21000040_00_352",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "あの遺跡には近づかないことだ\r\nとても美しい場所ゆえ、惹かれるのも理解する\r\nだが、いまや魔物が常に居つく呪われし\r\n場所となってしまったのだ\r\n旧くからこの地にいる純粋な人々は\r\nその現実を受け入れるのが辛かろうな――",
+      "source_en": "You should stay away from that ruin.\r\nIt is a very beautiful place, so it's\r\nunderstandable to be drawn to it.\r\nHowever, it has now become a cursed\r\nlocation where monsters constantly\r\nlinger. The pure-hearted people who have\r\nlived here for ages must find it hard to\r\naccept this reality.",
+      "text": "Bleib dieser Ruine lieber fern.\r\nSie ist wunderschön.\r\nIch verstehe, warum sie dich anzieht.\r\nAber auf dem Ort liegt inzwischen ein Fluch.\r\nÜberall hausen dort Monster.\r\nDie Menschen, die schon seit Generationen hier leben,\r\nhaben ein gutes Herz.\r\nFür sie muss das schwer zu ertragen sein."
+    },
+    {
+      "key": "q21000040_00_1171",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000040_00_1173",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物を討伐する",
+      "source_en": "Defeat the remaining foe(s)",
+      "text": "Besiege die verbliebenen Monster."
+    },
+    {
+      "key": "q21000040_00_1229",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たに現れた魔物を即時討伐して危機を回避",
+      "source_en": "Eliminate the newly emerged monster right away to prevent the crisis",
+      "text": "Besiege das neu aufgetauchte Monster sofort, um die Gefahr abzuwenden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

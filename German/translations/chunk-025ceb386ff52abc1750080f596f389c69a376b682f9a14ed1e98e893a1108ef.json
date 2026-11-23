@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60040002_00.gmd",
+  "arc_path": "\\quest\\q60040002.arc",
+  "entries": [
+    {
+      "key": "q60040002_00_60",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ボルド鉱山　試練：山頂を覆う翼",
+      "source_en": "VM Trial: Summit-Concealing Wings",
+      "text": "Prüfung in den Volden-Minen – Flügel über dem Gipfel"
+    },
+    {
+      "key": "q60040002_00_60",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ボルド鉱山の問題解決のため\r\n山頂の小堂に巣を作った\r\n宝狩りのグリフィンを討伐する",
+      "source_en": "To solve the problem of the Volden Mines,\r\ndefeat the Treasure Seeking Griffin\r\nthat has made its nest in the summit chapel.",
+      "text": "Hilf den Bewohnern der Volden-Minen.\r\nBesiege den Schatzsuchenden Greif,\r\nder an der Gipfelkapelle nistet."
+    },
+    {
+      "key": "q60040002_00_1403",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "キノザ鉱泉のロイに報告する",
+      "source_en": "Report to Roy in Kinoza Mineral Springs",
+      "text": "Erstatte Roy in der Therme von Kinoza Bericht."
+    },
+    {
+      "key": "q60040002_00_1404",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる敵を掃討する",
+      "source_en": "Wipe out threatening enemies",
+      "text": "Besiege die gefährlichen Feinde."
+    },
+    {
+      "key": "q60040002_00_1405",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "山頂の小堂近くの巣へ向かう",
+      "source_en": "Head to nest at the summit near the chapel",
+      "text": "Geh zum Nest nahe der Gipfelkapelle."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

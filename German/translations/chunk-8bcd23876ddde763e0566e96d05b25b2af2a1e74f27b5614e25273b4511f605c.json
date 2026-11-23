@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60202001_00.gmd",
+  "arc_path": "\\quest\\q60202001.arc",
+  "entries": [
+    {
+      "key": "q60202001_00_120",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ブリア海岸　試練：轟く白き雷鳴",
+      "source_en": "BC Trial: A Great White Thunder",
+      "text": "Prüfung an der Breya-Küste – Weißer Donner"
+    },
+    {
+      "key": "q60202001_00_120",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ブリア海岸の問題解決のため\r\nモルトバ遺跡に棲みついた\r\nリンドブルムを討伐する",
+      "source_en": "Defeat the Lindwurm that has taken residence in \r\nthe Moltova Ruins to resolve \r\nthe issue at Breya Coast.",
+      "text": "Besiege den Lindwurm,\r\nder in den Ruinen von Moltova haust\r\nund die Breya-Küste bedroht."
+    },
+    {
+      "key": "q60202001_00_1803",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ローテス村のオニールに報告する",
+      "source_en": "Report to O'Neill in Rotes village",
+      "text": "Erstatte O’Neill in Rotes Bericht."
+    },
+    {
+      "key": "q60202001_00_1804",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "モルトバ遺跡に棲みついたリンドブルムの様子を確認する",
+      "source_en": "Check out Lindwurm inhabiting the Moltova ruins",
+      "text": "Sieh nach dem Lindwurm, der in den Ruinen von Moltova haust."
+    },
+    {
+      "key": "q60202001_00_1805",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "リンドブルムを討伐する",
+      "source_en": "Defeat the Lindwurm",
+      "text": "Besiege den Lindwurm."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

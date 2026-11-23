@@ -3,6 +3,54 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "STAGE_NAME_118",
+      "read_index": "115",
+      "tag_source": "source_en",
+      "source_jp": "不浄の地下水道",
+      "source_en": "Defiled Waterway",
+      "text": "Unreiner Wasserweg"
+    },
+    {
+      "key": "STAGE_NAME_120",
+      "read_index": "117",
+      "tag_source": "source_en",
+      "source_jp": "旧騎士団連絡路",
+      "source_en": "Knights' Old Route",
+      "text": "Alter Verbindungsweg der Garde"
+    },
+    {
+      "key": "STAGE_NAME_122",
+      "read_index": "119",
+      "tag_source": "source_en",
+      "source_jp": "浄水区",
+      "source_en": "Purified Water Section",
+      "text": "Wasserreinigungsbezirk"
+    },
+    {
+      "key": "STAGE_NAME_123",
+      "read_index": "120",
+      "tag_source": "source_en",
+      "source_jp": "旧騎士団資材庫",
+      "source_en": "Knights' Old Storehouse",
+      "text": "Altes Materiallager der Garde"
+    },
+    {
+      "key": "STAGE_NAME_124",
+      "read_index": "121",
+      "tag_source": "source_en",
+      "source_jp": "湖岸地下室",
+      "source_en": "Lakeside Cellar",
+      "text": "Keller am Seeufer"
+    },
+    {
+      "key": "STAGE_NAME_130",
+      "read_index": "127",
+      "tag_source": "source_en",
+      "source_jp": "朽ちかけた井戸",
+      "source_en": "Decaying Well",
+      "text": "Verfallender Brunnen"
+    },
+    {
       "key": "STAGE_NAME_131",
       "read_index": "128",
       "tag_source": "source_en",
@@ -19,12 +67,36 @@
       "text": "Alter Brunnen des Weisen"
     },
     {
+      "key": "STAGE_NAME_133",
+      "read_index": "130",
+      "tag_source": "source_en",
+      "source_jp": "灯台下の古井戸",
+      "source_en": "Lighthouse Old Well",
+      "text": "Alter Brunnen am Leuchtturm"
+    },
+    {
+      "key": "STAGE_NAME_136",
+      "read_index": "133",
+      "tag_source": "source_en",
+      "source_jp": "渓谷の小堂",
+      "source_en": "Valley Chapel",
+      "text": "Talkapelle"
+    },
+    {
       "key": "STAGE_NAME_137",
       "read_index": "134",
       "tag_source": "source_en",
       "source_jp": "標の祠　ミスリウ森林深部",
       "source_en": "Mysree Grove Shrine",
       "text": "Schrein im tiefen Mysree-Wald"
+    },
+    {
+      "key": "STAGE_NAME_138",
+      "read_index": "135",
+      "tag_source": "source_en",
+      "source_jp": "山頂の小堂",
+      "source_en": "Summit Chapel",
+      "text": "Gipfelkapelle"
     },
     {
       "key": "STAGE_NAME_139",
@@ -75,12 +147,60 @@
       "text": "Verbindungsgang unter dem See"
     },
     {
+      "key": "STAGE_NAME_150",
+      "read_index": "147",
+      "tag_source": "source_en",
+      "source_jp": "戦鬼の影穴",
+      "source_en": "War Demons' Hideout",
+      "text": "Versteck der Kriegsdämonen"
+    },
+    {
+      "key": "STAGE_NAME_151",
+      "read_index": "148",
+      "tag_source": "source_en",
+      "source_jp": "ドリード水路跡",
+      "source_en": "Dreed Waterway Ruins",
+      "text": "Reste des Wasserwegs von Dreed"
+    },
+    {
+      "key": "STAGE_NAME_152",
+      "read_index": "149",
+      "tag_source": "source_en",
+      "source_jp": "キノザ治水路",
+      "source_en": "Kinoza Drains",
+      "text": "Kinoza-Kanal"
+    },
+    {
       "key": "STAGE_NAME_153",
       "read_index": "150",
       "tag_source": "source_en",
       "source_jp": "リンウッド地下水路",
       "source_en": "Lynwood Underground Waterway",
       "text": "Unterirdische Kanäle von Lynwood"
+    },
+    {
+      "key": "STAGE_NAME_154",
+      "read_index": "151",
+      "tag_source": "source_en",
+      "source_jp": "旧騎士団詰め所",
+      "source_en": "Knights' Old Guardhouse",
+      "text": "Alte Wachstube der Ritter"
+    },
+    {
+      "key": "STAGE_NAME_155",
+      "read_index": "152",
+      "tag_source": "source_en",
+      "source_jp": "バートランド地下道",
+      "source_en": "Betland Underground Passage",
+      "text": "Unterirdischer Gang von Betland"
+    },
+    {
+      "key": "STAGE_NAME_156",
+      "read_index": "153",
+      "tag_source": "source_en",
+      "source_jp": "テゴル治水路",
+      "source_en": "Tegor Floodway",
+      "text": "Tegor-Kanal"
     },
     {
       "key": "STAGE_NAME_157",
@@ -137,6 +257,30 @@
       "source_jp": "旧地下実験所",
       "source_en": "Old Underground Laboratory",
       "text": "Altes unterirdisches Labor"
+    },
+    {
+      "key": "STAGE_NAME_165",
+      "read_index": "162",
+      "tag_source": "source_en",
+      "source_jp": "閉ざされた古井戸",
+      "source_en": "Old Sealed Well",
+      "text": "Alter versiegelter Brunnen"
+    },
+    {
+      "key": "STAGE_NAME_166",
+      "read_index": "163",
+      "tag_source": "source_en",
+      "source_jp": "掘削中の井戸",
+      "source_en": "Half-finished Well",
+      "text": "Unfertiger Brunnen"
+    },
+    {
+      "key": "STAGE_NAME_167",
+      "read_index": "164",
+      "tag_source": "source_en",
+      "source_jp": "呻きの枯れ井戸",
+      "source_en": "Groaning Old Well",
+      "text": "Ächzender trockener Brunnen"
     },
     {
       "key": "STAGE_NAME_168",

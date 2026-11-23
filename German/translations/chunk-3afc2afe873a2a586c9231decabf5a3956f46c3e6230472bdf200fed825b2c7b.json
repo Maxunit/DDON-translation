@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50105000_00.gmd",
+  "arc_path": "\\quest\\q50105000.arc",
+  "entries": [
+    {
+      "key": "q50105000_00_51",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "レスタニア追懐戦記",
+      "source_en": "Lestania War Chronicles",
+      "text": "Lestanias Kriegschronik"
+    },
+    {
+      "key": "q50105000_00_51",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\nレスタニアを襲った数々の脅威に\r\n今再び立ち向かえ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nRise once again to face the numerous threats\r\nthat have befallen Lestania.",
+      "text": "Ihr kampferprobten Erweckten, Schwingen des Drachen!\r\nErhebt euch und stellt euch erneut all den Bedrohungen,\r\ndie Lestania einst heimsuchten."
+    },
+    {
+      "key": "q50105000_00_2126",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦へ向かう",
+      "source_en": "Head to Fort Gritten",
+      "text": "Begib dich zur Festung Gritten."
+    },
+    {
+      "key": "q50105000_00_2127",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "砦前を守る脅威を排除する",
+      "source_en": "Eliminate threats to defend the front lines",
+      "text": "Beseitige die Bedrohung vor der Festung."
+    },
+    {
+      "key": "q50105000_00_2128",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦内の魔物を排除する",
+      "source_en": "Eliminate monsters in Fort Gritten",
+      "text": "Besiege die Monster in Festung Gritten."
+    },
+    {
+      "key": "q50105000_00_2129",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "錬金術師の配下を排除する",
+      "source_en": "Eliminate the subordinates of the alchemist",
+      "text": "Besiege die Gefolgsleute des Alchemisten."
+    },
+    {
+      "key": "q50105000_00_2130",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "オークの大将と軍勢を排除する",
+      "source_en": "Eliminate orc generals and their armies",
+      "text": "Besiege die Orkgeneräle und ihre Truppen."
+    },
+    {
+      "key": "q50105000_00_2131",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ディアマンテスを倒す",
+      "source_en": "Defeat Diamantes",
+      "text": "Besiege Diamantes."
+    },
+    {
+      "key": "q50105000_00_2132",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "レオに打ち勝つ",
+      "source_en": "Overcome Leo",
+      "text": "Bezwinge Leo."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

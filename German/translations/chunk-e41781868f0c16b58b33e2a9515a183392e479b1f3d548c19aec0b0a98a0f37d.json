@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20030006_00.gmd",
+  "arc_path": "\\quest\\q20030006.arc",
+  "entries": [
+    {
+      "key": "q20030006_00_243",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "運べぬ運び屋",
+      "source_en": "The Incapable Courier",
+      "text": "Ein Kurier kommt nicht durch"
+    },
+    {
+      "key": "q20030006_00_243",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n指定の物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besorg die gewünschten Waren."
+    },
+    {
+      "key": "q20030006_00_243",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "何者かからの、迅速な救援を求める声が\r\n<NAME AREA>から届いているようだ",
+      "source_en": "It seems that a voice requesting swift assistance \r\nhas come from <NAME AREA>.",
+      "text": "Jemand hat offenbar um rasche Hilfe gebeten.\r\nDer Ruf kam aus der Gegend um <NAME AREA>."
+    },
+    {
+      "key": "q20030006_00_243",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "いや、確かにトラブルを抱えてそうな人はいたよ\r\nちょっと感情的になってたし、ヘタに関わると\r\nもっと怒らせるかも、なんて考えちゃって――\r\nな、なんだよ！？\r\nそんなことって、誰にでもあるだろ？",
+      "source_en": "No, there was definitely someone who seemed to be \r\nin trouble. They got a little emotional, and I \r\nthought it might make them even angrier if I got \r\ninvolved... \r\nWhat's the big deal!? \r\nEveryone goes through stuff like that, don't they?",
+      "text": "Ja, da war tatsächlich jemand,\r\nder wohl Ärger hatte.\r\nEr war ziemlich aufgebracht.\r\nIch dachte, ich würde es nur schlimmer machen, wenn ich mich einmische.\r\nW-was denn?\r\nSo was passiert doch jedem mal, oder?"
+    },
+    {
+      "key": "q20030006_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20030006_00_923",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜白竜神殿＞のキトリッジに話しかける",
+      "source_en": "Speak with Kittredge at \"The White Dragon Temple\"",
+      "text": "Sprich mit Kittredge im Tempel des Weißen Drachen."
+    },
+    {
+      "key": "q20030006_00_924",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "関所のジョシュに話しかける",
+      "source_en": "Speak with Josh at the checkpoint",
+      "text": "Sprich mit Josh am Grenzposten."
+    },
+    {
+      "key": "q20030006_00_1124",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼者に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> ×<SQDI NUM> zum Auftraggeber (noch <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

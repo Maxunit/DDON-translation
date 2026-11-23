@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20010000_00.gmd",
+  "arc_path": "\\quest\\q20010000.arc",
+  "entries": [
+    {
+      "key": "q20010000_00_30",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "海辺の強盗団",
+      "source_en": "Beach Bandits",
+      "text": "Räuber am Strand"
+    },
+    {
+      "key": "q20010000_00_30",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte der Auftraggeberin an\r\nund besiege die Gegner."
+    },
+    {
+      "key": "q20010000_00_30",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>近くで\r\n途方に暮れた様子の者が見かけられた",
+      "source_en": "- There was a person in a bewildered state near\r\n <NAME AREA>.",
+      "text": "Eine verzweifelt wirkende Person wurde gesehen, und zwar nahe\r\n<NAME AREA>."
+    },
+    {
+      "key": "q20010000_00_30",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "先日、海辺で一人ぽつんとたたずむ女性がいたから\r\nつい心配になって声をかけたんです\r\nそのときは不審者に間違われて逃げられてしまったん\r\nですが――まあ、あそこにずっと居て\r\n本当の山賊に襲われるよりは、良かったのでしょう",
+      "source_en": "The other day, \r\nthere was a woman standing alone by the seaside, \r\nso I couldn't help but worry and approached her. \r\nAt that time, she mistook me for a suspicious \r\nperson and ran away... \r\n\r\nWell, it's better for her to be there all alone \r\nthan to be attacked by real bandits, I suppose.",
+      "text": "Neulich stand da\r\neine Frau ganz allein am Meer.\r\nIch machte mir Sorgen und sprach sie an.\r\nSie hielt mich aber für einen üblen Kerl\r\nund lief vor mir davon …\r\n\r\nNa ja, besser, sie läuft einmal zu viel weg,\r\nals dass sie echten Räubern in die Hände fällt."
+    },
+    {
+      "key": "q20010000_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q20010000_00_812",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "盗賊たちを討伐する",
+      "source_en": "Defeat the bandits",
+      "text": "Besiege die Räuber."
+    },
+    {
+      "key": "q20010000_00_828",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した敵を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

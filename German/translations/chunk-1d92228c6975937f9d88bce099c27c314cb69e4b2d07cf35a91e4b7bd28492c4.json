@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60090001_00.gmd",
+  "arc_path": "\\quest\\q60090001.arc",
+  "entries": [
+    {
+      "key": "q60090001_00_69",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原北部　試練：納骨堂の影",
+      "source_en": "NBP Trial: The Crypt's Shadow",
+      "text": "Prüfung in der Nördlichen Betland-Ebene – Schatten im Beinhaus"
+    },
+    {
+      "key": "q60090001_00_69",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原北部の問題解決のため\r\n地下納骨堂に向かい、使える装具の有無や\r\n魔物がいないか調べる",
+      "source_en": "Investigate the underground catacombs\r\nfor usable equipment and check for monsters\r\nto address the issues in Northern Betland Plains.",
+      "text": "Hilf den Bewohnern der Nördlichen Betland-Ebene.\r\nUntersuche das Unterirdische Beinhaus\r\nauf brauchbare Ausrüstung und Monster."
+    },
+    {
+      "key": "q60090001_00_1430",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "地下納骨堂にて魔物や装具がないか調べる",
+      "source_en": "Examine the underground crypt for any threats or equipment",
+      "text": "Such im Unterirdischen Beinhaus nach brauchbarer Ausrüstung und halt Ausschau nach Gefahren."
+    },
+    {
+      "key": "q60090001_00_1431",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる魔物を討伐する",
+      "source_en": "Defeat the foe(s)",
+      "text": "Besiege die Feinde."
+    },
+    {
+      "key": "q60090001_00_1432",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ドラワン村のサニーに報告する",
+      "source_en": "Report to Sunny in Drawan village",
+      "text": "Erstatte Sunny in Drawan Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

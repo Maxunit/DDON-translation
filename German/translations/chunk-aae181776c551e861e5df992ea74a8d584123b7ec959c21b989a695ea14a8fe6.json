@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20020005_00.gmd",
+  "arc_path": "\\quest\\q20020005.arc",
+  "entries": [
+    {
+      "key": "q20020005_00_51",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "旧神殿に集う魔",
+      "source_en": "A Gathering of Monsters in the Old Temple",
+      "text": "Monster im alten Tempel"
+    },
+    {
+      "key": "q20020005_00_51",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besiege die gesuchten Feinde."
+    },
+    {
+      "key": "q20020005_00_51",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今\r\n覚者の助けを欲する者がいるらしい",
+      "source_en": "It seems that in <NAME AREA>, \r\nthere are people seeking the Arisen's help.",
+      "text": "In der Gegend um <NAME AREA>\r\nsucht offenbar jemand die Hilfe eines Erweckten."
+    },
+    {
+      "key": "q20020005_00_51",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ゲルト団長の命により、レスタニア各地の\r\n同朋の様子を見に行くことがある\r\n前回は魔物の頻出に悩まされる部隊を激励に行った\r\n現場の辛さは現場の長がいちばん良く知っている\r\n可能なかぎり応援したいが、人手不足はどこも深刻だ\r\nこういう場合こそ、覚者らと協力しあうべきなのだが",
+      "source_en": "By the order of Captain Gerd, there are times \r\nwhen I go to different parts of Lestania to check \r\non the condition of my comrades. \r\nLast time, I went to encourage a unit that was \r\ntroubled by frequent monster attacks. \r\nThe hardships of the battlefield are best known \r\nby the leaders on the ground. \r\nI want to support them as much as possible, but \r\nmanpower shortage is a serious issue everywhere. \r\nIn these circumstances, \r\nit is necessary to cooperate with the Arisen.",
+      "text": "Hauptmann Gerd schickt mich gelegentlich\r\nin verschiedene Gegenden Lestanias.\r\nIch soll nachsehen, wie es unseren Kameraden geht.\r\nZuletzt habe ich einen Trupp besucht,\r\nder ständig von Monstern angegriffen wurde.\r\nWie hart es vor Ort ist, wissen die Leute am besten,\r\ndie dort das Kommando haben.\r\nIch würde ihnen gern mehr helfen.\r\nAber uns fehlen überall die Leute.\r\nGerade in solchen Fällen\r\nsollten wir mit den Erweckten zusammenarbeiten."
+    },
+    {
+      "key": "q20020005_00_804",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20020005_00_828",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した敵を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    },
+    {
+      "key": "q20020005_00_828",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "発見した敵を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    },
+    {
+      "key": "q20020005_00_838",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された敵を探す",
+      "source_en": "Search for the specified enemy",
+      "text": "Such den angegebenen Gegner."
+    },
+    {
+      "key": "q20020005_00_840",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "次の敵を探す",
+      "source_en": "Search for the next enemy",
+      "text": "Such den nächsten Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

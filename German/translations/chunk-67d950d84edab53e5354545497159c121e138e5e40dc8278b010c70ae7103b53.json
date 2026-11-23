@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40201012_00.gmd",
+  "arc_path": "\\quest\\q40201012.arc",
+  "entries": [
+    {
+      "key": "q40201012_00_352",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【週期要請】バートランド平原：物資供給",
+      "source_en": "[Periodic Request] Betland Plains: Supply Provision",
+      "text": "[Wöchentlicher Auftrag] Betland-Ebene – Nachschub"
+    },
+    {
+      "key": "q40201012_00_352",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦の備蓄量を安定させるため、\r\n一度まとまった数の物資を集めたいと思う\r\nというわけで、<LQIM>を<LQVA>個手配してほしい\r\n急ぎはしないから、対応可能な者は力を貸してくれ",
+      "source_en": "To stabilize the stockpile at Fort Gritten,\r\nwe need to gather a substantial amount of supplies.\r\nThus, we request <LQIM> \r\nto be arranged in the amount of <LQVA>. \r\nThere is no rush, so those who are able\r\nto assist, please lend your help.",
+      "text": "Damit die Vorräte in Festung Gritten ausreichen,\r\nbrauchen wir eine größere Lieferung.\r\nUns fehlt vor allem <LQIM>.\r\nWir brauchen ungefähr <LQVA> Stück.\r\nEs eilt nicht. Wer Zeit hat,\r\nkann uns damit sehr helfen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

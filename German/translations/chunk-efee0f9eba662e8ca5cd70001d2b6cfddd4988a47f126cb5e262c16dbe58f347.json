@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20000014_00.gmd",
+  "arc_path": "\\quest\\q20000014.arc",
+  "entries": [
+    {
+      "key": "q20000014_00_223",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ときめきをもう一度",
+      "source_en": "A Heart Throbs Once More",
+      "text": "Das Herz schlägt wieder höher"
+    },
+    {
+      "key": "q20000014_00_223",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "メイリーフの願いを聞き入れ\r\n該当の物品を集める",
+      "source_en": "Do Mayleaf a favor and collect the\r\npertinent items.",
+      "text": "Hör dir Mayleafs Bitte an\r\nund besorg ihr die gesuchten Gegenstände."
+    },
+    {
+      "key": "q20000014_00_223",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今\r\n覚者の助けを欲する者がいるらしい",
+      "source_en": "It seems that in <NAME AREA>, \r\nthere are people seeking the Arisen's help.",
+      "text": "In der Gegend um <NAME AREA>\r\nsucht offenbar jemand die Hilfe eines Erweckten."
+    },
+    {
+      "key": "q20000014_00_223",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "あのメイリーフって子、覚者の仕事に\r\n相当興味があるみたいね\r\nレオ様の後をずっとついて行ってた時もあったし\r\n今日なんかは、別の覚者の後ろ姿をじっと\r\n見つめてたわ",
+      "source_en": "That Mayleaf girl seems quite curious about\r\nthe Arisen's duties. There was a time she\r\nfollowed Leo everywhere. Earlier today,\r\nI saw her gazing at the back of another Arisen.",
+      "text": "Mayleaf interessiert sich wohl sehr\r\nfür die Arbeit der Erweckten. Eine Zeit lang\r\nist sie Leo überallhin gefolgt. Heute habe ich gesehen,\r\nwie sie einem anderen Erweckten ganz gebannt nachschaute."
+    },
+    {
+      "key": "q20000014_00_958",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、メイリーフに渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to Mayleaf (need: <SQDI DNUM>)",
+      "text": "Bring Mayleaf <SQDI NAME> ×<SQDI NUM> (noch <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

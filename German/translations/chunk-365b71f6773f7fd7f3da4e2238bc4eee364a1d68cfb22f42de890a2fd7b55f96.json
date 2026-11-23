@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20020001_00.gmd",
+  "arc_path": "\\quest\\q20020001.arc",
+  "entries": [
+    {
+      "key": "q20020001_00_34",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "足りない報告書",
+      "source_en": "The Missing Report",
+      "text": "Der fehlende Bericht"
+    },
+    {
+      "key": "q20020001_00_34",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n指定の物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund beschaff den fehlenden Bericht."
+    },
+    {
+      "key": "q20020001_00_34",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "先日から<NAME AREA>で\r\n世もなく嘆きの節をもらす者がいると伝わっている",
+      "source_en": "From a few days ago in the \r\n<NAME AREA>,\r\nit has been reported that there are individuals\r\nexpressing an overwhelming lament.",
+      "text": "Seit ein paar Tagen gehen Meldungen ein.\r\nIn der Gegend um <NAME AREA>\r\nsoll jemand immer wieder laut\r\nseine Not beklagen."
+    },
+    {
+      "key": "q20020001_00_34",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "騎士団のひとが、なにか落ち着きのない様子で\r\nそわそわしてるのを見かけたの\r\n落し物でもしちゃったのかな？\r\n助けてあげたかったけど、大事な買い物の\r\n途中だったから――ごめんなさい、団員さん",
+      "source_en": "I saw one of the knights, \r\nlooking restless and fidgety. \r\nI wonder if they lost something? \r\nI wanted to help, \r\nbut I was in the middle of an important errand... \r\nI'm sorry, member of the Order.",
+      "text": "Ich hab einen Ritter gesehen.\r\nDer war ganz unruhig und nervös.\r\nOb er etwas verloren hat?\r\nIch wollte ihm ja helfen.\r\nAber ich hatte einen wichtigen Einkauf zu erledigen …\r\nTut mir leid, Herr Ritter."
+    },
+    {
+      "key": "q20020001_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20020001_00_822",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "調査から戻らない覚者を捜す",
+      "source_en": "Search for the Arisen that has not returned from surveying",
+      "text": "Such den Erweckten, der von seiner Erkundung noch nicht zurückgekehrt ist."
+    },
+    {
+      "key": "q20020001_00_824",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "傷ついた覚者に話しかける",
+      "source_en": "Speak with the wounded Arisen",
+      "text": "Sprich mit dem verletzten Erweckten."
+    },
+    {
+      "key": "q20020001_00_825",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "報告書を依頼者に渡す",
+      "source_en": "Deliver the report to the requester",
+      "text": "Bring dem Auftraggeber den Bericht."
+    },
+    {
+      "key": "q20020001_00_826",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "報告書をヴァネッサに渡す",
+      "source_en": "Deliver the report to Vanessa",
+      "text": "Bring Vanessa den Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

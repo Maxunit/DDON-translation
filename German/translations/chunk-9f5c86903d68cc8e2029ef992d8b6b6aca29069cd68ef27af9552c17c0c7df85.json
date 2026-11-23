@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20025002_00.gmd",
+  "arc_path": "\\quest\\q20025002.arc",
+  "entries": [
+    {
+      "key": "q20025002_00_309",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "悪魔の翼膜を求めて",
+      "source_en": "Seeking Fiend Wing Membrane",
+      "text": "Auf der Suche nach Dämonenflügelhaut"
+    },
+    {
+      "key": "q20025002_00_309",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n力を貸す",
+      "source_en": "Listen to the requester's wishes\r\nand lend your aid",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund hilf ihm."
+    },
+    {
+      "key": "q20025002_00_309",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from <NAME AREA>, \r\nenemy forces have temporarily increased, \r\nand the situation is quite dangerous.",
+      "text": "Berichten aus der Gegend um <NAME AREA> zufolge\r\nsind dort zeitweise mehr Monster unterwegs als sonst.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q20025002_00_309",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "《第三のアーク》でどうも不穏な動きがあるらしい\r\n神殿の危機に結びつきかねない事態を重く見た\r\n上層部が調査隊を送ったようだがまだ戻らない\r\nこりゃ、調査隊の調査隊を送るしかないんじゃ\r\nないか？　おまけに、北の地でも同時に似たような\r\n報告があるというし、いよいよまずいな",
+      "source_en": "There appear to be troubling \r\nsigns at the Third Ark. The higher-ups, seeing \r\nthe potential risk to the Temple, dispatched a \r\nsurvey team, but they haven't come back yet. \r\n\r\nWe might need to send a second survey team. \r\nMoreover, there are similar reports from the \r\nnorth, so things are looking increasingly dire.",
+      "text": "Auf der Dritten Arche\r\nsoll etwas Verdächtiges vor sich gehen.\r\nDie Leitung fürchtet um den Tempel\r\nund hat einen Erkundungstrupp entsandt. Der ist noch nicht zurück.\r\n\r\nJetzt brauchen wir wohl einen zweiten Trupp, der den ersten sucht.\r\nUnd aus dem Norden kommen ganz ähnliche Meldungen.\r\nDie Sache wird immer ernster."
+    },
+    {
+      "key": "q20025002_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20025002_00_804",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20025002_00_1150",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "邪悪な魔物を討伐する",
+      "source_en": "Defeat the foe(s)",
+      "text": "Besiege das bösartige Monster."
+    },
+    {
+      "key": "q20025002_00_1152",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "邪悪の根源である敵を討伐する",
+      "source_en": "Defeat the enemy that is the source of evil",
+      "text": "Besiege den Feind, von dem die Bedrohung ausgeht."
+    },
+    {
+      "key": "q20025002_00_1159",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜第三のアーク＞で邪悪な気配の源を探る",
+      "source_en": "Investigate the source of the evil presence in the [Third Ark].",
+      "text": "Untersuche die Dritte Arche und finde heraus, was die finstere Präsenz verursacht."
+    },
+    {
+      "key": "q20025002_00_1160",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "＜メルゴダ護政区＞でさらなる邪悪な気配の源を探る",
+      "source_en": "Investigate the source of further evil aura in the [Mergoda Security District].",
+      "text": "Finde heraus, woher die finstere Präsenz im Wachtbezirk Mergoda kommt."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

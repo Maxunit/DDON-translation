@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q20010008.gmd",
+  "arc_path": "\\quest\\q20010008.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "巨人の断末魔が辺りに響く――",
+      "source_en": "The giant's scream echoes through the area...",
+      "text": "Der Todesschrei des Riesen hallt über die Küste …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "巨人は、新たな巨人を呼び寄せた！",
+      "source_en": "The giant summoned another giant!",
+      "text": "Der Riese hat einen weiteren Riesen herbeigerufen!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

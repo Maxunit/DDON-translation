@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20030002_00.gmd",
+  "arc_path": "\\quest\\q20030002.arc",
+  "entries": [
+    {
+      "key": "q20030002_00_52",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "時を刻む遺物",
+      "source_en": "Historical Mementos",
+      "text": "Zeugnisse vergangener Zeiten"
+    },
+    {
+      "key": "q20030002_00_52",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n望む物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund sammle die gesuchten Schriftstücke."
+    },
+    {
+      "key": "q20030002_00_52",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>から\r\n何者かが助けを請うているらしいと報告があった",
+      "source_en": "From <NAME AREA>,\r\nThere are reports of someone who is begging for\r\nhelp",
+      "text": "Aus der Gegend um <NAME AREA>\r\nwird gemeldet, dass dort jemand offenbar dringend\r\nHilfe braucht."
+    },
+    {
+      "key": "q20030002_00_52",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "まともな武装もしないで危険な場所に行くやつは\r\n魔物のエサになっても文句は言えんよな\r\n特に、研究者や学者にその傾向が強い\r\nやつらは自分たちがいかに騎士団や覚者たちに\r\n迷惑をかけているかの自覚が足りん",
+      "source_en": "Those who go to dangerous places without proper \r\narmament cannot complain if they become \r\nprey for monsters.\r\nResearchers and scholars especially have \r\nthis tendency.\r\nThey lack awareness of how much trouble they cause\r\nto the knights and Arisen.",
+      "text": "Wer sich ohne brauchbare Waffen\r\nan gefährliche Orte wagt, braucht sich nicht zu beschweren,\r\nwenn er als Monsterfutter endet.\r\nForscher und Gelehrte haben einen besonderen Hang dazu.\r\nSie ahnen wohl kaum,\r\nwie viele Umstände sie damit\r\nden Rittern und den Erweckten machen."
+    },
+    {
+      "key": "q20030002_00_804",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20030002_00_973",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "古城に残された旧時代の史料を探す（残り３）",
+      "source_en": "Retrieve the historical materials left in the castle (3 left)",
+      "text": "Such in der alten Burg nach historischen Schriftstücken (noch 3)."
+    },
+    {
+      "key": "q20030002_00_1094",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "古城に残された旧時代の史料を探す（残り２）",
+      "source_en": "Retrieve the historical materials left in the castle (2 left)",
+      "text": "Such in der alten Burg nach historischen Schriftstücken (noch 2)."
+    },
+    {
+      "key": "q20030002_00_1095",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "古城に残された旧時代の史料を探す（残り１）",
+      "source_en": "Retrieve the historical materials left in the castle (1 left)",
+      "text": "Such in der alten Burg nach historischen Schriftstücken (noch 1)."
+    },
+    {
+      "key": "q20030002_00_1126",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "古城に残された旧時代の史料を探す（残り４）",
+      "source_en": "Retrieve the historical materials left in the castle (4 left)",
+      "text": "Such in der alten Burg nach historischen Schriftstücken (noch 4)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

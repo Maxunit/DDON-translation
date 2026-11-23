@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40201014_00.gmd",
+  "arc_path": "\\quest\\q40201014.arc",
+  "entries": [
+    {
+      "key": "q40201014_00_354",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【週期要請】ダウ渓谷：物資供給",
+      "source_en": "[Periodic Request] Dowe Valley: Supply Provision",
+      "text": "[Wöchentlicher Auftrag] Dowe-Tal – Nachschub"
+    },
+    {
+      "key": "q40201014_00_354",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジンゲンに長期滞在される覚者様へ\r\n現在この村では<LQIM>が慢性的に不足しております\r\n叶うことならば<LQVA>個ほど集めていただければ幸いです\r\n急ぎはしません、どうかお願いします",
+      "source_en": "To Arisen staying long-term in Jingen:\r\nThe village is currently experiencing a chronic \r\nshortage of <LQIM>.\r\nIf possible, \r\nwe would greatly appreciate it if you could\r\ngather around <LQVA> of them. \r\nThere's no rush, so please\r\nassist when you can.",
+      "text": "An alle Erweckten, die länger in Jingen bleiben.\r\nUns fehlt seit einiger Zeit\r\n<LQIM>.\r\nWenn du uns aushelfen kannst,\r\nwären wir dir sehr dankbar.\r\nSammle bitte etwa <LQVA> Stück.\r\nEs eilt nicht.\r\nBring sie vorbei, wenn du Zeit hast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

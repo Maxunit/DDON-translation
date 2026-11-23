@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60040001.gmd",
+  "arc_path": "\\quest\\q60040001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "やぁ、ありがたい！\r\n《ボルド大坑道》の様子見、お願いできますか",
+      "source_en": "You have my thanks!\r\nMight I ask of you to investigate the Volden\r\nMines Large Tunnels?",
+      "text": "Ah, ich danke Euch!\r\nWürdet Ihr in den Volden-Stollen\r\nnach dem Rechten sehen?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "お話しした通り、大坑道の崩落は\r\n巨人族出現のせいでしてね",
+      "source_en": "As the story goes, the Volden\r\nTunnels' collapse is credited to a creature\r\nof grand proportions.",
+      "text": "Es heißt, eines der Ungeheuer\r\nmit besonders gewaltigem Wuchs\r\nhabe die Volden-Stollen zum Einsturz gebracht."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "覚者さんにはずばり、再開発の妨げに\r\nなりそうな巨人の有無を見て来て頂きたい\r\nわけです",
+      "source_en": "Arisen, I would ask that you\r\nconfirm the existence of such a troublesome\r\nbeast once and for all.",
+      "text": "Bitte findet heraus, Erweckter,\r\nob eine so gefährliche Bestie\r\nwirklich in den Stollen haust."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "で、居た場合は討伐の方もぜひ！\r\nサイクロプスくらい、あなたほどの覚者さんなら\r\n退治したことはおありでしょう",
+      "source_en": "Fell the giant should it exist!\r\nDefeating the likes of a cyclops would come\r\nnatural to an Arisen of your prowess.",
+      "text": "Solltet Ihr einen Riesen finden, bezwingt ihn bitte!\r\nEin Zyklop dürfte für einen Erweckten\r\nmit Euren Fähigkeiten kein Problem sein."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "そうそう、入り口のガレキは撤去しましたが\r\n坑道内部はまだ崩落しているかもしれません",
+      "source_en": "Also, while the rubble blocking\r\nthe entrance has been cleared, there's\r\nlike to be weak rock formations inside.",
+      "text": "Der Schutt am Eingang wurde zwar geräumt,\r\naber im Inneren\r\nkönnte weiteres Gestein nachgeben."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "岩盤で道が塞がっている時は\r\n近くに掘削用の《火薬樽》が残っているはずです\r\nそれを使って発破するといいですよ",
+      "source_en": "Should your path be blocked\r\nby rubble, there should be gunpowder barrels\r\nnearby.\r\nYou can use them to blast your way through.",
+      "text": "Wenn Geröll den Weg versperrt,\r\nsollten noch Sprengfässer aus dem Bergbau\r\nin der Nähe stehen.\r\nDamit könnt Ihr den Weg freisprengen."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "――しかし、サイクロプスが坑道に入り込んだ\r\nって話はよく聞きますが、岩盤崩落とは\r\nそこまでの力があるんですかねぇ――？",
+      "source_en": "―Also, I've often heard that a \r\ncyclops lurks the tunnels. That sort of strength\r\nmight also work just as well!",
+      "text": "Ich habe oft gehört,\r\ndass sich Zyklopen in die Stollen verirren.\r\nAber sind sie wirklich stark genug, um Fels zum Einsturz zu bringen?"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "なんと！？\r\n崩落の原因になったのはサイクロプス\r\nではなくゴーレムだったとは",
+      "source_en": "What!?\r\nThe cause of the collapse wasn't a cyclops,\r\nbut rather a golem?",
+      "text": "Wie bitte?\r\nEin Golem hat den Einsturz verursacht?\r\nIch dachte, es wäre ein Zyklop gewesen!"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "いやはや、なるほど確かに\r\nそれならあの崩れっぷりも納得が――",
+      "source_en": "Ah, that explains it!\r\n'Tis no wonder it collapsed...",
+      "text": "Ach, das erklärt einiges!\r\nBei einem Golem wundert mich der Einsturz nicht."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "しかし、それは困ったことになりました\r\nこれでは大坑道の再開発は当分おあずけに\r\nなってしまいますなぁ",
+      "source_en": "Alas, it's bothersome in its own right.\r\nWith this, it'll be a while afore we\r\ncan continue our redevelopment.",
+      "text": "Das ist auf seine Weise genauso ärgerlich.\r\nNun wird es noch eine Weile dauern,\r\nehe wir den Betrieb wieder aufnehmen können."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "今後の件はあらためて検討しましょうか\r\n浅い所なら、採掘できる所もあるでしょうし",
+      "source_en": "We'll have to doubly survey the area.\r\nLightly damaged areas may hold aught left.",
+      "text": "Wir müssen die Gegend noch gründlicher untersuchen.\r\nIn weniger stark beschädigten Gängen könnte noch etwas zu holen sein."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "ともあれ、調査お疲れさまです\r\n今日はゆっくり鉱泉で休んでいって下さいよ",
+      "source_en": "Anyroad, you have my thanks.\r\nPray, make use of our spas at your leisure!",
+      "text": "Jedenfalls danke ich Euch.\r\nIhr seid jederzeit willkommen, Euch in unserer Therme zu erholen!"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "覚者さん、《ボルド大坑道》の巨人の件\r\nなにとぞよろしくお願いしますよ",
+      "source_en": "Ser Arisen, concerning the Giants in Volden Large\r\nTunnels, I humbly ask of your aid.",
+      "text": "Werter Erweckter, bitte helft uns\r\nmit den Riesen in den Volden-Stollen."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "あそこが再開発できるなら\r\nキノザにとってこれ以上ない朗報ですからな！",
+      "source_en": "If that area could be redeveloped, it’d be the\r\nbest news for Kinoza yet!",
+      "text": "Wenn wir die Stollen wieder in Betrieb nehmen könnten,\r\nwäre das die beste Nachricht für Kinoza seit Langem!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000112_00.gmd",
+  "arc_path": "\\quest\\q90000112.arc",
+  "entries": [
+    {
+      "key": "q90000112_00_37",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦攻防戦　戦況：接戦",
+      "source_en": "Battle for Fort Gritten: Close Battle",
+      "text": "Schlacht um Festung Gritten – Kopf an Kopf"
+    },
+    {
+      "key": "q90000112_00_37",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "多少難易度が上がり手ごたえの増した大規模戦闘だ\r\n敵兵にも強い個体が増えてきている\r\nだが日ごろの経験を生かして望めば怖くないはず\r\n基本を忘れず周囲に気を配れ\r\n仲間の動きを見極めてこその連係だ",
+      "source_en": "The difficulty level has increased and it has become a large-scale combat with a greater sense of accomplishment. The number of strong enemy soldiers has also increased. However, if we apply our daily experience, it shouldn't be scary. Remember the basics and pay attention to your surroundings. It's all about coordination, discerning your comrades' movements.",
+      "text": "Die Schlacht wird schwieriger, denn der Feind schickt stärkere Truppen. Mit der Erfahrung, die ihr im Alltag gesammelt habt, könnt ihr euch ihnen stellen. Denkt an die Grundlagen und achtet auf eure Umgebung. Nur wer die Bewegungen seiner Gefährten im Blick behält, kann sich mit ihnen abstimmen."
+    },
+    {
+      "key": "q90000112_00_37",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦攻防戦：接戦《リザルト報酬》",
+      "source_en": "Battle for Fort Gritten: Close Battle\r\n(Result Reward)",
+      "text": "Schlacht um Festung Gritten – Kopf an Kopf\r\n(Schlachtbelohnung)"
+    },
+    {
+      "key": "q90000112_00_37",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "難易度が増した大規模戦闘に挑め\r\n日々の経験を生かせば、強敵も畏れることはない\r\n仲間との連携に注力せよ",
+      "source_en": "Take on the challenge of large-scale battles with increased difficulty.\r\nWith daily experience, even the strongest enemies are not to be feared.\r\nFocus on cooperation with your friends.",
+      "text": "Stell dich der schwierigeren Schlacht.\r\nVertrau auf deine Erfahrung, auch gegen starke Feinde.\r\nStimm dich mit deinen Gefährten ab."
+    },
+    {
+      "key": "q90000112_00_1301",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "リズを護衛し、目標地点の敵を殲滅せよ",
+      "source_en": "Escort Lise and defeat the enemy at the target locations",
+      "text": "Beschütze Lise und besiege die Gegner an den Zielorten."
+    },
+    {
+      "key": "q90000112_00_1302",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "2000pt以上の獲得を目指せ",
+      "source_en": "Aim to acquire 2000pt or more",
+      "text": "Erziele mindestens 2.000 Punkte."
+    },
+    {
+      "key": "q90000112_00_1303",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "急襲部隊が出現、戦功ボーナスのチャンス",
+      "source_en": "An Ambush Unit has appeared, offering a chance for a War Merit Bonus",
+      "text": "Ein Überfalltrupp ist aufgetaucht. Du kannst Bonuspunkte verdienen."
+    },
+    {
+      "key": "q90000112_00_1304",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した急襲部隊を撃破で戦功ボーナス",
+      "source_en": "Defeat the ambush unit you discovered and receive a War Merit Bonus",
+      "text": "Besiege den entdeckten Überfalltrupp für Bonuspunkte."
+    },
+    {
+      "key": "q90000112_00_1305",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "急襲部隊の本隊を誘い出した。戦功ボーナスのチャンス",
+      "source_en": "Lured out the main force of the ambush unit. A chance for War Merit Bonus",
+      "text": "Die Hauptstreitmacht des Überfalltrupps wurde hervorgelockt. Du kannst Bonuspunkte verdienen."
+    },
+    {
+      "key": "q90000112_00_1306",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "発見した急襲部隊を撃破で戦功ボーナス",
+      "source_en": "Defeat the ambush unit you discovered and receive a War Merit Bonus",
+      "text": "Besiege den entdeckten Überfalltrupp für Bonuspunkte."
+    },
+    {
+      "key": "q90000112_00_1464",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "大隊長を撃破し、防衛を完遂せよ",
+      "source_en": "Defeat the battalion commander and complete the defense",
+      "text": "Besiege den Bataillonsführer und schließe die Verteidigung ab."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

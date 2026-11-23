@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20020008_00.gmd",
+  "arc_path": "\\quest\\q20020008.arc",
+  "entries": [
+    {
+      "key": "q20020008_00_237",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "集う脅威",
+      "source_en": "The Gathering Menace",
+      "text": "Eine Bedrohung zieht herauf"
+    },
+    {
+      "key": "q20020008_00_237",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n該当場所を調査し敵を討伐する",
+      "source_en": "Listen to the requester's wishes,\r\ninvestigate the relevant location and defeat the enemy",
+      "text": "Hör dir die Bitte des Auftraggebers an.\r\nUntersuche den angegebenen Ort und besiege die Feinde."
+    },
+    {
+      "key": "q20020008_00_237",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告では\r\n問題を抱えた者の救護を求む声が集まっている",
+      "source_en": "In <NAME AREA>, \r\nthere is a growing demand for aid from those in need.",
+      "text": "Aus der Gegend um <NAME AREA>\r\nkommen immer mehr Hilfegesuche."
+    },
+    {
+      "key": "q20020008_00_237",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "覚者のみなさま、毎日のご活躍ごくろうさまです\r\nさきほどバートランドで、調査隊の報告を\r\n受けたばかりの覚者隊のかたと話しました\r\n少し人手に不安があるらしいですね\r\n手すきの覚者さまがいらっしゃるなら\r\n応援に行ってさしあげてはいかがですか",
+      "source_en": "To all esteemed Arisen, \r\nthank you for your daily efforts. \r\nI just spoke with a member of the Arisen Corps \r\nwho had just received a report from the \r\nexpedition team in Betland. \r\nIt seems they are a bit concerned about the \r\nlack of manpower. \r\nIf any available Arisen would like to lend \r\na hand, how about offering your support?",
+      "text": "An alle Erweckten,\r\nvielen Dank für euren unermüdlichen Einsatz.\r\nIch habe eben mit einem Mitglied der Erwecktentruppe gesprochen.\r\nDie Nachricht des Erkundungstrupps in Betland\r\nwar gerade erst angekommen.\r\nDort macht man sich wohl Sorgen,\r\ndass es an Leuten mangelt.\r\nWer von euch gerade Zeit hat,\r\nkönnte dort sicher aushelfen."
+    },
+    {
+      "key": "q20020008_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20020008_00_828",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した敵を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    },
+    {
+      "key": "q20020008_00_911",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "北に向かい周辺の様子を確認する",
+      "source_en": "Search for the enemy within the Knights' Old Route",
+      "text": "Geh nach Norden und sieh dir die Gegend an."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

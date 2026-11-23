@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\enemy\\enemy_name.gmd",
+  "arc_path": "\\ui\\gui_cmn.arc",
+  "entries": [
+    {
+      "key": "ENEMY_NAME_257",
+      "read_index": "246",
+      "tag_source": "source_en",
+      "source_jp": "侵食オークソルジャー",
+      "source_en": "Infected Orc Soldier",
+      "text": "Befallener Orksoldat"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

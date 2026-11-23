@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40000028_00.gmd",
+  "arc_path": "\\quest\\q40000028.arc",
+  "entries": [
+    {
+      "key": "q40000028_00_28",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦・協力要請",
+      "source_en": "Fort Gritten: Cooperation",
+      "text": "Festung Gritten – Hilfe bei der Jagd"
+    },
+    {
+      "key": "q40000028_00_28",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<LQEM>退治協力要請\r\n上記対象の目撃情報があった\r\n危険度はそれほど高くないものの、ハイデル平原方面への侵入も懸念されるため、<LQVA>体の討伐協力を頼む",
+      "source_en": "Request for cooperation\r\nin <LQEM> extermination.\r\nThere have been sightings of the target.\r\nWhile the danger is not very high, there are concerns\r\nabout intrusion into the Hidell Plains. \r\nPlease assist in the extermination of <LQVA> of them.",
+      "text": "Wir bitten um Unterstützung\r\nbei der Jagd auf <LQEM>.\r\nEs liegen Sichtungen vor.\r\nDie Gefahr ist gering, doch der Gegner könnte\r\nbis in die Hidell-Ebene vordringen.\r\nBitte hilf mit und besiege <LQVA> davon."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

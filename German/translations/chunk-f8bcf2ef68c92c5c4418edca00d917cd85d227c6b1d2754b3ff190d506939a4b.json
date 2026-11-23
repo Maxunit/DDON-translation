@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20025004_00.gmd",
+  "arc_path": "\\quest\\q20025004.arc",
+  "entries": [
+    {
+      "key": "q20025004_00_89",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "銀色の悪鬼（他クエで名称流用中）",
+      "source_en": "The Silver Fiend (name appropriated in other queries)",
+      "text": "Die silberne Bestie"
+    },
+    {
+      "key": "q20025004_00_89",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20025004_00_89",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>は\r\nここ数日異様な気配に満ちているらしい",
+      "source_en": "<NAME AREA> \r\nseems to be filled with an unusual \r\natmosphere these past few days.",
+      "text": "In der Gegend um <NAME AREA>\r\nscheint seit einigen Tagen etwas Seltsames\r\nin der Luft zu liegen."
+    },
+    {
+      "key": "q20025004_00_89",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "騎士団に入りまだ１ヵ月ですが\r\n気合いは高まるばかりです！\r\n命じられた観察眼の鍛錬も欠かしておりません！\r\nおかげで本日も、憎き魔物どもとおぼしき気配を\r\n察知することができました！\r\n速やかに報告し、対策を講じたいと思います！",
+      "source_en": "I've been with the Knights' Order for just one \r\nmonth, but my enthusiasm is only growing stronger! \r\nI haven't neglected my training in observation \r\nskills as ordered. \r\nThanks to that, today I was able to detect the \r\npresence of what seems to be the dreaded monsters! \r\nI will promptly report and take countermeasures!",
+      "text": "Ich bin erst seit einem Monat\r\nbei der Garde, aber mein Eifer wächst von Tag zu Tag!\r\nIch habe, wie befohlen, regelmäßig geübt,\r\nauch kleinste Anzeichen zu erkennen.\r\nSo ist mir heute etwas aufgefallen,\r\ndas auf die Anwesenheit dieser verhassten Monster hindeutet!\r\nIch werde sofort Meldung erstatten und Gegenmaßnahmen einleiten!"
+    },
+    {
+      "key": "q20025004_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

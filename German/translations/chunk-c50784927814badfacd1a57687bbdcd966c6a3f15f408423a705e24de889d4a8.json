@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20020000_00.gmd",
+  "arc_path": "\\quest\\q20020000.arc",
+  "entries": [
+    {
+      "key": "q20020000_00_33",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "砦の物資事情",
+      "source_en": "The Fort's Supply Problems",
+      "text": "Nachschub für die Festung"
+    },
+    {
+      "key": "q20020000_00_33",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ヴァネッサの願いを聞き入れ\r\n指定の物品を調達する",
+      "source_en": "Do Vanessa a favor and procure\r\nspecified items",
+      "text": "Hör dir Vanessas Bitte an\r\nund besorg die benötigten Vorräte."
+    },
+    {
+      "key": "q20020000_00_33",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "協力者を求める者がいるとの報告が\r\n<NAME AREA>から届いている",
+      "source_en": "We have received a report from <NAME AREA>\r\nthat someone is looking for a collaborator.",
+      "text": "Aus der Gegend um <NAME AREA>\r\nwird gemeldet, dass jemand Hilfe sucht."
+    },
+    {
+      "key": "q20020000_00_33",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "猛将と名高いヴァネッサ様も、ときに弱気な表情を\r\n見せるときがある\r\nこの数日も彼女は目に憂いの影が差しているようだ\r\nあれは――うむ、たまらない魅力があるな\r\nい、いかん！\r\nこんな事を考えているのがバレたら――！",
+      "source_en": "Even the renowned warrior, \r\nLady Vanessa, \r\nsometimes reveals a vulnerable expression. \r\nIt seems that in these past few days, \r\nthere has been a trace of sadness in her eyes. \r\n\r\nAh, she possesses an irresistible charm. \r\nN-No! \r\nIf anyone finds out that I'm thinking \r\nsuch things...!",
+      "text": "Selbst Kommandantin Vanessa,\r\ndie als tapfere Kämpferin bekannt ist,\r\nwirkt manchmal verletzlich.\r\nAuch in den letzten Tagen\r\nliegt ein Schatten auf ihrem Blick.\r\n\r\nAch, was für eine Ausstrahlung sie hat.\r\nN-nein, halt!\r\nWenn jemand herausfindet,\r\nwas ich da denke …!"
+    },
+    {
+      "key": "q20020000_00_819",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、ヴァネッサに渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME>x<SQDI NUM> to Vanessa (need: <SQDI DNUM>)",
+      "text": "Bring Vanessa <SQDI NAME> ×<SQDI NUM> (noch <SQDI DNUM>)."
+    },
+    {
+      "key": "q20020000_00_819",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、ヴァネッサに渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME>x<SQDI NUM> to Vanessa (need: <SQDI DNUM>)",
+      "text": "Bring Vanessa <SQDI NAME> ×<SQDI NUM> (noch <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

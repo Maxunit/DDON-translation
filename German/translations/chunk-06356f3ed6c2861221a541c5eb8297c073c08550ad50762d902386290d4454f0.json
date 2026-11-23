@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000048_00.gmd",
+  "arc_path": "\\quest\\q21000048.arc",
+  "entries": [
+    {
+      "key": "q21000048_00_360",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "他言は無用",
+      "source_en": "A Forbidden Disclosure",
+      "text": "Unter uns"
+    },
+    {
+      "key": "q21000048_00_360",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【納品討伐クエスト】\r\n依頼者に高価なアイテムを渡し\r\n珍しい敵の居場所を聞き出す",
+      "source_en": "[Delivery Hunt Quest] Hand over a\r\nvaluable item to the client and locate\r\nthe whereabouts of a rare enemy.",
+      "text": "[Liefer- und Jagdquest]\r\nBring dem Auftraggeber einen wertvollen Gegenstand\r\nund finde heraus, wo sich ein seltenes Monster aufhält."
+    },
+    {
+      "key": "q21000048_00_360",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが\r\nエリア内で取得できる珍しいアイテムを求めている",
+      "source_en": "Someone in the\r\n<NAME AREA>\r\nis searching for rare items that can be\r\nfound within the area.",
+      "text": "Jemand bei\r\n<NAME AREA>\r\nsucht nach seltenen Gegenständen,\r\ndie es in dieser Gegend zu finden gibt."
+    },
+    {
+      "key": "q21000048_00_360",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "見たんだ、なんだか不思議な魔物がいるのをさ――\r\nあれは間違いなく力を秘めてる\r\n気が済むまで討伐して、俺のものにするんだ\r\nおっと、この話は絶対内密、他言は無用だからな\r\n誰にもばれずに美味しい思いができるって\r\nたまらねえなぁ～！",
+      "source_en": "I saw it—a strange, mysterious beast is\r\nout there for sure. That thing\r\ndefinitely has hidden power. I plan to\r\nhunt it until I'm satisfied and claim it\r\nfor myself! But hey, this must stay\r\nbetween us—no sharing. The idea of\r\nrelishing something without anyone\r\nfinding out is just too tempting!",
+      "text": "Ich hab’s mit eigenen Augen gesehen!\r\nDieses Monster war wirklich seltsam.\r\nDas hat bestimmt eine verborgene Kraft.\r\nIch jage es so oft, wie ich will,\r\nbis ich mir die Kraft selbst geholt hab!\r\nAber wehe, du erzählst jemandem davon.\r\nSo was ganz für sich allein auszukosten,\r\ndas ist doch das Beste!"
+    },
+    {
+      "key": "q21000048_00_1166",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼者に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring dem Auftraggeber <SQDI NAME> × <SQDI NUM> (noch benötigt: <SQDI DNUM>)."
+    },
+    {
+      "key": "q21000048_00_1167",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ魔物を探しに行く",
+      "source_en": "Go to the designated location to search for enemy",
+      "text": "Such am angegebenen Ort nach dem Monster."
+    },
+    {
+      "key": "q21000048_00_1168",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "発見した魔物を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    },
+    {
+      "key": "q21000048_00_1169",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

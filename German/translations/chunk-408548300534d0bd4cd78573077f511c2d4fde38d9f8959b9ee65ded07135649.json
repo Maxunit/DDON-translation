@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20035003_00.gmd",
+  "arc_path": "\\quest\\q20035003.arc",
+  "entries": [
+    {
+      "key": "q20035003_00_103",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "輝く一本角",
+      "source_en": "The Glittering Horn",
+      "text": "Das schimmernde Horn"
+    },
+    {
+      "key": "q20035003_00_103",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20035003_00_103",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>あたりで\r\n正体不明の襲撃者を警戒する民が増えている",
+      "source_en": "In the <NAME AREA> area, \r\nthere is growing concern among the locals \r\nabout unidentified assailants.",
+      "text": "In der Gegend um <NAME AREA>\r\nfürchten sich immer mehr Menschen\r\nvor unbekannten Angreifern."
+    },
+    {
+      "key": "q20035003_00_103",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "いまどきは性能のいい武器や防具が出回るせいか\r\n腕に見合わないエモノを狩りたがるヒヨッ子が増えた\r\nこっちの狩場を荒らされちゃあ困るんだ\r\nこのあたりは今\r\nいい感じに魔物の気配が集まっている\r\n初心者どもはさっさと退散してくれないもんかね",
+      "source_en": "Nowadays, perhaps due to the abundance of \r\nhigh-performance weapons and armor, \r\nthere has been an increase in \r\ninexperienced hunters who desire items \r\nbeyond their capabilities. \r\nIt's troublesome when they come and disturb our \r\nhunting grounds. \r\nCurrently, the presence of monsters in this \r\narea is just right. \r\nI hope these beginners will quickly retreat.",
+      "text": "Heutzutage kommt ja jeder\r\nan gute Waffen und Rüstungen.\r\nVielleicht gibt's deshalb immer mehr Grünschnäbel,\r\ndie sich gleich an Beute heranwagen,\r\nder sie längst nicht gewachsen sind.\r\nDie sollen uns gefälligst\r\nunser Jagdrevier in Ruhe lassen.\r\nGerade streifen hier genug Monster herum.\r\nFür uns ist das genau richtig.\r\nKönnen sich die Anfänger nicht einfach verziehen?"
+    },
+    {
+      "key": "q20035003_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40201018_00.gmd",
+  "arc_path": "\\quest\\q40201018.arc",
+  "entries": [
+    {
+      "key": "q40201018_00_358",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【週期要請】バートランド平原北部：物資供給",
+      "source_en": "[Periodic Request] Northern Betland Plains: Supply Provision",
+      "text": "[Wöchentlicher Auftrag] Nördliche Betland-Ebene – Nachschub"
+    },
+    {
+      "key": "q40201018_00_358",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターのサニーだよ\r\nしばらくこの村にいるなら<LQIM>を<LQVA>つほど集めてきてくれないかな\r\n最近は物騒だから、中々採りに行けなくて困ってるんだ\r\n急ぎじゃないから、無理しなくていいからね",
+      "source_en": "This is Sunny, the Area Master.\r\nIf you're staying in the village for a while, \r\ncould you gather <LQVA> <LQIM>?\r\nIt's been quite dangerous lately, \r\nso I've had trouble collecting them.\r\nThere's no rush, so don't push yourself too hard.",
+      "text": "Hier ist Sunny, die Gebietsmeisterin.\r\nFalls du noch eine Weile im Dorf bleibst,\r\nkönntest du <LQVA> × <LQIM> besorgen?\r\nEs ist in letzter Zeit so gefährlich geworden,\r\ndass ich selbst kaum noch etwas sammeln kann.\r\nEs eilt nicht, also geh kein Risiko ein."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

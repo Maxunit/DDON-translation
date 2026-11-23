@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20000000_00.gmd",
+  "arc_path": "\\quest\\q20000000.arc",
+  "entries": [
+    {
+      "key": "q20000000_00_25",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "廃教会の異変",
+      "source_en": "A Calamity at the Cathedral Ruins",
+      "text": "Unheil an der verlassenen Kirche"
+    },
+    {
+      "key": "q20000000_00_25",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "白衛騎士団員ゴートンの話をもとに\r\n廃教会に潜む怪異の原因を探る",
+      "source_en": "Based on the story of White Guard Knight Gordon,\r\ninvestigate the cause of the supernatural\r\nphenomena hidden within the abandoned church.",
+      "text": "Hör dir an, was Gordon von der Weißen Garde zu berichten hat.\r\nUntersuche dann die verlassene Kirche\r\nund finde heraus, was dort vor sich geht."
+    },
+    {
+      "key": "q20000000_00_25",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "協力者を求める者がいるとの報告が\r\n<NAME AREA>から届いている",
+      "source_en": "We have received a report from <NAME AREA>\r\nthat someone is looking for a collaborator.",
+      "text": "Aus der Gegend um <NAME AREA>\r\nwird gemeldet, dass jemand Hilfe sucht."
+    },
+    {
+      "key": "q20000000_00_25",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "街道のはずれに、崩れかけた城壁があるでしょう？\r\nそのあたりで騎士団の団員が、物思いの顔で\r\nしばらく留まっていたらしいです\r\n最近は不審な場所の事前調査とか、民家周辺の\r\n巡回警備をやってるらしいのですが\r\n何か問題でも起こったんでしょうかね",
+      "source_en": "On the outskirts of the street,\r\nthere's a crumbling castle wall, right? \r\nIt seems that a member of the Knights' Order\r\nhas been standing there with a pensive look for a while. \r\nRecently, they've been conducting preliminary\r\ninvestigations of suspicious places\r\nand patrolling the houses in the area. \r\nI wonder if something has happened.",
+      "text": "Am Rand der Landstraße\r\nsteht doch diese verfallene Burgmauer, oder?\r\nIn der Nähe soll eine ganze Weile\r\nein Ritter nachdenklich herumgestanden haben.\r\nIn letzter Zeit untersucht die Garde wohl\r\nverdächtige Orte und schickt außerdem\r\nStreifen zu den Häusern in der Gegend.\r\nOb etwas passiert ist?"
+    },
+    {
+      "key": "q20000000_00_800",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "異変の元凶を探す",
+      "source_en": "Investigate and find the ringleader",
+      "text": "Finde heraus, wer hinter den Angriffen steckt."
+    },
+    {
+      "key": "q20000000_00_801",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "不死者の集団を排除する",
+      "source_en": "Defeat the undead group",
+      "text": "Besiege die Gruppe Untoter."
+    },
+    {
+      "key": "q20000000_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte Gordon Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

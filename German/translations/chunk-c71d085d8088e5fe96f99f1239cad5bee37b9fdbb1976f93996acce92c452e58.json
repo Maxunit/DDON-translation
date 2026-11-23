@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20075002_00.gmd",
+  "arc_path": "\\quest\\q20075002.arc",
+  "entries": [
+    {
+      "key": "q20075002_00_160",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "猛る魔鳥",
+      "source_en": "The Raging Demonic Bird",
+      "text": "Der wütende Dämonenvogel"
+    },
+    {
+      "key": "q20075002_00_160",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20075002_00_160",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "目撃情報が<NAME AREA>から届いている\r\n不吉な影が、住民や野生動物を怯えさせているようだ",
+      "source_en": "There have been eyewitness reports coming from \r\n<NAME AREA>.\r\nIt seems that a sinister shadow is frightening \r\nthe residents and wildlife.",
+      "text": "Mehrere Zeugen haben sich gemeldet.\r\nSie kommen aus der Gegend um <NAME AREA>.\r\nOffenbar versetzt ein unheimlicher Schatten\r\ndie Bewohner und Tiere dort in Angst."
+    },
+    {
+      "key": "q20075002_00_160",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "嘘だってのか！？いや、ほんとだね\r\n奴は自分の体よりも、ずっとどでかい熊を\r\nひょいよと、かっさらっていったんだよ\r\nあん？そんなどでかい熊のほうが気になるってか\r\nとにかく命が惜しけりゃよ\r\nあそこには、近付かないほうが身のためだぜ",
+      "source_en": "Are you saying it's a lie?! No, it's the truth.\r\nHe carried off a bear much bigger than himself with ease.\r\nWhat? You're more concerned about the giant bear?\r\nWell, if you value your life,\r\nit's best to stay away from that place.",
+      "text": "Du glaubst, ich lüge? Ich schwör's dir!\r\nDas Vieh hat einen Bären davongeschleppt, der viel größer war als es selbst. Einfach so.\r\nWas? Der Riesenbär interessiert dich mehr?\r\nWenn dir dein Leben lieb ist,\r\nhältst du dich jedenfalls von dort fern."
+    },
+    {
+      "key": "q20075002_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

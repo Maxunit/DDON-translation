@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000060_00.gmd",
+  "arc_path": "\\quest\\q21000060.arc",
+  "entries": [
+    {
+      "key": "q21000060_00_379",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "騎士として",
+      "source_en": "As a Knight",
+      "text": "Als Ritter"
+    },
+    {
+      "key": "q21000060_00_379",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest] Listen to the\r\nrequester's wish.\r\nDefeat the ferocious enemy without\r\nreviving even once.",
+      "text": "[Sieg ohne Wiederbelebung]\r\nHör dir die Bitte der Auftraggeberin an.\r\nBesiege den wilden Gegner,\r\nohne dich auch nur einmal wiederbeleben zu lassen."
+    },
+    {
+      "key": "q21000060_00_379",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the\r\n<NAME AREA>\r\nappears to be testing their skills in a\r\nbattle against an enemy.",
+      "text": "In der Gegend um\r\n<NAME AREA>\r\nversucht offenbar jemand,\r\nsich im Kampf gegen ein Monster zu beweisen."
+    },
+    {
+      "key": "q21000060_00_379",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアのために命を賭けるってなら\r\n毎日の鍛錬を怠っちゃダメだ\r\n日々自分を磨いて強さを保つこと――\r\n騎士団の連中は、その覚悟があるんだ\r\n覚者隊の諸君にも、分かってほしいものだ",
+      "source_en": "If you're willing to risk your life for\r\nLestania, you must not neglect daily\r\ntraining.\r\nYou need to hone yourself and maintain\r\nyour strength every day—\r\nthe knights have that resolve.\r\nI hope the Arisen also understand this.",
+      "text": "Wer für Lestania sein Leben aufs Spiel setzt,\r\nmuss jeden Tag trainieren.\r\nDa führt kein Weg dran vorbei.\r\nDu musst an dir arbeiten,\r\nwenn du deine Stärke behalten willst.\r\nDie Ritter der Garde wissen, worauf es ankommt.\r\nIch hoffe, die Erwecktentruppe versteht das auch."
+    },
+    {
+      "key": "q21000060_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Such am angegebenen Ort nach den wilden Monstern."
+    },
+    {
+      "key": "q21000060_00_1175",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000060_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte dem Auftraggeber, was du herausgefunden hast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

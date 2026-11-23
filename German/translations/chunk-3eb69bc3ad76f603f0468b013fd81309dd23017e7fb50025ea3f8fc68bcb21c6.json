@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000113_00.gmd",
+  "arc_path": "\\quest\\q90000113.arc",
+  "entries": [
+    {
+      "key": "q90000113_00_38",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦攻防戦　戦況：苦戦",
+      "source_en": "Battle for Fort Gritten: Uphill Battle",
+      "text": "Schlacht um Festung Gritten – Schwerer Kampf"
+    },
+    {
+      "key": "q90000113_00_38",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "新兵には荷の重い大規模戦闘となる\r\n敵は狂暴性を増しながらも隙のない動きを見せてくる\r\n勘やセンスに頼った個人技を振りまわすだけでは\r\n勝機は薄いだろう\r\n連係をつなぎ敵の弱点を見逃すな",
+      "source_en": "For new recruits, it will be a heavy burden of large-scale combat.\r\nThe enemy will come at us with increasing ferocity, but showing no openings in their movements.\r\nRelying solely on intuition and individual skills will provide little chance of victory.\r\nDo not overlook the enemy's weak points, but connect your attacks strategically.",
+      "text": "Für Rekruten wird diese Schlacht eine harte Probe.\r\nDer Feind greift heftiger an als zuvor und lässt kaum noch eine Lücke.\r\nWer sich auf sein Gespür und seine eigene Stärke verlässt, hat schlechte Aussichten.\r\nStimmt euch ab und lasst keine Schwäche des Gegners ungenutzt."
+    },
+    {
+      "key": "q90000113_00_38",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦攻防戦：苦戦《リザルト報酬》",
+      "source_en": "Battle for Fort Gritten: Uphill Battle\r\n(Result Reward)",
+      "text": "Schlacht um Festung Gritten – Schwerer Kampf\r\n(Schlachtbelohnung)"
+    },
+    {
+      "key": "q90000113_00_38",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "新兵には厳しい大規模戦闘となる\r\n狂暴かつ狡猾な敵に個人技だけでは\r\n太刀打ちできない弱点をついて連係せよ",
+      "source_en": "It will be a tough and large-scale battle for new recruits.\r\nIn order to overcome the fierce and cunning enemies that cannot be dealt with by individual skills alone,\r\nexploit their weaknesses and coordinate attacks.",
+      "text": "Für Rekruten wird diese Schlacht eine harte Probe.\r\nDer Feind ist wild und verschlagen. Allein richtet man gegen ihn wenig aus.\r\nNutzt seine Schwachstellen und arbeitet zusammen."
+    },
+    {
+      "key": "q90000113_00_1311",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "レオを護衛し、目標地点の敵を殲滅せよ",
+      "source_en": "Escort Leo and defeat the enemy at the target locations",
+      "text": "Beschütze Leo und besiege die Gegner an den Zielorten."
+    },
+    {
+      "key": "q90000113_00_1312",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "3000pt以上の獲得を目指せ",
+      "source_en": "Aim to acquire 3000pt or more",
+      "text": "Erziele mindestens 3.000 Punkte."
+    },
+    {
+      "key": "q90000113_00_1313",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "急襲部隊が出現、戦功ボーナスのチャンス",
+      "source_en": "An Ambush Unit has appeared, offering a chance for a War Merit Bonus",
+      "text": "Ein Überfalltrupp ist aufgetaucht. Du kannst Bonuspunkte verdienen."
+    },
+    {
+      "key": "q90000113_00_1314",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した急襲部隊を撃破で戦功ボーナス",
+      "source_en": "Defeat the ambush unit you discovered and receive a War Merit Bonus",
+      "text": "Besiege den entdeckten Überfalltrupp für Bonuspunkte."
+    },
+    {
+      "key": "q90000113_00_1315",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "急襲部隊の本隊を誘い出した。戦功ボーナスのチャンス",
+      "source_en": "Lured out the main force of the ambush unit. A chance for War Merit Bonus",
+      "text": "Die Hauptstreitmacht des Überfalltrupps wurde hervorgelockt. Du kannst Bonuspunkte verdienen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000061_00.gmd",
+  "arc_path": "\\quest\\q21000061.arc",
+  "entries": [
+    {
+      "key": "q21000061_00_380",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "洞窟に満ちる悪",
+      "source_en": "The Evil Resounding in the Cave",
+      "text": "Unheil in den Höhlen"
+    },
+    {
+      "key": "q21000061_00_380",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【討伐クエスト】\r\nエリアに出現した怪しい魔物を探し\r\n問題の原因となる敵を討伐する",
+      "source_en": "[Subjugation Quest] Search for\r\nsuspicious monsters in the area and\r\ndefeat the enemy causing the problem.",
+      "text": "[Jagdquest]\r\nSuch in der Gegend nach verdächtigen Monstern\r\nund besiege den Auslöser der Vorfälle."
+    },
+    {
+      "key": "q21000061_00_380",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今、怪しい気配のする\r\n魔物たちが出現しているらしい",
+      "source_en": "In\r\n<NAME AREA>\r\nright now,\r\nthere seems to be a suspicious presence\r\nof enemy creatures.",
+      "text": "Bei\r\n<NAME AREA>\r\nsind offenbar gerade\r\nMonster aufgetaucht,\r\nvon denen etwas Unheimliches ausgeht."
+    },
+    {
+      "key": "q21000061_00_380",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "この地の洞窟は素晴らしい――\r\nレスタニアでは見たこともない形状のものが\r\n山ほどある――素敵だ！　ここは理想郷だ！\r\nだがしかし、どの洞窟も魔物がいっぱいで\r\n洞窟ではなく魔窟のような状況になっているのは\r\n感心しないがね",
+      "source_en": "These caves are remarkable—\r\nthere are so many shapes here that I've\r\nnever seen in Lestania—\r\nit's wonderful! This truly feels like a\r\nutopia! But every cave is full of\r\nmonsters, turning it into a den of\r\nhorrors, which is quite disappointing.",
+      "text": "Die Höhlen hier sind einmalig.\r\nEs gibt so viele Felsformen,\r\ndie ich in ganz Lestania noch nie gesehen habe.\r\nHerrlich! Ein wahres Paradies!\r\nDoch dann gehst du in eine Höhle,\r\nund sie wimmelt von Monstern.\r\nDamit ist es mit dem Paradies auch schon vorbei."
+    },
+    {
+      "key": "q21000061_00_1171",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000061_00_1173",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物を討伐する",
+      "source_en": "Defeat the remaining foe(s)",
+      "text": "Besiege die verbliebenen Monster."
+    },
+    {
+      "key": "q21000061_00_1229",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たに現れた魔物を即時討伐して危機を回避",
+      "source_en": "Eliminate the newly emerged monster right away to prevent the crisis",
+      "text": "Besiege das neu aufgetauchte Monster sofort, um die Gefahr abzuwenden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60204000_00.gmd",
+  "arc_path": "\\quest\\q60204000.arc",
+  "entries": [
+    {
+      "key": "q60204000_00_109",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ボルド鉱山　試練：漆黒に浮かぶ怨",
+      "source_en": "VM Trial: A Forlorn Complaint",
+      "text": "Prüfung in den Volden-Minen – Klagen aus der Tiefe"
+    },
+    {
+      "key": "q60204000_00_109",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ボルド鉱山の問題解決のため\r\nボルド大坑道の噂を調査し\r\n脅威となる魔物を討伐する",
+      "source_en": "Examine the rumors surrounding the \r\nVolden Large Tunnels and take down the dangerous \r\nmonster to solve the Volden Mines problem.",
+      "text": "Hilf den Bewohnern der Volden-Minen.\r\nGeh den Gerüchten um die Volden-Stollen nach\r\nund besiege das gefährliche Monster."
+    },
+    {
+      "key": "q60204000_00_1894",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "キノザ鉱泉のロイに報告する",
+      "source_en": "Report to Roy in Kinoza Mineral Springs",
+      "text": "Erstatte Roy in der Therme von Kinoza Bericht."
+    },
+    {
+      "key": "q60204000_00_1895",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ボルド大坑道の噂の真偽を調査する",
+      "source_en": "Investigate the truth of the rumors about the Volden Large Tunnels",
+      "text": "Finde heraus, was an den Gerüchten um die Volden-Stollen dran ist."
+    },
+    {
+      "key": "q60204000_00_1896",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる魔物を討伐する",
+      "source_en": "Defeat the demon threat",
+      "text": "Besiege das gefährliche Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

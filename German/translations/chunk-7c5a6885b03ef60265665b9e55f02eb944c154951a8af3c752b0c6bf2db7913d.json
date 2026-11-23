@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000034_00.gmd",
+  "arc_path": "\\quest\\q21000034.arc",
+  "entries": [
+    {
+      "key": "q21000034_00_346",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "小鬼との取引",
+      "source_en": "Deal with the Goblins",
+      "text": "Ein Geschäft mit Goblins"
+    },
+    {
+      "key": "q21000034_00_346",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【納品クエスト】\r\n依頼者の願いを聞き入れ\r\n指定された物資を集めてくる",
+      "source_en": "[Delivery Quest] Listen to the\r\nrequester's wishes and gather the\r\nspecified supplies.",
+      "text": "[Lieferquest]\r\nHör dir die Bitte des Auftraggebers an\r\nund besorg die verlangten Vorräte."
+    },
+    {
+      "key": "q21000034_00_346",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "物資を必要としている人物が\r\n<NAME AREA>から協力を求めている",
+      "source_en": "A person in need of supplies is seeking\r\nassistance in\r\n<NAME AREA>.",
+      "text": "Jemand braucht Nachschub und bittet um Hilfe,\r\nund zwar bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21000034_00_346",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ゴブリン相手の商売？\r\nああ――悪くないよ、稼げるね\r\nでもあまり癒着しすぎるのはオススメしない\r\n相手はゴブリンだよ？　いつ狡猾な要求をしてくるか\r\nわからない――何事もほどほどが一番だね",
+      "source_en": "Dealing with goblins for business?\r\nIt's not bad; you can earn a decent\r\nprofit. However, I wouldn't recommend\r\ngetting too close. They're goblins,\r\nafter all. You never know when they'll\r\ncome up with a sly demand.\r\nModeration is key.",
+      "text": "Geschäfte mit Goblins?\r\nKlar, damit lässt sich ganz gut verdienen.\r\nAber lass dich nicht zu sehr mit denen ein.\r\nEs sind immer noch Goblins.\r\nWer weiß, wann die anfangen,\r\ndich mit ihren Forderungen zu überrumpeln.\r\nMan sollte es damit einfach nicht übertreiben."
+    },
+    {
+      "key": "q21000034_00_1179",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼先に届ける（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> × <SQDI NUM> zum Lieferort (noch benötigt: <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

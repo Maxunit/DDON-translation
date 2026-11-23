@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q90000116.gmd",
+  "arc_path": "\\quest\\q90000116.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "特攻部隊の撃破に成功\r\n引き続き敵勢力の殲滅を続行せよ",
+      "source_en": "Successfully defeated the Special Forces Unit.\r\nContinue to eliminate the enemy forces.",
+      "text": "Der Sonderangriffstrupp ist besiegt!\r\nBezwinge auch die übrigen Gegner!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "強襲部隊の撃破に成功\r\n引き続き敵勢力の殲滅を続行せよ",
+      "source_en": "Successfully defeated the Assault Unit\r\nContinue to annihilate the enemy forces.",
+      "text": "Der Stoßtrupp ist besiegt!\r\nBezwinge auch die übrigen Gegner!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "急襲部隊の撃破に成功\r\n引き続き敵勢力の殲滅を続行せよ",
+      "source_en": "Successfully destroyed the attacking enemy unit.\r\nContinue to eliminate the remaining enemy forces.",
+      "text": "Der Überfalltrupp ist besiegt!\r\nBezwinge auch die übrigen Gegner!"
+    },
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "敵勢力の一部制圧に成功\r\n次の目標地点を目指せ",
+      "source_en": "Successfully partially subdued enemy forces.\r\nProceed to the next target location.",
+      "text": "Ein Teil der feindlichen Truppen ist geschlagen!\r\nWeiter zum nächsten Zielort!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

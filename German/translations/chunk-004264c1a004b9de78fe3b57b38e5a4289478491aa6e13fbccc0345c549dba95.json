@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20020002_00.gmd",
+  "arc_path": "\\quest\\q20020002.arc",
+  "entries": [
+    {
+      "key": "q20020002_00_35",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "降って湧いた修練",
+      "source_en": "Unexpected Training",
+      "text": "Eine unverhoffte Übung"
+    },
+    {
+      "key": "q20020002_00_35",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ガルドリンの願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Heed Gurdolin's wish\r\nto take down the target enemy.",
+      "text": "Hör dir Gurdolins Bitte an\r\nund besiege die gesuchten Feinde."
+    },
+    {
+      "key": "q20020002_00_35",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの噂では\r\n腕に覚えのある者を、求める人物がいるそうだ",
+      "source_en": "According to rumors from \r\n<NAME AREA>,\r\nit seems that there is someone \r\nseeking skilled individuals.",
+      "text": "Gerüchten zufolge sucht jemand\r\nin der Gegend um <NAME AREA>\r\nnach Kämpfern,\r\ndie etwas auf dem Kasten haben."
+    },
+    {
+      "key": "q20020002_00_35",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "騎士団が我らを嫌うのは、覚者という立場にあぐらを\r\nかく不心得者が、いっとき増えたことも原因にある\r\nその点、ガルドリンは気骨が違う\r\nあの男は鍛錬と向上心を欠かさぬ本物の覚者だ\r\n機会があればよく話すといい\r\n稽古をつけてもらうのに、あれ以上の手本はないぞ",
+      "source_en": "The reason the Knights dislike us is because \r\nthere are ignorant Arisen who become complacent \r\nin their position. \r\n\r\nIn that regard, Gurdolin has a different spirit. \r\nThat man is a true Arisen who never lacks in \r\ntraining and ambition. \r\nIf you have the opportunity, \r\nit would be good to speak with him. \r\nThere is no better example to learn from than him.",
+      "text": "Die Ritter halten wenig von uns.\r\nEine Zeit lang gab es immer mehr Erweckte,\r\ndie sich auf ihrem Rang ausruhten.\r\n\r\nGurdolin ist aus anderem Holz geschnitzt.\r\nEr ist ein echter Erweckter. Er trainiert unablässig\r\nund will immer besser werden.\r\nWenn du die Gelegenheit hast,\r\nsprich mit ihm.\r\nBeim Training kannst du von keinem mehr lernen als von ihm."
+    },
+    {
+      "key": "q20020002_00_828",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した敵を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    },
+    {
+      "key": "q20020002_00_829",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ガルドリンに報告する",
+      "source_en": "Report to Gurdolin",
+      "text": "Erstatte Gurdolin Bericht."
+    },
+    {
+      "key": "q20020002_00_1117",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜第二のアーク＞奥底に潜む強敵を探す",
+      "source_en": "<The Second Ark> Search for the formidable enemy lurking in the depths",
+      "text": "<The Second Ark> Such tief in der Zweiten Arche nach dem mächtigen Feind."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

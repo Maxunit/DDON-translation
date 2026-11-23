@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000111_00.gmd",
+  "arc_path": "\\quest\\q90000111.arc",
+  "entries": [
+    {
+      "key": "q90000111_00_36",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦攻防戦　戦況：接戦",
+      "source_en": "Battle for Fort Gritten: Close Battle",
+      "text": "Schlacht um Festung Gritten – Kopf an Kopf"
+    },
+    {
+      "key": "q90000111_00_36",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍と刃を交える大規模戦闘が始まっている\r\n敵軍は数こそいるが斥候クラスがほとんどで\r\n深刻な脅威とはならないと目される\r\n新兵にも活躍の機会は充分にあるはずだ\r\nとはいえ連係戦闘を意識しなければ思わぬ怪我をする\r\n心して挑むがいい",
+      "source_en": "A large-scale battle has begun between the Orc army and our forces. Although the enemy outnumbers us, most of them are scouts, so they are not considered a serious threat. There should be plenty of opportunities for new recruits to shine. However, it is important to be aware of coordinated combat to avoid unexpected injuries. Approach with caution.",
+      "text": "Unsere Truppen stehen dem Orkheer in einer großen Schlacht gegenüber. Der Feind ist in der Überzahl, doch bei den meisten Gegnern handelt es sich um Späher. Auch Rekruten können sich hier beweisen. Stimmt euch im Kampf ab und bleibt wachsam, damit sich niemand unnötig verletzt."
+    },
+    {
+      "key": "q90000111_00_36",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦攻防戦：接戦《リザルト報酬》",
+      "source_en": "Battle for Fort Gritten: Close Battle\r\n(Result Reward)",
+      "text": "Schlacht um Festung Gritten – Kopf an Kopf\r\n(Schlachtbelohnung)"
+    },
+    {
+      "key": "q90000111_00_36",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍との大規模戦闘が始まっている\r\nまだ脅威は少なく、新兵でも充分活躍できるが\r\n油断は禁物だ",
+      "source_en": "The large-scale combat with the Orc army has begun.\r\nThere is still little threat, and even new recruits can contribute adequately.\r\nLetting your guard down is forbidden.",
+      "text": "Der Kampf gegen das Orkheer hat begonnen.\r\nDie Gefahr ist noch überschaubar. Auch Rekruten können ihren Teil beitragen.\r\nBleib trotzdem auf der Hut."
+    },
+    {
+      "key": "q90000111_00_1128",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ヴァネッサを護衛し、目標地点の敵を殲滅せよ",
+      "source_en": "Escort Vanessa and defeat the enemy at the target locations",
+      "text": "Beschütze Vanessa und besiege die Gegner an den Zielorten."
+    },
+    {
+      "key": "q90000111_00_1129",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "1000pt以上の獲得を目指せ",
+      "source_en": "Aim to acquire 1000pt or more",
+      "text": "Erziele mindestens 1.000 Punkte."
+    },
+    {
+      "key": "q90000111_00_1130",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "急襲部隊が出現、戦功ボーナスのチャンス",
+      "source_en": "An Ambush Unit has appeared, offering a chance for a War Merit Bonus",
+      "text": "Ein Überfalltrupp ist aufgetaucht. Du kannst Bonuspunkte verdienen."
+    },
+    {
+      "key": "q90000111_00_1131",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した急襲部隊を撃破で戦功ボーナス",
+      "source_en": "Defeat the ambush unit you discovered and receive a War Merit Bonus",
+      "text": "Besiege den entdeckten Überfalltrupp für Bonuspunkte."
+    },
+    {
+      "key": "q90000111_00_1132",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "急襲部隊の本隊を誘い出した。戦功ボーナスのチャンス",
+      "source_en": "Lured out the main force of the ambush unit. A chance for War Merit Bonus",
+      "text": "Die Hauptstreitmacht des Überfalltrupps wurde hervorgelockt. Du kannst Bonuspunkte verdienen."
+    },
+    {
+      "key": "q90000111_00_1287",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "発見した急襲部隊を撃破で戦功ボーナス",
+      "source_en": "Defeat the ambush unit you discovered and receive a War Merit Bonus",
+      "text": "Besiege den entdeckten Überfalltrupp für Bonuspunkte."
+    },
+    {
+      "key": "q90000111_00_1288",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "大隊長を撃破し、防衛を完遂せよ",
+      "source_en": "Defeat the battalion commander and complete the defense",
+      "text": "Besiege den Bataillonsführer und schließe die Verteidigung ab."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

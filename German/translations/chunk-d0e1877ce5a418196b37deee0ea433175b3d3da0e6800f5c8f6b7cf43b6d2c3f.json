@@ -3,6 +3,14 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "SPOT_NAME_630",
+      "read_index": "176",
+      "tag_source": "source_en",
+      "source_jp": "歌姫の崖座",
+      "source_en": "The Songstress' Cliff Perch",
+      "text": "Felsen der Sängerin"
+    },
+    {
       "key": "SPOT_NAME_631",
       "read_index": "177",
       "tag_source": "source_en",
@@ -41,6 +49,54 @@
       "source_jp": "エルネア・スプリング",
       "source_en": "Elnea Spring",
       "text": "Elnea-Quelle"
+    },
+    {
+      "key": "SPOT_NAME_638",
+      "read_index": "184",
+      "tag_source": "source_en",
+      "source_jp": "湖岸の廃墟",
+      "source_en": "Lakeside Ruins",
+      "text": "Ruinen am Seeufer"
+    },
+    {
+      "key": "SPOT_NAME_639",
+      "read_index": "185",
+      "tag_source": "source_en",
+      "source_jp": "バートランド大橋",
+      "source_en": "Betland Bridge",
+      "text": "Große Betland-Brücke"
+    },
+    {
+      "key": "SPOT_NAME_640",
+      "read_index": "186",
+      "tag_source": "source_en",
+      "source_jp": "セラー湖船墓場",
+      "source_en": "Lake Cera Ship Graveyard",
+      "text": "Schiffsfriedhof am Cera-See"
+    },
+    {
+      "key": "SPOT_NAME_641",
+      "read_index": "187",
+      "tag_source": "source_en",
+      "source_jp": "砦前・千本棘の陣",
+      "source_en": "Fortress Outskirts: Thousand Needles",
+      "text": "Vor Gardnox – Lager der Tausend Dornen"
+    },
+    {
+      "key": "SPOT_NAME_642",
+      "read_index": "188",
+      "tag_source": "source_en",
+      "source_jp": "魔犬養育所",
+      "source_en": "Demon Dog Kennel",
+      "text": "Zwinger der Dämonenhunde"
+    },
+    {
+      "key": "SPOT_NAME_643",
+      "read_index": "189",
+      "tag_source": "source_en",
+      "source_jp": "ガルドノック哨戒地",
+      "source_en": "Gardnox Patrol Area",
+      "text": "Wachgebiet von Gardnox"
     },
     {
       "key": "SPOT_NAME_644",
@@ -147,6 +203,14 @@
       "text": "Quelle der Fülle"
     },
     {
+      "key": "SPOT_NAME_663",
+      "read_index": "209",
+      "tag_source": "source_en",
+      "source_jp": "掘削中の井戸",
+      "source_en": "Half-finished Well",
+      "text": "Unfertiger Brunnen"
+    },
+    {
       "key": "SPOT_NAME_664",
       "read_index": "210",
       "tag_source": "source_en",
@@ -177,6 +241,22 @@
       "source_jp": "第三のアーク",
       "source_en": "The Third Ark",
       "text": "Die dritte Arche"
+    },
+    {
+      "key": "SPOT_NAME_675",
+      "read_index": "221",
+      "tag_source": "source_en",
+      "source_jp": "騎士団補給所跡",
+      "source_en": "Knights' Depot Ruins",
+      "text": "Ruinen des Versorgungspostens der Garde"
+    },
+    {
+      "key": "SPOT_NAME_676",
+      "read_index": "222",
+      "tag_source": "source_en",
+      "source_jp": "ドリード連絡路",
+      "source_en": "Dreed Connecting Passage",
+      "text": "Verbindungsgang von Dreed"
     }
   ],
   "schema_version": 1,

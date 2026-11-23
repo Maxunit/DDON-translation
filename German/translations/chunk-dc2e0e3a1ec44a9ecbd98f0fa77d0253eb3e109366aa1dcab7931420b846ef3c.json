@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20000009_00.gmd",
+  "arc_path": "\\quest\\q20000009.arc",
+  "entries": [
+    {
+      "key": "q20000009_00_218",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "薬を求めて",
+      "source_en": "Request for Medicine",
+      "text": "Arznei für Tel"
+    },
+    {
+      "key": "q20000009_00_218",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n望む物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besorg die gesuchten Zutaten."
+    },
+    {
+      "key": "q20000009_00_218",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>の何処かに\r\n覚者の探索能力を見込み、相談したい者がいるという",
+      "source_en": "There is someone somewhere in <NAME AREA>\r\nwho seeks the assistance of an Arisen.",
+      "text": "Irgendwo in der Gegend um <NAME AREA>\r\nsucht jemand einen Erweckten, der sich mit Nachforschungen auskennt."
+    },
+    {
+      "key": "q20000009_00_218",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "テルに身を寄せるのは１年ぶりですが\r\n少々雰囲気が変わった感じがしますね\r\n村人はあいかわらず親切で、料理も酒も旨いんですが\r\n何かこう、全体的に元気がないというか――\r\nヘンリーという方にそれとなく聞いてみたんですが\r\nいろいろあるんですよ、としか言わなくて",
+      "source_en": "It's been a year since I sought refuge in Tel, \r\nbut it feels like the atmosphere \r\nhas changed a bit. \r\nThe villagers are still kind, \r\nand the food and alcohol are delicious as always, \r\nbut there seems to be a lack of overall energy... \r\n\r\nI asked a person named Henry about it indirectly, \r\nbut all they said was that there are \r\nvarious things going on.",
+      "text": "Ich bin nach einem Jahr wieder in Tel.\r\nIrgendwie hat sich die Stimmung\r\nhier ein bisschen verändert.\r\nDie Leute sind immer noch freundlich.\r\nDas Essen schmeckt, und der Wein ist gut wie eh und je.\r\nAber niemand wirkt so recht munter …\r\n\r\nIch hab Henry ganz beiläufig danach gefragt.\r\nEr meinte bloß, dass gerade\r\neiniges los sei."
+    },
+    {
+      "key": "q20000009_00_887",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "白竜神殿の道具屋ヴァイスロットを訪ねる",
+      "source_en": "Visit Vicelot's item shop in the White Dragon Temple",
+      "text": "Besuch den Händler Vicelot im Tempel des Weißen Drachen."
+    },
+    {
+      "key": "q20000009_00_888",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "神殿の外で薬の材料を入手する（残り２）",
+      "source_en": "Collect the materials needed in Hidell Plains (2 left)",
+      "text": "Sammle außerhalb des Tempels die Arzneizutaten (noch 2)."
+    },
+    {
+      "key": "q20000009_00_890",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ヴァイスロットに届ける",
+      "source_en": "Deliver the materials to Vicelot",
+      "text": "Bring Vicelot die Zutaten."
+    },
+    {
+      "key": "q20000009_00_891",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "薬をヘンリーに届ける",
+      "source_en": "Deliver the medicine to Henry",
+      "text": "Bring Henry die Arznei."
+    },
+    {
+      "key": "q20000009_00_1125",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "神殿の外で薬の材料を入手する（残り１）",
+      "source_en": "Collect the materials needed in Hidell Plains (1 left)",
+      "text": "Sammle außerhalb des Tempels die Arzneizutaten (noch 1)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

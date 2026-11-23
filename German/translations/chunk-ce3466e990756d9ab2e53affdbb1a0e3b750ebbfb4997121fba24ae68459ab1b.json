@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60202000_00.gmd",
+  "arc_path": "\\quest\\q60202000.arc",
+  "entries": [
+    {
+      "key": "q60202000_00_107",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ブリア海岸　試練：蒼き燐光",
+      "source_en": "BC Trial: A Bright Blue Glow",
+      "text": "Prüfung an der Breya-Küste – Blaues Leuchten"
+    },
+    {
+      "key": "q60202000_00_107",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ブリア海岸の問題解決のため\r\n灯台下の古井戸を調査し\r\n青い光の正体を突き止める",
+      "source_en": "Explore the well beneath the lighthouse at \r\nBreya Coast to reveal the mystery \r\nbehind the blue light.",
+      "text": "Untersuche den Alten Brunnen am Leuchtturm\r\nan der Breya-Küste und finde heraus,\r\nwoher das blaue Licht kommt."
+    },
+    {
+      "key": "q60202000_00_1800",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ローテス村のオニールに報告する",
+      "source_en": "Report to O'Neill in Rotes village",
+      "text": "Erstatte O’Neill in Rotes Bericht."
+    },
+    {
+      "key": "q60202000_00_1801",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "灯台下の古井戸へ向かい青い光を調査する",
+      "source_en": "Head to the \"Lighthouse Old Well\" and investigate the blue light",
+      "text": "Geh zum Alten Brunnen am Leuchtturm und untersuche das blaue Licht."
+    },
+    {
+      "key": "q60202000_00_1802",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる魔物を討伐する",
+      "source_en": "Defeat the demon threat",
+      "text": "Besiege das gefährliche Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

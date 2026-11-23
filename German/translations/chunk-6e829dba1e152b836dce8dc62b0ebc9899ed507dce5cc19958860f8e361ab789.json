@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000059_00.gmd",
+  "arc_path": "\\quest\\q21000059.arc",
+  "entries": [
+    {
+      "key": "q21000059_00_378",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "友情はどこまでも",
+      "source_en": "Friends to the End",
+      "text": "Freundschaft kennt keine Ferne"
+    },
+    {
+      "key": "q21000059_00_378",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【納品クエスト】\r\n依頼者の願いを聞き入れ\r\n指定された物資を集めてくる",
+      "source_en": "[Delivery Quest] Listen to the\r\nrequester's wishes and gather the\r\nspecified supplies.",
+      "text": "[Lieferquest]\r\nHör dir die Bitte des Auftraggebers an\r\nund besorg die verlangten Vorräte."
+    },
+    {
+      "key": "q21000059_00_378",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "物資を必要としている人物が\r\n<NAME AREA>から協力を求めている",
+      "source_en": "A person in need of supplies is seeking\r\nassistance in\r\n<NAME AREA>.",
+      "text": "Jemand braucht Nachschub und bittet um Hilfe,\r\nund zwar bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21000059_00_378",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "思い返せば俺も、随分会ってない友人がいるなぁ\r\n遠く分かたれても、友情って続くんだろうか\r\n時間場所も越えて続く関係\r\nそれこそまさに友情だよなぁ――",
+      "source_en": "Thinking back, I realize I have a friend\r\nI haven't met in ages. Will our\r\nfriendship continue even from afar?\r\nA relationship that transcends time and\r\nplace— that's what true friendship\r\nreally is, right?",
+      "text": "Wenn ich so darüber nachdenke,\r\nhab ich auch einen Freund,\r\nden ich seit Ewigkeiten nicht gesehen habe.\r\nKann so eine Freundschaft über die Entfernung bestehen?\r\nWenn sie selbst nach all der Zeit und über diese Entfernung hält,\r\nist es wohl wahre Freundschaft."
+    },
+    {
+      "key": "q21000059_00_1179",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼先に届ける（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> × <SQDI NUM> zum Lieferort (noch benötigt: <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

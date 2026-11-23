@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000003_00.gmd",
+  "arc_path": "\\quest\\q21000003.arc",
+  "entries": [
+    {
+      "key": "q21000003_00_315",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "猛り狂う異形",
+      "source_en": "A Monstrous Rampage",
+      "text": "Das Ungeheuer in der Tiefe"
+    },
+    {
+      "key": "q21000003_00_315",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【討伐クエスト】\r\nエリアに出現した怪しい魔物を探し\r\n問題の原因となる敵を討伐する",
+      "source_en": "[Subjugation Quest]\r\nSearch for suspicious monsters in the area\r\nand defeat the enemy causing the problem.",
+      "text": "[Jagdquest]\r\nSuch in der Gegend nach verdächtigen Monstern\r\nund besiege den Auslöser der Vorfälle."
+    },
+    {
+      "key": "q21000003_00_315",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今、怪しい気配のする\r\n魔物たちが出現しているらしい",
+      "source_en": "In <NAME AREA> right now, \r\nthere seems to be a suspicious presence\r\nof enemy creatures.",
+      "text": "Bei <NAME AREA>\r\nsind offenbar Monster aufgetaucht.\r\nVon ihnen geht etwas Unheimliches aus."
+    },
+    {
+      "key": "q21000003_00_315",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "地下深くに潜む怪物の噂は知っているか？\r\n訪れる旅人を容赦なく食い散らかしているらしい\r\nこのままだと、ブリアはやばいかもな\r\nいつかそいつに、海岸や灯台ごと\r\n飲み込まれちまうぜ\r\n――なあに、噂に過ぎないよ",
+      "source_en": "Have you heard the rumors about the monster \r\nlurking deep underground? It's said to devour \r\ntravelers without mercy. If things continue, \r\nBreya might be in danger. One day, it could \r\nswallow the coast and lighthouse whole. \r\n—Oh, it's just a rumor, though.",
+      "text": "Kennst du das Gerücht um das Ungeheuer tief unter der Erde?\r\nEs soll Reisende ohne Erbarmen verschlingen.\r\nWenn das so weitergeht,\r\nist Breya womöglich in Gefahr.\r\nEines Tages verschlingt es noch die ganze Küste samt Leuchtturm.\r\nAch was, ist doch bloß ein Gerücht."
+    },
+    {
+      "key": "q21000003_00_1171",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000003_00_1173",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物を討伐する",
+      "source_en": "Defeat the remaining foe(s)",
+      "text": "Besiege die verbliebenen Monster."
+    },
+    {
+      "key": "q21000003_00_1229",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たに現れた魔物を即時討伐して危機を回避",
+      "source_en": "Eliminate the newly emerged monster right away to prevent the crisis",
+      "text": "Besiege das neu aufgetauchte Monster sofort, um die Gefahr abzuwenden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

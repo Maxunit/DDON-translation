@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\npc\\base\\n1205.gmd",
+  "arc_path": "\\npc\\n1205.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "あっ、覚者さん！\r\nそういえば良いニュースがあるんだ",
+      "source_en": "Ah, Ser Arisen!\r\nBy the way, I have good news.",
+      "text": "Ah, Erweckter!\r\nIch hab gute Nachrichten für dich."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ブリアにある《辺境の礎》ってやつが\r\n全部使えるようになったらしいよ！",
+      "source_en": "I heard that the sub-crystals in Breya are now\r\navailable, all of them!",
+      "text": "Die Kleinen Zielkristalle in Breya\r\nsollen jetzt alle benutzbar sein!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "俺はアレの使い方、いまいちわかってないんだけど",
+      "source_en": "I'm not really sure how to use that thing, but\r\nthey say you can use every single portcrystal in\r\nBreya— even the ones the Arisen has\r\nnever touched before.",
+      "text": "Wie das alles genau funktioniert,\r\nkann ich dir allerdings nicht erklären.\r\nMit der Benutzung der Zielkristalle\r\nkenn ich mich selbst nicht so gut aus."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "何でも、覚者さんが今までに触ったことのない礎も",
+      "source_en": "The people at Temple arranged it because Arisen\r\noften come to Breya.\r\nThey said they can go to places that have been\r\nhard to get to in an instant.",
+      "text": "Angeblich gilt das sogar\r\nfür die Zielkristalle,\r\nbei denen du noch nie warst\r\nund die du noch gar nicht berührt hast."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "このブリア内にある分は全部使えるんだってさ",
+      "source_en": "Keep up the good work with Breya and Rotes, which\r\nis now easier to explore!",
+      "text": "Wenn sie in Breya stehen,\r\nkannst du sie jetzt wohl alle benutzen."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "そうそう、覚者さんにお願いしたいことがあってさ\r\nルドルフォ爺さんの家の近くに古い井戸があるだろ\r\nその奥に光るものを見たって人がいるんだ",
+      "source_en": "Oh yeah, I've got a request for you, Arisen.\r\nYou know that old well near\r\nGrandpa Rudolfo's house.\r\nSome people say they saw something\r\nshiny at the back of it.",
+      "text": "Ach ja, Erweckter, ich hätte da eine Bitte.\r\nDu kennst doch den alten Brunnen beim Haus\r\nvom alten Rudolfo? Da hat jemand erzählt,\r\ndass er ganz unten im Brunnen\r\netwas Glänzendes gesehen hat."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "もしかして、もしかしたらだよ\r\n井戸の底にお宝が眠ってたりしたら――！\r\nお宝って意外とああいう地味なところに\r\nありそうだしさ！",
+      "source_en": "Maybe, just maybe there is a treasure at the\r\nbottom of the well..!\r\nTreasure can be found in such a humble place",
+      "text": "Stell dir mal vor, da unten schlummert ein Schatz!\r\nGerade an so unscheinbaren Orten\r\nsoll man ja die besten Schätze finden!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ってわけで、よかったら中を見てきて欲しいんだ\r\n行く前には一声かけてくれ\r\n井戸底に沈む青い光、気になるじゃないか",
+      "source_en": "So, I'd like you to come take a look\r\ninside if you'd like.\r\nGive me a shout before you go.\r\nThe blue light at the bottom of the well,\r\nit's curious, isn't it?",
+      "text": "Also, wenn du Lust hast,\r\nschau da mal rein.\r\nSag mir bitte vorher Bescheid.\r\nDieses blaue Licht auf dem Grund …\r\nDa will man doch wissen, was das ist, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "覚者さん、この前も見てきてもらった\r\n《灯台下の古井戸》なんだけどさ\r\n奥に封鎖された扉があっただろ？",
+      "source_en": "Arisen, I had you take a look at it the other\r\nday; It's an \"old well under a lighthouse\", You\r\nsee the sealed door at the back?",
+      "text": "Weißt du noch, der Alte Brunnen am Leuchtturm,\r\nden du neulich untersucht hast?\r\nGanz hinten war doch eine versiegelte Tür, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "あれは古い遺跡に繋がる扉らしいんだけど\r\n俺がエリアマスターになった時には\r\n既に封鎖されててね\r\n奥がどうなってるかは誰も知らないんだ",
+      "source_en": "That's supposed to be a door that leads to an old\r\nruin but by the time I became Area Master it was\r\nalready sealed up and no one knows what's\r\ngoing on in the back.",
+      "text": "Die Tür soll in eine alte Ruine führen.\r\nSie war schon versiegelt,\r\nals ich Gebietsmeister wurde.\r\nKeiner weiß, was dahinterliegt."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "でも、ずっと封鎖したままっていうのもなんだし\r\n今は覚者さんもよく寄ってくれるから\r\n思い切って封鎖を解いてみたんだ",
+      "source_en": "But I didn't want to keep the blockade up\r\nforever, so I took the plunge and unblocked it,\r\nsince I've had a lot of Arisen people stop by now.",
+      "text": "Irgendwann muss man so eine Tür doch öffnen.\r\nUnd jetzt kommen oft Erweckte hier vorbei,\r\nalso hab ich die Sperre aufgehoben."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "海は男のロマンだけど\r\n封鎖されていた遺跡っていうのも\r\n何というかくすぐられるものがあるだろ？",
+      "source_en": "The ocean is a man's romance, but there's\r\nsomething tantalizing about a site that's been\r\nsealed off, too isn't there?",
+      "text": "Aufs Meer hinauszufahren, das wär schon was …\r\nAber so eine versiegelte Ruine\r\nweckt doch auch die Abenteuerlust, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "覚者さん、ちょっと内密に話が――",
+      "source_en": "Arisen, let's talk in secret for a moment...",
+      "text": "Erweckter, kann ich dich kurz unter vier Augen sprechen?"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "い、いや、隠さなきゃいけないような\r\n話じゃないんだけどさ\r\nこの前封鎖を解いた《モルトバ遺跡》――\r\n出る、らしくって――",
+      "source_en": "No, no, I'm not talking about the kind of story\r\nthat needs to be hidden.\r\nThe Moltova Ruins, which we broke the blockade on\r\nthe other day— I'm going to go out\r\nthere, and it seems...",
+      "text": "Äh, eigentlich muss es gar nicht geheim bleiben.\r\nEs geht um die Ruinen von Moltova.\r\nWir haben neulich den Zugang geöffnet.\r\nDa soll jetzt etwas\r\nsein Unwesen treiben …"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "何が出るって、そりゃもちろんアレだよ！\r\n竜だよ！　水竜ってやつさ",
+      "source_en": "What's coming out, of course, is that thing!\r\nA dragon!　A water dragon.",
+      "text": "Was? Na, so ein Ding mit Schuppen!\r\nEin Drache, ein Wasserdrache!"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "覚者さんが居るからと思って\r\n封鎖は解いたけど\r\n中の竜に暴れられるのは困るんだ",
+      "source_en": "I thought because the Arisen is here I've broken\r\nthe blockade, but I don't want the dragon inside\r\nto get out of control.",
+      "text": "Ich dachte, ich könnte die Ruinen öffnen,\r\nweil du ja da bist.\r\nAber wenn der Drache dort unten wütet, haben wir ein Problem."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "外に出てくる気配が無いか見てきてもらえないかな\r\n出発前に声かけてくれると助かるよ",
+      "source_en": "Could you go see if there's any sign of them\r\ncoming outside I'd appreciate it if you'd give me\r\na shout before you leave.",
+      "text": "Kannst du nachsehen, ob er Anstalten macht, rauszukommen?\r\nEs wäre gut, wenn du vor dem Aufbruch\r\nnoch mal bei mir vorbeischaust."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "覚者さんがブリアに寄ってくれるようになって\r\n本当に助かってるんだ\r\nいつもありがとう！",
+      "source_en": "Arisen, thank you so much for coming to Breya I\r\nreally appreciate it Thank you always!",
+      "text": "Seit du öfter nach Breya kommst, geht es uns hier viel besser.\r\nDanke für alles!"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "俺も少しは覚者さんの力になりたいからさ\r\n今まで以上に良いものを渡せるように頑張るよ",
+      "source_en": "I also want to be of help to you, Arisen I'll do\r\nmy best to give you even better things than before",
+      "text": "Ich möchte dir auch mal helfen, Erweckter.\r\nIch werd mir Mühe geben, dir künftig noch bessere Sachen mitzugeben."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "今や覚者さんあってのブリアだからさ！\r\n今後ともよろしく頼むよ！",
+      "source_en": "Now it's thanks to you, Arisen,\r\nthat there is Breya!\r\nI'll rely on you from now on too!",
+      "text": "Ohne dich\r\nwäre Breya heute nicht dasselbe!\r\nIch zähle auch weiterhin auf dich!"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "覚者さん、《クエストボード》見てくれよ！\r\n手伝ってもらえたらローテスも大助かりさ",
+      "source_en": "Arisen, please check the [Quest Board]!\r\nIf you can help, it will be a great\r\nhelp to Rotes too",
+      "text": "Sieh doch mal am Questboard nach, Erweckter!\r\nWenn du uns etwas Arbeit abnimmst,\r\nist das für Rotes eine große Hilfe."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "岬のモルトバ灯台へはもう行ったか？",
+      "source_en": "Have you already been to Moltova\r\nLighthouse on the cape?",
+      "text": "Warst du schon am Leuchtturm von Moltova\r\ndraußen am Kap?"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "ルドルフォの爺さんに会ったら\r\nよろしく伝えといてくれ",
+      "source_en": "If you see old Rudolfo, tell him I said hello.",
+      "text": "Wenn du den alten Rudolfo siehst, richte ihm Grüße von mir aus."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "海のロマンはやっぱでっかさだろ！\r\nたまに来る漂流船なんか最高さ！",
+      "source_en": "The romance of the sea is the size of it!\r\nThe occasional drifting ship is the best!",
+      "text": "Das Schönste am Meer ist doch die Weite!\r\nUnd ab und zu spült es sogar ein herrenloses Schiff an!"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "でも、どっから来るんだろうな\r\n神殿の洋撃船でもなさそうだが",
+      "source_en": "But I wonder where it's coming from.\r\nIt doesn't look like it's the Temple's\r\nWestern blasting ship.",
+      "text": "Wo die wohl herkommen?\r\nDie sehen jedenfalls nicht aus\r\nwie die Hochseeschiffe des Tempels."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "――もう、何ていうかさ\r\nあんたがローテスに来てくれて\r\n本当に良かったよ",
+      "source_en": "-You know, I was really glad when you\r\ncame to Rotes.",
+      "text": "Ach, wie soll ich’s sagen …\r\nIch bin wirklich froh, dass du nach Rotes gekommen bist."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "今まで騎士団も神殿も、ここまで\r\n親身になってくれた人はいなかったしな\r\n俺も、できる限りあんたの力になるよ",
+      "source_en": "No one has ever been so kind to me before, not\r\nthe Knights or the Temple, and I'll help you\r\nas much as I can, too.",
+      "text": "Du setzt dich für uns ein wie bisher keiner,\r\nweder von der Garde noch vom Tempel.\r\nIch helfe dir auch, so gut ich kann."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "こんにちは、あらためて自己紹介ね\r\n俺はこの一帯、ブリア海岸の\r\nエリアマスターをやってるオニールだ",
+      "source_en": "Hi, I'd like to introduce myself again.\r\nI'm O'Neill, the area master for this\r\npart of the Breya Coast.",
+      "text": "Hallo! Ich stell mich noch mal vor.\r\nIch bin O’Neill, der Gebietsmeister\r\nhier an der Breya-Küste."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "自慢の海と砂浜は見てくれたかい？\r\nちょっとばかりのんびりした気分に\r\nなってしまうけど、見た目よりずっと危険だよ",
+      "source_en": "Have you seen our boastful\r\nocean and sandy beaches?\r\nIt makes you feel a little more relaxed but it's\r\na lot more dangerous than it looks!",
+      "text": "Hast du schon unser Meer und die Sandstrände gesehen?\r\nDa möchte man sich gleich irgendwo hinsetzen\r\nund die Beine baumeln lassen.\r\nAber hier ist es gefährlicher, als es aussieht!"
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "海の影響だろうけど魔物もハイデルや\r\nミスリウとは違うから気をつけてくれ",
+      "source_en": "I know it's probably the influence of the ocean,\r\nbut be careful, the monsters aren't the same as\r\nin Hidell or Mysree.",
+      "text": "Wahrscheinlich liegt’s am Meer, aber hier leben\r\nandere Monster als in Hidell oder Mysree.\r\nPass auf dich auf."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "あとは――目下の問題と言えば\r\n海賊まがいのならず者《ブリア宝奪団》だな\r\n今はそれが一番の悩みの種だね",
+      "source_en": "The other thing - the problem at hand is the\r\npirate-like ruffians, the Breya Treasure Robbers.\r\nThat's the biggest problem we have right now.",
+      "text": "Unser größtes Problem zurzeit\r\nsind diese Halunken, die sich für Piraten halten.\r\nBreyas Schatzräuber nennen die sich."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "まあ、わからないことがあったら\r\nとりあえず聞いてくれよ",
+      "source_en": "Well, if there's something you don't understand,\r\nplease ask me for now",
+      "text": "Wenn du irgendwas wissen willst,\r\nfrag einfach mich."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "いやー、さすが覚者さん！\r\n何かと任せちゃって申し訳ない\r\nこれからもよろしくな",
+      "source_en": "Wow, you're truly an Arisen!\r\nI'm sorry for relying on you so much From now on,\r\nplease take care of me as well",
+      "text": "Alle Achtung, Erweckter!\r\nIch bürde dir ganz schön viel auf.\r\nDanke, dass du mir immer wieder hilfst."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "やぁ、ありがとう\r\nまた仕事手伝ってくれよな",
+      "source_en": "Hey, thank you Please help me with my work again",
+      "text": "Danke dir! Hilf mir gern mal wieder aus."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "来てくれたら支援品をあげるからさ！",
+      "source_en": "I'll give you support items if you come",
+      "text": "Wenn du vorbeikommst, hab ich ein paar Versorgungsgüter für dich!"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "やぁ、ありがとう\r\nまた仕事、手伝ってくれよな",
+      "source_en": "Hey, thank you Please help me with my work again",
+      "text": "Danke dir! Hilf mir gern mal wieder aus."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "あ、覚者さん聞いてくれよ\r\n村のすぐ裏にある《隠れ浜》なんだけどさ",
+      "source_en": "Oh, Arisen, listen to me: There's a \"Hidden\r\nBeach\" right behind the village.",
+      "text": "He, Erweckter, hör mal.\r\nGleich hinterm Dorf liegt doch der Versteckte Strand."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "特に最近、そこにガラの悪そうなのが\r\nちょいちょい出入りしてるみたいなんだよ\r\n例の《ブリア宝奪団》の奴らかなぁ",
+      "source_en": "Especially lately, there seems to be a lot of bad\r\nguys going in and out of there every now and then.\r\nI wonder if they're from the Breya Treasure Troop.",
+      "text": "Da treiben sich in letzter Zeit\r\nein paar üble Kerle herum.\r\nOb die zu Breyas Schatzräubern gehören?"
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "とにかく、怪しいのがいたら何とかしてくれよ",
+      "source_en": "Anyway, if you see something suspicious,\r\nplease take care of it.",
+      "text": "Falls du dort jemanden siehst, der sich verdächtig benimmt,\r\nkannst du dich dann darum kümmern?"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "お、そうだ！\r\nあんたに渡すものがあったんだ",
+      "source_en": "Oh, yeah!\r\nI had something for you.",
+      "text": "Ach, richtig!\r\nIch wollte dir noch was geben."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "見てくれ、今日は結構良い物があってさ\r\n持ってってくれよ！",
+      "source_en": "Look, I've got some pretty good stuff today.\r\nTake it!",
+      "text": "Schau her, heute hab ich ein paar richtig gute Sachen.\r\nNimm sie ruhig mit!"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "覚者さん、海岸を少し行ったところに\r\n廃墟があるんだけどさ\r\nそこに地下倉庫があるのを知ってるか？",
+      "source_en": "Arisen, there's an abandoned house little\r\nways down the coast.\r\nDid you know there's an\r\nunderground warehouse there?",
+      "text": "Erweckter,\r\nein Stück die Küste runter\r\nsteht ein verfallenes Haus.\r\nWusstest du, dass es darunter einen Vorratskeller gibt?"
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "村のみんなが《海辺の地下室》って\r\n呼んでる場所だよ\r\n危ないから封鎖してたんだけど",
+      "source_en": "The villagers all call that place\r\nthe \"Seaside Cellar\".\r\nIt was sealed off because of the danger though.",
+      "text": "Die Leute nennen ihn „Keller am Meer“.\r\nWeil es da unten gefährlich ist,\r\nhaben wir ihn versiegelt."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "その中から、話し声が聞こえてさ\r\nどうも誰かが入り込んでるみたいなんだ\r\n中を見ようと思ったけど勇気が無くて――",
+      "source_en": "I heard voices coming from within.\r\nIt seems that someone is inside.\r\nI wanted to look in, but I\r\ndidn't have the courage...",
+      "text": "Ich hab drinnen Stimmen gehört.\r\nAnscheinend ist jemand eingebrochen.\r\nIch wollte nachsehen,\r\naber ich hab mich nicht getraut …"
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "もし通りかかったら見てみてくれよ\r\n今度こそ《ブリア宝奪団》かもしれないな",
+      "source_en": "If you're passing by, take a look.\r\nIt may be the \"Breya Treasure Bandits\" this time.",
+      "text": "Wenn du vorbeikommst, wirf doch mal einen Blick rein.\r\nVielleicht sind es diesmal wirklich Breyas Schatzräuber."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

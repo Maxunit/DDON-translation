@@ -3,6 +3,30 @@
   "arc_path": "\\ui\\gui_cmn.arc",
   "entries": [
     {
+      "key": "SPOT_NAME_804",
+      "read_index": "276",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦 正門前",
+      "source_en": "Before Gritten's Main Gate",
+      "text": "Vor dem Haupttor von Festung Gritten"
+    },
+    {
+      "key": "SPOT_NAME_805",
+      "read_index": "277",
+      "tag_source": "source_en",
+      "source_jp": "ブリア海岸 南側",
+      "source_en": "South Breya Coast",
+      "text": "Südliche Breya-Küste"
+    },
+    {
+      "key": "SPOT_NAME_813",
+      "read_index": "283",
+      "tag_source": "source_en",
+      "source_jp": "石像立つ木陰",
+      "source_en": "Canopied Statuary",
+      "text": "Steinfiguren im Hain"
+    },
+    {
       "key": "SPOT_NAME_816",
       "read_index": "286",
       "tag_source": "source_en",
@@ -11,12 +35,68 @@
       "text": "Blutfluchinsel – Steilküste"
     },
     {
+      "key": "SPOT_NAME_824",
+      "read_index": "294",
+      "tag_source": "source_en",
+      "source_jp": "侵食魔の巣窟　脇道",
+      "source_en": "Infected Den: Byway",
+      "text": "Nest der Befallenen: Seitengang"
+    },
+    {
       "key": "SPOT_NAME_825",
       "read_index": "295",
       "tag_source": "source_en",
       "source_jp": "異界の狭間　深層部",
       "source_en": "The Rift's Inner Depths",
       "text": "Tiefen des Rifts"
+    },
+    {
+      "key": "SPOT_NAME_826",
+      "read_index": "296",
+      "tag_source": "source_en",
+      "source_jp": "騎士団補給所跡",
+      "source_en": "Knights' Depot Ruins",
+      "text": "Ruinen des Versorgungspostens der Garde"
+    },
+    {
+      "key": "SPOT_NAME_830",
+      "read_index": "299",
+      "tag_source": "source_en",
+      "source_jp": "侵食魔の巣窟　脇道",
+      "source_en": "Infected Den: Byway",
+      "text": "Nest der Befallenen: Seitengang"
+    },
+    {
+      "key": "SPOT_NAME_831",
+      "read_index": "300",
+      "tag_source": "source_en",
+      "source_jp": "灼熱の封鎖道　脇道",
+      "source_en": "Scorching Blocked Passage: Byway",
+      "text": "Glühender Sperrstollen: Seitengang"
+    },
+    {
+      "key": "SPOT_NAME_833",
+      "read_index": "302",
+      "tag_source": "source_en",
+      "source_jp": "モルトバ遺跡　左路",
+      "source_en": "Moltova Ruins: Left Path",
+      "text": "Ruinen von Moltova: Linker Pfad"
+    },
+    {
+      "key": "SPOT_NAME_834",
+      "read_index": "303",
+      "tag_source": "source_en",
+      "source_jp": "モルトバ遺跡　右路",
+      "source_en": "Moltova Ruins: Right Path",
+      "text": "Ruinen von Moltova: Rechter Pfad"
+    },
+    {
+      "key": "SPOT_NAME_838",
+      "read_index": "307",
+      "tag_source": "source_en",
+      "source_jp": "侵食魔の巣窟　奥底　深層",
+      "source_en": "Infected Den Innermost Depths",
+      "text": "Tiefste Ebenen des Nests der Befallenen"
     },
     {
       "key": "SPOT_NAME_839",

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60209000_00.gmd",
+  "arc_path": "\\quest\\q60209000.arc",
+  "entries": [
+    {
+      "key": "q60209000_00_136",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原北部　試練：砦の騒動",
+      "source_en": "NBP Trial: The Turmoil in the Fort",
+      "text": "Prüfung in der Nördlichen Betland-Ebene – Unruhe in der Festung"
+    },
+    {
+      "key": "q60209000_00_136",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原北部の問題解決のため\r\nガルドノック砦に侵入し\r\n内部を調査する",
+      "source_en": "Solve the Northern Betland Plains problem by\r\ninvestigating the Gardnox Fortress",
+      "text": "Hilf den Bewohnern der Nördlichen Betland-Ebene\r\nund untersuche Festung Gardnox."
+    },
+    {
+      "key": "q60209000_00_1968",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ドラワン村のサニーに報告する",
+      "source_en": "Report to Sunny in Drawan village",
+      "text": "Erstatte Sunny in Drawan Bericht."
+    },
+    {
+      "key": "q60209000_00_1969",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ガルドノック砦へ向かい中の様子を確認する",
+      "source_en": "Head to Gardnox Fortress to see what's inside",
+      "text": "Geh zur Festung Gardnox und sieh dich darin um."
+    },
+    {
+      "key": "q60209000_00_1970",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる魔物を討伐する",
+      "source_en": "Defeat the demon threat",
+      "text": "Besiege die gefährlichen Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\npc\\base\\n0011.gmd",
+  "arc_path": "\\npc\\n0011.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ああ、その話だな\r\nいいだろう",
+      "source_en": "Oh, so that's what you're talking about.\r\nAll right, then.",
+      "text": "Ah, darauf willst du hinaus.\r\nNun gut."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "立場上、ひいきするわけにはいかないが\r\n私が最も愛するジョブは当然《ファイター》だ",
+      "source_en": "Given my position, I can't show favoritism, but\r\nthe vocation I love the most is, of\r\ncourse, the Fighter.",
+      "text": "In meiner Stellung darf ich niemanden bevorzugen.\r\nDennoch schlägt mein Herz natürlich\r\nfür die Klasse der Kämpfer."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "己が身を敵前にさらし、盾と剣を巧みに操り\r\nそれはまるで舞の如く――",
+      "source_en": "Exposing oneself to the enemy and deftly wielding\r\nshield and sword. It's like a dance—",
+      "text": "Sich dem Feind stellen und Schild und Schwert sicher führen …\r\nDas ist beinahe wie ein Tanz."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "突破口を開いて敵陣深く入り込み\r\n本陣をかく乱する――\r\nふふ、敵が驚き、呆ける顔を間近で見られるのは\r\n《ファイター》だけだ！",
+      "source_en": "Break through their lines, penetrate deep into\r\nenemy territory, and throw their headquarters\r\ninto chaos— Heh heh, only a Fighter gets to see\r\nthe enemy's shocked and\r\ndumbfounded faces up close!",
+      "text": "Die feindlichen Reihen durchbrechen, tief vordringen\r\nund ihr Hauptlager durcheinanderbringen …\r\nHe, das verblüffte Gesicht des Feindes siehst du\r\nnur als Kämpfer\r\naus nächster Nähe!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "おまえもなかなか腕を上げ、《ファイター》と\r\nしての自覚を身に付けつつあるようだな",
+      "source_en": "You have also been improving quite a bit and seem\r\nto be gaining a sense of being a Fighter.",
+      "text": "Du hast inzwischen einiges dazugelernt.\r\nSo langsam wirst du ein richtiger Kämpfer."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "――よし、私から修練を課してやろう\r\nそして今以上に技を磨き、一流の剣士となれ！",
+      "source_en": "All right, I'll set you some training tasks.\r\nHone your skills even further and become a\r\ntop-class swordsfighter!",
+      "text": "Gut, ich gebe dir ein paar Aufgaben fürs Training.\r\nFeile weiter an deiner Technik.\r\nWerde ein Schwertkämpfer ersten Ranges!"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "よし、いいだろう\r\n《ファイター》を名乗ることを許そう",
+      "source_en": "Okay, fine. I'll allow you to call\r\nyourself a Fighter.",
+      "text": "Gut, einverstanden.\r\nVon jetzt an darfst du dich Kämpfer nennen."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "まぁいい\r\n新たな剣技を教えてやる",
+      "source_en": "Well, never mind. I will teach you a\r\nnew sword technique.",
+      "text": "Nun, wie dem auch sei.\r\nIch zeige dir eine neue Schwerttechnik."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "今以上に強くなりたければ、修練を重ね\r\nさらに技を会得するのだな",
+      "source_en": "If you want to become stronger than you are now,\r\ntrain harder and further hone your skills.",
+      "text": "Wenn du stärker werden willst,\r\nmusst du weiter üben und dir neue Techniken aneignen."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ほう――、かなり腕を上げたようだな\r\n今のおまえなら、あの技も使い\r\nこなせるだろう",
+      "source_en": "Ho—you've really improved, haven't you?\r\nAt your current level, you should be able to\r\nmaster that technique as well.",
+      "text": "Sieh an, du hast dich gewaltig verbessert.\r\nMittlerweile solltest du\r\nauch diese Technik beherrschen können."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "剣の役割とは相手を斬ること\r\nだが、それは道具としての役目であって\r\n剣の本質ではない",
+      "source_en": "The role of a sword is to slash the opponent.\r\nHowever, that is only its function as a tool.\r\nIt is not the essence of a sword.",
+      "text": "Mit dem Schwert kannst du deinen Gegner verwunden.\r\nSo viel zu seiner Funktion als Werkzeug.\r\nDoch ein Schwert bedeutet mehr."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "敵を削ぎ己を活かす\r\nそれこそが本質だ\r\n勝敗、生死は全て、その結果\r\n付いてくるものにすぎない",
+      "source_en": "Strike down your enemy and live\r\nto fight another day.\r\nThat is the very essence of it.\r\nVictory, defeat, life, and death—all are merely\r\nconsequences that follow.",
+      "text": "Bezwinge den Feind\r\nund bleib selbst am Leben.\r\nDarauf kommt es an.\r\nSieg, Niederlage, Leben und Tod …\r\nAlles Weitere ergibt sich daraus."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "それを心に留め、この技を修得するがいい",
+      "source_en": "Keep that in mind and do your best to\r\nmaster this technique.",
+      "text": "Behalte das im Kopf,\r\nwenn du diese Technik einübst."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "知っての通り《ファイター》の武器は剣と盾\r\nそして己自身の肉体だ",
+      "source_en": "As you know, the weapon of a Fighter is a sword,\r\na shield and their own body.",
+      "text": "Du weißt es ja. Ein Kämpfer hat Schwert und Schild\r\nund seinen eigenen Körper."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "敵を討つ、それがファイターに課された最大の\r\n役割だが、ただ攻撃をすればよいというわけではない\r\n自身を守り、先陣に居続けることが仲間を救い\r\nひいては勝利につながるのだ",
+      "source_en": "The greatest role imposed on a Fighter is to slay\r\nenemies, but it's not simply about attacking.\r\nProtecting oneself and staying at the forefront\r\ncan save comrades and ultimately lead to victory.",
+      "text": "Ein Kämpfer soll vor allem den Feind bezwingen.\r\nMit bloßem Angriff ist es aber nicht getan.\r\nWenn du dich schützt und ganz vorne standhältst,\r\nrettest du deine Gefährten und kannst den Sieg erringen."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "攻守どちらをおろそかにしても、一流のファイター\r\nとは言えないというわけだ",
+      "source_en": "In other words, if you neglect either offense or\r\ndefense, you can't be called a top-tier Fighter.",
+      "text": "Ein erstklassiger Kämpfer beherrscht\r\nAngriff und Verteidigung gleichermaßen."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "敵と斬り結ぶ中、技術は後からでも付いてくる\r\nファイターとなるなら、まずは剣と盾が身体の一部と\r\n思えるようになるまで振るい、感覚をなじませろ",
+      "source_en": "As you engage the enemy in combat, your skills will follow.\r\nIf you want to become a Fighter, \r\nfirst swing your sword and shield until they feel like an \r\nextension of your body, and let your senses adapt to them.",
+      "text": "Deine Technik entwickelt sich mit der Kampferfahrung.\r\nWenn du Kämpfer werden willst,\r\nübe zuerst mit Schwert und Schild, bis sie sich\r\nwie ein Teil deines Körpers anfühlen."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "それ以上のことは、おまえが一人前のファイターに\r\nなった頃に教えてやる",
+      "source_en": "I will teach you more when you become a\r\nfull-fledged Fighter.",
+      "text": "Den Rest bringe ich dir bei,\r\nwenn du ein vollwertiger Kämpfer bist."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "盾は、身を守るだけのものではないぞ\r\n使いようによっては敵の攻撃をいなし\r\n反撃の足掛かりとすることもできる",
+      "source_en": "The shield is not just for self-defense.\r\nDepending on how it is used, you can parry a foes\r\nattack and use that as a\r\nfoothold for counterattacks.",
+      "text": "Mit dem Schild kannst du dich schützen.\r\nFührst du ihn geschickt,\r\nlenkst du den Angriff des Gegners ab\r\nund schaffst dir eine Gelegenheit zum Kontern."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "攻撃を受ける直前、敵の体重がかかる\r\nわずかな瞬間を見定めろ",
+      "source_en": "Just before you're attacked, seize that brief\r\nmoment when the enemy's weight shifts.",
+      "text": "Achte kurz vor dem Treffer auf den Augenblick,\r\nin dem der Gegner sein Gewicht verlagert."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "そこを捉えれば反動はそっくり相手に\r\n返り、態勢を崩すことができるだろう",
+      "source_en": "If you can capitalize on that, the blowback will\r\nland squarely on your opponent, and you'll be\r\nable to throw them off balance.",
+      "text": "Wenn du diesen Augenblick erwischst,\r\nwirfst du die Wucht seines Angriffs auf ihn zurück\r\nund bringst ihn aus dem Gleichgewicht."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "《クリティカルタイミング》――\r\nちまたではそんな呼び方をしているらしい\r\n覚えておくことだ",
+      "source_en": "[Critical Timing] ―― It seems that is what\r\nthey call it these days.\r\nRemember that.",
+      "text": "„Kritisches Timing“ …\r\nSo nennt man das heutzutage wohl.\r\nMerk es dir."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "ほう――\r\n私に稽古をつけてもらいたいのか？",
+      "source_en": "So...\r\nYou want me to train you?",
+      "text": "Ach?\r\nDu willst, dass ich dich unterrichte?"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "なら少なくとも《ファイター》となり\r\nジョブレベル１８以上の経験を\r\n積むことだな",
+      "source_en": "Then, at the very least, you must become a\r\nFighter and accumulate experience until you reach\r\nVocation Level 18 or higher.",
+      "text": "Dann wirst du zuerst Kämpfer.\r\nSammle Erfahrung und erreiche\r\nmindestens Klassenstufe 18."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "その後、訓練官レンテンの許可が\r\n出たなら考えてやろう\r\n話はそれからだ",
+      "source_en": "After that, if Instructor Renton gives his\r\napproval, I'll consider it.\r\nWe'll talk about it then.",
+      "text": "Sobald Ausbilder Renton einverstanden ist,\r\ndenke ich darüber nach.\r\nVorher brauchen wir nicht darüber zu reden."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "あぁ――\r\n私に稽古をつけてもらいたいのか？\r\nなるほど確かに相応の腕になったようだ",
+      "source_en": "Oh—you want me to train you? Well, you certainly\r\nlook like you're up to snuff.",
+      "text": "Ah, du willst bei mir trainieren?\r\nDu scheinst inzwischen gut genug dafür zu sein."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "だが何事にも順序がある\r\nまずは神殿の訓練官レンテンに\r\nジョブの基本を修めた報告くらいはしてこい",
+      "source_en": "But there's an order to everything.\r\nFirst, you should at least report to Renton, the\r\ntemple trainer, that you've mastered\r\nthe basics of the job.",
+      "text": "Eins nach dem anderen.\r\nGeh zuerst zu Ausbilder Renton\r\nin den Tempel und melde ihm,\r\ndass du die Grundlagen deiner Klasse beherrschst."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "正式に教えを請いにきたならば\r\n稽古に付き合ってやろう",
+      "source_en": "If you seek my guidance formally, I'll\r\ntrain with you.",
+      "text": "Wenn du mich dann offiziell um Unterricht bittest,\r\ntrainiere ich mit dir."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "戦術を指南してほしいのか？\r\nならば実戦に勝る教えはないぞ",
+      "source_en": "You want me to teach you tactics? Then there's no\r\nbetter way to learn than through combat.",
+      "text": "Du willst etwas über Kampftaktik lernen?\r\nDa geht nichts über den Ernstfall."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "戦いは勝つためにするのだ\r\nそのための努力、怠るな",
+      "source_en": "We fight in order to win. Do not neglect the\r\neffort required for that.",
+      "text": "Wir kämpfen, um zu gewinnen.\r\nStreng dich dafür an."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "すまないな\r\n世間話というものが苦手なんだ",
+      "source_en": "My apologies.\r\nI'm not exactly good at small talk.",
+      "text": "Verzeih.\r\nFür Geplauder bin ich nicht zu haben."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "集中だ！\r\n戦闘態勢は寝所でも解くな！",
+      "source_en": "Stay alert!\r\nDon't let your guard down, even in your quarters!",
+      "text": "Konzentrier dich!\r\nSelbst in deinem Quartier musst du wachsam bleiben."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "覚者とは何か――\r\nいろいろな考えがあるだろうが\r\n自分は、戦人（いくさびと）だと信じている",
+      "source_en": "What it means to be an Arisen— There are probably\r\nmany different views on this, but I believe it\r\nmeans to be a warrior.",
+      "text": "Was macht einen Erweckten aus?\r\nDarüber gibt es wohl viele Ansichten.\r\nFür mich ist ein Erweckter vor allem ein Krieger."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "こう戦闘続きでは疲れもたまるな――\r\nキノザでゆっくりしたいものだ",
+      "source_en": "All this fighting is really taking its toll...\r\nIt'd be good to relax in Kinoza for a while.",
+      "text": "Die ständigen Kämpfe zehren an den Kräften …\r\nEin paar ruhige Tage in Kinoza täten gut."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "魔物より恐ろしい敵の名を教えてやろう\r\nそれは――油断、慢心、怠慢だ",
+      "source_en": "I will teach you the names of enemies more\r\nfrightening than monsters.\r\nIt is...\r\ncarelessness, complacency, and negligence.",
+      "text": "Ich nenne dir drei Feinde,\r\ndie schlimmer sind als jedes Monster.\r\nHör genau hin.\r\nLeichtsinn, Selbstüberschätzung und Nachlässigkeit."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "どれほどの敵を倒せば\r\nこの地に平穏が訪れるのか――\r\nこんなことを思うとは――老いたか",
+      "source_en": "How many foes must I slay for peace to\r\ncome to this land...\r\nTo find myself thinking such things—\r\nmayhaps I've grown too old.",
+      "text": "Wie viele Gegner muss ich noch bezwingen,\r\nbis in diesem Land wieder Frieden herrscht?\r\nDass ich mir über so was Gedanken mache …\r\nIch werde alt."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "勝利の秘策？\r\nそんなものがあるなら、そもそも戦争など起こらない",
+      "source_en": "The secret to victory?\r\nIf such a thing existed, then wars would never\r\nhappen in the first place.",
+      "text": "Das Geheimnis des Sieges?\r\nGäbe es eins,\r\nkäme es gar nicht erst zu Kriegen."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "価値を問う前に、黙って守れ\r\n失って後悔したくなければな",
+      "source_en": "Defend it without question— Unless you want\r\nto regret losing it.",
+      "text": "Verteidige die Stellung, bevor du fragst, was sie wert ist.\r\nSonst bereust du den Verlust."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "何？　拠点防衛に関する提案？",
+      "source_en": "What? A proposal regarding base defense?",
+      "text": "Was? Du hast einen Vorschlag für die Verteidigung unserer Stellung?"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "オークどもをぶっ倒し、追いだしても\r\n臭いはしばらく残るんだ\r\nたまらん――くそっ！",
+      "source_en": "Even after we've beaten the orcs and driven them\r\nout, the stench lingers for a good while.\r\nDamn it—it's unbearable!",
+      "text": "Selbst wenn wir die Orks verprügelt und vertrieben haben,\r\nbleibt ihr Gestank noch eine Weile.\r\nVerdammt, das ist kaum auszuhalten!"
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "魔物掃除に来たのか？",
+      "source_en": "Did you come to hunt monsters?",
+      "text": "Du willst Monster jagen?"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "だったら遠慮はいらない\r\n砦の外でひと暴れしてきてくれ",
+      "source_en": "Then don't hold back.\r\nGo out and wreak havoc outside the fortress.",
+      "text": "Dann halt dich nicht zurück.\r\nTob dich draußen vor der Festung aus."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "アルヴァーと会ったらしいな\r\nだったら、こんなところにいないで\r\nさっさと契約をすませたらどうだ？",
+      "source_en": "I hear you met Alvar.\r\nIf that's the case, why are you wasting time here\r\ninstead of getting on with the contract?",
+      "text": "Ich hörte, du hast Alvar getroffen.\r\nWarum bist du dann noch hier?\r\nGeh und schließ endlich den Pakt."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "どうした？\r\nレオの話し相手は退屈か？",
+      "source_en": "What's the matter? Bored of talking to Leo?",
+      "text": "Was ist los? Langweilst du dich bei Leo?"
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "だったら遠慮することはない\r\n思う存分魔物と戦ってくれ",
+      "source_en": "In that case, there's no need to hold back. Fight\r\nmonsters to your heart's content.",
+      "text": "Dann halt dich nicht zurück.\r\nKämpf gegen Monster, so viel du willst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

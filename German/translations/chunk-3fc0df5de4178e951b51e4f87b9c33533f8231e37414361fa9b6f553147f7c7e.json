@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60208000_00.gmd",
+  "arc_path": "\\quest\\q60208000.arc",
+  "entries": [
+    {
+      "key": "q60208000_00_111",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原　試練：狡猾な石刃",
+      "source_en": "BP Trial: The Crafty Stone Ones",
+      "text": "Prüfung in der Betland-Ebene – Die steinernen Plagegeister"
+    },
+    {
+      "key": "q60208000_00_111",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原の問題解決のため\r\n薄煙の荒れ地を調査し\r\n危険なガーゴイルを討伐する",
+      "source_en": "Resolve the Betland Plains problem by\r\nexploring the Wispy Wasteland\r\nand defeating the Gargoyle.",
+      "text": "Hilf den Bewohnern der Betland-Ebene.\r\nDurchsuch das Rauchige Ödland\r\nund besiege die Gargoyles."
+    },
+    {
+      "key": "q60208000_00_1906",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦のスケルツォに報告する",
+      "source_en": "Report to Scherzo in Fort Gritten",
+      "text": "Erstatte Scherzo in Festung Gritten Bericht."
+    },
+    {
+      "key": "q60208000_00_1907",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "薄煙の荒れ地でガーゴイルを発見する",
+      "source_en": "Discover Gargoyle in the Wispy Wasteland",
+      "text": "Such im Rauchigen Ödland nach den Gargoyles."
+    },
+    {
+      "key": "q60208000_00_1908",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる魔物を討伐する",
+      "source_en": "Defeat the demon threat",
+      "text": "Besiege die gefährlichen Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

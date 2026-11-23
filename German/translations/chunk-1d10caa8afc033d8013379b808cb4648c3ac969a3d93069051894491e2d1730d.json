@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20045002_00.gmd",
+  "arc_path": "\\quest\\q20045002.arc",
+  "entries": [
+    {
+      "key": "q20045002_00_114",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "岩窟の巨影",
+      "source_en": "Shadows within the Cave",
+      "text": "Ein gewaltiger Schatten in der Höhle"
+    },
+    {
+      "key": "q20045002_00_114",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【 敵出現：夜 】</COL>\r\n遭遇した敵を討伐する",
+      "source_en": "<COL ffdc78>[Enemy appears at night]</COL>\r\nDefeat the enemies encountered",
+      "text": "<COL ffdc78>[Feinde erscheinen nachts]</COL>\r\nBesiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20045002_00_114",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>では、夜になると現れる\r\n危険な存在により住民が脅かされているらしい",
+      "source_en": "In the <NAME AREA>, \r\nit seems that the residents are being threatened \r\nby a dangerous presence that appears at night.",
+      "text": "Die Bewohner der Gegend um <NAME AREA>\r\nwerden offenbar von einem gefährlichen Wesen bedroht,\r\ndas nachts auftaucht."
+    },
+    {
+      "key": "q20045002_00_114",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【 敵出現：夜 】</COL>\r\nくそっ、せっかくまとまった銀が採れたってのに\r\nゆうべ仕事場からの帰りに落としちまった！\r\nあのへんは夜になると魔物がうようよ出やがるから\r\n誰かに拾われる前に、昼間に探さねえと――\r\nまだ残ってりゃいいが",
+      "source_en": "<COL ffdc78>[Enemy appears during: Night]</COL>\r\nDamn it, I finally collected a good\r\namount of silver, but I dropped it\r\non my way home from work last night!\r\nMonsters swarm the area at night,\r\nso I need to search for it during the\r\nday before someone else finds it.\r\nI hope it's still there.",
+      "text": "<COL ffdc78>[Feinde erscheinen nachts]</COL>\r\nVerdammt, ich hatte endlich mal\r\neine ordentliche Menge Silber beisammen.\r\nUnd gestern Abend hab ich sie auf dem Heimweg verloren!\r\nNachts wimmelt es dort von Monstern.\r\nIch muss also bei Tag suchen,\r\nehe mir jemand zuvorkommt.\r\nHoffentlich liegt das Silber noch da."
+    },
+    {
+      "key": "q20045002_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

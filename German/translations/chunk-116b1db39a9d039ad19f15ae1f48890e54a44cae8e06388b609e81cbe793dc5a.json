@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20045000_00.gmd",
+  "arc_path": "\\quest\\q20045000.arc",
+  "entries": [
+    {
+      "key": "q20045000_00_112",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "大坑道に光る一つ目",
+      "source_en": "The Bright One-Eyed",
+      "text": "Das leuchtende Auge in den Volden-Stollen"
+    },
+    {
+      "key": "q20045000_00_112",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20045000_00_112",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>は\r\nここ数日異様な気配に満ちているらしい",
+      "source_en": "<NAME AREA> \r\nseems to be filled with an unusual \r\natmosphere these past few days.",
+      "text": "In der Gegend um <NAME AREA>\r\nscheint seit einigen Tagen etwas Seltsames\r\nin der Luft zu liegen."
+    },
+    {
+      "key": "q20045000_00_112",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "鉱山で働いていると、落盤やがけ崩れの音には\r\nどうしても神経質になる\r\n判断が遅れれば命にかかわるからな\r\nでも、昨日聞いたあの音――\r\n土の音には違いないが、地崩れとは違う感じだった\r\n悪い予感がしたんで、仕事は早々に引き揚げたよ",
+      "source_en": "When working in a mine, one becomes inevitably \r\nnervous at the sound of cave-ins or landslides. \r\nA delayed judgment can cost one's life. \r\nHowever, the sound I heard yesterday... \r\nWhile it was indeed the sound of dirt, \r\nit felt different from a landslide. \r\nI had a bad premonition, \r\nso I quickly withdrew from work.",
+      "text": "Wer im Bergwerk arbeitet,\r\nschreckt bei jedem Poltern zusammen.\r\nEin Einsturz oder Erdrutsch kostet dich das Leben, wenn du zu spät reagierst.\r\nAber das Geräusch gestern …\r\nDas klang zwar nach Erde,\r\naber nach keinem Erdrutsch.\r\nIch hatte ein ungutes Gefühl\r\nund hab lieber früh Schluss gemacht."
+    },
+    {
+      "key": "q20045000_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

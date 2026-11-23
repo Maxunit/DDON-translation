@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area9_spot_info.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍が拠点とする北西の荒地\r\nバートランド平原以北は魔物の支配する厳しい地\r\nであるが、ドラワンの民は故郷を守り今日まで暮ら\r\nしてきた。また、北にかかる巨大な橋は《禁じられ\r\nた地》に続くとされ、この地の者さえ近づかない",
+      "source_en": "The barren land in the northwest\r\nthat serves as the base for the Orc army.\r\nThe area north of Betland Plains is a harsh land\r\nruled by enemies, but the people of Drawan\r\nhave managed to protect their homeland\r\nand live on to this day. Furthermore,\r\nit is said that the enormous bridge to the north\r\nleads to the \"Forbidden Land,\"\r\na place even the locals dare not approach.",
+      "text": "Im kargen Land im Nordwesten\r\nhat das Orkheer seinen Stützpunkt.\r\nNördlich der Betland-Ebene herrschen die Monster.\r\nDen Bewohnern von Drawan ist es dennoch gelungen,\r\nihre Heimat zu verteidigen und dort bis heute zu leben.\r\nIm Norden steht eine gewaltige Brücke.\r\nSie soll in das verbotene Land führen,\r\ndem selbst die Menschen aus dieser Gegend\r\nnicht zu nahe kommen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "オークの根城に近い辺境の村\r\n人がハイデル平原以南での防衛を決めてからこれ\r\nまで、外部との交流はほとんど途絶えていた\r\n厳しい環境ながら、故郷に残ると決めた者達により\r\n村は守られ、細々と営みは続けられている",
+      "source_en": "A remote village, nearby the Orc stronghold.\r\nHas had little contact with the outside world\r\nsince the people decided to defend themselves\r\nin the southern Hidell Plains.\r\nDespite the harsh conditions, the villagers\r\nwho chose to stay in their homeland\r\nhave managed to protect the village\r\nand continue their modest livelihood.",
+      "text": "Ein abgelegenes Dorf nahe der Orkfestung.\r\nSeit sich die Menschen zur Verteidigung\r\nin die Hidell-Ebene und weiter südlich\r\nzurückzogen,\r\nwar es fast ganz von der Außenwelt abgeschnitten.\r\nTrotz des harten Lebens\r\nhaben die Menschen, die hierblieben,\r\nihr Dorf beschützt und sich ein bescheidenes Auskommen bewahrt."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "長きに渡り閉ざされてきた大橋の門が開いた\r\nこの先は、禁じられた地・ザンドラへと続いている\r\n禁域へ足を踏み入れるのであれば\r\n相応の覚悟と実力が必要となる",
+      "source_en": "After a long time of being closed,\r\nthe gates of the bridge have opened.\r\nBeyond this point awaits\r\nthe Forbidden Land of Zandora.\r\nIf you wish to step foot\r\ninto this forsaken territory,\r\nsteel thyself with resolve and strength.",
+      "text": "Das Tor an der Brücke war lange verschlossen.\r\nNun ist es wieder geöffnet.\r\nDahinter liegt das verbotene Land Zandora.\r\nWer dieses Gebiet betreten will,\r\nbraucht Mut\r\nund muss mit schweren Kämpfen\r\nrechnen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "オーク本陣ガルドノック砦の正面、橋のたもとに\r\n遠征準備中のオーク小隊が待機している\r\n準備中の小隊を確認した場合は、他の任務より\r\nオーク出撃阻止を優先すべきだろう",
+      "source_en": "In front of Gardnox Fortress,\r\nat the base of the bridge, an Orc squad waits\r\nin preparation for an expedition.\r\nIf you confirm the squad's preparations,\r\nit should take precedence over other missions\r\nto prevent the Orc's deployment.",
+      "text": "Am Fuß der Brücke\r\nvor der Orkfestung Gardnox\r\nbereitet sich ein Orktrupp auf den Ausmarsch vor.\r\nWer den Trupp bei seinen Vorbereitungen antrifft,\r\nsollte ihn aufhalten,\r\nbevor er aufbrechen kann."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ドラワン教会の地下に作られた富裕層向け公共墓地\r\nだが死体を貪る悪鬼が司祭を襲い、墓地に侵入\r\nするという事件以降、地下への扉は固く施錠された\r\nそれ以来、教会を訪れる者はほとんどいない",
+      "source_en": "A public cemetery for the wealthy\r\nwas built in the basement of Drawan Church.\r\nHowever, after an incident where a greedy demon\r\nattacked the priest and invaded the cemetery,\r\nthe door to the basement was firmly locked.\r\nSince then, very few people have come\r\nto visit the church.",
+      "text": "Unter der Kirche von Drawan\r\nwurde einst eine Grabstätte für wohlhabende Bürger angelegt.\r\nEines Tages griff ein Leichenfresser\r\nden Priester an und drang in die Gruft ein.\r\nSeither ist die Tür zum Beinhaus fest verschlossen.\r\nSeit jenem Vorfall\r\nkommt kaum noch jemand in die Kirche."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "北バートランド東部の丘上に、オークが魔犬を\r\n育成、訓練している場所が確認された\r\nここで特別に育てられたグリムワーグは斥候や\r\n強襲に使われるため、そうなる前に手を打つことが\r\n望ましい",
+      "source_en": "On the hills in the eastern part of North Betland,\r\na place where Orcs breed and train canines\r\ncalled Grimwargs, has been confirmed.\r\nIt would be beneficial to take action before\r\nthese ferocious specially-bred Grimwargs\r\nare used for scouting and assault.",
+      "text": "Auf einem Hügel im Osten der Nördlichen Betland-Ebene\r\nhaben die Orks einen Zwinger eingerichtet.\r\nDort züchten und trainieren sie Grimwarge.\r\nDiese besonders wilden Dämonenhunde\r\nsollen zur Aufklärung und für Überraschungsangriffe eingesetzt werden.\r\nMan sollte den Orks zuvorkommen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "テゴル川河岸にある治水路\r\n旧時代に作られた水路の中で、ガルドノック砦に\r\n近いことからいち早く魔物に占拠された\r\n内部は汚水が溢れ、封鎖された当時から酷い状況\r\nだったという。使えるものがあるかは不明",
+      "source_en": "The flood control ditch on the banks\r\nof the Tegor River. Among the old waterways\r\nbuilt during ancient times, it was one of the first\r\nto be occupied by monsters due to its proximity\r\nto Gardnox Fortress. The interior was filled\r\nwith dirty water and has been in\r\na terrible condition since it was sealed off.\r\nIt is unknown if there is anything usable inside.",
+      "text": "Der Kanal dient dem Hochwasserschutz\r\nam Ufer des Tegor-Flusses.\r\nEr stammt aus alter Zeit.\r\nWegen seiner Nähe zu Festung Gardnox\r\nwar er einer der ersten Wasserwege, die Monster besetzten.\r\nAls man den Kanal sperrte, war er bereits\r\nin einem erbärmlichen Zustand und voller Abwasser.\r\nOb dort noch etwas Brauchbares zu finden ist, weiß niemand."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ガルドノック砦の南、哨戒地に頑丈な鱗ととりわけ\r\nするどい牙を持つ地竜が出現した。どうやら\r\nオーク軍が、次なるグリッテン砦への一手として\r\n用意した軍竜のようだ\r\n放置すれば本格的な脅威となるだろう",
+      "source_en": "A strong Earth Dragon with durable scales\r\nand especially sharp fangs has appeared\r\nin the southern part of Gardnox Fortress,\r\nin the patrol area.\r\nIt seems that the Orc army has prepared\r\nthis dragon unit as their next move\r\ntowards taking Fort Gritten. If left unattended,\r\nit will become a significant threat.",
+      "text": "Südlich von Festung Gardnox\r\nist im Wachgebiet ein mächtiger Erddrache aufgetaucht.\r\nEr hat harte Schuppen\r\nund besonders scharfe Fangzähne.\r\nDas Orkheer hat ihn offenbar\r\nfür seinen nächsten Angriff auf Festung Gritten vorbereitet.\r\nLässt man ihn gewähren,\r\nkönnte er zur ernsten Bedrohung werden."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "オークが根城とする大砦《ガルドノック砦》において\r\n戦力の中核を担う地位にあるオークがいる詰所\r\n近頃妙にオークの出入りが多く、周囲の住人からは\r\nこの《戦鬼の陣屋》にて何らかの作戦会議が\r\n行われているのではないかと不安の声が上がっている",
+      "source_en": "In the great Gardnox Fortress,\r\nthe main Orc stronghold, there is a camp\r\nwhere orcs vie for a position to play\r\na central role in the war. Recently,\r\norcs have been coming and going strangely,\r\nand the surrounding residents are concerned\r\nthat some kind of strategy meeting is being held\r\nin this War Demons' Encampment.",
+      "text": "In Festung Gardnox, dem Hauptstützpunkt der Orks,\r\nliegt das Lager ihrer stärksten Kämpfer.\r\nSeit Kurzem herrscht dort\r\nauffällig reger Betrieb.\r\nDie Bewohner der Umgebung\r\nfürchten, dass die Orks\r\nim Lager der Kriegsdämonen\r\neinen neuen Feldzug planen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "騎士団がガルドノック砦を守っていたその昔\r\n資材庫だった地下室\r\n現在はここもまた、オークや魔物の支配下にある",
+      "source_en": "Back in the day when the Knights\r\ndefended Gardnox Fortress,\r\nthe basement used to be a storehouse.\r\nNow this place is also under the control\r\nof orcs and monsters.",
+      "text": "Als die Weiße Garde\r\nnoch Festung Gardnox verteidigte,\r\ndiente dieser Keller als Materiallager.\r\nInzwischen haben auch hier\r\ndie Orks und andere Monster das Sagen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原北部、ガルドノック砦に\r\n近い井戸。長らく放置されているため\r\n雨風にさらされ朽ちかけている",
+      "source_en": "A well near Gardnox Fortress\r\nin the Northern Betland Plains.\r\nIt has been left untouched for a long time,\r\nexposed to wind and rain\r\nand on the verge of decay.",
+      "text": "Ein Brunnen nahe Festung Gardnox\r\nin der Nördlichen Betland-Ebene.\r\nSeit Langem kümmert sich niemand mehr darum.\r\nWind und Wetter haben ihm zugesetzt,\r\nund er droht einzustürzen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "バートランド北部からセラー湖の岸辺に繋がる\r\n地下道。ガルドノック砦がオークに占領される前\r\n騎士団が通り道や保管庫として作ったものである\r\nらしい。もちろん、現在利用している人間はいない",
+      "source_en": "An underground passage from the northern\r\npart of Betland to the shores of Lake Cera.\r\nIt seems that the Knights' Order built it\r\nas a thoroughfare and storage facility\r\nbefore Gardnox Fortress was occupied by orcs.\r\nOf course, there are no humans currently using it.",
+      "text": "Dieser unterirdische Gang führt\r\nvom Norden Betlands bis ans Ufer des Cera-Sees.\r\nDie Weiße Garde soll ihn als Durchgang\r\nund Vorratslager angelegt haben,\r\nnoch bevor die Orks Gardnox einnahmen.\r\nHeute nutzt ihn kein Mensch mehr."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍が根城とする旧時代の大砦\r\nかつては立派な外堀を持つ騎士団の砦だったが\r\n白竜が墜ちて後オークに占領され、恐ろしい魔物の\r\n城と化した。首領モゴックが手勢を率い、この砦を\r\n起点にハイデルへの侵略を企てている",
+      "source_en": "Formerly a fortress of the Knights' Order\r\nthat had an impressive moat.\r\nIt has now been occupied by Orcs\r\nafter the fall of the White Dragon,\r\ntransforming into a terrifying stronghold\r\nof monstrous creatures. The leader Mogok\r\nleads his forces from this fortress,\r\nplotting an invasion of Hidell.",
+      "text": "Diese alte Festung der Weißen Garde\r\nwar einst von einem mächtigen Graben umgeben.\r\nNach dem Sturz des Weißen Drachen\r\nnahmen die Orks sie ein.\r\nSeither ist sie eine gefürchtete Stellung des Orkheers.\r\nVon hier aus befehligt Mogok\r\nseine Truppen.\r\nEr plant einen Angriff auf Hidell."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【宝飾】の扉あり</COL>\r\n《ガルドノック砦》の奥から続き、テゴル川の水を\r\n堀へと引き込むための水廊。未だオークが根城とする\r\nこの場所に、侵食の影響を受けた個体が存在している\r\nらしい。脅威が拡散する前に、芽を摘む必要がある",
+      "source_en": "<COL ffdc78>[Jewelry Door]</COL>\r\nContinuing from the depths of Gardnox Fortress,\r\nthis water corridor is used to draw the water\r\nfrom the Tegor River into the moat.\r\nIt seems that there are infected individuals\r\naffected by corruption still inhabiting this place,\r\nwhich the Orcs still use as their stronghold.\r\nIt is necessary to nip this threat in the bud\r\nbefore it spreads.",
+      "text": "<COL ffdc78>[Schmucktür vorhanden]</COL>\r\nAus dem Inneren von Festung Gardnox führen Kanäle\r\nzum Fluss. Durch sie leitete man einst\r\nWasser aus dem Tegor in den Festungsgraben.\r\nIn den Gängen sollen sich inzwischen\r\nBefallene aufhalten. Die Orks nutzen die Festung\r\nweiterhin als Stützpunkt.\r\nDie Bedrohung sollte beseitigt werden,\r\nbevor sich der Befall ausbreitet."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

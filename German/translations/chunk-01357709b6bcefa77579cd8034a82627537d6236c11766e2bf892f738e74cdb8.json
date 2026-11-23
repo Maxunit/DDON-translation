@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50105000.gmd",
+  "arc_path": "\\quest\\q50105000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "次なる戦いに備えよ――",
+      "source_en": "Prepare for the next battle!",
+      "text": "Mach dich für die nächste Schlacht bereit!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "最後の戦いに備えよ――",
+      "source_en": "Prepare for the final battle!",
+      "text": "Mach dich für die letzte Schlacht bereit!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

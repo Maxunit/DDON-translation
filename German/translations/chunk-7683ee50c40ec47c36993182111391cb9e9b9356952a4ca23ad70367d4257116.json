@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60020003.gmd",
+  "arc_path": "\\quest\\q60020003.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "うーんやっぱり、《海辺の地下室》に\r\n入りこんだ連中が怪しいな――\r\n今度こそ《ブリア宝奪団》のアジトじゃないかな",
+      "source_en": "Hmm, aye... those who entered the Seaside Cellar\r\nseem suspicious. This time for sure it must be\r\nthe Breya Treasure Bandit's hideout.",
+      "text": "Hm, die Kerle, die in den Keller am Meer eingedrungen sind,\r\nkommen mir reichlich verdächtig vor. Das könnte diesmal\r\nwirklich das Versteck von Breyas Schatzräubern sein."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "覚者さん、入口の封鎖はといてあるから\r\n連中を見つけたら\r\nどうにか懲らしめてやってよ",
+      "source_en": "Ser Arisen, the entrance's seal is undone; should\r\nyou find them, give them a sound thrashing.",
+      "text": "Den Eingang hab ich entsperrt.\r\nWenn du die Kerle drinnen findest, erteil ihnen eine Lektion."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "少し行った所にある《海辺の地下室》に\r\n誰かが入り込んでるみたいでさ",
+      "source_en": "It looks like someone has broken into the\r\n“Seaside Cellar,” which is just a\r\nshort way down the road.",
+      "text": "Anscheinend ist jemand in den Keller am Meer eingebrochen.\r\nDer ist von hier aus\r\nnur ein kurzes Stück entfernt."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "今度こそ《ブリア宝奪団》の連中の\r\nアジトじゃないかな",
+      "source_en": "I think this might finally be\r\nthe hideout of the \"Breya Treasure Bandits.\"",
+      "text": "Vielleicht haben wir diesmal wirklich\r\ndas Versteck von Breyas Schatzräubern gefunden."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "入口の封鎖はといてあるから\r\n奴らを見つけたら\r\nどうにか懲らしめてやってよ",
+      "source_en": "The entrance has been cleared, so\r\nif you spot those guys,\r\nmake sure to teach them a lesson.",
+      "text": "Der Eingang ist jetzt frei.\r\nWenn du diese Kerle findest,\r\nzeig ihnen, dass sie dort nichts verloren haben."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "おお、そうかい！\r\n《ブリア宝奪団》を退治してくれたのか\r\n本当に感謝だよ",
+      "source_en": "Oh, is that so!\r\nThis time, you have truly vanquished the\r\nBreya Treasure Bandits.\r\nI am most grateful.",
+      "text": "Ah, wirklich?\r\nDiesmal hast du also\r\nBreyas Schatzräuber besiegt.\r\nIch danke dir!"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "もしまた連中がアジトにいたら\r\nやっつけてやってよ\r\nほら、《装備》とか逆に奪えるかもしれないし",
+      "source_en": "If they're at the hideout anew... do them in.\r\nMayhap you'll even claim their equipment instead.",
+      "text": "Falls die Kerle wieder in ihrem Versteck auftauchen, vertreib sie.\r\nVielleicht kannst du ihnen sogar ein Stück Ausrüstung abnehmen."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "でも、\"\"ブリアに眠る財宝\"\"か――\r\nそれが本当なら確かに気になるね\r\nそういえばブリアにはもう一つ村があったんだ\r\n南の浜辺の《ルフロー》っていう廃村がね",
+      "source_en": "But 'treasure sleeping in Breya,' is it? If true,\r\n'tis certainly intriguing. Come to think of it,\r\nBreya had another village — an abandoned one on\r\nthe southern shore called Ruflow.",
+      "text": "Aber so ein Schatz, der irgendwo in Breya schlummert …\r\nWenn da was dran ist, würde ich gern wissen, wo.\r\nAch, da fällt mir ein, dass es in Breya mal ein zweites Dorf gab.\r\nRuflow, am südlichen Strand. Heute steht es leer."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "もしかしたら、例の財宝と関係あるのは\r\nそっちの村だったのかもしれないな",
+      "source_en": "Mayhap 'twas that village which holds the\r\nconnection to the aforementioned treasure.",
+      "text": "Vielleicht hat ja dieses Dorf\r\netwas mit dem Schatz zu tun."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "恐ろしいことがあって一夜で滅んだって\r\n話だけが残ってるんだけど、結局ルフローが\r\n滅んだ原因は謎のままなんだよ\r\n財宝と何か関係あったのかな――",
+      "source_en": "Only a tale remains — that some terrible thing\r\nbefell it, and 'twas destroyed in a single night.\r\nYet in the end, the cause of Ruflow's ruin\r\nremains a mystery. One wonders if the treasure\r\nhad aught to do with it—",
+      "text": "Erzählt wird nur, dass Ruflow\r\nnach einem Unglück in einer einzigen Nacht unterging.\r\nWas damals passiert ist,\r\nweiß bis heute niemand.\r\nOb das was mit dem Schatz zu tun hatte?"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "そうだ！　あんたなら、ルフローが滅んだ\r\n真相や財宝も見つけられるんじゃないかな？\r\nブリアの問題を解決しながら、ぜひ\r\nそのあたりのことについても調べてくれよ",
+      "source_en": "Aye! 'Tis you who might unearth the verity of\r\nRuflow's ruin — and the treasure besides! Whilst\r\nyou're seeing to Breya's woes, pray\r\ninvestigate that matter too.",
+      "text": "Sag mal, vielleicht findest du ja heraus,\r\nwarum Ruflow unterging, und stößt dabei sogar auf den Schatz.\r\nWenn du sowieso in Breya unterwegs bist,\r\nkönntest du der Sache nachgehen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

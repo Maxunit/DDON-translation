@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\npc\\base\\n1905.gmd",
+  "arc_path": "\\npc\\n1905.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "いやー、参った参った\r\nまさかお前がここまで凄いとはなぁ――\r\n副隊長がベタ褒めするのもしょうがないか",
+      "source_en": "Well, I'm impressed, I'm impressed.\r\nI didn't expect you to be this amazing.\r\nI guess even the vice-captain's over-the-top\r\npraise is understandable.",
+      "text": "Na, da muss ich schon staunen.\r\nIch hätte nie gedacht, dass du so gut bist …\r\nKein Wunder, dass Vanessa dich\r\nin den höchsten Tönen lobt."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "正直、お前がいなかったらこの砦は\r\nオークに落とされてたかもしれん\r\n俺も他のヤツも、それは解ってるツモリさ",
+      "source_en": "Honestly, if you weren't here, this fortress\r\nmight have been taken down by Orcs.\r\nBoth me and the others know that.",
+      "text": "Ohne dich hätten die Orks die Festung\r\nvielleicht längst eingenommen.\r\nDas wissen die anderen genauso gut wie ich."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "さ、今度の特別報償だ\r\n胸を張って受け取れよ！",
+      "source_en": "Well, this time it's a special reward, so\r\naccept it with pride!",
+      "text": "Also, hier ist deine Sonderbelohnung.\r\nDu kannst sie mit erhobenem Kopf annehmen!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "よぉよぉ！！　ブイブイ言わせてる\r\nみたいじゃないか\r\n新入りだと思ってたらあっという間だな",
+      "source_en": "Hey, hey!\r\nYou're really making waves, aren't you?\r\nI thought you were a newcomer, but time flies.",
+      "text": "Na, sieh mal einer an!\r\nDu sorgst hier für ordentlich Aufsehen.\r\nEben warst du noch neu hier. Wie die Zeit vergeht!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "お前の働きに対して、報償が出たぞ\r\nま、それだけ戦果をあげたってわけだ\r\n誇っていいぞ、うん",
+      "source_en": "You've been rewarded for your work.\r\nWell, that's what you get for\r\nfighting the good fight.\r\nYou should be proud, yeah.",
+      "text": "Für deinen Einsatz gibt es eine Belohnung.\r\nHast dir eben einiges erkämpft.\r\nJa, darauf\r\nkannst du stolz sein."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "おおそうだ！\r\nお前の働きぶり、ちょくちょく聞いてるぞ\r\nこれからも頑張れよ！",
+      "source_en": "Oh yeah!\r\nI've heard a lot about your work, Keep it up!",
+      "text": "Ach, richtig!\r\nIch hör immer wieder von deinem Einsatz. Weiter so!"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "お前、すごい活躍なんだってな！\r\nちくしょー、さっき副隊長が\r\nわざわざこれをお前にってよ",
+      "source_en": "I heard you've been doing amazing work!\r\nHell, just now the vice-captain\r\nspecifically gave this to you.",
+      "text": "Du sollst dich ja mächtig ins Zeug gelegt haben!\r\nVerdammt, Vanessa hat mir eben extra\r\nwas für dich gegeben."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ほら、持ってけ！\r\nあーちくしょ～！　羨ましい！！",
+      "source_en": "Here, take it!\r\nAh, damn it～!　I'm so jealous!",
+      "text": "Hier, nimm’s!\r\nVerdammt, bin ich neidisch!"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "おうおう、頑張ってるみたいじゃないか！\r\nお前には他のヤツよりちょっといい\r\n支給品を回してやるよ",
+      "source_en": "Oh, well, it looks like you're doing a great job!\r\nI'm going to give you a little better allowance\r\nthan the rest of them.",
+      "text": "Na, du legst dich ja ordentlich ins Zeug!\r\nIch schieb dir ein bisschen bessere Versorgungsgüter zu\r\nals den anderen."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "お疲れさん、忘れず顔を出したな\r\nほれ、今回の支給品だ",
+      "source_en": "Good job, you didn't forget to show up.\r\nHere, here's the latest supply.",
+      "text": "Gut, dass du ans Vorbeikommen gedacht hast.\r\nHier ist deine Ration für diesmal."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "よぉ！\r\nよく来たな、噂の大型新人！",
+      "source_en": "Hey there!\r\nYou've come at a good time, the\r\nrumored big shot rookie!",
+      "text": "He, hallo!\r\nDu kommst gerade recht! Der Neuling,\r\nvon dem alle reden!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "俺は砦北部のエリア、バートランド平原の\r\nエリアマスターをしてるスケルツォ\r\n――お前と同じ覚者だ",
+      "source_en": "I am Scherzo, the Area Master of the northern\r\narea, Betland Plains. I am an\r\nArisen, just like you.",
+      "text": "Ich bin Scherzo, der Gebietsmeister der Betland-Ebene.\r\nDie liegt nördlich der Festung.\r\nUnd ich bin Erweckter, genau wie du."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "しかし困ったぞ――\r\n憧れのヴァネッサ副隊長が信頼するレオ統率に\r\n目をかけられてるお前――！",
+      "source_en": "But, I'm in trouble- You're being noticed by Leo,\r\nthe commanding officer whom Lieutenant\r\nVanessa admires and trusts!",
+      "text": "Nur hab ich jetzt ein Problem.\r\nDu stehst bei Kommandant Leo hoch im Kurs,\r\nund auf den gibt Vanessa so viel!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "俺にとっちゃあ、最大のライバル出現だ！",
+      "source_en": "For me, this is the biggest rivalry I've ever had!",
+      "text": "Damit bist du wohl der größte Rivale, den ich je hatte!"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "――とまぁ、冗談はさておきよろしくな！",
+      "source_en": "... Right, joking aside, nice to meet you!",
+      "text": "Aber Spaß beiseite. Schön, dich kennenzulernen!"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "ここのクエストボードは正門の中だ\r\nバートランド平原の任務――\r\n資源確保とオーク軍の勢力調査だ",
+      "source_en": "The quest board here is inside the main gate.\r\nQuests in the Betland Plains- securing resources\r\nand investigating the Orc army's strength.",
+      "text": "Das Questboard steht gleich hinterm Haupttor.\r\nDa findest du Aufträge in der Betland-Ebene.\r\nWir brauchen Vorräte und müssen wissen, wie stark das Orkheer ist."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "そのうちお前にも頼むことになるだろうが\r\n今すぐにってわけじゃない\r\nなにせ危険地帯だからな",
+      "source_en": "I'll have to ask you to do it eventually.\r\nNot right now, though.\r\nIt's a dangerous zone, after all.",
+      "text": "Irgendwann werd ich dich auch darum bitten.\r\nAber damit hat es noch Zeit.\r\nDie Gegend ist gefährlich."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "まずは、レオ統率や他のエリアマスター\r\nから一目置かれる覚者になってくれよ\r\n――あ、でも副隊長の前では控えめにな！",
+      "source_en": "First, become an Arisen who is respected by Leo\r\nand other Area Masters.\r\nBut remember to be modest in front\r\nof the Vice Captain!",
+      "text": "Werd erst mal ein Erweckter,\r\nvor dem Leo und die anderen Gebietsmeister Respekt haben.\r\nUnd ach ja, vor Vanessa\r\nhältst du dich schön zurück!"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "お前の働きぶり、ちょくちょく聞いてるぞ\r\nこれからも頑張れよ！",
+      "source_en": "I've heard a lot about your work, keep\r\nup the good work!",
+      "text": "Ich hör immer wieder von deinem Einsatz.\r\nWeiter so!"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "ま、俺がお前のために直接してやれることは\r\n支給くらいだけど\r\n成果に応じていいもん手配してやるからさ！",
+      "source_en": "Well, the only direct thing I can do for you is\r\nto provide support, but I'll arrange something\r\nnice for you based on your results, so...!",
+      "text": "Ich kann dir zwar vor allem mit Versorgungsgütern helfen.\r\nAber wenn du dich ins Zeug legst,\r\nbesorg ich dir was Ordentliches!"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "一つ、不穏な情報が入ってるんだ",
+      "source_en": "There is one piece of unsettling information.",
+      "text": "Ich hab eine beunruhigende Meldung bekommen."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "バートランド高地の監視塔近く、湖のほとり\r\n《湖岸の廃墟》でコロッサスが出現するように\r\nなったようでな\r\nそれもかなりの剛腕ぶりらしい",
+      "source_en": "Near the observation tower in Betland Highlands, by the lake. \r\nA Colossus seems to have appeared at the Lakeside Ruins. \r\nAnd it seems to possess quite an impressive level of strength.",
+      "text": "Nahe dem alten Wachturm im Betland-Hochland\r\nsoll ein Koloss in den Ruinen am Seeufer aufgetaucht sein.\r\nDas Ding soll gewaltige Kräfte haben."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "あそこはバートランド連絡路にも近いから\r\n周囲を通る時は気をつけろ\r\nもちろん、討伐してくれりゃ大助かりだ",
+      "source_en": "Because there is a connecting channel to Betland\r\nnearby, be careful when passing through there.\r\nOf course, it would be a great help if\r\nyou could subdue it.",
+      "text": "Der Verbindungsweg von Betland führt dort vorbei.\r\nPass also auf,\r\nwenn du in der Gegend unterwegs bist.\r\nWenn du den Koloss erledigen kannst, umso besser!"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "おっ！　そうだ\r\nお前に頼みたい任務があるんだ",
+      "source_en": "Oh! That's right.\r\nI have a mission that I want to ask of you.",
+      "text": "Ach, richtig!\r\nIch hab einen Auftrag für dich."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "《バートランド墓地》は知ってるか？\r\nまぁ簡単に言えば、任務はその内部調査だ",
+      "source_en": "Do you know about Betland Cemetery? Well, to put\r\nit simply, the mission is to\r\ninvestigate its interior.",
+      "text": "Kennst du den Friedhof von Betland?\r\nIm Grunde sollst du nur\r\ndie unterirdische Grabstätte untersuchen."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "中の様子を見てみて\r\nもし魔物がいたらその討伐！\r\n――うんまぁ、あれだ、シンプルだろ？",
+      "source_en": "Take a look inside and if there are\r\nmonsters, defeat them!\r\n... Yeah well, that's it.\r\nSimple, right?",
+      "text": "Sieh dich dort drinnen um.\r\nWenn du Monster findest, erledige sie!\r\nÄh, mehr ist es eigentlich nicht.\r\nKlingt doch einfach, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "任務を受ける準備ができたら\r\nあらためて声を掛けてくれ",
+      "source_en": "When you're ready to take on the assignment,\r\ngive me a call again.",
+      "text": "Wenn du für den Auftrag bereit bist,\r\nsprich mich noch mal an."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "よぉよぉ！！　ブイブイ言わせてる\r\nみたいじゃないか\r\n新入りだと思ってたらあっという間だな",
+      "source_en": "Hey, hey!\r\nYou're really making waves, aren't you?\r\nI thought you were a newcomer, but time flies.",
+      "text": "Na, sieh mal einer an!\r\nDu sorgst hier für ordentlich Aufsehen.\r\nEben warst du noch neu hier. Wie die Zeit vergeht!"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "お前の働きに対して、報償が出たぞ\r\n支給品の格上げだ",
+      "source_en": "I have received compensation for your labor.\r\nIt is an upgrade of the supplies provided.",
+      "text": "Für deinen Einsatz gibt es eine Belohnung.\r\nVon jetzt an bekommst du bessere Versorgungsgüter."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "ま、それだけ戦果をあげたってわけだ\r\n誇っていいぞ、うん",
+      "source_en": "Well, that's how much you've\r\naccomplished in the war.\r\nYou can be proud of yourself, yeah.",
+      "text": "Hast dir eben einiges\r\nerkämpft.\r\nJa, darauf kannst du stolz sein."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "要警戒情報が入ったぞ！\r\nオークの本拠地に近い、平原北部――\r\n《バートランド大橋》のたもとで、精鋭部隊らしき\r\nオークの一団が目撃されたんだ",
+      "source_en": "We've received an alert!\r\nIn the northern plains, near the orc main base— a\r\nunit of elite-looking orcs has been seen,\r\nclose to Betland Bridge.",
+      "text": "Achtung, wir haben eine dringende Meldung!\r\nIm Norden der Ebene, nahe der Hochburg der Orks,\r\nwurde an der Großen Betland-Brücke\r\nein mutmaßlicher Elitetrupp gesichtet."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "部隊が準備をしている間に\r\n何とかしないと、また砦が攻め込まれない\r\nとも限らない",
+      "source_en": "While the unit is preparing, we must do\r\nsomething, or the fortress may be breached again.\r\nThere is no guarantee otherwise.",
+      "text": "Solange die Orks noch mit Vorbereitungen beschäftigt sind,\r\nmüssen wir etwas unternehmen.\r\nSonst greifen sie die Festung womöglich wieder an."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "ヴァネッサ副隊長には報告済みだが\r\nもし対処できそうなら、お前の方でも\r\nよろしく頼む",
+      "source_en": "I have already reported it to Vice Captain\r\nVanessa, but if you think you can address it, I\r\nalso ask for your assistance.",
+      "text": "Ich habe Vanessa schon Bericht erstattet.\r\nWenn du meinst, du kannst etwas ausrichten,\r\nkönnen wir deine Hilfe gebrauchen."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "バートランドのどこかには\r\nモゴックの腹心《戦鬼ゲソム》が指揮する\r\n部隊のアジトがあるって情報も入ってる",
+      "source_en": "Somewhere in Betland, there is information that\r\nGesomu the War Demon, Mogok's right-hand man,\r\ncommands a base for his unit.",
+      "text": "Außerdem heißt es, dass der Kriegsdämon Gesomu,\r\nMogoks rechte Hand, irgendwo in Betland\r\nein Versteck für seinen Trupp hat."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "引き続き調べる必要があるな",
+      "source_en": "I'll have to keep looking into this.",
+      "text": "Wir müssen der Sache weiter nachgehen."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "おお！　お前に連絡だ！\r\nついに奴らの本拠地、《バートランド平原北部》に\r\n攻め込む手はずが整ったぞ",
+      "source_en": "Oh! I've got news for you!\r\nWe have finally made arrangements to invade their\r\nstronghold, the Northern Betland Plains.",
+      "text": "Ah, ich hab Neuigkeiten für dich!\r\nWir sind endlich so weit.\r\nWir können in die Nördliche Betland-Ebene vorstoßen, wo die Orks ihre Hochburg haben."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "バートランド北部へと繋がる\r\n山道を塞いでいた落石を、ようやく除去できたんだ",
+      "source_en": "We were finally able to remove the rocks that\r\nwere blocking the mountain road that leads\r\nto northern Betland.",
+      "text": "Der Betland-Bergpfad nach Norden\r\nwar durch einen Felssturz versperrt.\r\nEndlich haben wir die Felsbrocken weggeschafft."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "ま、そこが通れるようになったのはお互い様で\r\nこれでオークどもも、魔獣を使って山側から\r\n侵入する必要なく、そのままこっちへ来れる\r\nようになったわけだが――",
+      "source_en": "Well, we both made it possible\r\nto pass through there.\r\nNow those orcs can come over here without needing\r\nto invade from the mountain side\r\nusing magick beasts.",
+      "text": "Allerdings können beide Seiten den Weg benutzen.\r\nDie Orks müssen jetzt keine Bestien mehr\r\nüber die Berge schicken,\r\num zu uns vorzudringen.\r\nSie können einfach auf dem Pfad hierherkommen …"
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "ともあれ、隊を組んで奴らの居城\r\n《ガルドノック砦》に乗り込む日も近いだろうな！",
+      "source_en": "Regardless, the day is approaching when we will\r\ngo together and infiltrate their\r\nstronghold, Gardnox Fortress!",
+      "text": "Trotzdem, bald können wir einen Trupp aufstellen\r\nund die Hochburg der Orks angreifen,\r\nFestung Gardnox!"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "よう、砦の任務は順調かい？",
+      "source_en": "Hey, how's the mission at the fortress going?",
+      "text": "Na, wie läuft’s mit den Aufträgen in der Festung?"
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "そ、そうだ！！　\r\n良い所にきたな、お前にも言っておこう！\r\n《禊の神殿》について新しい情報が入ってな",
+      "source_en": "Oh, right!!\r\nYou've come to a good place, so I'll tell you too!\r\nThere's new information about the\r\nTemple of Purification.",
+      "text": "Ach, richtig!\r\nDu kommst gerade recht.\r\nIch habe Neuigkeiten\r\nvom Tempel der Läuterung."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "神殿内部に、ずっと入れなかった\r\n《不浄の地下水路》って区画があるんだ\r\nもとは神殿に引いた湖の水を浄化する\r\n区画だったんだが――",
+      "source_en": "Inside the temple, there is a section called the\r\n\"Defiled Waterway\" that I have\r\nnever been able to enter.\r\nIt used to be a section for purifying the water\r\nfrom the lake that was drawn into the temple.",
+      "text": "Im Tempel gibt es einen Teil,\r\nden man den Unreinen Wasserweg nennt.\r\nBisher kam niemand hinein.\r\nFrüher hat man dort das Wasser aus dem See gereinigt,\r\nbevor es durch den Tempel floss."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "昔のエリアマスター、禊の神官長が\r\n封鎖して立入禁止にしたんだよ\r\n何があったか知らないけどな",
+      "source_en": "The former area master, the priest in charge of\r\npurification, blocked off the area\r\nand prohibited entry.\r\nI don't know what happened though.",
+      "text": "Der frühere Gebietsmeister, der Hohepriester des Tempels,\r\nhat den Zugang versiegeln lassen.\r\nSeither durfte dort niemand mehr hinein.\r\nWas damals passiert ist, weiß ich auch nicht."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "それがごく最近、その封鎖が\r\n解けているのが発見されたんだ",
+      "source_en": "Very recently, that blockade was found\r\nto have been broken.",
+      "text": "Jetzt ist aufgefallen,\r\ndass die Versiegelung aufgehoben wurde."
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "それに気づいた定期討伐の隊士は\r\n妙な威圧感と寒気に襲われて\r\n結局中まで入れなかったらしい",
+      "source_en": "The squad members who noticed it were ultimately\r\nunable to enter due to a strange sense of\r\nintimidation and coldness.",
+      "text": "Der Soldat, der das entdeckt hat, ist lieber draußen geblieben.\r\nIhm sei plötzlich ganz kalt geworden.\r\nEr habe sich dort furchtbar bedrängt gefühlt."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

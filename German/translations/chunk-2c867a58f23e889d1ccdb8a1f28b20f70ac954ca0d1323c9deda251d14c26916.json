@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000013_00.gmd",
+  "arc_path": "\\quest\\q21000013.arc",
+  "entries": [
+    {
+      "key": "q21000013_00_325",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "忘れられた魔像",
+      "source_en": "The Forgotten Evil Image",
+      "text": "Das vergessene Götzenbild"
+    },
+    {
+      "key": "q21000013_00_325",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【討伐クエスト】\r\nエリアに出現した怪しい魔物を探し\r\n問題の原因となる敵を討伐する",
+      "source_en": "[Subjugation Quest]\r\nSearch for suspicious monsters in the area\r\nand defeat the enemy causing the problem.",
+      "text": "[Jagdquest]\r\nSuch in der Gegend nach verdächtigen Monstern\r\nund besiege den Auslöser der Vorfälle."
+    },
+    {
+      "key": "q21000013_00_325",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今、怪しい気配のする\r\n魔物たちが出現しているらしい",
+      "source_en": "In <NAME AREA> right now, \r\nthere seems to be a suspicious presence\r\nof enemy creatures.",
+      "text": "Bei <NAME AREA>\r\nsind offenbar Monster aufgetaucht.\r\nVon ihnen geht etwas Unheimliches aus."
+    },
+    {
+      "key": "q21000013_00_325",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "だからほっとくなって言っただろう？\r\nああいう廃屋を放置しておくと、物の怪の類が\r\nうようよ湧いちまう\r\n定期的に見回りに行くか、潰すかしねえと――\r\nしかし今回はなんだ？　随分と立派なのが\r\n湧いちまったようだな、こんなの、始末できるのか？",
+      "source_en": "I warned you not to neglect it, right? \r\nLeaving abandoned houses like that \r\nunattended will invite all sorts \r\nof monsters. We need to either \r\npatrol regularly or destroy them. \r\nBut what's going on this time? \r\nIt seems quite the impressive one \r\nhas shown up. Can we take care \r\nof something like this?",
+      "text": "Ich hab doch gesagt, man soll so was nicht sich selbst überlassen!\r\nWenn so ein Haus lange leer steht,\r\nzieht es alle möglichen Kreaturen an.\r\nEntweder sehen wir dort regelmäßig nach,\r\noder wir reißen es ab.\r\nAber was ist denn diesmal los?\r\nDa soll ein ganz schöner Brocken\r\naufgetaucht sein.\r\nWerden wir mit so was überhaupt fertig?"
+    },
+    {
+      "key": "q21000013_00_1171",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000013_00_1173",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物を討伐する",
+      "source_en": "Defeat the remaining foe(s)",
+      "text": "Besiege die verbliebenen Monster."
+    },
+    {
+      "key": "q21000013_00_1229",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たに現れた魔物を即時討伐して危機を回避",
+      "source_en": "Eliminate the newly emerged monster right away to prevent the crisis",
+      "text": "Besiege das neu aufgetauchte Monster sofort, um die Gefahr abzuwenden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

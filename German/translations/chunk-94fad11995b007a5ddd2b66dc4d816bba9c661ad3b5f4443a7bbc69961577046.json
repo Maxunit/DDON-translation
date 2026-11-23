@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000120_00.gmd",
+  "arc_path": "\\quest\\q90000120.arc",
+  "entries": [
+    {
+      "key": "q90000120_00_77",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦攻防戦　戦況：奪回戦",
+      "source_en": "Battle for Fort Gritten: Recapture Battle",
+      "text": "Schlacht um Festung Gritten – Rückeroberung"
+    },
+    {
+      "key": "q90000120_00_77",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍も全ての兵力を使って砦へ攻め込んできた\r\n現状、砦のいたる所が魔物で溢れかえっている\r\nこの大規模戦闘に勝利する術はあるのか、\r\n覚者の誰もが知る由もないだろう\r\n全員の力を最大限に発揮し、グリッテン砦最大の\r\n危機を突破せよ！",
+      "source_en": "The Orc army has also invaded the fort with all\r\nits forces.\r\nCurrently, the fort is overflowing with monsters\r\neverywhere.\r\nIs there a way to win this large-scale battle?\r\nNo one knows for sure.\r\nExert everyone's full strength and break through\r\nthe greatest crisis at Fort Gritten!",
+      "text": "Das Orkheer ist in die Festung eingedrungen.\r\nAlle seine Truppen sind am Angriff beteiligt.\r\nMittlerweile wimmelt es in jedem Winkel\r\nvon Monstern.\r\nWie sich diese gewaltige Schlacht gewinnen lässt,\r\nweiß bisher kein Erweckter.\r\nSetzt all eure Kräfte ein.\r\nFestung Gritten war noch nie in so großer Gefahr!"
+    },
+    {
+      "key": "q90000120_00_77",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦攻防戦：奪回戦《リザルト報酬》",
+      "source_en": "Battle for Fort Gritten: Recapture Battle (Result\r\nReward)",
+      "text": "Schlacht um Festung Gritten – Rückeroberung\r\n(Schlachtbelohnung)"
+    },
+    {
+      "key": "q90000120_00_77",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍に砦の全てが占領された大規模戦闘だ\r\n己の技量だけで全魔物を退けることは叶わない\r\n力と知の限りを尽くし、グリッテン砦最大の\r\n危機を突破せよ！",
+      "source_en": "It is a large-scale battle in which all of the\r\nfort is occupied by the orc army.\r\nIt's impossible to drive away all the monsters with\r\njust your own skills.\r\nLet's use all of our strength and knowledge to\r\novercome the greatest crisis Fort Gritten ever\r\nfaced!",
+      "text": "Das Orkheer hat die gesamte Festung\r\nin seiner Gewalt.\r\nAllein kann niemand\r\nall diese Monster vertreiben.\r\nSetzt euer ganzes Können\r\nund Wissen ein.\r\nFestung Gritten war noch nie in so großer Gefahr!"
+    },
+    {
+      "key": "q90000120_00_1631",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "総大将を撃破し、砦防衛を完遂せよ",
+      "source_en": "Defeat the general and complete the defense of the fort!",
+      "text": "Besiege den Oberbefehlshaber und schließe die Verteidigung der Festung ab!"
+    },
+    {
+      "key": "q90000120_00_1632",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "目的地の敵を殲滅せよ",
+      "source_en": "Defeat the enemy at the target locations",
+      "text": "Besiege die Gegner an den Zielorten."
+    },
+    {
+      "key": "q90000120_00_1633",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "大挙襲来した魔物を全て撃退せよ",
+      "source_en": "Repel the massive attack of enemies",
+      "text": "Schlage alle angreifenden Monster zurück."
+    },
+    {
+      "key": "q90000120_00_1634",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たに現れた魔物を討伐し、戦功ボーナスを得よ",
+      "source_en": "Defeat the newly appeared enemies and obtain a bonus in war merit",
+      "text": "Besiege die neu erschienenen Monster für Bonuspunkte."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

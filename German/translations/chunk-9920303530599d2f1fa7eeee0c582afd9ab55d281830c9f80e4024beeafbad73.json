@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40000040_00.gmd",
+  "arc_path": "\\quest\\q40000040.arc",
+  "entries": [
+    {
+      "key": "q40000040_00_40",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "＜エリアオーダー＞グリッテン砦補給",
+      "source_en": "Area Order: Fort Gritten Resupply",
+      "text": "[Gebietsauftrag] Nachschub für Festung Gritten"
+    },
+    {
+      "key": "q40000040_00_40",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "庶務のスケルツォから、覚者隊各員への連絡だ\r\nグリッテン砦の物資なんだが、<LQIM>がそろそろ無くなりそうでな\r\n次の戦いに備えて<LQVA>個確保し、納品してくれ。頼んだぞ！",
+      "source_en": "Message from Scherzo in Administration\r\nto all Arisen Corps Members:\r\nFort Gritten is nearing a shortage\r\nof <LQIM>. \r\nFor the next battle,\r\nplease secure and deliver <LQVA> pieces.",
+      "text": "Hier spricht Scherzo von der Verwaltung.\r\nEine Durchsage an alle Mitglieder der Erwecktentruppe.\r\nDie Vorräte in Festung Gritten gehen zur Neige.\r\nUns fehlt vor allem <LQIM>.\r\nVor der nächsten Schlacht brauchen wir Nachschub.\r\nBeschaffe und liefere <LQVA> Stück. Ich zähle auf dich!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

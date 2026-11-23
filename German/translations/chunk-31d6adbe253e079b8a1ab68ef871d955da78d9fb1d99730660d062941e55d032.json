@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000004_00.gmd",
+  "arc_path": "\\quest\\q21000004.arc",
+  "entries": [
+    {
+      "key": "q21000004_00_316",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔女の噂",
+      "source_en": "The Witch's Rumor",
+      "text": "Gerüchte um die Waldhexe"
+    },
+    {
+      "key": "q21000004_00_316",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【納品クエスト】\r\n依頼者の願いを聞き入れ\r\n指定された物資を集めてくる",
+      "source_en": "[Delivery Quest]\r\nListen to the requester's wishes\r\nand gather the specified supplies.",
+      "text": "[Lieferquest]\r\nHör dir die Bitte der Auftraggeberin an\r\nund besorg die verlangten Vorräte."
+    },
+    {
+      "key": "q21000004_00_316",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "物資を必要としている人物が\r\n<NAME AREA>から協力を求めている",
+      "source_en": "A person in need of supplies is seeking assistance\r\nin <NAME AREA>.",
+      "text": "Jemand braucht Nachschub und bittet um Hilfe, und zwar bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21000004_00_316",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "どうにも森の魔女が子どもらと親しいようでな――\r\n村の大人たちは、この状況を危惧しておる\r\nとって喰われでもするんじゃないかってのう――\r\n子どもが呪文なんか唱えた日にゃ\r\n驚いてそのまま昇天しそうじゃわい",
+      "source_en": "It seems the forest witch is quite friendly \r\nwith the children— \r\nThe village adults are worried about this \r\nsituation, fearing they might be eaten— \r\nIf the children start chanting spells, \r\nthey might be so frightened they could \r\ndrop dead from shock.",
+      "text": "Die Hexe im Wald versteht sich wohl gut\r\nmit den Kindern.\r\nDen Erwachsenen im Dorf ist dabei unwohl.\r\nDie denken gleich, sie könnte die Kinder auffressen.\r\nWenn die Kleinen eines Tages anfangen,\r\nZaubersprüche aufzusagen,\r\nfallen die Erwachsenen vor Schreck tot um."
+    },
+    {
+      "key": "q21000004_00_1179",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼先に届ける（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> × <SQDI NUM> zum Lieferort (noch benötigt: <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

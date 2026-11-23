@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20035008_00.gmd",
+  "arc_path": "\\quest\\q20035008.arc",
+  "entries": [
+    {
+      "key": "q20035008_00_108",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "坑道に響く咆哮",
+      "source_en": "The Echoing Roars in the Tunnel",
+      "text": "Gebrüll im Stollen"
+    },
+    {
+      "key": "q20035008_00_108",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20035008_00_108",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの目撃情報を整理中\r\nおそらく強力な魔物の関与が濃厚とされる",
+      "source_en": "Currently organizing eyewitness reports from \r\n<NAME AREA>.\r\nIt is highly likely that it's due to powerful \r\nenemy involvement.",
+      "text": "Die Augenzeugenberichte werden gerade ausgewertet.\r\nSie stammen aus der Gegend um <NAME AREA>.\r\nVieles deutet darauf hin, dass ein mächtiges Monster\r\ndahintersteckt."
+    },
+    {
+      "key": "q20035008_00_108",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "あたしは――あんなでも、やっぱり実の息子ですから\r\n信じてやりたいんです\r\n予言だ神のお告げだと、回りの人は不気味がりますが\r\nあれは単に、怯えているだけなんです\r\nみんなに災いに遭って欲しくない一心で\r\n魔物が来る、近くまで来てる、と――",
+      "source_en": "I—despite everything, he's still my own son,\r\nso I want to believe in him. People around\r\nme are unnerved by prophecies and divine messages,\r\nbut he's just scared. With all my heart, I don't\r\nwant anyone to suffer. He says monsters are\r\ncoming, getting close, and—",
+      "text": "Er ist und bleibt mein Sohn.\r\nIch möchte ihm glauben.\r\nDie Leute gruseln sich, wenn sie »Prophezeiung« oder »Götterbotschaft« hören.\r\nDabei hat er einfach Angst.\r\nEr will doch nur, dass keinem etwas zustößt.\r\nEr sagt, die Monster kommen und sind schon ganz nah …"
+    },
+    {
+      "key": "q20035008_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20070003_00.gmd",
+  "arc_path": "\\quest\\q20070003.arc",
+  "entries": [
+    {
+      "key": "q20070003_00_167",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "奪え！　オークの貯蓄品",
+      "source_en": "To Steal from Orcs",
+      "text": "Schnapp dir die Vorräte der Orks!"
+    },
+    {
+      "key": "q20070003_00_167",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "モルテンの願いを聞き入れ\r\n望む物品を集める",
+      "source_en": "Listen to Morten's wish\r\nand gather the desired items.",
+      "text": "Hör dir Mortens Bitte an\r\nund sammle die gesuchten Materialien."
+    },
+    {
+      "key": "q20070003_00_167",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの噂では\r\n腕に覚えのある者を、求める人物がいるそうだ",
+      "source_en": "According to rumors from \r\n<NAME AREA>,\r\nit seems that there is someone \r\nseeking skilled individuals.",
+      "text": "Gerüchten zufolge sucht jemand\r\nin der Gegend um <NAME AREA>\r\nnach Leuten,\r\ndie etwas auf dem Kasten haben."
+    },
+    {
+      "key": "q20070003_00_167",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "素材コレクターのモルテンが\r\nオーク相手に、大仕事を計画しているらしい\r\nあの男、いつも計画は大胆だが\r\n肝心の危険な役回りは他人に振るくせがあるうえ\r\n少々ケチくさいってのが玉に傷だ\r\nまぁ、興味あるのなら付き合ってみるのもいいだろう",
+      "source_en": "It seems that the material collector, Morten,\r\nis planning a big job against the orcs.\r\nThat man is always bold with his plans,\r\nbut he tends to pass off the dangerous roles to \r\nothers and can be somewhat stingy, which is a flaw.\r\nWell, if you're interested, \r\nit might be worth joining in.",
+      "text": "Morten sammelt allerlei Materialien.\r\nJetzt plant er wohl einen großen Coup gegen die Orks.\r\nSeine Pläne sind immer gewagt,\r\naber den gefährlichen Teil\r\nüberlässt er gern anderen. Außerdem ist er etwas geizig.\r\nWenn dich die Sache trotzdem reizt,\r\nkannst du dich ja darauf einlassen."
+    },
+    {
+      "key": "q20070003_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte Morten Bericht."
+    },
+    {
+      "key": "q20070003_00_1027",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜ガルドノック砦＞で貯蔵品を探す（残り３個）",
+      "source_en": "Search for supplies within Gardnox Fortress (3 left)",
+      "text": "Such in Festung Gardnox nach den Vorräten der Orks (noch 3)."
+    },
+    {
+      "key": "q20070003_00_1096",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜ガルドノック砦＞で貯蔵品を探す（残り２個）",
+      "source_en": "Search for supplies within Gardnox Fortress (2 left)",
+      "text": "Such in Festung Gardnox nach den Vorräten der Orks (noch 2)."
+    },
+    {
+      "key": "q20070003_00_1097",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜ガルドノック砦＞で貯蔵品を探す（残り１個）",
+      "source_en": "Search for supplies within Gardnox Fortress (1 left)",
+      "text": "Such in Festung Gardnox nach den Vorräten der Orks (noch 1)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

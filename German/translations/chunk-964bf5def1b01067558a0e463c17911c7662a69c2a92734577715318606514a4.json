@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q21000003.gmd",
+  "arc_path": "\\quest\\q21000003.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "汚染植物が出現――！",
+      "source_en": "Infected plants have appeared!",
+      "text": "Befallene Pflanzen sind aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "胞子が集まり始めている――",
+      "source_en": "Spores are starting to gather",
+      "text": "Die Sporen sammeln sich …"
+    },
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "胞子の広がりを阻止――\r\nクリア報酬が追加！",
+      "source_en": "<COL ffdc78>Stopped the spread of spores!\r\nClear Rewards have been added!</COL>",
+      "text": "<COL ffdc78>Die Ausbreitung der Sporen wurde aufgehalten!\r\nDie Abschlussbelohnung erhöht sich!</COL>"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

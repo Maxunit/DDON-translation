@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40201011_00.gmd",
+  "arc_path": "\\quest\\q40201011.arc",
+  "entries": [
+    {
+      "key": "q40201011_00_351",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【週期要請】バートランド平原：治安維持討伐",
+      "source_en": "[Periodic Request] Betland Plains: Security Upkeep Dispatch",
+      "text": "[Wöchentlicher Auftrag] Betland-Ebene – Sicherheit auf den Wegen"
+    },
+    {
+      "key": "q40201011_00_351",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターとして、長期討伐の依頼だ\r\n近頃<LQEM>の群れが何度も確認されている\r\nすぐさま神殿に襲来する恐れは無いと見えるが、\r\nこれを機に掃討作戦を実施したい。<LQVA>体の討伐に協力してくれ",
+      "source_en": "As the Area Master, here's a request for long-term\r\neradication. \r\nRecently, <LQEM> swarms have been\r\nconfirmed multiple times. While there's no immediate\r\nthreat of an attack on the shrine, we want to use this\r\nopportunity to carry out a purge. Please assist in\r\nthe elimination of <LQVA> of them.",
+      "text": "Als Gebietsmeister habe ich einen Jagdauftrag,\r\nfür den du dir ruhig Zeit lassen kannst.\r\nIn letzter Zeit wurden Gruppen von <LQEM>\r\nmehrfach gesichtet.\r\nEin Angriff auf den Schrein steht zwar nicht unmittelbar bevor,\r\ndoch wir sollten die Gelegenheit nutzen und ihre Zahl verringern.\r\nBitte besiege ungefähr <LQVA> von ihnen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

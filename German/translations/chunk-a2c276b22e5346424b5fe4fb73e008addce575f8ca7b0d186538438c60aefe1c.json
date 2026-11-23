@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40201013_00.gmd",
+  "arc_path": "\\quest\\q40201013.arc",
+  "entries": [
+    {
+      "key": "q40201013_00_353",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【週期要請】ダウ渓谷：治安維持討伐",
+      "source_en": "[Periodic Request] Dowe Valley: Security Upkeep Dispatch",
+      "text": "[Wöchentlicher Auftrag] Dowe-Tal – Sicherheit auf den Wegen"
+    },
+    {
+      "key": "q40201013_00_353",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジンゲンに長期滞在される覚者様へ\r\n最近<LQEM>が増えているようです\r\nご滞在の間に<LQIM>体ほどの討伐をお願いできぬでしょうか\r\n自然と共生するこの地ではありますが、だからこそ村周辺の魔物の数には気を配っているのです",
+      "source_en": "To Arisen staying long-term in Jingen:\r\nIt seems there has been an increase in \r\n<LQEM> recently.\r\nDuring your stay, could you help by\r\neliminating around <LQVA>? \r\nWhile this land coexists with nature, we must keep\r\nan eye on the number of monsters around the village.",
+      "text": "An alle Erweckten, die länger in Jingen bleiben.\r\nIn letzter Zeit scheinen wir es mit immer mehr Monstern zu tun zu haben.\r\nEs geht um <LQEM>.\r\nWenn du noch etwas länger hier bist,\r\nkönntest du etwa <LQVA> von ihnen besiegen?\r\nWir leben hier im Einklang mit der Natur.\r\nTrotzdem müssen wir im Auge behalten, wie viele Monster sich um das Dorf herumtreiben."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

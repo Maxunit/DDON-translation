@@ -1,0 +1,128 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area8_rank_reward.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "AREA_RANK_REWARD_111",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "支援品の配給",
+      "source_en": "Distribution of support goods",
+      "text": "Versorgungsgüter verfügbar"
+    },
+    {
+      "key": "AREA_RANK_REWARD_112",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《湖岸の廃墟》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [Lakeside Ruins]",
+      "text": "Ein neuer mächtiger Gegner ist in den Ruinen am Seeufer erschienen."
+    },
+    {
+      "key": "AREA_RANK_REWARD_113",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "《バートランド大橋》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [Betland Bridge]",
+      "text": "Ein neuer mächtiger Gegner ist an der Großen Betland-Brücke erschienen."
+    },
+    {
+      "key": "AREA_RANK_REWARD_114",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "封鎖エリア《バートランド墓地》開放",
+      "source_en": "Unblock area [Betland Cemetery]",
+      "text": "Gebiet freigeschaltet: Friedhof von Betland"
+    },
+    {
+      "key": "AREA_RANK_REWARD_115",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "支援品ランクアップ",
+      "source_en": "Rank up of support goods",
+      "text": "Bessere Versorgungsgüter"
+    },
+    {
+      "key": "AREA_RANK_REWARD_116",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "交通路《バートランド山道～北部》復旧",
+      "source_en": "Restore path [Betland Mountain Road] to [Northern\r\nBetland Plains]",
+      "text": "Betland-Bergpfad in die Nördliche\r\nBetland-Ebene wieder passierbar"
+    },
+    {
+      "key": "AREA_RANK_REWARD_117",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "封鎖エリア《不浄の地下水道》開放",
+      "source_en": "Unblock area [Defiled Waterway]",
+      "text": "Gebiet freigeschaltet: Unreiner Wasserweg"
+    },
+    {
+      "key": "AREA_RANK_REWARD_118",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "《セラー湖船墓場》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [Lake Cera Ship Graveyard]",
+      "text": "Ein neuer mächtiger Gegner ist am Schiffsfriedhof am Cera-See erschienen."
+    },
+    {
+      "key": "AREA_RANK_REWARD_119",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "封鎖エリア《戦鬼の影穴》開放",
+      "source_en": "Unblock area [War Demons' Hideout]",
+      "text": "Gebiet freigeschaltet: Versteck der Kriegsdämonen"
+    },
+    {
+      "key": "AREA_RANK_REWARD_120",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "支援品ランクアップ",
+      "source_en": "Rank up of support goods",
+      "text": "Bessere Versorgungsgüter"
+    },
+    {
+      "key": "AREA_RANK_REWARD_216",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "《バートランド平原》各地にある未解放のリム転移 解放",
+      "source_en": "Unlocks all [Betland Plains] Portcrystals",
+      "text": "Alle Zielkristalle in der Betland-Ebene freigeschaltet"
+    },
+    {
+      "key": "AREA_RANK_REWARD_217",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "《薄煙の荒れ地》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [Wispy Wasteland]",
+      "text": "Ein neuer mächtiger Gegner ist im Rauchigen Ödland erschienen."
+    },
+    {
+      "key": "AREA_RANK_REWARD_218",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "封鎖エリア《罪人の修獄》開放",
+      "source_en": "Unblock area [Penitentiary]",
+      "text": "Gebiet freigeschaltet: Kerker der Verdammten"
+    },
+    {
+      "key": "AREA_RANK_REWARD_219",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "《罪人の修獄》に新たな強敵が出現",
+      "source_en": "New powerful enemy at [Penitentiary]",
+      "text": "Ein neuer mächtiger Gegner ist im Kerker der Verdammten erschienen."
+    },
+    {
+      "key": "AREA_RANK_REWARD_331",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "支援品ランクアップ",
+      "source_en": "Rank up of support goods",
+      "text": "Bessere Versorgungsgüter"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

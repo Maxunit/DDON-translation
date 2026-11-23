@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000039_00.gmd",
+  "arc_path": "\\quest\\q21000039.arc",
+  "entries": [
+    {
+      "key": "q21000039_00_351",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【宝飾の扉】伝承の真相",
+      "source_en": "[Door of Jewelry] Truth behind the Legend",
+      "text": "[Schmucktür] Was an der Legende dran ist"
+    },
+    {
+      "key": "q21000039_00_351",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【危険区域クエスト】 ダンジョン内の危険区域へ繋がる扉の鍵を作り 凶悪な魔物を討伐する",
+      "source_en": "[Dangerous Area Quest] Make a key to the door leading to the Dangerous Area in the dungeon and defeat Brutal monsters.",
+      "text": "[Gefahrenzone] Fertige den Schlüssel zur Tür zur Gefahrenzone an und besiege die gefährlichen Monster im Verlies."
+    },
+    {
+      "key": "q21000039_00_351",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のダンジョン内部は、特別な\r\n鍵を持った者だけが入れる場所があるらしい",
+      "source_en": "Within the\r\n<NAME AREA>\r\ndungeon,\r\nthere is a place that only those who\r\npossess a special key can enter.",
+      "text": "In einem Verlies bei\r\n<NAME AREA>\r\ngibt es offenbar einen Bereich,\r\nden du nur betreten kannst,\r\nwenn du einen besonderen Schlüssel hast."
+    },
+    {
+      "key": "q21000039_00_351",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "お主らは知っておるか？\r\nなあに――この地に伝わる伝承に過ぎん\r\n《罪人の修堂》は知っておろう\r\nその奥深くに、それはそれは惨烈な魔物がおるのじゃ\r\n今まで幾人もの腕に覚えのある者が\r\n挑んでいったが、誰一人戻ってはこない",
+      "source_en": "Are you aware of this? It's merely a\r\ntale passed down in this region. Surely\r\nyou know of the \"Sanctuary of the\r\nGuilty.\" Deep within lies an incredibly\r\nfierce creature. Many capable warriors\r\nhave ventured in,\r\nbut none have come back.",
+      "text": "Habt ihr die Geschichte schon gehört?\r\nEs ist nur eine alte Legende von hier.\r\nIhr kennt doch den Kerker der Verdammten.\r\nTief darunter soll ein furchtbares Monster hausen.\r\nViele erfahrene Kämpfer haben sich hineingewagt,\r\num es zu bezwingen.\r\nKeiner ist zurückgekehrt."
+    },
+    {
+      "key": "q21000039_00_1170",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した凶悪な魔物を討伐する",
+      "source_en": "Defeat the encountered monstrosities",
+      "text": "Besiege die gefährlichen Monster, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

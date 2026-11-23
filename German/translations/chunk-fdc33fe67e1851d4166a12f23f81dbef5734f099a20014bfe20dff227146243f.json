@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20040000_00.gmd",
+  "arc_path": "\\quest\\q20040000.arc",
+  "entries": [
+    {
+      "key": "q20040000_00_39",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "おしゃれの対価",
+      "source_en": "A Stylish Consideration",
+      "text": "Was man für die Schönheit tut"
+    },
+    {
+      "key": "q20040000_00_39",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n指定の物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte der Auftraggeberin an\r\nund besorg die gesuchten Zutaten."
+    },
+    {
+      "key": "q20040000_00_39",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>近くの民からの\r\n支援を求める声が確認された",
+      "source_en": "A call for aid from the people near \r\n<NAME AREA>\r\nhas been confirmed.",
+      "text": "Bewohner bitten um Hilfe.\r\nIhr Ruf kommt aus der Gegend um <NAME AREA>.\r\nDas Gesuch wurde bestätigt."
+    },
+    {
+      "key": "q20040000_00_39",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "人は内面こそが本質だが、外観をおろそかにはできん\r\n特に覚者、あんたらは「強さ」を基準にしようとする\r\nそれだけでは人の、特に異性の心はつかめぬぞ\r\n外観について異性から尋ねられたら、まずほめる！\r\n心しておくといい",
+      "source_en": "While a person's essence is their inner self,\r\nappearance cannot be ignored. Especially for\r\nthe Arisen, you base things on \"strength.\"\r\nThat alone won't win over a person, especially\r\nthe opposite sex. When asked about appearance,\r\nalways start with a compliment! Keep that in mind.",
+      "text": "Was einen Menschen ausmacht, steckt in ihm. Aber auch aufs Äußere kommt es an.\r\nIhr Erweckten messt ja alles an der Stärke.\r\nDamit allein gewinnt man aber niemandes Herz.\r\nUnd wenn jemand, der dir gefällt, wissen will, wie er aussieht,\r\nmach erst mal ein Kompliment!\r\nMerk dir das."
+    },
+    {
+      "key": "q20040000_00_1124",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼者に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> ×<SQDI NUM> zur Auftraggeberin (noch <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

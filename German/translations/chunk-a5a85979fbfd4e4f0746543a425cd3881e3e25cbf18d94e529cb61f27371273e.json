@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20035004_00.gmd",
+  "arc_path": "\\quest\\q20035004.arc",
+  "entries": [
+    {
+      "key": "q20035004_00_104",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "彷徨える騎士団",
+      "source_en": "The Wandering Knights",
+      "text": "Die rastlosen Ritter"
+    },
+    {
+      "key": "q20035004_00_104",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20035004_00_104",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "不確実な情報だが、<NAME AREA>から\r\n狂暴な魔物のしわざと思われる被害報告があった",
+      "source_en": "There have been reports of damage believed to be \r\ncaused by violent creatures in \r\n<NAME AREA>, \r\nalthough the information is uncertain.",
+      "text": "Laut einer unbestätigten Meldung wurden in der Gegend\r\num\r\n<NAME AREA> Schäden festgestellt,\r\ndie vermutlich von wilden Monstern stammen."
+    },
+    {
+      "key": "q20035004_00_104",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "俺さ、情報屋、やろうと思ってんだ\r\n噂話とか、騎士団の裏情報とかマジ詳しいし、ネタの\r\n鮮度に敏感っつうの？\r\nついさっきも、騎士団が巡回した直後の地下墓地に\r\n魔物の気配がしたんだ\r\nどう？　俺の嗅覚、大したもんだろ",
+      "source_en": "I'm thinking of becoming an \r\ninformation broker,\r\nI'm really knowledgeable about rumors, \r\nthe secret information of the knights, \r\nand stuff like that.\r\nI'm sensitive to the freshness of the \r\nnews, you know?\r\nJust a moment ago, I sensed the presence of a \r\nmonster in the underground graveyard right after \r\nthe knights patrolled it.\r\nWhat do you think? \r\nMy sense of smell is pretty good, right?",
+      "text": "Ich glaub, ich mach mich als Informant selbstständig.\r\nWas Gerüchte angeht,\r\nweiß ich über alles Bescheid.\r\nSogar was die Garde lieber unter sich behält.\r\nUnd ich hab ein Gespür dafür,\r\nob eine Geschichte\r\nnoch frisch ist, verstehst du?\r\nEben erst war die Garde auf Streife,\r\nund gleich danach hab ich in der Gruft\r\nein Monster gewittert.\r\nNa, was meinst du?\r\nIch hab doch einen guten Riecher, oder?"
+    },
+    {
+      "key": "q20035004_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

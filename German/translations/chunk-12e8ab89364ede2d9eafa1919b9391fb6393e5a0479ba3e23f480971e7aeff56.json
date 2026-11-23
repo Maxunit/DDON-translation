@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20035002_00.gmd",
+  "arc_path": "\\quest\\q20035002.arc",
+  "entries": [
+    {
+      "key": "q20035002_00_102",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "石廊に響く足音",
+      "source_en": "The Footsteps in the Halls",
+      "text": "Schritte in den steinernen Gängen"
+    },
+    {
+      "key": "q20035002_00_102",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20035002_00_102",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>方面から\r\n原因不明の怪音や震動が続いているとの報せがあった",
+      "source_en": "There have been reports of unexplained noises \r\nand vibrations in the \r\n<NAME AREA> region.",
+      "text": "Berichten zufolge kommt es immer wieder zu seltsamen\r\nGeräuschen und Erschütterungen\r\nin der Gegend um <NAME AREA>."
+    },
+    {
+      "key": "q20035002_00_102",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "古い城に、怪談話はつきものさ\r\nドリード城を定例巡回している同僚も、\r\n行くたびに新しいネタを聞かされるらしい\r\nこないだは――あれ？　何だったかな\r\n空飛ぶヨロイ、動くガイコツ、響く悪魔の歌声――\r\nまあそんな感じの、珍しくもないネタだったと思う",
+      "source_en": "Ghosts stories are always associated with old castles.\r\nMy colleague, who regularly patrols Dreed Castle,\r\nalways seems to hear new stories \r\nevery time he goes.\r\n\r\nThe other day... hmm, what was it again?\r\nFlying armor, moving skeletons, \r\nthe echoing voice of a demon's song...\r\nWell, it was just a typical, \r\nnot-so-unusual story, I think.",
+      "text": "Zu alten Burgen gehören Schauergeschichten.\r\nMein Kamerad hält regelmäßig auf Burg Dreed Wache.\r\nJedes Mal erzählen ihm die Leute\r\nwieder eine neue Geschichte.\r\n\r\nNeulich war es … Moment, was war es noch?\r\nFliegende Rüstungen, wandelnde Skelette\r\nund irgendwo sang ein Dämon …\r\nAch, so was in der Art halt.\r\nNichts Besonderes, glaub ich."
+    },
+    {
+      "key": "q20035002_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

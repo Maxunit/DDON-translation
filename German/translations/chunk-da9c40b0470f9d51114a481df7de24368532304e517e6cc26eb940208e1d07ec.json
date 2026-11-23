@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q60208001.gmd",
+  "arc_path": "\\quest\\q60208001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "おっ、もう行ってくれる気になったのか！\r\n――いや、ほんとに大丈夫か？\r\nもう少し時間をかけて覚悟を固めてもいいんだぞ",
+      "source_en": "Oh, so you've made up your mind to go!\r\n—Hold, are you truly certain?\r\nYou may take more time to steel your resolve, ser.",
+      "text": "Ah, du willst schon aufbrechen?\r\nMoment, bist du dir ganz sicher?\r\nDu kannst dir ruhig noch etwas Zeit nehmen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ま、お前が大丈夫っていうんなら\r\n俺としてはありがたいこと\r\nこの上ないんだけどな！",
+      "source_en": "Well, if you say you're fit, I'll not argue —\r\n'tis a boon beyond measure!",
+      "text": "Na gut, wenn du bereit bist, will ich dich nicht aufhalten.\r\nDu hilfst mir damit sehr!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "念のためだ、もう一度説明しておくぞ\r\n場所はおなじみの《罪人の修獄》だ\r\n勝手に鍵が開いてた、あの墓場だよ",
+      "source_en": "For caution's sake, I'll explain anew.\r\nThe site is the familiar Penitentiary — that\r\ngraveyard where the lock opened of its own accord.",
+      "text": "Ich erkläre dir lieber noch mal, worum es geht.\r\nDu kennst den Kerker der Verdammten.\r\nDas ist die Grabstätte, deren Schloss sich von selbst geöffnet hat."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "調査に行った隊士の話では\r\n女の笑い声があちこちから聞こえてきたそうだ――\r\n繰り返すが――誰も居るはずがない墓地で、だぞ！",
+      "source_en": "The investigating corpsmen report a woman's\r\nlaughter echoing from all around.... Mark this\r\nwell—in a graveyard where not a soul should be!",
+      "text": "Die Leute, die dort nachgesehen haben,\r\nhörten überall das Lachen einer Frau.\r\nUnd ich sag's noch mal: auf einem Friedhof, wo keine Menschenseele sein sollte!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ううっ、話してるだけで寒気がしてきた――\r\nこんな話を副隊長にするわけにはいかないからな\r\nお前だけが頼りだ！\r\nそれじゃ、任せたぞ！",
+      "source_en": "Ugh, just the telling brings a chill— I cannot\r\ncarry a tale like this to the Vice Captain.\r\nYou're the only one I can count on!\r\nRight then, it's in your hands!",
+      "text": "Uff, mir läuft's schon beim Erzählen kalt den Rücken hinunter.\r\nMit so einer Geschichte kann ich nicht zu Vanessa gehen.\r\nDu bist der Einzige, auf den ich zählen kann!\r\nAlso überlasse ich dir die Sache."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "あの件はどうなった？\r\nほら、《罪人の修獄》で\r\n女の笑い声が聞こえてきたってやつ――",
+      "source_en": "How fares that matter?\r\nThe one about the woman's laughter \r\nheard at the Penitentiary...",
+      "text": "Wie steht's mit dem Auftrag?\r\nDu weißt schon, das Lachen der Frau,\r\ndas man im Kerker der Verdammten gehört hat …"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "い、いや、急ぐことはないぞ！\r\nこういうことには覚悟が必要だからな――\r\n俺もよーくわかってる！\r\n無理はしなくていいからな！",
+      "source_en": "N-no, there's no call to rush!\r\nA thing like this demands resolve—\r\nI wit that better than most!\r\nDo not push yourself too hard!",
+      "text": "N-nein, du brauchst dich nicht zu beeilen!\r\nFür so was braucht man Mut.\r\nDas weiß ich besser als die meisten!\r\nDu musst dich nicht dazu zwingen."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "おお、無事に帰ってきてくれてよかった！\r\nほんっとうによかった！",
+      "source_en": "Oh, thank the Dragon, you're back safe!\r\nI am truly, truly gladdened!",
+      "text": "Dem Drachen sei Dank, du bist heil zurück!\r\nIch bin wirklich froh, dich zu sehen!"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "いやぁ、送り出したはいいものの\r\n万が一お前が帰ってこなかったら\r\n次は俺が様子を見に行かなきゃなって考えたら\r\n気分が重くなってな！",
+      "source_en": "Haah, I sent you off, aye... but the thought I'd\r\nhave to go searching myself if you did not\r\nreturn— that weighed heavy on the spirit, it did!",
+      "text": "Puh … Ich hab dich zwar selbst losgeschickt,\r\naber ich hab mir schon ausgemalt, wie ich dich hätte suchen müssen,\r\nwenn du nicht zurückgekommen wärst. Das hat mir zugesetzt!"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "で、《罪人の修獄》の中で笑ってたのは\r\n何だったんだ？\r\n――女の幽霊！\r\nやっぱり出たんだな！",
+      "source_en": "So, what was laughing inside the Penitentiary?\r\n—A woman's spirit!\r\nKnew it — one's shown itself after all!",
+      "text": "Also, wer hat im Kerker der Verdammten gelacht?\r\nDer Geist einer Frau?\r\nIch wusste es! Dort spukt es tatsächlich!"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "ふむ、冤罪を示唆するような\r\n不穏な手記が遺されていたのか――",
+      "source_en": "Hmm, so an unsettling journal hinting at false\r\naccusation was left behind...",
+      "text": "Hm, und du hast ein beunruhigendes Tagebuch gefunden,\r\nin dem von einer falschen Anschuldigung die Rede ist …"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "あの墓地に葬られているのは\r\n大罪を犯して獄死した囚人ばかりだと聞いていたが\r\n冤罪に問われ、無念のうちに没した者も\r\nいたのかも知れんな――",
+      "source_en": "'Twas said naught but prisoners guilty of heinous\r\ncrimes, who died in gaol, lie buried there... yet\r\nmayhap some were falsely accused, and perished\r\nwith regret unspent—",
+      "text": "Angeblich hat man dort nur Gefangene begraben,\r\ndie nach schweren Verbrechen im Kerker starben.\r\nAber vielleicht sind auch Unschuldige dort umgekommen.\r\nWer weiß, was sie noch vor ihrem Tod bedrückt hat …"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "気味の悪い任務を引き受けてもらって悪いな\r\n俺からの感謝の気持ちとして\r\nこれを受け取ってくれ\r\nまた何かあったら、よろしくな！",
+      "source_en": "Sorry to foist so eerie a task on you.\r\nAs a token of my thanks — pray, accept this.\r\nShould aught come up anew, I'm counting on you!",
+      "text": "Tut mir leid, dass ich dir so einen unheimlichen Auftrag aufgehalst hab.\r\nHier, nimm das als Dank.\r\nWenn wieder etwas passiert, zähl ich auf dich!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20015003_00.gmd",
+  "arc_path": "\\quest\\q20015003.arc",
+  "entries": [
+    {
+      "key": "q20015003_00_76",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "思いがけぬ邂逅",
+      "source_en": "An Unexpected Encounter",
+      "text": "Eine unerwartete Begegnung"
+    },
+    {
+      "key": "q20015003_00_76",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die Gegner, auf die du triffst."
+    },
+    {
+      "key": "q20015003_00_76",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>付近で\r\n不気味な物音が周辺に響いているらしい",
+      "source_en": "There seems to be an eerie sound echoing around \r\nthe vicinity of <NAME AREA>.",
+      "text": "Unheimliche Geräusche hallen offenbar\r\ndurch die Gegend um <NAME AREA>."
+    },
+    {
+      "key": "q20015003_00_76",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "私らは二人して腰を痛めておるもんで\r\n多少なりと気候の安定したこの海の見える地に\r\n越して来たんだが――\r\nまさか、あんな恐ろしいものを見かけるとはなあ\r\n驚いて腰を抜かして、ほうほうの体で逃げてきたよ\r\nこりゃ、おちおち静養してられんわい",
+      "source_en": "The two of us have injured our backs, you see,\r\nso we moved to this place with a relatively \r\nstable climate where we can see the sea.\r\nBut never did we expect to encounter such a \r\nterrifying thing.\r\nWe were so shocked that we ran away in a panic,\r\nour bodies trembling with fear.\r\nI can't relax and rest properly here.",
+      "text": "Wir haben’s beide im Rücken, weißt du.\r\nDeshalb sind wir hierhergezogen.\r\nMildes Wetter, freie Sicht aufs Meer.\r\nWer hätte gedacht,\r\ndass wir so etwas Furchtbares zu Gesicht bekommen?\r\nVor Schreck haben wir die Beine in die Hand genommen.\r\nWir haben am ganzen Leib gezittert.\r\nWie soll man sich hier erholen?"
+    },
+    {
+      "key": "q20015003_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die Gegner, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

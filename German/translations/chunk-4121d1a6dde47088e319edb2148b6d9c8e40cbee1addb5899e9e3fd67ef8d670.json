@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000020_00.gmd",
+  "arc_path": "\\quest\\q21000020.arc",
+  "entries": [
+    {
+      "key": "q21000020_00_332",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "湖畔を掠める危機",
+      "source_en": "A Lakeside Danger",
+      "text": "Gefahr am Seeufer"
+    },
+    {
+      "key": "q21000020_00_332",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest]\r\nListen to the requester's wish.\r\nDefeat the ferocious enemy\r\nwithout reviving even once.",
+      "text": "[Sieg ohne Wiederbelebung]\r\nHör dir die Bitte des Auftraggebers an.\r\nBesiege den wilden Gegner,\r\nohne dich auch nur einmal wiederbeleben zu lassen."
+    },
+    {
+      "key": "q21000020_00_332",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the <NAME AREA> \r\nappears to be testing their skills\r\nin a battle against an enemy.",
+      "text": "Bei <NAME AREA>\r\nversucht offenbar jemand,\r\nsich im Kampf gegen ein Monster zu beweisen."
+    },
+    {
+      "key": "q21000020_00_332",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "森林浴なんて、からだに良いかなと思ってさ――\r\n子どもを連れて散歩に行ってみたんだ\r\nでも、ちょっと深い所まで行き過ぎてね――\r\n見たこともない魔物が飛び回ってるじゃないか\r\nでも、子どもがそれ見て喜んじゃってねぇ――\r\nやっぱり男の子ってああいうのが好きなんだね",
+      "source_en": "I thought a forest bath would be good \r\nfor us, so I took my child for a stroll. \r\nBut we ventured too far in— \r\nI spotted monsters I'd never seen \r\nflying around. Yet the child was \r\nso delighted to see them. Boys \r\nreally do seem to love that sort of thing!",
+      "text": "Frische Waldluft tut doch gut, dachte ich.\r\nAlso bin ich mit meinem Jungen spazieren gegangen.\r\nAber wir sind zu weit in den Wald geraten.\r\nDa sind Monster herumgeflogen, die ich noch nie gesehen hab!\r\nUnd der Junge hat sich auch noch gefreut.\r\nJungs finden so was wohl einfach\r\nspannend."
+    },
+    {
+      "key": "q21000020_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Such am angegebenen Ort nach den wilden Monstern."
+    },
+    {
+      "key": "q21000020_00_1175",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000020_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte dem Auftraggeber, was du herausgefunden hast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

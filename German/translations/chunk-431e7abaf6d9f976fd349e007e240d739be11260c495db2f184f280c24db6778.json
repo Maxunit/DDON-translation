@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20010008_00.gmd",
+  "arc_path": "\\quest\\q20010008.arc",
+  "entries": [
+    {
+      "key": "q20010008_00_675",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【進天動地】思いがけぬ急襲",
+      "source_en": "Enter Heaven and Earth: Unexpected Descent",
+      "text": "[Angriff der Riesen] Ein unerwarteter Überfall"
+    },
+    {
+      "key": "q20010008_00_675",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ウィルソンの話を聞き\r\nブリアに起きた問題を解決する",
+      "source_en": "Listen to Wilson's story and solve the problem that happened in Breya.",
+      "text": "Hör Wilson zu und geh den Vorfällen in Breya nach."
+    },
+    {
+      "key": "q20010008_00_675",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "流れついた不審者と時折響く奇妙な地響きに\r\n<NAME AREA>の住民が怯えているらしい",
+      "source_en": "The residents of <NAME AREA> seem to be \r\nfrightened by suspicious individuals that have \r\nbeen wandering around and the occasional \r\nstrange tremors that echo through the area.",
+      "text": "Die Bewohner bei <NAME AREA>\r\nsind offenbar beunruhigt.\r\nJemand Verdächtiges wurde angeschwemmt,\r\nund immer wieder bebt der Boden."
+    },
+    {
+      "key": "q20010008_00_675",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "お、おい、海岸に流れ着いたアレ――人か？\r\n変な格好だが、多分持っているのは剣か何かだよ！\r\n全く、変な地響きは鳴るわ、漁師小屋は潰されるわ\r\n一体何が起こってるってんだ\r\nここら辺にとんでもなくデカい何かでもいるのか！？",
+      "source_en": "Oh, hey, is that... \r\nsomeone washed ashore on the beach?\r\nThey're dressed strangely, but I think they \r\nhave a sword or something!\r\nSeriously, what's with these strange rumblings \r\nand fishermen's huts being destroyed?\r\n\r\nIs there some incredibly huge creature \r\naround here or something?!",
+      "text": "H-he, ist das da etwa …\r\nein Mensch, den es an den Strand gespült hat?\r\nDie Person ist komisch angezogen,\r\naber das da ist doch ein Schwert oder so!\r\nErst dieses seltsame Beben,\r\nund dann werden auch noch Fischerhütten plattgemacht.\r\n\r\nTreibt sich hier in der Gegend\r\nirgendwas Riesiges herum?!"
+    },
+    {
+      "key": "q20010008_00_1307",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "海岸に流れ着いた人物を確認する",
+      "source_en": "Check the person who washed ashore on the beach",
+      "text": "Sieh nach der Person, die an den Strand gespült wurde."
+    },
+    {
+      "key": "q20010008_00_1308",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "現れた謎の巨大生物を討伐する",
+      "source_en": "Defeat the appeared mysterious giant creature",
+      "text": "Besiege das rätselhafte Riesenwesen."
+    },
+    {
+      "key": "q20010008_00_1309",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "全ての謎の巨大生物を討伐する",
+      "source_en": "Defeat all the mysterious giant creatures",
+      "text": "Besiege alle rätselhaften Riesenwesen."
+    },
+    {
+      "key": "q20010008_00_1310",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "エルナの安否を確認する",
+      "source_en": "Check Erna's well-being",
+      "text": "Sieh nach, ob es Erna gut geht."
+    },
+    {
+      "key": "q20010008_00_1311",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ウィルソンに報告する",
+      "source_en": "Report to Wilson",
+      "text": "Erstatte Wilson Bericht."
+    },
+    {
+      "key": "q20010008_00_1312",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "エルナに聞き込みをする",
+      "source_en": "Get information from Erna",
+      "text": "Befrage Erna."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

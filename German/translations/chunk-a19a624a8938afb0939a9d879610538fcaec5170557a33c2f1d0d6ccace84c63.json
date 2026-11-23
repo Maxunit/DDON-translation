@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60201001_00.gmd",
+  "arc_path": "\\quest\\q60201001.arc",
+  "entries": [
+    {
+      "key": "q60201001_00_119",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ハイデル平原　試練：アークの守護者",
+      "source_en": "HP Trial: The Ark's Guardian",
+      "text": "Prüfung in der Hidell-Ebene – Der Wächter der Arche"
+    },
+    {
+      "key": "q60201001_00_119",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ハイデル平原の問題解決のため\r\nアーク裏層から発せられている\r\n振動の原因を調査する",
+      "source_en": "Investigate the source of the vibrations coming \r\nfrom the Ark's deeper layers to resolve the \r\nissue in Hidell Plains.",
+      "text": "Hilf den Bewohnern der Hidell-Ebene.\r\nFinde heraus, was die Erschütterungen verursacht,\r\ndie aus der Tiefe der Arche kommen."
+    },
+    {
+      "key": "q60201001_00_1797",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "テル村のアルフレドに報告する",
+      "source_en": "Report to Alfred in Tel village",
+      "text": "Erstatte Alfred in Tel Bericht."
+    },
+    {
+      "key": "q60201001_00_1798",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "アークへ向かい振動の原因を調査する",
+      "source_en": "Head to The Ark to investigate the cause of the vibration",
+      "text": "Geh zur Arche und untersuche die Ursache der Erschütterungen."
+    },
+    {
+      "key": "q60201001_00_1799",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "振動の原因となる魔物を討伐する",
+      "source_en": "Defeat the foe(s) that caused the vibrations",
+      "text": "Besiege die Feinde, die die Erschütterungen verursachen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

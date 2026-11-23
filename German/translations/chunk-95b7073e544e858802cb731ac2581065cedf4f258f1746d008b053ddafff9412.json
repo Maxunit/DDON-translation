@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000026_00.gmd",
+  "arc_path": "\\quest\\q21000026.arc",
+  "entries": [
+    {
+      "key": "q21000026_00_338",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【宝飾の扉】現れた巨像",
+      "source_en": "Door of Jewelry: Emerged Colossus",
+      "text": "[Schmucktür] Der erwachte Koloss"
+    },
+    {
+      "key": "q21000026_00_338",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【危険区域クエスト】\r\nダンジョン内の危険区域へ繋がる扉の鍵を作り\r\n凶悪な魔物を討伐する",
+      "source_en": "[Dangerous Area Quest]\r\nMake a key to the door leading to the Dangerous \r\nArea in the dungeon and defeat Brutal monsters.",
+      "text": "[Gefahrenzone]\r\nFertige einen Schlüssel für die Tür zur Gefahrenzone\r\nim Verlies an und besiege die gefährlichen Monster."
+    },
+    {
+      "key": "q21000026_00_338",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のダンジョン内部は、特別な\r\n鍵を持った者だけが入れる場所があるらしい",
+      "source_en": "Within the <NAME AREA> dungeon, \r\nthere is a place that only those who possess\r\na special key can enter.",
+      "text": "In einem Verlies bei <NAME AREA>\r\ngibt es offenbar einen Bereich,\r\nden du nur mit einem besonderen Schlüssel betreten kannst."
+    },
+    {
+      "key": "q21000026_00_338",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "あんな物騒な場所に行った僕も悪いんだけど――\r\n目の前の光景、全てが凶気に満ちている\r\nそんな風に感じたんだ――\r\nもう二度とあんな場所には近づかないと誓うよ\r\n好奇心？　そんなものは命の重さに比べれば\r\nいつだって粉々にできるさ――",
+      "source_en": "I admit I was foolish to go \r\nto such a dangerous place— \r\nbut everything I saw was \r\nfilled with malice. \r\nThat's how it felt to me— \r\nI swear I'll never go near \r\nsuch a place again. \r\nCuriosity? That can always be \r\nshattered against the weight of life.",
+      "text": "Ich weiß, es war dumm,\r\nan so einen gefährlichen Ort zu gehen …\r\nAber alles dort\r\nstrahlte pure Bosheit aus.\r\nSo kam’s mir jedenfalls vor.\r\nIch schwöre, ich gehe nie wieder\r\nin die Nähe dieses Orts.\r\nNeugier?\r\nKein bisschen Neugier ist mein Leben wert."
+    },
+    {
+      "key": "q21000026_00_1170",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した凶悪な魔物を討伐する",
+      "source_en": "Defeat the encountered monstrosities",
+      "text": "Besiege die gefährlichen Monster, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

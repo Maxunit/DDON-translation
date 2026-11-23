@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20000016_00.gmd",
+  "arc_path": "\\quest\\q20000016.arc",
+  "entries": [
+    {
+      "key": "q20000016_00_225",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "矜持の代償",
+      "source_en": "The Price of Honor",
+      "text": "Der Preis der Ehre"
+    },
+    {
+      "key": "q20000016_00_225",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ハインツの依頼を聞き\r\n討伐騎士部隊の行方を追う",
+      "source_en": "Listening to Heinz's request,\r\npursue the whereabouts\r\nof the high-ranking knight unit.",
+      "text": "Hör dir Heinz’ Bitte an\r\nund finde heraus,\r\nwo der vermisste Rittertrupp geblieben ist."
+    },
+    {
+      "key": "q20000016_00_225",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>から集められた支援要請の\r\n中には、緊急性の高いものもあったようだ",
+      "source_en": "It seems that among the support requests gathered \r\nfrom <NAME AREA>, \r\nthere were some that had a high level of urgency.",
+      "text": "Unter den Hilfsgesuchen,\r\ndie aus der Gegend um <NAME AREA> eingegangen sind,\r\nwaren einige besonders dringend."
+    },
+    {
+      "key": "q20000016_00_225",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "調査任務に向かった仲間が、まだ戻らない――\r\nハインツ様の心労はいかばかりだろうか\r\nあの方は一見酷薄なようで、隊員思いの熱い心を\r\nお持ちなのだ\r\n今回ばかりは、ウマの合わぬ覚者連中の助けを\r\n借りてでも、なんとかしたいとお考えかも知れない",
+      "source_en": "The companions sent on the investigation \r\nmission still haven't returned—\r\nI can only imagine how much stress Heinz is under.\r\nHe may seem harsh at first, \r\nbut he has a passionate heart\r\nfor his team.\r\nHe might even be thinking of getting help from\r\nthe Arisen if necessary.",
+      "text": "Die Kameraden, die zur Erkundung\r\nausgeschickt wurden, sind noch immer nicht zurück.\r\nHeinz macht sich bestimmt große Sorgen.\r\nEr wirkt manchmal abweisend,\r\naber die Leute unter seinem Kommando\r\nliegen ihm sehr am Herzen.\r\nDiesmal bittet er vielleicht sogar die Erweckten um Hilfe,\r\nobwohl er sich mit ihnen nicht gut versteht."
+    },
+    {
+      "key": "q20000016_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20000016_00_959",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ハインツに報告する",
+      "source_en": "Report to Heinz",
+      "text": "Erstatte Heinz Bericht."
+    },
+    {
+      "key": "q20000016_00_960",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原から戻らない騎士団を捜す",
+      "source_en": "Find the missing Knights from Betland Plains",
+      "text": "Such nach den Rittern, die aus der Betland-Ebene zurückkehren sollten."
+    },
+    {
+      "key": "q20000016_00_961",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "倒れた騎士の様子を見る",
+      "source_en": "Check the fallen knight",
+      "text": "Sieh nach dem gefallenen Ritter."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

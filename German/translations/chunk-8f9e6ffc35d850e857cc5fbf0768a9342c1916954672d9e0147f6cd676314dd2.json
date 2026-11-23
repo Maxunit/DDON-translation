@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000057_00.gmd",
+  "arc_path": "\\quest\\q21000057.arc",
+  "entries": [
+    {
+      "key": "q21000057_00_376",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "新天地へ向けて",
+      "source_en": "Toward a New World",
+      "text": "Auf zu neuen Ufern"
+    },
+    {
+      "key": "q21000057_00_376",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【納品クエスト】\r\n依頼者の願いを聞き入れ\r\n指定された物資を集めてくる",
+      "source_en": "[Delivery Quest] Listen to the\r\nrequester's wishes and gather the\r\nspecified supplies.",
+      "text": "[Lieferquest]\r\nHör dir die Bitte des Auftraggebers an\r\nund besorg die verlangten Vorräte."
+    },
+    {
+      "key": "q21000057_00_376",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "物資を必要としている人物が\r\n<NAME AREA>から協力を求めている",
+      "source_en": "A person in need of supplies is seeking\r\nassistance in\r\n<NAME AREA>.",
+      "text": "Jemand braucht Nachschub und bittet um Hilfe,\r\nund zwar bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21000057_00_376",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島の調査に行った人たちって凄いですよね\r\n遥か遠方の地で、いつ帰ってこれるかも\r\nわからないのに――\r\nちょっと僕には真似できません\r\n犠牲にするものが大きすぎます\r\nだからこそ、尊敬の念を持つのですがね",
+      "source_en": "People who venture to investigate\r\nBloodbane Isle are remarkable. They're\r\nin a remote land, uncertain of their\r\nreturn—\r\nI couldn't possibly imitate that. The\r\nsacrifices are far too significant.\r\nThat's why I have such respect for them.",
+      "text": "Wer zur Erkundung auf die Blutfluchinsel fährt,\r\nverdient meinen Respekt.\r\nSo weit weg von allem,\r\nohne zu wissen, wann man zurückkommt …\r\nIch könnte das nicht.\r\nDafür müsste ich zu viel aufgeben.\r\nUmso mehr bewundere ich die Leute, die es tun."
+    },
+    {
+      "key": "q21000057_00_1179",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼先に届ける（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> × <SQDI NUM> zum Lieferort (noch benötigt: <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

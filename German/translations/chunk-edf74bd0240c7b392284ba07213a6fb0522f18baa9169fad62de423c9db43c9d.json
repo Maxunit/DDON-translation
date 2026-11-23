@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40000038_00.gmd",
+  "arc_path": "\\quest\\q40000038.arc",
+  "entries": [
+    {
+      "key": "q40000038_00_38",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦・物資調達",
+      "source_en": "Fort Gritten: Collection",
+      "text": "Festung Gritten – Materialbeschaffung"
+    },
+    {
+      "key": "q40000038_00_38",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<LQIM>調達依頼\r\n現在、戦闘での消費が激しく医薬品材料の在庫が少なくなっている\r\n手が空いている者は<LQVA>個の調達に協力願いたい",
+      "source_en": "Request for <LQIM> procurement.\r\nWe are experiencing a shortage of medical\r\nsupplies due to high consumption in combat.\r\nIf you are free, please help by procuring\r\n<LQVA> pieces.",
+      "text": "Gesuch: <LQIM>\r\nWegen der vielen Kämpfe gehen uns\r\ndie Zutaten für Arzneien aus.\r\nWenn du Zeit hast, hilf uns bitte aus.\r\nBenötigte Menge: <LQVA>"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

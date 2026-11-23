@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q20040008.gmd",
+  "arc_path": "\\quest\\q20040008.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "「汚染された土の塊」を発見した",
+      "source_en": "\"Clumps of contaminated soil\" found.",
+      "text": "„Verunreinigter Erdklumpen“ gefunden."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "「汚染された泥」を発見した",
+      "source_en": "\"Contaminated mud\" found.",
+      "text": "„Verunreinigter Schlamm“ gefunden."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "「汚染された木の枝」を発見した",
+      "source_en": "\"Contaminated tree branches\" found.",
+      "text": "„Verunreinigter Zweig“ gefunden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

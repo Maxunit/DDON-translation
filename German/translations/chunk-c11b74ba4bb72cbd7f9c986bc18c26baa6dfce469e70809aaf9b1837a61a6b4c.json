@@ -1,0 +1,144 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area8_spot_info.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ハイデル平原の北に隣接する原野\r\n元はセラー湖の水に恵まれた肥沃な地だったが\r\n民がハイデル平原に集い、北から来るオーク軍への\r\n対抗手段としてグリッテン砦が建造されて後は\r\nほとんど人の立ち入らぬ危険地帯となった",
+      "source_en": "Wilderness located to the north of Hidell Plains.\r\nOriginally, it was a fertile land, blessed\r\nwith the waters of Lake Cera. However,\r\nas people gathered on the Hidell Plains\r\nto defend against the invading Orc army\r\nfrom the north, Fort Gritten was constructed.\r\nSince then, it has become a dangerous area\r\nthat is rarely visited by regular folk.",
+      "text": "Ein unbesiedeltes Land\r\nnördlich der Hidell-Ebene.\r\nEinst machten die Fluten des Cera-Sees\r\nden Boden fruchtbar.\r\nDoch als das Orkheer von Norden her anrückte,\r\nzogen sich die Menschen in die Hidell-Ebene zurück.\r\nDort errichteten sie die Festung Gritten, um den Vormarsch aufzuhalten.\r\nSeitdem wagt sich kaum noch jemand in diese gefährliche Gegend."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "オーク軍に対抗するため建造された大砦\r\n統率レオ、副隊長ヴァネッサが率いるこの砦は\r\n覚者隊によって守られ、北部からのオーク進軍\r\n阻止の要となっている。また《ファイター》として\r\n研鑽を目指す者にとっても重要な拠点である",
+      "source_en": "A formidable fortress,\r\nconstructed to counter the Orc army.\r\nLed by Commander Leo\r\nand Vice Commander Vanessa,\r\nit is defended by the Arisen Corps\r\nand serves as a crucial stronghold\r\nto halt the Orc's advance from the north.\r\nIt is also an important base for those\r\naspiring to become Fighters.",
+      "text": "Diese wehrhafte Festung wurde erbaut,\r\num das Orkheer aufzuhalten.\r\nLeo hat das Kommando,\r\nVanessa ist seine Stellvertreterin.\r\nDie Erwecktentruppe verteidigt von hier aus\r\ndas Land gegen die Orks,\r\ndie von Norden her vorrücken.\r\nAuch wer sich als Kämpfer\r\nweiterbilden will, findet hier Unterstützung."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "崖崩れで閉ざされていた道の復旧により\r\nバートランド平原北部へ向かえるようになった\r\n北部に向かう際は、一層オークに対し備える\r\n必要がある",
+      "source_en": "With the restoration of the road\r\nthat had been closed due to a cliffside collapse,\r\nit is now possible to head towards\r\nthe northern part of the Betland Plains.\r\nWhen heading to the north,\r\nit is necessary to be prepared for Orcs.",
+      "text": "Ein Felssturz hatte den Weg verschüttet.\r\nSeit der Schutt beseitigt ist,\r\nkann man wieder\r\nin die Nördliche Betland-Ebene reisen.\r\nWer nach Norden aufbricht,\r\nsollte auf Begegnungen mit Orks gefasst sein."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "セラー湖のほとり、旧騎士団監視塔の傍にある\r\n廃墟。この付近に最近、獰猛なコロッサスが出没\r\nするようになった。監視塔の水路はバートランドの\r\n低地と高地を繋ぐ連絡路でもあるため、この魔物の\r\n存在は、厄介な障害となっている",
+      "source_en": "A ruin on the shores of Lake Cera,\r\nnear the old Knights' Watchtower.\r\nRecently, a fierce Colossus wanders this area.\r\nThe waterway of the watchtower also serves\r\nas a connecting passage between\r\nBetland's lowlands and highlands,\r\nso the presence of this enemy has become\r\na troublesome obstacle.",
+      "text": "Am Cera-See nahe dem alten Wachturm der Garde\r\nliegen diese Ruinen.\r\nSeit Kurzem zieht hier ein wilder Koloss umher.\r\nDer Wasserweg am Wachturm\r\nverbindet das Tiefland mit den Höhen Betlands.\r\nDer Koloss macht es Reisenden schwer,\r\nden Weg zu benutzen.\r\nEr sollte im Auge behalten werden."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原丘陵にある、北部の民の\r\n地下墓地。オーク侵攻の際、劣勢になった騎士や\r\n覚者が籠城し、追っ手のオーク共々内部から\r\n出入り口を封じたという",
+      "source_en": "In the subterranean burial grounds\r\nof the Betland Plains Hills, located in the north,\r\nthe Knights and Arisen who were outnumbered\r\nduring the Orc invasion took refuge\r\nand sealed the entrance from inside.",
+      "text": "In den Hügeln der Betland-Ebene\r\nliegt der unterirdische Friedhof der Menschen aus dem Norden.\r\nAls die Orks angriffen und die Verteidiger in Bedrängnis gerieten,\r\nverschanzten sich Ritter und Erweckte dort.\r\nSie versiegelten die Zugänge von innen und schlossen ihre Verfolger mit ein."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "バートランド北部に繋がる谷間の橋に、オークの\r\n一隊が侵入し南下を企てている\r\nグリッテン砦やハイデル方面への侵入を防ぐため\r\n発見し次第早急に討伐し、食い止める必要がある",
+      "source_en": "A party of Orcs has invaded the bridge\r\nin the valley leading to northern Betland,\r\nattempting to push southward\r\ntowards Fort Gritten and the Hidell region.\r\nIt is necessary to promptly discover\r\nand subdue them to thwart their advance.",
+      "text": "Ein Trupp Orks hat die Brücke im Tal besetzt,\r\ndie in die Nördliche Betland-Ebene führt.\r\nVon hier wollen sie nach Süden vorrücken.\r\nBevor sie Festung Gritten\r\noder Hidell erreichen,\r\nmüssen sie aufgespürt und aufgehalten werden."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "セラー湖の浜辺一帯は、昔使われていた船が\r\n漂着し、打ち上げられた船墓場がある。偵察隊\r\nの報告によれば、その付近で多数の青トカゲが出現\r\nし、さらには湖面に尖った背びれが見えたという\r\n引き続き、調査が必要だろう",
+      "source_en": "The entire beach area of Lake Cera\r\nis a ship graveyard where old ships\r\nhave drifted in and washed ashore.\r\nAccording to the reconnaissance team's report,\r\na large number of blue lizards have appeared in\r\nthe vicinity, and furthermore, pointed dorsal fins\r\nwere spotted breaking the surface of the lake.\r\nContinued investigation will be necessary.",
+      "text": "Am Ufer des Cera-Sees\r\nliegen alte Schiffe, die der See an Land gespült hat.\r\nSie bilden einen ganzen Schiffsfriedhof.\r\nDer Erkundungstrupp meldet,\r\ndass sich dort viele blaue Echsen herumtreiben.\r\nAußerdem wurden spitze Rückenflossen\r\nan der Wasseroberfläche gesichtet.\r\nDie Gegend muss weiter untersucht werden."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "禊の神殿内部にある地下水道\r\n水門を通る大量の水をテゴル川やセラー湖へと\r\n浄化し流す役割を持っていた。だが何らかの理由\r\nで神官長により封鎖されたようだ",
+      "source_en": "Inside the Temple of Purification,\r\nthere is an underground waterway that used\r\nto have the role of purifying and redirecting\r\na large amount of water through the water gate\r\nto the Tegor River and Lake Cera.\r\nHowever, for some reason, the waterway\r\nhas been sealed by the High Priest.",
+      "text": "Unter dem Tempel der Läuterung\r\nverläuft ein unterirdischer Kanal.\r\nEr reinigte einst das Wasser,\r\ndas durch die Schleuse\r\nzum Tegor-Fluss und in den Cera-See floss.\r\nAus unbekannten Gründen\r\nließ der Hohepriester den Wasserweg später versiegeln."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "バートランドのどこかにあるという\r\nオーク達の隠れアジト\r\n大将モゴックの腹心、戦鬼ゲソムが指揮する\r\n部隊の潜伏地であるらしい",
+      "source_en": "A hidden Orc hideout in Betland.\r\nIt seems to be the hideout\r\nof General Mogok's trusted warrior,\r\nGesomu the War Demon and his troops.",
+      "text": "Irgendwo in Betland\r\nsollen die Orks ein geheimes Versteck haben.\r\nDort hält sich wohl der Trupp von Gesomu,\r\ndem Kriegsdämon und Vertrauten des Feldherrn Mogok, auf."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "《バートランド大橋》の近く、オークとの\r\n小競り合いが頻発する地点\r\n川辺からの風に巻き上げられた砂埃に加え、野営に\r\n使われたと思しき焚火が燻っているため、常に\r\n薄煙がかかったようになっている",
+      "source_en": "Near Betland Bridge, there is a point\r\nwhere there is frequent skirmishing with Orcs.\r\nIn addition to the dust raised by the wind\r\nfrom the riverside, there is often a thin smoke\r\nin the air, possibly from a campfire.",
+      "text": "Nahe der Großen Betland-Brücke\r\nkommt es oft zu Gefechten mit Orks.\r\nDer Wind trägt Staub vom Fluss herüber.\r\nDazu qualmen die Feuerstellen, die wohl von einem Lager zurückgeblieben sind.\r\nDarum hängt hier fast immer Rauch in der Luft."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "バートランドの高地と低地を結ぶ地下通路\r\nグリッテン砦の隊士達も以前は連絡路として\r\n利用していたが、魔物が増えたことで現在は\r\nあまりその機能を果たしていない\r\n通路の一端は監視塔に続いている",
+      "source_en": "Underground passage connecting\r\nthe highlands and lowlands of Betland.\r\nThe soldiers of Fort Gritten also used to use it\r\nas a communication route in the past,\r\nbut now, due to the increase in enemies,\r\nit is not fulfilling its function much anymore.\r\nOne end of the passage leads to a watchtower.",
+      "text": "Dieser unterirdische Gang verbindet\r\ndas Hoch- und Tiefland von Betland.\r\nDie Besatzung von Festung Gritten\r\nnutzte ihn früher als Verbindungsweg.\r\nSeit dort immer mehr Monster auftauchen,\r\nist er kaum noch passierbar.\r\nEin Ende des Gangs führt zu einem Wachturm."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦東にある廃墟の地下室\r\nバートランドは全域にオークが入りこんで\r\nいるため、こういった場所は特に警戒する\r\n必要がある",
+      "source_en": "The basement of the ruins east of Fort Gritten.\r\nBetland is infested with orcs throughout\r\nthe area, so in these places one needs\r\nto be especially vigilant.",
+      "text": "Östlich von Festung Gritten\r\nliegt dieser Keller unter einer Ruine.\r\nWeil überall in der Betland-Ebene Orks umherstreifen,\r\nist an solchen Orten besondere Vorsicht geboten."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "旧時代、白竜の座であったと伝えられる神殿\r\nセラー湖の水を制御する水門を備えたこの神殿は\r\nドリード城と同時代、竜と人を繋ぐ場であったと\r\nされている。すでにここを守る神官はおらず\r\n老朽化も進んでいるが、その威容は健在",
+      "source_en": "A temple said to have been the seat\r\nof the White Dragon in ancient times.\r\nThis temple, equipped with floodgates\r\nto control the waters of Lake Cera,\r\nwas believed to be a place that connected\r\ndragons and humans, just like Dreed Castle.\r\nAlthough there are no longer priests protecting\r\nthis place and it continues to deteriorate,\r\nits majestic presence remains.",
+      "text": "In diesem Tempel hatte einst\r\nder Weiße Drache seinen Sitz, so heißt es.\r\nÜber die Schleusen am Tempel\r\nließ sich der Wasserstand des Cera-Sees regeln.\r\nWie Burg Dreed soll der Tempel\r\nin alter Zeit Menschen und Drachen verbunden haben.\r\nHeute wacht kein Priester mehr über ihn.\r\nEr verfällt zusehends,\r\nbietet aber noch immer einen prächtigen Anblick."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原中ほどにある廃墟の\r\n地下室。前に中を検分した隊士はあまりの\r\n乾燥で喉がすぐやられてしまったそうだ\r\n当時は、食糧や遺体がオークにより多数\r\n投げ込まれ、酷い状態だったという",
+      "source_en": "In the middle of the Betland Plains,\r\nthere is a cellar in ruins.\r\nA soldier who inspected it before\r\nreported his throat quickly dessicated\r\ndue to the extremely arid air.\r\nAt that time, food and bodies\r\nwere thrown into the cellar by Orcs,\r\nand it was in a terrible state.",
+      "text": "Mitten in der Betland-Ebene\r\nliegt ein Keller unter einer Ruine.\r\nEin Soldat, der ihn untersuchte, berichtete,\r\ndass ihm in der trockenen Luft\r\nsofort der Hals trocken wurde.\r\nDamals hatten Orks\r\nVorräte und Leichen dort hineingeworfen.\r\nDer Keller war in einem furchtbaren Zustand."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "セラー湖の岸辺にある地下室\r\nもとは禊の神殿からの一時物資保管庫だった\r\nが、神殿が捨てられてからというもの\r\n物資ともども小鬼達に占領されてしまった",
+      "source_en": "The underground chamber by the shores\r\nof Lake Cera originally served as a temporary\r\nstorage facility for supplies\r\nfor the Temple of Purification.\r\nHowever, since the temple was abandoned,\r\nit has been occupied by small monsters,\r\nstealing the supplies therein.",
+      "text": "Dieser Keller am Ufer des Cera-Sees\r\nwar einst ein Zwischenlager\r\nfür die Vorräte des Tempels der Läuterung.\r\nSeit der Tempel aufgegeben wurde,\r\nhaben sich dort kleine Monster\r\neingenistet.\r\nSie hat auch die Vorräte an sich genommen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原の外れ、橋の傍にある\r\n枯れ井戸。恐ろしげな呻き声が付近で響いて\r\nいるらしく、オークの動向を探る覚者隊の\r\n隊士たちはその付近を特に警戒するそうだ",
+      "source_en": "On the outskirts of Betland Plains,\r\nnext to a bridge, there is a dry well.\r\nA terrifying groaning sound echoes\r\nthroughout the vicinity, and the members\r\nof the Arisen Corps, who are investigating\r\nthe movements of the Orcs,\r\nare particularly cautious in that area.",
+      "text": "Am Rand der Betland-Ebene steht ein trockener Brunnen neben einer Brücke.\r\nEin schauerliches Stöhnen\r\nsoll in der ganzen Umgebung zu hören sein.\r\nDie Erweckten, die in der Gegend\r\ndie Bewegungen der Orks beobachten,\r\nsind daher in der Nähe des Brunnens\r\nbesonders wachsam."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【宝飾】の扉あり</COL>\r\nバートランド平原の西側、山腹の高台にある牢を\r\n兼ねた地下墓地。旧時代、大罪を犯した者が送られ\r\n死してなお外界に出さぬよう秘密裏に葬られたという\r\n近年調査が入るまで長く閉鎖されたままになっていた",
+      "source_en": "<COL ffdc78>[Jewelry Door]</COL>\r\nLocated on the western side of the Betland\r\nPlains, on a hillside, is an underground tomb\r\nthat also serves as a prison. In ancient times,\r\nthose who committed great sins were sent here\r\nand secretly buried to prevent them\r\nfrom returning to the outside world.\r\nIt remained closed for a long time\r\nuntil recent investigations were carried out.",
+      "text": "<COL ffdc78>[Schmucktür vorhanden]</COL>\r\nAn einem Hang im Westen der Betland-Ebene\r\nliegt eine unterirdische Grabstätte, die auch als Kerker diente.\r\nIn alter Zeit brachte man Menschen hierher,\r\ndie sich schwerer Verbrechen schuldig gemacht hatten.\r\nMan begrub sie heimlich,\r\ndamit sie selbst nach ihrem Tod nicht nach draußen gelangten.\r\nDer Kerker blieb lange verschlossen\r\nund wurde erst vor Kurzem wieder untersucht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

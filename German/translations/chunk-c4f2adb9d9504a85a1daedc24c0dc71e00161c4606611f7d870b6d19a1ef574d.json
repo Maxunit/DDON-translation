@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q21000031.gmd",
+  "arc_path": "\\quest\\q21000031.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "この森の奥深くに、遺跡があるのは\r\nすでにご存じのことと思います",
+      "source_en": "",
+      "text": "Du weißt sicher, dass tief in diesem Wald\r\neine Ruine liegt."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "とても美しく明媚な場所なのですが\r\n最近、そこを根城にしている魔物が現れ\r\n近寄った旅人を襲っているそうなのです",
+      "source_en": "",
+      "text": "Sie ist wunderschön.\r\nDoch vor Kurzem hat sich dort ein Monster eingenistet.\r\nEs fällt Reisende an, die der Ruine zu nahe kommen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "覚者さま\r\nどうかお力を貸していただけないでしょうか",
+      "source_en": "",
+      "text": "Erweckter,\r\nkönntest du uns helfen?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "このままでは何も知らぬ何人もの旅人が\r\n餌食となってしまいます\r\nどうかお力をお貸しください――",
+      "source_en": "",
+      "text": "So werden ihm noch viele ahnungslose Reisende\r\nzum Opfer fallen.\r\nBitte hilf uns …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "遺跡が本来の息遣いに戻ったのを感じます――",
+      "source_en": "",
+      "text": "Spürst du es? In der Ruine ist wieder Ruhe eingekehrt …"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "これもひとえに覚者さまのおかげです\r\nありがとうございます――",
+      "source_en": "",
+      "text": "Das verdanken wir dir, Erweckter.\r\nHab vielen Dank."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

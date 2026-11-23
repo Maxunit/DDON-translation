@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20000004_00.gmd",
+  "arc_path": "\\quest\\q20000004.arc",
+  "entries": [
+    {
+      "key": "q20000004_00_28",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "嘆願書対応　廃墟魔物退治",
+      "source_en": "A Petition to Rid Ruins of Foes",
+      "text": "Hilfsgesuch – Monster in den Ruinen"
+    },
+    {
+      "key": "q20000004_00_28",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフの話を聞き\r\n嘆願書の案件を解決する",
+      "source_en": "Listen to Joseph's story and solve\r\nthe matter of the petition.",
+      "text": "Hör dir an, was Joseph zu dem Gesuch zu sagen hat,\r\nund kümmere dich um die Sache."
+    },
+    {
+      "key": "q20000004_00_28",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "詳細ははっきりしないが、何らかの助けを欲する者が\r\n<NAME AREA>にいるらしい",
+      "source_en": "Though the details are unclear,\r\nit seems that someone in <NAME AREA>\r\nis in need of some kind of assistance.",
+      "text": "Einzelheiten sind noch unklar.\r\nAber in der Gegend um <NAME AREA>\r\nbraucht offenbar jemand Hilfe."
+    },
+    {
+      "key": "q20000004_00_28",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "期待の新人覚者が現れた時のジョゼフ様は\r\nなんとなく嬉しそうな顔をしている気がするね\r\n嘆願書を処理する案件がたまってくると\r\nあの人は決まって目星をつけた覚者にやらせるんだ\r\nレオ様に続く人材を育てたい、のかもね",
+      "source_en": "When the promising new Arisen appears,\r\nMaster Joseph wears a somewhat glad expression. \r\nWhenever the requests for handling petitions pile up,\r\nhe always assigns them to the Arisen he has chosen. \r\nPerhaps he wants to cultivate talent that follows\r\nin the footsteps of Master Leo.",
+      "text": "Wenn sich ein neuer Erweckter vielversprechend zeigt,\r\nwirkt Joseph immer ein bisschen erfreut.\r\nSobald sich die Hilfsgesuche stapeln,\r\nschickt er ausgerechnet den Erweckten los, den er im Auge hat.\r\nVielleicht hofft er, jemanden auszubilden,\r\nder einmal in Leos Fußstapfen tritt."
+    },
+    {
+      "key": "q20000004_00_808",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜死者の小窟＞を目指す",
+      "source_en": "Head for \"Small Cave Tombs\"",
+      "text": "Geh zu den Kleinen Grabhöhlen."
+    },
+    {
+      "key": "q20000004_00_809",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "現れる敵を全て倒す",
+      "source_en": "Defeat all encountered enemies",
+      "text": "Besiege alle auftauchenden Feinde."
+    },
+    {
+      "key": "q20000004_00_810",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ジョゼフに報告する",
+      "source_en": "Report to Joseph",
+      "text": "Erstatte Joseph Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

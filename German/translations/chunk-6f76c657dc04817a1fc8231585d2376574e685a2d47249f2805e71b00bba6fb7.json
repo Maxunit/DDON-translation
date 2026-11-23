@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20025008_00.gmd",
+  "arc_path": "\\quest\\q20025008.arc",
+  "entries": [
+    {
+      "key": "q20025008_00_93",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "青鱗の凶竜",
+      "source_en": "The Blue-Scaled Evil Dragon",
+      "text": "Der Drache mit den blauen Schuppen"
+    },
+    {
+      "key": "q20025008_00_93",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20025008_00_93",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>から緊急報告\r\n至急、魔物らしき脅威を排除されたし、とのこと",
+      "source_en": "Urgent report from <NAME AREA>\r\nIt is imperative to swiftly remove a threat\r\nthat appears to be monsters.",
+      "text": "Dringende Meldung aus der Gegend um <NAME AREA>\r\nEine Bedrohung, die offenbar von Monstern ausgeht,\r\nmuss umgehend beseitigt werden."
+    },
+    {
+      "key": "q20025008_00_93",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "悪いことは言わない、いまバートランドの北方に\r\n出向くのは止めた方がいいぞ\r\nあそこは今、怪しい気配がたちこめていて\r\n居るだけでその空気に押しつぶされそうになる\r\n私のように、あわてて逃げて崖から転落し\r\n怪我してしまわないようにな",
+      "source_en": "I wouldn't say anything bad, \r\nbut it's better to refrain from heading towards \r\nthe northern part of Betland right now. \r\nThere's a suspicious aura lingering there, \r\nand just being there makes you feel like you're \r\nbeing crushed by the atmosphere. \r\n\r\nDon't rush like I did, falling off a cliff,\r\nand ending up injured in the escape.",
+      "text": "Wenn du einen Rat willst,\r\nhalt dich fürs Erste\r\nvom Norden der Betland-Ebene fern.\r\nDort liegt etwas Unheimliches in der Luft.\r\nDie Stimmung ist so bedrückend,\r\ndass man es dort kaum aushält.\r\n\r\nGeh es jedenfalls ruhiger an als ich. Auf der Flucht\r\nbin ich eine Klippe hinuntergestürzt und habe mich verletzt."
+    },
+    {
+      "key": "q20025008_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

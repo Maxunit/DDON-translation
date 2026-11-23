@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\npc\\base\\n1903.gmd",
+  "arc_path": "\\npc\\n1903.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "なんだ？　連絡事項でもあるのか？",
+      "source_en": "What is it?　You have a message for me?",
+      "text": "Was ist los? Hast du eine Meldung für mich?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《バートランド平原》側への\r\n通行が許可されたんだな\r\n任務、頑張れよ！",
+      "source_en": "So, I see you've been granted permission to\r\ntravel to the Betland Plains.\r\nGood luck with your mission!",
+      "text": "Ah, du hast also die Erlaubnis,\r\nin die Betland-Ebene zu reisen.\r\nViel Erfolg bei deinem Auftrag!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "前の戦闘を皮切りに、奴らもこちらへ\r\n攻撃をしかけることが増えてきた\r\nつどつど追い返すしかないのが辛いところだな",
+      "source_en": "Starting with the previous fight, they have been\r\nincreasing their attacks towards us.\r\nIt's tough having to constantly push them back.",
+      "text": "Seit der letzten Schlacht\r\ngreifen sie uns immer öfter an.\r\nEs ist mühsam, sie jedes Mal zurückzuschlagen."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "元を断てればいいんだが――",
+      "source_en": "If only we could cut off the source...",
+      "text": "Wenn wir das Problem doch an der Wurzel packen könnten …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "この正面門の通行には、統率の許可が必要だ\r\n砦の向こう、《バートランド平原》は\r\n完全な危険地帯だからな",
+      "source_en": "Permission from your superiors is required to\r\npass through this main gate.\r\nBeyond the fortress lies the Betland Plains, a\r\nhighly dangerous area.",
+      "text": "Durch dieses Haupttor darfst du nur mit Erlaubnis des Kommandanten.\r\nHinter der Festung beginnt die Betland-Ebene.\r\nDort draußen\r\nist es gefährlich."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "よほどの任務か理由でもなければ\r\nおいそれとは通れないさ",
+      "source_en": "Unless it's a significant mission or reason, You\r\ncan't just pass through casually.",
+      "text": "Durch das Tor kommt nur, wer einen wichtigen Auftrag\r\noder einen triftigen Grund hat."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "北部のバートランド平原は\r\nオーク共の根城に近い\r\nこのグリッテン砦が、奴らの侵攻を塞ぐ要なのさ",
+      "source_en": "The Betland Plains in the north is close to the\r\nstronghold of the orcs.\r\nFort Gritten is vital in\r\nfending off their invasion.",
+      "text": "Im Norden grenzt die Betland-Ebene\r\nan die Hochburg der Orks.\r\nWenn wir ihren Vormarsch aufhalten wollen,\r\nmüssen wir Festung Gritten halten."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "北部の魔物どもは手強い上に数も多い\r\nハイデルに奴らを通すわけにはいかないのだ",
+      "source_en": "The northern enemies are not only formidable, but\r\ntheir numbers are also high.\r\nWe cannot let them through to Hidell.",
+      "text": "Die Monster im Norden sind stark,\r\nund es gibt viele davon.\r\nWir dürfen sie nicht nach Hidell durchlassen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

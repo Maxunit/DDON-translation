@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20075006_00.gmd",
+  "arc_path": "\\quest\\q20075006.arc",
+  "entries": [
+    {
+      "key": "q20075006_00_259",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "闇夜に佇む魔",
+      "source_en": "The Evil in the Dark Night",
+      "text": "Das Grauen in der Nacht"
+    },
+    {
+      "key": "q20075006_00_259",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【 敵出現：夜 】</COL>\r\n遭遇した敵を討伐する",
+      "source_en": "<COL ffdc78>[Enemy appears at night]</COL>\r\nDefeat the enemies encountered",
+      "text": "<COL ffdc78>[Feinde erscheinen nachts]</COL>\r\nBesiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20075006_00_259",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>では、夜になると現れる\r\n危険な存在により住民が脅かされているらしい",
+      "source_en": "In the <NAME AREA>, \r\nit seems that the residents are being threatened \r\nby a dangerous presence that appears at night.",
+      "text": "Die Bewohner der Gegend um <NAME AREA>\r\nwerden offenbar von einem gefährlichen Wesen bedroht,\r\ndas nachts auftaucht."
+    },
+    {
+      "key": "q20075006_00_259",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【 敵出現：夜 】</COL>\r\nここらの土地はな\r\n長年に渡るオークどもとの戦争で\r\n命を落とした戦士達の亡骸が\r\nたくさん埋葬されているわけよ\r\nだから夜にはあんまり出歩かんほうが賢明だな\r\nどんな事が起きたって、何も不思議じゃねえからよ",
+      "source_en": "<COL ffdc78>[Enemy appears during: Night]</COL>\r\nIn this land, the remains of the fallen warriors\r\nwho lost their lives in the long war against the orcs\r\nare buried in abundance.\r\nSo, it's wise not to wander around at night.\r\nNo matter what happens.",
+      "text": "<COL ffdc78>[Feinde erscheinen nachts]</COL>\r\nHier in der Gegend liegen viele Krieger begraben.\r\nSie haben im langen Krieg gegen die Orks\r\nihr Leben gelassen.\r\nGlaub mir, nachts sollte man sich hier nicht herumtreiben.\r\nWas einem hier begegnet, sollte einen jedenfalls nicht überraschen."
+    },
+    {
+      "key": "q20075006_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

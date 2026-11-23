@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q21000064.gmd",
+  "arc_path": "\\quest\\q21000064.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "覚者様、ダウの平穏を脅す魔物が現れました\r\n住人の近寄らない僻地ゆえ、今はまだ\r\n目立った被害は出ていないようですが",
+      "source_en": "",
+      "text": "Erweckter, ein Monster bedroht den Frieden im Dowe-Tal.\r\nEs hält sich in einem abgelegenen Winkel auf.\r\nBisher ist den Bewohnern wohl nichts passiert."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "いつこのジンゲン付近に来るか分かりません\r\nどうか、お願いいたします――\r\n魔物を討伐していただけないでしょうか",
+      "source_en": "",
+      "text": "Wer weiß, wann es nach Jingen kommt.\r\nDarum bitte ich dich,\r\ndas Monster zu besiegen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "やはり人の手の届かないところには\r\n瘴気が溜まりやすいもの――\r\n定期的な討伐任務を組む必要性が\r\nあるかもしれませんね",
+      "source_en": "",
+      "text": "Wo kaum ein Mensch hinkommt,\r\nsammelt sich oft Miasma.\r\nVielleicht sollten wir dort\r\nregelmäßig nach Monstern sehen lassen."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "おお！　ご討伐ありがとうございます",
+      "source_en": "",
+      "text": "Oh, du hast es besiegt! Hab vielen Dank."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "あなたさまがこの地を訪れてからというもの\r\nジンゲンは幾度となく救われてまいりました\r\nなんと感謝したらよいか――",
+      "source_en": "",
+      "text": "Seit du bei uns bist,\r\nhast du Jingen immer wieder aus der Not geholfen.\r\nIch weiß gar nicht, wie ich dir dafür danken soll."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

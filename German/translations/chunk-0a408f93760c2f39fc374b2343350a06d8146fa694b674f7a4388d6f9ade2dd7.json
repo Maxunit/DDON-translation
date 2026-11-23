@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000102_00.gmd",
+  "arc_path": "\\quest\\q90000102.arc",
+  "entries": [
+    {
+      "key": "q90000102_00_33",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦攻防戦《最終報酬》",
+      "source_en": "Battle for Fort Gritten (Final Reward)",
+      "text": "Schlacht um Festung Gritten – Abschlussbelohnung"
+    },
+    {
+      "key": "q90000102_00_33",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦にオーク軍の接近が確認された\r\n覚者諸君は防衛戦に備え、神殿大門前に集まれ\r\n護りの力、いざ結束の時！",
+      "source_en": "Fort Gritten has confirmed the approach of the Orc army.\r\nAll Arisen comrades, gather in front of the temple gate, preparing for the defense.\r\nIt's time to unite our protective strength!",
+      "text": "Das Orkheer rückt auf Festung Gritten vor.\r\nAlle Erweckten versammeln sich zur Verteidigung vor dem Haupttor des Tempels.\r\nJetzt kommt es auf euren Zusammenhalt an!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

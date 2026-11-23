@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000010_00.gmd",
+  "arc_path": "\\quest\\q21000010.arc",
+  "entries": [
+    {
+      "key": "q21000010_00_322",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "店主の苦悩",
+      "source_en": "A Shopkeeper's Distress",
+      "text": "Sallys leere Regale"
+    },
+    {
+      "key": "q21000010_00_322",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【納品クエスト】\r\n依頼者の願いを聞き入れ\r\n指定された物資を集めてくる",
+      "source_en": "[Delivery Quest]\r\nListen to the requester's wishes\r\nand gather the specified supplies.",
+      "text": "[Lieferquest]\r\nHör dir die Bitte der Händler an\r\nund besorg die verlangten Vorräte."
+    },
+    {
+      "key": "q21000010_00_322",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "物資を必要としている人物が\r\n<NAME AREA>から協力を求めている",
+      "source_en": "A person in need of supplies is seeking assistance\r\nin <NAME AREA>.",
+      "text": "Jemand braucht Nachschub und bittet um Hilfe, und zwar bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21000010_00_322",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "神殿のあの食材屋さん――\r\nなんか最近困ってるみたいよ\r\n魔物のせいで商品の仕入れが滞ってて\r\n納得のいく品揃えにできないみたい\r\n私としても晩のおかずのメニューが減るのは嫌だし",
+      "source_en": "That food shop at the Temple— \r\nit seems like they've been struggling recently.\r\nThe monsters are messing up their supply,\r\nand they can't get a decent selection. \r\nI don't want fewer choices for dinner, either.",
+      "text": "Der Lebensmittelladen im Tempel\r\nhat in letzter Zeit wohl Probleme.\r\nWegen der Monster kommt die Ware nicht an,\r\nund das Angebot wird immer kleiner.\r\nAbends hätte ich auch gern weiter was Anständiges auf dem Teller."
+    },
+    {
+      "key": "q21000010_00_1179",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼先に届ける（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> × <SQDI NUM> zum Lieferort (noch benötigt: <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

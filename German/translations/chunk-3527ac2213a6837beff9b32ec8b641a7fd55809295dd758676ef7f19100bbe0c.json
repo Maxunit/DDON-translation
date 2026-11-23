@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20020011_00.gmd",
+  "arc_path": "\\quest\\q20020011.arc",
+  "entries": [
+    {
+      "key": "q20020011_00_240",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "連絡路を取り戻せ",
+      "source_en": "Reclaiming the Route",
+      "text": "Den Verbindungsweg zurückerobern"
+    },
+    {
+      "key": "q20020011_00_240",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besiege die gesuchten Feinde."
+    },
+    {
+      "key": "q20020011_00_240",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>に\r\n覚者に会って相談に乗ってほしい人物がいるという",
+      "source_en": "There is someone in <NAME AREA> \r\nwho wishes to meet an Arisen and seek their advice.",
+      "text": "In der Gegend um <NAME AREA>\r\nmöchte jemand mit einem Erweckten sprechen und ihn um Rat bitten."
+    },
+    {
+      "key": "q20020011_00_240",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ダウ渓谷へ向かう地下通路に\r\n想定を超える数の魔物が出没しているらしい\r\n覚者隊が対応に当たっているが\r\n早急な問題解決のためにも増員が望ましいそうだ\r\n対処にあたれる覚者は、ぜひ向かって欲しい",
+      "source_en": "In the underground passage leading to Dowe Valley,\r\nthere seems to be an unexpectedly large number \r\nof enemies appearing. \r\nThe Arisen Corps is handling the situation, \r\nbut additional reinforcements are desirable for \r\na prompt resolution of the problem. \r\nArisen who can deal with this, \r\nplease head there if possible.",
+      "text": "Im unterirdischen Gang zum Dowe-Tal\r\ntreiben sich wohl mehr Monster herum,\r\nals wir erwartet haben.\r\nDie Erwecktentruppe kümmert sich darum.\r\nMit Verstärkung\r\nwären sie schneller mit der Sache fertig.\r\nWer von euch\r\ndabei helfen kann, möge bitte hingehen."
+    },
+    {
+      "key": "q20020011_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20020011_00_828",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した敵を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    },
+    {
+      "key": "q20020011_00_916",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜旧騎士団連絡路＞の敵を討伐する",
+      "source_en": "Defeat the enemy in \"Knights' Old Route\"",
+      "text": "Besiege die Feinde auf dem Alten Verbindungsweg der Garde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

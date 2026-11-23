@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40000029_00.gmd",
+  "arc_path": "\\quest\\q40000029.arc",
+  "entries": [
+    {
+      "key": "q40000029_00_29",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "グリッテン砦・討伐任務",
+      "source_en": "Fort Gritten: Elimination",
+      "text": "Festung Gritten – Jagdauftrag"
+    },
+    {
+      "key": "q40000029_00_29",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<LQEM>討伐任務\r\n上記対象の出現報告があった\r\nオーク軍と合流の危機もあるため、優先的に見つけ出し<LQVA>体を討伐されたし",
+      "source_en": "<LQEM> extermination mission.\r\nReports of the target's appearance have been received.\r\nThere is a risk of merging with the Orc army,\r\nso prioritize locating and felling <LQVA> of them.",
+      "text": "Jagd auf <LQEM>\r\nEs liegen Sichtungen vor.\r\nDie Gegner könnten sich dem Orkheer anschließen.\r\nSpür sie so bald wie möglich auf und besiege <LQVA> davon."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

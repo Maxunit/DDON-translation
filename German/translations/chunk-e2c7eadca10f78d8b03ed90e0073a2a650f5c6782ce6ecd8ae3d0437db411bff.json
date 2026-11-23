@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40201017_00.gmd",
+  "arc_path": "\\quest\\q40201017.arc",
+  "entries": [
+    {
+      "key": "q40201017_00_357",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【週期要請】バートランド平原北部：治安維持討伐",
+      "source_en": "[Periodic Request] Northern Betland Plains: Security Upkeep Dispatch",
+      "text": "[Wöchentlicher Auftrag] Nördliche Betland-Ebene – Sicherheit im Dorf"
+    },
+    {
+      "key": "q40201017_00_357",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターのサニーだけど、ちょっと長期で依頼したいことがあってさ\r\n<LQEM>が最近やたらと村の近くにやってくるんだよ\r\n<LQVA>匹くらい退治してくれれば皆も安心できると思うんだ\r\nゆっくりでいいからさ、頼まれてくれると嬉しいよ",
+      "source_en": "This is Sunny, the Area Master. \r\nI have a long-term request.\r\nRecently, <LQEM> have been frequently \r\ncoming near the village.\r\nIf you could take down around <LQVA> of them, \r\nit would put everyone at ease.\r\nTake your time with it; \r\nI'd really appreciate your help.",
+      "text": "Hier ist Sunny, die Gebietsmeisterin.\r\nIch habe einen Auftrag, für den du dir Zeit lassen kannst.\r\nIn letzter Zeit tauchen <LQEM>\r\nimmer öfter in der Nähe des Dorfs auf.\r\nWenn du etwa <LQVA> von ihnen besiegst,\r\nkönnen alle hier wieder ruhiger schlafen.\r\nLass dir ruhig Zeit.\r\nIch wär dir sehr dankbar."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

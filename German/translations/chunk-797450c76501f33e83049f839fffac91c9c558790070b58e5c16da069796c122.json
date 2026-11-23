@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20040003_00.gmd",
+  "arc_path": "\\quest\\q20040003.arc",
+  "entries": [
+    {
+      "key": "q20040003_00_42",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "仕入れの重責",
+      "source_en": "The Burden of Procurement",
+      "text": "Aller Anfang ist schwer"
+    },
+    {
+      "key": "q20040003_00_42",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n指定の物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besorg die Waren."
+    },
+    {
+      "key": "q20040003_00_42",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "協力者を求める者がいるとの報告が\r\n<NAME AREA>から届いている",
+      "source_en": "We have received a report from <NAME AREA>\r\nthat someone is looking for a collaborator.",
+      "text": "Aus der Gegend um <NAME AREA>\r\nwird gemeldet, dass jemand Hilfe sucht."
+    },
+    {
+      "key": "q20040003_00_42",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ボルド鉱山にいたあの男\r\n前にどこかで見たような気がするんだよな\r\nなぜか頭に浮かぶのは、酒場のにぎやかさ――\r\nうーん、こういうのって思い出せないと\r\n鼻がムズムズするんだよなあ",
+      "source_en": "That man in the Volden Mines,\r\nI feel like I've seen him somewhere before.\r\nFor some reason, what comes to \r\nmind is the liveliness of a tavern...\r\nHmm, if I can't remember, my nose starts to itch.",
+      "text": "Diesen Mann in den Volden-Minen\r\nhab ich irgendwo schon mal gesehen.\r\nSeltsamerweise muss ich dabei an\r\nden Trubel in einem vollen Gasthaus denken …\r\nHm, wenn ich mich an so was nicht erinnern kann, juckt mir immer die Nase."
+    },
+    {
+      "key": "q20040003_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20040003_00_979",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜ボルド小坑道＞で売れそうな物を探す（残り３）",
+      "source_en": "Retrieve the items within the Volden Narrow Tunnels (3 left)",
+      "text": "Such in den Kleinen Volden-Stollen nach verkäuflichen Waren (noch 3)."
+    },
+    {
+      "key": "q20040003_00_980",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜ボルド小坑道＞で売れそうな物を探す（残り２）",
+      "source_en": "Retrieve the items within the Volden Narrow Tunnels (2 left)",
+      "text": "Such in den Kleinen Volden-Stollen nach verkäuflichen Waren (noch 2)."
+    },
+    {
+      "key": "q20040003_00_981",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜ボルド小坑道＞で売れそうな物を探す（残り１）",
+      "source_en": "Retrieve the items within the Volden Narrow Tunnels (1 left)",
+      "text": "Such in den Kleinen Volden-Stollen nach verkäuflichen Waren (noch 1)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

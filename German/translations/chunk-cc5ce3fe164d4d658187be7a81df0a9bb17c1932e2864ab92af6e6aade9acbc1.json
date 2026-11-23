@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20025009_00.gmd",
+  "arc_path": "\\quest\\q20025009.arc",
+  "entries": [
+    {
+      "key": "q20025009_00_94",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "闇夜に舞う鷹",
+      "source_en": "A Whirling Hawk on a Dark Night",
+      "text": "Der Falke in der finsteren Nacht"
+    },
+    {
+      "key": "q20025009_00_94",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【 敵出現：夜 】</COL>\r\n遭遇した敵を討伐する",
+      "source_en": "<COL ffdc78>[Enemy appears at night]</COL>\r\nDefeat the enemies encountered",
+      "text": "<COL ffdc78>[Feinde erscheinen nachts]</COL>\r\nBesiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20025009_00_94",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>では、夜になると現れる\r\n危険な存在により住民が脅かされているらしい",
+      "source_en": "In the <NAME AREA>, \r\nit seems that the residents are being threatened \r\nby a dangerous presence that appears at night.",
+      "text": "Die Bewohner der Gegend um <NAME AREA>\r\nwerden offenbar von einem gefährlichen Wesen bedroht,\r\ndas nachts auftaucht."
+    },
+    {
+      "key": "q20025009_00_94",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【 敵出現：夜 】</COL>\r\n夜中に家の近くに怪しい影が横切ったと言って\r\n兄が出て行ったきり、帰ってきません\r\nもうずいぶんになります――\r\n兄は騎士見習いをしていて腕に自信があるはず\r\nだったのですが――あぁ、止めるべきでした！",
+      "source_en": "<COL ffdc78>[Enemy appears during: Night]</COL>\r\nMy brother went out after saying that he saw a \r\nsuspicious shadow near our house at night, \r\nand he hasn't returned. It's been a while... \r\n\r\nMy brother is an aspiring knight and he has \r\nconfidence in his skills... \r\n\r\nAh, I should have stopped him!",
+      "text": "<COL ffdc78>[Feinde erscheinen nachts]</COL>\r\nMein Bruder hat erzählt, er hätte nachts\r\neinen seltsamen Schatten in der Nähe unseres Hauses gesehen.\r\nDann ist er losgegangen. Das ist schon eine ganze Weile her.\r\n\r\nEr möchte Ritter werden\r\nund ist sich seiner Sache immer so sicher …\r\n\r\nAch, ich hätte ihn aufhalten sollen!"
+    },
+    {
+      "key": "q20025009_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

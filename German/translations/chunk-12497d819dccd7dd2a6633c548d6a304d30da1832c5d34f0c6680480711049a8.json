@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q20010006.gmd",
+  "arc_path": "\\quest\\q20010006.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "「高価そうな漂流物」を発見した",
+      "source_en": "\"Possibly Valuable Flotsam\" found.",
+      "text": "„Wertvoll aussehendes Strandgut“ gefunden."
+    },
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "「ボロボロの漂流物」を発見した",
+      "source_en": "\"Tattered Flotsam\" found.",
+      "text": "„Zerfetztes Strandgut“ gefunden."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "「見た事も無い漂流物」を発見した",
+      "source_en": "\"Unfamiliar Flotsam\" found.",
+      "text": "„Unbekanntes Strandgut“ gefunden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

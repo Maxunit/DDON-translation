@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60205000_00.gmd",
+  "arc_path": "\\quest\\q60205000.arc",
+  "entries": [
+    {
+      "key": "q60205000_00_112",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ダウ渓谷　試練：石呪の木立",
+      "source_en": "DV Trial: The Cursed Grove",
+      "text": "Prüfung im Dowe-Tal – Der verfluchte Hain"
+    },
+    {
+      "key": "q60205000_00_112",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ダウ渓谷の問題解決のため\r\nカタコンベ周辺を調査し\r\n危険な魔物を討伐する",
+      "source_en": "To resolve the issue in the Dowe Valley,\r\ninvestigate the area around the Catacombs\r\nand defeat the dangerous monsters.",
+      "text": "Hilf den Bewohnern des Dowe-Tals.\r\nUntersuche die Gegend um die Katakomben von Dowe\r\nund besiege die gefährlichen Monster."
+    },
+    {
+      "key": "q60205000_00_1815",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ジンゲン村のヘイデンに報告する",
+      "source_en": "Report to Hayden in Jingen village",
+      "text": "Erstatte Hayden in Jingen Bericht."
+    },
+    {
+      "key": "q60205000_00_1816",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "カタコンベの周りを調査し危険な魔物を捜索する",
+      "source_en": "Investigate the area around the catacombs and search for dangerous monsters",
+      "text": "Untersuche die Umgebung der Katakomben von Dowe und such nach den gefährlichen Monstern."
+    },
+    {
+      "key": "q60205000_00_1817",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "危険な魔物を討伐する",
+      "source_en": "Defeat the dangerous demons",
+      "text": "Besiege die gefährlichen Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

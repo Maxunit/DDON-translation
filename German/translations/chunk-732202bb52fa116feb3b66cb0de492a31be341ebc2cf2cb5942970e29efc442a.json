@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20040008_00.gmd",
+  "arc_path": "\\quest\\q20040008.arc",
+  "entries": [
+    {
+      "key": "q20040008_00_249",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ボルド毒泉調査",
+      "source_en": "Volden Poisonous Springs Investigation",
+      "text": "Die giftigen Quellen von Volden"
+    },
+    {
+      "key": "q20040008_00_249",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n該当場所を調査し物品を収集する",
+      "source_en": "Listen to the client's request and collect items within the designated location.",
+      "text": "Hör dir die Bitte des Auftraggebers an und sammle Proben am angegebenen Ort."
+    },
+    {
+      "key": "q20040008_00_249",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>から\r\n悩みを解決したいという相談の声が届いている",
+      "source_en": "Voices from <NAME AREA>\r\nhave reached us, seeking assistance to solve their problems.",
+      "text": "Aus der Gegend um <NAME AREA>\r\nsind Hilfegesuche eingegangen."
+    },
+    {
+      "key": "q20040008_00_249",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "覚者全員に通達がある\r\nボルド鉱山で周期的に発生している毒沼の範囲が\r\n著しい拡大傾向にある\r\n現場を通行の際は充分に気をつけるように\r\nまた原因解決への協力要請があれば、積極的に\r\n応えるように",
+      "source_en": "To all Arisen:\r\nThe toxic swamp at Volden Mines is\r\nexpanding rapidly. Be careful when\r\ntraveling through the area.\r\nIf there's a request for help with\r\nresolving the issue, please assist actively.",
+      "text": "An alle Erweckten.\r\nDie giftigen Tümpel, die in den Volden-Minen\r\nimmer wieder auftreten, breiten sich rasch aus.\r\nSeid auf dem Weg durch das Gebiet besonders vorsichtig.\r\nWenn man euch dort um Hilfe bittet,\r\nunterstützt bitte die Suche nach der Ursache."
+    },
+    {
+      "key": "q20040008_00_804",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20040008_00_991",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "汚染沼の周辺を調査する（残り３）",
+      "source_en": "Investigate the polluted spring (3 left)",
+      "text": "Untersuche die Umgebung des verseuchten Tümpels (noch 3)."
+    },
+    {
+      "key": "q20040008_00_1045",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "襲いかかる敵を討伐する",
+      "source_en": "Defeat the attacking enemy",
+      "text": "Besiege den angreifenden Feind."
+    },
+    {
+      "key": "q20040008_00_1129",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "汚染沼の周辺を調査する（残り２）",
+      "source_en": "Investigate the polluted spring (2 left)",
+      "text": "Untersuche die Umgebung des verseuchten Tümpels (noch 2)."
+    },
+    {
+      "key": "q20040008_00_1130",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "汚染沼の周辺を調査する（残り１）",
+      "source_en": "Investigate the polluted spring (1 left)",
+      "text": "Untersuche die Umgebung des verseuchten Tümpels (noch 1)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

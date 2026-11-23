@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20070001_00.gmd",
+  "arc_path": "\\quest\\q20070001.arc",
+  "entries": [
+    {
+      "key": "q20070001_00_164",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "妖しき秘薬",
+      "source_en": "A Dubious Remedy",
+      "text": "Ein zweifelhaftes Elixier"
+    },
+    {
+      "key": "q20070001_00_164",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n望む物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund sammle die gesuchten Gegenstände."
+    },
+    {
+      "key": "q20070001_00_164",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>の何処かに\r\n覚者の探索能力を見込み、相談したい者がいるという",
+      "source_en": "There is someone somewhere in <NAME AREA>\r\nwho seeks the assistance of an Arisen.",
+      "text": "Irgendwo in der Gegend um <NAME AREA>\r\nsucht jemand einen Erweckten, der sich aufs Aufspüren von Gegenständen versteht."
+    },
+    {
+      "key": "q20070001_00_164",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "このあたりの墓地にはよ\r\n昔の時代に作られた、隠された秘宝が眠っている\r\nという、まことしやかな噂だが\r\nま、大体はガラクタなんだよな\r\nそういや、さっきもそんな噂を当てにしてきた\r\n胡散臭い男を見かけたな",
+      "source_en": "There are rumors that hidden treasures from \r\nancient times lie buried in \r\nthe graveyard around here.\r\nBut mostly, they're just old junk.\r\nCome to think of it, I did see a shady guy earlier\r\nwho seemed to be after such rumors.",
+      "text": "Hier auf dem Friedhof sollen\r\nverborgene Schätze\r\naus grauer Vorzeit liegen.\r\nDas Gerücht klingt immer so überzeugend, und dann ist es doch meistens Gerümpel.\r\nVorhin hab ich so einen windigen Kerl gesehen,\r\nder deswegen wohl hergekommen ist."
+    },
+    {
+      "key": "q20070001_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20070001_00_806",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20070001_00_1024",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜地下納骨堂＞に隠された品を探す",
+      "source_en": "Search for the treasure hidden within the Underground Crypt",
+      "text": "Such den verborgenen Schatz im Unterirdischen Beinhaus."
+    },
+    {
+      "key": "q20070001_00_1024",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜地下納骨堂＞に隠された品を探す",
+      "source_en": "Search for the treasure hidden within the Underground Crypt",
+      "text": "Such den verborgenen Schatz im Unterirdischen Beinhaus."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

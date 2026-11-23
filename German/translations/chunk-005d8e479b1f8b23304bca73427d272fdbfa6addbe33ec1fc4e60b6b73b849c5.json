@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000103_00.gmd",
+  "arc_path": "\\quest\\q90000103.arc",
+  "entries": [
+    {
+      "key": "q90000103_00_34",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "防衛戦ごくろうだった！\r\n諸君らの活躍により敵軍は退却、沈静化した\r\n現在戦果報酬を確認中だ、しばし待つがいい",
+      "source_en": "The defense battle was a tough one!\r\nThanks to everyone's efforts, the enemy forces have retreated and the situation has calmed down.\r\nWe are currently in the process of confirming the battle results and rewards. Please wait for a moment.",
+      "text": "Gut gekämpft!\r\nDank eures Einsatzes hat sich der Feind zurückgezogen, und die Lage hat sich beruhigt.\r\nWir werten die Schlacht noch aus. Habt bitte etwas Geduld."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

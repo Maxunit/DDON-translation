@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20075008_00.gmd",
+  "arc_path": "\\quest\\q20075008.arc",
+  "entries": [
+    {
+      "key": "q20075008_00_308",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "戦鬼将のベルトを求めて",
+      "source_en": "Seeking Demon Commander's Belt",
+      "text": "Auf der Suche nach dem Gürtel des Kriegsdämonenfürsten"
+    },
+    {
+      "key": "q20075008_00_308",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n力を貸す",
+      "source_en": "Listen to the requester's wishes\r\nand lend your aid",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund hilf ihm."
+    },
+    {
+      "key": "q20075008_00_308",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from <NAME AREA>, \r\nenemy forces have temporarily increased, \r\nand the situation is quite dangerous.",
+      "text": "Berichten aus der Gegend um <NAME AREA> zufolge\r\nsind dort zeitweise mehr Monster unterwegs als sonst.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q20075008_00_308",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "オークどもめ、どうも近頃水面下でなにやら\r\n企んでいるようだが、その実態はまだ掴めて\r\nいない。これは直接《ガルドノック砦》へ向かい\r\nことの次第を明らかにしなければならないだろう\r\n背後にあの最も臭い奴――総大将モゴックが\r\n絡んでいる可能性も否定できないからな",
+      "source_en": "It seems that the orc bastards have been scheming \r\nsomething under the surface lately, but the true \r\nnature of their plot is still unknown. \r\nWe must directly head to Gardnox Fortress to \r\nuncover the details. \r\nThere is also a possibility that the foul \r\nstinking bastard―Supreme Commander Mogok―\r\nis involved.",
+      "text": "Diese verfluchten Orks führen seit einiger Zeit etwas im Schilde.\r\nWas genau sie vorhaben,\r\nwissen wir aber noch nicht.\r\nWir müssen in Festung Gardnox selbst nachsehen,\r\num dem auf den Grund zu gehen.\r\nEs könnte sein, dass der übelste von ihnen\r\ndahintersteckt, der oberste Heerführer Mogok.\r\nDie Möglichkeit sollten wir ernst nehmen."
+    },
+    {
+      "key": "q20075008_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20075008_00_804",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20075008_00_1150",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "邪悪な魔物を討伐する",
+      "source_en": "Defeat the foe(s)",
+      "text": "Besiege das bösartige Monster."
+    },
+    {
+      "key": "q20075008_00_1152",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "邪悪の根源である敵を討伐する",
+      "source_en": "Defeat the enemy that is the source of evil",
+      "text": "Besiege den Feind, von dem die Bedrohung ausgeht."
+    },
+    {
+      "key": "q20075008_00_1157",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜ガルドノック砦＞で邪悪な気配の源を探る",
+      "source_en": "Investigate Gardnox Fortress for clues",
+      "text": "Finde heraus, woher die finstere Präsenz in Festung Gardnox kommt."
+    },
+    {
+      "key": "q20075008_00_1158",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "＜フロックヴァルト大橋＞でさらなる邪悪な気配の源を探る",
+      "source_en": "Investigate Flocwald Bridge",
+      "text": "Such an der Flocwald-Brücke nach der Quelle der weiteren Bedrohung."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

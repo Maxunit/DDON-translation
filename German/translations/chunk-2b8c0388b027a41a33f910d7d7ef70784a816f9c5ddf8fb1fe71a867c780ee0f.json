@@ -1,0 +1,88 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20045006_00.gmd",
+  "arc_path": "\\quest\\q20045006.arc",
+  "entries": [
+    {
+      "key": "q20045006_00_306",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "レーゼ・エクストラクトを求めて",
+      "source_en": "Seeking Riese Extract",
+      "text": "Auf der Suche nach Riese-Extrakt"
+    },
+    {
+      "key": "q20045006_00_306",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n力を貸す",
+      "source_en": "Listen to the requester's wishes\r\nand lend your aid",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund hilf ihm."
+    },
+    {
+      "key": "q20045006_00_306",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from <NAME AREA>, \r\nenemy forces have temporarily increased, \r\nand the situation is quite dangerous.",
+      "text": "Berichten aus der Gegend um <NAME AREA> zufolge\r\nsind dort zeitweise mehr Monster unterwegs als sonst.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q20045006_00_306",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "穴ぐらの連中が、どうも最近騒いでましてねぇ\r\nなんでも、ハイデルから来た魔物がどうとかで\r\nまともに話もできないんですよ\r\nそれとは別に、《南壁谷》も近頃なにやら不穏でね\r\nいやはや、ダウとの行き来がまた遮断されちゃあ\r\nたまりませんな",
+      "source_en": "The cave dwellers have been quite\r\nrowdy lately. They say something\r\nabout monsters coming from Hidell,\r\nso I can't even have a proper chat\r\nwith them. Besides that, the\r\nSouthern Wall Gorge has been uneasy\r\nrecently. It's really frustrating\r\nthat travel to and from Dowe has\r\nbeen cut off again.",
+      "text": "Die Höhlenbewohner machen in letzter Zeit\r\nordentlich Krach.\r\nIrgendwas von Monstern aus Hidell, sagen sie.\r\nMan kann kaum noch mit ihnen reden.\r\nUnd auch in der Südwandschlucht\r\ngeht es seit Kurzem unruhig zu.\r\nEs wäre wirklich ärgerlich,\r\nwenn der Weg ins Dowe-Tal\r\nschon wieder gesperrt würde."
+    },
+    {
+      "key": "q20045006_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20045006_00_804",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20045006_00_1150",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "邪悪な魔物を討伐する",
+      "source_en": "Defeat the foe(s)",
+      "text": "Besiege das bösartige Monster."
+    },
+    {
+      "key": "q20045006_00_1152",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "邪悪の根源である敵を討伐する",
+      "source_en": "Defeat the enemy that is the source of evil",
+      "text": "Besiege den Feind, von dem die Bedrohung ausgeht."
+    },
+    {
+      "key": "q20045006_00_1153",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜ハイデル地下霊廟＞で邪悪な気配の源を探る",
+      "source_en": "Investigate the source of the evil presence in the Hidell Catacombs",
+      "text": "Finde heraus, woher die finstere Präsenz in den Hidell-Katakomben kommt."
+    },
+    {
+      "key": "q20045006_00_1154",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "指定場所でさらなる邪悪な気配の源を探る",
+      "source_en": "Search for further sources of evil in designated locations",
+      "text": "Such am angegebenen Ort nach weiteren Quellen der finsteren Präsenz."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

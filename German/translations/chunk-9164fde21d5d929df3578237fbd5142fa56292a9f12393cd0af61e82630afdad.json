@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area2_spot_name.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "モルトバ灯台",
+      "source_en": "Moltova Lighthouse",
+      "text": "Leuchtturm von Moltova"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "小鬼の野営地",
+      "source_en": "Goblin Camp",
+      "text": "Goblinlager"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "廃村ルフロー",
+      "source_en": "Deserted Village of Ruflow",
+      "text": "Verlassenes Dorf Ruflow"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "青爪浜",
+      "source_en": "Blueclaw Beach",
+      "text": "Blaukrallenstrand"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "潮騒洞窟",
+      "source_en": "Roaring Tide Cave",
+      "text": "Brandungshöhle"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "腐臭の溜まり場",
+      "source_en": "Rancid Haunt",
+      "text": "Stinkender Unterschlupf"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "灯台下の古井戸",
+      "source_en": "Lighthouse Old Well",
+      "text": "Alter Brunnen am Leuchtturm"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "浜辺の地下保管庫",
+      "source_en": "Beachside Underground Stores",
+      "text": "Vorratskeller am Strand"
+    },
+    {
+      "key": "SPOT_NAME_",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "モルトバ遺跡",
+      "source_en": "Moltova Ruins",
+      "text": "Ruinen von Moltova"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

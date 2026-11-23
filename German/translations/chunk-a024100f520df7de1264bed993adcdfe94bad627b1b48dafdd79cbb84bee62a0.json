@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q90000118.gmd",
+  "arc_path": "\\quest\\q90000118.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "呪われた魔鳥を討ち払った\r\n引き続き呪われた敵を捜索せよ",
+      "source_en": "The Cursed Demon Bird has been defeated.\r\nContinue to search for the cursed enemy.",
+      "text": "Die verfluchten Dämonenvögel sind besiegt!\r\nSuch weiter nach den übrigen verfluchten Gegnern!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "呪われた巨鳥を討ち払った\r\n引き続き呪われた敵を捜索せよ",
+      "source_en": "The Cursed Large Bird is vanquished.\r\nLet's continue to search for the cursed enemy.",
+      "text": "Die verfluchten Riesenvögel sind besiegt!\r\nSuch weiter nach den übrigen verfluchten Gegnern!"
+    },
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "砦の各所に正体不明の敵が出現――！",
+      "source_en": "Unknown enemies have appeared in various parts of\r\nthe fort!",
+      "text": "Überall in der Festung\r\nsind unbekannte Gegner aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "霊体騎士群を討ち払った\r\n引き続き呪われた敵を捜索せよ",
+      "source_en": "Vanquished the group of Spectral Knight entities.\r\nContinue to search for the cursed enemies.",
+      "text": "Die Geisterritter sind besiegt!\r\nSuch weiter nach den übrigen verfluchten Gegnern!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

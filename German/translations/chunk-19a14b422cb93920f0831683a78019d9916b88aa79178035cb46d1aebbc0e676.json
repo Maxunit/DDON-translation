@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q40201007_00.gmd",
+  "arc_path": "\\quest\\q40201007.arc",
+  "entries": [
+    {
+      "key": "q40201007_00_347",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【週期要請】ボルド鉱山：治安維持討伐",
+      "source_en": "[Periodic Request] Volden Mines: Security Upkeep Dispatch",
+      "text": "[Wöchentlicher Auftrag] Volden-Minen – Sicherheit rund um Kinoza"
+    },
+    {
+      "key": "q40201007_00_347",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ここキノザに長期ご滞在の覚者様がた！\r\n<LQEM>にひどい目に遭わされたって方がいらっしゃいましてね\r\n客足が遠のく前に、本腰入れて何とかしたいわけです\r\nどうかご滞在中に<LQVA>匹ほど退治していただけませんか",
+      "source_en": "To those staying long-term in Kinoza! \r\nThere have been reports of severe trouble with \r\n<LQEM>. \r\nBefore it affects visitor numbers, \r\nwe want to address it properly. \r\nCould you defeat about <LQVA> of them \r\nduring your stay?",
+      "text": "An alle Erweckten, die länger in Kinoza bleiben.\r\nEs gab Meldungen über ernste Probleme\r\nmit <LQEM>.\r\nBevor die Gäste deswegen ausbleiben,\r\nmöchten wir der Sache ein Ende machen.\r\nKönntest du etwa <LQVA> von ihnen besiegen,\r\nsolange du hier bist?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000045_00.gmd",
+  "arc_path": "\\quest\\q21000045.arc",
+  "entries": [
+    {
+      "key": "q21000045_00_357",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【財宝の扉】暗晦に沈む想い",
+      "source_en": "[Door of Treasures] Dark and Depressing Thoughts",
+      "text": "[Schatztür] Was im Dunkeln zurückbleibt"
+    },
+    {
+      "key": "q21000045_00_357",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【危険区域クエスト】\r\nダンジョン内の危険区域へ繋がる扉の鍵を作り\r\n凶悪な魔物を討伐する",
+      "source_en": "[Dangerous Area Quest] Make a key to the\r\ndoor leading to the Dangerous Area in\r\nthe dungeon and defeat Brutal monsters.",
+      "text": "[Gefahrenzone]\r\nFertige einen Schlüssel für die Tür zur Gefahrenzone\r\nim Verlies an und besiege die gefährlichen Monster."
+    },
+    {
+      "key": "q21000045_00_357",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のダンジョン内部は、特別な\r\n鍵を持った者だけが入れる場所があるらしい",
+      "source_en": "Within the\r\n<NAME AREA>\r\ndungeon,\r\nthere is a place that only those who\r\npossess a special key can enter.",
+      "text": "In einem Verlies bei\r\n<NAME AREA>\r\ngibt es offenbar einen Bereich,\r\nden du nur betreten kannst,\r\nwenn du einen besonderen Schlüssel hast."
+    },
+    {
+      "key": "q21000045_00_357",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "もうずっと昔の話なんだけどさ\r\n俺には大切な仲間がいた\r\n毎日毎日、飽きもせず一緒に魔物を討伐して\r\nあの化け物と出会うまではな――\r\n身の丈にあった魔物だけ相手にしていればよかった\r\n今でもそんな後悔が、俺の胸をかすめるんだ",
+      "source_en": "This is a story from long ago,\r\nwhen I had a dear comrade.\r\nDay after day, we tirelessly hunted\r\nmonsters together until we met that\r\nbeast—\r\nwe should have only dealt with monsters\r\nthat matched our own strength.\r\nEven now, such regrets haunt my heart.",
+      "text": "Das ist lange her.\r\nIch hatte einen guten Freund.\r\nWir haben Tag für Tag zusammen Monster gejagt\r\nund sind dessen nie müde geworden.\r\nBis wir dieser Bestie begegnet sind …\r\nHätten wir uns bloß Gegner gesucht,\r\ndenen wir gewachsen waren.\r\nDas bereue ich bis heute."
+    },
+    {
+      "key": "q21000045_00_1170",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した凶悪な魔物を討伐する",
+      "source_en": "Defeat the encountered monstrosities",
+      "text": "Besiege die gefährlichen Monster, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20035005_00.gmd",
+  "arc_path": "\\quest\\q20035005.arc",
+  "entries": [
+    {
+      "key": "q20035005_00_105",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "騒乱のエイプ達",
+      "source_en": "The Apes of Mayhem",
+      "text": "Wilde Affen außer Rand und Band"
+    },
+    {
+      "key": "q20035005_00_105",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    },
+    {
+      "key": "q20035005_00_105",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "いま<NAME AREA>では\r\n不安をあおる物音が断続的に響いているらしい",
+      "source_en": "Currently, in the <NAME AREA>, \r\nthere are intermittent unsettling noises that \r\nseem to be causing anxiety.",
+      "text": "Aus der Gegend um <NAME AREA>\r\nwerden unheimliche Geräusche gemeldet,\r\ndie immer wieder zu hören sind."
+    },
+    {
+      "key": "q20035005_00_105",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "赤ん坊が泣きやまないの\r\nこれはただの夜泣きじゃない、何かの気配に\r\n怯えてるのよ\r\nこの子がお腹にいるときもそうだった\r\n近くに魔物がいると暴れて――\r\nなんてかわいそうな子！",
+      "source_en": "The baby won't stop crying.\r\nThis isn't just night crying; it's afraid of\r\nsomething. It was the same when I was pregnant.\r\nWhen there were monsters nearby, the baby would\r\nwrithe around. What a poor child!",
+      "text": "Das Baby hört gar nicht auf zu weinen. Sonst weint es nachts anders.\r\nEs hat vor irgendwas Angst.\r\nDas war schon so, als ich es im Bauch hatte.\r\nWenn Monster in der Nähe waren, ist es ganz wild geworden.\r\nMein armes Kind!"
+    },
+    {
+      "key": "q20035005_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die angetroffenen Feinde."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

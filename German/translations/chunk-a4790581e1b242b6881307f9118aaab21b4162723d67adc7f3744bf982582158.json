@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000065_00.gmd",
+  "arc_path": "\\quest\\q21000065.arc",
+  "entries": [
+    {
+      "key": "q21000065_00_384",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【宝飾の扉】無鉄砲もいいところ",
+      "source_en": "[Door of Jewelry] Recklessness",
+      "text": "[Schmucktür] Kopfüber ins Verderben"
+    },
+    {
+      "key": "q21000065_00_384",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【危険区域クエスト】\r\nダンジョン内の危険区域へ繋がる扉の鍵を作り\r\n凶悪な魔物を討伐する",
+      "source_en": "[Dangerous Area Quest] Make a key to the\r\ndoor leading to the Dangerous Area in\r\nthe dungeon and defeat Brutal monsters.",
+      "text": "[Gefahrenzone]\r\nFertige einen Schlüssel für die Tür zur Gefahrenzone\r\nim Verlies an und besiege die gefährlichen Monster."
+    },
+    {
+      "key": "q21000065_00_384",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のダンジョン内部は、特別な\r\n鍵を持った者だけが入れる場所があるらしい",
+      "source_en": "Within the\r\n<NAME AREA>\r\ndungeon,\r\nthere is a place that only those who\r\npossess a special key can enter.",
+      "text": "In einem Verlies bei\r\n<NAME AREA>\r\ngibt es offenbar einen Bereich,\r\nden du nur betreten kannst,\r\nwenn du einen besonderen Schlüssel hast."
+    },
+    {
+      "key": "q21000065_00_384",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "無茶な人っているもんだねぇ――\r\n枯れ井戸の中に魔物がいるって言ったら\r\n何の準備もしないで飛び込んでいってねえ\r\n今頃、魔物のエサにでもなってんじゃないかねえ",
+      "source_en": "There are some reckless people out\r\nthere—\r\nwhen I said there were monsters in the\r\ndry well, they jumped right in without a\r\nsecond thought. They're probably monster\r\nfood by now, don't you think?",
+      "text": "Manche Leute sind wirklich leichtsinnig.\r\nIch habe erzählt, im trockenen Brunnen\r\nseien Monster.\r\nDa sind sie ohne jede Vorbereitung\r\nhineingesprungen.\r\nInzwischen sind sie wahrscheinlich längst Monsterfutter."
+    },
+    {
+      "key": "q21000065_00_1171",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000065_00_1172",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たに現れた魔物を即時討伐して報酬を獲得",
+      "source_en": "Get rewards by instantly defeating newly appearing monsters",
+      "text": "Besiege neu auftauchende Monster sofort, um eine Belohnung zu erhalten."
+    },
+    {
+      "key": "q21000065_00_1173",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物を討伐する",
+      "source_en": "Defeat the remaining foe(s)",
+      "text": "Besiege die verbliebenen Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

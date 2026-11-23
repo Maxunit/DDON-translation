@@ -1,0 +1,136 @@
+{
+  "gmd_path": "ui\\00_message\\master\\area4_spot_info.gmd",
+  "arc_path": "\\ui\\uGUIAreaMaster.arc",
+  "entries": [
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "最大標高を誇るボルド山を主とした山岳地帯\r\n鉱石の名産地であり、古くから採掘師と武具職人\r\nにとっては中心地だった。さらに、現在活動\r\nは見られないもののボルド山は火山であり、温泉や\r\n毒を含んだ液体なども多く噴出する",
+      "source_en": "A mountainous region centered around\r\nMount Volden, which boasts the highest peak.\r\nA rich mining site and a central location\r\nfor miners and blacksmiths since ancient times.\r\nAlthough currently inactive, Mount Volden\r\noften erupts a variety of substances,\r\nfrom heated, mineral-rich groundwater,\r\nto toxic sulfrous ooze.",
+      "text": "Ein Gebirge rund um den Volden,\r\nder seine Nachbarn an Höhe überragt.\r\nDie reichen Erzvorkommen ziehen seit jeher\r\nBergleute und Waffenschmiede an.\r\nZurzeit ruht der Vulkan Volden,\r\ndoch immer wieder dringen Stoffe aus ihm hervor,\r\nvon heißem, mineralreichem Wasser\r\nbis zu giftigem Schwefelschlamm."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ボルド鉱山ふもとに広がる温泉町\r\n湯あみ場《キノザ鉱泉》を中心に、古くから採掘者や\r\n武具職人になじみの強い地として有名だった\r\n近年鉱山に強力な魔物が出現したことで、\r\n坑道の開発に支障をきたすようになった",
+      "source_en": "A hot spring town at the foot of Volden Mines.\r\nIt is famous for its strong connection to miners\r\nand weapon craftsmen from ancient times.\r\nIn recent years, powerful enemies have\r\nappeared in the mines, disrupting their trade.\r\nThe heart of this town is Kinoza Mineral Springs,\r\nwhere people come to soak and relax.",
+      "text": "Eine Stadt am Fuß der Volden-Minen,\r\ndie sich rund um ihre Thermalquellen entwickelt hat.\r\nSeit alter Zeit gehen hier Bergleute und Waffenschmiede ein und aus.\r\nIm Mittelpunkt steht die Therme von Kinoza.\r\nIn den letzten Jahren sind mächtige Monster\r\nin den Stollen aufgetaucht.\r\nSeitdem kommen die Arbeiten in den Minen kaum voran."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "鉱山の町キノザを象徴する大温泉\r\n労働者から富裕層まで男女問わず広く愛される\r\nレスタニア随一の保養地である。３種ある浴室は\r\nそれぞれ内装や泉質が異なり、誰もが一度は\r\n最高級の湯を夢見る",
+      "source_en": "The great hot spring that embodies\r\nthe mining town of Kinoza is considered\r\nthe finest resort in Lestania.\r\nIt is loved by all, from laborers to the wealthy.\r\nThere are three types of baths, which differ\r\nin adornment and the quality of the water.\r\nEveryone dreams of experiencing\r\nthe highest quality hot spring at least once.",
+      "text": "Die Therme ist das Wahrzeichen der Bergbaustadt Kinoza\r\nund der beliebteste Erholungsort in Lestania.\r\nWer im Bergwerk schuftet, badet hier ebenso gern\r\nwie die reichen Leute.\r\nDie Therme hat drei verschiedene Bäder,\r\ndie sich in Ausstattung und Wasserqualität unterscheiden.\r\nAlle träumen davon,\r\nwenigstens einmal das beste Bad zu erleben."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "自然洞窟を利用したゴブリン族のねぐら\r\n《貪欲のギルスタン》を王とし、多くのゴブリンが\r\n洞穴に出入りしている。王の蒐集癖のせいか\r\n生き残りのためか、洞穴に住まうゴブリン達は\r\n人間との対立を避けているようだ",
+      "source_en": "Goblin tribe's lair, utilizing a natural cave.\r\nGilstan, the King of Greed, leads them.\r\nMany goblins come and go from the cave.\r\nPerhaps due to the king's hoarding habit\r\nor for the sake of survival, the goblins dwelling\r\nwithin seem to avoid confrontation with humans.",
+      "text": "In dieser natürlichen Höhle\r\nhausen die Goblins unter ihrem König, Gilstan dem Gierigen.\r\nSie gehen hier in großer Zahl ein und aus.\r\nVielleicht liegt es an der Sammelleidenschaft ihres Königs,\r\nvielleicht wollen sie auch einfach nur überleben.\r\nJedenfalls scheinen sie Streit mit Menschen zu meiden."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ボルド鉱山とダウ渓谷の境には、南壁谷と\r\n呼ばれる谷道があるが、その中ほどにあるのが\r\n《南壁のひび》と呼ばれる洞窟である。採掘に\r\n出向いた者がことごとく戻らなかったことから\r\nキノザにより入り口は閉ざされた",
+      "source_en": "Southern Wall Gorge, on the border\r\nbetween Volden Mines and Dowe Valley.\r\nIn the middle of that gorge is a cave\r\nknown as the Southern Wall Fissure.\r\nThose who brave its depths to mine its quarry\r\nhave never returned, leading to its closure.",
+      "text": "Die Südwandschlucht trennt\r\ndie Volden-Minen vom Dowe-Tal.\r\nAuf halbem Weg liegt die Höhle,\r\ndie man den Spalt in der Südwand nennt.\r\nWeil keiner der Bergleute zurückkehrte, die dort Erz abbauen wollten,\r\nließ die Gilde von Kinoza den Zugang sperren."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "レスタニア最大鉱山、中腹の坑道\r\n最盛期には百人とも言われる鉱員が採掘に勤しん\r\nでいたが、崩落と巨人の出現により閉山されて\r\nいた。それでも良質鉱石の産地であることに\r\n変わりなく、再開発を望む声は多い",
+      "source_en": "Lestania's largest mine, the tunnel\r\non the mountainside. During its heyday,\r\nit was said that about a hundred miners\r\nworked diligently in the excavation.\r\nHowever, due to cave-ins and the appearance \r\nof encroaching Giants, it was closed down.\r\nNevertheless, it remains a steady source\r\nof high-quality ore, and there are many\r\nwho hope for its redevelopment.",
+      "text": "Diese Stollen am Berghang bilden\r\ndas größte Bergwerk Lestanias.\r\nZu seinen besten Zeiten sollen hier\r\nan die hundert Bergleute gearbeitet haben.\r\nDann stürzten Gänge ein,\r\nund Riesen tauchten auf.\r\nDas Bergwerk wurde geschlossen.\r\nWeil sich hier aber gutes Erz abbauen lässt,\r\nhoffen viele auf die Wiedereröffnung."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "ボルド小坑道へ続く山道。坑道に住む強力な\r\nオーガ《坑道荒らし》の返り討ちに合い、派遣された\r\n騎士団の骸が残されていることから、そう呼ばれて\r\nいる。小坑道は採掘がまだ可能だが、現在は\r\n近づく鉱員はほとんどいない",
+      "source_en": "The mountain path continues towards\r\nthe Volden Narrow Tunnels.\r\nIt is called so because the remains of a knight\r\nfrom the old order were left behind after being\r\ndefeated by the powerful Ogre, \"Tunnel Thief,\"\r\nwho so aptly resides there. Although mining\r\nis still possible in the narrow tunnels,\r\nfew miners are so foolhardy.",
+      "text": "Dieser Bergpfad führt zu den Kleinen Volden-Stollen.\r\nDie Garde hatte einst Ritter gegen den Oger\r\nausgesandt, der in den Stollen haust.\r\nEr ist als Stollenräuber bekannt.\r\nDie Ritter fielen im Kampf.\r\nIhre Gebeine liegen noch am Pfad und gaben dem Schlachtfeld seinen Namen.\r\nAuch heute ließe sich in den Kleinen Volden-Stollen noch Erz abbauen,\r\ndoch kaum ein Bergmann traut sich hinein."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ボルドの野盗、ムジナ団がアジトにする廃坑道\r\n長らく封鎖されていたものの、鍵が破壊された\r\nらしく再び盗賊の活動が活発化してきた\r\n身ぐるみ剥がされる覚悟がなければ\r\n近づかない方がよいだろう",
+      "source_en": "Volden's bandits, the Badger Gang,\r\nhas made an abandoned mine their hideout.\r\nSealed long ago, the lock was recently broken.\r\nIt seems that the activities of the thieves have\r\nonce again intensified. Pray, give a wide berth,\r\nlest ye lose all ye own.",
+      "text": "Die Dachsbande, eine Gruppe von Banditen aus Volden,\r\nnutzt diesen verlassenen Stollen als Versteck.\r\nDer Zugang war lange versiegelt.\r\nDoch das Schloss wurde offenbar aufgebrochen,\r\nund die Banditen sind wieder unterwegs.\r\nWer sein Hab und Gut behalten will, bleibt dem Versteck fern."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "山頂の小堂が無人化して後、グリフィンが居付き\r\n巣を作ってしまった。そこには、レスタニア各地から\r\n巨鷲の「目に適ったモノ」が集められており、その\r\n多くは人力では撤去できないが、主の不在を狙えば\r\n思わぬ宝物が手に入る――かもしれない",
+      "source_en": "After the summit chapel became unmanned,\r\na Griffin settled in and made its nest there.\r\nThe nest is littered with a wealth of baubles\r\nwhose glint caught the Griffin's eye.\r\nMany of these items are too large to be quickly\r\ncarried off, but in the owner's absence,\r\none could possibly obtain a smaller trinket.",
+      "text": "Seit die Gipfelkapelle verlassen ist,\r\nhat sich dort ein Greif eingenistet.\r\nAus ganz Lestania hat er zusammengetragen,\r\nwas ihm ins Auge fiel.\r\nVieles davon ist so groß, dass kein Mensch es wegtragen kann.\r\nDoch wer wartet, bis der Greif ausgeflogen ist,\r\nfindet vielleicht einen kleinen Schatz."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "《ボルド大坑道》の最奥、地層の硬さにより掘削が\r\n見送られた洞穴部。数々の問題を解決して再開発を\r\n行おうとした矢先、不気味な噂が流れて鉱員が\r\n逃げ出し、再び開発の手が中断されることとなった",
+      "source_en": "In the depths of the Volden Large Tunnels,\r\nmining was halted upon reaching bedrock.\r\nWhile in the process of finding new veins,\r\neerie rumors were spread and the miners fled,\r\nterminating all mining operations.",
+      "text": "Tief in den Volden-Stollen\r\nstießen die Bergleute auf so hartes Gestein, dass sie hier nicht weitergruben.\r\nAls man endlich nach neuen Erzadern suchen wollte,\r\nmachten unheimliche Gerüchte die Runde.\r\nDie Bergleute liefen davon, und die Arbeiten kamen erneut zum Erliegen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "キノザ近くに存在する元治水路\r\n今は治水路としての機能はなく、鉱毒が溜まる\r\n危険な場所になっている\r\n向かうなら、毒への備えが必要だろう",
+      "source_en": "Former flood control channel\r\nnear Kinoza has many obstacles.\r\nFormerly a drainage channel, \r\nit is now filled with toxic minerals.\r\nIf you plan to go there,\r\nbe amply prepared for poison.",
+      "text": "Dieser alte Kanal nahe Kinoza\r\ndiente einst dem Hochwasserschutz.\r\nHeute kann dort kein Wasser mehr richtig abfließen.\r\nStattdessen sammeln sich giftige Rückstände aus den Minen.\r\nWer hineingeht,\r\nsollte sich vor dem Gift schützen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "ボルド大坑道と同時期に開発された坑道\r\nここも以前は鉱員の出入りが多かったが\r\n人喰い鬼が出現するようになり寂れてしまった\r\nたびたび騎士団が派遣されているが\r\nいまだ退治完了の報告はない",
+      "source_en": "This tunnel was developed around\r\nthe same time as the Volden Large Tunnels.\r\nThe appearance of man-eating monsters\r\nhave put a halt to mining operations.\r\nThe Knights' Order has been dispatched to investigate, \r\nbut progress is slow and the work bitter.",
+      "text": "Diese Gänge wurden etwa zur selben Zeit\r\nwie die großen Volden-Stollen erschlossen.\r\nAuch hier arbeiteten einst viele Bergleute,\r\nbis sich menschenfressende Monster einnisteten.\r\nDie Weiße Garde hat mehrfach Trupps hineingeschickt,\r\ndoch die Monster wurden bis heute nicht vertrieben."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "周辺を荒らす悪鬼たちが群れる岩窟\r\nホボリックの小鬼達と対立するゴブリン集団\r\nのほか、凶悪な人喰い鬼もこの洞窟をねぐら\r\nにしている",
+      "source_en": "The evil monsters that freely rampage\r\nin the surrounding areas flock to the cavern.\r\nIn addition, there is a group of goblins\r\nin conflict with the Hobgoblins\r\nthat also make this cave their lair.\r\n\r\nBeware!",
+      "text": "In dieser Grotte sammeln sich die Monster,\r\ndie in der Umgebung ihr Unwesen treiben.\r\nAuch eine Goblinbande hat hier Unterschlupf gefunden.\r\nSie liegt mit den Goblins aus der Hobolic-Höhle im Streit.\r\nAußerdem hausen hier\r\nmenschenfressende Ungeheuer.\r\nSei auf der Hut!"
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "ボルド大坑道で採掘が盛んだった頃\r\n鉱員がダウ渓谷との連絡用に使っていた坑道\r\n使われなくなって久しいものの、南壁谷の\r\n道がなんらかの事情で塞がった場合は\r\n唯一の交通路となる",
+      "source_en": "During the time when mining was thriving\r\nin the Volden Large Tunnels,\r\nminers used this tunnel as a means\r\nof communication with Dowe Valley.\r\nAlthough it has been unused for a long time,\r\nit serves as the only passage if the \r\nSouthern Wall Gorge road becomes blocked\r\ndue to any circumstances.",
+      "text": "Als in den Volden-Stollen noch Erz abgebaut wurde,\r\nnahmen die Bergleute diesen Gang\r\nals Verbindung zum Dowe-Tal.\r\nLange hat ihn niemand mehr benutzt.\r\nWenn aber die Straße\r\ndurch die Südwandschlucht gesperrt ist,\r\ngibt es keinen anderen Weg\r\nins Tal."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "旧時代、各地に祭られた白竜の祭壇の一つ\r\nボルド鉱山の頂き近くにあり、キノザからもその\r\n姿を見ることができる。まだ参拝者もいるが\r\n巨鳥が近くに巣くってしまい、悩みの種と\r\nなっている",
+      "source_en": "In the past, White Dragon altars\r\nwere erected throughout the land.\r\nOne of them is located near the peak\r\nof Volden Mines, and can be seen\r\nfrom as far as Kinoza. There are still visitors,\r\nbut a giant bird has nested nearby recently,\r\ncausing much troubles and vexation.",
+      "text": "Einst errichtete man überall im Land\r\nAltäre zu Ehren des Weißen Drachen.\r\nDieser hier steht nahe dem Gipfel des Volden\r\nund ist selbst von Kinoza aus zu sehen.\r\nNoch immer kommen Menschen hierher,\r\num zu beten. Seit ein Riesenvogel in der Nähe nistet,\r\nbereitet der Weg den Pilgern allerdings Sorgen."
+    },
+    {
+      "key": "SPOT_INFO_",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "<COL ffdc78>【財宝】の扉あり</COL>\r\n《ボルド大坑道》の内部で発見された旧坑道\r\n地熱の影響で坑内の気温が非常に高くなることが\r\nあり、鉱員により早期に封鎖されていた\r\n内部で希少な鉱石が採れるのではと推測されている",
+      "source_en": "<COL ffdc78>[Treasure Door]</COL>\r\nInside the Volden Large Tunnels,\r\nan old tunnel was discovered.\r\nGeothermally active, the temperature inside\r\nthe tunnel is extremely high, and as a result\r\nit was sealed off by miners early on.\r\nMany speculate that rare minerals abound inside.",
+      "text": "<COL ffdc78>[Schatztür vorhanden]</COL>\r\nTief in den Volden-Stollen\r\nhat man einen alten Gang entdeckt.\r\nDie Hitze aus dem Erdinneren\r\nlässt die Temperaturen dort gefährlich steigen.\r\nDie Bergleute hatten den Gang deshalb früh gesperrt.\r\nMan vermutet, dass es dort seltene Erze gibt."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

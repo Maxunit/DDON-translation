@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000058_00.gmd",
+  "arc_path": "\\quest\\q21000058.arc",
+  "entries": [
+    {
+      "key": "q21000058_00_377",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "身近に潜みし魔",
+      "source_en": "Demon Close at Hand",
+      "text": "Das Monster unter dem Dorf"
+    },
+    {
+      "key": "q21000058_00_377",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest] Listen to the\r\nrequester's wish.\r\nDefeat the ferocious enemy without\r\nreviving even once.",
+      "text": "[Sieg ohne Wiederbelebung]\r\nHör dir die Bitte der Auftraggeberin an.\r\nBesiege den wilden Gegner,\r\nohne dich auch nur einmal wiederbeleben zu lassen."
+    },
+    {
+      "key": "q21000058_00_377",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the\r\n<NAME AREA>\r\nappears to be testing their skills in a\r\nbattle against an enemy.",
+      "text": "In der Gegend um\r\n<NAME AREA>\r\nversucht offenbar jemand,\r\nsich im Kampf gegen ein Monster zu beweisen."
+    },
+    {
+      "key": "q21000058_00_377",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "聞こえたんじゃ――不気味な魔物の声が\r\nアレは――村の地下からだったかのう\r\n周りに言っても、老いぼれの戯れ言だと\r\n誰も信じちゃくれんわい――\r\nそのうち、ひどい災厄が起きなければよいが――",
+      "source_en": "I heard it— the eerie voice of a\r\nmonster.\r\nIt was— from beneath the village, I\r\nbelieve.\r\nWhen I tell others, they just laugh and\r\nsay it's the ramblings of an old man— no\r\none will believe me. I just hope a\r\nterrible calamity doesn't strike\r\nus soon.",
+      "text": "Ich hab’s gehört,\r\ndas unheimliche Brüllen eines Monsters.\r\nEs kam, glaub ich,\r\nvon irgendwo unter dem Dorf.\r\nWenn ich’s den anderen erzähle, lachen sie bloß.\r\nDas sei das Geschwätz eines alten Mannes.\r\nMir glaubt ja keiner …\r\nHoffentlich passiert hier nicht bald\r\nein schreckliches Unglück."
+    },
+    {
+      "key": "q21000058_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Such am angegebenen Ort nach den wilden Monstern."
+    },
+    {
+      "key": "q21000058_00_1175",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monster, auf die du triffst."
+    },
+    {
+      "key": "q21000058_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte dem Auftraggeber, was du herausgefunden hast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

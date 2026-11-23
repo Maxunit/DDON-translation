@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\npc\\base\\n1900.gmd",
+  "arc_path": "\\npc\\n1900.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "おお、必要な品があれば\r\n分けてやるぞ",
+      "source_en": "Oh, if there is anything you need, I will\r\ngladly share it with you.",
+      "text": "Ah, wenn du was brauchst,\r\ngeb ich dir gern etwas ab."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "砦の資材集めもなかなか馬鹿にならん\r\n討伐任務もすぐに新しいのが来るしなぁ",
+      "source_en": "Gathering materials for the fortress is no\r\neasy task, I tell you.\r\nAnd the subjugation missions keep\r\ncoming one after another.",
+      "text": "Es ist ganz schön mühsam,\r\nBaumaterial für die Festung aufzutreiben.\r\nUnd kaum ist eine Jagd erledigt,\r\nkommt auch schon der nächste Auftrag rein."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "お前もできればグリッテン砦の\r\n《クエストボード》案件、手伝ってくれよ",
+      "source_en": "If you can, please help me with the quest on the\r\nQuest Board of Fort Gritten.",
+      "text": "Wenn du Zeit hast, übernimm doch einen Auftrag\r\nam Questboard von Festung Gritten."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "バートランド平原に行けるように\r\nなってたらな",
+      "source_en": "If I were able to go to the Betland Plains,\r\nthat would be great.",
+      "text": "Wenn ich doch nur\r\nin die Betland-Ebene dürfte."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "オークどもめ、こないだの砦攻めで\r\n盛大にあちこち壊しやがって",
+      "source_en": "Those orcs, during the fortress assault the other\r\nday, made a mess breaking things everywhere.",
+      "text": "Verdammte Orks!\r\nBei ihrem letzten Angriff haben sie hier so einiges zertrümmert."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ここが破られたらいよいよ奴らの思い通りだ\r\nま、俺たちがそうはさせないがな",
+      "source_en": "If this place is destroyed, they'll finally have\r\ntheir way. Well, we won't let that happen, though.",
+      "text": "Wenn sie hier durchbrechen, haben sie ihr Ziel erreicht.\r\nAber das werden wir zu verhindern wissen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

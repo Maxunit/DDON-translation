@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q15060001_00.gmd",
+  "arc_path": "\\quest\\q15060001.arc",
+  "entries": [
+    {
+      "key": "q15060001_00_17",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "Bランク　指定討伐：バートランド平原",
+      "source_en": "B Rank Target Subjugation: Betland Plains",
+      "text": "Gezielte Jagd (Rang B) – Betland-Ebene"
+    },
+    {
+      "key": "q15060001_00_5104",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "地域に潜む魔物を探す",
+      "source_en": "Search for the monsters lurking in the area",
+      "text": "Suche die Monster, die sich im Gebiet verbergen."
+    },
+    {
+      "key": "q15060001_00_5167",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "発見した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Gegner."
+    },
+    {
+      "key": "q15060001_00_5168",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "リサに報告する",
+      "source_en": "Report to Lisa",
+      "text": "Erstatte Lisa Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

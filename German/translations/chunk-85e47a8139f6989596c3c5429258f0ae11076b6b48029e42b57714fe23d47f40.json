@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q21000038.gmd",
+  "arc_path": "\\quest\\q21000038.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "パーティメンバーが死亡状態になりました。",
+      "source_en": "A party member has fallen.",
+      "text": "Ein Gruppenmitglied ist gefallen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者からの報酬が少なくなります。",
+      "source_en": "Rewards from the client will be decreased.",
+      "text": "Die Belohnung des Auftraggebers fällt geringer aus."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

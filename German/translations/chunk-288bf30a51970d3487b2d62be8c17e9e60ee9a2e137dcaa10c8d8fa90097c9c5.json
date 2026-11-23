@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60050002_00.gmd",
+  "arc_path": "\\quest\\q60050002.arc",
+  "entries": [
+    {
+      "key": "q60050002_00_62",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ダウ渓谷　試練：恐ろしの歌姫",
+      "source_en": "DV Trial: Fear's Songstress",
+      "text": "Prüfung im Dowe-Tal – Die Sängerin des Schreckens"
+    },
+    {
+      "key": "q60050002_00_62",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ダウ渓谷の問題解決のため\r\n崖の上に現れたスフィンクスを\r\n討伐する",
+      "source_en": "To solve the problem in Dowe Valley,\r\ndefeat the Sphinx that has appeared\r\non top of the cliff.",
+      "text": "Hilf den Bewohnern des Dowe-Tals.\r\nBesiege die Sphinx,\r\ndie oben auf der Klippe aufgetaucht ist."
+    },
+    {
+      "key": "q60050002_00_1409",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "歌姫の崖座に向い魔鳥を発見する",
+      "source_en": "Find the demonic bird at the Songstress' Cliff Perch",
+      "text": "Suche den Dämonenvogel am Felsen der Sängerin."
+    },
+    {
+      "key": "q60050002_00_1410",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "魔鳥、妖歌のローレライを討伐する",
+      "source_en": "Defeat the demon bird, Demon Songstress Lorelei",
+      "text": "Bezwinge Lorelei, die dämonische Sängerin."
+    },
+    {
+      "key": "q60050002_00_1411",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ジンゲン村のヘイデンに報告する",
+      "source_en": "Report to Hayden in Jingen village",
+      "text": "Erstatte Hayden in Jingen Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

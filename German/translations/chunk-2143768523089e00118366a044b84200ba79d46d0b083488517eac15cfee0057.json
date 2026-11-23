@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q21000046_00.gmd",
+  "arc_path": "\\quest\\q21000046.arc",
+  "entries": [
+    {
+      "key": "q21000046_00_358",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "遠方より想う",
+      "source_en": "A Yearning from a Distance",
+      "text": "Ein Gruß aus der Ferne"
+    },
+    {
+      "key": "q21000046_00_358",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【納品クエスト】\r\n依頼者の願いを聞き入れ\r\n指定された物資を集めてくる",
+      "source_en": "[Delivery Quest] Listen to the\r\nrequester's wishes and gather the\r\nspecified supplies.",
+      "text": "[Lieferquest]\r\nHör dir die Bitte des Auftraggebers an\r\nund besorg die verlangten Vorräte."
+    },
+    {
+      "key": "q21000046_00_358",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "物資を必要としている人物が\r\n<NAME AREA>から協力を求めている",
+      "source_en": "A person in need of supplies is seeking\r\nassistance in\r\n<NAME AREA>.",
+      "text": "Jemand braucht Nachschub und bittet um Hilfe,\r\nund zwar bei\r\n<NAME AREA>."
+    },
+    {
+      "key": "q21000046_00_358",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "キノザの温泉は極楽そのものだからね――\r\n束の間の逗留と言って足を運んで\r\nここに永住を決め込んでしまう人も少なくはない\r\nそうやってこの町が賑わっていけば\r\n僕としては一向に構わないのだけどね",
+      "source_en": "The hot springs in Kinoza are pure\r\nbliss—\r\nmany come for a brief stay,\r\nonly to decide to settle down here\r\npermanently. If this town thrives\r\nbecause of that, I have no issues\r\nwith it at all.",
+      "text": "Die heißen Quellen von Kinoza\r\nsind einfach himmlisch.\r\nViele kommen nur für ein paar Tage her\r\nund bleiben dann gleich\r\nfür immer. Wenn Kinoza dadurch\r\nnoch lebendiger wird,\r\nhab ich nichts dagegen."
+    },
+    {
+      "key": "q21000046_00_1179",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼先に届ける（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> × <SQDI NUM> zum Lieferort (noch benötigt: <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

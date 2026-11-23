@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20015004_00.gmd",
+  "arc_path": "\\quest\\q20015004.arc",
+  "entries": [
+    {
+      "key": "q20015004_00_285",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "海辺の怪奇",
+      "source_en": "A Seaside Mystery",
+      "text": "Unheimliche Küste"
+    },
+    {
+      "key": "q20015004_00_285",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die Gegner, auf die du triffst."
+    },
+    {
+      "key": "q20015004_00_285",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>は\r\nここ数日異様な気配に満ちているらしい",
+      "source_en": "<NAME AREA> \r\nseems to be filled with an unusual \r\natmosphere these past few days.",
+      "text": "In der Gegend um <NAME AREA>\r\nliegt seit ein paar Tagen\r\netwas Unheimliches in der Luft."
+    },
+    {
+      "key": "q20015004_00_285",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "新しい武器を手に入れたので、威力を確かめたいと\r\n手頃なエモノを探しているのだが――\r\nこういう時に限って現れないものだな\r\n魔物が頻出するという話を聞いて来てみたが\r\nなるほど気配だけは濃厚だ",
+      "source_en": "Since I obtained a new weapon, \r\nI want to test its power, so I'm looking for \r\na suitable target. \r\nHowever, it seems that they never appear when I \r\nneed them. I heard that there are frequent sightings of \r\nenemies, so I came to check it out. \r\n\r\nI see, the presence is indeed strong.",
+      "text": "Ich hab eine neue Waffe.\r\nIch suche ein passendes Ziel,\r\num sie auszuprobieren.\r\nAber wenn man mal ein Monster braucht, zeigt sich keins.\r\nHier sollen öfter welche gesichtet werden.\r\nDarum bin ich hergekommen.\r\n\r\nJa, hier liegt wirklich etwas in der Luft."
+    },
+    {
+      "key": "q20015004_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die Gegner, auf die du triffst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

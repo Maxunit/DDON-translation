@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20010002_00.gmd",
+  "arc_path": "\\quest\\q20010002.arc",
+  "entries": [
+    {
+      "key": "q20010002_00_32",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "神秘の滝に",
+      "source_en": "The Waterfall of Mystery",
+      "text": "Der geheimnisvolle Wasserfall"
+    },
+    {
+      "key": "q20010002_00_32",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n望む物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund sammle die gewünschten Gegenstände."
+    },
+    {
+      "key": "q20010002_00_32",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>に\r\n覚者に会って相談に乗ってほしい人物がいるという",
+      "source_en": "There is someone in <NAME AREA> \r\nwho wishes to meet an Arisen and seek their advice.",
+      "text": "Bei <NAME AREA>\r\nsucht jemand den Rat eines Erweckten."
+    },
+    {
+      "key": "q20010002_00_32",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ブリア海岸のあたり――だっかかな\r\n確かに、何か顔色の悪そうなやつがいたよ\r\n俺もこんな怪我してなけりゃ\r\n荷物運びや物探しくらいなら手伝えたかも知れないが\r\n――まあ、お互い運が無かったんだろうね",
+      "source_en": "Around the Breya Coast... \r\nI remember seeing someone who looked quite sickly. \r\nIf I wasn't injured like this, maybe I could have \r\nhelped with carrying luggage or \r\nsearching for items. \r\n\r\nWell, I guess neither of us had much luck.",
+      "text": "Irgendwo an der Breya-Küste …\r\nDa hab ich jemanden gesehen, der ziemlich blass aussah.\r\nOhne diese Verletzung hätte ich ihm vielleicht\r\nbeim Gepäcktragen helfen können oder\r\nbeim Suchen nach seinen Sachen.\r\n\r\nNa ja, da hatten wir wohl beide Pech."
+    },
+    {
+      "key": "q20010002_00_804",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q20010002_00_1085",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "潮騒洞窟内に落とした品を回収する（残り３）",
+      "source_en": "Retrieve the items dropped in the cave (3 left)",
+      "text": "Sammle die verlorenen Gegenstände in der Höhle ein (noch 3)."
+    },
+    {
+      "key": "q20010002_00_1086",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "潮騒洞窟内に落とした品を回収する（残り２）",
+      "source_en": "Retrieve the items dropped in the cave (2 left)",
+      "text": "Sammle die verlorenen Gegenstände in der Höhle ein (noch 2)."
+    },
+    {
+      "key": "q20010002_00_1087",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "潮騒洞窟内に落とした品を回収する（残り１）",
+      "source_en": "Retrieve the items dropped in the cave (1 left)",
+      "text": "Sammle die verlorenen Gegenstände in der Höhle ein (noch 1)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

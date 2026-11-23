@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60201000_00.gmd",
+  "arc_path": "\\quest\\q60201000.arc",
+  "entries": [
+    {
+      "key": "q60201000_00_106",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ハイデル平原　試練：湧き出ずる災い",
+      "source_en": "Hidell Plains Trial: A Gush of Misfortune",
+      "text": "Prüfung in der Hidell-Ebene – Unheil bricht hervor"
+    },
+    {
+      "key": "q60201000_00_106",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ハイデル平原の問題解決のため\r\n刃擦れの細道へ向かい\r\n脅威となる魔物を排除する",
+      "source_en": "In order to solve the Hidell Plains problem\r\nhead to the Blade-Scarred Path and\r\neliminate the monsters that pose a threat",
+      "text": "Hilf den Bewohnern der Hidell-Ebene.\r\nGeh zum Pfad der Klingenspuren\r\nund besiege die gefährlichen Monster."
+    },
+    {
+      "key": "q60201000_00_1794",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "テル村のアルフレドに報告する",
+      "source_en": "Report to Alfred in Tel village",
+      "text": "Erstatte Alfred in Tel Bericht."
+    },
+    {
+      "key": "q60201000_00_1795",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "刃擦れの細道へ向かい魔物の調査を行う",
+      "source_en": "Head to the Blade-Scarred Path to investigate monsters",
+      "text": "Geh zum Pfad der Klingenspuren und such nach den Monstern."
+    },
+    {
+      "key": "q60201000_00_1796",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威となる魔物を討伐する",
+      "source_en": "Defeat the demon threat",
+      "text": "Besiege die gefährlichen Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

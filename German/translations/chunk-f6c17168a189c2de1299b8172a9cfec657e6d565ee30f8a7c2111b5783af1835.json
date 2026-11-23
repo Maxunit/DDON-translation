@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q20045008.gmd",
+  "arc_path": "\\quest\\q20045008.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "小さな機械を発見した",
+      "source_en": "A small machine found.",
+      "text": "Kleine Maschine gefunden."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "黒い縁の眼鏡を手に入れた",
+      "source_en": "Black-rimmed glassed acquired.",
+      "text": "Schwarz gerahmte Brille erhalten."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "黒い短筒を手に入れた",
+      "source_en": "Black Hand Cannon acquired.",
+      "text": "Schwarze Handkanone erhalten."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "怪盗カードを発見した",
+      "source_en": "Thief card found.",
+      "text": "Meisterdiebkarte gefunden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

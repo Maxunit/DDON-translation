@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20010003_00.gmd",
+  "arc_path": "\\quest\\q20010003.arc",
+  "entries": [
+    {
+      "key": "q20010003_00_230",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "海の見張り手",
+      "source_en": "The Sea-Watcher's Hand",
+      "text": "Hilfe für den Leuchtturmwärter"
+    },
+    {
+      "key": "q20010003_00_230",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n物品を指定の場所に届ける",
+      "source_en": "Listen to the client's request\r\nand deliver the items to the designated location.",
+      "text": "Hör dir die Bitte der Auftraggeberin an\r\nund bring die Gegenstände zum angegebenen Ort."
+    },
+    {
+      "key": "q20010003_00_230",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>から\r\n何者かが助けを請うているらしいと報告があった",
+      "source_en": "From <NAME AREA>,\r\nThere are reports of someone who is begging for\r\nhelp",
+      "text": "Aus der Gegend um <NAME AREA>\r\nkam die Meldung, dass dort jemand\r\num Hilfe bittet."
+    },
+    {
+      "key": "q20010003_00_230",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "波の音を聞くと心が休まります\r\nこういう場所はひとりで独占したいものです\r\n頼みごとを抱えた人？\r\nいやいや、そんな人と関わるのはごめんですよ\r\nだから私は昨日、あのあたりに近づかなかったんです",
+      "source_en": "Hearing the sound of the waves soothes my soul. \r\nI prefer to enjoy places like this alone. \r\nSomeone with a request? \r\nNo, no, \r\nI'd rather avoid dealing with such people. \r\n\r\nThat's why I stayed away from that area yesterday.",
+      "text": "Das Rauschen der Wellen beruhigt mich.\r\nAn so einem Ort bin ich am liebsten allein.\r\nJemand mit einer Bitte?\r\nNein, nein,\r\nmit solchen Leuten will ich nichts zu tun haben.\r\n\r\nDarum bin ich gestern gar nicht erst dorthin gegangen."
+    },
+    {
+      "key": "q20010003_00_804",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte der Auftraggeberin Bericht."
+    },
+    {
+      "key": "q20010003_00_897",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "灯台守を訪ねる",
+      "source_en": "Visit the lighthouse keeper",
+      "text": "Suche den Leuchtturmwärter auf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

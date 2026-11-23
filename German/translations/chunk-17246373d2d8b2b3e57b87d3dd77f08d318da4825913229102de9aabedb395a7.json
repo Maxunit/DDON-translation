@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20040002_00.gmd",
+  "arc_path": "\\quest\\q20040002.arc",
+  "entries": [
+    {
+      "key": "q20040002_00_41",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "縄張り守備隊長",
+      "source_en": "A Territorial Dispute",
+      "text": "Ein Wachhauptmann für Gilstan"
+    },
+    {
+      "key": "q20040002_00_41",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ギルスタンの願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to Gilstan's wish and defeat the target enemy",
+      "text": "Hör dir Gilstans Bitte an und besiege die gesuchten Feinde."
+    },
+    {
+      "key": "q20040002_00_41",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの噂では\r\n腕に覚えのある者を、求める人物がいるそうだ",
+      "source_en": "According to rumors from \r\n<NAME AREA>,\r\nit seems that there is someone \r\nseeking skilled individuals.",
+      "text": "Gerüchten zufolge sucht jemand\r\nin der Gegend um <NAME AREA>\r\nnach Leuten,\r\ndie etwas auf dem Kasten haben."
+    },
+    {
+      "key": "q20040002_00_41",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "鉱山にはゴブリンどもが陣取っている洞窟がある\r\n普通の人間なら近付いても危険しかないが\r\n覚者なら彼らの長と話ができるかも知れない\r\n噂によれば、長はなかなかの知恵者で\r\n強い戦士との会話を楽しむこともあるらしい\r\n――とはいえ、試すには勇気がいる話だな",
+      "source_en": "There's a cave in the mines where goblins \r\nhave taken up residence.\r\nOrdinary people would find it too dangerous \r\nto approach, but a seasoned Arisen might be able \r\nto speak with their leader.\r\nRumor has it that the leader is quite wise and \r\nenjoys conversing with strong warriors. \r\n― Though it takes courage to attempt such a thing.",
+      "text": "In den Minen gibt es eine Höhle,\r\nin der sich Goblins eingenistet haben.\r\nGewöhnliche Menschen sollten sich fernhalten.\r\nEin erfahrener Erweckter könnte allerdings\r\nmit ihrem Anführer sprechen.\r\nEs heißt, er sei ziemlich gewitzt\r\nund unterhalte sich gern mit starken Kriegern.\r\nAber man braucht Mut, um das auszuprobieren."
+    },
+    {
+      "key": "q20040002_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte Gilstan Bericht."
+    },
+    {
+      "key": "q20040002_00_828",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した敵を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    },
+    {
+      "key": "q20040002_00_978",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "洞窟外の指定された敵を討伐する",
+      "source_en": "Defeat the designated enemy outside the cave",
+      "text": "Besiege die gesuchten Feinde vor der Höhle."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

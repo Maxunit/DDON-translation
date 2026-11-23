@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20040009_00.gmd",
+  "arc_path": "\\quest\\q20040009.arc",
+  "entries": [
+    {
+      "key": "q20040009_00_250",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "傷ついた名誉",
+      "source_en": "Wounded Honor",
+      "text": "Verwundete Ehre"
+    },
+    {
+      "key": "q20040009_00_250",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ゲルトの願いを聞き入れ\r\n捕らえられた騎士団員を救出する",
+      "source_en": "Listen to Gerd's request\r\nand rescue the captured Knight",
+      "text": "Hör dir Gerds Bitte an\r\nund befreie den gefangenen Ritter."
+    },
+    {
+      "key": "q20040009_00_250",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "何者かからの、迅速な救援を求める声が\r\n<NAME AREA>から届いているようだ",
+      "source_en": "It seems that a voice requesting swift assistance \r\nhas come from <NAME AREA>.",
+      "text": "Jemand hat offenbar um rasche Hilfe gebeten.\r\nDer Ruf kam aus der Gegend um <NAME AREA>."
+    },
+    {
+      "key": "q20040009_00_250",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "さっき鉱山から帰ってきたんだけど\r\nいまゲルト騎士団長はキノザに逗留しているんだね\r\n何か任務があったのかな？\r\n険しい顔はいつも通りだから、仕事か湯治かは\r\nよくわからなかったよ",
+      "source_en": "I just returned from the mine earlier.\r\nRight now, Captain Gerd of the Knights \r\nis staying in Kinoza, huh?\r\nI wonder if he had some kind of mission?\r\nHis solemn expression was as usual, so I couldn't \r\ntell if it was work or recovery.",
+      "text": "Ich bin gerade aus den Minen zurück.\r\nHauptmann Gerd hält sich doch gerade in Kinoza auf.\r\nHat er dort etwa einen Auftrag?\r\nEr hat so finster dreingeschaut wie immer.\r\nDa wusste ich nicht, ob er dienstlich da ist\r\noder bloß in die Therme wollte."
+    },
+    {
+      "key": "q20040009_00_920",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ゲルトに報告する",
+      "source_en": "Report to Gerd",
+      "text": "Erstatte Gerd Bericht."
+    },
+    {
+      "key": "q20040009_00_995",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜盗賊の隠れ家＞に捕まった騎士を捜す",
+      "source_en": "Search for the knights trapped within the Bandit Hideout",
+      "text": "Such im Versteck der Banditen nach dem gefangenen Ritter."
+    },
+    {
+      "key": "q20040009_00_996",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "指定された強敵を討伐する",
+      "source_en": "Defeat the designated formidable enemy",
+      "text": "Besiege den mächtigen Feind, auf den Gerd dich angesetzt hat."
+    },
+    {
+      "key": "q20040009_00_997",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "騎士に話しかける",
+      "source_en": "Speak with the knight",
+      "text": "Sprich mit dem Ritter."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

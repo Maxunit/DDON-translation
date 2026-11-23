@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q60050001_00.gmd",
+  "arc_path": "\\quest\\q60050001.arc",
+  "entries": [
+    {
+      "key": "q60050001_00_61",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ダウ渓谷　試練：鳴り響きしは――？",
+      "source_en": "DV Trial: Echoes",
+      "text": "Prüfung im Dowe-Tal – Das Lied aus der Höhle"
+    },
+    {
+      "key": "q60050001_00_61",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ダウ渓谷の問題解決のため\r\n風鳴り洞窟を調査し、響く歌の正体を\r\n突きとめる",
+      "source_en": "To solve the problems in Dowe Valley,\r\ninvestigate the Windhowl Cave and uncover\r\nthe true nature of the echoing song.",
+      "text": "Hilf den Bewohnern des Dowe-Tals.\r\nUntersuche die Windheulhöhle\r\nund finde heraus, woher das Lied kommt."
+    },
+    {
+      "key": "q60050001_00_1406",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "風鳴り洞窟へ向かい歌の正体を確認する",
+      "source_en": "Head towards the Windhowl Cave to confirm the true nature of the song",
+      "text": "Geh zur Windheulhöhle und finde heraus, woher das Lied kommt."
+    },
+    {
+      "key": "q60050001_00_1407",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "歌の正体である敵を討伐する",
+      "source_en": "Defeat the the enemy who is the origin of the song",
+      "text": "Besiege den Feind, von dem das Lied ausgeht."
+    },
+    {
+      "key": "q60050001_00_1408",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ジンゲン村のヘイデンに報告する",
+      "source_en": "Report to Hayden in Jingen village",
+      "text": "Erstatte Hayden in Jingen Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

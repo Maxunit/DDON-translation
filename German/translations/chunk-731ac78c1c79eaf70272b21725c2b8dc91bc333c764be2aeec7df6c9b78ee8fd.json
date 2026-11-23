@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20070002_00.gmd",
+  "arc_path": "\\quest\\q20070002.arc",
+  "entries": [
+    {
+      "key": "q20070002_00_165",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "危険な賭け",
+      "source_en": "A Dangerous Wager",
+      "text": "Eine gefährliche Wette"
+    },
+    {
+      "key": "q20070002_00_165",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジョーダンの賭けを受け\r\n水路の敵を全て討伐する",
+      "source_en": "Accept Jordan's bet and\r\ntake down all enemies in the waterway.",
+      "text": "Nimm Jordans Wette an\r\nund besiege alle Feinde im Wasserweg."
+    },
+    {
+      "key": "q20070002_00_165",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from <NAME AREA>, \r\nenemy forces have temporarily increased, \r\nand the situation is quite dangerous.",
+      "text": "Berichten aus der Gegend um <NAME AREA> zufolge\r\nsind dort zeitweise mehr Monster unterwegs als sonst.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q20070002_00_165",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "今は、水路に行くのはやめたほうがいい\r\n強い魔物が入り込み、危険が増しているからだ\r\nほどなく討伐隊が派遣されるだろうが\r\n近隣の住民には、無用な被害が出ないように\r\n水路には近付かないよう、忠告をお願いしたい",
+      "source_en": "Right now, it's best to avoid the waterways.\r\nStrong monsters have invaded, increasing the danger.\r\nA subjugation team will be dispatched soon,\r\nbut please advise nearby residents to stay away\r\nfrom the waterways to avoid unnecessary harm.",
+      "text": "Meide im Augenblick lieber die Wasserwege.\r\nSeit starke Monster eingedrungen sind, ist es dort gefährlicher geworden.\r\nWir schicken demnächst einen Trupp los, der sie vertreiben soll.\r\nWarne bis dahin bitte die Anwohner,\r\ndamit niemand unnötig zu Schaden kommt."
+    },
+    {
+      "key": "q20070002_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte Jordan Bericht."
+    },
+    {
+      "key": "q20070002_00_1026",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "＜テゴル治水路＞の敵を討伐する",
+      "source_en": "Defeat the enemy in \"Tegor Floodway\"",
+      "text": "Besiege die Feinde im Tegor-Kanal."
+    },
+    {
+      "key": "q20070002_00_1139",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定の場所で魔物の正体を暴く",
+      "source_en": "Search for the enemy at the specified location",
+      "text": "Finde am angegebenen Ort heraus, was für ein Monster dort lauert."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

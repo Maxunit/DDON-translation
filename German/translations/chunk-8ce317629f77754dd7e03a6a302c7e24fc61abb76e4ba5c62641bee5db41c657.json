@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q20030001_00.gmd",
+  "arc_path": "\\quest\\q20030001.arc",
+  "entries": [
+    {
+      "key": "q20030001_00_38",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "美食家の探究心",
+      "source_en": "The Curious Gourmand",
+      "text": "Die Neugier des Feinschmeckers"
+    },
+    {
+      "key": "q20030001_00_38",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n望む物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besorg die gesuchten Zutaten."
+    },
+    {
+      "key": "q20030001_00_38",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今\r\n覚者の助けを欲する者がいるらしい",
+      "source_en": "It seems that in <NAME AREA>, \r\nthere are people seeking the Arisen's help.",
+      "text": "In der Gegend um <NAME AREA>\r\nsucht offenbar jemand die Hilfe eines Erweckten."
+    },
+    {
+      "key": "q20030001_00_38",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "いま旅先で、見知った顔に出会ったよ\r\nつい半月ほど前、行商人から大量に野菜やら肉やらを\r\n買い付けていた男だった\r\nそれにしても、あんな危険なところまで出向くとは\r\n食に賭ける美食家の覚悟ってのは\r\nバカにできないどころか、もはや感嘆の域だね",
+      "source_en": "I bumped into a familiar face during my travels.\r\nJust a half month ago, he was purchasing\r\na ton of vegetables and meat from a merchant.\r\nTo venture into such a perilous place for food,\r\nthe resolve of a gourmet isn't just commendable,\r\nit's actually inspiring.",
+      "text": "Unterwegs bin ich einem Bekannten begegnet.\r\nVor gut zwei Wochen hat er bei einem Händler\r\nbergeweise Gemüse und Fleisch eingekauft.\r\nDass er sich für eine Zutat in so eine Gegend wagt!\r\nWas ein Feinschmecker für gutes Essen alles auf sich nimmt,\r\nist schon bewundernswert."
+    },
+    {
+      "key": "q20030001_00_1124",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼者に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to the requester (need: <SQDI DNUM>)",
+      "text": "Bring <SQDI NAME> ×<SQDI NUM> zum Auftraggeber (noch <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}
