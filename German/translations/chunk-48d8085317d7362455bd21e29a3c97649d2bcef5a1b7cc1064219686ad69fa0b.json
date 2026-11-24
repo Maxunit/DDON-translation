@@ -1,0 +1,360 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q22018047.gmd",
+  "arc_path": "\\quest\\q22018047.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "覚者様に折入ってご相談がございます\r\nメガドの今後に関わる重要な話です",
+      "source_en": "",
+      "text": "Ich muss dich unter vier Augen sprechen.\r\nEs geht um die Zukunft von Megado."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "実は、メガドを我らの手に取り戻して\r\n初めて判明したことなのですが\r\n王都内に蓄えてあったある物資が、相当量\r\nオーク軍に持ち去られてしまっていたのです",
+      "source_en": "",
+      "text": "Erst als wir Megado zurückerobert hatten,\r\nkonnten wir feststellen, was geschehen war.\r\nDie Orks haben große Mengen an Vorräten\r\naus der Königsstadt mitgenommen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "密かに内偵を進めましたところ\r\n持ち去られた物資は、一時的に\r\n《<SPOT 1087>》と《<SPOT 1088>》に\r\n集められることがわかりました",
+      "source_en": "",
+      "text": "Wir haben die Sache unauffällig untersucht.\r\nOffenbar lagern die Orks die gestohlenen Vorräte\r\nbei <SPOT 1087> und <SPOT 1088>\r\nzwischen, bevor sie sie weitertransportieren."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "その物資の名は《<QDEL NAME 0 6>》――\r\n今後のメガドの復興には欠かせない素材です\r\n覚者様には、この物資をできる限り\r\n取り戻してきていただきたいのです",
+      "source_en": "",
+      "text": "Es geht um <QDEL NAME 0 6>.\r\nDieses Material brauchen wir dringend für den Wiederaufbau von Megado.\r\nKönntest du uns davon\r\nso viel wie möglich zurückholen?"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "このような困難な任務をお任せできるのは\r\n覚者様をおいて他にないという私の判断です\r\nまずはご一同、この場にご参集くださいませ",
+      "source_en": "",
+      "text": "Für einen so schwierigen Auftrag kommt nur jemand wie du infrage.\r\nIch möchte ihn dir anvertrauen.\r\nVersammle bitte zuerst deine Gruppe hier."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "未だオーク軍の勢力下にある\r\n《<SPOT 1087>》と《<SPOT 1088>》に\r\n《<QDEL NAME 0 6>》という物資が\r\n集められることがわかりました",
+      "source_en": "",
+      "text": "Die Orks halten die Gegend noch besetzt.\r\nBei <SPOT 1087> und <SPOT 1088>\r\nlagern sie offenbar <QDEL NAME 0 6>\r\nfür den Weitertransport."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "この物資は、王都内に蓄えてあったものが\r\nオーク軍によって持ち去られたもの\r\n覚者様には、この物資をできる限り\r\n取り戻してきていただきたいのです",
+      "source_en": "",
+      "text": "Das Material stammt aus den Vorräten der Königsstadt.\r\nDie Orks haben es mitgenommen.\r\nIch möchte dich bitten,\r\nso viel davon wie möglich zurückzuholen."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "このような困難な任務をお任せできるのは\r\n覚者様をおいて他にないという私の判断です\r\nまずはご一同、この場にご参集くださいませ",
+      "source_en": "",
+      "text": "Für einen so schwierigen Auftrag kommt nur jemand wie du infrage.\r\nIch möchte ihn dir anvertrauen.\r\nVersammle bitte zuerst deine Gruppe hier."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "今回の任務にあたられるのは\r\nこれで全員ということでよろしいでしょうか\r\nそれでは、任務内容について\r\n簡単にご説明いたします",
+      "source_en": "",
+      "text": "Sind alle da,\r\ndie bei diesem Einsatz mitkommen?\r\nDann erkläre ich euch kurz,\r\nwas zu tun ist."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "持ち去られた《<QDEL NAME 0 6>》は\r\n《<SPOT 1087>》と《<SPOT 1088>》に\r\n集められることがわかっております\r\nただし一点、留意すべき点がございます",
+      "source_en": "",
+      "text": "Wir wissen, dass die Orks das gestohlene Material, <QDEL NAME 0 6>,\r\nbei <SPOT 1087> und <SPOT 1088>\r\nzwischenlagern.\r\nEines solltet ihr allerdings beachten."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "集められた物資は、順次そこから\r\nどこか別の場所へと運ばれていくようでして\r\nオークが増えるほど、<COL ff2600>回収できる物資の\r\n量も減っていく</COL>ということになります",
+      "source_en": "",
+      "text": "Die Vorräte bleiben nicht lange dort.\r\nSie werden nach und nach weitertransportiert.\r\nJe mehr Orks auftauchen,<COL ff2600>desto weniger\r\nkönnt ihr zurückholen</COL>."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "恐らく、<COL ff2600>スポットボスが現れるまで</COL>には\r\nすべて運ばれていってしまうでしょう\r\n回収すべき物資がなくなったら打ち止めです\r\n速やかに戻り、次の機会をお待ちください",
+      "source_en": "",
+      "text": "<COL ff2600>Sobald der Lagerboss auftaucht</COL>,\r\ndürften sie bereits alles weggebracht haben.\r\nWenn keine Vorräte mehr da sind, brecht die Suche ab.\r\nKehrt rasch zurück und wartet auf die nächste Gelegenheit."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "それぞれの集積場には、斥候を派遣しております\r\n物資がどれだけ残されているのか\r\n常にオークの動向を見張らせておりますので\r\nまずは彼らに声をおかけいただけますでしょうか",
+      "source_en": "",
+      "text": "Wir haben Späher zu beiden Lagern geschickt.\r\nSie beobachten die Orks\r\nund wissen, wie viele Vorräte noch da sind.\r\nSprecht zuerst mit ihnen."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_jp",
+      "source_jp": "《<QDEL NAME 0 6>》の回収に来たのだな\r\nずっと見張っていたが、今が好機だろう\r\nオークの数が少ないため回収もはかどるはずだ",
+      "source_en": "",
+      "text": "Du willst <QDEL NAME 0 6> zurückholen?\r\nIch halte hier schon eine Weile Wache. Jetzt ist die Gelegenheit.\r\nBei so wenigen Orks solltest du einiges zurückholen können."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_jp",
+      "source_jp": "まずはこいつを＜<QDEL NUM 0 6>＞個ほど回収して\r\n<NPC 3200>副隊長に納品するように、とのことだ\r\nなに、元は我らのものだったのだ\r\n気にせずどんどん回収してきてくれ",
+      "source_en": "",
+      "text": "Hol zuerst ungefähr <QDEL NUM 0 6> Stück zurück\r\nund gib sie bei <NPC 3200> ab. So lautet der Auftrag des stellvertretenden Hauptmanns.\r\nSie haben uns das Zeug gestohlen.\r\nNimm also mit, so viel du tragen kannst."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_jp",
+      "source_jp": "ふむ、《<QDEL NAME 0 6>》の回収――だな\r\nオークが少しずつ増えてきているものの\r\nまだそれなりに残されているだろう",
+      "source_en": "",
+      "text": "Ach, du kommst wegen <QDEL NAME 0 6>.\r\nEs sind allmählich mehr Orks geworden.\r\nAber einiges dürfte noch übrig sein."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_jp",
+      "source_jp": "まずはこいつを＜<QDEL NUM 0 6>＞個ほど回収して\r\n<NPC 3200>副隊長に納品するように、とのことだ\r\nなに、元は我らのものだったのだ\r\n気にせずどんどん回収してきてくれ",
+      "source_en": "",
+      "text": "Hol zuerst ungefähr <QDEL NUM 0 6> Stück zurück\r\nund gib sie bei <NPC 3200> ab. So lautet der Auftrag des stellvertretenden Hauptmanns.\r\nSie haben uns das Zeug gestohlen.\r\nNimm also mit, so viel du tragen kannst."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_jp",
+      "source_jp": "《<QDEL NAME 0 6>》の回収に来たのだろうが\r\n今はやめておいたほうがいいだろう\r\nあれだけの数のオークだ\r\nほぼ奴らによって運び出されたとみて間違いない",
+      "source_en": "",
+      "text": "Du willst <QDEL NAME 0 6> zurückholen?\r\nJetzt lässt du es besser bleiben.\r\nBei so vielen Orks\r\nhaben sie sicher fast alles weggebracht."
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_jp",
+      "source_jp": "自信があるのなら、スポットボスを討伐して\r\n運び手を撤退させるという手も有効だろう\r\nそうなれば状況は変わるはず\r\n討伐できたのなら、また声をかけてくれ",
+      "source_en": "",
+      "text": "Wenn du es dir zutraust, kannst du den Lagerboss besiegen.\r\nDann ziehen sich womöglich auch die Orks zurück, die die Vorräte wegbringen.\r\nDas würde die Lage ändern.\r\nSprich mich wieder an, wenn du ihn besiegt hast."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_jp",
+      "source_jp": "残念だったね、《<QDEL NAME 0 6>》なら\r\nオークたちが全部どこかへ運んで行ってしまって\r\nもう全然残されてないみたいだよ",
+      "source_en": "",
+      "text": "Du kommst zu spät für <QDEL NAME 0 6>.\r\nDie Orks haben wohl alles woanders hingebracht.\r\nHier ist anscheinend nichts mehr übrig."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_jp",
+      "source_jp": "このまま事態が好転することもなさそうだし\r\n諦めて<NPC 3200>副隊長に\r\nそのように報告してきた方がいいだろうね",
+      "source_en": "",
+      "text": "Ich glaube kaum, dass sich die Lage von selbst bessert.\r\nBrich die Suche lieber ab und melde <NPC 3200>,\r\nwas hier passiert ist."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_jp",
+      "source_jp": "オークどもの状況から察するに――\r\n《<QDEL NAME 0 6>》は、すべて\r\n奴らによって運び出されてしまったと見える",
+      "source_en": "",
+      "text": "Wenn ich mir die Orks so ansehe,\r\ndann haben sie <QDEL NAME 0 6>\r\nwohl restlos weggebracht."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_jp",
+      "source_jp": "時には諦めも肝心だ\r\n<NPC 3200>副隊長にその旨を報告して\r\nまたの機会を待つことをおすすめする",
+      "source_en": "",
+      "text": "Manchmal muss man aufgeben.\r\nMelde <NPC 3200>, was passiert ist,\r\nund warte auf die nächste Gelegenheit."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_jp",
+      "source_jp": "君がスポットボスを倒したことで\r\nオークの運び手も撤退していったらしい\r\n運び出されることがなくなった《<QDEL NAME 0 6>》が\r\nたくさん残されているよ",
+      "source_en": "",
+      "text": "Du hast den Lagerboss besiegt.\r\nDaraufhin haben sich offenbar auch die Orks zurückgezogen, die die Vorräte abtransportieren sollten.\r\nSie haben noch viel <QDEL NAME 0 6>\r\nzurückgelassen."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_jp",
+      "source_jp": "とにかくそれを回収して\r\n<NPC 3200>副隊長に＜<QDEL NUM 0 6>＞個、納品する――\r\nそれで目標達成となるはずだ\r\nそれじゃ回収は任せたよ",
+      "source_en": "",
+      "text": "Hol das Material zurück.\r\nGib dann bei <NPC 3200> <QDEL NUM 0 6> Stück ab.\r\nDamit sollte der Auftrag erledigt sein.\r\nDen Rest überlasse ich dir."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_jp",
+      "source_jp": "スポットボスが倒されたことで奴らも混乱に陥り\r\nオークの運び手も撤退していったようだ\r\n今なら、大量に残された《<QDEL NAME 0 6>》を\r\n存分に回収できるだろう",
+      "source_en": "",
+      "text": "Seit der Lagerboss gefallen ist, herrscht bei ihnen Unordnung.\r\nDie Orks, die die Vorräte wegbringen sollten, haben sich wohl zurückgezogen.\r\nJetzt kannst du <QDEL NAME 0 6>\r\nin großen Mengen zurückholen."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_jp",
+      "source_jp": "回収した後は、<NPC 3200>副隊長に＜<QDEL NUM 0 6>＞個\r\n忘れずに納品するようにしてくれ\r\n王都の復興のためだ\r\nよろしく頼む",
+      "source_en": "",
+      "text": "Gib bei <NPC 3200> <QDEL NUM 0 6> Stück von dem Material ab, das du zurückgeholt hast.\r\nVergiss das bitte nicht.\r\nWir brauchen es für den Wiederaufbau der Königsstadt.\r\nIch zähle auf dich."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_jp",
+      "source_jp": "恐らく、<COL ff2600>スポットボスが現れるまで</COL>には\r\nすべての《<QDEL NAME 0 6>》が運ばれていってしまうでしょう\r\n回収すべき物資がなくなったら打ち止めです\r\n速やかに戻り、次の機会をお待ちください",
+      "source_en": "",
+      "text": "<COL ff2600>Sobald der Lagerboss auftaucht</COL>,\r\ndürften sie bereits alles von <QDEL NAME 0 6> weggebracht haben.\r\nWenn keine Vorräte mehr da sind, brich die Suche ab.\r\nKehr rasch zurück und warte auf die nächste Gelegenheit."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_jp",
+      "source_jp": "オークの数が増えるほど\r\n<COL ff2600>回収できる物資の量も少なくなる</COL>――\r\n逆に言うと、オークの数が少ない時が好機です\r\n将を倒し軍が撤退すれば運び手もいなくなるはずです",
+      "source_en": "",
+      "text": "Je mehr Orks auftauchen,\r\n<COL ff2600>desto weniger kannst du zurückholen</COL>.\r\nWarte also, bis nur wenige Orks da sind.\r\nWenn ihr General fällt und das Heer abzieht, dürften sich auch die Träger zurückziehen."
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_jp",
+      "source_jp": "差し当たってまず、それぞれの集積場の傍にいる\r\n斥候たちから話をお聞きください\r\n残されている物資の量を教えてくれるでしょう\r\n進退に迷った時は、彼らの話が参考になります",
+      "source_en": "",
+      "text": "Sprich zuerst mit den Spähern\r\nbei den jeweiligen Lagern.\r\nSie wissen, wie viel noch da ist.\r\nWenn du unsicher bist, ob du weitergehen sollst, können sie dir Rat geben."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_jp",
+      "source_jp": "それと――そうですね、回収すべき量の\r\n目安があった方がよいでしょう\r\n回収した《<QDEL NAME 0 6>》は、私どもに＜<QDEL NUM 0 6>＞個\r\n納品するようにしてください",
+      "source_en": "",
+      "text": "Und noch etwas. Es hilft wohl,\r\nwenn du weißt, wie viel wir brauchen.\r\nBring uns von <QDEL NAME 0 6> bitte <QDEL NUM 0 6> Stück.\r\nSo viel solltest du mindestens zurückholen."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_jp",
+      "source_jp": "お渡しいただいた物資は\r\n私どもが責任をもって、メガド復興のために\r\n役立てさせていただきます\r\nどうか、よろしくお願いいたします",
+      "source_en": "",
+      "text": "Wir sorgen persönlich dafür,\r\ndass das Material, das du abgibst,\r\nfür den Wiederaufbau von Megado eingesetzt wird.\r\nDanke für deine Unterstützung."
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_jp",
+      "source_jp": "《<QDEL NAME 0 6>》を確かに受け取りました\r\n十分な量を回収していただけたようで何よりです\r\nメガド市民を代表して感謝いたします",
+      "source_en": "",
+      "text": "<QDEL NAME 0 6> ist angekommen.\r\nDu hast eine ausreichende Menge zurückgeholt.\r\nIm Namen der Bürger von Megado danke ich dir."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_jp",
+      "source_jp": "これらの物資は、メガド復興のための\r\n貴重な資金源となります\r\nここから復興資金を捻出することで\r\n市民の負担を少しでも減らす狙いです",
+      "source_en": "",
+      "text": "Mit diesen Vorräten können wir\r\neinen Teil des Wiederaufbaus von Megado bezahlen.\r\nWas wir auf diese Weise aufbringen,\r\nmüssen die Bürger nicht selbst tragen."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_jp",
+      "source_jp": "また物資の回収にご協力いただけるようであれば\r\n私までお申し付けください\r\nいつでもご案内いたしましょう",
+      "source_en": "",
+      "text": "Wenn du uns wieder helfen möchtest, Vorräte zurückzuholen,\r\nsprich mich einfach an.\r\nIch zeige dir jederzeit wieder den Weg."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_jp",
+      "source_jp": "《<SPOT 1087>》で《<ITEM 21216>》を回収できる宝箱の数が増えています\r\n＜オークの将が出現していない間＞にたくさん回収し、納品しましょう",
+      "source_en": "",
+      "text": "Bei <SPOT 1087> gibt es mehr Truhen mit <ITEM 21216>.\r\nHol möglichst viel zurück, solange kein Orkgeneral da ist, und gib deine Funde ab."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_jp",
+      "source_jp": "《<SPOT 1088>》で《<ITEM 21216>》を回収できる宝箱の数が増えています\r\n＜オークの将が出現していない間＞にたくさん回収し、納品しましょう",
+      "source_en": "",
+      "text": "Bei <SPOT 1088> gibt es mehr Truhen mit <ITEM 21216>.\r\nHol möglichst viel zurück, solange kein Orkgeneral da ist, und gib deine Funde ab."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_jp",
+      "source_jp": "＜オークの将が出現していない間＞が終了したため、《<ITEM 21216>》の入った宝箱がどこか遠くに運ばれていきました\r\nエリアマスターに納品し、クエストを終了しましょう",
+      "source_en": "",
+      "text": "Ein Orkgeneral ist aufgetaucht. Die Truhen mit <ITEM 21216> wurden weggebracht.\r\nGib deine Funde beim Gebietsmeister ab, um die Quest abzuschließen."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_jp",
+      "source_jp": "ああ、《<QDEL NAME 0 6>》の回収だね\r\n良いタイミングだ\r\n今ならオークはほとんどいない\r\nまだたくさん残されているはずだ",
+      "source_en": "",
+      "text": "Ah, du willst <QDEL NAME 0 6> zurückholen.\r\nDu kommst genau richtig.\r\nEs sind gerade kaum Orks da.\r\nEs sollte noch viel übrig sein."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_jp",
+      "source_jp": "《<QDEL NAME 0 6>》は、できる限り\r\nたくさん回収するのが望ましいが\r\nまずは＜<QDEL NUM 0 6>＞個、<NPC 3200>副隊長に納品する――\r\nそう聞いてるけど――間違いないかな？",
+      "source_en": "",
+      "text": "Hol möglichst viel <QDEL NAME 0 6>\r\nzurück.\r\nZuerst sollst du <QDEL NUM 0 6> Stück bei <NPC 3200> abgeben.\r\nSo hat man es mir jedenfalls gesagt. Stimmt das?"
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_jp",
+      "source_jp": "うーん、《<QDEL NAME 0 6>》だが――見たところ\r\n続々とどこかへ運び出されていってるな\r\nだけどまだいくらかは回収できるんじゃないかな",
+      "source_en": "",
+      "text": "Hm, was <QDEL NAME 0 6> angeht,\r\nso scheinen sie es nach und nach wegzubringen.\r\nAber ein bisschen solltest du noch zurückholen können."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_jp",
+      "source_jp": "《<QDEL NAME 0 6>》は、できる限り\r\nたくさん回収するのが望ましいが\r\nまずは＜<QDEL NUM 0 6>＞個、<NPC 3200>副隊長に納品する――\r\nそう聞いてるけど――間違いないかな？",
+      "source_en": "",
+      "text": "Hol möglichst viel <QDEL NAME 0 6>\r\nzurück.\r\nZuerst sollst du <QDEL NUM 0 6> Stück bei <NPC 3200> abgeben.\r\nSo hat man es mir jedenfalls gesagt. Stimmt das?"
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_jp",
+      "source_jp": "うーん――《<QDEL NAME 0 6>》の回収なら\r\n今は難しいかもしれないな\r\nオークたちがたくさん集まってきて\r\nほとんど運び出していってしまったみたいだね",
+      "source_en": "",
+      "text": "Hm, wenn du <QDEL NAME 0 6> zurückholen willst,\r\nwird das jetzt schwierig.\r\nEs sind inzwischen viele Orks da.\r\nSie haben wohl fast alles weggebracht."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_jp",
+      "source_jp": "スポットボスさえ倒すことができれば\r\n運び手も撤退して状況が変わるかもしれないが――\r\nどうするかは君次第だ\r\nもし討伐に成功したのなら、また声をかけてくれ",
+      "source_en": "",
+      "text": "Wenn du den Lagerboss besiegst,\r\nziehen sich die Träger vielleicht zurück. Das könnte die Lage ändern.\r\nDu musst selbst entscheiden.\r\nSprich mich wieder an, wenn du ihn besiegt hast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q80200000_00.gmd",
+  "arc_path": "\\quest\\q80200000.arc",
+  "entries": [
+    {
+      "key": "q80200000_00_1",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "野菜料理初級編",
+      "source_en": "Elementary Vegetable Dish",
+      "text": "Gemüsegerichte für Anfänger"
+    },
+    {
+      "key": "q80200000_00_2466",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "パートナーポーンに《<ITEM 9407>》を１個納品する",
+      "source_en": "Deliver 1 \"<ITEM 9407>\" to your Partner Pawn",
+      "text": "Gib deinem Partnervasallen ein Stück <ITEM 9407>."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

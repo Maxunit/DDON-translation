@@ -1,0 +1,120 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q80301061.gmd",
+  "arc_path": "\\quest\\q80301061.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "あ、隊長じゃないか\r\nもしかして、自分の部屋に\r\nくつろぎに来たのかな？",
+      "source_en": "Ah, it's the captain! \r\nAre you perhaps here \r\nto unwind in your room?",
+      "text": "Ah, der Hauptmann!\r\nWillst du dich vielleicht\r\nin deinem Zimmer ausruhen?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "\"あること\"を研究中でね\r\n隊長にも協力してもらえると助かるよ！",
+      "source_en": "I'm in the midst of researching \r\n\"something.\" I'd appreciate \r\nthe captain's assistance!",
+      "text": "Ich stelle da gerade\r\nein paar Nachforschungen an.\r\nDu könntest mir dabei helfen, Hauptmann!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "さすがは隊長だ！\r\nではさっそく始めたいんだけど",
+      "source_en": "That's my captain!\r\nWell, I'd like to get started right away.",
+      "text": "So kenne ich dich, Hauptmann!\r\nIch würde am liebsten gleich anfangen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "ちょっと準備もあるから\r\n先に<SPOT 1093>へ向かってくれないかな \r\nボクもすぐに出発するよ！",
+      "source_en": "I'm busy with some preparations, \r\nso please head to <SPOT 1093> \r\nfirst. I'll be on my way soon!",
+      "text": "Ich habe noch etwas vorzubereiten.\r\nKönntest du schon mal nach <SPOT 1093> gehen?\r\nIch komme gleich nach!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "隊長！　こっちこっち！\r\nわざわざこんな所まですまないね！",
+      "source_en": "Captain! This way, this way! \r\nI apologize for bringing you \r\nall the way out to such a place!",
+      "text": "Hauptmann! Hier drüben!\r\nEntschuldige, dass ich dich\r\nextra bis hierher gebeten habe!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "いろいろと実験してるうちに\r\n手元にあるのがなくなってしまってね",
+      "source_en": "As I was conducting several experiments, \r\nI found myself running out of what I \r\nhad available at hand.",
+      "text": "Bei all meinen Versuchen\r\nhabe ich nach und nach alles verbraucht.\r\nJetzt ist mir der Vorrat ausgegangen."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "隊長にも、探すのを手伝って欲しいんだ\r\nこの実験が成功すれば\r\n計画も軌道に乗せられる",
+      "source_en": "I want you to help me look for it too, \r\nCaptain. If this experiment works, the \r\nplan can get back on track.",
+      "text": "Kannst du mir bei der Suche helfen, Hauptmann?\r\nWenn der Versuch gelingt,\r\nkommt mein Plan wieder voran."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "それじゃあ、よろしく頼んだよ！",
+      "source_en": "Well then, I'm counting on you!",
+      "text": "Na dann, ich zähle auf dich!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "よしよし、これだけあれば\r\nなんとかなりそうだ！",
+      "source_en": "Good, with this much, \r\nit looks like we should be fine!",
+      "text": "Gut, gut. So viel\r\nsollte fürs Erste reichen!"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "さっそくキャンプに戻って\r\n実験再開だ！",
+      "source_en": "Let's return to camp right away \r\nand continue the experiment!",
+      "text": "Zurück ins Lager!\r\nWir setzen den Versuch gleich fort!"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "ありがとう隊長！\r\n遠慮なく、\"自分の部屋\"で\r\nモフモフしてくれたまえ！",
+      "source_en": "Thank you, Captain! \r\nDon't hesitate to get \r\ncozy in your room!",
+      "text": "Danke, Hauptmann!\r\nMach’s dir ruhig\r\nin deinem eigenen Zimmer gemütlich!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "そうそう――\r\nフカフカの\"わら\"に飛び込む前に\r\nちょっと手伝って欲しいことがあるんだ",
+      "source_en": "Yes, yes— \r\nbefore you jump into the \r\nsoft \"bed\", I need some help.",
+      "text": "Ach ja, bevor du dich\r\nins weiche „Stroh“ fallen lässt,\r\nkönnte ich noch deine Hilfe gebrauchen."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "実は、\"ある計画\"を考えてて――\r\nそれに使えそうなものを\r\n研究してるんだけどさ",
+      "source_en": "To tell the truth, I'm working \r\non \"a specific plan\"—and I \r\nam researching things that \r\ncould be helpful for it.",
+      "text": "Ich arbeite nämlich\r\ngerade an einem gewissen Plan …\r\nund untersuche ein paar Dinge,\r\ndie mir dabei helfen könnten."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "う～ん、まだちょっと足りないかな―ー\r\nすまないけど、もう少し探してきて\r\nもらえると助かるよ",
+      "source_en": "Hmm, I feel it's still not quite enough— \r\nI'm sorry, but I'd be grateful if you \r\ncould help by searching a bit more.",
+      "text": "Hm, das reicht wohl noch nicht ganz …\r\nTut mir leid, aber es wäre schön,\r\nwenn du noch ein bisschen weitersuchen könntest."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

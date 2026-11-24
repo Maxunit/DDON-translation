@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q29999994_00.gmd",
+  "arc_path": "\\quest\\q29999994.arc",
+  "entries": [
+    {
+      "key": "q29999994_00_302",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n対象の敵を討伐する",
+      "source_en": "Listen to the client's request\r\nand defeat the enemy.",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besiege den Gegner."
+    },
+    {
+      "key": "q29999994_00_302",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今\r\n覚者の助けを欲する者がいるらしい",
+      "source_en": "It seems that in <NAME AREA>, \r\nthere are people seeking the Arisen's aid.",
+      "text": "In <NAME AREA>\r\nsoll jemand die Hilfe der Erweckten brauchen."
+    },
+    {
+      "key": "q29999994_00_804",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q29999994_00_828",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "発見した敵を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege die entdeckten Gegner."
+    },
+    {
+      "key": "q29999994_00_838",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された敵を探す",
+      "source_en": "Search for the specified enemy",
+      "text": "Suche nach dem angegebenen Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

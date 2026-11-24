@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q29999992_00.gmd",
+  "arc_path": "\\quest\\q29999992.arc",
+  "entries": [
+    {
+      "key": "q29999992_00_304",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の願いを聞き入れ\r\n指定の物品を集める",
+      "source_en": "Listen to the client's request\r\nand gather the desired items",
+      "text": "Hör dir die Bitte des Auftraggebers an\r\nund besorge die gewünschten Gegenstände."
+    },
+    {
+      "key": "q29999992_00_304",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>近くで\r\n途方に暮れた様子の者が見かけられた",
+      "source_en": "There was a person in a bewildered state\r\nnear <NAME AREA>.",
+      "text": "Jemand soll ganz verzweifelt\r\nin der Nähe von <NAME AREA> gesehen worden sein."
+    },
+    {
+      "key": "q29999992_00_1124",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼者に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NUM> <SQDI NAME> to the requester (need: <SQDI DNUM>)",
+      "text": "Übergib <SQDI NUM> × <SQDI NAME> an den Auftraggeber (noch <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

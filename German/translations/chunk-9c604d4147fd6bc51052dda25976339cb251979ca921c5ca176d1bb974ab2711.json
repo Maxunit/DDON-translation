@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q29999991_00.gmd",
+  "arc_path": "\\quest\\q29999991.arc",
+  "entries": [
+    {
+      "key": "q29999991_00_305",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die Gegner, denen du begegnest."
+    },
+    {
+      "key": "q29999991_00_305",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>は\r\nここ数日異様な気配に満ちているらしい",
+      "source_en": "<NAME AREA> seems to be filled\r\nwith an unusual atmosphere these past few days.",
+      "text": "Über <NAME AREA> liegt schon seit Tagen\r\neine seltsame Stimmung."
+    },
+    {
+      "key": "q29999991_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die Gegner, denen du begegnest."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

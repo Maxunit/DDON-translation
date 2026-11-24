@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018025_00.gmd",
+  "arc_path": "\\quest\\q22018025.arc",
+  "entries": [
+    {
+      "key": "q22018025_00_665",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "伏し迫るオーク小隊",
+      "source_en": "The Orc Platoon Creeps Closer",
+      "text": "Der Orktrupp schleicht heran"
+    },
+    {
+      "key": "q22018025_00_665",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【偶発討伐クエスト】\r\n出現した危険な魔物を追い詰め\r\n討伐する",
+      "source_en": "[Chance Encounter: Subjugation Quest]\r\nTrack down the dangerous enemy\r\nthat has appeared and defeat it.",
+      "text": "Zufällige Begegnung\r\nVerfolge das gefährliche Monster\r\nund besiege es."
+    },
+    {
+      "key": "q22018025_00_665",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "不確実な情報だが、<NAME AREA>から\r\n狂暴な魔物のしわざと思われる被害報告があった",
+      "source_en": "Although the information is uncertain,\r\nthere have been reports of damage\r\nbelieved to be caused by violent creatures\r\nin <NAME AREA>.\r\n",
+      "text": "Es ist noch unklar,\r\nwas genau geschehen ist.\r\nMan meldet Schäden durch rasende Monster\r\nin <NAME AREA>.\r\n"
+    },
+    {
+      "key": "q22018025_00_665",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ああ恐ろしい――\r\nオークども、劣勢と見るや奇襲ばかりだ！\r\n何の変哲もない魔物だと思いきや\r\nいつの間にかオークの精鋭に囲まれてるんだ！\r\n全く、おちおち魔物掃除もできやしないよ",
+      "source_en": "How terrifying—\r\nThe Orcs resort to ambushes whenever\r\nthey're losing! What seem like ordinary monsters\r\ncan quickly be surrounded by elite Orcs!\r\nI can't even properly handle monster cleanup.",
+      "text": "Grauenhaft ist das.\r\nSobald die Orks im Nachteil sind, legen sie Hinterhalte!\r\nDu hältst es erst für ein gewöhnliches Monster.\r\nUnd im nächsten Augenblick umringen dich schon die besten Orkkämpfer!\r\nSo kann man nicht mal in Ruhe die Monster vertreiben."
+    },
+    {
+      "key": "q22018025_00_1254",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q22018025_00_1256",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "魔物の行方を追う",
+      "source_en": "Track down the foe(s)",
+      "text": "Folge der Spur der Monster."
+    },
+    {
+      "key": "q22018025_00_1257",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "危険な魔物を追い詰め、止めを刺す",
+      "source_en": "Hunt down and stop the dangerous monsters",
+      "text": "Hol die gefährlichen Monster ein und besiege sie."
+    },
+    {
+      "key": "q22018025_00_1274",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "魔物が落とした痕跡を調べる",
+      "source_en": "Examine the traces left by the demon",
+      "text": "Untersuche die Spuren, die das Monster hinterlassen hat."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018039_00.gmd",
+  "arc_path": "\\quest\\q22018039.arc",
+  "entries": [
+    {
+      "key": "q22018039_00_691",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "飛んで火に入る闖入者",
+      "source_en": "An Intruder in Too Deep",
+      "text": "Wer sich in Gefahr begibt"
+    },
+    {
+      "key": "q22018039_00_691",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【迅速救助クエスト】\r\n依頼者が求める人物を捜索し\r\n迅速に救助する",
+      "source_en": "[Swift Rescue Quest]\r\nSearch for the person the client is seeking\r\nand rescue them.",
+      "text": "Schnelle Rettung\r\nSuche die vermisste Person\r\nund bring sie rasch in Sicherheit."
+    },
+    {
+      "key": "q22018039_00_691",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "何者かからの、迅速な救援を求める声が\r\n<NAME AREA>から届いているようだ",
+      "source_en": "It seems that a voice requesting swift assistance \r\nhas come from <NAME AREA>.",
+      "text": "Jemand braucht dringend Hilfe.\r\nDer Hilferuf kommt offenbar aus <NAME AREA>."
+    },
+    {
+      "key": "q22018039_00_691",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "こんなご時世だ、何をするのも自由さ\r\nどこへ行こうがどう生きようが、すべて自由\r\nそれでも、望んで危地に飛び込もうとする奴は\r\nただのバカか、あるいは――\r\nよほど強い信念を持っている奴に違いないね",
+      "source_en": "In these times, \r\nyou're free to do whatever you like.\r\nIt's all up to you where you go and how you live.\r\nStill, those who willingly throw themselves\r\ninto danger must either be fools or――\r\ndriven by an exceptionally strong conviction.",
+      "text": "In diesen Zeiten kannst du tun, was du willst.\r\nWohin du gehst, entscheidest du selbst.\r\nWie du lebst, ebenso.\r\nWer sich trotzdem freiwillig\r\nin Gefahr stürzt, ist entweder ein Narr …\r\nOder er glaubt wirklich an das, was er tut."
+    },
+    {
+      "key": "q22018039_00_1169",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q22018039_00_1226",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "依頼者の求める人物を捜索する",
+      "source_en": "Search for the person the client is seeking",
+      "text": "Suche nach der vermissten Person."
+    },
+    {
+      "key": "q22018039_00_1227",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "魔物を迅速に討伐し捜索対象を救助する",
+      "source_en": "Defeat the demon quickly and rescue your charge",
+      "text": "Besiege das Monster rasch und bring die vermisste Person in Sicherheit."
+    },
+    {
+      "key": "q22018039_00_1228",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "捜索対象の安否を確認する",
+      "source_en": "Confirm the safety of your charge",
+      "text": "Sieh nach, ob die gerettete Person unverletzt ist."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

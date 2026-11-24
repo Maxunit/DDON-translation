@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q29999997_00.gmd",
+  "arc_path": "\\quest\\q29999997.arc",
+  "entries": [
+    {
+      "key": "q29999997_00_296",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【納品討伐クエスト】\r\n依頼者に高価なアイテムを渡し\r\n珍しい敵の居場所を聞き出す",
+      "source_en": "[Delivery Hunt Quest]\r\nHand over a valuable item to the client\r\nand locate the whereabouts of a rare enemy.",
+      "text": "Jagdauftrag mit Abgabe\r\nÜbergib dem Auftraggeber einen wertvollen Gegenstand.\r\nEr verrät dir, wo sich ein seltenes Monster aufhält."
+    },
+    {
+      "key": "q29999997_00_296",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが\r\nエリア内で取得できる珍しいアイテムを求めている",
+      "source_en": "Someone in the <NAME AREA> is searching\r\nfor rare items that can be found within the area.",
+      "text": "Jemand in <NAME AREA> sucht\r\nnach seltenen Gegenständen, die man dort finden kann."
+    },
+    {
+      "key": "q29999997_00_1166",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼者に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NUM> <SQDI NAME> to the requester (need: <SQDI DNUM>)",
+      "text": "Übergib <SQDI NUM> × <SQDI NAME> an den Auftraggeber (noch <SQDI DNUM>)."
+    },
+    {
+      "key": "q29999997_00_1167",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ魔物を探しに行く",
+      "source_en": "Go to the designated location to search for enemy",
+      "text": "Geh zum angegebenen Ort und suche nach dem Monster."
+    },
+    {
+      "key": "q29999997_00_1168",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "発見した魔物を討伐する",
+      "source_en": "Defeat the found foe(s)",
+      "text": "Besiege das entdeckte Monster."
+    },
+    {
+      "key": "q29999997_00_1169",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

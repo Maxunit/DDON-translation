@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q80200004_00.gmd",
+  "arc_path": "\\quest\\q80200004.arc",
+  "entries": [
+    {
+      "key": "q80200004_00_7",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "キノコ料理中級編",
+      "source_en": "Intermediate Mushroom Dish",
+      "text": "Pilzgerichte für Fortgeschrittene"
+    },
+    {
+      "key": "q80200004_00_2553",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "パートナーポーンに《<ITEM 9411>》を１個納品する",
+      "source_en": "Deliver 1 \"<ITEM 9411>\" to your Partner Pawn",
+      "text": "Gib deinem Partnervasallen ein Stück <ITEM 9411>."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

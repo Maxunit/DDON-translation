@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q29300003.gmd",
+  "arc_path": "\\quest\\q29300003.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜が現れた――！",
+      "source_en": "The Evil Dragon has appeared!",
+      "text": "Der Böse Drache ist aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜は姿を消した――",
+      "source_en": "The Evil Dragon has disappeared...",
+      "text": "Der Böse Drache ist verschwunden …"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

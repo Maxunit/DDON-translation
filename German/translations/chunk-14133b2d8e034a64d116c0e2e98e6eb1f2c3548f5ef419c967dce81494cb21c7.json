@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018008_00.gmd",
+  "arc_path": "\\quest\\q22018008.arc",
+  "entries": [
+    {
+      "key": "q22018008_00_648",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "騒乱の野獣たち",
+      "source_en": "Rioting Beasts",
+      "text": "Aufruhr unter den wilden Bestien"
+    },
+    {
+      "key": "q22018008_00_648",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【敵群討伐クエスト】\r\n依頼者から話を聞き\r\n敵の群れを討伐する",
+      "source_en": "[Enemy Horde Extermination Quest]\r\nListen to the client's request.\r\nExterminate the horde of enemies.",
+      "text": "Horde bezwingen\r\nHör dir die Bitte des Auftraggebers an.\r\nBesiege die Horde."
+    },
+    {
+      "key": "q22018008_00_648",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from <NAME AREA>, \r\nenemy forces have temporarily increased, \r\nand the situation is quite dangerous.",
+      "text": "Aus <NAME AREA> wird berichtet,\r\ndass die Monster vorübergehend stärker geworden sind.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q22018008_00_648",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "わたしのお父さんが、ロスギルに逃げようとしたの\r\nだけど、門を開けてもらえなかった\r\n人が集まりすぎると、暮らせないからだって\r\nそれから大砲の大きな音がして\r\nお父さんは帰ってこない",
+      "source_en": "My dad tried to flee to Rothgill,\r\nbut the gate wouldn't open for him.\r\nThey said they couldn't let more people in\r\nor our living conditions would worsen.\r\nThen there was a loud cannon shot,\r\nand my father never returned.",
+      "text": "Mein Papa wollte nach Rothgill fliehen.\r\nAber sie haben ihn nicht reingelassen.\r\nSie haben gesagt, dass es im Dorf zu eng wird,\r\nwenn sie noch mehr Leute reinlassen.\r\nDann hat eine Kanone ganz laut geknallt.\r\nUnd Papa ist nie wieder nach Hause gekommen."
+    },
+    {
+      "key": "q22018008_00_1169",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q22018008_00_1222",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所で魔物の群れを探す(残り３)",
+      "source_en": "Search for a group of monsters at the designated location (3 left)",
+      "text": "Suche am angegebenen Ort nach einer Monstergruppe (noch 3)."
+    },
+    {
+      "key": "q22018008_00_1223",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り２)",
+      "source_en": "Search for the remaining groups of monsters (2 left)",
+      "text": "Suche nach den übrigen Monstergruppen (noch 2)."
+    },
+    {
+      "key": "q22018008_00_1224",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り１)",
+      "source_en": "Find the group of monsters that remain (1 left)",
+      "text": "Suche nach der letzten Monstergruppe (noch 1)."
+    },
+    {
+      "key": "q22018008_00_1225",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe."
+    },
+    {
+      "key": "q22018008_00_1225",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe."
+    },
+    {
+      "key": "q22018008_00_1225",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

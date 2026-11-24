@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q80301060_00.gmd",
+  "arc_path": "\\quest\\q80301060.arc",
+  "entries": [
+    {
+      "key": "q80301060_00_72",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【参謀日課】展望城　任務指示",
+      "source_en": "[Daily Council] Lookout Castle - Mission Instructions",
+      "text": "[Tagesauftrag des Strategen] Burg Weitblick – Anweisungen für die Soldaten"
+    },
+    {
+      "key": "q80301060_00_72",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "兵士からの依頼を受け、協力する",
+      "source_en": "Receive requests from soldiers\r\nand cooperate with them",
+      "text": "Nimm Aufträge der Soldaten an\r\nund hilf ihnen."
+    },
+    {
+      "key": "q80301060_00_3543",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 582>の用事を聞く",
+      "source_en": "Ask <NPC 582> about the errands",
+      "text": "Frag <NPC 582>, was zu tun ist."
+    },
+    {
+      "key": "q80301060_00_3544",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NPC 582>を手伝うか決める",
+      "source_en": "Decide if you want to help <NPC 582>",
+      "text": "Entscheide, ob du <NPC 582> hilfst."
+    },
+    {
+      "key": "q80301060_00_3545",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "<STG 451>で<NPC 582>と待ち合わせる",
+      "source_en": "Meet up with <NPC 582> at <STG 451>",
+      "text": "Triff dich mit <NPC 582> auf <STG 451>."
+    },
+    {
+      "key": "q80301060_00_3546",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "<STG 451>で兵士を探し指示を伝える（残り３）",
+      "source_en": "Search for soldiers in <STG 451> \r\nand give them instructions (3 left)",
+      "text": "Suche die Soldaten auf <STG 451>\r\nund überbringe ihnen die Anweisungen (noch 3)."
+    },
+    {
+      "key": "q80301060_00_3547",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "<STG 451>で兵士を探し指示を伝える（残り２）",
+      "source_en": "Search for soldiers in <STG 451> \r\nand give them instructions (2 left)",
+      "text": "Suche die Soldaten auf <STG 451>\r\nund überbringe ihnen die Anweisungen (noch 2)."
+    },
+    {
+      "key": "q80301060_00_3548",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "<STG 451>で兵士を探し指示を伝える（残り１）",
+      "source_en": "Search for soldiers in <STG 451> \r\nand give them instructions (1 left)",
+      "text": "Suche die Soldaten auf <STG 451>\r\nund überbringe ihnen die Anweisungen (noch 1)."
+    },
+    {
+      "key": "q80301060_00_3549",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ソネルのキャンプに戻って休憩する",
+      "source_en": "Go back to Sonel's camp and take a break",
+      "text": "Kehre in Sonels Lager zurück und ruh dich aus."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

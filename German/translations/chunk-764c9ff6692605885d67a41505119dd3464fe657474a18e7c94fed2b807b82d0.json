@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q80200001_00.gmd",
+  "arc_path": "\\quest\\q80200001.arc",
+  "entries": [
+    {
+      "key": "q80200001_00_4",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "キノコ料理初級編",
+      "source_en": "Elementary Mushroom Dish",
+      "text": "Pilzgerichte für Anfänger"
+    },
+    {
+      "key": "q80200001_00_2550",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "パートナーポーンに《<ITEM 1351>》を１個納品する",
+      "source_en": "Deliver 1 \"<ITEM 1351>\" to your Partner Pawn",
+      "text": "Gib deinem Partnervasallen ein Stück <ITEM 1351>."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

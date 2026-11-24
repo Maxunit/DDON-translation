@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q29999990.gmd",
+  "arc_path": "\\quest\\q29999990.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "一度も死亡せず！当たり敵が出現！",
+      "source_en": "No deaths! A bonus enemy has appeared!",
+      "text": "Niemand ist gefallen! Ein Bonusgegner ist aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "死亡判定あり――ハズレ敵が出現！",
+      "source_en": "Someone fell in battle! \r\nThe bonus enemy will not appear!",
+      "text": "Ein Gruppenmitglied ist gefallen!\r\nStatt des Bonusgegners erscheint ein gewöhnlicher Gegner."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

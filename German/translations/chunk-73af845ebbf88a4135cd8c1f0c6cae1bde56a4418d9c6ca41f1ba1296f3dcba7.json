@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018005_00.gmd",
+  "arc_path": "\\quest\\q22018005.arc",
+  "entries": [
+    {
+      "key": "q22018005_00_645",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "高みの奉仕家",
+      "source_en": "Superior Service Provider",
+      "text": "Die vornehme Wohltäterin"
+    },
+    {
+      "key": "q22018005_00_645",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【敵群討伐クエスト】\r\n依頼者から話を聞き\r\n敵の群れを討伐する",
+      "source_en": "[Enemy Horde Extermination Quest] Listen\r\nto the client's request.\r\nExterminate the horde of enemies.",
+      "text": "Horde bezwingen\r\nHör dir die Bitte des Auftraggebers an.\r\nBesiege die Horde."
+    },
+    {
+      "key": "q22018005_00_645",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from\r\n<NAME AREA>,\r\nenemy forces have temporarily increased,\r\nand the situation is quite dangerous.",
+      "text": "Nach Berichten aus\r\n<NAME AREA>\r\nsind die Monster vorübergehend stärker geworden.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q22018005_00_645",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "最前線のこの村には\r\n慈善活動家ぶった奴らがよく来るんだが\r\n最近来た、治療師だか貴族だかよく分からん女\r\nアイツはなんだか鼻持ちならねえよ\r\n全く、怪我人は貴族のオモチャじゃねえっての",
+      "source_en": "This front-line village frequently\r\nattracts self-proclaimed philanthropists\r\nto our doors.\r\nRecently, an insufferable woman has\r\narrived.\r\nWe are unsure if she is a healer or a\r\nnoble,\r\nbut one thing is certain; the wounded\r\naren't playthings for nobles!",
+      "text": "Unser Dorf liegt direkt an der Front.\r\nHier tauchen immer wieder Leute auf,\r\ndie sich als Wohltäter aufspielen.\r\nNeulich ist wieder\r\nso eine gekommen.\r\nKeine Ahnung, ob sie eine Heilerin\r\noder eine Adlige ist.\r\nIch kann sie jedenfalls nicht ausstehen.\r\nVerwundete sind kein Spielzeug für Adlige!"
+    },
+    {
+      "key": "q22018005_00_1169",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q22018005_00_1222",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所で魔物の群れを探す(残り３)",
+      "source_en": "Search for a group of monsters at the designated location (3 left)",
+      "text": "Suche am angegebenen Ort nach einer Monstergruppe (noch 3)."
+    },
+    {
+      "key": "q22018005_00_1223",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り２)",
+      "source_en": "Search for the remaining groups of monsters (2 left)",
+      "text": "Suche nach den übrigen Monstergruppen (noch 2)."
+    },
+    {
+      "key": "q22018005_00_1224",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り１)",
+      "source_en": "Find the group of monsters that remain (1 left)",
+      "text": "Suche nach der letzten Monstergruppe (noch 1)."
+    },
+    {
+      "key": "q22018005_00_1225",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe."
+    },
+    {
+      "key": "q22018005_00_1225",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe."
+    },
+    {
+      "key": "q22018005_00_1225",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

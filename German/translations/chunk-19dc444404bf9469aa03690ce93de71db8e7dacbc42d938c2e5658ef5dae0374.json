@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q90040006.gmd",
+  "arc_path": "\\quest\\q90040006.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "時間経過により戦況が悪化していく――",
+      "source_en": "The battle situation worsens over time.",
+      "text": "Je mehr Zeit verstreicht, desto schlechter wird die Lage …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "骸の将が魔物を呼び寄せた――！",
+      "source_en": "Necro Master called upon an Enemy!",
+      "text": "Der Totengeneral hat Monster herbeigerufen!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "召喚された魔物を一掃したことで、骸の将の力が弱まっていく――",
+      "source_en": "By eliminating the summoned enemies,\r\nthe power of the Necro Master weakens...!",
+      "text": "Weil die beschworenen Monster besiegt wurden,\r\nschwindet die Kraft des Totengenerals …"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "殲滅できなかった魔物の残魂が、骸の将の力として吸収される！",
+      "source_en": "The lingering souls of the enemies\r\nthat couldn't be completely exterminated\r\nare absorbed by the power of the Necro Master!",
+      "text": "Einige Monster wurden nicht vollständig vernichtet.\r\nDer Totengeneral zieht ihre verbliebenen Seelen an sich\r\nund stärkt damit seine eigene Kraft!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "骸の将が座すジフール砦へ\r\nメンバーを集めて突撃せよ！",
+      "source_en": "Gather the members and launch an assault\r\non Jifule Fortress, where the Necro Master is!",
+      "text": "Sammelt euch und stürmt die Festung Jifule!\r\nDort wartet der Totengeneral."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

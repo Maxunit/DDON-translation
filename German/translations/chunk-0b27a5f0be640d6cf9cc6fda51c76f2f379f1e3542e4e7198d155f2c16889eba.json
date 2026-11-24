@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q80201010_00.gmd",
+  "arc_path": "\\quest\\q80201010.arc",
+  "entries": [
+    {
+      "key": "q80201010_00_17",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "賢者の墓参り",
+      "source_en": "A Visit to the Sage's Grave",
+      "text": "Ein Besuch am Grab des Weisen"
+    },
+    {
+      "key": "q80201010_00_2562",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "フォトモードを使い、指定の場所でポーンと写真を撮る",
+      "source_en": "Take a picture with your pawn at the \r\nspecified location using Photo Mode",
+      "text": "Mach mit deinem Vasallen am angegebenen Ort\r\nein Bild im Fotomodus."
+    },
+    {
+      "key": "q80201010_00_2639",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "自室に戻りポーンと会話する",
+      "source_en": "Go back to your room and talk to your Pawn",
+      "text": "Kehre in dein Zimmer zurück und sprich mit deinem Vasallen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

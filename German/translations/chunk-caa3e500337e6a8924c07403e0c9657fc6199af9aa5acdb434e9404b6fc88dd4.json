@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q80200002_00.gmd",
+  "arc_path": "\\quest\\q80200002.arc",
+  "entries": [
+    {
+      "key": "q80200002_00_5",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "肉料理初級編",
+      "source_en": "Elementary Meat Dish",
+      "text": "Fleischgerichte für Anfänger"
+    },
+    {
+      "key": "q80200002_00_2551",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "パートナーポーンに《<ITEM 9408>》を１個納品する",
+      "source_en": "Deliver 1 \"<ITEM 9408>\" to your Partner Pawn",
+      "text": "Gib deinem Partnervasallen ein Stück <ITEM 9408>."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q30200039_00.gmd",
+  "arc_path": "\\quest\\q30200039.arc",
+  "entries": [
+    {
+      "key": "q30200039_00_537",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【高難度】物資確保のため",
+      "source_en": "[Hard] To Secure Supplies",
+      "text": "[Schwer] Die Versorgung sichern"
+    },
+    {
+      "key": "q30200039_00_537",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<LQIM>を<LQVA>個集めよとの命令よ\r\nあなたに任せたいのだけれど、いいかしら",
+      "source_en": "The order is to collect <LQVA> <LQIM>.\r\nI'd like to entrust this to you if that's alright.",
+      "text": "Der Auftrag lautet, <LQVA> × <LQIM> zu sammeln.\r\nKann ich dir das anvertrauen?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

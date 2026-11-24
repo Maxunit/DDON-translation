@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018044_00.gmd",
+  "arc_path": "\\quest\\q22018044.arc",
+  "entries": [
+    {
+      "key": "q22018044_00_696",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "蠱惑のアジテーション",
+      "source_en": "Beguiled and Agitated",
+      "text": "Ihrem Charme erlegen"
+    },
+    {
+      "key": "q22018044_00_696",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest]\r\nListen to the requester's wish.\r\nDefeat the ferocious enemy\r\nwithout reviving even once.",
+      "text": "Kampf ohne Wiederbelebung\r\nHör dir die Bitte des Auftraggebers an.\r\nBesiege den rasenden Gegner,\r\nohne dich wiederbeleben zu lassen."
+    },
+    {
+      "key": "q22018044_00_696",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the <NAME AREA> \r\nappears to be testing their skills\r\nin a battle against an enemy.",
+      "text": "Jemand in <NAME AREA>\r\nwill offenbar sein Können\r\nim Kampf gegen ein Monster erproben."
+    },
+    {
+      "key": "q22018044_00_696",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "にょほほ！　<NPC 3255>ちゃんと出会ってからと\r\nいうもの、まるで若返った気分じゃ！\r\nあの子に頼まれたらワシ、何でもやっちゃう！\r\n荷物運びだろうと魔物退治だろうと何でもな！\r\nあの目で見つめられたら断れんもの！",
+      "source_en": "Oh ho-ho! Ever since meeting <NPC 3255>,\r\nI feel like I've become young again!\r\nIf that child asks me for anything, I'll do it,\r\nwhether it's carrying goods or monster hunting!\r\nI can't refuse when looked at with those eyes!",
+      "text": "Hoho! Seit ich <NPC 3255> kennengelernt habe,\r\nfühle ich mich wieder jung!\r\nWenn sie mich um etwas bittet, tue ich alles für sie.\r\nIch schleppe Vorräte oder jage Monster, ganz egal!\r\nWenn sie mich so anschaut, kann ich nicht Nein sagen."
+    },
+    {
+      "key": "q22018044_00_1162",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die angetroffenen Monster."
+    },
+    {
+      "key": "q22018044_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Geh zum angegebenen Ort und spüre die rasenden Monster auf."
+    },
+    {
+      "key": "q22018044_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte dem Auftraggeber, was geschehen ist."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

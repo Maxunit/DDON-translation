@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q29300001.gmd",
+  "arc_path": "\\quest\\q29300001.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "召喚された魔物を一掃したことで、骸の将の力が弱まっていく――",
+      "source_en": "By eliminating the summoned Enemies, the power of\r\nthe Necro Master weakens —",
+      "text": "Die beschworenen Monster sind besiegt.\r\nDie Kraft des Totengenerals schwindet …"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "骸の将が魔物を呼び寄せた――！",
+      "source_en": "Necro Master called upon an Enemy!",
+      "text": "Der Totengeneral hat ein Monster herbeigerufen!"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "殲滅できなかった魔物の残魂が、骸の将の力として吸収される！",
+      "source_en": "The lingering souls of the enemies that couldn't\r\nbe completely exterminated are absorbed as the\r\npower of the Necro Master!",
+      "text": "Der Totengeneral verleibt sich\r\ndie Seelen der Monster ein,\r\ndie ihr nicht vollständig vernichtet habt!"
+    },
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "跳ね橋を起動するレバーの片方を起動した――",
+      "source_en": "Activated one of the drawbridge levers.",
+      "text": "Einer der Hebel für die Zugbrücke wurde betätigt …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "砦内に魔物の気配が充満している――",
+      "source_en": "The inside of the fortress seems to be\r\nteeming with monsters...",
+      "text": "In der Festung scheint es\r\nvon Monstern zu wimmeln …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "砦内へ続く道が開けた――！",
+      "source_en": "The path leading into the fortress has opened!",
+      "text": "Der Weg in die Festung ist frei!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "骸の将が現れた――！",
+      "source_en": "The Necro Master has appeared!",
+      "text": "Der Totengeneral ist aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "骸の将が姿を消した――",
+      "source_en": "The Necro Master has disappeared...",
+      "text": "Der Totengeneral ist verschwunden …"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

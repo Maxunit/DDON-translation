@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018031_00.gmd",
+  "arc_path": "\\quest\\q22018031.arc",
+  "entries": [
+    {
+      "key": "q22018031_00_671",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【高難度】百鬼千魔を調伏せよ",
+      "source_en": "[Hard] Exorcising a Hundred Ghosts and a Thousand Demons",
+      "text": "[Schwer] Hundert Geister, tausend Dämonen"
+    },
+    {
+      "key": "q22018031_00_671",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【連続討伐クエスト】\r\nエリアマスターの願いを聞き入れ\r\n一斉進軍してきたオーク軍を撃退する",
+      "source_en": "[Consecutive Conquest Quest]\r\nListen to the Area Master's request\r\nand defeat the Orc army that has launched \r\na simultaneous attack.",
+      "text": "Angriff an mehreren Orten\r\nHör dir die Bitte des Gebietsmeisters an.\r\nDie Orks greifen mehrere Orte gleichzeitig an.\r\nSchlag sie zurück."
+    },
+    {
+      "key": "q22018031_00_671",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のエリアマスターが\r\n付近の不穏な空気を警戒しているようだ",
+      "source_en": "The Area Master of <NAME AREA>\r\nis wary to the unrest in the vicinity.",
+      "text": "Der Gebietsmeister von <NAME AREA>\r\nmacht sich wegen der unheimlichen Ruhe in der Gegend Sorgen."
+    },
+    {
+      "key": "q22018031_00_671",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "オークの奴らが従えている魔物――\r\nあいつら、生き物じゃねえ！\r\n見たんだよ、屍が動き出すところ\r\nあぁ、せめて俺が出撃した時には\r\n奴らと対峙しませんように――！",
+      "source_en": "The monsters the Orcs command—\r\nthey aren't living beings!\r\nI saw it myself, the dead coming back to life.\r\nAh, I hope I don't have to face them\r\nwhen I go out on a mission――!",
+      "text": "Die Monster, die den Orks gehorchen …\r\nDas sind Untote!\r\nIch hab mit eigenen Augen gesehen, wie sich ein Toter wieder bewegt hat.\r\nHoffentlich muss ich ihnen bei meinem nächsten Einsatz\r\nnicht gegenübertreten!"
+    },
+    {
+      "key": "q22018031_00_1280",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所を調べる",
+      "source_en": "Investigate the specified location",
+      "text": "Untersuche den angegebenen Ort."
+    },
+    {
+      "key": "q22018031_00_1281",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇したオーク軍を撃退する",
+      "source_en": "Defeat the Orc forces you encounter",
+      "text": "Schlag die Orktruppen zurück, denen du begegnest."
+    },
+    {
+      "key": "q22018031_00_1282",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "伝達人から火急の知らせを聞く",
+      "source_en": "Listen to urgent news from the messenger",
+      "text": "Hör dir die Eilmeldung des Boten an."
+    },
+    {
+      "key": "q22018031_00_1283",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "各地に進軍してきたオーク軍を撃退する（残り３カ所）",
+      "source_en": "Defeat the Orc forces advancing on each location (3 left)",
+      "text": "Schlag die vorrückenden Orktruppen zurück (noch 3 Orte)."
+    },
+    {
+      "key": "q22018031_00_1284",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "各地に進軍してきたオーク軍を撃退する（残り２カ所）",
+      "source_en": "Defeat the Orc forces advancing on each location (2 left)",
+      "text": "Schlag die vorrückenden Orktruppen zurück (noch 2 Orte)."
+    },
+    {
+      "key": "q22018031_00_1285",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "各地に進軍してきたオーク軍を撃退する（残り１カ所）",
+      "source_en": "Defeat the Orc forces advancing on each location (1 left)",
+      "text": "Schlag die vorrückenden Orktruppen zurück (noch 1 Ort)."
+    },
+    {
+      "key": "q22018031_00_1286",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターに経緯を報告する",
+      "source_en": "Report to the Area Master",
+      "text": "Berichte dem Gebietsmeister, was geschehen ist."
+    },
+    {
+      "key": "q22018031_00_1301",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "進撃中のオーク軍を追う",
+      "source_en": "Pursue the advancing Orc army",
+      "text": "Verfolge die vorrückenden Orktruppen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q29999990.gmd",
+  "arc_path": "\\quest\\q29999990.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "クエスト受注前会話",
+      "source_en": "",
+      "text": "Gespräch vor der Questannahme"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "クエスト受注後会話",
+      "source_en": "",
+      "text": "Gespräch nach der Questannahme"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "当たり敵討伐後会話",
+      "source_en": "",
+      "text": "Gespräch nach dem Sieg über den Bonusgegner"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "ハズレ敵討伐後会話",
+      "source_en": "",
+      "text": "Gespräch nach dem Sieg über den Gegner ohne Bonus"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "クリア後会話",
+      "source_en": "",
+      "text": "Gespräch nach Questabschluss"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "プレイヤーが死亡状態になるとハズレ敵がっ",
+      "source_en": "",
+      "text": "Wenn ein Spieler fällt, erscheint der Gegner ohne Bonus."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

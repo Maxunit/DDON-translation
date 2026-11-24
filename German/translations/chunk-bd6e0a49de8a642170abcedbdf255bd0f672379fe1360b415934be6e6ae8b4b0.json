@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q29999994.gmd",
+  "arc_path": "\\quest\\q29999994.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "受注会話です",
+      "source_en": "",
+      "text": "Gespräch bei der Auftragsannahme"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "繰り返し会話です",
+      "source_en": "",
+      "text": "Wiederholtes Gespräch"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "クリア時会話です",
+      "source_en": "",
+      "text": "Gespräch bei Questabschluss"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

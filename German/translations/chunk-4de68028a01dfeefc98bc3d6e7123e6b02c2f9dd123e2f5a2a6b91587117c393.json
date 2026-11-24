@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q22018005.gmd",
+  "arc_path": "\\quest\\q22018005.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "あら――旅のお方、私に何かご用です？\r\n私は<NPC 605>と申します\r\nどうぞお見知りおきを",
+      "source_en": "",
+      "text": "Oh, du bist auf Reisen? Kann ich dir helfen?\r\nMein Name ist <NPC 605>.\r\nIch freue mich, dich kennenzulernen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "まぁ、随分とご立派な装備――\r\nさぞ腕が立つのでしょうね\r\n貴方も奉仕活動のためにこの村へ？\r\nせっかく訪れられたのに残念ですわ",
+      "source_en": "",
+      "text": "Oh, was für eine stattliche Ausrüstung!\r\nDu musst dich aufs Kämpfen verstehen.\r\nBist du auch ins Dorf gekommen, um hier zu helfen?\r\nDann tut es mir leid, dass du gerade jetzt herkommst."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "あら、ご存じない？\r\n物資輸送部隊が出先で事故にあったようで\r\nこの村の医療活動は滞っている状態なの\r\n魔法で繋いでいるけれど、状態は良くない様子――",
+      "source_en": "",
+      "text": "Du weißt es noch nicht?\r\nDem Versorgungstrupp ist unterwegs etwas zugestoßen.\r\nNun fehlen uns die Mittel, um die Verwundeten zu versorgen.\r\nWir helfen uns mit Magie, so gut wir können. Aber es sieht schlecht aus."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "――ねえ貴方、もし問題がなければ\r\n様子を見に行って下さらない？\r\n彼らは《<SPOT 1107>》へ向かったそうよ\r\nオーク軍に遭遇していたら、戦士の手が必要だもの",
+      "source_en": "",
+      "text": "Könntest du mir einen Gefallen tun?\r\nGeh doch bitte nachsehen, was passiert ist.\r\nSie sollen nach <SPOT 1107> unterwegs gewesen sein.\r\nFalls sie den Orks begegnet sind, brauchen sie jemanden, der kämpfen kann."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "護衛兵は数人いるそうだけれど、オーク軍に遭ったら\r\nひとたまりもないでしょうね――\r\n私がもう少し早く訪れていれば\r\n同行して差し上げられたのだけれど",
+      "source_en": "",
+      "text": "Ein paar Soldaten begleiten sie wohl. Falls die Orks angreifen,\r\nkönnen sie ihnen kaum etwas entgegensetzen.\r\nWäre ich etwas früher hier angekommen,\r\nhätte ich sie begleiten können."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "ねえ貴方、様子を見に行ってくださらないかしら？\r\n彼らは《<SPOT 1107>》の方へ向かったそう\r\nオーク軍に遭遇していたら、戦士の手が必要だもの",
+      "source_en": "",
+      "text": "Könntest du bitte nachsehen, was passiert ist?\r\nSie sollen nach <SPOT 1107> unterwegs gewesen sein.\r\nFalls sie den Orks begegnet sind, brauchen sie jemanden, der kämpfen kann."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "無事お帰りになられたのね\r\nそれで、輸送部隊の方たちは――？",
+      "source_en": "",
+      "text": "Du bist heil zurück.\r\nUnd der Versorgungstrupp …?"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "――そんな\r\nまさか、本当にオーク軍と？\r\n私が――私がもう少し、早く訪れていたら",
+      "source_en": "",
+      "text": "Oh nein …\r\nWaren es wirklich die Orks?\r\nWenn ich doch nur etwas früher gekommen wäre …"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "その――戦士さん\r\n彼らの仇を討ってくださって、感謝いたします\r\n私は、ここでもう少し力を尽くします\r\n出来る限りのことを、せめて――",
+      "source_en": "",
+      "text": "Hör zu …\r\nIch danke dir, dass du ihren Tod gerächt hast.\r\nIch bleibe noch etwas hier und helfe weiter.\r\nWenigstens das kann ich für sie tun."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "無事お帰りになられたのね\r\nそれで、輸送部隊の方たちは――？",
+      "source_en": "",
+      "text": "Du bist heil zurück.\r\nUnd der Versorgungstrupp …?"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "――なんですって\r\nそんなに恐ろしい魔物たちが？\r\nあぁ、私が同行さえしていたら――！",
+      "source_en": "",
+      "text": "Was sagst du da?\r\nSo gefährliche Monster?\r\nWäre ich doch mitgegangen!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "戦士さん、危険な魔物たちを討伐してくださって\r\n本当に感謝致しますわ\r\nやはり、悪しき竜力の影響なのでしょうか――\r\n敵はオークだけじゃないなんて、前途多難ですわね",
+      "source_en": "",
+      "text": "Ich danke dir von Herzen,\r\ndass du diese gefährlichen Monster besiegt hast.\r\nOb wohl die böse Drachenkraft dahintersteckt?\r\nJetzt müssen wir uns auch vor Monstern fürchten. Das macht unsere Lage noch schwieriger."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

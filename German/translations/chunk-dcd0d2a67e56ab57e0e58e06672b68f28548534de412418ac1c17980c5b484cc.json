@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q29999996_00.gmd",
+  "arc_path": "\\quest\\q29999996.arc",
+  "entries": [
+    {
+      "key": "q29999996_00_298",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【討伐クエスト】\r\nエリアに出現した怪しい魔物を探し\r\n問題の原因となる敵を討伐する",
+      "source_en": "[Subjugation Quest]\r\nSearch for suspicious monsters in the area\r\nand defeat the enemy causing the problem.",
+      "text": "Jagdauftrag\r\nSuche in der Gegend nach verdächtigen Monstern\r\nund besiege den Gegner, der für die Störung verantwortlich ist."
+    },
+    {
+      "key": "q29999996_00_298",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>には今、怪しい気配のする\r\n魔物たちが出現しているらしい",
+      "source_en": "In <NAME AREA> right now, \r\nthere seems to be a suspicious presence\r\nof enemy creatures.",
+      "text": "In <NAME AREA>\r\nsollen gerade Monster aufgetaucht sein,\r\ndie sich verdächtig verhalten."
+    },
+    {
+      "key": "q29999996_00_1171",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die angetroffenen Monster."
+    },
+    {
+      "key": "q29999996_00_1172",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たに現れた魔物を即時討伐して報酬を獲得",
+      "source_en": "Get rewards by instantly defeating newly appearing monsters",
+      "text": "Besiege die neu aufgetauchten Monster sofort, um eine Belohnung zu erhalten."
+    },
+    {
+      "key": "q29999996_00_1173",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物を討伐する",
+      "source_en": "Defeat the remaining foe(s)",
+      "text": "Besiege die übrigen Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

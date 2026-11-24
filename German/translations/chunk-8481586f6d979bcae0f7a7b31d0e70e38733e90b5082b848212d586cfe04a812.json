@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q29999999.gmd",
+  "arc_path": "\\quest\\q29999999.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "敵の強くなった気配がする――",
+      "source_en": "The enemies seem to have grown stronger...",
+      "text": "Die Gegner scheinen stärker geworden zu sein …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "敵の弱くなった気配がする――",
+      "source_en": "The enemies seem to be weaker...",
+      "text": "Die Gegner scheinen schwächer geworden zu sein …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "閉じられていた壁が無くなった！",
+      "source_en": "The path is unblocked!",
+      "text": "Der Weg ist frei!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

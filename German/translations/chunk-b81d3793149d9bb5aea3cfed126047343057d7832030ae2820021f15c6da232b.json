@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q22018012.gmd",
+  "arc_path": "\\quest\\q22018012.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "正直、よそ者のお前がここまで尽力してくれるとは\r\n思っていなかったぞ\r\nこのレベルの覚者がゴロゴロいるとは――\r\n全く、レスタニアが妬ましいわ",
+      "source_en": "",
+      "text": "Ehrlich gesagt hätte ich nicht gedacht,\r\ndass du dich als Fremder so für uns ins Zeug legst.\r\nUnd in Lestania gibt es viele Erweckte, die so stark sind wie du?\r\nDa könnte man wirklich neidisch werden."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "ところでお前の装備――随分くたびれているな\r\nそうだ、とっておきの情報を教えてやろう\r\nそいつで装備を新調しておくといい\r\n少々危険な方法ではあるが――",
+      "source_en": "",
+      "text": "Deine Ausrüstung hat schon einiges mitgemacht.\r\nWeißt du was? Ich hab einen guten Tipp für dich.\r\nDamit kannst du dir neue Ausrüstung machen lassen.\r\nEin bisschen gefährlich wird’s allerdings."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "今はオーク軍に占領されてしまったが\r\n＜<SPOT 1081>＞と＜<SPOT 1082>＞では、\r\n《<ITEM 17883>》がたっぷり採掘できたんだ",
+      "source_en": "",
+      "text": "Die Orks halten diese Orte inzwischen besetzt.\r\nAber bei <SPOT 1081> und <SPOT 1082>\r\nkonnte man früher reichlich <ITEM 17883> abbauen."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "ポーンというのは素材さえあれば\r\n装備を仕立ててくれる器用なやつなんだろう\r\nしかしそれには、素材がいるのではないか？",
+      "source_en": "",
+      "text": "Die Vasallen können doch Ausrüstung herstellen,\r\nwenn man ihnen die nötigen Materialien gibt.\r\nAber woher willst du die Materialien nehmen?"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "よし、まずはここに仲間を全員集めてくれ\r\n危険を冒す覚悟のある奴らか、わしが見てやるからな\r\n敵前で尻尾を巻いて逃げだすような奴がいれば\r\nここで叩っ斬ってやるわ！",
+      "source_en": "",
+      "text": "Gut, trommle erst mal deine Leute hier zusammen.\r\nIch will sehen, ob sie dafür genug Mumm haben.\r\nWenn einer von denen vor dem Feind den Schwanz einzieht,\r\nhau ich ihn gleich hier um!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "今はオーク軍に占領されてしまったが\r\n＜<SPOT 1081>＞と＜<SPOT 1082>＞では\r\n《<ITEM 17883>》がたっぷり採掘できたんだ",
+      "source_en": "",
+      "text": "Die Orks halten diese Orte inzwischen besetzt.\r\nAber bei <SPOT 1081> und <SPOT 1082>\r\nkonnte man früher reichlich <ITEM 17883> abbauen."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "行きたければ、まずはここに仲間を全員集めてくれ\r\n危険を冒す覚悟のある奴らか、わしが見てやるからな\r\n敵前で尻尾を巻いて逃げだすような奴がいれば\r\nここで叩っ斬ってやるわ！",
+      "source_en": "",
+      "text": "Wenn du hinwillst, trommle erst mal deine Leute hier zusammen.\r\nIch will sehen, ob sie dafür genug Mumm haben.\r\nWenn einer von denen vor dem Feind den Schwanz einzieht,\r\nhau ich ihn gleich hier um!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "あの地には、鉱夫なんかがこっそり忍び込んで\r\n盗掘していた時期もあったが\r\n見つかっては次々に命を奪われていった――\r\nお前、行くなら掘り尽くしちまってくれ",
+      "source_en": "",
+      "text": "Früher haben sich Bergleute heimlich reingeschlichen\r\nund auf eigene Faust Erz abgebaut.\r\nDie Orks haben sie einen nach dem anderen erwischt und umgebracht.\r\nWenn du hingehst, dann nimm alles mit, was du findest."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "おう、集まったか\r\n――うん、全員良い顔つきをしているな\r\nこれなら情報を漏らす馬鹿が出ることもないだろう",
+      "source_en": "",
+      "text": "Ah, da seid ihr ja.\r\nIhr seht aus, als könnte man euch trauen.\r\nIch glaube, keiner von euch wird den Plan ausplaudern."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "《<ITEM 17883>》が掘れるのは\r\n<SPOT 1081>と<SPOT 1082>だ\r\nただし、一つ大事なことを伝えておく",
+      "source_en": "",
+      "text": "<ITEM 17883> findet ihr\r\nbei <SPOT 1081> und <SPOT 1082>.\r\nAber eins müsst ihr noch wissen."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "オークの奴らも、この素材のことは気付いているはずだ\r\nつまり、オークが増えるほど\r\n<COL ff2600>お前らが掘れる量は少なくなる</COL>ということだ",
+      "source_en": "",
+      "text": "Die Orks wissen bestimmt längst, was hier zu holen ist.\r\nDas heißt, je mehr Orks auftauchen,\r\ndesto <COL ff2600>weniger könnt ihr abbauen</COL>."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "恐らく、長く見積もっても採掘できるのは\r\n<COL ff2600>スポットボスが現れるまで</COL>だろうな\r\n枯れちまったら、戻ってこいよ\r\nだらだら掘ってても、危険が増すばかりだからな",
+      "source_en": "",
+      "text": "Ihr könnt das Erz vermutlich höchstens\r\n<COL ff2600>bis zum Auftauchen des Lagerbosses</COL>abbauen.\r\nWenn nichts mehr da ist, kommt zurück.\r\nWer zu lange bleibt, bringt sich nur in Gefahr."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "よし、それじゃあまず\r\nそれぞれの採掘場の傍にいる、斥候たちに話を聞け\r\n現在の採掘可能量を、大まかに教えてくれるだろう\r\n奴らは常に、オーク共の動向を見張っているからな",
+      "source_en": "",
+      "text": "Gut, dann sprecht zuerst mit den Spähern\r\nbei den jeweiligen Abbaustellen.\r\nSie können ungefähr sagen, wie viel Erz gerade noch zu holen ist.\r\nSie behalten die Orks ständig im Auge."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_jp",
+      "source_jp": "おっと、すまんすまん\r\nいつもの約束ごとを忘れちまってた\r\n<COL ff2600>採掘が終わったら、俺に＜５＞つ納品してくれ</COL>\r\n生きて帰る奴も少ないんだ、お前くらいは頼んだぞ",
+      "source_en": "",
+      "text": "Ach ja, fast hätte ich’s vergessen.\r\nWir haben da eine Abmachung.\r\nNach dem Abbau gebt ihr mir <COL ff2600>fünf Stück</COL> ab.\r\nEs kommen nur wenige lebend zurück. Auf euch zähl ich."
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_jp",
+      "source_jp": "《<ITEM 17883>》が掘れるのは、長く見積もっても\r\n<COL ff2600>スポットボスが現れるまで</COL>だろうな\r\nそれ以上長く留まっていても意味がないからな\r\n終わったら戻ってこいよ",
+      "source_en": "",
+      "text": "<ITEM 17883> könnt ihr vermutlich höchstens\r\n<COL ff2600>bis zum Auftauchen des Lagerbosses</COL>abbauen.\r\nLänger zu bleiben hat keinen Sinn.\r\nKommt zurück, wenn ihr fertig seid."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_jp",
+      "source_jp": "オーク共が増えるほど\r\n<COL ff2600>お前らが掘れる量は少なくなる</COL>\r\n逆に言えば、オークが少ない時はラッキーだ\r\n例えば、将を倒し軍が撤退した後――とかだな",
+      "source_en": "",
+      "text": "Je mehr Orks auftauchen,\r\n<COL ff2600>desto weniger könnt ihr abbauen</COL>.\r\nWenn wenige da sind, habt ihr also Glück.\r\nEtwa wenn ihr ihren General besiegt und sich die Truppen zurückgezogen haben."
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_jp",
+      "source_jp": "掘りに行くなら、まずは採掘場の傍にいる\r\n斥候たちに話を聞くと良い\r\n現在の採掘可能量を、大まかに教えてくれるだろう\r\n迷うことがあれば、奴らに話を聞いてみろ",
+      "source_en": "",
+      "text": "Bevor du zum Abbau aufbrichst, sprich mit den Spähern\r\nbei den Abbaustellen.\r\nSie können ungefähr sagen, wie viel Erz gerade noch zu holen ist.\r\nWenn du dir unsicher bist, frag einfach nach."
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_jp",
+      "source_jp": "おう、物資は貴重だから助かるぜ\r\nその顔は、随分とたくさん採れたみてえだな？",
+      "source_en": "",
+      "text": "Ah, das hilft uns. Unsere Vorräte sind knapp.\r\nDeinem Gesicht nach hast du noch einiges mehr gefunden, was?"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_jp",
+      "source_jp": "アッカーシェランの大地から作った剣で\r\nアッカーシェランを取り戻してくれれば\r\n俺も教えた甲斐があるってもんだ――",
+      "source_en": "",
+      "text": "Wenn ihr Acre Selund mit Schwertern zurückerobert,\r\ndie aus seinem eigenen Erz geschmiedet wurden,\r\nhat sich mein Tipp gelohnt."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_jp",
+      "source_jp": "また掘りに行きたくなったら、わしに言えよ\r\n喜んで案内させてもらうからな",
+      "source_en": "",
+      "text": "Wenn du wieder Erz abbauen willst, sag Bescheid.\r\nIch zeig dir gern, wo du suchen kannst."
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_jp",
+      "source_jp": "<SPOT 1081>で《<ITEM 17883>》を採取できる採取ポイントの数が増えています\r\n＜オークの将が出現していない間＞にたくさん採取し、納品しましょう",
+      "source_en": "",
+      "text": "Bei <SPOT 1081> gibt es mehr Abbaustellen für <ITEM 17883>.\r\nSammle möglichst viel, solange kein Orkgeneral da ist, und gib deine Funde ab."
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_jp",
+      "source_jp": "＜オークの将が出現していない間＞が終了したため、《<ITEM 17883>》の採取ポイント数が通常に戻りました\r\nエリアマスターに納品し、クエストを終了しましょう",
+      "source_en": "",
+      "text": "Ein Orkgeneral ist aufgetaucht. Die Zahl der Abbaustellen für <ITEM 17883> ist wieder normal.\r\nGib deine Funde beim Gebietsmeister ab, um die Quest abzuschließen."
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_jp",
+      "source_jp": "――なに？\r\nあぁ、《<ITEM 17883>》を掘りに行くんだね\r\n今なら狙い目だね、殆ど掘り起こされてない",
+      "source_en": "",
+      "text": "Was gibt’s?\r\nAch, du willst <ITEM 17883> abbauen.\r\nJetzt ist eine gute Gelegenheit. Hier wurde noch kaum etwas abgebaut."
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_jp",
+      "source_jp": "あ――それから、採掘が終わったら\r\n<NPC 2800>さんに\r\nちゃんと＜５＞個納品するんだよ",
+      "source_en": "",
+      "text": "Ach, und denk dran, nach dem Abbau\r\nbei <NPC 2800>\r\nfünf Stück abzugeben."
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_jp",
+      "source_jp": "え――<NPC 2800>さんから聞いてないの？\r\nおっかしいな――ま、きっと忘れてただけだよ\r\n今頃思い出してるさ",
+      "source_en": "",
+      "text": "Was, <NPC 2800> hat dir nichts davon gesagt?\r\nMerkwürdig. Hat er bestimmt bloß vergessen.\r\nInzwischen ist es ihm sicher wieder eingefallen."
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_jp",
+      "source_jp": "シッ――静かに、なに？\r\n《<ITEM 17883>》を掘りに行くの？\r\nオークの援軍が来ているみたいだけど、本気かい\r\nまぁ、一応掘れば少しは出て来るんじゃないかな",
+      "source_en": "",
+      "text": "Psst, sei leise. Was gibt’s?\r\nDu willst <ITEM 17883> abbauen?\r\nDie Orks haben wohl Verstärkung bekommen. Meinst du das ernst?\r\nNa ja, ein bisschen Erz könnte noch übrig sein."
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_jp",
+      "source_jp": "あ――それから、採掘が終わったら\r\n<NPC 2800>さんに\r\nちゃんと＜５＞個納品するんだよ",
+      "source_en": "",
+      "text": "Ach, und denk dran, nach dem Abbau\r\nbei <NPC 2800>\r\nfünf Stück abzugeben."
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_jp",
+      "source_jp": "――本人から聞いていなくても\r\nここで盗掘する人のルールなの！\r\n今頃、<NPC 2800>さんも言い忘れに気付いてるさ",
+      "source_en": "",
+      "text": "Auch wenn er dir nichts davon gesagt hat,\r\ngilt das für alle, die hier heimlich Erz abbauen!\r\nInzwischen ist es <NPC 2800> bestimmt wieder eingefallen."
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_jp",
+      "source_jp": "《<ITEM 17883>》を掘りに行くの？\r\nオークが多すぎて、もう欠片も掘れないと思うよ\r\n将を倒さないといけないんだろうけどね――",
+      "source_en": "",
+      "text": "Du willst <ITEM 17883> abbauen?\r\nHier sind viel zu viele Orks. Ich glaube, da findest du kein Stück mehr.\r\nDa müsste wohl jemand ihren General besiegen …"
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_jp",
+      "source_jp": "もしかして君、スポットボスを倒すつもりなの？\r\nそれなら、スポットボスがいない状態になったら\r\n僕に教えてよ\r\n改めて状況を教えてあげるから",
+      "source_en": "",
+      "text": "Willst du etwa gegen den Lagerboss kämpfen?\r\nDann sag mir Bescheid,\r\nsobald er weg ist.\r\nIch sag dir dann, wie die Lage aussieht."
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_jp",
+      "source_jp": "《<ITEM 17883>》を掘りに行くのか？\r\n今はオークも少ない\r\nたくさん掘れるはずだぞ",
+      "source_en": "",
+      "text": "Willst du <ITEM 17883> abbauen?\r\nGerade sind nur wenige Orks unterwegs.\r\nDa solltest du ordentlich was finden."
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_jp",
+      "source_jp": "採掘がおわったら<NPC 2800>殿に\r\n＜５＞個納品するのは聞いているよな\r\n――なに？　聞いていないのか？",
+      "source_en": "",
+      "text": "Du weißt, dass du bei <NPC 2800>\r\nnach dem Abbau fünf Stück abgeben sollst, oder?\r\nWas? Das hat dir niemand gesagt?"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_jp",
+      "source_jp": "そうか――だとしても、ルールはルールだ\r\n生きて帰れたら、＜５＞個納品する\r\n<NPC 2800>殿も、伝え忘れに気付いた頃じゃないか？",
+      "source_en": "",
+      "text": "Ach so. Die Abmachung gilt trotzdem.\r\nWer lebend zurückkommt, gibt fünf Stück ab.\r\nInzwischen hat <NPC 2800> wohl gemerkt, dass er’s dir nicht gesagt hat."
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_jp",
+      "source_jp": "――《<ITEM 17883>》の盗掘か？\r\n若干オークが増えてきたみたいだけど――\r\nまぁ、まだいくらかは掘れるんじゃないか？",
+      "source_en": "",
+      "text": "Willst du heimlich <ITEM 17883> abbauen?\r\nEs sind wohl ein paar Orks dazugekommen.\r\nAber ein bisschen Erz solltest du noch finden."
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_jp",
+      "source_jp": "採掘後、<NPC 2800>殿に\r\n＜5＞個納品するのは聞いているよな？\r\n聞いていない――そうか",
+      "source_en": "",
+      "text": "Du weißt, dass du bei <NPC 2800>\r\nnach dem Abbau fünf Stück abgeben sollst, oder?\r\nKeiner hat’s dir gesagt? Ach so."
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_jp",
+      "source_jp": "普段は、こう伝えていたよ\r\n\"<NPC 2800>殿に＜５＞個納品するように\"\r\n――あの方も、緊張が解けて緩んでいたのかな\r\n今頃は過ちにも気付いているはずだぞ",
+      "source_en": "",
+      "text": "Sonst haben wir das immer so gesagt.\r\n„Bei <NPC 2800> fünf Stück abgeben.“\r\nVielleicht war er dieses Mal einfach nicht ganz bei der Sache.\r\nInzwischen ist es ihm sicher wieder eingefallen."
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_jp",
+      "source_jp": "《<ITEM 17883>》を掘りに来たのか？\r\nオークがあらかた掘り尽くしてしまったようだ\r\n誰かがスポットボスを倒して\r\nオークが減るまで待つしかないかもな",
+      "source_en": "",
+      "text": "Willst du <ITEM 17883> abbauen?\r\nDie Orks haben offenbar fast alles abgebaut.\r\nDu musst wohl warten, bis jemand den Lagerboss besiegt\r\nund sich die Orks zurückziehen."
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_jp",
+      "source_jp": "え――お前が行くって？\r\nそれじゃ、スポットボスがいない状態になったら\r\n私に声をかけてくれよ\r\n改めて状況を教えてやるからさ",
+      "source_en": "",
+      "text": "Was, du willst selbst gegen ihn kämpfen?\r\nDann komm wieder zu mir,\r\nsobald der Lagerboss weg ist.\r\nIch sag dir dann, wie die Lage aussieht."
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_jp",
+      "source_jp": "<SPOT 1082>で《<ITEM 17883>》を採取できる採取ポイントの数が増えています\r\n＜オークの将が現れるまで＞にたくさん採取し、納品しましょう",
+      "source_en": "",
+      "text": "Bei <SPOT 1082> gibt es mehr Abbaustellen für <ITEM 17883>.\r\nSammle möglichst viel, bevor der Orkgeneral auftaucht, und gib deine Funde ab."
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_jp",
+      "source_jp": "あれ、また来たの？\r\n《<ITEM 17883>》なら、オークが\r\nぜーんぶ、掘り尽くしちゃったじゃん",
+      "source_en": "",
+      "text": "Ach, du schon wieder?\r\nWenn du <ITEM 17883> suchst, kommst du zu spät.\r\nDie Orks haben alles abgebaut."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_jp",
+      "source_jp": "諦めて、<NPC 2800>さんに報告して来たら？",
+      "source_en": "",
+      "text": "Lass es lieber und berichte <NPC 2800> davon."
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_jp",
+      "source_jp": "またお前か\r\n《<ITEM 17883>》なら\r\n全てオーク共の手に渡ってしまったよ――\r\nもう欠片も残されていないんじゃないか",
+      "source_en": "",
+      "text": "Du schon wieder.\r\nVon <ITEM 17883>\r\nhaben die Orks alles mitgenommen.\r\nDa ist wohl kein Stück mehr übrig."
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_jp",
+      "source_jp": "<NPC 2800>殿に報告して\r\n次の機会を待つのが一番だよ",
+      "source_en": "",
+      "text": "Berichte <NPC 2800> davon\r\nund warte auf die nächste Gelegenheit."
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_jp",
+      "source_jp": "君がスポットボスと戦った衝撃で\r\n岩壁が崩れたみたいだ\r\n新たに掘れる《<ITEM 17883>》が\r\nたくさん増えたかもしれないね！",
+      "source_en": "",
+      "text": "Als du gegen den Lagerboss gekämpft hast,\r\nist wohl eine Felswand eingestürzt.\r\nDabei wurde vielleicht jede Menge <ITEM 17883>\r\nfreigelegt!"
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_jp",
+      "source_jp": "あ――それから、採掘が終わったら\r\n<NPC 2800>さんに\r\nちゃんと＜5＞個納品するんだよ",
+      "source_en": "",
+      "text": "Ach, und denk dran, nach dem Abbau\r\nbei <NPC 2800>\r\nfünf Stück abzugeben."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

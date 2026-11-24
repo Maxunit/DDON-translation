@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q19000004.gmd",
+  "arc_path": "\\quest\\q19000004.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_jp",
+      "source_jp": "丘へ向かう",
+      "source_en": "",
+      "text": "Zum Hügel gehen"
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_jp",
+      "source_jp": "関所へ向かう",
+      "source_en": "",
+      "text": "Zur Wegsperre gehen"
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "tag_source": "source_jp",
+      "source_jp": "わかったわ",
+      "source_en": "",
+      "text": "Alles klar."
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "tag_source": "source_jp",
+      "source_jp": "関所へ向かいましょう",
+      "source_en": "",
+      "text": "Gehen wir zur Wegsperre."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

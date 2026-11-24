@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q80301051_00.gmd",
+  "arc_path": "\\quest\\q80301051.arc",
+  "entries": [
+    {
+      "key": "q80301051_00_70",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【調理日課】ロスギル　出張調理",
+      "source_en": "[Daily Cooking] Rothgill - Cooking Trip",
+      "text": "[Täglicher Kochauftrag] Rothgill – Kochen an der Front"
+    },
+    {
+      "key": "q80301051_00_70",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "依頼者から復興に関する\r\n問題解決に挑む",
+      "source_en": "Tackle the issue related to reconstruction,\r\nas presented by the requester",
+      "text": "Nimm dich des Problems beim Wiederaufbau an,\r\ndas dir der Auftraggeber geschildert hat."
+    },
+    {
+      "key": "q80301051_00_3380",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<SPOT 1032> で<NPC 580>と待ち合わせる",
+      "source_en": "Meet with <NPC 580> at <SPOT 1032>",
+      "text": "Triff dich mit <NPC 580> in <SPOT 1032>."
+    },
+    {
+      "key": "q80301051_00_3381",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、<NPC 580>に渡す（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NAME> x<SQDI NUM> to <NPC 580> (need: <SQDI DNUM>)",
+      "text": "Liefere <SQDI NAME> ×<SQDI NUM> an <NPC 580> (noch <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q29999993_00.gmd",
+  "arc_path": "\\quest\\q29999993.arc",
+  "entries": [
+    {
+      "key": "q29999993_00_303",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【危険区域クエスト】\r\nダンジョン内の危険区域へ繋がる扉の鍵を作り\r\n凶悪な魔物を討伐する",
+      "source_en": "[Dangerous Area Quest]\r\nMake a key to the door leading to the Dangerous \r\nArea in the dungeon and defeat Brutal monsters.",
+      "text": "Gefahrenzone\r\nFertige einen Schlüssel für die Tür zur Gefahrenzone im Verlies.\r\nBesiege dort die gefährlichen Monster."
+    },
+    {
+      "key": "q29999993_00_303",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のダンジョン内部は、特別な\r\n鍵を持った者だけが入れる場所があるらしい",
+      "source_en": "Within the <NAME AREA> dungeon, \r\nthere is a place that only those who possess\r\na special key can enter.",
+      "text": "Im Verlies von <NAME AREA>\r\nsoll es einen Bereich geben,\r\nden man nur mit einem besonderen Schlüssel betreten kann."
+    },
+    {
+      "key": "q29999993_00_1170",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した凶悪な魔物を討伐する",
+      "source_en": "Defeat the encountered monstrosities",
+      "text": "Besiege die gefährlichen Monster, denen du begegnest."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q29300001_00.gmd",
+  "arc_path": "\\quest\\q29300001.arc",
+  "entries": [
+    {
+      "key": "q29300001_00_674",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【ウォーミッション】\r\n占領されたジフール砦へ進攻し\r\n悪しき竜軍の部隊長を討伐する",
+      "source_en": "[War Mission]\r\nAdvance towards the occupied Jifule Fortress\r\nand eliminate the Commanding Officer\r\nof the Evil Dragon army.",
+      "text": "Kriegsmission\r\nDring in die besetzte Festung Jifule vor\r\nund besiege den Befehlshaber\r\ndes Heers des Bösen Drachen."
+    },
+    {
+      "key": "q29300001_00_674",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のジフール砦が\r\n悪しき竜軍に占領されてしまったようだ",
+      "source_en": "It seems that Jifule Fortress\r\nin <NAME AREA> has been occupied\r\nby the forces of the Evil Dragon.",
+      "text": "Die Festung Jifule\r\nin <NAME AREA> wurde offenbar\r\nvom Heer des Bösen Drachen besetzt."
+    },
+    {
+      "key": "q29300001_00_674",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にある《ジフール砦》が\r\n敵の手中に落ちてしまった\r\n現在、悪しき竜軍を退け再び奪還するため\r\n少数精鋭となる討伐隊を募集中だ\r\n砦内に潜む敵を一掃し、明日への希望の糧とするのだ",
+      "source_en": "The Jifule Fortress in <NAME AREA>\r\nhas fallen into enemy hands.\r\nWe are recruiting an elite team to repel\r\nthe Evil Dragon forces and reclaim it.\r\nClear the enemies within the fortress\r\nand serve as a beacon of hope for tomorrow.",
+      "text": "Die Festung Jifule in <NAME AREA>\r\nist in Feindeshand gefallen.\r\nWir suchen eine kleine Gruppe fähiger Kämpfer,\r\num die Truppen des Bösen Drachen zurückzuschlagen und die Festung zurückzuerobern.\r\nVertreibt die Feinde aus der Festung\r\nund gebt den Menschen wieder Hoffnung."
+    },
+    {
+      "key": "q29300001_00_1287",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "砦内へ進攻する",
+      "source_en": "Advance into the fortress",
+      "text": "Dring in die Festung vor."
+    },
+    {
+      "key": "q29300001_00_1288",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "中央広場を占領する悪しき竜軍を討伐する",
+      "source_en": "Defeat the Evil Dragon army occupying the Central Plaza",
+      "text": "Besiege die Truppen des Bösen Drachen, die den Zentralplatz besetzen."
+    },
+    {
+      "key": "q29300001_00_1302",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "エリアへ進攻中の敵軍を討伐する",
+      "source_en": "Defeat the enemy army in the attack area",
+      "text": "Besiege die Feinde, die in das Gebiet vorrücken."
+    },
+    {
+      "key": "q29300001_00_1303",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "進行マーカーへ集合し、砦へ移動する",
+      "source_en": "Gather at the progress marker and move to the fortress",
+      "text": "Versammle deine Gruppe an der Markierung und begib dich zur Festung."
+    },
+    {
+      "key": "q29300001_00_1306",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ウォルトへ報告する",
+      "source_en": "Report to Walt",
+      "text": "Erstatte Walt Bericht."
+    },
+    {
+      "key": "q29300001_00_1314",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "現れた骸の将をその場で討伐する",
+      "source_en": "Eliminate the Necro Master at the location",
+      "text": "Besiege den Totengeneral vor Ort."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

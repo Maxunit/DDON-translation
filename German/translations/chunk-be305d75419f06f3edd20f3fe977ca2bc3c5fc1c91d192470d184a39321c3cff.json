@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018011_00.gmd",
+  "arc_path": "\\quest\\q22018011.arc",
+  "entries": [
+    {
+      "key": "q22018011_00_651",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "暗躍者の露払い",
+      "source_en": "Expose The One in the Shadows",
+      "text": "Aufräumen für die Plünderer"
+    },
+    {
+      "key": "q22018011_00_651",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest]\r\nListen to the requester's wish.\r\nDefeat the ferocious enemy\r\nwithout reviving even once.",
+      "text": "Kampf ohne Wiederbelebung\r\nHör dir die Bitte des Auftraggebers an.\r\nBesiege den rasenden Gegner,\r\nohne dich wiederbeleben zu lassen."
+    },
+    {
+      "key": "q22018011_00_651",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the <NAME AREA> \r\nappears to be testing their skills\r\nin a battle against an enemy.",
+      "text": "Jemand in <NAME AREA>\r\nwill offenbar sein Können\r\nim Kampf gegen ein Monster erproben."
+    },
+    {
+      "key": "q22018011_00_651",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "盗賊たちは、戦時中でもたくましく\r\n解放された遺跡なんかの火事場泥棒を\r\n狙っているようなんだ\r\n協力してもらう手前、強くは言えねえけど\r\nなんだかなぁ、って感じだよな",
+      "source_en": "Thieves remain resilient even in wartime,\r\ntargeting disaster-struck ruins like vultures.\r\nI can't speak too harshly, given our need for help,\r\nbut it's really disheartening.",
+      "text": "Die Diebe lassen sich auch vom Krieg nicht aufhalten.\r\nSobald eine Ruine wieder zugänglich ist, fallen sie darüber her.\r\nWir brauchen ihre Hilfe. Darum kann ich schlecht was dagegen sagen.\r\nAber gutheißen kann ich’s auch nicht."
+    },
+    {
+      "key": "q22018011_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Geh zum angegebenen Ort und spüre die rasenden Monster auf."
+    },
+    {
+      "key": "q22018011_00_1175",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die angetroffenen Monster."
+    },
+    {
+      "key": "q22018011_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte dem Auftraggeber, was geschehen ist."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

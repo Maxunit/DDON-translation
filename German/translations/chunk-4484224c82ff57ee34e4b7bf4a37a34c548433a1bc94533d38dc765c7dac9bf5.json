@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q29999998.gmd",
+  "arc_path": "\\quest\\q29999998.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "納品テスト２納品時テキスト",
+      "source_en": "",
+      "text": "Abgabetest 2, Text bei der Abgabe"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "納品テスト２受注前テキスト",
+      "source_en": "",
+      "text": "Abgabetest 2, Text vor der Auftragsannahme"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "納品テスト２納品前テキスト",
+      "source_en": "",
+      "text": "Abgabetest 2, Text vor der Abgabe"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "納品テスト２納品後テキスト",
+      "source_en": "",
+      "text": "Abgabetest 2, Text nach der Abgabe"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "納品テスト２討伐後テキスト",
+      "source_en": "",
+      "text": "Abgabetest 2, Text nach dem Kampf"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

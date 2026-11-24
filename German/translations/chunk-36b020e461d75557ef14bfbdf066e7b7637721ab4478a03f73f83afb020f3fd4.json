@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22020004_00.gmd",
+  "arc_path": "\\quest\\q22020004.arc",
+  "entries": [
+    {
+      "key": "q22020004_00_717",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "激昂の処刑人",
+      "source_en": "Furious Executioner",
+      "text": "Der rasende Henker"
+    },
+    {
+      "key": "q22020004_00_717",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die Gegner, denen du begegnest."
+    },
+    {
+      "key": "q22020004_00_717",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>付近で\r\n不気味な物音が周辺に響いているらしい",
+      "source_en": "There seems to be an eerie sound echoing around \r\nthe vicinity of <NAME AREA>.",
+      "text": "Ein unheimliches Geräusch soll\r\nin der Umgebung von <NAME AREA> widerhallen."
+    },
+    {
+      "key": "q22020004_00_717",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "これを読んだ者に告ぐ、十分に注意しろ――\r\n俺たちはいつものように討伐隊を組み装備を整え\r\nいつもの場所へと向かった\r\nしかしその日はいつもと違った\r\nまさか、あんな恐ろしい目に合うとは",
+      "source_en": "To whoever reads this, heed this warning—\r\nWe assembled our usual team\r\nand equipped ourselves as we always do,\r\nheading to the usual place.\r\nBut that day was unlike any other.\r\nWe never imagined we'd encounter such horror.",
+      "text": "Wer das hier liest, sei gewarnt.\r\nWir haben unseren üblichen Trupp zusammengestellt,\r\nuns ausgerüstet wie immer\r\nund sind zum selben Ort aufgebrochen wie sonst.\r\nDoch an diesem Tag war alles anders.\r\nAuf so etwas Grauenhaftes war keiner von uns gefasst."
+    },
+    {
+      "key": "q22020004_00_806",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した敵を討伐する",
+      "source_en": "Defeat encountered foe(s)",
+      "text": "Besiege die Gegner, denen du begegnest."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

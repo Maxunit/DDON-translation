@@ -1,0 +1,80 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q29999995_00.gmd",
+  "arc_path": "\\quest\\q29999995.arc",
+  "entries": [
+    {
+      "key": "q29999995_00_297",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【連続討伐クエスト】\r\nエリアマスターの願いを聞き入れ\r\nダンジョン付近にて起きている問題を調査する",
+      "source_en": "[Consecutive Subjugation Quest]\r\nGrant the wish of the Area Master\r\nand investigate the issues\r\noccurring near the dungeon.",
+      "text": "Jagdauftrag in mehreren Etappen\r\nHör dir die Bitte des Gebietsmeisters an.\r\nFinde heraus,\r\nwas in der Nähe des Verlieses vor sich geht."
+    },
+    {
+      "key": "q29999995_00_297",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>のエリアマスターが\r\nダンジョン付近の不穏な空気を警戒しているようだ",
+      "source_en": "The Area Master of <NAME AREA>\r\nis wary to the unrest near the dungeon.",
+      "text": "Der Gebietsmeister von <NAME AREA>\r\nmacht sich wegen der unheimlichen Stimmung beim Verlies Sorgen."
+    },
+    {
+      "key": "q29999995_00_1161",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所を調べる",
+      "source_en": "Investigate the specified location",
+      "text": "Untersuche den angegebenen Ort."
+    },
+    {
+      "key": "q29999995_00_1162",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die angetroffenen Monster."
+    },
+    {
+      "key": "q29999995_00_1163",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "指定されたダンジョン内を捜索する",
+      "source_en": "Search within the specified dungeon",
+      "text": "Durchsuche das angegebene Verlies."
+    },
+    {
+      "key": "q29999995_00_1164",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "ダンジョン内の各所の魔物を討伐する（残り３）",
+      "source_en": "Defeat the monsters at locations in the dungeon (3 left)",
+      "text": "Besiege die Monster im Verlies (noch 3 Orte)."
+    },
+    {
+      "key": "q29999995_00_1165",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "エリアマスターに経緯を報告する",
+      "source_en": "Report to the Area Master",
+      "text": "Berichte dem Gebietsmeister, was geschehen ist."
+    },
+    {
+      "key": "q29999995_00_1184",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "ダンジョン内の各所の魔物を討伐する（残り２）",
+      "source_en": "Defeat the monsters at locations in the dungeon (2 left)",
+      "text": "Besiege die Monster im Verlies (noch 2 Orte)."
+    },
+    {
+      "key": "q29999995_00_1185",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "ダンジョン内の各所の魔物を討伐する（残り１）",
+      "source_en": "Defeat the monsters at locations in the dungeon (1 left)",
+      "text": "Besiege die Monster im Verlies (noch 1 Ort)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

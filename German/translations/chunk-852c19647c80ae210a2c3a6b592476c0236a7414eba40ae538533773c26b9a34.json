@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018057_00.gmd",
+  "arc_path": "\\quest\\q22018057.arc",
+  "entries": [
+    {
+      "key": "q22018057_00_710",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "悪を断ち切る抑止力",
+      "source_en": "The Power to Deter Evil",
+      "text": "Die Macht, das Böse aufzuhalten"
+    },
+    {
+      "key": "q22018057_00_710",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest]\r\nListen to the requester's wish.\r\nDefeat the ferocious enemy\r\nwithout reviving even once.",
+      "text": "Kampf ohne Wiederbelebung\r\nHör dir die Bitte des Auftraggebers an.\r\nBesiege den rasenden Gegner,\r\nohne dich wiederbeleben zu lassen."
+    },
+    {
+      "key": "q22018057_00_710",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the <NAME AREA> \r\nappears to be testing their skills\r\nin a battle against an enemy.",
+      "text": "Jemand in <NAME AREA>\r\nwill offenbar sein Können\r\nim Kampf gegen ein Monster erproben."
+    },
+    {
+      "key": "q22018057_00_710",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ん～、どうしたもんかな――\r\n魔物をどんだけやっつけても数が減らねえと\r\n思っていたら、ヤツら別の地方から\r\n呼び寄せてやがったんだ\r\n一発ガツンと分からせてやらねぇとな",
+      "source_en": "Hmm, what should we do...?\r\nEven after defeating countless monsters,\r\ntheir numbers don't seem to drop.\r\nIt appears they're summoning more\r\nfrom the surrounding regions.\r\nWe need to hit them hard to send a message.",
+      "text": "Hm, was machen wir denn jetzt?\r\nWir haben schon so viele Monster erledigt,\r\naber es werden einfach nicht weniger.\r\nAnscheinend rufen sie sich Verstärkung\r\naus anderen Gegenden herbei.\r\nDenen müssen wir eine ordentliche Abreibung verpassen."
+    },
+    {
+      "key": "q22018057_00_1162",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die angetroffenen Monster."
+    },
+    {
+      "key": "q22018057_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Geh zum angegebenen Ort und spüre die rasenden Monster auf."
+    },
+    {
+      "key": "q22018057_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte dem Auftraggeber, was geschehen ist."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

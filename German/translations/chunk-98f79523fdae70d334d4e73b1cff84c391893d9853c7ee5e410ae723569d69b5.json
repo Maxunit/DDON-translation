@@ -1,0 +1,112 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q22018026.gmd",
+  "arc_path": "\\quest\\q22018026.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "今日も依頼を聞いて回ってるのか？\r\n精が出るな",
+      "source_en": "",
+      "text": "Fragst du heute wieder alle, ob sie Aufträge haben?\r\nDu bist ganz schön fleißig."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "一つ、俺からも頼まれてくれないか\r\n物資の調達を依頼したいんだが――",
+      "source_en": "",
+      "text": "Kannst du auch für mich etwas erledigen?\r\nIch brauche ein paar Vorräte."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "《<QDEL NAME 0 3>》を＜<QDEL NUM 0 3>＞個\r\n手に入れて、ここまで持ってきてくれ\r\nなかなか自由に動く機会が無くてな\r\nそれじゃあ、よろしく頼む",
+      "source_en": "",
+      "text": "Besorg <QDEL NAME 0 3> (<QDEL NUM 0 3> Stück)\r\nund bring sie mir hierher.\r\nIch kann hier nur selten weg.\r\nDanke, ich zähle auf dich."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "《<QDEL NAME 0 3>》を＜<QDEL NUM 0 3>＞個\r\n手に入れて、ここまで持ってきてくれ\r\nなかなか自由に動く機会が無くてな",
+      "source_en": "",
+      "text": "Besorg <QDEL NAME 0 3> (<QDEL NUM 0 3> Stück)\r\nund bring sie mir hierher.\r\nIch kann hier nur selten weg."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "この村はうまくやってはいるが\r\n急に何か入り用になっても\r\n調達に出られる人手が少ないんだ\r\nそれじゃあ、よろしく頼む",
+      "source_en": "",
+      "text": "Unser Dorf kommt ganz gut zurecht.\r\nAber wenn uns plötzlich etwas fehlt,\r\nhaben wir kaum Leute, die es besorgen können.\r\nDanke, ich zähle auf dich."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "おお、これだ！\r\n数もぴったりだ、礼を言おう\r\n――実は、もう一つ頼みたいことを\r\n思い出したんだが聞いてくれるか？",
+      "source_en": "",
+      "text": "Oh, genau das hab ich gebraucht!\r\nUnd die Menge stimmt auch. Danke dir.\r\nMir fällt ein, dass ich noch eine Bitte hätte.\r\nHörst du mich kurz an?"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "退治してほしい魔物がいるんだ\r\n俺はそいつを見たことはないんだが\r\nシェケルが心配してるんだよ\r\n「夜な夜な影の魔物が村の傍に来ている」ってな",
+      "source_en": "",
+      "text": "Ein Monster macht uns zu schaffen.\r\nIch hab es selbst noch nicht gesehen,\r\naber Shekel macht sich Sorgen.\r\nSie sagt, jede Nacht schleicht ein Schattenmonster ums Dorf."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "最初は気のせいだろうと思ったんだが\r\n最近、<STG 1061>が開いただろ\r\nで、その辺りから来た旅人が\r\n\"恐ろしい影の魔物\"について話してたんだ",
+      "source_en": "",
+      "text": "Erst dachte ich, sie bildet sich das bloß ein.\r\nAber seit Kurzem kommt man wieder nach <STG 1061>.\r\nEin Reisender aus der Gegend\r\nhat von einem furchterregenden Schattenmonster erzählt."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "多分、あの辺りの魔物が\r\n夜になるとこの村の近くまで来ているんだろう\r\n村が襲われる前に何とかカタを付けてきてくれ",
+      "source_en": "",
+      "text": "Wahrscheinlich kommen die Monster aus der Gegend\r\nnachts bis hierher.\r\nKümmere dich um sie, bevor sie das Dorf angreifen."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "最近、<STG 1061>が開いただろ\r\nで、その辺りから来た旅人が\r\n\"恐ろしい影の魔物\"について話してたんだ",
+      "source_en": "",
+      "text": "Seit Kurzem kommt man wieder nach <STG 1061>.\r\nEin Reisender aus der Gegend\r\nhat von einem furchterregenden Schattenmonster erzählt."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "多分、あの辺りの魔物が\r\n夜になるとこの村の近くまで来ているんだろう\r\n村が襲われる前に何とかカタを付けてきてくれ",
+      "source_en": "",
+      "text": "Wahrscheinlich kommen die Monster aus der Gegend\r\nnachts bis hierher.\r\nKümmere dich um sie, bevor sie das Dorf angreifen."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "手を煩わせてすまなかったな\r\nこれで村が\"影の魔物\"に襲われることは\r\n無くなっただろう",
+      "source_en": "",
+      "text": "Danke, dass du dir die Mühe gemacht hast.\r\nJetzt müssen wir nicht mehr fürchten,\r\ndass das Schattenmonster unser Dorf angreift."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "ここで暮らす人間はもちろんだが\r\n疲れ果てて頼ってくる旅人たちにも\r\nここは大切な場所だからな",
+      "source_en": "",
+      "text": "Das Dorf bedeutet nicht nur uns viel.\r\nErschöpfte Reisende finden hier\r\neinen Ort, an dem sie sich ausruhen können."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

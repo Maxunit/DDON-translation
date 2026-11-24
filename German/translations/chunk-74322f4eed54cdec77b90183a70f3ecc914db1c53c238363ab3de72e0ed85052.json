@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018041_00.gmd",
+  "arc_path": "\\quest\\q22018041.arc",
+  "entries": [
+    {
+      "key": "q22018041_00_693",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "霧の中に猛る狂乱",
+      "source_en": "Fury in the Fog",
+      "text": "Raserei im Nebel"
+    },
+    {
+      "key": "q22018041_00_693",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【偶発討伐クエスト】\r\n出現した危険な魔物を追い詰め\r\n討伐する",
+      "source_en": "[Chance Encounter: Subjugation Quest]\r\nTrack down the dangerous enemy\r\nthat has appeared and defeat it.",
+      "text": "Zufällige Begegnung\r\nVerfolge das gefährliche Monster\r\nund besiege es."
+    },
+    {
+      "key": "q22018041_00_693",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "不確実な情報だが、<NAME AREA>から\r\n狂暴な魔物のしわざと思われる被害報告があった",
+      "source_en": "Although the information is uncertain,\r\nthere have been reports of damage\r\nbelieved to be caused by violent creatures\r\nin <NAME AREA>.\r\n",
+      "text": "Es ist noch unklar,\r\nwas genau geschehen ist.\r\nMan meldet Schäden durch rasende Monster\r\nin <NAME AREA>.\r\n"
+    },
+    {
+      "key": "q22018041_00_693",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "まったく、オークってやつは狡猾な連中だよ\r\n戦ってる最中、いつの間にか援軍を呼ばれて\r\n気付いたら何倍ものオークに囲まれてる\r\n俺もこないだ、一匹と戦っていたはずが\r\nいつの間にか集団に取り囲まれていて――\r\nううっ、思い出したくもないぜ",
+      "source_en": "Orcs are truly cunning.\r\nWhile you're fighting, they call for reinforcements,\r\nand before you know it, you're surrounded\r\nby many more. Just the other day,\r\nI was fighting one, only to find myself\r\nsurrounded by a group――\r\nUgh, I don't even want to remember it.",
+      "text": "Orks sind wirklich verschlagen.\r\nMitten im Kampf rufen sie Verstärkung,\r\nund ehe du’s merkst, sind sie in der Überzahl und haben dich umzingelt.\r\nNeulich hab ich gegen einen einzigen gekämpft,\r\nund plötzlich hatte ich eine ganze Horde am Hals.\r\nUff …\r\nDaran will ich gar nicht mehr denken."
+    },
+    {
+      "key": "q22018041_00_1254",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "出現した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die aufgetauchten Monster."
+    },
+    {
+      "key": "q22018041_00_1256",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "魔物の行方を追う",
+      "source_en": "Track down the foe(s)",
+      "text": "Folge der Spur der Monster."
+    },
+    {
+      "key": "q22018041_00_1257",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "危険な魔物を追い詰め、止めを刺す",
+      "source_en": "Hunt down and stop the dangerous monsters",
+      "text": "Hol die gefährlichen Monster ein und besiege sie."
+    },
+    {
+      "key": "q22018041_00_1274",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "魔物が落とした痕跡を調べる",
+      "source_en": "Examine the traces left by the demon",
+      "text": "Untersuche die Spuren, die das Monster hinterlassen hat."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

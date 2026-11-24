@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018032_00.gmd",
+  "arc_path": "\\quest\\q22018032.arc",
+  "entries": [
+    {
+      "key": "q22018032_00_672",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "真白き戦慄",
+      "source_en": "The White Terror",
+      "text": "Das weiße Grauen"
+    },
+    {
+      "key": "q22018032_00_672",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest]\r\nListen to the requester's wish.\r\nDefeat the ferocious enemy\r\nwithout reviving even once.",
+      "text": "Kampf ohne Wiederbelebung\r\nHör dir die Bitte des Auftraggebers an.\r\nBesiege den rasenden Gegner,\r\nohne dich wiederbeleben zu lassen."
+    },
+    {
+      "key": "q22018032_00_672",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the <NAME AREA> \r\nappears to be testing their skills\r\nin a battle against an enemy.",
+      "text": "Jemand in <NAME AREA>\r\nwill offenbar sein Können\r\nim Kampf gegen ein Monster erproben."
+    },
+    {
+      "key": "q22018032_00_672",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "最近、変な地鳴りが聞こえない？\r\nオークが暴れているのかと思ったけど\r\nこう、大きな生き物が歩いているような――\r\n昔のアッカ―シェランを知っていて\r\n博識な人に、聞いてみようかしら",
+      "source_en": "Recently, have you noticed any odd rumbling?\r\nI thought it might be the Orcs causing the noise,\r\nbut it sounds more like a big creature walking—\r\nI wonder if I should consult someone well-versed\r\nin the history of Acre Selund.",
+      "text": "Hast du in letzter Zeit dieses seltsame Grollen gehört?\r\nErst dachte ich, die Orks machen Krach.\r\nAber es klingt, als würde ein riesiges Tier umherlaufen.\r\nVielleicht sollte ich jemanden fragen,\r\nder sich mit der Geschichte von Acre Selund auskennt."
+    },
+    {
+      "key": "q22018032_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Geh zum angegebenen Ort und spüre die rasenden Monster auf."
+    },
+    {
+      "key": "q22018032_00_1175",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die angetroffenen Monster."
+    },
+    {
+      "key": "q22018032_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte dem Auftraggeber, was geschehen ist."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

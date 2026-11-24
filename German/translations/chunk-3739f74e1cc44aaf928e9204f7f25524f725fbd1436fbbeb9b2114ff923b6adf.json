@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q30200036_00.gmd",
+  "arc_path": "\\quest\\q30200036.arc",
+  "entries": [
+    {
+      "key": "q30200036_00_534",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【高難度】必要な物資",
+      "source_en": "[Hard] Necessary Supplies",
+      "text": "[Schwer] Benötigte Vorräte"
+    },
+    {
+      "key": "q30200036_00_534",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<LQIM>を<LQVA>個集めよとの命令よ\r\nあなたに任せたいのだけれど、いいかしら",
+      "source_en": "The order is to collect <LQVA> <LQIM>.\r\nI'd like to entrust this to you if that's alright.",
+      "text": "Der Auftrag lautet, <LQVA> × <LQIM> zu sammeln.\r\nKann ich dir das anvertrauen?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

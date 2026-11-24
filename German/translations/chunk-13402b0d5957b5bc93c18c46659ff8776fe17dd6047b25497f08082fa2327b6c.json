@@ -1,0 +1,30 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q22018027.gmd",
+  "arc_path": "\\quest\\q22018027.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_jp",
+      "source_jp": "採取後、<NPC 3050>さんに\r\n＜５＞個納品するのが規則というのは――\r\nすでにお聞きでしょうか？",
+      "source_en": "",
+      "text": "Bei <NPC 3050>\r\nsollst du nach dem Sammeln fünf Stück abgeben.\r\nDas ist die Regel hier. Hast du schon davon gehört?"
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_jp",
+      "source_jp": "聞いていない――おかしいですね\r\n\"<NPC 3050>さんに＜５＞個納品する\"\r\nいつもお伝えしているはずなんですが",
+      "source_en": "",
+      "alternate_sources": [
+        {
+          "source_jp": "聞いていない――おかしいですね\r\n\"<NPC 3050>さんに＜５＞個納品する\"\r\nいつもお伝えしているはずなんですが",
+          "source_en": "I haven't heard anything—that's odd, I was always to tell you to deliver five to <NPC 3050>."
+        }
+      ],
+      "text": "Du hast nichts davon gehört? Merkwürdig.\r\n„Gib bei <NPC 3050> fünf Stück ab“,\r\nsagen wir eigentlich immer."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

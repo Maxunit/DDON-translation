@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018033_00.gmd",
+  "arc_path": "\\quest\\q22018033.arc",
+  "entries": [
+    {
+      "key": "q22018033_00_685",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "いにしえの邪眼",
+      "source_en": "Ancient Evil Eye",
+      "text": "Das uralte böse Auge"
+    },
+    {
+      "key": "q22018033_00_685",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "古の洞窟の奥底に潜む\r\n邪悪な魔物を討伐する",
+      "source_en": "Defeat the evil monster lurking in the depths\r\nof the ancient cave",
+      "text": "Besiege das böse Monster, das tief\r\nin der alten Höhle lauert."
+    },
+    {
+      "key": "q22018033_00_685",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>から緊急報告\r\n至急、魔物らしき脅威を排除されたし、とのこと",
+      "source_en": "Urgent report from <NAME AREA>.\r\nIt is imperative to swiftly remove\r\nthe presenting threat of monsters.",
+      "text": "Eilmeldung aus <NAME AREA>.\r\nDie Bedrohung durch das Monster\r\nmuss umgehend beseitigt werden."
+    },
+    {
+      "key": "q22018033_00_685",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "おぞましい姿のあの魔物が\r\n姿を消したのも一時のこと――\r\nまたしてのかの地に現れたようですね\r\n覚者さま、どうかもう一度この<AREA 19>に\r\n平和をもたらしてくださいませ",
+      "source_en": "That monstrous being, so terrible to behold,\r\nwas only gone for a short while—\r\nIt has made its appearance in that region again.\r\nArisen, we beg of thee, kindly restore peace\r\nto <AREA 19> once again.",
+      "text": "Das schreckliche Monster\r\nwar nur für kurze Zeit verschwunden.\r\nNun ist es erneut in jener Gegend aufgetaucht.\r\nBitte bring\r\nden Frieden nach <AREA 19> zurück."
+    },
+    {
+      "key": "q22018033_00_1150",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "邪悪な魔物を討伐する",
+      "source_en": "Defeat the foe(s)",
+      "text": "Besiege das böse Monster."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

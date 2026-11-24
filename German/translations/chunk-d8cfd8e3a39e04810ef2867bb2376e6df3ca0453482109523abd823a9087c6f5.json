@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q22018056.gmd",
+  "arc_path": "\\quest\\q22018056.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_jp",
+      "source_jp": "《火垂れ山の火山灰》を\r\n＜５＞袋分、確かに受け取りました\r\n覚者様も収穫があったようで何よりです",
+      "source_en": "",
+      "text": "Fünf Beutel Asche vom Feuerfallberg\r\nsind angekommen.\r\nEs freut mich, dass sich das Sammeln auch für dich gelohnt hat."
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_jp",
+      "source_jp": "火山灰は止むことなく降りつづけます\r\nまた、採取にご協力頂けるのであれば\r\nお声をかけてください",
+      "source_en": "",
+      "text": "Die Vulkanasche fällt unaufhörlich.\r\nWenn du wieder beim Sammeln helfen möchtest,\r\nsprich mich gern an."
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "tag_source": "source_jp",
+      "source_jp": "＜原種の縄張り＞に＜火垂れ山の火山灰＞が溜まっています\r\n＜スポットボスが出現していない時間＞に採取し、納品しましょう",
+      "source_en": "",
+      "text": "Im Revier der Urorks hat sich Asche vom Feuerfallberg abgelagert.\r\nSammle sie, solange kein Lagerboss da ist, und gib deine Funde ab."
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "tag_source": "source_jp",
+      "source_jp": "＜還れぬ炎の吹き溜まり＞に＜火垂れ山の火山灰＞が溜まっています\r\n＜スポットボスが出現していない時間＞に採取し、納品しましょう",
+      "source_en": "",
+      "text": "Im Becken der ewigen Flammen hat sich Asche vom Feuerfallberg abgelagert.\r\nSammle sie, solange kein Lagerboss da ist, und gib deine Funde ab."
+    },
+    {
+      "key": "",
+      "read_index": "49",
+      "tag_source": "source_jp",
+      "source_jp": "＜スポットボスが出現していない時間＞が終了したため\r\n火山灰の採取が難しくなりました\r\nエリアマスターに納品し、クエストを終了しましょう",
+      "source_en": "",
+      "text": "Ein Lagerboss ist aufgetaucht.\r\nDadurch ist es schwieriger geworden, Vulkanasche zu sammeln.\r\nGib deine Funde beim Gebietsmeister ab, um die Quest abzuschließen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q22018000.gmd",
+  "arc_path": "\\quest\\q22018000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "ああ、あんたは――\r\n他の国から来た覚者、だったか",
+      "source_en": "",
+      "text": "Ah, du bist doch …\r\nder Erweckte aus einem anderen Land, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "なんか不思議だな、下っ端の俺たちには\r\n覚者なんてものも、この国以外の土地も\r\n縁が無いモンだと思っていたんだけどな",
+      "source_en": "",
+      "text": "Schon seltsam. Ich hätte nie gedacht,\r\ndass einfache Soldaten wie wir mal einem Erweckten begegnen.\r\nGeschweige denn jemandem von außerhalb des Landes."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "腹が減っているのかい？\r\n悪いけど、食料は無くなっちまったんだ――\r\n昨晩のうちに、近くに潜んでいたオーク共の\r\n残党に根こそぎ盗まれちまったみたいで",
+      "source_en": "",
+      "text": "Hunger?\r\nTut mir leid, wir haben nichts mehr zu essen.\r\nDie versprengten Orks, die sich hier herumtreiben,\r\nhaben wohl letzte Nacht alle Vorräte geplündert."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "本当に気分が落ち込むよ――\r\nただでさえ少ない食料を\r\nこうしてかすめ取られるなんてさ",
+      "source_en": "",
+      "text": "Das macht mich echt fertig.\r\nWir hatten ohnehin kaum noch was zu essen.\r\nJetzt haben sie uns auch das noch gestohlen."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "なぁ――あんた、随分と腕が立つって噂じゃないか\r\nもしよかったら、作戦の合間にでも\r\n奴らを見つけてぶちのめしてきてくれないか？",
+      "source_en": "",
+      "text": "Sag mal, du sollst doch einiges draufhaben.\r\nWenn du zwischen deinen Einsätzen Zeit hast,\r\nkönntest du die Kerle aufspüren und ihnen eine Lektion erteilen?"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "奴らの足跡は、＜<STG 1002>＞の方へ\r\n続いていた――おそらくそこが根城だと思う\r\n俺たちみんなの恨み、晴らしてきてくれ！",
+      "source_en": "",
+      "text": "Ihre Spuren führen in Richtung <STG 1002>.\r\nVermutlich haben sie dort ihr Versteck.\r\nZeig ihnen, dass sie uns nicht ungestraft bestehlen!"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "こんなことになったのは、俺の管理のせいでもある\r\n償えるなら、なんでもしたいが――\r\nそれで飢えが収まるわけじゃない\r\nだから、せめて再発の阻止くらいはしたいんだ",
+      "source_en": "",
+      "text": "Ich hätte besser auf die Vorräte aufpassen müssen.\r\nIch würde alles tun, um das wiedergutzumachen.\r\nAber davon wird keiner satt.\r\nIch kann wenigstens dafür sorgen, dass es nicht wieder passiert."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "奴らの足跡は、＜<STG 1002>＞の方へ\r\n続いていた――おそらくそこが根城だと思う\r\n食料を奪われた恨み、晴らしてきてくれ！",
+      "source_en": "",
+      "text": "Ihre Spuren führen in Richtung <STG 1002>.\r\nVermutlich haben sie dort ihr Versteck.\r\nLass die Kerle für unsere gestohlenen Vorräte büßen!"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "まさか――やってきてくれたのか\r\nやっぱり、犯人はオークたちだったんだな\r\n盗まれた食料は持ち帰らなくて正解だよ\r\n何を入れられたかわかったモンじゃないしな",
+      "source_en": "",
+      "text": "Was … du hast dich wirklich darum gekümmert?\r\nEs waren also tatsächlich die Orks.\r\nGut, dass du das Essen nicht zurückgebracht hast.\r\nWer weiß, was sie da reingemischt haben."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "日々落ち込むばかりだが――\r\nあんたのおかげで、少し明るい気持ちになったよ\r\n食料なら、なんとか切り詰めて乗り越えるさ",
+      "source_en": "",
+      "text": "In letzter Zeit ging’s mir jeden Tag schlechter.\r\nDank dir bin ich wieder etwas zuversichtlicher.\r\nWir teilen uns das Essen ein und kommen schon durch."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "本当にありがとうな！",
+      "source_en": "",
+      "text": "Vielen Dank, wirklich!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

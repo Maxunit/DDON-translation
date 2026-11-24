@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q30200006_00.gmd",
+  "arc_path": "\\quest\\q30200006.arc",
+  "entries": [
+    {
+      "key": "q30200006_00_504",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "執務官からの討伐依頼",
+      "source_en": "Suppression Order from an Official",
+      "text": "Jagdauftrag eines Verwalters"
+    },
+    {
+      "key": "q30200006_00_504",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "覚者様、討伐のご依頼です\r\n<LQEM>を<LQVA>体倒していただけませんか\r\n覚者様のお力をお示しください",
+      "source_en": "Arisen, an extermination request has come in.\r\nWill you slay <LQVA> of the <LQEM> for us?\r\nPlease, demonstrate the strength you possess.",
+      "text": "Erweckter, uns hat ein Jagdauftrag erreicht.\r\nBesiege bitte <LQVA> × <LQEM>.\r\nZeig uns, was in dir steckt."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

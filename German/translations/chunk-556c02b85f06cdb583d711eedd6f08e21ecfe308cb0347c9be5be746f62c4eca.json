@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q29999992.gmd",
+  "arc_path": "\\quest\\q29999992.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "あら、あなた覚者？\r\nちょうど良かったわ、助けてほしいの",
+      "source_en": "",
+      "text": "Oh, du bist ein Erweckter?\r\nDu kommst gerade recht. Ich brauche deine Hilfe."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "仲間が怪我をしたんだけれど、\r\nちょうどアイテムを切らしていてね――\r\n傷ついたままで動くのは危険でしょ？",
+      "source_en": "",
+      "text": "Jemand aus unserer Gruppe ist verletzt,\r\nund uns sind die Heilmittel ausgegangen.\r\nVerletzt weiterzuziehen ist doch zu gefährlich, findest du nicht?"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "薬をいくつか持ってきてくれないかしら\r\n出来る限りのお礼はするわ",
+      "source_en": "",
+      "text": "Könntest du ein paar Heilmittel besorgen?\r\nIch belohne dich dafür, so gut ich kann."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "頼んでいたものは持ってきてくれた？\r\nあら、まだなのね",
+      "source_en": "",
+      "text": "Hast du mitgebracht, worum ich dich gebeten habe?\r\nOh, noch nicht."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "魔物に出くわす前にお願いしたいんだけど――\r\n早めによろしくね",
+      "source_en": "",
+      "text": "Ich bräuchte sie, bevor wir auf Monster treffen …\r\nBeeil dich bitte ein bisschen."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "まぁ、持ってきてくれたのね\r\nこれで皆元気になるはず――",
+      "source_en": "",
+      "text": "Oh, du hast sie mitgebracht!\r\nJetzt werden bestimmt alle wieder gesund."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "あなたにお願いして良かったわ\r\n本当にありがとう",
+      "source_en": "",
+      "text": "Gut, dass ich dich um Hilfe gebeten habe.\r\nVielen Dank!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018053_00.gmd",
+  "arc_path": "\\quest\\q22018053.arc",
+  "entries": [
+    {
+      "key": "q22018053_00_706",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "真偽の判定者",
+      "source_en": "Judge of Truth",
+      "text": "Was an der Geschichte dran ist"
+    },
+    {
+      "key": "q22018053_00_706",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【死亡チェッククエスト】\r\n依頼者の願いを聞き入れ\r\n一度も復活することなく狂暴な敵を討伐する",
+      "source_en": "[Mortality Check Quest]\r\nListen to the requester's wish.\r\nDefeat the ferocious enemy\r\nwithout reviving even once.",
+      "text": "Kampf ohne Wiederbelebung\r\nHör dir die Bitte des Auftraggebers an.\r\nBesiege den rasenden Gegner,\r\nohne dich wiederbeleben zu lassen."
+    },
+    {
+      "key": "q22018053_00_706",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にいる何者かが、魔物との勝負で\r\n腕試しをしているようだ",
+      "source_en": "Someone in the <NAME AREA> \r\nappears to be testing their skills\r\nin a battle against an enemy.",
+      "text": "Jemand in <NAME AREA>\r\nwill offenbar sein Können\r\nim Kampf gegen ein Monster erproben."
+    },
+    {
+      "key": "q22018053_00_706",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "こんな噂が立っているのを知ってるか？\r\nウルテカ山岳北部の古い建物に凶悪な魔物がいて\r\n「出会ったものは帰ってこられない」って話だぜ\r\nこんな状況じゃ誰も寄りつかねぇけど\r\n本当だったら大変なことだよな",
+      "source_en": "Have you heard the rumor?\r\nThey say there's a vicious monster in an old \r\nbuilding in the Northern Urteca Mountains,\r\nand that \"those who encounter it never return.\"\r\nIn the current situation, no one dares to go near,\r\nbut if it's true, it's a serious matter.",
+      "text": "Hast du das Gerücht gehört?\r\nIn einem alten Gebäude im Norden\r\ndes Urteca-Gebirges soll ein gefährliches Monster lauern.\r\nWer ihm begegnet, soll nie zurückkehren.\r\nZurzeit traut sich niemand dorthin.\r\nAber wenn es stimmt, haben wir ein Problem."
+    },
+    {
+      "key": "q22018053_00_1174",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所へ行き、狂暴な魔物を見つける",
+      "source_en": "Root out the rabid beasts",
+      "text": "Geh zum angegebenen Ort und spüre die rasenden Monster auf."
+    },
+    {
+      "key": "q22018053_00_1175",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die angetroffenen Monster."
+    },
+    {
+      "key": "q22018053_00_1176",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "依頼者へ経緯を報告する",
+      "source_en": "Report back to the requester",
+      "text": "Berichte dem Auftraggeber, was geschehen ist."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

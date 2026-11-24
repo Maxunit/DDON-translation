@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q90040007.gmd",
+  "arc_path": "\\quest\\q90040007.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "時間経過により戦況が悪化していく――",
+      "source_en": "The battle situation worsens over time.",
+      "text": "Je mehr Zeit verstreicht, desto schlechter wird die Lage …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "戦の将が座す展望城へ\r\nメンバーを集めて突撃せよ！",
+      "source_en": "Gather the members and proceed to Lookout Castle,\r\nwhere the War Master sits in command of the battle!",
+      "text": "Sammelt euch und stürmt Burg Weitblick!\r\nDort wartet der Kriegsgeneral."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q29300003_00.gmd",
+  "arc_path": "\\quest\\q29300003.arc",
+  "entries": [
+    {
+      "key": "q29300003_00_712",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【ウォーミッション】\r\n現れた悪しき竜のいる《火垂れ山》へ進攻し\r\n悪しき竜が呼び寄せる魔物を討伐する",
+      "source_en": "[War Missions]\r\nAdvance towards Firefall Mountain\r\nwhere the Evil Dragon has appeared\r\nand Defeat the summoned foe(s).",
+      "text": "Kriegsmission\r\nBegib dich zum Feuerfallberg,\r\nwo der Böse Drache aufgetaucht ist,\r\nund besiege die Monster, die er herbeigerufen hat."
+    },
+    {
+      "key": "q29300003_00_712",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>の火垂れ山に\r\n悪しき竜が出現したようだ",
+      "source_en": "An Evil Dragon has appeared in Firefall Mountain\r\nof <NAME AREA>.",
+      "text": "Der Böse Drache ist offenbar am Feuerfallberg\r\nin <NAME AREA> aufgetaucht."
+    },
+    {
+      "key": "q29300003_00_712",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>にある《火垂れ山》から\r\n悪しき竜が呼び寄せる魔物が出現した\r\n現在、魔軍を退け悪しき竜討滅を目指す\r\n少数精鋭となる討伐隊を募集中だ\r\n火垂れ山の奥地の《火竜のねぐら》へ潜入し\r\nアッカー大陸を魔の手から奪還するのだ",
+      "source_en": "Monsters summoned by the Evil Dragon\r\nfrom Firefall Mountain in <NAME AREA>\r\nhave emerged. We are seeking an elite team\r\nto drive back the dragon army and annihilate\r\nthe malevolent beast.\r\nInfiltrate the Fire Dragon's Lair\r\nwithin the depths of the Firefall Mountain\r\nto rescue the continent of Acre from evil.",
+      "text": "Der Böse Drache hat Monster herbeigerufen.\r\nSie kommen vom Feuerfallberg in <NAME AREA>.\r\nWir suchen eine kleine Gruppe fähiger Kämpfer,\r\num das Monsterheer zurückzuschlagen\r\nund den Bösen Drachen zu vernichten.\r\nDringt in den Hort des Feuerdrachen vor,\r\ntief im Inneren des Feuerfallbergs,\r\nund befreit den Kontinent Acre aus den Klauen des Feindes."
+    },
+    {
+      "key": "q29300003_00_1327",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "進行マーカーへ集合し、目的地へ移動する",
+      "source_en": "Assemble at the progress marker and move to the destination",
+      "text": "Versammle deine Gruppe an der Markierung und begib dich zum Zielort."
+    },
+    {
+      "key": "q29300003_00_1337",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "<AREA 21>に現れた魔物を討伐する",
+      "source_en": "Defeat the foe(s) in <AREA 21>",
+      "text": "Besiege die Monster in <AREA 21>."
+    },
+    {
+      "key": "q29300003_00_1338",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "ザカリーに報告する",
+      "source_en": "Report to Zachary",
+      "text": "Erstatte Zachary Bericht."
+    },
+    {
+      "key": "q29300003_00_1339",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "＜悪しき竜のねぐら＞を目指す",
+      "source_en": "Head for the Evil Dragon's Roost",
+      "text": "Begib dich zum Hort des Bösen Drachen."
+    },
+    {
+      "key": "q29300003_00_1340",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "辺りの魔物を全滅させる",
+      "source_en": "Eliminate all monsters in the area",
+      "text": "Besiege alle Monster in der Umgebung."
+    },
+    {
+      "key": "q29300003_00_1341",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "呼び寄せられた敵を全滅させる",
+      "source_en": "Eliminate all summoned enemies",
+      "text": "Besiege alle herbeigerufenen Feinde."
+    },
+    {
+      "key": "q29300003_00_1342",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "現れた悪しき竜を討伐する",
+      "source_en": "Defeat the Evil Dragon that has appeared",
+      "text": "Besiege den Bösen Drachen, der aufgetaucht ist."
+    },
+    {
+      "key": "q29300003_00_1343",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "力を取り戻した悪しき竜を討伐する",
+      "source_en": "Defeat the Evil Dragon who has regained its power",
+      "text": "Besiege den Bösen Drachen, der seine Kraft wiedererlangt hat."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

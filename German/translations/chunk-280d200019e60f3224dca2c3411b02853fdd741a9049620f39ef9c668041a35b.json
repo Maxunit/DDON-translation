@@ -1,0 +1,168 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q22018036.gmd",
+  "arc_path": "\\quest\\q22018036.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "戦闘で負った足の怪我が\r\n思った以上に長引いてましてね\r\n痛みも全然引いてくれなくて参りましたよ",
+      "source_en": "",
+      "text": "Die Beinverletzung aus dem Kampf\r\nmacht mir länger zu schaffen als gedacht.\r\nDer Schmerz will einfach nicht nachlassen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "こうなったらアレを試すしかなさそうですね\r\n我が家に代々伝わる、痛み止めの秘伝――",
+      "source_en": "",
+      "text": "Da muss ich wohl doch das alte Mittel ausprobieren,\r\ndas in meiner Familie seit Generationen weitergegeben wird."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "《<QDEL NAME 0 3>》を適量用意して\r\nすりつぶした後に傷口に塗り込むだけ――\r\nお手軽でしょう？",
+      "source_en": "",
+      "text": "Man nimmt etwas <QDEL NAME 0 3>,\r\nzerreibt es und trägt es auf die Wunde auf.\r\nGanz einfach, oder?"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "この方法は、傷口がひどくしみるんで\r\nできれば避けたかったんですがね\r\nだけどそれさえ耐えれば、痛みもじきに引くはず",
+      "source_en": "",
+      "text": "Es brennt allerdings höllisch auf der Wunde.\r\nDeshalb wollte ich es eigentlich vermeiden.\r\nAber wer das aushält, wird den Schmerz bald los."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "そういうわけで、《<QDEL NAME 0 3>》を\r\nお持ちでしたら分けてくれませんか\r\nそうですね――＜<QDEL NUM 0 3>＞つほどいただければと",
+      "source_en": "",
+      "text": "Hast du vielleicht etwas <QDEL NAME 0 3>\r\nübrig? Könntest du es mit mir teilen?\r\nSagen wir, ungefähr <QDEL NUM 0 3> Stück?"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "《<QDEL NAME 0 3>》を＜<QDEL NUM 0 3>＞つほど用意して\r\nすりつぶした後に傷口に塗り込む――",
+      "source_en": "",
+      "text": "Ich brauche etwa <QDEL NAME 0 3> (<QDEL NUM 0 3> Stück).\r\nDas zerreibe ich und trage es auf die Wunde auf."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "これで、戦闘で負った足の怪我の痛みも\r\n今よりマシになるはずです\r\nもしお持ちでしたら分けてくれませんか",
+      "source_en": "",
+      "text": "Dann sollten die Schmerzen in meinem verletzten Bein\r\nendlich etwas nachlassen.\r\nHast du etwas davon übrig?"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "手持ちの分は、ここまで逃げてくる途中で\r\nうっかり落としてしまったもので――\r\nどうか、お願いします",
+      "source_en": "",
+      "text": "Ich hatte etwas dabei, aber auf der Flucht hierher\r\nmuss ich es wohl verloren haben.\r\nBitte hilf mir."
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_jp",
+      "source_jp": "ああ、これだけあれば十分ですよ\r\nありがとうございます\r\nさっそくすりつぶして\r\n傷口に塗り込む準備をしましょう",
+      "source_en": "",
+      "text": "Ja, das reicht völlig.\r\nVielen Dank.\r\nIch zerreibe es gleich\r\nund bereite alles für die Wunde vor."
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_jp",
+      "source_jp": "それにしても――あの時、逃げる途中で\r\n手持ちの《<QDEL NAME 0 3>》を\r\nうっかり落としてしまったんですが、それを\r\nオークたちが持っていくのを確かに見たんです",
+      "source_en": "",
+      "text": "Übrigens habe ich auf der Flucht\r\nmein <QDEL NAME 0 3>\r\nverloren. Ich habe genau gesehen,\r\nwie die Orks es mitgenommen haben."
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_jp",
+      "source_jp": "連中、西の方に走り去っていったので\r\nもしかしたら今頃は、最近開いた\r\n《<STG 1006>》にでも\r\n逃げ込んでいるのかもしれません",
+      "source_en": "",
+      "text": "Sie sind nach Westen gelaufen.\r\nVielleicht haben sie sich inzwischen\r\nin <STG 1006>\r\nversteckt. Der Ort ist seit Kurzem wieder zugänglich."
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_jp",
+      "source_jp": "――うーん、冷静になってみると\r\nだんだん悔しくなってきました",
+      "source_en": "",
+      "text": "Hm, wenn ich so darüber nachdenke,\r\närgert mich das immer mehr."
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_jp",
+      "source_jp": "あなた、もし良ければ私の代わりに\r\n《<STG 1006>》まで行って\r\nそれらしいオークがいたら倒してきてくれませんか",
+      "source_en": "",
+      "text": "Könntest du für mich\r\nnach <STG 1006> gehen\r\nund die Orks besiegen, falls du sie findest?"
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_jp",
+      "source_jp": "今もオークたちが《<QDEL NAME 0 3>》を\r\n持っているかどうかわかりませんが――\r\nもし持っているようなら\r\nとことんまでブッ倒してしまって構いませんから！",
+      "source_en": "",
+      "text": "Ich weiß nicht, ob die Orks <QDEL NAME 0 3>\r\nnoch bei sich haben.\r\nFalls ja,\r\nkannst du sie ruhig nach Herzenslust verprügeln!"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_jp",
+      "source_jp": "私が落とした《<QDEL NAME 0 3>》を持ち去った\r\nオークたちは、今頃は最近開いた\r\n《<STG 1006>》にでも\r\n逃げ込んでいるのかもしれません",
+      "source_en": "",
+      "text": "Die Orks, die mein <QDEL NAME 0 3> mitgenommen haben,\r\nverstecken sich vielleicht inzwischen\r\nin <STG 1006>.\r\nDer Ort ist seit Kurzem wieder zugänglich."
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_jp",
+      "source_jp": "あなた、もし良ければ私の代わりに\r\n《<STG 1006>》まで行って\r\nそれらしいオークがいたら倒してきてくれませんか",
+      "source_en": "",
+      "text": "Könntest du für mich\r\nnach <STG 1006> gehen\r\nund die Orks besiegen, falls du sie findest?"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_jp",
+      "source_jp": "《<QDEL NAME 0 3>》を持っているようでしたら\r\n確実にあの時のオークたちです\r\nその時は――もう思う存分\r\nブッ倒してしまってください！",
+      "source_en": "",
+      "text": "Wenn sie <QDEL NAME 0 3> bei sich haben,\r\nsind es ganz bestimmt dieselben Orks.\r\nDann kannst du sie\r\nnach Herzenslust verprügeln!"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_jp",
+      "source_jp": "やっぱり、《<STG 1006>》に\r\nあの時のオークたちがいたんですね\r\nこれで、私の溜飲も下がりました\r\n本当にありがとうございます",
+      "source_en": "",
+      "text": "In <STG 1006>\r\nwaren also tatsächlich dieselben Orks.\r\nDas tut gut zu hören.\r\nVielen Dank!"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_jp",
+      "source_jp": "奪われた《<QDEL NAME 0 3>》については――\r\nあなたが、私のためにオークたちを\r\n倒してきてくれたってだけで十分ですよ\r\n足の痛みも、だいぶ引いてきましたしね",
+      "source_en": "",
+      "text": "Was das gestohlene <QDEL NAME 0 3> angeht …\r\nMir reicht es schon, dass du\r\ndie Orks für mich besiegt hast.\r\nMein Bein tut inzwischen auch viel weniger weh."
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_jp",
+      "source_jp": "もし連中が《<QDEL NAME 0 3>》を\r\n持っていたとしても、全部あなたに差し上げますよ",
+      "source_en": "",
+      "text": "Falls die Orks noch <QDEL NAME 0 3>\r\nbei sich hatten, kannst du alles behalten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

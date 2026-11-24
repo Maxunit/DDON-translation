@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90040003_00.gmd",
+  "arc_path": "\\quest\\q90040003.arc",
+  "entries": [
+    {
+      "key": "q90040003_00_129",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "メガドにいるレイモンドより、各個人の戦果に伴う\r\n報酬を受け取ることが出来る\r\n特別な報酬には受け取るための条件や上限数が\r\nあるため、貢献具合に応じた品物を選ぶように",
+      "source_en": "From Raymond in Megado, you can receive rewards\r\ncorresponding to individual achievements.\r\nThere are conditions and limits\r\nto receiving special rewards, so choose items\r\nbased on your level of contribution.",
+      "text": "Bei Raymond in Megado kannst du\r\ndie Belohnung für deinen Einsatz abholen.\r\nBesondere Belohnungen sind begrenzt\r\nund an bestimmte Bedingungen geknüpft.\r\nDein Einsatz entscheidet, was du wählen kannst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

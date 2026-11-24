@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q22018012.gmd",
+  "arc_path": "\\quest\\q22018012.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "45",
+      "tag_source": "source_jp",
+      "source_jp": "――本人から聞いていなくても\r\nここで盗掘する人のルールなの！\r\n今頃、<NPC 2800>さんも言い忘れに気付いてるさ",
+      "source_en": "",
+      "text": "Auch wenn er dir nichts davon gesagt hat,\r\ngilt das für alle, die hier heimlich Erz abbauen!\r\nInzwischen ist es <NPC 2800> bestimmt wieder eingefallen."
+    },
+    {
+      "key": "",
+      "read_index": "46",
+      "tag_source": "source_jp",
+      "source_jp": "どうやら、お前がスポットボスと交戦したときに\r\n衝撃で岩壁が崩れたようだな\r\n新たに掘れる《<ITEM 17883>》が\r\nかなり増えたようだよ――幸運な奴だな",
+      "source_en": "",
+      "text": "Als du gegen den Lagerboss gekämpft hast,\r\nist wohl eine Felswand eingestürzt.\r\nDabei wurde ziemlich viel <ITEM 17883>\r\nfreigelegt. Da hast du Glück gehabt."
+    },
+    {
+      "key": "",
+      "read_index": "47",
+      "tag_source": "source_jp",
+      "source_jp": "採掘後、<NPC 2800>殿に\r\n＜５＞個納品するのは聞いているか？\r\n聞いていない――そうか",
+      "source_en": "",
+      "text": "Hat dir <NPC 2800> gesagt,\r\ndass du nach dem Abbau fünf Stück abgeben sollst?\r\nNein? Ach so."
+    },
+    {
+      "key": "",
+      "read_index": "48",
+      "tag_source": "source_jp",
+      "source_jp": "普段は、こう伝えていたんだがな\r\n\"<NPC 2800>殿に＜５＞個納品するように\"\r\n――あの方も、緊張が解けて緩んでいたのかな\r\n今頃は過ちにも気付いているはずだろう",
+      "source_en": "",
+      "text": "Sonst haben wir das immer so gesagt.\r\n„Bei <NPC 2800> fünf Stück abgeben.“\r\nVielleicht war er dieses Mal einfach nicht ganz bei der Sache.\r\nInzwischen ist es ihm bestimmt wieder eingefallen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,72 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q22018021.gmd",
+  "arc_path": "\\quest\\q22018021.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_jp",
+      "source_jp": "ああ――なに？\r\n見ての通り、農作業の手伝いしてるの\r\n一宿一飯の恩は返すのが礼儀ってもんでしょ",
+      "source_en": "",
+      "text": "He, was gibt’s?\r\nIch helfe auf dem Feld, wie du siehst.\r\nWenn man mir zu essen und ein Dach überm Kopf gibt, helf ich eben mit."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_jp",
+      "source_jp": "え、あんたも同じクチなの？\r\nそうは言っても、あたしは困ったことなんか――\r\n――ああ、そうだ\r\n一個あったわ",
+      "source_en": "",
+      "text": "Ach, du willst auch helfen?\r\nNa ja, ich hab eigentlich keine Probleme …\r\nAch, Moment!\r\nEins fällt mir doch ein."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_jp",
+      "source_jp": "ここの人からの頼まれ事があってね\r\nあんたが代わりにやってきてくれない？\r\n《<STG 1093>》の方から魔物が湧いてきて\r\n毎晩不気味なんですって",
+      "source_en": "",
+      "text": "Die Leute hier haben mich um etwas gebeten.\r\nKannst du das für mich übernehmen?\r\nIn der Nähe von <STG 1093> tauchen Monster auf.\r\nSie sagen, nachts sei es dort ganz unheimlich."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_jp",
+      "source_jp": "退治してくれたら、もらった報酬は\r\n全部あんたに流してあげるから\r\nよろしくね？",
+      "source_en": "",
+      "text": "Wenn du die Monster besiegst,\r\ngehört die ganze Belohnung dir, die ich dafür kriegen sollte.\r\nAbgemacht?"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_jp",
+      "source_jp": "《<STG 1093>》の方から魔物が湧いてきて\r\n毎晩不気味なんですって\r\n私、今農作業の手伝いで忙しいから\r\nあんたが代わりに退治してきてくれない？",
+      "source_en": "",
+      "text": "In der Nähe von <STG 1093> tauchen Monster auf.\r\nDie Leute sagen, nachts sei es dort ganz unheimlich.\r\nIch hab alle Hände voll mit der Feldarbeit zu tun.\r\nKannst du die Monster für mich vertreiben?"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_jp",
+      "source_jp": "ちょっと手伝うだけのつもりだったのに\r\nこうも、次から次へと頼まれちゃって――\r\n私、そんなに暇そうに見える？",
+      "source_en": "",
+      "text": "Dabei wollte ich nur ein bisschen aushelfen.\r\nJetzt haben sie eine Bitte nach der anderen.\r\nSehe ich aus, als hätte ich so viel Zeit?"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_jp",
+      "source_jp": "へぇ、そんなに闇の魔物がいたのね\r\nこんな辺境まで死の臭いで満ちて来てるのね――\r\nともかく、助かったわ",
+      "source_en": "",
+      "text": "Was, so viele Wesen der Finsternis?\r\nEs riecht also selbst hier draußen schon nach Tod …\r\nJedenfalls hast du uns sehr geholfen."
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_jp",
+      "source_jp": "ところで、村の人に聞いたんだけど\r\nあなたってよその国から来た覚者なんだって？\r\nそんな人に、こんな雑用頼んじゃったとはね\r\nお人よしなのね、ありがとう",
+      "source_en": "",
+      "text": "Übrigens haben mir die Leute im Dorf erzählt,\r\ndass du ein Erweckter aus einem anderen Land bist.\r\nUnd ich hab dich mit so einer Kleinigkeit behelligt.\r\nDu lässt wirklich keinen im Stich. Danke."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,96 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018017_00.gmd",
+  "arc_path": "\\quest\\q22018017.arc",
+  "entries": [
+    {
+      "key": "q22018017_00_657",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "行商人の気配り",
+      "source_en": "The Peddler's Consideration",
+      "text": "Die Sorge des Händlers"
+    },
+    {
+      "key": "q22018017_00_657",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【敵群討伐クエスト】\r\n依頼者から話を聞き\r\n敵の群れを討伐する",
+      "source_en": "[Enemy Horde Extermination Quest]\r\nListen to the client's request.\r\nExterminate the horde of enemies.",
+      "text": "Horde bezwingen\r\nHör dir die Bitte des Auftraggebers an.\r\nBesiege die Horde."
+    },
+    {
+      "key": "q22018017_00_657",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "<NAME AREA>からの報告によると\r\n魔物の勢力が一時的に増し、危険な状況にあるという",
+      "source_en": "According to reports from <NAME AREA>, \r\nenemy forces have temporarily increased, \r\nand the situation is quite dangerous.",
+      "text": "Aus <NAME AREA> wird berichtet,\r\ndass die Monster vorübergehend stärker geworden sind.\r\nDie Lage ist gefährlich."
+    },
+    {
+      "key": "q22018017_00_657",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ここいらの水は、全部<SPOT 1040>の方の\r\n滝の水から引いているんだ\r\n最近、あの辺りで魔物の姿を見ることが\r\n増えていてなぁ――\r\n飲み水に、変なものが混じらないといいんだが",
+      "source_en": "The water around here is all drawn\r\nfrom the waterfall at <SPOT 1040>. \r\nRecently, there have been more sightings\r\nof monsters in that area—\r\nI hope nothing strange has been mixed\r\ninto the drinking water.",
+      "text": "Unser ganzes Wasser beziehen wir\r\nvom Wasserfall bei <SPOT 1040>.\r\nIn letzter Zeit werden dort\r\nimmer mehr Monster gesichtet.\r\nHoffentlich gerät da nichts Seltsames\r\nins Trinkwasser."
+    },
+    {
+      "key": "q22018017_00_1169",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "依頼者に報告する",
+      "source_en": "Report to the requester",
+      "text": "Erstatte dem Auftraggeber Bericht."
+    },
+    {
+      "key": "q22018017_00_1222",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "指定された場所で魔物の群れを探す(残り３)",
+      "source_en": "Search for a group of monsters at the designated location (3 left)",
+      "text": "Suche am angegebenen Ort nach einer Monstergruppe (noch 3)."
+    },
+    {
+      "key": "q22018017_00_1223",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り２)",
+      "source_en": "Search for the remaining groups of monsters (2 left)",
+      "text": "Suche nach den übrigen Monstergruppen (noch 2)."
+    },
+    {
+      "key": "q22018017_00_1224",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "残る魔物の群れを探す(残り１)",
+      "source_en": "Find the group of monsters that remain (1 left)",
+      "text": "Suche nach der letzten Monstergruppe (noch 1)."
+    },
+    {
+      "key": "q22018017_00_1225",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe."
+    },
+    {
+      "key": "q22018017_00_1225",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe."
+    },
+    {
+      "key": "q22018017_00_1225",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "遭遇した魔物群を討伐する",
+      "source_en": "Defeat the encountered foe(s)",
+      "text": "Besiege die Monstergruppe."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q22018040_00.gmd",
+  "arc_path": "\\quest\\q22018040.arc",
+  "entries": [
+    {
+      "key": "q22018040_00_692",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "最後の嘘",
+      "source_en": "The Last Lie",
+      "text": "Die letzte Lüge"
+    },
+    {
+      "key": "q22018040_00_692",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "【納品クエスト】\r\n依頼者の願いを聞き入れ\r\n指定された物資を集めてくる",
+      "source_en": "[Delivery Quest]\r\nListen to the requester's wishes\r\nand gather the specified supplies.",
+      "text": "Lieferauftrag\r\nHör dir die Bitte des Auftraggebers an\r\nund besorge die gewünschten Vorräte."
+    },
+    {
+      "key": "q22018040_00_692",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "物資を必要としている人物が\r\n<NAME AREA>から協力を求めている",
+      "source_en": "A person in need of supplies is seeking assistance\r\nin <NAME AREA>.",
+      "text": "Jemand braucht Vorräte und bittet um Hilfe\r\nin <NAME AREA>."
+    },
+    {
+      "key": "q22018040_00_692",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "戦争というやつは、多くの悲劇を生む\r\n離れ離れになる家族、予期せぬ今生の別れ――\r\nだが、ワシら老人にとって何より辛いのは\r\nワシらよりも先に、未来ある若者が\r\n命を落としていくのを見ることかのう",
+      "source_en": "War creates countless tragedies...\r\nFamilies torn apart, sudden partings.\r\nYet for us elders, the most painful part\r\nis witnessing our young people\r\nwith promising futures die before us.",
+      "text": "Der Krieg bringt so viel Leid.\r\nEr trennt Familien und reißt Menschen unverhofft auseinander.\r\nFür uns Alte ist es am schlimmsten,\r\nwenn junge Leute vor uns sterben,\r\ndie ihr ganzes Leben noch vor sich hatten."
+    },
+    {
+      "key": "q22018040_00_1179",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "＜<SQDI NAME>＞を＜<SQDI NUM>＞個、依頼先に届ける（残り:<SQDI DNUM>）",
+      "source_en": "Deliver <SQDI NUM> <SQDI NAME> to the requester (need: <SQDI DNUM>)",
+      "text": "Liefere <SQDI NUM> × <SQDI NAME> ab (noch <SQDI DNUM>)."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

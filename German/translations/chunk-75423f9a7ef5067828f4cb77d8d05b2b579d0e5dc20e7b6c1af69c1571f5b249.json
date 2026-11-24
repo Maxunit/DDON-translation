@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q30200022_00.gmd",
+  "arc_path": "\\quest\\q30200022.arc",
+  "entries": [
+    {
+      "key": "q30200022_00_520",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【高難度】忌避すべき魔物",
+      "source_en": "[Hard] Monsters to Evade",
+      "text": "[Schwer] Gefährliche Monster"
+    },
+    {
+      "key": "q30200022_00_520",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "<LQEM>を<LQVA>体討伐せよとの命令が下りたわ\r\n相手は強敵、傲りは禁物よ",
+      "source_en": "An order has come down to defeat \r\n<LQVA> <LQEM>.\r\nThe enemy is strong; take heed.",
+      "text": "Es gibt einen neuen Jagdbefehl.\r\nBesiege <LQVA> × <LQEM>.\r\nDeine Gegner sind stark. Unterschätze sie nicht."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

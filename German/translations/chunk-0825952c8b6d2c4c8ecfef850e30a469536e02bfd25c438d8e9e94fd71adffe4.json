@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q29300002.gmd",
+  "arc_path": "\\quest\\q29300002.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "戦の将が現れた――！",
+      "source_en": "The War Master has appeared!",
+      "text": "Der Kriegsgeneral ist aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "戦の将が姿を消した――",
+      "source_en": "The War Master has disappeared...",
+      "text": "Der Kriegsgeneral ist verschwunden …"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}
