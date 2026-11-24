@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000412_00.gmd",
+  "arc_path": "\\quest\\q90000412.arc",
+  "entries": [
+    {
+      "key": "q90000412_00_63",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "決戦の地では激しい戦いが展開されている\r\n黄金竜の勢いは衰えを知らず、数で有利な我々も\r\n一瞬たりとも気を抜けない状況だ\r\n白竜との因縁深きやつの接近をこれ以上許せば\r\nレスタニアの地が危ない\r\n勇士よ集え、さらなる覚者の応援を請う",
+      "source_en": "A fierce battle is unfolding at the battlefield.\r\nThe momentum of the Golden Dragon shows no signs\r\nof waning, and despite our numerical advantage, we\r\ncan't afford to let our guard down for even a\r\nmoment. If we allow that one, deeply fated with\r\nthe White Dragon to approach any further, the land\r\nof Lestania will be in danger. Warriors, come\r\ntogether, and we request further support from the\r\nArisen.",
+      "text": "Auf dem Schlachtfeld tobt ein erbitterter Kampf.\r\nDer Goldene Drache kämpft unvermindert weiter.\r\nWir sind in der Überzahl und dürfen doch\r\nkeinen Augenblick unachtsam werden.\r\nDer Drache und der Weiße Drache sind seit Langem Feinde.\r\nWenn wir ihn näher herankommen lassen,\r\nist ganz Lestania in Gefahr.\r\nIhr tapferen Kämpfer, sammelt euch!\r\nWir bitten weitere Erweckte um Unterstützung."
+    },
+    {
+      "key": "q90000412_00_63",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "眩き黄金《最終報酬》",
+      "source_en": "The Dazzling Gold (Final Reward)",
+      "text": "Strahlendes Gold (Abschlussbelohnung)"
+    },
+    {
+      "key": "q90000412_00_63",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "黄金竜との決戦が展開中だ、こちらは数で\r\n優位にあるが、奴の勢いは衰えを知らない\r\nさらなる覚者の応援を請う",
+      "source_en": "The battle with the Golden Dragon is currently\r\nunderway. We have the numerical advantage, but its\r\nmomentum shows no sign of weakening. We request\r\nfurther support from the Arisen.",
+      "text": "Die Entscheidungsschlacht gegen den Goldenen Drachen läuft.\r\nWir sind in der Überzahl, doch er\r\nkämpft unvermindert weiter.\r\nWir bitten weitere Erweckte um Unterstützung."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90030201_00.gmd",
+  "arc_path": "\\quest\\q90030201.arc",
+  "entries": [
+    {
+      "key": "q90030201_00_107",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジフール砦を悪しき竜軍が征服したようだ\r\n砦へ入るための跳ね橋は吊り上げられ内部へ\r\n進入することも難しい――更に、召喚士による\r\n魔物の召喚が絶えず行われ骸の巣窟と化している\r\n召喚士は砦中に呪符を仕掛けており、砦を攻め\r\n落とすにはこれら罠への正確な対処が不可欠だ",
+      "source_en": "It seems that the Evil Dragon Army\r\nhas conquered Jifule Fortress.\r\nThe drawbridge for entering the fortress is raised,\r\nmaking it difficult to proceed inside.\r\n\r\nFurthermore, summoners continually\r\nincrease the number of enemies,\r\nturning it into a nest of corpses.\r\n\r\nThe summoners have set amulets\r\nthroughout the fortress, and dealing with these\r\nis essential to capturing the fortress.",
+      "text": "Die Truppen des Bösen Drachen haben offenbar\r\ndie Festung Jifule erobert.\r\nDie Zugbrücke ist oben,\r\ndeshalb kommen wir nur schwer hinein.\r\n\r\nDie Beschwörer rufen unablässig\r\nweitere Monster herbei.\r\nDie Festung wimmelt von Untoten.\r\n\r\nÜberall haben die Beschwörer Fluchsiegel als Fallen angebracht.\r\nWenn wir die Festung einnehmen wollen,\r\nmüssen wir gezielt gegen diese Siegel vorgehen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000405_00.gmd",
+  "arc_path": "\\quest\\q90000405.arc",
+  "entries": [
+    {
+      "key": "q90000405_00_60",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "古の祭祀場にて魔物出現への対処を開始している\r\n騎士団討伐隊も死力を尽くしてこれに当たっているが\r\n強力な魔物らを制するには覚者の協力が不可欠だ\r\nなお深部で感知されている強力な個体の波動に\r\n一部乱れのようなものが認められたらしい\r\nもし攻勢をかける好機ならば、より応援が必要だ",
+      "source_en": "Efforts have begun to deal with the appearance of\r\nmonsters at the ancient ritual site. The Order of\r\nKnights' extermination team is also doing its\r\nutmost in this regard, but the cooperation of the\r\nArisen is essential to control these powerful\r\nmonsters. Additionally, it seems that there has\r\nbeen some disturbance detected in the waves from\r\nthe powerful individual sensed in the depths. If\r\nthere's an opportune moment to launch an\r\noffensive, even more support will be required.",
+      "text": "In der Alten Kultstätte gehen wir bereits\r\ngegen die aufgetauchten Monster vor.\r\nDer Jagdtrupp der Ritter gibt alles.\r\nUm es mit diesen mächtigen Gegnern\r\naufzunehmen, brauchen wir die Erweckten.\r\nAus der Tiefe wurden starke Schwingungen\r\neines mächtigen Monsters gemeldet,\r\ndie sich offenbar verändert haben.\r\nFalls das eine Gelegenheit zum Angriff ist,\r\nbrauchen wir noch mehr Unterstützung."
+    },
+    {
+      "key": "q90000405_00_60",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "太古の強者《リザルト報酬》",
+      "source_en": "Ancient Warrior (Result Reward)",
+      "text": "Der Krieger der Vorzeit (Schlachtbelohnung)"
+    },
+    {
+      "key": "q90000405_00_60",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "古の祭祀場で魔物出現に対処中である\r\n強力な敵個体も検知した、騎士団員は\r\n総力を尽くしているが覚者の協力が必須だ",
+      "source_en": "We're currently dealing with the appearance of\r\nmonsters at the Ancient Ritual Ground.\r\nWe've also detected powerful enemy individuals;\r\nthe knights are giving their all, but the\r\ncooperation of the Arisen is essential.",
+      "text": "Wir gehen bereits gegen die Monster\r\nin der Alten Kultstätte vor. Wir haben auch\r\nbesonders mächtige Gegner aufgespürt.\r\nDie Ritter geben alles.\r\nSie brauchen die Hilfe der Erweckten."
+    },
+    {
+      "key": "q90000405_00_1296",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "錬魔具と溶命石を攻撃し、黄金竜を撃退せよ",
+      "source_en": "Attack the alchemical tools and life crystals, and repel the Golden Dragon!",
+      "text": "Greift die alchemistischen Geräte und die Lebenskristalle an und treibt den Goldenen Drachen zurück!"
+    },
+    {
+      "key": "q90000405_00_1297",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "迅速に撃退し、60000pt以上獲得を目指せ",
+      "source_en": "Swiftly repel the enemy and aim to acquire more than 60,000 points",
+      "text": "Treibt den Gegner schnell zurück und versucht, mindestens 60.000 Punkte zu erzielen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

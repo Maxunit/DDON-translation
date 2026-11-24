@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90030403_00.gmd",
+  "arc_path": "\\quest\\q90030403.arc",
+  "entries": [
+    {
+      "key": "q90030403_00_122",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "火垂れ山野営地にいるザカリーより\r\n各個人の戦果に伴う報酬を受け取ることが出来る\r\n特別な報酬には受け取るための条件や上限数が\r\nあるため、貢献具合に応じた品物を選ぶように",
+      "source_en": "You can receive rewards corresponding\r\nto individual achievements from Zachary\r\nat the Firefall Mountain Campsite. \r\nThere are conditions and limits for receiving\r\nspecial rewards, so choose items based\r\non your level of contribution.",
+      "text": "Bei Zachary im Lager am Feuerfallberg\r\nkannst du dir die Belohnung\r\nfür deinen Einsatz abholen.\r\nBesondere Belohnungen sind begrenzt\r\nund an bestimmte Bedingungen geknüpft.\r\nDein Einsatz entscheidet, was du wählen kannst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

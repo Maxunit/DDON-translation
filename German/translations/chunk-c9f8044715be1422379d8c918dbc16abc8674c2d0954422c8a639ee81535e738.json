@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50300001_00.gmd",
+  "arc_path": "\\quest\\q50300001.arc",
+  "entries": [
+    {
+      "key": "q50300001_00_77",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアの地に災いを為す存在、魔物たち――\r\nやつらの勢力が強まる背景には、何があるのか？\r\n《古の祭祀場》に襲い来る、異界を渡るとされる\r\n強敵の存在がその疑問への答えになるかも知れない\r\n白竜の子らよ、畏れを忘れず脅威に立ち向かえ\r\nやつらの進撃をこれ以上許してはならない",
+      "source_en": "In the land of Lestania, exist the creatures that\r\nbring calamity — the enemies, the monsters. What\r\nlies behind their growing power? The answer may\r\nlie in the formidable presence that crosses over\r\nfrom the \"Ancient Ritual Ground,\" said to\r\nconnect to a different realm. Sons and daughters\r\nof the White Dragon, confront the threat without\r\nforgetting to fear it. We cannot allow the further\r\nadvance of these creatures.",
+      "text": "In ganz Lestania bringen Monster\r\nUnheil über die Menschen.\r\nWarum werden sie immer mächtiger?\r\nDie Antwort liegt vielleicht in der Alten Kultstätte.\r\nSie soll mit einer anderen Welt verbunden sein,\r\naus der nun ein mächtiger Feind herüberkommt.\r\nKinder des Weißen Drachen, stellt euch ihm,\r\nohne ihn zu unterschätzen.\r\nWir dürfen die Monster nicht weiter vordringen lassen."
+    },
+    {
+      "key": "q50300001_00_3041",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "弱点部位を攻撃し、グランエントを討伐せよ",
+      "source_en": "Attack the weak points and defeat the Grand Ents",
+      "text": "Greift die Schwachstellen der Riesenents an und besiegt sie."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

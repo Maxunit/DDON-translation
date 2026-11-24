@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90030402.gmd",
+  "arc_path": "\\quest\\q90030402.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜とのウォーミッションは終了いたしました\r\n今は各個人の戦果を確認しているところです",
+      "source_en": "The War Mission against the Evil Dragon has ended.\r\nWe are currently checking\r\nthe individual achievements of each person.",
+      "text": "Die Kriegsmission gegen den Bösen Drachen ist beendet.\r\nWir prüfen gerade,\r\nwie sich jeder Einzelne geschlagen hat."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "集計が終わるまで、しばらくの間お待ちください",
+      "source_en": "Please wait a few moments for the tally\r\nto be completed",
+      "text": "Hab bitte noch etwas Geduld,\r\nbis alle Ergebnisse vorliegen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

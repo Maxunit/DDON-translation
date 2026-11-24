@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90030403.gmd",
+  "arc_path": "\\quest\\q90030403.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "覚者殿のお持ちのDPと引き換えに\r\n品物を提供させて頂きます\r\nどうぞ、ラインナップをご確認ください",
+      "source_en": "In exchange for the DP held by the Arisen,\r\nI shall provide these goods.\r\nPlease take a look at the lineup.",
+      "text": "Du kannst deine DP\r\ngegen diese Waren eintauschen.\r\nSchau dir mein Angebot an."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "一部のアイテムには、条件を満たした者にしか\r\n与えられない特別なアイテムが存在いたします",
+      "source_en": "There are special items that can only be given\r\nto those who meet the requirements.",
+      "text": "Für einige besondere Gegenstände\r\nmusst du bestimmte Voraussetzungen erfüllen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "戦いにおいて、どれだけの成果を達成したかにより\r\n提供させて頂くアイテムも変わっていきます",
+      "source_en": "Depending on how well you have done in the battle,\r\nwe will offer you different items.",
+      "text": "Was ich dir anbieten kann, hängt davon ab,\r\nwie gut du dich im Kampf geschlagen hast."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

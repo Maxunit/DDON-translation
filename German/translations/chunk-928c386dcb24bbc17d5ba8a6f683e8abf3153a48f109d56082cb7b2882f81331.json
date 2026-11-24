@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90020201_00.gmd",
+  "arc_path": "\\quest\\q90020201.arc",
+  "entries": [
+    {
+      "key": "q90020201_00_85",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アルタード・ズールの軍勢が、突如魔赤島への\r\n襲撃をはじめた\r\nズールの生命はやはり不死身なのだろうか\r\n幾度となく復活を遂げる魔物への対処法はあるのか\r\n今回こそは、ヤツを完全に仕留めるべく\r\n考え得る最良の準備と戦略を用いて対抗せよ",
+      "source_en": "The Altered Zuhl's army suddenly began their raid\r\non Bloodbane Isle.\r\nIs Zuhl truly immortal?\r\nIs there a way to deal with the monsters that\r\nhave repeatedly come back to life?\r\nThis time, prepare and strategize with the best\r\npossible plan to completely take it down.",
+      "text": "Die Truppen des verwandelten Zuhl haben\r\ndie Blutfluchinsel überraschend angegriffen.\r\nIst Zuhl tatsächlich unsterblich?\r\nWie sollen wir ein Monster aufhalten,\r\ndas immer wieder ins Leben zurückkehrt?\r\nBereitet euch dieses Mal so gut wie möglich vor\r\nund stellt einen Plan auf, um ihn endgültig zu besiegen."
+    },
+    {
+      "key": "q90020201_00_85",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島の狂宴《最終報酬》",
+      "source_en": "Bloodbane Isle's Feast of Madness (Final Reward)",
+      "text": "Das wilde Fest der Blutfluchinsel (Abschlussbelohnung)"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

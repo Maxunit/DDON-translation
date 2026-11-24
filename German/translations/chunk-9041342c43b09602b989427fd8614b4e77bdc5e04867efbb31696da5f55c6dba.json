@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000203_00.gmd",
+  "arc_path": "\\quest\\q90000203.arc",
+  "entries": [
+    {
+      "key": "q90000203_00_46",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "覚者の活躍で戦果は上々、船長も大満足だったぜ\r\n壊れた船の修繕がてら報酬配分を計算中だ\r\nもうしばらく待ってくれ",
+      "source_en": "The performance of the Arisen has been excellent,\r\nand the captain is very satisfied.\r\nThey are calculating the distribution of rewards\r\nwhile repairing the broken ship.\r\nPlease wait a little longer.",
+      "text": "Die Erweckten haben ganze Arbeit geleistet.\r\nDer Kapitän ist hochzufrieden.\r\nWährend das beschädigte Schiff wieder flottgemacht wird,\r\nberechnen wir, wer welchen Anteil erhält.\r\nHabt noch ein wenig Geduld."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

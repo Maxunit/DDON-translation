@@ -1,0 +1,104 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50300009_00.gmd",
+  "arc_path": "\\quest\\q50300009.arc",
+  "entries": [
+    {
+      "key": "q50300009_00_86",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "おぞましい数の侵食魔が《シェドレアン大神殿》に\r\n跋扈しはじめた――魔物は神殿全域を蝕んでいるため\r\n討伐隊メンバーを２手に分けて一気に殲滅する作戦を\r\n遂行中とのことだ\r\n侵食が極度に進行した魔物も確認されているようで\r\n侵食魔への対策は怠らぬよう厳命が下っている",
+      "source_en": "A horde of abominable, corrupted creatures has\r\nbegun to run rampant in the Shadolean Great\r\nTemple. The members of the extermination squad\r\nhave divided into two groups, carrying out a\r\ncoordinated assault to annihilate them all at\r\nonce. It has been reported that some of the\r\ncreatures have been severely corrupted. Urgent\r\norders have been given to ensure that\r\ncountermeasures against the corruption are not\r\nneglected.",
+      "text": "Eine schreckliche Horde befallener Monster\r\nwütet im Großen Tempel von Shadolean.\r\nIm ganzen Tempel treiben sie sich herum.\r\nDer Jagdtrupp hat sich in zwei Gruppen aufgeteilt,\r\num die Monster an mehreren Stellen zugleich anzugreifen.\r\nEinige der Monster sollen\r\nbereits stark befallen sein.\r\nDarum gilt besondere Vorsicht.\r\nTrefft unbedingt Vorkehrungen\r\ngegen den Befall."
+    },
+    {
+      "key": "q50300009_00_3074",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "最奥へ続く道の敵を殲滅",
+      "source_en": "Eliminate the enemies on the path leading to the deepest part",
+      "text": "Besiegt die Feinde auf dem Weg tief ins Innere."
+    },
+    {
+      "key": "q50300009_00_3075",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "二手に分かれ、神殿内を捜索する",
+      "source_en": "Split into two groups and search inside the temple",
+      "text": "Teilt euch in zwei Gruppen auf und durchsucht den Tempel."
+    },
+    {
+      "key": "q50300009_00_3076",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "《殲滅区 右方》序盤を進行中",
+      "source_en": "[Extermination Area: Right Side] Opening stage in progress",
+      "text": "Rechter Kampfbereich – Erster Abschnitt läuft"
+    },
+    {
+      "key": "q50300009_00_3077",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "《殲滅区 左方》序盤を進行中",
+      "source_en": "[Extermination Area: Left Side] Opening stage in progress",
+      "text": "Linker Kampfbereich – Erster Abschnitt läuft"
+    },
+    {
+      "key": "q50300009_00_3078",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "魔物を呼ぶ元凶を討伐し、更なる増援を抑える",
+      "source_en": "Defeat the monster summoner, suppress further reinforcements",
+      "text": "Besiegt den Beschwörer, damit keine weiteren Monster hinzukommen."
+    },
+    {
+      "key": "q50300009_00_3079",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "《殲滅区 右方》中盤を進行中",
+      "source_en": "[Extermination Area: Right Side] Middle stage in progress",
+      "text": "Rechter Kampfbereich – Mittlerer Abschnitt läuft"
+    },
+    {
+      "key": "q50300009_00_3080",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "《殲滅区 左方》中盤を進行中",
+      "source_en": "[Extermination Area: Left Side] Middle stage in progress",
+      "text": "Linker Kampfbereich – Mittlerer Abschnitt läuft"
+    },
+    {
+      "key": "q50300009_00_3081",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "《殲滅区 右方》終盤を進行中",
+      "source_en": "[Extermination Area: Right Side] Final stage in progress",
+      "text": "Rechter Kampfbereich – Letzter Abschnitt läuft"
+    },
+    {
+      "key": "q50300009_00_3082",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "《殲滅区 左方》終盤を進行中",
+      "source_en": "[Extermination Area: Left Side] Final stage in progress",
+      "text": "Linker Kampfbereich – Letzter Abschnitt läuft"
+    },
+    {
+      "key": "q50300009_00_3083",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "《宝物庫》へ転移し、報酬を獲得",
+      "source_en": "[Treasury] Transfer and acquire reward",
+      "text": "Wechselt in die Schatzkammer und holt eure Belohnung ab."
+    },
+    {
+      "key": "q50300009_00_3084",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "神殿内に残る最後の脅威を排除する",
+      "source_en": "Eliminate the last threat within the temple",
+      "text": "Beseitigt die letzte Bedrohung im Tempel."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

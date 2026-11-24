@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50300008_00.gmd",
+  "arc_path": "\\quest\\q50300008.arc",
+  "entries": [
+    {
+      "key": "q50300008_00_85",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アルタード・ズールによる魔赤島襲撃が\r\n突如始まってしまった――\r\nズールを守らんとする魔物の存在も確認されている\r\n不死身の存在を排除する手段はあるのだろうか？\r\n幾度となく復活してくる強敵を、完全に滅ぼす\r\nその時まで戦いは終わらない、平穏は訪れない",
+      "source_en": "A sudden attack by Altered Zuhl on Bloodbane Isle\r\nhas begun.\r\nThe presence of enemies trying to protect Zuhl\r\nhas also been confirmed.\r\nIs there a way to eliminate this invincible\r\nexistence?\r\nThe battle will not end until the formidable\r\nenemy, who keeps resurrecting countless times, is\r\ncompletely annihilated.\r\nPeace will not come until that time.",
+      "text": "Der verwandelte Zuhl hat die Blutfluchinsel\r\nplötzlich angegriffen.\r\nMonster sind aufgetaucht,\r\num ihn zu beschützen.\r\nWie lässt sich ein Gegner besiegen,\r\nder unsterblich scheint?\r\nEr kehrt immer wieder ins Leben zurück.\r\nDer Kampf ist erst vorbei,\r\nwenn ihr ihn endgültig besiegt habt.\r\nErst dann kann wieder Frieden einkehren."
+    },
+    {
+      "key": "q50300008_00_3072",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "魔物集団を討伐し、アルタード・ズールの元へ急げ",
+      "source_en": "Defeat the group of enemies and hasten to Altered Zuhl",
+      "text": "Besiegt die Monster und eilt zum verwandelten Zuhl."
+    },
+    {
+      "key": "q50300008_00_3073",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アルタード・ズールを討伐し、魔赤島侵略を阻止せよ",
+      "source_en": "Defeat Altered Zuhl and prevent the invasion of Bloodbane Isle",
+      "text": "Besiegt den verwandelten Zuhl und wehrt den Angriff auf die Blutfluchinsel ab."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

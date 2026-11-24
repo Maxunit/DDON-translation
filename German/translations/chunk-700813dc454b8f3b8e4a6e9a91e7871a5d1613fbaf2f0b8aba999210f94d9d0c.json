@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000424_00.gmd",
+  "arc_path": "\\quest\\q90000424.arc",
+  "entries": [
+    {
+      "key": "q90000424_00_71",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "失われた秩序《最終報酬》",
+      "source_en": "The Lost Order (Final Reward)",
+      "text": "Die verlorene Ordnung (Abschlussbelohnung)"
+    },
+    {
+      "key": "q90000424_00_71",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "覚者への報酬が確定した\r\n白竜の盾としての充分な活躍に感謝する\r\n有事の際はまた協力を請う",
+      "source_en": "The reward for the Arisen has been determined.\r\nWe are grateful for your sufficient contribution\r\nas the Shield of the White Dragon.\r\nIn times of need, we will once again ask for your\r\ncooperation.",
+      "text": "Die Belohnung für die Erweckten steht fest.\r\nWir danken euch für euren Einsatz\r\nals Schild des Weißen Drachen.\r\nWenn Gefahr droht,\r\nzählen wir wieder auf euch."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90020101_00.gmd",
+  "arc_path": "\\quest\\q90020101.arc",
+  "entries": [
+    {
+      "key": "q90020101_00_81",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ボルド大坑道にて召喚士の名を持つワイトの軍勢が\r\n魔物を呼び寄せている\r\n白衛騎士団が部隊を投じて調査にあたっていたが\r\n早期の対処が必須とゲルト団長が判断\r\n覚者への協力要請が伝えられた\r\n召喚士群を至急全滅させ、封印せし魔壁内部へ急げ",
+      "source_en": "In the Volden Large Tunnels, an army of Wights\r\nwith the title of summoner is summoning enemies.\r\nThe White Knights' Order has deployed a unit to\r\ninvestigate the situation. Captain Gerd has deemed\r\nearly intervention essential, and a request for\r\nassistance has been delivered to the Arisen. Hurry\r\nand eliminate the group of summoners, and make\r\nyour way inside the sealed magickal wall.",
+      "text": "In den Volden-Stollen ruft eine Schar Wichte,\r\ndie sich Beschwörer nennen, Monster herbei.\r\nDie Weiße Garde hat einen Trupp entsandt,\r\num die Sache zu untersuchen.\r\nKommandant Gerd drängt darauf, sofort einzugreifen,\r\nund hat die Erweckten um Hilfe gebeten.\r\nVernichtet die Gruppen der Beschwörer\r\nund eilt hinter die versiegelte Barriere."
+    },
+    {
+      "key": "q90020101_00_81",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "目覚めし闇の魔物《最終報酬》",
+      "source_en": "The Demon of Darkness Awakens (Final Reward)",
+      "text": "Ein Schattenmonster erwacht (Abschlussbelohnung)"
+    },
+    {
+      "key": "q90020101_00_81",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ボルド大坑道にて召喚士の名を持つワイトの軍勢が\r\n魔物を呼び寄せている\r\n魔壁を打ち破り、封印された最奥の地へ急げ",
+      "source_en": "In the Volden Large Tunnels, an army of Wights\r\nbearing the title of Summoner is summoning\r\nenemies. Break through the magick barrier and\r\nhasten to the deepest sealed grounds.",
+      "text": "In den Volden-Stollen ruft eine Schar Wichte,\r\ndie sich Beschwörer nennen, Monster herbei.\r\nBrecht durch die magische Barriere\r\nund eilt tief hinein in den versiegelten Bereich."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

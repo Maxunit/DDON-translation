@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50302001_00.gmd",
+  "arc_path": "\\quest\\q50302001.arc",
+  "entries": [
+    {
+      "key": "q50302001_00_89",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "速移の極み　ジフール砦",
+      "source_en": "Breakneck Speed: Jifule Fortress",
+      "text": "Wettlauf gegen die Zeit – Festung Jifule"
+    },
+    {
+      "key": "q50302001_00_89",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "＜ウォーミッション：ジフール砦攻略戦＞にて\r\n大いなる戦果を上げた覚者たちよ\r\nその技術と精神を持って、己の力を更に磨き上げよ",
+      "source_en": "In the <War Mission: Jifule Fortress Capture Battle >,\r\nyou, the Arisen, who have achieved great victories,\r\nmust further hone your skills and spirit.",
+      "text": "Erweckte, ihr habt bei „<War Mission: Jifule Fortress Capture Battle >“\r\neinen großen Sieg errungen.\r\nSchärft nun euer Können und stärkt euren Kampfgeist!"
+    },
+    {
+      "key": "q50302001_00_3138",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "全てのチェックポイントに素早く移動する",
+      "source_en": "Move quickly to all checkpoints",
+      "text": "Passiert alle Kontrollpunkte so schnell wie möglich."
+    },
+    {
+      "key": "q50302001_00_3403",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ゴール地点へ向かう",
+      "source_en": "Head to the finish line",
+      "text": "Lauft zum Ziel."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

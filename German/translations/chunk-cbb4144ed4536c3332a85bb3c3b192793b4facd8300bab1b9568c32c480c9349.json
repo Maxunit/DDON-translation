@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50300006_00.gmd",
+  "arc_path": "\\quest\\q50300006.arc",
+  "entries": [
+    {
+      "key": "q50300006_00_83",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "黄金竜の脅威が目前に迫っている\r\nその真意はいまだ不明だが、奴の接近を放置すれば\r\nレスタニアの地は災いに沈むだろう\r\nいまこそ神殿に集いし覚者たちの総力を束ねるときだ\r\nその一撃が、その執念が、黄金竜を確実に追い詰める\r\n白竜の座すこの世界をともに護るのだ",
+      "source_en": "The threat of the Golden Dragon is imminent.\r\nAlthough its true intentions are still unknown, if\r\nwe ignore its approach, the land of Lestania will\r\nbe doomed. Now is the time for the Arisen to\r\ngather at the temple and unite their collective\r\nstrength. With a single strike and unwavering\r\ndetermination, we will surely corner and overcome\r\nthe Golden Dragon. Together, we shall protect this\r\nworld, the seat of the White Dragon.",
+      "text": "Der Goldene Drache kommt immer näher.\r\nNoch wissen wir nicht, was er vorhat.\r\nWenn wir ihn gewähren lassen, droht Lestania Unheil.\r\nJetzt müssen sich die Erweckten am Tempel sammeln\r\nund ihre Kräfte vereinen.\r\nWenn wir mit aller Entschlossenheit gemeinsam zuschlagen,\r\nkönnen wir den Goldenen Drachen in die Enge treiben\r\nund besiegen. Schützen wir gemeinsam diese Welt,\r\nin der der Weiße Drache seinen Sitz hat."
+    },
+    {
+      "key": "q50300006_00_3066",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "錬魔具と溶命石を攻撃し、黄金竜を退せよ",
+      "source_en": "Attack the alchemical tools and crystals, and repel the Golden Dragon!",
+      "text": "Greift die alchemistischen Geräte und die Lebenskristalle an und treibt den Goldenen Drachen zurück!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

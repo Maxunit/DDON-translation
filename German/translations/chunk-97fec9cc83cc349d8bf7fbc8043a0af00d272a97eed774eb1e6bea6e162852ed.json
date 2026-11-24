@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90020402_00.gmd",
+  "arc_path": "\\quest\\q90020402.arc",
+  "entries": [
+    {
+      "key": "q90020402_00_96",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "一部の覚者に向けた芯なる樹が記憶する\r\n戦いへの挑戦は、一先ず終わったようだ\r\n試練を経た覚者へ、モードレットより\r\n後程報酬が送られる",
+      "source_en": "To the Arisen who have successfully overcome the\r\nchallenge, a reward will be sent from Mordred\r\nlater.\r\nThe Core Tree, which holds the memories, is\r\ndedicated to a select few Arisen.\r\nIt seems that the battle has come to a temporary\r\nend.",
+      "text": "Die Prüfung im Herzbaum ist vorerst zu Ende.\r\nNur wenige Erweckte durften den Kampf aus der\r\nErinnerung des Baums noch einmal erleben.\r\nMordred schickt allen,\r\ndie die Prüfung bestanden haben,\r\nzu einem späteren Zeitpunkt\r\neine Belohnung."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

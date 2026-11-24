@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000414_00.gmd",
+  "arc_path": "\\quest\\q90000414.arc",
+  "entries": [
+    {
+      "key": "q90000414_00_65",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "眩き黄金《最終報酬》",
+      "source_en": "The Dazzling Gold (Final Reward)",
+      "text": "Strahlendes Gold (Abschlussbelohnung)"
+    },
+    {
+      "key": "q90000414_00_65",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "健闘を讃え報酬を配分する\r\nこの経験を活かしさらなる精進に励んでくれ\r\n黄金竜は必ずまた来る、次回も協力よろしく頼む",
+      "source_en": "We applaud your valiant efforts and will\r\ndistribute the rewards. Please make use of this\r\nexperience and strive for further improvement. The\r\nGolden Dragon will definitely come again, so\r\nplease cooperate with us next time.",
+      "text": "Ihr habt tapfer gekämpft und bekommt eure Belohnung.\r\nNutzt diese Erfahrung und arbeitet\r\nweiter an euch. Der Goldene Drache\r\nwird wiederkommen.\r\nAuch dann zählen wir auf eure Hilfe."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

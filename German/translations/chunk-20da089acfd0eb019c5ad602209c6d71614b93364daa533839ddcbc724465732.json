@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90000404.gmd",
+  "arc_path": "\\quest\\q90000404.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "先の森の\r\n魔物討伐における報酬を支給している",
+      "source_en": "The reward for the forest monsters hunt is\r\ncurrently being distributed.",
+      "text": "Die Belohnungen für die Jagd\r\nauf das Monster im Wald werden gerade verteilt."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "まだのものは\r\n保管ボックスから受け取ってくれ",
+      "source_en": "Please retrieve the items that are still in the\r\nstorage box.",
+      "text": "Falls du deine Belohnung noch nicht abgeholt hast,\r\nfindest du sie in deiner Lagerkiste."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "先の戦闘評価が終わっている――\r\n報酬を支給するので受け取ってくれ",
+      "source_en": "The previous combat evaluation has ended. Please\r\ncollect the reward.",
+      "text": "Die Auswertung des letzten Kampfes ist abgeschlossen.\r\nHol deine Belohnung ab."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "先の魔物討伐の戦果が発表されています",
+      "source_en": "The outcome of the previous enemy subjugation has\r\nbeen announced.",
+      "text": "Die Ergebnisse der letzten Monsterjagd\r\nwurden bekannt gegeben."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "報酬も支給されていますので\r\nレスタニアニュースにて確認くださいね",
+      "source_en": "Rewards are also being paid, so please check it\r\nout on Lestania News!",
+      "text": "Auch die Belohnungen werden verteilt.\r\nSchau in die Lestania-Nachrichten!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

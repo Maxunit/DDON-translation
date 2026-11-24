@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90030102.gmd",
+  "arc_path": "\\quest\\q90030102.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ダクレイム砦でのウォーミッションは終了した\r\n現在、各個人の戦果を確認しているところだ",
+      "source_en": "The war mission at Dacreim Fortress has ended.\r\nWe are currently checking each individual's\r\nachievements.",
+      "text": "Die Kriegsmission in der Festung Dacreim ist beendet.\r\nWir prüfen gerade,\r\nwie sich jeder Einzelne geschlagen hat."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "集計が終わるまで、しばらくの間待っていてほしい",
+      "source_en": "Please wait a while for the tally\r\nto be completed.",
+      "text": "Hab bitte noch etwas Geduld,\r\nbis alle Ergebnisse vorliegen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

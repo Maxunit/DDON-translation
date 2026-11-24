@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90020202.gmd",
+  "arc_path": "\\quest\\q90020202.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "今回も何とか魔物を退けたな\r\n――我々への協力、感謝する",
+      "source_en": "Once again, we managed to drive away the monsters.\r\nThank you for your cooperation.",
+      "text": "Wir haben es wieder geschafft, die Monster zurückzudrängen.\r\nDanke für deine Unterstützung."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ミッションの戦果が発表された者から\r\n保管ボックスより順次報酬を渡すぞ",
+      "source_en": "We'll distribute rewards sequentially from the\r\nstorage box to those whose mission achievements\r\nhave been announced.",
+      "text": "Sobald dein Ergebnis bekannt gegeben wurde,\r\nkannst du deine Belohnung\r\naus der Lagerkiste abholen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "先の戦いについて\r\n多くの戦果を挙げた貴君に対して\r\n特別なアビリティが送られることになった",
+      "source_en": "As a reward for your many\r\naccomplishments achieved in that last battle,\r\nyou will receive a special Augment.",
+      "text": "Du hast dich im letzten Kampf\r\nbesonders hervorgetan. Dafür erhältst du\r\neine besondere Begabung."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ぜひ受け取ってくれ――",
+      "source_en": "Please accept it with gratitude--",
+      "text": "Nimm sie bitte an …"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

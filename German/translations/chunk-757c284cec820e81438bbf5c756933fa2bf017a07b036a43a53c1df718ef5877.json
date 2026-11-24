@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50301001_00.gmd",
+  "arc_path": "\\quest\\q50301001.arc",
+  "entries": [
+    {
+      "key": "q50301001_00_88",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "速壊の極み　ダクレイム砦",
+      "source_en": "Breakneck Destruction: Dacreim Fortress",
+      "text": "Siegel im Sturm – Festung Dacreim"
+    },
+    {
+      "key": "q50301001_00_88",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "＜ウォーミッション：ダクレイム砦奪還戦＞にて\r\n大いなる戦果を上げた覚者たちよ\r\nその技術と精神を持って、己の力を更に磨き上げよ",
+      "source_en": "In the <War Mission: Dacreim Fortress Recapture Battle>,\r\nyou, the Arisen, who have achieved great victories,\r\nmust further hone your skills and spirit.",
+      "text": "Erweckte, ihr habt bei „<War Mission: Dacreim Fortress Recapture Battle>“\r\neinen großen Sieg errungen.\r\nSchärft nun euer Können und stärkt euren Kampfgeist!"
+    },
+    {
+      "key": "q50301001_00_3137",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "全ての呪符を素早く破壊する",
+      "source_en": "Destroy all talismans quickly",
+      "text": "Zerstört alle Fluchsiegel so schnell wie möglich."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

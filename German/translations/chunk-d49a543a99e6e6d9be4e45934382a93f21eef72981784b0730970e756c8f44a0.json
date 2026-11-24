@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000423_00.gmd",
+  "arc_path": "\\quest\\q90000423.arc",
+  "entries": [
+    {
+      "key": "q90000423_00_70",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "事態は一定の収束をみた、迎撃態勢は解除する\r\n覚者の協力については報酬を用意している\r\n集計結果を待ってほしい",
+      "source_en": "The situation has reached a certain resolution,\r\nand the interception preparations will be lifted.\r\nWe have prepared rewards for the assistance of the\r\nArisen. Please wait for the aggregation results.",
+      "text": "Die Lage hat sich beruhigt.\r\nDie Alarmbereitschaft wird aufgehoben.\r\nFür die Hilfe der Erweckten haben wir Belohnungen vorbereitet.\r\nHabt noch Geduld, bis die Ergebnisse vorliegen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90020302.gmd",
+  "arc_path": "\\quest\\q90020302.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "\"シェドレアン大神殿\"での問題を\r\n解決してくれたみたいね！\r\nアデルドナハからも、礼をいっておいてくれと\r\n言われたよ――",
+      "source_en": "It seems like you solved the problem\r\nthat beset the Shadolean Great Temple!\r\nAdair Donnchadh told me to thank you...",
+      "text": "Du hast die Sache im Großen Tempel von Shadolean wohl geregelt!\r\nAdair Donnchadh hat mich gebeten,\r\ndir auch in seinem Namen zu danken."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "今は戦果の分析中だから\r\nもうしばらく待っていてちょうだい",
+      "source_en": "I'm in the process of analyzing the war results,\r\nso you'll have to wait a while longer.",
+      "text": "Ich werte gerade den Kampf aus.\r\nHab bitte noch etwas Geduld."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "今回のミッションでは物凄いはたらきを\r\nしてくれたみたいね！",
+      "source_en": "You did a tremendous job on this mission!",
+      "text": "Bei dieser Mission hast du wirklich ganze Arbeit geleistet!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "戦果の報酬として、シークレットアビリティが\r\n付与されるよ\r\n受け取ってちょうだい",
+      "source_en": "As a reward for your battle results,\r\nyou will receive a Secret Augment.\r\nPlease accept it.",
+      "text": "Für deinen Einsatz im Kampf\r\nerhältst du eine geheime Begabung.\r\nNimm sie bitte an."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

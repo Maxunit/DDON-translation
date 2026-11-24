@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90020302_00.gmd",
+  "arc_path": "\\quest\\q90020302.arc",
+  "entries": [
+    {
+      "key": "q90020302_00_92",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "古代神殿に巣食った侵食魔は一掃された\r\nレスタニアの覚者への戦果は後程、通達される\r\nそれまでは待機とする",
+      "source_en": "The corruption that had nested itself in the\r\nancient temple has been completely eradicated. The\r\nachievements of the Arisen in Lestania will be\r\nconveyed at a later time. Until then, please\r\nremain on standby.",
+      "text": "Die befallenen Monster, die sich im alten\r\nTempel eingenistet hatten, sind besiegt.\r\nDen Erweckten in Lestania werden die\r\nErgebnisse später mitgeteilt.\r\nHaltet euch bis dahin bereit."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

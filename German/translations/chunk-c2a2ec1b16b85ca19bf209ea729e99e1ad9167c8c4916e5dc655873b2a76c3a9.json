@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50302000.gmd",
+  "arc_path": "\\quest\\q50302000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "封鎖された扉が開いた――",
+      "source_en": "The sealed door has opened!",
+      "text": "Die versiegelte Tür steht offen!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "イービルアイはダンジョンの奥へと消え去った――",
+      "source_en": "The Evil Eye has disappeared\r\ninto the dungeon...",
+      "text": "Das Böse Auge ist tief im\r\nVerlies verschwunden …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "特定ジョブの参加により制限時間が加算されました",
+      "source_en": "Specific vocation's participation has\r\nincreased the time limit.",
+      "text": "Durch die Teilnahme einer bestimmten Klasse\r\nhat sich das Zeitlimit verlängert."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

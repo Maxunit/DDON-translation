@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90000421.gmd",
+  "arc_path": "\\quest\\q90000421.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "私の予感だが、ほどなくレスタニアに\r\n暗雲が立ち込めようとしている",
+      "source_en": "I have a feeling that soon, a dark cloud will\r\nloom over Lestania.",
+      "text": "Ich habe das Gefühl, dass sich bald dunkle Wolken\r\nüber Lestania zusammenziehen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "これは凶悪な魔物があらわれる前兆だ\r\n気をつけるといい",
+      "source_en": "This is an omen of the coming of a vicious demon.\r\nBe careful.",
+      "text": "Das kündigt ein gefährliches Monster an.\r\nSei auf der Hut."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "魔物が姿を現したならば\r\n再度、私の元を訪れて\r\n討伐隊への参加を期待しているぞ",
+      "source_en": "If the monsters show themselves, I hope you'll\r\nvisit me again and join the hunt team!",
+      "text": "Sobald das Monster auftaucht, komm wieder zu mir.\r\nIch hoffe, du schließt dich unserem Jagdtrupp an!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアで恐ろしい気配を感じたという\r\n噂が流れています",
+      "source_en": "Rumors are circulating of a frightening presence\r\nin Lestania.",
+      "text": "Es geht das Gerücht um, jemand habe\r\nin Lestania etwas Schreckliches gespürt."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "詳しい情報は\r\n《商店区》にいるコーネリアさんを\r\nお訪ねください",
+      "source_en": "For more information, please visit ser Cornelia\r\nin the \"Shopping District\"",
+      "text": "Mehr erfährst du bei Cornelia\r\nim Händlerviertel."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

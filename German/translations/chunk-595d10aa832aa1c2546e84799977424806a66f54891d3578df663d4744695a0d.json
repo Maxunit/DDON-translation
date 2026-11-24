@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50300003_00.gmd",
+  "arc_path": "\\quest\\q50300003.arc",
+  "entries": [
+    {
+      "key": "q50300003_00_80",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アーク目撃の影響を受けてか、レスタニアにて\r\nこれまでにない異質な気配が感じられるようになった\r\n騎士団は異質な気配を警戒している\r\nしばらくの間、特別迎撃態勢をとることにした\r\n覚者諸君においては、各自充分な備えをもって\r\nこれに対処してほしい",
+      "source_en": "Perhaps as a result of witnessing the Ark, a\r\ndistinct presence has begun to be felt in\r\nLestania. The knights are on alert for this\r\nunusual presence and have decided to assume a\r\nspecial defensive position for a while. For the\r\nArisen, it is requested that each individual be\r\nadequately prepared to handle this situation.",
+      "text": "Seit die Arche gesichtet wurde,\r\nspürt man in Lestania etwas Fremdes.\r\nDie Ritter sind in Alarmbereitschaft.\r\nSie haben beschlossen, ihre Verteidigung\r\neine Weile zu verstärken.\r\nAuch ihr Erweckten sollt euch gründlich vorbereiten,\r\ndamit ihr auf alles gefasst seid."
+    },
+    {
+      "key": "q50300003_00_3058",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ズールを討伐せよ",
+      "source_en": "Defeat Zuhl",
+      "text": "Besiegt Zuhl."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

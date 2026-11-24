@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q90000305.gmd",
+  "arc_path": "\\quest\\q90000305.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "共闘に失敗しました（仮）",
+      "source_en": "Failed to join the battle (temporary)",
+      "text": "Beitritt zum Kampf fehlgeschlagen (vorläufig)"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "共闘に成功しました（仮）",
+      "source_en": "Successfully joined the battle (temporary)",
+      "text": "Beitritt zum Kampf erfolgreich (vorläufig)"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

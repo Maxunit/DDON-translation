@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90000413.gmd",
+  "arc_path": "\\quest\\q90000413.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "戦果の報告をまとめているところだ",
+      "source_en": "I'm in the process of summarizing the results of\r\nthe battle.",
+      "text": "Ich fasse gerade die Ergebnisse\r\ndes Kampfes zusammen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "報酬はその後支給するので\r\n待っていてくれ",
+      "source_en": "The reward will be distributed afterwards, please\r\nwait.",
+      "text": "Danach wird die Belohnung ausgezahlt.\r\nHab noch etwas Geduld."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "遠征が終わったようですね",
+      "source_en": "It seems that the expedition has come to an end.",
+      "text": "Die Expedition scheint vorbei zu sein."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "本当にあの黄金の竜を倒せたのでしょうか――",
+      "source_en": "Did we really manage to defeat the Golden Dragon?",
+      "text": "Ob wir den Goldenen Drachen wirklich besiegen konnten?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

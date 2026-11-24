@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90020203_00.gmd",
+  "arc_path": "\\quest\\q90020203.arc",
+  "entries": [
+    {
+      "key": "q90020203_00_89",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "アルタード・ズールの軍勢が、突如魔赤島への\r\n襲撃をはじめた\r\nズールの生命はやはり不死身なのだろうか\r\n幾度となく復活を遂げる魔物への対処法はあるのか\r\n今回こそは、ヤツを完全に仕留めるべく\r\n考え得る最良の準備と戦略を用いて対抗せよ",
+      "source_en": "The Altered Zuhl's army suddenly began their raid\r\non Bloodbane Isle.\r\nIs Zuhl truly immortal?\r\nIs there a way to deal with the monsters that\r\nhave repeatedly come back to life?\r\nThis time, prepare and strategize with the best\r\npossible plan to completely take it down.",
+      "text": "Die Truppen des verwandelten Zuhl haben\r\ndie Blutfluchinsel überraschend angegriffen.\r\nIst Zuhl tatsächlich unsterblich?\r\nWie sollen wir ein Monster aufhalten,\r\ndas immer wieder ins Leben zurückkehrt?\r\nBereitet euch dieses Mal so gut wie möglich vor\r\nund stellt einen Plan auf, um ihn endgültig zu besiegen."
+    },
+    {
+      "key": "q90020203_00_89",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "魔赤島の狂宴《リザルト報酬》",
+      "source_en": "Bloodbane Isle's Feast of Madness (Result Reward)",
+      "text": "Das wilde Fest der Blutfluchinsel (Schlachtbelohnung)"
+    },
+    {
+      "key": "q90020203_00_89",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "アルタード・ズールとの戦いは続いている\r\n入念な準備と効果的な戦略を用意して\r\n対抗せよ",
+      "source_en": "The battle against the Altered Zuhl continues.\r\nPrepare thoroughly and devise effective\r\nstrategies.\r\nTake on the challenge.",
+      "text": "Der Kampf gegen den verwandelten Zuhl dauert an.\r\nBereitet euch gründlich vor\r\nund überlegt euch eine wirksame Strategie.\r\nDann stellt euch ihm."
+    },
+    {
+      "key": "q90020203_00_1991",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "魔物集団を討伐し、アルタード・ズールの元へ急げ",
+      "source_en": "Defeat the group of enemies and hasten to Altered Zuhl",
+      "text": "Besiegt die Monster und eilt zum verwandelten Zuhl."
+    },
+    {
+      "key": "q90020203_00_1993",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "アルタード・ズールを討伐し、魔赤島侵略を阻止せよ",
+      "source_en": "Defeat Altered Zuhl and prevent the invasion of Bloodbane Isle",
+      "text": "Besiegt den verwandelten Zuhl und wehrt den Angriff auf die Blutfluchinsel ab."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

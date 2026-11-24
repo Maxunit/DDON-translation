@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000207_00.gmd",
+  "arc_path": "\\quest\\q90000207.arc",
+  "entries": [
+    {
+      "key": "q90000207_00_78",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔物のるつぼ　：業火",
+      "source_en": "The Crucible of Demons: Inferno",
+      "text": "Schmelztiegel der Monster – Inferno"
+    },
+    {
+      "key": "q90000207_00_78",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜族の数があまり見られないという報告はあるが\r\n油断は禁物、一方で狂暴化しているという噂がある\r\nさらに、3種の宝石を集めると、より強大な\r\nエルダードラゴンが出現するという噂も耳にした\r\n腕に自信があるなら真偽を確かめてきてくれ！",
+      "source_en": "There are reports that not many Dragonkin have\r\nbeen seen, but be on your guard.\r\nOn the other hand, there are rumors that they are\r\nbecoming more rabid.\r\nAdditionally, I heard a rumor that if you collect\r\nthree types of gems, more powerful Elder Dragons\r\nwill appear.\r\nIf you are confident in your skills, go and find\r\nout the truth!",
+      "text": "Anscheinend wurden nur wenige Drachen\r\ngesichtet. Bleibt trotzdem wachsam!\r\nEs heißt, sie seien wilder\r\nals zuvor. Außerdem soll\r\nein noch mächtigerer Altdrache auftauchen,\r\nwenn man drei verschiedene Edelsteinarten\r\nsammelt. Wenn ihr euch das zutraut,\r\nfindet heraus, was an den\r\nGerüchten dran ist!"
+    },
+    {
+      "key": "q90000207_00_78",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "魔物のるつぼ：業火《リザルト報酬》",
+      "source_en": "The Crucible of Demons: Inferno (Result Reward)",
+      "text": "Schmelztiegel der Monster – Inferno (Schlachtbelohnung)"
+    },
+    {
+      "key": "q90000207_00_78",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "狂暴化した竜族に手がつけられない！\r\nしかも条件によっては、より強大な\r\nエルダードラゴンも出るって噂だ！\r\n皆、今すぐ手を貸してくれ！",
+      "source_en": "The rampaging dragonkin are out of control!\r\nFurthermore, depending on the conditions, an even\r\nmore powerful Elder Dragon may appear!\r\nEveryone, please lend a hand right away!",
+      "text": "Die rasenden Drachen sind außer Kontrolle!\r\nUnter bestimmten Umständen soll sogar\r\nein noch mächtigerer Altdrache auftauchen.\r\nWir brauchen sofort eure Hilfe!"
+    },
+    {
+      "key": "q90000207_00_1635",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "竜族を討伐し、30000pt以上獲得を目指せ",
+      "source_en": "Defeat Dragonkin and aim to earn over 30,000pt",
+      "text": "Besiegt Drachen und versucht, mindestens 30.000 Punkte zu erzielen."
+    },
+    {
+      "key": "q90000207_00_1636",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "《時番》を探し出し、討伐でタイムボーナス",
+      "source_en": "Find and defeat [Time Bonus] enemies for a time\r\nbonus",
+      "text": "Findet und besiegt Zeitwächter,\r\num zusätzliche Zeit zu erhalten."
+    },
+    {
+      "key": "q90000207_00_1640",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "3種の宝石を探し出し、討伐せよ",
+      "source_en": "Find and defeat the three types of gems",
+      "text": "Findet und besiegt die Monster mit den drei Edelsteinarten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

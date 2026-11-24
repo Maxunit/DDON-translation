@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90030302_00.gmd",
+  "arc_path": "\\quest\\q90030302.arc",
+  "entries": [
+    {
+      "key": "q90030302_00_115",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "霧の森でのウォーミッションは終了した\r\n各々の戦果については追って報告があるので\r\nそれまでは待機とする",
+      "source_en": "The war missions in the Forest of Mist have ended.\r\nReports on each individual battle achievement\r\nwill be provided shortly.\r\nUntil then, please remain on standby.",
+      "text": "Die Kriegsmission im Nebelwald ist beendet.\r\nWir geben die Ergebnisse für jeden Einzelnen\r\nin Kürze bekannt.\r\nHaltet euch bis dahin bereit."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

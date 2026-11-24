@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50301000.gmd",
+  "arc_path": "\\quest\\q50301000.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜軍の増援を食い止めた！",
+      "source_en": "Repelled the Evil Dragon's reinforcements!",
+      "text": "Ihr habt die Verstärkung des Bösen Drachen aufgehalten!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜軍の増援を食い止められなかった――",
+      "source_en": "Failed to repel the Evil Dragon's reinforcements!",
+      "text": "Die Verstärkung des Bösen Drachen ist durchgebrochen …"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜軍の更なる襲撃に備えよ――",
+      "source_en": "Prepare for the next assault...",
+      "text": "Bereitet euch auf den nächsten Angriff der Truppen des Bösen Drachen vor …"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜軍の進軍を食い止められなかった――",
+      "source_en": "Failed to repel the Evil Dragon's advance...",
+      "text": "Die Truppen des Bösen Drachen konnten ungehindert vorrücken …"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "悪しき竜軍の進軍を食い止めた！",
+      "source_en": "Repelled the Evil Dragon's advance!",
+      "text": "Ihr habt den Vormarsch der Truppen des Bösen Drachen gestoppt!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

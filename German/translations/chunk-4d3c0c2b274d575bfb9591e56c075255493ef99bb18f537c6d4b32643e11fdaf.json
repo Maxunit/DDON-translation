@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90030202.gmd",
+  "arc_path": "\\quest\\q90030202.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "ジフール砦でのウォーミッションは終了した\r\n今は各個人の戦果を確認しているところだ",
+      "source_en": "The War Mission at Jifule Fortress has ended.\r\nWe are currently checking\r\neach individual's achievements.",
+      "text": "Die Kriegsmission in der Festung Jifule ist beendet.\r\nWir prüfen gerade,\r\nwie sich jeder Einzelne geschlagen hat."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "集計が終わるまで、しばらくの間待っていてくれ",
+      "source_en": "I hope you can wait awhile\r\nfor the tally to be completed.",
+      "text": "Hab bitte noch etwas Geduld,\r\nbis alle Ergebnisse vorliegen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

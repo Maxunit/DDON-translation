@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90030103_00.gmd",
+  "arc_path": "\\quest\\q90030103.arc",
+  "entries": [
+    {
+      "key": "q90030103_00_104",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ティネス砦にいるアシュトンより、各個人の戦果に\r\n伴う報酬を受け取ることが出来る\r\n特別な報酬には受け取るための条件や上限数が\r\nあるため、貢献具合に応じた品物を選ぶように",
+      "source_en": "From Fort Thines, Ashton informs that it is\r\npossible to receive rewards corresponding to\r\nindividual achievements. There are conditions and\r\nlimits to receiving special rewards, so choose\r\nitems based on your level of contribution.",
+      "text": "Bei Ashton in Fort Thines\r\nkannst du dir die Belohnung für deinen Einsatz abholen.\r\nBesondere Belohnungen sind begrenzt\r\nund an bestimmte Bedingungen geknüpft.\r\nDein Einsatz entscheidet, was du wählen kannst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

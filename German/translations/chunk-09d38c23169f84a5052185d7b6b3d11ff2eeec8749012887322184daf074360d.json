@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50309000_00.gmd",
+  "arc_path": "\\quest\\q50309000.arc",
+  "entries": [
+    {
+      "key": "q50309000_00_91",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【３周年記念】白竜杯",
+      "source_en": "3rd Anniversary: White Dragon Cup",
+      "text": "Pokal des Weißen Drachen zum dritten Jubiläum"
+    },
+    {
+      "key": "q50309000_00_91",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n研磨されし己が力をもって\r\n集う脅威を切り伏せよ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nPolish your own strength,\r\nand overcome the gathering menace.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nNutzt alles, was ihr gelernt habt,\r\nund besiegt die Monster, die sich hier sammeln!"
+    },
+    {
+      "key": "q50309000_00_4756",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "現れる魔物を全て討伐する",
+      "source_en": "Defeat all monsters that appear",
+      "text": "Besiegt alle Monster, die auftauchen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

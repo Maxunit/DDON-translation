@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90000403.gmd",
+  "arc_path": "\\quest\\q90000403.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "討伐に参加してくれた\r\n多くの勇気ある戦士達のおかげで\r\nあの化け物を退けることができた",
+      "source_en": "Thanks to the brave soldiers who participated in\r\nthe subjugation, we were able to repel that\r\nmonster.",
+      "text": "Viele tapfere Kämpfer haben sich\r\nder Jagd angeschlossen. Dank ihnen\r\nkonnten wir das Monster zurückdrängen."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "心から礼を言わせてもらうよ",
+      "source_en": "I want to thank you from the bottom of my heart.",
+      "text": "Ich danke dir von ganzem Herzen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "森に現れた魔物を\r\n退けることができたそうです",
+      "source_en": "We hear that they were able to repel the monster\r\nthat appeared in the forest.",
+      "text": "Es heißt, sie hätten das Monster,\r\ndas im Wald aufgetaucht ist, zurückgedrängt."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "レスタニアニュースでも\r\n取り上げられていますよ",
+      "source_en": "It has also been featured in Lestania News.",
+      "text": "Das steht auch in den Lestania-Nachrichten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

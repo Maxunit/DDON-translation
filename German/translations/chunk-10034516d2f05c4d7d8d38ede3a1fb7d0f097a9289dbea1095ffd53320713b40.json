@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000206_00.gmd",
+  "arc_path": "\\quest\\q90000206.arc",
+  "entries": [
+    {
+      "key": "q90000206_00_79",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔物のるつぼ　：火炎",
+      "source_en": "The Crucible of Demons: Blaze",
+      "text": "Schmelztiegel der Monster – Flammen"
+    },
+    {
+      "key": "q90000206_00_79",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《魔物のるつぼ》への侵攻作戦は\r\nより困難な局面に入りつつある\r\n時番を仕留めながら、より多くの竜族を討伐するのだ！\r\n狙うはもちろん、爆炎の大竜エルダードラゴン！",
+      "source_en": "The invasion of the Crucible of Demons is\r\nentering a more difficult phase.\r\nWhile defeating the waves of enemies, the goal is\r\nto eliminate more of the dragonkin!\r\nThe target, of course, is the Elder Dragon, the\r\ngreat dragon of fire and brimstone!",
+      "text": "Der Vorstoß in den Schmelztiegel der Monster\r\nwird immer schwieriger.\r\nBesiegt die Zeitwächter und erlegt\r\nso viele Drachen wie möglich!\r\nUnser Ziel bleibt der mächtige,\r\nfeuerspeiende Altdrache!"
+    },
+    {
+      "key": "q90000206_00_79",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "魔物のるつぼ ：火炎《リザルト報酬》",
+      "source_en": "The Crucible of Demons: Blaze (Result Reward)",
+      "text": "Schmelztiegel der Monster – Flammen (Schlachtbelohnung)"
+    },
+    {
+      "key": "q90000206_00_79",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "竜族の勢力が勢いを増している！\r\n腕に自信がある奴は、今すぐ港洞に集まってくれ\r\n皆で力を合わせて爆炎の大竜を仕留めるぞ！",
+      "source_en": "The forces of the Dragonkin are growing stronger!\r\nThose who have confidence in their skills, gather\r\nat Cave Harbor right now.\r\nLet's join forces and take down the mighty dragon\r\nof blazing flames!",
+      "text": "Die Drachen werden immer stärker!\r\nWer sich dem gewachsen fühlt,\r\nkommt sofort in den Höhlenhafen.\r\nGemeinsam erlegen wir\r\nden mächtigen, feuerspeienden Drachen!"
+    },
+    {
+      "key": "q90000206_00_1781",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "竜族を討伐し、8000pt以上獲得を目指せ",
+      "source_en": "Defeat Dragonkin and aim to acquire more than 8000pt",
+      "text": "Besiegt Drachen und versucht, mindestens 8.000 Punkte zu erzielen."
+    },
+    {
+      "key": "q90000206_00_1782",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "《時番》を探し出し、討伐でタイムボーナス",
+      "source_en": "Find and defeat [Time Bonus] enemies for a time bonus",
+      "text": "Findet und besiegt Zeitwächter, um zusätzliche Zeit zu erhalten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

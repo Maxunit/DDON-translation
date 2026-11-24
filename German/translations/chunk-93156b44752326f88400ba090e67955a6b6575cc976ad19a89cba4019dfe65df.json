@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90030102_00.gmd",
+  "arc_path": "\\quest\\q90030102.arc",
+  "entries": [
+    {
+      "key": "q90030102_00_103",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ダクレイム砦でのウォーミッションは終了した\r\n各々の戦果については追って報告があるので\r\nそれまでは待機とする",
+      "source_en": "War missions at Dacreim Fortress have ended. We\r\nwill provide reports on the achievements of each\r\nindividual battle shortly. Until then, please\r\nremain on standby.",
+      "text": "Die Kriegsmission in der Festung Dacreim ist beendet.\r\nWir geben die Ergebnisse\r\nfür jeden Einzelnen in Kürze bekannt.\r\nHaltet euch bis dahin bereit."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

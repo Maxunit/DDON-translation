@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50303000_00.gmd",
+  "arc_path": "\\quest\\q50303000.arc",
+  "entries": [
+    {
+      "key": "q50303000_00_71",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n《隠匿の王間》に現れた邪悪な魔物を\r\n迅速に退けよ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nSwiftly repel the evil monsters that have appeared\r\nin The King's Hidden Chamber.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nIn der Geheimen Königskammer sind gefährliche Monster aufgetaucht.\r\nSchlagt sie so schnell wie möglich zurück!"
+    },
+    {
+      "key": "q50303000_00_4233",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "イフリートを討伐する",
+      "source_en": "Defeat the Ifrit",
+      "text": "Besiegt Ifrit."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

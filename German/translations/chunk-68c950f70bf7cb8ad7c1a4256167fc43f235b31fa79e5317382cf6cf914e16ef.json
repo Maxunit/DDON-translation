@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90020101.gmd",
+  "arc_path": "\\quest\\q90020101.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "２つ以上のミッションには\r\nエントリーできないぞ",
+      "source_en": "You can't enter more than one mission!",
+      "text": "Du kannst dich immer nur für eine Mission anmelden!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "先にエントリーしている方のミッションを\r\n終わらせるか、エントリーを取り消して\r\n再度こちらに来るんだ",
+      "source_en": "Either finish the mission you've already entered,\r\nor cancel your entry, then come back again.",
+      "text": "Schließ die andere Mission zuerst ab\r\noder zieh deine Anmeldung zurück. Komm danach wieder."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ボルド大坑道へ調査にいったゲルト団長から\r\n緊急指令が届いているんだ",
+      "source_en": "I've got an urgent order from Commander Gerd, who\r\nwent to the Volden Large Tunnels to investigate.",
+      "text": "Kommandant Gerd ist für eine Untersuchung\r\nin den Volden-Stollen. Er hat einen dringenden Befehl geschickt."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "準備を整えたら、ミッションエントリーをしてくれ\r\n俺も共に向かうぞ",
+      "source_en": "Once you're ready, please enter the mission.\r\nI will also join you.",
+      "text": "Melde dich für die Mission an, sobald du bereit bist.\r\nIch komme mit."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

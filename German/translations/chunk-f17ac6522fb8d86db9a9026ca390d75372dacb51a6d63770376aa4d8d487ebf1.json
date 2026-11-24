@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90000424.gmd",
+  "arc_path": "\\quest\\q90000424.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔物討伐の報酬が支給されている\r\n保管ボックスより受け取ってくれ",
+      "source_en": "The reward for defeating the enemies has been\r\npaid. Please accept it from the Storage Box.",
+      "text": "Die Belohnung für die Monsterjagd wurde ausgezahlt.\r\nHol sie aus der Lagerkiste."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "先の戦闘評価が終わっている\r\n報酬を支給するので受け取ってくれ",
+      "source_en": "The previous combat evaluation has ended. Please\r\ncollect the reward.",
+      "text": "Die Auswertung des letzten Kampfes ist abgeschlossen.\r\nHol deine Belohnung ab."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "先の魔物討伐の戦果が発表されています",
+      "source_en": "The outcome of the previous enemy subjugation has\r\nbeen announced.",
+      "text": "Die Ergebnisse der letzten Monsterjagd\r\nwurden bekannt gegeben."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "報酬も支給されていますので、\r\nレスタニアニュースにて確認くださいね",
+      "source_en": "Rewards are also being paid, so please check it\r\nout on Lestania News!",
+      "text": "Auch die Belohnungen werden verteilt.\r\nSchau in die Lestania-Nachrichten!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

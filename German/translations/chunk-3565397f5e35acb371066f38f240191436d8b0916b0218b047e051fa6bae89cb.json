@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q50300008.gmd",
+  "arc_path": "\\quest\\q50300008.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "敵により封鎖された壁の片方が消えた――！",
+      "source_en": "One of the walls blocked by the enemy has\r\ndisappeared!",
+      "text": "Eine der beiden Barrieren, mit denen der Feind\r\nden Weg versperrt hat, ist verschwunden!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "敵により封鎖された壁が消えた――！",
+      "source_en": "The wall blocked by the enemy has disappeared!",
+      "text": "Die Barriere, mit der der Feind den Weg versperrt hat, ist verschwunden!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

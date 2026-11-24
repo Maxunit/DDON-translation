@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000413_00.gmd",
+  "arc_path": "\\quest\\q90000413.arc",
+  "entries": [
+    {
+      "key": "q90000413_00_64",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "黄金竜の撃退に成功した\r\n覚者の連携力と勇気がこの成果に繋がったのだ\r\n戦果は追って報告する、白竜に感謝し待つがいい",
+      "source_en": "The Golden Dragon has been successfully repelled.\r\nThe cooperation and bravery of the Arisen led to\r\nthis achievement.\r\nThe results of the battle will be reported later,\r\nwe thank the White Dragon and await its return.",
+      "text": "Wir haben den Goldenen Drachen zurückgedrängt.\r\nMut und Zusammenhalt der Erweckten\r\nhaben diesen Sieg möglich gemacht.\r\nDen Schlachtbericht geben wir später bekannt.\r\nDankt dem Weißen Drachen und wartet darauf."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

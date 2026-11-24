@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50309001_00.gmd",
+  "arc_path": "\\quest\\q50309001.arc",
+  "entries": [
+    {
+      "key": "q50309001_00_92",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "【３周年記念】速移の極み",
+      "source_en": "3rd Anniversary: Breakneck Speed",
+      "text": "Wettlauf gegen die Zeit zum dritten Jubiläum"
+    },
+    {
+      "key": "q50309001_00_92",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\nその技術と精神を持って、おのれの力を更に磨き上げよ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nWith your skills and spirit, further refine your power.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nSchärft euer Können und stärkt euren Kampfgeist!"
+    },
+    {
+      "key": "q50309001_00_4757",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "全てのチェックポイントに素早く移動する",
+      "source_en": "Move quickly to all checkpoints",
+      "text": "Passiert alle Kontrollpunkte so schnell wie möglich."
+    },
+    {
+      "key": "q50309001_00_4758",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "ゴール地点へ向かう",
+      "source_en": "Head to the finish line",
+      "text": "Lauft zum Ziel."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

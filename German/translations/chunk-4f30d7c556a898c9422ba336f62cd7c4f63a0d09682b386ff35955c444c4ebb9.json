@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50300010_00.gmd",
+  "arc_path": "\\quest\\q50300010.arc",
+  "entries": [
+    {
+      "key": "q50300010_00_87",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "フィンダムの未来を賭けた精霊竜との戦いは\r\n芯なる樹の樹内で起きた出来事のひとつとして\r\nこの聖なる不思議な場所に記憶された\r\nその記憶を求める一部の覚者にとって\r\nそれは過去を越える壮絶な試練となって\r\n相対することになるだろう",
+      "source_en": "The battle with the Spirit Dragon for future of\r\nPhindym, was one of the events that took place\r\ninside Core Tree. The memory of this event was\r\nstored in this holy and mysterious place. For some\r\nArisen who seek this memory, it will become a\r\ntremendous trial that surpasses the past, as they\r\ncome face to face with it.",
+      "text": "Im Inneren des Herzbaums fand der Kampf\r\ngegen den Geisterdrachen statt.\r\nDamals stand die Zukunft Phindyms auf dem Spiel.\r\nDieser heilige, geheimnisvolle Ort hat die Erinnerung\r\nan den Kampf bewahrt. Manche Erweckte, die ihr nachgehen,\r\nstehen dort vor einer Prüfung, die alles übertrifft,\r\nwas sie damals erlebt haben."
+    },
+    {
+      "key": "q50300010_00_3085",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "呼び覚まされし精霊竜を討伐する",
+      "source_en": "Defeat the awakened Spirit Dragon",
+      "text": "Besiegt den wiedererweckten Geisterdrachen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

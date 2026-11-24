@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q90020103.gmd",
+  "arc_path": "\\quest\\q90020103.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "脅威的な魔物が呼び寄せられた――！",
+      "source_en": "A formidable enemy has been summoned—!",
+      "text": "Ein mächtiges Monster wurde herbeigerufen!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "更なる魔物が呼び寄せられた――！",
+      "source_en": "More enemies have been summoned!",
+      "text": "Weitere Monster wurden herbeigerufen!"
+    },
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "封印の扉が開き\r\nカースドラゴンへの道が開けた――！",
+      "source_en": "The door of the Skill Seal has opened.\r\nThe path to the Cursed Dragon has been revealed!",
+      "text": "Die versiegelte Tür steht offen.\r\nDer Weg zum Fluchdrachen ist frei!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "魔物の群れが全滅！\r\n一帯の増援は止まったようだ――",
+      "source_en": "The horde of monsters has been completely\r\neliminated!\r\nIt seems that reinforcements to the area have\r\nstopped coming in...",
+      "text": "Alle Monster der Gruppe sind besiegt!\r\nHier scheint vorerst\r\nkeine Verstärkung mehr\r\nanzukommen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

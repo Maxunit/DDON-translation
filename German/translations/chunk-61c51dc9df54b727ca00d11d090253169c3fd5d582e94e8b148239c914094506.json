@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000404_00.gmd",
+  "arc_path": "\\quest\\q90000404.arc",
+  "entries": [
+    {
+      "key": "q90000404_00_59",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "太古の強者《最終報酬》",
+      "source_en": "Ancient Warrior (Final Reward)",
+      "text": "Der Krieger der Vorzeit (Abschlussbelohnung)"
+    },
+    {
+      "key": "q90000404_00_59",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "報酬配分が確定した\r\n覚者は受け取り手続きを済ませてくれ\r\n今後も騎士と覚者は協力して事態解決に当たろう",
+      "source_en": "The distribution of rewards has been finalized.\r\nArisen, please complete the necessary steps for\r\nreceiving them.\r\nIn the future, the Knight and Arisen shall\r\ncooperate to resolve the situation.",
+      "text": "Die Anteile stehen fest.\r\nHol deine Belohnung bitte ab.\r\nAuch künftig werden Ritter und Erweckte\r\nsolche Bedrohungen\r\ngemeinsam abwehren."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

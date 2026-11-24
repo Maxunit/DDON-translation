@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q90000205.gmd",
+  "arc_path": "\\quest\\q90000205.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たな竜族が出現した！",
+      "source_en": "A new Dragonkin has appeared!",
+      "text": "Ein weiterer Drache ist aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "《時番》を殲滅した",
+      "source_en": "Defeated the Time Bonus enemy",
+      "text": "Der Zeitwächter ist besiegt."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "《時番》を発見！討伐でタイムボーナス",
+      "source_en": "Discovered the Time Bonus enemy! Defeat them for\r\na time bonus",
+      "text": "Zeitwächter entdeckt! Besiegt ihn,\r\num zusätzliche Zeit zu erhalten!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "《時番》の気配がする―",
+      "source_en": "I sense the presence of a Time Bonus enemy",
+      "text": "Ein Zeitwächter ist in der Nähe …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エルダードラゴン討伐に成功した",
+      "source_en": "Successfully defeated the Elder Dragon",
+      "text": "Der Altdrache ist besiegt!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "エルダードラゴンが出現した！",
+      "source_en": "The Elder Dragon has appeared!",
+      "text": "Der Altdrache ist aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "タイムボーナス《5分》追加！",
+      "source_en": "Time bonus of 5 minutes added!",
+      "text": "Zeitbonus! Ihr habt fünf zusätzliche Minuten!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

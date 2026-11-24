@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90000205.gmd",
+  "arc_path": "\\quest\\q90000205.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "勇敢なる覚者よ、竜族を狙うのだ！",
+      "source_en": "Brave Arisen, aim for the Dragonkin!",
+      "text": "Tapfere Erweckte, macht Jagd auf die Drachen!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "さすれば大物、エルダードラゴンをおびき出せるはずだ！",
+      "source_en": "If we do that, we should be able to lure out a\r\nformidable creature, the Elder Dragon!",
+      "text": "So könnt ihr den großen\r\nAltdrachen hervorlocken!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "《時番》を発見したら優先的に討伐するのだ！",
+      "source_en": "When you find a [Time Bonus] enemy, prioritize\r\ndefeating it!",
+      "text": "Sobald ihr einen Zeitwächter entdeckt,\r\nnehmt ihn euch zuerst vor!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "奴らを倒せば残り時間が延長されるぞ",
+      "source_en": "Defeating them will extend the remaining time!",
+      "text": "Wenn ihr sie besiegt, habt ihr mehr Zeit."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "おお！　ついにエルダードラゴンのお出ましだ！",
+      "source_en": "Oh! The Elder Dragon has finally made an\r\nappearance!",
+      "text": "Oh! Da ist endlich\r\nder Altdrache!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "覚者たちよ、戦果を目指すなら討伐だ！",
+      "source_en": "Arisen, if you aim for achievements in battle,\r\nfocus on defeating it!",
+      "text": "Erweckte, wenn ihr euch beweisen wollt,\r\ndann besiegt ihn!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

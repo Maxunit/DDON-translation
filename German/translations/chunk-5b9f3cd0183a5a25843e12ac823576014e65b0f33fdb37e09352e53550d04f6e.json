@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000205_00.gmd",
+  "arc_path": "\\quest\\q90000205.arc",
+  "entries": [
+    {
+      "key": "q90000205_00_48",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔物のるつぼ　：熱波",
+      "source_en": "The Crucible of Demons: Heat Wave",
+      "text": "Schmelztiegel der Monster – Hitzewelle"
+    },
+    {
+      "key": "q90000205_00_48",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "洋撃船の仕上がりは万端！\r\n《魔物のるつぼ》への侵攻作戦は意気揚々と展開中だ！\r\n爆炎の大竜、エルダードラゴンを仕留められるかは\r\nおまえたちの腕と運しだい！\r\n値千金、一攫千金の戦いに持てる戦技の全てをぶつけよ！",
+      "source_en": "The finishing touches on the Western Expedition\r\nship are perfect!\r\nThe invasion operation of the \"Crucible of\r\nDemons\" is progressing with high spirits!\r\nWhether we can bring down the mighty Elder\r\nDragon, a raging inferno, depends on your skills\r\nand luck!\r\nPour out all the combat techniques you possess\r\ninto this priceless, once-in-a-lifetime battle!",
+      "text": "Das Expeditionsschiff ist bereit!\r\nMit voller Kraft beginnt der Vorstoß\r\nin den Schmelztiegel der Monster!\r\nOb ihr den mächtigen Altdrachen\r\nzur Strecke bringt, hängt von eurem Können\r\nund eurem Glück ab.\r\nSetzt alles ein,\r\nwas ihr gelernt habt!\r\nIn diesem Kampf könnt ihr reich belohnt werden!"
+    },
+    {
+      "key": "q90000205_00_48",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "魔物のるつぼ ：熱波《リザルト報酬》",
+      "source_en": "The Crucible of Demons: Heat Wave (Result Reward)",
+      "text": "Schmelztiegel der Monster – Hitzewelle (Schlachtbelohnung)"
+    },
+    {
+      "key": "q90000205_00_48",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "命知らずども！白竜神殿港洞に集まれ！\r\n爆炎の大竜、エルダードラゴンを仕留めるため\r\n≪魔物のるつぼ≫へ飛び込め！",
+      "source_en": "Attention, Daredevils! Gather at the Cave Harbor\r\nof the White Dragon Temple! We must defeat the\r\nElder Dragon of Flames. Dive into the Crucible of\r\nDemons!",
+      "text": "Ihr Wagemutigen, sammelt euch im Höhlenhafen\r\ndes Tempels des Weißen Drachen! Wir müssen\r\nden feuerspeienden Altdrachen erlegen.\r\nStürzt euch in den Schmelztiegel der Monster!"
+    },
+    {
+      "key": "q90000205_00_1542",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "竜族を討伐し、4000pt以上獲得を目指せ",
+      "source_en": "Defeat dragons and aim for more than 4000pt",
+      "text": "Besiegt Drachen und versucht, mindestens 4.000 Punkte zu erzielen."
+    },
+    {
+      "key": "q90000205_00_1543",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "《時番》を探し出し、討伐でタイムボーナス",
+      "source_en": "Find and defeat [Time Bonus] enemies for a time bonus",
+      "text": "Findet und besiegt Zeitwächter, um zusätzliche Zeit zu erhalten."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

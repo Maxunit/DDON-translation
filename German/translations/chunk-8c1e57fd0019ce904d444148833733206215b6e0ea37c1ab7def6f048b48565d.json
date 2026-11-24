@@ -1,0 +1,40 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90000423.gmd",
+  "arc_path": "\\quest\\q90000423.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "何とか退けることができたようだな\r\nさすがだ、覚者よ",
+      "source_en": "It seems that you were able to somehow fend it\r\noff. Truly impressive, Arisen.",
+      "text": "Du hast es also tatsächlich zurückgedrängt.\r\nGut gemacht!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "戦果を集計しているところだ\r\n報酬支給はもう少し時間をくれ",
+      "source_en": "We are currently tallying the results of the\r\nbattle. Please give us a little more time for\r\nreward distribution.",
+      "text": "Wir werten gerade den Kampf aus.\r\nHab noch etwas Geduld,\r\nbis wir die Belohnungen verteilen."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "ただいま魔物と交戦した方々の戦果を\r\n集計しています",
+      "source_en": "We are currently calculating the results of those\r\nwho have fought monsters just now.",
+      "text": "Wir werten gerade aus,\r\nwie sich alle im Kampf gegen das Monster geschlagen haben."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "発表まで今しばらくお待ちください",
+      "source_en": "Please wait a little longer until the\r\nannouncement.",
+      "text": "Hab bitte noch etwas Geduld,\r\nbis die Ergebnisse bekannt gegeben werden."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

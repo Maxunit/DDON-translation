@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90030202_00.gmd",
+  "arc_path": "\\quest\\q90030202.arc",
+  "entries": [
+    {
+      "key": "q90030202_00_108",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "ジフール砦でのウォーミッションは終了した\r\n各々の戦果については追って報告があるので\r\nそれまでは待機とする",
+      "source_en": "The war missions at Jifule Fortress have concluded.\r\nWe will provide reports on the achievements\r\nof each battle shortly.\r\nUntil then, please remain on standby.",
+      "text": "Die Kriegsmission in der Festung Jifule ist beendet.\r\nWir geben die Ergebnisse\r\nfür jeden Einzelnen in Kürze bekannt.\r\nHaltet euch bis dahin bereit."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,32 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90000202_00.gmd",
+  "arc_path": "\\quest\\q90000202.arc",
+  "entries": [
+    {
+      "key": "q90000202_00_45",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "洋撃船の仕上がりは万端！\r\n≪魔物のるつぼ≫への侵攻作戦は意気揚々と展開中だ！\r\n爆炎の大竜、エルダードラゴンを仕留められるかは\r\nおまえたちの腕と運しだい！\r\n値千金、一攫千金の戦いに持てる戦技の全てをぶつけよ！",
+      "source_en": "The finishing touches on the Western assault ship\r\nare perfect!\r\nThe invasion operation of the \"Crucible of\r\nDemons\" is progressing with high spirits!\r\nWhether we can bring down the mighty Elder\r\nDragon, a raging inferno, depends on your skills\r\nand luck!\r\nUnleash all the battle techniques that can lead\r\nto a fortune, invaluable in this battle!",
+      "text": "Das Expeditionsschiff ist bereit!\r\nMit voller Kraft beginnt der Vorstoß\r\nin den Schmelztiegel der Monster!\r\nOb ihr den mächtigen Altdrachen\r\nzur Strecke bringt, hängt von eurem Können\r\nund eurem Glück ab.\r\nSetzt alles ein,\r\nwas ihr gelernt habt!\r\nIn diesem Kampf könnt ihr reich belohnt werden!"
+    },
+    {
+      "key": "q90000202_00_45",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "魔物のるつぼ《最終報酬》",
+      "source_en": "The Crucible of Demons (Final Reward)",
+      "text": "Schmelztiegel der Monster (Abschlussbelohnung)"
+    },
+    {
+      "key": "q90000202_00_45",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "命知らずども！白竜神殿港洞に集まれ！\r\n爆炎の大竜、エルダードラゴンを仕留めるため\r\n≪魔物のるつぼ≫へ飛び込め！",
+      "source_en": "Attention, Daredevils! Gather at the Cave Harbor\r\nof the White Dragon Temple! We must defeat the\r\nElder Dragon of Flames. Dive into the Crucible of\r\nDemons!",
+      "text": "Ihr Wagemutigen, sammelt euch im Höhlenhafen\r\ndes Tempels des Weißen Drachen! Wir müssen\r\nden feuerspeienden Altdrachen erlegen.\r\nStürzt euch in den Schmelztiegel der Monster!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90030303_00.gmd",
+  "arc_path": "\\quest\\q90030303.arc",
+  "entries": [
+    {
+      "key": "q90030303_00_116",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "メガドにいるアッバスより、各個人の戦果に\r\n伴う報酬を受け取ることが出来る\r\n特別な報酬には受け取るための条件や上限数が\r\nあるため、貢献具合に応じた品物を選ぶように",
+      "source_en": "From Abbas in Megado, you can receive rewards\r\nthat correspond to individual achievements.\r\nThere are conditions and limits to receiving\r\nspecial rewards, so choose items\r\nbased on your level of contribution.",
+      "text": "Bei Abbas in Megado kannst du\r\ndie Belohnung für deinen Einsatz abholen.\r\nBesondere Belohnungen sind begrenzt\r\nund an bestimmte Bedingungen geknüpft.\r\nDein Einsatz entscheidet, was du wählen kannst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

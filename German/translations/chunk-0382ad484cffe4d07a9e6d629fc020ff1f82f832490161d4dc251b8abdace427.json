@@ -1,0 +1,24 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90020401_00.gmd",
+  "arc_path": "\\quest\\q90020401.arc",
+  "entries": [
+    {
+      "key": "q90020401_00_95",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "フィンダムの未来を賭けた精霊竜との戦いは\r\n芯なる樹の樹内で起きた出来事のひとつとして\r\nこの聖なる不思議な場所に記憶された\r\n再びその戦いの中に身を投じ、覚者として\r\n壮絶な試練を乗り越えよ",
+      "source_en": "The battle with the Spirit Dragon, which\r\ndetermined the future of Phindym, is one of the\r\nevents that took place within the Core Tree.\r\nThis holy and mysterious place holds the memory\r\nof that battle.\r\nOnce again, immerse yourself in that battle as an\r\nArisen.\r\nOvercome the fierce trials that await you.",
+      "text": "Der Kampf gegen den Geisterdrachen fand\r\nim Inneren des Herzbaums statt.\r\nDamals stand die Zukunft Phindyms auf dem Spiel.\r\nDieser heilige, geheimnisvolle Ort\r\nhat die Erinnerung an den Kampf bewahrt.\r\nStellt euch als Erweckte\r\nnoch einmal demselben Kampf.\r\nBesteht die schwere Prüfung, die euch erwartet."
+    },
+    {
+      "key": "q90020401_00_95",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "呼び覚まされし竜《最終報酬》",
+      "source_en": "The Dragon Awakened (Final Reward)",
+      "text": "Der erwachte Drache (Abschlussbelohnung)"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

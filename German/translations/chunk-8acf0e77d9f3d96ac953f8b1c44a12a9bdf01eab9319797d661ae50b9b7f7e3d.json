@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q90020303.gmd",
+  "arc_path": "\\quest\\q90020303.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "《殲滅区　左方》に魔物が現れた！",
+      "source_en": "An enemy has appeared in the Extermination Area,\r\non the right side!",
+      "text": "Im linken Kampfbereich\r\nist ein Monster aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "パーティメンバーが死亡状態になったため\r\n《宝物庫》への道が１つになりました",
+      "source_en": "Due to the death of a party member, the path\r\nleading to the \"Treasure Vault\" has narrowed to a\r\nsingle route.",
+      "text": "Ein Gruppenmitglied ist gefallen.\r\nDarum führt jetzt nur noch\r\nein Weg in die Schatzkammer."
+    },
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "魔物の増援が止まったようだ――",
+      "source_en": "It seems that the enemy reinforcements have\r\nstopped.",
+      "text": "Die Monster scheinen keine\r\nVerstärkung mehr zu bekommen …"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "どこかで泉の湧く音がする――",
+      "source_en": "Somewhere, the sound of a spring bubbling can be\r\nheard.",
+      "text": "Irgendwo hört ihr eine\r\nQuelle sprudeln …"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "《殲滅区　右方》から《宝物庫》へ\r\n続く道が開けた――",
+      "source_en": "The path from the Extermination Area, Left Side,\r\nto the Treasure Vault has opened.",
+      "text": "Vom rechten Kampfbereich aus\r\nist der Weg in die Schatzkammer frei."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "《殲滅区　左方》から《宝物庫》へ\r\n続く道が開けた――",
+      "source_en": "The path from the Extermination Area, Right Side,\r\nto the Treasure Vault has opened.",
+      "text": "Vom linken Kampfbereich aus\r\nist der Weg in die Schatzkammer frei."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "侵食魔の素早い殲滅に成功――！",
+      "source_en": "We have achieved a swift annihilation of the\r\ncorrupted!",
+      "text": "Die befallenen Monster\r\nsind rasch besiegt worden!"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

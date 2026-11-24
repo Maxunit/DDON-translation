@@ -1,0 +1,16 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q90030203_00.gmd",
+  "arc_path": "\\quest\\q90030203.arc",
+  "entries": [
+    {
+      "key": "q90030203_00_109",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "展望城にいるウォルトより、各個人の戦果に\r\n伴う報酬を受け取ることが出来る\r\n特別な報酬には受け取るための条件や上限数が\r\nあるため、貢献具合に応じた品物を選ぶように",
+      "source_en": "From Walt at Lookout Castle,\r\nyou can receive rewards corresponding\r\nto individual achievements.\r\nThere are conditions and limits\r\nto receiving special rewards,\r\nso choose items based\r\non your level of contribution.",
+      "text": "Bei Walt auf Burg Weitblick\r\nkannst du die Belohnung\r\nfür deinen Einsatz\r\nabholen. Besondere Belohnungen\r\nsind begrenzt und an bestimmte\r\nBedingungen geknüpft.\r\nDein Einsatz entscheidet, was du wählen kannst."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

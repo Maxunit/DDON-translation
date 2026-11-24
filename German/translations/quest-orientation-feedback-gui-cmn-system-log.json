@@ -23,7 +23,7 @@
       "read_index": "45",
       "source_jp": "<NAME QUEST>に異常事態が発生しました",
       "source_en": "<NAME QUEST> has updated.",
-      "text": "„<NAME QUEST>“: Ein ungewöhnliches Ereignis ist eingetreten."
+      "text": "\"<NAME QUEST>\": Ein ungewöhnliches Ereignis ist eingetreten."
     },
     {
       "key": "syslog_quest_order_wait",
@@ -339,7 +339,7 @@
       "read_index": "261",
       "source_jp": "＜<NAME QUEST>＞の受注条件を満たしていないため、アシスト状態で受注しました",
       "source_en": "You do not meet the conditions of\r\n\"<NAME QUEST>\", so it was\r\naccepted in assist mode.",
-      "text": "„<NAME QUEST>“ als Helfer angenommen."
+      "text": "\"<NAME QUEST>\" als Helfer angenommen."
     },
     {
       "key": "syslog_boardquest_sp_allclear_log",

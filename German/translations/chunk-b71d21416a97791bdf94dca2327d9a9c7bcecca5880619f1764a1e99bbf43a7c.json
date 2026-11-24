@@ -1,0 +1,64 @@
+{
+  "gmd_path": "ui\\00_message\\quest\\q90000203.gmd",
+  "arc_path": "\\quest\\q90000203.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "今は《竜の巣》での戦果の確認中だ！\r\n働いた分の報酬は出るから、そう焦るな",
+      "source_en": "I am currently verifying the results\r\nof our battle at the Dragon's Nest!\r\nDon't worry, you will receive your rewards for\r\nthe work you've done, so there's no need to rush.",
+      "text": "Ich prüfe gerade, wie wir uns\r\nim Drachennest geschlagen haben!\r\nDu bekommst schon deinen Lohn für die Mühe.\r\nHab noch etwas Geduld."
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《竜の巣》で大きな戦果をあげた人がいるようです",
+      "source_en": "It seems that someone has achieved great results\r\nat the Dragon's Nest.",
+      "text": "Jemand soll sich bei den Kämpfen\r\nim Drachennest besonders hervorgetan haben."
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "もしかして、覚者さまが大活躍されたんですか？\r\nゼルキンさんからの発表が待ち遠しいですね",
+      "source_en": "Could it be that the Arisen\r\nhas made a great contribution?\r\nI can't wait for Zerkin's announcement.",
+      "text": "Warst das etwa du?\r\nIch bin schon gespannt,\r\nwas Zerkin verkündet."
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "船長が《竜の巣》で戦果をあげたものを確認中だ",
+      "source_en": "The captain is currently confirming\r\nthe achievements at the Dragon's Nest.",
+      "text": "Der Kapitän schaut gerade nach,\r\nwer sich im Drachennest besonders hervorgetan hat."
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "《竜の巣》なんざぁ俺は行きたくないが\r\nあそこでく繰り広げられた冒険譚を聞くのが\r\n楽しみなんだよ",
+      "source_en": "I don't want to go to the \"Dragon's Nest\",\r\nbut I'm looking forward to hearing about the\r\nadventures that took place there.",
+      "text": "Ins Drachennest kriegen mich keine zehn Pferde.\r\nAber ich freu mich schon auf die Geschichten\r\nderer, die dort auf Abenteuer aus waren."
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "今回もまた船が派手に壊れちゃったなぁ\r\nさっそく修理に必要な見積もりを出さなくちゃ",
+      "source_en": "Once again,\r\nthe ship has been spectacularly destroyed.\r\nI must promptly request an estimate for repairs.",
+      "text": "Da hat’s unser Schiff wieder mal\r\nordentlich erwischt. Ich muss gleich\r\nausrechnen, was die Reparatur kostet."
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "船が無事に帰ってきてうれしいです\r\nいったいどんな冒険が繰り広げられたのでしょうか？",
+      "source_en": "I am glad the ship returned safely.\r\nI wonder what kind of adventure unfolded there?",
+      "text": "Ich bin froh, dass das Schiff heil zurückgekommen ist.\r\nWas die Leute dort wohl erlebt haben?"
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

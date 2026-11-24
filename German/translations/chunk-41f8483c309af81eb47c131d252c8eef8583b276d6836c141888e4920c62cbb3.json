@@ -1,0 +1,48 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50301000_00.gmd",
+  "arc_path": "\\quest\\q50301000.arc",
+  "entries": [
+    {
+      "key": "q50301000_00_69",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "竜の翼たる歴戦の覚者たちよ\r\n《魔軍戦車駐留地》に現れた悪しき竜軍の大隊を\r\n迅速に退けよ",
+      "source_en": "O battle-hardened Arisen, Wings of thy Dragon.\r\nSwiftly repel the battalion of the Evil Dragon Army\r\nat the Demon Army War Machine Garrison.",
+      "text": "Erfahrene Erweckte, ihr Schwingen des Drachen!\r\nBeim Lager der Kampfwagen ist ein Bataillon des Bösen Drachen aufgetaucht.\r\nSchlagt es so schnell wie möglich zurück!"
+    },
+    {
+      "key": "q50301000_00_2992",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "先遣隊カトブレパスを討伐せよ",
+      "source_en": "Defeat the Vanguard Catoblepas",
+      "text": "Besiegt Catoblepas in der Vorhut."
+    },
+    {
+      "key": "q50301000_00_2993",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "本隊の魔物を素早く討伐し、増援を食い止めよ",
+      "source_en": "Defeat the foe(s) in the main group quickly and stop the reinforcements",
+      "text": "Besiegt die Monster der Hauptstreitmacht schnell, damit keine Verstärkung hinzukommt."
+    },
+    {
+      "key": "q50301000_00_3121",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "新たに現れた魔軍甲兵を討伐し、魔物の脅威を抑えよ",
+      "source_en": "Defeat the newly emerged demon army armored soldiers and suppress the threat",
+      "text": "Besiegt die neu aufgetauchten gepanzerten Soldaten der Dämonenarmee."
+    },
+    {
+      "key": "q50301000_00_3122",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "現れた増援部隊と共に本隊を討伐せよ",
+      "source_en": "Defeat the main unit with the reinforcements that have appeared",
+      "text": "Besiegt die Hauptstreitmacht zusammen mit der eingetroffenen Verstärkung."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

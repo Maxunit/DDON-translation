@@ -1,0 +1,56 @@
+{
+  "gmd_path": "ui\\00_message\\quest_info\\q50300007_00.gmd",
+  "arc_path": "\\quest\\q50300007.arc",
+  "entries": [
+    {
+      "key": "q50300007_00_84",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "《ボルド大坑道》に腐死竜の召喚を目論む\r\n魔物の軍勢が集まってきている――\r\nどうやらすでに召喚の儀を終えてしまった後のようだ\r\n脅威はそればかりではなく、腐死竜の召喚をした\r\n魔物たちは更なる軍勢の拡大を狙っているらしい\r\n各召喚士群を全滅させ、最奥に潜む腐死竜へ挑め",
+      "source_en": "Planning to summon the Rotting Dragon in the\r\nVolden Large Tunnels,\r\na horde of enemies has gathered—\r\nIt seems they have already completed the\r\nsummoning ritual.\r\nBut the threat doesn't stop there; they've\r\nalready succeeded in summoning the Rotting Dragon.\r\nThe enemies seem to be aiming to expand their\r\nforces even further.\r\nWipe out all groups of summoners and challenge\r\nthe Rotting Dragon lurking at the deepest part.",
+      "text": "In den Volden-Stollen haben sich Monster versammelt,\r\num einen Fluchdrachen herbeizurufen.\r\nOffenbar haben sie das Ritual bereits abgeschlossen.\r\nDer Fluchdrache ist schon erschienen,\r\ndoch die Gefahr ist damit noch lange nicht vorüber.\r\nDie Monster wollen offenbar\r\nnoch weitere Truppen herbeirufen.\r\nBesiegt alle Gruppen der Beschwörer,\r\nbevor sie sich verstärken.\r\nStellt euch dann dem Fluchdrachen,\r\nder tief im Inneren lauert."
+    },
+    {
+      "key": "q50300007_00_3067",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "召喚士の軍勢を全滅させ、勢力拡大を阻止せよ（残り４箇所）",
+      "source_en": "Defeat the Summoner's forces and prevent their expansion (4 left)",
+      "text": "Besiegt die Truppen der Beschwörer und verhindert, dass sie Verstärkung bekommen (noch 4 Orte)."
+    },
+    {
+      "key": "q50300007_00_3068",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "召喚士の軍勢を全滅させ、勢力拡大を阻止せよ（残り３箇所）",
+      "source_en": "Defeat the Summoner's forces and prevent their expansion (3 left)",
+      "text": "Besiegt die Truppen der Beschwörer und verhindert, dass sie Verstärkung bekommen (noch 3 Orte)."
+    },
+    {
+      "key": "q50300007_00_3069",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "召喚士の軍勢を全滅させ、勢力拡大を阻止せよ（残り２箇所）",
+      "source_en": "Defeat the Summoner's forces and prevent their expansion (2 left)",
+      "text": "Besiegt die Truppen der Beschwörer und verhindert, dass sie Verstärkung bekommen (noch 2 Orte)."
+    },
+    {
+      "key": "q50300007_00_3070",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "召喚士の軍勢を全滅させ、勢力拡大を阻止せよ（残り１箇所）",
+      "source_en": "Defeat the Summoner's forces and prevent their expansion (1 left)",
+      "text": "Besiegt die Truppen der Beschwörer und verhindert, dass sie Verstärkung bekommen (noch 1 Ort)."
+    },
+    {
+      "key": "q50300007_00_3071",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "カースドラゴンを討伐せよ",
+      "source_en": "Defeat the Cursed Dragon",
+      "text": "Besiegt den Fluchdrachen."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}

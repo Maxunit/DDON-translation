@@ -1,0 +1,368 @@
+{
+  "gmd_path": "ui\\00_message\\examine_message\\quest\\quest_examine_q90030304.gmd",
+  "arc_path": "\\quest\\q90030304.arc",
+  "entries": [
+    {
+      "key": "",
+      "read_index": "0",
+      "tag_source": "source_en",
+      "source_jp": "エリア１を征圧した！",
+      "source_en": "Conquered Area 1!",
+      "text": "Bereich 1 eingenommen!"
+    },
+    {
+      "key": "",
+      "read_index": "1",
+      "tag_source": "source_en",
+      "source_jp": "エリア２を征圧した！",
+      "source_en": "Conquered Area 2!",
+      "text": "Bereich 2 eingenommen!"
+    },
+    {
+      "key": "",
+      "read_index": "2",
+      "tag_source": "source_en",
+      "source_jp": "エリア３を征圧した！",
+      "source_en": "Conquered Area 3!",
+      "text": "Bereich 3 eingenommen!"
+    },
+    {
+      "key": "",
+      "read_index": "3",
+      "tag_source": "source_en",
+      "source_jp": "エリア４を征圧した！",
+      "source_en": "Conquered Area 4!",
+      "text": "Bereich 4 eingenommen!"
+    },
+    {
+      "key": "",
+      "read_index": "4",
+      "tag_source": "source_en",
+      "source_jp": "エリア５を征圧した！",
+      "source_en": "Conquered Area 5!",
+      "text": "Bereich 5 eingenommen!"
+    },
+    {
+      "key": "",
+      "read_index": "5",
+      "tag_source": "source_en",
+      "source_jp": "エリア６を征圧した！",
+      "source_en": "Conquered Area 6!",
+      "text": "Bereich 6 eingenommen!"
+    },
+    {
+      "key": "",
+      "read_index": "6",
+      "tag_source": "source_en",
+      "source_jp": "エリア７を征圧した！",
+      "source_en": "Conquered Area 7!",
+      "text": "Bereich 7 eingenommen!"
+    },
+    {
+      "key": "",
+      "read_index": "7",
+      "tag_source": "source_en",
+      "source_jp": "征圧エリアに敵が出現した！",
+      "source_en": "Enemies have appeared in the conquered area!",
+      "text": "Im eingenommenen Bereich sind Gegner aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "8",
+      "tag_source": "source_en",
+      "source_jp": "フラッグブレイカーが出現した――！",
+      "source_en": "Flag Breaker has appeared!",
+      "text": "Der Bannerbrecher ist aufgetaucht!"
+    },
+    {
+      "key": "",
+      "read_index": "9",
+      "tag_source": "source_en",
+      "source_jp": "フラッグブレイカーが別エリアへ移動した――",
+      "source_en": "Flag Breaker has moved to a different area!",
+      "text": "Der Bannerbrecher ist in einen anderen Bereich gewechselt!"
+    },
+    {
+      "key": "",
+      "read_index": "10",
+      "tag_source": "source_en",
+      "source_jp": "フラッグブレイカーの討伐に成功！",
+      "source_en": "Successfully defeated the Flag Breaker!",
+      "text": "Der Bannerbrecher ist besiegt!"
+    },
+    {
+      "key": "",
+      "read_index": "11",
+      "tag_source": "source_en",
+      "source_jp": "フラッグブレイカーはどこかへ消えた――",
+      "source_en": "The Flag Breaker has disappeared somewhere...",
+      "text": "Der Bannerbrecher ist verschwunden …"
+    },
+    {
+      "key": "",
+      "read_index": "12",
+      "tag_source": "source_en",
+      "source_jp": "現れた戦甲敵をすべて討伐した！\r\n戦況ゲージが更に回復しました",
+      "source_en": "Successfully defeated all the War-Ready enemies!\r\nWar status gauge has further recovered.",
+      "text": "Alle Gegner in Kriegsrüstung sind besiegt!\r\nDer Balken für die Schlachtlage hat sich weiter erholt."
+    },
+    {
+      "key": "",
+      "read_index": "13",
+      "tag_source": "source_en",
+      "source_jp": "戦甲敵はどこかへ消えた――",
+      "source_en": "The War-Ready enemies have disappeared...",
+      "text": "Die Gegner in Kriegsrüstung sind verschwunden …"
+    },
+    {
+      "key": "",
+      "read_index": "14",
+      "tag_source": "source_en",
+      "source_jp": "エリア１の戦甲敵を討伐した！",
+      "source_en": "Defeated the War-Ready enemies in Area 1!",
+      "text": "Die Gegner in Kriegsrüstung in Bereich 1 sind besiegt!"
+    },
+    {
+      "key": "",
+      "read_index": "15",
+      "tag_source": "source_en",
+      "source_jp": "エリア２の戦甲敵を討伐した！",
+      "source_en": "Defeated the War-Ready enemies of Area 2!",
+      "text": "Die Gegner in Kriegsrüstung in Bereich 2 sind besiegt!"
+    },
+    {
+      "key": "",
+      "read_index": "16",
+      "tag_source": "source_en",
+      "source_jp": "エリア３の戦甲敵を討伐した！",
+      "source_en": "Defeated the War-Ready enemies of Area 3!",
+      "text": "Die Gegner in Kriegsrüstung in Bereich 3 sind besiegt!"
+    },
+    {
+      "key": "",
+      "read_index": "17",
+      "tag_source": "source_en",
+      "source_jp": "エリア４の戦甲敵を討伐した！",
+      "source_en": "Defeated the War-Ready enemies of Area 4!",
+      "text": "Die Gegner in Kriegsrüstung in Bereich 4 sind besiegt!"
+    },
+    {
+      "key": "",
+      "read_index": "18",
+      "tag_source": "source_en",
+      "source_jp": "エリア５の戦甲敵を討伐した！",
+      "source_en": "Defeated the War-Ready enemies of Area 5!",
+      "text": "Die Gegner in Kriegsrüstung in Bereich 5 sind besiegt!"
+    },
+    {
+      "key": "",
+      "read_index": "19",
+      "tag_source": "source_en",
+      "source_jp": "エリア６の戦甲敵を討伐した！",
+      "source_en": "Defeated the War-Ready enemies of Area 6!",
+      "text": "Die Gegner in Kriegsrüstung in Bereich 6 sind besiegt!"
+    },
+    {
+      "key": "",
+      "read_index": "20",
+      "tag_source": "source_en",
+      "source_jp": "呪われた環境で素早いエリア征圧に成功！\r\n戦況ゲージが回復し、解呪の泉が出現しました",
+      "source_en": "Quickly conquer the area in a cursed environment!\r\nThe War status gauge has been restored,\r\nand the Fountain of Undoing has appeared!",
+      "text": "Das verfluchte Gebiet wurde rasch eingenommen!\r\nDer Balken für die Schlachtlage hat sich erholt.\r\nEine Quelle, die Flüche aufhebt, ist erschienen!"
+    },
+    {
+      "key": "",
+      "read_index": "21",
+      "tag_source": "source_en",
+      "source_jp": "エリア１が敵に攻め落とされた――",
+      "source_en": "Area 1 has been captured by the enemy...",
+      "text": "Der Feind hat Bereich 1 eingenommen …"
+    },
+    {
+      "key": "",
+      "read_index": "22",
+      "tag_source": "source_en",
+      "source_jp": "エリア２が敵に攻め落とされた――",
+      "source_en": "Area 2 has been captured by the enemy...",
+      "text": "Der Feind hat Bereich 2 eingenommen …"
+    },
+    {
+      "key": "",
+      "read_index": "23",
+      "tag_source": "source_en",
+      "source_jp": "エリア３が敵に攻め落とされた――",
+      "source_en": "Area 3 has been captured by the enemy...",
+      "text": "Der Feind hat Bereich 3 eingenommen …"
+    },
+    {
+      "key": "",
+      "read_index": "24",
+      "tag_source": "source_en",
+      "source_jp": "エリア４が敵に攻め落とされた――",
+      "source_en": "Area 4 has been captured by the enemy...",
+      "text": "Der Feind hat Bereich 4 eingenommen …"
+    },
+    {
+      "key": "",
+      "read_index": "25",
+      "tag_source": "source_en",
+      "source_jp": "エリア５が敵に攻め落とされた――",
+      "source_en": "Area 5 has been captured by the enemy...",
+      "text": "Der Feind hat Bereich 5 eingenommen …"
+    },
+    {
+      "key": "",
+      "read_index": "26",
+      "tag_source": "source_en",
+      "source_jp": "エリア６が敵に攻め落とされた――",
+      "source_en": "Area 6 has been captured by the enemy...",
+      "text": "Der Feind hat Bereich 6 eingenommen …"
+    },
+    {
+      "key": "",
+      "read_index": "27",
+      "tag_source": "source_en",
+      "source_jp": "エリア７が敵に攻め落とされた――",
+      "source_en": "Area 7 has been captured by the enemy...",
+      "text": "Der Feind hat Bereich 7 eingenommen …"
+    },
+    {
+      "key": "",
+      "read_index": "28",
+      "tag_source": "source_en",
+      "source_jp": "呪敵が征圧目標エリアに出現――\r\n状態異常攻撃に警戒せよ",
+      "source_en": "The Cursed Enemy has appeared\r\nin the target conquest area...!\r\nBeware of status abnormality attacks!",
+      "text": "In dem Bereich, den ihr einnehmen sollt,\r\nist ein verfluchter Gegner aufgetaucht!\r\nHütet euch vor Angriffen, die Statuseffekte verursachen!"
+    },
+    {
+      "key": "",
+      "read_index": "29",
+      "tag_source": "source_en",
+      "source_jp": "呪敵はどこかへ消えた――",
+      "source_en": "The Cursed Enemy has disappeared somewhere...",
+      "text": "Der verfluchte Gegner ist verschwunden …"
+    },
+    {
+      "key": "",
+      "read_index": "30",
+      "tag_source": "source_en",
+      "source_jp": "征圧エリアに敵が出現――\r\n自陣を守れ！",
+      "source_en": "Enemy has appeared in the conquest area...\r\nDefend our base!",
+      "text": "Im eingenommenen Bereich sind Gegner aufgetaucht!\r\nVerteidigt unseren Stützpunkt!"
+    },
+    {
+      "key": "",
+      "read_index": "31",
+      "tag_source": "source_en",
+      "source_jp": "自陣を狙う敵はどこかへ消えた――",
+      "source_en": "The enemies targeting our base\r\nhave disappeared somewhere...",
+      "text": "Die Gegner, die es auf unseren Stützpunkt\r\nabgesehen hatten, sind verschwunden …"
+    },
+    {
+      "key": "",
+      "read_index": "32",
+      "tag_source": "source_en",
+      "source_jp": "自陣を狙う敵はどこかへ消えた――",
+      "source_en": "The enemies targeting our base\r\nhave disappeared somewhere...",
+      "text": "Die Gegner, die es auf unseren Stützpunkt\r\nabgesehen hatten, sind verschwunden …"
+    },
+    {
+      "key": "",
+      "read_index": "33",
+      "tag_source": "source_en",
+      "source_jp": "エリア１の防衛に成功！",
+      "source_en": "Successfully defended Area 1!",
+      "text": "Bereich 1 erfolgreich verteidigt!"
+    },
+    {
+      "key": "",
+      "read_index": "34",
+      "tag_source": "source_en",
+      "source_jp": "エリア２の防衛に成功！",
+      "source_en": "Successfully defended Area 2!",
+      "text": "Bereich 2 erfolgreich verteidigt!"
+    },
+    {
+      "key": "",
+      "read_index": "35",
+      "tag_source": "source_en",
+      "source_jp": "エリア３の防衛に成功！",
+      "source_en": "Successfully defended Area 3!",
+      "text": "Bereich 3 erfolgreich verteidigt!"
+    },
+    {
+      "key": "",
+      "read_index": "36",
+      "tag_source": "source_en",
+      "source_jp": "エリア４の防衛に成功！",
+      "source_en": "Successfully defended Area 4!",
+      "text": "Bereich 4 erfolgreich verteidigt!"
+    },
+    {
+      "key": "",
+      "read_index": "37",
+      "tag_source": "source_en",
+      "source_jp": "エリア５の防衛に成功！",
+      "source_en": "Successfully defended Area 5!",
+      "text": "Bereich 5 erfolgreich verteidigt!"
+    },
+    {
+      "key": "",
+      "read_index": "38",
+      "tag_source": "source_en",
+      "source_jp": "エリア６の防衛に成功！",
+      "source_en": "Successfully defended Area 6!",
+      "text": "Bereich 6 erfolgreich verteidigt!"
+    },
+    {
+      "key": "",
+      "read_index": "39",
+      "tag_source": "source_en",
+      "source_jp": "征圧エリアに更に敵が出現――\r\n自軍旗にダメージが入りました",
+      "source_en": "More enemies have appeared in the conquest area!\r\nOur flag has taken damage.",
+      "text": "Im eingenommenen Bereich sind weitere Gegner aufgetaucht!\r\nUnser Banner wurde beschädigt."
+    },
+    {
+      "key": "",
+      "read_index": "40",
+      "tag_source": "source_en",
+      "source_jp": "旗の修復",
+      "source_en": "Flag Mending",
+      "text": "Banner ausbessern"
+    },
+    {
+      "key": "",
+      "read_index": "41",
+      "tag_source": "source_en",
+      "source_jp": "闇の将が現れた！\r\n至急メンバーを集めて突撃せよ！",
+      "source_en": "The Shadow Master has appeared!\r\nGather your members quickly and launch an assault!",
+      "text": "Der Schattengeneral ist aufgetaucht!\r\nSammelt euch rasch und greift an!"
+    },
+    {
+      "key": "",
+      "read_index": "42",
+      "tag_source": "source_en",
+      "source_jp": "闇の将が逃げ出しそうだ――",
+      "source_en": "The Shadow Master is attempting to escape...",
+      "text": "Der Schattengeneral ist im Begriff zu fliehen …"
+    },
+    {
+      "key": "",
+      "read_index": "43",
+      "tag_source": "source_en",
+      "source_jp": "闇の将が姿を消した――",
+      "source_en": "The Shadow Master has disappeared...",
+      "text": "Der Schattengeneral ist verschwunden …"
+    },
+    {
+      "key": "",
+      "read_index": "44",
+      "tag_source": "source_en",
+      "source_jp": "６０秒後にリザルトへ移行します",
+      "source_en": "You will be transferred to results in 60 seconds",
+      "text": "Die Ergebnisse werden in 60 Sekunden angezeigt."
+    }
+  ],
+  "schema_version": 1,
+  "scope": "DDON Chunk Manager"
+}
